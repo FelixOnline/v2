@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031932-ams111-vlcsnap-2012-03-01-04h52m59s90.jpg"
-image_caption: >
-  Place your bets everyone, place your bets! Who'll win this fight?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031932-ams111-vlcsnap-2012-03-01-04h52m59s90.jpg"
+image_caption: ""
 ---
 
 __[Avengers Assemble](http://www.imdb.com/title/tt0848228/)__

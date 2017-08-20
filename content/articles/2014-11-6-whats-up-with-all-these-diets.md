@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062109-snb11-0.jpg"
-image_caption: >
-  The Food Editor's diet of choice has got to be the seafood diet: she sees food and eats it
-image_attribution: "Raw Kristina, Health Me Up"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062109-snb11-0.jpg"
+image_caption: ""
 ---
 
 Νowadays there seems to be a host of diets that we have heard of but know nothing about. And yet, people still seem to think that these diets are good for their health. But do we really know what we are getting ourselves into?

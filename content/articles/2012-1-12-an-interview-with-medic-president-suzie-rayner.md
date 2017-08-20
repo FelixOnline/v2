@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
-image_caption: >
-  Last year's Daily Mail article
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
+image_caption: ""
 ---
 
 __Felix: How do you think the medical school has changed since this time last year (with respect to the Daily Mail article highlighting the binge-drinking culture of ICSM)?__

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502181549-ps3110-cash.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502181549-ps3110-cash.png"
+image_caption: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

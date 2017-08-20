@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
-image_caption: >
-  Tess Munster, one of the world's leading plus-size models
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
+image_caption: ""
 ---
 
 It’s safe to say that the world of plus-size fashion is rapidly accelerating at an unprecedented rate. It’s not difficult to see why. Over the last few decades the average size of women (and men) has increased, and regardless of the reasons why they’re getting larger, people still need clothes.

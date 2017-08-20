@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Feeling lonely? The impending Valentine’s Day getting you down? We all know that it’s hard to meet people at Imperial, so Aunt Annie wants to make it a bit easier for you. If you’re looking for a special someone, missed a connection, or want to let someone know how you feel, send a message to [catnip.felix@imperial.ac.uk](mailto:catnip.felix@imperial.ac.uk), and it’ll be featured in this week’s paper.

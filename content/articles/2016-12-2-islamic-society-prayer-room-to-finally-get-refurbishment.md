@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Plans to restore the Brothers’ Prayer Room to an acceptable condition are underway after the issue was brought to the attention of DP Finance and DP Clubs and Societies at the beginning of term. The prayer room is managed by IC’s Islamic Society, and located at 9B Princes Gardens.

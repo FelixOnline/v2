@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
+image_caption: ""
 ---
 
 __What is Unseen Imp____erial?__

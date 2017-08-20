@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061001-felix-fuck-buttons.jpg"
-image_caption: >
-
-image_attribution: "Christopher Richardson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061001-felix-fuck-buttons.jpg"
+image_caption: ""
 ---
 
 _[HMV Forum](http://venues.meanfiddler.com/the-forum/home), Kentish Town

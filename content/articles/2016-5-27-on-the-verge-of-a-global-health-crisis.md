@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271054-felix-17239166460_c05ee29b0b_o.jpg"
-image_caption: >
-  Welcome Images
-image_attribution: "Thousands of glass fermentation vessels like this one were used in Glaxo (now GlaxoSmithKline) laboratories to produce penicillin. "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271054-felix-17239166460_c05ee29b0b_o.jpg"
+image_caption: ""
 ---
 
 We do desperately need new antibiotics,” said Dr. Andrew Edwards, a lecturer at Imperial College London and group leader at the Medical Research Centre for Molecular Bacteriology and Infection. “What we have seen recently is the emergence of some strains [genetic variants of bacterial species] resistant to all of our different types of antibiotics,” he added.

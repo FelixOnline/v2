@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
+image_caption: ""
 ---
 
 Towards the end of first term, an interesting email arrived in our inbox from God records, a small “Austrian label for new and experimental music”, promoting a __Boris Hegenbart__ release which includes collaborations with 19 artists, such as__ Oren Ambarchi__ and __Fred Frith__. When the promo arrived however, I found another release they had sent with it to be equally grabbing__: Rdeča Raketa__’s _Wir Werden_.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
-image_caption: >
-
-image_attribution: "Warpaint"
-image_attribution_link: "http://www.warpaintwarpaint.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
+image_caption: ""
 ---
 
 I knew these girls were good. I knew they were hyped. I knew they could put on a great live performance. But still, I wasn’t expecting a sold out [Scala](http://www.scala-london.co.uk/scala/) only two days after they released their first album!

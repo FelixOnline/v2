@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101400-felix-Cocktail-Bar_(Kleines_Phi)_in_Hamburg_3.jpg"
-image_caption: >
-  Treat this as the pharmacy for your woes...
-image_attribution: "Achim Schleuning"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101400-felix-Cocktail-Bar_(Kleines_Phi)_in_Hamburg_3.jpg"
+image_caption: ""
 ---
 
 This will start as usual, with a funny story. I wanted to write about some lamb ribs - see, I kind of have a thing with ribs, but then the subject changed to comfort food (I am stating this in case you didn’t notice already) and because East Europeans don’t do comfort foods, they do alcohol, here I am.

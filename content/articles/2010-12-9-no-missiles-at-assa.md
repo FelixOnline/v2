@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Assa is a humble little establishment in the Little Korea of Soho, a short stretch of shops with a conspicuously significant numbers of Korean eateries. The best sign of culinary authenticity is the presence of actual Koreans in a Korean restaurant and on this front Assa did amazingly well. The place was bustling with Koreans and it was reassuring to see them tucking into bubbling pots of kimchi stews and hearing the sounds of the dolsot bibimbap sizzling away. Seriously though, do you see the Japanese in Yo-Sushi, or Italians in Pizza Hut?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051256-nn1209-1-020.jpg"
-image_caption: >
-  National papers would have you think these could soon be a rarity, but not is all as it seems...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051256-nn1209-1-020.jpg"
+image_caption: ""
 ---
 
 'Only 100 adult cod in North Sea’; ‘Just 100 cod left in North Sea’; ‘Just 100 mature fish in North Sea’ are but three of the headlines published by The Sunday Times, The Telegraph Online, and The Sun respectively, a little over two weeks ago. One is not required to be a fisherman or marine conservationist to stop and question such bold headlines, variations of which have been bandied about by several American and Canadian news outlets. Whilst the population of Northern White Rhinoceri can be written with a single digit, are North Sea cod really on the brink of extinction? How did these newspapers come up with such a figure – and was there any truth behind their extraordinary claims?

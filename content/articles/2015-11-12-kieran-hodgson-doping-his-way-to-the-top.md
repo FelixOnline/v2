@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In 2003 a young, frail lad from West Yorkshire had only one idol, the great Lance Armstrong. Inspired by the serene, omnipotent cyclist come lying bastard, Kieran Hodgson is taking the world by storm with his completely honest, unadulterated, dope-free journey. Fun and easy-going, Hodgson’s set is smooth and simple, effortlessly offering his joyous accounts of cycling’s favourite bad guy.

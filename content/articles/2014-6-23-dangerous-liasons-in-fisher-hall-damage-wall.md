@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231138-jal08-1581_news_mould.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231138-jal08-1581_news_mould.jpg"
+image_caption: ""
 ---
 
 __[Tabloid Special]__

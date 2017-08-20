@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031944-nm1010-rabbbbbi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031944-nm1010-rabbbbbi.jpg"
+image_caption: ""
 ---
 
 Losing a child is one of the most emotive subjects a film can take, and can deliver some of the finest performances from its actors, or else fall flat. Rabbit Hole follows the lives of Becca (Nicole Kidman) and Howie (Aaron Eckhart) in the aftermath of their four-year-old son’s accidental death, hit by a car whilst playing with his dog. Eight months on, and both Becca and Howie are struggling to move on. Everything in the house reminds them of him; the pictures on the fridge, the clothes in his room, the home-videos, and even the fingerprints on the door-knobs.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061610-felix-spuntino-pbj.jpg"
-image_caption: >
-
-image_attribution: "Dana Li"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061610-felix-spuntino-pbj.jpg"
+image_caption: ""
 ---
 
 The memorable scenes of Brad Pitt licking peanut butter off a spoon in Meet Joe Black is exactly how I’d like to imagine the grim reaper. Suave, suited and darn right fit.

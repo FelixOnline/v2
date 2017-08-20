@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201609052225-ff712-201602191135-felix-a-bigger-splash-3.jpg"
-image_caption: >
-  Dakota Johnson as Penelope, in the sun-drenched erotic thriller A Bigger Splash.
-image_attribution: "Moviestore/Rex/Shutterstock"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201609052225-ff712-201602191135-felix-a-bigger-splash-3.jpg"
+image_caption: ""
 ---
 
 If you expect nothing from anybody,” writes Sylvia Plath in _The Bell Jar_, “you’re never disappointed.” Such a statement may seem bleak, but the idea that expectation is the mother of all dissatisfactions is only confirmed by _A Bigger Splash_, Luca Guadagnino’s much-awaited return to our screens that – while entertaining and well-made – fails to fulfil this reviewer’s hopes.

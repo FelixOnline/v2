@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
+image_caption: ""
 ---
 
 Love is a many-splendored thing, according to experts. As someone who considers themselves a scientist and, depending on how many glasses of wine I have had, someone who has been in love, this week of all weeks I couldn’t help but wonder, what exactly is love? Does it benefit us as a species? Is it an evolutionary hangover regarding altruism and mating preference, skewered by social etiquette? Or is it selfishness, projected on someone as a need to be with them, but in reality an obsession to obtain their gametes for you, and only you, and not share these amazing genes with anyone else? These certainly cross my mind whenever I am eyeing up someone in Metric, but for others it may not be as crystal clear.

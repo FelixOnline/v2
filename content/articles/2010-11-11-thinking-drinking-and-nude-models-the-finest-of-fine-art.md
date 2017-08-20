@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
-image_caption: >
-  Felix staff doing their best impression of arty people discussing literachacha...
-image_attribution: "Tom Welch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
+image_caption: ""
 ---
 
 Now I know that for most people a night out consists of drinking and dancing followed by some form of fast food and a hangover that could slay a rhino. I must confess that I am all in favor of that plan in that precise order; however it’s taken another night out with the [Leonardo Fine Art Society](http://www.union.ic.ac.uk/arts/leonardo/) to show me that this isn’t necessarily the only way to do it.

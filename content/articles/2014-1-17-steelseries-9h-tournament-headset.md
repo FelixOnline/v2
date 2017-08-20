@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Steelseries. It’s a name all gamers are familiar with, and it’s a company which deals with all aspects of a gamers needs by providing good quality peripherals and accessories. The Steelseries 9H is a top range headset from the H series of tournament grade headsets provided by Steelseries and has been available only as of late 2013.

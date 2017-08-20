@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070312-tna08-netball1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070312-tna08-netball1.jpg"
+image_caption: ""
 ---
 
 ICUNC have had a fantastic start to the season especially in the BUCS leagues, with the 1sts currently 2nd in their leagueand with promotion still very much in their grasps.

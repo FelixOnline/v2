@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182239-jal08-harry.jpg"
-image_caption: >
-  Tessa's dashing Prince in green combats
-image_attribution: "The Telegraph"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182239-jal08-harry.jpg"
+image_caption: ""
 ---
 
 Kensington Palace finally revealed last week that the mysterious VVIP guest who’s attending the grand opening of the “new” Centre for Blast Injury Studies is none other than my favourite eligible bachelor, Prince Harry. As part of the opening, they’re holding a Network Event, a day full of talks from scientists and soldiers alike. And the best part is, anyone can go. Anyone that is, except for me.

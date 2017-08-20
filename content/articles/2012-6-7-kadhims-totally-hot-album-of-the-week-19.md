@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072318-felix-kindness-world-you-need-a-change-608x607.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072318-felix-kindness-world-you-need-a-change-608x607.jpeg"
+image_caption: ""
 ---
 
 Some of you may remember 2009. Those who don’t may want to put their thinking caps on for a moment (and maybe lay off the bath salts for a few face-chewing minutes). 2009 was the earth-shattering year in which the painfully mediocre band Ash decided the album was dead. They went on to prove that the album had kicked the bass and gone to the holy record player in the sky by recording a series of singles that, wait for it, they ended up releasing as a compilation that looked, to the untrained eye, suspiciously like an album. I recount to you this tale of hubris and face-plantingly abject failure because I want to provide a good contrast between the dumbest mutha-whats in modern music, and Adam Bainbridge (__Kindness__), who feels like the smartest mutha-fo in modern music.

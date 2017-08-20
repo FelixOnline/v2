@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
+image_caption: ""
 ---
 
 We’re all familiar with sushi and tempura, courtesy of Yo! Sushi, but there’s a whole lot more that Japanese cuisine has to offer and is awaiting diners like you to take the first step to explore. Here’s some fresh ideas you might want to try out :

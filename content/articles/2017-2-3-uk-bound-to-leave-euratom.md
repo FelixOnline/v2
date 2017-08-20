@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031500-felix-8067362171_f0f9422e23_o.jpg"
-image_caption: >
-
-image_attribution: "Global 2000"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031500-felix-8067362171_f0f9422e23_o.jpg"
+image_caption: ""
 ---
 
 In a slightly surprising move, the UK government announced last Friday that Brexit meant leaving Euratom. This comes after Theresa May said Britain would: “welcome agreement to continue to collaborate with our European partners on major science, research, and technology initiatives” in her Lancaster House speech last month.

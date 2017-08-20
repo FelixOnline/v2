@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061044-felix-west.jpg"
-image_caption: >
-  It’s looks alright, I guess.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061044-felix-west.jpg"
+image_caption: ""
 ---
 
 This week it was announced that the contract for the large tower to be constructed at the Imperial West campus will be given to Laing O’Rourke.

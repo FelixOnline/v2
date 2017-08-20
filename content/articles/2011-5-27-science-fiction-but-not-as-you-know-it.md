@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
+image_caption: ""
 ---
 
 The small, dusty and cramped environs of the Imperial College Science Fiction Library may serve as a true reflection of how the genre is valued and viewed by many... and this is the science fiction library of the country’s leading science university. The tiny library houses over 7000 books and 1000 films: extrapolate those figures to get a more realistic size of the realm of science fiction on a global scale.

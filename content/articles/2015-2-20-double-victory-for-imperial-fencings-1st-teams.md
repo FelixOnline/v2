@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Wednesday both the Imperial men’s and women’s 1st teams were in action in the first round of the BUCS Fencing Championship. The women’s team, who won the Championship two years ago, were in action at Ethos against Newcastle: the first weapon up was foil and although Imperial has been struggling this season in foil the team managed to get a one hit lead after a tense match in which the score was 45-44.

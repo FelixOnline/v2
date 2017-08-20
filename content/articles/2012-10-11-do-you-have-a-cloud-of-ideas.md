@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What if the word “career” meant “fun”, “passion”, and “entrepreneurship”, instead of “oil-platform”, “finance”, or “academia”? We want to show a different set of doors the education at Imperial College unlocks for you far from the obvious and spineless paths Imperial’s flocked careers fairs hold. Imperial College Design Collective (ICDC) demonstrates how knowledge acquired at Imperial can be applied in all design fields.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I was diagnosed with clinical depression when I was 17. For me, the diagnosis helped. It helped to give a name to the bizarre way that I had been feeling for over a year. I was always tired and always sad. The worst feeling was that of isolation, and feeling disjointed from the world, and I felt like I was the only person in the world to feel this way. I didn’t tell anybody because I thought it might go away. I was scared of how I was feeling; I knew something was wrong, but I didn’t know what to do about it and I didn’t want to make a fuss. When I finally got my diagnosis, I was given a legitimate reason to feel the way I did.

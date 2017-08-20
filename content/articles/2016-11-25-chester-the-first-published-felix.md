@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251337-felix-cat-1826788_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251337-felix-cat-1826788_1280.jpg"
+image_caption: ""
 ---
 
 Fact: There’s a cat that is co-author of a theoretical physics paper.

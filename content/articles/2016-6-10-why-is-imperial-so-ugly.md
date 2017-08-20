@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101021-felix-cr3735100057.jpg"
-image_caption: >
-  Stunning.
-image_attribution: "Christian Richters"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101021-felix-cr3735100057.jpg"
+image_caption: ""
 ---
 
 Hello Imperial, we need to talk.

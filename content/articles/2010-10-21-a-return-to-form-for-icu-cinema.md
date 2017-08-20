@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212017-ks607-ICUcinme.jpg"
-image_caption: >
-
-image_attribution: "Roberto Tenace"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212017-ks607-ICUcinme.jpg"
+image_caption: ""
 ---
 
 It’s easy to underestimate the scope for fun at Imperial – other universities probably had fully operational bars during Fresher’s Week and students camping out for days or even weeks in the library are not uncommon. With this in mind, when you hear about Imperial College’s Cinema, you may very well envision some shabby little screen and one lonely film geek hunched over a DVD player, but you would be wrong. Just above the newly opened FiveSixEight, the Union Concert Hall hides a 33ft screen and, with a professional 35mm projector and full Dolby Surround Sound, the [iCU Cinema](http://www.union.ic.ac.uk/arts/cinema/) rivals any average Odeon or Cineworld in London.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In today’s world I would challenge any reader of this newspaper to nominate a sportsperson that they could truly say they have an emotional attachment to. Messi, Ronaldo, Federer, Nadal, Tiger Woods; these names roll off the tongue as behemoths of their respective sports. Hearing these names evokes admiration, loyalty, respect, but never a sense of identification, brotherhood, or, most importantly, a sense that that particular player could ever possibly be bigger than the game itself.

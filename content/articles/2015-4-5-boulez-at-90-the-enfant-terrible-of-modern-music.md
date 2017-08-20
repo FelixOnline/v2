@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
-image_caption: >
-  Pierre Boulez as conductor of the BBC Symphony Orchestra
-image_attribution: "BBC Radio 3"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
+image_caption: ""
 ---
 
 Pierre Boulez is _the_ controversial figure at the forefront of musical development in the 20th Century. Though equally respected by his enemies as by his supporters, a certain stubbornness and radicalism has alienated many. For instance, in 1952 he declared in one fell swoop half of the musical world as useless, in 1967 that opera houses should be blown up, and in 1971 he advocated for the destruction of the Mona Lisa. But read past these shocking soundbites and you may find yourself in fact following his arguments. Indeed the vast literature he has produced throughout his career has swayed many, undoubtedly influencing the course of music history, and it certainly does display a penetrating and unabashed intelligence. Of course, his music is the true testament to this: original, endlessly thought provoking, and constantly being reinvented; the Guardian says “it is impossible to imagine […] the entire musical world without Pierre Boulez”. But then why haven’t you heard of him? And, at the recent 90th birthday celebrations at the __Barbican__, why was the hall half empty?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062019-cj914-tesla_model_s.jpg"
-image_caption: >
-  Electric car enthusiasts appearing ecstatic at the unveiling of the first Model S at the Tesla facto
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062019-cj914-tesla_model_s.jpg"
+image_caption: ""
 ---
 
 You don’t have to be a petrolhead to know that the automobile industry hasn’t been the most innovative over the years. Since the introduction of the Model T in 1908, the car has remained largely unchanged. It might have become faster, more reliable and more efficient over those 100 years but no radical new ideas have managed to take hold.

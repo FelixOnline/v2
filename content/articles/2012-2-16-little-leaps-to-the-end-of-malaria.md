@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162156-cac111-800px-maternal_malaria_placenta_-_cropped_-_very_high_mag.jpg"
-image_caption: >
-  A very high magnification micrograph of maternal malaria
-image_attribution: "Wikipedia"
-image_attribution_link: "http://www.wikipedia.org"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162156-cac111-800px-maternal_malaria_placenta_-_cropped_-_very_high_mag.jpg"
+image_caption: ""
 ---
 
 At the start of this month, a statistical analysis published in _The Lancet _claimed that deaths due to malaria worldwide are almost twice as high as was thought – 1.24 million in 2010 rather than 655,000, as estimated by the World Health Organisation (WHO). While there is controversy over the study’s methodology, its implications for the international malaria eradication drive are troubling – the WHO also estimated that 216 million people became ill with malaria in 2010. Fortunately, these are not the only large numbers associated with the disease: annually, US$2 billion is contributed for malaria control measures, and over US$600m for research and development to fight it. Progress is being made, and funnily enough, it tends to involve much smaller things. Two recent advances have illustrated how the tiniest things can make the greatest difference.

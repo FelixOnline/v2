@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Every Monday night this term, I have patiently and loyally tuned in to watch the latest episode of Miranda. After the past couple of series of goofiness and misunderstandings, we’d all probably had enough of it. There’s only a certain amount of anthropomorphic fruit one can stand. However, after having wisely kept off our screens for a few years, Miranda Hart was back on Boxing Day, ready for another season. And as the last episode came and went last week, I find myself actually missing my Monday-night dose of slapstick.

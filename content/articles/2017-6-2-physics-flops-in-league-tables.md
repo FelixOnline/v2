@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021428-felix-Screen Shot 2017-06-02 at 14.28.04.png"
-image_caption: >
-  ouch
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021428-felix-Screen Shot 2017-06-02 at 14.28.04.png"
+image_caption: ""
 ---
 
 Imperial is regularly declared one of the best universities in the world. The latest Guardian university league tables reaffirms this, placing us in joint 6th place overall. Imperial ranked top in Earth and Marine Sciences, Civil Engineering, Electronic and Electrical Engineering, and Engineering (general).

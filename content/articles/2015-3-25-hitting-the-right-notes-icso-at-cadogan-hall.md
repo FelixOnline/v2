@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251237-ff712-5d-115-icso-concert---cadogan-hall---28-february-2015---bowa.jpg"
-image_caption: >
-  Imperial College Symphony Orchestra at Cadogan Hall for their Spring Concert
-image_attribution: "Ian Gillet"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251237-ff712-5d-115-icso-concert---cadogan-hall---28-february-2015---bowa.jpg"
+image_caption: ""
 ---
 
 Tonight was a first in two respects; not only was it my first time attending a concert in the gorgeous __Cadogan Hall__ but it was also in fact the first ever time I had seen the Imperial College Symphony Orchestra (ICSO) perform. And so, as you can imagine I was suitably excited.

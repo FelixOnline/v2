@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Classical music has been all but abandoned by the generations following the XX Century iconoclasts. Swept aside by the hormonal avalanche of the baby boomers, modern music since __Elvis__ turned to Africa for salvation from the amorphous excursions of the decades before. Percussion has informed practically all non-classical music since then, from rock’n’roll to jazz, and eventually hip-hop and techno. Rhythm and simplicity were the order of the day. Hour-long orchestral narratives were no longer acceptable. In an age of acceleration, brevity was the only way to be heard.

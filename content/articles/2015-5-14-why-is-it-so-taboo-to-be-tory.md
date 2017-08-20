@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505142335-cj914-a-labour-supporter-wearin-009.jpg"
-image_caption: >
-  You probably have though, admit it
-image_attribution: "Guardian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505142335-cj914-a-labour-supporter-wearin-009.jpg"
+image_caption: ""
 ---
 
 The General Election has come and gone, and the United Kingdom has democratically elected the Conservative Party into power for the next five years. 36.9% of the country voted for them, but if you look at the articles being plastered all over the internet and social media, you would have no idea that this was the case.

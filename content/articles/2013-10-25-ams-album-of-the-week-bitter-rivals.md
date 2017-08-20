@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250137-felix-mus_sleigh-bells.jpg"
-image_caption: >
-  Sleigh-Bells - Bitter Rivals
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250137-felix-mus_sleigh-bells.jpg"
+image_caption: ""
 ---
 
 First, some honesty, I chose to review this album because I expected it to be really bad. The hype died years ago for __Sleigh Bells__, and I’ve yet to find a positive review of this one. I fancied tearing this apart in the written press, because that is what makes me feel big. I’m disappointed on all levels. It’s not quite bad enough to completely tear apart, but it’s not good either.

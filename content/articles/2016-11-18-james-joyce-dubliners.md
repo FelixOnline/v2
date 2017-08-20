@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181512-felix-img_15671.jpg"
-image_caption: >
-
-image_attribution: "creativecapture.wordpress.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181512-felix-img_15671.jpg"
+image_caption: ""
 ---
 
 James Joyce was a modernist master with game-changing style, literary gonads the size of Dublin and –quite literally–Homeric ambition. Few writers can boast of having drunk with Hemingway, dined with Picasso, and picked a quarrel with Proust. His influence reaches far and wide: people have named everything from rock bands to subatomic particles after his writing. Joyce was something of an enigmatic figure (his last words were “Does nobody understand?”), and the only thing more inscrutable than the man himself was his work. Ulysses was banned for a long time in most of the English-speaking world before being named by critical consensus as "the most important novel in the English language". Finnegans Wake, his masterpiece that took seventeen years to write, has been called "the most colossal leg-pull in literature", and has even been compared to Egyptian hieroglyphics.

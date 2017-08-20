@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171508-felix-IMG_7293.JPG"
-image_caption: >
-  Getting blasted in the face with confetti make it all worth it
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171508-felix-IMG_7293.JPG"
+image_caption: ""
 ---
 
 Campaigning for a position in the student elections is the least Imperial-like thing imaginable: you have to talk to strangers while sober. Some coped by campaigning online, thereby retreating safely behind a Facebook page or Twitter account dedicated to their glory, but most of us ended up doing the face to face campaign. And it was an interesting experience, so I chose to write it down for your convenience. This way you can feel the thrill of the elections without actually standing for anything, or even voting. Isn’t that great?

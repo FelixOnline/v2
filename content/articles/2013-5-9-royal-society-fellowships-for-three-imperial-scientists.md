@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305091302-tna08-charles_ii_of_england.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305091302-tna08-charles_ii_of_england.jpg"
+image_caption: ""
 ---
 
 Three Imperial scientists have been granted Fellowship of the Royal Society. Professor the Lord Ara Darzi of Denham, Professor Joanna Haigh, and Professor Sir Steve Bloom were all recognised for their “contributions to science, both in fundamental research resulting in greater understanding, and also in leading and directing scientific and technological progress in industry and research establishments”.

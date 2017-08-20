@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012306-tna08-filmfest.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012306-tna08-filmfest.jpg"
+image_caption: ""
 ---
 
 Yes, I’m Korean. My surname is Park. That automatically means I’m Korean. And so I watch Korean films. Not exactly the most accessible to western audiences or appealing I’m sure, but slowly there have been growing interestsin Asian cinema and noticeably films from Korea have caught the attention of various prestigious festivals and prizes.

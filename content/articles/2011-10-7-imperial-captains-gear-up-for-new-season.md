@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110070156-sjw209-52.jpg"
-image_caption: >
-  All kitted out: Imperial athletes show off the new college threads in front of Ethos
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110070156-sjw209-52.jpg"
+image_caption: ""
 ---
 
 Head of [Sport Imperial](http://www3.imperial.ac.uk/sports) Neil Mosley sounded the start of the new sports season on Monday at the Club Captains’ meeting held in Ethos. Introducing himself and the rest of the Sport Imperial team to the hundred or so team captains and sports club committee members, he was full of praise for the achievements of IC sports clubs last season. “Five years ago, our objective was to get into the [BUCS](http://www.bucs.org.uk/) (British Universities and Colleges Sport) league table top twenty. I’m delighted to say we did it.”

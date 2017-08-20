@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 An 100-year-old lock of hair has helped scientists to unravel the movements of early humans on their journey to Australia. Scientists have obtained a genomic sequence from the hair, donated in the early 20th century by a man who was an Aboriginal Australian.

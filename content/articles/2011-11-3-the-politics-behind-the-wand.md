@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With Halloween having passed uneventfully last week, in the absence of reports about legions of zombies laying waste to our towns and cities, we present you the Felix Politics Guide to the Ministry of Magic from the Harry Potter Series.

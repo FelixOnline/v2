@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011251958-nm1010-bacillus.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011251958-nm1010-bacillus.jpg"
+image_caption: ""
 ---
 
 MIT hosts an annual undergraduate Synthetic Biology competition called iGEM (International Genetically Engineered Machine), aiming for each university team to build biological systems and operate them in living cells. Imperial made an outstanding performance and landed fourth on the podium out of a total of some 129 participating universities.

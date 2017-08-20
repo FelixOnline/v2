@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
-image_caption: >
-
-image_attribution: "Ioanna Kalogeraki"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
+image_caption: ""
 ---
 
 From the title, one will probably think that this article is about uninteresting food habits or a nutritionist’s advice and stuff that the majority of people don’t care about. To be honest that could have been my editor’s picture of what I should write but indeed, the theory of relativity suggests that everything is relative, and because we are scientists it’s good to apply it sometimes. Therefore, I am relating eating habits and food preferences with actual human behavior and diversity of characters, with a more specific zoom in on our life here at Imperial. In this college, there are several kinds of people, from different nationalities, studying different courses having different interests and hobbies. All of these factors affect the way we are fed and therefore one can define the kind of one’s personality by using this information. In the following article, I will analyse some of the most distinctive kinds of people here at Imperial, extrapolating from their eating habits.

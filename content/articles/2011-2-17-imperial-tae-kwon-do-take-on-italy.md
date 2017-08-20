@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last weekend, six students from the Imperial College Union Tae Kwon Do club (ICUTKD) travelled to Cagliari in Italy where they competed in the 4th International Mediterranean Open. Open to all levels whether they be black belts or white belts, ICUTKD were joined with a few members from their sister club at Queen Mary’s to compete against other clubs from Britain, Belgium and Italy.

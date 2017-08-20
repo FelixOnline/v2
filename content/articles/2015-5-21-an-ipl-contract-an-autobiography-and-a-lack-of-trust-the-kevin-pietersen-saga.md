@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
-image_caption: >
-  Pietersen walks off after his 355*
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
+image_caption: ""
 ---
 
 If Andrew Strauss thought he’d have a pleasant honeymoon period in his new Director of Cricket role at the England and Wales Cricket Board (ECB), Kevin Pietersen had other ideas. As Strauss was partaking in his first interview with the media in the role Kevin Pietersen was piling the pressure on, smashing Leicestershire’s defenceless bowlers for 355 not out – his highest first class score.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101522-felix-5847999331_7d0a5f8f9c_o.jpg"
-image_caption: >
-
-image_attribution: "RoundHouse, pittaya"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101522-felix-5847999331_7d0a5f8f9c_o.jpg"
+image_caption: ""
 ---
 
 Part of the allure of moving to London for music lovers is the incredible access to up and coming artists. Many times while living here, I’ve high-fived myself for gaining hipster points after discovering artists who’ve yet to break into the charts. Vanity aside, the ease with which Londoners can listen to new sounds and find quality acts is exciting and inspiring.

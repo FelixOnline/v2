@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072023-pk1811-4celebration-(38)-(1).png"
-image_caption: >
-  Photography courtesy of Southwell FC
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072023-pk1811-4celebration-(38)-(1).png"
+image_caption: ""
 ---
 
 Yeah, uh huh, you know what it is… BLACK ‘N YELLOW, BLACK ‘N YELLOW, BLACK ‘N YELLOW, BLACK ‘N YELLOW!

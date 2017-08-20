@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091330-tna08-madagascar-3-europe-s-most-wanted12.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091330-tna08-madagascar-3-europe-s-most-wanted12.jpeg"
+image_caption: ""
 ---
 
 So the first one was good, and the second one was ok. But let’s face it, by the time the third film in a franchise turns up, nobody is expecting very much. But Madagascar 3 is surprisingly good – so good in fact that it currently holds the number two spot in the UK Box Office.

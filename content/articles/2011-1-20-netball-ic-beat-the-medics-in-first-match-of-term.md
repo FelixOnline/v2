@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The unfit, untrained and turkey stuffed IC girls rocked up to Ethos on Monday night with much foreboding, the unmistakable sense of apprehension and anxiety could only mean one thing. Medics. This year’s match was made even more personal due to Becky’s unfortunate living arrangements with the medic captain.

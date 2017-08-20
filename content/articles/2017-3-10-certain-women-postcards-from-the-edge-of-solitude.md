@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101337-felix-movies_certainwomen (1).jpg"
-image_caption: >
-  Michelle Williams excells as one of the women at the heart of Reichardt’s tale
-image_attribution: "Park Circus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101337-felix-movies_certainwomen (1).jpg"
+image_caption: ""
 ---
 
 Certain Women, American director Kelly Reichardt’s sixth film, begins with a shot that serves as a statement of intent: a rusting old train slowly drags itself across the Montana landscape, framed by snowy mountain peaks; stoic in its solitude, it chuffs and puffs along the track, determined to reach its destination, piercing the early morning air with sharp whistles, announcing its presence. It’s a fitting representation of Reichardt’s films, which centre around the normal day-to-day lives of average Americans, portraying their struggles, their defeats, and their small triumphs with a relentless internal energy and endless empathy.

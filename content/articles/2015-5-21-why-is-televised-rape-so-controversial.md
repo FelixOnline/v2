@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
-image_caption: >
-  This is not the first time Game of Thrones has been criticised for the way it features rape and sexual violence.
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
+image_caption: ""
 ---
 
 _[Spoiler warning: this comment piece contains spoilers for all released episodes of Game of Thrones, as well as descriptions of the changes made from its source material, the A Song of Ice and Fire book series.]_

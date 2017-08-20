@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Tuesday saw the first of three performances by the Los Angeles Philharmonic Orchestra in residency at the Barbican. Dudamel led the players in five pieces (four programmed and then surprisingly an encore, which we don’t see that often with British orchestras) that ranged from novel to bizarre and sublime.

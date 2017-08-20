@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031956-pk1811-dna-istock-rustycloud-1.jpg"
-image_caption: >
-  A virus carrying modified DNA is injected into the patient’s eye
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031956-pk1811-dna-istock-rustycloud-1.jpg"
+image_caption: ""
 ---
 
 A clinical trial involving an incurable type of blindness has been carried out by a collaboration of researchers from Imperial College London and Oxford University. At the John Radcliffe Hospital in Oxford, Jonathan Wyatt, 63, from Bristol became the first person to receive gene therapy for blindness.

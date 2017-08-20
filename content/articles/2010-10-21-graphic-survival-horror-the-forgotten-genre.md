@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212030-ks607-hidingaw.jpg"
-image_caption: >
-  Damn it's dark, where's that flashlight?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212030-ks607-hidingaw.jpg"
+image_caption: ""
 ---
 
 Amnesia: The Dark Descent is a graphic adventure survival horror game that had me swapping out trousers on a regular basis, and I shall endeavour to convey why this little-known gem is so worthy of attention. First though, a little introduction to Frictional Games, and the current state of the survival horror genre.

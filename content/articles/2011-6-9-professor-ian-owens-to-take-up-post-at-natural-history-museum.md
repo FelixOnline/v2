@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
-image_caption: >
-
-image_attribution: "Natural History Museum"
-image_attribution_link: "http://www.nhm.ac.uk/about-us/news/2011/june/museum-appoints-new-director-of-science98359.html"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092200-felix-professor-ian-owens_98360_2.jpg"
+image_caption: ""
 ---
 
 Professor Ian Owens, the current head of the Department of Life Sciences, has been announced as the Natural History Museum’s new Director of Science.

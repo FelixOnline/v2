@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032119-nm1010-ycyawycy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032119-nm1010-ycyawycy.jpg"
+image_caption: ""
 ---
 
 The scene, Wednesday lunchtime, Ethos; enter, the Women’s first Fencing team, they start preparing for the quarterfinal match of the BUCS championships against Manchester’s firsts. Feeling very confident of advancing, thanks to previous form, everyone was ready to win. The match opened well with Imperial sabruers Zoe Robinson, Clare Harding and Hannah Bryars taking an early lead. This was something kept and extended throughout the weapon with the only real moment of fear coming when Zoe charged her opponent and ended up cross legged on the floor, with the team worried about injury. She was fine, and had even won the point. In the end, the sabre team set a new record for this year and won by 45-8.

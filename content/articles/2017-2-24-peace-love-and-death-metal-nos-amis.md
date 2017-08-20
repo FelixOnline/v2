@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
-image_caption: >
-
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
+image_caption: ""
 ---
 
 Colin Hanks’ directorial debut, Nos Amis, is a powerful albeit atypical music documentary. Opting to focus on the humanity of its subjects far more than their music, this HBO production follows the band Eagles of Death Metal as they attempt to recover from their ordeal at the Bataclan. An impactful cold open shows us the beginnings of the concert as the energy and life seen juxtaposes with the foregone conclusion already simmering in the viewer’s mind. But the footage ends abruptly, long before the tragedy would occur. The spectre of dread this evokes, however, hangs over the rest of the feature.

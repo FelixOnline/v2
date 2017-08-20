@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
+image_caption: ""
 ---
 
 __First of all, I'd like to know some more about the author. Where did you grow up, what did you study, what brought you to writing?__

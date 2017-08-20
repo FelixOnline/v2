@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
-image_caption: >
-  Purging all of that useless knowledge after exams
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
+image_caption: ""
 ---
 
 The last Last Exorcism certainly was not the “last” as it is followed by this pretty disastrous sequel that is somehow trying to bridge a gap for a potential third entry to turn the franchise into a trilogy – because any mildly successful horror series must at least have three.

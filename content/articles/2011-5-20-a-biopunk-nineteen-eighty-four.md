@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200636-felix-the-windup-girl-pb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200636-felix-the-windup-girl-pb.jpg"
+image_caption: ""
 ---
 
 Biopunk has always been considered a mere sub-genre. But recently things are beginning to change. As genomics and biotechnology are becoming more integral in our lives, there is more interest in biotech speculative fiction. All biopunk needs is a landmark book that lifts it from its ‘sub-genre’ label. Paolo Bacigalupi’s The Windup Girl, which recently became the latest recipient of the ‘double crown’ in science fiction (refer to article by the side) might just be the book that biopunk is looking for. It’s quite something for a science fiction piece to be considered by TIME magazine to be a top 10 read of the year.

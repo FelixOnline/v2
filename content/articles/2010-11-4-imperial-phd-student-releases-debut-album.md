@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041824-ks607-toddkuff.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041824-ks607-toddkuff.jpg"
+image_caption: ""
 ---
 
 Don’t care for synth? Tired of auto-tune? Then [Todd Kuffner’s](http://toddkuffner.com/musicsite/) debut album, Squirrel Hunter in Training may well be the album you’ve been waiting for. Currently studying for a PhD at Imperial, Kuffner is a self-confessed musical "dictator", which has led to this album being a solo project in it’s truest sense, with every aspect being done by the man himself.

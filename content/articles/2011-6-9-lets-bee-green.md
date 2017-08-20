@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092229-felix-img_5380.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092229-felix-img_5380.jpg"
+image_caption: ""
 ---
 
 Imperial’s population has just grown by several thousand. No, there hasn’t been some clerical error or mass invasion – we now have our very own bee colony.

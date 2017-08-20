@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101435-felix-Screen Shot 2017-02-10 at 14.34.53.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101435-felix-Screen Shot 2017-02-10 at 14.34.53.png"
+image_caption: ""
 ---
 
 There is a misconception held by many queer secondary school students that universities are very progressive and tolerant places. The It gets better project is all but built on this idea promoted by society that it’s okay if times are tough now, because one day you will escape your small town. You will travel to a big city where what once made you different and ostracised will make you popular and interesting. This is a nice narrative, but it’s a slow burner, there is no telling when exactly things will ‘get better’, and university should certainly not be guaranteed as a boundary of acceptance. Those freshers are still the same students who were at your school three months ago, it’s not like they took a ‘how not to be a transphobic/homophobic dick’ course over the summer.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210017-tna08-easterisland02.jpg"
-image_caption: >
-  The Easter Island statues drag themselves across the hill to queue in the Library Cafe
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210017-tna08-easterisland02.jpg"
+image_caption: ""
 ---
 
 __October__

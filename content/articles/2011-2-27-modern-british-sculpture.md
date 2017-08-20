@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271925-ks607-fishinca.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271925-ks607-fishinca.jpg"
+image_caption: ""
 ---
 
 On entering Modern British Sculpture, a vast trunk of stone stands before you. It fills the high-walled room almost up to its domed ceiling, making it more temple than art gallery. Smooth, cold, awesome in the most formidable sense, you have to lean back to see it as it ascends, narrowing in linear sections, where, at its height, a tomb sits. Colossal in size, yet not extravagant; mournful yet imperious. I can’t think of a situation where in the space of passing through a set of double-doors, I have ever been more awestruck, as I was upon entering Modern British Sculpture. Had I not been in as respectable a setting as the RA, I might’ve even audibly had a ‘Clay Davis’ moment.

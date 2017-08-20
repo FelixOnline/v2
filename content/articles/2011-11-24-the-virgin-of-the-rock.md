@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242018-pk1811-branson.jpg"
-image_caption: >
-  Business magnate Richard Branson holds up a Virgin Money credit card
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242018-pk1811-branson.jpg"
+image_caption: ""
 ---
 
 Last Thursday the Government announced that Northern Rock was to be bought by Virgin Money. Northern Rock was famously nationalised in February 2008 as the Credit Crunch took its first victim this side of the Atlantic. The deal that has just been negotiated says that Virgin will pay £747m upfront with approximately another £250m in further possible payments, valuing the deal at about £1 billion. This is well short of the £1.4 billion of taxpayers’ money it cost to keep the bank afloat, so even though on the face of it a £400m loss (about 28%) looks terrible, it may still represent a good deal for us.

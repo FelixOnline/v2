@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260242-tna08-dropbox-space-race.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260242-tna08-dropbox-space-race.jpg"
+image_caption: ""
 ---
 
 Every student at Imperial can get 8GB worth of free storage on the online website Dropbox. This is part of the Dropbox SpaceRace.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102202-pk1811-chap-1.jpg"
-image_caption: >
-  Chaplaincy can help with ‘conversations about meaning’
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102202-pk1811-chap-1.jpg"
+image_caption: ""
 ---
 
 "Chaplaincy is really about conversation,” is the way a student once put it. Chaplaincy is a faith based welfare service for students. We seek to provide hospitality, support, reflection and dialogue around belief, religion, faith and spirituality. What that actually means is different types of ‘conversations’.

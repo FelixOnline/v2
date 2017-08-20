@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122014-cac111-picture0231.jpg"
-image_caption: >
-  The guy on the left obviously tried it a bit too hard
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122014-cac111-picture0231.jpg"
+image_caption: ""
 ---
 
 Imperial played their first competitive fixture of the season against Woking College in what was a development fixture for both sides. Woking won 54-22 but it proved a fantastic experience for the new Imperial team.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It turned out that 52% of the audience at a recent event at the Dana Centre would prefer to be executed by lethal injection than hanging, electrocution or being shot. This was before they were given information about what exactly occurs when a lethal injection is carried out.

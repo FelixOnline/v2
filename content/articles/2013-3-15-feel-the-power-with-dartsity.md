@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ICSM Darts Society is the only Imperial Club dedicated to the sport. Shocking right? We consider it a sport. Not just prime man boob jiggle time or a pint of beer resting on a beer belly time – darts is a game of skill, contrary to stereotypes. We usually play in a Monday night league SKADL (South Ken Academic Darts League) which started out as a competition between Imperial halls, but now includes a lot of previous students, and other universities around London. Other teams include the Holland Club, which has had to find an alternative venue since the club shut over the Christmas period.

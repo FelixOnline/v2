@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021455-tna08-chemistry-cocktail-party.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021455-tna08-chemistry-cocktail-party.jpg"
+image_caption: ""
 ---
 
 Departmental Cocktail Parties being held on campus may have to change their format from now on. This emerges after the Chemistry Cocktail Party, which is due to be held near the end of this academic year, has been forced to have a format change due to licensing laws and incidents at previous parties from other Departments on campus.

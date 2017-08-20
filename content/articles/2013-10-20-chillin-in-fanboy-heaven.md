@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310200250-jal08-music_mountgoat1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310200250-jal08-music_mountgoat1.jpg"
+image_caption: ""
 ---
 
 The Mountain Goats are probably my favourite musical artist. From the early years of just John Darnielle with a guitar and a tape recorder right through to the current three piece iteration, I am an embarrassingly large fanboy. So, a few months back, when they announced they were playing at the Union Chapel, one of my favourite venues, I snapped up tickets the moment they came on sale. So last Tuesday I descended upon Islington with a heavy sense of excitement. After an excellent opening set by singer-songwriter Alessi’s Ark, I was expecting the show to end all shows.

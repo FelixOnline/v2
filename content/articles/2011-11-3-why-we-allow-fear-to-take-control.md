@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was a dark, misty, eerie night this Halloween. I was walking alone through a deserted, narrow street in London. The sound of footsteps behind me made me start. I stopped and listened. The noise stopped. I carried on walking. The footsteps started again. All my senses were heightened. I began to wonder if someone was in the dark behind me. The footsteps got nearer. My heart started racing, palms started sweating. The footsteps got louder. Fear took over and I started looking for somewhere to run, to hide, to get away.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
+image_caption: ""
 ---
 
 __Lady Gaga__’s upcoming ARTPOP Ball tour hits the UK this November, with tickets starting at just £13 in comparison to the atrocious minimum £70 for any Lady Gaga gig around three years ago.

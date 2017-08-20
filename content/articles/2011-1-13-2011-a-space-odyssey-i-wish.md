@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
+image_caption: ""
 ---
 
 Happy New Year to you all! It’s nice to know that, as a species, we’ve managed to make it through another year without destroying ourselves. Well done.

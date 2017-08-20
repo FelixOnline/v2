@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072248-tna08-jar-moff-commercial-mouth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072248-tna08-jar-moff-commercial-mouth.jpg"
+image_caption: ""
 ---
 
 Berlin-based record label PAN have a tough act to follow this year given the strength of the line up curated by label owner Bill Kouligas in 2012. Releases such as those from Lee Gamble, Heatsick, and Helm, amongst others, received widespread critical acclaim for their cutting edge visions of contemporary experimental electronic music, making frequent appearances on the “Best of 2012” lists of critics and artists alike. Given the hitherto unfaltering creative vision of the label it should not come as too much of a surprise that PAN’s first release of 2013 charts yet another high-water mark on their continued upward trajectory.

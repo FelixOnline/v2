@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105062334-sjw209-hacker.jpg"
-image_caption: >
-  Police are reportedly looking for this man
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105062334-sjw209-hacker.jpg"
+image_caption: ""
 ---
 
 It’s been a frustrating fortnight for Playstation 3 owners everywhere. PlayStation Network, the service used to play online on the PS3, was closed almost two weeks ago leaving gamers without access to any online content or multiplayer games. [It was revealed](http://blog.us.playstation.com/2011/04/26/update-on-playstation-network-and-qriocity/) that the service was closed not for maintenance but as an emergency security measure.

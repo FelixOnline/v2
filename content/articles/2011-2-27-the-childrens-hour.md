@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271933-ks607-children.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271933-ks607-children.jpg"
+image_caption: ""
 ---
 
 Lillian Hellman’s play The Children’s Hour was first produced in 1936, and put on sporadically for a number of years before hitting the West End this year, starring Elizabeth Moss of TV show ‘Mad Men’ and the inimitable Keira Knightley, making it the current hot ticket. It’s the story of what follows when two 1930’s boarding school teachers are accused by a pupil of having a lesbian affair, and is based on a true case. As a result of the homosexual content, it was initially banned in several cities, but was illegally performed in New York to rave reviews.

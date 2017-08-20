@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
+image_caption: ""
 ---
 
 Business theorist Frederick Winslow Taylor believed that performance related pay was the way to encourage production and efficiency. Investment Banks have been paying bonuses on Wall Street and the Wharf for decades.

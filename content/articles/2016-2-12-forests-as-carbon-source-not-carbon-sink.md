@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121128-felix-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg"
-image_caption: >
-  Human forest management – a waste of time?
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121128-felix-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg"
+image_caption: ""
 ---
 
 A key component in the fight against climate change has been the idea of controlled and regulated reforestation in regions destroyed by human actions. However, a recent study suggests that forests regrowing in Europe after mass deforestation between the 18th and 19th century are actually contributing to global warming rather than helping to reverse it; despite the fact they are 10% larger than the pre-industrial revolution woodlands. This poses a real problem for those hoping to reverse the effects of climate change via reforestation, with over 85% of modern European forests regulated by human management.

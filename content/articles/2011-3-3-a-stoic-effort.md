@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032010-ks607-stoicliv.jpg"
-image_caption: >
-  The panel: Jenny Wilson, presenter Elizabeth Skrzypiec, Alex Kendall, and Dan Wan
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032010-ks607-stoicliv.jpg"
+image_caption: ""
 ---
 
 The campaigning phase of the Imperial College Union Sabbatical Elections kicked off when STOIC TV broadcasted a ‘Meet the Candidates’ IC News special on Wednesday night.

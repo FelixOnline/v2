@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171311-felix-1438560415_fbd1c30e83_o.jpg"
-image_caption: >
-  PLEASE DO NOT TOUCH
-image_attribution: "Tim Regan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171311-felix-1438560415_fbd1c30e83_o.jpg"
+image_caption: ""
 ---
 
 Imperial has been selected as one of 64 institutions to receive up to £50,000 of HEFCE Catalyst funding from the Student Safeguarding fund. This is part of the £2.45 million released by HEFCE for projects addressing sexual harassment on campus following the report from Universities UK’s Harassment Taskforce on the need for universities and colleges to do more to tackle the problem.

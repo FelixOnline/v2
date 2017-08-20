@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Recently Nazareth (no, not the Jesus one), a small town in the Amazon region of Colombia announced that tourists are no longer allowed to visit: the tens of thousands that visit each year are providing little for the economy and their presence is having detrimental effects on both local scenery and the livelihood of people.

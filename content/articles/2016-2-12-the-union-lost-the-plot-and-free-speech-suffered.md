@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121122-felix-1454899695952.png"
-image_caption: >
-  The Malaysian PM in all his glory.
-image_attribution: "Facebook / GRUPA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121122-felix-1454899695952.png"
+image_caption: ""
 ---
 
 Here’s a picture of Malaysian PM Najib Razak. Malaysian police responded to this image by warning the author that the image was ‘offensive’. They then threatened that if he didn’t ‘act within the law’, he would be arrested.

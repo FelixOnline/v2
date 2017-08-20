@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050034-cj914-bondage.jpg"
-image_caption: >
-  On brand.
-image_attribution: "Mel Hattie"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050034-cj914-bondage.jpg"
+image_caption: ""
 ---
 
 The perennially popular drinking game gets easier with the arrival of the sex survey. If you’re looking for an easy way to get people to drink, look no further than the old classics: fuck buddies, and one night stands.

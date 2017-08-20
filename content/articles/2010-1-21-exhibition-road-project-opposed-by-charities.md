@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001212214-rsp07-Exhibiti.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001212214-rsp07-Exhibiti.jpg"
+image_caption: ""
 ---
 
 The Exhibition Road Project has come up against a hurdle still standing after a group of 30 charities are looking to carry on fighting their case to stop the removal of pavements on Exhibition road, creating a shared space for pedestrians and traffic.

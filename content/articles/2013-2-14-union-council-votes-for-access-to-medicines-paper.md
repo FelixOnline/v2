@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142113-tna08-medicines-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142113-tna08-medicines-2.jpg"
+image_caption: ""
 ---
 
 The motion [‘Imperial College Union Access to Medicines Policy](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/file/1855)’ was proposed to the Union Council on Tuesday by ICSMSU President Shiv Vohra and seconded by Kush Nake. The motion was passed. In brief, this motion was proposed in order for the Union to actively campaign to persuade Imperial College to sign the Global Access Licensing Framework. This enables affordable versions of research developed medicine to be made available in medical resource-limited countries. This framework was published by the international student-led organisation Universities Allied for Essential Medicines under the guidance of various experts.

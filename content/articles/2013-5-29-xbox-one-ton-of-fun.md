@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291655-tna08-xboxone_rgb_stacked.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291655-tna08-xboxone_rgb_stacked.jpg"
+image_caption: ""
 ---
 
 Hey, an article about the Xbox One, I hear you exclaim, shouldn’t that be in the gaming section? Well there probably will be one, describing all its features and games that will be available at release. However this article will focus on the Xbox One’s, as long with others, intrusion into the multimedia market.

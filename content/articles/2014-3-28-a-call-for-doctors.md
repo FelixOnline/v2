@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The number of doctors travelling abroad on ‘humanitarian’ missions in order to provide help for the millions of people suffering in less developed countries is nanoscopic. In fact, more doctors in the less developed countries such as Ghana, Sierra Leone and Syria are migrating to the UK because of the attractive salary and more sophisticated health system. This leaves these countries starved of healthcare professionals of which they are in dire need.

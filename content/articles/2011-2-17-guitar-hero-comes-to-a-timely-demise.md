@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
+image_caption: ""
 ---
 
 On February 9th, Activision announced they were discontinuing the _Guitar Hero_ franchise, and as a result, their planned 2011 _Guitar Hero_ title was also cancelled. Activision cited “declining interest in the music genre” as their reason, a phenomenon which is quite possibly down to an almost completely saturated market.

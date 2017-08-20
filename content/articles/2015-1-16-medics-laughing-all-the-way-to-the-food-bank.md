@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161308-ps3110-screen-shot-2015-01-16-at-13.09.00.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161308-ps3110-screen-shot-2015-01-16-at-13.09.00.png"
+image_caption: ""
 ---
 
 Imperial medical students made a last-minute but sizable donation to the local food bank earlier this month, after collecting dried goods before the Christmas bop at the end of last year.

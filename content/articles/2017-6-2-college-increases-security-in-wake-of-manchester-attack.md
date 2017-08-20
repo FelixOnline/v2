@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In a statement sent out by President Alice Gast and Provost James Stirling, Imperial students and staff were told that there will now be an increased presence of security at College’s campuses.

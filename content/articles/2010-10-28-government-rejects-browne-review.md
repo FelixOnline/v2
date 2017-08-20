@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Government ministers have confirmed that university tuition fees will be capped in England, meaning that the government is rejecting a key element of the [Browne report](http://felixonline.co.uk/news/198/lord-browne-points-to-higher-fees-/).

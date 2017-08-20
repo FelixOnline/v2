@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172116-pk1811-olivier-theatre-1.jpg"
-image_caption: >
-  The play gets its title from its opening week box office takings
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172116-pk1811-olivier-theatre-1.jpg"
+image_caption: ""
 ---
 
 The lights dimmed, an enigmatic black cube began to descend from the ceiling, and a voice whispered unsettlingly, “You know when you’re in that deep sleep…” At this point, the production Felix saw suddenly halted – a technical glitch we were told that would be swiftly resolved. Whilst the superstitious amongst us would have us believe that something like this was inevitable, given the name of the National Theatre’s new play _13_, once restarted the play rarely faltered, and proved hypnotising throughout. Playwright Mike Bartlett’s newest endeavour is an ambitious one, at once attempting to interweave social commentary with real human drama, profound philosophising with blockbuster staging, whilst all the while trying to hold it together with a narrative that actually makes sense. And against all the odds, it largely succeeds.

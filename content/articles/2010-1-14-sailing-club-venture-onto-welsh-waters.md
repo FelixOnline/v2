@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001142226-rsp07-Welshpho.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001142226-rsp07-Welshpho.jpg"
+image_caption: ""
 ---
 
 In December Imperial Sailing Club ventured into the land of sheep and dragons for their first away event of the year- The Welsh Dragon. With two days of sailing and a sheep themed social the event hosted by Cardiff University was set to be a good one.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271733-felix-Picture1.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271733-felix-Picture1.png"
+image_caption: ""
 ---
 
 Randori nationals are coming up, and Imperial Jiu Jitsu has to be prepared! This weekend an Imperial versus Queen Mary friendly, regional ground-fighting competition took place as practice for both clubs before nationals. Groundwork is a lot of fun, but very tiring when you’re the one stuck in a hold. It is very much like trying to escape a really, REALLY tight hug. Here, most competitors agreed not to use any chokes or strangles; let’s all play nice and friendly.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280105-kmw13-wigan-athletic.jpg"
-image_caption: >
-
-image_attribution: "Wigan Athletic Football Club"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280105-kmw13-wigan-athletic.jpg"
+image_caption: ""
 ---
 
 Racism is unacceptable. Regardless of who you are, the situation you find yourself in, or any excuses you may offer up, the moment you bring up someone’s race is the moment that you have crossed the line. However, there seems to be one area where casual racism is endemic, and is rarely punished. I am talking about football. If you Google football and racism, you will come upon scores of results, and ones about the lack of it are rare.

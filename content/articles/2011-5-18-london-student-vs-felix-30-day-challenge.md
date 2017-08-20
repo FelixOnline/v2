@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
-image_caption: >
-  Joe Rennison looking worried about the ass-whupping he's about to receive
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
+image_caption: ""
 ---
 
 On the evening of May 17th, the Editor of the London Student newspaper, Joe Rennison, threw his gauntlet down at Felix's feet. [He challenged us to play the 30-day Song Challenge](http://www.london-student.net/breaking-news/the-30-day-challenge-felix-vs-london-student/). Felix heartily accepted. Every day each newspaper will post a new article on their website with their song of choice. The newspaper with the most likes, unique comments, and tweets on their article will win that day. Follow this page to stay up-to-date with the competition.

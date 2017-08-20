@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121109-felix-IMG_7823.JPG"
-image_caption: >
-
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121109-felix-IMG_7823.JPG"
+image_caption: ""
 ---
 
 After further talks and a 24 hour strike this week, Jeremy Hunt has announced that controversial new junior doctor contracts will be imposed on medics.

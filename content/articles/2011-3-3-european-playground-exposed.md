@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103031943-nm1010-traveltr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103031943-nm1010-traveltr.jpg"
+image_caption: ""
 ---
 
 _The lowdown_: Once the playground of Romans and feudal lords alike, modern Europe is now flocked by visitors pursuing the delights it has to offer. The diversity of cultures, languages, history, cuisine and so on are reasons us Brits should roam our continental neighbours.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021423-felix-12890613635_810847494e_o.jpg"
-image_caption: >
-
-image_attribution: "Hey Paul Studios"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021423-felix-12890613635_810847494e_o.jpg"
+image_caption: ""
 ---
 
 In only five years, the number of students who have dropped out from higher education has quadrupled according to data from the Higher Education Statistics Agency (HESA). The findings which were highlighted earlier last week by the Guardian, show that just in 2014-15 a record 1,180 students struggling with mental health left higher education.

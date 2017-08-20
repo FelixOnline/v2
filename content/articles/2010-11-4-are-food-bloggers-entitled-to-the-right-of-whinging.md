@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041820-ma1307-theresaf.jpg"
-image_caption: >
-
-image_attribution: "raffaello/deviantart"
-image_attribution_link: "http://raffaello.deviantart.com/art/There-s-a-fly-in-my-soup-38596997"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041820-ma1307-theresaf.jpg"
+image_caption: ""
 ---
 
 Food is more than mere sustenance; it should be a celebration and a chance for get-together. Food should bring joy, delightful conversations with dining-mates and satiation. Sometimes, however, food brings out more important issues – poverty, governmental corruption, Jamie Oliver’s rather unhygienic habits and, wait for this, freedom of speech.

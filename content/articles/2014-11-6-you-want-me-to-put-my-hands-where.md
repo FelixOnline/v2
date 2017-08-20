@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062113-cj914-class-pic.jpg"
-image_caption: >
-  Diego coaching a new student through a straddle.
-image_attribution: "Facebook"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062113-cj914-class-pic.jpg"
+image_caption: ""
 ---
 
 Last Wednesday, in typical gloomy and rainy weather, myself and eleven other Imperial girls from ICU Pole Dance trekked over to Hammersmith for the society’s very first Aerial ‘taster’ session.

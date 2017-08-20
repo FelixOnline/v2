@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020258-jal08-joffrey2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020258-jal08-joffrey2.jpg"
+image_caption: ""
 ---
 
 As Game of Thrones enters its fourth series, it’s easy to imagine that the show’s writers and producers would be pretty pleased with themselves: the huge success of the show, unforeseen at its inception three years ago, and a vast fanbase that stretches far beyond the usual fans of genre TV means that viewings figures are predicted to stay high for the foreseeable future. After such success, there’s always a risk that the creators might sit back and rest on their laurels, confident that people will watch either way. Thankfully, that shows no sign of being the case for the series so far.

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The results for this year’s Reps and [Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) elections were announced on [Wednesday 24 October.](https://www.imperialcollegeunion.org/news/your-reps-council-elections-results)

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001142230-rsp07-kwameski.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001142230-rsp07-kwameski.jpg"
+image_caption: ""
 ---
 
 Welcome back! A new year, and a new term, are upon us, and 2010 promises to be a massive one in terms of sport. For starters, the winter Olympics are set to kick off in Vancouver next month.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241954-nm1010-casablan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241954-nm1010-casablan.jpg"
+image_caption: ""
 ---
 
 Casablanca, a black and white timeless masterpiece, was released in 1943. The script for the unstaged play on which the film is based fatefully found its way to the desk of a Warner Brothers employee the day after Pearl Harbour, and was rapidly adapted into an iconic wartime romance set in the North African city of Casablanca.

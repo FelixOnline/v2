@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406021413-felix-photo-(1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406021413-felix-photo-(1).jpg"
+image_caption: ""
 ---
 
 Okay, it’s not winter - but summer term is still a high-stress term here in Imperial, we’ll grant you that. Everyone’s got their own comfort foods/snacks (season be damned), favourite eateries, kitchen gadgets they’re biased towards. Even us as Food editors - we’re not going to pretend we don’t have a few favourites of our own; things that keep us going when the chips (hurr!) are down.

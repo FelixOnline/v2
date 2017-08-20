@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
-image_caption: >
-
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
+image_caption: ""
 ---
 
 Students at the school have started a ‘Free Speech Society’ due to what they call the “growing sense of censorship” on campus.

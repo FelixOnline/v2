@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311618-felix-15829773349_c985934aca_o.jpg"
-image_caption: >
-
-image_attribution: "Rafael MArtinez"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311618-felix-15829773349_c985934aca_o.jpg"
+image_caption: ""
 ---
 
 Shakespeare. “Who owns Shakespeare? “. This is the idea Phyllida Lloyd and company set out to challenge with her all-female production of Julius Caesar at the Donmar Warehouse in 2012.

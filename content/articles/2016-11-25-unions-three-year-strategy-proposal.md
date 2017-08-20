@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Union this week released its plan so far for 2017-2020 and opened it up to feedback from the student body. This is the final round of drafting, feedback, and re-drafting of the proposals, in a process that’s been ongoing since the start of this calendar year.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112218-csw09-action%20shot%201.jpg"
-image_caption: >
-  Amazing Fresher Talent
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112218-csw09-action%20shot%201.jpg"
+image_caption: ""
 ---
 
 The Imperial Wolverines had a fantastic start to their season with both teams taking home medals after a suspense-riddled day in Hatfield.

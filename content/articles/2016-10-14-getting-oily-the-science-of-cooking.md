@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141325-so515-3232207824_02269f3768_o.jpg"
-image_caption: >
-
-image_attribution: "James Jordan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141325-so515-3232207824_02269f3768_o.jpg"
+image_caption: ""
 ---
 
 The latest branch of research is all about oil, specifically the daily occurrence of heating up some olive oil in a pan, something most of us don’t even think about.

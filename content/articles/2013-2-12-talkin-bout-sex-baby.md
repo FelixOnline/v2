@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302122024-tna08-song-for-marion-1-585x350.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302122024-tna08-song-for-marion-1-585x350.jpg"
+image_caption: ""
 ---
 
 “Let’s talk about sex baby, let’s talkabout you and me, let’s talk about all the good things, all the bad things that may be, let’s talk about sex!”...hardly something you would expect to hear in a choir that consists of retired pensioners but with the OAPZ (Old Age PensionerZ), formality isn’t their thing. Led by the bright and lovely volunteer music teacher Elizabeth (Arterton), the oldies have a blast singing away to some lively music.

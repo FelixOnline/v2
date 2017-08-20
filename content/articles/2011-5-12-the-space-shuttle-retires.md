@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105122040-felix-space-shuttle-challenger.jpg"
-image_caption: >
-  Space Shuttle Challenger, June 22 1983
-image_attribution: "National Archives, United States of America"
-image_attribution_link: "http://www.nationalarchives.gov.uk/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105122040-felix-space-shuttle-challenger.jpg"
+image_caption: ""
 ---
 
 After being delayed for over two weeks, on the 16th May the Space Shuttle Endeavour is set to blast off into space for the final time. Following this mission, NASA plans to send only one more shuttle into orbit. It will then retire its ageing shuttle fleet after a total of 135 spaceflights.

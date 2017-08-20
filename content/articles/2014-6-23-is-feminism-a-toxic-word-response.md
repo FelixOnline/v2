@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __I’ve been calling myself a feminist for about 10 years, and I started doing so for a simple reason – I believe women and men should be treated equally. I was not going to pretend not to be something because it might make others around me more comfortable.__

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
-image_caption: >
-
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
+image_caption: ""
 ---
 
 A lukewarm candidate turnout marks the beginning of this year’s Leadership Elections, as revealed by the publication of the manifestos earlier last Monday, after nominations closed on Sunday.

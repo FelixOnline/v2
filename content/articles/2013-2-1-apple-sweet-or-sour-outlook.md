@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010109-tna08-apple-stocks.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010109-tna08-apple-stocks.jpg"
+image_caption: ""
 ---
 
 Apple have undeniably changed the world. It used to be the most valuable company on Earth, ever. Now, stockholders are insecure and other brands have come close, if not eclipsed, the atmosphere of ‘coolness’ that Apple once made its own. Have they diverted off their successful path, have they done wrong? Or is this just a momentarily glitch?

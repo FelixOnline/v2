@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203081918-ams111-streptococcus.jpg"
-image_caption: >
-  Inspiring: Streptococcus pyogenes
-image_attribution: "Centres for Disease Control and Prevention"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203081918-ams111-streptococcus.jpg"
+image_caption: ""
 ---
 
 Scientists at the University of Oxford have developed a pair of protein fragments dubbed ‘SpyTag’ and ‘SpyCatcher’ that form an incredibly strong bond. Within minutes of being brought into contact the protein fragments form a covalent bond so strong that when put under pressure, the protein breaks away from the apparatus before the bond breaks. It is effectively a biomolecular superglue – except, due to its good specificity, without the possibility of accidentally sticking to the edge of the test tube or other unwanted molecules.

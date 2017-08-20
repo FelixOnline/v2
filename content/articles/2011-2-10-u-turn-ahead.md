@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102051-ks607-osbornes.jpg"
-image_caption: >
-  George Osborne selling The Big Issue? In 2015 we can make it happen...
-image_attribution: "Joshua Yerrell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102051-ks607-osbornes.jpg"
+image_caption: ""
 ---
 
 Last year the Conservative party and the Liberal Democrats seized power after the 2010 general election and since then the ruling coalition has taken austerity measures, spreading the rumour that UK was on the fiscal brink. They cut governmental employment by 460,000 workers, and slashed public spending including the educational budget and infrastructure. They also raised VAT from 17.5% to 20% this year, which is partly responsible for a rise in commodity prices. The Liberal Democrats, who had pledged to vote against any rise in university tuition fees before the election, tripled the fees last December.

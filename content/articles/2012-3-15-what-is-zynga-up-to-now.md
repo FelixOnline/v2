@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151932-pk1811-zynga-games.jpg"
-image_caption: >
-  Zynga are responsible for many of the most popular games on Facebook
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151932-pk1811-zynga-games.jpg"
+image_caption: ""
 ---
 
 When Mark Pincus founded [Zynga](http://Zynga.com) (named ‘Presidio Studios’ at the time) in April 2007, only a small proportion of the relatively fledgling [Facebook](http://www.facebook.com) user base were aware of the transformative impact ‘social’ would have on their digital lives. Even less appreciated was its application to online gaming, a pastime thought to be the reserve of a generally derided stereotype. But last year Zynga accounted for 12% of Facebook’s total revenue, and a quick look at the monthly active user (MAU) rankings for Facebook apps places Zynga way out in the lead with 240 million, six times the figure for second place. So where did this company come from, and what are its plans for you?

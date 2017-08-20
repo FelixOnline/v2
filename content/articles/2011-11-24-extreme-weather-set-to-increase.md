@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242108-pk1811-hurricane_katrina_august_28_2005_nasa.jpg"
-image_caption: >
-  Hurricane Katrina is often used as an example of extreme weather
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242108-pk1811-hurricane_katrina_august_28_2005_nasa.jpg"
+image_caption: ""
 ---
 
 Last week the [IPCC](http://www.ipcc.ch/) released the executive summary to their special report on extreme events and disasters that will be published in full in February next year. The review looked at extreme events in two ways, first considering how they have changed over the last 50 years and then looking at how models predict they will change in future climate change scenarios. The importance of this is to understand the human and economic damage that could be caused by climate change. The report was welcomed by Simon Brown, the Extremes Research Manager at the Met Office, who [told the Guardian](http://www.guardian.co.uk/environment/2011/nov/18/extreme-weather-climate-change-ipcc), “less emphasis has traditionally been given to these phenomena which are very likely to be the means by which ordinary people experience climate change.”

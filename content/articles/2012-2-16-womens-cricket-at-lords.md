@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
-image_caption: >
-  The ladies in front of the pavillion end... Howzat!
-image_attribution: "IC Cricket"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
+image_caption: ""
 ---
 
 The eagerly awaited BUCS Women’s Indoor Cricket Championships took place on a cold January morning at the world famous Lords Cricket Ground. After a fantastic performance in Southampton, the girls were excited about taking on the tough competition brought to London by Exeter, Bristol, Southampton, Birmingham, Loughborough, Leeds Met and Durham.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080908-felix-screen-shot-2013-11-08-at-09.06.51.png"
-image_caption: >
-  Student bar staff member pouring a pint of cider
-image_attribution: "Joseph Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080908-felix-screen-shot-2013-11-08-at-09.06.51.png"
+image_caption: ""
 ---
 
 A new postgraduate student and staff drinking and social venue on the South Kensington campus is set to open this Friday. In keeping with the Union’s trend of naming its drinking establishments with incredibly nerdy puns, the new space will be called ħ (pronounced h-bar), named after the reduced Planck constant, which is the smallest quantum of angular momentum (with a value of 6.582 x 10-16 eV s). There have been some criticisms of the new name, however according to the Union the name was chosen out of a shortlist of names submitted by staff members and postgraduate students.

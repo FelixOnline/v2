@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105122002-felix-tin-cans.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105122002-felix-tin-cans.jpg"
+image_caption: ""
 ---
 
 Imperial’s own blues maestros, __The Tin Can 44s__, have released their first studio recording: a five-track gem called _The Speak Easy EP_. Everyone who attended the first [Felix Music Night](https://www.facebook.com/pages/Felix-Music-Nights/184739408223656) on the 19th of February will remember The Tin Cans as “that wild bunch of whiskey-swiggers” that kept us grooving during the totality of their tight, raw set. Pretty damn classy, indeed. Their EP was recorded over two day sessions at Alchemea Studios in Angel, Islington, and is available for free up on their Bandcamp.

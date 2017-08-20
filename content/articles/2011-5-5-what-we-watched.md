@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The words "Period Drama" usually conjure up a rose-tinted image of vast country estates, sunshine and happy endings. The fact that The Tudors isn't shown at prime time may lead one to believe that it is just more of the aforementioned – possibly a repeat; rather than the fact that it is actually a massive shagfest.

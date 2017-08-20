@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171721-felix-nws3.jpg"
-image_caption: >
-
-image_attribution: "Theo Farah"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171721-felix-nws3.jpg"
+image_caption: ""
 ---
 
 As I walked along Hammersmith Road to the convention centre, Kensington Olympia, a faltering bundle of nerves, I scanned my brain for excuses not to enter the palatial structure. Fortified by a cocktail of stimulants, I still felt lacking in brass for my foray behind enemy lines. Twenty-one and male, I had been doubly inoculated from the mysterious world of weddings. My only experiences were the odd episode of Bridezilla or Cake Boss, highlight reels of caricatures resplendent in white, crazed by the slightest deviation from plan on their special day.

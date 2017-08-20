@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A deft mix of police procedural and urban fantasy, [Aaronovitch's](http://www.the-folly.com/) Rivers of London follows Peter Grant, police constable in central London and all round nice guy. After coming across a voluble witness to a murder (who himself is already dead), Grant is plunged into the magical and twisted underside of the city and apprenticed (in more ways than one) to England’s last wizard, Inspector Nightingale. Together they must attempt to hunt down a vengeful spirit that threatens to bring chaos to the city whilst avoiding the wrath of varying Chief Constables.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102155-ps3110-senzo-meyiwa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102155-ps3110-senzo-meyiwa.jpg"
+image_caption: ""
 ---
 
 South African football captain Senzo Meyiwa was killed by armed robbers in his girlfriend’s house. It is believed that he was trying to defend his girlfriend before the robbers demanded his mobile phone; a shot was fired in the ensuing altercation. The South African police have launched a major manhunt for his killers, who fled on foot. As a tribute to the goalkeeper, South Africa have moved their upcoming match against Sudan to Durban, which was Meyiwa’s home town.

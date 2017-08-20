@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210291842-tna08-institution_full_510_imperial_college_london_south_kensington_campus_at_night20120906-2-1khskiw.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210291842-tna08-institution_full_510_imperial_college_london_south_kensington_campus_at_night20120906-2-1khskiw.jpeg"
+image_caption: ""
 ---
 
 We are all guilty of not being as green as we could be. I know for one that I am guilty of chucking recyclables in my little desk bin at times when the journey to the recycling bin (just outside of my office) seems too far. Yet I just can’t help but feel that hosting a Green Week is not the way to combat these behaviours.

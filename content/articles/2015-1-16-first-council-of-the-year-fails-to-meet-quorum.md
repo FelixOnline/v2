@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161302-ps3110-dining-hall-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161302-ps3110-dining-hall-2.jpg"
+image_caption: ""
 ---
 
 Union Council met on Tuesday for the first time this year, although with attendance being so low was unable to meet quorum. This means that there weren’t enough students present to allow any papers to pass and any decisions to be made. Email votes are taking place instead on the papers discussed.

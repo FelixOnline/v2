@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192346-kmw13-image1.jpg"
-image_caption: >
-
-image_attribution: "IC Hockey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192346-kmw13-image1.jpg"
+image_caption: ""
 ---
 
 Tonight, the Imperial Devils Ice Hockey team take on the UCL Yetis in the 3rd annual “London Ice Varsity”. The Devils will be eager to retain their unbeaten record, having triumphed two years in a row so far.

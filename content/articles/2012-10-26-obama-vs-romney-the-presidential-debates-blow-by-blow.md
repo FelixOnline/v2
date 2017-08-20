@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
+image_caption: ""
 ---
 
 For the whole month of October, millions of people have held their breath as the highly climatic presidential debates took place, culminating in next Tuesday’s federal election. Beginning on October 3rd, the series of three debates enable the Democrat and Republican hopefuls to hammer their electoral platform onthe American populace and try to smash their opponent’s arguments into pieces. Here’s a recap for those who missed the fights:

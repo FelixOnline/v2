@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111205-felix-the-dresden-files-53f246f8a6b03.jpg"
-image_caption: >
-  The Dresden Files; based on a great series, but the show missed the mark.
-image_attribution: "Syfy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111205-felix-the-dresden-files-53f246f8a6b03.jpg"
+image_caption: ""
 ---
 
 These days it seems like the most popular medium for TV shows to take inspiration from is the literary one. With several books, graphic novels and comics, sometimes with decades of mythology, it’s hard to see why not. When something works in a medium where scenes are static or left to the imagination, then seeing them in action should be something special. These days, there are a large number of successful shows and series which are, in some shape or form, adaptations. So in this piece, I’ll be examining, what makes a good adaptation and what are the key areas TV show creators end up either nailing or ruining.

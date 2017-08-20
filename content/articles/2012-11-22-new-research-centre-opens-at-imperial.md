@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222234-tna08-st-mary-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222234-tna08-st-mary-2.jpg"
+image_caption: ""
 ---
 
 Last week a new research centre opened at Imperial College London in St. Mary’s Hospital: The Imperial Clinical Phenome Centre. This is the second phenome centre to be launched this year in the UK, both centres are based at Imperial College. The centre is led by both Imperial College London and King’s College London, although it has many academic and commercial partners. The centre is said to aim to revolutionise the future of the healthcare sector, translating medical discoveries to better healthcare. Researchers will rapidly analyse the phenotypes of an unprecedented number of samples taken from patients. Blood and urine samples will be used to search for biomarkers that link particular populations of people with susceptibility to certain diseases. Consequently, this will eventually aid in the development of more targeted forms of treatment to combat diseases. Furthermore, this information can guide doctors on how the patient is responding to a particular form of treatment.

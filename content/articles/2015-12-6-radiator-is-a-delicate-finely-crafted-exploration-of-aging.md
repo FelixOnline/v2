@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512061422-ff712-cdm_radiator_stills_058.jpg"
-image_caption: >
-
-image_attribution: "Radiator PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512061422-ff712-cdm_radiator_stills_058.jpg"
+image_caption: ""
 ---
 
 _Radiator_ begins with an everyday nightmare: middle-aged Daniel (Daniel Cerqueira) receives a phone call from his elderly mother, Maria (Gemma Jones), asking him to come up to their Cumbrian home for a couple of days, since his ailing father Leonard (Richard Johnson) cannot move from the sofa. Once he arrives at the house, however, it is clear that things definitely aren’t right. His father has stubbornly bunkered down, and is exercising his tyrannical dominion over Maria; here is a man who, possibly in the early stages of dementia, is frustrated at his reliance on others, and acts out in the only way he knows how – psychologically taking charge of those around him. His cantankerous nature knows no bounds: in one scene he complains to Maria that she has bought the straws ‘with the corrugated neck’, while in the next he is seen snipping off their tops with the precision of an army major. Their house needs to be set in order, but Daniel isn’t up to the task. Instead the amount of clutter in the house slowly grows, infiltrating on the edges of everyone’s lives like a malignancy.

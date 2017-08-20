@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
-image_caption: >
-
-image_attribution: "ICU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
+image_caption: ""
 ---
 
 The Union has launched a new menu and is now a proud server of sweet potato fries. The new dish is another addition to the Union’s growing vegetarian and vegan options in support of Go Green Week (yes, sweet potato fries are vegan, we asked).

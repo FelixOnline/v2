@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210291918-tna08-step1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210291918-tna08-step1.jpg"
+image_caption: ""
 ---
 
 For the perfect pumpkin you will need a pumpkin (surprise surprise), a large spoon, a pencil, a and tea light, one small and one large knife, plus lots of newspaper. If you plan on carving multiple pumpkins it’s best to do it outside. If you’re cutting them inside, be sure to cover the table properly with newspaper.

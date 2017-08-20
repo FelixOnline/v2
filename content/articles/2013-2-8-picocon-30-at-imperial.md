@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080033-tna08-dodm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080033-tna08-dodm.jpg"
+image_caption: ""
 ---
 
 The Science Fiction, Fantasy and Gothic Horror Society is preparing for its annual convention – Picocon. The convention has gone from strength tostrength since it started, with this being its thirtieth anniversary. To celebrate, Picocon 30 is going to be the first ever two day event in the history of the society – taking place over the weekend of February 16-17.

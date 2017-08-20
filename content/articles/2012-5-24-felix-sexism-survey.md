@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205250040-mc4509-sexismspread.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205250040-mc4509-sexismspread.jpg"
+image_caption: ""
 ---
 
 Over the past year, 10 articles and 231 comments have been written about sexism in science and at Imperial. Stephen Smith’s “[Sexism at Imperial College](http://felixonline.co.uk/comment/2167/sexism-at-imperial-college/)” has been viewed over 7,500 times on the Felix website. Sexism is clearly an issue that concerns the Imperial community and 631 of you gave us your opinion by filling in the survey. Thank you.

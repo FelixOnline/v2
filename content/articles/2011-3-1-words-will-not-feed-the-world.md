@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012134-ks607-rainfore.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012134-ks607-rainfore.jpg"
+image_caption: ""
 ---
 
 Last month the United Nations’ global food price index hit its highest peak since its record began in 1990. In doing so it has raised fears of a return to the food crisis of 2008, when high prices sparked violent riots around the world.

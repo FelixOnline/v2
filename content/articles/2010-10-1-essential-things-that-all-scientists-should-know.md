@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010012226-ks607-Dexter.jpg"
-image_caption: >
-  Poor Dexter never made it to Imperial...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010012226-ks607-Dexter.jpg"
+image_caption: ""
 ---
 
 __Five Awesome Science Chat-up Lines__

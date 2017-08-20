@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072055-txl11-diana-vreeland.jpg"
-image_caption: >
-  Needs more red
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072055-txl11-diana-vreeland.jpg"
+image_caption: ""
 ---
 
 Complacency is a cruel mistress. She lures you in with a sense of comfort: that failing an exam, or not getting the degree you wanted, or that mediocrity itself might just be… fine. That you’ll survive, and see tomorrow, and the next day – and nothing will really change. And if nothing changes, there’s nothing to be afraid of. Those ensnared in her trap will drift with the tide, not having to think, or imagining what on earth it might be that could bring life to the days they spend breathing the air, walking the streets, eating their dinner, sleeping dreamlessly through the night.

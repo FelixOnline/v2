@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111123-so515-5439999805_4280c8bcef_o.jpg"
-image_caption: >
-
-image_attribution: "Gage Skidmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111123-so515-5439999805_4280c8bcef_o.jpg"
+image_caption: ""
 ---
 
 They only went and bloody voted for him, didn’t they? By now if you haven’t seen the news that Donald Trump, the Washington outsider, is the 45th President of The United States then I’m not sure if you’ve actually been conscious since Wednesday. For those of you that read the headline and started weeping before you could get past the opening paragraph, fear not as here’s a deeper look into what occurred.

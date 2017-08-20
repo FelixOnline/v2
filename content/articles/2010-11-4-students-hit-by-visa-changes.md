@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 “Unsustainable.” That’s how Damian Green, the immigration minister, described levels of student migration to the UK. The Conservatives have been planning to curb immigration since before the election, and now more than ever it seems that universities will not be spared.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161531-ygr12-img_0791.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161531-ygr12-img_0791.jpg"
+image_caption: ""
 ---
 
 Imperial hub, the volunteering charity whose relationship with the union went sour over the summer, remains in action. In a statement released after Freshers Fair, the Hub gang said they were still committed to projects they had planned before the split, including the London Climate Forum, and Social Innovation Programme.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Lecturers as a profession are very hard to say no to. In general they control your life from the moment you enter college. They set coursework and will demand you spend time on it, even when it is worth 0.1% of your grade. They will set field trips or labs at times that completely don’t work for you, and will expect you be enjoying ever second.

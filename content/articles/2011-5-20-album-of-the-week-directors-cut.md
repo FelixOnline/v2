@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Kate Bush’s first album in six years, a rerecording of tracks from The Red Shoes (1993) and The Sensual World (1989), sees the 52-year-old mother completely reinvogorate albums which became dated very soon after release. This may sound like a cop-out, but the album is a truly fantastic aural experience which, amazingly, sounds utterly contemporary, albeit in a rather experimental way. Every single song is sublime, but the moving Song of Solomon and the truly haunting This Woman’s Work really are stand-out tracks, both subtly better than the originals. The most interesting moment, however, is on the first single from the album, Deeper Understanding, in which Kate autotunes her voice. This is not, however, modern RnB, but a completely credible and artistic use of the hated technique. Even if you aren’t a fan, the album is certainly worth a listen, if only to hear autotune used well.

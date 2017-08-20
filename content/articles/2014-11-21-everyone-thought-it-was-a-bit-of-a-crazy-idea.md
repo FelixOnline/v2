@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211334-ps3110-rosetta_s_philae_lander_on_comet_nucleus.jpg"
-image_caption: >
-  Philae just chillin'
-image_attribution: "ESA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211334-ps3110-rosetta_s_philae_lander_on_comet_nucleus.jpg"
+image_caption: ""
 ---
 
 __How did you get involved with Rosetta?__

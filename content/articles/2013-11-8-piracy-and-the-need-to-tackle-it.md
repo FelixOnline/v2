@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Piracy grips the public imagination. Witness the success of “Captain Phillips”, a film in which a vessel captained by the actor Tom Hanks is hijacked by Somalis. Somali pirate operations have been a major threat to ships in the Gulf of Aden and those bypassing the Indian Ocean. Yet the pirate modus operandi is far from clear to intelligence agencies. In order to contain their activities many organizations have come together to understand their funding operations.

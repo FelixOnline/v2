@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102037-dr910-truegrit.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102037-dr910-truegrit.jpg"
+image_caption: ""
 ---
 
 True Grit was truly a surprise at the Golden Globes. Not for any record breaking achievement but rather for its surprising lack of recognition. The film was hailed as one of the racehorses set for a slew of gongs during the awards season, but gasp! The Coen brother’s latest western was not even graced with a single nomination at the Globes.

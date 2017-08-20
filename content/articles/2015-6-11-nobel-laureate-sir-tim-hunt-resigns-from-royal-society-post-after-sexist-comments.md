@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
-image_caption: >
-  Sir Tim Hunt apparently now recognises that his comments were unacceptable.
-image_attribution: "Huffington Post"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
+image_caption: ""
 ---
 
 Nobel Prize winner and fellow of the Royal Society Sir Tim Hunt has apologised for causing offence and resigned from the Biological Sciences Awards Committee of the Royal Society and an honorary professorship at UCL after sexist statements he made in a recent speech sparked outrage among the scientific community.

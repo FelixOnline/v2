@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131410-felix-16418101707_5185ae7a64_k.jpg"
-image_caption: >
-
-image_attribution: "Bounmy C"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131410-felix-16418101707_5185ae7a64_k.jpg"
+image_caption: ""
 ---
 
 A high-fibre diet protects against bowel infection, thanks to bacteria that normally live in the human gut.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091957-ac1507-ipadipad.jpg"
-image_caption: >
-  If you're really pushing the boat out, get an iPad
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091957-ac1507-ipadipad.jpg"
+image_caption: ""
 ---
 
 __£25 and Under__

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Awkward moments in a GTA’s life come pretty thick and fast. I had hoped to start a new term off well, but 3 months of GTA experience had taught me better. I have several times marked something as completely wrong only to realise five minutes later it is a perfect solution and had to cross out all my notes. I have also had to start calling my lecturers by their first names, which is not only weird and wrong, but also impossible with people who the other staff refer to as Professor. Yet still they insist. Most awfully I’ve had to rebound chat up lines from students. With the MScs and their older wiser ways this is only vaguely embarrassing but by undergrads, who look to me about 12, it is just awful and not cute as my sister determined in her wails of unfeeling laughter.

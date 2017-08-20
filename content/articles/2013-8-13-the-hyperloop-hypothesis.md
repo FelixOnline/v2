@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
-image_caption: >
-  Hyperloop or snazzy remote control?
-image_attribution: "Elon Musk"
-image_attribution_link: "http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
+image_caption: ""
 ---
 
 Los Angeles to San Francisco, a six hour, 382 mile drive along the West coast of the USA. Monotonous and arduous.

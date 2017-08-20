@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251352-felix-nascita-di-una-nazione-the-birth-of-a-nation-1915-david-wark-griffith-01.jpg"
-image_caption: >
-
-image_attribution: "Epoch Producing Corporation"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251352-felix-nascita-di-una-nazione-the-birth-of-a-nation-1915-david-wark-griffith-01.jpg"
+image_caption: ""
 ---
 
 Entertainment, expression, and education - films have it covered. Whilst most people use films for the sake of entertainment to enjoy themselves - to take a break from life’s stresses, to escape from reality - they are also capable of inducing the opposite effect: films have the ability to make you more in tune with reality, to affect reality, and also to shape it. The medium of film, especially in the current day, has a lot of power. And this power makes it a very useful tool in furthering change in our society and worldwide.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
-image_caption: >
-  The Three Dancers (1925)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
+image_caption: ""
 ---
 
 I remember being mesmerised when seeing Picasso’s ‘Guernica’ for the first time in Madrid; the same happened to the millions of Brits who were able to see the imposing painting when it wasfirst exhibited in England. It must be said that it did take them the odd 30 years to actually start appreciating Picasso’s art.

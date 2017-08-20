@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202028-nm1010-brmcbrmc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202028-nm1010-brmcbrmc.jpg"
+image_caption: ""
 ---
 
 Black Rebel Motorcycle Club

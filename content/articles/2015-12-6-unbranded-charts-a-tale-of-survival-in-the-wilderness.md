@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512061359-ff712-home-slider-slide-1.jpg"
-image_caption: >
-
-image_attribution: "Unbranded PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512061359-ff712-home-slider-slide-1.jpg"
+image_caption: ""
 ---
 
 A warm-hearted, generous film, _Unbranded_ charts the journey of four young Texan men as they travel from Mexico to Canada with a pack of wild, ‘adopted’ mustangs. Immediately we are introduced to the high-stakes game they are playing as, during the opening minutes, one is kicked hard in the shoulder, and another desperately tries to control his bucking bronco. Despite the vast vistas on display, during a journey that takes in Idaho, Utah, Arizona, Montana, and Wyoming, _Unbranded_ manages to – like Tommy Lee Jones’ excellent 2014 anti-western _The Homesman_ – make the classic American wilderness seem isolatedly bleak, dangerous, and utterly unforgiving.

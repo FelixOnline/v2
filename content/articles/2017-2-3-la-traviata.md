@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031701-felix-La Traviata-13-01-17-ROH-1094 JOYCE EL-KHOURY AS VIOLETTA VALÉRY © ROH. PHOTO BY TRISTRAM KENTON.jpg"
-image_caption: >
-
-image_attribution: "Tristram Kenton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031701-felix-La Traviata-13-01-17-ROH-1094 JOYCE EL-KHOURY AS VIOLETTA VALÉRY © ROH. PHOTO BY TRISTRAM KENTON.jpg"
+image_caption: ""
 ---
 
 An exhibition of harlotry upon the public stage!” denounced The Times when La Traviata was first staged in London in 1856. Although it is now the most frequently staged opera worldwide, La Traviata’s beginnings were plagued by stern censorship and moral outrage. That a common prostitute should be portrayed in anything other than a negative light – worse, for her to be the star of the show – was a shocking statement to make in the Victorian era.

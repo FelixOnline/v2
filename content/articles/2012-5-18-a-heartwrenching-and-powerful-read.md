@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I don’t usually read a lot of contemporary literary fiction but I’m always looking to broaden my horizons and so I happily picked up Emma Donoghue’s _Room_ when it was selected by the Imperial Book Club as our latest read.

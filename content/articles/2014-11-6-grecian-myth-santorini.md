@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062036-cj914-dsc_0500-copy.jpg"
-image_caption: >
-  The infamous sunset at Oia that has tourists flocking to this island.
-image_attribution: "Emmilyn Yeoh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062036-cj914-dsc_0500-copy.jpg"
+image_caption: ""
 ---
 
 A single mention of Greece would bring squeals from the general public considering the fact that it is typically described as a true heaven by most tourists. I don’t know about you, but it definitely makes me wonder sometimes, does it actually live up to its reputation? I therefore decided to pay a short visit to the Greek islands: Santorini to testify to its postcard beauty and Crete, to check out the dark horse.

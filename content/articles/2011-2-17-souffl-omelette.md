@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171943-nm1010-omelette.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171943-nm1010-omelette.jpg"
+image_caption: ""
 ---
 
 Ingredients:

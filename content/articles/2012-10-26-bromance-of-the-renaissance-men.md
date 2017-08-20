@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260405-tna08-margot-rgb.jpg"
-image_caption: >
-                 Edward Burne Jones, Laus Veneris 1873-8 © Laing Art Gallery
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260405-tna08-margot-rgb.jpg"
+image_caption: ""
 ---
 
 The year is 1848. Railways are being deposited left, right and centre; the Industrial Revolution is in full swing; and next year, Darwin will publish his infamous ‘Origin of Species’. It is no surprise, then, that today, in the 21st century, we always look back on this period as a time of incredible technical progress and profound leaps in our scientific understanding. It is against this fascinating backdrop that three men came together and founded the Pre-Raphaelite Brotherhood, British art’s answer to the complete upheaval of 19th century society. Together, John Everett Milais, Dante Gabriel Rossetti and William Holman Hun sought to rebel against the ‘slavery’ of the modern factory. They wanted to reject the idea that Raphael, the great Italian master, represented the pinnacle of aesthetic achievement. Instead, they decided to draw their inspiration from the freshness of early Renaissance art: the bright colours, flat surfaces and truth to nature.

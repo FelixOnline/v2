@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121705-ks607-deckwqd.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121705-ks607-deckwqd.jpg"
+image_caption: ""
 ---
 
 It’s in theatres like the Old Red Lion, that remind me why I review plays instead of just going to the see them. They want me to like them, and they have a bar – did I mention it was a pub-theatre? It’s a simple, yet highly effective equation. Regrettably though, it seems ORL had banked on the bar doing the talking and had overlooked a key point, viz. the play itself.

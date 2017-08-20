@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271904-ks607-paulpaul.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271904-ks607-paulpaul.jpg"
+image_caption: ""
 ---
 
 They always said they wanted to do a trilogy of genres. First there was Shaun of the Dead (Rom-Zom-Com) then came Hot Fuzz (Thrill-Com) and now we have Paul (Sci-Fi-Brom-Com). All three have the emphasis placed firmly on the comedy aspect but all have different appealing values. This latest venture details the journey of two British nerds on the holiday of a lifetime in America. After visiting Comic-Con (Pegg & Frost love abbreviations!) in San Diego the duo head off on an RV road trip. Their plan is to drive around Nevada visiting all of the alien sites that you find plastered on a thirteen year old’s bedroom walls (Area 51, Roswell, etc). If you’ve seen the trailer, you’ll already know that they run into Paul (the extra terrestrial trying to find his way home) and have to harbour him from the government. The fun commences when Paul, voiced by Seth Rogen, doesn’t turn out to be quite as the pair expect.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101911-nm1010-asteroid.jpg"
-image_caption: >
-  An artist's impression of the Lib Dems' chances at the next general election...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101911-nm1010-asteroid.jpg"
+image_caption: ""
 ---
 
 Of the four billion species that have existed on the Earth, only 1% are still around today. Many of these forgotten creatures became extinct gradually, slowly making way for new ones to evolve and take their place. However, sometimes the rate of extinction can increase so much that more than three quarters of the world’s species are lost in a short period of time.

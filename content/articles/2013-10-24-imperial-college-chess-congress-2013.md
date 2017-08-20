@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
-image_caption: >
-  Imperial College’s FIDE Master Miguel Navarro-Cia (foreground) in action during Round 4
-image_attribution: "John Sargent"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
+image_caption: ""
 ---
 
 Imperial College has had a long tradition of hosting prestigious chess events in London, starting several decades ago with the Kensington Congress – this fell by the wayside somewhat in the early 2000’s but was revived by Imperial College alumnus John Sargent in 2011 with the help of IC Chess Club’s committee and the English Chess Federation.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305011442-tna08-apple-refurbished-store-580-75.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305011442-tna08-apple-refurbished-store-580-75.jpg"
+image_caption: ""
 ---
 
 When it comes to new technology, it can often feel impossible to keep up with the Joneses. As soon as you’ve saved up enough money for one gadget, another brand spanking new one will come along and steal its ‘must-have’ crown.

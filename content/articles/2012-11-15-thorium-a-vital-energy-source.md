@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
+image_caption: ""
 ---
 
 limate change and energy sources are two of the key issues of our time. While our climate becomes more and more volatile by the year, the strain on our planets limited resources is becoming exasperated by the development of large economies such as China and India, which in turn is damaging the climate.

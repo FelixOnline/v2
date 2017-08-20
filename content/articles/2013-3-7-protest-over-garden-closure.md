@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072327-tna08-save-hall-front-page.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072327-tna08-save-hall-front-page.jpg"
+image_caption: ""
 ---
 
 Students are campaigning against the closure of Garden Hall, following reports that it may be turned into office space. The students who started the campaign to save the hall were living in it at the time as either hall seniors or freshers. [They have created an online petition](http://www.change.org/petitions/imperial-college-save-garden-hall), which, following its inception earlier this week, has 725 supporters (at time of going to print).

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172046-nm1010-swimswim.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172046-nm1010-swimswim.jpg"
+image_caption: ""
 ---
 
 Over the last two weekends, the IC swimming team have gone out and tested their credentials on a national level, proving themselves to be a formidable force.

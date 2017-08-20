@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
+image_caption: ""
 ---
 
 In his thirty-ninth “Discworld” novel, ‘[Snuff](http://www.terrypratchett.co.uk/index.php/books/snuff)’, Terry Pratchett takes his beleaguered officer of the law Sam Vimes on a well-deserved holiday (the relaxation bit does not last long, of course) to the countryside. Pratchett has built, over the course of the novels, an entire self-contained universe set on the disc of a world on the back of four elephants standing on the back of the a giant turtle, with a cast numbering in the hundreds.

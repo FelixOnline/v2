@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041552-felix-Screen Shot 2016-11-04 at 15.52.32.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041552-felix-Screen Shot 2016-11-04 at 15.52.32.png"
+image_caption: ""
 ---
 
 ## USA | Hilary vs. Trump, but does it really make a difference?

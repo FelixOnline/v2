@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Five months on from the Summer Ball, the wounds of such a financial loss are still fresh to see. Despite an official ‘debrief’ from Deputy President (Finance & Services) Michael Foster taking place at Monday’s Union Council meeting, areas of ambiguity still remain as to the exact loss that the Ball made, and how such a loss may be avoided in the future. It is for these reasons that Felix supports an independent inquiry into the Summer Ball, as passed by Council on Monday.

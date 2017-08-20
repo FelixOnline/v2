@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272039-ks607-erolalka.jpg"
-image_caption: >
-  Erol Alkan at Parklife festival
-image_attribution: "Conor McDonnell"
-image_attribution_link: "http://www.conormcdonnell.co.uk/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272039-ks607-erolalka.jpg"
+image_caption: ""
 ---
 
 Last Friday saw the promotors [Kill em All](http://www.kill-em-all.co.uk/) hijack the club’s hallowed halls and the music policy was strictly four to floor, ranging the whole spectrum from disco and electro to pounding techno. Filthy Dukes set the tone of the night, a rendition of Green Velvet’s classic ‘It’s Time for the Percolator’ indicated that it was going to be a long one indeed. At midnight, the electro-rock outfit Django Django took to the stage in room 1. Their soaring guitars accompanied with glitchy synths and resonating bass sounded perfect as the club began to fill up.

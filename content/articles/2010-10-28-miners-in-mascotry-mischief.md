@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282052-ks607-Spannerm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282052-ks607-Spannerm.jpg"
+image_caption: ""
 ---
 
 City and Guilds College Union (CGCU) suffered a spanner in the works after a night out at the Archangel club, in which a covert operation was planned to then whisk the beloved mascot, "Spanner", into a high-security compound. However, their plans were foiled by a student of the Royal School of Mines (RSM) who knicked it from under their noses. Now the waiting game begins as the CGCU nervously expect the ransom. A ransom note has been sent to CGCU demanding the following; Firstly that a sum of £200 is paid to RAG, that CGCU 'sort themselves out as a committee and get functioning like a proper union' and a barrel of Becks behind the RSM bar.

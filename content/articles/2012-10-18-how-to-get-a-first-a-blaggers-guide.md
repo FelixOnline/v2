@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182223-felix-oldmanfeature.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182223-felix-oldmanfeature.jpg"
+image_caption: ""
 ---
 
 I‘m not here to tell you how to make notes or to advise you on exam technique. The following are a few dirty tricks that I’ve learnt though my years at Imperial. I’m a physicist so that’s what I’ve written about, but maybe you can transfer some of this to your own course – unless it’s geology, I have no tips on colouring-in.

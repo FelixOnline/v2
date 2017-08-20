@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010080759-ks607-AnishKap.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010080759-ks607-AnishKap.jpg"
+image_caption: ""
 ---
 
 Hyde Park is being turned upside down by Anish Kapoor’s latest exibition. Four new sculptures have been put up in Kensington Gardens in Hyde Park for the next six months, with round-the-clock security guards to protect them against people and their grubby fingerprints. The exibition is being put on by the Serpentine Gallery and Royal Parks together and is entirely free; in short it’s the perfect way to spend that spare hour between lectures.

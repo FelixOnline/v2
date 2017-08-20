@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051146-felix-University Challenge.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051146-felix-University Challenge.jpg"
+image_caption: ""
 ---
 
 Monday evening saw the first outing of the new term for the seemingly unstoppable University Challenge team that is Ben Fernando, Ashwin Braude, Onur Teymur and their captain James Bezer. The team were riding high on the back of their 305-75 demolition of Sidney Sussex, Cambridge, but as we all know, there are no easy games in this league.

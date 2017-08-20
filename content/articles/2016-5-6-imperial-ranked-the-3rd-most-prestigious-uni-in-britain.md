@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
-image_caption: >
-  Mate do you have a safety pin?
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061043-felix-151019_ugcomm_052.jpg"
+image_caption: ""
 ---
 
 Imperial has been named the university with the 3rd best reputation in the UK, and the 15th best in the world.

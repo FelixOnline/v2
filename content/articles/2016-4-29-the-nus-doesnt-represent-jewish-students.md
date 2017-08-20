@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291118-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291118-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
+image_caption: ""
 ---
 
 On Wednesday 20th April, the NUS voted in Malia Bouattia as the first female black Muslim president. It is great that at a time when Islamophobia is increasing and London mayoral candidate Sadiq Khan is pettily attacked over past acquaintances, the largest student body stands together with it’s minorities by celebrating diversity, voting in someone with immense life experience in wartime troubles.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003041252-srg03-Savings.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003041252-srg03-Savings.jpg"
+image_caption: ""
 ---
 
 OK, listen carefully guys, we're going to try and save you some good money in felix this week. For many of us, our mobile phones are a vital part of our lives. However, we often pay well over the odds for them. For instance, did you know the cheapest iPhone 3GS contact comes to £729 (not to mention extra call charges) over the 18 month contract period? Did you know that per megabyte, sending a text message at 10p costs you almost eight times as much as it costs NASA to receive images of outer space from the Hubble Space Telescope?

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171421-felix-theta.jpg"
-image_caption: >
-  That thermometer reportedly cost £10,000
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171421-felix-theta.jpg"
+image_caption: ""
 ---
 
 The age-old Imperial tradition of mascot stealing (also known as mascotry) was once again brought up at Union Council on Monday, in an attempt to create a new, contemporary set of rules to regulate the competitive ‘sport’.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-NHS.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131048-felix-NHS.jpg"
+image_caption: ""
 ---
 
 Yesterday it was announced that Imperial’s bursaries for medics will be spread out over all six years of study instead of just the first four. This is in a bid to ease the financial hardship that notoriously occurs in the final years of a medical degree.

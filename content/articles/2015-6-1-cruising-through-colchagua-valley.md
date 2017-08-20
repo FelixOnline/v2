@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506021232-ync111-montes-winery.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506021232-ync111-montes-winery.jpg"
+image_caption: ""
 ---
 
 A couple of months ago I was just like you: I’d crafted what I thought at the time was the perfect route through South America, cruising merrily along the gringo trail, diverting occasionally for the miscellaneous hidden gems I’d heard about through the grapevine. But as it turned out there were several grapevines missing from the grapevine discussion. Enter Chile’s Colchagua Valley. My initial plan was to call it a day at the Mendozan Malbecs but, following several tastings in the area, my thirst was far from quenched: the time was clearly ripe to search for something new.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251845-mc4509-img_0023.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251845-mc4509-img_0023.jpg"
+image_caption: ""
 ---
 
 We already knew London was the sixth French city, now it also has a synchronized swimming team ranked third in the French University Championship (the French equivalent of BUCS). With its five keen members and two amazing coaches, it was no mean feat for Imperial College Synchronised Swimming team to just to participate to this competition. Being the only university team in the UK, they had no choice but to try to compete abroad.

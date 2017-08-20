@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Before we begin, a disclaimer: Satsumas, clementines, tangerines - basically any easy-peel citrus orange with easy to separate segments you can think of falls under the category of mandarin oranges. Think of it this way - all clementines are mandarin oranges, but not all mandarin oranges are clementines. (Mandarins are usually bigger in Asia...but these will do.)

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182212-felix-alan-sugar.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182212-felix-alan-sugar.jpeg"
+image_caption: ""
 ---
 
 Two weeks ago Imperial saw the launch ICStartup - an initiative that aims to inspire a new generation of student entrepreneurs. It will act as a central hub for entrepreneurial news and events around college, connecting an otherwise disparate and rich ecosystem of societies and organizations that cater to Imperial’s entrepreneurial talent. At the core of the new framework lies an accelerator programme, ICStartup+, which will give students a chance to turn their ideas into successful startups by providing support from experienced entrepreneurs, financial backing and access to a newly refurbished office space, secretly hidden in the upper floors of Beit.

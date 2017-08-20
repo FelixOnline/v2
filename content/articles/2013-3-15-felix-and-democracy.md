@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150051-tna08-felix-old-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150051-tna08-felix-old-cover.jpg"
+image_caption: ""
 ---
 
 Last night I was browsing The[ Big Elections ](https://www.union.ic.ac.uk/elections/)website, pondering my choices of candidates. I decided to watch the Meet the Candidates video: partly because I was getting a bit lost amidst the endless succession of naïve and generic manifestos, but mostly for the comedic gold I’d been hearing about (“it’s known that most young men will engage in an element of burlesque in their lives…”). I should mention at this point that if you haven’t already seen the video I couldn’t recommend it highly enough.

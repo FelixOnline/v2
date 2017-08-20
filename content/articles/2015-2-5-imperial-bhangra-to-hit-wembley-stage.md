@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
+image_caption: ""
 ---
 
 Saturday will see almost 4,000 students come together for the biggest student Bhangra dance competition in the UK. The event is organised by Imperial College London students.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Every four or five years we go along to a ballot box, tick our preferred political party and defer all other decisions to the group that gains power. Most people probably believe this is the best way of running things. We may not even have much to say about education, economics or war, so how could we add to decision making? And why is this being mentioned in the science pages?

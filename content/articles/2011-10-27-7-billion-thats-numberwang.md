@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272358-felix-world.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272358-felix-world.jpg"
+image_caption: ""
 ---
 
 This Tuesday, the UN is expected to name a child, somewhere in the world, as [the planet’s seven billionth living resident](http://www.bbc.co.uk/news/world-15391515). The news has been greeted with alacrity by much of the same planet’s media, most notably The Guardian, which ran articles such as “Why current population growth is costing the Earth”. The idea that population growth is spelling doom for us all is as popular as it is old. It is just as wrong.

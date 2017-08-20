@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Video killed the radio star, tape was hailed to be a killer of music (yes tapes, origin of the term mix tape and sole inventor of yet another use for the pencil) but now is digital content and cloud saving killing nearly all forms of art?

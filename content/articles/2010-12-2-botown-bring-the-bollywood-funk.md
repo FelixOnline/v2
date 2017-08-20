@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
+image_caption: ""
 ---
 
 A week ago I unexpectedly stumbled across [Botown](http://www.botown.co.uk/), a band promising reborn Bollywood grooves with a funk soul twist. I’ve never considered placing these music genres together, especially as their roots lie half way around the world, but the prospect of a night in the Jazz Café with a new take on funk and soul was something I couldn’t pass on.

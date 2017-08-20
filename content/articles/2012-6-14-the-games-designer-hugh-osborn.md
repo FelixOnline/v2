@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
-image_caption: >
-
-image_attribution: "Rhinoa’s Photography"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
+image_caption: ""
 ---
 
 Eleanor - Can you tell us a little bit about the game you’re making at the moment?

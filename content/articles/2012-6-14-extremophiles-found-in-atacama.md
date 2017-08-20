@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142113-ams111-science2.jpg"
-image_caption: >
-  The Atacama desert
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142113-ams111-science2.jpg"
+image_caption: ""
 ---
 
 New microbial lifeforms have been discovered on the slopes of high-altitude volcanoes in the Atacama desert, South America, an area previously thought inhospitable. Temperatures range from -10°C to 56°C, and incident ultraviolet radiation is twice that at sea level in the extremely arid areas where researchers from the University of Colorado took soil samples at over 6000 metres above sea level.

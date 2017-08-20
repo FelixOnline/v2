@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041254-aib116-eye-1756629_1920.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041254-aib116-eye-1756629_1920.png"
+image_caption: ""
 ---
 
 F**act**: blind people don’t see darkness. They see nothing. I’ll admit this seems counter-intuitive; most of us would shout “I can’t see anything” when stumbling around in the pitch-dark. But understanding blindness requires a bit more thought.

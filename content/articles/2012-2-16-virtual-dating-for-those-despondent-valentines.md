@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202171654-pk1811-alyx_vance_head.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202171654-pk1811-alyx_vance_head.jpg"
+image_caption: ""
 ---
 
 __Alyx Vance (HL2 Series)__

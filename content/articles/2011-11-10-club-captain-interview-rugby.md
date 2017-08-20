@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102220-felix-rugby.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102220-felix-rugby.jpg"
+image_caption: ""
 ---
 
 After the mad rush that was Issue 1500, the Club Captains are back for a third interview! This week we feature the Captain of the Imperial College Rugby Union Football Club (to give him his full title), Charlie Esberger.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232107-cac111-dsc06929.gif"
-image_caption: >
-  En garde!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232107-cac111-dsc06929.gif"
+image_caption: ""
 ---
 
 Wednesday afternoon saw the latest chapter in Imperial College Fencing Club’s stellar season unfold. The men’s first team kicked off proceedings in Ethos at 2pm, facing a Durham side who turned up with minutes to spare before the scheduled 2pm start. Confidence was high amongst the guys, having been freshly crowned Southern Premiership champions and only having suffered one defeat all season. Durham, on the other hand, sat at the bottom of the Northern premiership, having lost all their league matches this season.

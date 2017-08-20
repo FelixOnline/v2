@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102054-ks607-amandadi.jpg"
-image_caption: >
-
-image_attribution: "Amanda Diez"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102054-ks607-amandadi.jpg"
+image_caption: ""
 ---
 
 The role that women play in the alleviation of poverty is becoming increasingly apparent in development research. In a sad irony, it is also increasingly clear that they bear the majority of the burden of this same poverty. The figures are alarming – women work two thirds of the world’s working hours but directly earn just 10% of the world’s income – money which they are more likely to spend on education and food for their children than their male counterparts. Women also make up 70% of the world’s poorest people and are underrepresented in society from classrooms to politics (holding just 19% of the world’s parliamentary seats).

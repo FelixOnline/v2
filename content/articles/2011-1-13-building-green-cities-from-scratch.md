@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
+image_caption: ""
 ---
 
 Ecologists and environmental scientists are trying hard to raise public awareness about environmental problems. I believe that everyone understands that we live on a suffering planet which has various increasing needs and demands, which is why cities all over the world have set high targets to reduce carbon emissions and produce clean energy. However, a very interesting alternative has started to evolve. Why not build new “green” cities from scratch?

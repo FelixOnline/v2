@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Tim Hecker’s latest outpouring, Ravedeath, 1972, wraps around the billows of an organ in a church in Reykjavik. Sampled and reconfigured, casting a brume of disbelief, its song is suspended like a gasp in deep sleep. The sounds disintegrate like a snowball melting in your hand. Each remaining echo slipping down a liquefied trace collecting on the underside.

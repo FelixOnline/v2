@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282131-ks607-goldpand.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282131-ks607-goldpand.jpg"
+image_caption: ""
 ---
 
 Gold Panda is a 30-year-old from Essex who produces highly melodic downtempo electronica. He studied at the School Of Oriental and African Studies and also spent several years living in Japan, an experience which heavily influenced his sound. He first gained acclaim in 2009 with his release ‘Quitter’s Raga’, which generated a large amount of hype amongst music websites, and was named the [72nd best song of 2009](http://pitchfork.com/features/staff-lists/7742-the-top-100-tracks-of-2009/3/) by Pitchfork Media. Just two minutes long, the song flutters by on a wave of mangled vocals and samples of Indian instrumentation that change and evolve as the song progresses, and it ends in almost a completely different place to where it started. While in other producers’ hands the abundance of ideas would result in a total mess of a song, Gold Panda’s immaculate arranging of the tune’s individual components mean that it is instead transformed into an endlessly replayable slice of Four Tet-esque electronica.

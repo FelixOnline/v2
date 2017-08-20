@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201055-felix-J Trudeau quantum.jpg"
-image_caption: >
-  Justin Trudeau's basic explanation of quantum computers shouldn't be an exception to the norm.
-image_attribution: "Youtube"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201055-felix-J Trudeau quantum.jpg"
+image_caption: ""
 ---
 
 The recent election season has got me in the political spirit, and I have been reminded of the shameful situation that continues to both bemuse and inflame me: the Science and Technology Select Committee. This grand, administrative behemoth, whose expansive remit covers everything from big data to genetics, with its cross-party composition and its inquiry-laden legislature, sets the national agenda on science policy. In a world where science policy is of growing importance, occupying all the top spots on international issues, be they climate change or viral pandemics, the UK Government needs to take leadership and forge the path to a sustainable future.

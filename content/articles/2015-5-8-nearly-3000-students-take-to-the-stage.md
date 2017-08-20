@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505080107-ps3110-postgradgrad.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505080107-ps3110-postgradgrad.jpg"
+image_caption: ""
 ---
 
 The Royal Albert Hall played host to this year’s Postgraduate Graduation ceremony on Wednesday, seeing the largest ever cohort of students cross the stage.

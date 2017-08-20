@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
-image_caption: >
-
-image_attribution: "betadaily.com"
-image_attribution_link: "http://www.betadaily.com/2010/02/07/professional-business-plan-writer/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
+image_caption: ""
 ---
 
 If you are a young, aspiring entrepreneur, with an idea that will earn you millions (or at least enough money to pay for drinks on a night out), you are likely to eventually receive a speech from an older, more experienced entrepreneur on the importance of writing a business plan. A business plan describes the business, its objectives, its strategies and its market, allowing you, the entrepreneur, to give answers to the questions you are bound to have.

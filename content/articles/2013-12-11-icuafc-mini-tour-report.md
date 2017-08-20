@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At 2pm on Friday 22nd November the first impatient members of mini-tour arrived in the Union, for a live #AskMattCann. Like moths to a flame the remaining 34 touring rangers arrived to finally set eyes on the fabled tour tops. A rather fetching yellow and black number had been hand-picked from the literally tens of other options, and was met with looks of disgust from some and approving discussions of where it sat on the ICUAFC Kit Pengness scale from others.

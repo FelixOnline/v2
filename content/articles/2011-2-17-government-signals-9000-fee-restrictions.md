@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171911-ks607-nickcleg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171911-ks607-nickcleg.jpg"
+image_caption: ""
 ---
 
 Imperial’s [plan to join](http://www.felixonline.co.uk/?article=805) the [gentlemen’s club of universities](http://www.guardian.co.uk/education/2011/feb/09/oxford-cambridge-9000-fees) charging the maximum £9,000 for tuition fees from the 2012 academic year will come with restrictions from the government.

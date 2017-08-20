@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
-image_caption: >
-
-image_attribution: "Thomas Lim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
+image_caption: ""
 ---
 
 College has slashed the Amenity funds for Halls of Residence by a quarter of a million– a move that has sparked fury amongst Hall Seniors and Wardens throughout the first few weeks of term.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
+image_caption: ""
 ---
 
 Most of us believe that leeches belong to the category of the most disgusting and dangerous creatures of this world. They can, however be beneficial for people’s health.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101929-ks607-internat.jpg"
-image_caption: >
-  British universities would suffer financially from a drop in international student numbers
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101929-ks607-internat.jpg"
+image_caption: ""
 ---
 
 The government is reconsidering its student visa proposals announced at the end of January. These included raising the minimum level of English proficiency required for entry, limiting opportunities for work experience and part time work for students, total abolishment of the post-study work route and restricting the number of dependants that can enter the UK with students. After “[profound concern](http://www.guardian.co.uk/theobserver/2011/mar/05/letters-international-student-cuts)” expressed by sixteen university vice-chancellors in a letter to the Observer, universities minister, David Willetts, has said that the government is considering reforming rather than scrapping the post-study work route as well as re-thinking its restrictions on entry of dependants.

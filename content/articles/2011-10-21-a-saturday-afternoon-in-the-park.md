@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211126-felix-bluearts.png"
-image_caption: >
-  Trouser presses and biros are not friends
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211126-felix-bluearts.png"
+image_caption: ""
 ---
 
 Picture the scene: Regent’s Park on a sunny Saturday afternoon. Families are out, the squirrels are being pretty inquisitive and the pedal boats on the lake are politely bumping into each other. In the middle of it all, a sprawling white structure with a pretty weird wooden entrance, out of which snakes a long queue. Next to it sits the entrance for people who already have tickets - little groups of stylishly dressed (to not use the word arty) people filter into the airy white tent in pretty excited fashion.

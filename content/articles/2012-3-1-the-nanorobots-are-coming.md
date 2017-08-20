@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012106-ams111-dna-nano-robot.jpg"
-image_caption: >
-  Is it just me or do these look like hammocks?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012106-ams111-dna-nano-robot.jpg"
+image_caption: ""
 ---
 
 The once distinct lines between fact and science fiction are getting increasingly blurred almost on a daily basis. This month, it’s biology taking the lead. The Wyss Institute, a department committed to Biologically Inspired Engineering at Harvard University, recently unveiled its first ever cellular robot. It could be little to no time before these miniature machines are flowing through your body as they look to be the big players in medicine for the future.

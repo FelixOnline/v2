@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Week 6 in a GTA calendar is filled with the undergraduates’ horror of fifth week mid-term tests. I honestly never thought that marking papers could be worse than sitting them. I was certain that this would be the subject of my confession today. However, on Monday I was highly irritated, which I know is fairly easy for me, but nevertheless this kind of behaviour should be stamped out immediately as it was certainly not like this in my day...

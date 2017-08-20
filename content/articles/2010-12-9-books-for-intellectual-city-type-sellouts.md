@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
+image_caption: ""
 ---
 
 The only function of economic forecasting is to make astrology look respectable” said Ezra Solomon. For more funny lines from ivory tower economists, the fantastic ‘[Freakonomics](http://www.amazon.co.uk/Freakonomics-Economist-Explores-Hidden-Everything/dp/0713998067)’ and ‘[Superfreakonomics](http://www.amazon.co.uk/Superfreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/071399990X)’ books by Steven Levitt and Stephen Dubner (both £5.30 from Amazon, £7,99 for kindle) show the power of economics in real world situations. With chapter titles such as “Why are Street Prostitutes like Department Store Santas,” you can be sure it’s very irreverent in tone. They’re written for a general, wide audience and are delightful introduction books to the field of economics in general.

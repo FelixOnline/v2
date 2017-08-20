@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071423-ks607-tumblr_lniuaig37f1qbd529o1_r1_500.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071423-ks607-tumblr_lniuaig37f1qbd529o1_r1_500.jpeg"
+image_caption: ""
 ---
 
 __Clams Casino__

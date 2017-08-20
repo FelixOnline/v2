@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The British railway system is the biggest example of the failures of privatisation. I’m not old enough to remember the change, but I’m sure the arguments were the same as those touted today for the privatisation of other well-functioning institutions: “private companies will run an efficient service, and competition with each other will improve that service while driving down prices.” This school-level economic argument hinges on consumer choice, but when it comes to transport, there is none.

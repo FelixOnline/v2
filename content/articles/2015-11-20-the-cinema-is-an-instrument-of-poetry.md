@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200915-ygr12-belle-de-jour.jpg"
-image_caption: >
-  Catherine Deneuve in the French drama, Belle de Jour, directed by Buñuel in 1967.
-image_attribution: "MUBI"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200915-ygr12-belle-de-jour.jpg"
+image_caption: ""
 ---
 
 Luis Buñuel Portolés was a Spanish filmmaker who worked in Spain, Mexico, and France. Born in 1900, at the very beginning of the new century, he lived to witness two world wars, as well as the liberation of Spain from Francisco Franco’s 36-year-long dictatorship, before his death in 1983.

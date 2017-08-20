@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261142-felix-Bone-Tomahawk-kurt-russell.jpg"
-image_caption: >
-  Kurt Russell, stealing scenes as the town sheriff, in the bloody, brutal Bone Tomahawk.
-image_attribution: "Shutterstock"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261142-felix-Bone-Tomahawk-kurt-russell.jpg"
+image_caption: ""
 ---
 
 Typical. You spend ages waiting for a blood-spattered neo-Western film, and then three come along at once. In the past few months Quentin Tarantino made a welcome return with his potboiler gore-fest _The Hateful Eight_, Leonardo DiCaprio dragged himself through miles of wilderness in _The Revenant_, and now we have _Bone Tomahawk_, a horrific traipse through cannibal-infested deserts, directed by screenwriter and author S. Craig Zahler. Midway between them, _Bone Tomahawk_ manages to be more inventive and memorable than either.

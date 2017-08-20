@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Kung Hei Fat Choi! The year of the horse has once again arrived and if you feel like having something festive, but find Chopstix slightly too greasy, here’s a healthy recipe for you!

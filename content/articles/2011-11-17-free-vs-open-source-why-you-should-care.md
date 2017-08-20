@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
+image_caption: ""
 ---
 
 I recently had the opportunity to attend a talk by Richard Stallman, founder of the Free Software Foundation, and a strong Free software advocate. He spoke on Free software, and the rights of us all as users of software, and in the process he brought something to my attention.

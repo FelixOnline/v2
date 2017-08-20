@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060920-felix-asus_eeepadtransformer_4.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060920-felix-asus_eeepadtransformer_4.jpeg"
+image_caption: ""
 ---
 
 This Easter heralded a slew of new tablet announcements, and the brightest of the latest generation of iPad contenders finally brought some variety and innovation to the tablet market. One of the best of these was the [Eee Pad Transformer](http://uk.asus.com/Eee/Eee_Pad/Eee_Pad_Transformer_TF101/), a device that combines ASUS’s netbook prowess and a bit of detachable-screen goodness to offer a tablet experience that doesn’t necessarily mean sacrificing on productivity.

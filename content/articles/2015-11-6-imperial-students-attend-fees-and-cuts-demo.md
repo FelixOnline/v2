@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061332-ygr12-tiny.jpg"
-image_caption: >
-  Should protests be this fun?
-image_attribution: "Cale Tilford"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061332-ygr12-tiny.jpg"
+image_caption: ""
 ---
 
 Wednesday saw 10,000 students, including several from Imperial, march for free education. The protest was organised by the National Campaign Against Fees and Cuts. Kieran Ryan (pictured) organised the Imperial bloc, which included the union’s elected Deputy President of Welfare and campaigns officer.

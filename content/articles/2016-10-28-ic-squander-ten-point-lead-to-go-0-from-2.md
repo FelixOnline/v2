@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610281750-aib116-DSC_0074.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610281750-aib116-DSC_0074.JPG"
+image_caption: ""
 ---
 
 ICURFC 1st XV turned up to a surprisingly calm Harlington, looking for their first victory of the season against the University of Surrey. With stand-in skipper Mike Wright choosing to go against the wind and the slope, IC started strongly with the new structure appearing to work successfully. The Front Row Union were heavily involved from the start with neat handling along with debutant Adam Dowkes, making some strong carries.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
+image_caption: ""
 ---
 
 This is it, then. The big one. The one you’ve all been waiting for. I don’t know about the rest of the Felix team, but I hope you have as much fun reading this one as us editors down here have had doing it.

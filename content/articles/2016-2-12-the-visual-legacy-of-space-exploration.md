@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121136-felix-1..jpg"
-image_caption: >
-  Saturn, dark side of the rings.
-image_attribution: "NASA/JPL/Michael Benson, Kinetikon Pictures, courtesy of Flowers Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121136-felix-1..jpg"
+image_caption: ""
 ---
 
 The latest offering from the Natural History Museum is a photography exhibition titled _Otherworlds_. Like all great collections of art, it aims to intrigue the intellect as well as stir the emotions. In its own words, _Otherworlds_ aims no less than to “embod[y] the symbiosis between art and science”, and “simultaneously reveal the ethereal beauty of far-off worlds and clues to how the solar system…began”.

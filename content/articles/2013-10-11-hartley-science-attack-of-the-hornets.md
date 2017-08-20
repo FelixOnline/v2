@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310300323-frh10-china-hornet-vespa-mandarinia_72212_600x450.jpg"
-image_caption: >
-  The giant hornet, Vespa mandarinia
-image_attribution: "Alastair Macewen, Oxford Scientific/Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310300323-frh10-china-hornet-vespa-mandarinia_72212_600x450.jpg"
+image_caption: ""
 ---
 
 Here we are at the end of the first proper week and here’s a new spread of science to educate and hopefully entertain you. Philippa introduced me as a ‘bubbling biologist’ last week, which is an exaggeration, but true to form this week’s news story that has struck me is a biological one.

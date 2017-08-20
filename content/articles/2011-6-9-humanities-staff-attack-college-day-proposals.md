@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Staff from the Humanities Department have attacked [the proposed changes to the College day](http://felixonline.co.uk/news/1251/two-hour-lunchtime-could-be-abolished/), saying that there are “serious reasons why [the proposals] will not work” and suggesting that they marginalise and devalue humanities courses.

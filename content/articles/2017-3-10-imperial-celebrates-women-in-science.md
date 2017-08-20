@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101316-felix-17212238_10155031808886838_31365007373657929_o.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101316-felix-17212238_10155031808886838_31365007373657929_o.jpg"
+image_caption: ""
 ---
 
 Tuesday evening saw the launch event of the Women@Imperial Week in the College Main Entrance. Women@Imperial Week is an annual celebration of the achievements of past and present female staff and students at Imperial.

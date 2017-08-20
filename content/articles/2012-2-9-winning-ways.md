@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092310-pk1811-ichc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092310-pk1811-ichc.jpg"
+image_caption: ""
 ---
 
 Undefeated so far this season (with only one draw to compliment our string of wins), we arrived at the Staines pitch in high spirits, despite the freezing temperatures and remains of snow on the sidelines. One rapid warm-up later, and we were underway.

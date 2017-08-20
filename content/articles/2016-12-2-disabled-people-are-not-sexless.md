@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021736-felix-Screen Shot 2016-12-02 at 17.36.00.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021736-felix-Screen Shot 2016-12-02 at 17.36.00.png"
+image_caption: ""
 ---
 
 Life is hard, and finding our way through the labyrinth of dating, relationships, and sex is one of the hardest and most formidable tasks we face as millennials. One thing that’s usually a given is that we all like sex (unless you’re asexual, which is totally okay, or you make the choice not to have sex for whatever reason (whether it’s because it causes you pain or mental turmoil, or because you believe that it is an affront to God), which is also totally okay). But when it comes to hunting for a potential mate (or mates), we often have a very narrow view of who fits into our dating pool.

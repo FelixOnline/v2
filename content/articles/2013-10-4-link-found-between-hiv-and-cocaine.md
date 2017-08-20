@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
-image_caption: >
-  HIV Molecule
-image_attribution: "forcollegeandcommunity"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040135-jal08-sci_hiv-copy.jpg"
+image_caption: ""
 ---
 
 It is a drug whose users come from across all walks of life; from traders in the big cities to celebrities in the bathrooms, cocaine is a substance commonly associated with excess, confidence, and power. This week scientists also drew links between this Class A drug and something far less desirable; research conducted by University of California, Los Angeles (UCLA) has found that cocaine use may increase the possibility of successful HIV infection, and not just due to lifestyle choices alone.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
-image_caption: >
-  Not everything about diversity is always inspiring and positive. It can be a scary and alienating experience.
-image_attribution: "Duncan Philips"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
+image_caption: ""
 ---
 
 “London is a world-class international city with people coming from diverse cultures and backgrounds. This, I believe, will allow me to enhance my communicative skills and learn to adjust myself to different environments.”

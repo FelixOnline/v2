@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041857-ma1307-fbstalki.jpg"
-image_caption: >
-  FireSheep is a little more subtle than this...
-image_attribution: "Kadhim Shubber"
-image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041857-ma1307-fbstalki.jpg"
+image_caption: ""
 ---
 
 Wireless network security has very often been the subject of criticism, and a proof of concept tool released two weeks ago called [FireSheep](http://codebutler.github.com/firesheep/) outlined how a combination of security problems on websites and wireless networks can result in the disclosure of personal information. Felix was able to use FireSheep in certain areas on campus to gain access to over twenty unsuspecting users’ Facebook, Twitter, Flickr, Tumblr and Gmail accounts.

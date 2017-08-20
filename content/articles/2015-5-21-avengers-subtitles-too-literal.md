@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505220022-jmm311-avengers-hulkbuster.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505220022-jmm311-avengers-hulkbuster.jpg"
+image_caption: ""
 ---
 
 _A__ge of Ultron_ is rapidly approaching a worldwide box office take of one billion US dollars (a touch under £650 million), but that doesn’t mean it hasn’t encountered its fair share of problems.

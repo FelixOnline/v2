@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230002-tna08-_001-(1).jpg"
-image_caption: >
-  Lizzy Griffith's amazing drawing
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230002-tna08-_001-(1).jpg"
+image_caption: ""
 ---
 
 This week the biggest libel case in legal history was launched – thousands of people are potentially facing legal action and most of them are ‘normal people’. Why? Because anyone who tweeted or re-tweeted Lord McAlpine’s name in relation to child abuse allegations is going to get a letter from his lawyers, and it doesn’t matter if you deleted it later.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102215-tna08-debby.jpg"
-image_caption: >
-
-image_attribution: "Jan Piotrowski"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102215-tna08-debby.jpg"
+image_caption: ""
 ---
 
 [Debby Shorley, the Director of Library Services, has retired](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/library/newssummary/news_17-12-2012-10-19-10).

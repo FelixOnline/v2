@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What can be so interesting about an old but loving married couple who could not be happier with their lives? According to Mike Leigh, the director of one of this year’s best films, quite a lot. In a film that is separated over one year, it’s the people around them that present all the complex emotional problems with the four seasons bringing about four unique episodes of supporting characters with their own struggles. For Tom (Jim Broadbent) and Gerri (Ruth Sheen), the blissfully married couple, the coming year is just “Another Year,” but a year can bring out so much pain in others, pain that they have to acknowledge and deal with.

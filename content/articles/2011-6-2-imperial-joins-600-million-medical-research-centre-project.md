@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021908-felix-ukcrmi.jpg"
-image_caption: >
-
-image_attribution: "Justin Piperger Photography/Wadsworth3d"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021908-felix-ukcrmi.jpg"
+image_caption: ""
 ---
 
 Imperial and King’s College London are set to become involved in the construction and development of a London-based ‘world-leading’ medical research centre, the Francis Crick Institute.

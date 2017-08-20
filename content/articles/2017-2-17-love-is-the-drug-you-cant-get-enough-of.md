@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171559-felix-Screen Shot 2017-02-17 at 15.59.15.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171559-felix-Screen Shot 2017-02-17 at 15.59.15.png"
+image_caption: ""
 ---
 
 Let’s be real. Love is a drug. It inhibits our ability to think clearly, turns us into terrible people, and makes us do stupid things. Face it, it’s far more harmful than a few hours gurning at the weekend. But just like with drugs, there are different kinds of highs, and so now, in honour of the just-passed Valentine’s Day, I present you the different people you have fallen in love with, and the associated stupid things they will make you do.

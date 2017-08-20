@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182258-jal08-arts-eno-die-fledermaus---web.jpg"
-image_caption: >
-  Erm… what?
-image_attribution: "Robert Workman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182258-jal08-arts-eno-die-fledermaus---web.jpg"
+image_caption: ""
 ---
 
 __What:__ Die Fledermaus with the English National Opera

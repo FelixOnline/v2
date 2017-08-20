@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022015-ks607-juddnels.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022015-ks607-juddnels.jpg"
+image_caption: ""
 ---
 
 Ever felt like your parents don’t understand you? Do they put pressure on you to achieve? Do they spoil you? Beat you? Or worse, ignore you? Everything is their fault. In fact, all adults just don’t understand kids, because ‘when you grow up, your heart dies’. Or so I’ve learnt from watching John Hughes’ 80s classic [The Breakfast Club](http://www.imdb.com/title/tt0088847/).

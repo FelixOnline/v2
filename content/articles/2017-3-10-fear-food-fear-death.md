@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101333-felix-White-chocolate-strawberry-cheesecake1.jpg"
+image_caption: ""
 ---
 
 Last week I was at a posh restaurant, because pretending to have money with mediocre savings is this new and dangerous trend I have undertaken. Dessert being my ultimate weakness, I made a big deal out of the pre-dessert and dessert. Meringuelets shrouded in freeze-dried raspberries, swimming blissfully in Chantilly. Then, a brown sugar tart with a delicate scoop of stem ginger ice cream. The ice cream melted atop the chocolate mousse nestled under a skinny membrane of coffee jelly, and I started to think about the unspoken connections between food, body and mind.

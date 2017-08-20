@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The opening of the new Imperial College Union venues FiveSixEight (can’t they count?) and Metric has been delayed by 3 weeks and 1 month respectively. Disappointed students will have to wait until the 18th of October to experience the new bar FiveSixEight and the 29th of October for the new club Metric.

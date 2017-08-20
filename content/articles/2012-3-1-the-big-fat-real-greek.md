@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
-image_caption: >
-  A glass of Ouzo and plenty of mezes make the crisis fade away
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
+image_caption: ""
 ---
 
 _Many of you may feel a bit unwilling to visit a Greek restaurant because of Greece’s absurd and unjustifiable dealing of its politico-economic crisis. Besides, it is a fact, especially for those studying economics, that a country so small as Greece and with such a small and limited economy, can easily drag down healthy(?) economies such as America’s, the UK’s and Europe’s. However, we suggest you try to forget for a moment that all our problems’ source is Greece and enjoy some delicious food!_

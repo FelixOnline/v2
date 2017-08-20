@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The audience were in complete silence for 64 minutes. Everyone was hanging onto every single word that Lilly Ebert, a Holocaust survivor, spoke. Her story is another one of the countless testimonies we have all been listening to since the survivors vouched to share their stories again and again so that we could prevent something so tragic, so monstrous, so inhumane from ever happening again. Have we learned our lesson though?

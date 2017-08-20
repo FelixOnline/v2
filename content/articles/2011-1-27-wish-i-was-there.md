@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
+image_caption: ""
 ---
 
 January is generally not the best month in anyone’s year. What passed for enjoyable, seasonal weather in December has become dreary, cold and depressing in the new year. For all Imperialites, the first month of the year is stressful, sleep-scarce and just generally bollocks.

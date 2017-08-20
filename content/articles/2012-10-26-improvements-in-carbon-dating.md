@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A new study of sediment cores from Lake Suigetsu, Japan, has the potential to improve the accuracy of the radiocarbon dating techniques used widely by archaeologists and climate scientists.

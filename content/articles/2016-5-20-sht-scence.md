@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
-image_caption: >
-  The study suggests that our ancenstors might have had a better diet than us, but maybe they just never stopped eating.
-image_attribution: "Mike Mozart"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence we like to defend the lil’ science, the science that gets bullied, the science that gets wedgies from the bigger sciences when it tries to speak up, because we believe that every science, no matter how puny, has value and should be respected. This week: archaeology. Need I say more?

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051407-felix-david-cameron-010.jpg"
-image_caption: >
-  “Damn it, Ed stole Disraeli”
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051407-felix-david-cameron-010.jpg"
+image_caption: ""
 ---
 
 It’s conference season, that time of the year when the parties’ eyes are all (overtly, at least) focused on the upcoming general election, and reading some of the coverage of this weeks’ Labour and Lib Dem events you’d be forgiven for thinking it was due to take place in a couple of months rather than years. The Tories’ have even launched their first anti-Labour poster of the election campaign: a crude bit of photoshopping of which Lord Ashcroft said “If I had recently donated funds to the Tories I would be asking what on earth CCHQ thought it was doing with my money.” [Might we recommend you contact the Felix team for better graphics works?]

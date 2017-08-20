@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
-image_caption: >
-  Hellen van Meene, Untitled (79), (2000)
-image_attribution: "Hellen van Meene and Yancey Richardson Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
+image_caption: ""
 ---
 
 Hellen van Meene’s works combine this unsteady storyline with a heady mix of sensual textures and colours. Her works are celebrations of surface, with Vermeer-light like dappling across her subjects, bringing an incredible sense of tactility. Janaina Tschape’s work shares this obsession with tone, and both her and van Meene’s works are reminiscent of Francesca Woodman’s haunting self-portraits, albeit with less of an emotional punch.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105270038-felix-img_7798.jpg"
-image_caption: >
-  Girls at Herish School in Keleckchi Collective Town
-image_attribution: "Sarah Wilson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105270038-felix-img_7798.jpg"
+image_caption: ""
 ---
 
 Much like the fashion houses of Milan and Paris, each season seems to bring with it a new or reinvented world crisis, whether it be natural or man-made. Iraq hasn’t yet reached the status of a likely holiday destination and yet trouble in other countries close by has overcast the problems left by decades of international and civil war, largely inflicted upon its population by Saddam Hussein’s regime. In a trend that seems to be becoming the norm, the western world stepped in to alleviate what it believes to be the bee in its bonnet, without realising there was a whole hive overhead.

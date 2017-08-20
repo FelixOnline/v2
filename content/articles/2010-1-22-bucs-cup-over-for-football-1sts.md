@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221314-ks607-football.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221314-ks607-football.jpg"
+image_caption: ""
 ---
 
 The 3rd round of the BUCS brought a mouthwatering tie between the flagship footballing sides of Imperial and Reading University. With both ties securing promising results in BUCS it was set to be hard fought game.

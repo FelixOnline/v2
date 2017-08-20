@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282053-ks607-southama.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282053-ks607-southama.jpg"
+image_caption: ""
 ---
 
 The lowdown: Once reserved for the likes of more experienced backpackers, South America is now a haven for anyone wanting to escape the normality of home. Budget accommodation and tour operators are frequent and more than willing to provide you with services, and the area is also becoming increasingly safe for tourists as local troublemakers begin to see the long-term benefits that tourism can provide the economy.

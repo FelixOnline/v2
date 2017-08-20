@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305072036-tna08-tulum-3.jpg"
-image_caption: >
-
-image_attribution: "All photos: Stephanie Walton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305072036-tna08-tulum-3.jpg"
+image_caption: ""
 ---
 
 Mexico receives such bad press these days that it is hard to believe it has a safe and beautiful peninsula kicking out into the Caribbean Sea. There are white beaches, fascinating Mayan ruins and magnificent colonial cities. It seems that the only two drawbacks to this balmy “Yucatán” Peninsula are that place names are unpronounceable (try “Xkeken” or “Xcaret”) and that although the street food looks great, it might be regretted later.

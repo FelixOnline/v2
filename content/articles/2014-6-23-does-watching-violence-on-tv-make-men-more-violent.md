@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231552-jal08-prince-oberyn-got.jpg"
-image_caption: >
-
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231552-jal08-prince-oberyn-got.jpg"
+image_caption: ""
 ---
 
 New research has shown that men watching more violence on television could result in stunted in brain development, and the inability to control impulsive behaviours, including aggression.

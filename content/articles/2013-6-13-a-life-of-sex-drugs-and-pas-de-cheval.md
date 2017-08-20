@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132330-tna08-balletarts.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132330-tna08-balletarts.jpg"
+image_caption: ""
 ---
 
 Mayerling is dark and majestic ballet which depicts the decadent splendour of the Austro-Hungarian empire. It is based on the life of the tormented Crown Prince Rudolf who after forcefully marrying Princess Stephanie of Belgium is drawn into a spiral of political intrigue, violence, drugs, obsessive love and insanity. This true story of the downfall of the Crown Prince Rudolf drags in everyone around him from members of the Austro-Hungarian Royal family, to friends, lovers and servants. They lived in a time when corruption was rampant, hypocrisy endemic and decadence unavoidable; thus, there is no character that remains untarnished by the end.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230009-tna08-maks%20nage.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230009-tna08-maks%20nage.jpg"
+image_caption: ""
 ---
 
 It is a Sunday morning in Finsbury Park. Unusually for London in November, the sun’s rays play across the city, giving relief from the slight chill in the air. The lack of any discernible tension in the air conceals the fact that the area will soon see the commencing of the 2012 British Shorinji Kempo Federation (BSKF) Taikai Competition.

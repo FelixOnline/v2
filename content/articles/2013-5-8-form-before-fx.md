@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305081445-tna08-look-44.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305081445-tna08-look-44.jpg"
+image_caption: ""
 ---
 
 After marching through the tourists packing Tower Bridge, I was worried that the Design Museum might be hidden amongst the cafés and small shops of the narrow brick walkways lining the riverside. Of course, it wasn’t. Bright, white, shining at the end of, rather than part of, a shadowy almost-alley, it is a building that exudes contemporary, minimal, and understated.

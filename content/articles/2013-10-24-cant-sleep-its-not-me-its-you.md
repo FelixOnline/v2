@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250055-felix-sleep-deprivation-2.jpg"
-image_caption: >
-  Everybody knows that sleeping on a book allows knowledge to enter your brain by osmosis, guaranteein
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250055-felix-sleep-deprivation-2.jpg"
+image_caption: ""
 ---
 
 __Friend 1:__ Isn’t it really difficult for you to get the books from the top shelves in the library?

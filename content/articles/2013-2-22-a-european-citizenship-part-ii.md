@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220153-tna08-europe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220153-tna08-europe.jpg"
+image_caption: ""
 ---
 
 In[ last week’s article](http://felixonline.co.uk/comment/3309/a-european-citizenship/) I discussed some of the reasons why European integration is necessary. However in recent years, due to the economic crisis, it has been the shortcomings of the union, rather than its advantages, which have been under the spotlight. This financial crisis, although it originated in America due to the private debt bubble, soon spread in the fertile ground of European public debt. The banks that were impoverished by the crisis could not lend money to the states, which in turn struggled to pay back their debt. The countries not able to cope with debt, and unable to devalue their currency like in the past, were forced to ask the European Union for help. This started the process of bailouts and austerity. It also started to draw criticism towards the Euro. It was deemed too weak and, according to some, destined to fail. I could not agree more. However it is not because the Euro project is wrong or utopic; the Euro was doomed due its systemic weakness. The European jurisdiction, in fact, divides the powers between the ECB and the national governments in a way that does not let them to effectively confront their debt. The ECB has powers to oversee the monetary policies, and yet no control on public debt and no right to issue European bonds; on the other side the national governments have little or no control on monetary policy. This creates an instability that will necessarily crush any attempt at a single currency. There are therefore two options: one is to abandon the Euro; the other is to remove these systemic flaws. If we are to keep the Euro, the symbol of European economic integration, more central European oversight on national debt is necessary, and it needs to be accompanied by the famous Eurobonds. This should be and is the aim for the EU in the short term.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
-image_caption: >
-  Oh no!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
+image_caption: ""
 ---
 
 Following the interlude at the _Felix Music Night _last weekend, __Music Tech Society__ return to Metric next Saturday 26 November with their first We Are Metric night of the year. Given the Union’s new policy on clubs & societies requiring a special theme in order to host a night, what better way to welcome 2012 than naming it after one of the most widely misinterpreted biblical events of all time A.D.? Perhaps painting a van with slogans prophesying the End Times? (With stupid subwoofers in the boot perhaps?)

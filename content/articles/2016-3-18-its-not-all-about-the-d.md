@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
-image_caption: >
-  I don’t care who told you steak is rich in vitamin B. If you come near me, I will cut you.
-image_attribution: "Beatrice Murch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
+image_caption: ""
 ---
 
 Some of us go pretty far when it comes to maintaining vigilance with our diets. We pinch our noses as we down that tablespoon of cod liver oil, chuck mounds of spinach into Tesco’s spinach ricotta tortellini, because obviously just the latter doesn’t quite fulfil our magnesium requirements, and knock back litres of vitamin water. Practices that all honour the holy triumvirate of vitamins K, D and A.

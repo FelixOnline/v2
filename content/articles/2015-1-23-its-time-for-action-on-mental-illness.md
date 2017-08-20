@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230132-ps3110-screen-shot-2015-01-23-at-01.33.22.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230132-ps3110-screen-shot-2015-01-23-at-01.33.22.png"
+image_caption: ""
 ---
 
 I’ve never been a good writer, and have never before written for Felix. However, I have lately felt a strong desire to write, as a voice for those who may be suffering in silence.

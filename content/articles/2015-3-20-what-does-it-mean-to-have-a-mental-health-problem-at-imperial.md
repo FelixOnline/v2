@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503201503-ps3110-screen-shot-2015-03-20-at-15.02.49.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503201503-ps3110-screen-shot-2015-03-20-at-15.02.49.png"
+image_caption: ""
 ---
 
 If you have 400 Facebook friends aged 16 to 24, the chances are that 14 of them have generalised anxiety disorder, 35 of them have self-harmed and 24 of them have attempted suicide. Over our life time, a quarter of us will suffer from a mental health problem.

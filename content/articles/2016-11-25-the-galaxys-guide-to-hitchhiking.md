@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251339-felix-milky-way-1684226_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251339-felix-milky-way-1684226_1920.jpg"
+image_caption: ""
 ---
 
 It has been known for a long time that galaxies move, and our Milky Way is no exception. The Milky Way and its 50 neighbours, together referred to as the ‘Local Group’, have been moving in a particular direction, and until now it was not known why. A team of researchers from South Africa, Germany, and Australia suggest that a supercluster of galaxies is the reason behind the huge gravitational pull.

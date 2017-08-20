@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112059-nm1010-bladerun.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112059-nm1010-bladerun.jpg"
+image_caption: ""
 ---
 
 On BBC iPlayer until midnight tomorrow (Saturday 13th), is the best film you can see for free this weekend. Starring Harrison Ford as Deckard, the policeman tasked with hunting down a group of escaped androids, banned from earth due to their threat to humanity. The visual palette of this film is an amazing selections of eerie dark shades, with a plot to match. Based loosely on Philip K. Dick’s fantastic Do androids dream of electric sheep, it gives more questions than answers while remaining captivating and enjoyable. A must watch for anyone with a modem. Check it out on <http://www.bbc.co.uk/iplayer>/

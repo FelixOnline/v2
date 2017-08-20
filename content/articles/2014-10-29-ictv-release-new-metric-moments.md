@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410292316-ps3110-metric-moments-ad.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410292316-ps3110-metric-moments-ad.jpg"
+image_caption: ""
 ---
 
 ICTV asked the hard hitting questions this Fresher's Week, and recorded it all for our sweet viewing pleasure.

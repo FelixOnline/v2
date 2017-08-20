@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506121343-cj914-o-coming-out-of-the-closet-facebook.jpg"
-image_caption: >
-  Admitting that you are suffering from a mental illness can be just as nerve-wracking as admitting you’re gay.
-image_attribution: "noringnosheets.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506121343-cj914-o-coming-out-of-the-closet-facebook.jpg"
+image_caption: ""
 ---
 
 A few weeks ago, the results of a College-wide mental health survey was released on Felix.

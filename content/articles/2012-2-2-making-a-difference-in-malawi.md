@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
-image_caption: >
-  Joining a Malawian primary school for the day
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
+image_caption: ""
 ---
 
 September 2011: From the air, it looked like a leopard’s coat: hills of dry grass were dotted with random dark spots of green mango trees and large boulders. I landed in the capital of Malawi, Lilongwe, at the peak of the dry season in south eastern Africa.

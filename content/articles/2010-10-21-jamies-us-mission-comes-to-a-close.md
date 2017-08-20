@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Channel 4 aired the finale of Jamie Oliver’s [American Food Revolution](http://www.jamieoliver.com/tv/jamie-s-food-revolution) on Monday night, a six episode TV series that documents the Naked Chef’s attempts to reform the eating habits of Huntington, West Virginia. The city has recently been identified as the US’s unhealthiest by the Centers for Disease Control and Prevention.

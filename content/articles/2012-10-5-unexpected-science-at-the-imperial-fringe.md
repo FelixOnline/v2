@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051301-nn1209-icimages.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051301-nn1209-icimages.jpeg"
+image_caption: ""
 ---
 
 Imperial College describe the Fringe as “a series of public events exploring the unexpected side of science”, and like the Edinburgh Fringe, and other events with this name, there is a focus on the stranger side the field it covers; in this instance, academic research.

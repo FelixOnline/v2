@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
+image_caption: ""
 ---
 
 Holidays in Mexico are stereotypically presented as being all about that beach. From Cancun to Tijuana (and Acapulco), the golden sands and azure seas are well trodden by the average foreign tourist. With glorious sunshine all year and relatively calm and clear water, it is the perfect place to laze about aimlessly for a week or five. As it happens, this is a rather mainstream opinion, and all have become the epitome of the term tourist trap; a deluge of retirees looking for a lazy getaway and 20-somethings looking for a bacchanalian experience.

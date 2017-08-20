@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182003-ks607-dotties.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182003-ks607-dotties.jpg"
+image_caption: ""
 ---
 
 “What on earth is that? It looks like you’ve run over a squid and put it on your phone.” My sickened friend was referring to my tricked out [Incipio Dotties iPhone 3GS case](http://www.myincipio.com/iPhone-3G-3GS-Cases-Accessories/Incipio-iPhone-3G-3GS-dotties-Silicone-Case.asp), complete with customizable ‘dottie’ inserts.

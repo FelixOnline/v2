@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241401-felix-Screen Shot 2017-02-24 at 13.58.25.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241401-felix-Screen Shot 2017-02-24 at 13.58.25.png"
+image_caption: ""
 ---
 
 I love my roommate. Quite the statement, isn’t it?

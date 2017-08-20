@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231249-cj914-rainforest.jpg"
-image_caption: >
-  Put down the monkey...
-image_attribution: "Ian Markham/faunaforever"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231249-cj914-rainforest.jpg"
+image_caption: ""
 ---
 
 The inner hypocrite has been lurking within you for some time. Occasionally it appears in its most obvious form, whereby said hypocrite exclaims, “I don’t watch trash TV,” and then binge watches 20 episodes of Keeping up with the Kardashians. Of course, “I only watched it to see what all the fuss was about”. Sadly, not fooling anyone. However, generally speaking a hypocrite can take many forms.

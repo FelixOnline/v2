@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
+image_caption: ""
 ---
 
 _Nana Li is a freelance illustrator currently based in London. Having previously completed a Biomedical Engineering degree, she now specialises in illustration, comics and character design. She has had several publications and a number of notable clients including Canon, ImgaineFX and SelfMadeHero._

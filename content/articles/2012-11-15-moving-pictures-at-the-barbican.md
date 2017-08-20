@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152125-tna08-nails.jpg"
-image_caption: >
-  © Boris Mikhailov
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152125-tna08-nails.jpg"
+image_caption: ""
 ---
 
 Everything is, has been, and always will be, moving. Memories of these movements shape our worlds. They metamorphose into nostalgia, sometimes even for times and places we have never physically accessed. Obsessions with an idealised past are manifested through the way in which we portray our world today; we usecommodities such as retro-style clothing or the Instagram app.

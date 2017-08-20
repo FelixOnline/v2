@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502130147-ps3110-screen-shot-2015-02-13-at-01.46.40.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502130147-ps3110-screen-shot-2015-02-13-at-01.46.40.png"
+image_caption: ""
 ---
 
 Last week, The Animal Protection and Education Society (APES) ran a successful talk addressing animal testing, including a speaker from People for the Ethical Treatment on Animals (PETA).

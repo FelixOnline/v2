@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
+image_caption: ""
 ---
 
 Ever find sex horribly disappointing? Finding it difficult to get those teenage kicks? If it’s any consolation, according to [a recent study from the School of Public Health](http://www.jhsph.edu/publichealthnews/press_releases/2011/sonenstein_empathy_pleasure.html), you are not alone.

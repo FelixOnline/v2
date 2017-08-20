@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Peter Handke has been a very prolific artist during his lifetime, leaving behind several novels, plays and film scripts. He started his career working closely with the German literary avant-garde, which promoted works of post-war authors, unknown at the time, of the calibre of Günter Grass and Heinrich Böll.

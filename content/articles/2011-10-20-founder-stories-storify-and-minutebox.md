@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202352-felix-xavierdamman.png"
-image_caption: >
-  Xavier Damman, founder of Storify, discusses his move to Silicon Valley
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202352-felix-xavierdamman.png"
+image_caption: ""
 ---
 
 Last Friday, as part of the Imperial Entrepreneurs speaker series programme, the founders of [Storify](http://storify.com), Xavier Damman, and [MinuteBox](http://minutebox.com), Josh Liu, came to the Imperial Business School.

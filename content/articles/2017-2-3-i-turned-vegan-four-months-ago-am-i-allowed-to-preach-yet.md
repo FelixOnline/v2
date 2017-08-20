@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031610-felix-14103703882_289d8d6bc6_o.jpg"
-image_caption: >
-
-image_attribution: "Helen Alfvegren"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031610-felix-14103703882_289d8d6bc6_o.jpg"
+image_caption: ""
 ---
 
 A year ago, after mostly avoiding meat for several months, I decided to make the commitment to being fully vegetarian. My decision for this was mostly driven by a concern for the planet. The Food and Agriculture Organisation of the UN estimates that 14.5% of global greenhouse gas emissions come from the livestock industry. The financial implications of not buying meat were also extremely satisfying (you can buy two kilos of dried beans for a couple of quids and that turns into a lot of food).

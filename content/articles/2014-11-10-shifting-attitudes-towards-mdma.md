@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102128-ps3110-ecstacy-03.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102128-ps3110-ecstacy-03.jpg"
+image_caption: ""
 ---
 
 MDMA, or for you chemists out there 3,4-methylenedioxmethamphetamne, more recognisably referred to as ecstasy is a prevalent and well-known drug. It’s no state secret that a majority of people who are reading this have encountered it - whether that be through occasional to regular recreational use or simply knowing someone who has taken it.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Tuesday evening brought us Tim Cook’s first keynote as Apple’s outright CEO, but that wasn’t the largest change as Apple turned away from its huge yearly update of the iPhone to instead offer punters an incrementally upgraded version, [the iPhone 4S](http://www.apple.com/uk/iphone/).

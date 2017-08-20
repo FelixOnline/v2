@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111181016-felix-exhibition_road_bl300609_1.jpg"
-image_caption: >
-
-image_attribution: "e-architect.co.uk"
-image_attribution_link: "http://www.e-architect.co.uk/images/jpgs/london/exhibition_road_bl300609_1.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111181016-felix-exhibition_road_bl300609_1.jpg"
+image_caption: ""
 ---
 
 For those of you planning a work placement this summer, here’s something that might make you reconsider. The (Exhibition) Road Show, a nine-day street festival being held right on Imperial’s doorstep, is set to be unmissable. Part of the wider celebrations for the 2012 Olympics, the event will be held from July 28 until August 5, coinciding with the beginning of the Games.

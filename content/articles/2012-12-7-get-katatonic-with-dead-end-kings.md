@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070339-tna08-desktop1-1920x1200.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070339-tna08-desktop1-1920x1200.jpg"
+image_caption: ""
 ---
 
 Whenever I am asked which my favourite Katatonia album is, my standard response is to stare pensively into the distance for a moment and then simply reply ‘every Katatonia album’. And now their ninth studio album Dead End Kings has entered the equation... my answer remains the same.

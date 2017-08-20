@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Imperial Falcons participated in the BSUK Inter-university Baseball Spring Cup over the weekend of the 22nd and 23rd of March with a team composed largely of newcomers and achieved a respectable third place finish after close losses to the top two teams.

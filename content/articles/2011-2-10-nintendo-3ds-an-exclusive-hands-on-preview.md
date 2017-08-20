@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102110155-sjw209-3DShands.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102110155-sjw209-3DShands.jpg"
+image_caption: ""
 ---
 
 Last weekend I bagged tickets to an exclusive [Nintendo 3DS hands-on preview](http://trynintendo3ds.co.uk) – and first impressions were excellent! After a vague demonstration of StreetPass, “real-life” demonstrations of _Street Fighter_ and _Resident Evil_, and a brief introductory video featuring Jonathan Ross (seemingly the new face of Nintendo Europe), I got my hands on the 3DS.

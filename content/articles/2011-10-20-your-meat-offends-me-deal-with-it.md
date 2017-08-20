@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
+image_caption: ""
 ---
 
 I was eating my lunch in the JCR (two-bean goulash YUM! :D) and this random guy just comes and sits down next to me and starts devouring a greasy stinky burger. I asked him if he minded moving because I find the stench of cooked meat to be nauseating. As you may have guessed, I’m a vegan. When I see people eating meat, cheese, cake or any other food that has come from animals, I just feel sick. I’m not one of those in-your-face vegans, but I have my right to ask someone to move if they’re going to offend my beliefs. The guy rudely told me to f**k off, so I just moved to another table. I wasn’t going to stoop to his level so I just walked away. Always ignore a bully ;)

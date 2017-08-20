@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200938-ygr12-22574833589_4cf8f5c35d_b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200938-ygr12-22574833589_4cf8f5c35d_b.jpg"
+image_caption: ""
 ---
 
 Where words leave off, music begins”, said the poet Heinrich Heine. Morgen und Abend, a new opera by Austrian composer Georg Friedrich Haas, attempts to go where words cannot and follows a man, Johannes, into existence and beyond into death. Although death (together with love) is one of those ubiquitous themes in opera, it is usually the act of dying rather than the experience of being dead. This opera then promises a new kind of musical experience.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211445-ajp15-Screen Shot 2016-10-21 at 14.45.04.png"
+image_caption: ""
 ---
 
 > > The “conversation” going on right now is essentially the lived experience of most sexual assault survivors

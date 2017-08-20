@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311339-felix-9681101370_f839b54a70_o.jpg"
-image_caption: >
-
-image_attribution: "OTA Photos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311339-felix-9681101370_f839b54a70_o.jpg"
+image_caption: ""
 ---
 
 Imperial College Union launched its new social entrepreneurship scheme, ACT Now! (exclamation mark and everything)  last Monday, at an event that saw seasoned as well as novice entrepreneurs, take to the stage and share their experiences in the Union Concert Hall.

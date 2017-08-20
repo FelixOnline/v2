@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051238-felix-philsalute.jpg"
-image_caption: >
-  Moments after Anselmo raises his right hand.
-image_attribution: "Youtube / Chris R"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051238-felix-philsalute.jpg"
+image_caption: ""
 ---
 
 This article is something I need to get off my chest. I love heavy music with aggressive themes, from Black metal to hardcore to grind – I love it all. I love the catharsis and thrill that a pounding drum and palm muted guitar line can provide but sometimes the shit that comes with it really makes me wonder why.

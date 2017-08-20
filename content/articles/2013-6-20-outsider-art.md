@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210013-tna08-outsiderart.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210013-tna08-outsiderart.jpg"
+image_caption: ""
 ---
 
 What does it mean to be an ‘Outsider Artist’? While the majority of famous artists follow the time-tested route from the art school to the gallery, there are those who slip through the cracks of artistic society, exploring their creative visions outside the atelier. The majority of these artists trickle away into obscurity, but this summer, a select group of the outside art world has found a home in London, being displayed in both the Wellcome Collection and the Hayward Gallery.

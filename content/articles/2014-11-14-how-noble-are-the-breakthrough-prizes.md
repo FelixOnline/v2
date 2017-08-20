@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142105-ps3110-mark_zuckerberg_at_the_37th_g8_summit_in_deauville_018_v1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142105-ps3110-mark_zuckerberg_at_the_37th_g8_summit_in_deauville_018_v1.jpg"
+image_caption: ""
 ---
 
 “I don’t like honours.”

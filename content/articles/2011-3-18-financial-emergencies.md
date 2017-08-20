@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If you suddenly find yourself in financial hardship, for example finding that you're unable to pay your rent for that month, [the College can help you](http://www3.imperial.ac.uk/registry/studentfinancialsupport) and may give you money (which you don't have to pay back). As well as the processes described below, they will also provide emergency assistance or loans. So if you're facing a financial crisis, email student.funding@imperial.ac.uk and they will do everything that they can to help and advise you.

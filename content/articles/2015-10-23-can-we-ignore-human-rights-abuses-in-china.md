@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
-image_caption: >
-  Xi Jinping is in the UK as a guest of the Queen.
-image_attribution: "AOL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
+image_caption: ""
 ---
 
 According to the College website, we are the UK’s number one research partner with China. In a speech welcoming Xi Jinping, Professor Alice Gast, president of the university, said “brilliant students and academic collaborations are making both the UK and China stronger, more prosperous and ready to deal with the challenges of this century”. Surely these challenges of the century should include opposing inequality, imprisonment without trial and the persecution of ethnic minorities?

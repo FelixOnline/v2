@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031954-pk1811-anopheles_albimanus_mosquito.jpg"
-image_caption: >
-  I’m afraid there were no cute pictures of mosquitoes...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031954-pk1811-anopheles_albimanus_mosquito.jpg"
+image_caption: ""
 ---
 
 A malaria vaccine candidate called RTS,S has been raising a stir within the health industry since the pharmaceutical giant, Glaxo-Smith Kline, announced highly promising results in its on-going phase III trials in Africa. Whilst it is unwise to declare success too soon, it is hoped that these early results may mark the beginning of the greatest breakthrough in malarial control yet.

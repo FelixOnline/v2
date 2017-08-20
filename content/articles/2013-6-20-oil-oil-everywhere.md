@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306202347-tna08-oilrush_60.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306202347-tna08-oilrush_60.jpg"
+image_caption: ""
 ---
 
 “Huh. Maxed out on oil again.” – Me, when playing Oil Rush. Oil Rush is an interesting take on the real time strategy genre. It is a naval strategy game that takes place in the future, where nuclear war has melted the polar ice caps leaving little habitable land on the planet. As such, many people live either on ships or on platforms that have been built in the sea.

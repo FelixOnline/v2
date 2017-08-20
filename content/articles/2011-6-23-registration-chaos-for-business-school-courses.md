@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
+image_caption: ""
 ---
 
 The registration system for optional course modules in Business In Science, Engineering & Technology (BEST) was hit with problems on Monday. The Departmental Student System (DSS) used for registering optional modules in courses across college was swamped with connection requests as students logged on to pick their chosen modules in the morning.

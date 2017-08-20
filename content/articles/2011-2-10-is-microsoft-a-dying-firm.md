@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
+image_caption: ""
 ---
 
 Ten years ago, Microsoft’s products were synonymous with personal computing. The Internet was just stepping into households; Apple narrowly escaped bankruptcy, and its computers were seen as luxurious goods made for designers. In a blink of an eye, Apple became the largest technology company in US by market capitalization in May 2010; in 2009, Google attracted nearly two thirds of the worldwide search volume through its search engine and its sister sites. All that Microsoft seems to be doing is to follow what everybody else has done: launching Bing after Google, releasing Windows 7 Mobile after Apple’s iOS. In fact, many people have declared that Microsoft is “dead”.

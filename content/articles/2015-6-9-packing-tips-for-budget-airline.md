@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
+image_caption: ""
 ---
 
 Travelling on budget airline isn’t easy – you got the luggage restriction, liquid restriction and only airline magazines for entertainment. However, with their unbeatable prices you can only grit your teeth and adhere to the increasingly intricate rules of hand luggage restriction to save the extra dosh on something more worth it.

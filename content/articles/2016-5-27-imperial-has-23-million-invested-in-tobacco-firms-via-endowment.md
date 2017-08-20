@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271035-felix-first draft.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271035-felix-first draft.jpg"
+image_caption: ""
 ---
 
 This week FELIX revealed that the college has significant investments in several tobacco firms, as part of its endowment portfolio.

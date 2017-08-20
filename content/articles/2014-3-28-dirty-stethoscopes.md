@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403281042-jal08-1573_doctor_stethescope.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403281042-jal08-1573_doctor_stethescope.jpg"
+image_caption: ""
 ---
 
 A study published this month has displayed the possibility that a doctor’s stethoscope could be a major source of bacterial transmission in clinical practice. The study, published in an issue of Mayo Clinic Proceedings, exposed how stethoscopes contain a huge number of bacteria relative to a doctor’s hands.

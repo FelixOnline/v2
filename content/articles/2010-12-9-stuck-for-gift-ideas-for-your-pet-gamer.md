@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012101650-sjw209-goodoldg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012101650-sjw209-goodoldg.jpg"
+image_caption: ""
 ---
 
 Do YOU LIKE GAMES? Do your FRIENDS like games? Do you even HAVE any friends? If you answered YES to these questions then READ ON.

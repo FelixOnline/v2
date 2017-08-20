@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141201-felix-6895509443_48aec89264_o.jpg"
-image_caption: >
-
-image_attribution: "Michael Le Roi"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141201-felix-6895509443_48aec89264_o.jpg"
+image_caption: ""
 ---
 
 You arrive at university as a member of one of two tribes.

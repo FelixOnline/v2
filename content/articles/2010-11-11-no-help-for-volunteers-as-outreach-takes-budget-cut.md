@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Imperial Volunteering Centre (IVC) is to be almost entirely scrapped due to funding difficulties caused by a cut by the Higher Education Funding Council for England (HEFCE) and also a large reduction in the Outreach department budget. Heather Jones, Deputy President (Clubs & Societies) and Minna Ruohonen, Head of the Volunteering Centre, expressed their concern about the effect on volunteering activities of the cut, which the College blames on HEFCE.

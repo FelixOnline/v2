@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
-image_caption: >
-  Emma Watson persuaded Malala to be a feminist, but Angry Grad persuaded Watson.
-image_attribution: "Fox Searchlight"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
+image_caption: ""
 ---
 
 While my usual pieces have a satirical take on pop culture, this week, I thought it was about time my graduate anger is channelled towards an issue that actually has some weight. From the recent uproar regarding VAT on sanitary products, to men, mental health and suicide, you must have been living in a pineapple under the sea to be oblivious to the media frenzy surrounding gender equality lately.

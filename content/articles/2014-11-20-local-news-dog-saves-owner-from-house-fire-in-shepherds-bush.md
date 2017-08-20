@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211302-ps3110-dog.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211302-ps3110-dog.jpg"
+image_caption: ""
 ---
 
 A dog saved its owners from a fire after the smoke alarm failed. ‘Smokey’ the dog, as nicknamed by the firemen who rescued the family, woke the rest of the house when smoke began to fill the ground floor property, located on Stanlake Road in Shepherd’s Bush.

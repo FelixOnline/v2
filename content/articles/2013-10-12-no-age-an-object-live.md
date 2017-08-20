@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 No Age descended on North London last week to showcase their new album, “An Object”. The LA two piece were originally scheduled to play at Koko but the gig was downsized to the school hall-esque Dome in Tufnell Park. This is definitely a band on the way down. The new album, unlike its predecessors, has received little hype and a fair amount of criticism. I think a lot of the criticism is over the top, but the live performance doesn’t exactly help my point. There’s no energy in any of the new stuff, and there is a lot of uninspiring shoegazey bollocks.

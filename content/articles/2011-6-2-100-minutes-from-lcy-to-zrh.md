@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022119-felix-zurich2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022119-felix-zurich2.jpg"
+image_caption: ""
 ---
 
 I was in Zurich last week; a beautiful sunny day in what the Zürcher like to consider to be the best of Switzerland, its peak. It lacks the 15,203 ft altitude of the Dufourspitze, though, on a day like today the view across the lake is just as amazing. Strolling along Bahnhofstrasse the fashion statements (for women) walking by present themselves mainly as wearing shorts or a mini skirt, leather boots that go all the way up to the knees with flat heels and a top that has flowers printed all over it. In short, life is beautiful here.

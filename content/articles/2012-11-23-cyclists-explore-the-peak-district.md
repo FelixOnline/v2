@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230011-tna08-cycling-ting.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230011-tna08-cycling-ting.jpg"
+image_caption: ""
 ---
 
 It’s 5pm on a Friday as I join 16other somewhat intrepid cyclists by the Queen’s Tower, prepared for a weekend of cycling on some of the Peak District’s finest roads. The plan was pretty simple; load up the buses, drive in a vaguely northerly direction, find the Youth Hostel in Edale, spend the following two days bashing out some miles in some nice hilly terrain. Return to London unscathed. Simple.

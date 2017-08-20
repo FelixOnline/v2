@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
-image_caption: >
-
-image_attribution: "Aaniya Ahmed"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
+image_caption: ""
 ---
 
 Following[ last week’s article in Felix](http://felixonline.co.uk/comment/3255/the-life-of-a-total-wbanker/), and what I perceive to be a generally anti-finance attitude amongst Imperial undergraduates – you may think said attitude doesn’t exist, but I can assure you I have had to defend my career choices many times – I decided to take it upon myself to fight the corner of investment banking. If you’ve never read Leveraged Sell Out, this will probably be the most pro-banking piece you’ve ever encountered.

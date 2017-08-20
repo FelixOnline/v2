@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271102-felix-Fear-the-Walking-Dead-calvin-1940x1293.jpg"
-image_caption: >
-  Oh hey, an Imperial student after finishing their exam.
-image_attribution: "AMC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271102-felix-Fear-the-Walking-Dead-calvin-1940x1293.jpg"
+image_caption: ""
 ---
 
 Ever since it was introduced, _The Walking Dead’s_ popularity has soared through the roof. Another Zombie apocalypse styled story, the franchise has a comic book, TV series, video game, and now, with _Fear the Walking Dead_, a spin-off TV series. With the main show still airing and already in place however, it begs the question, does this show add anything new and substantially different?

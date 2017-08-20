@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 <a name="OLE_LINK8"></a><a name="OLE_LINK7"></a><a name="OLE_LINK6"></a><a name="OLE_LINK5"></a><a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>I am writing about Charles Stross because of the upcoming Picocon science fiction convention, which he will be attending as one of the Guests of Honour. He has contributed to the Science Fiction and Fantasy field with his novels, his blogging, and his roleplaying work.

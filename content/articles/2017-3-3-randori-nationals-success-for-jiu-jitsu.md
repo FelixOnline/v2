@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031619-felix-Medals 1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031619-felix-Medals 1.jpg"
+image_caption: ""
 ---
 
 Last weekend, from Friday to Sunday evening, IC Jiu Jitsu took part in a national competition in Northampton, and brought back SEVEN MEDALS. This competition, contrary to the competition happening in November, is not called “atemis” but “randoris”. Randori is a type of practice that you can also encounter in judo, it is a way of applying and practicing your knowledge freely, playing around with the techniques you’ve gathered so far.

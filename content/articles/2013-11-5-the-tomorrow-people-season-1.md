@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The new species of “homo superiors” seem to have everything figured out. They possess the special powers of the three T’s: telekinesis, teleportation, and telepathy. Although putting a slight damper on things is the fact that they can’t actually kill. It’s no fun for them, and it’s certainly no fun for us.

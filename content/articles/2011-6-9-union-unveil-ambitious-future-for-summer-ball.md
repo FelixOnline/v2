@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092223-felix-petergillings.jpg"
-image_caption: >
-  'Dem kidz' getting down at last year's Ball
-image_attribution: "Peter Gillings"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092223-felix-petergillings.jpg"
+image_caption: ""
 ---
 
 The Union have unveiled ambitious plans to “increase the size, scale and profile” of the Summer Ball in years to come, saying that the “ultimate aim” would be to host the event “in Hyde Park or a similar venue” and attract a huge number of students from across London. The news comes with just a week to go until [this year’s Ball](http://www.thesummerball2011.com/), which features headliners Laura Marling and Ian Brown.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122018-jal08-tv2-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122018-jal08-tv2-copy.jpg"
+image_caption: ""
 ---
 
 At the beginning of this week’s Downton Abbey, there was a warning for “violent scenes which some viewers may find upsetting”, leading me to wonder what the cause could possibly be. Given the most significant crisis thus far this season has been a matter of inheritance tax, it was difficult to imagine anything too disturbing: an emergency over the spillage of hot tea, perhaps? A tear in Lady Mary’s dress which leaves her unable to meet some viscount or another?

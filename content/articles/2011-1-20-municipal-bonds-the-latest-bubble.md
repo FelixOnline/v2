@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202025-ks607-californ.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202025-ks607-californ.jpg"
+image_caption: ""
 ---
 
 As the sovereign default crisis in Europe continues to send tremors through the global financial system, the next perfect storm in the market may already be brewing on the other side of the Atlantic. Meredith Whitney, whose fame is attributed to her accurate predictions of the 2008 subprime mortgage crisis, issued a warning in an interview on 60 minutes, the flagship CBS interview programme, about municipal bonds.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112058-ks607-caveman.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112058-ks607-caveman.jpg"
+image_caption: ""
 ---
 
 In a collaborative effort, Imperial researchers have answered the question of how Stone Age man evolved to craft increasingly superior stone tools. Why did it take Lower Paleolithic humans almost two million years to develop the sophisticated hand-held axe from crude razor-sharp stones? Computer modelling and sensor-embedded gloves compared complex hand crafting skills of one early and one late Paleolithic tool-making method to assess any differences in brain activity between the two methods.

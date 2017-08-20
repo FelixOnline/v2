@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The European Research Council (ERC) has awarded over €25m to Imperial College in the latest funding round. These grants are for 11 projects, and these include two prestigious synergy grants that promote partnerships in academic research.

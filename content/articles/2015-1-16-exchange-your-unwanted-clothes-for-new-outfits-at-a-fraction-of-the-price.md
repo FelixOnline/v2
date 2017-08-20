@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161545-ps3110-screen-shot-2015-01-16-at-15.44.09.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161545-ps3110-screen-shot-2015-01-16-at-15.44.09.png"
+image_caption: ""
 ---
 
 __Do you want to take part in the first Clotho exchange on campus? Click attending on their [facebook event now ](https://www.facebook.com/events/904659219552534/)and don't forget to bring your clothes to Sherfield lobby on Tuesday the 20th and Thursday the 22nd of January. __

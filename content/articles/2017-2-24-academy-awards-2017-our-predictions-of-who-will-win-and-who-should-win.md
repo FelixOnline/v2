@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241420-felix-BarryJenkins_WPC.jpg"
-image_caption: >
-
-image_attribution: "Wikimedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241420-felix-BarryJenkins_WPC.jpg"
+image_caption: ""
 ---
 
 ## Best Director

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092257-felix-girlsgirlsgirls.jpg"
-image_caption: >
-  The poster for the WSET event
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092257-felix-girlsgirlsgirls.jpg"
+image_caption: ""
 ---
 
 Not here, surely? Sexism is everywhere: in the media, in politics, in the arts, but at universities? The centres of liberal thought and tolerance? Where everyone is open-minded and friendly and – above all – extremely egalitarian? If there were ever a place where sexism shouldn’t exist, it is here. And yet it persists like an ugly, cunning mouse peskily dodging the hungry cat of equality.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291132-felix-hand.jpg"
-image_caption: >
-  What did I freakin’ get?!
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291132-felix-hand.jpg"
+image_caption: ""
 ---
 
 We’re constantly being told that degrees aren’t as valuable as they used to be. And fair enough. Your mate from home’s 2:2 in film and media studies might not expect to be as valuable as your mum’s desmond in computing from the 80s, but an Imperial degree is an Imperial degree, right?

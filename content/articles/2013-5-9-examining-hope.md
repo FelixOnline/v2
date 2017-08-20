@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s that time of year once again. The last term and the last stretch of College until exams are over (hopefully you won’t be returning in summer for resits). You can almost sense the high tension and stress in the air. It’s a familiar feeling and reminds you that the culmination of months (and in some people’s case years) of work is just around the corner. Much like Phil Collins once said, you can feel it coming in the air tonight – which, incidentally, I’ve only just realised actually sounds pretty rude when you think about it.

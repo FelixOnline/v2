@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Metropolitan police are still searching for a minicab driver they believe played a role in the fatal stabbing of 18-year-old Khalid Safi on December 1st – which occurred near Woodward Buildings, one of Imperial College’s residence halls.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080023-tna08-imperialeagles-ukuni2013.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080023-tna08-imperialeagles-ukuni2013.jpg"
+image_caption: ""
 ---
 
 Last weekend saw the eagerly anticipated UK universities Handball tournament of the year – the Association of British University Handball Clubs (ABUHC) University Championships 2013. After winning 3rd place in the 2012 tournament and a dedicated start to year for the Imperial Eagles handball club, with weeks of intense recruiting and months of training, this tournament was due to show us just how we compare to the rest of the UK’s university enthusiasts in this popular European sport.

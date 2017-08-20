@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291158-felix-IMG_3764.jpg"
-image_caption: >
-  Vegetarians beware.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291158-felix-IMG_3764.jpg"
+image_caption: ""
 ---
 
 Morals are tricky things to have. I try, like I’m sure most of you do, but there are grey areas for me. Food can contain many of them. Like all transcendental ideas, it is sometimes easiest to simply pick and choose them as you like, but when they tie in to the very substance we consume every day (out of pleasure or necessity – but that’s another thing entirely), I try to adopt a more rigid line: I will eat anything, as long as no unnecessary suffering was caused to provide it.

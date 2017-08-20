@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
-image_caption: >
-
-image_attribution: "Garry Knight"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101235-felix-22069935418_188fd0efcd_o.jpg"
+image_caption: ""
 ---
 
 Not only is the economic forecast of the country already in uncertainty post-Brexit, bringing with it the threatened loss of some of the biggest financial companies’ headquarters, but we are also on the verge of setting off along a trajectory of losing one of our most prized possessions – the NHS.

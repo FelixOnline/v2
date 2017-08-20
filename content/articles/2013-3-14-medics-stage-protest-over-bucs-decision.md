@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150001-tna08-medics-bucs.jpg"
-image_caption: >
-
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150001-tna08-medics-bucs.jpg"
+image_caption: ""
 ---
 
 The British Universities & Colleges Sport ([BUCS](http://www.bucs.org.uk/homepage.asp)) acts as the national governing body for higher education sport in the UK. They have decided that a single educational institution should not be able to compete as two separate teams. This means that the current system where Imperial College (IC) and Imperial College School of Medicine (ICSM) are separate teams will not be able to continue.

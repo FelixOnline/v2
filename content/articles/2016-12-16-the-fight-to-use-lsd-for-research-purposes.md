@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161608-felix-Screen Shot 2016-12-16 at 16.08.16.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161608-felix-Screen Shot 2016-12-16 at 16.08.16.png"
+image_caption: ""
 ---
 
 There is evidence that certain psychedelic drugs can ‘reset’ irregular functioning of the brain if administered in a safe and controlled method, thus leading to ground-breaking revelations in medicine. This is perhaps contrary to what you may believe if you have been reading this column for the past few weeks.

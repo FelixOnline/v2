@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282107-ks607-malcolmg.jpg"
-image_caption: >
-  Malcolm Grant, UCL Provost, chaired the group behind the report
-image_attribution: "University College London"
-image_attribution_link: "http://www.ucl.ac.uk/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282107-ks607-malcolmg.jpg"
+image_caption: ""
 ---
 
 Universities UK has [published a report](http://www.universitiesuk.ac.uk/Publications/Pages/Freedomofspeechoncampus.aspx) on how universities can promote freedom of speech whilst “protecting the safety and wellbeing of students, staff and the wider community.”

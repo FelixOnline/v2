@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152129-tna08-gods2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152129-tna08-gods2.jpg"
+image_caption: ""
 ---
 
 You can’t call yourself a fan of speculative fiction if you’ve never heard of Neil Gaiman. He has made a name for himself with his prolific writing, not only with novels but also for the screen and in comic books. Yet until recently I had never read any of his longer works. Wanting to remedy the situation I thought that there was no better place to start than with American Gods – his most highly acclaimed novel.

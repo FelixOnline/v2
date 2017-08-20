@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102239-tna08-cambridge-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102239-tna08-cambridge-1.jpg"
+image_caption: ""
 ---
 
 As students of Imperial College, we often regard ourselves as some of the hardest worked students in the country. A quick Google search reveals many students’ reviews of their time at Imperial. One such review on a website called WhatUni.com, which offers advice to those applying to University, from a former Physics student says:

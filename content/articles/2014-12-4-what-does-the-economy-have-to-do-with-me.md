@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
-image_caption: >
-  Unemployment perpetuates unemployment.
-image_attribution: "dailyrecord"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
+image_caption: ""
 ---
 
 One question commonly asked of economists is “as a member of the public, what exactly does the economy have to do with me?” People often feel that as individuals, they are fighting personal battles against household bills or focusing on their own consumption, rather than being part of a larger group or society.

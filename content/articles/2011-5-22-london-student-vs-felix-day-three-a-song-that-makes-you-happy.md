@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The reaction when I play someone this [Star Slinger](http://www.starslinger.net/home.html) song is always the same: "Holy shit that's awesome!" they say in not so many words. The song (and its video) makes me happy for two reasons:

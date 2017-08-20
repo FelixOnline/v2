@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041823-cj914-reddit.jpg"
-image_caption: >
-
-image_attribution: "cmxhub.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041823-cj914-reddit.jpg"
+image_caption: ""
 ---
 
 Last week I wrote in _Felix_ about ‘GamerGate’, a loosely defined movement nominally about “ethics in video game journalism”. In the article I outlined how really the movement is about harassing women online.

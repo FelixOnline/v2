@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231659-jyg11-the-gambler-cmyk.jpg"
-image_caption: >
-
-image_attribution: "Rupert Wyatt, Paramount Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231659-jyg11-the-gambler-cmyk.jpg"
+image_caption: ""
 ---
 
 __THE GAMBLER__

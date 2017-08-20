@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152208-tna08-gove.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152208-tna08-gove.jpg"
+image_caption: ""
 ---
 
 In 2015, the biggest educational reform of our generation shall be put into place. The much maligned GCSE shall be replaced with the ‘English Baccalaureate’ (EBacc), the brain child of the Coalition’s combined educational reforms. This initial bout of reformation is reserved only for specific subjects – Mathematics, English Literature and Language, Chemistry, Biology and Physics. However, Geography, History and the languages shall also get to undergo the EBacc transformation in 2017, the inclusion of the Languages being hailed by Stephen Twigg, the shadow Minister for Education.

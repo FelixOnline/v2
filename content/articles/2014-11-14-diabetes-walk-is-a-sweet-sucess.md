@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142005-ps3110-kee_5292.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142005-ps3110-kee_5292.jpg"
+image_caption: ""
 ---
 
 On November 7th, nearly 21,000 people took part in WALK2014, a walk to raise awareness of diabetes, in Abu Dhabi. The walk was organised by the Imperial College London Diabetes Centre (ICLDC). It is estimated that over 150 million steps were taken in total during the walk, which was at the Yaz Marina Circuit.

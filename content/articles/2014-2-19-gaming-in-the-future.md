@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402192122-me1711-games_dlc.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402192122-me1711-games_dlc.jpeg"
+image_caption: ""
 ---
 
 Gaming is something I hold very dearly. I will defend my love with tooth and nail. Furthermore I like the status quo. I like the way I buy, play and interact with games, and in fact I could say that I am actually missing the past a bit. However I can see that gaming is changing, and maybe not always for the best. So here I list the 4 main things that will influence gaming in the foreseeable future:

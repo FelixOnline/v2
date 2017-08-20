@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032007-nm1010-sequelse.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032007-nm1010-sequelse.jpg"
+image_caption: ""
 ---
 
 After the release of West is West last Friday was greeted by mostly tepid reviews, it may be disappointing – yet not all that surprising – that the sequel to 1999’s critically acclaimed East is East fell so flat. It’s been 12 years since the low-budget East is East stormed British cinema with its heart-warming, brilliantly funny portrayal of a British-Pakistani family living in Salford in the early 1970s and, in its time, it won a good handful of awards including a BAFTA for Best British Film. For it’s sequel, however, it looks unlikely that any similar levels of success are to be achieved.

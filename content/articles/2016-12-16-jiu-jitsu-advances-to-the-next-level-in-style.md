@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161626-felix-08D02F8398FC497F983BDEDBE6A9B4A8.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161626-felix-08D02F8398FC497F983BDEDBE6A9B4A8.jpg"
+image_caption: ""
 ---
 
 Last Saturday saw London host the Jiu Jitsu grading. If competitions are scary, then gradings are a halloween movie marathon with the lights off and the creepy neighbour wearing his Freddy Krueger outfit staring through the window.

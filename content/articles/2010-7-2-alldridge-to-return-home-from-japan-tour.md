@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201007020154-jn104-Alldridg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201007020154-jn104-Alldridg.jpg"
+image_caption: ""
 ---
 
 Imperial College Union Rugby Football Club have suffered their first major injury on tour.

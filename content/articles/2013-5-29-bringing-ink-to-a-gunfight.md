@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
+image_caption: ""
 ---
 
 "Hey. You. Don’t you hear the bell? We need to get out of here, and fast. I’m here to help you. Rule number one: Don’t get me killed. Wait, where’s your sword? Stick to the darkness until you find it. Good thing you were out cold, looks like they don’t know you’re alive. Let’s keep it that way. Now come on, we’ve got to save Master Azai!”

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282353-tna08-rugby.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282353-tna08-rugby.jpg"
+image_caption: ""
 ---
 
 After a slow start to the BUCS campaign with matches cancelled due to weather and the other sides being unable to field teams, Women’s Rugby kicked off their second BUCS game against Surrey. The squad were ready to take on what was thought to be a tough match since Surrey were topping the table before the game.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102234-ps3110-aj532146_429long.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102234-ps3110-aj532146_429long.jpg"
+image_caption: ""
 ---
 
 What does £220,000 a year get you? It’s more than the combined rent of the 22 new beds in Beit Hall over a calendar year, two-thirds of the former rector’s salary of £364,000 (Times High Education Supplement) and 0.22%of Imperial College London’s £97 million endowment. £220,000 is also how much has left the amenities fund for halls events and activities this year.

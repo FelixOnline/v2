@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032143-felix-lukee.jpg"
-image_caption: >
-  Suave? Swagger? It's the guy from Hustle
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032143-felix-lukee.jpg"
+image_caption: ""
 ---
 
 Any production of Cool Hand Luke is going to be compared with [the 1967 Paul Newman film](http://www.youtube.com/watch?v=l3CPz21NzUc). It perhaps shouldn’t be this way but it can’t be helped. I would love to treat it as just another play but it is truly in the shadow of an icon. So when casting the leading man, you’re in for a tough job from the start. A quiet but confident leader of men with a hint of cheekiness and swagger coming out of his arse. Enter Marc Warren.

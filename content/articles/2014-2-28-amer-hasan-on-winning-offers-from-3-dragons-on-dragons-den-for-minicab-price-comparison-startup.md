@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402280723-jal08-minicabit-in-the-den.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402280723-jal08-minicabit-in-the-den.png"
+image_caption: ""
 ---
 
 This week Nida Mahmud caught up with Amer Hasan, an Imperial Alumnus and CEO of minicabit. He recently appeared on Dragons’ Den and recieved offers from three out of the five Dragons. Furthermore, minicabit is the first app to win an offer on the show. Minicabit is an app and website that enables users to compare real time quotes from cab companies. The company operates in over 30 cities and wil be expanding to even more in 2014. Amer tells us more about minicabit and how you can win tickets to see Beyonce at The O2.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191108-felix-DSC_0009.JPG"
-image_caption: >
-  Labels are for cans, not for toilets.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191108-felix-DSC_0009.JPG"
+image_caption: ""
 ---
 
 Women in the Goldsmith’s wing of the RSM building had a bit of a shock after coming back over the summer: all but a single female toilet had been converted to men’s only. This meant that women had to either queue to use one loo or walk to another building if it was out of order.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211559-sjw209-lil_saxton.jpg"
-image_caption: >
-
-image_attribution: "Valve"
-image_attribution_link: "http://teamfortress2.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211559-sjw209-lil_saxton.jpg"
+image_caption: ""
 ---
 
 So, a little over a week ago Valve brought out [a fairly large update](http://www.tf2.com/post.php?id=6508) for their flagship game _Team Fortress 2_. So what? Ignoring the fact that _TF2_ is now over four years old and still receiving content updates which it celebrated this time last year when microtransactions were first introduced into the game - the MANN-conomy Update (I’m not making this up). Amongst other things the update allowed players to purchase in-game weapons and purely cosmetic add-ons for the nine classes with real-world cash. The update was initially received with mixed reviews – ‘buying your way to victory’ and ‘Valve’s sold us out’ were two of the many complaints angry fans put forward, whilst others maintained that nothing was on sale (at least, game-changing wise) that couldn’t be found by penniless schmucks. One year on, and everything’s (mostly) settled down.

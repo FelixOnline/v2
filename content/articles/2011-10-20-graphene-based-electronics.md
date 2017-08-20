@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Graphene is a unique material that promises to revolutionise electronics. Consisting of a two dimensional hexagonal lattice of carbon molecules (effectively a single layer of graphite) it is the thinnest, strongest and most conductive material ever discovered. As such it could lead to the development of flexible computer displays, lighter airplanes and faster Internet connections. The government has recently recognised the promise of this material, with [Chancellor George Osborne promising £50m for graphene research](http://www.bbc.co.uk/news/science-environment-15152609).

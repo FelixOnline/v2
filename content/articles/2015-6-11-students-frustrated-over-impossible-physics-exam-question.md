@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
-image_caption: >
-  This has not been the only issue for Physics undergraduate students this term.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
+image_caption: ""
 ---
 
 Physics students have been left confused and annoyed over an exam question that was proved to be impossible to answer, adding to the plethora of mistakes in papers sat by students from multiple year groups in the department this term.

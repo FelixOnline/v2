@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
+image_caption: ""
 ---
 
 On Thursday the 9th of December MPs [voted to raise the tuition fee cap](http://www.felixonline.co.uk/?article=546) to £9000. Unsurprisingly this brought out thousands of students to protest the changes. I had been at the previous protests and while I had only been kettled once momentarily, I went with the expectation that the police were going to kettle us. I took warm clothes, water and I pulled an all-nighter the night before to finish an essay so I was able to submit it before I went on the protest. Isn’t that sad? Sad that I wanted to peacefully protest in Parliament Square and had to prepare for the police to surround the protest and keep it there for hours.

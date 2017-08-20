@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150109-tna08-embryotadpole.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150109-tna08-embryotadpole.jpg"
+image_caption: ""
 ---
 
 You might think that having eyes in the back of one’s head was a quality reserved only for mothers and teachers, but research published in The Journal of Experimental Biology has shown that it is also possible in tadpoles.

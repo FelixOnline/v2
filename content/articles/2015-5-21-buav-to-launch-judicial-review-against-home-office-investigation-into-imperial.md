@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
-image_caption: >
-
-image_attribution: "Almea"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
+image_caption: ""
 ---
 
 The High Court has granted the British Union for the Abolition of Vivisection (BUAV) permission to bring a judicial review against the Home Office, in which they are hoping to again confront animal care at Imperial, and also “prove that the Home Office guilty of foul play”.

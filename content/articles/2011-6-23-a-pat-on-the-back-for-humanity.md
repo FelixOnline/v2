@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m not one for blowing my own trumpet, but sometimes when I look down on this sprawling metropolis of science and soccer, of museums and Metro newspapers, I think we can feel a modicum of pride. I’m not talking about just London though. It’s everyone, the whole human race! When I think about what we’ve achieved, I have to say that humanity’s pretty great.

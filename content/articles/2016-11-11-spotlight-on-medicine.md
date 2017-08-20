@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111555-felix-16701909933_d557ea5cba_o.png"
-image_caption: >
-
-image_attribution: "NICHD"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111555-felix-16701909933_d557ea5cba_o.png"
+image_caption: ""
 ---
 
 ## 1 | HIV Testing USB Sticks

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A [forum on sexism](http://www.union.ic.ac.uk/blogs/2012/02/29/women-at-imperial-is-everything-ok/) at Imperial College was held on Tuesday, with the intention of investigating the extent of sexism within the college as well as brainstorming plans on how best to address it.

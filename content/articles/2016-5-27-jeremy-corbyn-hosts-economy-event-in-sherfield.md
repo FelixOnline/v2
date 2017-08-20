@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271038-felix-Screen Shot 2016-05-25 at 19.36.14.png"
-image_caption: >
-  Look familiar?
-image_attribution: "Twitter / @UKLabour"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271038-felix-Screen Shot 2016-05-25 at 19.36.14.png"
+image_caption: ""
 ---
 
 Last Saturday, members of the Labour party gathered in the Sherfield great hall to discuss the future of the British economy.

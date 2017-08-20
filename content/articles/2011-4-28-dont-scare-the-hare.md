@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104280941-ma1307-dont_scare_the_hare.jpg"
-image_caption: >
-  The Hare in question, looking suitably worried.
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104280941-ma1307-dont_scare_the_hare.jpg"
+image_caption: ""
 ---
 
 “Thanks for coming at such short notice.”

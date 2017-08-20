@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261133-felix-one skull.jpg"
-image_caption: >
-  One skull tells a different story.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261133-felix-one skull.jpg"
+image_caption: ""
 ---
 
 Scientists are sent back to the drawing board as researchers suggest “hobbit” skull probably doesn’t belong to an ancient human.

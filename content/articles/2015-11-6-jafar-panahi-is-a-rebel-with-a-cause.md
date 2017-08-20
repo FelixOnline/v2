@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061414-ygr12-maxresdefault.jpg"
-image_caption: >
-  Jafar Pahani ferries around passengers in his latest work, Taxi Tehran
-image_attribution: "New Waves Films"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061414-ygr12-maxresdefault.jpg"
+image_caption: ""
 ---
 
 Any piece on the work of Iranian director Jafar Panahi cannot really start anywhere else than on the 20th December 2010, the day Panahi was convicted for ‘assembly and colluding with the intention to commit crimes against [Iran’s] national security’.

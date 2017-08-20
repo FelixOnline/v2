@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131620-ps3110-462699-chrisgayleafp-1352386956-759-640x480.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131620-ps3110-462699-chrisgayleafp-1352386956-759-640x480.jpg"
+image_caption: ""
 ---
 
 ## Pool A

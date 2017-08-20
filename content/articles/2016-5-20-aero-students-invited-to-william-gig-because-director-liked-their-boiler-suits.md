@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201043-felix-IMG_1774.JPG"
-image_caption: >
-
-image_attribution: "Wojciech Kowalski"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201043-felix-IMG_1774.JPG"
+image_caption: ""
 ---
 
 Twenty first year aeronautics students were given free tickets to a will.i.am gig at the Royal Albert Hall gig last week, after being spotted in their boiler suits taking an end of year picture outside the venue earlier that day.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Having written about the Ukraine when the events there were all just kicking off, I feel it is about time to return to the topic. Then I wrote full of youthful enthusiasm but now I shall have to take a more sober perspective. I could look at this (and to some extent I do) as a further sad confirmation that a Luxemburgist spontaneous revolution simply cannot deal with the Thermidorean reaction. But Ukraine was always a little more complicated: there is a distinct lack of any sense of ‘national’ unity in the country, and without this most efficient of banners to mobilise behind, the student protests in Kiev never really had any scope to advance beyond the modest middle-class movements which they were.

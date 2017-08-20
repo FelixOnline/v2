@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
+image_caption: ""
 ---
 
 Nine months is a long time in Formula 1. In March the motoring clique feverishly anticipated the return of the seven-times world champion Michael Schumacher. Arguably the best driver in the history of the sport was making an epic comeback, driving the car that was originally intended for the then current world champion Jenson Button. But the enticing combination did not work. What could have been the fastest driver in the fastest car turned out to be a disappointingly mediocre mix, lingering far behind the pace of Red Bull, Ferrari, and McLaren. The legendary German just did not know when to pack it in – Take That, take note. That Sebastian Vettel, also known as “Baby Schuey”, took the 2010 crown on the weekend only serves to underline how the sport has moved on from the days when the season results read: Australia: Schumacher 1st, Brazil: Schumacher 1st, Malaysia: Schumacher 1st… well, you get the gist. Or has it?

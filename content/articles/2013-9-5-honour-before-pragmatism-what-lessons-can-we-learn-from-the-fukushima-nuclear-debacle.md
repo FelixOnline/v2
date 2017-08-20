@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309051935-jal08-tumblr_mmstipuyid1rfyiu4o1_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309051935-jal08-tumblr_mmstipuyid1rfyiu4o1_1280.jpg"
+image_caption: ""
 ---
 
 When I began to put this article together the recorded radiation levels around the storage tanks of the Fukushima Nuclear Plant stood at 1,800 millisieverts. By Tuesday a ground reading of 2,200 mSv, a 22% rise, was duly noted.

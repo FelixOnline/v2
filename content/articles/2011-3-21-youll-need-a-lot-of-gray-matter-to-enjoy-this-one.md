@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103211148-ks607-graymatt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103211148-ks607-graymatt.jpg"
+image_caption: ""
 ---
 
 [Gray Matter](http://www.graymatter-game.com/) starts off as any mystery game would: a creepy old mansion, half an hour’s bus ride from Oxford, during the middle of a storm. Sam Everett is an American who practices magic and is searching for a secret magicians’ club known as the Daedalus Club. Her motorbike breaks down in the rain and she happens to stop near the mansion. To blag a room for the night, she pretends to be the new assistant to the owner, Dr. David Styles, an expert in the field of ‘unusual neurological abnormalities’. In the morning, Sam realises that she can make a bit of money by continuing her deception, and so starts performing tasks for Dr Styles. She must gather up several guinea pigs for his next experiment, so she goes to Oxford to find students (pretentious or otherwise) to take part. Of course, the good Doctor has a shady past, about which more is discovered throughout the storyline.

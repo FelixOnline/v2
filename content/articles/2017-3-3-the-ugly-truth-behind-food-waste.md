@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031557-felix-food-waster-hero1.jpg"
-image_caption: >
-
-image_attribution: "modernfamer.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031557-felix-food-waster-hero1.jpg"
+image_caption: ""
 ---
 
 There is no way of denying it: we overproduce. Constantly. We throw. Shamelessly. We waste. Consciously. Every day, tonnes of food are thrown away simply because some food legislation has put a standardized limit ‘eat before’ date or due to surplus. Worse, because we buy more than we really need. However, for catering companies, restaurants and cafés, for which food waste is a daily issue, acknowledging it is still something inconsiderable. As if by admitting a truth we all know – although we refuse to believe it ourselves – it would expose them to shame, customers’ disapproval and ultimately to bankruptcy.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201207101243-mc4509-the-newsroom.jpg"
-image_caption: >
-  Practically the Felix Office
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201207101243-mc4509-the-newsroom.jpg"
+image_caption: ""
 ---
 
 It seems a long time ago that Aaron Sorkin was last on our TV screens. After the success of [_The West Wing_](http://www.youtube.com/watch?v=FScv89J6rro), everyone expected [_Studio 60 on the Sunset Strip_](http://www.youtube.com/watch?v=1INS1Rp3o9M) to be the next step towards greatness for the burgeoning screenwriter. Unfortunately, the show flopped within the first few episodes and was cancelled after one series. Sorkin disappeared off the radar and many thought that his best work was already behind him.

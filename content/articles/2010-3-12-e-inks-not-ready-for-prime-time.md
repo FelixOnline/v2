@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003121649-srg03-eBookrea.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003121649-srg03-eBookrea.jpg"
+image_caption: ""
 ---
 
 One thing that has been a staple feature of science fiction stories since the late 50s is the death of printed books. If SF authors are to be believed, books are eventually going to be phased out in favour of eBooks, and in the 21st century, major publishers and content distributors seem to agree. Both Barnes and Noble and Amazon have been aggressively selling their eBook readers, and even Apple's iPad was announced alongside a New York Times Reader app to make the online version of the paper resemble the real thing much more closely. Yet apart from relatively strong sales of Amazon's Kindle, the response to the concept of eBooks has been lukewarm at best. On one hand authors are deterred by the thought of piracy eating away at profit margins, while on the other, readers don't seem to be attracted to the prospect of buying an expensive device that has only one real function.

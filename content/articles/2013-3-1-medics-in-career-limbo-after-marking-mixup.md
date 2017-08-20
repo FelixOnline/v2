@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010121-tna08-paris_tuileries_garden_facepalm_statue-(2).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010121-tna08-paris_tuileries_garden_facepalm_statue-(2).jpg"
+image_caption: ""
 ---
 
 More than seven thousand final year medics nationwide have been left stunned and unsure of their future following the retraction of allocated Situational Judgement Test (SJT) results. The move, taken by the UK Foundation Programme Office (UKFPO) on 25 February, means that medics must undergo yet another nervous wait to find out which hospital will become their training base.

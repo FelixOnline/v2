@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070225-tna08-pop_image_small.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070225-tna08-pop_image_small.jpg"
+image_caption: ""
 ---
 
 This autumn, a new theatre company has joined the ranks of the prestigious London scene: the [Michael Grandage Company ](http://www.michaelgrandagecompany.com/)(MGC). Born from the union of two notorieties of the UK repertoire, artistic director Michael Grandage and executive producer James Bierman, this new troop has only just revealed its first 15-month season of five plays that will be nestled in the heart of the West End at the Noel Coward theatre.

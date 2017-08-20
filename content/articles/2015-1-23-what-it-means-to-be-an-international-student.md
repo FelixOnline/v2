@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230121-ps3110-al-pred-seesaw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230121-ps3110-al-pred-seesaw.jpg"
+image_caption: ""
 ---
 
 Take a look around in your lecture hall. What do you see? Considering that all of you are studying at Imperial College, there will probably be people of different races, nationalities, ethnicities and socioeconomic backgrounds all packed into one room. Now take a closer look. I’ll wager that there will be a group of Chinese students bunched together in the front. the Indians will have congregated somewhere around the back. There will be a whole bunch of Europeans scattered around the room, sitting together according to their nationalities, and the English will probably be found all around the room in two’s or threes.

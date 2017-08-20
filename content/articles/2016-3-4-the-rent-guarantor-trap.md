@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
-image_caption: >
-  It’s not easy finding affordable accommodation in the most expensive neighbourhood in the country.
-image_attribution: "exeid.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041132-felix-Mayfair-Monopoly.jpg"
+image_caption: ""
 ---
 
 Unknown to many home students, there is an unholy pitfall for those trying to find accommodation without a guarantor.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203160155-felix-screen-shot-2012-03-16-at-01.54.41.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203160155-felix-screen-shot-2012-03-16-at-01.54.41.png"
+image_caption: ""
 ---
 
 Tickets are [now on sale](http://www.union.ic.ac.uk/marketing/summerball/) for this year’s scaled-down Summer Ball, to be held on 23 June. Promising a “transformed South Kensington campus” and marking the return of a black tie formal dinner option, the Union has sought to firmly overview the financial risk of the event in order to avoid [a substantial loss](http://felixonline.co.uk/news/1450/summer-ball-suffers-100000-loss/) such as that sustained at the 2011 Summer Ball.

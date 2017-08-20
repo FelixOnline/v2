@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041252-aib116-galaxies-597905_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041252-aib116-galaxies-597905_1920.jpg"
+image_caption: ""
 ---
 
 In spite of the seemingly everlasting state of conflict in the international community, all countries have pretty much agreed to pretend to be friends in outer space.

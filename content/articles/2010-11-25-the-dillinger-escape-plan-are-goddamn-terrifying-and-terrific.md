@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252052-nm1010-dillinge.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252052-nm1010-dillinge.jpg"
+image_caption: ""
 ---
 
 Dillinger have been one of my favorite bands ever since I first heard “Calculating Infinity”. I distinctly recall a spasm-inducing epiphany. Since then they’ve changed a fair amount: guitar virtuoso Ben Weinman is the only remaining original member of the band and their music, though firmly rooted in math-metal and avant-garde metal, has known some pretty wacky stylistic mutations.

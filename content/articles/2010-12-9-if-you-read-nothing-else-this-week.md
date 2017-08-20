@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092125-ks607-kackerou.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092125-ks607-kackerou.jpg"
+image_caption: ""
 ---
 
 From time to time, I fancy myself as a bit of a writer. The hubris quickly passes as I flounder at the end of the first paragraph but the desire still remains. What desire you may ask (or more likely not)? It is my burning ambition to write a novel that will have the same effect on my hypothetical readers that On The Road had on me.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104202134-felix-john-terry.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104202134-felix-john-terry.jpeg"
+image_caption: ""
 ---
 
 Last week’s [Black Sheep certainly got the column started with a bang](http://felixonline.co.uk/comment/278/is-infidelity-really-such-a-crime-/). At least I thought it had, for the first hundred words. Then I realised the noise was coming from me smashing my head through the paper onto the desk underneath it.

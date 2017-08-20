@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202005-ks607-waitwait.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202005-ks607-waitwait.jpg"
+image_caption: ""
 ---
 
 One of the things all the top chefs say is that one of the reasons they are in the job is because they like putting a plate of food in front of someone. A good recent example of this is Nigel Slater, whose early life was dramatised on the BBC over Christmas – arguably more for the gay kiss than for the lemon meringue, one might say.

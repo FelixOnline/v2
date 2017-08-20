@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121942-felix-ryanreynoldsglfanart-large-072009.jpg"
-image_caption: >
-  Oh dear...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121942-felix-ryanreynoldsglfanart-large-072009.jpg"
+image_caption: ""
 ---
 
 I’ll be honest, I’m not the biggest comic book fan. Sure, I used to watch X-Men and Spiderman cartoons in my pajamas during the now distant nineties but as far as turning the pages of actual comics, my only memories are of the occasional Beano – if I had enough change from my pocket money. Many people take the DC and Marvel canons very seriously and the zeal of fans has changed the nature of blockbusters over the past decade. The once action movie staple of the Hollywood summer schedule has very quickly been replaced by the now familiar parade of lycra-cladded superheroes. If you browse through the major film websites and magazines , you very quickly start to get a sense of déjà vu at the bombardment of comic book adaptions that dominate the features and eventually the cinema screens. Are studios scraping the barrel to find obscure characters to spin money from? Will audiences eventually become bored? And how many more flops will it take for the comic book phenomenon to implode and make filmmakers realize that maybe the market is oversaturated.

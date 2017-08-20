@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202170831-ks607-301154_10150808972130397_628070396_20687585_1117883165_n-1.jpg"
-image_caption: >
-  Ooo-err!
-image_attribution: "James Mossahebi"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202170831-ks607-301154_10150808972130397_628070396_20687585_1117883165_n-1.jpg"
+image_caption: ""
 ---
 
 Dressing up: probably the reason I love going to [Bestival](http://www.bestival.net/) every year. In 2010, a pair of twins I know dressed as colonial-era hunters and chased the other festival-goers who had so foolishly dressed as characters from The Fantastic Mr Fox. (Last year, well, a picture speaks a 1000 words [see right].) There’s no greater pleasure than writing about a topic that you enjoy, so I will do my best to add some Isle of Wight hate into the next 300 or so words, just to balance things out.

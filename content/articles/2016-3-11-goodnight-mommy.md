@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111152-felix-goodnight-mommy-1-credit-courtesy-of-radius.jpg"
-image_caption: >
-  What lies behind the bandages? Susanne Wuest in chilly horror Goodnight Mommy.
-image_attribution: "RADiUS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111152-felix-goodnight-mommy-1-credit-courtesy-of-radius.jpg"
+image_caption: ""
 ---
 
 If you’re in two minds about whether or not to have children, watching _Goodnight Mommy_ should put you right off. An Austrian horror centring around the relationship between a mother and her children, _Goodnight Mommy_ is a dark, cold exploration of identity and power.Its Shyamalan-esque twist might not be to everyone’s tastes, but it can’t ruin the carefully constructed sense of unease that runs through the film like a dark undercurrent.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305081738-tna08-army.mil-57569-2009-12-01-061217.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305081738-tna08-army.mil-57569-2009-12-01-061217.jpg"
+image_caption: ""
 ---
 
 Dr Matthew Fuchter is a Senior Lecturer in Synthetic and Medicinal chemistry at Imperial College London. In close collaboration with Dr Alasdair Campbell from the department of Physics Dr Fuchter and his research group have dedicated some of their research to OLEDs and a group of molecules known as helicenes.

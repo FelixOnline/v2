@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
+image_caption: ""
 ---
 
 After reading the ‘[Hell of Heaven](http://felixonline.co.uk/comment/1568/the-hell-of-heaven/)’ article from two weeks back, and reading a bit of Christian perspective on the subject in last week’s edition, I decided to shed some light on the subject from a Muslim’s point of view. As well as writing on the general importance of religion within a society.

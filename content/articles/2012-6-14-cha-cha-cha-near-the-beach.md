@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I used to loathe dancing. I was one of those people who stands in the corner looking awkward, refusing to join the dance floor. However, in a moment of daring I tried Latin American dancing and not that long after I found myself travelling one Sunday morning to the south coast for my first competition.

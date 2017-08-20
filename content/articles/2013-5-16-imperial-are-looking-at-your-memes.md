@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305162152-tna08-imperial-memes-1.jpg"
-image_caption: >
-  College's post on Imperial Memes, which was deleted. Definitely would have been better to have done
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305162152-tna08-imperial-memes-1.jpg"
+image_caption: ""
 ---
 
 Imperial College London posted on the Imperial Memes Facebook Page to warn students about the content of some of the Memes. College posted reminding people not to damage the reputation of Imperial of themselves. The post was deleted soon after being posted.

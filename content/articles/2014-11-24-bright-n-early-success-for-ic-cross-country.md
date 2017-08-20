@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411242014-ps3110-pb020235.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411242014-ps3110-pb020235.jpg"
+image_caption: ""
 ---
 
 I hope the pun in the title will be more welcome than it was at the disgustingly early hour of 05:30 at Clapham Junction on Sunday 16th November. It was at this hour that 40 members of the Imperial Cross Country and Athletics Club met to make the trip to the Brighton 10k 2014, well before the opening of any coffee shops and tube stations and at the same time as most young people stagger home after a mental Saturday night out.

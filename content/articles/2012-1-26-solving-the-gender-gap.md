@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
-image_caption: >
-  Members of staff are confident in the improvement of support for female staff
-image_attribution: "Jan Chlebik"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
+image_caption: ""
 ---
 
 There are currently 81 female professors at Imperial which make up just 15% of the total holding this senior post. Felix has investigated what Imperial is doing to combat gender inequalities and support the career progression of women. In fact, a substantial movement exists within the College and members of staff have told Felix of the “ground-breaking steps” that are being taken to support female staff. However, they have also highlighted that this is “working better in some areas than others”.

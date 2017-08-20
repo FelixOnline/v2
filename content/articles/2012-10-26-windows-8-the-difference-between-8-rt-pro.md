@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
+image_caption: ""
 ---
 
 Windows 8 came out today, and the media world is buzzing to see if this will make or break Microsoft’s future. In the past Microsoft consumers faced more choices of varieties of Windows than in a trip to Subway! Starter, Home Basic, Home Premium and, and, and, were often subject to intense discussion of suitability and productivity. This time round, Windows 8 only comes in 3 varieties with very similar capabilities, which seems to be a plus. However, the big question is “what is the difference” and “what variety do you, as a student, want?”

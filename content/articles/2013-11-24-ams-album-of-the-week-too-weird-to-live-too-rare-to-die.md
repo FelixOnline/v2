@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A world away from the pop punk sound of A Fever You Can’t Sweat Out, Panic! at the Disco’s new album, Too Weird To Live, Too Rare To Die!, lands us smack bang in the middle of the contemporary electro and dance scene. I’m neither surprised nor upset by this move; Panic! has always pushed the boundaries and demonstrated versatility (fingers to the second album, Beatles nay sayers). However, previously the vocals were balanced with an eclectic use of instruments and quirky sounds. Now we have a less than imaginative use of the vocoder and this album is synth’d up to its eyeballs.

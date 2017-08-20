@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271039-felix-snow.jpg"
-image_caption: >
-  Some of the finest TV this decade.
-image_attribution: "Renegade Productions"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271039-felix-snow.jpg"
+image_caption: ""
 ---
 
 David Nutt, the chair of Imperial’s Centre for Neuropsychopharmacology, advocate for drug reform, and former chair of the Advisory Council on the Misuse of Drugs before he was sacked by the government in 2009 for saying alcohol was more harmful than illegal drugs, spoke to students and staff last week as part of Imperial’s mental health week.

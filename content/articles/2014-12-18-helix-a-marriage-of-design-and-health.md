@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212233-ps3110-helix-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212233-ps3110-helix-1.jpg"
+image_caption: ""
 ---
 
 This week, I had the opportunity to visit __The HELIX Centre for Design in Healthcare__, part of Imperial’s Institute of Global Health Innovation. Based at St. Mary's Hospital in Paddington, the centre aims to provide solutions in healthcare through intelligent and low cost design. Formed less than a year ago as a collaboration between the Royal College of Art and Imperial College, London; I was really enthusiastic about this, both as a medic and someone interested in clever and elegant design. It promised to be an exciting integration of fields not often thought of together. I sat down with Maja Kecman, a specialist in healthcare design working at HELIX, to see if the hype was justified:

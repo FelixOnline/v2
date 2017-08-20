@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282342-tna08-tattoo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282342-tna08-tattoo.jpg"
+image_caption: ""
 ---
 
 If you were to get a tattoo what would it be and why? Think about it for a moment. Perhaps you already have one. Does it represent anything important to you or is it purely aesthetic?

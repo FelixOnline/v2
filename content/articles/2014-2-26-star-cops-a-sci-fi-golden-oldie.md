@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 First let me say – no, it’s not as bad as its name suggests. In fact it’s nothing like its name suggest. The show itself jokes about how bad a name it is in its very first episode. Star Cops is not some cheap police action-drama carelessly transplanted into a space setting. Instead, it is a very intelligent, brilliantly written piece of television, and one of the most unique examples of the SF genre that has ever graced our screens.

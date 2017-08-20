@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110070159-felix-league-tables.jpg"
-image_caption: >
-  Mixed fortunes for Imperial in league table results
-image_attribution: "Sean Gallagher"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110070159-felix-league-tables.jpg"
+image_caption: ""
 ---
 
 Imperial has dropped a stunning 11 places in the Sunday Times League Table for 2012 entry, published last month. The College is now ranked fourteenth in the UK, behind institutions such as the University of Exeter and Newcastle University. This is the first time in fourteen years that Imperial has not been in the table’s top four. This drop has been attributed to a change in the methodology of compiling the table, which has also seen King’s College London slide from tenth to seventeenth place and the University of Edinburgh from fourteenth to twenty-seventh.

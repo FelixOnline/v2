@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112044-ks607-cricket.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112044-ks607-cricket.jpg"
+image_caption: ""
 ---
 
 Imperial overcame stiff competition this Saturday from Essex, Kingston and East London Universities to reach the second leg of the indoor tournament. The six IC players were amongst the most experienced in the Cricket club and put up a spirited performance that ensured victories in all three of their matches.

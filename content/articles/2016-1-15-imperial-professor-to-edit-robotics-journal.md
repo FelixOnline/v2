@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601151122-felix-Screen Shot 2016-01-13 at 14.57.36.png"
-image_caption: >
-  Professor Yang
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601151122-felix-Screen Shot 2016-01-13 at 14.57.36.png"
+image_caption: ""
 ---
 
 One of Imperial’s very own professors has been appointed editor of a newly formed journal, _Science Robotics_, which is due to launch in July of this year.

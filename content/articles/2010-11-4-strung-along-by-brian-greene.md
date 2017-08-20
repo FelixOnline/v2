@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 String theory is not a subject that would enthral most people, it is hard physics, mathematical, untested and impossible to visualise. On Thursday the 28th of October at the [Wellcome Institute](http://www.wellcome.ac.uk/), I attended a discussion with Brian Greene on the subject of String theory and the controversy and debate surrounding it. Brian Greene is a professor at Columbia University, author of ‘The Elegant Universe’ as well as being one of the most well-respected and high profile string theorists. The talk was facilitated by Professor A.C Grayling, author and professor of philosophy at Birkbeck University.

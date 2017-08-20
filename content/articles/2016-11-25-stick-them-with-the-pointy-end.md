@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251454-felix-IMG_20161121_190742.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251454-felix-IMG_20161121_190742.jpg"
+image_caption: ""
 ---
 
 Yes it’s a Game of Thrones reference, I need something to fill the void until the next season. But even that isn’t enough, so it got me thinking. Maybe I should try this swordplay thing? And where better than IC’s Fencing team? You will have read about their continued success in previous editions but I’m not one to just read about sports: I went. It’s been a busy day, deadlines to meet, papers to read and a thesis that apparently won’t write itself. Needless to say, me with a weapon may be a safety issue.

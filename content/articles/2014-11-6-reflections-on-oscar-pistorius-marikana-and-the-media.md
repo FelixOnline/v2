@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In _Signatures of the Visible_, Fredric Jameson states that “the visual is essentially pornographic” – that is, its end is in “mindless rapture”. That being said, as any reader of Orwell knows, there are degrees of equality; that is to say, while all ‘visuals’ (forgive the clumsy expression) are essentially pornographic, some are more essentially pornographic than others. The trial of Oscar Pistorius, so widely broadcast this summer, was one of these paradoxical beasts – the Napoleons and Squealers, the generally ‘more equal’. The obscene spectacle of a sordid celebrity tragedy was seized upon by the major news channels as not only a worthy news piece but further as so important as to merit global coverage. It seems this turgid carnival with a faceless protagonist succeeded in trumping George Alagiah and Adam Boulton alike. The trial even inspired some program titles – my favourite: ‘Oscar Pistorius: The Sentencing’ – reminiscent of the cheap thrillers purchased in airport lobbies, half-read before swiftly falling into desuetude.

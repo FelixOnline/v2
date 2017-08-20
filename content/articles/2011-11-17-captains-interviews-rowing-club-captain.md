@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
+image_caption: ""
 ---
 
 I hope that the avid Sport readers (you know who you are) have been enjoying the Captains’ Interviews series – because we’ve decided to go weekly on you. After having the Rugby first XV captain last week, we turn to an equally popular (and equally gruelling) sport. Live from the Boathouse in Putney, Rowing Club Captain Patrick Hudson answers my questions.

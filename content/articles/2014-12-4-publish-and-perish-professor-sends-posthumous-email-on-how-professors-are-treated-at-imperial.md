@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412040411-ps3110-biglab.gif"
-image_caption: >
-  Grimm was facing
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412040411-ps3110-biglab.gif"
+image_caption: ""
 ---
 
 An Imperial professor who died “suddenly and unexpectedly” in September has allegedly sent a posthumous email to his colleagues, with the subject line: “How Professors are treated at Imperial College.”

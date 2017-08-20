@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
-image_caption: >
-  Mark Carney: Big money, big... ego.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
+image_caption: ""
 ---
 
 Reports dooming the Earth as we know it are not novel concepts. For all the much needed scaremongering in the media, climate change as a threat sits on a pedestal. It’s a threat that respects no boundaries, operating across all borders. However it’s only recently that the financial repercussions of such a crisis have started stepping into the mainstream.

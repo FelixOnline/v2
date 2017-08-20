@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220001-tna08-3001_287.jpg"
-image_caption: >
-  Engaged with the ceremony... clearly
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220001-tna08-3001_287.jpg"
+image_caption: ""
 ---
 
 The Treasury has estimated that £1.7 bn will be saved by having higher tuition fees and putting an end to the teaching allowances.

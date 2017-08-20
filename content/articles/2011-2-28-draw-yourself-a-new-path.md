@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282012-gep07-pathmoti.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282012-gep07-pathmoti.jpg"
+image_caption: ""
 ---
 
 You may not yet have heard of [PathMotion](http://www.pathmotion.com/) – a rather unorthodox, yet compelling new careers website with a lot of potential; the brainchild of entrepreneur David Rivel.

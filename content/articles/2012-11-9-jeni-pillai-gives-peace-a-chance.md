@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091409-tna08-peace+birmingham+uk.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091409-tna08-peace+birmingham+uk.jpeg"
+image_caption: ""
 ---
 
 At first glance, Peace appear to be yet another so-cool-it-hurts, indier-than-thou, guitar band. Just have a look at their haircuts and you’ll see where I’m going with this. But after seeing them play at the Lexington on Tuesday night, I can confirm there’s definitely more to them than that.

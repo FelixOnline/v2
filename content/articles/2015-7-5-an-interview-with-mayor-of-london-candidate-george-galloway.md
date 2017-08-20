@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201507051101-jr2514-galloway.jpg"
-image_caption: >
-  Mr Galloway threw his hat in the ring three weeks after the general election
-image_attribution: "The Independent"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201507051101-jr2514-galloway.jpg"
+image_caption: ""
 ---
 
 Born in Dundee, Galloway became involved in politics from a very young age and is now campaigning as RESPECT Party candidate for Mayor of London. Known as a political maverick and divisive figure in British politics, Galloway has been lauded for his lively rhetoric and impassioned debating style.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111507-felix-Screen Shot 2016-11-11 at 14.13.41.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111507-felix-Screen Shot 2016-11-11 at 14.13.41.png"
+image_caption: ""
 ---
 
 Consent is a pretty hot topic at the moment. It’s been in this newspaper a lot and in fact in the national news a lot too. So why is it that consent is such a matter of importance in the public minds at the moment? Well,  to put bluntly, if sex doesn’t involve it then it’s not sex – it’s rape. And rape and related sex crimes (or at least reported ones) have massively increased over the last year.

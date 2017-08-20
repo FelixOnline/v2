@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
+image_caption: ""
 ---
 
 Deciding to spend your own personal money on kitchen appliances rather than clothes/drinks is a pretty significant sign that you have grown up – although it may be scary, in the case of a smoothie maker it is a worthwhile investment.

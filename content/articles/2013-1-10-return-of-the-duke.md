@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102251-csw09-bowie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102251-csw09-bowie.jpg"
+image_caption: ""
 ---
 
 This week, just as all the music journo’s had finished having their “what to look forward to in 2013” articles published, a fuck-off metaphorical anvil fell from the clouds and smashed them to pieces; all of them made irrelevant. No-one expected David Bowie to return with new material; his last release was a decade ago; he turned 66 this week, the day the announcement was made. But by Tuesday morning Bowie’s ‘comeback’ was plastered all over the press and blaring out of radios.

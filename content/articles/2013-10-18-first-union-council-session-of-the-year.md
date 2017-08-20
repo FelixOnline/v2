@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The first meeting of the Union Council was held in the Union Dining Hall last Monday. The Council, consisting of over two dozen student representatives – including the Management Group chairs and Constituent Union presidents, is the main policy making body of the Union and is subordinate to only the Trustee Board.

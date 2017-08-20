@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Stands, music and instruments packed up, the Imperial College String Ensemble headed off on the 13th of September to Speldhurst in Kent for their annual Summer tour. A long weekend of music, socializing and charity events was to follow.

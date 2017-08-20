@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
-image_caption: >
-
-image_attribution: "flickr/andai"
-image_attribution_link: "http://www.flickr.com/photos/andai/2527145556/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
+image_caption: ""
 ---
 
 Coffee. Most people have tried it, some are addicted to it and at this time of year it is used by many students to help with revision. The coffee bean is one of the biggest agriculture commodities in the world, while the drink is omnipresent in today’s 24 hour culture. Coffee bars are everywhere, as are vending machines offering a hot, sweet, rich tasting beverage for little more than the loose change most of us carry in our pockets.

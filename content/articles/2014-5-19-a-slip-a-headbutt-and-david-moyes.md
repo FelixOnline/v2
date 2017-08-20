@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405191441-jal08-sport_pitch_teams.png"
-image_caption: >
-  The top and top flop players of the season
-image_attribution: "Kunal Wagle, Jonny Pratt / Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405191441-jal08-sport_pitch_teams.png"
+image_caption: ""
 ---
 
 #### 5 Moments that defined the title race - Jonny Pratt

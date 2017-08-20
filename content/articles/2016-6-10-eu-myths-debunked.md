@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101018-felix-tsi_erasmus_logo.jpg"
-image_caption: >
-  This could be us but you're voting out.
-image_attribution: "TSI"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101018-felix-tsi_erasmus_logo.jpg"
+image_caption: ""
 ---
 
 **The claim**: The EU open-borders policy puts strain on the UK and makes it harder for non-Europeans to settle in the UK.

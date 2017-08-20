@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041130-felix-Screen Shot 2016-03-03 at 17.43.58.png"
-image_caption: >
-  Just in case you forgot it was election season.
-image_attribution: "Twitter / @Lorenzopaoliani"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041130-felix-Screen Shot 2016-03-03 at 17.43.58.png"
+image_caption: ""
 ---
 
 Voting opens today for the Leadership Elections, which have seen a record number of students come forward for the roles of President and Deputy President (Welfare). No one put themselves forward for the Deputy President (Finance and Services) role.

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Oh a genuine big-budget nature documentary," I thought excitedly. As a biologist and lover of all things primate I was instantly excited to watch this film upon seeing its name online. Unfortunately, my excitement quickly flip-flop’d when I saw the second part of the title: ‘Disney nature’. Expectations dropped considerably. Disney, as a company, has several connotations which, whilst fitting for children’s cartoons and comedies, doesn’t seem to blend well with the themes and tropes of a mature nature documentary.

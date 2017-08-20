@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082017-cac111-butchcassidy.jpg"
-image_caption: >
-  Butch Cassidy and the Sundance Kid gained notoriety holding-up banks...never young entrepreneurs
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082017-cac111-butchcassidy.jpg"
+image_caption: ""
 ---
 
 Walking up towards the exit from the SAF lecture theatre I saw two people approach me who asked that exact question. “Are you a gangster?” Unsurprisingly, it made a few other people turn their heads around in wonder, as they were also leaving the lecture hall after a presentation on social economy.

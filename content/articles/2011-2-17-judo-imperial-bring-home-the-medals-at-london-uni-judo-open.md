@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172052-nm1010-judojudo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172052-nm1010-judojudo.jpg"
+image_caption: ""
 ---
 
 Considering the 06:00 start, Imperial Judo were in high spirits as they trekked to the edges of civilisation in the wilderness of Uxbridge for this year’s London Senior Universities Judo Open, the biggest competition of the year so far. We hurried down the steps to Brunel yesterday to meet a very nervous coach who informed us we had four minutes to get weighed-in, the guys and girls hurried onto the scales to see if the morning ablutions had shaved off half a kilo.

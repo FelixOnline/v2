@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051221-felix-film-trailer-youth (1).jpg"
-image_caption: >
-  The lovely Michael Caine as English composer Fred Ballinger, directing a herd of cows.
-image_attribution: "StudioCanal/Youth PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051221-felix-film-trailer-youth (1).jpg"
+image_caption: ""
 ---
 
 L_a Grande Bellezza_ (_The Great Beauty_), was undoubtedly a masterpiece. Filled with art and symbolism, it left us in awe, as Italian director Paolo Sorrentino reflected upon life and death. This is partly why _Youth_ is so widely anticipated, and also why it has received merely good or average reviews. _Youth_, however, although contemplating similar themes, is different in the sense that it was never intended to be as extravagant. Instead, Sorrentino aims for a lighter, more straight-forward, simple film. And that’s what most have failed to realise. In the end, Sorrentino’s touching tragicomedy, accompanied by virtuoso acting, deserves more praise than it has thus far received.

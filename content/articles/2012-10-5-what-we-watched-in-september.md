@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051315-felix-killing_them_softly-filmszene.jpg"
-image_caption: >
-  I told you not to touch my fucking test tube again. I’d JUST washed it
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051315-felix-killing_them_softly-filmszene.jpg"
+image_caption: ""
 ---
 
 __Anna Karenina (7th Sept) ___4 stars_

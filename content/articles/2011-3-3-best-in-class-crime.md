@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
+image_caption: ""
 ---
 
 Why is it that we love crime so much? Obviously when one is the victim of such offences (give me five minutes and a rounders bat with the bastard who stole my bike...) it’s a little different, but crime fiction persistently tops the books, films and TV charts. It’s probably the most popular category of television, all that reality piffle notwithstanding (it’s for cretins anyway).

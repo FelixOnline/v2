@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261155-felix-landscape-1447774984-vinyl-trailer-2.jpg"
-image_caption: >
-  No sympathy for the devil.
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261155-felix-landscape-1447774984-vinyl-trailer-2.jpg"
+image_caption: ""
 ---
 
 This show really snuck up on me. HBO seems to have pushed it out without the sort of fanfare one would expect; especially given the names attached to this project. When Martin Scorsese and Mick Jagger say they’re doing something together, you pay attention. So, I decided to give the two hour premiere (directed by Scorsese himself) a chance.

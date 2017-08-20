@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406112241-me1711-games_e3sony.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406112241-me1711-games_e3sony.jpeg"
+image_caption: ""
 ---
 
 Sony were the next of the big three to take the stage. Last year, Sony’s conference was a roaring success; a two hour “fuck you” to Microsoft. Rumour has it they initially planned to implement the same restrictive DRM with the PS4 but changed all this after the Xbox One backlash. Whether this change happened a few weeks before E3 or in the few hours between Microsoft’s and Sony’s conferences, we’ll never know. Either way Sony came on top after last year offering, at the time, the only console where games could be traded and sold at will. Unfortunately, Sony are also famous for often producing rather dry and stat filled conferences and this year was no different. We got to find out how many hours on PS4s have been logged so far, how many times people have pushed the “Share” button and how many times people have spectated other players. This stuff surely interests the shareholders but doesn’t do much for regular gamers.

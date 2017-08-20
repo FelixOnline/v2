@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303080003-tna08-650x653.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303080003-tna08-650x653.jpg"
+image_caption: ""
 ---
 
 Park Chan-Wook’s long-awaited English-language film debut is a wondrous mixture of oddity, tasteful madness and gothic beauty. There isn’t a single sane, well-grounded or normal character here, and it’s that volatile family dynamic that lights the fuse and keeps the tension simmering throughout.

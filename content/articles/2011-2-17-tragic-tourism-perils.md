@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172023-nm1010-fallsfal.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172023-nm1010-fallsfal.jpg"
+image_caption: ""
 ---
 
 After many buses and a short internal flight, we hauled ourselves and our somehow heavier backpacks to the small town of Foz do Iguaçu, the closest resting point in Brazil en route to the famous Iguaçu Falls of the dramatic ‘terra de cataratas’ (land of the waterfalls). The Iguaçu Falls are formed by several spectacular drops of the Iguaçu River culminating in an 82 metre plummet termed ‘Devil’s Throat’, a glorious junction uniting Brazil, Paraguay and Argentina. Hearsay declares that in awe of this thundering vision Eleanor Roosevelt apparently exclaimed “poor Niagra!”

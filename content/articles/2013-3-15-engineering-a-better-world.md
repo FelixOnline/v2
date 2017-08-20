@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150231-tna08-rns-and-obama.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150231-tna08-rns-and-obama.jpg"
+image_caption: ""
 ---
 
 Have you ever sat in a boring lecture and thought: ‘I wonder how I could help make the world a better place?’ Or been stuck behind a bunch of chatty teenagers on the tube and wondered ‘why should I even bother?’ Well, be prepared to have all these and more of your important life questions answered. We have just the event for all of your queries!

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101036-felix-Snaps 1.jpg"
-image_caption: >
-  The most photogenic sandwich ever from Snaps + Rye
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101036-felix-Snaps 1.jpg"
+image_caption: ""
 ---
 
 As much as I regret moving to somewhere in the middle of Holland Park and Shepherd’s Bush for second year,living in close proximity to the beautiful neighborhood of Notting Hill definitely made up for the daily power walk sessions to catch the Circle line to college. Here are a few of my favourite places I return to ever so often and never get tired of. Every place is conveniently a few minutes’ walk off Portobello Road, the main road that stretches all the way from Notting Hill Gate tube station right up past the A40 Westway. Trust me, there’s much more to Notting Hill than the movies and a few cracked pots at the antiques market.

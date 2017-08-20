@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
+image_caption: ""
 ---
 
 Union elections are kicking off again on Friday 17 at 12pm, they will be open till Tuesday 22 at 12pm.

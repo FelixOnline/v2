@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172350-tna08-uc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172350-tna08-uc.jpg"
+image_caption: ""
 ---
 
 While this season’s University Challenge is still underway, with Imperial College’s team still in the running, the selections have already been made for next year.

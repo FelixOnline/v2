@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406121800-me1711-london-pollution-011.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406121800-me1711-london-pollution-011.jpg"
+image_caption: ""
 ---
 
 London is one of the most polluted cities in Europe and it is no surprise to hear that this pollution has potentially harmful effects on our health. Air pollution has previously been linked to an increased risk of cardiovascular and respiratory disease, as well as cancer. An estimated 7 million deaths per year are a result of air pollution exposure according to the World Health Organisation.

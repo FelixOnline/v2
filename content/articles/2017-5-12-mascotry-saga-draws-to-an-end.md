@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121829-felix-spanner.jpg"
-image_caption: >
-  Look mom! I found a giant... tool!
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121829-felix-spanner.jpg"
+image_caption: ""
 ---
 
 It only took about a year but the ‘heated’ topic of mascotry conduct seems to have finally been put to rest. Sort of. During the final council meeting of the spring term, the reworked mascotry paper was almost successfully passed. Almost, because following a mass exodus after the presentation of the tie club paper, Council was no longer quorate.

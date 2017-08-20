@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Dubbed ‘Female Viagra’, the drug Lady Prelox has gone on sale in the UK this week, marketed as being ‘clinically proven’ to improve female sexual dysfunction. Whether or not it works is another matter.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302011233-tna08-h5n1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302011233-tna08-h5n1.jpg"
+image_caption: ""
 ---
 
 "With great power comes great responsibility,” one wise man once said. Although he was unknowingly hinting at those with super powers to tread carefully, it too can be applied in the wider context to those that have the capacity to seriously affect people, either for good or bad. Right now, scientists are the super heroes of the real world (that includes you, so feel free to give yourself a pat on the back right now. Yes, even if you are alone in the Library Café), and with technology accelerating at metaphorical speeds to the point where we had to even redefine the greatest literal speed, great responsibility needs to come into play too.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280107-ps3110-gg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280107-ps3110-gg.jpg"
+image_caption: ""
 ---
 
 Anyone with an interest in feminism, social media, video games or nerd culture in general has probably heard this term over the past few months: GamerGate. What exactly is it? Why is it so awful? To get to the bottom of this we need to take a long, ugly look at gaming culture…

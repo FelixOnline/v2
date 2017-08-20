@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231254-ygr12-fourtet2.jpg"
-image_caption: >
-  The dark can be fun and exciting – the Four Tet All Nighter was neither.
-image_attribution: "Crack Magazine"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231254-ygr12-fourtet2.jpg"
+image_caption: ""
 ---
 
 The last time I spent a night at Brixton Academy the air was thick with smelly marijuana and fruity vapour. The fully engaged crowd swayed, bobbed and even lurched to the music, all focused on the man in the centre of the stage, walled in by a cube of screens and flashing lights.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
-image_caption: >
-  The bungee jump in full swing over Queen's Lawn last year.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
+image_caption: ""
 ---
 
 UPDATE 24/02/16 : FELIX has now learnt the bungee jump has been green-lit by college, although a new date is yet to be set.

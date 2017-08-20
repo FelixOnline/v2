@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111135-felix-Harpoceras_&_Ichtyosaure_(p).jpg"
-image_caption: >
-
-image_attribution: "Wikimedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111135-felix-Harpoceras_&_Ichtyosaure_(p).jpg"
+image_caption: ""
 ---
 
 Meteorites and volcanic eruptions; large events as such are generally considered to have led to the dinosaurs’ demise. However, their legacy is not simple – they lived, big rock collides with the Earth, they died. The Ichthyosaur, otherwise known as the ‘fish lizard’, bewildered scientists with its sudden disappearance some 34-35 million years before the cretaceous-paleocene extinction event. Novel research has put some ease to scientists deliberations, finding that climate change could have been the guilty culprit to the Ichthyosaur’s extinction.

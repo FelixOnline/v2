@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091916-ps3110-screen-shot-2015-03-09-at-19.16.11.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091916-ps3110-screen-shot-2015-03-09-at-19.16.11.png"
+image_caption: ""
 ---
 
 “This does not threaten the fabric of our society in any way whatsoever: it’s an individual choice for someone who’s watched a child die of a horrible disease”.

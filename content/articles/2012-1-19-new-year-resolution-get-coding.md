@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
-image_caption: >
-  A representation of how you look to others when you are a knowledgable computing lecturer
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
+image_caption: ""
 ---
 
 I feel like Computer Science stands out from the other subjects at Imperial for a number of reasons, not all of them related to social ability or personal hygiene (I thought I’d open with a lazy joke to lure you in, forgive me). Like all subjects taught at Imperial, the course contains a lot of high-level, greatly complex areas of study that are entirely inaccessible to outsiders. Yet there is a core to the course that is not like this, a core that is dressed up in the garb of ‘higher education’ but is in fact hugely useful in everyday life, and surprisingly accessible to those with no grounding in computer science at all.

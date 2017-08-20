@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
-image_caption: >
-  The Student Academic Choice Awards
-image_attribution: "Through Ben's Lens / Benjamin Lester"
-image_attribution_link: "http://throughbenslens.co.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160235-jal08-1576_news_tbl_sacas-1_web.jpg"
+image_caption: ""
 ---
 
 Yesterday, 8 College staff members received prizes at the Union’s annual Student Academic Choice Awards (SACAs).

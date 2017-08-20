@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
-image_caption: >
-
-image_attribution: "Prohibition 1920s"
-image_attribution_link: "http://www.prohibition1920s.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
+image_caption: ""
 ---
 
 Those who paid attention in GCSE History will remember what a fantastic time 1920s America was: cue [Rudolph Valentino](http://en.wikipedia.org/wiki/Rudolph_Valentino), the first heartthrob of Hollywood’s silent films; thriving underground speakeasies under the Prohibition act and the infamous Valentine Day’s Massacre of Al Capone. Just don’t mention the Depression that followed...

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070014-tna08-child_hitting_skeleton_with_bone.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070014-tna08-child_hitting_skeleton_with_bone.jpg"
+image_caption: ""
 ---
 
 Following the success of last week’s [Imperial Fringe](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_30-11-2012-10-11-10) event focused on bone research taking place across the College, which was estimated to have gathered around 400 people throughout the evening with 120 people participating in the panel discussion, a new event called ‘A Feast of the Sciences’ is about to take place.

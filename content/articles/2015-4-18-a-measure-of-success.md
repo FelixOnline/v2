@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
-image_caption: >
-  Alexander Matrosov, Peter Rykov, Alexander Arsentyev in Measure for Measure, Barbican, London.
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
+image_caption: ""
 ---
 
 _Measure for Measure_ is a Problem Play. This is not a reflection on the play’s quality, or the beauty of its verse, but rather an academic classification that has been applied to the Bard’s first Jacobean work. Not quite a tragedy, but retaining too much seriousness and darkness or a comedy, _Measure for Measure_ straddles a middle ground, making it ripe for interpretation and reinvention. And reinvention is precisely what we get with Cheek by Jowl’s version of the play, a collaboration with Moscow’s Pushkin Theatre that transports the rulers from dukes to plutocrats, the time from the Middle Ages to modernity, and the language from English to Russian. Far from ironing out any of the problems inherent within the play, this production revels in the messy, ambiguous nature of Shakespeare’s work.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
-image_caption: >
-  All other stars appear to rotate around the North star as the Earth spins
-image_attribution: "Wang Jinglei and Jia Hao, NASA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
+image_caption: ""
 ---
 
 According to new analysis of more than 160 years worth of data, the North Star may be wasting away, shedding an amount of gas equivalent to up to the mass of the Earth each year.

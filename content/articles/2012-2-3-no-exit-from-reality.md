@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Music, like all art, is a creative outlet addressing two domains: affronting reality and escaping it. The first can be witnessed in the efforts of the punk movement to criticize the values of modern society, or as a means of raising awareness and capital for charitable causes. The second aims to create an alternative reality, an escape from the mundane, numbing the ferocity of practical life.

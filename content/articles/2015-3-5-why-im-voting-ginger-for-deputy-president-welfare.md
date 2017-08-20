@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503051126-ps3110-screen-shot-2015-03-05-at-11.25.20.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503051126-ps3110-screen-shot-2015-03-05-at-11.25.20.png"
+image_caption: ""
 ---
 
 Jennifer ’Ginger’ Watson has, in my opinion, done a fantastic job as a student who looks out for fellow students in her role as ICSMSU Welfare Officer.

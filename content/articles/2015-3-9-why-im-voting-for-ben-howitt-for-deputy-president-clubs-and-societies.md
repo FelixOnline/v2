@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091441-ps3110-screen-shot-2015-03-09-at-14.40.42.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091441-ps3110-screen-shot-2015-03-09-at-14.40.42.png"
+image_caption: ""
 ---
 
 It’s that time of year again. Endless Facebook invites, Haribo flung at you down every corridor and people you’ve never heard of stopping you legging it from your last lecture by shouting terrible hashtags as you, so by the time you get to the JCR only the crap paninis are left.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201641-ps3110-british_houses_of_parliament-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201641-ps3110-british_houses_of_parliament-copy.jpg"
+image_caption: ""
 ---
 
 The upcoming UK general election is set to be the most unpredictable vote in living memory. Labour and the Conservatives are practically neck and neck with only 75 days to go and the odds of a hung parliament have never been shorter. Britain appears to be entering an era of six-party politics, where the Labour-Tory share of the vote is at record lows. This election is the first in recent history where the public will be heading to the polling stations expecting a hung parliament.

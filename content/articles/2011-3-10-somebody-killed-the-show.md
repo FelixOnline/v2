@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Sitting down in a dingy backroom of a pub in Camden, it seemed that we the audience were to play a more crucial role in this Hitchcock parody than previously anticipated. I turned to my ‘Partner in Crime’ and wryly noted that there were 13 members of the audience, indeed an unlucky number for the opening night of this performance. Over the next twenty minutes we witnessed the murder, not of a human being (it was clearly a red handkerchief and not blood spewing from the actress’s neck) but of the play itself.

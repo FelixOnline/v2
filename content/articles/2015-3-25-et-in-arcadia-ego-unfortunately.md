@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
-image_caption: >
-  Tom Stoppard, the writer of Arcadia
-image_attribution: "Amie Stamp"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
+image_caption: ""
 ---
 
 A disclaimer, before this review goes any further. I have extraordinarily strong feelings and opinions about _Arcadia_. I studied the text for A-Level, and directed the show for DramSoc in the summer of my first year of university. It’s been a huge part of my life for the past few years, and it’s only fair to the __English Touring Theatre__ production that I make that plain before passing comment on their show.

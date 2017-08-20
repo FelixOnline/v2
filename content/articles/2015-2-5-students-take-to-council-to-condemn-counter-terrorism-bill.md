@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502052340-ps3110-screen-shot-2015-02-05-at-23.40.24.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502052340-ps3110-screen-shot-2015-02-05-at-23.40.24.png"
+image_caption: ""
 ---
 
 A bill being passed through government has come under fire for potentially supressing free speech at Universities, and now two students want to pass a paper through Imperial College Union Council, condemning the bill altogether.

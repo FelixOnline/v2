@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The latest meeting of Union Council was cancelled as no agenda items had been tabled. [All of the Sabbatical’s reports are online and were delivered on time, like Ashanti is](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/232).

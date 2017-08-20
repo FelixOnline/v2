@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
+image_caption: ""
 ---
 
 Eleven students from the Imperial College Students for the Exploration and Development of Space society (shortened to ICSEDS for obvious reasons) attended the National Student Space Conference 2013 at the University of Bristol last weekend.

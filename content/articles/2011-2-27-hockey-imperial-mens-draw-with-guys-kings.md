@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The day after the bottle match and at 9:30, Captain yogi was down to 7 players with 4 injuries from the day before. Calling in all the favours, IC managed to scratch 10 together to line up against GKT in the ULU Prem. Division – which IC 1sts can neither win nor lose at this stage in the season.

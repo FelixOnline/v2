@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282032-dr710-houseofl.jpg"
-image_caption: >
-
-image_attribution: "Sarah Jeyaprakash "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282032-dr710-houseofl.jpg"
+image_caption: ""
 ---
 
 __Yes – Tagore Nakornchai__

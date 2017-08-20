@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290203-ps3110-diabetes.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290203-ps3110-diabetes.jpeg"
+image_caption: ""
 ---
 
 A study conducted by a team including a professor from Imperial College London has suggested that the large-scale diabetes screening programme in India will result in the public health system being overwhelmed.

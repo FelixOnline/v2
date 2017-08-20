@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
-image_caption: >
-  Do the sins of the father reflect onto the children?
-image_attribution: "My Nazi Legacy PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
+image_caption: ""
 ---
 
 While children are not responsible for the sins of the fathers, there are occasions where the legacy left behind by our forbearers is inescapable. Such is the case in _My Nazi Legacy_, where international genocide lawyer Philippe Sands explores the burden of history resting on the shoulders of Niklas Frank and Horst von Wächter, whose fathers were the Nazi governors of Poland and Galicia respectively, responsible for sending thousands upon thousands to their deaths.

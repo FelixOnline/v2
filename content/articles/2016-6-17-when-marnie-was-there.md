@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171137-felix-f01falmxnfjslhlvx8h4 (1).jpg"
-image_caption: >
-  When Marnie Was There, apparently the 'last' of the Studio Ghibli films.
-image_attribution: "Studio Ghibli"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171137-felix-f01falmxnfjslhlvx8h4 (1).jpg"
+image_caption: ""
 ---
 
 While Studio Ghibli have gifted us with numerous adaptations of children’s tales, they have clearly never come across The Boy Who Cried Wolf. For the last few years, every announcement of a new film comes with a warning that this may their last. While the creative heart of the company, Hayao Miyazaki announced his retirement in 2013, he is still working to create short films, and – after all – he said exactly the same thing in 1997. And so the news that their latest, _When Marnie Was There_, is to be their last film for the foreseeable future, does not fill me with dread; or maybe it’s just wishful thinking, optimistically keeping the truth at bay, for – most can agree – that Studio Ghibli have made some of the most technically impressive, emotionally complex animated films of the last half-century.

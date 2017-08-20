@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102158-ps3110-london_1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102158-ps3110-london_1.jpg"
+image_caption: ""
 ---
 
 Last Sunday was the 10th NFL game to be hosted at Wembley Stadium. The competing teams were the Atlanta Falcons, who sacrificed a game at their home stadium to travel over here, and the Detroit Lions. The first half of the game was a great start for the Falcons, who finished the half with a 21 point lead, however the game turned in the second half and came down to the last 4 seconds when the Lions kicked a field goal to win by a score of 22-21. This was the second of three NFL games being played at Wembley this year – the most American Football games to be played in the UK during one season.

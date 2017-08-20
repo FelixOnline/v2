@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132016-ks607-alifeins.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132016-ks607-alifeins.jpg"
+image_caption: ""
 ---
 
 John Gribbin made his name with ‘In Search of Schrodinger’s Cat’, an essential read for any aspiring Physics student. Before this, however, he collaborated with Michael White to produce this early biography of Stephen Hawking. The book covers his formative years and the reputation he built as a cosmologist.

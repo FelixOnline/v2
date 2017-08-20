@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281243-felix-game-of-thrones-s1-george-rr-martin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281243-felix-game-of-thrones-s1-george-rr-martin.jpg"
+image_caption: ""
 ---
 
 The landscape of modern fantasy writing would have been quite different had it not been for George R. R. Martin. A Song of Ice and Fire redefined the fantasy genre from the classic Lord of the Rings-esque adventure quest cum bildungsroman story of good versus evil into a darker, more adult and ultimately more realistic domain. There is no clear boundary between good and evil in his stories. No subject is taboo and he does not gloss over vices like sex, violence and incest. More importantly, main characters do die in his stories (Read an in-depth review of his series on the adjacent page).

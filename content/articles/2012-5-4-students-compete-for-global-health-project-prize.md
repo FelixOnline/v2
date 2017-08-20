@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At the end of last term, the [Institute of Global Health Innovation](http://www3.imperial.ac.uk/global-health-innovation) (IGHI) held the final of a new competition in which five students presented a global health project with which they were involved, competing for a prize of £2000 to put towards their project.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601291000-felix-682_1696611477252575_2592152650070458839_n.jpg"
-image_caption: >
-  Who is responsible when an innocent man is sent to prison?
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601291000-felix-682_1696611477252575_2592152650070458839_n.jpg"
+image_caption: ""
 ---
 
 Making a Murderer, released to stream on Netflix in December 2015, is Netflix’s second foray into documentary filmmaking after the mostly ignored Chef’s Table. It has already been described by many as the service’s most addictive program yet.

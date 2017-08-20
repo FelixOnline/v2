@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+image_caption: ""
 ---
 
 The Office for Fair Access (Offa) has published [new guidelines](http://www.offa.org.uk/press-releases/offa-sets-out-what-universities-need-to-do-to-charge-fees-of-more-than-6000/) that could force universities charging over £6,000 in tuition fees to invest a percentage into fair access schemes.

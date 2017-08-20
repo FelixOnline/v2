@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
+image_caption: ""
 ---
 
 Gil Scott-Heron has entered the musical consciousness of 2010 with the release of his comeback LP ‘I’m new here’.He entered mine as a young boy of 10 years when my parents played his records on that beloved turntable that span at 33rpm.

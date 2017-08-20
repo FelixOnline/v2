@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161917-tna08-harrison-ford-confirms-re-010.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161917-tna08-harrison-ford-confirms-re-010.jpg"
+image_caption: ""
 ---
 
 It’s bad enough that there’s going to be another Star Wars film. It’s even worse that it’s going to be made by Disney. Worse still are the hints that some of the original cast will be returning to reprise their roles.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152223-tna08-icsm-hockey.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152223-tna08-icsm-hockey.jpg"
+image_caption: ""
 ---
 
 Despite the almost blinding light from the dying sun, a strong start from IC produced the first opportunity within just a few minutes. Graham took it perfectly, dribbling easily into the D and dragging the ball straight past the keeper for a great first goal. This, however, was shortly followed with a quick response from UCL which equalised the game at 1-1.

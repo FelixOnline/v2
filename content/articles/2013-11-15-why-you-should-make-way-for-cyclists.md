@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This time last year I bought a bike. It had taken four years of living in the city but I was finally living my stereotyped London dream of flying around on two wheels, fluorescent jacket fluorescing and carbon emissions zeroing; king of the road. The bike was freedom. Unlike the tube, I could get exactly where I wanted to go rather than a ten walk away. Unlike the car I could tie the thing to the nearest pole and get on with it. It was blue in some parts and another shade of blue in other parts. It was perfect.

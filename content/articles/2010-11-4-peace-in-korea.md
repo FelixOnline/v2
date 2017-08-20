@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041840-ma1307-happyppl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041840-ma1307-happyppl.jpg"
+image_caption: ""
 ---
 
 It is clear that North Korea is in a dire state in humanitarian and political terms. On the 60th anniversary of the start of the Korean War and 10th anniversary of opening diplomatic relations with the United Kingdom, from the outside it seems things have only gotten worse and this trend can only continue.

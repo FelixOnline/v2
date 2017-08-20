@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
+image_caption: ""
 ---
 
 Here is what happened: the United States government decided to invade Iraq for possessing dangerous weapons supplied by the African nation of Niger. An American international consultant was asked to gather sufficient evidence from Africa to prove that Iraq was in fact buying these weapons. He found none, and wrote a report that said exactly that. So when he realised that his very clear report was completely ignored and The White House went to war anyway, he wrote another article, this time to The New York Times, about the invalidity of the American invasion. Ill-advised of course, but his conscience didn’t allow him to just look the other way.

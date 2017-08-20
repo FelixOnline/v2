@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051211-felix-escaped.jpg"
-image_caption: >
-  Escaped Alone at the Royal Court.
-image_attribution: "Tristram Kenton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051211-felix-escaped.jpg"
+image_caption: ""
 ---
 
 Maybe Caryl Churchill should be worried. The past 14 months have seen a mass excavation of her earlier work, with four of her works being produced in the UK. From Maxine Peake’s tongue-twisting turn in _The Skriker_, a highlight of the Manchester International Festival, to the National Theatre’s double bill of _Light Shining in Buckinghamshire_ and _Here We Go_, Churchill’s work has been granted an attention normally reserved for the recently deceased.

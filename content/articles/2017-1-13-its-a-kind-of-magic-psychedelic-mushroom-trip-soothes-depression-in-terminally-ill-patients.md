@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131415-felix-15074727357_6221618cac_o.jpg"
-image_caption: >
-
-image_attribution: "Stefan Böhm Fotografie"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131415-felix-15074727357_6221618cac_o.jpg"
+image_caption: ""
 ---
 
 It was like a space shuttle launch…that gives way to the weightlessness and majesty of space…” These are the words of Patrick Mettes, a participant in a recent clinical trial looking into the effects of psilocybin – the active component of aptly named ‘magic’ mushrooms – on depression and anxiety in cancer.

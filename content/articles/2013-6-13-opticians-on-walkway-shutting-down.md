@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140016-tna08-optician.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140016-tna08-optician.jpg"
+image_caption: ""
 ---
 
 The optician on the Sherfield Walkway is set to close. Just before Easter, the optician was called and told that the lease is being rescinded and that they have six months to leave – serving them notice is in the provisions of the lease. They will be gone by September and have been told that a new catering facility will be in their place.

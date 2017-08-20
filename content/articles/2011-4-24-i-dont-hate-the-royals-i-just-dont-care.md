@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104241212-felix-royal-couple.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104241212-felix-royal-couple.jpg"
+image_caption: ""
 ---
 
 The BBC posted [a strange story on their site last week](http://www.bbc.co.uk/news/magazine-13091768), where it equated not being excited about the royal wedding to being a staunch republican. I’d never heard the word being used outside the States until then, and the whole thing kind of weirds me out. News stations seem to have a real problem with handling the kind of person who just doesn’t give a flying jet-propelled fuck about something. A lot of people seem to cynically believe that this is put on by them to get juicier stories, but I think it’s more of a self-delusion they’ve managed to get into. Theirs is a world seen through Marmite-coated spectacles, where everything is either hated or loved, and as a result everything is tinged with a slight hue of brown, sticky shit.

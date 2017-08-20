@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 University funding reform has been a long time coming; the principle of free education for all, long a mainstay of British political thought, had to be abandoned in 1998 following a [review by Lord Dearing](http://en.wikipedia.org/wiki/Dearing_Report). Public funding had for many years failed to keep pace with increasing student numbers: between 1989 and this first introduction of fees, funding per student fell by 36%.

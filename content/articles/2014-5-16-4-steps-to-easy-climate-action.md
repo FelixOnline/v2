@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160254-jal08-comment_solarpanelsbangladesh.jpg"
-image_caption: >
-
-image_attribution: "clickbd.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160254-jal08-comment_solarpanelsbangladesh.jpg"
+image_caption: ""
 ---
 
 With the recent release of the 5th assessment report from the Intergovernmental Panel on Climate Change (IPCC), which gives us more evidence than ever before that we need to start taking serious action to reduce our impact on the environment, it is easy to feel evermore helpless. This is such a huge issue and how can ordinary people actually make a difference? Of course I could sit here and tell you about all the usual ways we are encouraged to become more sustainable like recycling that yoghurt pot that you always throw in the bin or turning off the light that you always leave on when you’re finished in the bathroom but we know all of this already. You might be interested to hear though that there ARE other, bigger things we can do that can really get this ball rolling (but don’t stop recycling that yoghurt pot!).

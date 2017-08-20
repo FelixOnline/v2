@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201710-ps3110-better-call-saul-1-cmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201710-ps3110-better-call-saul-1-cmyk.jpg"
+image_caption: ""
 ---
 
 Uttered by criminal lawyer and opportunist Saul Goodman (Bob Odenkirk) in the final season of _Breaking Bad_, the words “Don’t drink and drive – but if you do, call me” give you an idea of the unscrupulous and charismatic character he was throughout the now-classic series. But Saul wasn’t always like that.

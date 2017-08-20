@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
-image_caption: >
-
-image_attribution: "Nikita Kumar"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
+image_caption: ""
 ---
 
 Three Imperial students were among the four pedestrians injured last night during a car collision on North End Road. The accident occurred shortly before 18:45 when it is believed, according to Metropolitan Police reports, that a black Audi A3 crashed into the pedestrians.

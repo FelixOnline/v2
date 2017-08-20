@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ever felt that your Department doesnít listen to your views? Want to thank them for all the hard work they have done or quite the opposite? The National Student Survey (NSS) is a platform for you to voice your positive and negative opinions!

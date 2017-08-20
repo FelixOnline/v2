@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201091740-js2310-gloria2.jpg"
-image_caption: >
-  The well-endowed Sofia Vergara as Gloria
-image_attribution: "ABC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201091740-js2310-gloria2.jpg"
+image_caption: ""
 ---
 
 I have a completely insane family. So when I heard about _[Modern Family](http://www.imdb.com/title/tt1442437/)_, I didn’t think much of it. The advert on TV just made me cringe. That was until I watched an episode. American comedies can sometimes disappoint, but this show is fantastic. I would venture to say it’s because it has a hint of British humour to it, with a lot of the slapstick and puns that we love so much.

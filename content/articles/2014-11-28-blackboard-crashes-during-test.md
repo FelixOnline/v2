@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280043-kmw13-img1383.jpg"
-image_caption: >
-
-image_attribution: "Karsten Seipp"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280043-kmw13-img1383.jpg"
+image_caption: ""
 ---
 
 450 students were left confused and frustrated after Blackboard crashed during a Business Economics online test last Thursday. The test was scheduled to start at 18:00, and within ten minutes, students started reporting issues with their tests, such as images and formulae not loading as expected. Shortly afterwards, Blackboard went down.

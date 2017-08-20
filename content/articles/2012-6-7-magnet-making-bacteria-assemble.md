@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206071944-pk1811-bact.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206071944-pk1811-bact.png"
+image_caption: ""
 ---
 
 These days we are overwhelmed with clever technology. From the wonders of the iPad to the practicality of satellite navigation. There are few areas of our lives that are not enhanced by technology, so it is hard to imagine how it could develop further. But, surprisingly, the answer may be in nature – in bacteria, to be precise.

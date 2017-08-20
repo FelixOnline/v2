@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
-image_caption: >
-  Financial support will be provided for households earning up to £60,000
-image_attribution: "Kadhim Shubber"
-image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
+image_caption: ""
 ---
 
 A College committee is working on proposals to increase Imperial’s bursary provision that could see more students receiving financial aid. The proposals from the Fees and Financial Aid Working Group would see students from families earning £60,000 receiving bursaries (up from the current £50,000), while the amount being paid kept constant, if not increased. The news comes as Imperial College Union announced the results of the [Bursaries Survey](http://www.imperialcollegeunion.org/news/bursaries-survey-results,472,ICUNS.html), showing that students valued financial aid during university above tuition fee reductions.

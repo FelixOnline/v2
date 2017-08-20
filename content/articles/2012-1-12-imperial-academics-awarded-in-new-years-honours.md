@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Three academics at Imperial College have received some of the highest awards in the country for their work in the sciences in the New Year’s Honours, announced on December 31. These honours are issued by the Monarch on the advice of the Government for exemplary service.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When I first encountered Music Tech, I thought I had seen the light. Finally some people were playing (and making) good music to go out to. No longer had I excuses to swallow inane “party party” muzak, when such an alternative was close at hand. My first evening with the lot was driven by a hazy concoction of deep bass music and liberal liquefaction of my mind and body, to the extent of internal heamorraghing. I hope next Saturday’s apperance at KABLAAM will prove equally enthralling and ear opening for some as it did for me.

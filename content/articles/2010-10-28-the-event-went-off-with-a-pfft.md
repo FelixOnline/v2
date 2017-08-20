@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I decided I’d sit down and watch Channel 4’s latest purchase, “[The Event](http://www.channel4.com/programmes/the-event)”, last week. Partly because the advertising campaign had caught my eye, but mostly because it didn’t look anything like Lost. This turned out to be wrong on a level so fundamentally obvious it was only matched by the crushing inevitability of the show’s own plotline. The Event is a pile of turgid poo-poo.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142108-ams111-science1.jpg"
-image_caption: >
-  Slime mould grows to find an optimum networks and tends to mirror transport networks
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142108-ams111-science1.jpg"
+image_caption: ""
 ---
 
 Scanning the list of papers in the _International Journal of Bio-inspired Computation_, a few strange phrases jump out. ‘Neuro-fuzzy-based’, ‘cuckoo search’ and ‘bat algorithm’ are particularly good examples. Swarming appears to happen quite frequently. And even more intriguingly, I’ve just noticed a paper about slime. It appears that computing, stereotypically the domain of the digital, has acquired a life of its own.

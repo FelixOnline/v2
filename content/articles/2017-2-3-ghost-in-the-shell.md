@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031652-felix-ghost-in-the-shell-7.jpg"
-image_caption: >
-
-image_attribution: "Production I.G."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031652-felix-ghost-in-the-shell-7.jpg"
+image_caption: ""
 ---
 
 If you wish to dive into the world of Japanese animation, you cannot miss Mamoru Oshii’s profound 1995 cyberpunk film Ghost in the Shell. It stands as a science-fiction classic and has gone on to inspire other films such as The Matrix, Surrogates, and Avatar. But why am I talking now about a film released more than two decades ago? Well, this March we are to see a live-action remake of the film, with Scarlett Johansson as the lead character. Ahead of its release, this week saw cinemas showing the animated original, so I took the opportunity to finally see this classic on the big screen.

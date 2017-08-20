@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
-image_caption: >
-  Ferrybridge Powerstation, UK, where the experiments took place
-image_attribution: "3.aba.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130040-cj914-ferrybridge-powerstation---photoshopped-.jpg"
+image_caption: ""
 ---
 
 If we are to avoid further aggravating climate change we need to find a way to store or transform the hundreds of billions of tonnes of carbon dioxide produced by power stations worldwide into something useful. A team at Imperial’s Department of Chemistry have done just this. Working with the spin-off company, Econic Technologies, they have developed a cleaner way to produce valuable materials from waste carbon dioxide and are bringing it to the market.

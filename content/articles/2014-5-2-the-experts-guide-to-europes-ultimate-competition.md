@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Going back to 1956, with one to six hundred million viewers annually, the Eurovision Song Contest is one of the largest-scale and longest-running television events in the world. This year thirty-seven countries will battle it out in Copenhagen for victory and the opportunity to host the competition in 2015. Here is my list of the top ten hottest songs to look out for this year!

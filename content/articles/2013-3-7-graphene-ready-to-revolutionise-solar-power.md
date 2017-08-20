@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072124-jal08-graphenei.jpg"
-image_caption: >
-  We have been reliably informed that this funky image is science-related
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072124-jal08-graphenei.jpg"
+image_caption: ""
 ---
 
 Yes, that’s right. You might have heard of graphene already. This Christmas the government invested £22 million into the so dubbed ‘super-material’. Imperial College London received £4.5 million, which, distributed between 3 research projects, hopes to contribute to the international quest for graphene technologies.

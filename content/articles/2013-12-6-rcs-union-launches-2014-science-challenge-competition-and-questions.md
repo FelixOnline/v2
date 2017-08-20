@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312060345-jal08-rcsu_sci_chall_34.jpg"
-image_caption: >
-
-image_attribution: "Benjamin Lester"
-image_attribution_link: "http://throughbenslens.co.uk/blog/rcsu-science-challenge-launch-event/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312060345-jal08-rcsu_sci_chall_34.jpg"
+image_caption: ""
 ---
 
 On Tuesday the RCSU (Royal College of Science Union) celebrated the introduction to the next RCSU Science Challenge Competition with a launch event in the Sir Alexander Fleming Building.

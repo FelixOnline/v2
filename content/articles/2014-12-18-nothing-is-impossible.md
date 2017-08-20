@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Neil Gaiman is possibly the most quotable living person. In his “Make Good Art” speech in Philadelphia two years ago he gave a rousing encouragement to young practicing creatives, and his take on some of today’s art practices. He also came up with about 10 epiphanic lines; “make glorious and fantastic mistakes”; “do the stuff that only you can do”; …you have no idea what you are doing. This is great.”

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041152-felix-Imperial_Kendo_Photo1.jpg"
-image_caption: >
-  Imperial Captain John Jonsson leaps into action.
-image_attribution: "Natasha Khaleeq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041152-felix-Imperial_Kendo_Photo1.jpg"
+image_caption: ""
 ---
 
 Last weekend, the Imperial College Kendo Club organized a major event in the world of kendo in the UK: the University Championship, or ‘Taikai’. It was a frank success, with students gathering from as far as Scotland and Wales to the Ethos gym here in South Kensington for the traditional annual competition between university dojos. A total of 150+ kendoka – making it the largest UK Taikai since its inception 20 years ago – sparred over the two days in different categories, individual and team competitions, split between beginners and veterans (and genders for individuals).

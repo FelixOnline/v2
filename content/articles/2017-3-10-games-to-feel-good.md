@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101354-felix-fb_image.jpg"
-image_caption: >
-
-image_attribution: "SCS Software"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101354-felix-fb_image.jpg"
+image_caption: ""
 ---
 
 ## Truck Simulator | Or any simulator

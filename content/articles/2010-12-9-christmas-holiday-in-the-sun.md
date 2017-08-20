@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You may recall from issues past, [a tale of spiked drinks that occurred on Koh Phi Phi](http://www.felixonline.co.uk/?article=395) in Thailand, but last time I didn’t really dwell on it as a place. It’s a truly unmissable spot that offers beautiful sands and world class diving as well as a whole heap of other activities. Up until the devastating tsunami of 2004 Phi Phi was a haven, for backpackers and tourists alike, as the perfect Christmas resting spot, and thankfully people are starting to revisit the area over the holiday season. While the natural disaster obliterated the landscape and cost the lives of many, it allowed for a tasteful fresh start for an island that was well on the way of being permanently tarnished by reckless tourism.

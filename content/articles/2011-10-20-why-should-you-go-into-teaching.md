@@ -37,14 +37,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202045-felix-img_6609.jpg"
-image_caption: >
-  The unused green chalk looks on enviously at his academically superior comrade
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202045-felix-img_6609.jpg"
+image_caption: ""
 ---
 
 Can you think of any reason why an Imperial student might want to become a teacher?” “They got a third class, maybe?” This response from a second year mathematician may well sum up the opinions of some Imperial students, and indeed a section of society’s wider opinion of the profession. We’ve all heard the age-old adage, “if you can’t do; teach”. And, with the starting salary for teaching being significantly lower than the average starting salary for Imperial graduates, not to mention challenging classroom conditions, it isn’t hard to imagine why the UK faces its largest shortage of Science, Technology, Engineering and Maths (STEM) teachers. “You’d be at the bottom of society. You’d be in your crappy Smart car and everyone would be looking at you”, the mathematician continues. This week we challenge some of the misconceptions surrounding teaching, and ask why more Imperial graduates don’t generally consider teaching as an acceptable career option.

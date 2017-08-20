@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
+image_caption: ""
 ---
 
 "Ummm, ummm, ummm. Okay, I’ll get off at Westminster and change, that will be quick right?”. That was what was going through my head as I frantically scrambled to make it to my interview with Brett Wigdortz. Turns out I was wrong by the way (about the trains being delayed, not having the interview: this would be a very short Feature if that were to have been the case).

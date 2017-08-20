@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152214-tna08-queen.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152214-tna08-queen.jpg"
+image_caption: ""
 ---
 
 It’s seven AM, I’ve been up for two-and-a-half hours, and the Portland Stone of Whitehall is quite literally glowing a magnificent golden-cream in the cool warmth of the winter morning’s sun. As a student you can imagine that I’m not predisposed to having a great sympathy for waking up at the unholy hour of four-thirty AM, unless for a ludicrously inexpensive flight. But here I am – with another four hours still to wait for what I came for; already starting to lose the feeling in my extremities from the cold.

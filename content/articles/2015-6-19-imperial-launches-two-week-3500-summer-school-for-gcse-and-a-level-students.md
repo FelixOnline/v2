@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506191416-ps3110-screen-shot-2015-06-19-at-14.16.09.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506191416-ps3110-screen-shot-2015-06-19-at-14.16.09.png"
+image_caption: ""
 ---
 
 Imperial is to host its first ever “Global Summer School,” giving under-eighteens a chance to live and study at the university for two weeks, at the cost of £3,500 a head.

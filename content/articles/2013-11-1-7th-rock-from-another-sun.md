@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
-image_caption: >
-  The Kepler Space Telescope before launch in 2009
-image_attribution: "NASA /Jack Pfaller"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
+image_caption: ""
 ---
 
 Discovering exoplanets nearly 20 years ago allowed physicists to change their view of the universe. We had always known that our Sun was not the only star in the wide universe, but then came confirmation that there are star systems like ours too, with planets of all sizes orbiting one, two or three stars at a time. Now one dwarf star in particular, KIC 11442793 (catchy name!), may hold a record for the most number of exoplanets, with two separate research groups finding a seventh orbiting the star.

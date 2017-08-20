@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030622-ks607-fullmoon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030622-ks607-fullmoon.jpg"
+image_caption: ""
 ---
 
 _The lowdown_: The track is well beaten, but this certainly doesn’t detract from its charm. From the plush northern hills, down through the urban centre through to the islands of paradise, Thailand has something for all.

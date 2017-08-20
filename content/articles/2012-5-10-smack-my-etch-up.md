@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
-image_caption: >
-  Dave’s sculpting method was unorthodox to say the least
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
+image_caption: ""
 ---
 
 Even on a rainy, bleak and depressing morning the British Museum managed to lift my spirits up. The Great Court was dazzling in all its whiteness, filled with noisy and enthusiastic tourists and school groups. Making my way through the crowds I ventured into a part of the Museum that I had never experienced before: a couple of hidden rooms filled with etchings.

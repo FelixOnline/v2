@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142055-ps3110-cloudrop-29-mar-2014-16-39-34.png.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142055-ps3110-cloudrop-29-mar-2014-16-39-34.png.jpeg"
+image_caption: ""
 ---
 
 On 11th June 1963, a Vietnamese Buddhist monk, Thích Quang Đúc, sat down at a busy intersection in Saigon, was covered in gasoline, and set himself alive. Protesting against the persecution of Buddhists by the South Vietnamese government, he burned for 10 minutes before collapsing backwards. The act was captured by Malcolm Wilde Browne, a 32 year old photographer, who was working for the Associated Press, and the rest, as they say, is history.

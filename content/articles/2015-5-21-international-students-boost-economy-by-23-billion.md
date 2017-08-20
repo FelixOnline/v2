@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
-image_caption: >
-  London First argues that international students should be given visitor status
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
+image_caption: ""
 ---
 
 A report by London First has said that overseas students in London alone contribute as much as £2.3 billion to the economy. The report also claims that students from abroad are made to feel “unwelcome”. It goes on to argue that migration targets should be reclassified and students should be given visitor status, and should be allowed to work after graduation.

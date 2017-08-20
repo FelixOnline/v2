@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
-image_caption: >
-  Better luck next time, hun.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
+image_caption: ""
 ---
 
 Well it looks like the drought is finally over. After putting out several arguably ‘Oscar-worthy’ performances Leonardo DiCaprio may finally be awarded his long awaited and joked-about Oscar. We have Alejandro G. Iñárritu and _The Revenant_ to thank for this. However, whilst DiCaprio is the most famous repeat snubée the Academy has a history of some seriously massive blunders (*cough* _Chicago_). Let’s look at some other examples:

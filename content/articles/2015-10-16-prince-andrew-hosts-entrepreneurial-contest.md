@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161504-ygr12-potenchal2.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London / Layton Thompson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161504-ygr12-potenchal2.jpg"
+image_caption: ""
 ---
 
 Wednesday saw the Duke of York come to Imperial, to host his Pitch@Palace entrepreneurial competition.

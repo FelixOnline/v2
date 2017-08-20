@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202337-felix-qe2_02.jpg"
-image_caption: >
-  QE2 – Could we be seeing the return of Quantitative Easing?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202337-felix-qe2_02.jpg"
+image_caption: ""
 ---
 
 If central banks could instigate growth by simply printing more money, they would have done so a long time ago. A recent [Bank of Engl](http://www.bankofengland.co.uk/index.htm)[and](http://www.bankofengland.co.uk/index.htm) (BoE) research report attests to the theory that cash injections are inflationary: while the Quantitative Easing (QE) package of £200bn had an initial macroeconomic impact of 1.5-2%, it was quickly followed by an increase in Consumer Price Index (CPI, the key index for inflation) of about 1.5%. Inflation may help reduce unemployment according to Keynesian doctrine, but it will not benefit the underlying economy in the long term.

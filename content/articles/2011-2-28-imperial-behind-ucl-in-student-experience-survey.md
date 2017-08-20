@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College has been ranked 62nd in the 2010 [Times Higher Education Student Experience Survey](http://www.timeshighereducation.co.uk/story.asp?storycode=415180) (down one place from 2009 and one place below UCL). Over 13,000 undergraduates throughout the country rated aspects of university life out of 7, including academic and sports facilities, quality of staff, course structure, welfare and accommodation. Perhaps not unsurprisingly, factors that Imperial’s 154 respondents rated lowest were “Fair workload” and “Cheap shop/bar/amenities”. Imperial’s facilities (including library and sports), staff and connections to industry, on the other hand, were held in relatively high regard.

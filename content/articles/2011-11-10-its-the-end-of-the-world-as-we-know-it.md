@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102144-pk1811-stills_melancholia_resized.jpg"
-image_caption: >
-  Seriously, I have a thing for vampires - first Brad Pitt, then Tom Cruise, and now you...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102144-pk1811-stills_melancholia_resized.jpg"
+image_caption: ""
 ---
 
 It’s not every day you watch a film that begins as depressingly as Melancholia. In beautifully vibrant slow motion, we are forced to watch in horror as the world, and four of its inhabitants, come to a startlingly abrupt end by way of planetary collision. Birds fall from the sky, horses collapse, and our protagonist Justine (a superbly cast Dunst) floats down a river in an Ophelia-esque fashion. As the two planets finally meet and the orchestral score pushes into a final crescendo, you know that this is not going to be a light-hearted journey.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201007231119-ks607-Icarus.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201007231119-ks607-Icarus.jpg"
+image_caption: ""
 ---
 
 What could a Colombia University string-theorist, a celebrated composer and two filmmakers called Al have in common? Answer: a multimedia retelling and reworking of the Ancient Greek myth of Icarus.

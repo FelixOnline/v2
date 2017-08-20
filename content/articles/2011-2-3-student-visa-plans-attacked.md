@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031927-ks607-damiangr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031927-ks607-damiangr.jpg"
+image_caption: ""
 ---
 
 Listen carefully. Do you hear that? That is the sound of the seismic shift in government policy which will define the higher education sector for the next decade. And, worryingly, it does not sound good.

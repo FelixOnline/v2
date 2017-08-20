@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the deadliest attack on French soil since WWII, panic and chaos unfolded in the French capital this week. Many people were left worried that their relatives, family and friends had been amongst those murdered or injured.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502052339-ps3110-screen-shot-2015-02-05-at-23.38.28.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502052339-ps3110-screen-shot-2015-02-05-at-23.38.28.png"
+image_caption: ""
 ---
 
 SiKL, a new app aimed to help Sickle Cell Anaemia (SCA) Patients, has been launched by Clinicians of Imperial Health Care Trust, after collaboration with the Sickle Cell Society and participants from the TalkLab Initiative.

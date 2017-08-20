@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091600-felix-0015-1709.2L.jpg"
-image_caption: >
-
-image_attribution: "rubylane.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091600-felix-0015-1709.2L.jpg"
+image_caption: ""
 ---
 
 Shôn Dale-Jones’ The Duke is about what we are willing to pay for the things we treasure. What is the value of a collectible piece of porcelain, of a script you’ve been working on for ten years, of a seat on a boat that is as likely to plunge you into the sea as to deliver you to safety? In the one-hour, one man show, Dale-Jones explores these issues, both personal and global, with humour, empathy, and considerable power.

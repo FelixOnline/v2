@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111701-felix-NintendoSwitch03.jpg"
-image_caption: >
-
-image_attribution: "Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111701-felix-NintendoSwitch03.jpg"
+image_caption: ""
 ---
 
 The year is 2016, and the Wii U has been doing incredibly badly worldwide for a number of years. In March, Nintendo announced a partnership with a Japanese mobile provider, DeNA, to provide some of their intellectual properties on mobile platforms. While this came as a big surprise, it was the news we received shortly afterwards that really set imaginations alight. In a press conference only a few days later, they confirmed that a new hardware platform was in development, simply codenamed the “NX”.

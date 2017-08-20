@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102240-csw09-cussler2cmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102240-csw09-cussler2cmyk.jpg"
+image_caption: ""
 ---
 
 The 22nd novel in a series penned by “the guy I read” – Tom Clancy, Poseidon’s Arrow has it all – from explosions, chase scenes, and bare-armed combat, to snappy witticisms, spunky damsels in distress, and a (literally) earth-moving plot. Clive Cussler, respectfully and deservingly famed as the ‘Grandmaster of adventure’, together with his son, Dirk, yet again weaves science, technology, politics, history, and geography into a thrilling tapestry of action and adventure spanning the breadth of the globe.

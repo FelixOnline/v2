@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261213-felix-IMG_8900.JPG"
-image_caption: >
-  Everybody through the tunnel.
-image_attribution: "Imperial Immortals"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261213-felix-IMG_8900.JPG"
+image_caption: ""
 ---
 
 Last Sunday saw our last game of the season against the Bath Killer Bees, the Immortals were determined not to end the season with a loss; however, after a long game, the score was 49-8 to the Killer Bees.

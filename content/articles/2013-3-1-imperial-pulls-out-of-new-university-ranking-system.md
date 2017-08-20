@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College has announced that it is one of a number of universities pulling out of the new EU-led university ranking system, “[U-Multirank](http://www.universityworldnews.com/article.php?story=20130214134418891)”. The ranking system would not result in a league table, however many international universities and institutions have expressed opposition to the scheme.

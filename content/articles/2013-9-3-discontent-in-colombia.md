@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
-image_caption: >
-  Protest against subsidies
-image_attribution: "www.aworldchaos.wordpress.com"
-image_attribution_link: "http://www.aworldchaos.wordpress.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
+image_caption: ""
 ---
 
 Angry protestors took to the streets of the capital on Thursday to let their discontent be known. A large number of protesters, banging pots and pans, marched through the streets of Bogotá, while avoiding riot police.

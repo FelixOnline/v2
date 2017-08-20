@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142016-ps3110-201111031936-pk1811-img_6818.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142016-ps3110-201111031936-pk1811-img_6818.jpg"
+image_caption: ""
 ---
 
 Imperial College Union Council agreed to a Union General Meeting last Tuesday, only the second General Meeting in five years and the first under the new constitution change.

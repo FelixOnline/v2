@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
-image_caption: >
-  Caitlin Moran is an acclaimed broadcaster and columnist at The Times
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
+image_caption: ""
 ---
 
 I had been resisting reading this book for a while. Partly because I have no desire to lose the meat and two veg, and partly because publishers are canny enough to know their target audience and design the cover accordingly. Having worked for a bookshop as an undergraduate I also know that the covers are as much of a fiction as the text they are attached to. But, on a day between Christmas and New Year, having lost all my dignity by finding myself both in a Waterstone’s and in a provincial town, I seized the opportunity to satisfy my curiosity.

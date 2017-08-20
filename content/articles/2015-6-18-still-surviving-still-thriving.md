@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182041-jyg11-yoo-noo-noofin,-john-snoo.jpg"
-image_caption: >
-  At least one of the men in this image knows nothing.
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182041-jyg11-yoo-noo-noofin,-john-snoo.jpg"
+image_caption: ""
 ---
 
 Another year, another season of _Game of Thrones_ draws to a close.

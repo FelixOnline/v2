@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104182008-felix-mindy_lee_02.jpg"
-image_caption: >
-  Mindy Lee has curated the Blyth Gallery for six years
-image_attribution: "Neville Miles/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104182008-felix-mindy_lee_02.jpg"
+image_caption: ""
 ---
 
 As the current Joint President of Imperial College’s fine arts society ‘Leonardo’, I am frequently in touch with some of those more creative individuals who wash up from the proverbial sea of scientists that form the basis of this university. These are the people who tire from time to time of the constant prodding, poking and general abuse given to the fabric of reality. Some of these people, however, see it as a full-time job to give the fabric of reality a bit of a miss and live in a world without boundaries or rules, sticking with just the imagination.

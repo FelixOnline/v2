@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012158-ams111-dsc_0008.gif"
-image_caption: >
-  It’s getting better every week!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012158-ams111-dsc_0008.gif"
+image_caption: ""
 ---
 
 After a successful week of our vegan challenge we decided that a treat was in order and headed off to nearby Wholefoods’ SAF to experience eating out in a vegan restaurant. We were excited to find out what, with a bit of time and effort, can be achieved with the ingredients at our disposal.

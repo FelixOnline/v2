@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101418-felix-Screen Shot 2017-02-10 at 14.18.10.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101418-felix-Screen Shot 2017-02-10 at 14.18.10.png"
+image_caption: ""
 ---
 
 This week, I met with B.R Coli, a female queer friend, to talk about sex. We wanted to shed some light on the general ins and outs and common misconceptions surrounding gay sex, as well as learn a bit about each other’s sex lives and see what common ground we have, and what’s different between man sex and… well, woman sex.

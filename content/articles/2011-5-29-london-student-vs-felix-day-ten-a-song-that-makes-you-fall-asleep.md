@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ok, so I may have missed a couple of days. I'm not sure if there's much to say about this song. It's from a great album, [Gemini](http://open.spotify.com/album/3oPuSNDpKa84WJLWstHomV), and is the perfect companion for drifting gently off to sleep. (Unfortunately Wild Nothing are terrible live...)

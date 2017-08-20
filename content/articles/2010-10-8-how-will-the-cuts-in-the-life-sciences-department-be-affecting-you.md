@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There is no question that the proposed restructure will adversely affect the students in the short-term. Academics will have to adapt themselves to new areas of research or be let go, researchers in the plant sciences will be less able to follow programmes here, and the breadth of an undergraduate biology degree will be under threat.

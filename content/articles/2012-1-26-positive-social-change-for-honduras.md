@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262200-cac111-honduras-building.jpg"
-image_caption: >
-  Global Brigaders have so much fun, working together to get the job done...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262200-cac111-honduras-building.jpg"
+image_caption: ""
 ---
 
 September 1, 2011 was the day that I became a Global Brigader, and 11 am was the time that I looked out onto the beautiful landscape of an undiscovered country and fell in love. I must admit that I joined Global Brigades because I thought it would be a fun summer trip and, undeniably, it was a fun summer trip! However, upon landing in Honduras, I swiftly realised that Global Brigades would be so much more.

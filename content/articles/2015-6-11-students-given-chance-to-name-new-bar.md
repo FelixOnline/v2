@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
-image_caption: >
-  An artist’s impression of the new bar, and you have a chance to help decide its name.
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
+image_caption: ""
 ---
 
 Imperial College Union are running a poll to name the new student bar out in Acton, located on the site of the new Woodward hall.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
-image_caption: >
-  The UN Assembly Hall, where the magic happens.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
+image_caption: ""
 ---
 
 Last month the United Nations adopted a new manifesto to change the world. Sounds dramatic, but the Global Goals for Sustainable Development are the new benchmark to measure our progress as a species for the next 15 years; and it turns out the scientific community may be the key to unlocking such high ambitions.

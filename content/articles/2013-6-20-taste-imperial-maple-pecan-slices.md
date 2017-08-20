@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
+image_caption: ""
 ---
 
 Who doesn’t love the maple and pecan slice that you can buy at food outlets around campus? The syrupy biscuit base, gooey but crunchy – topped with decadent dark chocolate. I am definitely a fan and wanted to have a go at making them. I tried looking for a recipe online but had no luck. Lots of recipes for pecan pie, peanut butter traybakes and caramel squares, but none for maple and pecan slices. So I decided to come up with a recipe for them – and in doing so, checked out the cost to compare them to the price we pay on campus...

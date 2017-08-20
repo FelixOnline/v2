@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242007-ks607-obamaoba.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242007-ks607-obamaoba.jpg"
+image_caption: ""
 ---
 
 Last week a UN resolution tabled by Lebanon, condemning Israel’s settlements as illegal, [was vetoed by the United States](http://www.bbc.co.uk/news/world-middle-east-12512732). This came despite overwhelming support for the resolution from most of the international community, including the other fourteen Security Council members – even the United Kingdom, France and Germany did not abstain. Rather, the representative of Israel’s European allies, British ambassador Mark Lyall Grant, described the settlements as “illegal under International law.”

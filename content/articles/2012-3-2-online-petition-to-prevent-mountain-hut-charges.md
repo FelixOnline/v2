@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
-image_caption: >
-  The St Mary’s mountain hut
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
+image_caption: ""
 ---
 
 Having made the decision earlier this year, [Sport Imperial](http://www3.imperial.ac.uk/sports) began charging for a mountain hut used by various Clubs & Societies as a rest stop during outdoor trips. At first, the hut was free to use by societies and houses approximately twenty-five people. Prices of £50 for booking weekend use were introduced without a consultation period, focus group or notification to the clubs.

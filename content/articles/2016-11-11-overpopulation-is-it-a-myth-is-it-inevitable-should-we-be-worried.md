@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
+image_caption: ""
 ---
 
 On watching Dan Brown’s _Inferno_ this weekend, the question of how we would survive overpopulation struck a chord with me. It may have been a slightly dull film at times but the theme nevertheless was a relevant and intriguing one. Essentially, a billionaire concerned with overpopulation creates a virus to cull the number of humans in the world. Robert Langdon then proceeds to chase clues through art, ends up finding where the virus is due to be released and *spoiler alert* ultimately saves the day.

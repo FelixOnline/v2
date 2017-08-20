@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021652-felix-Wim a.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021652-felix-Wim a.JPG"
+image_caption: ""
 ---
 
 Thinking of Wimbledon, visions of grassy courts, world-ranking tennis pros, and Sue Barker should come to mind. So when we told our runners that the next race would be in Wimbledon, there was a predictable wave of excitement. Those who were savvy enough to deduce we weren’t tennis players, or that it wasn’t July, may have known there may not be green grass involved, but rather hills, cross country trails, and grass of a browner shade. Mud – I’m talking about mud.

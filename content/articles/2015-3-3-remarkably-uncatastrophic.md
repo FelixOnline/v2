@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031456-ps3110-catastrophe-pic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031456-ps3110-catastrophe-pic.jpg"
+image_caption: ""
 ---
 
 I am not sure how high Channel 4’s ambitions for the show_ Catastrophe_ were. Writers and main actors Rob Delauney and Sharon Horgan sure seemed like a weird couple: Delauney a likeable, tall, American dude and Horgan a dead-pan and sarcastic Irish woman. Together they created a baby-script funny enough to impress the masterminds being what goes on telly, and suddenly it was on. As they appeared on talk-show after talk-show before the release of the series this January, they too seemed surprised to be there, slightly uneasy maybe, because their little story appears far from glamorous enough to make it in the competitive and cruel world of entertainment.

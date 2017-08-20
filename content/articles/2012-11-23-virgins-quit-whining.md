@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I‘ve come to Imperial and my sex life sucks! What should I do?” Shut up and relax!, that’s what!”That’s what everyone should do when problems like this arise. You see, people, we all want to drive a nice car but yet sometimes we are stuck with a bicycle. What do you do then? Start crying because you’re riding a bike? No, keep working so you can buy a car and who knows, maybe on the way you will find that you do not even want a nice car.

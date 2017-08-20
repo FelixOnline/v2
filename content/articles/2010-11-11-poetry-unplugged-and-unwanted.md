@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Poetry Café is a sweet little place with a rather unattractive poetry night, [Poetry Unplugged](http://www.poetrysociety.org.uk/content/cafe/events/), on Tuesday evenings. Poetry Unplugged gives anyone the opportunity to read poetry in public. Amateur poets can read their poetry in public to an accepting audience. Unfortunately, the mix of amateur poets and nice audience members make for some truly terrible poetry. Any mildly good verse was quickly outshone by a host of overly emotional, unoriginal or simply crazy sonnets.

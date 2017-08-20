@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
+image_caption: ""
 ---
 
 Every now and again London will present something which will not only impress and astonish you, but leave you buzzing for the rest of the week! It’s been a long time since this has been the case, and I look back fondly at the time I found out the IMAX was free for Imperial students, and someone told me I could pair my student rail card to my Oyster.

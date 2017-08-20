@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
-image_caption: >
-  Information gained from the TeachDB database includes name, CID, and year
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
+image_caption: ""
 ---
 
 Students from the Department of Computing have teamed up with Felix to uncover methods which can be used to skew data being submitted to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS) in favour of Imperial College.

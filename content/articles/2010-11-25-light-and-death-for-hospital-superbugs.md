@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252004-nm1010-handwash.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252004-nm1010-handwash.jpg"
+image_caption: ""
 ---
 
 A new technology that uses light beams to kill bacteria could be used in hospitals to stop the spread of MRSA and other antibiotic resistant bugs, say scientists from the University of Strathclyde.

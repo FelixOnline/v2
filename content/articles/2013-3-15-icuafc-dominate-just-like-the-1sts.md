@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150159-tna08-footy1s.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150159-tna08-footy1s.png"
+image_caption: ""
 ---
 
 Saturday morning began with one of the most eventful player crises in recent memory. With many regulars seemingly sidelined, ICUAFC 2nd team skipper Dr. “LOVE” Wright took some time out of his busy morning Frank Ocean-induced sex coma to gather the remaining troops for their battle with fierce rivals Imperial Medic 1st team. The 12 valliant warriors were almost dealt the most bitter of early blows when their chariot of fire (Tellings & Miller coach) proceeded to limp to the Union 20 minutes late. Tim Beasley was close to tears, as the one time he managed to get Jonny Hill out of bed within half an hour of departure time proved futile, and will no doubt never be witnessed again (#TBtillidie). There were no more unwanted surprises, although there was a feeling of loss in the changing room when it became apparent that Thom Samas would not be making an appearance.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
-image_caption: >
-  Even crazed communists can be vegetarians – it’s very inclusive group.
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
+image_caption: ""
 ---
 
 The foodies, meat lovers or simply punctilious readers amongst you may remember last week’s article raising arguments for meat consumption, or rather, for not feeling guilty about it as long as you accepted the responsibilities. And I thought there would be nothing better than hunting my friend’s arguments by growing from them.

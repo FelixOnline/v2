@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151922-felix-4a6a8922-copy.jpg"
-image_caption: >
-
-image_attribution: "Allstar"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151922-felix-4a6a8922-copy.jpg"
+image_caption: ""
 ---
 
 How far would you be willing to go to assert your freedom? Who and what would you risk to pursue your own desires? Facing these questions is Katherine, the protagonist of Lady Macbeth, who, having been ‘bought’ to be the wife of a wealthy old man, finds passion through an affair with a stable boy named Sebastian. Adapted from Nikolai Leskov’s 1865 novel Lady Macbeth of the Mtsensk, writer Alice Birch and director William Oldroyd transpose the setting to Victorian Yorkshire, trapping their characters in a bleak and unrelenting world, determined to impose itself on those contained within its grasp.

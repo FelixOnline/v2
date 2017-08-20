@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230131-ps3110-charlie-hebdo-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230131-ps3110-charlie-hebdo-1.jpg"
+image_caption: ""
 ---
 
 Let’s face it, 2014 was not a great year. Tragedies ranging from epidemics to political tension to aviation mysteries to religious extremism defined those twelve depressing months. Even the supposed sporting highlights were overshadowed by allegations of greed and corruption. At best, it was a 3/10. Everyone is hoping that 2015 will be different. Is a 6/10 too much to ask? Only seven days in, however, the dream suffered a huge body blow. The _Charlie Hebdo_ attack has been widely covered and I’m sure you all know what happened.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212229-ps3110-turner-prize---ciara-phillips-things-shared-2014---courtesy-tate-photography.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212229-ps3110-turner-prize---ciara-phillips-things-shared-2014---courtesy-tate-photography.jpg"
+image_caption: ""
 ---
 
 __Tate____ Britain__’s two main shows may be similar in name but in reality are worlds apart. The first, an exhibition of J.M.W. Turner’s late works, is a life-affirming homage to one of Britain’s greatest painters and offers glimpses into the beginnings of modern art. The other, shamefully named after this great artist, is something of an anticlimax.The_ Turner Prize_, now in its 30th year, is meant to showcase the best of what British art has to offer, helping define how the country’s art shall progress. Well, if that is true, it’s not looking good; this year’s celebrations went off with little more than a whimper.

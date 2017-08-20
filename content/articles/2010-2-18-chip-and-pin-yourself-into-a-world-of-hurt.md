@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002181426-srg03-ChipandP.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002181426-srg03-ChipandP.jpg"
+image_caption: ""
 ---
 
 The days of securely paying with plastic are over. It's high time we all went back to paying with paper money, or perhaps even doubloons. They're both probably safer than the current electronic system we have in the UK, the infamous 'Chip-and-PIN'. Last week, eminent security researcher Ross Anderson and his team published a paper identifying a huge security flaw in the system that governs all of our real-life credit and debit card transactions. The take home message of the paper was that our cards are not, and have never been, as secure as we all thought.

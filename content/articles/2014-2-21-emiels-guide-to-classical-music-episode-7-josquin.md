@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Josquin des Prez, or Josquin for short, was an artist of mythical proportions. This was partly due to his massive talent, but also partly a result of the changing humanist culture. At the start of his career music was still grouped with geometry and arithmetic in the Quadrivium of taught subjects – something natural, following divine laws.

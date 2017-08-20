@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051912-tna08-image2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051912-tna08-image2.jpg"
+image_caption: ""
 ---
 
 From Nick Ross’ recent comments about rape, to the on-going campaign against ‘Page 3’, it seems that barely a day goes past without a reminder of the constant need for feminism. A couple of months ago a new website was started that provides yet more evidence for feminism’s role in society. ‘100% Men’ aims to reveal ‘corners of the world where women have yet to tread’, exposing places where female representation is sorely lacking. However, while it may not seem surprising that there has never been a female president of the Royal Society, or that male MPs outnumber female ones 4:1, under representation of women extends far into some surprising facets of life.

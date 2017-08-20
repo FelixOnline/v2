@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 My favourite line in this song is: "We got food everywhere as if the party was catered." If there is so much food (high-quality no doubt) at the party, such that the impression is given that someone has hired a catering company, but in fact it's not catered, then where the hell is all the food from? Did R Kelly just head down to [Walmart](http://www.youtube.com/watch?v=O1tufujnbzU) or something?

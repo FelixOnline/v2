@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203160132-felix-normal_sinus_rhythm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203160132-felix-normal_sinus_rhythm.jpg"
+image_caption: ""
 ---
 
 Why is there rhythm in music? To some, this question may seem utterly superfluous, but is arrhythmic music really so unfathomable? The heartbeat is itself a periodic throb, as is breathing. It appears that rhythm is an integral part of vitality and perhaps this is why we are so attracted to it.

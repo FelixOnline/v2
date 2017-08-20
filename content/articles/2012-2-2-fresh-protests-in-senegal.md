@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
-image_caption: >
-  Abdoulaye Wade remains defiant
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
+image_caption: ""
 ---
 
 Police have been deployed in towns across Senegal, and are reported to have killed two people in the northern town of Podor, as protests intensify. Rallies have been organised after President Abdoulaye Wade declared his intention to stand for a third term.

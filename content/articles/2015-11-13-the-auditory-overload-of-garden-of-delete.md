@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131423-cet13-opn.jpg"
-image_caption: >
-  Someone has discovered how to use Microsoft Paint.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131423-cet13-opn.jpg"
+image_caption: ""
 ---
 
 From the guy who probably invented vaporwave, comes in even more weird shit. Experimental American musician, Daniel Lopatin (more commonly known as Oneohtrix Point Never) ruptures the walls of reality with his new record Garden of Delete.

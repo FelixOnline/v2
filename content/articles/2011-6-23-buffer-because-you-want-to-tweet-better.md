@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232128-felix-imag0046.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232128-felix-imag0046.jpeg"
+image_caption: ""
 ---
 
 The proliferation of Twitter is ubiquitous to say the least and despite the service being almost universally loved by its users, annoying your followers with a barrage of tweets is not a gargantuan task to accomplish. Enter [Buffer](http://bufferapp.com/).

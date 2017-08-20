@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
-image_caption: >
-  An example of the rule of thirds
-image_attribution: "Jonathan Kim"
-image_attribution_link: "http://www.flickr.com/photos/jkim1"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
+image_caption: ""
 ---
 
 Perhaps the most well known principle of photographic composition is the “Rule of Thirds”. It is one of the most basic tools that can be used to create balanced and visually appealing shots. However, before we get into it I must warn you that rules are meant to be broken and ignoring this one does not mean that your pictures will necessarily be unbalanced or uninteresting. In fact, the opposite can often be true!

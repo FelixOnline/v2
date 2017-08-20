@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A new antenatal blood test, developed by Professor Kypros Nicolaides and his team of researchers at King’s College London in collaboration with University College London Hospital, with the potential to diagnose Down’s Syndrome in developing foetuses, is being considered for trial in the NHS.

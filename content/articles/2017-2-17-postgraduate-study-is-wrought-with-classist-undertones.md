@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171437-felix-Screen Shot 2017-02-17 at 14.37.24.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171437-felix-Screen Shot 2017-02-17 at 14.37.24.png"
+image_caption: ""
 ---
 
 The UK has a vast historic class divide – only those from the upper-middle classes who are in severe denial about our country would go so far as to say that class does not remain a huge cultural barrier today. Education has traditionally been something for the rich, and our modern higher education system is designed to, in theory, reverse this. Today, no one, politicians claim, is prevented from attending university because they can't afford it.

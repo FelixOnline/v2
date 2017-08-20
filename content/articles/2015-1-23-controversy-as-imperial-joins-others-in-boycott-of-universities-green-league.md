@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230130-cac111-f87fb70d-2fc2-494a-a63c-e82a578c61c9-2060x1236.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230130-cac111-f87fb70d-2fc2-494a-a63c-e82a578c61c9-2060x1236.jpg"
+image_caption: ""
 ---
 
 Controversy has broken out over the decision by 69 of the 151 Universities eligible to take part in pressure group People & Planet’s University League to pull out of the survey. Imperial College were one of the institutions to not submit a return this year.

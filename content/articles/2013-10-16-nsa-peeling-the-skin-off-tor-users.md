@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310161459-me1711-tech_nsa.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310161459-me1711-tech_nsa.png"
+image_caption: ""
 ---
 
 The NSA known for its privacy breaching of internet users across the globe has been found ‘peeling’ the encryption that Tor provides for its users’ information sent online, in order to gain access to sensitive information. Tor is a piece of software, ironically funded by the US government, which enables the anonymity of its users surfing the web, posting on forums and general internet communication; a great way to aid journalists or even the average person in countries that prohibit certain sites and topics of discussion.

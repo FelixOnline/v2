@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202231948-pk1811-394024_3407060380286_1383233672_3448256_2141413109_n.jpg"
-image_caption: >
-
-image_attribution: "Photos by Yilei Wu"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202231948-pk1811-394024_3407060380286_1383233672_3448256_2141413109_n.jpg"
+image_caption: ""
 ---
 
 If you go down to the woods tonight you’ll be in for a surprise, as there will be a teddy bear’s picnic. Alternatively, if you go to the [Blyth Gallery](http://www3.imperial.ac.uk/arts/visualart/blythgallery) (fifth floor of Sherfield) you will find another surprise. It’s a shocking day for you, isn’t it.

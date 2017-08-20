@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
-image_caption: >
-
-image_attribution: "Joe O'Connell-Danes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
+image_caption: ""
 ---
 
 You may have noticed that this week, the centrefold is a bit different. There are uncensored female nipples in it, and one pair belongs to me. Before you skip ahead (if you haven’t already done so) take a moment to read why this centrefold should not be viewed differently to nipple-free centrefolds and why this is so important.

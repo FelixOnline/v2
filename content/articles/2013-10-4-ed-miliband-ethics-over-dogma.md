@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
-image_caption: >
-  Red Ed Miliband
-image_attribution: "They could have used a less striking background"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
+image_caption: ""
 ---
 
 This article was catalysed by the recent conference of The Conservative Party held in Manchester, where voluminous Government policy was proposed and discussed. The ‘Work for Benefits’ plan proved to be a topic of discussion as Chancellor, George Osborne, revised the criteria for Jobseeker’s Allowance Qualification.

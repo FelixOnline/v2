@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032054-ks607-depressi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032054-ks607-depressi.jpg"
+image_caption: ""
 ---
 
 Around the world, there prevails the same stereotypical image of London: dark clouds stretching to the horizon, a heavy downpour, men and women in black suits with black umbrellas wading across flooded pavements. But the reality is quite different. Compared with other global cities, rainfall here is pretty unremarkable. New York, Paris, Tokyo, Hong Kong, Singapore all receive far more rain than London.

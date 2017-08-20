@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312337-tna08-untitled-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312337-tna08-untitled-1.jpg"
+image_caption: ""
 ---
 
 Perhaps, everybody has Murphy in their life. Perhaps, many just do not notice it. Being a sensitive over thinker, I am always a little bit too aware ofMurphy and his quirky laws. Basically, the theory goes that anything that can go wrong will go wrong.

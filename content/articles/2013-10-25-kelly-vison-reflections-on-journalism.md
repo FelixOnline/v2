@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A condition for open press is respect for journalist protection. The film adaptation of the murder of the Balibo Five in East Timor suggests that the death of journalists is a sufficiently sparse phenomenon to warrant attention. The fact that I remember the 2006 murder of Anna Politkovskaya demonstrates that journalist deaths have a certain impact superceding general homicide. There aren’t many things government can do, short of eliminating reporters in order to restrict press freedoms.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012212-cac111-img_2171.jpg"
-image_caption: >
-
-image_attribution: "Nicholas Pomeroy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012212-cac111-img_2171.jpg"
+image_caption: ""
 ---
 
 What starts off as the kind of play you think will predominantly explore the extremes to which political correctness is taken – sometimes creating just the awkwardness and indignity it hopes to avoid – changes course and ends up shining a very cynical light on the soulless and business-only orientated nature of today’s entertainment business.

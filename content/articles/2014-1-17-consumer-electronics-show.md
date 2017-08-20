@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Consumer Electronics Show (CES) is an annual technology and consumer products show held every January in Las Vegas. Being the global stage that attracts next generation innovations and electronics, CES is the largest of its kind, showcasing over 3000 exhibitors from computer hardware manufactures to automotive and lifestyle electronics manufactures.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001212223-rsp07-RainbowF.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001212223-rsp07-RainbowF.jpg"
+image_caption: ""
 ---
 
 Imperial College London has been listed among Stonewall's Top 100 Employers 2010 for being one of the top employers of LGBT (lesbian, gay, bisexual and transgender) people. The Workplace Equality Index, released on 13th January, places Imperial at number 79 ahead of the only other HEI (higher education institution) in the list, Liverpool John Moores University, which follows at 85.

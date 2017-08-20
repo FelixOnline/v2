@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Some people think that charity should be done as a completely selfless pursuit. Perhaps it should be! But the reality is that we’re all busy and want to enjoy our free time at Imperial, so why bother to do not-for-profit work? Here are a few reasons. Some of them are obvious, some are not…

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021403-felix-fractal-1781410_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021403-felix-fractal-1781410_1280.jpg"
+image_caption: ""
 ---
 
 Fractals are everywhere we look. Clouds, snowflakes, broccoli – even mountains are full of them. Simply put, a fractal is a never-ending pattern that can be defined as ‘a rough or fragmented geometric shape that can be subdivided in parts, each of which is a reduced-size copy of the whole’. This property of fractals is called self-similarity. In nature, fractals mainly include branching patterns like those of a tree or river tributaries, or spiral patterns like a hurricane or the Milky Way.

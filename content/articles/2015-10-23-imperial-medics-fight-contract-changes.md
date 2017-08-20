@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231224-ygr12-img_0833.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231224-ygr12-img_0833.jpg"
+image_caption: ""
 ---
 
 Over 20,000 people took part in a protest march in London against proposed government changes to junior doctors’ contracts last Saturday. Protests also took place in Belfast, Nottingham and Dundee.

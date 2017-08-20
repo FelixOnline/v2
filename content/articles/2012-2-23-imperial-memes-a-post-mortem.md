@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202231958-ams111-philosorapter.jpg"
-image_caption: >
-  Does this caption help clear it up? Probably not
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202231958-ams111-philosorapter.jpg"
+image_caption: ""
 ---
 
 Late on a Tuesday night, [a monster was born](http://www.facebook.com/ImperialMemes). One that would increase exponentially with size; prove that Imperial students, for all their academic brilliance, follow the same behavioural patterns in a crowd as anyone else; and leave many of us sleep-deprived during our 9 o’clock lectures the following day.

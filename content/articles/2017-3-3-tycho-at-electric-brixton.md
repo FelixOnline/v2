@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031539-felix-tycho_eb_270217_joeokpako_lowres-52 2.jpg"
-image_caption: >
-
-image_attribution: "Electric Brixton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031539-felix-tycho_eb_270217_joeokpako_lowres-52 2.jpg"
+image_caption: ""
 ---
 
 The venue’s facade was bright and fairly minimalist, with white walls and a simple entrance. Inside, we were surprised to hear techno pumping out of the solid sound system in front of us. I looked around, noting the royal blue walls decorated by gold baroque detailing; the interior felt both modern and antiquated. Two tiers of balconies encompassed the dance floor and stage, giving a vaudeville vibe. We learned that the source of the techno was Heathered Pearls (Jakub Alexander), who was opening for Tycho. The two have a close working relationship: both are signed to Ghostly International, with Jakub doing A+R for them too, all while managing Tycho, and curating his artwork on the ISO50 blog (Tycho’s moniker as an artist). His set was neat and built nicely, injecting some movement into the audience. He joked to the fledgling crowd about permitting him to play techno at 8pm, before introducing Tycho and leaving.

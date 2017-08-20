@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s our pleasure to announce the first Imperial Food Awards competition! Organised and judged by the Food Editors of Felix, this is your chance to prove your talent and creativity in cooking. In short, you shouldn’t miss it. The reason? Loads of fantastic prizes will be awarded to the winner, who will be announced on October 28.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172126-ks607-danielan.jpg"
-image_caption: >
-  Assange and Domscheit-Berg
-image_attribution: "Jacob Appelbaum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172126-ks607-danielan.jpg"
+image_caption: ""
 ---
 
 Since Wikileaks published their first leak in 2006, it has grown to become one of the most controversial website in the world. Wikileaks lubricated the whistle-blowing cog, resulting in a Cambrian explosion of leaks in the past couple of years via their website. Some leaks are mere objects of amusement, like the publication of the secret handbooks of American university fraternities (frat boys despair as their secret handshakes are no longer secret). Some, like the Collateral Murder video footages and Cablegate, triggered widespread socio-political debates. Wikileaks leads the charge for more transparency but the irony is that the organization itself is rather opaque. That is until last month, when Danieal Domscheit-Berg, the ex-spokesperson and former second-in-command of Wikileaks, published [Inside Wikileaks](http://www.amazon.com/Inside-WikiLeaks-Assange-Dangerous-Website/dp/030795191X), the account of his time at the “world’s most dangerous website.”

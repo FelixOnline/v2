@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103031926-nm1010-lagnelas.jpg"
-image_caption: >
-
-image_attribution: "flickr/canolagrowers"
-image_attribution_link: "http://www.flickr.com/photos/canolagrowers/3570480607/in/set-72157618793887509"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103031926-nm1010-lagnelas.jpg"
+image_caption: ""
 ---
 
 It is an unfortunately ubiquitous belief amongst non-vegetarian cooks that vegetables are an accompaniment to a meal rather than a meal in themselves. This means that meatless dishes can often go catastrophically wrong.

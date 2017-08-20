@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061322-ff712-ntn645.jpg"
-image_caption: >
-  The cast of award-winning musical Next To Normal
-image_attribution: "Craig Schwartz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061322-ff712-ntn645.jpg"
+image_caption: ""
 ---
 
 _N__ext to Normal_, with book and lyrics by Brian Yorkey and music by Tom Kitt, follows Diana, a bipolar depressive with a dead son, a rock star psychiatrist, a daughter she describes as “a freak” (and her stoner boyfriend)... and Dan, her husband.

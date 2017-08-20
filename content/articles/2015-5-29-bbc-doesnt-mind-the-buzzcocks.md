@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
-image_caption: >
-  A typical line up for Never Mind the Buzzcocks during one of its guest host phases. I know who some of hese people are, honest.
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
+image_caption: ""
 ---
 
 Comedy music panel show Never Mind the Buzzcocks was dropped by the BBC this week, after almost 20 years and nearly 270 episodes on air.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402051027-me1711-games_qup.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402051027-me1711-games_qup.jpg"
+image_caption: ""
 ---
 
 This is not the kind game that our section would usually review. In fact, when I told my fellow games editor Calum what I was planning to write about, he retorted in disgust “that’s not a proper game!” However, I believe that mobile gaming is here to stay, which means that we should start considering them. Also, the addictiveness of QuizUp could not be discounted.

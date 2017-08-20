@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162103-felix-cdf-detector.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162103-felix-cdf-detector.jpg"
+image_caption: ""
 ---
 
 Earlier this year, the Collider Detector at Fermilab (CDF) collaboration tentatively put forward new results [suggesting that they had observed a new, unpredicted particle](http://prl.aps.org/abstract/PRL/v106/i17/e171801). A month later [they published more results](http://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html) that seemed to reinforce the earlier data. But last week the DZero collaboration, also at Fermilab, [announced that they had tried to find the same particle – and failed](http://www-d0.fnal.gov/Run2Physics/WWW/results/final/HIGGS/H11B/).

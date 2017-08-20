@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Lunch at somewhere outside of university is ‘the thing’ nowadays, but who has time for that with all the lab reports and homework and tutorial sheets and so on? Besides the money it saves, eating in school seems to be a pretty good idea, especially if you have to stay in pretty late: socialising (some) and working (less) at the same time as you eat. Win on both (actually three) sides, right?

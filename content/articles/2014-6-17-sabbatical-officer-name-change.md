@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week, Council agreed to change the name of the Deputy President (Clubs & Societies) and Deputy President (Finance & Services) roles to Deputy Presidents (Activities & Development) and (Activities & Finance) respectively.

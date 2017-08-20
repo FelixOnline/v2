@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111180005-sjw209-god.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111180005-sjw209-god.jpg"
+image_caption: ""
 ---
 
 My unquestionable faith in the non-existence of an ineffable, unfathomable and utterly unintelligible being has been brought into question. “Aha! The fundamentalist atheist finally sees that the existence of the ultimate voyeur (as Sartre would put it…) is still very much up for debate.” What has brought about this paradigm shift?

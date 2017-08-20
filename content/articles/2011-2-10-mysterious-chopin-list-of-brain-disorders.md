@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102015-ks607-chopinch.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102015-ks607-chopinch.jpg"
+image_caption: ""
 ---
 
 A new hypothesis about the lifelong hallucinations of romantic composer Frederic Chopin suggests he suffered from temporal lobe epilepsy. New research published in the journal Medial Humanities made this diagnosis based on eyewitness accounts of Chopin’s friends and family describing his hallucinatory episodes.

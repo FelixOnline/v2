@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171300-felix-soundproofing.jpg"
-image_caption: >
-  Rising complaints shut down the J&R space
-image_attribution: "Iggyshoot"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171300-felix-soundproofing.jpg"
+image_caption: ""
 ---
 
 As the Spring term draws to an end, so should the West Basement refurbishment which has seen numerous student media facilities intermittently being cordoned off over the course of the last few years. This last leg of the works should mark the end of a cumulative £1.27 million investment.

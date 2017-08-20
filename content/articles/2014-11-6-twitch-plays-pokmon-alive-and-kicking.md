@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062043-snb11-tpp_homage-(1).jpg"
-image_caption: >
-  The team that conquered all...you will never be forgotten! ALL HAIL LORD HELIX
-image_attribution: "Joystiq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062043-snb11-tpp_homage-(1).jpg"
+image_caption: ""
 ---
 
 Remember that thing that everyone cared about for one week in February? To a future historian it’ll look like a weird mind virus infected everyone for exactly a week and then disappeared. Let’s talk about it again!

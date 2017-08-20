@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241356-felix-3881790828_c97f7f15fa_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241356-felix-3881790828_c97f7f15fa_o.jpg"
+image_caption: ""
 ---
 
 Fact: Dogs can smell cancer.

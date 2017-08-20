@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152104-tna08-attenborough-studio-nhm-02-hr-sans-texte.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152104-tna08-attenborough-studio-nhm-02-hr-sans-texte.jpg"
+image_caption: ""
 ---
 
 As students at Imperial, we love good extra-curricular science, right? Right? I guess we can be excused from crawling out of the Library once in a while and going straight to bed as opposed to the nearest museum. But every so often, there are some great gems out there to take part in, usually right on our doorstep.

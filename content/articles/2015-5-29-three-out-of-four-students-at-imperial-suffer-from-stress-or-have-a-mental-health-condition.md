@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290126-ps3110-screen-shot-2015-05-29-at-01.26.25.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290126-ps3110-screen-shot-2015-05-29-at-01.26.25.png"
+image_caption: ""
 ---
 
 A College-wide survey has found that three out of four students have suffered from high levels of stress or a mental health condition whilst at Imperial.

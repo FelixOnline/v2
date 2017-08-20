@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s Valentine’s Day pretty soon, as you’ve no doubt realised from the world’s sudden desire to shape everything into hearts and paint itself red, and that can only mean one thing. It’s time to feel unnecessarily awkward about being in a relationship when other people aren’t. Valentine’s Day must be the only holiday that actively segregates the population and hands out gold stars to one half of it. Even the bloody Christians let everyone else chuff down chocolate come Easter time.

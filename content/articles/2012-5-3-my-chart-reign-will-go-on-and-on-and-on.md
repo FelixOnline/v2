@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031929-ams111-02012_titanic_3d_001.jpg"
-image_caption: >
-  There’s nooooooooooooooooooooooooooooooooooooooooooooooothing I fear (ex
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031929-ams111-02012_titanic_3d_001.jpg"
+image_caption: ""
 ---
 
 [__Titanic 3D__](http://www.imdb.com/title/tt1869152/)

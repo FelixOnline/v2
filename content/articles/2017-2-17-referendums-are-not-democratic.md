@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
+image_caption: ""
 ---
 
 Referendums have been leading, and will continue to lead, to the slow erosion of Parliamentary sovereignty. The UK is a Parliamentary representative democracy, where the electorate elect a representative from their constituency to represent them in Parliament. These members of parliament should vote and act in good conscience and in what they believe is in the best interest of their constituents; we do not elect delegates to put across our everyday whims on every single issue. Anna Soubry MP made this exact point during the debate on triggering Article 50, saying that she did not go through the lobbies voting for what she believed in but rather what she had promised her constituents.

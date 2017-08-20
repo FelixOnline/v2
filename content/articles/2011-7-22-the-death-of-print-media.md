@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: "http://"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image_caption: ""
 ---
 
 I am not a journalist. I have never hacked a phone, written a meticulously-researched piece about an obscure detail concerning Princess Diana that would only be published because she was she, or lain doggo in one of Boris Johnson’s rhododendron bushes with pencil and paper at the ready to record indiscretions with his woman-who-does in assiduous detail. If I were a journalist, I would want these skills, but not just these ones. I would also want to be able to act.

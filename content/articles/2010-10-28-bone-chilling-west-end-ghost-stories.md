@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Now, let me make one thing clear – I don’t ‘do’ horror. As in, it doesn’t work on me. Those twin girls in The Shining? Whatever. The wild-eyed clairvoyant in Don’t Look Now? I encounter scarier religious nutcases every morning outside Brixton Tube. Ringu? Boringu, more like. You get the picture. All brilliantly imaginative entertainment, of course, but collectively about as scary as a cheddar ploughmans. This, coupled with the well-known fact that anyone who believes in ghosts is a gaspingly incredulous dumbo of the highest order, meant that I was slightly disdainful of the warnings accompanying the posters for Ghost Stories: “…CONTAINS MOMENTS OF EXTREME SHOCK AND TENSION… WE STRONGLY ADVISE THOSE OF A NERVOUS DISPOSITION TO THINK VERY SERIOUSLY BEFORE ATTENDING”. Not even the sight of two St John Ambulance men conspicuously overlooking the audience (presumably armed with smelling salts and a copy of New Scientist) could prevent me from striding to my seat with the bravado and swagger of the terminally un-afraid.

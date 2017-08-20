@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 All tube services will be suspended on January 26th, February 15th and February 17th from 9:14pm for a full 24 hours, it emerged this week. The industrial action comes after months of negotiations over the 24-hour tube service that Mayor Boris Johnson aimed to introduce back in September, and follows two previous one day strikes in July and August of last year.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
+image_caption: ""
 ---
 
 A[ similar survey to the one conducted by Mentality](%20http:/felixonline.co.uk/news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition/) was ran by the National Union of Students (NUS) back in 2013, which surveyed around 1200 students across the country via an online questionnaire.

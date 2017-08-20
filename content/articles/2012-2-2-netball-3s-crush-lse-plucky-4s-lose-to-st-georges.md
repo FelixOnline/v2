@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022313-sjw209-img_4223.jpg"
-image_caption: >
-  Netball. Much easier when the ball sticks to your hands
-image_attribution: "Feroza Kassam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022313-sjw209-img_4223.jpg"
+image_caption: ""
 ---
 
 IC 3s triumphed in the first game of what was a busy week of fixtures, outplaying LSE 4s in an open and fast paced encounter. After an end-to-end first few minutes, IC soon asserted their authority and quickly raced to a 5-0 lead.

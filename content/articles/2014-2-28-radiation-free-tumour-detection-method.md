@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body. The effects of chemotherapy, for instance, are notorious, but radiation from treatment or scans can sometimes be just as harmful to a patient’s health. A study published in the _Lancet_ this week proposes a new technique that could completely eliminate the radiation dose from scans used to investigate tumours. It could well improve outcomes for many vulnerable patients, and even save lives.

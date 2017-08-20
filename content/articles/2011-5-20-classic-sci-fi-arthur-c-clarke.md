@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week I’m going to discuss another Arthur C. Clarke novel. This time, however, I’m not just going to heap praise on my favourite author, for this is ‘The City and the Stars’, the first of Clarke’s longer works that I didn’t really like.

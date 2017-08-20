@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102242-ps3110-img-20141022-wa0000.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102242-ps3110-img-20141022-wa0000.jpg"
+image_caption: ""
 ---
 
 __B: Where are you from, and how has it affected your outlook on Imperial?__

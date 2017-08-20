@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
-image_caption: >
-  Psychostimulants such as MDMA could have health benefits, if we were actually trusted with these in
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
+image_caption: ""
 ---
 
 Imperial’s own Professor David Nutt, Head of the British Neuroscience Association, former chairman of the Advisory Council on the Misuse of Drugs (ACMA), and frenemy of Home Secretary Jacqui Smith after comparing horse riding dangers to taking ecstasy, isn’t one for keeping quiet when it comes to drugs. It therefore came as no surprise when this week his paper on drug legislation and its possible influence in neuroscience research came with an underlying message: it’s about time the government got their act together.

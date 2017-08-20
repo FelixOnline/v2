@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Like a good respectable self-reformist, you decreed upon yourself the commandments that are your resolutions for 2011. One of which includes the desire to ‘travel more’. With a destination picked and dates decided but yet to arrive, you perch on your seat counting the milli-seconds before you take off.

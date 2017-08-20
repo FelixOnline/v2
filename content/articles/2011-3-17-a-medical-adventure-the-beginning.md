@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
+image_caption: ""
 ---
 
 MRI machines make a peculiar sort of layered whirring noise, both when one is in them and one is waiting to be in one. At other times too, I should think, but I did not stick around for those.

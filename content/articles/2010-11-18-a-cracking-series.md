@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182042-nm1010-littlecr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182042-nm1010-littlecr.jpg"
+image_caption: ""
 ---
 
 Last week I visited a preview of Sky One’s new series of Christmas specials, Little Crackers, as hosted by BAFTA. They are a part of a plan by the channel to introduce more original comedy and make Sky One a “warmer, funnier place”, with the series consisting of twelve stand-alone shorts. Showing as a double bill every evening in the weeks leading up to Christmas, they give some of Britain’s best known comedic stars the chance to bring their vision to the nation’s TV screens.

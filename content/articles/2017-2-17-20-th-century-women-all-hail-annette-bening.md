@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171511-felix-20th_century_women_still.jpg"
-image_caption: >
-  Annette Bening is outstanding as Dorothea in Mike Mills’ exploration of motherhood
-image_attribution: "Alamy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171511-felix-20th_century_women_still.jpg"
+image_caption: ""
 ---
 
 As part of the promotional material for 20th Century Women, director Mike Mills’ latest work, there’s a website called ‘My Mother Before Me’, where users can upload pictures of what their mother looked like before they had children. The shots, which are hazy and saturated, each come with a brief description from the child of what their mother was like; what is noticeable, however, is how superficial these descriptors are. They all seem to center around what the mothers did, or how many children they had, or how they looked – few delve into the emotional life of a mother.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the 27th of November 2013 at 17:43 Silvio Berlusconi was expelled from the Senate of the Italian Republic; he no longer represents anyone but himself. He cannot abuse his parliamentary seat anymore to avoid his legal troubles. He cannot run for office and may even be tried for his various crimes.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the day of writing this I am turning 23, and now probably need to become a terribly serious individual, or something like that. I say this because that is what happens as you get older: you become all grown up and proper. You use words like “whom”, have food that has been “drizzled” with olive oil, and listen to BBC Radio 4. Admittedly, I love things drizzled in olive oil, but that’s not exactly my point. I won’t bore you too much with a “never let the inner child shrivel and die” type spiel, but I really think it needs to be said. I feel like nowadays a lot of people just take life, themselves, and everything in between a little bit too seriously.

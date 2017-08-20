@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Jaw-dropping prices, gallery owners hovering like buzzards around the fat-of-wallet and pretentious conversations carrying through the air: “This is Christophe’s latest work, he’s currently juxtaposing renaissance frescos with imagery from Countdown.” A a entitled “Profane Impossibility of Diametric Neurosis” (it’s not pretentious because it’s, like, obviously ironically pretentious, you know?) and a gallery called Pratt Contemporary... It can all mean only one thing – the London Art Fair (LAF) has rolled into town for another year, bringing with it all that is both bad and good in UK art.

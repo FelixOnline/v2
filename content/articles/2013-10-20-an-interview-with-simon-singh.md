@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310200229-jal08-simon_singh_at_the_merseyside_skpetics_society.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310200229-jal08-simon_singh_at_the_merseyside_skpetics_society.jpg"
+image_caption: ""
 ---
 
 __Calum Grant: Having written about the history of mathematics, code breaking, the Big Bang and Alternative medicine, was this book on maths Easter eggs in the Simpsons the easiest book you’ve written?__

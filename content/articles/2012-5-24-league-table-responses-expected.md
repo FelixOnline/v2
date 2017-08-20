@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 League tables yet again come to the fore this week as Imperial College London saw a drop from 10th to 13th place in the Guardian University Guide 2013. These latest results however caused considerably more controversy than previous league table announcements.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102158-pk1811-pizza.jpg"
-image_caption: >
-  Perfect Pizza... indeed!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102158-pk1811-pizza.jpg"
+image_caption: ""
 ---
 
 _Soho Joe is the product of a husband and wife team who both have more than twenty years experience in the catering industry. Open from early morning until late at night, Soho Joe is an exciting new venture situated in the heart of Soho, serving a range of food and drinks at extremely affordable prices._

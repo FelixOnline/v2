@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 By the time that George Osborne stood to deliver the Spending Review at the Dispatch Box in the House of Commons, scientists at Imperial and around the UK had already breathed a sigh of relief. Although funding is still being cut by 10%, U.K. research has escaped the catastrophic 25% cuts that had been threatened. But we at Imperial, in our ivory towers in South Kensington, should not forget that other subjects and other universities are being hit hard; we are the lucky ones.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
+image_caption: ""
 ---
 
 On the last week of the holidays it was time for Imperial College students to hit the slopes in Val Thorens! Two busloads of students spent 22 hours travelling to the Alps on New Year’s Day, most still suffering from the revelries of the night before. However, duty free alcohol and a port to port challenge tempted people back over to the dark side with one bus having a bit too much fun – and as the trip’s Worried Mum, I was called in to clean up the mess!

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200021-cj914-monkey.jpg"
-image_caption: >
-  Artists impression of South America’s oldest monkey
-image_attribution: "Jorge González"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200021-cj914-monkey.jpg"
+image_caption: ""
 ---
 
 The discovery of three new fossilised monkey specimens in the heart of Amazonian Peru could shed light on the origins and early evolution of primates in South America; one of the most controversial issues in primate palaeontology.

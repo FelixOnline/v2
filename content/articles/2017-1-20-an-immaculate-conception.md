@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201538-felix-IMG_7048.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201538-felix-IMG_7048.jpg"
+image_caption: ""
 ---
 
 Best friend in town? You just have to take them to one of the best restaurants in town and order three times your normal portion of food – and roll out of the restaurant with a six-month food baby hoping to ‘walk’ it off with a tube journey to the next.

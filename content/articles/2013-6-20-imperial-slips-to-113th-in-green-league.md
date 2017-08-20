@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210033-tna08-green-league.png"
-image_caption: >
-  Wahay! We’re finally equal with Cambridge at something. Oh, wait. DAMMIT!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210033-tna08-green-league.png"
+image_caption: ""
 ---
 
 Imperial College London has been ranked 113th place in the People & Planet’s Annual Green League Table for 2013. This is a drop of 17 places since last year, where Imperial was ranked 96th place in the 2012 League Table.

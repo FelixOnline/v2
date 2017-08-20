@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171623-felix-16729065_1155429871232946_5406700816940323399_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171623-felix-16729065_1155429871232946_5406700816940323399_n.jpg"
+image_caption: ""
 ---
 
 It has been only two weeks since the Immortals fell victim to the Cambridge Pythons. With a lapse of concentration (from a heavily fatigued Defence) the score was 6-0 for Pythons when the bell did toll. The loss was particularly painful due to the honest fact we are the better team, and on that day it was insufficient preparation that ultimately let us down.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011934-pk1811-seq_lytro_group_front.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011934-pk1811-seq_lytro_group_front.jpg"
+image_caption: ""
 ---
 
 Have you ever taken a picture, only to be disappointed when you later find it to be out of focus? You’re certainly not alone. Enter [Lytro](http://www.lytro.com/), the world’s first consumer-targeted light-field camera.

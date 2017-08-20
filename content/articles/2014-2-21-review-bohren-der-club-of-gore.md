@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After more than twenty years of plugging away with a familiar sound, one that combines jazz, drone, doom and many other genres into an agonisingly slow rhythm, __Bohren & der Club of Gore __released an album earlier this month which does little to change this sound.

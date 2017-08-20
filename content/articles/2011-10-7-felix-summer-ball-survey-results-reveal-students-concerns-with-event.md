@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071531-felix-felix-summer.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071531-felix-felix-summer.jpg"
+image_caption: ""
 ---
 
 “Errrm...where were all the people?” was one of the many questions asked after last year’s Summer Ball. With less than half the expected turnout and a 6-ﬁgure loss, it will come as no surprise that the initial results of the Felix survey are looking rather bleak.

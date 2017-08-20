@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504071727-ff712-rsz_oppenheimer_production_photos__2014_photo_by_keith_pattison__c__rsc_rscoppie4034.jpg"
-image_caption: >
-  The cast of Oppenheimer, currently on at the Vaudeville Theatre
-image_attribution: "RSC/Keith Pattison"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504071727-ff712-rsz_oppenheimer_production_photos__2014_photo_by_keith_pattison__c__rsc_rscoppie4034.jpg"
+image_caption: ""
 ---
 
 The story of the Manhattan Project, which saw the Unites States lead a team of international scientists developing the first nuclear weapon, has gone down in popular legend: Einstein (that most cuddly of nuclear physicists) recommending that the US begin work on ‘extremely powerful bombs’, mushroom clouds above the New Mexican desert, and J. Robert Oppenheimer quoting the Bhagavad Gita - it’s all been burned onto our collective consiousness. Such a thing was surely a mixed blessing to playwright Tom Morton-Smith, whose production detailing the creation of ‘The Bomb’, _Oppenheimer_, has transferred to London’s West End, following a critically acclaimed run in Stratford-upon-Avon. When the public believe that they have a good grasp on a piece of history - as I am sure a lot of people do about the Manhattan Project - it can be difficult to make them see any other way; however, with _Oppenheimer_ Morton-Smith has created a finely scripted historical drama, which sticks closely to the truth whilst still being entertaining, no doubt thanks to the fine cast of the Royal Shakespeare Company.

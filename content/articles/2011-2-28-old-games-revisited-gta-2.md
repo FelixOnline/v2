@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104231426-felix-grand-theft-auto-2.jpeg"
-image_caption: >
-  Ah, those were the days...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104231426-felix-grand-theft-auto-2.jpeg"
+image_caption: ""
 ---
 
 Alright folks, it’s time to sit back and take a great big hit from the nostalgia bong. Today we’re going to be travelling back in time to when the Grand Theft Auto series was actually good and take a look at GTA2.

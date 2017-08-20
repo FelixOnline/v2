@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There are some of us puttering around campus that remember a time before smartphones and constantly available internet. Even before sharing just the one computer in the corner of the living room with your entire family, waiting painstakingly for the whirling ring of the AOL dialup to finish, only to be kicked off again five minutes later when someone 'needed' the phone. When connecting with people involved – wait for it – walking over to their house and knocking over the door.

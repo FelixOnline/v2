@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021516-felix-Screen_Shot_2016-08-01_at_9.43.16_AM.0.0.jpg"
-image_caption: >
-
-image_attribution: "Game Freak - Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021516-felix-Screen_Shot_2016-08-01_at_9.43.16_AM.0.0.jpg"
+image_caption: ""
 ---
 
 It’s been a while since Pokémon Go’s surprise popularity peak, but with the release of the latest games, Sun and Moon, the Pokémon franchise is back in the limelight. The new games offer a fresh and updated take on the title while still staying true to the original formula; they remind us why the series is still so popular after 20 years.

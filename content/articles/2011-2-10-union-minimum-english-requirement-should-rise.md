@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College Union has [revealed its response](http://www.imperialcollegeunion.org/news/union-response-to-the-student-visa-consultation,454,ICUNS.html) to the government’s student visa consultation with a mixed response to the suggested proposals.

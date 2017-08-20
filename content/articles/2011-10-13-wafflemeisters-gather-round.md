@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140057-sjw209-wafflemeister.jpg"
-image_caption: >
-  I want it all... and I want it now
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140057-sjw209-wafflemeister.jpg"
+image_caption: ""
 ---
 
 [Wafflemeister](http://www.wafflemeister.com/) is preparing for the waffliest competition ever! Eat your way through the full range of Wafflemeister favourites and an unlimited supply of classic waffles in 3 minutes! Only rule: no drinking of any kind allowed.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
-image_caption: >
-  A group of kind committed friends can bring even an old grey grumpy donkey to a smile
-image_attribution: "hdwallpapersdesktop"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151351-cj914-eeyore-quotes-hd-wallpaper-23.jpg"
+image_caption: ""
 ---
 
 This is the mental health awareness week and I’ll focus on a slightly different but related angle today. In welfare, mental health is a much discussed issue with ever-increasing helpful resources, but there is a group of people often left out from the media spotlight. These are the friends who support friends with eating disorders, those in relationships who lighten up their partner’s depression, or parents who calm their child with anxiety, to name a few examples.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022104-felix-n59219057473_2189194_254557.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022104-felix-n59219057473_2189194_254557.jpg"
+image_caption: ""
 ---
 
 If this was the NME, I would start this article with a sentence like “Rodrigo Braga sounds like the illegitimate lovechild of Stevie Wonder and Paul Simon backed by a Samba band,” but it’s not, so I won’t. Rodrigo Braga is an excellent singer, guitarist and songwriter who performs meaningful and intelligent music which, if approached from a genre perspective, could plausibly be described as a fusion of American and Brazilian folk music. Now that’s proper music journalism.

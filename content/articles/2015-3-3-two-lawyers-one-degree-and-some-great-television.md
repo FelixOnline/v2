@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031454-ps3110-suits.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031454-ps3110-suits.jpg"
+image_caption: ""
 ---
 
 Now in its fourth series, _Suits _is an American legal drama that premiered in June of 2011. Created by Aaron Korsh, the first episode is one of the best pilots in recent television history.

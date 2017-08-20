@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101026-felix-21234616215_fa138e0d78_o.jpg"
-image_caption: >
-
-image_attribution: "Joseph Bylund"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101026-felix-21234616215_fa138e0d78_o.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we want to show that every science paper is a drop of water that, in its small way, helps fill up the aquarium of human knowledge, so that us little humans can float around happily oxygenated by the water of cognition. This week, you may have guessed, we are talking about fish.

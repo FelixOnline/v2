@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012227-ams111-billy-crystal-kevin-winter.jpg"
-image_caption: >
-  Nine-time host Billy Crystal
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012227-ams111-billy-crystal-kevin-winter.jpg"
+image_caption: ""
 ---
 
 The 84th Annual Academy Awards ceremony was presented Sunday night, hosted by comedian and actor Billy Crystal. After last year’s rather disappointing ceremony with hosts Anne Hathaway and James Franco, in an attempt to reach a younger demographic, Crystal returned to host the ceremony for the ninth time.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271949-ks607-tenniste.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271949-ks607-tenniste.jpg"
+image_caption: ""
 ---
 
 Wednesday proved to be a pivotal day in the history of IC tennis. A distraught Exeter 1st team saw themselves humbled at the hands of our valiant 1st team.

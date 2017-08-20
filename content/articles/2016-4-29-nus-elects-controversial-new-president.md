@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
-image_caption: >
-  Let’s start our own NUS with blackjack and hookers!
-image_attribution: "NUS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
+image_caption: ""
 ---
 
 At last week’s NUS conference, delegates from member universities around the UK elected Malia Bouattia as their new president.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231218-ygr12-the-apprentice---only-her-011.jpg"
-image_caption: >
-  The Apprentice did beer once, remember? This is not the same at all.
-image_attribution: "BBC / Boundless"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231218-ygr12-the-apprentice---only-her-011.jpg"
+image_caption: ""
 ---
 
 In the UK back in 2006 the majority of pubs served mostly identical lagers on keg; variety was achieved by a changing assortment of warm cask ales that often left younger drinkers wanting. In the US, the situation was similar; bars served a narrow range of indistinguishable beers: Bud Light, Coors Light, Budweiser and the like. Any variety found came in the form of expensive import beers like Guinness.

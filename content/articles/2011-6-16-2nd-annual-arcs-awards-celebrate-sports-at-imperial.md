@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162213-felix-dsc_0183-(99).jpg"
-image_caption: >
-
-image_attribution: "Laura Harreman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162213-felix-dsc_0183-(99).jpg"
+image_caption: ""
 ---
 
 Last Friday, Sport Imperial hosted the second annual Imperial ARCS (Appreciate, Recognise and Celebrate Sport) award ceremony championing those who have contributed to sport at Imperial College over the past year. The event was attented by over 140 guests including nominees for awards, supporting team members, coaches, teaching staff from Imperial, various officials, sponsors and partner organisations.

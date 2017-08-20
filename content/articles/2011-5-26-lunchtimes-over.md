@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The search for a solution to the College’s timetabling troubles continues. It is heartening to hear that the College are making efforts to make cross-departmental room bookings easier, but it is fair to say that altering the makeup of the day will be a part of the solution. The latest proposals from the College Day Working Group are a step in the right direction and are worth examining in a little detail.

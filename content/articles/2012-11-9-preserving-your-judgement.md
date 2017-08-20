@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
+image_caption: ""
 ---
 
 It’s a hard thing, striking a balance between hotel dining room and proper restaurant. The prospect instantly calls to mind several possibilities: the over cushioned, shag-pile of a seaside resort; or the soulless, whitewashed canteen – scrubbed so hard it removed all personality in its quest to achieve the Scandinavian, flat-pack finish. Though it perhaps strays a little into the undertow of this second swirling maelstrom, the Jam Cupboard on Gloucester Road does seem to manage to navigate the dangerous straits between Scylla and Charybdis without capsizing horribly along the way.

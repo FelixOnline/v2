@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
-image_caption: >
-  Paul Cézanne, Baigneurs (Bathers), c. 1890
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
+image_caption: ""
 ---
 
 Back in February,Felix ran an article on the history of the female nude in art. But what of the male? The female nude is omnipresent and openly celebrated in Western art; she adorns the walls of today’s galleries, magisterially inviting our appreciation. By contrast, her male counterpart is overwhelmingly underrepresented. Pendulous phalluses are few and far between.

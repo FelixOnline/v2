@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020300-jal08-games_ftl.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020300-jal08-games_ftl.png"
+image_caption: ""
 ---
 
 This game is one of the indie scene’s big success stories. Back in 2012 it was one of the most successful kickstarter campaigns, achieving over 20 times the goal that the developers had asked for. It went on to win numerous awards, has been reviewed in these very papers, regularly tops the steam charts and become a staple of most gamers worldwide. Furthermore, in a bid to keep the game fresh, the developers have released an update, with loads of new content for free! This in itself is quite a pleasant surprise, given that we live in the world of paid DLCs and micro-transactions. In addition, the creators, _Subset Studios_, have now released an iPad version so you can be a space captain even when you are on the move!

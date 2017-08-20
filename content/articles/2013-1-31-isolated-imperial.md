@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312340-tna08-isolation.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312340-tna08-isolation.jpg"
+image_caption: ""
 ---
 
 So, imagine you’re at a party with all the UK’s universities. Standing in a corner are the Russell Group, stroking their rugby team ties and snubbing the rest of the unis, who are actually having fun. Out in the hallway are a bunch of businessmen in a circle, all jacking off onto Imperial, who willingly kneels in the middle.

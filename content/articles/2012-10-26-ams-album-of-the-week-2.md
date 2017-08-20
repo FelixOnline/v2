@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s been a long two years for Egyptian Hip Hop, and after jumping off the hype machine they were so reluctantly thrust upon, they have returned with a debut album full of new material that takes a different, perhaps more accomplished direction than their earlier releases.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022108-nm1010-felixpho.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022108-nm1010-felixpho.jpg"
+image_caption: ""
 ---
 
 Those who support the government’s cuts claim that people haven’t looked up or understood the propositions, and that there are no other viable options. I find this insulting and naive.

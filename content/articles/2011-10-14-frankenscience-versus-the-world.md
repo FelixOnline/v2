@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Science fiction often paints a scary picture of the future where science and technology have run amok with devastating consequences. Titles such as Brave New World, The Day After Tomorrow and Frankenstein conjure up fearful images in our minds. Many scientists feel that such works have hindered progress by creating a public that is scared of new and potentially beneficial technologies such as GM and cloning. I think they’re wrong.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040304-jal08-mus-wailers.jpg"
-image_caption: >
-  The Wailers, including original member Aston Barrett (front).
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040304-jal08-mus-wailers.jpg"
+image_caption: ""
 ---
 
 On Monday night I spent the evening in the Millennium Dome and came to the conclusion that it should be levelled. It may no longer be called the Millennium Dome and it may now have an array of soulless bars/restaurants, but the fact remains: it’s a large tent with the character to match.

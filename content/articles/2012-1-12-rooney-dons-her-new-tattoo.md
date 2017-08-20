@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
-image_caption: >
-  Let’s take this to the bed shall we, Agent Salacious-- I mean, Salander?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122245-cac111-rooney-mara-the-girl-with-the-dragon-tattoo-review-2011.jpg"
+image_caption: ""
 ---
 
 ###  The Girl with the Dragon Tattoo

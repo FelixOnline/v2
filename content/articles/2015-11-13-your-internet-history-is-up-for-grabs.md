@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131428-ygr12-webther.jpg"
-image_caption: >
-
-image_attribution: "Indira Malik"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131428-ygr12-webther.jpg"
+image_caption: ""
 ---
 
 Since Edward Snowden’s leaks in 2013, many have compared the British state to The Party from George Orwell’s prophetic Nineteen Eighty-Four. The Party seeks power; not to improve the lives of others, but entirely for its own interests. From the transceiving television sets used to monitor the citizens’ thoughtcrime (the act of socially unacceptable thoughts), there are many areas where Orwell’s fiction now overlaps with the reality of 21st century Britain.

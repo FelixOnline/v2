@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291156-felix-emilyisaway.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291156-felix-emilyisaway.jpg"
+image_caption: ""
 ---
 
 E_mily is away_ is an interactive, branching visual novel set in MSN-inspired chat client. Its visuals and sound effects, from the classic Windows XP start sound to the low rumbling of a desktop computer, will be instantly familiar to those who grew up using Microsoft’s iconic communication software.

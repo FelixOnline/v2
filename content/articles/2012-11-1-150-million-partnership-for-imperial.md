@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012213-tna08-imperial_west_f260712_prgbizzle.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012213-tna08-imperial_west_f260712_prgbizzle.jpg"
+image_caption: ""
 ---
 
 A £150 million partnership aiming to support the development of the new Hammersmith-based [Imperial West Technology Campus](http://www3.imperial.ac.uk/newcampus/whatis) has been announced.

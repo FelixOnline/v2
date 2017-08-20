@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191133-felix-giphy.gif"
-image_caption: >
-
-image_attribution: "giphy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191133-felix-giphy.gif"
+image_caption: ""
 ---
 
 She walks among us and with us. Rattling in our pockets beside loose change, beaming through the air, whipping us through the underground in the much-beloved, spacious Tube, and sending Londoners south to Ibiza or Tangiers. Science is everywhere in our world. But it’s more than just a pragmatic method of understanding the universe and creating new ways to navigate and interact with it; it’s a creative force in our human society with powerful feedback mechanisms that determine many aspects of our lives. So no matter how interesting (or dreary) you may find it, it’s worth exploring how we interact with science and the many impacts it has on our lives – from the kid learning the hard way that gravity is a very real force when they do that first belly flop at the pool, to the disenchanted adult zoning out on the couch, to some droning late night news about climate change.

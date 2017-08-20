@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181451-felix-man-461195_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181451-felix-man-461195_1280.jpg"
+image_caption: ""
 ---
 
 Why do we find some people more attractive than others? Qualities such as a sense of humour, good looks, and honesty are often considered attractive. However, you may be surprised to discover that your immune system influences your choice of partner.

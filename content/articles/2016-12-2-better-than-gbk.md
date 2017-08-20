@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I must start this article by giving credits to my Anonymous Kitchen Helpers: they are the ones who remade the puff-pastry last time, after ruining it. It’s always great having helping hands, even if sometimes they can be more of a hindrance.

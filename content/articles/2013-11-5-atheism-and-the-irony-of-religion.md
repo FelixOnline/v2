@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Irony has always been, well, ironic. Take for example Aristophanes, great ancient Greek satirist of whom Nietzsche said ‘that transfiguring, complementary genius, for whose sake one pardons all of Hellenism for having existed’, and his play The Clouds. In a famous scene Socrates muses on the origins of clouds, their possible genesis in the condensation of water vapour; the clown then goes on to ridicule Socrates, because everybody knows that the Gods give us clouds… The irony should be obvious to all of us: Aristophanes’ ironic and ‘ridiculous’ explanation, imputed to the sophistic and ridiculous philosopher, is of course the truth.

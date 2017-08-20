@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072117-jal08-storyteller.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072117-jal08-storyteller.jpg"
+image_caption: ""
 ---
 
 What does happen when we tell stories about science? That was the question the panel of academics attempted to answer at the LSE/Imperial Literary Festival event last Wednesday evening.

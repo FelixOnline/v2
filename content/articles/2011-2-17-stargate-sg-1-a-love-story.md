@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172028-nm1010-stargate.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172028-nm1010-stargate.jpg"
+image_caption: ""
 ---
 
 The first science fiction television show I ever saw and the series that got me interested in the entire genre was Stargate SG-1, the follow-up to Roland Emmerich’s forgettable 1994 film.

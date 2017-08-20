@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The only magazine to focus on Bristol’s music scene threw a giant street party before winter started to settle in and thwart all endeavours of extending the festival season. Of course, Felix was invited. Set along Stokes Croft - which could be deemed a mini ‘Hoxditch’ of Bristol - bars, cafés, and cinemas showcased exciting up-and-coming artists.

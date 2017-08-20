@@ -1,7 +1,7 @@
 ---
 id: "photosoc"
 title: Photographic Society
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: "icuphotosoc"
 facebook: "https://www.facebook.com/pages/PhotoSoc-Imperial/1"
 website_url: "http://www.union.ic.ac.uk/media/photosoc/"

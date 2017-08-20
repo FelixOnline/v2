@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180052-tna08-image-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180052-tna08-image-1.jpg"
+image_caption: ""
 ---
 
 Within my university life I have had frequent exposure to cybergrind and noisecore, whilst maintaining particular passions for the more punk-routed powerviolence and the extreme grind stylings of __The Gerogerigegege__. That said, the first thing that struck me upon listening to __Krömosom__ was the sheer sonic brutality. The second track on _Live Forever_, ‘Bred to Lose’, hits you from the off with pounding drums so dense and fast that, at times, you can barely distinguish them from the mix. This sheer aural madness is produced not by using hundreds of pedals and a hefty amount of electronics, but rather by physical annihilation of their simple instrumental set-up.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
-image_caption: >
-  Two girls dressed as the World Trade Centre during 9/11, as reported in The Sun.
-image_attribution: "The Sun"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
+image_caption: ""
 ---
 
 _The Sun_ has now come under fire from various student unions, after it emerged that their reporters have offered money in exchange for images of controversial Halloween costumes.

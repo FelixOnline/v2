@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202031124-sjw209-everytimeidie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202031124-sjw209-everytimeidie.jpg"
+image_caption: ""
 ---
 
 What better way to wave goodbye to week 4 than with a timely fix of post-hardcore goodness. This week, I’ll be telling you all about __Every Time I Die__. As was the case with the second lesson’s band, __Refused__, Every Time I Die doesn’t strictly belong to the post-hardcore genre but for anyone following this column, this band cannot be missed.

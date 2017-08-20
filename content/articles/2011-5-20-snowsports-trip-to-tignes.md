@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200408-felix-4-1.jpg"
-image_caption: >
-
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200408-felix-4-1.jpg"
+image_caption: ""
 ---
 
 Give me your clothes, your boots, and your dignity – a common cry across the land as 40 eager Imperialites joined hundreds of students from around the country in preparation for the British Universities Snowsports Council (BUSC) Main event 2011. The stench of sweaty ski/board boots filled the air as old gear was dug out from the back of cupboards and chucked on coaches for the 24-hour drive to Tignes, during which our star snowboard freestyler Luke Bridgestock became a much loathed mini-celebrity among Bristol University students for his embarrassingly loud “the first time I ever...” life recollections at 5am.

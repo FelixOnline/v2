@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151324-cj914-electro2.jpg"
-image_caption: >
-  Nil points! The British entry are practising their game faces.
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151324-cj914-electro2.jpg"
+image_caption: ""
 ---
 
 ### United Kingdom

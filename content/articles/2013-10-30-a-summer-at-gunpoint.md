@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310301541-me1711-games_gunpoint.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310301541-me1711-games_gunpoint.jpg"
+image_caption: ""
 ---
 
 Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming. This in turn allowed me to finally catch up with a game I had been anticipating for a year, Gunpoint. I’d first learned about it from the developer’s blog/website (www.gunpointgame.com) back in my first year. Here’s the general idea:

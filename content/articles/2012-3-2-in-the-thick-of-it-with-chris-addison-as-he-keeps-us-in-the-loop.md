@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203020216-felix-chris_addison.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203020216-felix-chris_addison.jpg"
+image_caption: ""
 ---
 
 __Tim: First off, I apologise if I ask any questions that you’ve been asked before...__

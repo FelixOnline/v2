@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172018-pk1811-nanocarzoom.jpg"
-image_caption: >
-  The nanocar in action on a surface of copper... It really is a car. Sort of
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172018-pk1811-nanocarzoom.jpg"
+image_caption: ""
 ---
 
 Researchers at the University of Groningen, Netherlands have announced that they have succesfully produced a single-molecule ‘car’, capable of moving by use of its four ‘wheels’ when excited by a scanning tunnelling microscope (STM). This announcement follows previous research by the group, led by Ben Feringa, into light-driven molecular motors, first reported in 1999.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Coen Brothers have been able to create such strong, individual voices for their characters for so long now it’s hard to imagine a small town life in America without thinking about it in terms of Coen Brothers movie. They have consistently been able to create complex and compelling narratives throughout their 16-film career and everyone of them brimming with dark, dark comedy. They have created a very cohesive body of work which shares the use of many themes, tropes and stylistic choices to the point that it is blatantly obvious when you are watching one of their films. They have made a particularly strong use of musical and dance numbers that have come to head in their latest work Inside Llewyn Davis.

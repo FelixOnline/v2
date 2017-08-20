@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092159-dr910-fabrican.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092159-dr910-fabrican.jpg"
+image_caption: ""
 ---
 
 An explosion risk is rumoured to be the cause of Prof Paul Luckham’s Chemical Engineering laboratory closure in October. The laboratory was being used to test an innovative “[spray-on-clothing](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_21-9-2010-13-23-53)” developed in conjunction with Dr Manel Torres. Scientists think the fabric, created through careful use of an aerosol, could have explosive applications not only in high fashion but in medicine and industry. The spray contains short fibres that are mixed with polymers and into a solvent, allowing it to be sprayed from a can. The texture of the fabric can be varied by using wool, linen or acrylic fibres. The fabric, which dries when it meets the skin, is very cold when it is sprayed on, a limitation that may frustrate hopes for spray-on underpants.

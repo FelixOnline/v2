@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
-image_caption: >
-
-image_attribution: "Allstar"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
+image_caption: ""
 ---
 
 The verb ‘to ravish’ has two meanings. In one context, we can use it to describe being transported to a place of ecstasy, where our emotions take flight, and we are overcome with an inescapable delight, swirling upwards to a higher plane. In another, it describes something far more brutal: to take by force, to seize and carry someone off, kicking and screaming, against their will. In both senses of the word, exploring this freakish dichotomy, _Carol_ is utterly, irresistibly, achingly ravishing.

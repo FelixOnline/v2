@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The NHS is one of Britain’s most cherished institutions – pretty much the only thing Labour and the Conservatives agreed on during the general election was the need to safeguard the NHS from budget cuts. It has gone through one of the biggest spending increases in it’s history.

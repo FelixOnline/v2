@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232008-felix-dsc_0134.jpg"
-image_caption: >
-  This year's Summer Ball
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232008-felix-dsc_0134.jpg"
+image_caption: ""
 ---
 
 The Union were forced to hold the Summer Ball two weeks before the end of term this year, instead of the usual one week, because the clash with Glastonbury meant that “acts and equipment” would have been too difficult to hire. Union President Alex Kendall explained that the difficulty in having the Summer Ball at the very end of term, after everybody’s exams, is that first years would be moving out of halls.

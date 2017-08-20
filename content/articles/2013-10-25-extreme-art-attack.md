@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250117-felix-artartunderattack.jpg"
-image_caption: >
-  Chair (1969) by Allen Jones was attacked with paint stripper in 1986 by feminist campaigners. It is
-image_attribution: "TATE © ALLEN JONES"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250117-felix-artartunderattack.jpg"
+image_caption: ""
 ---
 
 What: Art Under Attack: Histories of British Iconoclasm

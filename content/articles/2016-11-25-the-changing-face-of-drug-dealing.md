@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251442-felix-Screen Shot 2016-11-25 at 14.42.32.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251442-felix-Screen Shot 2016-11-25 at 14.42.32.png"
+image_caption: ""
 ---
 
 Traditionally, drugs have been bought by ringing up your friendly neighbourhood dealer. You would agree a time and place to meet, either some shady alley or perhaps one of your houses if you were actually friends. Drugs would then be transacted, for a probably pre-determined price, with the purchase method being cash.

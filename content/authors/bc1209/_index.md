@@ -1,7 +1,7 @@
 ---
 id: "bc1209"
 title: Basel Chamali
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""
 website_url: ""

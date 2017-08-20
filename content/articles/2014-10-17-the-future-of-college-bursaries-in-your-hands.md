@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I agree this is weird, what is someone from the Union doing writing an article in Felix about a College decision? But please keep reading because this really matters. If you are a Home Undergraduate student and receive an Imperial College Bursary (i.e.: your household’s income is <£60k), then I really want to know what you think of the bursary support package that College provides. Remember, that this is only talking about the bursary that College provides, and not the Student Finance one.

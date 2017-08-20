@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105122004-felix-timewaster.jpg"
-image_caption: >
-
-image_attribution: "Simon Worthington"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105122004-felix-timewaster.jpg"
+image_caption: ""
 ---
 
 _I guess so_ – __Laurence Pope__

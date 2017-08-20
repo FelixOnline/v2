@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010006-ps3110-screen-shot-2015-05-01-at-00.06.09.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010006-ps3110-screen-shot-2015-05-01-at-00.06.09.png"
+image_caption: ""
 ---
 
 Weeks hall is to remain closed for the next academic year despite students petitioning to save the space, and the student Union Council voting to campaign against the closure.

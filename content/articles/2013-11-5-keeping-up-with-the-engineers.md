@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311181818-cac111-1397483_560233020715380_1477261187_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311181818-cac111-1397483_560233020715380_1477261187_o.jpg"
+image_caption: ""
 ---
 
 __Integrating Engineers: the way to reviving the CGCU brand__

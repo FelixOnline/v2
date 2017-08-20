@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505011533-ps3110-imperial-college-london-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505011533-ps3110-imperial-college-london-copy.jpg"
+image_caption: ""
 ---
 
 35% of students will be voting for the Conservative party this year, although a further 30% will be giving the Labour party their vote, our Felix opinion poll shows.

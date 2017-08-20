@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112028-ks607-skyfires.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112028-ks607-skyfires.jpg"
+image_caption: ""
 ---
 
 It’s no secret that Apple isn’t the biggest fan of Adobe’s Flash. One of the big criticisms of the iPhone is its inability to display Flash content, which upon the device’s release, made up a huge portion of the internet’s streaming videos and games.

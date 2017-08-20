@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172049-pk1811-5897451.jpg"
-image_caption: >
-  Rolling hills and sweeping valleys compose the pristine landscape
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172049-pk1811-5897451.jpg"
+image_caption: ""
 ---
 
 Happy birthday, Minecraft, my sweetling. You’ve been like my own child all these years, but you’re all grown-up now, your features well formed and bug-free; yet you’re worth only a modest €20. It wasn’t always this way, you know. Oh yes - I remember before you were born.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201117-felix-Lobby_Lounge_High_Tea.JPG"
-image_caption: >
-  This is almost good enough for mother.
-image_attribution: "Wikicommons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201117-felix-Lobby_Lounge_High_Tea.JPG"
+image_caption: ""
 ---
 
 If you had to pick one dish that represents Britain, what would it be? Mine would definitely be the traditional English afternoon tea. Probably the same as any typical Chinese girl.

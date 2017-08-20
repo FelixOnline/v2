@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302122024-tna08-wreck-it_ralph.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302122024-tna08-wreck-it_ralph.jpg"
+image_caption: ""
 ---
 
 A Toy Story for the video-game generation, instead of having cuddly little toys that come to life when no-one is around to look, we have a bunch of arcade game characters who are free to roam around their own little world via intricately designed trains and the “Grand Central Station”.

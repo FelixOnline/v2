@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603081637-cet13-throwingshade.jpg"
-image_caption: >
-  The iridescent artwork of House of Silk.
-image_attribution: "Ninja Tune"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603081637-cet13-throwingshade.jpg"
+image_caption: ""
 ---
 
 **Throwing Shade**, AKA Nabihah Iqbal, is an artist who educates. Her background in history and ethnomusicology (in which she holds a degree from SOAS) heavily influences her bi-weekly NTS Radio show, where she weaves sounds from all over the world into a culturally rich sonic tapestry, exploding with colour and exposing listeners to the “weird and wonderful”. As well as this, she’s a producer whose wealth of musical knowledge shines through in each of her glittering compositions.

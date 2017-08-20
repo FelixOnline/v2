@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260314-tna08-imgp4280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260314-tna08-imgp4280.jpg"
+image_caption: ""
 ---
 
 The sea of people ruining everyone’s travel plans around London on October 20th were the trade unionists marching against the government’s cuts to services. Teachers, nurses, fire-fighters, professors, factory workers, politicians, actors, and many more – all there to oppose what they saw as damage being done to ordinary people’s lives and the economy.

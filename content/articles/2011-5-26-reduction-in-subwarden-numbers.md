@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105261937-felix-imperialcampus-313.jpg"
-image_caption: >
-  Eastside will lose three subwardens
-image_attribution: "Dave Guttridge/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105261937-felix-imperialcampus-313.jpg"
+image_caption: ""
 ---
 
 A review into the wardening system has recommended reducing the number of sub-wardens by around 15%. The reductions, which will occur through the normal turnover of contracts, are aimed at rebalancing the College’s welfare provision towards counselling and disability services.

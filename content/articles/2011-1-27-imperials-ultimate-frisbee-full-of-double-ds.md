@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ultimate is played across three divisions: Open, Mixed and Women’s. Any player is eligible to play in the Open division, although the highest levels are dominated by men. The Mixed division requires a combination, usually split three to four, of both men and women where the two genders compete as equals, an unusual scenario in team sports. Finally the Women’s division, although the smallest, is becoming increasingly competitive not only at national and international level but also in university sport. Three of Imperial’s female players give their insight into what makes women’s Ultimate unique.

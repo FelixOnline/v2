@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
-image_caption: >
-  Seriously starting to wonder if the GTA is actually Jack Black...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
+image_caption: ""
 ---
 
 Sadly, this is true. In fact it is an acronym for ‘graduate teaching assistant’. You know, the ones standing at the front chatting to the professors instead of helping you out. Yep, I’m one of those and as far as I’m aware we do not steal cars, only solutions to questions when the lecturers truly overestimate our abilities. We do not get chased down by cops but by students in the last minute of a two hour tutorial, deciding that they don’t understand the entire subject so far. And we don’t go to glamorous parties. Well okay, maybe we do...

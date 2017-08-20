@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104181209-felix-sir_richard_sykes_b_w.jpg"
-image_caption: >
-
-image_attribution: "Peter Gillings/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104181209-felix-sir_richard_sykes_b_w.jpg"
+image_caption: ""
 ---
 
 Former Imperial College Rector, Sir Richard Sykes, has been appointed to the position of new Chairman of the [Royal Institution](http://www.rigb.org/registrationControl?action=home) (RI) to succeed former Chairman Andrian de Ferranti.

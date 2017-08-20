@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222256-tna08-surfing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222256-tna08-surfing.jpg"
+image_caption: ""
 ---
 
 A warm sun bordered by a clean sky that covers you gently in its heat. Majestic palms, whose leaves softly wave in a light breeze, cast their shadows on white beaches touched by turquoise waters.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010130-ps3110-election_leaders_d_3255461b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010130-ps3110-election_leaders_d_3255461b.jpg"
+image_caption: ""
 ---
 
 The first and only televised election debate for this year’s general election took place earlier this month, featuring seven party leaders from across the United Kingdom. The two-hour debate was structured around four key questions on the following topics: tackling the deficit, the future of the NHS, immigration policy and future prospects for young people.

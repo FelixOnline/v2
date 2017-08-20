@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271640-felix-Screen Shot 2017-01-27 at 16.26.36.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271640-felix-Screen Shot 2017-01-27 at 16.26.36.png"
+image_caption: ""
 ---
 
 As part of the Women’s March millions of people took to the streets across the world on Saturday; it was a galore of pink home-knitted “pussy hats” and witty signs, but did it mean anything? Will it lead to change?

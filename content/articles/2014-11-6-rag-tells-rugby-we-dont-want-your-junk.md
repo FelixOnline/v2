@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
-image_caption: >
-  Taken from the Rugby Centrefold in Issue 1583
-image_attribution: "Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
+image_caption: ""
 ---
 
 In light of recent events surrounding Imperial College Rugby Club, the RAG committee chose to remove the team from their naked calendar for 2015.

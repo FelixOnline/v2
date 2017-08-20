@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105221412-felix-img_9716.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105221412-felix-img_9716.jpg"
+image_caption: ""
 ---
 
 _The original headline for this article was changed on the 23rd of May at 16:05. An explanation is published at the bottom of the article._

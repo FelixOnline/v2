@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As this year’s cohort of new graduates [eases itself away from university life](http://felixonline.co.uk/news/1554/largest-ever-graduation/), many will either be beginning or continuing in their new careers. However, it is important to realise that unemployment remains an ever present issue for graduates. Unemployment finds itself at its highest total since 1994, with just over two and a half million people finding themselves out of work – a significant proportion being newly graduated students. Despite these solemn figures, it is good to take a step back and realise that Imperial degrees remain highly sought after, and that we must not lose focus on what this university has to offer other than study.

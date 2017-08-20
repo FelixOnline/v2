@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
+image_caption: ""
 ---
 
 It all started in the early Sixties, in New York, of course. The clear delineations between artists and dancers were broken down and the Judson Dance Theatre came into being. A dance troupe operating in the spirit of its time, rebelling against the conventions of modern dance and ballet – a community where trained dancers and untrained poets, musicians, visual artists and film makers alike came together to conceive collectively created dance. Today at the [Hayward Gallery](http://www.haywardgallery.org.uk/), the delineations between artist and dancer are tested once again, but this time the dancers are you.

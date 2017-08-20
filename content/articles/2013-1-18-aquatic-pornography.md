@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180022-tna08-poecilia-mexicana.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180022-tna08-poecilia-mexicana.jpg"
+image_caption: ""
 ---
 
 New research published this week that involved female fish watching fish-porn, among other things, could possibly shed new light onto the causation of homosexuality, mating preferences and mate determination. Experiments on the tropical fresh-water fish species Poecilia mexicana presented interesting results that could solve the Darwinian puzzle of same-sex mating, despite it occurring in a multitude of species, including our own.

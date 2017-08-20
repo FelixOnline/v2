@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
+image_caption: ""
 ---
 
 Here during the Halloween season, we’re more than happy to cater to all levels of “vampirism” – and by that, we mean we’re going to scrutinize how to cook the perfect beef steak.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101033-felix-2016 Wellcome shortlisted authors.jpg"
-image_caption: >
-
-image_attribution: "FMCM Associates"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101033-felix-2016 Wellcome shortlisted authors.jpg"
+image_caption: ""
 ---
 
 Cathy Rentzenbrink begins her story with a night out. On a summer’s day twenty-six years ago, she had decided to head home first, bored, while her brother remained behind in the bar hoping to “get lucky”.

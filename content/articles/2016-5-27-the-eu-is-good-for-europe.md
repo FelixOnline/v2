@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Let me start by saying that, generally, I am pro EU. Before university, I went to a European school, where I was taught extensively about the European Union in my history and geography classes. I’m not blind to the faults of the EU, namely that it is a prohibitively beaurocratic institution run by technocrats and MEPs elected by only 42.5% of the voting public. Nonetheless, I would argue that on the whole, the EU is beneficial to Europeans.

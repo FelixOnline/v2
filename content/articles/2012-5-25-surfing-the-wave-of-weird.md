@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I was in two minds on how to write this. On the one hand as a stalwart Imperialist (person of Imperial College) with a thorough grounding in scientific lore, the word ether when referring to waves conjures up memories of an as-of-1887 defunct theory of a medium said to transmit light through space. On the other, after having spent Easter in a less than scientific family in a less than scientific country, something inside me says possibly the importance of something doesn’t always lie in whether it is true or not. It is this that leads to my somewhat Jekyll and Hyde opinion of the [Ethometric Museum](http://www.ocmevents.org/ocm/events/Ethometricmuseum).

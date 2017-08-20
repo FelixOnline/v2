@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102130-pk1811-lovequestionmark.jpg"
-image_caption: >
-  She was very inspired
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102130-pk1811-lovequestionmark.jpg"
+image_caption: ""
 ---
 
 “SOCIETY still seems to want us to aspire to a stick-together-for–life-and-don’t-stray model for our person to person conduct. Why? Where does this aspiration to monogamy come from?”

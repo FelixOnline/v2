@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031954-nm1010-barrybar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031954-nm1010-barrybar.jpg"
+image_caption: ""
 ---
 
 It’s the most famous title sequence in cinema; A white circle bobs across the screen, the camera reveals we’re looking down a gun barrel before 007 strides across the frame shooting the unfortunate owner and as the blood drips down the screen, those famous swinging orchestral chords blast out rising to a stacato climax – ‘Dun! Dun! Duhhh! Dun! Dun! Duhhh!’.

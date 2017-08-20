@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
-image_caption: >
-
-image_attribution: "Mike Finn-Kelcey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
+image_caption: ""
 ---
 
 [Professor Julia Buckingham](http://www3.imperial.ac.uk/educationoffice/about/julia), current Pro-Rector for Education and Academic Affairs at Imperial College London, has been appointed as the next Vice-Chancellor and Principal for [Brunel University](http://www.brunel.ac.uk/). The first woman to be appointed to this position at Brunel, she will assume duties from Professor Chris Jenks on October 1 2012.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
+image_caption: ""
 ---
 
 The “Next Generation Portable” a.k.a. the PSP2, was announced two weeks ago at Sony’s ‘Playstation Meeting 2011’. The world stared, the world gaped and the world was awed. Quite right too: few had been expecting such an impressive device. (Thankfully it won’t be long before the device itself slams onto our supermarket shelves).

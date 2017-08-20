@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051223-felix-hyperion5.jpg"
-image_caption: >
-  Some facelifts just don’t work as well as others
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051223-felix-hyperion5.jpg"
+image_caption: ""
 ---
 
 I very much enjoy short works of fiction. What they may lack in depth compared to longer works they often make up for in greater focus. You can read the story in one sitting and not be distracted by any filler — making it easier for you to get to the core of the issues being explored.

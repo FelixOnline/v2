@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102110649-ks607-bluebery.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102110649-ks607-bluebery.jpg"
+image_caption: ""
 ---
 
 Singletons hear me out, it’s coming up to that time of year again... you’re reminded that you are very single, lonely, cold and depressed.

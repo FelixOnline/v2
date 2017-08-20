@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032017-nm1010-pspspspp.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032017-nm1010-pspspspp.jpg"
+image_caption: ""
 ---
 
 Last week, media outlets and industry professionals began receiving invites for Sony’s “PlayStation Meeting”, to be held in Tokyo on the 27th of January. Though the company kept tight-lipped as to what exactly the event was for, not a single person from journalist to feverish Internet forum-goer was in any doubt that this was to be the day of the official announcement of the oft-rumoured successor to the PlayStation Portable (PSP).

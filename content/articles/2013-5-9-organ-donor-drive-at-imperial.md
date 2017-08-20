@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305092302-tna08-donor-card-001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305092302-tna08-donor-card-001.jpg"
+image_caption: ""
 ---
 
 Organ donation can be a taboo topic, as thinking about it requires us to confront our own mortality; something most of us would prefer not to do. This taboo needs to be tackled, as the mismatch between the number of people needing a transplant, and those willing to donate their organs, is vast. More than 10,000 people in the UK are currently in need of a transplant, and of these, 1000 die needlessly each year whilst on the waiting list. That’s three people a day dying because they do not receive an organ in time.

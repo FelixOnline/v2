@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week’s Felix film section discussed the ‘swan song’ – to use Fred Fyles’ phrase – of Studio Ghibli’s Miyazaki Hayao, The Wind Rises. I will begin by saying that the film is without doubt a ‘visual feast’, while its topic matter – loosely the life of the engineer of the most famous Japanese WWII fighter plane, the ‘Zero’ – and Miyazaki’s own considered pacifist ethic ensures that the film has a depth that the somewhat second rate Ponyo or the forever brilliant Totoro just cannot possess. While war acts as a condiment – effectively – to Princess Mononoke and – ambivalently – to Howl’s Moving Castle, its oppressive presence suffuses this latest work every bit as much as it did in the earlier works of Nausicaa or Porco Rosso.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Hello? Is this thing on? It’s been a while, you see. In fact, by my count less than half of the undergraduates were around the last time I wrote for Felix. I’d do a formal introduction and all, but the concept boils down to a pretty simple “I vehemently hate more things before breakfast than you’ve managed to mildly dislike in your entire life” schtick. I’ve just been a little preoccupied lately to write in Felix. I’ve kept busy, of course, thanks for asking. I’ve taken to just whispering swear words to people on the tube on the commute home. Similar audience size, but admittedly less anonymous.

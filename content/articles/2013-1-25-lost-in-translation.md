@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [The Translation Unit of Imperial is under threat.](http://felixonline.co.uk/news/3173/translation-unit-under-threat/) There is currently a “consultation period” going on. This will decide the fate of the Unit. The idea being that it doesn’t fit with College’s strategy. Maybe it doesn’t, but how is anyone supposed to know given that when you ask them they refuse to say what that even means.

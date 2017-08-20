@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A rather weird exchange of words comes about every time I recommend maverick Korean Director Chan-wook Park’s 2003 masterpiece _Oldboy_: ‘Trust me this film is so amazing and messed up, it will scar you for life!’ It’s something that has to be seen to be understood. What is for sure is that _Oldboy_ represents just one film in the blossoming world of modern Korean cinema:

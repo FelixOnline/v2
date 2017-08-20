@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022009-felix-radko-mladic_1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022009-felix-radko-mladic_1.jpg"
+image_caption: ""
 ---
 
 A couple of weeks ago, Osama bin Laden was found and killed in Pakistan by the US. As is usually the case, a lot of banter and ridicule followed – one of which was [a picture of Osama Bin Laden titled ‘Hide and Seek Champion: 2001– 2011’](http://www.collegehumor.com/picture/6497571/osama-bin-laden-hide-and-seek-champion). I remember thinking that he wasn’t the champion, there were still many war criminals and the like at large such as Ratko Mladić – the man who masterminded the [genocide in Srebrenica](http://en.wikipedia.org/wiki/Srebrenica_massacre) and presented it as a ‘gift’ to the Serbian nation. I wondered whether he’d ever be caught.

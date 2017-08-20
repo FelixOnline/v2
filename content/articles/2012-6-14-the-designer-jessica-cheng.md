@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142109-pk1811-tumblr_m02avsfvpf1r72f37o1_500.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142109-pk1811-tumblr_m02avsfvpf1r72f37o1_500.jpg"
+image_caption: ""
 ---
 
 Jessica is a graduate from the Innovation Design Engineering (IDE) course, which is a joint _Imperial_ and _RCA_ course.

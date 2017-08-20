@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610031307-cet13-first draft.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610031307-cet13-first draft.jpg"
+image_caption: ""
 ---
 
 If you follow the IC Union pages on Twitter or Facebook you may have seen the recent poll they ran on the question of “Should smoking be allowed on campus?”.

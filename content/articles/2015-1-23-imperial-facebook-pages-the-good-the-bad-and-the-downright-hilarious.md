@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230121-cac111-screen-shot-2015-01-23-at-01.20.53.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230121-cac111-screen-shot-2015-01-23-at-01.20.53.png"
+image_caption: ""
 ---
 
 The rise of Imperial Facebook pages spans several years, but despite sprouting a number of different pages they are all for pretty much of the same audience. These include such as Imperial College Secrets, Spotted: Central Library and Humans of Imperial, some of which allow students to anonymously submit content to be posted on the page, with others having admins that track down and curate content themselves.

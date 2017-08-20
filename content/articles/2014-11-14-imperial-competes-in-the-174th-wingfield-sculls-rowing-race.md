@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142124-ps3110-pic-51.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142124-ps3110-pic-51.jpg"
+image_caption: ""
 ---
 
 The 174th Wingfield Sculls took place last Wednesday. It is a rowing race held annually on the River Thames in London, England, over a much longer distance than summer regattas (such as BUCS and Henley).

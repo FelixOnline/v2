@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I think I’m like most students heading into their last year of college. I like my student life and the thought of giving it up in place of a serious job is enough to make me want to repeat. Truth be told I’m a little terrified of stepping out into this big, bad world and experiencing life without a midweek party. Unfortunately for me, it seems the lunge is coming fast and I still lack that elusive spot of maturity which might actually make me in some way employable.

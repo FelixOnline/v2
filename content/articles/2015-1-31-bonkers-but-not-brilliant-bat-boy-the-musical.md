@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
-image_caption: >
-  Rob Compton as Bat Boy and Georgina Hagen as Shelley
-image_attribution: "Garry Lake"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
+image_caption: ""
 ---
 
 I am not a fan of musicals. There, I’ve said it. When you grow up spending every waking moment with ‘theatrical types’ who sit around reciting ballads from _Les Miserables_, musicals can make you hate them. Listening to song after whiny song which all fail to add any story to the show, and with music which is at best a notch above mediocre, for me, musical theatre is a curse.

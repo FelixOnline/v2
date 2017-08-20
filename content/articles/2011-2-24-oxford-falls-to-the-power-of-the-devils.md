@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242014-dr910-icehocke.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242014-dr910-icehocke.jpg"
+image_caption: ""
 ---
 
 Imperial Devils A were confident on the back of their recent win against Kent Knights and were prepared to dish out some punishment to Oxford who had beaten them in the first game of the season. The roster was uncertain as many players had other commitments, including exams the following day. Nevertheless a strong team showed up at Oxford, ready to take the fight to the Vikings.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
-image_caption: >
-  The consumer response to the release of the Samsung Galaxy Tab didn’t match that of its competitors
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
+image_caption: ""
 ---
 
 We would never claim to have an impressive bank of knowledge of the arts, however this did not reduce the sheer excitement felt when, against all odds, we secured a set of, now hallowed, tickets to [the Leonardo da Vinci exhibition](http://www.nationalgallery.org.uk/whats-on/exhibitions/leonardo-da-vinci-painter-at-the-court-of-milan).

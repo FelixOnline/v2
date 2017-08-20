@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161609-ygr12-the_lobster_posters-xlarge.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161609-ygr12-the_lobster_posters-xlarge.jpg"
+image_caption: ""
 ---
 
 It was the longest queue of the whole festival. The anticipation for Yorgos Lanthimos’ first English-language feature, The Lobster, had reached such fever pitch on its long march from Cannes, that by the time the London Film Festival screen opened to the press, a row of journalists and industry delegates stretched along the balcony of the newly-opened Picturehouse Central, down the staircase (illuminated tastefully from that icon of hip postmodernity – the ubiquitous hanging bulb), around the café, out into the street, back into the building, back up the stairs, and into the bar. While those around grumbled about the length, worrying about whether they would get in, there was one question on everyone’s minds: will it be worth it?

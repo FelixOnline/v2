@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
+image_caption: ""
 ---
 
 Despite sounding like the name of the trendiest new cocktail to hit London bars, or perhaps the location of the latest hit tourist spot in the Balkans, _ilomilo _is in fact the latest arcade game from Swedish game house SouthEnd Interactive. Ilo and Milo are the protagonists: little egg-shaped blobs of fur (with inevitable cute little faces and arms, of course) that somehow keep losing each other amongst the crazy floating world they inhabit. The player’s task is simple: reunite them! You control one of the pair at a time, moving around, picking up blocks and switching between to the other at will. Action takes place on floating levels of cubes suspended in crazy, cute worlds where gravity and physics are seemingly disregarded in favour of gravity-reversing trapdoors, a strange creature addicted to apples and a little man who rides a beetle. Or possibly a flying dog.

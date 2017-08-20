@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
-image_caption: >
-  Are our students really more satisfied?
-image_attribution: "Imperial College London"
-image_attribution_link: "http://www3.imperial.ac.uk/media/photogallery"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
+image_caption: ""
 ---
 
 On the [21st June](http://bit.ly/12ZEVdV) I stated that students in third level education in the UK 'feel undervalued, merely ushered through the system'. From National Student Survey results released on August 13th it would appear that recent graduates from Imperial College have broken free from this stigma.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271859-ks607-skatedog.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271859-ks607-skatedog.jpg"
+image_caption: ""
 ---
 
 Researchers working on a contagious cancer found in dogs have discovered that the cancerous cells adopt an unusual method of genetic repair. The results of this study, published in Science last week, suggest that this particular cancer combats genetic decay by “stealing” genes from its canine host.

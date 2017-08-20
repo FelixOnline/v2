@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141147-so515-14171731710_f8129260f1_z.jpg"
-image_caption: >
-  “The gap between me and reality is about this big”
-image_attribution: "NHS Confederation"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141147-so515-14171731710_f8129260f1_z.jpg"
+image_caption: ""
 ---
 
 Jeremy Hunt revealed his new plan for the future of the NHS last week, a mix of creating more British doctors and attempting to keep the ones that are trained here for longer.

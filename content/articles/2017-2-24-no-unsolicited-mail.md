@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241447-felix-27905877831_576585f333_o.jpg"
-image_caption: >
-
-image_attribution: "Martin Fisch i.e. marfis75"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241447-felix-27905877831_576585f333_o.jpg"
+image_caption: ""
 ---
 
 Just last week, Camden’s very own Roundhouse opened its doors to artists and industry professionals as part of their Artist Toolkit Day. The event included a series of performances, clinics, talks and collaborations during the weeklong Roundhouse Rising Festival.

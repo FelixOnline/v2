@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
+image_caption: ""
 ---
 
 Rupert Neate was Editor in[ 2005-06](http://felixonline.co.uk/issuearchive/year/2005/). I met him on a Friday at the Guardian headquarters. He currently [writes](http://www.guardian.co.uk/profile/rupertneate) for the economics section of the Guardian. He also tweets as [@RupertNeate](https://twitter.com/RupertNeate).

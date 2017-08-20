@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172026-pk1811-crowd.jpg"
-image_caption: >
-  ICU President Scott Heath and a few Imperial students posing with the students from Palestine.
-image_attribution: "Rajat Jain"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172026-pk1811-crowd.jpg"
+image_caption: ""
 ---
 
 On Tuesday, Imperial was visited by a group of six Palestinian university students spending eleven days in London as part of a cultural exchange. Felix took the opportunity to speak to them.

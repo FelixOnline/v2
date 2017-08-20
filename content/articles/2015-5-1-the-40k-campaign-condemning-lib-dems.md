@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010111-ps3110-n-nus-liar-liar-large570.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010111-ps3110-n-nus-liar-liar-large570.jpg"
+image_caption: ""
 ---
 
 If you paid attention to your news feed in the last week, the likelihood is that the story of the National Union of Students (NUS) spending £40,000 on a campaign against the Liberal Democrats has come across your radar.

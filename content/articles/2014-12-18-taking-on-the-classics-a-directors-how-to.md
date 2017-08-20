@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 How do you go about reinventing the wheel? This was the question facing Jeff James when he decided to take on Sophocles’ classic piece of drama _Philoctetes_; directing and writing the adaptation himself, James has shaped the play into something new, renaming it _Stink Foot_ after Philoctetes’ main feature: his rotting, stinking foot. It was this foot that led to him being abandoned on the island of Lemnos for ten years, until it is prophesied that he is needed back in Troy in order for the Greeks to win the war; it is up to young Neoptolemus to convince him to return, using every ounce of skill and cunning in his mind. It’s a heavy mantle to take on, and so we sat down with James for a chat about the challenges of adapting Greek drama, the relevance of the play to modern life, and the dangers of using gallons of treacle on stage.

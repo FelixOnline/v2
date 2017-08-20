@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
+image_caption: ""
 ---
 
 Art which tackles melange with science has been explored previously in these pages. However these clashes still remain few and far between. Science as inspiration for intriguing pieces, using art as a medium to explore the significance of science or portray its beauty has great potential and is not yet as appreciated as it could be.

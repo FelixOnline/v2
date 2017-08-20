@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103251503-jn104-Lacrosse.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103251503-jn104-Lacrosse.jpg"
+image_caption: ""
 ---
 
 Following a hard fought victory over Swansea in the semis, Imperial Men’s Lacrosse faced up against Leeds Met Carnegie in the BUCS Trophy final in Sheffield on the 17th March. Leeds had narrowly beaten Birmingham in their semi and, having lost against Birmingham 20-0 two years previously, Imperial knew that this would be the most difficult match of the season. However, in the two years since that crushing defeat the team has improved vastly and confidence was high on the long trip up North.

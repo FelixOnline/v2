@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
+image_caption: ""
 ---
 
 As a medic, I should know the most common side effects of any prescribed medication are nausea and vomiting. Brutally stabbing your husband to death whilst sleep-walking, isn’t usually one of them. But that is exactly what happens when Emily Taylor (Mara) starts on a new course of anti-depressants following her aforementioned husband’s (Tatum) release from prison. She is nervous, constantly anxious, and withdrawn from life, which is what prompts Dr Jonathan Banks (Law) to try out Ablixa.

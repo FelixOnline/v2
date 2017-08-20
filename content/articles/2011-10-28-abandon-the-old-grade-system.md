@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week, [it was announced](http://felixonline.co.uk/news/1503/ucl-to-introduce-grade-point-average/) that UCL is going to change their grade system towards the American model. They are abandoning the first, 2:1 etc. leading Imperial students to ask: is this also going to happen to us? The Union immediately said: we won’t allow that to happen because then this will become a (more) competitive university.

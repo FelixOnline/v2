@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041826-ma1307-lolmsart.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041826-ma1307-lolmsart.jpg"
+image_caption: ""
 ---
 
 “One cannot think well, love well, sleep well, if one has not dined well.” – Virginia Woolf.

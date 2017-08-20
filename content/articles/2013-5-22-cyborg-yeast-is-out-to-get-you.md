@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305221529-tna08-yeast-spoons.jpg"
-image_caption: >
-  Not as innocent as it looks
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305221529-tna08-yeast-spoons.jpg"
+image_caption: ""
 ---
 
 Scientists have succeeded in creating an artificial feedback loop between a computer and yeast. Algorithmic programs on the computer controlled flashes of light to start and stop gene expression, thus regulating how much protein was produced. This innovative technique could possibly be used in industry to control production of biofuel by microbes.

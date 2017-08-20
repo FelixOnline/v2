@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112116-ks607-sevenbel.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112116-ks607-sevenbel.jpg"
+image_caption: ""
 ---
 
 It’s been a tough few weeks for School of Seven Bells. The announcement of Claudia Deheza’s departure, one of the twin sisters whose vocal harmonies make their sound so distinctive, arrived suddenly and without warning on their Facebook account. Fans were shocked, and despite their decision to continue with their tour, they’ve received mediocre reviews in her absence.

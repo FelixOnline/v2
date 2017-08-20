@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122248-felix-ssp.jpg"
-image_caption: >
-  Ever heard of ScarletSnowPrelude? – No! Because they didn’t sell out... or they suck?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122248-felix-ssp.jpg"
+image_caption: ""
 ---
 
 People, including me, seem to nag about how bands are continuously following the crowd and moving more towards the mainstream genres, instead of keeping it underground and just making music like they used to – a term known as “selling out”. But in our increasingly greedy, torrent-driven society, with its ever expanding pool of artists, is it any wonder that bands are almost forced to move in this direction?

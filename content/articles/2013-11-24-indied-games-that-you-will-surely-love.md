@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Recently I have picked up a few games through steam sales which I have loved for their originality. These were cheap games in which I have already racked up an impressive (or unimpressive depending on your viewpoint) number of hours in. So if you’re looking for a great game to add to your steam libraries read on.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141150-so515-LSE_main_entrance.jpg"
-image_caption: >
-
-image_attribution: "Umezo Kamata"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141150-so515-LSE_main_entrance.jpg"
+image_caption: ""
 ---
 
 Last week, foreign academics from the London School of Economics (LSE) accused the British Government of excluding them from advisory talks on Brexit.

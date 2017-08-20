@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012023-tna08-see-through-brain-reduced-colours.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012023-tna08-see-through-brain-reduced-colours.jpg"
+image_caption: ""
 ---
 
 Do you ever find yourself walking along the street, daydreaming away, and then suddenly wonder what if people around you could hear what you were thinking? What if complete strangers could see into your head, listen to your thoughts and leave no stone of your conscience unturned? With the recent advances in tissue imaging, your brain can now be as transparent as a gold fish bowl, but relax- your secrets will still remain safe for the foreseeable future.

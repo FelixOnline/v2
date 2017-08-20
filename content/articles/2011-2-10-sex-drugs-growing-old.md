@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102003-dr910-corriebe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102003-dr910-corriebe.jpg"
+image_caption: ""
 ---
 
 Skins, Season 5, has just started, and the first comment on Twitter was “Where is all the sex, drugs and rock ‘n’ roll?”

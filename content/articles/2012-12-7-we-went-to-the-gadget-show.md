@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070247-tna08-gadget1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070247-tna08-gadget1.jpg"
+image_caption: ""
 ---
 
 Last Friday three young whippersnappers (i.e. the Felix Tech team) made their way to the Gadget Show Live, in the ExCeL, hoping to see the newest tech on the market, as well as have some well-earned time off. Once we arrived there and got our shiny press passes sorted out, we decided to split up so that each of us would have a different view of what actually was going on in the tech world.

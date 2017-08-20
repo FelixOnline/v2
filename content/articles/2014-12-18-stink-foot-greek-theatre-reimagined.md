@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two men fight half-naked in a puddle of golden syrup. One has a magic bow in his hand and the other tries to avoid him shooting down the lady playing Odysseus. The shadows on the wall reflect the play on the stage. An innovative performance, such that you have never seen before, at student friendly prices. A must-see.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151909-felix-16_0.jpg"
-image_caption: >
-  Denise Gough as Harper and Andrew Garfield as Prior in Angels in America : Perestroika
-image_attribution: "Helen Maybanks"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151909-felix-16_0.jpg"
+image_caption: ""
 ---
 
 A gay fantasia on national themes” is the label Tony Kushner gave his play Angels in America, which is being staged at the National theatre for the first time since the 90s; and what a fantasia it is.  Grounded in 1980s New York, the action sprawls across reality and delusion, from Salt Lake City to Washington DC, from Antarctica to Heaven, dancing on the edge of utter madness but never stumbling. Tony Kushner’s writing is bold, profound, and urgent, with frequent bright sparks of comedic brilliance. Even on the occasions the script spirals into dense segments of over-arching philosophising, this cast and crew make it soar.

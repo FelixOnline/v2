@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091248-tna08-drugs.jpg.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091248-tna08-drugs.jpg.png"
+image_caption: ""
 ---
 
 Until the recent “Ecstasy Live” TV show, Professor David Nutt was best known as “the scientist who got sacked”. After giving a lecture that discussed the harms of cannabis, Prof Nutt was asked (by the then Home Secretary, Alan Johnson) to resign as Chair of the Advisory Council on the Misuse of Drugs (ACMD). The irony, as discussed in Drugs Without The Hot Air was that Prof Nutt was sacked for advising the government on policy, which as he understood was the purpose of the ACMD.

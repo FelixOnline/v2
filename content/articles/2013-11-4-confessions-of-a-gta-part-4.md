@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As an undergrad, field trips were always best in hindsight. Those hours on a windblown moor in the back of beyond in the pouring rain seemed later like quite a laugh and that time you nearly got impaled on machinery by an irate Scottish factory worker who did not care how interested you were in the manufacturing was, looking back, an “adventure”. The stress of finishing notes, living with some random on your course who you had never heard speak until now, and trying to understand what exactly your Professor was yelling over a gale force wind, for most people were the good times of the course. I, as a keen indoor sportsman, remember it without the rose tint.

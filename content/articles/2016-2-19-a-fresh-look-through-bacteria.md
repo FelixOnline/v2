@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191127-felix-7629005292_920e1dd8d1_o.png"
-image_caption: >
-  Bacteria or eyes? Synechocystis elicit a primitive version of ‘sight’.
-image_attribution: "BASF"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191127-felix-7629005292_920e1dd8d1_o.png"
+image_caption: ""
 ---
 
 If we were to play a word association game and start off with the word ‘eye’ you might shout out ‘face’, or ‘London’, or even ‘mantis shrimp’, but you probably wouldn’t shout out ‘bacterium’. Well,  new biologcal research might  change that forever.

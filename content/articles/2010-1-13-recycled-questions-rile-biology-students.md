@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001132120-felix-SAFBUILD.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001132120-felix-SAFBUILD.jpg"
+image_caption: ""
 ---
 
 Many of Imperial’s 2nd year Biologists have found their efforts to be in vain this new year as their department has confirmed the retraction of coursework marks. This comes after students used past assessments to gain what the Biology department deemed an unfair advantage.

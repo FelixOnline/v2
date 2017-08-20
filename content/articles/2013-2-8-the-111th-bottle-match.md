@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080055-tna08-bottle-match-picture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080055-tna08-bottle-match-picture.jpg"
+image_caption: ""
 ---
 
 The biggest event in the [Royal School of Mines](https://www.union.ic.ac.uk/rsm/exec/)’ calendar is once again upon us. On the 22 and 23 February, the second oldest varsity match after the Oxbridge boat-race will take the stage for the 111th year. The varsity is between the RSM and the [Camborne School of Mines](http://emps.exeter.ac.uk/csm/) based in Cornwall, and is ultimately decided with a game of rugby that concludes a two day catalogue of sports.

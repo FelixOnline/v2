@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150018-tna08-campus2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150018-tna08-campus2.jpg"
+image_caption: ""
 ---
 
 Last week the new campus, Imperial West, was launched at an event that attracted the London Mayor, Boris Johnson, and Universities & Science Minister, David Willetts. At the event the Mayor and the Minister took time to have some hands on time with the College’s latest research (including the famous invisibility cloak) in an event that attempted to display the potential of the new campus.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 _C__armina Burana_ is a piece almost every person recognises, if not in name then for the monumental ‘O Fortuna’, used countless times in popular culture. This could very well have been why the IC Choir chose to perform it in their Spring Concert, alongside Bob Chilcott’s ‘Songs and Cries of London Town’. However, I often find that, because audiences approach performances of well-known pieces with a great deal of knowledge, expectations are inevitably higher and this all too commonly results in the anticlimactic results.

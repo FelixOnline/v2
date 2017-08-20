@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241533-felix-hyde park run.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241533-felix-hyde park run.jpg"
+image_caption: ""
 ---
 
 On Saturday, the 11th of February, more than 600 runners from universities across the UK, Netherlands and Sweden took part in the 69th Annual Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Men’s and mixed teams were made up of six runners and women’s teams of four, with each runner completing a five-kilometre lap around the east side of Hyde Park.

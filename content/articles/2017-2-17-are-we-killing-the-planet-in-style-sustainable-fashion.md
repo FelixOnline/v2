@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171546-felix-Screen Shot 2017-02-17 at 15.46.41.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171546-felix-Screen Shot 2017-02-17 at 15.46.41.png"
+image_caption: ""
 ---
 
 At the thought of pollution, we imagine raw sewage pumped into rivers, open-caste mines and oil spills. We don’t often think of our fluffy unicorn slippers or plaid shirts. But the overall impact the fashion industry has on our planet is shocking. The production of clothing has been estimated to account for 10% of total carbon impact. The fashion industry is arguably the second greatest polluter in the world, second only to oil. Even ignoring the human rights abuses and animal suffering, the impact of our disposable dress is dire. People need to be taking fashion more seriously, not less.

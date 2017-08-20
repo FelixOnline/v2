@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082147-felix-puss-in-bootas.jpg"
-image_caption: >
-  If it’s good enough for him, it’s good enough for me
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082147-felix-puss-in-bootas.jpg"
+image_caption: ""
 ---
 
 I’ve been thinking about boots recently… is the campest opener I could have written, but it’s true. I’ve thought about how amazing they are, and how everyone should have a pair. I mean trainers are fine, but they’re just not as versatile. If you want trainers, by the way, definitely go for [NikeiD](http://nikeid.nike.com/nikeid/index.jsp)’s. You can make them reflect your personality a lot more, and waste a lot of time perfecting them. The knowledge that you could quite possibly be the only person with that pair of trainers is also key to their appeal. Even academics1 and business leaders2 have been known to wear them and think that they bestow large quantities of swagger.3 The idea of almost unlimited customisation is so good that other companies have stolen it, and, as we all know, it’s only the best ideas that are stolen.4 It is likely that that last joke will be deemed to in-jokey, and so I apologise.5

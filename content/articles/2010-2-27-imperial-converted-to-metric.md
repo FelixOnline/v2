@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002271738-rsp07-barvote.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002271738-rsp07-barvote.jpg"
+image_caption: ""
 ---
 
 The answer to the question on everyone’s lips has finally been announced. After weeks of violent speculation, Imperial Student Union has revealed that the new club next year to replace dBs will be called Metric. Obviously as the name suggests, it is hoped that Metric will be an improvement on dBs. The name of the new bar (after getting rid of da Vinci’s) however, is still to be decided!

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141201-so515-27841264756_3fcc9ae4e3_o.jpg"
-image_caption: >
-
-image_attribution: "free stocks."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141201-so515-27841264756_3fcc9ae4e3_o.jpg"
+image_caption: ""
 ---
 
 Angry academics losing their funding, sudden doubts about why we EU students left our lovely countries in the first place, and a vague notion that we should all just emigrate to Canada are the thoughts that often spring to mind when hearing the scary words ‘science’ and ‘Brexit’ put together. Is the future all doom and gloom for the UK scientific community in an uncertain post-Brexit future? Dr. Mike Galsworthy, director of Scientists for the EU, attempted to answer this in his talk “Brexit &amp; Science: where now?” for the London Forum for science policy and concludes that, yes, it might well be. But, *sigh of relief* it is not yet too late to prevent all the UK science infrastructure falling to pieces.

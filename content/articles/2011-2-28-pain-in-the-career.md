@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282028-ks607-menwalki.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282028-ks607-menwalki.jpg"
+image_caption: ""
 ---
 
 The world’s a pretty scary place at the moment, not least because of the abundance of Danny Dyer films being produced. In these uncertain times, it’s good to have a bit of security, so it’s no surprise that one of the hottest topics at the moment is one which turns even the most studious into career-hungry businessmen and women – internships.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This year Imperial Hub is hosting an exciting fortnightly series of interactive talks kicking off on the 31st of October at 6:00pm in Huxley LT 144 with an insight into the very big issue of Social Isolation in London and ways of combatting it. With our much awaited talk on Humanitarian Aid in Syria by Louay El-Adeb from Syria Relief taking place on November 7th.

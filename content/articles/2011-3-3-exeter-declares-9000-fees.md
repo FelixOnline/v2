@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The University of Exeter has [announced plans](http://www.exeter.ac.uk/news/featurednews/title,127640,en.html) to raise its undergraduate fees to £9,000, the new threshold set by the government last December.

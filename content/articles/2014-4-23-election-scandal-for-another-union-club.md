@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
-image_caption: >
-  Ballot scandal at CSSA
-image_attribution: "http://www.thehindu.com"
-image_attribution_link: "http://www.thehindu.com/multimedia/dynamic/00970/2006101414420101_970956e.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404232157-jal08-2006101414420101_970956e.jpg"
+image_caption: ""
 ---
 
 The Chinese Students and Scholars Association (CSSA) has joined the Christian Union in having a major election dispute this year after a number of its members wrote a joint letter of complaint to the Imperial College Union reporting that ballot papers were destroyed and that the current committee holds a weighted vote allowing them to chose the new committe. David Goldsmith, Union President, has declared the original election invalid citing multiple violations of the Union's Bye-laws for Minor Elections. The new election will take place on May 2nd 17:00 in Meeting Room 3 and the Deputy President: Finance and Services will be acting as the Returning Officer.

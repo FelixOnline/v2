@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
+image_caption: ""
 ---
 
 There is no doubt that technological advancements over the past few decades have had immense impact on our society. Those of us living comfortable lives in developed countries celebrate the latest gadgets and how they have made our lives even simpler. But meanwhile, there are still many people out there who are struggling to gain access to clean water, affordable healthcare and basic education. Why has modern technology overlooked them?

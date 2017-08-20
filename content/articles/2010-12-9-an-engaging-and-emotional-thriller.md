@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091926-ma1307-Gasmask.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091926-ma1307-Gasmask.jpg"
+image_caption: ""
 ---
 
 A film titled [Monsters](http://www.youtube.com/watch?v=V_-gL3U1T5Y) carries with it a certain level of expectation to show something – well – monstrous. Considering this, the common criticism that this micro-budget indie film lacks exactly that is fully understandable. Make no mistake, only $200,000 was spent on the production which is nowhere near close to most CGI-loaded films, and this is not your regular “mutant monsters are taking over the planet and killing our protagonists one by one” kind of film. Instead – and this is what has been often overlooked – Monsters relies on the consistent, underlying tone of fear.

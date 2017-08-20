@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140042-tna08-jez.jpeg"
-image_caption: >
-  RCSU with their Jezebel
-image_attribution: "RCSU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140042-tna08-jez.jpeg"
+image_caption: ""
 ---
 
 This academic year is coming to a close with exams and final year projects and soon the next RCSU committee will be taking the reins. We hope that you have enjoyed reading RCSU Broadsheet this year and keep reading next year! The RCSU this year has had fantastic turn-outs to events, with Freshers enjoying a taste of top class bars in Chelsea during our pub crawl, taking full advantage of our Autumn Ball to make friends and amazing discounts at the ‘RCSU Bookshop’. As usual Mascotry was rife in the RCSU, with us successfully acquiring the CGCU Spanner and Bolt during fresher’s fair which ultimately led to pieing of Temi Ladega (CGCU President). Freshers also got involved and I was surprised by a mysterious looking group of Freshers knocking on the office door carrying the Medics mascot (Phoenix costume).

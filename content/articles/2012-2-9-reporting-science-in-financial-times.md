@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092217-ams111-cookson-006.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092217-ams111-cookson-006.gif"
+image_caption: ""
 ---
 
 To begin, as interviews commonly do, with some scene-setting by way of a weather report, it was a cold albeit sunny morning (one of those ironies so common to the English winter) when we met with the Financial Times’ Clive Cookson to talk science and business. Both a scientist and journalist by training, Cookson’s work for the _FT_ has involved writing everything from blogs and podcasts to teeline shorthand. Thus embodying both the new- and old-schools of journalism, he is well placed to share his thoughts on the changing status of science and science reporting. Retreating from the unremitting cold of the winter anticyclone to RCS1, and with coats still drawn around us against its lasting chill and the capricious air-con, we began the following conversation.

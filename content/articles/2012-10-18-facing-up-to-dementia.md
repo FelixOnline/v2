@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191352-tna08-brain1.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191352-tna08-brain1.jpeg"
+image_caption: ""
 ---
 
 In the UK, 820,000 people suffer with dementia and by 2051 this figure may rise to 1.7 million. The [Foundation for Science and Technology](http://www.foundation.org.uk) highlighted this societal challenge by inviting four speakers to talk about the issue from unique perspectives.

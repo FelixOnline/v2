@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404071354-jal08-arts-spaces.jpg"
-image_caption: >
-
-image_attribution: "Pezo von Ellrichshausen"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404071354-jal08-arts-spaces.jpg"
+image_caption: ""
 ---
 
 __What: __Sensing Spaces: Architecture Reimagined

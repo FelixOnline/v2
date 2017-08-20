@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182146-nm1010-feedbccc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182146-nm1010-feedbccc.jpg"
+image_caption: ""
 ---
 
 The start of term saw Imperial [announce a campaign](http://www.felixonline.co.uk/?article=174) to improve the assessment of students’ work. Ahead of the end of term surveys, Felix investigates the improvements that have been made. Has the college gone far enough or is there still more that should be done?

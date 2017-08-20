@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252007-nm1010-brainsca.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252007-nm1010-brainsca.jpg"
+image_caption: ""
 ---
 
 Schizophrenia could be caused by abnormal levels of neurotransmitters dopamine and glutamate, according to new research carried out at Imperial College London.

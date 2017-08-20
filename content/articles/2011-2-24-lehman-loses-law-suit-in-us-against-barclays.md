@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The estate of Lehman Brothers lost a law suit on Wednesday against Barclays over the sale of its investment banking and brokerage businesses to Barclays. The sale was made in September 2008 in the same week that Lehman filed for Chapter 11 bankruptcy. The company received $1.85 billion and was claiming in its law suit that the figure should have been higher. Attempting to raise funds to repay some of its $360 billion debt to creditors, Lehman has also sued J. P. Morgan, Bank of America, and Canadian Imperial Bank of Commerce over similar complaints.

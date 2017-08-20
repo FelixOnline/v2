@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110210010-sjw209-mahfooz-cutout2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110210010-sjw209-mahfooz-cutout2.jpg"
+image_caption: ""
 ---
 
 Equality is based on the mathematical equation. x = x, y = y, there’s no two ways about it. It has to be the same quantity, size, value etc. When applied to people, it refers to the state of being equal, especially in status, rights and opportunities. What it does not take into consideration is the difference between people, their role in the world, their characteristics – their individuality. It turns human beings into numbers and equations, in order to suit the logistics, to make it easy for lawmakers. On the other hand, fairness involves taking into consideration a person’s needs, his/her background – his/her individuality. It treats human beings as more than just numbers and equations, it treats them as individuals with emotions, beliefs and morals.

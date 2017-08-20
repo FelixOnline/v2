@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503171439-ync111-maxresdefault.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503171439-ync111-maxresdefault.jpg"
+image_caption: ""
 ---
 
 Or have you ever found an amazing place tucked away in a city that you think you know everything about and wanted to share it to the world?

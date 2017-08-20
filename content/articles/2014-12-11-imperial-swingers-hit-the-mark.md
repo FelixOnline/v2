@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112121-cj914-di.jpg"
-image_caption: >
-  An action shot from the Hiphop class.
-image_attribution: "Chris Wood"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112121-cj914-di.jpg"
+image_caption: ""
 ---
 
 Over the weekend of Saturday 15th November, Imperial’s dance societies combined forces to run a Pineapple style open day, offering classes ranging from Salsa and Swing Dancing through to Hiphop, Break and Belly Dance.

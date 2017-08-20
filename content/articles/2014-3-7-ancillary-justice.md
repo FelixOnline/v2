@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ancillary Justice, the debut novel of Ann Leckie, is one of those novels that had been recommended to me by pretty much everyone. However, as is often the case, my other commitments, and my impressively long reading list, made me put off picking up for quite a while. Now, having finally read it, I realise that I should have heeded my friends’ advice and checked it out sooner because Ancillary Justice is truly one the best books that I have read in recent years.

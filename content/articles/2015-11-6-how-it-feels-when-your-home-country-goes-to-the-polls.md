@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061355-ygr12-turkish-election.jpg"
-image_caption: >
-
-image_attribution: "balkanist.net"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061355-ygr12-turkish-election.jpg"
+image_caption: ""
 ---
 
 When talking about how it feels to live abroad, the conversation tends to revolve around the things you miss, such as family members, the weather, or food. But, if your home country is in a state of change and turmoil, the hardest thing about being away is having to live through certain events merely through the news, brought to you predominantly by social media.

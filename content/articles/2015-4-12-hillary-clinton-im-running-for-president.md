@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504122327-jr2514-hillary-clinton-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504122327-jr2514-hillary-clinton-2.jpg"
+image_caption: ""
 ---
 
 Hillary Clinton has officially announced her candidacy for the US Democratic presidential nomination in 2016, confirming years of speculation that she would run a second time after losing the nomination in 2008 to Barack Obama. The former First Lady of the United States, U.S. Senator and United States Secretary of State announced her candidacy for the Democratic nomination near the end of a short campaign video released on Sunday.

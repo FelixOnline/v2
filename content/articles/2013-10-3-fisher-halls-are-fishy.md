@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040007-jal08-photo(6).jpg"
-image_caption: >
-  This looks quite like the inside of an Imperial engineer’s brain
-image_attribution: "Ben Fernando"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040007-jal08-photo(6).jpg"
+image_caption: ""
 ---
 
 Much of last year’s #AgainstActon campaign focused on the impending closure of Evelyn Gardens’ Fisher Hall. The huge campaign lasted months but the plans to create the halls were continued.

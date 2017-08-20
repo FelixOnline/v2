@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
-image_caption: >
-  Look at that. Don’t you just want it in your mouth?
-image_attribution: "Sanjay Bhattacharya"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
+image_caption: ""
 ---
 
 Cakes as birthday presents are great – so quick, cheap and the effort everyone knows you went to means that even if you mess it up, people will pretend it tastes good. Fortunately, this recipe is virtually idiot-proof. Go ahead, test that statement.

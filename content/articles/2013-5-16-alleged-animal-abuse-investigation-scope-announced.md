@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305162204-tna08-image-27-w640h480.jpg"
-image_caption: >
-
-image_attribution: "The BUAV"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305162204-tna08-image-27-w640h480.jpg"
+image_caption: ""
 ---
 
 Imperial College London have announced the makeup of the committee and the areas of the [allegations of animal cruelty](http://felixonline.co.uk/news/3539/alleged-animal-abuse/) that they will be investigating. The committee, lead by Professor Steve Brown, will investigate and assess the culture and approach to animal care and welfare at College. The Home Office are also investigating specific allegations, which the College say they are “working closely” with them.

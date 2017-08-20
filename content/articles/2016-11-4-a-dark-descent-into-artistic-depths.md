@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041414-aib116-nocturnal-animals-amy-adams-image.jpg"
-image_caption: >
-
-image_attribution: "FOCUS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041414-aib116-nocturnal-animals-amy-adams-image.jpg"
+image_caption: ""
 ---
 
 Looking for a startling way to open your movie? A slow-motion montage of obese elderly women dancing, completely naked save for cheerleading pom-poms and marching band hats, ought to do the trick. _Nocturnal Animals,_ the latest feature from fashion-bigwig-turned-film-director Tom Ford, opens with such a scene. Though a visual echo to this opening occurs later in the movie in a brief strip bar scene, its meaning is never quite explained. There’s a suggestion that this lack of explanation, or lack of meaning, is entirely the point: it’s revealed that this display of dancers is a new art installation by successful gallery owner Susan Monrow (Amy Adams), and at a dinner a few scenes later she describes her own installation, with sincere dejection, as “junk”.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012139-ks607-stateoft.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012139-ks607-stateoft.jpg"
+image_caption: ""
 ---
 
 In his recent State of the Union address, President Obama said: “This is our generation’s Sputnik moment.” Invoking the Space Race of the 1960s, he called for an unprecedented level of research and development, especially in biomedical and clean energy technology. At that time, the 2011 budget still had not been passed – and what is today’s Sputnik supposed to be, anyway? Obama said that funding science is “an investment that will strengthen our security, protect our planet, and create countless new jobs for our people.” The image of the space race thus paints a picture of science as the motor of the economic power of the United States and the American people. Why the Sputnik shock? Why not mention the great achievement of the first astronauts looking back at the earth, making us realize that we share a common responsibility for the planet?

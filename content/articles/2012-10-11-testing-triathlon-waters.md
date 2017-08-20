@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I joined Imperial’s triathlon club in October 2011, with no real intention of ever competing in any triathlon; all I wanted was to come to the swimming sessions so that I could keep eating pies while a stress fracture healed. But even as Christmas rolled round and my foot went back to working order, I somehow didn’t manage to quit swimming. And every morning, no matter how gentle my intentions as I left home, I’d arrive at the lab a sweaty mess, after half an hour of silly commuter racing on my rattling, pannier-laden bike.

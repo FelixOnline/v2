@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051233-felix-prison-architect-preview-2.jpeg"
-image_caption: >
-  Soap-dropping expansions out Q2 2013. Pre-order NOW...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051233-felix-prison-architect-preview-2.jpeg"
+image_caption: ""
 ---
 
 Last weekend saw the start of the London Games Festival, heralded in by the fifth Eurogamer Expo. Not exactly as groundbreaking as an Apple Keynote, the Eurogamer (EG) Expo is a place for developers and publishers to offer up their latest works to the willing public, letting us play games months before their release. Being stretched over four days, the expo holds a variety of unique developers Q&A sessions, and the opportunity to meet developers – indie and professional alike. There’s the usual mix of record-breaking games with budgets larger than most films (slight exaggeration), but there’s also a fresh contingent of smaller developers who get to show off their pet projects. Hosted in Earl’s Court Exhibiton Centre (only a 30 minute walk from college) the EG expo initiates the migration of many starved gamers towards the fertile lands of central London, ready for the autumnal downpour.

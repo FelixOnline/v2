@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191226-felix-CuttleJo.jpg"
-image_caption: >
-  ICUC on some Finding Nemo hype.
-image_attribution: "ICUC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191226-felix-CuttleJo.jpg"
+image_caption: ""
 ---
 
 After an icy cold weekend trip to Portland where we explored all the pleasures the Dredger wreck has to offer, Imperial College Underwater Club was off to bigger and better (and warmer) places. Lanzarote was the choice for the inauguration of the ICUC winter tour, not least because we heard the wine was cheaper than petrol. With three associate members and four “I should be in lectures” members, there was a good balance of experienced members and those who were yet to learn the endless inside jokes. After a sufficient acclimatisation period of cheese and chorizo, it was time to get into the water.

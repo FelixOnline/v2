@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091427-tna08-superheroes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091427-tna08-superheroes.jpg"
+image_caption: ""
 ---
 
 On a cold Wednesday afternoon Imperial’s finest runners headed off to Richmond Park for the second of our London College League races of the year. Since the race coincided with Halloween, club members stepped up to the mark with some spooky costumes to scare off the competition. We definitely deserved the prize for best dressed team.

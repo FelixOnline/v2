@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010916-felix-debra-humphris.jpg"
-image_caption: >
-  Professor Debra Humphris, Vice Provost (Education)
-image_attribution: "Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010916-felix-debra-humphris.jpg"
+image_caption: ""
 ---
 
 _Earlier this week Felix caught up with Professor Debra Humphris, Vice Provost (Education) and had a discussion about the new Education and Student Strategy that was released on Thursday._

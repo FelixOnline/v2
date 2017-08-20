@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082158-pk1811-nathismus.jpg"
-image_caption: >
-  For best results, drop a couple of tabs of acid before hitting the rink: you’ll skate like a pro.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082158-pk1811-nathismus.jpg"
+image_caption: ""
 ---
 
 With just over two weeks left to go, the capital has been transformed into a beautifully illuminated, life-sized snow globe (minus the snow) in the countdown to Christmas day. So here’s your guide to enjoying the best of London’s Christmas highlights this year.

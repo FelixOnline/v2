@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
-image_caption: >
-  So much choice (thanks capitalism).
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
+image_caption: ""
 ---
 
 Another week and yet another timed exclusive on a streaming service. This time it’s **Chance the Rapper’s** _Coloring Book_, exclusive to Apple Music for two weeks.

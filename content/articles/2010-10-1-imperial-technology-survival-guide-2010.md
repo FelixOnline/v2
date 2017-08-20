@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
-image_caption: >
-  In the year 3025, moisturiser is a 'must'
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
+image_caption: ""
 ---
 
 Welcome Freshers! You’ve made it to Imperial, a place where technology and life should go hand in hand. I’ll leave that up to you to decide whether that’s true, but here’s a quick guide to tech at college and the surrounding areas of London to see you through your first couple of weeks.

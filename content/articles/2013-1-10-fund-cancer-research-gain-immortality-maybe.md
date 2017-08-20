@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
-image_caption: >
-  Steve Jobs died following complications relating to a pancreatic neuroendocrine tumour. Apple have s
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
+image_caption: ""
 ---
 
 Ad5[CgA-E1A-miR122]PTD isn’t a catchy name. But, for just one million pounds, Ad5[CgA-E1A-miR122]PTD (Ad5 for short) could be renamed — after you.

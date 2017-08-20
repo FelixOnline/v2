@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142044-nm1010-blonnnnd.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142044-nm1010-blonnnnd.jpg"
+image_caption: ""
 ---
 
 When a friend asked me to review a film as a favour, I (as most people would have) said yes. His way of convincing me was “there are two good-looking Swedish girls in”. What my friend didn’t tell me was that the film was rather low budget and had five story lines that didn’t overlap at all.

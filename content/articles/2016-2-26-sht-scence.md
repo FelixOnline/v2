@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261135-felix-5586851206_24e45dca5f_o.jpg"
-image_caption: >
-
-image_attribution: "Liam Quinn"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261135-felix-5586851206_24e45dca5f_o.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we argue that all research, no matter how ridiculous, has a purpose and brings us all closer to the truth.

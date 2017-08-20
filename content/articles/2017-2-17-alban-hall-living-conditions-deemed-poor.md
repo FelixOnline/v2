@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171425-felix-16780613_1266504760130830_432648682_n.png"
-image_caption: >
-
-image_attribution: "memetho"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171425-felix-16780613_1266504760130830_432648682_n.png"
+image_caption: ""
 ---
 
 Following the reveal of the poor housing conditions at Evelyn Gardens earlier last year, another Hall of Residence has been found guilty of offering sub-par accommodation, after numerous reports were brought to felix’s attention.

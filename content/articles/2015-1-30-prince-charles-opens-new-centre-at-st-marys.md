@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501300001-ps3110-screen-shot-2015-01-30-at-00.01.53.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501300001-ps3110-screen-shot-2015-01-30-at-00.01.53.png"
+image_caption: ""
 ---
 
 A new centre for innovative surgery has been opened by Prince Charles, the Prince of Wales, at St. Mary’s Hospital. The new centre, created and run by Imperial College London, has been set up to develop new surgical techniques – specifically ones which can make surgery quicker and easier.

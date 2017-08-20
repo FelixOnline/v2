@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
-image_caption: >
-  Darren Ambrose, eat your heart out
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
+image_caption: ""
 ---
 
 __Football__

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
+image_caption: ""
 ---
 
 I’m banging out my comment piece quite quickly this week, as I haven’t had time to think about it much. I’ve been quite busy. Appropriately enough for the Valentine’s day issue, the thing that’s been taking up all of my time is my girlfriend. She’s visiting me for a week, for the second time in four months. Alas, I’m afraid I’m in one of those dreadful, love-you-but-hate-it long distance relationships.

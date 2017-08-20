@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103180652-ks607-urbaneco.jpg"
-image_caption: >
-
-image_attribution: "Andrew Purcell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103180652-ks607-urbaneco.jpg"
+image_caption: ""
 ---
 
 Over half of the world’s 6.9 billion people now live in urban areas. So, perhaps it’s time for us to embrace the ecology of our urban areas, look at the species that thrive in these environments and take steps to protect them. At the same time, we must ensure that our urban environments do not unnecessarily encroach upon remaining green spaces and our cities do not grow in an unsustainable manner.

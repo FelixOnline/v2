@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
-image_caption: >
-  DAMMIT MICKEY
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
+image_caption: ""
 ---
 
 Last Thursday 4 October at around 10:30am, a student at Imperial College London has had £70 taken by a confidence trickster.

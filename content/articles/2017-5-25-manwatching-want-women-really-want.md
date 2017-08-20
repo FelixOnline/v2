@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705251403-im1413-helenmurray-Manwatching-Royal-Court.jpg"
-image_caption: >
-
-image_attribution: "Photo: Helen Murray"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705251403-im1413-helenmurray-Manwatching-Royal-Court.jpg"
+image_caption: ""
 ---
 
 Manwatching offers an insight to the heterosexual world of sex from a female point of view. The show consists of a roughly sixty minute monologue, which explores several aspects of sex including masturbation, sexual fantasies and consent. The prose is raw, explicit and dynamically written. In every performance the monologue is read aloud by a male comedian who has no previous exposure to the text. The result is an impromptu experience that is funny and at times a bit shambolic.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
-image_caption: >
-
-image_attribution: "12 Years a Slave"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
+image_caption: ""
 ---
 
 12 Years a Slave

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031614-felix-File_000 (1).jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031614-felix-File_000 (1).jpeg"
+image_caption: ""
 ---
 
 On 20th February 2016, a tragedy befell the Royal School of Mines in the dark dingy depths of Falmouth. The Bottle was lost! In the midst of one of the biggest storms the south coast had ever seen, the RSM rugby players fell victim to the CSM scum in the muddy trenches. A year later in the leafy suburbs of Harlington a new mining outfit strode out to make battle, adorned in their new windstopper jackets #stash. It was time for the annual Bottle Match, the world’s 2nd oldest rugby varsity, to commence.

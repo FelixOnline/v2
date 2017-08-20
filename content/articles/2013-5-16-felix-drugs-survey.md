@@ -36,14 +36,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
+image_caption: ""
 ---
 
 The full version is available [online](https://union.ic.ac.uk/media/felix/img/Drug_Results.jpg).

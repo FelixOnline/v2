@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191124-felix-df184d73_gif1.xxxlarge.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191124-felix-df184d73_gif1.xxxlarge.gif"
+image_caption: ""
 ---
 
 **Termites did castes first**

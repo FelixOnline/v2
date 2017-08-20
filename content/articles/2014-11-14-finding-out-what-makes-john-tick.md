@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142051-ps3110-for-website.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142051-ps3110-for-website.jpg"
+image_caption: ""
 ---
 
 “The normality of life is just to have someone you can express stuff with.”

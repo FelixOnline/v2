@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072159-mc4509-horse.jpg"
-image_caption: >
-  Tomorrow's burger
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072159-mc4509-horse.jpg"
+image_caption: ""
 ---
 
 Imperial College’s first riding team’s penultimate competition was hosted by the University of Kent. Although a bit cloudy on the long, early morning drive to Canterbury, by the time we arrived the sun was shining.

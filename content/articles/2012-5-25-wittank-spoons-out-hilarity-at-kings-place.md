@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251928-mc4509-wittank-caves2.jpg"
-image_caption: >
-  What a wunch of bankers!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251928-mc4509-wittank-caves2.jpg"
+image_caption: ""
 ---
 
 Having first seen comedy group [WitTank](http://www.wittank.com/) two years ago at the __Edinburgh Fringe__ on the recommendation of a friend, I’ve been coming back for more at every opportunity. These are the guys who compete against some other 2500 shows for an audience at the Fringe every year and still manage to pack the house for every performance.

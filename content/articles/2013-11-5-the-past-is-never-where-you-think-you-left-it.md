@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What a difference a decade can make. Just 10 years ago, director Asghar Farhadi had yet to release his first film, but today he is one of the hottest contemporary Iranian directors around. Every film he has created has won rafts of awards at various festivals; his last film A Separation, won critical acclaim across the board, and beat off stiff competition to win the Academy Award for Best Foreign Language Film in 2011. He is now back again, with a film that explores the hidden drama within everyday lives.

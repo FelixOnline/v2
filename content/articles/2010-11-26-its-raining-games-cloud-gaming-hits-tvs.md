@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261452-ks607-wireless.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261452-ks607-wireless.jpg"
+image_caption: ""
 ---
 
 Hear me now, peasants, with your antiquated computers, bowls of gruel and embarrassing outdated fashion sense! No longer are you quite so inferior to the glorious PC gaming master races with their diamond studded octo-core processors, water cooled graphics cards and jewel-encrusted laser mice, for today hear of [OnLive](http://www.onlive.com/game-system)!

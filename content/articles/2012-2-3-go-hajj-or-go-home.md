@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
-image_caption: >
-  Ahmed Mater’s Magnetism
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
+image_caption: ""
 ---
 
 I’d always thought writing opening paragraphs was hard. But no editorial challenge that faces us, here in the Felix office, comes anywhere close to the mammoth task taken on by the __British Museum__ (or, more truthfully, by curator Venetia Porter) in its latest exhibition, [_Hajj: Journey to the Heart of Islam_](http://www.britishmuseum.org/whats_on/exhibitions/hajj.aspx).

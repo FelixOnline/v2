@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
-image_caption: >
-  Yukio Ninagawa, Hamlet, Shinnosuke Mitsushima and Tatsuya Fujiwara
-image_attribution: "Takahiro Watanabe"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
+image_caption: ""
 ---
 
 Right from the outset, Ninagawa Company’s _Hamlet_ looked like it had been plucked out of an ancient Japanese film. Blue fog shrouded the stage as Hamlet, Horatio, and the guards dart across the stage, confronted by the ghost of Hamlet’s father. Spine-chilling Eastern music beats steadily in the background. The ghost, draped in robes befitting of a Japanese emperor, weaved in and out of a row of two-storey wooden houses – the permanent set through which characters dash onto the stage from various directions.

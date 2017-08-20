@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You are an Imperial student. Your brain and body require intense stimulation. Thanks to exams, you now have free time and money, are still in the vicinity of Metric, and are dying – craving, praying – for a chance to have your jiving, drunken body pounded with bass-heavy, cutting-edge dance music. Your prayers have been answered. This Saturday, I’ll be running the gamut from garage and dubstep to full-on neo-rave frenzy, dropping in 8-bit chipstep treats throughout.

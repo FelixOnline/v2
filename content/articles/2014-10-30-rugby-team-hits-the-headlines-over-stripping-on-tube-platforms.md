@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
+image_caption: ""
 ---
 
 The Imperial College Rugby First XV team have been suspended pending investigation into reports that team members were stripping on a District Line tube.

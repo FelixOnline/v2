@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College and Imperial College India Foundation will be increasing the size of their scholarship programme. The scholarship is for Indian postgraduate students who have an outstanding academic background and reside in India. The programme initially begun in September 2013, this year two full Master’s scholarships and one full PhD scholarship will be available. The foundation is supported by alumni and Imperial College.

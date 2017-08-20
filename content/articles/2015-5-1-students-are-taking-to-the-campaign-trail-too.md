@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010126-ps3110-screen-shot-2015-05-01-at-01.26.19.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010126-ps3110-screen-shot-2015-05-01-at-01.26.19.png"
+image_caption: ""
 ---
 
 As a member of the Liberal Youth, I was invited to go canvassing in various target seats in the country. It’s a great scheme where they give you some money towards travel, free accommodation and food and there’s a social to cap things off at the weekend.

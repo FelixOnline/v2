@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082102-pk1811-roundheeled.jpg"
-image_caption: >
-  Sexy at sixty-seven
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082102-pk1811-roundheeled.jpg"
+image_caption: ""
 ---
 
 The auditorium dims, the stage lights go up, and I’m faced with a sixty-six-year-old woman lying on a bed, masturbating to phone sex.

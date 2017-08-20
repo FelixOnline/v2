@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260237-tna08-students-on-roof.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260237-tna08-students-on-roof.jpg"
+image_caption: ""
 ---
 
 As a lot of you must know, because it would almost have been impossible to miss for even the keenest attendee of the Library, the new James Bond movie Skyfall premiered at the Royal Albert Hall on Tuesday night. Prince Consort Road was partially closed off and access was restricted around the area.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210159-tna08-pepper-soup.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210159-tna08-pepper-soup.jpg"
+image_caption: ""
 ---
 
 Homelessness is probably London’s most visible social problem. We all see it daily, in the men and women who spend their days with a paper cup, begging for spare change in the capital’s allleyways. Some of us ignore them – after all, we can’t possibly help them all. Some of us give them a smile, which always meets with kind words, yet somehow this always leaves us feeling unfulfilled.

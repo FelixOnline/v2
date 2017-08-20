@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504231515-ps3110-screen-shot-2015-04-23-at-15.15.12.png"
-image_caption: >
-
-image_attribution: "Photo: Joss Whedon/Disney"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504231515-ps3110-screen-shot-2015-04-23-at-15.15.12.png"
+image_caption: ""
 ---
 
 __Director: __Joss Whedon

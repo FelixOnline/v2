@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242222-pk1811-prof_nutt_010.jpg"
-image_caption: >
-  Professor David Nutt
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242222-pk1811-prof_nutt_010.jpg"
+image_caption: ""
 ---
 
 Baroness Eliza Manningham Buller is not the only person connected with Imperial to voice concerns about the “War on Drugs”. Professor David J Nutt, who holds the Edmond J Safra Chair in Neuropsychopharmacology has long been an outspoken critic of British drug policy. Last week he joined Baroness Manningham Buller and other major public figures, including Jimmy Carter and Lech Wałesa, in publishing a public letter, which appeared as a full length advertisement in the national papers, entitled “[The Global War on Drugs has Failed, It is Time for a New Approach](http://www.encod.org/info/THE-WAR-ON-DRUGS-HAS-FAILED-TIME.html)”. In the letter, they urge governments to “consider shifting resources away from criminalising tens of millions of otherwise law abiding citizens, and move towards an approach based on health, harm-reduction, cost-effectiveness and respect for human rights”.

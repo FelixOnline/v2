@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101025-felix-8706453607_706e29d981_o 2.jpg"
-image_caption: >
-
-image_attribution: "Hernan Pinera"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101025-felix-8706453607_706e29d981_o 2.jpg"
+image_caption: ""
 ---
 
 Brexit may have finally overtaken myriad memes of Donald Trump’s hairpiece on our newsfeeds. For months, the EU referendum has loomed large in a collective public mind, bamboozled by potential impacts on everything from human rights to house prices. It is a political hot potato that when dropped on the 23rd June, could see us out on our ear in the cold, looking in through the window at the EU planning their Christmas party, wondering whether we have done the right thing.

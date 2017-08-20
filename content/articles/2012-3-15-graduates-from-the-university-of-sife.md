@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151946-pk1811-dragons-den.jpg"
-image_caption: >
-  The Felix artist’s impression of the judging panel
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151946-pk1811-dragons-den.jpg"
+image_caption: ""
 ---
 
 The [Insight Into Business](http://www.sifeuk.org/index.html?mod=universities&id=7) Program (IIB) works closely with secondary schools throughout London to improve the financial literacy and business acumen of young students today.

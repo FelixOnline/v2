@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201910-ks607-policepo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201910-ks607-policepo.jpg"
+image_caption: ""
 ---
 
 Word on the street is that next week will be a sweaty one for Biology fresher Marianne Teoh, as on Monday she gets engulfed by the crocodile suit which she’ll be confined to for the subsequent week. A far cry from the oh-so tiresome leg shaving and cookie baking ‘antics’ to which we’re all so accustomed, this campaign is one to watch. I decided to find out what it was all about.

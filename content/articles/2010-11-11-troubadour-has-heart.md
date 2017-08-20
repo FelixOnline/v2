@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112112-nm1010-troubado.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112112-nm1010-troubado.jpg"
+image_caption: ""
 ---
 
 Step into the Troubadour and you don’t know where to look first. On one wall is a stained glass window and rows of antique coffee pots; on the other, a vintage electric guitar. This perfect blend of the rustic and retro arrests the senses, and something tells you you’re in for a treat.

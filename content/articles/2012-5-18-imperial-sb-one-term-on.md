@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
-image_caption: >
-  Daniel Hyde - Cradle Carve at Victoria Park
-image_attribution: "Ed Brial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181727-felix-daniel-hyde---cradle-carve-taken-by-ed-brial-at-victoria-park.jpg"
+image_caption: ""
 ---
 
 A whole term has now passed with Imperial having its very own Skateboard/BMX society so here are all the gory details as to what’s been going on. Last term, we managed to skate/BMX a good chunk of the skateparks that London has to offer. These included concrete classics such as Meanwhile and Stockwell as well as new offerings such as Victoria and Clapham Common.

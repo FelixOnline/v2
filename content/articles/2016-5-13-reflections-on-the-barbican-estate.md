@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
-image_caption: >
-  Shafts of light astride weathered concrete columns: The Barbican Estate today.
-image_attribution: "Michael Shaw"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
+image_caption: ""
 ---
 
 Friends of mine will know that I have a great affinity for F. Scott Fitzgerald’s _The Great Gatsby_. His timeless exposé of the superficiality of the nouveau riche and the upper classes, examined in cinematic description, is simply breath-taking, with a message that is as pertinent today as in the contemporary era. Though the book is more usually associated with love and materialism, the spectacular and haunting descriptions at the close of the novel shed light on failed aspirations; something which I encountered myself not too long ago.

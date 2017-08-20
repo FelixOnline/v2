@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A mysterious stranger was caught wandering Tizard last Sunday. The man was described as tall with dark skin and badly dressed. He was wearing a red jacket and was noted to be carrying a Bible and had an American accent.

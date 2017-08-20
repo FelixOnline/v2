@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503052148-snb11-grace-headshot1.jpg"
-image_caption: >
-
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503052148-snb11-grace-headshot1.jpg"
+image_caption: ""
 ---
 
 __What made you run for this position?__

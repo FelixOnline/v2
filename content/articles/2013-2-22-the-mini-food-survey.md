@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220259-tna08-food-survey.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220259-tna08-food-survey.jpg"
+image_caption: ""
 ---
 
 In light of the Sex Survey, I thought: why not conduct my own Food Survey? It’s not exactly the most highly scientific of surveys (*dodges open fire*), but answered by Felix food writers and fellow food lovers, maybe the survey will give a new life into the food on campus – or not, in some cases. Most of the people I asked ate at Imperial outlets on a regular, weekly basis. About a third of the people I asked only ate in uni very rarely, when they’ve forgotten their packed lunches or are staying in late – can anything really beat a homemade lunch? I think so.

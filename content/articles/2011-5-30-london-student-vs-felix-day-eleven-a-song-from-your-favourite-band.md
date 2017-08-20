@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ok so this [unsigned instrumental hip-hop producer from California](http://www.myspace.com/beatsbybahwee) isn't necessarily my favourite musician of all time. I'm not really sure that I could choose just one artist anyway. However, he is my favourite musician as of 10:27 this morning when former Science Editor [Katya-yani Vyas](http://felixonline.co.uk/user/kv07/) recommended that I listen to his sick album [Flavors](http://open.spotify.com/album/6pUluYZmRXt8eMBflruEMz).

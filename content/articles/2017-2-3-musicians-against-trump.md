@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031704-felix-lovetrumpshate.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031704-felix-lovetrumpshate.jpg"
+image_caption: ""
 ---
 
 As the world reacts to Trump’s Muslim ban, amidst huge protests held across the globe, condemnation from the music industry has been rife.

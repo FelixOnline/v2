@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406112243-me1711-games_e3nintendo.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406112243-me1711-games_e3nintendo.jpeg"
+image_caption: ""
 ---
 
 Last up we have Nintendo and like last year they’re opting for a “Digital event” instead a press conference like the other big two. Essentially this means a series or pre-recorded announcements much like their regular Nintendo Direct events. Personally I see it as a cop out and as indicative of Nintendo’s attitude to gaming at the moment. The 3DS may be doing okay but the Wii U is most certainly not with some shockingly low sales and essentially refusing to turn up to E3 is not going to help. We begin with an actually quite funny robot chicken style announcement with Reggie Fils-Aime alongside some key Nintendo characters. A figure in the audience jokingly moans about Nintendo just announcing “another Mario game” pointing out another serious problem with Nintendo these days – an almost complete lack of any new intellectual property and almost no desire to innovate. Mario promises us though that this year there will be no new Mario game so surely this event should provide us with lots of new exciting games!

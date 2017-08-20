@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201951-ks607-dannyboy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201951-ks607-dannyboy.jpg"
+image_caption: ""
 ---
 
 The creative void of the ‘80s in cinema did not leave British cinema unaffected. The ‘Carry on…’ films and Hammer Horror series had fizzled out aons ago and the legacy of Ken Loach and Lindsay Anderson’s Kitchen Sink dramas still left a stale aftertaste of gritty misery on British filmmaking. However as shoulder pads and big hair were quickly discarded in favour of baggy t-shirts and high waisted jeans and electro and disco mutated into the craziness of rave music; a special talent emerged to help re-energize the wayward film scene and pull it out of the doldrums. That talent was Danny Boyle and now a household name, his distinctive style and ability to transcend genres hadn’t been seen since the golden days of Stanley Kubrick.

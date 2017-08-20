@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
-image_caption: >
-  Prince Harry in the Centre for Blast Injury Studies
-image_attribution: "Imperial College London"
-image_attribution_link: "http://www.imperial.ac.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
+image_caption: ""
 ---
 
 The Royal British Legion Centre for Blast Injury Studies (CBIS) officially opened at Imperial College today (Oct 17). The CBIS held its second networking event in the Royal School of Mines and invited HRH Prince Harry to unveil the centre.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404071358-jal08-agouti-mouse-1024x802.jpg"
-image_caption: >
-  These two mice have different epigenetic methylation pattern at a specific gene loci that impacts ha
-image_attribution: "Episona"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404071358-jal08-agouti-mouse-1024x802.jpg"
+image_caption: ""
 ---
 
 H

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271419-felix-31557197953_b08a5aa0bd_o.jpg"
-image_caption: >
-
-image_attribution: "Jay Allen"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271419-felix-31557197953_b08a5aa0bd_o.jpg"
+image_caption: ""
 ---
 
 The sun keeps on rising, the world keeps on spinning and the Brexit debate rages on. Last week Theresa May made a speech at Lancaster House which outlined her twelve point plan for the UK’s negotiation plan as she looks to trigger Article 50 and leave the European Union for good.

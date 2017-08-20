@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191117-felix-2230227893_04ecb82581_o.jpg"
-image_caption: >
-  Be free little buddy.
-image_attribution: "Oliver.dodd"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191117-felix-2230227893_04ecb82581_o.jpg"
+image_caption: ""
 ---
 
 Cockroaches are despised by everyone. With the whole human race out to squash them into oblivion, you’d think they’d have died out by now. But instead, they thrive, popping up in the most random places, and miraculously surviving the most vigorous squashing. Scientists have therefore spent months investigating why it is so freaking hard to squish a cockroach.

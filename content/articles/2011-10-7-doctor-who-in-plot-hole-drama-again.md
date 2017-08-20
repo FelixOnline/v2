@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071343-felix-impossible-astronaut.jpg"
-image_caption: >
-  Was this series up to scratch, or does it need regenerating?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071343-felix-impossible-astronaut.jpg"
+image_caption: ""
 ---
 
 Given that this is Imperial I’m sure that few of you will be unaware that last Saturday saw the broadcast of [‘The Wedding of River Song’](http://www.youtube.com/watch?v=DwYy-gj3oiQ) - the final episode of the latest series of Doctor Who. This has been probably one of the best series since the 2005 revival of the show. Starting with the chilling image of a future version of the Doctor being killed in [‘The Impossible Astronaut’](http://www.youtube.com/watch?v=_6wTNPpXXOM) it included the wonderful exploration of the Doctor’s companion Amy that was [‘The Girl Who Waited’](http://www.youtube.com/watch?v=M7tsEpOi1y0) and the near perfect [‘Let’s Kill Hitler’](http://www.youtube.com/watch?v=N-Zw1QDpg9g). It’s not surprising that I had high hopes for this episode.

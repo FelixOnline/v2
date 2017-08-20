@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291136-felix-beyonce3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291136-felix-beyonce3.jpg"
+image_caption: ""
 ---
 
 L_emonade_, **Beyoncé’s** sixth studio album dropped on Saturday, with nothing but a seconds-long cryptic YouTube video to promote it. The ‘visual album’, directed by seven directors including Kahlil Joseph (**Kendrick Lamar’s** ‘m.A.A.d’), and Melina Matsoukas (‘Pretty Hurts’, ‘Formation’) is something special. Beyoncé has previously spoken about her habit of rooting her songs in imagery throughout the creative process, and in _Lemonade_ she has created music to be watched.

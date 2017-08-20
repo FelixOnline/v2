@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202031101-sjw209-complex-zeta.jpg"
-image_caption: >
-  A plot of the Riemann-Zeta function over the Complex Plane. Trippy.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202031101-sjw209-complex-zeta.jpg"
+image_caption: ""
 ---
 
 Computer Science is an often misunderstood academic topic. Many people outside the field do not perceive the breadth and depth of research material that’s pumped out daily and how it affects our everyday lives. To observe its profound effect in the real world, we must first examine the theoretical. There are a variety of problems which are famous in mathematics. The [Millennium Prize Problems](http://www.claymath.org/millennium/) and [Hilbert’s Problems](http://mathworld.wolfram.com/HilbertsProblems.html) are collections of such unsolved problems selected by the [Clay Mathematics Institute](http://www.claymath.org/index.php) and mathematician [David Hilbert](http://en.wikipedia.org/wiki/David_Hilbert). The former are noted for their million-dollar prize for the first verified solution to any one of the seven problems, six of which remain unsolved at the time of writing.

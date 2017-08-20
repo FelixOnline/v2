@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505221216-cj914-professor-dude.jpg"
-image_caption: >
-  Professor Erol Gelenbe was elected as Fellow of a prestigious Belgian society
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505221216-cj914-professor-dude.jpg"
+image_caption: ""
 ---
 
 Professor Erol Gelenbe, a researcher from the Department of Electrical and Electronic Engineering, has been made a Fellow of the Royal Academy, Sciences, Letters and Art of Belgium.

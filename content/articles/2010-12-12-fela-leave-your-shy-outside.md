@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Musician. Freedom fighter. Sax, trumpet and keyboard player. Polygamist. Fela Ransome Kuti, the Father of Afrobeat, was something of a phenomenon. His infectious and politically charged music was quick to sweep the African continent and then the world throughout the 70s and beyond. He created a wild and free counter-culture against what was a tyrannically controlled, neo-colonial Nigeria. And he had an absolute blast while he did it.

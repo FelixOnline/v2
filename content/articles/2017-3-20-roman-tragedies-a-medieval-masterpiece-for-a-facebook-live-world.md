@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
-image_caption: >
-  Toneelgroep Amsterdam, Roman Tragedies, Fred Goessen
-image_attribution: "Jan Versweyveld"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
+image_caption: ""
 ---
 
 Enobarbus is a dying man. So overcome with grief at having betrayed his closest friend, Mark Antony, to Octavius Caesar, he can no longer bear to live. His cries and pleas for forgiveness are translated from Dutch to English courtesy of surtitles. A cameraman follows him as he stumbles across the stage; his lamenting projected above the set for the audience gawk at.

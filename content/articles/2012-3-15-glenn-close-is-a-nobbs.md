@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
-image_caption: >
-  I don’t boil bunnies anymore! You must believe me!! I’m not crazy!!!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
+image_caption: ""
 ---
 
 [Albert Nobbs](http://www.imdb.com/title/tt1602098/)

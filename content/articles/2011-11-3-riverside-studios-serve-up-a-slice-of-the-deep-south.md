@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
-image_caption: >
-  Not the Blind Date you might be thinking of
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
+image_caption: ""
 ---
 
 In the absence of any culinary skills, I’ve found that eating one’s dinner whilst watching MasterChef, can often make the experience a little more palatable. Through years of pretending that my toast was a main of spider crab thermidor accompanied with mussels, foraged sea vegetables and a side of chips, [Gregg Wallace has hammered into me](http://www.youtube.com/watch?v=IfeyUGZt8nk) an appreciation of the infamous notion of ‘flavour combinations.’

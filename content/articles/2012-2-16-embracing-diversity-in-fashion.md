@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
-image_caption: >
-  All Walks Founder: Caryn Franklin
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
+image_caption: ""
 ---
 
 A fashion industry expert for over 30 years having co-edited i-D magazine, renowned for its rebellion to conventional views towards art, fashion and music, and presented BBC’s The Clothes Show for over a decade, Caryn Franklin is anything but your ordinary fashion journalist. With no less than four books under her name as well as a range of charitable commitments including Fashion Targets Breast Cancer, and the recently launched All Walks Beyond The Catwalk campaign, Caryn Franklin is an activist, not just in fashion but in regard to the general racial, size and age discrimination that exists in the modern world.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
-image_caption: >
-  Only Imperial’s supercomputer, Helen, could render graphics this good.
-image_attribution: "Activision"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
+image_caption: ""
 ---
 
 Until recently, the click-clack of plastic peripherals felt like a distant memory. Yet, only five years have passed since the death of the rhythm gaming industry. From billions to almost nothing, in 2010 Activision could do nothing as one of their most lucrative franchises melted away.

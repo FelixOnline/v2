@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161539-ygr12-ada2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161539-ygr12-ada2.jpg"
+image_caption: ""
 ---
 
 If you’re anything like me, you probably spent your Tuesday night tending to your extensive collection of potted plants (yup, standard weeknight fun). This Tuesday though, we all had the opportunity to celebrate the rapid expansion of science and the women that have pioneered in that field.

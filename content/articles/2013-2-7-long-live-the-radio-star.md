@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072243-tna08-rinse_logotype.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072243-tna08-rinse_logotype.png"
+image_caption: ""
 ---
 
 <http://rinse.fm/>At the end of last year I tried to put together a mixtape containing my favourite tunes of 2012. But I couldn’t do it. My iTunes library just didn’t do 2012 justice, and this got me wondering why that was. It’s not that I’ve gone ‘cold’ on new music; I’m probably listening to more than ever, just in a different way. Two or three years ago I was finding music on blogs then heading to megaupload for a bit of socially acceptable thievery. Perhaps a combination of the internet federales’ crackdown on the Kim Dotcoms of this world and my paid subscription to [Spotify](http://www.spotify.com/uk/video-splash/?utm_source=spotify&utm_medium=web&utm_campaign=start), but I pretty much stopped downloading music.

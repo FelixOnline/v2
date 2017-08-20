@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232308-felix-clayponds.jpg"
-image_caption: >
-  Clayponds residents have voiced their support for the continuation of the postgraduate accommodation
-image_attribution: "Neville Miles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232308-felix-clayponds.jpg"
+image_caption: ""
 ---
 
 Further student concern about the closure of Clayponds and the proposed changes to the Holland Club have been revealed at the discussion forum on postgraduate accommodation and social space held by the [Graduate Students’ Association](https://www.imperialcollegeunion.org/faculty-unions/gsaweb/index,457,ICS.html) (GSA) last Thursday.

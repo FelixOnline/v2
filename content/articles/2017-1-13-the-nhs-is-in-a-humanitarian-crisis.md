@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131407-felix-6127363514_d7529610b3_o.jpg"
-image_caption: >
-
-image_attribution: "Trades Union Congress"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131407-felix-6127363514_d7529610b3_o.jpg"
+image_caption: ""
 ---
 
 The Society of Acute Medicine has revealed that the NHS currently has “third world levels of staffing and third world levels of beds”. For the Red Cross, our NHS is in the midst of a ‘humanitarian crisis’. This language may sound vitriolic, but a crisis of this magnitude is something medical professionals have been warning politicians about for years. Over the weekend, 42 A&amp;Es had to divert patients to other hospitals due to their inability to deal with the number of patients coming in.  Many of those that actually made it into the hospitals were left on beds in corridors, a damning indictment of the sheer lack of capacity in our NHS at the moment.

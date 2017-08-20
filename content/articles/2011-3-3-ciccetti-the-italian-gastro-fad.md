@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103031934-nm1010-fooodfoo.jpg"
-image_caption: >
-
-image_attribution: "flickr/foodieguide"
-image_attribution_link: "http://www.flickr.com/photos/helenyuetlingpang/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103031934-nm1010-fooodfoo.jpg"
+image_caption: ""
 ---
 
 Italian food is probably the cuisine that serves the most disparity in London. The big giants like Pizza Express, ASK and Zizzi lure the indifferent diners with their attractive 2-for-1 deals, but what say you to pasta that is freshly made on the day and pesto that is so brilliant, even Berlusconi might be distracted from his loins for a brief moment.

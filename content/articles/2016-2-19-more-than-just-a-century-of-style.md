@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
-image_caption: >
-  Anne Gunning in Jaipur by Norman Parkinson, 1956.
-image_attribution: "Norman Parkinson Ltd."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
+image_caption: ""
 ---
 
 One enters the exhibition through a room with pillars that are kaleidoscopes of _British Vogue_ magazine covers throughout the years, and is instantly transported to a magical world. The films at the end of the entrance corridor act to further set the scene and create that fantasy atmosphere which resonates throughout the show. The films contrast the iconicity of the covers with their whimsical and dreamy air.

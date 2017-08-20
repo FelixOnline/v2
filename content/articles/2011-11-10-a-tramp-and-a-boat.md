@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102109-felix-shoesandsocksoffshoesandtoby-pola.jpg"
-image_caption: >
-  Does that title say I’m a tramp?! Is that what people think of me? I never knew...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102109-felix-shoesandsocksoffshoesandtoby-pola.jpg"
+image_caption: ""
 ---
 
 Any of you who read my article last week probably came to the conclusion that I’m either a dribbling moron or an actual full-on nutter. For that exact reason, I’ve decided to simmer things down a bit and tell you about possibly the most peaceful thing I can imagine: an all acoustic gig on a boat gently rocking on the Thames.

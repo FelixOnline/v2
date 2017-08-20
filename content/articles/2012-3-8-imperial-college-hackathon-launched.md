@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
-image_caption: >
-  Security at the event was tight, but the guy in the hat still managed to wander in for the nibbles
-image_attribution: "Bob Xu"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
+image_caption: ""
 ---
 
 Imperial College has one of the best Computing and Electrical Engineering Departments in the World, producing the most disciplined and talented software developers and programmers consistently. These programmers often benefit from high salaries and fabulous perquisites from their employers. Imperial College prides itself on this monumental achievement. However, students often observe the lack of ambition for entrepreneurship and technological innovation among Computing Undergraduates – please correct me if I am wrong.

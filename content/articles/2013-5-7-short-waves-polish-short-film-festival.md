@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305072028-tna08-straznicy-(0-00-05-03).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305072028-tna08-straznicy-(0-00-05-03).jpg"
+image_caption: ""
 ---
 
 Last month saw the fifth Polish Short Film Festival come to London, having made its journey around the globe. We went on down to Dalston (where else) to the cute little Rio Cinema (think Notting Hill Coronet, velveted squeaky chairs type of place) to find out what exactly Polish short films consist of.

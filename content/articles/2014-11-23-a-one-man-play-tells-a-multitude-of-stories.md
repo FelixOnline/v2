@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411232134-ps3110-howie.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411232134-ps3110-howie.jpeg"
+image_caption: ""
 ---
 
 __Howie the Rookie__ is an 80-minute single-actor play directed by Mark O’Hove and performed by Tom Vaughan-Lawlor, currently playing in The Barbican Centre’s Pit Theatre. The piece won two prizes, attracted critical acclaim, and also won the Irish Times Best New Play award.

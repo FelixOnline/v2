@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121154-felix-lilly.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121154-felix-lilly.jpg"
+image_caption: ""
 ---
 
 In a tweet that would probably enrage most Imperial students, Allen’s response to the Education Minister asked the same question school children have been asking for years. She’s right that a lot of people are unlikely to ever use  the maths or science they learnt at school in real life, but the same could be said for P.E. I haven’t got off my fat arse and  done any real physical exercise for years.

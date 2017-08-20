@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201207161233-mc4509-lord-norton-msp_79121.jpeg"
-image_caption: >
-  Lord Norton
-image_attribution: "http://nortonview.files.wordpress.com/"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201207161233-mc4509-lord-norton-msp_79121.jpeg"
+image_caption: ""
 ---
 
 __Alex Morton: Thank you very much for giving up your time this afternoon Lord Norton. Could you briefly explain the principal functions of the House of Lords, and why it matters?__

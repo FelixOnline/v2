@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291157-felix-GOT.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291157-felix-GOT.jpg"
+image_caption: ""
 ---
 
 After slapping viewers in the face last season with another huge character death, Game of Thrones returned this week with a relatively uneventful episode, filled with set up for the rest of the season. Spoilers ahead (obviously).

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I should be on Transport for London’s pay roll. Why? Because the times that I have helped people release bikes from Boris’ blue stands are innumerable. The people requiring assistance are mostly tourists, whom I often have little patience with. So what is it that makes their plight so important to me?

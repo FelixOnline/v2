@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281158-felix-horse.jpg"
-image_caption: >
-  Oblivion's 'horse armour: the worse downloadable content of all time
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281158-felix-horse.jpg"
+image_caption: ""
 ---
 
 The internet and games. They were always going to go hand-in-hand, and I’m sure the gaming industry would look very different today if not for the advent of personal broadband. Of course, there are the obvious benefits such as online multiplayer and downloadable content, but there are also slightly more subtle ways the internet has changed the industry. Things that are not so immediately apparent.

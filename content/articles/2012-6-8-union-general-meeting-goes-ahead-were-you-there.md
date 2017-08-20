@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The [Union General Meeting](http://www.imperialcollegeunion.org/data/files/generalmeetingfinal-1085.pdf) was held last Wednesday to a baying crowd of approximately twenty interested individuals. It was unlikely to take incredible precedence in many a calendar across Imperial due to the stage of term. The low attendance (with 200 required to reach quorum) was undoubtedly a combination of timing – with many still remaining in the midst of exams and revision – a general lack of publicity, and for want of a better word, hype.

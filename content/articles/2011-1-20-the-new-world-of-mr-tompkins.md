@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
+image_caption: ""
 ---
 
 I'm going to be a little self-indulgent this week, with a book that triggered my interest in physics. The new world of Mr Tompkins is a revised version of Gamowís classic, bringing the witty and engaging story of Mr Tompkins up to date with current physics. Taking the reader on a whirlwind tour through relativity, quantum mechanics, antimatter and black holes, Mr Tompkins provides an endearing medium for the authors to explain some complicated ideas. The physics is, of course, the backbone of the book but it reads like a novel, with Mr Tompkinsí plight for romance and love bringing the characters to life.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230035-tna08-120923-end-of-watch-600-1348425270.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230035-tna08-120923-end-of-watch-600-1348425270.jpg"
+image_caption: ""
 ---
 
 Although costing a relatively miniscule 7-million dollars, here is one of the best, most thrilling, heart-pounding action thrillers of the year. It also achieves this level of greatness in a sub-genre that is more often than not plagued with its own brand of clichés and predictable plot turns. But with End of Watch director David Ayer has made even the most obvious, tiresome formula with such style and panache that you will come out of the screening feeling richly rewarded and your pulses racing. It knows when to hold off on the action, it lets its characters develop and interact with one another, the dialogue is often sharp and witty, and when the much-anticipated ultimate shoot-out does grace the screen, it pays off, in its kinetic, resounding finale.

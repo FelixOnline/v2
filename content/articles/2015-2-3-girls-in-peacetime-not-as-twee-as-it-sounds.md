@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031455-ps3110-belle-and-sebastian-photos.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031455-ps3110-belle-and-sebastian-photos.jpg"
+image_caption: ""
 ---
 
 Twee is a word often used to describe Stuart Murdoch’s indie band, whose ninth album _Girls in Peacetime Want to Dance_ was released on Matador on 19th January. However having listened to the album a number of times since it was released one is immediately forced to consider whether this label still holds true.

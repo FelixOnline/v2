@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060350-jal08-91c362c94b581ae6485fdffa57e3c9d8.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060350-jal08-91c362c94b581ae6485fdffa57e3c9d8.jpg"
+image_caption: ""
 ---
 
 __Reign: Season 1__

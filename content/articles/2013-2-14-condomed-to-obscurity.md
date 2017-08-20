@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
+image_caption: ""
 ---
 
 Condoms have been around for quite a while now, allowing men all around the world to awkwardly fumble and pretend they know what they’re doing. The design has actually been pretty similar for over 50 years. The reason being that latex condoms are cheap and pretty easy to make, use, discard (discretely), and are thin enough for a transferred sensation to occur. A staggering ten billion condoms were used in 2005 (with probably only two million being used by Silvio Berlusconi). It’s predicted that 27 billion condoms will be used in 2015. Suggesting that the population is either growing rapidly, or just becoming a lot hornier. Possibly a combination of both.

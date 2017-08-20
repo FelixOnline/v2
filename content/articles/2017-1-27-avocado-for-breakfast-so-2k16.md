@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271736-felix-IMG_7331.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271736-felix-IMG_7331.jpg"
+image_caption: ""
 ---
 
 Mezze. A word meaning a selection of small appetizers. And a word that I have recently started noticing following a sharing plates trend that has finally hit the London food scene. After some hearty meals, I have adjusted my taste buds (and stomach) to this wonderful dining culture home to Turkey, Greece and the Middle East.

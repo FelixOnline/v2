@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Eating Animals is not a simple argument for vegetarianism, but an intelligent insight into the culture, economy, business and impacts of meat production. Jonathan Safran Foer makes a plea for more "conscientious omnivores", making meal-by-meal decisions. We should all think about the issues and where we stand, particularly in regards to resource use, as a topic that effects everyone on the planet

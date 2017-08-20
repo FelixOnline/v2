@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A Clubs and Societies Board (CSB) meeting on 27 February 2012 resulted in a decision to close the dormant Croquet Club along with 6 other clubs. According to Deputy President of Clubs and Societies (DPCS) Monya Zard’s “Clubs to Close” paper, the decision was on the grounds that the club had less than 20 members (3 members in fact) and had not completed the relevant documentation or training.

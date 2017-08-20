@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103031922-nm1010-tuscanhi.jpg"
-image_caption: >
-
-image_attribution: "flickr/jukkavuokko"
-image_attribution_link: "http://www.flickr.com/photos/jvuokko/455102866/in/set-72157594414352098"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103031922-nm1010-tuscanhi.jpg"
+image_caption: ""
 ---
 
 Quite often, when planning my next holiday, I get all too carried away with the prospect of exciting adventures and wonderful discoveries. I’ve plodded along on a camel in the Sahara, watched an interesting game of ping-pong in Bangkok, and even catapulted myself out of a plane somewhere in Texas. Rather thrilling, you might think. But no, they were all massively disappointing. It seems that the more exotic the holiday, the more vile the cooking. Travelling isn’t pleasant when the cooking is bad, especially when you spend more time on the loo than off it.

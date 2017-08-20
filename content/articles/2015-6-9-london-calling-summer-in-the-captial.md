@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506091649-ync111-p1100238.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506091649-ync111-p1100238.jpg"
+image_caption: ""
 ---
 
 Not all of us have the time to jet off to a different location and spend the summer holidays hopping from one destination to another, but that doesn’t mean that you can’t have fun in good old London either. In fact, London is one of the most visited cities of all times and there’s probably a thousand people out there who would swap places with you in a heartbeat.

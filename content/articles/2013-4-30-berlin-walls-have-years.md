@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
+image_caption: ""
 ---
 
 Berlin is a city that weeps with history. Decades after unification it has a skyline like a broken jaw. Buildings conspicuous by their absence are found next to bullet riddled vestiges of the Wiemar years. Soviet space-age architectural excesses and grim utilitarian atrocities now sit alongside shining glass temples to modern capitalism.

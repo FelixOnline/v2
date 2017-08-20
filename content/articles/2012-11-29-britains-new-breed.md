@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
+image_caption: ""
 ---
 
 The night was kicked off by LULS who did a great job at gathering everyone around the stage. Firing on all cylinders, they sang “Swing Low” – a dark, demented pop melody that echoed across the walls of the venue. A short but sweet set which left me aching to hearing more from this tight young band.

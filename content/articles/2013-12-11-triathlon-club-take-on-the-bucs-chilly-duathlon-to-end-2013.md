@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
-image_caption: >
-
-image_attribution: "ICU Triathlon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
+image_caption: ""
 ---
 
 With the biggest turn out the triathlon club has ever seen, twenty five athletes travelled in an entourage of cars, minibus and van down the M4. The term was to culminate on Sunday 24th at the 2013 BUCS Duathlon at Castle Combe.

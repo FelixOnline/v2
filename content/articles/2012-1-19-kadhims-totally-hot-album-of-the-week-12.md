@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
+image_caption: ""
 ---
 
 The [scientifically-dubious](http://www.guardian.co.uk/science/blog/2012/jan/16/blue-monday-depressing-day-pseudoscience) ‘[most depressing day of the year](http://www.telegraph.co.uk/finance/jobs/9017631/Blue-Monday-is-most-depressing-day-of-the-year-research-claims.html)’ has past us by without running aground, and unless you’re Maggie Dallman, you’ll probably make it to the end of the month without being [publicly humiliated](http://on.fb.me/A3REbG). Let’s shake off these January blues and start living again. __Ernest Gonzales__, let the beats roll.

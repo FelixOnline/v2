@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
-image_caption: >
-  Director Celine Sciamma employed street-casting to bring her characters to life
-image_attribution: "Celine Sciamma/Studiocanal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
+image_caption: ""
 ---
 
 The latest film in director Celine Sciamma’s ‘Trilogy of Youth’ is _Girlhood (Bande des Filles)_, a coming-of-age story set on the housing projects bordering Paris.

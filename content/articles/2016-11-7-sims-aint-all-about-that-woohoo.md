@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071312-felix-Sims3_02.jpg"
-image_caption: >
-
-image_attribution: "Maxis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071312-felix-Sims3_02.jpg"
+image_caption: ""
 ---
 
 The games section of a newspaper can be a tough environment for flourishing writers, what with the challenge of finding entertaining topics or games that people are familiar with  However I think I would be hard pressed to find a person who hasn’t heard of _The Sims_.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010007-tna08-mnight-poster-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010007-tna08-mnight-poster-1.jpg"
+image_caption: ""
 ---
 
 Keep yourselves free on the 9th/10th of March – Imperial College Union Malaysian Society returns with Malaysian Night 2013, the annual production that’s been entertaining audiences across the UK for years. With great moves, great laughs, great music (and amazing food after!), it promises to be an unforgettable experience.

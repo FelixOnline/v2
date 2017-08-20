@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262216-felix-street_view[1].jpg"
-image_caption: >
-  Griffon Studios – the best a postgrad can get?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262216-felix-street_view[1].jpg"
+image_caption: ""
 ---
 
 After finishing my undergraduate degree, I’m now in my fifth year at Imperial studying for a PhD. Recent news about [the future of Clayponds](http://felixonline.co.uk/news/2032/clayponds-in-crisis/) and [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) has led me to believe that Imperial is disconnected from the lives and needs of postgraduate students.

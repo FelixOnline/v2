@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010072254-ks607-PlantSci.jpg"
-image_caption: >
-  The Union claims that Plant Sciences research will suffer
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010072254-ks607-PlantSci.jpg"
+image_caption: ""
 ---
 
 A bitter row between the Union and the Department of Life Sciences has erupted over what Union President Alex Kendall terms as the “deletion of Plant Sciences” from Imperial. The re-structure of the Life Sciences department, aimed at plugging a £1.5 million hole in the department’s finances, has provoked a series of controversial accusations from the Union including claims that the Department has “severely misused” its statistics.

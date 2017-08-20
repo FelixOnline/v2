@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241948-ks607-rectorpi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241948-ks607-rectorpi.jpg"
+image_caption: ""
 ---
 
 _See more photos of the Rector getting pied [here](http://felixonline.co.uk/gallery/?albumID=8)_

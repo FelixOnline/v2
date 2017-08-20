@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200658-felix-rlt0512.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200658-felix-rlt0512.jpg"
+image_caption: ""
 ---
 
 If iPads and eReaders don’t make the journey into university feel futuristic enough, meet their hair-raisingly modern companion, the driverless car.

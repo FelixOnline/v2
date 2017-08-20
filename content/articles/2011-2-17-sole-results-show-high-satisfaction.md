@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The College has recently released results of the 2010 Autumn Student Online Evaluation (SOLE) survey aimed at measuring undergraduate students' opinions about the teaching in the first college term. The results of the survey are mainly positive, with overall satisfaction across the College for different aspects of lecture courses ranging from 84% to 92%. The proportion of students answering either “good” or “very good” saw a marked increase from 2009 for all the questions which had also been asked that year.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
+image_caption: ""
 ---
 
 Reading peer-reviewed journal articles is one of the most crucial parts of studying science. Whether you’re an undergraduate trying to write a literature review or a researcher trying to find a new method, journals are the primary way of sharing new information on research topics with both specialists and generalists. Most, if not all journal articles are published online for download in PDF format ahead of their print debut. If you or your institution have a subscription to the journal, or it’s an open journal like the PLOS series, then you can easily find and download the article with PubMed or another peer-reviewed journal index. Once you’ve got the journal of course it’s a simple matter of just loading up your PDF reader of choice to read it. For one article that’s fine, but imagine you read several articles a day and end up a library of journal articles totalling into the hundreds, how do you keep them organised?

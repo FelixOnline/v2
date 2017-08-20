@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290126-cj914-10.3787877f.jpg"
-image_caption: >
-  Pomp and Ceremony: setting out the future for the UK
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290126-cj914-10.3787877f.jpg"
+image_caption: ""
 ---
 
 On Wednesday the 27th May, 20 days after the general election, the Queen outlined the proposed legislation of the new government.

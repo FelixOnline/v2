@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
+image_caption: ""
 ---
 
 As I watched Trump’s inauguration ceremony at fivesixeight, where I work, and observed exuberant Americans celebrating with champagne, I got thinking about my life. It’s been in a rut lately, just doing my tutorial sheets, coursework, revising, cooking my meals, feeling homesick over Chinese New Year, dealing with crippling insecurity etc. I needed to do something to pump some excitement into my boring life. After all, you’re only young once.

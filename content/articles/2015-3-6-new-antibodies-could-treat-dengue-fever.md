@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
-image_caption: >
-  The Aedes aegypti mosquito: dengue fever causes severe flu-like symptoms, but no vaccine currently exists.
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061707-cj914-aedes_aegypti_biting_human-copy.jpg"
+image_caption: ""
 ---
 
 Researchers from the Department of Medicine at Imperial have identified a new class of antibodies that is effective against the virus that causes dengue fever.

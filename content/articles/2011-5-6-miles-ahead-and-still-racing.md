@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060928-felix-img_0001.jpg"
-image_caption: >
-  Musn't... use... as... coaster!
-image_attribution: "Sorin Cioban"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060928-felix-img_0001.jpg"
+image_caption: ""
 ---
 
 In February, right after using my first generation iPad for about six months, I knew Apple would soon launch its successor so I sold it in order to buy the new one whenever it came out. Not long passed before the end of term came, and I started queuing for the iPad 2 about 17 hours before it was officially launched in the UK.

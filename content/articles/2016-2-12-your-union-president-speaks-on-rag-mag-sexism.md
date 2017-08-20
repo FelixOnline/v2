@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121119-felix-aaa.png"
-image_caption: >
-  Nobody banned anything.
-image_attribution: "RAG"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121119-felix-aaa.png"
+image_caption: ""
 ---
 
 Who’s to blame for the gender imbalance at Imperial, and in science and leadership in general? “Not me”, you’re thinking. For the vast majority of you, that’s correct. But a tiny proportion of our community fails to recognise their role in creating that awful reality.

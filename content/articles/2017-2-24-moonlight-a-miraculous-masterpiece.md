@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241414-felix-p047xqbh.jpg"
-image_caption: >
-  Alex Hibbert and Mahershala Ali are phenomenal in Moonlight
-image_attribution: "Alamy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241414-felix-p047xqbh.jpg"
+image_caption: ""
 ---
 
 In Barry Jenkins’ masterful film Moonlight, the coming of age of a gay, black man is compressed down into a mere 111 minutes, distilled for your viewing pleasure.

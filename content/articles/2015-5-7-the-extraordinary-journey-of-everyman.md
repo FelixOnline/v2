@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
-image_caption: >
-  A scene from Everyman - Chiwetel Ejiofor - Everyman
-image_attribution: "Richard Hubert Smith"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
+image_caption: ""
 ---
 
 For British actor Chiwetel Ejiofor, no role is too large. Coming to national prominence after his showstopping turn in _Othello_ in 2008, for which he won the Olivier Award for Best Actor, he returns to the UK this year with a spade of awards and nominations under his belt thanks to his stirring performance as Solomon Northup in the 2013 Steve McQueen film _12 Years A Slave_, which nabbed the top spot of numerous critics’ end of year lists. However, if any role is to give him pause it would be his latest one: Ejiofor is the titular character in the National Theatre’s production of _Everyman_, taking on the mantle of humanity. Rufus Norris’ first directorial effort as head of the National Theatre, _Everyman_ is a mixed bag, with strong performances and excellent physicality coming up against a lackluster script, whose elements jar in all the wrong places.

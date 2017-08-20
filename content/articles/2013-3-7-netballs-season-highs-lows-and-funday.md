@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Passionate about her sport, Nancy has led the netball club from strength to strength this year; with increased membership, more socials and coming so close to promotion. Despite the difficulties of a plague of injuries and sponsorship woes, ICUNC has had a good year even with potential wins at Varsity to look forward to.

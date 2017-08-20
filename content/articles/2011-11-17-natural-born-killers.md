@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172026-pk1811-battle_royale.jpg"
-image_caption: >
-  How quickly would you turn to killing your friends in order to live?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172026-pk1811-battle_royale.jpg"
+image_caption: ""
 ---
 
 We can all name famous psychopaths, be they the fictional Hannibal Lecter or real life Jack the Ripper. They can cause fear or uneasiness in even the most hardy of us. But what really makes a serial killer? Why are psychopaths so different from ‘us’?

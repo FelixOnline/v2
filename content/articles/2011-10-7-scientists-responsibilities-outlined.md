@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The General Assembly of the [International Council for Science](http://www.icsu.org/) (ICSU) have recently recognised guidelines regarding the responsibilities and universal values which should be considered by scientists.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Just over two years ago we took a look around the recording studio at [IC Radio](http://www.icradio.com/) and thought to ourselves “why don’t we do live sessions here?” Two years later we are completely in a league of our own in student radio, [churning out two sessions a week](http://icradiorecordings.bandcamp.com/) at the highest quality and entertaining some of the best up-and-coming acts that are touring the UK.

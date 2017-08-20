@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061412-ygr12-jiro-dreams-of-sushi-netflix1.png"
-image_caption: >
-  Sushi-master Jiro, with his team.
-image_attribution: "Jiro Dreams of Sushi PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061412-ygr12-jiro-dreams-of-sushi-netflix1.png"
+image_caption: ""
 ---
 
 Found in a subway station of downtown Tokyo and seating only a mere ten people, it’s fair to say Sukiyabashi Jiro is one of the more inconspicuous three-Michelin-starred restaurants in the world. Since expanding their gaze to the Far East, the Michelin guide has become enchanted by the food of Japan, which now boasts more three-starred restaurants than any other country – but there is only one sushi restaurant on this list. Jiro Dreams of Sushi tells the story of the restaurant’s owner, oft-touted ‘best sushi chef in the world’, Jiro Ono, and his quest to perfect the art of sushi making. For all the build-up Jiro gets in this film, however, we eventually find out that the head chef duties actually belong to Jiro’s eldest son and heir, Yoshikazu. Herein lies the depth of the film.

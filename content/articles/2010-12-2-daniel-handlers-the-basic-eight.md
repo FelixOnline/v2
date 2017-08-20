@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022015-ac1507-basic8.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022015-ac1507-basic8.jpg"
+image_caption: ""
 ---
 
 Probably best known under pseudonym Lemony Snicket, author of the popular "[Series of Unfortunate Events](http://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events)" books, Handler's debut novel delves into the lives of a group of close-knit friends at a San Francisco high school with razor sharp precision.

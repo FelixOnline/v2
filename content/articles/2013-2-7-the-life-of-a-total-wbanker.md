@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072311-tna08-ian-hislop.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072311-tna08-ian-hislop.jpg"
+image_caption: ""
 ---
 
 You’ve finished your degree. You worked hard and you got the grades. The world is your metaphorical oyster. With your hard earned piece of paper you can do whatever your heart desires. So why do nearly a third of us end up working in the financial services?

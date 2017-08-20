@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061425-felix-portada-3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061425-felix-portada-3.jpg"
+image_caption: ""
 ---
 
 Reading the book felt as if I was living the story through the eyes of the characters.

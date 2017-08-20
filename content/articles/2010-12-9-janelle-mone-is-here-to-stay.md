@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092030-ma1307-janelle.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092030-ma1307-janelle.jpg"
+image_caption: ""
 ---
 
 Creator of “ArchAndroid”, the 2010 R&B reinventing masterpiece soon to be omnipresent in all the end of year top albums lists Janelle Monáe has been much hyped since her destruction of SXSW 2009. Destruction indeed was what the 2000-strong audience witnessed at the Shepherd Bush Empire.

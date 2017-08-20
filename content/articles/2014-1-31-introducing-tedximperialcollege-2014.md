@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Following the success of the first TEDxImperialCollege conference held at Imperial College two years ago, and TEDMEDLive last March, students from Imperial can now look forward to yet another thought-provoking, mind-engaging TEDx conference to be held on 29 March.

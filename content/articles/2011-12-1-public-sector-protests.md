@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012157-felix-ferix.jpg"
-image_caption: >
-
-image_attribution: "Andrew Fok"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012157-felix-ferix.jpg"
+image_caption: ""
 ---
 
 This Wednesday, public sector workers up and down the country went on strike, in what was described by some as the “biggest walkout for a generation.” The action was directed against the Government’s planned reforms of public sector pensions, which comprise part of its wide-reaching deficit reduction plan.

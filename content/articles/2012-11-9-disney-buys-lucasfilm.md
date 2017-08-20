@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091332-tna08-yoda.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091332-tna08-yoda.jpg"
+image_caption: ""
 ---
 
 Veteran film maker George Lucas has agreed to sell his company Lucasfilms – the company behind the entire Star Wars franchise – to Walt Disney, who will be making a seventh film in the series, to be released in 2015.

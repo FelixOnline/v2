@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142031-ps3110-prime-minister-guy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142031-ps3110-prime-minister-guy.jpg"
+image_caption: ""
 ---
 
 In the 2015 election, one of the largest issues will be the size of the Government. People are asking questions, such as “what should the Government provide?”, and “how much control should the Government have in our lives?”. These questions split the political parties, with Conservatives generally in favour of having a smaller Government, and Labour in favour of a larger one. Parties have a spectrum of answers to this question.

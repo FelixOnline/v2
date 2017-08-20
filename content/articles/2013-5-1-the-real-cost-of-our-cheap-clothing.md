@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305011552-tna08-130424112019-bangladesh-factory-collapse-620xa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305011552-tna08-130424112019-bangladesh-factory-collapse-620xa.jpg"
+image_caption: ""
 ---
 
 As a new term dawns we know we won’t be the only ones indulging in a little online shopping procrastination. We are often reminded to think about where the various elements of our life come from, our food, our energy, but what about our clothes? At a time when your moral and ethical values are seriously questioned if you are seen buying anything other than free range, organic super eggs we very rarely question shopping at chains like Primark of H&M. Well, who can blame us when we can buy all our shoes for under a tenner, right? Maybe not.

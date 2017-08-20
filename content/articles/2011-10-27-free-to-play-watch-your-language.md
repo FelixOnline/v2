@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110280021-felix-loadsamoney.jpg"
-image_caption: >
-  Harry Enfield demonstrating how to be a well-prepared F2P gamer
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110280021-felix-loadsamoney.jpg"
+image_caption: ""
 ---
 
 Free-to-play games are exactly what they say on the tin – video games that don’t cost money to play. If this is what they truly were then I could wrap this article up right now, but unfortunately the rule ‘there’s no such thing as a free lunch’ still remains unbroken. Here’s why.

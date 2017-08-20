@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __O__h chips, glorious chips. The humble deep fried potato strips have been one of the most accessible and consumed foods across the world. It also provides a great subject for banter when stealing your friends’ chips becomes the top priority in the pub. As we near the end of the National Chip Week, it is perhaps time to take a deeper look into the world of chips.

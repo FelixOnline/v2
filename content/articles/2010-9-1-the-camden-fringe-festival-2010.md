@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201009011705-ks607-blonde.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201009011705-ks607-blonde.jpg"
+image_caption: ""
 ---
 
 The Camden Fringe, you say? Nestled into nine venues dotted around the already eclectic Camden Town, NW1’s answer to the Edinburgh Fringe gives us veteran and fresh artists alike, in what is an August-long month of theatre and comedy.

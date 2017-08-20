@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 "Many years later, as he faced the firing squad, Colonel Aureliano BuendÌa was to remember that distant afternoon when his father took him to discover ice..." These are the first words which catapult the reader into Marquez's vibrant imagination and of a novel that has stayed with me from the moment I finished reading it.

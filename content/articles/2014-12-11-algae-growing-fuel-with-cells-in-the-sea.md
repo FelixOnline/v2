@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
-image_caption: >
-  Algae could be used to produce renewable energy without the negative impacts of conventional biofuel
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
+image_caption: ""
 ---
 
 Algae could be the future of renewable energy. For those of you who are unsure, algae are oxygen photosynthetic organisms that form plant-like structures in freshwater or marine ecosystems. But could it be possible for a plant to fuel up your car and get you back home for the Christmas holidays?

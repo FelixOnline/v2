@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032041-pk1811-timthumb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032041-pk1811-timthumb.jpg"
+image_caption: ""
 ---
 
 You know [those music writers who twist meaningless metaphor around meaningless metaphor](http://pitchfork.com/search/?query=Mark+Pytlik) in a futile attempt to recreate the music on paper? Wander/Wonder is basically that kind of reviewer’s wet dream. But it also a bear-trap for anyone who thinks they’re going to slide along without using the word “arrangements” – dammit Pitchfork, wtf does that even mean?!? So I’m going to try my best not to fall into douchebaggery and be completely straightforward about this intensely beautiful album.

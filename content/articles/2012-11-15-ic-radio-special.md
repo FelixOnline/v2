@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152134-tna08-studio-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152134-tna08-studio-1.jpg"
+image_caption: ""
 ---
 
 [IC Radio](http://www.icradio.com/), one of the oldest and coolest student stations in the country, is the official sound of Imperial College London. Broadcasting and streaming in crystal quality from icradio.com, we are on air 24 hours a day, alternating between live shows and playlists from our huge music library.

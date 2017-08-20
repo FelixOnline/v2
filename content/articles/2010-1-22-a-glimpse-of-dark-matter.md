@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221421-rsp07-science.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221421-rsp07-science.jpg"
+image_caption: ""
 ---
 
 In early December last year, the particle physics community was abuzz with rumours of a discovery made by the Cryogenic Dark Matter Search (CDMS-II) collaboration in the US. Announcement talks were scheduled for 18th December, all seminars before that cancelled and there were rumours of a paper submitted by the collaboration to Nature (a rumour, however, that was refuted by a Senior Editor at Nature shortly after it was started). The CDMS had, it was said, found evidence of the existence of dark matter.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102118-nm1010-wakeywak.jpg"
-image_caption: >
-  That's going to hurt...
-image_attribution: "Rosie Caulfield"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102118-nm1010-wakeywak.jpg"
+image_caption: ""
 ---
 
 Imperial’s [Wakeboarding society](http://wakeimperial.co.uk/) competed at local waterhole Liquid Leisure on March 2nd against eight universities. With 100 students hitting the water in less than comfortable temperatures – the competition took real dedication to the sport. Imperial brought eight people to compete including two girls (good ratio).

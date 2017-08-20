@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
-image_caption: >
-  If you squint, the bricks behind Zola Jesus almost look like forks
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
+image_caption: ""
 ---
 
 __EMA __stands for Erika M. Anderson, but she performs with a full band. Her debut album _Past Life Martyred Saints_ has been gathering positive reviews from across the music press spectrum, and for good reason. The live performance is something else, though. The whole gig switches between haunting vulnerability and rip-your-face-off intensity. Her lyrics are rarely positive and she doesn’t betray that with her stage demeanour.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171544-felix-maxresdefault (5).jpg"
-image_caption: >
-  Animals
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171544-felix-maxresdefault (5).jpg"
+image_caption: ""
 ---
 
 Remember the good old days, when we had the environment themed shows like Captain Planet? Well, if you miss that era, here are some shows that’ll help you get your fill of green TV.

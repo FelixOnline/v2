@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140002-tna08-manhunter.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140002-tna08-manhunter.jpg"
+image_caption: ""
 ---
 
 Between a live date in Oto as a duo and another in a large ensemble with Oren Ambarchi, I was able to grab an interview with Australian musucians James Rushford and Joe Talia. Aside from my aiming for an inside scoop about the night’s rendition of ‘Knots’ (from Ambarchi’s Audience Of One), we primarily discuss their work as a duo. and especially their 2013 album Manhunter.

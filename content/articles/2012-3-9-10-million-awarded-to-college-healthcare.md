@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203090105-felix-icl_hammersmith_213.jpg"
-image_caption: >
-  Hammersmith Hospital
-image_attribution: "Layton Thompson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203090105-felix-icl_hammersmith_213.jpg"
+image_caption: ""
 ---
 
 [Imperial College Healthcare Trust](http://www.imperial.nhs.uk/) has been awarded over £10m from the National Institute for Health Research (NIHR) to develop new treatments. The Trust successfully bid for the funding to support its newly refurbished Wellcome Trust McMichael Clinical Research Facility at Hammersmith Hospital.

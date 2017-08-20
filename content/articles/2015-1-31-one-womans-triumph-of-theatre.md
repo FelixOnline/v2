@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Smart, sexy and absurd. One woman shows do not get any better than this. For an hour of complete hilarity, Violet Fox recounts her struggles to be an ever more extraordinary artist for her exceptionally ordinary audience.

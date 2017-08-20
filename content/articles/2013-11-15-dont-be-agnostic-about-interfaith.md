@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150246-felix-wordof-god.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150246-felix-wordof-god.png"
+image_caption: ""
 ---
 
 Next week is National Interfaith Week, established four years ago to bring people of different faiths and beliefs together and build bridges and mutual appreciation between social groups that may not mix on a regular basis. While it hasn’t been ‘celebrated’ or ‘observed’ at Imperial College (depending on one’s Interfaith views) I think that we are foolish to pass up the opportunity- especially when our faith societies are as big as they are.

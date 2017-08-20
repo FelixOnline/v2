@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092228-felix-252_5284.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092228-felix-252_5284.jpg"
+image_caption: ""
 ---
 
 There is uncertainty about the future of halls of residence, [Wilson House](https://halls.imperial.ac.uk/wilson/), this week as it is scrutinized for feasibility. Due in the coming weeks, the report of an on-going feasibility study will help determine if and when Wilson House will be closed for refurbishment, potentially during the next academic year (2012-2013).

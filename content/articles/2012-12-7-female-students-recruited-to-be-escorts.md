@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070039-tna08-sponsor-a-scholar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070039-tna08-sponsor-a-scholar.jpg"
+image_caption: ""
 ---
 
 The Independent has uncovered that [female students are being offered up to £15,000 a year to pay for their university fees in return for having sex with a strange](http://www.independent.co.uk/news/uk/crime/sex-for-tuition-fees-anyone-students-being-offered-up-to-15000-a-year-to-cover-cost-of-university-in-exchange-for-having-sex-with-strangers-8364894.html)r. A website called [SponsorAScholar.co.uk](http://sponsorascholar.co.uk/) proclaimed that they have set 1,400 women between the ages of 17-24 with wealthy businessmen that funded their studies.

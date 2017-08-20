@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142137-pk1811-dsc02584.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142137-pk1811-dsc02584.png"
+image_caption: ""
 ---
 
 _Jyi Sim is a bubbly 3rd year aero with a enthusiasm that goes beyond the day job. Her passion for music and what it meant to her became clear as we talked. Jyi’s self produced first album Postcards from Unity draws heavily on her upbringing in Malaysia and the shock of moving to the UK. Recording and producing all of the tracks herself, she is now working on her second EP of down-tempo fusion._

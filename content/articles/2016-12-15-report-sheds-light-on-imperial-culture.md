@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
+image_caption: ""
 ---
 
 Results of a report investigating Imperial’s institutional culture were recently released to the public, revealing a troubling picture behind the shining facade of academic excellence.

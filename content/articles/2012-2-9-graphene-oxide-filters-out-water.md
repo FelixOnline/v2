@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
-image_caption: >
-  90% vodka, anyone?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
+image_caption: ""
 ---
 
 In a paper recently published in _Science_, a team from the [University of Manchester](http://www.manchester.ac.uk/) has reported that graphene oxide is capable of selectively filtering water molecules, leaving all other types of molecule blocked. This is a particularly surprising result for the team, who, from previous research, expected the graphene derivative to be completely impermeable.

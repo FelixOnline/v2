@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m sure I’m not alone in my scepticism of the apparent healing properties of alcohol when suffering from a cold or general post-Saturday-night divine punishment. Yet the latest research conducted at Emory University, Atlanta, suggests that fruit flies genuinely use alcohol to combat infection – from parasitic wasps.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
-image_caption: >
-  Raincatcher Imperial took over Metric last year as well
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232142-pk1811-200562_10150445878495018_639375017_17427864_7710888_n.jpg"
+image_caption: ""
 ---
 
 [Raincatcher Imperial](http://www.RaincatcherImperial.ac.uk) has been working tirelessly for the past months to fundraise for a water harvesting system in Tabora that will give clean, drinkable water for local schoolchildren. Coming up tomorrow (Saturday 25 February) is one of our biggest events of the year, our [Metric Night: Let it Rain](http://www.imperialcollegeunion.org/metric/event.html?Lid=0&Pevent=com.othermedia.imperial.model.EventHandle-L-2005#mainEvent).

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031431-ps3110-screen-shot-2015-03-03-at-14.30.58.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031431-ps3110-screen-shot-2015-03-03-at-14.30.58.png"
+image_caption: ""
 ---
 
 At the Millennium Summit in September 2000, the largest gathering of world leaders in history adopted the UN Millennium Declaration, committing their nations to a new global partnership to reduce extreme poverty and setting out a series of time-bound targets, with a deadline of 2015, that have become known as the Millennium Development Goals (MDGs). Now we’ve hit 2015, the London International Development Conference (IDC) asked what progress has been made, and more significantly, how can the global development agenda adapt to address a different set of challenges?

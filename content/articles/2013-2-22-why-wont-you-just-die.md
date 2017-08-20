@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220128-tna08-reg_1024.diehard7.mh.010413.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220128-tna08-reg_1024.diehard7.mh.010413.jpg"
+image_caption: ""
 ---
 
 Well let’s face it – thechances of the fifth movie in ANY film franchise being spectacular were slim. But when Die Hard 4.0 (aka Live Free or Die Hard) was a bit rubbish, this one was bound to be equally shoddy. Which it was.

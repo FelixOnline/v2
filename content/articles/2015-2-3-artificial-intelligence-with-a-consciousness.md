@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031454-ps3110-ex-machina-photoshopped.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031454-ps3110-ex-machina-photoshopped.jpg"
+image_caption: ""
 ---
 
 Science fiction film Ex-Machina has recently hit cinemas worldwide, a psychological thriller to tantalise our over-active imaginations of a future where artificial intelligence has a consciousness. But how far are we from any of these ideas becoming reality? In Ex Machina audiences are supposed to believe that the artificially intelligent character, Ava, has a sense of self. Young programmer Caleb is asked to test Ava’s consciousness and reveals that Ava is a bonafide intelligent huminoid capable of feeling emotions. The suffering she later experiences in the film evokes within us a sense of injustice; if she has a consciousness surely she should be entitled to freedom?

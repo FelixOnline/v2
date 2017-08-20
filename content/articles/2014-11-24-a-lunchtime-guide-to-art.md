@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
-image_caption: >
-  Serpentine Gallery Pavilion 2014. Designed by Smiljan Radic.
-image_attribution: "Photo: Iwan Baan. Courtesy of Serpentine Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
+image_caption: ""
 ---
 
 Have you ever been left needing your art fix half way through a day of mindlessly dull lectures? Well look no further than this guide, my Lunchtime Guide to Art, which tells you about all the amazing galleries and museums that are on offer within a stone’s throw of Imperial’s South Kensington campus. And it is quite extraordinary; I can’t imagine there are many universities where you can walk five minutes down the road, see one of the world’s best art collections and still be back in time for lectures to start again an hour later.

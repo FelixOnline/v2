@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511201407-ff712-tangerine_011-1600x900-c-default.jpg"
-image_caption: >
-  Tangerine breaks new ground with its depiction of transgender sex workers
-image_attribution: "Radium/AP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511201407-ff712-tangerine_011-1600x900-c-default.jpg"
+image_caption: ""
 ---
 
 Transgender revenge dramedies are somewhat hard to come by in a cinema. In fact I’m not sure many of them exist at all. If you need to bump up your street cred, then, _Tangerine_ will definitely be the edgiest film you’ll see this month, perhaps this year. Fortunately it’s got enough substance in it that you can get more out of it than just a good story.

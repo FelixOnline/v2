@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142104-ks607-aaronpor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142104-ks607-aaronpor.jpg"
+image_caption: ""
 ---
 
 The Browne review into higher education funding and student finance has recommended not only a doubling of tuition fees, but made provisions for a free market in tuition fees.

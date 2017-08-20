@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 According to an American study from academics at the Universities of Washington and Maine, “students in classes with traditional lecturing [were] 1.5 times more likely to fail than were students in classes with active learning.”

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010049-tna08-yeasayer-picsbw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010049-tna08-yeasayer-picsbw.jpg"
+image_caption: ""
 ---
 
 After their successful release of Fragrant World, Yeasayer decided to grace the Shepherd’s Bush Empire with a set list heavy on songs from their latest album. In the air was a whiff of dope.

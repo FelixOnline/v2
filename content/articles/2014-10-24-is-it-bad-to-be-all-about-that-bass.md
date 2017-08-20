@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021844-ps3110-meghantrainor.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021844-ps3110-meghantrainor.png"
+image_caption: ""
 ---
 
 Meghan Trainor’s super-catchy ‘All About That Bass’ has been “getting flak” (as she puts it) from all angles, from people of all walks of life, all of whom seem to have something to say about this seemingly body-positive bubblegum pop song.

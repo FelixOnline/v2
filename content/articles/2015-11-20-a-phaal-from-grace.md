@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200945-ygr12-6.jpg"
-image_caption: >
-
-image_attribution: "Imperial College Rugby"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200945-ygr12-6.jpg"
+image_caption: ""
 ---
 
 Imperial travelled to Royal Holloway last Wednesday to start what they hoped would be a long cup run culminating in some silverware. Falling on Remembrance Day and being followed by the club curry night, there was a lot to play for to ensure that IC got back on track after an unmentionable loss to the medics the week before.

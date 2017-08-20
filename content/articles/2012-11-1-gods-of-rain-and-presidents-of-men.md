@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012242-csw09-hurricane-sandy.jpg"
-image_caption: >
-  A visual metaphor for Mit Romney's campaign
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012242-csw09-hurricane-sandy.jpg"
+image_caption: ""
 ---
 
 Mother nature and the election campaigns seem to be syncing up: [hurricane Sandy](http://www.bbc.co.uk/news/world-us-canada-20131303) makes landfall just as the last week of campaigning is underway. But just what does this superstorm mean for the presidential hopefuls?

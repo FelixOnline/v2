@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312192051-mtm10-bc1.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312192051-mtm10-bc1.png"
+image_caption: ""
 ---
 
 It started out as a game to win £10,000, but the stakes were so much higher than expected.

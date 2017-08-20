@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
+image_caption: ""
 ---
 
 Britain’s political leaders are having a rough December. As three wise men steadily travel from the East to a barn in Bethlehem with gifts of gold, myrrh, and frankincense, it seems that we at home have been left to cope with three vain stooges that can only offer broken pledges, little international presence, and noticeable inexperience.

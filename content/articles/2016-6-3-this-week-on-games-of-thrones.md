@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031124-felix-got1.jpeg"
-image_caption: >
-
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031124-felix-got1.jpeg"
+image_caption: ""
 ---
 
 This week’s episode came with a lot of throwbacks to characters of previous seasons. Hope you’ve got a good memory.

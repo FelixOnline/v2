@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262215-cac111-the_descendants-1024x1024.jpg"
-image_caption: >
-  Time to drive away from all those damn photographers – and the crazy women after a piece of Clooney
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262215-cac111-the_descendants-1024x1024.jpg"
+image_caption: ""
 ---
 
 ###  The Descendants

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
+image_caption: ""
 ---
 
 In an unpromising start to the New Year, the reputation of Imperial College School of Medicine was brought into disrepute by a scathing article published in the Daily Mail.

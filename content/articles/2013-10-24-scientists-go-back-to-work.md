@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
-image_caption: >
-  Amundsen-Scott south pole station, now under “caretaker status”
-image_attribution: "Ethan Good"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
+image_caption: ""
 ---
 
 The 16 day US government shut-down ended last week with an uneasy truce. Obama’s refusal to accept the House Republican’s condition of delaying Obamacare led to the closure of many federal science institutions, painfully elucidating the instability of government funded science in America.

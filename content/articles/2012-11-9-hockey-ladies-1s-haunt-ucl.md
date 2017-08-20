@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091429-tna08-ladies-hockey.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091429-tna08-ladies-hockey.jpg"
+image_caption: ""
 ---
 
 On All Hallows Eve the Ladies 1’s set out to play some oldrivals UCL. UCL definitely had a point to prove as we had put them out of 2 cups last year. We went out hard in the first 10mins with a new line-up having fresher Bryony in central-midfield controlling the game. With some good play down the right, from Gigi and Hazman we scored our first goal from a short corner, from banana slit (Harriet).

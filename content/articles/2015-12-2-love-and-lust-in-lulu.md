@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
-image_caption: >
-  Clive Brada/ Guildhall School 2015
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
+image_caption: ""
 ---
 
 Frank Wedekind’s Lulu is a story of seduction and tragedy. Choosing adjectives to describe Nicholas Wright’s adaptation of this controversial nineteenth-century play is challenging. It’s humorous at first, Lulu (though she is known by a variety of names) works her way through several husbands in German high society and gains considerable notoriety. She enjoys her power, the attention she receives and the privilege of wealth.

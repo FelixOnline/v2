@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the last few weeks there have been some very disgruntled Liberal Democrat supporters. The feeling that the Lib Dems had ‘sold out’ and forgotten their election pledges is widespread. So in light of the spending review, have the Liberal Democrats broken their election promises?

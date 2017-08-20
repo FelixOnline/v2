@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
-image_caption: >
-
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
+image_caption: ""
 ---
 
 Forget Brian Cox and David Attenborough. Forget science documentaries about space and animals, for a little while at least. There’s a new generation of TV presenters giving us insights into big cities, old jazz clubs and sacred rivers and we are definitely digging it.

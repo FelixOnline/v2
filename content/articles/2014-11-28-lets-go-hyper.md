@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280054-ps3110-for-website.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280054-ps3110-for-website.jpg"
+image_caption: ""
 ---
 
 The biannual gathering of dedicated Japanese markets and exhibitors took place two weekends ago, and managed an exhibition which was a verifiable smorgasbord of Japanese culture.

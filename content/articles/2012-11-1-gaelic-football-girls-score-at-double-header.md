@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012307-csw09-icgag%20ladies%2021st%20oct%20%2712-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012307-csw09-icgag%20ladies%2021st%20oct%20%2712-1.jpg"
+image_caption: ""
 ---
 
 How does a division 3 sport’s team respond to the challenge of playing two division 1 standard teams back to back within the one day?

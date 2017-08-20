@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091858-felix-oilandwater.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: "http://christopherwalmsley.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091858-felix-oilandwater.jpg"
+image_caption: ""
 ---
 
 Just like oil and water...

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031511-felix-32419406030_725150e375_o.jpg"
-image_caption: >
-  Sequence ALL the life!
-image_attribution: "Marc Veraart"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031511-felix-32419406030_725150e375_o.jpg"
+image_caption: ""
 ---
 
 On the 23rd of February, a small group of researchers announced they wanted to sequence “all life on Earth” at a meeting organised by the Smithsonian Initiative of Biodiversity Genomics and China-based sequencing powerhouse BGI. The plan has been aptly named the Earth BioGenome Project (EBP), and would firstly focus on sequencing the DNA of the eukaryotes – the group of organisms that includes plants, animals, fungi and single-celled microorganisms like amoebas.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
-image_caption: >
-
-image_attribution: "University of Birmingham"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
+image_caption: ""
 ---
 
 Graduation is a time for celebration, to reflect on the years you have spent working hard to achieve your goals both academically, personally and ultimately to move onto the next stage of your life. Your time with us at Imperial will have equipped you with a world class education and also exposed you to lots of opportunities to develop your key skills that will make you employable in the future.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302281731-txl11-jk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302281731-txl11-jk.jpg"
+image_caption: ""
 ---
 
 Qi. This sounds like some sort of Chinese “life energy” philosophy, but that’s not what we are talking about here. Pronounced “chee”, Qi is a wireless inductive power standard that is increasingly being adopted by handset manufacturers such as Nokia and LG for inclusion into their handsets. For phones that do not support the wireless charging standards, there are cases designed to envelope the devices and provide wireless charging capabilities. But is wireless charging even necessary, or is it just a solution to no one’s problem?

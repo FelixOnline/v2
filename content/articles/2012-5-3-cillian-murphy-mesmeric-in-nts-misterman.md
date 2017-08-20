@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 God, redemption, religion, the forces of good and evil. It is hard to tackle these none too light topics in a manner which doesn’t become cumbersome. Peter Cadwell did it in The Fighter’s Ballad, but confronts the bull head-on – the film is no laughing matter. Enda Walsh’s Misterman deals with similar ideas of Right and Wrong, albeit couched in the very Irish and Catholic setting of Innisfree – a small isle lagooned in the Emerald Isle.

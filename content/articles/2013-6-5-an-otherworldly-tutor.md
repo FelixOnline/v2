@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051356-tna08-1029484828.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051356-tna08-1029484828.jpg"
+image_caption: ""
 ---
 
 Ever wanted to build a boring wasteland of a planet into a thriving world? Or control giants that can influence the planet on a large scale? “Dammit, ocean giant, I said one space to the left!” Okay, command giants; they’re a bit imprecise. “Come back forest giant, I need you over here!” The silly things. Anyway, forget Black & White, four giants is much more fun than one creature that doesn’t even have complete control over the topography!

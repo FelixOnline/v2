@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After a political turmoil that took a toll on the lives of thousands of hapless innocent Syrians, peace talks between opposing factions has emerged as the only recourse for the multitude. The situation on ground has deteriorated beyond recognition- derelict streets, blast ravaged homes, unemployed youth, crying orphans and polio-infested children abound the Syrian land.

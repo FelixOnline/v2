@@ -1,7 +1,7 @@
 ---
 id: "gch10"
 title: George Howard
-image_path: "http://felixonline.co.uk/img/upload/201111110953-felix-george-howard.jpg"
+image: "http://felixonline.co.uk/img/upload/201111110953-felix-george-howard.jpg"
 twitter: ""
 facebook: ""
 website_url: ""

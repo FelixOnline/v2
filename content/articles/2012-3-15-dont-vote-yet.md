@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You heard me. Despite being torn three or more ways between candidates telling you to vote for them, hold back until you’ve heard what I have to say (assuming you have a voice in your head when reading this), or even completely. This article is no more than twelve hours from being too late for this year, but should serve well for next year’s elections and beyond.

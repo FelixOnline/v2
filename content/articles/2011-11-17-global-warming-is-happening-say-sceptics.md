@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
-image_caption: >
-  I didn’t commision this piece just so I could use a photo of baby polar bears. Honest
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
+image_caption: ""
 ---
 
 It’s officially official! The Earth is heating up. This is the conclusion of the most up-to-date and comprehensive study into recent changes in Earth’s land surface temperatures. The Berkeley Earth Project (BEP), based at the University of California, was developed by a group of climate scientists and statisticians in response to criticisms by climate sceptics of existing surface temperature records. The project combined over 1.6 billion measurements from the last two hundred years from over 39,000 weather stations globally, and utilised new statistical algorithms to integrate the multiple fragmented data sets available from the historical record. Their results reveal an 1°C increase in average global temperature since the 1950’s, a conclusion that is supported by multiple existing temperature records produced by the Met Office, NASA, the US National Oceanic and Atmospheric Administration and the Climate Research Unit (CRU) at the University of East Anglia.

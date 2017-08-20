@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301507-ygr12-12168795_10204973576569214_583057801_o.jpg"
-image_caption: >
-
-image_attribution: "Imperial Eagles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301507-ygr12-12168795_10204973576569214_583057801_o.jpg"
+image_caption: ""
 ---
 
 Imperial College’s handball club, Imperial Eagles, kicked off the season taking part in a one-day tournament which had a field including University College London, Kings College London, Brunel and Middlesex. For the participating teams the tournament serves as preparation for the upcoming league games and the UK University Championships. After winning the London universities league (LUSL) in 2013 and finishing second last season, the Eagles were also the defending champions of this tournament, having beaten UCL in a tough final last year.

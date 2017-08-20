@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102111-pk1811-te_blr_2069.jpg"
-image_caption: >
-  Mr Shooter’s Darjeeling Himalayan Steam Locomotive – in his own back garden
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102111-pk1811-te_blr_2069.jpg"
+image_caption: ""
 ---
 
 Behind a large brown door in Marylebone station are the offices of Chiltern Railways, the UK’s fastest growing train operating company over the past 15 years. A few minutes after being shown into a modest meeting room on the top floor of the building, Adrian Shooter, CBE and Chairman of Chiltern Railways, enters, apologising for the delay.

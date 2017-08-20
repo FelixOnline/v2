@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201307081237-tna08-kentishfire360.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201307081237-tna08-kentishfire360.jpg"
+image_caption: ""
 ---
 
 Ever wondered what it's like to have eyes in the back of your head? Indie band [Kentish Fire](http://www.kentishfire.co.uk/) reveal all with an innovative new music video filmed using a 360° panoramic camera – the same used to create Google Street View maps. With help from a Kickstarter campaign starting this week, the ambitious project will culminate in a public video shoot in London this August, and the band want you to get involved.

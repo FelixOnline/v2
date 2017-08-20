@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232137-pk1811-img_4192-edited.jpg"
-image_caption: >
-  I would photoshop a love heart, but that may be hard to justify as time well spent...
-image_attribution: "Imperial College Singapore Society"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232137-pk1811-img_4192-edited.jpg"
+image_caption: ""
 ---
 
 Last Saturday, I went with my housemate to watch [_Solemates_](http://www.union.ic.ac.uk/osc/singapore/major-event/), the event put on by [Singapore Society](http://www.union.ic.ac.uk/osc/singapore/). I had never been to any of their events before and didn’t really know what to expect. I found a packed Great Hall, which had been converted into a theatre. The first thing that hit me was the Great Hall could actually be used for things other than exams.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131429-felix-LalalandPic1.jpg"
-image_caption: >
-
-image_attribution: "Dale Robinette - AP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131429-felix-LalalandPic1.jpg"
+image_caption: ""
 ---
 
 It turns out Ryan Gosling is as roguishly charming and wonderful in person as we all hoped he would be. I was lucky enough to see La La Land for the first time at a London Film Festival screening, after which he appeared to a hurricane of cheers and thrown roses/knickers for a Q&amp;A. When asked about the challenges he had faced singing and dancing for the film, he cracked that the real challenge was having his director Damien Chazelle constantly walking around the set in baggy old-timey gangster trousers, clown shoes, and an oversized monocle that he insisted on wearing. What. A. Dreamboat.

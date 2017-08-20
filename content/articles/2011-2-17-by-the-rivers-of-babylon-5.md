@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 One of my most pleasant discoveries since arriving at Imperial has been the amazing science fiction library. For a small membership fee anybody can borrow items from its vast collection of over 9000 books and 1800 DVDs. It’s allowed me to see brilliant films, such as Donnie Darko, and TV shows such as Firefly and, most recently, Babylon 5.

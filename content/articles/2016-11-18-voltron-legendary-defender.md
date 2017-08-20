@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181507-felix-VLT_Still_4.0.0.jpg"
-image_caption: >
-
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181507-felix-VLT_Still_4.0.0.jpg"
+image_caption: ""
 ---
 
 Upon first hearing of the Voltron reboot, I was sceptical. The focus of the show was to be on giant flying robotic lions that could combine together to  form an even larger robot. It made me think that it would be a lesser version of a Transformers/Power Rangers mash-up. Two things made me decide to give it the benefit of the doubt. One was the fact that it was on Netflix, which has yet to disappoint with any of its original shows. The other was the fact that the creators of the beloved Avatar shows (Legends of Aang and Korra) were the show runners. I’m happy to say that my expectations were blown straight out of the gate and that I’m now a Voltron fan.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282046-ks607-dirtyhar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282046-ks607-dirtyhar.jpg"
+image_caption: ""
 ---
 
 No, I kid you not, they were really going to make a Dirty Harry game. To be set in between the first two films, the game was to focus on SFPD Inspector Harry Callahan as he pursues the serial killer Scorpio. One of the creative aims driving its production was to further develop the character of Dirty Harry himself, a man so ridiculously bad-ass that even people misquoting him sound cool by association.

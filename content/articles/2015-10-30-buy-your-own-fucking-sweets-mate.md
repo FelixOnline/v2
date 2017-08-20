@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301249-ygr12-cecil4evs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301249-ygr12-cecil4evs.jpg"
+image_caption: ""
 ---
 
 There are many things that irritate me more than my chafing thighs, but this week’s focus, Halloween, gets more on my tits than Dr Eva Carneiro did on Jose Mourinho’s. From jack-o(ff)-lanterns, to shit-o’-treating, this hyper-popular Americanism grates on me more than a dry shave in the heat of summer, and here’s why.

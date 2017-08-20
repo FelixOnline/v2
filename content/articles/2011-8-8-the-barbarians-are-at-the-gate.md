@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201108081444-felix-morrisons.jpg"
-image_caption: >
-  Truffles and supermarkets – a match made in Morrisons heaven?
-image_attribution: "KamCity"
-image_attribution_link: "http://www.kamcity.com/images/retailer/morrisons.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201108081444-felix-morrisons.jpg"
+image_caption: ""
 ---
 
 Everyone thinks Morrisons is for cheap northerners. At least, [according to a recent report](http://www.telegraph.co.uk/foodanddrink/foodanddrinknews/8668574/Italian-black-truffles-on-sale-in-Morrisons.html), Morrisons think that people think that they are for cheap northerners. So, they have started selling black Italian truffles.

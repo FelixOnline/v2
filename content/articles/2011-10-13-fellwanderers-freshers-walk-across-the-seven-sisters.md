@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Early on Sunday morning, more than 70 sleepy freshers made their way to Victoria and began to congregate around the Fellwanderers banner which was proudly flying between two poles. Once everyone had purchased their tickets and handed them to Heather, our responsible adult, we made our way to the platform. The group’s size quickly became evident, much to the dismay of the ticket collectors - who promptly opened the gates and waved us through without much question.

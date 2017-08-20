@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151757-felix-Screen Shot 2017-05-15 at 17.56.50.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151757-felix-Screen Shot 2017-05-15 at 17.56.50.png"
+image_caption: ""
 ---
 
 As the threat of climate change continues to loom large over society, activists are turning to more creative methods to encourage the large-scale change that we urgently need. Where traditional political methods have failed, divestment is now making serious progress on university campuses, in city halls, and financial institutions around the world.

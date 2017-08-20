@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092208-cac111-untitled.png"
-image_caption: >
-  The early plans for the Central Line extension were quick to be shelved
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092208-cac111-untitled.png"
+image_caption: ""
 ---
 
 It is very difficult to retain a historical perspective of the present. Artistic movements only acquire recognition and an associated nomenclature once they are well established, or in many cases once they have peaked. However, I am going to stick my neck out to predict that art histories yet to be written will refer to ‘Sciencism’ or ‘Technophilism’ originating in our time. Perhaps some other silly name will be used, but I stand by my hunch. A term will be required to collect the current dearth of art/science collaborations.

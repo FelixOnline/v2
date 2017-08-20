@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610281639-felix-UnionCouncil.jpg"
-image_caption: >
-
-image_attribution: "Cem Hurrell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610281639-felix-UnionCouncil.jpg"
+image_caption: ""
 ---
 
 The first Council meeting of the year took place last Tuesday and Nas Andriopoulos, Union President failed to present a written report, in violation of his constitutional obligations. Council is the representative voice of the student body and part of this includes holding the sabbatical officers to account. As such, Council requires they produce reports on what they’ve been up to.

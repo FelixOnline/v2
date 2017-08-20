@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092036-ma1307-Tallestm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092036-ma1307-Tallestm.jpg"
+image_caption: ""
 ---
 
 A packed, expectant Electric Ballroom welcomed on stage Idiot Wind’s deep enchanting voice. The simultaneously life partner and support act for Kristian Matsson comfortably slipped into the big shoes any act with a Dylan reference in its name has to walk on. Amanda Bergman’s stunningly sweet and rough voice fused into the pretty, yet simple, melodies her Yamaha piano filled the room with, creating a quietness of approval that silenced even the more chatty spectators.

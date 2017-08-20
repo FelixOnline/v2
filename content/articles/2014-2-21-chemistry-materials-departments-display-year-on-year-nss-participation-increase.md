@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Chemistry and Materials Departments have shown a marked improvement from the number of final year students who have completed the National Student Survey. At the time of writing, Chemistry had achieved 93.54% participation, 23.9% higher that last year’s final figure. In comparison the department of Materials has seen a smaller gain of 4.46% over last year’s 78.87% figure.

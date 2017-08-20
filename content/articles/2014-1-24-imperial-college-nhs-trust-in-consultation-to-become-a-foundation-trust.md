@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College Healthcare NHS Trust is currently consulting on proposals to become a foundation trust. If successful, a foundation trust status will allow Imperial College Healthcare NHS Trust to become a not for profit entity that works independently from the government. The third public meeting was held on Thursday (Jan 16).

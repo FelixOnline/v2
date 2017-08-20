@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292356-ps3110-img_3408.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292356-ps3110-img_3408.jpg"
+image_caption: ""
 ---
 
 The International Championship of Collegiate A Cappella (ICCA) Semi-Finals took over the Great Hall last Saturday, seeing three of our own groups competing and the Techtonics placing fourth.

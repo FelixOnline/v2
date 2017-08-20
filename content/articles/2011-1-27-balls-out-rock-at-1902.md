@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272036-ks607-felixmus.jpg"
-image_caption: >
-
-image_attribution: "Luke Tomlin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272036-ks607-felixmus.jpg"
+image_caption: ""
 ---
 
 It’s tough being a guitar band in 2011. Only three guitar-based tunes were featured in the UK’s top 100 best-selling songs of 2010. It gets even more depressing when you realise that half of the top 40 songs featured were by David Guetta, Black Eyed Peas or Rihanna.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022107-ac1507-norman.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022107-ac1507-norman.jpg"
+image_caption: ""
 ---
 
 __You’ve said previously that there is a possibility of resolving the Arab-Israeli conflict and it’s not an eternal conflict that can’t be resolved. What keeps you so optimistic?__

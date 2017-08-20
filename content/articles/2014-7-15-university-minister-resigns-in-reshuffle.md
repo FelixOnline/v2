@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201407150351-kmw13-david_willetts_13031_450.jpg"
-image_caption: >
-
-image_attribution: "Times Higher Education"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201407150351-kmw13-david_willetts_13031_450.jpg"
+image_caption: ""
 ---
 
 Conservative MP David Willetts has resigned his post as Universities Minister as part of the current cabinet reshuffle. Mr Willetts was previously the Shadow Universities Minister and the Shadow Education Minister. His replacement will be Greg Clark.

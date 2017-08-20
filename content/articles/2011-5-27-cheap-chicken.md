@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271456-felix-fried-chicken-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271456-felix-fried-chicken-2.jpg"
+image_caption: ""
 ---
 
 Cheap Chicken will never die. If anything it is on the increase, despite McDonald’s and the ubiquitous beef burger having been around longer even than most of us. The trouble is that it is looking as though its days may well be numbered, not least because various things have now clipped its wings.

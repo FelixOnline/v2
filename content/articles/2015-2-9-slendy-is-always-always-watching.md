@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091935-ps3110-slender2.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091935-ps3110-slender2.png"
+image_caption: ""
 ---
 
 S_lender: The Eight Pages_ was the first horror game I played. I remember seeing many videos of the game before I played it and thinking this doesn’t look that scary, so ignorantly I downloaded the free indie game and began to play.

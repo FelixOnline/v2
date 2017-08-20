@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212100-kmw13-generic-image.jpeg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212100-kmw13-generic-image.jpeg"
+image_caption: ""
 ---
 
 Five researchers from Imperial College London have been elected to the Fellowship of the Academy of Medical Sciences in recognition of their work in medical science.

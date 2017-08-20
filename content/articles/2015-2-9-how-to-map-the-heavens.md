@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091928-ps3110-screen-shot-2015-02-09-at-19.28.28.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091928-ps3110-screen-shot-2015-02-09-at-19.28.28.png"
+image_caption: ""
 ---
 
 __Ben Fernando: So why is it important to measure distances in cosmology?__

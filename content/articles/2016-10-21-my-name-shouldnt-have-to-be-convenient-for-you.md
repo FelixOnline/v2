@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211411-ajp15-9608807888_d691ecb613_o.jpg"
-image_caption: >
-
-image_attribution: "US Department of Education"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211411-ajp15-9608807888_d691ecb613_o.jpg"
+image_caption: ""
 ---
 
 Most school children would celebrate at the glimpse of a substitute teacher. Even the most well behaved students are relieved to ditch their teacher’s pet persona momentarily. However, for some Black minority and ethnic (BME) students the arrival of a substitute teacher elicits a familiar dread. As the naïve teacher grasps the register, an awkward smile is instinctively plastered across the faces of BME pupils. A smile that is worn as a shield to deflect the imminent ridiculing laughter. A series of Western European names are called out seamlessly and then, at an expected point, an anxious declaration of “I can’t say this one” triggers a wave of giggles. The cackles are even more piercing when a teacher decides to butcher the pronunciation of a BME pupil’s name. This may seem trivial, but names are a fundamental aspect of self-identity. Hence the everyday derision of ethnic names has a negative psychological impact.

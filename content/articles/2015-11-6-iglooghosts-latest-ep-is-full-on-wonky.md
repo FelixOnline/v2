@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061418-ygr12-tniy.jpg"
-image_caption: >
-  Nü, nutty, noncomformist.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061418-ygr12-tniy.jpg"
+image_caption: ""
 ---
 
 Iglooghost is the latest signing to Flying Lotus’ Brainfeeder imprint, and the influence he’s had on the 18-year old producer is immediately noticeable in his latest EP, Chinese Nü Yr. The concept EP tells the story of a gelatinous worm-like creature as it travels through endless wormholes to pink worlds consisting only of cartoonish floating fruit.

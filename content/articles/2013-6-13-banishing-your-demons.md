@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132350-tna08-idichotic.jpg"
-image_caption: >
-  Members of the Bergen fMRI group. Dr Kristiina Kompus (Second from left), Josef Bless (Middle)
-image_attribution: "Alex Craven"
-image_attribution_link: "http://dichoticlistening.com/about-us"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132350-tna08-idichotic.jpg"
+image_caption: ""
 ---
 
 Statistically, approximately one in every 100 of us will develop schizophrenia over the course of our lifetimes. Schizophrenia is one of the more commonly known mental disorders, but also one that remains somewhat of a mystery to non-sufferers. Whilst the Greek root of the word schizophrenia, literally ‘split mind’, implies a split personality the condition is much more than just having a second voice in your head.

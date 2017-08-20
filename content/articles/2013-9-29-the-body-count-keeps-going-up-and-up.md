@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291629-jal08-under-the-dome-0412013-104445.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291629-jal08-under-the-dome-0412013-104445.jpg"
+image_caption: ""
 ---
 
 ###  Under The Dome

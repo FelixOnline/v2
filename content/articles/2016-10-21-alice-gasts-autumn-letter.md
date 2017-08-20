@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211111-so515-Aghast.jpg"
-image_caption: >
-  You Can Call me Al
-image_attribution: "Imperial College"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211111-so515-Aghast.jpg"
+image_caption: ""
 ---
 
 Imperial College President, Alice Gast, released her autumn letter this week and set out College’s vision for the future, a post Brexit future.

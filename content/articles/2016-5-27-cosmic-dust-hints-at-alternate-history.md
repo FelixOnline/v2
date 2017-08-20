@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271052-felix-11938845385_c27c8a945f_k.jpg"
-image_caption: >
-
-image_attribution: "Hubble ESA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271052-felix-11938845385_c27c8a945f_k.jpg"
+image_caption: ""
 ---
 
 At the end a of white-washed hallway on the second floor of the RSM building, Dr Matthew Genge has been unlocking the mysteries of the universe through his research on micrometeorites – otherwise known as cosmic dust. Last week however, Genge published a paper in Nature which opened some doors to understanding Earth’s secrets, and has potentially turned some age-old scientific theories on their head.

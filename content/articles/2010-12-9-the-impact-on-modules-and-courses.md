@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092115-dr910-IanOwens.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092115-dr910-IanOwens.jpg"
+image_caption: ""
 ---
 
 While the Department of Life Sciences maintain that their courses will retain the current ìdepth and breadthî despite the proposed changes, information has surfaced which claims that the number of staff involved in teaching is to be severely reduced, including those convening certain courses.

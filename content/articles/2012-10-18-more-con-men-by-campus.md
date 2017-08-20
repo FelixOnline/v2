@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191344-tna08-tricksters.jpg"
-image_caption: >
-  At it again
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191344-tna08-tricksters.jpg"
+image_caption: ""
 ---
 
 Last week, Felix reported on a con man operating near campus, who was asking people to help him retrieve his car.

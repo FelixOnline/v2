@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106121716-felix-149181_605896703215_222401196_5691371_6713471_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106121716-felix-149181_605896703215_222401196_5691371_6713471_n.jpg"
+image_caption: ""
 ---
 
 Cusco (or Qosqo in the native Quechua) is the historic capital of the Inca Empire in South-Eastern Peru. It consists of windy cobbled streets, black whorled iron fences, spacious plazas, expansive and luxurious fountains, ceramic plant pots and is home to a constant whisper of “Inca Trail Senorita?” floating the gringo-way. Reaching the Plaza D’Armas (the central square) you are mobbed by Peruvian companies trying to get you to purchase their specific trail, “how much chica?” to the awe-inspiring Inca palace of legends, cloaked in mythology, sitting high above the clouds, the mystical and enigmatic ‘Machu Picchu.’

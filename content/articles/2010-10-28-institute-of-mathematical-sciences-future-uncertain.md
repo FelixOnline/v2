@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282104-nm1010-imsimsim.jpg"
-image_caption: >
-  53 Prince's Gardens
-image_attribution: "Marie Chkaiban"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282104-nm1010-imsimsim.jpg"
+image_caption: ""
 ---
 
 The [Institute for Mathematical Sciences](http://www3.imperial.ac.uk/mathsinstitute) (IMS) has been restructured, and will be moved out of its home at 53 Prince’s Gardens into a uncertain future as the Faculty of Natural Sciences "rationalises" its resources. The previous model has been deemed unsustainable and a new model is being investigated by the Faculty.

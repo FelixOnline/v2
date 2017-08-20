@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242000-dr910-boatclub.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242000-dr910-boatclub.jpg"
+image_caption: ""
 ---
 
 The River Nene has been kind to Imperial College Boat Club (ICBC) on occasions, and this year’s BUCS 4s and 8s Head was one of those as success after success was had over the weekend. Every crew entered were in the top ten of their event, 111 BUCS points were won from the club’s performance in the Championship events and the medal haul was impressive with 4 golds, 2 silvers and 4 bronzes awarded.

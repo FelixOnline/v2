@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012007-pk1811-wwe-12-review.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012007-pk1811-wwe-12-review.jpg"
+image_caption: ""
 ---
 
 THQ promised that WWE ‘12 would be the game to reinvent their tired series, and it seems that with this new entry they have succeeded, at least in part. This is a game which recreates the almost absurd dramatics and stage-play that wrestling is famous for: from The Undertaker’s chilling entrance to some of the, sometimes hilarious, match modes.

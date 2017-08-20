@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105221403-felix-img_0467.jpg"
-image_caption: >
-  Baroness Eliza Manningham-Buller
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105221403-felix-img_0467.jpg"
+image_caption: ""
 ---
 
 Baroness Eliza Manningham-Buller, a former Director-General of the Security Service, or MI5, has been appointed as the new College Chairman. Her appointment follows the resignation of the previous Chairman, Lord Kerr, in January.

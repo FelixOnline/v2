@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021615-felix-jezspeaker.jpg"
-image_caption: >
-
-image_attribution: "twcuddleston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021615-felix-jezspeaker.jpg"
+image_caption: ""
 ---
 
 Soft on security, denying the deficit, and incapable of addressing concerns over immigration. These sound like the sort of accusations the Conservatives levelled at the last Labour government not too long ago, and yet after seven years in government, these are all areas in which the Conservative party have failed by their own metrics.

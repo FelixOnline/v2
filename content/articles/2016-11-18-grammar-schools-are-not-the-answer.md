@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.32.05.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.32.05.png"
+image_caption: ""
 ---
 
 Disclaimer: I’m an alumnus of a well-known North London grammar school, having joined in the sixth form from a high achieving comprehensive school. I’ve studied under both school systems, coming out the other side with insights into each. No-one could accuse me of not being qualified enough to speak about the virtues and pitfalls of the grammar system. A significant number of Imperial students attended grammars and most likely support the grammar system, either vociferously or nonchalantly; however, I wonder if from the privilege of your educational bubble, you have ever looked outside?

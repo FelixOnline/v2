@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Members of [RCS Motor Club](http://union.ic.ac.uk/rcc/rcsmotor/) have got one stop closer to fully repairing Jezebel, the [RCSU](http://rcsu.org.uk/exec/)’s 1916 fire engine, after successful remetalling of an engine bearing, and reconstruction of the engine. Jezebel has been off the road since the end of last year, following an engine fault when travelling back from Brighton.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
-image_caption: >
-  Foster’s award funny man Sam Simmons.
-image_attribution: "Death of a Sails-man"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290940-felix-Sam-Simmons-009.jpg"
+image_caption: ""
 ---
 
 Fresh outta West Basement, this comedy virgin headed out to meet Knock2Bag. Hailed by _Time Out_ as some of the best comedy in the East End at brilliant value, it had a lot to live up to.

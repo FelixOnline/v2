@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181454-felix-faucet-1684902_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181454-felix-faucet-1684902_1920.jpg"
+image_caption: ""
 ---
 
 Mention science and saving lives and we often think of scrubs, scalpels and open-heart surgery. Joanne Beale from Engineers Without Borders, in her talk ‘Massive Small Change in Mozambique’ opens our eyes to the fact that doctors are not the only ones saving lives directly – engineers are doing it too.

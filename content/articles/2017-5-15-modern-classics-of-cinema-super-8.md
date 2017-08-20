@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151924-felix-super_8.jpg"
-image_caption: >
-  J.J. Abram’s love letter to the films of his childhood centres around a group of early-teens making home movies and investigating mysteries
-image_attribution: "aramount Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151924-felix-super_8.jpg"
+image_caption: ""
 ---
 
 J. J. Abrams’ sci-fi adventure Super 8 is a poetic tribute to early Spielberg films, taking us down the avenue of their childhood memories: shooting action films with neighbourhood friends on an 8mm format camera – known as the Super 8, it was first marketed in the 60’s as a user-friendly sound-recording camera. The film’s beautiful visuals are hard to ignore and coupled with an emotionally-stirring storyline, Super 8 succeeds in becoming more than a mere homage to Spielberg.

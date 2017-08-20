@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182100-nm1010-shebashe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182100-nm1010-shebashe.jpg"
+image_caption: ""
 ---
 
 National Curry Week is happening next week (22-26 November) so find yourself some drunken mates who can take the heat of a Vindaloo, bring some beer, and give these places a go..

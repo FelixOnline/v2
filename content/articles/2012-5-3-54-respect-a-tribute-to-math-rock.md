@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Possibly the most original of all the bands I will be covering, and by far the most influential, __Slint__ first formed in their native Louisville, Kentucky in 1986. In addition to reuniting for some live shows in 2005 and 2007, they existed for 5 years, breaking up in 1991 after the completion of their opus, _Spiderland_. Like many math bands, they are not seen as purely math rock, and their importance to other rock subgenres such as post rock, which arguably would’ve never existed in its current form without _Spiderland_, labels them as more than just a math rock band, but I feel makes a point about the genre itself. Math rock is perhaps not a genre in the strictest sense of the word. I would propose that it is a sound that involves the use, primarily, of unusual time signatures, and often occupies the more ‘thinking man’s‘ end of the rock spectrum, also including influences from prog rock, metal and even minimalism à la __Steve Reich__. Therefore, many of the greats of Math rock aren’t even labelled as such by many, for example Slint, who are widely considered post-rock.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182114-jyg11-screen-shot-2015-06-18-at-21.14.15.png"
-image_caption: >
-  I don’t know about you, but I reckon a dinosaur did this.
-image_attribution: "Colin Trevorrow, Universal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182114-jyg11-screen-shot-2015-06-18-at-21.14.15.png"
+image_caption: ""
 ---
 
 First things first, it’s not as good as _Jurassic Park_. And really it never was going to compare to the original. It’s battling years of love and nostalgia, and the film that inspired countless people to spend at least a couple of years as a kid wanting to be an archaeologist (usually somewhere before astronaut but after princess). It is the film that made dinosaurs into a thing, much as _Jaws_ made people fear sharks.

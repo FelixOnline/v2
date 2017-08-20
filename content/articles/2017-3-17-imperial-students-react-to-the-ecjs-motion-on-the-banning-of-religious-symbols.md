@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171651-felix-8340338177_da540f5360_o.jpg"
-image_caption: >
-
-image_attribution: "Azlan DuPree"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171651-felix-8340338177_da540f5360_o.jpg"
+image_caption: ""
 ---
 
 ## Banning religious symbols is discrimination

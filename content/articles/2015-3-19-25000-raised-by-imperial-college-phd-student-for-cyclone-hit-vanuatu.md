@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192339-cj914-rachel-1.jpg"
-image_caption: >
-  Rachel with a group of Tanbok islanders
-image_attribution: "Rachel Brooks, Tanbok Project"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192339-cj914-rachel-1.jpg"
+image_caption: ""
 ---
 
 A PhD student of the Department of Chemistry has raised more than £13,000 since Sunday 15th March for relief efforts in the cyclone-hit island nation Vanuatu, after previously raising £12,000 to build a library for a school on one of the remote islands.

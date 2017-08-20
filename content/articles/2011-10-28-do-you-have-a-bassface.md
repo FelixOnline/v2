@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
-image_caption: >
-  Man is pained at sight of giant lemon
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
+image_caption: ""
 ---
 
 I don’t know how many of you are into Dubstep, Drum & Bass, House or any other genre with a bassline. But let me ask the people who are: what happens to you when you hear a fat tune?

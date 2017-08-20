@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241219-ps3110-p78793_10.jpg"
-image_caption: >
-
-image_attribution: "Photo: Guerilla Girls"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241219-ps3110-p78793_10.jpg"
+image_caption: ""
 ---
 
 In 1984, the Museum of Modern Art in New York opened a new exhibition: ‘An International Survey of Recent Painting and Sculpture’. it promised to be a survey of the most important artists currently working in the art world. Not everyone was impressed. Out of the 169 works featured, only 13 were by women artists, a fact that was not helped by the curator, Kynaston McShine, saying that any artist not in the show should rethink his career. In 1985, one year after the show opened, the Guerrilla Girls were formed by seven women artists. And the rest, as they say, is history.

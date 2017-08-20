@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
+image_caption: ""
 ---
 
 I’ve been helping out at interview days this year. Normally this is a task I avoid in the same way I avoid slapping my own balls with a wooden paddle – that is, by not agreeing to do it when I’m asked by my superiors (it happens more than you’d think). However, this year I am short on money and, like all people short on money, I am not averse to a little ball-slapping in return for cash.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040306-jal08-mus-nyc.jpg"
-image_caption: >
-  The NYC singing during the Royal Albert Hall’s summer Proms
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040306-jal08-mus-nyc.jpg"
+image_caption: ""
 ---
 
 I spent the first two-and-a-half weeks of August singing. Well, not constantly, but almost. Now, this was not just a very long rave, although I certainly did have a lot of fun. No, this was perfectionist music making with the National Youth Choir (‘NYC’ amongst friends) where singing a note with the wrong vowel placement was just as bad as singing the wrong note. I have been involved in this organisation for a long time now, but what was special about this course is that it was truly national. During our 19 days together as a choir of about a hundred, we explored York, Londonderry, Belfast, London, Cardiff, Edinburgh and Suffolk, performing in seven concerts.

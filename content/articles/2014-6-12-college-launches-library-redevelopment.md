@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
+image_caption: ""
 ---
 
 The College has announced plans for a major redevelopment of the Central Library. The project is scheduled to begin in a few weeks and is set to finish in late 2015, with work taking place mainly this summer and next summer to minimise disruption to students.

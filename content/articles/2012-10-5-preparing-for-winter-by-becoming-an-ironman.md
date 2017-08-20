@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051431-felix-ed-picture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051431-felix-ed-picture.jpg"
+image_caption: ""
 ---
 
 Just before Christmas I decided to take up a “challenge” to raise money for the Cystic Fibrosis Trust. My little cousin, who suffers from the disease, had been going through a rough patch. I wanted to do something that would attract sponsorship, so I plumped for Ironman Wales. What I did know was that this was a 2.4 mile swim followed by a 112 mile cycle followed by a 26.2 mile run, all to be completed within 17 hours. What I didn’t know was that the course, which takes place in and around Tenby, is widely regarded to be one of the toughest out there. It turns out that Pembrokeshire is a pretty hilly place not particularly well known for its clement weather – who’d have thought, eh? The bike section alone would have 2400 vertical meters.

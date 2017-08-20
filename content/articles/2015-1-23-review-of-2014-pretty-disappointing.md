@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 2014 could have been such an amazing year. There was so much potential. We had the graphical promise of what could have been a true _GTA_ rival (_Watch Dogs_), we could have had a spiritual successor to _Halo_ (_Destiny_), we might have had the MMO that finally knocks _WoW_ off its porch (_Elder Scrolls Online_). That is not even a tiny bit of the disappointments that gamers faced; think the botched launches of the _Assassin’s Creeds,__Titanfall_ or_ Sims 4_. These were all supposed to be amazing games that would build on their predecessors and push gaming boundaries. What we got were rushed games, that really didn’t offer much apart from lacking content, micro transactions, DLCs or bugs.

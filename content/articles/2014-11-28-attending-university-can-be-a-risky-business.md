@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
+image_caption: ""
 ---
 
 I was sat in a job interview, nervously trying to justify my existence to a stranger and I was asked “Why did you chose to study at Imperial?”. I think I managed to persuade him it wasn’t because Cambridge had rejected me and that it was in fact, “Imperial’s academic rigour and forward thinking ethos”. If I’m honest I applied because it was top of the league tables and I came because I managed to get the grades.

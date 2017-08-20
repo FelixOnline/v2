@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Every year the RCSU issues the Science Challenge, which has evolved into an essay competition with very acceptable prizes. However the original motivation for the challenge was only known to a select few – now it can be revealed.

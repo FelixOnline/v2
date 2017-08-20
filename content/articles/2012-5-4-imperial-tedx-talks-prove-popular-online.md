@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Video footage of March’s [TEDxImperialCollege](http://tedximperialcollege.com/) event is now [available to view](http://tedximperialcollege.com/watch/) on YouTube, with a talk by programmer John Graham-Cumming about Charles Babbage’s Analytical Machine enjoying over 18,000 views at the time of going to print.

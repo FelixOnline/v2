@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152246-tna08-brad-pitt-fight-club-body.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152246-tna08-brad-pitt-fight-club-body.jpg"
+image_caption: ""
 ---
 
 Following on from last week’s feature, 'Shit films I love', I decided to continue my public shaming. The following films have caused much contension in the Felix Office – one in particular is one of my co-Editor's favourite films. But I'm sure everyone has been there – watching a film that everyone else thinks is amazing/wonderful/life-changing (delete as appropriate), but you just can't understand what the fuss is about. It's not that I can't appreciate the intrinsic cinematic worth of some of these films, because I can, but that doesn't mean I enjoy watching them. And if everyone can resist the temptation to lynch me/form an angry mob on campus I'd be very appreciative...

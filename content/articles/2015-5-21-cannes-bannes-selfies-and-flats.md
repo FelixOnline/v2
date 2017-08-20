@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505220019-jmm311-emily-blunt-cannes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505220019-jmm311-emily-blunt-cannes.jpg"
+image_caption: ""
 ---
 
 With Hollywood descending onto the red carpets of the 68th Cannes International Film Festival, the organisers have stirred up controversy first by banning stars from taking selfies, then reportedly turning women away from screenings because they weren’t wearing high heels.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062059-snb11-wedding_dresses_1775-2014_3.jpg"
-image_caption: >
-  John Galliano wedding gown, worn by Kate Moss
-image_attribution: "Victoria and Albert Museum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062059-snb11-wedding_dresses_1775-2014_3.jpg"
+image_caption: ""
 ---
 
 Today, brides of many faiths and nationalities wear white to celebrate their marriages, even in countres where it is not traditional to do so. The globalisation phenomenon and the influence and strength of the wedding industry have contributed to this homogenisation in wedding trends. The white dress has become the universal symbol of the bride.

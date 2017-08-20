@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There are some common misconceptions about networking, such as that it’s difficult and only works for charismatic personalities who are good at schmoozing, or is basically a back door process for asking influential contacts to give you a job. Wrong. Networking is all about creating a mutually beneficial web of relationships, which is transparent, honest and allows you to refine your career ideas and help you find suitable opportunities. Simply, it involves developing your own personal brand and raising your profile, and connecting with professionals in your field of interest to learn more about your sector, career paths, qualification routes and potential vacancies.

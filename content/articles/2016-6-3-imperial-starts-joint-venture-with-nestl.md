@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031030-felix-wpid-article-1268907555465-08c3d1bb000005dc-370448_466x310.jpg"
-image_caption: >
-
-image_attribution: "Metro"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031030-felix-wpid-article-1268907555465-08c3d1bb000005dc-370448_466x310.jpg"
+image_caption: ""
 ---
 
 Imperial has signed a deal with the food and drink giant Nestlé to launch research into nutrition together.

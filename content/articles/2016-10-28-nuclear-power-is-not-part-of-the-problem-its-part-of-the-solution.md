@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
-image_caption: >
-
-image_attribution: "FarbenfroheWunderwelt"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
+image_caption: ""
 ---
 
 I’m currently in Switzerland, which is about to have its twelfth referendum this year (and you thought Brexit was bad). Having rejected a minimum living wage, the Swiss will be asked to vote on an initiative proposed by the Greens on whether to speed up the closing of nuclear power plants. Unlike with Brexit, the Swiss government is unlikely to follow through with this proposal no matter the result of the referendum, and I’m tempted to agree with them.

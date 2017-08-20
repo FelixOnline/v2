@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612121611-felix-theta.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612121611-felix-theta.jpg"
+image_caption: ""
 ---
 
 A controversial paper was presented at Union Council last Wednesday which suggested the creation of a Masctotry Policy that would protect the student body from violence that occasionally manifests itself during mascot stealing raids.

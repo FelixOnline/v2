@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406121442-me1711-brazil.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406121442-me1711-brazil.jpg"
+image_caption: ""
 ---
 
 The World Cup is starting and football fans will be delighted once more by one of the most important sports competitions in the globe. Fans all around the world are ready to support their favourite team and enjoy an event that takes place only once every four years. However, for many of us who love football, this year´s environment is not as festive as we would like. Protests, clashes between police and citizens, allegations of corruption, and Brazilian social problems, have overshadowed what should be a carnival in a country that has always been recognised as one of the most passionate about the sport. Even worse, FIFA, which is the international body that is expected to surveil the organisation, is largely responsible for this.

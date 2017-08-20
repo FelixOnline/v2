@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092245-felix-syria.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092245-felix-syria.jpg"
+image_caption: ""
 ---
 
 The “Arab Spring” has changed the Middle Eastern map beyond recognition. Sparking off in Tunisia, after a fruit vendor set himself alight in protest at the way he was treated by the police, protests have spread like wildfire through Algeria, Egypt, Yemen, Bahrain, Libya, and Syria. Although each country is unique, all these protests point towards the discontent and dissatisfaction many Arabs feel after living most, if not all, their lives under the same dictatorial, autocratic, and oppressive regimes.

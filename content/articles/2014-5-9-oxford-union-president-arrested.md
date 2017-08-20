@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 According to the Tab Oxford, this week the Oxford Union President Ben Sullivan was arrested by Police and questioned concerning allegations over an incident of rape and another of attempted rape.

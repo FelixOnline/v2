@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092131-felix-rafaels.jpg"
-image_caption: >
-
-image_attribution: "Rafael Benitez-Cabral"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092131-felix-rafaels.jpg"
+image_caption: ""
 ---
 
 The sound of the radio was not loud enough to drown out the cries from upstairs. Sophie continued with her routine, putting the shopping away, unloading the dishes; making sure everything was in its rightful place. She paused, just briefly, to adjust the old radio, which seemed to be getting quieter and quieter these days. She still had the whole of the downstairs to vacuum before she could even start dinner and, with a small sigh, crossed into the dimly lit corridor towards the cupboard under the stairs. It took a while for her eyes to adjust to the dark, and while she was scrabbling to find the door handle, the abrasive noise from upstairs registered again. Realising she could no longer put off going to see her, and with no small measure of trepidation, she ascended the staircase and gently knocked on the door at the end of the landing.

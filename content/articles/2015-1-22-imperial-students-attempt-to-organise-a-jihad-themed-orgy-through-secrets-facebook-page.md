@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501221635-ps3110-pen-orgy-pencil-case.jpg"
-image_caption: >
-  The only orgy Imperial students are likely to see
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501221635-ps3110-pen-orgy-pencil-case.jpg"
+image_caption: ""
 ---
 
 The Imperial Secrets facebook page has lent itself as a platform to a lot of odd posts, but one took a bizarre turn when it resulted in emails being sent to students inviting them to a “Jihad themed” orgy.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I feel for nurses. I don’t mean the sort of nurses who wear fishnets and appear readily in a Google images search, I mean the sort which work in hospitals up and down the country. After a recent report from a nursing ombudsman, this profession is in for yet another bashing for reasons I can only think of as spurious.

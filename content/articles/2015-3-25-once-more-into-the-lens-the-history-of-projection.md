@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
-image_caption: >
-  A modern zoetrope, to be veiwed by looking through the slits
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
+image_caption: ""
 ---
 
 The field of optics was founded during the scientific revolution, leading to large improvements in lenses. Photographic paper was first developed in the 19th century, around the same time that the first phonographic sound recordings were happening. Once these three existed, it was only a matter of time until they were combined to make the first moving pictures.

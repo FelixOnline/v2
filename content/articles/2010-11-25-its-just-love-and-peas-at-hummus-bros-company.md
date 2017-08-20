@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252028-nm1010-HummusBR.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252028-nm1010-HummusBR.jpg"
+image_caption: ""
 ---
 
 The Hummus Bros spoke, and we listened. They said, rather politely, “Think outside the sandwich” and we did just that; every bite was a savoury delight. Oh yes, the offerings from Hummus Bros were healthy and accommodating as well. Faithful readers of Felix would have learnt from a previous issue that Hummus is an Arabian dip made from garbanzo beans (or chickpeas) blended with lemon juice and tahini (sesame butter). It is commonly served alongside pita bread as an appetizer. Hummus Bros plated the chickpeas puree as a base on which various condiments were piled upon. Toppings ranged from chunky beef (for the carnivorous) to chickpeas or blended fava beans (for the traditional) to guacamole (for the pretentious). Radiant sprinkles of paprika and parsley provided the spicy and earthy flavour that made the humble hummus that much more vivid, and the dollop of tahini deepened the flavours with a distinct nuttiness. If desired, a bit of garlic-infused lemon juice (in a convenient squirt bottle) can be added to add a slight tartness that complemented the intensity of the toppings. The tasteful ensemble was served with a fluffy (and warm, thank goodness) pita bread. Hummus Bros epitomizes honest freshness, with hummus made daily, the quality far exceeds store bought variants.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230006-tna08-rhinos.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230006-tna08-rhinos.jpg"
+image_caption: ""
 ---
 
 The Imperial Immortals opened their first home game of the season with a heavy win against the Anglia Ruskin Rhinos, a newly formed team in the South Eastern Conference, following an away win against the Kings Regents last week (10-6). A dominant display by the defence during both matches was key to the victories with ARU scoring no points against the Imperial defence; they only scored off an intercepted pass thrown on an Imperial offense drive.

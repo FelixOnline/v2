@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
-image_caption: >
-  The Boat Club took on Paris in a blistering ride in aid of charity.
-image_attribution: "ICSM Boat Club"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
+image_caption: ""
 ---
 
 Annually, the Imperial College School of Medicine Raising and Giving team organise a trip to a European city for a night out; with this year’s destination being Paris. When this was announced, the ICSM Boat Club thought, why take the coach when you can cycle there for charity instead? It’s only 295km after all!

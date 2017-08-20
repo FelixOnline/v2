@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082009-pk1811-f_200702_february19e_18665a.jpg"
-image_caption: >
-  A genuine police warrant card
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082009-pk1811-f_200702_february19e_18665a.jpg"
+image_caption: ""
 ---
 
 Since the start of term Imperial students have lost thousands of pounds to practised conmen and women. ‘How could they be so stupid?’ you might wonder… it’s not as straightforward as that. These people employ all sorts of tactics – and they’re doing their Christmas shopping. Below are examples of the three most common scams, all of which have happened to IC students since the beginning of term:

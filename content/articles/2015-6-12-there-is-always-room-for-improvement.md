@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
-image_caption: >
-  Imperial is full of happy memories, but looking back there are always ways it could be better.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
+image_caption: ""
 ---
 
 This week I finished my degree. “Congratulations, you have completed Mech Eng!” said the figurative game graphic as I answered the last question of my presentation. Somehow I managed to do four years of my degree without failing an exam (hopefully anyway, there’s still chance), and probably getting a 2:1 overall. Thanks for that.

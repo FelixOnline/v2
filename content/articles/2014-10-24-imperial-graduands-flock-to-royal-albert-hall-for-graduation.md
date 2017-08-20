@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was Imperial’s favourite day off this week, as graduands came back to touch the Gast hand and finally graduate completely. More than 2200 undergraduates passed through the Royal Albert Hall to receive their degrees in three separate ceremonies that took part during Commemoration Day.

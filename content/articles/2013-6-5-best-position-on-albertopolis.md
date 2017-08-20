@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051855-tna08-tedxalbrgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051855-tna08-tedxalbrgb.jpg"
+image_caption: ""
 ---
 
 TEDxImperialCollege was a must see event. It had so much on offer (you even got your own lanyard) and must have hit home with the audience: it was trending on Twitter. Considering it contained absolutely zero Justin Bieber performances, that’s pretty special. Former Felix Editor/physics student Kadhim Shubber kindly took some time out to answer some questions. He is co-organising possibly one of the largest ever TEDx events, right on our doorsteps at the Royal Albert Hall. The team organising [TEDxAlbertopolis](http://tedxalbertopolis.com/) is almost entirely made up of Imperial alumni, and Kadhim described them as “a dream. The most intelligent, interesting and effective people you could hope to work with.”

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172205-pk1811-anonymous_2011_1024x768_896530.jpg"
-image_caption: >
-  Oh my god...you've been tangoed!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172205-pk1811-anonymous_2011_1024x768_896530.jpg"
+image_caption: ""
 ---
 
 __Anonymous__

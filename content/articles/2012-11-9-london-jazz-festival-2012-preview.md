@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091400-tna08-london_jazz_festival.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091400-tna08-london_jazz_festival.jpg"
+image_caption: ""
 ---
 
 Tonight sees the return of the London Jazz Festival. The capital’s largest pan-city festival, this two week affair comprises hundreds of events spanning dozens of venues.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111825-felix-imperial girls can.jpg"
-image_caption: >
-
-image_attribution: "Sport Imperial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111825-felix-imperial girls can.jpg"
+image_caption: ""
 ---
 
 I have now been married for three wonderful months, and even though I may be the man of the house I can happily say my wife has a more proficient history in sport than I. Do note the lack of shame. I have no beef with such a statement. I am proud to talk about her previous achievements and will continue to be, even when our future children ask why I always lose during games night. Again, not in a ‘this is unusual’ way, in a perfectly normal, proud-husband manner.

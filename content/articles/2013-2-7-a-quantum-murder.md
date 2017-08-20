@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072239-tna08-quantum_murderf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072239-tna08-quantum_murderf.jpg"
+image_caption: ""
 ---
 
 Don’t get me wrong, I have not done a U-Turn on the Greg Mandel series in the last week; I am neither an Italian, nor a member of a Coalition Government. I am still an advocate of the series and of the man, and will be in avid attendance when he speaks at the Sci-Fi Society’s Picocon Convention in a little over a week’s time.

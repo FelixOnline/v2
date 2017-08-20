@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251255-ff712-vinall-and-calf-cmyka.jpg"
-image_caption: >
-  Olvia Vinall (Hilary) and Anthony Calf (Jerry) in Tom Stoppard’s The Hard Problem
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251255-ff712-vinall-and-calf-cmyka.jpg"
+image_caption: ""
 ---
 
 Tom Stoppard’s latest play has been a long time coming. His last work to grace the stage was 2006’s _Rock and Roll _at __The Royal Court__ – and his last work at the__ National Theatre__ was four years before that, with _The Coast of Utopia_ in 2002. Nine years since his last play. To call expectations high might just be an understatement.

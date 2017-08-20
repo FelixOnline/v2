@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
+image_caption: ""
 ---
 
 So I was told that my pseudonym was not particularly inventive, but that’s simply what I am: a girl with opinions. Got a problem with that!? Then go away and read something else. I’m here to get nitty and gritty and talk about the things that others are too afraid to even think about. In such a male-dominated university, it is imperative for us girls to stick together and fight for our rights as equals. I’m not saying that all men are sexist, but some of them don’t even realise they are. Like the other day this guy held a door open for me and I was like, “I can open doors, you know! What, you think my arms aren’t strong enough?”

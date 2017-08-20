@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Justice is a powerful word. It can transcend borders to liberate the wrongly accused, to rescue the vulnerable and to topple governments. If used cynically, however, it can provide a veneer of respectability where it is not deserved.

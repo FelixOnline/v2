@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171701-felix-Screen Shot 2017-03-17 at 17.01.43.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171701-felix-Screen Shot 2017-03-17 at 17.01.43.png"
+image_caption: ""
 ---
 
 Everyone studying at Imperial is aware that this place is not perfect. Yes, there are problems with student engagement, mental health, even sexism. But despite these issues, I feel it is the place which has mainly contributed at making me who I am today; the fantastic wardening team in my halls in first year, the challenging environment and, more importantly, the Imperial community of incredibly interesting people from all over the world which I could always learn something from.

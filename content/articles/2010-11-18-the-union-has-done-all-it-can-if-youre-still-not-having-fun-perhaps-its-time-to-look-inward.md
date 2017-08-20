@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So the Union’s [£2.5 million refurbishment](http://www.felixonline.co.uk/?article=409) is finally coming to a close. The horrendous blue shed outside Metric will disappear and smoking builders in high-vis jackets will no longer grace Beit Quad. Even the decrepit lawn is being renewed. But as memories of asbestos grow faint in our minds and the constant thud and screech of construction work fades into the air, what will we think of our new Union?

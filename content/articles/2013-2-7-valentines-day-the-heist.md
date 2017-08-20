@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072335-tna08-pdth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072335-tna08-pdth.jpg"
+image_caption: ""
 ---
 
 Nothing says “I love you” more than robbing a bank together. Even if it’s four guys with a fetish for masks and gold.

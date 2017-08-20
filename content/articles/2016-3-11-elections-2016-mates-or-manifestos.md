@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111128-felix-mtc.jpg"
-image_caption: >
-  The candidates, back when they were playing nice and talking to each other.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111128-felix-mtc.jpg"
+image_caption: ""
 ---
 
 Last week, Theresa Davey wrote an interesting article about the nature of union elections and how they are, essentially, a popularity contest.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241928-nm1010-greekgre.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241928-nm1010-greekgre.jpg"
+image_caption: ""
 ---
 
 There are many students in Imperial that love Greek food and I am not talking solely about the Greeks! Traditional Greek cuisine is full of incredible smells and tastes: from the salty feta cheese; the tempting meat meze with the refreshing tzatziki; the thick pita bread and the skewers, the unique mousaka and many many more traditional and attractive dishes.

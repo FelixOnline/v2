@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There’s been a movement in the last couple of years to get people talking about their experiences with mental health, whether it’s on a national scale such as Mind’s Time to Talk campaign or Imperial’s own OpenMinds campaign. There’s also been a move to try and explain life with a mental illness to others who haven’t suffered one, a daunting task at best, but a project which has yielded really amazing work. My personal favourite is Hyperbole and a Half’s web-comic ‘Adventures in Depression’ (shown below) because it rings most true to my experiences of depression although, of course, everyone’s experiences are different. It also contains the use of stick men, which is a well-known Union favourite.

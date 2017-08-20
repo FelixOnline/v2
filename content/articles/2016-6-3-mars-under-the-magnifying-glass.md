@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
-image_caption: >
-  Super resolution imaging technology gives us views of Mars that may not be breathtaking, but are most certainly very detailed.
-image_attribution: "Yu Tao and Jan-Peter Muller, UCL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
+image_caption: ""
 ---
 
 I get angry waiting for Google Maps to load on my iPhone and I tell this to Jan-Peter Muller, Professor of Image Understanding and Remote Sensing at the Department of Space and Climate Physics at UCL. He looks as if he’s experienced a similar thing. “If you think 3G or GPRS is bad, try processing an image of Mars”.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102250-ps3110-students_sleeping_in_lecture_theatre_is0266n3b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102250-ps3110-students_sleeping_in_lecture_theatre_is0266n3b.jpg"
+image_caption: ""
 ---
 
 Scientists at the University of Cambridge and the Ecole Normale Superieure Paris working on a joint research project have discovered a new phenomenon of the human brain: the ability to perform automated tasks even whilst the subject is unconscious.

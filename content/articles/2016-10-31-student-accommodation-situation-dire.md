@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
-image_caption: >
-
-image_attribution: "Imperial College"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
+image_caption: ""
 ---
 
 The skyrocketing price of student accommodation has been an ongoing issue in the minds of students, one that certainly feels all too familiar for Imperial students living in London.  This week saw the publication _Property Week_ being forced to withdraw a category from their Student Accommodation Awards after the panel of student judges refused to choose a winner for Student Experience in a protest over increasing rent prices.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
-image_caption: >
-  Kodak Three Point Reflection Guide (Meiko laughing) by Christopher Williams.
-image_attribution: "Galerie Gisela Capitain and David Zwirner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
+image_caption: ""
 ---
 
 The end of last month saw the opening of two exhibitions that delve into the world of art history and theory, taking a critical look at the development, continuation, and deconstruction of certain techniques within the art world. At first glance, the two couldn’t seem more different, one dealing with renaissance drawings and the other focussed on modern photography. But scratch beneath the surface, and they actually share many things in common: an appreciation of the production of images, an exploration of their forms’ respective pasts, and an emphasis on the importance of context within the fine arts.

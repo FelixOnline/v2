@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130117-cj914-232_3239.jpg"
-image_caption: >
-  Council has agreed to ask College to delay the closure of Weeks Hall
-image_attribution: "Neville Miles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130117-cj914-232_3239.jpg"
+image_caption: ""
 ---
 
 Union Council met this Tuesday and voted to reverse its previous decision not to campaign against the closure of Weeks Hall.

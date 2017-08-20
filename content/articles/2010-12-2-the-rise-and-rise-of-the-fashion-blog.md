@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022008-ks607-thesarto.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022008-ks607-thesarto.jpg"
+image_caption: ""
 ---
 
 The fashion industry has always been deemed inaccessible, elitist and perhaps slightly indimidating by general consensus. It seems only natural, then, for people to start taking fashion into their own hands, and out of the perfectly manicured talons of the fashion editrixes at Vogue and the like. Such is the world of fashion blogging. Now very popular, just a few have gained a loyal following, and even fewer have earned endorsements from the heavy-hitters in the fashion world – PRs and designers alike – gaining entry into runway shows and press days alongside the very editors who have always held fashion at arms reach, on the page of a magazine, on the body of a supermodel.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
-image_caption: >
-  Sydney Theatre Company, Waiting for Godot, Hugo Weaving, Philip Quast, Richard Roxburgh and Luke Mullins
-image_attribution: "Lisa Tomasetti"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
+image_caption: ""
 ---
 
 The great Irish dramatist and writer Samuel Beckett, whose oeuvre the __Barbican Centre__ are celebrating through the month of June, said that he wrote because writing was all that he was good for. Far be it from me to disagree with him, but the man greatly misestimated his talents. Beckett’s writing does not really exist in the realm of the written word; instead, what he was exceptionally talented at was creating an atmosphere. His works may be endlessly interpreted by generation upon generation of scholars, eager to eake out more and more meaning from every syllable, but it is upon the stage that his words really come to life, forcing us to sit up, pay attention, and be awed.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152155-tna08-games.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152155-tna08-games.jpg"
+image_caption: ""
 ---
 
 __Intro__: Murchad mac Diarmata (1026 – 1070) was a King of Dublin and Leinster, and if you haven’t heard of him, no big deal. He didn’t really accomplish that much, and thus his name has been lost in the realms of history. However, last week, I decided, with the aid of Crusader Kings 2, to give the name of Murchad new meaning! Playing out his life in full glory, and doing things differently from the way he did, Murchad (me) achieved crazy things! If you want to discover how this historical figure lived out his lifein my alternate universe, read his diary that was discovered and translated just yesterday!

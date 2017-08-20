@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202051-nm1010-youngsci.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202051-nm1010-youngsci.jpg"
+image_caption: ""
 ---
 
 The School of Medicine has always maintained the importance of research within the medical field both as a student and once we graduate. On Tuesday 23rd November ICSMSU Muslim Medics showcased the academic research achievements of Imperial students from all years. The tough competition from 6 high-class presentations was indicative of the fact that the Young Scientist’s Symposium (YSS), now in its 4th year, had established itself as a renowned symposium for medical students.

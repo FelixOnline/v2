@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032137-felix-ralphfiennes.jpg"
-image_caption: >
-  Four days in and Ralph was already sick of people asking for Movember donations
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032137-felix-ralphfiennes.jpg"
+image_caption: ""
 ---
 
 Despite evidence pointing to the contrary, the name Ralph Fiennes is not synonymous with that of Lord Voldemort. Fiennes, who made his name at the Royal Shakespeare Company, is in fact a seasoned Shakespearean actor and proves his worth playing Prospero in Trevor Nunn’s production of The Tempest.

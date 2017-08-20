@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271916-ks607-tanziana.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271916-ks607-tanziana.jpg"
+image_caption: ""
 ---
 
 In a village in the Arusha region of northern Tanzania, where some of the most famous and astonishing landscapes of Africa can be found, lies the TEKUA Education Centre.

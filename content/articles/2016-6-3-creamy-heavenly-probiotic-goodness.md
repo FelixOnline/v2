@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031111-felix-6853278652_e1f3517207_o.jpg"
-image_caption: >
-  Yoghurt, bitches.
-image_attribution: "Jules"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031111-felix-6853278652_e1f3517207_o.jpg"
+image_caption: ""
 ---
 
 I was perusing ‘What to Eat’ by the fabulous nutrition professor Marion Nestle, and was particularly intrigued by her short piece elucidating all the hoo-ha around yoghurt. Say the word ‘yoghurt’ just once and you’re more likely than not to get a ho-hum reaction. Is it a health food? Breakfast? Dessert? And wait – is greek yoghurt actually from Greece?     Well, let’s start with the basics. Yoghurt is essentially fermented milk. That 180g tub you’re holding right now has at least 100 million living Lactobacillus and Streptococcus bacteria per gram. That’s 18 billion live bacteria going in your gut. You start off with a milk of some sort, be it skimmed, whole or low-fat, and that’s pasteurised to kill any unwanted bacteria. Then the friendly bacteria cultures _Lactobacillus bulgaricus_ and _Streptococcus thermophiles_ are added, together with ‘hardier’ cultures acidophilus and bifudus strains because the former two are more delicate, otherwise known as the weakling strains. Whatever the type, they all work hard to digest the milk nutrients, producing plenty of lactic acid in the process, the substance that gives yoghurt its characteristic tang. Many of these strains are capable of replacing harmful bacteria in the gut; therefore yogurt is typically categorised as the holy grail of gut health.

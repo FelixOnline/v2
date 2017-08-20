@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142113-ps3110-_78861027_robshaw_getty.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142113-ps3110-_78861027_robshaw_getty.jpg"
+image_caption: ""
 ---
 
 FIFA has released the results of its inquiry into corruption and the World Cup bidding saga. In a shocking turn of events, the document claims that Qatar was totally innocent in the bid, and criticises the FA for its part in the matter. The lawyer who wrote the document and sent it to FIFA has said that the final version contains “numerous materially incomplete and erroneous representations of the facts.”

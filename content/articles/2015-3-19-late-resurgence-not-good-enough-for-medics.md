@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192341-kmw13-tbl_varsity_quick_set_22h34m50s.jpg"
-image_caption: >
-
-image_attribution: "Ben Lester"
-image_attribution_link: "http://throughbenslens.co.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192341-kmw13-tbl_varsity_quick_set_22h34m50s.jpg"
+image_caption: ""
 ---
 
 A late resurgence from the Imperial Medicals was not enough to prevent a victory for the Imperial College team in the first ever Varsity fixture held at The Stoop for women’s rugby. It was a low scoring game of ten-a-side rugby that was decided on a few beautiful breakaway tries. For long periods of the game it looked as though the College could score at any moment. But, having gone two tries down before half time, the Medics rallied after the break, and a last gasp try ended the game at a close 15-12. However, the Medics could point to a couple of dubious decisions in the lead up to two of the tries that College scored.

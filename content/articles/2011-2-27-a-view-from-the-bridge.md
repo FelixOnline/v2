@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271814-sjw209-avftbpos.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271814-sjw209-avftbpos.jpg"
+image_caption: ""
 ---
 
 Obsession, violence and romance are just some of the simmering tensions that provide a backdrop to [DramSoc’s spring production](http://www.facebook.com/event.php?eid=179076128801727), an adaptation of celebrated American playwright Arthur Miller’s A View From The Bridge.

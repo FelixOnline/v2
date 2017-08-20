@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171133-felix-EW-ARCHER-WALLPAPER_612x380_0.jpg"
-image_caption: >
-  It’s not a drinking problem if you never stop long enough to get hungover.
-image_attribution: "Floyd County/FX Networks for EW"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171133-felix-EW-ARCHER-WALLPAPER_612x380_0.jpg"
+image_caption: ""
 ---
 
 Summer’s here, which means actual free time again without the constant spectre of revision hanging over your head. You might be wondering just what to do with it all. Well, there’s always the classic fall-back; say ‘screw it’ and watch some TV. Here’s a list of eight great shows to help you do just that.

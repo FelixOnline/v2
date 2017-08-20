@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
-image_caption: >
-  Ruffalo et al. celebrate Spotlight’s win
-image_attribution: "AP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
+image_caption: ""
 ---
 
 The Academy Awards took place last Sunday evening, and your intrepid FELIX team stayed up until the early hours of Monday morning keeping track of the ceremony on an illegal live-stream, significant portions of which were dubbed into Turkish. Truly, there is nothing we will not do for journalism. As usual, there were victories, surprises, snubs, and questionable jokes, and that was only in the office…

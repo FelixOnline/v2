@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
+image_caption: ""
 ---
 
 The scene is the town of Battle, East Sussex, 1066. The forces of King Harold line up against the invading Norman forces of William, Duke of Normandy. It was a tightly fought battle (or so says the tapestry of Bayeux), tipped by an arrow through the eye of King Harold which in turn rallied the Norman troops to their famous victory, shaping the socio-political landscape of England, Europe and ultimately, the world. Fast forward about 946 years later, and move about 44.1 miles down the A28.

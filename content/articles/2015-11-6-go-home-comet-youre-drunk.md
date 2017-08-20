@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061359-ygr12-c2014_q2.jpg"
-image_caption: >
-  Look at that green glowy beauty.
-image_attribution: "Wikimedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061359-ygr12-c2014_q2.jpg"
+image_caption: ""
 ---
 
 Space happy hour is now a thing, and astronomy just got a whole lot more student friendly. While all the Halloween based excitement was focused on the “skull comet” TB145’s flyby, scientists discovered another asteroid that’s leaving a trail of alcohol almost as large as the one left by the average ACC.

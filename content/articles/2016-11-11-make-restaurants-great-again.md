@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111742-felix-IMG_5285.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111742-felix-IMG_5285.jpg"
+image_caption: ""
 ---
 
 How do you differentiate between a good and an excellent restaurant? Is it the Michelin-starred chef behind the counter splattering sauce over thumb-sized morsels of food? Is it the extra 0.1 rating or half a star on OpenTable? Or is it the two-hour-long queue outside the no-reservation system every evening?

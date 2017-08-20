@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
+image_caption: ""
 ---
 
 _The lowdown_: Two million tourists tread the two islands of New Zealand every year – for a very good reason. Its natural beauty is second to none; its reputation as an adrenaline junkie’s wettest of dreams well deserved.

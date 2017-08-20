@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292150-tna08-image.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292150-tna08-image.jpg"
+image_caption: ""
 ---
 
 [A new government e-petition](http://epetitions.direct.gov.uk/petitions/40111) has recently been launched in opposition to the perceived growing effect that an animal rights activist campaign has had on the transport sector. The petition urges the government to protect the transportation of laboratory animals to halt the loss of vital medical research. This is a response to the increased refusal by haulage companies to import the animals from overseas due to increased lobbying by the activists’ campaign.

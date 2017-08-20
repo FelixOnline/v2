@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220232-tna08-solarized-portrait-of-lee-miller-by-man-ray1930.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220232-tna08-solarized-portrait-of-lee-miller-by-man-ray1930.jpg"
+image_caption: ""
 ---
 
 It can be said that photography is a method of preserving time. A moment is captured and immortalised in a 35mm negative, retained and treasured. The years may march on, but the picture will remain the same, retaining the ability to transport the viewer instantaneously to a certain time and place. If this is the case, then the exhibition of portraits by Man Ray, currently on display at the National Portrait Gallery, have captured not just a moment but an era.

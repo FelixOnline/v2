@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112113-ks607-kimkimki.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112113-ks607-kimkimki.jpg"
+image_caption: ""
 ---
 
 It’s hard not to be captivated by Korean culture, dignity, and manners. They are a deeply civilized and hospitable people who have suffered grievously: tortured by half a century of degrading and cruel Japanese occupation followed by an ideological war which massacred millions, severed their homeland, and divided their people.

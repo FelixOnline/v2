@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503041829-ps3110-screen-shot-2015-03-04-at-18.29.33.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503041829-ps3110-screen-shot-2015-03-04-at-18.29.33.png"
+image_caption: ""
 ---
 
 At this time of year we start to see the typical seasonal changes come into effect: the days are starting to get longer, the temperature is starting to rise, and a plethora of cringey election videos have been released, featuring shockingly awful musical covers, unnervingly unfunny inside jokes, and just too many white people dancing.

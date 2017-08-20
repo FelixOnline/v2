@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
-image_caption: >
-  Oxford's Bodleian Library
-image_attribution: "Craig Moore"
-image_attribution_link: "http://www.moorewallpaper.com/holiday-travel-tips-Oxford-University-city-break.htm"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
+image_caption: ""
 ---
 
 The University of Oxford has become the fourth institution in the country to officially announce a rise of tuition fees to the maximum figure of £9,000,

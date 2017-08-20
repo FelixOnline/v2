@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It seems like a lifetime ago now when, on the 12th October, [Lord Browne finally published his review of higher education funding](http://felixonline.co.uk/news/198/lord-browne-points-to-higher-fees-/). Already, it is a topic that has been endlessly deconstructed and analysed and which every student in Imperial and the UK feels strongly about.

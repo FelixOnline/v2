@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial Debating saw success at the World University Debating Championships. Tensions and temperatures were high at Rajalakshmi College of Engineering in Chennai, the host venue of the competition. During the second year of attending the international competition, students of Imperial College argued their way through almost 350 teams into the top sixteen of the tournament.

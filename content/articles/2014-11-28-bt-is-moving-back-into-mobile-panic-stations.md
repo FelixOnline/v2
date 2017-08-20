@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280050-ps3110-bt-tower.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280050-ps3110-bt-tower.jpg"
+image_caption: ""
 ---
 
 On Monday Spanish newspapers reported that BT were in talks with Telefonica over a potential takeover of O2. It later emerged that BT are also discussing the purchase of EE from French company Orange S.A. and German company Deutsche Telekom. But what would this mean for us? Should we be worried, or excited?

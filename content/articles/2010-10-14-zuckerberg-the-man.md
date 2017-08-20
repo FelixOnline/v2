@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
-image_caption: >
-  The youngest self-made billionaire ever, Mark Zuckerberg still lives in a rented house
-image_attribution: "Jim Merithew/Wired.com"
-image_attribution_link: "http://www.wired.com/epicenter/2010/05/zuckerberg-speaks/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
+image_caption: ""
 ---
 
 The year 2010 may just be Mark Zuckerberg’s finest. Having his net worth more than triple to $6.9 billion, he has climbed the ranks of the Forbes 400 list from #158 to #35. He even knocked Steve Jobs off the throne of Geekdom as Vanity Fair proclaimed him “[our new Caesar](http://www.vanityfair.com/business/features/2010/10/the-vf-100-201010)” by placing him at #1 in its 100 most influential people of the New Establishment. And this month, [a biopic based on his dramatic founding of Facebook is coming out](http://felixonline.co.uk/film/216/felix-likes-this/). Thing is, he’s only 26 years old.

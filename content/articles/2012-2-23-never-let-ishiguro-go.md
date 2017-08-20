@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
-image_caption: >
-  Kazuo Ishiguro is one of Britain’s most celebrated authors
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
+image_caption: ""
 ---
 
 Sure, this book involves a parallel society, human cloning, and organ farming, narrated through the eyes of an independent and vaguely rebellious protagonist, but still: [_Never Let Me Go_](http://en.wikipedia.org/wiki/Never_Let_Me_Go_(novel)) isn’t what you would expect from a work of science fiction. With little futuristic technology and absolutely no extra-terrestrial life forms to be seen, [Kazuo Ishiguro](http://en.wikipedia.org/wiki/Kazuo_Ishiguro)’s most recent novel captures the reader’s attention not with ray guns and worm holes but with characterisation and imagery.

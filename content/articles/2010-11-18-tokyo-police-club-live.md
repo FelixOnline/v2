@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
+image_caption: ""
 ---
 
 Canada has given us a choice, if scant, of alternative music in the last decade, with NME darlings, Arcade Fire and Crystal Castles both achieving critical acclaim with recent releases, although the chances are you’ve probably not heard of Ontario’s Tokyo Police Club.

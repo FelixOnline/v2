@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
-image_caption: >
-
-image_attribution: "Dave Guttridge/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+image_caption: ""
 ---
 
 Imperial halls of accommodation were the subject of much heated debate this week following the Union’s announcement of a survey to see how the rent for Halls could be reduced. In particular Union President Alex Kendall’s comments about the halls amenities fund, which is paid from rents and used to subsidise social events, have been roundly criticised with students forming a [Facebook group](http://www.facebook.com/home.php?sk=group_190226594345429&ap=1) to resist the scrapping of the fund. The survey has been delayed until a “a full breakdown of costs [can be received] to put the other measures in perspective,” according to Alex Kendall.

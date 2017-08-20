@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 My dad gave me Jamie Oliver’s 15 Minute Meals this year. Like the Hairy Dieters (AKA the Hairy Bikers), Jamie believes anyone can cook and eat great, healthy food. However, Jamie claims you can do it in 15 minutes. Given that you’re not superhuman it may take you a little longer – it took me about half an hour. In Jamie’s defence, after cooking this meal a couple of times I think could get it down to 20 minutes.

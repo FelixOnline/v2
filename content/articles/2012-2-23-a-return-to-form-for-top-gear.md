@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232337-felix-top-gear---the-stig-006.jpg"
-image_caption: >
-  Driving doesn't get tougher than this
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232337-felix-top-gear---the-stig-006.jpg"
+image_caption: ""
 ---
 
 Ever since its rebirth in 2002, [_Top Gear_](http://www.bbc.co.uk/programmes/b006mj59) has provided me with Sunday night entertainment and it’s always been brilliant. Well actually that isn’t entirely true. You see, _Top Gear_’s entertainment value has decreased hugely in recent years – the ‘humour’ has become entirely predictable and largely infantile, whilst fewer and fewer cars are actually being reviewed and much like I expect Hangman to be offensive, I expect a car show to be about cars.

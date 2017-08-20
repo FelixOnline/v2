@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502231537-bwh12-rifkind.jpg"
-image_caption: >
-  Rifkind speaks to Policy Exchange in 2012
-image_attribution: "Wiki Commons: SE7"
-image_attribution_link: "http://en.wikipedia.org/wiki/Malcolm_Rifkind#mediaviewer/File:Rt_Hon_Sir_Malcolm_Rifkind_MP_at_Policy_Fight_Club.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502231537-bwh12-rifkind.jpg"
+image_caption: ""
 ---
 
 The party whip and MP Sir Malcolm Rifkind has been suspended from the Conservative party in parliament after becoming embroiled in ‘cash for access’ allegations.

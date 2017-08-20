@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251947-mc4509-money-100s.jpg"
-image_caption: >
-  Is that all you’ve got? I’ll raise you by $20!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251947-mc4509-money-100s.jpg"
+image_caption: ""
 ---
 
 Normally running is a cheap affair; running for the bus only costs several seconds of embarrassment and the occasional penalty of abject failure when the driver leaves you behind in the cold. The cost of running for a sabbatical role in the IC Union? For most merely the embarrassment of selling your dignity to secure a victory, begging for scraps of votes from people you have suddenly decided to pay attention to after blanking them on campus for the last few years. Of course there is always a small amount of spending on advertising but you are restrained from breaking the bank, well as long as you can spell your name correctly.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262010-felix-servicedesk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262010-felix-servicedesk.jpg"
+image_caption: ""
 ---
 
 The ICT Service Desk over on Level 4 Sherfield is a busy place. In fact it’s where all of Imperial’s students and staff get assistance with IT and the small but efficient team that is the Service Desk handle over 6000 requests per month to keep everyone working.

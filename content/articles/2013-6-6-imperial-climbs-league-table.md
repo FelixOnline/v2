@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306061949-tna08-league-table-cliff-face-final_final.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306061949-tna08-league-table-cliff-face-final_final.jpg"
+image_caption: ""
 ---
 
 A lacklustre performance in the NSS (National Student Survey) left Imperial College London trailing behind the University of Oxford and the University of Cambridge, the other two thirds of the ‘Big Three’ UK-based academic institutions, in the latest league table compiled by the Guardian. A score of 64 fell short of Cambridge’s 75 and Oxford’s 71 respectively. In fact, a host of other academic institutions surpassed the College, ranging from the London School of Economics through to the University of Surrey. The findings are anticipated to irritate many staff and students within the College and may raise questions over the validity of league tables in general. Although, overall, Imperial did climb from 13th to 9th place.

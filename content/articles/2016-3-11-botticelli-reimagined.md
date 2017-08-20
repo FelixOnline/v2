@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111200-felix-botti.jpg"
-image_caption: >
-  ‘Rebirth of Venus’ by David LaChapelle, 2009.
-image_attribution: "Studio LaChapelle"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111200-felix-botti.jpg"
+image_caption: ""
 ---
 
 B_otticelli Reimagined_ is a curious marriage of modern sensibilities with 15th century grace, beauty, and elegance, running at the V&amp;A until July. It is about the extent to which the influence of that singular craftsman, Sandro Botticelli – father of Venus and Primavera – permeated the art world through the centuries.

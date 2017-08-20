@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511271152-ygr12-onlien.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511271152-ygr12-onlien.jpg"
+image_caption: ""
 ---
 
 This week it came to light that the union has spent something in the region of £20,000 on the refurbishment of its own office spaces, £5100 of which was spent on a new light-up reception desk. Other monumental costs included £1266 on the removal and disposal of the old reception desk, £4180 on the new glass separating the SAC from staff desks, and the new stickers adorning the area between Metric and FiveSixEight, which cost £1640 to create and install. It is unclear whether this last cost included the price of the perspex added to the wall to protect the adornments.

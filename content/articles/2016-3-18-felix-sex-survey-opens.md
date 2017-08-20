@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181133-felix-20160317_182820.jpg"
-image_caption: >
-  Ooh, user-friendly!
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181133-felix-20160317_182820.jpg"
+image_caption: ""
 ---
 
 _You can take the Sex Survey [here](http://felixonline.co.uk/go/sexsurvey)._

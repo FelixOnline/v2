@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
+image_caption: ""
 ---
 
 A third year mathematics student has been sentenced to 18 months in jail after 30,000 images of child pornography were found on his laptop.

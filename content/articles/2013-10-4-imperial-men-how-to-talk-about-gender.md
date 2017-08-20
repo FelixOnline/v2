@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040152-jal08-comm_womeninscience-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040152-jal08-comm_womeninscience-copy.jpg"
+image_caption: ""
 ---
 
 Most students at Imperial are men. I don’t imagine this comes as much of a surprise to most Felix readers. While this gender imbalance is obvious from the first day of Freshers Week, what it means and how to talk about it can be more challenging. Whispered remarks about “The Ratio” can be heard on most courses and jokes abound about the sexual frustration of Imperial’s males; the straight ones at least. But beyond this, any serious discussion of gender among students can often be dismissed. We can be pretty poor at talking gender and it’s we men who seem to do it worst.

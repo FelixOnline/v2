@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305081448-tna08-fraulein-julie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305081448-tna08-fraulein-julie.jpg"
+image_caption: ""
 ---
 
 The world of theatre revolves around the invisible. Behind the actors, off to the side, there will be a dedicated team of people bringing the stage to life; lighting, staging, and sound design all form the invisible heart of the production, playing with the audience’s emotions in subtle ways and creating the magic that keeps people returning to the stalls. This team are usually hidden, their work not fully appreciated – nor understood – by the theatre-going crowd. But what happens when this world is brought into the open, placed under the brilliantly bright stage lights? It is a question that director Katie Mitchell has attempted to answer with her stunning production of Fraülein Julie, which seamlessly merges technology and stagecraft to form a new kind of theatrical experience.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m afraid that I missed out on the phenomenon that was The Killing so I was eager to watch the BBC’s newest Danish import [Borgen](http://www.bbc.co.uk/iplayer/episode/b019jr8c/Borgen_Series_1_100_Days/). Produced by the same broadcaster as The Killing, Borgen is a political drama about Birgitte Nyborg whose small Moderate party’s massive election gains, following damaging revelations about her rivals, has made her Denmark’s first female Prime Minister.

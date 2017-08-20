@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
+image_caption: ""
 ---
 
 Back in the early days of mobile electronics, a BlackBerry phone was the thing to have. The first true smartphone, BlackBerry (formerly known as RIM), was the first company to really attempt to make a really portable computer. With the miniature keyboard, BBM, Mail services etc, it really was a success in the corporate market, as well as with the general consumer. However with the advent of the touchscreen based smartphone, BlackBerry failed to keep up with the market. In fact over the last 5 years their stock has shed more than 90% of its value, wiping roughly 70 billion dollars of the value of the company. They have released several failures, most notably the Playbook and in general have been making losses the last few quarters. Even their core business, the corporations and governments have started to drop them in favour of Apple, Android and Microsoft.

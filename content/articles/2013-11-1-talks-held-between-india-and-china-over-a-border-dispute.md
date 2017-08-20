@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 China’s presence on the global economic platform has been colossal since the turn of the millennium. It has followed the tenets of inclusive growth and has managed to eradicate rural poverty while the GDP is pegged at about 9 trillion dollars annually. However, the dragon country’s real problems and aspirations lie outside of its boundaries. Or so it appears from its relations with its neighbors.

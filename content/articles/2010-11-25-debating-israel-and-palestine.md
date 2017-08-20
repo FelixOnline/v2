@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252119-nm1010-palestin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252119-nm1010-palestin.jpg"
+image_caption: ""
 ---
 
 Last Tuesday IC Debating Society, Israeli Society and Palestinian Society collaborated, bringing together four prominent speakers to discuss the Israeli-Palestinian conflict under the title: “The Debate for Peace”.

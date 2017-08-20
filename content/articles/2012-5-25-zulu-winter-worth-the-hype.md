@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205252009-mc4509-zulu-winter---shot-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205252009-mc4509-zulu-winter---shot-1.jpg"
+image_caption: ""
 ---
 
 __Zulu Winter __are a curious band. They seem to be a band beloved by hipsters at the minute, yet their soaring ambitions surely cannot be contained to playing to only the trendy crowds of London. The band’s recent singles are highly reminiscent of the stadium bothering doom-pop of __White Lies__ and the lead singer’s powerful vocals remind me very much of Chris Martin in his prime, ( I am not entirely sure when that is but I can definitely say it is not now). Therefore it was quite a surreal night when I went to their debut album’s launch party show at a small venue in North London. It was an odd sight looking at a crowd of East London hipsters, industry liggers and fashionistas stroking their moustaches and sipping their Red Stripe whilst the band bash out some massive choruses smothered in swooning guitars, clearly with much bigger venues in mind.

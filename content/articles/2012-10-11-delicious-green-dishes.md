@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112221-felix-safrgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112221-felix-safrgb.jpg"
+image_caption: ""
 ---
 
 Yes, the food at SAF restaurant is green, and by green I mean good to the environment. Most of the dishes are raw, which means that they are prepared at temperatures below 48°C. You would never believe that raw food can be so exciting! We had a two course meal which included starter and main course.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271040-felix-Screen Shot 2016-05-25 at 12.01.11.jpg"
-image_caption: >
-  Could this be you?
-image_attribution: "ICU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271040-felix-Screen Shot 2016-05-25 at 12.01.11.jpg"
+image_caption: ""
 ---
 
 After rumours of the position’s demise, the union has re-opened nominations for the role of Deputy President (Finance and Services).

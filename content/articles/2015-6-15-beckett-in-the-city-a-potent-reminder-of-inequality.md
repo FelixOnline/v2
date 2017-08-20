@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
-image_caption: >
-  Company SJ, Act Without Words II, Bryan Burroughs,
-image_attribution: "Hazel Coonagh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
+image_caption: ""
 ---
 
 Sometimes, a creative piece comes along that leaves you thinking about its issues for a long time, surfacing now and then as a question, emerging here and there as an idea. These works leave an imprint of the artist’s thoughts on you, and you are left with a view of the world through another’s eyes. Sometimes, the full brilliance of these ideas do not take you over until you have turned the words over again and again, passed them between your hands, rubbed them between your fingers. They do what effective art is meant to do – make you ponder.

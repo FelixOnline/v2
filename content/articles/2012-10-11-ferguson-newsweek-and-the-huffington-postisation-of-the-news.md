@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
+image_caption: ""
 ---
 
 Niall Ferguson’s cover story in the latest issue of Newsweek is still generating buzz on the blogosphere. His lengthy editorial “Hit the Road, Barack” took on a barrage of criticism shortly after it hit the shelves (well, the internet). However, the criticism wasn’t about the subjective conceptual hang-ups or reasonable differences of opinion that the right and left usually bandy back and forth.

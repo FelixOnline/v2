@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061113-felix-e4aad32a-52be-4580-a8a5-0ad86907a749-1020x612.jpeg"
-image_caption: >
-  “Ok, so 75 million years ago there was this evil dictator of the Galactic Confederacy called ‘Xenu’…”.
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061113-felix-e4aad32a-52be-4580-a8a5-0ad86907a749-1020x612.jpeg"
+image_caption: ""
 ---
 
 Scientology is not exactly the rarest documentary topic. Countless attempts have been made in the past to expose various aspects of this ‘Church’ in the past – discussing its history or telling the stories of those who have left its ranks. Perhaps the most famous documentary prior to the release of _Going Clear: Scientology and the Prison of Belief_ was the BBC Panorama’s _Scientology and Me_. You’ve probably seen the clip from this programme wherein the host, John Sweeney, explodes at church member Tommy Davis, who managed to finally get under his skin following months of harassment. This is, unfortunately, the usual way these documentaries go: any journalist who has ever tried to independently combat and expose Scientology is quickly met with stalking, harassment, and lawsuits – some Scientology members have even gone so far as to plant child pornography on reporters’ computers. Where the HBO special _Going Clear_ stands out – other than the incredible level of detail it goes into – is that it’s quite hands-off. The presenter, Alex Gibney, gives us his message almost exclusively through the voices of (very) high-ranking ex-members of the church, such as Mike Rinder. I think the backing of the behemoth that is HBO had some part to play in the fearlessness with which this documentary tackles its subject. Ultimately, _Going Clear_ really does serve as the only scientology documentary you’d need to watch to get a full understanding of the movement.

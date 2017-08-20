@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182157-jal08-impression-of-higgs.jpg"
-image_caption: >
-  Impression of Higgs Boson
-image_attribution: "Josef Kristofoletti"
-image_attribution_link: "http://kristofoletti.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182157-jal08-impression-of-higgs.jpg"
+image_caption: ""
 ---
 
 Last week saw the Nobel Prize in Physics go to Peter Higgs and Francois Englert for their theorisation of the Higgs Boson, only months after its confirmed detection at CERN. The controversially named “God Particle” has delivered excitement (and mass) to both the scientific community and the general public, with the tale behind this unassuming boson featuring the twists and turns of a race in science never seen before. It is also a story with many leading roles, but who deserved the prize at the end is still a matter of debate.

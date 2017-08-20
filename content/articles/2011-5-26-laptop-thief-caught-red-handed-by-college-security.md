@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106060953-felix-img_0018.jpg"
-image_caption: >
-  Security officer Jonathan Adams caught one of the thieves
-image_attribution: "Alex Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106060953-felix-img_0018.jpg"
+image_caption: ""
 ---
 
 College security officers, reacting to a report last Wednesday of the theft of a laptop computer, chased two young men across campus leading to an arrest and the assault of a security officer.

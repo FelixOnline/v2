@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112119-nm1010-snogfroz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112119-nm1010-snogfroz.jpg"
+image_caption: ""
 ---
 
 Frozen yoghurt is a tasty cold treat, and London has caught the cold. It’s going round. If it was a warmer foodstuff they’d say it was spreading like wildfire. Instead, it’s spreading more like the Starbucks and Subways that now punctuate every high street. This is an ice-age moment after years of hot coffees and warm pastries. Cold is the hottest new thing in edible delights, and what a delight it is!

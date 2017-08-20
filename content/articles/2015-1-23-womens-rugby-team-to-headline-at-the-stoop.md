@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230046-cac111-b05dostimaa-af9.jpg"
-image_caption: >
-
-image_attribution: "ICU Women's Rugby"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230046-cac111-b05dostimaa-af9.jpg"
+image_caption: ""
 ---
 
 The Women’s Rugby team have been asked to play their Varsity match after the JPR Williams Cup at the Stoop in Twickenham. The match, which will take place on 18th March, will be contested with ten players a side. It will be 20 minutes each way, to form a 40-minute match. The logistics of the rest of the day, such as timings, aren’t known yet, but it is believed that the men’s match will be first, and the women will headline afterwards.

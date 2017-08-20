@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271045-felix-isthisaheadshot.jpg"
-image_caption: >
-  A conservative, a feminist and a comedian walk into a bar – and talk about political correctness.
-image_attribution: "Youtube"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271045-felix-isthisaheadshot.jpg"
+image_caption: ""
 ---
 
 There has been a recent rise of an online stronghold of cultural libertarianism, which has been deemed by some to be a reactionary movement against the regressive left. Classically liberal and conservative figures are breaking down the barriers between the political left and right, and are coming together to discuss a multitude of ideas including free speech, political correctness, censorship and 'safe spaces' in the university scene, and cultural relativity.

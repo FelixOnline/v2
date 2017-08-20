@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142053-nm1010-zuckerbe.jpg"
-image_caption: >
-  Justin Timberlake is actually quite good in The Social Network. Who would have thought?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142053-nm1010-zuckerbe.jpg"
+image_caption: ""
 ---
 
 The Social Network may just be the movie that defines our generation. It tackles a subject that certainly defined our generation – Facebook – and after barely a month in the cinemas, critics already call it a classic. What’s the fuss about?

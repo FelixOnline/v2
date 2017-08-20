@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206221719-felix-fmn-img_0976-phrij.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206221719-felix-fmn-img_0976-phrij.jpg"
+image_caption: ""
 ---
 
 Last Saturday saw the return of Felix Music Night for their final party of the year and boy, was it a party. Things were kicked off with an uplifting jazz & bass set from __Phrij__. Accompanying his selection, __Gabor Kerekes__ shone the hypnotic motion of oils, colours and washing up liquid swirling through each other through an old-school over-head projector.

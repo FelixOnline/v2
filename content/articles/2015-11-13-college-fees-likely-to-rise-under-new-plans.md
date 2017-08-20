@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131409-ygr12-pro.jpg"
-image_caption: >
-  We could be seeing more student protests if the green paper goes through.
-image_attribution: "Cale Tilford"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131409-ygr12-pro.jpg"
+image_caption: ""
 ---
 
 Last Friday, the government released its ‘green paper’ on higher education.

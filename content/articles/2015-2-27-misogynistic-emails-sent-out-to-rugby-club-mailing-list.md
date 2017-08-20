@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502270007-pk1811-screen-shot-2015-02-27-at-00.05.56.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502270007-pk1811-screen-shot-2015-02-27-at-00.05.56.png"
+image_caption: ""
 ---
 
 Emails sent to the ICU Rugby Football Club (ICURFC) mailing list recently have contained misogynistic content, despite previously being warned by Imperial College Union to moderate their “inappropriate” language.

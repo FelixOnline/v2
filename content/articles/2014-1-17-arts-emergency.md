@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Present education policy seems to be driven by the political notion that culture should be seen as a ‘luxury’ and a ‘commodity’, and purely in terms of economic utility. In April 2013, arts secretary Maria Miller spoke on the subject of British arts, saying that the argument for continued arts funding must be made primarily on economic grounds, so that it “will get traction, not in the press, but with my colleagues – and with the country at large”.

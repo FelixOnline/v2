@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121343-ks607-yellowst.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121343-ks607-yellowst.jpg"
+image_caption: ""
 ---
 
 If, like me, your entire scientific knowledge of this subject extends to the silly BBC drama about supervolcanoes called Supervolcano, you should be terrified at the long overdue volcanic eruptions to end all eruptions. A great deal was made that Yellowstone’s last three eruptions have taken place 2.1, 1.3 and 0.64 million years ago – we’re all living on borrowed time.

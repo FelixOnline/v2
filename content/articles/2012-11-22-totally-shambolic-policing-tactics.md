@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222358-tna08-2012-11-21-12.55.55.jpg"
-image_caption: >
-  Photo by Benjamin Lester
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222358-tna08-2012-11-21-12.55.55.jpg"
+image_caption: ""
 ---
 
 As the first students paying £9,000 fees have started this term the fight against fees and cuts to education hit the streets again this Wednesday. Whilst the last National Union of Students (NUS) march two years ago saw the destruction of Tory HQ on Millbank, the fire that ignited from this and saw 50 universities enter occupation and a number of self-organised national demonstrations has died down. Cynically this is probably why the NUS felt it was safe to organise another demo, with out fearing the “embarrassment” of people directing their own movement.

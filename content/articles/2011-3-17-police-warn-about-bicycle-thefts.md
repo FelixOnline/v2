@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The police are investigating a recent series of bicycle thefts from the bike shed, including one student who placed a lock around the front wheel and thus lost the whole bike, apart from the front wheel. The suspect, caught on CCTV, tends to wait for a user to let him in, as a card is required for access. Then he carries a bicycle in and leaves some time later with a stolen one, often of high value.

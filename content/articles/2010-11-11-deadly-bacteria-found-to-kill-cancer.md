@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With MRSA recently becoming a bigger killer than HIV/AIDS in America, it’s no wonder bacteria are often viewed in a bad light. However, an interest is growing in using some bacteria as anticancer agents due to the remarkable tendency of some species to preferentially infect tumour cells over normal tissue, and the multiple ways they can be manipulated to deliver drugs or cause targeted immune responses.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
+image_caption: ""
 ---
 
 "I think free improvisation’s great era is over”, lamented the late Derek Bailey in a 2004 interview with The Wire’s David Keenan. A key figure in the development of the artform, the guitarist was already sounding its death knell, barely more than thirty years since it had become a recognised movement. Indeed, although the venerable imprints of the likes of Incus, Emanem, and Psi continue to publish new editions, it’s now largely archive material, apparently corroborating Bailey’s pessimistic outlook on the state of the art.

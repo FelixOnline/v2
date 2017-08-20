@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102116-ps3110-barbican_towers.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-barbican_towers.jpg"
+image_caption: ""
 ---
 
 In the summer, whenever I have time off from lectures, I like to make a pilgrimage. Taking the District Line down from South Kensington, I get off at Mansion House; twisting through the streets of the Golden Mile, dodging city slickers and corporate lawyers, a cluster of buildings soon come into view - the labyrinthine, awe-inspiring __Barbican Centre__.

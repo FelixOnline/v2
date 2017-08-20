@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150057-tna08-andrew_hunter-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150057-tna08-andrew_hunter-copy.jpg"
+image_caption: ""
 ---
 
 The eternal procrastinating tool… Facebook. Or is it? [Adzuna](http://www.adzuna.co.uk/), a social job search engine, has developed a way to help you get hired with a little help from your friends. Launched out of a central London pub in July 2011, this small London startup, with over 1.5 million monthly visitors, classifies itself as the future Google for jobs with a social network side. Not only that, they search thousands of job websites so you don’t have to, and even give job seekers access to a wide range of job statistics and data to make their search even more efficient.

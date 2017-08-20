@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112119-felix-barbar.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112119-felix-barbar.jpeg"
+image_caption: ""
 ---
 
 Babar Ahmad has been extradited to the United States after the High Court refused to review his case. Last month, the European Court of Human Rights (ECHR) gave its final approval for the extradition. At a federal district court hearing in New Haven, Connecticut, Babar Ahmad pleaded not guilty and is currently in custody.

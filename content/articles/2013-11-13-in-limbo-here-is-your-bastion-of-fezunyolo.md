@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311132302-me1711-games_limbo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311132302-me1711-games_limbo.jpg"
+image_caption: ""
 ---
 
 If you haven’t heard of Humble Bundle you should really check it out! They are an organisation that will regularly provide a bundle of games for any price you want to pay, and if you pay above the average (normally around £5) you will get some more “premium” games. Once you have selected how much you want to pay you can choose where your money goes- to charities like Childs Play or to the game developers. Recently I bought the Indie Bundle 9 which contained some great games; Limbo, Bastion, Fez, Mark of the Ninja, Eets Munchies, FTL, A Virus named Tom…amongst others. Here is a review of the first 3 games.

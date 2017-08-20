@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
-image_caption: >
-  Professor Stephen Smith
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
+image_caption: ""
 ---
 
 New senior medical leadership positions have been announced in a bid to strengthen integration with the UK’s first Academic Health Science Centre (AHSC). Professor Stephen Smith, Principal of the Faculty of Medicine and Chief Executive of the Imperial College Healthcare NHS Trust, is to become Pro Rector (Health) and combine his roles. Professor Smith formed the AHSC in 2007 by leading the integration of College and the NHS Trust. He is also the Founding Dean of the [Nanyang Technological University Medical School](http://felixonline.co.uk/news/177/imperial-opens-medical-campus-in-singapore/), Imperial’s campus in Singapore. Responsibilities of the new role include managing Imperial’s strategic opportunities in health science research and education across the world.

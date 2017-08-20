@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152223-tna08-fencing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152223-tna08-fencing.jpg"
+image_caption: ""
 ---
 
 Rolling into Essex campus the slightly understrength 3rd team were prepared for a bashing, things started well with Jamie ‘destroyer’ Simpson damaging Essex in the warm-up. Then first up was our foil team of Andy Simpson, Niall Corry and Thoe Suter. Getting us off to a great start was old timers Thoe and Andy who dropped only three points for the first 10 to imperial, and then new to the team fresher Niall showed his worth (and flexible arm skills) in a 5-1 victory. The three musketeers continued their fine form and put imperial into an impressive 45-14 lead.

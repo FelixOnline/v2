@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 They say that when a man is bored of London, he is bored of life. If this is true, I should take a running leap off Hammersmith Bridge in my solid concrete Hushpuppies – however, no matter how boring life may get, I’m certain that the alternative is even more so. To clarify, of course I’m not bored of London, merely bored in London.

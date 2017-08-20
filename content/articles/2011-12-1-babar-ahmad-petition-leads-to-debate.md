@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
+image_caption: ""
 ---
 
 An [online petition](http://epetitions.direct.gov.uk/petitions/885) calling for ex-Imperial College staff member Babar Ahmad to be put on trial in the United Kingdom reached 141,000 signatures by its closing date of November 11, passing the requirement of 100,000 for a discussion in Parliament. This has led to a parliamentary debate being held next week on the issue of extradition.

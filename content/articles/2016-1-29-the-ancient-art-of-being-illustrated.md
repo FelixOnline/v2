@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
-image_caption: >
-  Maud Wagner, the first known female tattooist in the US 1911.
-image_attribution: "Margot Mifflin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
+image_caption: ""
 ---
 
 Skin as a blank canvas is not a new idea; Ötzi the Iceman, frozen sometime between 3239 and 3105 BCE had a tattoo. Inking or marking skin unites cultures and continents across the ages.

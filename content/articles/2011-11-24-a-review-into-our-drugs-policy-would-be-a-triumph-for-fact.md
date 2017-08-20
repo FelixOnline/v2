@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Council Chairman Baroness Eliza Manningham-Buller concluded [her statement to the All Party Parliamentary Group](http://felixonline.co.uk/?article=1829) on Thursday 17 November calling on Government to hold a “proper, and preferably non-political conversation, on [the issue of drugs], to review current policies and explore whether there are others offering better hope of success.” Nevertheless, amongst the various reasoned and well measured responses to the suggestions, last week’s speech has perhaps predictably generated opposition solely focusing on the cannabis angle, leading to claims of “spongy liberalism” in [one particular publication](http://www.dailymail.co.uk/debate/article-2063186/Spooks-seen-heard--subject-drugs.html?ito=feeds-newsxml). Such suggestions could not be further from the truth.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022103-felix-photo-7.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022103-felix-photo-7.jpg"
+image_caption: ""
 ---
 
 I have been trying to pin down what is truly appealing about festivals. What makes them so hellishly fun and why do we go to them? Of course there can’t be just one answer. Part of the fun is getting away from ‘civilisation’ and going a bit mad for a few days; but after a while you can’t help but begrudgingly admit that civilisation, with its comfortable beds, warm showers, and clean clothes is actually pretty sweet. Obviously part of the fun is being with your mates; but it’s probably not necessary to point out that we don’t just see our mates once a year at Bestival. What really makes a festival worth going to, in my opinion, is the line-up. It’s the opportunity to see a whole load of the bands that you love one after another (as well as hopefully being pleasantly surprised by those that you haven’t heard of yet.)

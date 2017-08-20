@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272309-felix-4935940784_52aac8bd66_b.jpg"
-image_caption: >
-  Sized apples move through an apple packing plant at one of the California Apple Commision’s factorie
-image_attribution: "flickr/Anthony Dunn Photography"
-image_attribution_link: "http://www.flickr.com/photos/adunnphoto/4935940784/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272309-felix-4935940784_52aac8bd66_b.jpg"
+image_caption: ""
 ---
 
 Just before the [BlackBerry service collapse on October 10](http://felixonline.co.uk/tech/1563/the-blackberry-crumble/), the analyst firm [Enterprise Management Associates](http://www.enterprisemanagement.com/) conducted extensive research regarding the trend in enterprise mobile device management. This research concluded that more than 30% of BlackBerry users from within large enterprises are expected to move to different platforms within a year as a result of poor user satisfaction. Despite the growing popularity of the device in UK teenage market (largely due to the success of the BlackBerry Messenger application, BBM, which allows users to avoid instant messaging costs), the recent BlackBerry “black out” will likely accelerate the decline of [Research in Motion](http://www.rim.com/)’s (RIM, the maker of the BlackBerry device) market share at enterprise level. The question is, can [Apple](http://www.apple.com/uk/)’s iPhone and iOS platform can now take over BlackBerry’s piece of the marketplace following the death of its founder Steve Jobs, or will it instead follow Blackberry’s footsteps towards decline?

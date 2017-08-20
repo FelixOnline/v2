@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ICBC’s high performance contingent made the ever dreary trip to Boston on Saturday 9th February and came out with some good results, hopefully putting them in the mixer for international selection this year. BUCS small boats head was also incorporated into the GB trials, so Imperial athletes were racing for Sport Imperial glory as well!

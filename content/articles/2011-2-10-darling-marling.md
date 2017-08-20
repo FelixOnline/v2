@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102019-dr910-MArlingd.jpg"
-image_caption: >
-
-image_attribution: "NME"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102019-dr910-MArlingd.jpg"
+image_caption: ""
 ---
 
 Laura Marling is a remarkable artist. She left home at 16 and moved to London carrying, you would like to imagine, only a guitar, a straw hat and a few vinyls. She then befriended – remarkably, given her shyness – members of lightweight-campfire-singalong bands Noah and the Whale and, later, Mumford and Sons. Most people will have noticed her first singing cutesy backing vocals on Mystery Jets’ ‘[Young Love](http://www.youtube.com/watch?v=qz-FoGp3p0s)’ and Noah’s ‘[5 Years Time](http://www.youtube.com/watch?v=T8YCSJpF4g4)’ and would have rightly thought her a songstress of little substance. However, delve even slightly into any of her solo work and you will notice a complete transformation. No longer is she the naïve poster girl of such hollow genres as “indie-folk” or “nu-folk” but rather a songwriter of (almost) the highest quality who contemplates womanhood and the hazards of love rather than sunny days at the zoo. That is not to say that childlike, happy songs are bad: sunny days at the zoo are some of the happiest memories of my life. However, anyone can write a catchy tune about the sun, but it takes great talent to sing about love and sadness without cliché, something Laura manages every time.

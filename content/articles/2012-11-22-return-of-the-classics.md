@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222304-tna08-faraon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222304-tna08-faraon.jpg"
+image_caption: ""
 ---
 
 Despite of, or perhaps because of, classics being so heavily emphasised in secondary education and being beloved of critics they are certainly not the most liked of books of ordinary people. They are often considered dry, irrelevant or just plain boring.

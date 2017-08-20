@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
-image_caption: >
-  Graphics are sooooooo realistic
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
+image_caption: ""
 ---
 
 Ahead of you, dear reader, be you fresher or a returning student, is a substantial (or perhaps not so substantial) amount of work. To provide some relief from the never ending coursework and lab reports, this article will try to introduce you to some games that will serve you well this year, without breaking the bank. These games, while not the newest you will ever see, have a lot of replay value and are easily worth their money. In fact, comparing them to some of the new stuff out there, I would take these any day. I try to split these beauties into their different genres, so that you get a quick overview of the games on hand.

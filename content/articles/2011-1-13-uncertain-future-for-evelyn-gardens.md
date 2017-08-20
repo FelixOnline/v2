@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132143-ks607-fisherha.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132143-ks607-fisherha.jpg"
+image_caption: ""
 ---
 
 The long-term future of student accommodation in the Evelyn Gardens area is currently under review, with the high cost of necessary refurbishment likely to mean the closure of halls such as Fisher. The uncertainty comes as Imperial is reviewing all areas of its accommodation provision including the wardening system and an investigation by Facilities Management into state of repair of all halls. The Director of Commercial Services, Jane Neary, stressed that the College is committed to providing accommodation for 1st year students and that the halls would remain open for the foreseeable future, until they could be replaced.

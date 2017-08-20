@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401151610-me1711-games_cookie.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401151610-me1711-games_cookie.png"
+image_caption: ""
 ---
 
 Cookie Clicker is the highly addictive game with the goal of producing an infinite number of cookies! Yup – it’s a game that never ends as much as it never lets you go.

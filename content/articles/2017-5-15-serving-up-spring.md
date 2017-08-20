@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151826-felix-IMG_0009.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151826-felix-IMG_0009.jpg"
+image_caption: ""
 ---
 
 I was leaving college one evening after a long, dreary day huddled inside the dark warmth of ACEX (on top of some never-ending coursework), when I looked up to the sky, preparing for a deep, long sigh, as per any typical cold winter day. The sigh dissipated into thin air as the navy blue was replaced by a cloudless, cornflower blue. A few wisps of coral-coloured cotton candy clouds drifted past. It was 6pm and it was bright outside.

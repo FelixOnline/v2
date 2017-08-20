@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082207-cac111-panoramic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082207-cac111-panoramic.jpg"
+image_caption: ""
 ---
 
 As a kid, Usain Bolt probably dreamt of the Olympics while he was outstripping all his mates on the running track. Neil Armstrong probably gazed at the Moon and wondered “what if?” Charlie, Mandy and Bobby Brown almost certainly sat monged in the wee hours of the morning and all agreed they really fucking wanted to go to the Cannabis Cup.

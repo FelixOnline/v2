@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
-image_caption: >
-  Shoes, glorious shoes.
-image_attribution: "Victoria & Albert Museum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
+image_caption: ""
 ---
 
 The V&A’s latest fashion exhibition takes a look at the extremes of footwear from around the world, ranging from Cinderella’s glass slippers featured in the recent Disney live action movie, to tiny lotus shoes used to bind women’s feet in 19th century China. The exhibition focuses on the transformative quality of shoes and their cultural significance, particularly as a symbol of status. With over 200 shoes on display, examples are shown from famous shoe wearers as well as a vast range of historical shoes dating as far back as 30 BCE.

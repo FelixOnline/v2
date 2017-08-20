@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
+image_caption: ""
 ---
 
 Nominations for the Union’s ‘[Big Elections](http://union.ic.ac.uk/marketing/elections/)’ opened on Monday 13 February with students able to put themselves forward as candidates for departmental and sabbatical positions. The site’s look and feel has been radically changed from previous elections, and the voting statistics have reportedly been revamped.

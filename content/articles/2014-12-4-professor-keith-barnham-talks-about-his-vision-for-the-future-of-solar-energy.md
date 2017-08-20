@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042132-snb11-giant_photovoltaic_array.jpg"
-image_caption: >
-  Will solar panels like this be on all our houses in the future?
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042132-snb11-giant_photovoltaic_array.jpg"
+image_caption: ""
 ---
 
 __James: You originally started your career in particle physics—why did you change to researching solar panels?__

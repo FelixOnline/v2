@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101631-felix-Screen Shot 2017-02-10 at 16.30.57.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101631-felix-Screen Shot 2017-02-10 at 16.30.57.png"
+image_caption: ""
 ---
 
 Can you smell it? Try again! I know you can, but maybe you’ve just got used to it as it’s been here for some days already: LOVE. Oh, yes, you’ve heard me right. In case you didn’t realise, Valentine’s is coming in less than a week now. And if you are alone, it’s time to worry – you cannot spend one more Valentine’s alone. Again! If you are with someone, it’s time to worry – you really want to make sure that they do still love you as much as they did in the first day.

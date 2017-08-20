@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181535-felix-invisible-men-1.jpg"
-image_caption: >
-
-image_attribution: "Mozer Films"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181535-felix-invisible-men-1.jpg"
+image_caption: ""
 ---
 
 You know something is amiss when innocent men have to abandon their homes and live as fugitives in a country where they are not welcome, in order to survive. However, this is the situation gay Palestinian men face today.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132022-ks607-boatboat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132022-ks607-boatboat.jpg"
+image_caption: ""
 ---
 
 It was a cold Friday night in late November when a group of six sailors headed to Cardiff to compete in the Cardiff Dragon team racing event. As planned, Chris and Martin had got the coach earlier while I was to go home and meet the others at the Union for 18:00. Unfortunately I left it a bit late so didn’t get to the Union till gone 19:00. The others piled in while berating me for my lateness and, with some trepidation, we headed for Cardiff. Our fear was not unjustified as this was forecast to be one of the coldest weekends of the year. As we headed off, the radio reported widespread ice on the roads, that Cardiff airport was closed due to snow and that there were 26 mile queues on the M4 into Cardiff.

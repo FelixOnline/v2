@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
+image_caption: ""
 ---
 
 A foreign exchange scheme that, in previous years, had often allowed a student from each department in the Faculty of Engineering to study for a year at the University of California has this year drastically reduced its places. As a result of a decrease in the number of students at the University of California who wish to participate in the project only two places were available this year for Imperial students.

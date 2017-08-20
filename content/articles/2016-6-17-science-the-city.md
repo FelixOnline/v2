@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The year has come to an end. We’ve jammed and transformed our brains, learning some things better than others. We’ve prepared ourselves with the tools we need for the next chapter in our lives. As we all go our own ways this summer (unless you’re stuck here on campus toiling away while everyone jovially twirls outside in their freedom, like me) what are the really important things to remember from all we’ve experienced this year?

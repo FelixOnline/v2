@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
-image_caption: >
-
-image_attribution: "Loren Kerns"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
+image_caption: ""
 ---
 
 Anyone that’s been around Imperial a while will remember the Fossil Free Campaign posters that went up during first term a few years ago. These declared “Imperial’s getting coal for Christmas” as part of a larger campaign to try and get Imperial to divest from fossil fuels. Whilst the Imperial group for this movement has become slightly quieter on campus lately, the national movement is going strong.

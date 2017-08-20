@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
+image_caption: ""
 ---
 
 A drink usually associated with those that have too little time on their hands and too much to do, coffee is not just a beverage but has become a lifestyle choice. What you drink is “personal,” according to Starbucks, makingthis caffeinated concoction sound more like an outfit choice than a quick fix to a lagging brain. However, it emerged this week that it is not just humans that indulge in the caffeine kick – bees are feeling more than their usual buzz too.

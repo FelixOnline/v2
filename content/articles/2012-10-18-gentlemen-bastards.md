@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
+image_caption: ""
 ---
 
 Having been turned on to large scale heroic sword and sorcery fantasy by Patrick Rothfuss’ excellent and much acclaimed Kingkiller Chronicles I was very eager to read Scott Lynch’s similarly highly praised Gentleman Bastard series (currently consisting of The Lies of Locke Lamora and Red Seas Under Red Skies). Set in a fantasy world clearly inspired by renaissance Italy, the books follow the Gentlemen Bastards, a gang of thieves and confidence tricksters led by the charismatic Locke Lamora.

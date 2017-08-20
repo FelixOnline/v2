@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050048-cj914-caitlynjenner2.jpg"
-image_caption: >
-  Caitlyn Jennner, formerly known as Bruce, received much support and media attention when she recently came out as transgender.
-image_attribution: "Vanity Fair"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050048-cj914-caitlynjenner2.jpg"
+image_caption: ""
 ---
 
 When discussing gender, sexuality, and similar topics, there are a lot of terms and concepts that you might come across. This article will provide a brief introduction to these concepts, what they mean, and how to use the words correctly. Let’s start with concepts.

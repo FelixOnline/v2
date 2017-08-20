@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142038-ps3110-pb091052.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142038-ps3110-pb091052.jpg"
+image_caption: ""
 ---
 
 Climate change is a hotter topic than ever. The 2014 IPCC report, hot from the press, recommends that 80%of the world’s power should be from low-carbon sources by 2050. This will limit the warming of the atmosphere to 2°C, the agreed ‘tipping point’ for disastrous consequences.

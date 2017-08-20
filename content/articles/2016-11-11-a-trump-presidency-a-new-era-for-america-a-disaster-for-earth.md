@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111552-felix-microscope-149816_1280.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111552-felix-microscope-149816_1280.png"
+image_caption: ""
 ---
 
 A man who described climate change as “created by the Chinese” and “fictional” is now the leader of the free world.

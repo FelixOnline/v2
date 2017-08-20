@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411150117-ps3110-02.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411150117-ps3110-02.jpg"
+image_caption: ""
 ---
 
 Given Dmitry Krymov’s background, you would be forgiven for being disappointed when entering the Barbican Theatre to see this production of A Midsummer Night’s Dream; trained as a set designer, he created hundreds of pieces throughout the 1970s and 80s, before starting his own theatre group, the Dmitry Krymov Lab, in 2004. With such an illustrious career behind him, one would expect the set for this production to be phenomenal – an idyllic forest scene, perhaps, that takes us to the site of Hermia’s enchantment; or perhaps the bank described by Oberon, where ‘_oxlips and the nodding violet grows / Quite over-canopied with luscious woodbine_’ . And so upon entering, the stage, which is little more than a blank wooden square, covered in a plastic sheet, may be a little anti-climactic.

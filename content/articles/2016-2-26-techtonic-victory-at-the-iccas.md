@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
-image_caption: >
-  The Techtonics with their award!
-image_attribution: "Will O’Reilly"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
+image_caption: ""
 ---
 
 The semi-finals of the International Championship of Collegiate a cappella, the show that last year won the union’s event of the year,  returned last Sunday, with even more excitement from last year’s highly anticipated event. Featuring eight of the UK’s top university a cappella groups, competing to a sold-out audience in the Great Hall. Opening the show were the University of Oxford’s renowned male group Out of the Blue. Durham’s mixed group the Northern Lights followed, with the University of Bath’s mixed group Aquapella.

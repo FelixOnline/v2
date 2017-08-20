@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403240338-jal08-1573-michaeldobbs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403240338-jal08-1573-michaeldobbs.jpg"
+image_caption: ""
 ---
 
 __How has your life changed as a result of writing House of Cards?__

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 College has set up a consultation process to review the “residential experience” at Imperial. The review process will be conducted by a panel chaired by Professor Myra McClure, College Consul from the Faculty of Medicine (non-clinical) and includes the Union’s President and Deputy President (Welfare), David Goldsmith and Marissa Lewis. The panel also includes Ian Spencer, Director of Residential Services at LSE, who has extensive knowledge about university accommodation best practices after a similar review carried out at LSE in the last year.

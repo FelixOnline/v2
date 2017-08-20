@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I know what you’re thinking – surely this can’t be a review of a series of children’s stories in Felix. Well, if the television section can review My Little Pony I can review the Nicholas books. Indeed, while it can classified as children’s literature, I for one think that the main appeal of the series is for adults.

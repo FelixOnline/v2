@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232131-ams111-the-count.jpg"
-image_caption: >
-  I vant to sack your Courvoisier
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232131-ams111-the-count.jpg"
+image_caption: ""
 ---
 
 In a week where there have been many tracks surfacing from artists of whom I am a big fan, picking one in particular has been tough. Ultimately though there can only be one ‘Rama’s Hip Hop Tune of the Week’ and it comes from someone I only came across for the first time this week whilst bored and surfing the internet.

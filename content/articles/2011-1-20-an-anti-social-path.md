@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
+image_caption: ""
 ---
 
 In November last year the latest in a seemingly never-ending string of social networks launched. ‘[Path](http://www.path.com/home.html)’ was hyped as a new way to socialise online and claimed to be founded on scientific principles. Its creators call it ‘a personal network’ where users can augment existing relationships instead of replacing them. Uniquely, on this social network you are limited to 50 friends. So what are these scientific principles, and what questions does this new network raise about our ability to manage our online relationships?

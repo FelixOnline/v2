@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So, the elections are around the corner. I remember this time last year, I was having to make the decision about running for the Big Elections. There was the obstacle of a looming deadline for the end of term and sheer nerves, however in the end I took the plunge and decided to enter myself for the nominations. Sometimes while you consider running you can really feel self-doubt weighing you down, and you can find youasking yourself if youíre truly ready or capable to fulfil the role. Surely there are many more capable candidates than you? Right? Wrong. A lot of candidates can feel that way and in the end itís the voters that decide.

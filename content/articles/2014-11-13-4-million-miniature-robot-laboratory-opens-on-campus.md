@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411131425-ps3110-kid-shot-himself-in-the-head-surgery-num-2-blood-clot.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411131425-ps3110-kid-shot-himself-in-the-head-surgery-num-2-blood-clot.png"
+image_caption: ""
 ---
 
 On Wednesday the EPSRC Micro-Machining Facility for Medical Robotics was officially opened at Imperial College London. Costing £4 million, this new lab will allow the development of miniaturised surgical robotics that could reshape the way diseases are diagnosed and treated

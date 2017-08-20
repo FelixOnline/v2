@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261456-ks607-aious.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261456-ks607-aious.jpg"
+image_caption: ""
 ---
 
 Am I the most successful person ever? Winston Churchill described success as “going from failure to failure without losing enthusiasm”. Well, I did that.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091937-ma1307-Lightcyc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091937-ma1307-Lightcyc.jpg"
+image_caption: ""
 ---
 
 Have you ever wondered what goes on inside the digital domain? What goes on inside the circuitry of your computer as packets of information are sent through it? Enter TRON. It is the sci-fi geek’s ultimate fantasy – a whole world lying out there, inside those clusters of computer networks. The entry? Just beam yourself in with a prototype particle distruptor/reconsitutor, picked from that experimental physics lab.

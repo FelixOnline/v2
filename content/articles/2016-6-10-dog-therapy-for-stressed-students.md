@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101012-felix-pups.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101012-felix-pups.jpg"
+image_caption: ""
 ---
 
 The City and Guilds union offered a novel way of recovering from exam stress relief last week – playing with dogs.

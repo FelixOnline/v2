@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403261410-jal08-screen-shot-2014-03-26-at-14.09.44.png"
-image_caption: >
-  The risotto with chicken, leek and mushrooms, with added bacon and frozen vegetables!
-image_attribution: "MICHAEL YAT KIT CHUNG"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403261410-jal08-screen-shot-2014-03-26-at-14.09.44.png"
+image_caption: ""
 ---
 
 __As students, our food budgets might be limited, but this does not mean our diets are boring! Eating out or ordering takeaway is neither cheap nor healthy most of the time, but not only can you control the cost and what goes into your food when you cook yourself, we guarantee you will find it enjoyable and an easy (and tasteful) way to de-stress! Both of us, your food editors at Felix, cook regularly; here is how we avoid being in a food rut i.e. eating the same food every day.__

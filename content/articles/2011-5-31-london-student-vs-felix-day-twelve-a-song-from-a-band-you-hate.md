@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This song reminds Science Editor Thea Cunningham of the [worst of Radio 1](http://i.telegraph.co.uk/multimedia/archive/01289/chris_moyles_1289788c.jpg). Which is a fair shout really.

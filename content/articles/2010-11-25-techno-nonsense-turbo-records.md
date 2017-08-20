@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252043-nm1010-Turboooo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252043-nm1010-Turboooo.jpg"
+image_caption: ""
 ---
 
 As you’ve probably gathered by now I enjoy contrast. Traversing the musical spectrum from disco Permanent Vacation style, to Night Slugs’ grimiest bass music in the space of a fortnight has set my stall out nicely I think. This week I introduce to you: [Turbo Recordings](http://turborecordings.com/).

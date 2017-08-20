@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192103-cac111-camp-inigo.jpg"
-image_caption: >
-  Redrum in the basement
-image_attribution: "igo Martínez de Rituerto"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192103-cac111-camp-inigo.jpg"
+image_caption: ""
 ---
 
 As acronyms go, the one belonging to the _City Arts & Music Project _is a bit awkward. The same goes for the name of its nightclub: _CAMP Basement_.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
-image_caption: >
-  The race was enjoyed by athletes of a whole range of abilities.
-image_attribution: "Dave Tan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
+image_caption: ""
 ---
 
 Some say that it’s the most prestigious and largest event known to Imperial’s Cross Country and Athletics society, others say that it’s merely a warm-up jog in preparation for a night of serious shape-throwing in the beloved Metric. Either way, it’s left undeniable that the Hyde Park Relays of 2016 proved to be the highlight of many students’ Valentine’s Weekend.

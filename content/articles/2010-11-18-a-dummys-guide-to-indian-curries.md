@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182108-nm1010-masaaaaa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182108-nm1010-masaaaaa.jpg"
+image_caption: ""
 ---
 
 Walk through most high streets in London and you’re bound to find an Indian restaurant of some sort. The curry industry is worth in excess of £1 billion a year in the U.K. Curry has captured the hearts of the nation to such an extent that the England 1998 World Cup anthem was named after a dish first concocted on the other side of the globe. The curry was only narrowly beaten to Britain’s favourite dish by the pizza. But what are the stories behind these national treasures and are they even truly Indian or an example of multiculturalism working at its best.

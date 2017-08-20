@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
-image_caption: >
-  The fallen torrenting giants, well mostly
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
+image_caption: ""
 ---
 
 Writing the previous article on Google Music’s introduction to the UK market reminded me of an interesting question that I’ve been asking myself for a while, “has the progress in the digital music market, which gives consumers a better deal, reduced the amount we illegal download?”

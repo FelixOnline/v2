@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212033-ks607-sonicthe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212033-ks607-sonicthe.jpg"
+image_caption: ""
 ---
 
 Poor Sonic has been having a bit of a rough time recently. Despite Mario and Luigi continuing their Godfather-esque dominance over pretty much any market they lay their eyes upon, their spiky blue hedgehog nemesis has enjoyed some high-profile, big-budget releases. However with a menagerie of arbitrary supporting characters, a silly oversized sword and a transformation into a credulity-stretching “werehog” to name but a few ‘major innovations’ to the franchise, it’s no surprise that recent instalments have failed to make the dash to success.

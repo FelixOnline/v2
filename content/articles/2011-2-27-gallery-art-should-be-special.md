@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271920-ks607-modernar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271920-ks607-modernar.jpg"
+image_caption: ""
 ---
 
 You may recall Miroslaw Balka’s “Box of Darkness” that was displayed at the Tate Modern back in 2009. For the uninitiated, it was effectively a very big box that was very dark, and you could walk around inside it, and, err, well that was about it really. Except it wasn’t really very dark as there was a wide-open entrance, plenty of camera flashes, and people fiddling with their mobiles.

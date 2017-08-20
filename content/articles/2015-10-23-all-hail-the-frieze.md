@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
-image_caption: >
-  Urs Fischer's Dr Nope, 2010
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
+image_caption: ""
 ---
 
 The dirty side of the art world isn’t always obvious, but Frieze London is making every effort to scream it in your face. The fair ranges from the dull to the exceptional – as you would expect from any art fair – but the commercial machine seems to bleed through everything. Located in a giant glorified marquee in Regent’s Park, Frieze London in its thirteenth year claims to offer an unrivalled breadth and vision into contemporary art. In many respects it succeeds and given enough patience, the Frieze is quite an experience. Everything is on offer and everyone will be impressed, but the atmosphere is all wrong.

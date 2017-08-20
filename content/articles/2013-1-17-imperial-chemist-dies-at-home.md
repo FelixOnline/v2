@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172342-tna08-steinke.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172342-tna08-steinke.jpg"
+image_caption: ""
 ---
 
 I knew Joachim for the last 23 years having done our PhD’s together at the University of Strathclyde under Professor David’s Sherrington’s fine leadership.

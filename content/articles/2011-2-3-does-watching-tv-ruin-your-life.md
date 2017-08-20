@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032026-ks607-couchpot.jpg"
-image_caption: >
-  This guy need less TV, more exercise, and a perm. That's right...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032026-ks607-couchpot.jpg"
+image_caption: ""
 ---
 
 __Charles Betts__

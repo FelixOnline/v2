@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
-image_caption: >
-  97% of wildflower meadows have been lost over the past 60 years, adding to the decline of bees
-image_attribution: "Muhammad Mahdi Karim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
+image_caption: ""
 ---
 
 Pesticides may be the bees knees when it comes to protecting crops, but researchers from the UK and France have shown that exposure to one common pesticide leads to a dramatic loss to the number of queen bees, and another pesticide affects foragers’ ability to find their way back to the hive. The new findings might go some way to explaining recent decline in bee numbers.

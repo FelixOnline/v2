@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Most non-smokers will probably agree that the smell of cigarette smoke is fairly repulsive - there’s little worse than being stuck in a bus shelter with someone who doesn’t appreciate the finer points of the smoking ban. But scientists from the Max Planck Institute for Chemical Ecology in Germany have found that the tobacco hornworm (_Manduca sexta_) makes use of a similar effect to defend itself against predators - by exhaling nicotine at them.

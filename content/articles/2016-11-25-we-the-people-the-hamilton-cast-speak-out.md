@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251410-felix-mike-pence-hamilton.jpg"
-image_caption: >
-
-image_attribution: "Michel e Carla"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251410-felix-mike-pence-hamilton.jpg"
+image_caption: ""
 ---
 
 By now, it’s a near certainty you’ll already have heard about Vice President-elect Mike Pence’s trip to Broadway’s hip-hop musical sensation, Hamilton. If you haven’t, it’s all rather simple: Pence went to the show, and following the curtain call, one of the cast stepped forward and addressed Pence directly. Flanked by one the most diverse casts on Broadway, Brandon V. Dixon (the show’s Vice president Aaron Burr) read a speech written by Hamilton creator Lin-Manuel Miranda, director Thomas Kail, and producer Jeffrey Seller from a piece of paper: "We are the diverse Americans who are alarmed and anxious that your new administration will not protect us, our planet, our children, our parents, or defend us and uphold our inalienable rights." Dixon went on to ask Pence to "work on behalf of all of us… men and women of different colors, creeds and orientations."

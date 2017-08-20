@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
+image_caption: ""
 ---
 
 __Bullet to the Head__

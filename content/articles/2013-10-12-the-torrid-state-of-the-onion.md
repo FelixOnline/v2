@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122032-jal08-tech_silk-road-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122032-jal08-tech_silk-road-copy.jpg"
+image_caption: ""
 ---
 
 It was something like a 90s cyberpunk’s dream: an anonymous, hidden marketplace on the “deep web” where everything from research psychedelics to stolen credit card details could be bought. The Silk Road, considered by some a bold experiment in libertarianism, by others the biggest online hotbed of illegal trade, was finally shut down by the FBI last week after over two years of successful operation.

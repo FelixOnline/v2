@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A new app, Yoyo, for mobile payment has recently launched at Imperial. JustYoyo is a business that was launched in August 2013, it is backed by Imperial Innovations. The new app enables food and drink to be bought from shops across the South Kensington campus.

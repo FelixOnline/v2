@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 "Everyone ought to love, serve, even worship me above all else.” What a sinister, egotistic and deranged thing to say! If you met someone who really believed that about themselves, you would probably not want to meet them a second time. But isn’t that what Christians believe about God? When Jesus was asked which commandment was most important, he answered: “You shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.” Doesn’t that prove the point? Like a North Korean dictator, God seems to demand nothing less than wall-to-wall adoration!

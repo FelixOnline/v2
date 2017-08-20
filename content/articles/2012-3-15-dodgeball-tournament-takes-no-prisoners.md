@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152117-ig711-010.jpg"
-image_caption: >
-  The clue’s in the name
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152117-ig711-010.jpg"
+image_caption: ""
 ---
 
 At 12:00 on Saturday 10 March, Imperial College’s second ever dodgeball tournament kicked off at Ethos Sports Centre. 12 teams entered but only a few had paid attention to the poster stating: ‘Fancy Dress Advised’! ‘Dodgey Balls’ came in a football kit and at first thought it seemed they had turned up to the wrong event, while ‘Why Always Us?’ came wearing hats which were used to distract their opposition throughout the tournament! However, the prize for best costume went to ‘Orient Hurricanes’ (representing Orient House) who turned up wearing suits and steaming drunk. Apparently this had been from early morning drinking and not the night before!

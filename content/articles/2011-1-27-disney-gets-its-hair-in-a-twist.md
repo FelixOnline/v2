@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271959-nm1010-tangleyy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271959-nm1010-tangleyy.jpg"
+image_caption: ""
 ---
 
 Costing Disney a whooping $260 million in production budget alone, it comes as no surprise that the studio has announced they will no longer make animated films based on fairytales after the release of their latest, Tangled. It’s time for the original ideas of Pixar to thrive and Disney knows it. The most recent Disney non-Pixar efforts haven’t exactly turned huge profits and, as the bar is continuously raised, the cost of animation isn’t getting any cheaper.

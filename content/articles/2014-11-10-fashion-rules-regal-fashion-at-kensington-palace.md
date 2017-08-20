@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102139-ps3110-20131123_144446.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102139-ps3110-20131123_144446.jpeg"
+image_caption: ""
 ---
 
 Almost every girl has dreamt of being a princess at some point in her life. Being able to live in a fairy-tale castle, enjoy the privileges and most of all, the dresses and beautiful outfits that come with it. Look at Cinderella; she got a dress from her fairy god mother and the next thing you know, she fell in love with a prince and they lived happily ever after.

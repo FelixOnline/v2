@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072203-sjw209-police-force-simulator-2.jpg"
-image_caption: >
-  Hmm. It says ‘Police’ rather than ‘Polizei’. Maybe the real patrol car’s in the shop...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072203-sjw209-police-force-simulator-2.jpg"
+image_caption: ""
 ---
 
 From the pile of simulator games in the Felix office, this week’s random selection is _Police Force_. From the maker of the hit title _Emergency_, _Police Force_ sees you patrolling the streets of Germany, towing illegally parked cars, setting up speed traps and arresting vandals. Plus, there’s a gun on the back cover. That’s worth at least 2/10 on it’s own.

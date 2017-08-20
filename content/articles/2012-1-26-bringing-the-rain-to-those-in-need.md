@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
-image_caption: >
-  Easy access to water is of huge benefit to developing countries
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
+image_caption: ""
 ---
 
 It’s common knowledge that water is essential for survival. Lesser known, perhaps, is the multitude of water-related problems faced by people in areas without adequate water supplies such as Tabora.

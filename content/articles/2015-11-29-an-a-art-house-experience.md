@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291640-ff712-gueros.jpg"
-image_caption: >
-  With its black and white cinematography, Güeros oozes charm
-image_attribution: "Güeros PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291640-ff712-gueros.jpg"
+image_caption: ""
 ---
 
 I really had no idea what to expect from my first art-house film, but if they’re all like _Güeros, _then sign me up.

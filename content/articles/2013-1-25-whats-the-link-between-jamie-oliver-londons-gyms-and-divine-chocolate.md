@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250207-tna08-jamie-oliver.jpg"
-image_caption: >
-  Anyone else thing he would be cooking naked?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250207-tna08-jamie-oliver.jpg"
+image_caption: ""
 ---
 
 The term “social enterprise” was first coined during the late 70s. The idea is simple. A social enterprise is a business where social aims come first, and profit comes second. Yes, you read that right – social aim first, profit second. Social entrepreneurs are business minded people who are a little bit warm and fuzzy around the edge. Think Alan Sugar meets Mother Theresa, or Donald Trump meets Florence Nightingale. It’s all about business acumen being applied to doing good.

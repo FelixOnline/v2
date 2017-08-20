@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
-image_caption: >
-  Students enjoy a few moments away from the stress of revision
-image_attribution: "Dan Addison"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
+image_caption: ""
 ---
 
 Exam season is most definitely upon us, and this year more and more Universities and Student Unions are attempting to reduce students’ stress levels with a variety of bizarre initiatives ranging from Puppy Therapy to ball pits.

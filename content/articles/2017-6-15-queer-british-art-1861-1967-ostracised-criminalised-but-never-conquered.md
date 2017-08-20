@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706151743-im1413-TELEMMGLPICT000124419172-large_trans_NvBQzQNjv4Bq2UT24tysUNS89v637bWo7qefKdEupUtQvEb0ay-H710.jpeg"
-image_caption: >
-  Sappho and Erinna in a Garden at Mytilene ( 1864), by Simeon Solomon. Photo: TATE/PURCHASED 1980
-image_attribution: "Photo: TATE/PURCHASED 1980"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706151743-im1413-TELEMMGLPICT000124419172-large_trans_NvBQzQNjv4Bq2UT24tysUNS89v637bWo7qefKdEupUtQvEb0ay-H710.jpeg"
+image_caption: ""
 ---
 
 Little rainbows have been popping up everywhere lately - on Facebook, in Skittles adverts, soon they’ll arriving on London’s streets. In fact, the rainbow flag has been flying over Tate Britain for some months now. The gallery will be kicking off the London Pride celebrations next Saturday with a special Tate Lates at their exhibition Q_ueer British Art_.

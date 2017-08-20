@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
+image_caption: ""
 ---
 
 It has been nearly 15 years since the governments gathered in a stuffy assembly hall on a December evening and decided to enact the Kyoto Protocol. It legally came into effect in 2005 and during this Green Week, we have decided to see if it has really made any difference.

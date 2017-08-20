@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502052347-ps3110-20141129_102759.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502052347-ps3110-20141129_102759.jpg"
+image_caption: ""
 ---
 
 The Clock on the Union Building is once again keeping time after a group of past and current students repaired the drive mechanism and constructed a new power system. The Clock had been non-operational for over three years after the original control system on Campus was removed and a replacement mechanism failed.

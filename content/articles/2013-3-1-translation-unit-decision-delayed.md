@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010109-tna08-tsu-piccy-pic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010109-tna08-tsu-piccy-pic.jpg"
+image_caption: ""
 ---
 
 The decision on the[ fate of the Translation Studies Unit](http://felixonline.co.uk/news/3173/translation-unit-under-threat/) (TSU) has been delayed until June leaving all involved uncertain about their future. The Management Board of Imperial College London met on Friday 22 February to review the feedback gathered from staff, students and external interested parties on the future of the TSU. They decided that new research activities in the TSU will not be started, and that new students will not be admitted to the MSc or PhD courses until after the final decision is made. It is also understood that they will have to try to find a new home elsewhere themselves.

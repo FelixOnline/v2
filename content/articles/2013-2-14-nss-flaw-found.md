@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142118-tna08-nss.jpg"
-image_caption: >
-  NSS. Inset is the list given out by the Business School on Blackboard
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142118-tna08-nss.jpg"
+image_caption: ""
 ---
 
 A flaw in the NSS has been exposed once more. It is possible, and not too difficult, for students to fill out the survey on behalf of others, raising concerns over the security of the survey – particularly due to the importance place on its results in league tables.

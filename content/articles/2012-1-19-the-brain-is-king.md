@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192008-pk1811-mri.jpg"
-image_caption: >
-  Can I interest you in some car insurance? Please step into my office...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192008-pk1811-mri.jpg"
+image_caption: ""
 ---
 
 As the economic crisis continues, companies are developing new methods to make you buy, by going straight to the source: your brain. Marketing and advertisement have generally relied on focus groups and surveys to determine the efficiency of a campaign. This method poses a problem as it is difficult to measure a spontaneous reaction. Participants are asked a question and therefore consciously think about it, but 95% of consumer buying behaviour is unconscious. This is where neuroscience comes in.

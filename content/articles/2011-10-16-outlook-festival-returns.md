@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161600-felix-outlookfestival.jpg"
-image_caption: >
-  Dude, where's the beach?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161600-felix-outlookfestival.jpg"
+image_caption: ""
 ---
 
 Accounts of the first instalment of [_Outlook Festival_](http://www.outlookfestival.com/) four years back (held in a Croatian night club with relatively low attendance and a lot of rain) sound like Phoenix Nights on the Adriatic. Since then the event has come a long way.

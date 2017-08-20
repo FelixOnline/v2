@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Everybody has a coping mechanism; a way to ensure their heads don't explode from stress, annoyance or the general tedium of life. My own takes the form of cooking; every revision period you can guarantee a minimum of 5 three-course meals and a couple of home recipe cakes.

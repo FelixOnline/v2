@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
-image_caption: >
-  Someone left their breakfast on Bayswater Road #FELIXFOOD
-image_attribution: "Michael Y K Chung"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
+image_caption: ""
 ---
 
 Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history. I’ve got to admit, not everything looked amazing, be it the colour reproduction of my phone (curry is not the most pleasant-looking dish ever), or just the lack of lighting in a restaurant.

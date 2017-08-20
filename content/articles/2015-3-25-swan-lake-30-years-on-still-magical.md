@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
-image_caption: >
-  Natalia Osipova as Odette and Matthew Golding as Prince Siegfried.
-image_attribution: "Alice Pennefather"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
+image_caption: ""
 ---
 
 They say that familiarity breeds contempt; if this is true, it would be surprising to find anyone in the country who can still stand _Swan Lake_, a ballet classic that has become so well known that it risks becoming dusty. However, this is clearly not the case, judging by the turnout for the __Royal Opera House__’s production, which filled the hall right up to the rafters. A revival of Anthony Dowell’s 1987 production, this version of _Swan Lake_ aims to place the choreography firmly back at the centre of the work; rather than trying any fancy staging techniques, or technical gimmicks, the piece returns to London on the strength of the __Royal Ballet Company__’s dancers.

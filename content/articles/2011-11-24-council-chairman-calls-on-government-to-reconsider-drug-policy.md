@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242212-pk1811-img_0472.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242212-pk1811-img_0472.jpg"
+image_caption: ""
 ---
 
 The Council Chairman of Imperial College, [Baroness Eliza Manningham-Buller](http://felixonline.co.uk/news/1507/interview-eliza-manningham-buller/), has called on the government to reconsider its current drugs policy following the ongoing expense of the “War on Drugs”. Speaking at a meeting held by the All Party Parliamentary Group on Drug Policy Reform, the ex-Director General of MI5 and crossbench life peer raised potential points of consideration in a speech, including regulation of cannabis and a focus on drugs as an issue of health rather than of crime.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502221743-ps3110-5_mark_strong_and_phoebe_fox_in_a_view_from_the_bridge_at_the_young_vic_-28--jan-versweyveld.jpg"
-image_caption: >
-  Mark Strong and Phoebe Fox in A View from the Bridge at Wyndham’s Theatre.
-image_attribution: "Jan Versweyveld"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502221743-ps3110-5_mark_strong_and_phoebe_fox_in_a_view_from_the_bridge_at_the_young_vic_-28--jan-versweyveld.jpg"
+image_caption: ""
 ---
 
 I have a confession to make. In my ignorance, I know practically nothing about Arthur Miller. Arguably one of the greatest playwrights of the twentieth century, at least a superficial understanding of Miller’s work should probably be expected from me, but not even that can I offer. Clueless, but with great anticipation, it was in this mind-set that I walked into the __Wyndham’s Theatre__ for their production of _A View from the Bridge_.

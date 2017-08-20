@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071932-ps3110-nnn-a.jpg"
-image_caption: >
-  Charles Stewart, Uncle Silas: Frontispiece, 1947.
-image_attribution: "Royal Academy of Arts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071932-ps3110-nnn-a.jpg"
+image_caption: ""
 ---
 
 It seems a safe bet that never before in the history of the Royal Academy of Arts has the __Tennant Gallery__ been adorned with either a bowl of glass eyes or a mannequin that can lay claim to having posed as the Queen for a world famous portrait. _Black and White Gothic_ offers both of these and more. Pairing personal artefacts with pieces both polished and in progress, this exhibition provides a rare glimpse of not only of the works of a first rate, yet little known artist, but also an opportunity to examine something of both the process of their creation and the character of their creator. Despite the fact that more than two thirds of the members of the Royal Academy have worked as illustrators in the past, this art form has remained unfairly neglected. This one room showcase focuses largely on Stewart’s illustrations for an edition of Joseph Sheridan Le Fanu’s 1864 novel _Uncle Silas_; a series of darkly evocative stills brimming with barely contained motion, it is well worth a visit for anyone with an interest in the gothic or in illustration and its influence on modern cinematography.

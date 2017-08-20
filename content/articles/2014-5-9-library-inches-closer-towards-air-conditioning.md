@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090256-jal08-news_library_cooling.png"
-image_caption: >
-
-image_attribution: "Imperial College London/Savills"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090256-jal08-news_library_cooling.png"
+image_caption: ""
 ---
 
 After many years of complaints from students regarding the sweltering heat on the top floors of the Central Library, Felix is happy to announce that College has finally responded by providing air conditioning in the library.

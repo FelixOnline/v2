@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Originally made illegal in this country in 1928 as part of a international drive to rid the world of opium and other such nasties, the legal status of weed in the Britain depends on where it is classified under the 1971 Misuse of Drugs Act. Up until the early part of the last decade, that was Class B, which comes with a maximum 5 year jail term for possession and 14 years for supply and trafficking. However in an attempt to free up police time the government announced the reclassification of cannabis to a Class C drug. According to some reports, 190,000 police hours were saved the following year because of the reclassification. What didn’t happen, though, was the complete or even partial legalisation of Cannabis.

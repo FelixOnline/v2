@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
-image_caption: >
-  Environmental factors such as drought are influencing migration
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
+image_caption: ""
 ---
 
 It is difficult to deny the existence of climate change when one points out the obvious effects it has already made on humanity. Coastal flooding, reduced rainfall in dry lands and water scarcity are common headlines in today’s news. Among the many effects that these phenomena may have, let us consider that of human migration.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181213-felix-hydrogen-car.jpg"
-image_caption: >
-  Hydrogen car being filled up
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181213-felix-hydrogen-car.jpg"
+image_caption: ""
 ---
 
 A promising way to power vehicles and appliances in the future is through use of hydrogen fuel cells. These, however, require a source of hydrogen to work, and obtaining this hydrogen has typically been an expensive process.

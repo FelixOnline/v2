@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031950-ams111-festival-day.jpg"
-image_caption: >
-  Sweaty, sun-singed and fired up on sangria: maybe you should reconsider those summer internship plan
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031950-ams111-festival-day.jpg"
+image_caption: ""
 ---
 
 I’m sure we all agree that much of the British festival scene is in tatters. Sure, if you’re willing to deviate from the likes of Reading you might catch some acts that are a little (read: endlessly) more interesting than Kasabian, but ultimately you’ll probably still be forking out far too much money to drag your wellingtons through the rainy mud as the droves of post-GCSE revellers continue to feel each other up and piss on your tent.

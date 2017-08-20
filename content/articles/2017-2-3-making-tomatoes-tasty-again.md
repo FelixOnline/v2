@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031637-felix-3036852901_801fd59122_b.jpg"
-image_caption: >
-
-image_attribution: "Missy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031637-felix-3036852901_801fd59122_b.jpg"
+image_caption: ""
 ---
 
 Have you ever wondered why the tomatoes in your salad taste as bland as cardboard (yes even the Taste the Difference one)? That’s because they actually lack the stuff that adds taste and flavour, a recent study has discovered.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192001-pk1811-aylesiceshelfoffshore30may2006vincent3.jpg"
-image_caption: >
-  A super cool place to live, but at what cost?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192001-pk1811-aylesiceshelfoffshore30may2006vincent3.jpg"
+image_caption: ""
 ---
 
 Human activity may be delaying the Earth’s next ice age, a new study reveals, suggesting that atmospheric CO2 concentrations need to be considerably lower for Earth’s next climatic heartbeat to follow its natural rhythm. The study, by Professor [Chronis Tzedakis](http://www.geog.ucl.ac.uk/about-the-department/people/academics/chronis-tzedakis) and colleagues at the Environmental Change Research Centre at University College London, published in Nature Geoscience, looks at recent geological analogues of the current interglacials in order to answer a question that has, up to now, stumped climatologists – how long do we have until the next ice age?

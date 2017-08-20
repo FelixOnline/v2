@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032015-ks607-wheresth.jpg"
-image_caption: >
-
-image_attribution: "Hamish Muir"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032015-ks607-wheresth.jpg"
+image_caption: ""
 ---
 
 Almost two weeks ago, [the College took down the Union server](http://felixonline.co.uk/news/863/college-pulls-plug-on-union-server/) in a move aimed at removing an article concerning the latest antics of the rugby club. After receiving a complaint from a member of the public and an accusation of libel, the College took steps to remove the allegedly offensive material (and the rest of the Union [clubs] website) from public access. This action by the College comes just weeks after [IC Radio was taken off the air](http://www.felixonline.co.uk/?article=727) following concerns over the content of a show. The seemingly radical reaction of the College to these recent events has pushed the issue of student media censorship into the limelight.

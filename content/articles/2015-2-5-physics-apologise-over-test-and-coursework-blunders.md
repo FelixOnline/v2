@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502052344-ps3110-screen-shot-2015-02-05-at-23.44.51.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502052344-ps3110-screen-shot-2015-02-05-at-23.44.51.png"
+image_caption: ""
 ---
 
 An email was sent out this week to all second year physics students, apologising for the department’s response to a series of assessment blunders that went uncorrected.

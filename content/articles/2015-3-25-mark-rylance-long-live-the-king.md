@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251300-ff712-farinelli-555-captioneda.jpg"
-image_caption: >
-  Mark Rylance as King Philippe in Farinelli and the King.
-image_attribution: "Marc Brenner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251300-ff712-farinelli-555-captioneda.jpg"
+image_caption: ""
 ---
 
 It is easy to forget how magical London is at night but as I crossed Millenium Bridge to reach the __Globe Theatre__, perfectly perched on the riverside, this feeling rushed back to me. With St. Paul’s Cathedral illuminated behind, I was suspended in a state of wonderment as I entered the __Sam Wanamaker Playhouse__, the Globe’s new indoor theatre space. Created to extend the working life of the open air theatre beyond sunny summer days, the Sam Wanamaker Playhouse is a truly mesmerising indoor theatre space, built entirely of wood in a late Elizabethan style: intimate, hand painted and lit solely by candlelight; I have never been to a theatre quite like it. However, this did come with a few downsides. It seems there weren’t many people who were 6’ 4” in the 17th century, which made fitting my knees into the cramped rows a bit of a mission. That, combined with uncomfortable benches, reports of dripping candle wax, and poorly positioned columns meant that, although certainly authentic, it wouldn’t be for everyone.

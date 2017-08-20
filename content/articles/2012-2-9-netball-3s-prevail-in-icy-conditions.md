@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Despite the sub-zero temperatures for this outdoor fixture in Chiswick, both teams came out ready for a fight and the match started off as an end-to-end struggle. UWL opened the scoring; a clinical finish despite some sloppy play around the D.

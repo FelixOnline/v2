@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152122-ams111-earth.jpg"
-image_caption: >
-  Samurai Jack rides an antelope for the Day of the Dead
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152122-ams111-earth.jpg"
+image_caption: ""
 ---
 
 Continuing my recent binge of church-based gigs, last Sunday I had a beautiful foray to The Union Chapel to see __Earth__’s tour, supported by __Mount Eerie__ and the pretty obscure French Canadian __Ô Paon__. If you read my recent review of __Nicolas Jaar__ at Roundhouse, you’ll be well aware that sweaty, active gigs are not really my thing. As such, spending several hours sitting in a cold church listening to some sweet ‘ATP’-presented music is pretty much ideal. Sadly this review will likely lack in humour as all the patrons were not absolute mugs, so remained quiet and respectful throughout, as it always should be.

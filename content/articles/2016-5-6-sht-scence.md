@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061054-felix-10012397964_b7278948d2_k.jpg"
-image_caption: >
-
-image_attribution: "Noodles and Beef"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061054-felix-10012397964_b7278948d2_k.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ience, we believe that all science, no matter how stupid it sounds, has a purpose and adds to the sum of human knowledge. This week: the science of gingerness.

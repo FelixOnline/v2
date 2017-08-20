@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122223-cac111-0511013_01-a4-at-144-dpi.jpg"
-image_caption: >
-  The ATLAS detector where the new particle (not pictured) was found
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122223-cac111-0511013_01-a4-at-144-dpi.jpg"
+image_caption: ""
 ---
 
 Over the Christmas holidays, CERN’s Large Hadron Collider (LHC) in Geneva reported its first particle discovery since opening in 2009. Named Chi\_b (3P), the particle was recorded by ATLAS, one of four detectors within the LHC, and is a more excited state of the Chi particle.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
+image_caption: ""
 ---
 
 It has long been instilled in many a student’s mind that they should be coming out of University with at least upper second class honours if they’re to make the leap to employment afterwards. They say without a 2:1 in your respective degree, you’re destined to life in a dead-end job, and failing that, unemployment. Whilst others continue to fly high, you remain on the dole.

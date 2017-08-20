@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041934-cj914-kickbeat_22.jpg"
-image_caption: >
-  Dancing her way to the top, and looking incredibly sassy while doing it!
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041934-cj914-kickbeat_22.jpg"
+image_caption: ""
 ---
 
 Kickbeat describes itself as “an innovative rhythm game with a kung fu theme, featuring fully 3D characters and high-energy music!” Which sounds pretty good. The reality is not quite as good as it seems at first.

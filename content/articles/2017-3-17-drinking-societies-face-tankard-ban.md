@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171305-felix-Screen Shot 2017-03-17 at 13.04.16.png"
-image_caption: >
-  Spot the sabbs
-image_attribution: "the22club.org"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171305-felix-Screen Shot 2017-03-17 at 13.04.16.png"
+image_caption: ""
 ---
 
 A paper is to be presented at next week’s Council meeting asking the Union to stop handing out tankards to the so-called ‘Tie Clubs’. These are invite-only ‘secret’ clubs, members of which can be easily identified on a night out as they adorn characteristic ties.

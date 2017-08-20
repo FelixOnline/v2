@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250125-felix-arts-frieze-web.jpg"
-image_caption: >
-
-image_attribution: "LINDA NYLAND © FRIEZE"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250125-felix-arts-frieze-web.jpg"
+image_caption: ""
 ---
 
 The Frieze Art Fair, now in its 11th year, is one of the world’s leading contemporary art fairs, and has helped shape London into a nucleus of creativity and vision.

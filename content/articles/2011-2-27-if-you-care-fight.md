@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271237-ks607-protestl.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271237-ks607-protestl.jpg"
+image_caption: ""
 ---
 
 According to the most reliable and useful source known to a student (Wikipedia), England has four of the top ten universities in the world.

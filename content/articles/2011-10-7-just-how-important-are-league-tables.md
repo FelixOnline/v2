@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
+image_caption: ""
 ---
 
 Earlier this month it was revealed that [Imperial College London had slipped eleven places in the Sunday Times University League Table for 2012](http://felixonline.co.uk/news/1467/student-satisfaction-hits-tables/). With such a dramatic fall from third to fourteenth position nationally, this is undoubtedly a cause for concern.

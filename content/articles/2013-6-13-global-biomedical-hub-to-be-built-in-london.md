@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
-image_caption: >
-  Sir Paul Nurse, director of the Francis Crick institute
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
+image_caption: ""
 ---
 
 A £650 million medical research centre is under construction in London. Funded by the Medical Research Council, Cancer Research UK, the Welcome Trust as well as Imperial College London, University College London and King’s College London. The Francis Crick Institute will be based in King Cross next to St Pancras International station and will open in 2015.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171134-felix-titicut_follies.jpg"
-image_caption: >
-  Titicut Follies takes an unflinching look at mental health in America.
-image_attribution: "Zipporah Films"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171134-felix-titicut_follies.jpg"
+image_caption: ""
 ---
 
 It seems fitting that Documentary Corner should end with a beginning. _Titicut Follies_ is the first film from director Frederick Wiseman, a giant in the documentary world, who stormed into the Bridgewater State Hospital for the criminally insane in 1966, armed only with a camera and a whole lot of chutzpah. Over the course of 84 minutes, Wiseman exposes the goings on in the hospital, from the mundane to the horrific: we see prisoners being force-fed, stripped, and relentlessly taunted by the guards, who are on the whole indifferent to their charges’ well-being.

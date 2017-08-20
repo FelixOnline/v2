@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411171819-ps3110-stalker.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411171819-ps3110-stalker.jpg"
+image_caption: ""
 ---
 
 CBS is expertly churning out police procedural shows like clockwork and it seems to be working with the audience. Their newest show,_ Stalker, _is winning its new Wednesday night slot across the Atlantic, competing against ABC’s country music drama _Nashville _and NBC’s police drama_ Chicago P.D. _and it recently hit the screens over here in the U.K. airing on Sky Living.

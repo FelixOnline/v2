@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231225-jal08-fire.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231225-jal08-fire.jpg"
+image_caption: ""
 ---
 
 It is reported that at some point last week there was a fire in the Huxley building, which is home to both the Mathematics and Computing departments.

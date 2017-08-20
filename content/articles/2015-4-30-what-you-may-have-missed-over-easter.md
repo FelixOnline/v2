@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504302357-ps3110-jamesdyson_web1.jpg"
-image_caption: >
-
-image_attribution: "James Dyson Foundation"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504302357-ps3110-jamesdyson_web1.jpg"
+image_caption: ""
 ---
 
 __420: Thousands gather in Hyde Park, more than 50 arrested__

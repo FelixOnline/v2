@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I don’t really know how to start this article. That’s quite embarrassing. Then again, I think that’s a recurring theme in my life. I always find a way to embarrass myself. In a way I’m like Bob Dylan. Except it’s embarrassment’s door that I’m knock knock knocking on. I then realise that I’ve actually got the wrong door, just as it’s too late and the person who lives there is opening it.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103171804-jk708-iscience.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103171804-jk708-iscience.png"
+image_caption: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non mattis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec quis imperdiet nisi. Fusce condimentum, odio nec tincidunt scelerisque, arcu tortor mollis erat, at posuere quam ipsum sagittis nisl. Donec congue leo consectetur nulla varius sed pretium nunc pulvinar. Proin quis turpis sed tellus rutrum tempus eu sit amet augue. Vestibulum adipiscing, purus eget semper vestibulum, neque dolor accumsan ante, ac condimentum augue elit vitae elit. Nullam quis metus sem, eget iaculis tortor. Pellentesque iaculis viverra elit vitae venenatis. Vestibulum imperdiet ultricies scelerisque. Suspendisse convallis ornare euismod. Praesent a vulputate quam. Maecenas ultrices sem vitae arcu imperdiet vel porttitor est blandit. Donec sollicitudin malesuada sem, nec faucibus tellus feugiat in. Vivamus molestie cursus rhoncus.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 People find it easier to express their feelings hidden behind their computer screens. They can confess things to people that they would never talk about face to face, like suppressed feelings or personal thoughts. So how exactly did people communicate before the internet?

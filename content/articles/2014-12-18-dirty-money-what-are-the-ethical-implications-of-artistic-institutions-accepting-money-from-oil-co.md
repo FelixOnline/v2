@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 One of the highlights of the __Saatchi Gallery__’s collection of contemporary art is Richard Wilson’s _20:50_. Taking the form of a vast lake of used oil, it creates a black, mirrored surface that simultaneously intrigues and repels. With its surreal air, some visitors feel that the liquid needs to be felt to be believed, only to come away with a sticky residue on their fingers that contaminates everything they touch. Owned by the gallery since 1991, it has been shown in every space the gallery has moved to, with its current iteration taking up the entire basement of their building just off Sloane Square.

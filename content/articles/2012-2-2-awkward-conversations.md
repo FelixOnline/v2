@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Now I’m not really one to feel self-conscious. If we’re being brutally honest here, I actually quite like getting attention – a hangover from my Mum never looking at how high I was going. Recent experience, however, has taught me that I have boundaries – lines that should not, under any circumstances, be crossed.

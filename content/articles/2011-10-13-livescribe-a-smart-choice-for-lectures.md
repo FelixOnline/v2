@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140000-sjw209-pen_full.jpg"
-image_caption: >
-  Who needs friends when you have a pen that talks?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140000-sjw209-pen_full.jpg"
+image_caption: ""
 ---
 
 I have to admit that when I first picked up [Livescribe’s Echo Smartpen](http://www.livescribe.com/en-gb/smartpen/) I was more than a little skeptical, for good reason. I’ve seen electronic note-taking aids from my first year at Imperial, and there’s good reason why the Union Shop does such good business at the start of term: it will take a lot to beat the simplicity of pen and paper.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610032052-felix-9942718616_71d5fd5921_o.jpg"
-image_caption: >
-
-image_attribution: "j_bg"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610032052-felix-9942718616_71d5fd5921_o.jpg"
+image_caption: ""
 ---
 
 Upon joining the European Union in 1973, Britain joined an exclusive trade bloc based on its geographical location. A western country joining a western organisation designed to help already wealthy countries protect their own market interests. Yet, amidst the panic that followed the Brexit vote, many remainers were full of dismay and shame that Britain had detached itself from the EU utopia of ‘common values’, most laughably of which is inclusivity. The EU is first and foremost an exclusive group. This cannot be stressed enough.

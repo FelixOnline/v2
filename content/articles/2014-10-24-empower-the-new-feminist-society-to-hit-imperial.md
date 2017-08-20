@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Empower, founded by two fourth year students at Imperial College London, held its first event last weekend, in the form of an icebreaker at the Union Dining Hall. Tea and cake were provided, along with a surprise VIP appearance in the form of Imperial’s new President, Professor Alice Gast, who gave a 10-minute speech to the assembled group of around 30 students. During the evening, founder Sophia Lewis set out their aims for the group.

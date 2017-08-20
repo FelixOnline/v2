@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182124-jyg11-inside-out.jpg"
-image_caption: >
-  The only caption I could think of was ‘toasty’. You try doing better.
-image_attribution: "Disney/Pixar/Pete Docter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182124-jyg11-inside-out.jpg"
+image_caption: ""
 ---
 
 With the summer upon us, it means the inevitable onslaught of blockbusters. By normal standards, 2015’s a pretty quiet year for the summer, with most of this year’s big hitters either already out, or landing towards Christmas time (_Star Wars_, I’m looking at you).

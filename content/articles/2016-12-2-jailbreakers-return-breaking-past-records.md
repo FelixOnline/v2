@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
+image_caption: ""
 ---
 
 As another year nears its conclusion so does another Jailbreak challenge. This year’s annual travelling competition, organised by IC RAG, broke the previously held record for participation, as well as for distance travelled by a single team. The winners Ayush Dharap and Rohan Prasad from team Brownian Motion, managed to reach Bali, Indonesia, a whopping 12,500km away (or a return trip to the centre of the Earth) raising £355.88 In the process.

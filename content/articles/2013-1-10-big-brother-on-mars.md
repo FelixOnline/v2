@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102212-csw09-mars_one.jpg"
-image_caption: >
-  The major issue faced is how people will be evicted from the show
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102212-csw09-mars_one.jpg"
+image_caption: ""
 ---
 
 Mars One is a not-for-profit organisation planning to use money donated from sponsors and that generated from a reality TV show ‘media storm’ to fund a project that will put a human habitat on Mars in 2023. In the first half of this year the application process will open to applications for their astronaut training program, which itself will be filmed and broadcast as part of the TV show. Mars One claim to have already received over 1000 emails expressing interest in signing up for the project, regardless of the catch: the trip to Mars will be one way.

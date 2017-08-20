@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082008-ams111-biological_clock243-940x626.jpg"
-image_caption: >
-  Time might not be running out, after all
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082008-ams111-biological_clock243-940x626.jpg"
+image_caption: ""
 ---
 
 Most women will at some point in their lives encounter the ticking biological clock: the realisation that their fertile years are limited, and if they wish to start a family, they cannot wait much longer. This is because we have only the supply of oocytes or egg cells we are born with, and when they’re gone, they’re gone. At least that is the conventional view of how the female reproductive system works. But research published recently in _Nature Medicine_ suggests that there may be more going on than we had previously realised.

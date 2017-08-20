@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The search for a non-invasive, effective technique with which to measure the blood sugar levels of diabetes sufferers has long occupied researchers in the medicine and applied biophysics communities. For the last 20 years, research has centred on the potential use of wavelength-modulated laser radiometry – that is, shining lasers tuned to specific wavelengths at human blood samples and measuring the response.

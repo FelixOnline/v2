@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002012047-rsp07-musicshe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002012047-rsp07-musicshe.jpg"
+image_caption: ""
 ---
 
 What were your aims when you founded Tru Thoughts? What was the label’s raison d’etre?

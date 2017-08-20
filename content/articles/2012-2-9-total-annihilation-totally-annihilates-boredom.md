@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092230-ams111-1177920819_total_annihilation.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092230-ams111-1177920819_total_annihilation.jpg"
+image_caption: ""
 ---
 
 Oh, so you were expecting a review on a new game? What new game? January and February are hell for game reviews; nothing’s being churned out by the video game companies. So instead, I’m going to take the time to wind the clock back and review a game I played when I was eleven. It was brilliant then and it’s still a masterpiece today. I’m talking about Cavedog Entertainment’s real-time strategy game _Total Annihilation_.

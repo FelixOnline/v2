@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070051-tna08-deepka-podcast.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070051-tna08-deepka-podcast.jpg"
+image_caption: ""
 ---
 
 The implementationof video lecture recordings across the College has been a hot topic for discussion of late. Although video lectures have been piloted in Imperial for certain years in certain departments, the scheme is not yet available to all students.

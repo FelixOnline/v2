@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The original Cloudy was a wacky, high-energy romp through the world of Flint Lockwood (Bill Hader), inventor extraordinaire (well, if you count rat birds and spray-on shoes as deserving of such a title) and his creation of the FLDSMDFR (no, I am not spelling out that acronym for you, go look it up), a machine which takes water and turns into food. Any food.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242230-felix-ocean-of-pearls.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242230-felix-ocean-of-pearls.jpg"
+image_caption: ""
 ---
 
 A couple of weeks ago, the British Sikh Doctors Organisation and Imperial Sikh Society worked together to put on an outstanding meet and greet event with Sikhs from all around London, a few charities and talks on a variety of topics, culminating in the screening of the new-to-the-UK movie: _[Ocean of Pearls](http://www.oceanofpearls.com/)_. Director Sarab Singh Neelam, a doctor living in Michigan, originally had the idea based on countless real life experiences of migrants throughout the world. _Ocean of Pearls_ won multiple awards at various film festivals: Best Feature Film at the Detroit Film Festival in 2009 and the Grand Jury Prize and Audience Choice Award at the 2008 Los Angeles Pacific Film Festival, to name a few.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603300152-jc7413-PR8A1630 CURIEVICI AS JOHN WORTHING, NELSON AS ALGERNON MONCRIEFF, EWING AS LADY BRACKNELL, BOYLE AS CECILY CARDEW, MARSHALL AS GWENDOLEN FAIRFAX © ROH. S CUMMISKEY.jpg"
-image_caption: >
-  "Am I right to suppose that there is to be no christening today?"
-image_attribution: "Royal Opera House"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603300152-jc7413-PR8A1630 CURIEVICI AS JOHN WORTHING, NELSON AS ALGERNON MONCRIEFF, EWING AS LADY BRACKNELL, BOYLE AS CECILY CARDEW, MARSHALL AS GWENDOLEN FAIRFAX © ROH. S CUMMISKEY.jpg"
+image_caption: "Am I right to suppose that there is to be no christening today?"
 ---
 
 Flying cakes, crashing plates, a cacophonous score and a healthy dose of Wilde witticisms – Gerald Barry's operatic adaptation of _The Importance of Being Earnest_ has it all. Being an enormous fan of Wilde, this production brought the Wilde-ness of one of the most recognisably "Wildean" plays to levels I never thought possible.

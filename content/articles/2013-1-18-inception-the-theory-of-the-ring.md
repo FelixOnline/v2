@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180112-tna08-inception-3-inception-2010-26665678-1920-1080.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180112-tna08-inception-3-inception-2010-26665678-1920-1080.jpg"
+image_caption: ""
 ---
 
 Ok, yes, I am two years late. I am aware of that. I am also aware of the fact that everyone has now seen Inception, discussed it, explained it and looked for the mathematical inconsistencies of the dream world (although I suspect the latter is only true for Imperial students). What more can possibly be said about it after two years?

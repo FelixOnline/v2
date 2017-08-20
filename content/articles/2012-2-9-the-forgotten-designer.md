@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092322-pk1811-fall-2010-c.jpg"
-image_caption: >
-  Christian Dior Fall 2010 Couture
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092322-pk1811-fall-2010-c.jpg"
+image_caption: ""
 ---
 
 As unlikely as it may seem, I have found myself swapping the glossy pages of Vogue for the less conveniently sized Financial Times this week as the recently realised flurry of financial figures drag my attention away from the conventional pre-fashion-week buzz.

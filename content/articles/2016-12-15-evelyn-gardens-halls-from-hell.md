@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612152338-felix-IMG_6422.JPG"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612152338-felix-IMG_6422.JPG"
+image_caption: ""
 ---
 
 Several students currently housed at Evelyn Gardens are reporting being unhappy with the quality of the accommodation they are receiving, with complaints coming in ranging from issues with pest control, to problems with plumbing and electrical works.

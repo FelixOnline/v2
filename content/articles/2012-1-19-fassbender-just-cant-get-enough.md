@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192023-pk1811-shame_3.jpg"
-image_caption: >
-  Nothing like having a semi-nude lie-in on a day-off (watch where that hand is going, Michael!)...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192023-pk1811-shame_3.jpg"
+image_caption: ""
 ---
 
 __Shame__

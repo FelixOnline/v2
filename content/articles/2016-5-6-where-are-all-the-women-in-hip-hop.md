@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061058-felix-hiphop.jpg"
-image_caption: >
-  Lil Kim, Missy Elliot, Lauryn Hill and Foxy Bronwn.
-image_attribution: "Vibe Magazine"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061058-felix-hiphop.jpg"
+image_caption: ""
 ---
 
 With hip hop, as a genre and a culture, passing its 40th anniversary in recent years, a female presence is as absent as ever. This is, of course, not for a lack of talent. Ignoring some examples like **Iggy Azalea** and **Kreayshawn**, there is a lot of female talent to be found in the realm of hip hop music. But when I go onto the featured rap artist page on Spotify I only see two women (**Missy Elliot** and **MC Lyte**) and around 60 men. As someone who wants to see more **Lauryn Hill**s in the world, I really have to question why this is.

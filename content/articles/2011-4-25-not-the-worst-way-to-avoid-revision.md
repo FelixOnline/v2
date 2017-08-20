@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104251027-felix-d11s02e01_wallpaper_06.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104251027-felix-d11s02e01_wallpaper_06.jpg"
+image_caption: ""
 ---
 
 In this overture episode to the sixth series of Doctor Who, the Doctor (Matt Smith) is quite dramatically struck down by an alien attired in a 1960s space suit. For a blissful moment I thought Matt Smith was going to be replaced by someone rather less irritating, but sadly he turns up again a couple of minutes later. Damned wishful thinking.

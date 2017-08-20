@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281153-felix-103902v1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281153-felix-103902v1.jpg"
+image_caption: ""
 ---
 
 What if all the world’s not a stage, but a game? The men and women would still be players, but of a very different kind. And scientists would be the biggest gamers of all.

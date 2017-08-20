@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Amsterdam: when the word is spoken bells immediately begin to ring. It’s one of those places that’s on everyone’s to-do list, whether the intentions be noble or otherwise. Following a whimsical conversation many sleepy Sundays ago we decided that it would be the perfect pre-Christmas destination, a place to unwind and soak up some cultural delights.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Situated underground, just a stone’s throw from the station, lies South Kensington’s best kept culinary secret. Those with a proclivity for excellent steak can often be observed venturing down the narrow steps into the basement area. Those curious enough to discover its visceral delights will follow. And those who are vegetarians, well… look away now.

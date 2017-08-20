@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In a battle for the top of the country charts, let the cat-fights commence between an older living legend who is struggling to keep up with the evolving music industry, and a younger, fresh-faced new star who is experiencing success as a crossover artist between country and pop to a huge teenage fan-base. Rayna James (Connie Britton) is the older one, Juliet Barnes (Hayden Panettiere) is the younger one, and together they headline Nashville, a rather inconsistent soap opera dressed up all nice and pretty in the good original soundtrack that tries to carry the clunky series along.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
-image_caption: >
-  GoPros abound as José and some friends take a much needed break.
-image_attribution: "José Estiveira"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
+image_caption: ""
 ---
 
 A skydiver’s greatest enemy, especially in the UK, is inclement weather. So for the first ever international tour of IC Skydiving we followed the sun to Skydive Algarve in Portugal, which like our own club has recently expanded to new levels of successful operation with the acquirement of a new plane and procurement of a new team of world expert instructors and dropzone managers.

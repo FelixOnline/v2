@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162057-felix-ur_multimedia_341218.jpeg"
-image_caption: >
-  Martin Saar
-image_attribution: "University of Minnesota"
-image_attribution_link: "http://www1.umn.edu/news/news-releases/2011/UR_CONTENT_341216.html"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162057-felix-ur_multimedia_341218.jpeg"
+image_caption: ""
 ---
 
 It was on a cool, clear autumn day in northern Minnesota when two scientists, driving towards a fieldwork station, stopped for gas. It was at this petrol station that Martin Saar and Jimmy Randolph had a flash of inspiration that could one day help in the fight against climate change.

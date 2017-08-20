@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012033-ks607-computin.jpg"
-image_caption: >
-  There have been a string of ICT mishaps in past weeks
-image_attribution: "Afonso Campos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012033-ks607-computin.jpg"
+image_caption: ""
 ---
 
 Following the [recent root level security breach](http://felixonline.co.uk/?article=896) in the Department of Computing (DoC), sources have informed Felix that the [Computing Support Group](http://www.doc.ic.ac.uk/csg/) (CSG) endeavoured to successfully patch all affected physical lab machines, rendering them safe to access and free from keylogging or other malicious activities. The Secure Shell (SSH) service, taken down in order to prevent the vulnerability expanding, is being restored, with secure server shell4 providing students with external access to the lab machines.

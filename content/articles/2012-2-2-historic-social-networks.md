@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202021921-ams111-facebook.jpg"
-image_caption: >
-  A map of social connectivity
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202021921-ams111-facebook.jpg"
+image_caption: ""
 ---
 
 We normally think of social networks as a modern-day phenomenon: Facebook, Twitter etc. come to mind. But according to recent research published in Nature, ancient societies may have been organised along much the same lines.

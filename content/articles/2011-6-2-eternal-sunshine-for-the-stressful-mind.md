@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021932-felix-sadnesscmyk.jpg"
-image_caption: >
-  Don’t cry, there are drugs to help you forget just how bad that film actually was
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021932-felix-sadnesscmyk.jpg"
+image_caption: ""
 ---
 
 Negative emotional memories can be suppressed in the long-term with the help of drugs that regulate stress hormones, new research has shown. The findings, published in the [_Journal of Clinical Endocrinology & Metabolism_](http://www.google.co.uk/url?sa=t&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fjcem.endojournals.org%2F&rct=j&q=journal%20Clinical%20Endocrinology&ei=6NbnTb_OAsmn8QOhrZnvCg&usg=AFQjCNE_GxDyXohsRG0fB4S6MyXzAHWr5Q&sig2=sIV-Zz3uvxffm-W__3g1oA), could lead to new treatments for sufferers of post traumatic stress disorders (PTSD).

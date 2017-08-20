@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151913-felix-26-american-gods-4.w710.h473.2x.jpg"
-image_caption: >
-
-image_attribution: "Starz, Amazon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151913-felix-26-american-gods-4.w710.h473.2x.jpg"
+image_caption: ""
 ---
 
 After a tumultuous five years in development hell, Neil Gaiman’s post-modern blend of Americana and folklore has finally found its way to TV courtesy of Starz and Amazon. American Gods, an adaptation of Gaiman’s 2001 novel by the same name, is at its heart an examination of faith and the ever-changing nature of the altars at which we worship. Being familiar with Gaiman’s Sandman mythos but never having read American Gods myself, I approached the series not quite knowing what to expect. What I’ve experienced in the first two episodes, however, has me keen to see more.

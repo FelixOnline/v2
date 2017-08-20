@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172221-pk1811-we-need-to-talk-about-kev-007.jpg"
-image_caption: >
-  Where the hell's the tomato soup?!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172221-pk1811-we-need-to-talk-about-kev-007.jpg"
+image_caption: ""
 ---
 
 __We Need to Talk About Kevin__

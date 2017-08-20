@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102346-ps3110-screen-shot-2014-11-10-at-23.45.08.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102346-ps3110-screen-shot-2014-11-10-at-23.45.08.png"
+image_caption: ""
 ---
 
 __Bernadett: What’s your academic background?__

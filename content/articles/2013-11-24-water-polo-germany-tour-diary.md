@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 To kick off the season, the water polo team returned for the fifth time to Germany for the Aachen Annual Water Polo Tournament. Not having previously won any matches in Germany, the team arrived with no expectations other than giving it their best shot and getting in a lot of playing time to allow all levels of players improve their skills.

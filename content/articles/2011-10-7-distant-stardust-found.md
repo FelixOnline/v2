@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In early October this year, there were 687 confirmed discoveries of planets outside our solar system. This number is growing almost daily and as it increases we can begin to dig deeper into the details of these planets, known as exoplanets because of their “extrasolar” nature, and explore their properties and those of the planetary systems they exist within.

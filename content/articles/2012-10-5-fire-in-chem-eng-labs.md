@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
-image_caption: >
-  The view from the steps of the Royal Albert Hall on Tuesday 2nd October
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
+image_caption: ""
 ---
 
 On Tuesday 2nd October, there was an incident in one of the Department of Chemical Engineering’s laboratories in the Bone Building on the South Kensington Campus.

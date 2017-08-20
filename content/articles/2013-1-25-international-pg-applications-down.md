@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
-image_caption: >
-  Arrivals gate as international students arrive. Oop, satire...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
+image_caption: ""
 ---
 
 The number of Non-EU postgraduate applicants has fallen for the first time in 16 years. In previous years the numbers had risen annually by an average of more than 10%. Figures released by the Higher Education Statistical Agency (Hesa) shows a 1% drop fuelling ideas that the government’s immigration crackdown is deterring students continuing their education in the UK.

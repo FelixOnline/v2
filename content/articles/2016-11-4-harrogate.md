@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041430-aib116-102016HightideHouseRoyalCourtHarrogateProduction-1-0033.jpg"
-image_caption: >
-
-image_attribution: "Richard Lakos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041430-aib116-102016HightideHouseRoyalCourtHarrogateProduction-1-0033.jpg"
+image_caption: ""
 ---
 
 After its successful debut at HighTide Festival in Suffolk last year, _Harrogate_ - written by Al Smith and directed by Richard Twyman – arrives in London at the Royal Court to kick off its UK wide tour.  The one act play, coming in at just over 80 minutes, finds itself perfectly suited to the cosy Jerwood Theatre at the Court. In a rather unique set design, audience members face each other from benches (which are perhaps just a bit too cosy) on either side of the room. The stage itself sits in the middle; a medical-white cuboid running the length of the room, with its two bench-facing sides missing. It’s more reminiscent of a zoo exhibition than a theatre, and being able to see the faces of half your fellow attendees can be rather off-putting, especially when one of them nods off during scene two. We’ll put that down to the humidity in the room, however, because the play and performances from Nigel Lindsay (of _Four Lions_ fame) and Sarah Ridgeway are brilliant.

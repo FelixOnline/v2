@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292346-ps3110-icl_ntu_050.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292346-ps3110-icl_ntu_050.jpg"
+image_caption: ""
 ---
 
 Recent survey results have shown that students in their final years of medicine face extreme financial difficulty, with one in two students saying that their financial situation might affect their ability to complete their degree.

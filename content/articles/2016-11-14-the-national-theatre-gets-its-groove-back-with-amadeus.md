@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611141416-felix-adam_gillen_-_wolfgang_amadeus_mozart_background_sarah_amankwah_hammed_animashaun_as_venticelli_image_by_marc_brenner1.jpg"
-image_caption: >
-
-image_attribution: "Marc Brenner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611141416-felix-adam_gillen_-_wolfgang_amadeus_mozart_background_sarah_amankwah_hammed_animashaun_as_venticelli_image_by_marc_brenner1.jpg"
+image_caption: ""
 ---
 
 The National’s new revival of its 1979 triumph is one tinged with sadness, doubly so on the evening of its opening. The playwright behind _Amadeus_, Peter Shaffer, sadly passed away earlier this year, and on the day of the opening the director Howard Davies, responsible for 30 shows at the National over the past few decades, also left us. There is a pre-show appearance by Rufus Norris and Nick Hytner (present and previous artistic directors of the National) to pay tribute to the two men, and there is an undeniable air of melancholy hanging over the building.

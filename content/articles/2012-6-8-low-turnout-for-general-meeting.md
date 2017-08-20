@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206080934-mc4509-news2.jpg"
-image_caption: >
-  The meeting took the form of an informal discussion
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206080934-mc4509-news2.jpg"
+image_caption: ""
 ---
 
 The [Imperial College Union General Meeting](http://www.imperialcollegeunion.org/data/files/generalmeetingfinal-1085.pdf) was held on Wednesday 6 June, with several ideas proposed that could see the structure of the Union considerably change.

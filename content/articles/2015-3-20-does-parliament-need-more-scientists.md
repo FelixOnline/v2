@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503200047-cj914-robert-winston.jpg"
-image_caption: >
-  Robert Winston was made a Labour peer in 1995 and has been instrumental in getting many key science and healthcare bills through parliament
-image_attribution: "ytimg.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503200047-cj914-robert-winston.jpg"
+image_caption: ""
 ---
 
 The impact of science has never been confined to the laboratory. Today, many of the most important and difficult decisions faced by politicians are fundamentally scientific, from the best way to tackle climate change to the recent vote to allow mitochondrial replacement therapy.

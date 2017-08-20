@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251151-ff712-desiree-in-approriate-behaviour-credit-gravitas-ventures.jpeg"
-image_caption: >
-  Desiree Akhavan in Appropriate Behaviour, which chronicles a bisexual Iranian woman’s life in Brooklyn
-image_attribution: "Gravitas Ventures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251151-ff712-desiree-in-approriate-behaviour-credit-gravitas-ventures.jpeg"
+image_caption: ""
 ---
 
 When asked where she gets her oddball sense of humour from by the interviewer, Desiree Akhavan pulls no punches: “My genitals,” she replies, “my humour comes from my genitals.” Akhavan is here, being interviewed at the __ICA__, to promote her debut film _Appropriate Behaviour_, a drama-comedy revolving around an Iranian bisexual woman living and loving – or at least, attempting to – in hip New York. While the film has received numerous comparisons to _Girls_, no doubt helped by the fact that Akhavan has a recurring role in this season of Lena Dunham’s brainchild, it is clear from the beginning that Akhavan’s vein of humour is more brash, nuanced, and utterly unique.

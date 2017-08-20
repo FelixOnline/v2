@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As most regular runners will testify, there comes a point when having followed a routine for a long time, you feel compelled to mix things up and try something new. It’s the runner’s mid-life crisis. This seems reasonable analogy for it involves committing to something rash, a bad idea. For me this was entering the Wye Valley Ultra, an 80 km race through the mountains of mid-Wales. Several months on from the seemly harmless entry form, the day came along, bringing with it the task of completing a race just shy of two marathons, with over 200m of vertical ascent to contend with. My student tendencies eliminated thoughts of pre-race nerves when I realised that a 3am alarm was required to make the 7.30am start time. Silver linings in everything...

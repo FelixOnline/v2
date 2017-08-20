@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030547-ks607-smallbus.jpg"
-image_caption: >
-  Spine Strength, one of the businesses Find Invest Grow has supported
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030547-ks607-smallbus.jpg"
+image_caption: ""
 ---
 
 The third business in our week on start-ups is [Find Investment Grow](http://www.findinvestgrow.com/) (FIG). James King, its founder and CEO, gave his first Felix interview in October 2009, when he had just started his student-focused venture capital firm. In the year and a half since, his family of start-up businesses has grown rapidly to include fifteen members, all of them showing strong results so far, as well as great promise for the future.

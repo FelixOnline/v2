@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291549-tna08-christian-marclay-oto-copy.jpg"
-image_caption: >
-  Christian Marclay at Cafe Oto
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291549-tna08-christian-marclay-oto-copy.jpg"
+image_caption: ""
 ---
 
 ###  Gig Venues

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070008-tna08-349.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070008-tna08-349.jpg"
+image_caption: ""
 ---
 
 [Imperial College Business School](http://www3.imperial.ac.uk/business-school) has achieved triple accreditation. This comes after meeting the required standard from the [Association to Advance Collegiate Schools of Business](http://www.aacsb.edu/) (AACSB).

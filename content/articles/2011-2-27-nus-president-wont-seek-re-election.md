@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271209-ks607-aaronpor.jpg"
-image_caption: >
-  The NUS President is escorted to safety by police
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271209-ks607-aaronpor.jpg"
+image_caption: ""
 ---
 
 Last week Aaron Porter, president of the NUS, made the decision that he would not seek re-election at the national conference in April – effectively bringing his troubled yearlong presidency to an end.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131052-felix-JS89131250.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131052-felix-JS89131250.jpg"
+image_caption: ""
 ---
 
 Newcastle university students' union is to sell drug-testing packs to its students – not to test them for drugs – but to test the drugs themselves.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041905-cj914-p1060362-copy.jpg"
-image_caption: >
-  Decorated Oxford Street looking ever so Christmassy
-image_attribution: "Yung Nam Cheah"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041905-cj914-p1060362-copy.jpg"
+image_caption: ""
 ---
 
 It is getting to everyone’s favourite time of the year again, and the capital has already decked out for the season.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
+image_caption: ""
 ---
 
 “Hiya! Do you have a few moments to volunteer for a good cause?“ “Ah sorry I’m in a hurry” This dialogue has occurred in the JCR for too long. And as students, who are stereotypically drunk 24/7, it is time for us to stand up and change public perceptions.

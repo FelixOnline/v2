@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s a fairly eventful week in the most recent, unfortunately weaker, episode of _Game of Thrones_. Right off the bat, we’re treated to perhaps one of the biggest reveals in the series; the origin of the White Walkers. The problems start here, because this scene sorely lacks the gravitas it requires and as a result has nowhere near the impact that it should. The fact that it just sort of happens, out of nowhere, doesn’t help.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232046-pk1811-blueberrycobbler.jpg"
-image_caption: >
-  Blood-red cobblers with a touch of booze
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232046-pk1811-blueberrycobbler.jpg"
+image_caption: ""
 ---
 
 __Ingredients:__

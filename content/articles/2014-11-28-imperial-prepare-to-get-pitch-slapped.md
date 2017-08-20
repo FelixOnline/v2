@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280045-kmw13-10683732_728913800525673_16642474235144590_o.jpg"
-image_caption: >
-
-image_attribution: "The Imperielles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280045-kmw13-10683732_728913800525673_16642474235144590_o.jpg"
+image_caption: ""
 ---
 
 Imperial College A Cappella Society has been chosen to host the UK semi-finals of the International Championship of Collegiate A Cappella (ICCA), presented by Varsity Vocals. The competition, now in its 20th year, was featured in the 2012 film _Pitch Perfect_, which introduced the world to the now widely known ‘Cups’. The sequel has been confirmed for release in 2015.

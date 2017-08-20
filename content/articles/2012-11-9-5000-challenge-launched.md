@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211090015-tna08-marketing-challenge.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211090015-tna08-marketing-challenge.jpg"
+image_caption: ""
 ---
 
 The Institute of Global Health Innovation (IGHI) has announced that it is holding its student challenges competition, with an increased prize of £5000 to develop the winning project further.

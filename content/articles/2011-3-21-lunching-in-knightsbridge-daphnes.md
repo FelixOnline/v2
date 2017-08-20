@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103211143-ks607-daphnesk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103211143-ks607-daphnesk.jpg"
+image_caption: ""
 ---
 
 Spring fever is fast approaching. And as Mark Twain puts it, “when you’ve got it, you want - oh, you don’t quite know what it is you do want, but it just fairly makes your heart ache, you want it so!” Except, Mark, you know perfectly well what you want. You want to enjoy ice-cold beers in the park, a chat with that fruity bird you seemed to have missed when she was wearing more layers in the winter, and a healthy dose of copulation.

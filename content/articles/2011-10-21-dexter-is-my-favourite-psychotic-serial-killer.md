@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211142-ak6309-attachment.ashx.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211142-ak6309-attachment.ashx.jpg"
+image_caption: ""
 ---
 
 Jeff Lindsay’s book ‘Darkly Dreaming Dexter’ (which I’m told is very good) is the basis for Showtime’s multi award winning program Dexter. The protagonist, who gives the show its name, is cunning, brutal and funny. By day he’s a blood spatter analyst for Miami Metro Police Department. By night, a serial killer. What sets Dexter apart from other protagonists is that he’s a normal human - he makes mistakes: he’s no Jack Bauer or Michael Schofield (24 and Prison Break, respectively).

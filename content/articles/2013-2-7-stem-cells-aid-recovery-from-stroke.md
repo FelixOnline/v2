@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
+image_caption: ""
 ---
 
 he effects of a stroke can be devastating, with the initial loss of blood supply to part of the brain setting in motion a series of biochemical events called the ‘ischaemic cascade’. This causes cumulative damage to brain cells and blood vessels during the first few hours after the stroke, often resulting in severe and irreversible brain injury.

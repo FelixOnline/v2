@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021444-felix-IMG_7792.JPG"
-image_caption: >
-  The mysterious EEE Library
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021444-felix-IMG_7792.JPG"
+image_caption: ""
 ---
 
 The Electrical and Electronic Engineering library, one of only a handful of departmental libraries remaining in the South Ken Campus, will be turned into a study space over the course of the summer. Departmental Facilities Manager for the EEE department, Andy Paice told felix that following consultations with the students and as part of a larger development taking place at the EEE building the teaching office will be moving where the EEE library currently resides, and the vacant space will be turned into a study area.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Felix's 'witty' [Science](http://felixonline.co.uk/science/) Editor Charlie Harvey, upon being asked, suggested this song for today because it reminded him of my mum... Hey Charlie, [fuck you!](http://1.bp.blogspot.com/__Dpk-_n4qQg/TQizFMn7azI/AAAAAAAAAHs/Rbw7z-7iLGE/s1600/fuck-you.jpg)

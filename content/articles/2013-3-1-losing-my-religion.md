@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010052-tna08-pope-benedict-stock.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010052-tna08-pope-benedict-stock.jpg"
+image_caption: ""
 ---
 
 There is nothing more liberating than simply being yourself. There is probably also nothing harder. For many across the UK struggling to leave their family’s religion, this is exactly the challenge they face everyday. I know – I was one of them.

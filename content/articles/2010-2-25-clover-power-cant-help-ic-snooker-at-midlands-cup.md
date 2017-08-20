@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251840-mb506-ICSnooke.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251840-mb506-ICSnooke.jpg"
+image_caption: ""
 ---
 
 The first weekend of February saw the first snooker tournament of the year; the Midlands Universities Snooker Championship. The two ICU Snooker teams met a little after 7 am for the train to the gloriously dull town of Coventry. Saturday offered a mixed bag of results: In the Individual Championship, Imperial's number one and first team captain, Sam Dennis, found himself in a London derby against LSE's top player, Aqeel Qadri. After losing the first frame convincingly, Sam, with the help of a 44 break, was able to come back and win 2-1 with a round of applause from the spectators.

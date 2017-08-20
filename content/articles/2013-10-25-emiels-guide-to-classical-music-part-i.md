@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The definition of Art is an issue that philosophers have struggled with for millennia. In the 19th Century two greats gave fundamentally opposing views. Arthur Schopenhauer, who thought the world around us a mere representation of reality, believed Art could reveal its true nature. He argued that music alone could completely express the world ‘in itself’ as it was not representative of anything. Friedrich Nietzsche accorded Art an even greater status. To him, life is devoid of meaning or order, save for that which Man creates. Art is therefore not a means to better understand the world, but a metaphysical way of giving meaning to it.

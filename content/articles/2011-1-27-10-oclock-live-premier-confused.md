@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272009-ks607-10clockl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272009-ks607-10clockl.jpg"
+image_caption: ""
 ---
 
 In the last month Channel 4’s marketing department has done well in bombarding us all with anchormanesque billboards and amusing adverts for 10 O’Clock Live, their new topical comedy show. I suspect, however, that the hype and anticipation created is where their downfall will lie. All of us were far too young to have seen the first show of say ‘Have I Got News For You’ or Paxman doing his first interview but I have vague memories of ‘Mock the Week’ having a fairly mediocre start. These shows however were allowed to develop and grow with an increasing fan base as they found their feet but I have an inkling that this show, which does have the bare bones of great television, won’t be allowed that space to breathe and regroup. I can see why Channel 4 has gone with this approach though. The success of their alternative election coverage has prompted 10 O’Clock Live. Pissing everyone off by ending the Daily Show from airing every day and touting 10 O’Clock live as an alternative was a mistake. Talk about setting the bar far, far too high.

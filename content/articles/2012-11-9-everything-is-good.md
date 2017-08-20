@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091402-tna08-everything-everything-group_-straight-web.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091402-tna08-everything-everything-group_-straight-web.jpg"
+image_caption: ""
 ---
 
 Everything Everything at the Village Underground in Shoreditch was certainly a hot ticket; the show had sold out well in advance and obscene amounts of money were being exchanged online to gain entry. As people crammed intothe relatively small venue the anticipation for hearing Everything Everything’s new album was tangible after the huge success which their debut album proved to be. This was the week in which the band got their first top forty hit in ‘Cough Cough’ which rocketed in at number thirty seven. All this proves to me is that the singles charts are fucked beyond saving but apparently it was a reason for celebration, and what better way to celebrate then playing a knock out show in East London.

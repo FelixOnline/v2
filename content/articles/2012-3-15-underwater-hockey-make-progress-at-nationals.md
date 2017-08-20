@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152123-ig711-imperial1.jpg"
-image_caption: >
-  Because ‘Diving for Lead’ just isn’t as catchy
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152123-ig711-imperial1.jpg"
+image_caption: ""
 ---
 
 Imperial’s Underwater Hockey team played their first ever University Nationals tournament last month in Coventry, finishing 7th out of 18 universities.

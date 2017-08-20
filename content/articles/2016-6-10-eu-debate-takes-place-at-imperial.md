@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101014-felix-Screen Shot 2016-06-07 at 12.16.53.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101014-felix-Screen Shot 2016-06-07 at 12.16.53.jpg"
+image_caption: ""
 ---
 
 Last Thursday, The Big EU Debate took over Skempton building with members of both the leave and remain campaign battling it out over the key battlegrounds of the economy, immigration and democracy as a whole.

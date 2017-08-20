@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201509112009-ygr12-242_4260.jpg"
-image_caption: >
-  Credit: Neville Miles
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201509112009-ygr12-242_4260.jpg"
+image_caption: ""
 ---
 
 _Felix_ has learnt that at least four Hall Seniors, who had been selected for places at Beit and Prince's Gardens, have been assigned accommodation at the newly re-opened Evelyn Gardens halls without their consent.

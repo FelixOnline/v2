@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
+image_caption: ""
 ---
 
 Director J. J. Abrams no doubt reignited the dying Star Trek franchise and this follow-up to his 2009 reboot further cements his reputation as a director capable of delivering plenty of fun as well as a more than adequate plot and heart.

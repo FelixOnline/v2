@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171727-felix-Screen Shot 2017-03-17 at 17.27.33.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171727-felix-Screen Shot 2017-03-17 at 17.27.33.png"
+image_caption: ""
 ---
 
 So, since this is the last issue before the Spring break, and as people customarily tend to travel during breaks, this article is going to be about taking advantage of opportunities to have sex in unusual locations. Of course, I’m not referring to France (their love of cheese is not unusual – just deal with it) or other travel destinations, but I’m trying to make a tenuous link with fucking in weird places. So, take a break from revision and prepare to be entertained.

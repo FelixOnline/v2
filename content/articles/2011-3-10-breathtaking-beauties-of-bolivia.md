@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102044-nm1010-bolivibo.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: "http://christopherwalmsley.tumblr.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102044-nm1010-bolivibo.jpg"
+image_caption: ""
 ---
 
 Perhaps best known for its exports, the landlocked South American country that takes its name in honour of revolutionary [Simón Bolívar](http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar) is lesser known for its tourism. Indeed Bolivia does remain a rather unknown quantity to many outside of the narcotics trade. There is a story that Queen Victoria once avenged her embarrassed diplomat to the country, after realising that it was far too inaccessible to attack, by simply declaring "[Bolivia no longer exists](http://www.time.com/time/magazine/article/0,9171,820493,00.html)". Despite this snub and with a little notoriety gained from the book Marching Powder this country has become a well trodden destination on the continent’s Gringo trail.

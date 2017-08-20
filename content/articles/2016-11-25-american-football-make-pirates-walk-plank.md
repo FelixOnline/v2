@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251452-felix-Second_game felix.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251452-felix-Second_game felix.jpg"
+image_caption: ""
 ---
 
 It has been a rough road for the IC Immortals, recently relegated from the highest tier of American Football in the country, to Division one. Immortals have now had the sweet taste of victory that had been missed so dearly.

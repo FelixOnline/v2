@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
-image_caption: >
-
-image_attribution: "Amazon Studios"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091544-felix-the-grand-tour-first-season.59873.jpg"
+image_caption: ""
 ---
 
 Top Gear is dead. Long Live Top Gear? Following Jeremy Clarkson’s, lets face it, rightful dismissal from the BBC and the subsequent decline of Top Gear’s quality, fans have been hanging their hopes on The Grand Tour. Thankfully, the new series does not disappoint. Well, mostly.

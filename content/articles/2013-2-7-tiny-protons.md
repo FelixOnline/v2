@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
+image_caption: ""
 ---
 
 The radius of a proton has generally been considered to be 0.87 femtometers (fm), an incredibly tiny amount. However, [a paper published in Science earlier this year](http://www.sciencemag.org/content/339/6118/405) suggests this miniscule distance may be smaller than previously thought.

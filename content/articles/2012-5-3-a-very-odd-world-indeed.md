@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031945-ams111-0000004887.1024x768.jpg"
-image_caption: >
-  Oddworld: Abe’s Exoddus still holds up today
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031945-ams111-0000004887.1024x768.jpg"
+image_caption: ""
 ---
 
 It’s a shame Oddworld Inhabitants, an American game company founded way back when I was just knee-high to a grasshopper, stopped making games. Why? Because they made some pretty kick-ass stuff, that’s why. So kick-ass in fact that many modern-day game developers could learn a thing or two from them. They won’t, obviously — until reading this piece, that is. Maybe.

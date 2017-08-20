@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
-image_caption: >
-  Next year's Sabbatical team
-image_attribution: "Matt Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
+image_caption: ""
 ---
 
 The results for this year’s Union ‘Big Elections’ were announced over a staggered period this year . The elections, which saw a record turnout of 41.09% of students, also saw a technical issue that and disagreements between candidates over campaigning that ultimately led to a delay of the declaration of results.

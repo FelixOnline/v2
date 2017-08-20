@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010047-tna08-shaz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010047-tna08-shaz.jpg"
+image_caption: ""
 ---
 
 If the highlights of 2012’s musical offering involved bitching about Lana Del Ray’s face, swagging with Odd Future, or simply dancing like a drunk antelope to a Korean pop mega-hit, then I fear the album of the last year has passed you by like a proverbial leaf in a stream. Sharon Van Etten’s third album Tramp was a piece of the purest beauty which had the critics purring but may have failed to make a nest in the public consciousness. Miss Van Etten’s record is more delicate and fragile than anything created by the nymph-like Laura Marling and she has just as many connections to Brooklyn cool as Karen O, so I find it a travesty that it did not feature more highly on album of the year lists. I jumped at the opportunity to review her recent show at the Shepherd’s Bush Empire, and boy, I wasn’t let down!

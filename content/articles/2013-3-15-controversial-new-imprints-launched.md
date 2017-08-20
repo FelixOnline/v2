@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150132-tna08-random-house.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150132-tna08-random-house.jpg"
+image_caption: ""
 ---
 
 Random House, one of the ‘big six’ English language publishers, has launched a set of new digital-only imprints. Hydra will publish science fiction, fantasy and horror; Alibi will publish mystery fiction; Loveswept will publish romantic fiction; and Flirt will focus on “New Adult” work.

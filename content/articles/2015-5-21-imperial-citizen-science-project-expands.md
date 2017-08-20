@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212057-kmw13-buttercup.jpg"
-image_caption: >
-  More than 850,000 have taken part in the OPAL project
-image_attribution: "Natural History Museum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212057-kmw13-buttercup.jpg"
+image_caption: ""
 ---
 
 Open Air Laboratories (OPAL), a citizen science project run by Imperial College London, has expanded to cover the entirety of the United Kingdom.

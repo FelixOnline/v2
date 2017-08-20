@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051651-felix-charing-cross.jpg"
-image_caption: >
-  Exciting front page pictures are what you can expect all year...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051651-felix-charing-cross.jpg"
+image_caption: ""
 ---
 
 Plans have been made to close the Accident and Emergency departments of both Charing Cross and Hammersmith hospitals. Instead, Chelsea and Westminster Hospital will be made the main A&E department for the area and will be expanded to handle the extra patients from the borough. Other hospitals that will be affected by these changes are Ealing, Central Middlesex, and West Middlesex.

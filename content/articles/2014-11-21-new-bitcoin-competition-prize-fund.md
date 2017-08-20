@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211321-ps3110-bitcoin11.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211321-ps3110-bitcoin11.jpg"
+image_caption: ""
 ---
 
 The Imperial College Business School (ICBS) has teamed up with Entrepreneur First (EF), a pre-seed investment programme, to launch a new competition prize fund for students. Up to £3000 could be won from the Imperial/EF Bitcoin Prize Fund for projects that utilise Blockchain technology, which allows secure transactions without the need for a central regulation authority – how Bitcoin is best described.

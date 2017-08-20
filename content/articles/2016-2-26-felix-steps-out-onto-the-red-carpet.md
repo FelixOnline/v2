@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
-image_caption: >
-  Give that bear an Oscar!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
+image_caption: ""
 ---
 
 Best Picture

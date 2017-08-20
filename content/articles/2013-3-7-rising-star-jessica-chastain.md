@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072359-tna08-jessica-chastain-sag-awards-post2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072359-tna08-jessica-chastain-sag-awards-post2.jpg"
+image_caption: ""
 ---
 
 Around 5 years ago, Spanish director Andrés Muschietti released a short film entitled Mamá, in which two young girls are pursued through a dark house by a demonic mother figure. At less than three minutes long, the short is snappy, horrifying, and crackles with an energy rarely found in horror films; Muschietti took a scalpel to the genre, leaving it with only the bare bones of a psychological horror flick. This restraint gave the film its tense atmosphere, and unfortunately drew it to the attention of Guillermo del Toro, who has now added it to his growing rostra of films labelled ‘Guillermo del Toro Presents…’. Del Toro has taken the premise of the short, and stretched it out over 100 minutes, transforming the elegant skeleton of Muschietti’s original into a bloated, sagging cadaver, buckling under the weight of clichés contained within.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022054-ams111-kingkiller.jpg"
-image_caption: >
-  Our protagonist Kvothe  – skilled magic user and swordsmaster
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022054-ams111-kingkiller.jpg"
+image_caption: ""
 ---
 
 I don’t generally read all that much fantasy, at least compared to science fiction, but I was drawn to Patrick Rothfuss’ Kingkiller Chronicle by a pair of very positive reviews in Locus and the Magazine of Fantasy and Science Fiction. I bought the first book in the series, The Name of the Wind, but it was left neglected on my shelves for several months – the consequence of a huge backlog in my reading list.

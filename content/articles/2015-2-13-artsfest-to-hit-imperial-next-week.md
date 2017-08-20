@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
-image_caption: >
-  IC Big Band’s performance from the Queen’s Tower has featured in every Artsfest so far.
-image_attribution: "Daniel Elson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
+image_caption: ""
 ---
 
 “ArtsFest? What’s that?” I hear you chorus, “There are scientists, engineers and medics at Imperial who like arts?” I may be totally biased, but I really believe the answer is yes, and ArtsFest is one of the many times during the year to show it.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105081428-felix-protest.jpg"
-image_caption: >
-
-image_attribution: "Leuvis/MundoReal.org"
-image_attribution_link: "http://1mundoreal.org/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105081428-felix-protest.jpg"
+image_caption: ""
 ---
 
 2014 will no doubt arrive in the blink of an eye and it’ll be time again for that most glorious of sporting events. And with rocketing temperatures, minimal living costs and the nearby Copacabana beach boasting hot latina girls wearing next to nothing, what better venue for the World Cup than Rio’s towering Estádio do Maracanã?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041830-jk708-Hitchhik.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041830-jk708-Hitchhik.jpg"
+image_caption: ""
 ---
 
 I’ve always put travelling as my passion under the interests section of my CV. Name any European country and all I can think is ‘been there, done that’. But what have I really seen in all of those places? Fancy hotels with pleasantly warm swimming pools, crowded promenades holding gazillions of restaurants you’ve already seen in London, every minute of your excursions ‘kindly’ organised by a travel agency. It all merges into one commercial vacation experience – everything looks and feels the same.

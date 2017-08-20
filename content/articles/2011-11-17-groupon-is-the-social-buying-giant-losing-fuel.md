@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172058-pk1811-groupon.jpg"
-image_caption: >
-  Groupon must take on Google and Facebook if it is to triumph
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172058-pk1811-groupon.jpg"
+image_caption: ""
 ---
 
 If you have found time to follow the news in between episodes of Made in Chelsea and The X Factor, then you will be aware that Groupon, considered the fastest growing company ever, has recently been valued at $12.7bn. The company’s rapid global expansion and large valuation (the highest since Google was launched in 2004) imply it is a hugely successful business. However, investors question whether the company’s business model is sustainable, and suggest that internet giants Google and Facebook could prevent Groupon from dominating the social buying industry. So can Groupon maintain the position it has propelled itself into, or are its days in the spotlight over?

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Occupy movement, inspired by protest in Spain, made famous in New York and now a global phenomenon, is succeeding. On the face of it, this might seems to be an audacious claim. Indeed, some of you will be reading this and audibly scoffing; “They have no clear goals; what are they succeeding at?”

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010057-tna08-preorder.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010057-tna08-preorder.jpg"
+image_caption: ""
 ---
 
 Local Natives have never been groundbreaking. They stood out not because they were doing something different to their peers, but because they were doing it quite well. Their second album, Hummingbird, does not break the trend. It wears its influences on its sleeve and they’re pretty much the same as last time round. It’s a fairly well informed American indie record. Grizzly Bear, Animal Collective, a little Fleet Foxes, Grizzly Bear, a bit of Broken Social Scene and Grizzly Bear. Yeah alright, it’s essentially just slightly poppier Grizzly Bear.

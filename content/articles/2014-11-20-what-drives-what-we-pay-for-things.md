@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241251-ps3110-cash.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241251-ps3110-cash.png"
+image_caption: ""
 ---
 
 What are prices? Who decides prices? Walking down a supermarket aisle, we see a wide variety of complicated pricing schemes; buy one get one free, half price, special offers and the like. These prices seem either carefully calculated – what makes them so specific?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022045-felix-cherryorchard5-2.jpg"
-image_caption: >
-
-image_attribution: "Catherine Ashmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022045-felix-cherryorchard5-2.jpg"
+image_caption: ""
 ---
 
 When I eventually managed to walk through the doors of the Olivier Theatre, blocked up with crowds, I turned my head to the stage and that enchanting stage setting took me to the beginning of the twentieth century straightaway. I could see a living room with wooden walls cosily enlightened with candles, and a grand bookcase and sofas. As a history lover, I realised that I picked the right play to watch on my Bank Holiday weekend.

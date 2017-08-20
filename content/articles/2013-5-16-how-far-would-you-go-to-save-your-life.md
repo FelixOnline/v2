@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161945-tna08-mutantdiariesbigflyer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161945-tna08-mutantdiariesbigflyer.jpg"
+image_caption: ""
 ---
 
 The world was stunned this week to learn that actress and director Angelina Jolie had a preventive mastectomy to avoid 87% odds of breast cancer due to the BRCA1 genetic mutation. Seattle performer and composer Eva Moon faced the same impossible choice.

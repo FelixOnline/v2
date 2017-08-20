@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
+image_caption: ""
 ---
 
 The College has denied permission for a high-profile talk by former Pakistani President Pervez Musharraf on Sunday 5th June, saying that they were not given enough notice. The talk, which may go ahead on the following Sunday, was organised by the [Pakistan Society](http://www.union.ic.ac.uk/osc/pakistan/soc/Welcome.html) and was to focus on ‘Unity, Faith and Discipline’ and the role of young people in promoting peace.

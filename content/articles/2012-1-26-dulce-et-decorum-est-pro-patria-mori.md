@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262209-felix-birdsongpic.jpg"
-image_caption: >
-  I’m rather ravishing, don’t you think?
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262209-felix-birdsongpic.jpg"
+image_caption: ""
 ---
 
 Following [_Sherlock_](http://www.bbc.co.uk/programmes/b018ttws) and [_Great Expectations_](http://www.bbc.co.uk/programmes/b018wmhr), another one of Britain’s favourite novels, [_Birdsong_](http://www.bbc.co.uk/programmes/b01bcltb) has been adapted for the small screen by the BBC. The first part was broadcast last Sunday. The book, written by Sebastian Faulks, is considered a modern retelling of the Great War. Set in pre-war Amiens and the Somme trenches, it chronicles parts of the life of Stephen Wraysford and his affair with Isabelle Azaire.

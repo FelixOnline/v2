@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311601-felix-2265926543_7b57b63571_o.jpg"
-image_caption: >
-
-image_attribution: "masha krasnova-shabaeva"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311601-felix-2265926543_7b57b63571_o.jpg"
+image_caption: ""
 ---
 
 An American paper published last month investigated how so-called ‘lucid dreaming’ may help to devise treatments of nightmare disorders and other psychological conditions. The idea is that sufferers may be able to re-program their nightmares into neutral or positive experiences by gaining control over their dream world. Turning negative dreams into positive experiences is not a new idea in the field of psychology, previously shown to be fairly effective in treating PTSD sufferers.

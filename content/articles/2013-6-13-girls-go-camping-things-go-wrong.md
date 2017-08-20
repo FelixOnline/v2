@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140038-tna08-black-rock-review-1.jpg"
-image_caption: >
-  Hold on to your ovaries girls...Man of Steel lands today
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140038-tna08-black-rock-review-1.jpg"
+image_caption: ""
 ---
 
 There’s something almost primeval about the way the characters here conduct themselves. Cut off from civilisation with no technology to help them, the women here need to resort to the bare minimum to stay alive, and here is a gritty, unflinching survival drama that is impressively made, with brisk action and nasty surprises here and there.

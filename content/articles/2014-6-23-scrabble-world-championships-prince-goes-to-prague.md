@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231558-jal08-dsc_9645-copy.jpg"
-image_caption: >
-
-image_attribution: "Maximilian Hunter / Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231558-jal08-dsc_9645-copy.jpg"
+image_caption: ""
 ---
 
 Prince goes to Prague

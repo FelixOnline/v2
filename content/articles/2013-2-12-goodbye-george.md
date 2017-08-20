@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302121823-tna08-aplac1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302121823-tna08-aplac1.jpg"
+image_caption: ""
 ---
 
 A Place in the Sun shows the tragic fall of a man who strived to gain everything in life: wealth, power, class, love, and ultimately, happiness. He worked hard; very hard in fact, since he had to work all the way up from the bottom of the corporate foodchain. A little misunderstanding jeopardises everything and in a heart-beat, the man is left with nothing. It shows us the fragile nature of objects around us, mirroring our very own human emotions.

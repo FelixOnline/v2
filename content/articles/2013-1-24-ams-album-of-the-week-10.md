@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242222-mc4509-198597_10151109398769232_868641925_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242222-mc4509-198597_10151109398769232_868641925_n.jpg"
+image_caption: ""
 ---
 
 How many bands can say they have their own posh burger named after them? [__Dutch Uncles__](http://dutchuncles.co.uk/) can, at least. [The Godboy Burger Flexxin Out In The Wilds Of The Northern Quarter](http://dummymag.com/features/2013/01/16/you-ll-like-dutch-uncles-new-band-merch-because-you-can-eat-it/) was created to honour the release of their third album, _Out of Touch in the Wild_. It’s a wonderfully constructed album, albeit short, as I found myself disappointed it had ended so early. I really enjoy how Dutch Uncles manage to take their eclectic influences and formulate them in such an unpretentious, easy to listen to way. There’s none of those dodgy interludes, nor those rubbish slow songs you always skip. It’s a treat for the ears, with a lot of interesting percussion such as xylophones, vibraphones and marimbas adding to the jangly pop vibe.

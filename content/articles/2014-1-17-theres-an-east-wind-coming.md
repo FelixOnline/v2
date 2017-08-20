@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Hello all! Welcome back to a new term! Hopefully you’ve recharged over the Christmas break and are all ready to sit your exams, do your coursework, or laugh at the poor souls who do so while you get away scott free!

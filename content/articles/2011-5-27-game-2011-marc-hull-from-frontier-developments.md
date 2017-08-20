@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271440-felix-dsc01266resized.jpg"
-image_caption: >
-
-image_attribution: "Simon Worthington"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271440-felix-dsc01266resized.jpg"
+image_caption: ""
 ---
 
 __So what did you study at Imperial?__

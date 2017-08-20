@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290158-ps3110-mentality-report.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290158-ps3110-mentality-report.jpg"
+image_caption: ""
 ---
 
 Mentality was started as a campaign this year, run by a group of students and lead by Bethany Davison, a second year physics student.

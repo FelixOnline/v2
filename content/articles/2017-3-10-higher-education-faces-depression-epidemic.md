@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
-image_caption: >
-  The wordcloud from the institutional culture report
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
+image_caption: ""
 ---
 
 Recent years show an alarming trend amongst students. Rising rates of mental illness show little sign of slowing. In the past ten years, suicide rates have almost doubled. In York, up to 50% of ambulance call-outs to the university were for self-harm or suicide attempts. This is a far from localised issue‒ it’s an epidemic.

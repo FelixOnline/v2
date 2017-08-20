@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
-image_caption: >
-  A tour for two of CERN was up for grabs for the overall winner
-image_attribution: "CERN"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
+image_caption: ""
 ---
 
 The results of the [2012 Science Challenge](http://www.rcsu.org.uk/sciencechallenge) were announced at a reception at the House of Lords on 22 March. The Science Challenge, run annually by Imperial’s [Royal College of Science Union](http://www.rcsu.org.uk), invited students from the College, as well as secondary schools around the country, to answer science based essay questions set by high profile judges. One Imperial and one schools winner was chosen from the answers to each question and an overall winning College and schools essay was then chosen from amongst these.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091512-ps3110-screen-shot-2015-02-09-at-15.12.18.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091512-ps3110-screen-shot-2015-02-09-at-15.12.18.png"
+image_caption: ""
 ---
 
 The games section here at Felix periodically get free games in to review. In the past, these have included such greats as Euro Bus Simulator 2 (see my past review). While these simulator games are fun to review I was very pleased when the opportunity arose to play upcoming PSVita game Baboon, as puzzle games are something I know more about. The game did not disappoint and I hope that this review will reveal why.

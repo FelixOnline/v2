@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102150-ps3110-014_passenger_limousine_lights_mn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102150-ps3110-014_passenger_limousine_lights_mn.jpg"
+image_caption: ""
 ---
 
 Your name is Giorgio Manos. Sporting red hair, a light blue suit and white gloves, your profession: limousine driver. You pick up passengers and deliver them to their respective destinations for cash, but there’s a twist… literally. You don’t just drive the way your wheels are pointing (what would be the point in that?), your limousine is constantly spinning while you attempt to navigate around the town ‘Roundabout’.

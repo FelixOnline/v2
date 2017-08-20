@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
-image_caption: >
-  Fictional head of communications, Malcolm Tucker.
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291106-felix-o-PETER-CAPALDI-facebook.jpg"
+image_caption: ""
 ---
 
 Many of us suspect that Imperial’s concerned more with its image than ever before, and now it has hired a ‘Vice President for Communications and public affairs’. From September the new post will join the highest managers at Imperial, including the VPs for Advancement and Innovation.

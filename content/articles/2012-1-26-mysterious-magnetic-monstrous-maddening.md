@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262210-cac111-martha_marcy_may_marlene.jpg"
-image_caption: >
-  Don’t worry, it’s not bad being an Olsen – just be glad you’re not a Kardashian, you have talent!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262210-cac111-martha_marcy_may_marlene.jpg"
+image_caption: ""
 ---
 
 ###  Martha Marcy May Marlene

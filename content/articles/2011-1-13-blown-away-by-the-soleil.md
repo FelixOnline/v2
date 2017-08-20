@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131920-ks607-totem.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131920-ks607-totem.jpg"
+image_caption: ""
 ---
 
 Totem. Avid Inception fans will immediately think back to the object with which Dom Cobb differentiates between the real and the imaginary. Did it or did it not stop spinning? That is the question. For other Londoners, however, Totem signifies the latest touring Cirque du Soleil show at the Royal Albert Hall. I was lucky enough to win a pair of tickets for the show’s premiere on January 5th and, although I failed to rub shoulders with the celebrities in the stalls, I was blown away by the tremendous performance.

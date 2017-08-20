@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292300-csw09-helena_bonham_carter_great_expectations.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292300-csw09-helena_bonham_carter_great_expectations.jpg"
+image_caption: ""
 ---
 
 The greater the book, the more difficult it is to adapt into film; which is why “from the best-loved story by Charles Dickens” doesn’t exactly cement a vote of confidence to the film due to the enormous challenges it faces. And it’s a story that’s seen the screen many times in the past, once most memorably as a timeless classic in 1946, but the less that is said about the awful 1998 version the better. Newell’s 2012 adaptation can sit quite comfortably between the two in terms of quality: a reliable piece with excellent performances but one that never springs out of its own mediocrity to make a lasting mark.

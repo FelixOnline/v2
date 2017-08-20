@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082001-cac111-uprisingphones.jpg"
-image_caption: >
-  Mobile technology and social media networks played a key role in the uprisings of the Arab Spring
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082001-cac111-uprisingphones.jpg"
+image_caption: ""
 ---
 
 Take the tube and read a newspaper. Most people there are doing the same, but their number is in rapid decline. Between 2007 and 2009, newspaper circulation dropped by 25% in the UK. Only the US saw a heavier decline. This $50bn business, employing 400,000 people in the US alone, is in trouble. In the space of two years, eight major newspaper chains have declared bankruptcy and newsrooms have been cut by a quarter. British newspapers have also needed to lay off workers. The newspaper industry is living its worst crisis since the Great Depression.

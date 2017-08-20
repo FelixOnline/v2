@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142030-ks607-sciencei.jpg"
-image_caption: >
-
-image_attribution: "Tom Welch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142030-ks607-sciencei.jpg"
+image_caption: ""
 ---
 
 Is science vital? Imperial students most certainly think so.

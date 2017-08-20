@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142037-nm1010-trekking.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142037-nm1010-trekking.jpg"
+image_caption: ""
 ---
 
 Each year a group of intrepid Fellwanderers leave the UK to undertake an ambitious two week trek overseas. This year was no different. The chosen trek was the breathtaking Tour of the Jungfrau, winding its way among some of the most spectacular and best-loved mountain scenery in the Swiss Alps.

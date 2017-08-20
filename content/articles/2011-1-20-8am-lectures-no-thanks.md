@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A College committee, the unimaginatively named working group on the extension of the College Day, is investigating a number of changes to the timetable, which, if implemented, would change Imperial for the worse. The proposals are to extend postgraduate teaching to 8pm on Mondays and Thursdays, extend undergraduate teaching to 8am-7pm on Mondays and Thursdays, reduce the lunch break to only one hour and to offer humanities options in the evenings from 6pm-8pm.

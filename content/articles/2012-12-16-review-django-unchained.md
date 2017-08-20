@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
-image_caption: >
-  Christoph Waltz as Schultz and Jamie Foxx as Django
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212161521-mc4509-071712-celebs-django-unchained-jamie-foxx.jpg"
+image_caption: ""
 ---
 
 Smashing two concepts together is a curious business - about as curious as the length of time that it takes to travel between Knightsbridge and South Kensington on the Piccadilly Line. But who else to turn to than Quentin Tarantino? With his latest feature film [_Django Unchained_](http://unchainedmovie.com/), he has delivered a serious labour of love.

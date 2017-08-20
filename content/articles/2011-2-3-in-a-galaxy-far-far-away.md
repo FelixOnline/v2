@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031957-ks607-galaxyga.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031957-ks607-galaxyga.jpg"
+image_caption: ""
 ---
 
 There haven’t always been stars and galaxies in the universe, and the time when they began to form — known as the reionisation epoch — is the subject of much interest in astrophysics. A paper published in Nature last week details a discovery that could tell us more about this mysterious time.

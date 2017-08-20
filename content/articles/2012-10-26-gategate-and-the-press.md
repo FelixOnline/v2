@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260335-tna08-mitchell.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260335-tna08-mitchell.jpg"
+image_caption: ""
 ---
 
 On Friday Andrew Mitchell - the Government’s chief whip - resigned after a confrontation with a policeman that happened over a month ago, involving a gate, a bike and (possibly) the word ‘pleb’. It was all a bit awkward; especially since the policeman and Mr Mitchell gave differing accounts. Someone was lying and since Mr Mitchell is a politician, chances are it was he.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m beginning to like Facebook. Fact-fans out there will know that the first A Geek was actually about Facebook and how terrible it was. But even then I noted that at least it would offer a convenient way of sorting you all into groups that could be easily avoided. To be honest, my feelings about Facebook have evolved around that point, the idea that you’re all now happily pigeonholed and I can observe you, clipboard in hand, and pre-arrange any avoidances and meetings.

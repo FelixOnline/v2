@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022133-ks607-mentalhe.jpg"
-image_caption: >
-
-image_attribution: "Slobodan Radosavljevic"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022133-ks607-mentalhe.jpg"
+image_caption: ""
 ---
 
 Two o’clock in the morning. I had got home from an amazing night out and was falling asleep when I heard people running in the corridor. It was a Friday night and we were Freshers, so I thought nothing of it; I turned over and pulled the duvet tighter around me.

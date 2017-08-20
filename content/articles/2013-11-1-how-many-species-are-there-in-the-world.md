@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
-image_caption: >
-  A new species of snake, Chironius challenger
-image_attribution: "Philippe Kok"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
+image_caption: ""
 ---
 
 Just how many species actually are there in the world? This mystery is up there with the other big questions that dominate science, and has been pursued by all manner of scientists over the years. The flummoxing phylogeny of organisms throughout history is one of the many factors as to why we just can’t seem to pinpoint a magic number, alongside the natural ebbing and flowing of numbers of species all the time; after all, it is the ultimate goal of genes to propagate their organismal stronghold into something bigger, better, faster or stronger, so species come and go as fast as evolution allows.

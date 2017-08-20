@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210121802-felix-mbmpark2010octmtc2-226x300.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210121802-felix-mbmpark2010octmtc2-226x300.jpeg"
+image_caption: ""
 ---
 
 _Personally, I do not think that procrastination is entirely bad. While we delay the work, we may find out a shortcut or a better way to finish the work in short time. As Aaron Burr wisely said, “Never do today what you can do tomorrow. Something may occur to make you regret your premature action.” Do I really waste something while I decided to put off the work? Could I be productive as well when I am waiting for an idea to come up?_ – Guang Yang, EEE undergraduate.

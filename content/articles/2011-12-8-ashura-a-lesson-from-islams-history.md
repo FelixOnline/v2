@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Instinctively, we all admire the ‘good’ things in humankind – compassion, honesty and justice. Our free will to actively pursue such attributes through our actions is arguably what gives us our worth as human beings. But have you ever considered the lengths you go to in order to stand by what you believe is right? Would you die for the sake of freedom? Malcolm X once said: ‘If you’re not ready to die for it, take the word ‘freedom’ out of your vocabulary.’

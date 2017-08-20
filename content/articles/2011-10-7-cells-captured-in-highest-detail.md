@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
-image_caption: >
-  Wanted for murder – have you seen this NK cell?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
+image_caption: ""
 ---
 
 Researchers from Imperial College teamed up with the University of Oxford were able to reveal how white blood cells kill diseased tissue using deadly granules in more detail than ever before. The findings were published in the Public Library of Science (PLoS) and outline the use of optical laser tweezers and a microscope to be able to see the internals of white blood cells at the highest resolution ever.

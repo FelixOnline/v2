@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
-image_caption: >
-  We're all guilty of pulling all nighters...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
+image_caption: ""
 ---
 
 Imperial students fall generally into two categories: those who work hard and those who don’t work at all. Students across all years either diligently trek to the library every evening or pass it completely (as in, walk awkwardly around the redundant new library porch) to go straight to the Union.

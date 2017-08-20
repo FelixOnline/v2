@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
-image_caption: >
-
-image_attribution: "Dave Guttridge/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+image_caption: ""
 ---
 
 The Union’s delayed [survey on hall rents](http://www.surveymonkey.com/s/hallrent) has launched this week. It comes after weeks of debate about the value of the halls Amenities fund, which subsidises social events and is paid into by all students in halls. The survey asks a range of questions including whether or not students think that Ethos should remain free or not.

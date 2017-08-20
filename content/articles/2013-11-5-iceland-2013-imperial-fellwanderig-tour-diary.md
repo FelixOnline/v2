@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We all converged on Luton Airport at 5 am for our flight out to Iceland. After checking everyone had brought all the food and tents that they had been given a few days previously, (they had, apart from a couple of tins of sweet corn) we checked in and sat down for our last English breakfast for 10 days. Charlie finally turned up 15 minutes before the flight left - apparently TFL whimsically decided to cancel all his buses.

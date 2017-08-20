@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140032-felix-berlin.jpg"
-image_caption: >
-  "Ich bin ein Berliner."
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140032-felix-berlin.jpg"
+image_caption: "Ich bin ein Berliner."
 ---
 
 Having been bitten by the travel bug severely this summer, and with just enough time and money (for once!), I wanted to book a holiday somewhere remote and unexplored. I wanted to discover the sights, sounds and smells of a foreign land for myself without feeling obligated to visit all the suggested attractions in a travel guide. However, after realising a return flight to anywhere “remote and unexplored” would involve spending at least a month’s rent, I felt that ignoring Ryanair’s mid-season sale would just be cutting off my nose to spite my face – a city break in Berlin it was.

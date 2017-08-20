@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201004301200-srg03-iPhoneOS.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201004301200-srg03-iPhoneOS.jpg"
+image_caption: ""
 ---
 
 Whilst the great majority of you were hitting the books, Apple has been quite busy. A week after the iPad release the fruity company sent out invites to an iPhone OS4 event titled 'Get a sneak peak into the future of iPhone OS'. Now of course, this wasn't really a surprise for those keeping up, but what did strike people in the know was that even though Apple's mobile operating system is now powering three separate devices, the iPhone, the iPod touch and the iPad, it's still called iPhone OS. Still, Apple did its adoring fans proud with a show and release of the developer version of the OS.

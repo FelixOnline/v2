@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
-image_caption: >
-  About Yellow, Bridget Riley, 2013-2014, Oil on linen
-image_attribution: "Bridget Riley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
+image_caption: ""
 ---
 
 Have I just made the stupidest mistake of my life?” I wondered as the white square dissolved in my mouth and passed down my throat. I reassured myself, the whole thing was thought through and the plan was bullet proof. I stepped out of the bathroom and an usher passed a few angry words in my direction. I didn’t hear what she said, but surely it wasn’t possible that she knew? “The men’s toilets are over there” she pointed.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
-image_caption: >
-  Binding of proteins to nanobodies causes a change of capacitance
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262235-ak6309-c1ib00018g-f1.jpg"
+image_caption: ""
 ---
 
 Alzheimer’s is an as-yet incurable disease that accounts for the majority of cases of dementia. A characteristic symptom of people with Alzheimer’s is memory loss, with the person affected gradually becoming increasingly forgetful; unable to remember their own identity, and eventually, complete unresponsiveness in its later stages. This is amongst many other symptoms.

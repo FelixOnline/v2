@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 n my less pretentious teenage years I was a big fan of all things metal. I gradually, however, found myself gravitating away from the more pedestrian areas of the genre, such as Slayer, who employed a classic thrash sound that influenced many. It became clear to me that the genre had moved way beyond that point in the intervening 20 years.

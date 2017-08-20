@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201005281126-srg03-Opensour.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201005281126-srg03-Opensour.jpg"
+image_caption: ""
 ---
 
 If you’re unfamiliar with the concept of open source software, you’re definitely not alone. In a market full of expensive consumer electronics that are locked down and bound to carriers and application stores, the concept of releasing the code to software that has taken you hundreds of hours to create may seem unintuitive, even silly. Yet despite the unorthodox business model that it engenders, open source software is surprisingly successful. A Linux server is probably behind a majority of websites you browse daily, whilst open-source Android powered smartphones have recently begun outselling the iPhone in the US. Yet despite a few notable exceptions, the concepts behind open source are opaque to the average consumer, which is in my opinion, to the detriment of the entire movement.

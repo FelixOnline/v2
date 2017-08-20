@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290213-ps3110-03e975a3-54e7-43d8-9fff-d7e4bd681e0f.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290213-ps3110-03e975a3-54e7-43d8-9fff-d7e4bd681e0f.jpg"
+image_caption: ""
 ---
 
 Ain Shams University in Cairo has had to cancel exams after fears of protests by students following the controversial death of Engineering student Islam Salah Al-Din Atitu.

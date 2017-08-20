@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
-image_caption: >
-
-image_attribution: "Dave Guttridge/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
+image_caption: ""
 ---
 
 The price of university hall accommodation has come under scrutiny as a survey is set to be launched by the Union into how hall rents could be reduced. The Union has obtained a breakdown of what makes up the rent and are debating a range of cost-saving measures. Students are encouraged to take part in the debate by filling out a questionnaire, to be released early next week.

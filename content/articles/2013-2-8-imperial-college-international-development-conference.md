@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080043-tna08-idc-poster.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080043-tna08-idc-poster.jpg"
+image_caption: ""
 ---
 
 Imperial Hub will be bringing to you Imperial College’s inaugural International Development Conference (IC IDC) on 23rd February 2013. The conference will bring together leading thinkers in academia, government and global development to consider “The Role of Science and Technology in International Development”.

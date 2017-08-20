@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021858-felix-imrankhan.jpg"
-image_caption: >
-  CaSE director Imran Khan, an Imperial alumnus, called the decision “mystifying”
-image_attribution: "CaSE"
-image_attribution_link: "http://sciencecampaign.org.uk/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021858-felix-imrankhan.jpg"
+image_caption: ""
 ---
 
 Imperial has ended its subscription to influential science lobby group the Campaign for Science and Engineering ([CaSE](http://sciencecampaign.org.uk/)). The decision, which CaSE director Imran Khan called “puzzling”, means that Imperial is now one of only two Russell Group institutions, the other being the LSE, that is not affiliated with CaSE.

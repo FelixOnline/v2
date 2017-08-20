@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
-image_caption: >
-  ICU Canoe Club
-image_attribution: "ICU Canoe Club"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
+image_caption: ""
 ---
 
 The faffless foursome (Alby, Tom, Reece and Patrick S.) had arrived in Bovec at 2PM and had already proceeded to buy beers and paddling permits, paddle a grade 3 river, and make a start on the first and certainly not last conspicuous looking meal, just in time for the minibus to arrive later that night.

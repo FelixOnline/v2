@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070237-tna08-badmia.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070237-tna08-badmia.jpg"
+image_caption: ""
 ---
 
 Women are safer drivers. That is a fact backed up by overwhelming statistical evidence. By being male I pay more for my car insurance.

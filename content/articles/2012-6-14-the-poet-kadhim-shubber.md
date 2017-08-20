@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142146-pk1811-332536_10150489129116044_330854336043_9147268_477405966_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142146-pk1811-332536_10150489129116044_330854336043_9147268_477405966_o.jpg"
+image_caption: ""
 ---
 
 Eva - You were Felix editor last year, you organise Felix Music Nights, have a show on IC Radio, set up Kensington poetry nights... why did you decide to get so involved in the arts at Imperial?

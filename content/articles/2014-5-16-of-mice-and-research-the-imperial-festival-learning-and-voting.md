@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week College took another step in the right direction on the journey of animal research by signing the Concordat on Animal Research, a document that promises transparency and openness about animal experimentation. College is trying to shed the murky allegations raised by the BUAV (British Union for the Abolition of Vivisection) last year during an undercover operation that lead to scrutiny by the national press and former alumni.

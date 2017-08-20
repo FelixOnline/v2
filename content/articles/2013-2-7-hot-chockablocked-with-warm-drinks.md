@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072303-tna08-heart-hot-chocolate.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072303-tna08-heart-hot-chocolate.jpg"
+image_caption: ""
 ---
 
 Some January we’ve had this year, huh? College and tests right after Christmas, Britain’s coldest winter in 100 months (complete with that massive bout of dandruff from heaven), and the weather boffins are saying February won’t be much better. Not to worry, though: at times like these, you can always count on a lovely, steaming mug of hot chocolate to make you nice and toasty (well, other than a warm cuddle from thatspecial someone). Nope, not cocoa, not that mug of Nesquick, Swiss Miss, Milo or whatever you call it. There’s a time and place for that stuff, but today, we’re going to discuss real hot chocolate – the stuff that’s thick, rich and unctuous, the drink that warms you to your toes.

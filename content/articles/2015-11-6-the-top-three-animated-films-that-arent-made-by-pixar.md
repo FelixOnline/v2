@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I love Pixar. Chances are you love Pixar. too. In all honesty, I’d hazard a guess that the vast majority of sane people on earth love them. Their films are iconic and have set the precedent for animated films that both children, adolescents and their parents can enjoy. But instead of watching Finding Nemo for the eleventh time, why not give some other storytellers a chance to wow you?

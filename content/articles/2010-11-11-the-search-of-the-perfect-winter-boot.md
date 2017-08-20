@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112034-nm1010-winterug.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112034-nm1010-winterug.jpg"
+image_caption: ""
 ---
 
 As seen on the Autumn/Winter 2010 catwalks of Milan, CAT’s shearling-lined work boots are quickly becoming the hot fashion trend of this winter. With an eclectic mix of designs for men and women, CAT presents an ideal footwear solution for those seeking a boot encapsulating functionality and vintage style.

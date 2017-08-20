@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the 29th of November I was standing in Le Trianon, a music venue in Paris, waiting for the arrival of The Dandy Warhols onto the stage. Whilst waiting I took a look around the old theatre in which I was standing, and it is truly one of the most beautiful venues that I have ever been in, with wooden carvings surrounding the stage and adorning the walls. Then the lights dimmed and they came out on stage immediately launching into ‘Be-In’ with its slowly building crescendo of pure Dandy Warhols essence setting the tone for the whole show. This wasn’t just a tour to promote their new album, it was a show for the fans.

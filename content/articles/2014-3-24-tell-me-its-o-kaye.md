@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The most controversial of next year’s sabbatical officers is, no doubt, Chris Kaye. In an online media outlet that may never be named within these pages, we are told that the incoming Deputy President (Welfare) ran on a platform of a scaled back and cost-effective union, merging the positions of Deputy President (Welfare) and Deputy President (Education), and has a mandate from students to roll the union back.

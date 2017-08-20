@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181510-felix-7822736186_817e702bde_o.jpg"
-image_caption: >
-
-image_attribution: "Michel e Carlo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181510-felix-7822736186_817e702bde_o.jpg"
+image_caption: ""
 ---
 
 In 1976, tongue firmly in cheek, social scientists Deborah David, and Robert Brannon, outlined the four tenets of American masculinity;  “no sissy stuff”, “be a big wheel”, “be a sturdy oak”, and “give em hell”. The terms might be joking; the principles behind them are not; emotional constipation, testosterone fuelled posturing, and (violent) aggression form the basis of what sociologists call "hegemonic masculinity", in other words, the socially acceptable heteromasculinity of gunslinging cowboys from mid century Westerns. Male ballet dancers do not easily fit into this narrative, whether they have ripped abs or not. Ballet, in the eyes of many has resolutely fallen into the category of “sissy stuff”; "prancing princes" is how the critic Andrew Bland described classical male dancers in 1960. Sadly, the dogwhistle homophobia in Bland’s term and ones like it have not stayed relegated to the 60s. In 2003, a sociological study of male ballet dancers found that homophobic slurs were still used to describe male dancers and their work. The almost superhuman athletic feats that might’ve earned this cohort of real life Billy Elliots acclaim from the Reddit crowd had they taken place on a field, or a track, become the focus of derision when they take place on stage.

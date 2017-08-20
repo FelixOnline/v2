@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Grant Danskine, Head of Sport Imperial, has resigned amidst resurfaced criticism of the organisation’s treatment of female athletes. Although the criticism – which resurfaced after Imperial published its institutional culture report – is unrelated to Danskine’s direction of Sport Imperial, it did manage to receive national coverage once more.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141558-rsp07-obamacha.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141558-rsp07-obamacha.jpg"
+image_caption: ""
 ---
 
 Being carefully turned in the candlelight, crystalline reflections were cast across the scroll strewn desk. Angular yet polished, shining yet black as the unlit night, the previously worthless anthracite was becoming the focus of one of the world's greatest minds. A pair of well worn hands lightly followed the cleaved boundaries as the rock's discovery was told by an immaculately turned out senator, his tunic golden in the dim illumination, aptly matching the fossilised amber hanging from the Emperor's neck. Under the all too common canvas, the politician could feel the tangible weight of his superior's intellect as the details of extraction and combustion were divulged, almost seeing the birth of industry dancing in those deep eyes; the visions of fully mechanised campaigns that would succeed success in Gaul, life for the populous of the Empire incomparably bettered through plenty and luxury, the spread of civilisation into the wild lands.

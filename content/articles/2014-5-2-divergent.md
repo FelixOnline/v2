@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020215-jal08-rs_560x415-130719100622-rs_1024x759-130625090311-1024.divergent8.mh.062513.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020215-jal08-rs_560x415-130719100622-rs_1024x759-130625090311-1024.divergent8.mh.062513.jpg"
+image_caption: ""
 ---
 
 __Divergent__

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last weekend, Imperial’s Ultimate Frisbee team – known more commonly as the discDoctors – donned their trademark yellow shirts to compete in the first division of Outdoor University Nationals, having secured their place against local rivals during the south-east regional qualifiers in March. Discs flew, mud spattered, bones crunched, and the discDoctors recovered from a sluggish start to seal their position among the top 10 university clubs in the country.

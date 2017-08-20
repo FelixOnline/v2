@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031124-felix-love1.jpg"
-image_caption: >
-  Fast food is the way to a person’s heart.
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031124-felix-love1.jpg"
+image_caption: ""
 ---
 
 Created by Judd Apatow, Paul Rust, and Lesley Arfin, Love is simply great. I really enjoyed watching it; mostly for the fact that it’s different from all the usual rom-coms. It doesn’t have wishy-washy clichés but rather it dives into the complexities and realism of relationships.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
-image_caption: >
-
-image_attribution: "AP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
+image_caption: ""
 ---
 
 NBA legend Kareem Abdul-Jabbar announced this week that he will be kicking off a diabetes week in the United Arab Emirates. Imperial College London’s Diabetes Centre (ICLDC) is the title partner of the Take a Step for Diabetes Week, which this year will start on the 28th October.

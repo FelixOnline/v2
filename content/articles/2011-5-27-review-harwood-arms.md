@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271453-felix-scothc-egg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271453-felix-scothc-egg.jpg"
+image_caption: ""
 ---
 
 The only Michelin-starred pub gastropub in London has a surprising signature dish – the humble Scotch egg. Of course, it is something very special. The egg, hidden within plenty of flavourful venison sausagemeat, has a firm white but impossibly runny yolk and is coated in the most crunchy, golden brown breadcrumbs. This sums up my impression of the Harwood Arms. It is something simple and comforting that has been obsessively refined to the point of being ethereal.

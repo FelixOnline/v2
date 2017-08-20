@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Many people have argued that democracy is actually one of the most radical ideas in political history. To treat people as equals with equal votes sits well with most people today. We can also see the effects of ideas like these in the West in the last 300 years or so with mass education, rising standards of living, and the abolition of slavery, infanticide, child labour, serfdom and feudalism. There has also been greatly reduced infant mortality, religious persecution, racism, misogyny, superstition and war. The few wars that do occur tend to be tremendously more violent, but it is also a long-term trend that they are getting rarer.

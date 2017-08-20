@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061409-kmw13-photo-1.jpg"
-image_caption: >
-
-image_attribution: "IC Rifle and Pistol"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061409-kmw13-photo-1.jpg"
+image_caption: ""
 ---
 
 Over BUCS weekend at the end of February, six brave Imperial souls left the comfort and warmth of their London flats to compete in the BUCS Smallbore Rifle Finals. After a hearty Chinese takeaway dinner, something of a team tradition, they set off for Sheffield ready for the upcoming two days of individual and team shooting.

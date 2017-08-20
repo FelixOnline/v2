@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032202-sjw209-pool.jpg"
-image_caption: >
-  They have pool cues, and they’re not happy they lost. Watch out
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032202-sjw209-pool.jpg"
+image_caption: ""
 ---
 
 The university cue sports season began last weekend in dramatic fashion as an inexperienced Imperial College English eight-ball pool team travelled up to Nottingham for the inaugural English Universities Pool Championships. Hosted by the [Nottingham University Snooker and Pool Club](http://www.su.nottingham.ac.uk/sports/club/snookerandpool/), 25 university teams and over 128 individual entrants battled it out for some early bragging rights.

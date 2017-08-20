@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For the first time in Imperial College history, the Central Library will continue its [24-hour opening times throughout the summer holidays](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/library/newssummary/news_17-5-2012-10-25-51). Imperial College has decided to keep its library door open to students who wish to use the library, starting from 30 June through until 30 September.

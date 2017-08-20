@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161949-tna08-peter1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161949-tna08-peter1.jpg"
+image_caption: ""
 ---
 
 Deciding what to do with ‘the rest of your life’ after graduation can be a daunting prospect. If you feel you have become pigeon-holed with too few opportunities available to you, or that you are capable of doing anything but don’t know how to choose which road to take, then this article is for you What follows should give you some perspective and suggest some simple steps towards getting a job after graduation, moving on to further studies or even doing something completely different.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I am writing from the kitchen, the place where my family believe I belong, having given me an apron, tea towels, cookbooks and sponges for Christmas. Feminism is committing suicide. Last week, the BBC’s adaptation of Arthur Conan Doyle’s _Sherlock_ was criticised for being sexist. In my opinion, this was another example of where feminism is going wrong by creating bad press. The allegations were purely based on a far-fetched interpretation of the last fifteen minutes of the show.

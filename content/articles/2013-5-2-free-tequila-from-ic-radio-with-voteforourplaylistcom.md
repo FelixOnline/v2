@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021436-tna08-main-poster-designsmall.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021436-tna08-main-poster-designsmall.jpg"
+image_caption: ""
 ---
 
 Sick of revising? Counting down the days until you can lounge around a marque-less Queen’s Lawn with a drink in hand? Would you like IC Radio to give you a free bottle of tequila to keep you motivated for that happy day of freedom? Should I stop asking rhetorical questions?

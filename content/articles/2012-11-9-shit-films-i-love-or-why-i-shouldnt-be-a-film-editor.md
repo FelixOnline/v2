@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091338-tna08-topgun.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091338-tna08-topgun.jpg"
+image_caption: ""
 ---
 
 I was recently challenged to rate every film I have ever seen. Apart from being a shockingly huge task, it also threw up a massive problem. Because there are incredible films for every emotion. And of course there are some God-awful films too – less said about these the better. The problem I have is,that there are some terrible films that I adore. Films that I willwatch over and over in secret; films that I suspect everyone loves but is ashamed to admit. Well, since nobody ever thought I was cool, and since my taste in film is already universally known to be dodgy; consider this my official confession.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031944-pk1811-3245599.jpg"
-image_caption: >
-
-image_attribution: "Albert Einstein reminds us to take him into account in neutrino measurements"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031944-pk1811-3245599.jpg"
+image_caption: ""
 ---
 
 Even Albert Einstein was versed in the difficulties facing those who want a career in academic research. Those brave fools that, even in the face of riches proffered by industry, love research so much they are willing to attempt to climb the precipitous and slippery ladder that is UK academic science career progression.

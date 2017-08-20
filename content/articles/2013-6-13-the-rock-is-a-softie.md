@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140035-tna08-snitch-2013-wallpapers.jpg"
-image_caption: >
-  What does that title say? Say that to my face
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140035-tna08-snitch-2013-wallpapers.jpg"
+image_caption: ""
 ---
 
 Just because Dwayne “The Rock” Johnson is headlining a film that contains the plot of drug-trafficking, doesn’t automatically turn this into an action-packed ride. Which is a great surprise, since Johnson is taken out of his usual comfort zone, and his role here actually requires him to show a range of emotions to sell this story that is based on true events. And it’s certainly a change in gear that he handles extremely well, as with Snitch, Johnson shows that he has more to offer than his macho side throwing punches.

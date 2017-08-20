@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Before we get on to the frivolities of SurfSoc’s weekend, we’d just like to put out a quick word of respect to one of the biggest names in the surfing world, who sadly passed away last week of dengue fever. [Andy Irons](http://en.wikipedia.org/wiki/Andy_Irons), 32, was widely regarded as being one of the most genuine, in-it-for-real big surfers, an admirable trait in the commercial world of competitive surfing. As someone who represented the true spirit and love of surf, his sudden death hit the community hard and we’re amongst the tens of thousands who wish his widowed wife and child-to-be our condolescences. RIP A.I.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ortwin Hess is known for the ‘trapped rainbow’ principle, but this is just one step towards his exciting vision for metamaterials. “It stops light,” he says about it, “so the only thing it can do is ‘lase’ energy off its surface. Why is this different to a good old normal laser? It doesn’t have a cavity and is about a factor of ten thinner. You could include this in integrated circuits.”

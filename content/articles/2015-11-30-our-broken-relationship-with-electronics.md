@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511301200-ygr12-broken-phone.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511301200-ygr12-broken-phone.jpg"
+image_caption: ""
 ---
 
 How many phones have you owned in the last ten years? Maybe the non-removable battery died or the device became unbearably slow and it was just cheaper to get a new one. Or maybe it was just time for an upgrade. The new model always seems to have the essential features that were missing from the old version. Short lifetimes, sealed hardware and shiny new designs every year. It’s almost like electronics companies want us to keep buying an endless supply of brand new devices from them.

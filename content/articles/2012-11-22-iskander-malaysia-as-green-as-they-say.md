@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You don’t have to be an urban planner or an environmentalist to recognise that continued urbanisation alongside green living is the future of the planet. I’m certainly not. So we might as well do it right by considering the environmental implications of new urban development projects, and any scheme that does this will get at least one big green tick in my book.

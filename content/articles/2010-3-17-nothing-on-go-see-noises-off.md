@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003171601-lh106-NoisesOf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003171601-lh106-NoisesOf.jpg"
+image_caption: ""
 ---
 
 When it comes to a play within a play, Dramsoc’s latest production takes full advantage of the confusion. Although I set out with the noble aim of relating to you the witty intricacies of the plot of Noises Off, at the time I was too busy wiping away tears of laughter to work out exactly what was going on.

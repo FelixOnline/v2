@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
+image_caption: ""
 ---
 
 With _Captain America: The Winter Soldier_ still drifting around in cinemas almost two months after release, it’s clear that Marvel’s plan to dominate the world of (comic book) films continues to be a resounding success. But just what is that plan, and how has it been so successful?

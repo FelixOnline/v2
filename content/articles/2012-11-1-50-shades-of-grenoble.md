@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
+image_caption: ""
 ---
 
 It must be about midnight and I’m sitting on a sun lounger in a dress I bought from a supermarket several hours earlier with a puffer-jacket-clad security guard checking I don’t try and introduce myself to the pool. Luckily I’ve already learnt my lesson in this department, having tried to introduce myself to someone about ten minutes earlier, only to have a drink poured over my head by their boyfriend for “standing to close to her”.

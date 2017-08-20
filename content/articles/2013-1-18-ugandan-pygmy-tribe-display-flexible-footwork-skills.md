@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180018-tna08-twa-climber.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180018-tna08-twa-climber.jpg"
+image_caption: ""
 ---
 
 Scientists from Dartmouth College, Hanover, recently focused on the ankle-flexibility of pygmy populations in Uganda. They filmed the honey-gathering behaviourof pygmies to measure the flexibility of their ankle joints.

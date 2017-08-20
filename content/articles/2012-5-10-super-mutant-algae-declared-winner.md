@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102047-pk1811-2.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102047-pk1811-2.png"
+image_caption: ""
 ---
 
 Two teams from Imperial reached the Final of [BP’s Ultimate Field Trip](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9032498&contentId=7065301) competition, which was held on Tuesday 8 May. The prize of a six week internship at BP Trinidad & Tobago was ultimately won by a team from the [University of Strathclyde](http://www.strath.ac.uk/).

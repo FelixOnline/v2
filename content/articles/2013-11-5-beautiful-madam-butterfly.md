@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Cherry blossom, silhouettes, golden fans and blood. Betrayal, loneliness, dishonour and regret. A young geisha, a crass American Navy Lieutenant and their young son. Puccini’s Madam Butterfly is set against the late 19th century obsession with Japan, an elusive world of decadent elegance, where beautiful 15 year olds can be bought with the same ease and propriety as villas with sea views.

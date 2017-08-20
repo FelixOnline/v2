@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-3235917496_b8d213e0bf_o (1).jpg"
-image_caption: >
-  Don't say that! No!
-image_attribution: "David Salafia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171657-felix-3235917496_b8d213e0bf_o (1).jpg"
+image_caption: ""
 ---
 
 Raisins – also known as dried grapes – represent everything wrong with our civilisation and they seek to disrupt the foundations upon which this very nation stands, and this ingrate, Mr Ma, has the audacity to suggest that we need more raisins in Imperial in order to make his breakfast better. It makes me sick. I will be honest with you, dear readers, that I voted to remain in the EU referendum, but if Brexit means breakfast, and hence means less of this raisin loving coming to this country to dilute British culture (I bet half the raisins you eat aren't even grown in the UK), then hand me a copy of the Daily Mail.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091950-ac1507-cocktail.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091950-ac1507-cocktail.jpg"
+image_caption: ""
 ---
 
 As the cold and dark winter draws swiftly around us there is but one thing to warm the cockles on a dreary evening. Cocktails, the perfect pick-me-up for pre or post-prandial pleasure. Imperial students, you’re now in the nexus of the UK’s cocktail scene, just down the road from the Savoy hotel where ‘The Savoy Cocktail Book’ was first compiled in 1930. If you’re sitting on a trust fund from Daddy that could have bailed out Iceland, then this is the place to be. However if like us your recession-frayed purse strings are tightening slowly around your neck, read on to enjoy cocktails on the cheap.

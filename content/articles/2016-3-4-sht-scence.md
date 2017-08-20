@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041139-felix-1280px-Perissodus_microlepis_juvenile_in_aquarium.jpg"
-image_caption: >
-
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041139-felix-1280px-Perissodus_microlepis_juvenile_in_aquarium.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we argue that all research, no matter how outrageously ridiculous-sounding, has a purpose and contributes to widen our knowledge of the world. Even when it is a study of how fish can be left-handed.

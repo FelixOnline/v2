@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102110644-ks607-aluncoch.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102110644-ks607-aluncoch.jpg"
+image_caption: ""
 ---
 
 I shall be open here, I’m not sure how to review a comedian. Does it suffice to say that Alun Cochrane was hilarious? Do I have any hope of conveying the humour of his jokes by retelling them here? The answer, I suspect, to both these questions is no, so I shall give it a go. He’s a Yorkshire comedian, with a number of television appearances under his belt, and took delight in lampooning the audience’s middle-class sensibilities: he ends a joke about cooking by nonchalantly whipping out the phrase “hacher” before turning it on the audience when they laugh in recognition.

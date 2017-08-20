@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182011-ks607-sciences.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182011-ks607-sciences.jpg"
+image_caption: ""
 ---
 
 Do you think you could make sense of this sentence if every fourth word was missing? How about trying to hold a conversation when you can only hear three quarters of what the other person is saying? Cutting out a fraction of the information being transferred in a given situation may make life slightly difficult, but it certainly doesn’t stop the meaning being conveyed in most cases. This is because of the redundancy built into language. However, redundancy is not only useful for conversations on a dodgy phone line - it can also come in handy in the world of quantum computing, as two researchers explained in a paper published in Physical Review Letters last week.

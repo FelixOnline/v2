@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610071854-felix-8951458366_3db3138084_o.jpg"
-image_caption: >
-  Insert evil laugh
-image_attribution: "Ted Eytan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610071854-felix-8951458366_3db3138084_o.jpg"
+image_caption: ""
 ---
 
 A five-day strike was meant to be taking place this week in hospitals across the country, but the British Medical Association (BMA) called it off citing patient safety. This move has divided the medical community. There are those who side with the BMA, agreeing that such radical action, the longest strike in the history of the NHS, would have seriously endangered patient safety, yet many are concerned with the state of the NHS and the general sense of hopelessness that’s descending upon British medical professionals.

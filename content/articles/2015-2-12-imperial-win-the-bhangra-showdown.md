@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502130154-ps3110-screen-shot-2015-02-13-at-01.53.14.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502130154-ps3110-screen-shot-2015-02-13-at-01.53.14.png"
+image_caption: ""
 ---
 
 Last week the team from Imperial College London won The Bhangra Showdown (TBS) at Wembley Arena. The event, which was in its eighth year, was organised by seven committee members from the Imperial Punjabi Society. In previous years the competition has been held at the Hammersmith Apollo, and was being held in North London for the first time.

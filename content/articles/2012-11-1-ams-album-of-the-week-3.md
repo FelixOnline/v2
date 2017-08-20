@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Titus Andronicus’ first twoalbums are both fantastic. An eclectic brand of lo-fi punk done with furious passion and intelligence. A key theme of Titus Andronicus’ lyrics is nihilism. You can look at the first two albums as the first two steps in accepting nihilism. First you get really pissed off, and then you have a bit of a cry. If we take Local Business, Titus Andronicus’ third album, as an extension of this, it turns out that the next step of coming to terms with nihilism is to become the Gaslight Anthem.

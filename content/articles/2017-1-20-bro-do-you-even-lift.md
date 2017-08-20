@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201511-felix-weightlifting-1872377_1920.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201511-felix-weightlifting-1872377_1920.png"
+image_caption: ""
 ---
 
 Fact: The strongest living thing on the planet is gonorrhea.

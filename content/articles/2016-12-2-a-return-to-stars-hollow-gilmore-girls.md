@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021504-felix-landscape-1454107170-gilmore2.jpg"
-image_caption: >
-
-image_attribution: "The CW - Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021504-felix-landscape-1454107170-gilmore2.jpg"
+image_caption: ""
 ---
 
 Reviving beloved TV shows can be a tricky business. Shows that are missed tend to build up a mythology around them; with time and absence, every fault and inconsistency is forgiven. To bring them back, however, is to burst the rose tinted bubble of fond nostalgia and push them into the harsh lens of reality. For the creators, raising the old magic from the dead is a nigh impossible task, as the latest revival of the X-Files proved.

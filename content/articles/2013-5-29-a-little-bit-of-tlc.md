@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291826-tna08-telecare.jpg"
-image_caption: >
-  Before (left) and after (right) telecare. We’re not kidding.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291826-tna08-telecare.jpg"
+image_caption: ""
 ---
 
 One third of babies born in 2012 are expected to celebrate their 100th birthday, according to government statistics. Whilst ageing populations are a victory of development, health and social care systems are struggling to cope with the burden of long-term care. As a result, the need for healthcare innovation has intensified — is large-scale telecare implementation the answer we are looking for?

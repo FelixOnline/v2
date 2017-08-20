@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212024-nm1010-stooooor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212024-nm1010-stooooor.jpg"
+image_caption: ""
 ---
 
 In the controversial Spending Review presented to Parliament on Wednesday, George Osborne revealed the details of the UK’s deepest spending cuts for decades, designed to reduce our budget deficit by £83 billion pounds before 2014/15.

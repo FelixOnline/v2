@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212036-ks607-martinar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212036-ks607-martinar.jpg"
+image_caption: ""
 ---
 
 I’ve always regretted the absence of coverage of the ‘Imperial Music Scene’ by Felix. As Music Editor I’ve made it my duty to find the brightest young musicians at Imperial and extract juicy musical knowledge from their souls.

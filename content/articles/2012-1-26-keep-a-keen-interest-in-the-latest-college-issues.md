@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 During the past week the Felix website has seen some of its highest activity ever, as various members of College have taken to our [comment boards](http://felixonline.co.uk/news/2032/clayponds-in-crisis/#commentHeader) to voice their opinions over last week’s report on the potential closure of Clayponds. Demonstrating that the postgraduate voice at Imperial is very much alive and well, it shows that adjustments to college life are not solely exclusive to one section of Imperial’s community, but rather everyone.

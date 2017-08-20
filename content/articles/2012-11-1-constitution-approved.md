@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012209-tna08-councilrgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012209-tna08-councilrgb.jpg"
+image_caption: ""
 ---
 
 On Tuesday 30 October, [Imperial College Union Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) voted for the [new Constitution](https://www.imperialcollegeunion.org/your-union/how-were-run/constitution-reform) proposed by [Paul Beaumont, Union President](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/paul-beaumont).

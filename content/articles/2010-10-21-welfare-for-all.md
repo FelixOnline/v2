@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
-image_caption: >
-  Jeez, get a new bag bro!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
+image_caption: ""
 ---
 
 The middle classes throughout the developed world complain of faring worst from their governments’ budgets. They are, by definition, hard-working and economically productive. They face taxes as high as the wealthiest in their society, but find this reduces their ability to pay for relatively basic goods, such as their mortgage, rather than the ability to buy luxuries, like a Mediterranean holiday home. Despite this, they receive far fewer free or subsidised public services and benefits than the poorest in their societies.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202201-felix-eight_allotropes_of_carbon.jpg"
-image_caption: >
-  The prize for identifying Diamond is a smug sense of satisfaction
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202201-felix-eight_allotropes_of_carbon.jpg"
+image_caption: ""
 ---
 
 By recreating the naturally occurring effect of a mirage in the lab, researchers have hit upon a way to create cloaking devices that work for visible light, effectively making objects invisible when viewed from certain angles. Now, let’s just try to get through this without mentioning Harry Potter.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072052-ams111-shirley-maclaine.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072052-ams111-shirley-maclaine.gif"
+image_caption: ""
 ---
 
 Jack Lemmon is in love. He runs to his apartment to declare his feelings to the one lady who means everything to him. And there she is, sitting on his couch, getting ready to play their card game. He says: “I absolutely adore you.” How sweet... but her response? “Shut up and deal.” And with those four words, Shirley MacLaine puts an end to the perfect little Oscar-winning romantic-comedy offering from Billy Wilder. It was a line that was thought of last minute by the writers on-set. If this were any other film, the two would have kissed and embraced. But with MacLaine’s sassy Fran Kubelik, _The Apartment_ finds a sweet and amusing end, bringing with it one of the most memorable quotes and scenes of cinema history. That was back in 1960; more than 50 years on, MacLaine is still a force to be reckoned with in Hollywood; a much respected, highly celebrated name. This is why on 7 June 2012, the American Film Institute (AFI) bestowed her its highest honour, the Life Achievement Award, and they could not have picked a more deserving winner for the award. The ceremony itself carried with it a touch of cringing, cheesy drama, with MacLaine’s co-stars and friends getting on stage to unload lavish praises and compliments towards the actress, but in the end it’s the incredible title that counts, something no-one can take away from the accomplished star. She is the 40th (and 7th female) recipient of this award, with past winners including Bette Davis, Lillian Gish, Barbara Stanwyck, Elizabeth Taylor, Barbra Streisand and Meryl Streep. And in celebrating this magnificent feat, Felix Film looks over the past few decades of MacLaine’s wonderfully diverse career.

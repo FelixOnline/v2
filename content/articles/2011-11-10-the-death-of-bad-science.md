@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111110952-felix-sam-furse.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111110952-felix-sam-furse.jpg"
+image_caption: ""
 ---
 
 Bad Science is dead. It has fallen off its bench. It has gone to meet its supervisor. It is an ex-science. Sadly, I am not talking about a humane rounding-up of charlatans, quacks, homoeopathists, and people who like to compete as to who has the best imaginary friend. I am talking about Ben Goldacre’s column in The Guardian.

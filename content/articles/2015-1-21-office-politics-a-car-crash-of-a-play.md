@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212135-ps3110-screen-shot-2015-01-14-at-21.41.41.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212135-ps3110-screen-shot-2015-01-14-at-21.41.41.png"
+image_caption: ""
 ---
 
 Two days before I went to see _Office Politics_, I was hit by a car cycling home. Unfortunately… it would not be the only time I came close to death that week.

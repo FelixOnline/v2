@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291135-js5913-tomorrowland-1-cmyk.jpg"
-image_caption: >
-  All of the other promotional images are people standing in a field of corn.
-image_attribution: "Brad Bird/Disney"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291135-js5913-tomorrowland-1-cmyk.jpg"
+image_caption: ""
 ---
 
 __Director:__ Brad Bird __Screenplay:__ Damon Lindelof, Brad Bird, Jeff Jensen __Cast:__ George Clooney, Hugh Laurie, Britt Robertson, Raffedy Cassidy, Tim McGraw

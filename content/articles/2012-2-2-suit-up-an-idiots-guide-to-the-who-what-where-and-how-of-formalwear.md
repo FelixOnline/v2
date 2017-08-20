@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
-image_caption: >
-  Dolce & Gabbana
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
+image_caption: ""
 ---
 
 ## Double-Breasted Suit

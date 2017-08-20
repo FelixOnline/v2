@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
-image_caption: >
-  GSA elections were online, mainly because this is what the ballot paper would have looked like. Grim
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
+image_caption: ""
 ---
 
 In the recent elections one of the Union’s main concerns was the lack of postgraduate participation in the voting. However, postgraduate representation at Imperial is pretty poor and it is unsurprising that they were feeling a little uninspired to vote. The focus should have been on getting postgraduates to run and thus improving representation in the first place.

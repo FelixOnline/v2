@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072011-ams111-film1.gif"
-image_caption: >
-  Roger Moore in Moonraker... oh
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072011-ams111-film1.gif"
+image_caption: ""
 ---
 
 [__Men in Black III__](http://www.imdb.com/title/tt1409024/)

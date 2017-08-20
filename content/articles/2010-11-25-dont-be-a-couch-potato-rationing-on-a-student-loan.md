@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252036-nm1010-potttaaa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252036-nm1010-potttaaa.jpg"
+image_caption: ""
 ---
 
 The classical image of the poverty-stricken student living off baked beans, with pride and clothing similarly frayed, may not apply to most of us here at Imperial, but still we must appear so to our debt-a-phobic parents. In this section I’m planning to introduce all of you to some war inspired recipes that are perfect for mornings where a trip to the shops is impossible without substantial amounts of analgesia.

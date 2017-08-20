@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142001-ps3110-report.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142001-ps3110-report.png"
+image_caption: ""
 ---
 
 Earlier this week, the Union released the 2013/14 Annual Report. This document, prepared by Union managers and officer trustees, provides a summary of the activities of the Union over the last financial year.

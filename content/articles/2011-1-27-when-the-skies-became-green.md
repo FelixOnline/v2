@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271904-ks607-aeroplan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271904-ks607-aeroplan.jpg"
+image_caption: ""
 ---
 
 The Green Aviation Forum organised a one day international symposium at Imperial College on the 6th January 2011, in an attempt to link together many of the green aviation research activities ongoing at the College.

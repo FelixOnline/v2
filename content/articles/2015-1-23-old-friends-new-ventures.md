@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231836-jyg11-unnamed-4.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231836-jyg11-unnamed-4.jpg"
+image_caption: ""
 ---
 
 In the last fortnight I’ve had the pleasure of meeting up with my former colleagues from Earl’s Court on two separate occasions. The weekend before term, a work junior of mine invited me for a catch-up cocktail to gossip about changes at my old workplace.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291734-jal08-iphone5s-5c.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291734-jal08-iphone5s-5c.jpg"
+image_caption: ""
 ---
 
 Yet another Apple keynote has come and gone, and once again there is a sense of frustration in the air. At least that bitter taste on the tongue is one I have gotten used to after Steve jobs died, along with all his intuition, drive and creativity. For all the fancy technical terms that Apple likes to throw around, they once again managed to frustrate.

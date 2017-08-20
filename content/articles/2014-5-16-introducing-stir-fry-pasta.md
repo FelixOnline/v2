@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
-image_caption: >
-
-image_attribution: "Carol Ann Cheah #FelixFood"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
+image_caption: ""
 ---
 
 Sharing the Cheah family recipe:

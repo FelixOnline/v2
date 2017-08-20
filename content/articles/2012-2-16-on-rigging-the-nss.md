@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162157-ams111-alex-k-meme.jpg"
-image_caption: >
-  Not sure if meme or caption. Oh, wait, caption. Oh well...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162157-ams111-alex-k-meme.jpg"
+image_caption: ""
 ---
 
 [Our front page story this week](http://felixonline.co.uk/news/2212/flaws-exposed-in-national-student-survey/) uncovered a method students from the Department of Computing found to be able to mass impersonate final year students in the National Student Survey (NSS), effectively skewing the results in favour of Imperial. Of course, the aforementioned technique of programmatically scraping an internal database for the names and CID numbers of final year students may be easy, but is rigging the NSS really that simple?

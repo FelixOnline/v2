@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Oh, I’m sorry. I must’ve been emailing my imaginary Felix editor with an entirely imagined column about the need for you to shut your traps and adjust to life a bit better. My mistake. That would explain the reams of whiny toss on Facebook, Twitter, newspapers and my latest Moaning Gitfaces Weekly. Although the latter was a whiny toss special edition, so that absolves it somewhat.

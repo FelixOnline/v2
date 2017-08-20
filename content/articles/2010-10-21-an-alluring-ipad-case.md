@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010211954-nm1010-ipadcove.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010211954-nm1010-ipadcove.jpg"
+image_caption: ""
 ---
 
 So you’ve got your shiny new iPad and you want to take it everywhere with you, but what about protecting your not inconsiderable investment? The back may be made from tough aluminium, but with that large pane of glass on the front, it’s just asking for trouble.

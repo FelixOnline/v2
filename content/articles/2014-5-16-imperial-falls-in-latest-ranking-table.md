@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week the Complete University Guide (CUG) released their latest ranking table for Universities within the United Kingdom. Imperial College saw their ranking diminish from 4th to 6th – a drop that saw the College overtaken in the standings by St Andrews and Durham, who took 4th and 5th respectively.

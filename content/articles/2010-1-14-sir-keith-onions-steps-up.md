@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141749-ak6309-KeithONi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141749-ak6309-KeithONi.jpg"
+image_caption: ""
 ---
 
 Sir Keith O'Nions has taken over the position of Acting Rector at Imperial following the resignation of Sir Roy Anderson. O'Nions began his role at the start of the New Year and sent out an introductory E-mail on the 11th giving students some background information and positive hopes for the coming year.

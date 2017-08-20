@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
-image_caption: >
-  No, it's the picture over there!
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
+image_caption: ""
 ---
 
 I’ve always been intrigued by the mystery which surrounds the highly opulent-looking establishment that is Christie’s in South Kensington, never more so than when I traversed past it in my first year as a fresher on the route to campus from Evelyn Gardens. When one of its most recent sales came up on “Travel, Science and Natural History”, it seemed to be too good an opportunity to miss.

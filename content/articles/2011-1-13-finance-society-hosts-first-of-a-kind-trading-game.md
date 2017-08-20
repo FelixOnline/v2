@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131926-ks607-tradingg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131926-ks607-tradingg.jpg"
+image_caption: ""
 ---
 
 On the 29th of November, teams from several universities from all over the UK competed in a never before seen trading simulation. The trading game held at Imperial was part of the national UK Investment Banking Series, a competition initiated in 2010 by the Imperial College Finance Society (ICFS) which has proven to be a great success.

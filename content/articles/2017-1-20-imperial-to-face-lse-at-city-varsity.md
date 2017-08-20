@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial will be taking on LSE this year during a showcase event to take place in  March. The event, christened the City Varsity, will mark the first time in a long time that Imperial plays against another University. (Though earlier last year the first e-sports varsity was launched at Gfinity Arena between King’s , LSE, UCL yours truly)

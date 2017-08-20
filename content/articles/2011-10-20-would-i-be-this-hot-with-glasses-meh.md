@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202333-sjw209-tim.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202333-sjw209-tim.jpg"
+image_caption: ""
 ---
 
 Do you wear glasses? It seems like a decent proportion of the population do. If my unscientific, empirical study of looking around sometimes (leave the hardcore, well researched science for lectures) and thinking, “shit, a lot of people wear glasses” (I’m all eloquent like that, my parents are very proud) counts for anything then I have definitive evidence that a non negligible number of the population wear glasses. It seems that a lot of people don’t have 20/20 vision. As a side note, that’s a phrase that I find odd. Anyone who has good eyes says they have that; but I thought it was only those with perfect vision. I guess it’s like the way everyone over 5ft10 tells you that they’re 6ft.

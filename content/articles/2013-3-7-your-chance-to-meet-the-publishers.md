@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072357-tna08-hi_h0p6m_25175815_h0p6mh0r.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072357-tna08-hi_h0p6m_25175815_h0p6mh0r.jpg"
+image_caption: ""
 ---
 
 The Booksellers Association will be hosting its annual Academic, Professional and Specialist Bookselling (APS) Group Conference at the Old Ship Hotel, Brighton on March 13-14. The Association represents the interests of some 95% of British bookshops and its conference is aimed at helping academic booksellers open a dialogue with students and academics.

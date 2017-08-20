@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
-image_caption: >
-  Tim Pigott-Smith as King Charles III
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062144-snb11-kc3-4766---tim-pigott-smith-by-johan-persson.jpg"
+image_caption: ""
 ---
 
 Royally entertaining…”, “stimulating comedy”, “a victoriously vulgar piece of light entertainment.” Not so fast!

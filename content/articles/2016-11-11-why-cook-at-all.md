@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111706-felix-Felix Food 161110NM Nearly done.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111706-felix-Felix Food 161110NM Nearly done.jpg"
+image_caption: ""
 ---
 
 The easiest way to make friends, anywhere, anytime, but specifically in college? Cook! I don’t mean the morning milk-and-cereal or ready meals you buy and just put in the microwave for five to ten minutes, I mean real food, prepared ‘with love’, just as your mother used to do before you left. I am not a chef, but from time to time I like to cook and more often than not, the food doesn’t end up in the trash. And every time I prepare something, my kitchen gets full – not only of tasty smells and veggies and pots – but of people.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
+image_caption: ""
 ---
 
 Martin Lacey stands proudly in the centre of the big top, arms splayed, red suit barely stretching over his ample belly. His ungainly appearance is deceptive. To a roar from the crowd, he drops to his knees as a flash of white and black passes above his bald head. The lion lands with a snarl, and the audience rise to their feet, gasping with delight as it settles by Lacey’s side like a Golden Retriever. He stands and bows to rapturous applause. The show is a success.

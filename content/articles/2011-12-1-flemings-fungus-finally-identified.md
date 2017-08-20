@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Moulds are perhaps the least celebrated of organisms, with the notable exception of the one that led to Alexander Fleming’s discovery of penicillin in 1928. The story is well-known: the fungal spores were accidentally allowed to contaminate a petri dish, Fleming observed that the mould was killing the culture of bacteria on the plate, and on further investigation it was found to be secreting an anti-bacterial substance which we now know as the first antibiotic: penicillin. It’s surprising, then, that we’ve never known exactly what it was.

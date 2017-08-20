@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201502-felix-Screen Shot 2017-01-20 at 15.01.57.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201502-felix-Screen Shot 2017-01-20 at 15.01.57.png"
+image_caption: ""
 ---
 
 Big news for big cats and other exotic pets. The United Arab Emirates has banned the private ownership and dealing of wild animals. Status pets are on the way out and, hopefully, back into the wild.

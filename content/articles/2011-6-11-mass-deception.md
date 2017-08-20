@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106111822-felix-the-pope.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106111822-felix-the-pope.jpg"
+image_caption: ""
 ---
 
 The news that the Belgian victims of abuse at the hands of Catholic priests [are attempting to sue the Vatican](http://www.bbc.co.uk/news/world-europe-13621325) should not surprise any of us. There have been various attempts over the years demanding that the church tries to put right the hideous crimes performed by its members, including a high profile effort to have the Pope arrested on his trip to Britain last year, headed by prominent atheists Christopher Hitchens and Richard Dawkins. Their lack of success comes as no shock to me; the Catholic Church has, after all, built its defenses tall and strong, impenetrable to the opposition it faces.

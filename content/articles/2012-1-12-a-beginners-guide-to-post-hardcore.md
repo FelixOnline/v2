@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122252-felix-172563.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122252-felix-172563.jpg"
+image_caption: ""
 ---
 
 Welcome to the first instalment of this weekly guide to the darker side of alternative music. What better way to start than with the news that the almighty [__At The Drive-In__](http://www.myspace.com/atdi) have reformed after a ten-year hiatus. Those of you familiar with this band will probably be losing your noggin right now, but for those of you who aren’t, I’ll give you a little insight into why At The Drive-In are so important.

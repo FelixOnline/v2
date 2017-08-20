@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 To those that follow the science fiction scene Peter Hamilton will most likely be a name that sets bells ringing. For me the name stand up next to all the other modern giants; Banks, Reynolds, Baxter and so on and Hamilton’s Night’s Dawn Trilogy will be familiar to many as the sort of epic space opera that took the subgenre from something regularly worthy of scorn to a legitimate field in its own right. But today we look back at one of Hamilton’s earlier works, the beginning of a series of three books (he is loath to name it a trilogy it seems) starring a hero with a difference; Greg Mandel.

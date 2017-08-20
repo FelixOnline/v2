@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142114-ams111-science3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142114-ams111-science3.jpg"
+image_caption: ""
 ---
 
 A first year Physics student at Imperial has applied for a patent on a new way to make electricity. Felix Science caught up with inventor Marvin Tan Xing Haw to find out all about his (as yet hypothetical) device…

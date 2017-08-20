@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201201718-felix-img_8914.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201201718-felix-img_8914.jpg"
+image_caption: ""
 ---
 
 After a nice, long (but not long enough) Christmas break, your Felix Sport captains’ interviews are back! This week, two lovely ladies from Netball: Lucie Hazell, Club Captain, and Feroza Kassam, Club Treasurer.

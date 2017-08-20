@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260307-tna08-londonclimateforumposter_final5rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260307-tna08-londonclimateforumposter_final5rgb.jpg"
+image_caption: ""
 ---
 
 The [London Climate Forum](http://www.londonclimateforum.org/) is the UK’s largest student led conference on climate change and sustainability. Bringing together leading thinkers from politics, business, campaigning, media, science and engineering, it will be a chance for young people and students to find out how they can be part of creating a more sustainable future.

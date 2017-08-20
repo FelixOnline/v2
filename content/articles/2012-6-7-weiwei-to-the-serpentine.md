@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
-image_caption: >
-  I’m like Jamiroquai, going deeper underground
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
+image_caption: ""
 ---
 
 Walking up from College, along West Carriage Drive through Hyde Park, it’s easy to miss __The Serpentine Gallery__’s latest pavilion. Contained underground, it will quickly become West London’s coolest summer hangout. But what makes this installation particularly interesting is the story behind it and the extraordinary collaboration of artists that have designed it.

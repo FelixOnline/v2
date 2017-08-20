@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132334-felix-294860_293805273969259_117467601603028_1419823_631754619_n.jpg"
-image_caption: >
-  Note: not in-game footage
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132334-felix-294860_293805273969259_117467601603028_1419823_631754619_n.jpg"
+image_caption: ""
 ---
 
 Yesterday one of my friends asked me – what’s the deal with Minecraft? I tried to explain it to them, but to no avail. So here’s try two – in print form. Maybe I’ll enlighten this time around…

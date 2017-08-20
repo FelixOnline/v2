@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Every year, societies like DramSoc and MTSoc find new ways to impress me. You would not think that in a university filled with scientists, engineers and medics, the students would be that interested in theatre. However, these clubs are more than interested, they are good at it too, finding new ways to entertain their audiences with their talent and passion.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080228-tna08-screen-shot-2013-02-08-at-02.27.44.png"
-image_caption: >
-  The current website, which was designed in 2007
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080228-tna08-screen-shot-2013-02-08-at-02.27.44.png"
+image_caption: ""
 ---
 
 The College has embarked on the [Website Redesign Project 2013](http://www3.imperial.ac.uk/webredesign) and has requested volunteers to aid them in renewing the Imperial website for the first time since 2007. Events and consultations will take place over the next weeks in an attempt to gain insight into the views of student users.

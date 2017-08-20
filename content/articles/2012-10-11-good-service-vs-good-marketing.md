@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What should you do if you stumble upon a great idea for a product with high demand in a certain market segment? Many first-time entrepreneurs have found themselves in this situation before, and most of them do not manage to turn their idea into a successful business. While there are many things that can go wrong in the process (within or beyond your control), a very common mistake you could make is thinking that the quality of your product will undoubtedly lead you to success. Unfortunately, a good product will not be enough if you don’t have a good business model backing it up.

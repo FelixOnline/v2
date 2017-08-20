@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Fiscal responsibility and council politics – possibly the most unglamorous combination. In this new play by Jack Thorne, the story of a Labour council dealing with crippling budget cuts is recounted in a warm, human, engaging manner, highlighting the absurd situation that current austerity measures have created.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252025-nm1010-seoulsum.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252025-nm1010-seoulsum.jpg"
+image_caption: ""
 ---
 
 After meeting in Seoul two weeks ago, governments from the G-20 group of the world’s 19 largest economies plus the EU agreed to halt competitive currency devaluation in hopes of allaying fears of an all-out currency war. The G-20 finance ministers vowed to address tensions in the currency markets.

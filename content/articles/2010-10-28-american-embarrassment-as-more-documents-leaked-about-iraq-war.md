@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
+image_caption: ""
 ---
 
 [W](http://www.bbc.co.uk/news/world-middle-east-11612731)[ikileaks is in the news again this week](http://www.bbc.co.uk/news/world-middle-east-11612731) after releasing approximately 400,000 formerly classified documents relating to the war in Iraq.

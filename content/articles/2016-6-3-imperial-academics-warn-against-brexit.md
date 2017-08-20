@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031038-felix-Screen Shot 2016-05-19 at 11.36.17.jpg"
-image_caption: >
-  Yes, this is our Brexit picture. Deal with it.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031038-felix-Screen Shot 2016-05-19 at 11.36.17.jpg"
+image_caption: ""
 ---
 
 Professors and readers in public health at Imperial have published a letter in this month’s Journal of the Royal Society of Medicine on how staying in the EU would help safeguard the health of British people.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012315-tna08-gonzales.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012315-tna08-gonzales.jpg"
+image_caption: ""
 ---
 
 In the full flow of a performance Chilly Gonzales is a sight to behold. Dressed in a black satin dressing gown and wasabi green slippers his unkempt, sweaty hair hangs across his face as he hammers the keys of a beautiful Steinway. This is a man who loves to let his wild imagination gallop and two weekends ago, in the Barbican Hall, he was given the BBC Symphony Orchestra to, in his words, be his “sixty musical slaves”.

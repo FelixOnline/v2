@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Since the not so level-headed Mephedrone debate you’d have hoped that people could see how prohibition can only lead to problems and that legalisation of narcotics isn’t such a bad thing, but judging from the idiotic grumbles I keep hearing, it seems people still aren’t quite getting it.

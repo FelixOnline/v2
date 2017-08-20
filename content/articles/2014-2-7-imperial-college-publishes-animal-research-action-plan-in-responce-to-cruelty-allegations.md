@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College has published a new “Action plan for world class animal research”. This follows allegations made last April by the British Union for the Abolition of Vivisection (BUAV) that the College was involved in unethical animal research. This led to College setting up an independent committee – led by Professor Steve Brown, Director of the Medical Research Council’s Mammalian Genetics Unit at Harwell – to investigate the treatment of animals at Imperial.

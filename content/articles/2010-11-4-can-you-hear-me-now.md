@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041837-ba108-YetiMic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041837-ba108-YetiMic.jpg"
+image_caption: ""
 ---
 
 Not all microphones are born equal; some are infinitely more equal than others. That’s certainly the case with the THX certified [Yeti](http://www.bluemic.com/yeti/) from renowned USB microphone manufacturer Blue.

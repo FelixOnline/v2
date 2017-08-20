@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072337-tna08-sniper_elite_v2_kill.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072337-tna08-sniper_elite_v2_kill.jpg"
+image_caption: ""
 ---
 
 Unsurprisingly, the sequel to the 2005 tactical shooter Sniper Elite, Sniper Elite V2 sees you ripping your way through Berlin, and anyone who looks at you slightly odd. The campaign co-op plays as you would expect – both players are identical in gameplay terms. You’ll look different, and you can choose different weapon loadouts atthe start of each mission, but that’s about as far as your individuality gets.

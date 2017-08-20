@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201056-felix-newseventsimages.jpeg"
-image_caption: >
-  Customers, customers everywhere.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201056-felix-newseventsimages.jpeg"
+image_caption: ""
 ---
 
 Things got pretty busy this week in the union offices with the release of the higher education white paper Success as a knowledge economy: teaching excellence, social mobility and student choice on Monday morning; this is the Government’s response to consultation on the preceding higher education green paper, of which there was much criticism. It was essentially 100 pages of half baked, often misconceived ideas. The white paper may be a significant improvement and we are entirely right to celebrate the massive wins that came in response to the green paper consultation. That said, there is still a lot wrong with the white paper – the battle may be won, but the war is far from over.

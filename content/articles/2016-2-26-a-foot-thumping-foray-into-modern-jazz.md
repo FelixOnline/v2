@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
-image_caption: >
-  The band named themself after a stuffed penguin.
-image_attribution: "GoGo Penguin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
+image_caption: ""
 ---
 
 **GoGo Penguin** are a Mercury Prize nominated jazz trio who are lumped into the increasingly broad genre of modern jazz; a genre best separated from its predecessors by an unashamed acceptance of rhythm. _Man Made Object_ is a testament to this. The album’s blend of classical jazz and modern house music provides a highly accessible acoustic soundscape.

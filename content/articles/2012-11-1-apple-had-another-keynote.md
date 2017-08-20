@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012240-tna08-waterfall-picturergb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012240-tna08-waterfall-picturergb.jpg"
+image_caption: ""
 ---
 
 t last week’s Apple keynote weall expected just the launch of the new iPad mini, but the keynote proved a surprise as Apple announced more new products and upgrades than most had expected.

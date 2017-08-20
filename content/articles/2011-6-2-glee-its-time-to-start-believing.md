@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022108-felix-cmykglee.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022108-felix-cmykglee.jpg"
+image_caption: ""
 ---
 
 Although difficult to explain in purely logical terms, especially when one takes into account the stratospheric amount of money produced by this show, its world tour, album sales and branded lunchbox tie-ins, I think that Glee is underrated. Undoubtedly if you haven’t already stopped reading this article it’s safe to assume that your eyebrows are raised so high right now they’d be shot down over Libya, so allow me to justify such an outrageous claim.

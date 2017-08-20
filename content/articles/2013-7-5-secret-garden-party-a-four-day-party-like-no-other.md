@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201307081114-tna08-sgp-image-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201307081114-tna08-sgp-image-copy.jpg"
+image_caption: ""
 ---
 
 As summer has started and the festival season is well underway, the anticipation and excitement for my favorite small festival is reaching boiling point. With a host of new names recently added to the line up including Cherub, Natty Serafine Steer and Pete Molinari joining the likes of Regina Spektor, Soulwax, Django Django, Bastille and Youth Lagoon, make it a spectacular four-day event not to be missed. Exclusive SGP headliner Regina Spektor, who first played the garden back in 2005 says:

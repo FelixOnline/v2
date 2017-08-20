@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201271217-felix-the-maccabees-gvien-to-the-wild.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201271217-felix-the-maccabees-gvien-to-the-wild.jpg"
+image_caption: ""
 ---
 
 [The third album](http://www.youtube.com/watch?v=hTDYsy6z6IE) from __The Maccabees__ has been released after much anticipation and to critical acclaim. Sorry, “much” anticipation? Critically acclaimed by who now?

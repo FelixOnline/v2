@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
+image_caption: ""
 ---
 
 Zero Dark Thirty

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061354-ps3110-screen-shot-2015-03-05-at-21.00.56.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061354-ps3110-screen-shot-2015-03-05-at-21.00.56.png"
+image_caption: ""
 ---
 
 Wednesday once again saw the annual broadcast of Meet the Candidates by Imperial College Television (ICTV), where candidates for the various Officer Trustee roles, as well as Felix Editor, Council Chair, and Student Trustees debated live on air as part of their campaigns to win the election.

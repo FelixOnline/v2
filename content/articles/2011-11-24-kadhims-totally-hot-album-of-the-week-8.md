@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242221-felix-808sanddarkgrapes2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242221-felix-808sanddarkgrapes2.jpg"
+image_caption: ""
 ---
 
 Searching out new music is not a lone pursuit and cannot be meaningfully automated. You can’t hope to get past the tripe on mainstream radio or last.fm’s “1+1 = U2” algorithm without a friend giving you a nudge and saying, “we literally won’t be friends anymore if you don’t love this band”.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092215-pk1811-b227079.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092215-pk1811-b227079.jpg"
+image_caption: ""
 ---
 
 I have to say, I’m not much of a tablet man. If I really must surf on the move I’m perfectly happy with my BlackBerry, and my laptop satisfies all my mobile computing needs. However, when a friend of mine bought the new [Asus Transformer Prime](http://eee.asus.com/eeepad/transformer-prime/features/) tablet, I had to give it a go – so I borrowed it.

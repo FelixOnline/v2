@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312060342-jal08-news_nelsonmandela.jpg"
-image_caption: >
-  The late Nelson Mandela, former President of South Africa and Nobel Peace Prize winner.
-image_attribution: "southafrica.net"
-image_attribution_link: "http://www.southafrica.net"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312060342-jal08-news_nelsonmandela.jpg"
+image_caption: ""
 ---
 
 Nelson Mandela, the last great national liberator of the past century, died yesterday at his home in Johannesburg following a 12 year battle with prostate cancer. Loved around the world as a freedom fighter and peace maker, Mandela’s death was announced by South African President Jacob Zuma as the loss of the nation’s “greatest son”.

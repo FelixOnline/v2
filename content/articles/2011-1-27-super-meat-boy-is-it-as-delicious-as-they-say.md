@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101281253-sjw209-SuperMea.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101281253-sjw209-SuperMea.jpg"
+image_caption: ""
 ---
 
 Three things are required to complete a game like _Super Meat Boy_ successfully: The first is a sturdy keyboard or controller, the second is a level of patience few devout Zen Buddhists can ever hope to attain and the third is more free time than your average Arts or Media Studies student. Whilst I’m rich enough to afford the first and lazy enough to possess the third, I sadly fall short on requirement two, and boy does it show when I play.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171430-felix-Screen Shot 2017-02-17 at 14.30.24.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171430-felix-Screen Shot 2017-02-17 at 14.30.24.png"
+image_caption: ""
 ---
 
 Year on year, the process of the Union elections cherry-picks those who are some of the most vulnerable to lead us as sabbatical officers.

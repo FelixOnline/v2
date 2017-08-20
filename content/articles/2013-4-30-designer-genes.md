@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305031512-tna08-1.png"
-image_caption: >
-  Rotifer Farm by Raphael Kim
-image_attribution: "Raphael Kim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305031512-tna08-1.png"
+image_caption: ""
 ---
 
 We all fucking love science, but it has to be admitted that, frankly, it can get achingly dull. How many times have you heard the words, “after a month and a half of protocol optimisation, my experiment has failed again! Isn’t this so FUN?” That’s right, never.

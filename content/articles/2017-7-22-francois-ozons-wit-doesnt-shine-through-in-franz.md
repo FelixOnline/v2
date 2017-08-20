@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201707222141-ff712-frantz_03-h_2016.jpg"
-image_caption: >
-  Franz is a film
-image_attribution: "Artificial Eye"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201707222141-ff712-frantz_03-h_2016.jpg"
+image_caption: ""
 ---
 
 Since his feature film debut with _Sitcom_, the French director Francois Ozon’s name has been associated with a certain sharpness; in the majority of his films, the buoyant subject matter and visual style is undercut with a razor’s edge of darkness, running through the film like writing through a stick of Brighton rock. Whether it’s the interrogation of social norms and repressed sexuality in 2010’s _Potiche_, or the shimmering eroticism of 2003’s _Swimming Pool_, which marked Charlotte Rampling’s return to the spotlight, Ozon’s films have always had a curious mix of energetic visual style, bold writing, and bitter aftertaste – like a short shot of strongest coffee.

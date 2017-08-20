@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021318-tna08-ultimatefri.png"
-image_caption: >
-
-image_attribution: "Andrew Moss"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021318-tna08-ultimatefri.png"
+image_caption: ""
 ---
 
 On the 20th April, Imperial’s Ultimate Frisbee team − the discDoctors − took to the fields in Nottingham to compete against the country’s top clubs at Outdoor Nationals, the highlight of the competitive calendar for university Ultimate. Battling it out across two days of intense competition, the team found their feet after a sluggish start to secure an impressive third place in the tournament’s second division.

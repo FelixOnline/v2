@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102026-nm1010-fargofar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102026-nm1010-fargofar.jpg"
+image_caption: ""
 ---
 
 Sometimes the Oscars are a little controversial. However, Fargo fully deserved the two it was awarded in 1996 for Best Actress and Best Original Screenplay. The film is the story, marvellously told by the Coen brothers, of a car salesman, Jerry. This salesman, played by William H. Macy, is strapped for cash and so hires two thugs to kidnap his wife for a ransom from his rich father-in-law. Now if ever I heard a plan which simply cannot go wrong, that’s it.

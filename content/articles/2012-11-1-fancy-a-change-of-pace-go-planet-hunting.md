@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012246-tna08-kepler_quadruple_1024rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012246-tna08-kepler_quadruple_1024rgb.jpg"
+image_caption: ""
 ---
 
 An iconic image from Star Wars: Episode IV is the double sunset on Luke Skywalker’s home planet Tatooine, which orbits a binary star. Not bad, but how about a quadruple sunset?

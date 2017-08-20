@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505080110-ps3110-imp_140425_beit_srgb_059--tojpeg_1421080036119_x2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505080110-ps3110-imp_140425_beit_srgb_059--tojpeg_1421080036119_x2.jpg"
+image_caption: ""
 ---
 
 A new room swapping system will be put in place for the next academic year, that will allow first year students in Imperial accommodation to move from one room to another if they so wish.

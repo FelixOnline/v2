@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
+image_caption: ""
 ---
 
 Ray Monk has long been highly regarded as a skilled biographer. A philosopher himself, his 1991 biography of Wittgenstein won him the John Llewellyn Rhys Prize. In his latest work, however, Monk has chosen to explore the life of one of America’s most controversial scientists – Robert Oppenheimer.

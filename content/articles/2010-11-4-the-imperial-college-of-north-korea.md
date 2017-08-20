@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
+image_caption: ""
 ---
 
 James Chin Kyung Kim is that rare man – a man who believes in the unbelievable, and makes it happen.

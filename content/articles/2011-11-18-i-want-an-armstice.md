@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week, we marked the death of millions of soldiers. They had all died in action at some point in the last 93 years, since the start of the First World War. The eleventh day of the eleventh month has been marked in this way for years. In fact, only a handful of people currently alive today were also alive when it was not. You might think that as those who were there in WWI start to die, the seriousness would start to wane, that the idea would start to lose its punch. Even as children we were all acutely aware of the significance but also the distance from us. But have you noticed recently how the tone has changed?

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041931-cj914-se1.jpg"
-image_caption: >
-
-image_attribution: "Space Engine, Jamie Dutton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041931-cj914-se1.jpg"
+image_caption: ""
 ---
 
 Have you ever wondered if there is a program that can simulate the whole observable universe (and even beyond)? Well, step forward Space Engine. It has been in the works since 2005 and is the beautiful and complex brainchild of Russian astronomer and programmer Vladimir Romanyuk.

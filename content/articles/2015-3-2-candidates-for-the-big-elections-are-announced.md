@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503021723-ps3110-screen-shot-2015-03-02-at-17.23.50.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503021723-ps3110-screen-shot-2015-03-02-at-17.23.50.png"
+image_caption: ""
 ---
 
 This afternoon the students standing in this year’s Big Elections were revealed, and we’ve listed who is running for what below.

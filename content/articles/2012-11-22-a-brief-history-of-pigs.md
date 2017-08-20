@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222330-tna08-environmental-impact-disposal-waste-large-scale-pig-production-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222330-tna08-environmental-impact-disposal-waste-large-scale-pig-production-copy.jpg"
+image_caption: ""
 ---
 
 Ninety-seven million years ago pigs and humans were one of the same. Well, sort of. There wasn’t exactly a four-trottered, bristly-nosed Homo-something snuffling through the Cretaceous. But we did share a common ancestor, a small generic mammal prototype, whatever that might be.

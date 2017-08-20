@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106121645-felix-frog.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106121645-felix-frog.jpg"
+image_caption: ""
 ---
 
 [Scientists at Queen’s University Belfast](http://www.qub.ac.uk/home/TheUniversity/GeneralServices/News/PressReleases/Title,238595,en.html) have discovered proteins in frog skins that could be used to treat cancer, diabetes, stroke and transplant patients by regulating the growth of blood vessels.

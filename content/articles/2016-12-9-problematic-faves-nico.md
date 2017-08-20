@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091541-felix-Nico1.jpg"
-image_caption: >
-
-image_attribution: "GanMed6"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091541-felix-Nico1.jpg"
+image_caption: ""
 ---
 
 My problematic fave is the German-born singer Nico, who found fame as a Warhol Superstar, working with The Velvet Underground on their debut album. She then went on to discover the harmonium and make a series of experimental albums that have only recently begun to be recognised for the masterpieces they are. Nico’s work is Gothic in the true sense of the word: her icy, deep vocals, chillingly accented by the sound of slow progressions on the harmonium, feel like a cold wind blowing through the crypt of a cathedral, all dust and rust and power.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141302-so515-3268160011_f75ba2e782_o.jpg"
-image_caption: >
-
-image_attribution: "Sarah C"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141302-so515-3268160011_f75ba2e782_o.jpg"
+image_caption: ""
 ---
 
 Sex! We love to make love; but it’s important to stay safe. Around the world millions of women use hormonal contraception with an estimated 3.5 million taking oral contraceptives in the UK alone. Whilst it’s widely known that users can sometimes experience severe mood changes, a recent Danish study is one of the first to show a genuine link between the use of hormonal contraception and depression.

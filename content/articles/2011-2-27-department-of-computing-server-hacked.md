@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271138-ks607-hackingt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271138-ks607-hackingt.jpg"
+image_caption: ""
 ---
 
 The Department of Computing (DoC) has suffered a [security breach](http://www.doc.ic.ac.uk/csg/about) on their main [shell server](http://en.wikipedia.org/wiki/Secure_Shell), named shell1, which provides secure shell access to the lab machines from outside the department. On the 24th of February, the College’s ICT Service Desk issued an email to DoC students informing them of a “security compromise” which was discovered on shell1, which affects a significant number of commonly used DoC systems. The email described the compromise as “root level”, indicating the breach made way for malicious activity under administrative privileges.

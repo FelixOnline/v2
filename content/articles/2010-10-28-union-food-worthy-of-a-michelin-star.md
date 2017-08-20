@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So, I was recently asked about the best perk of working behind [the new bar at the Union](http://www.imperialcollegeunion.org/food-drink/fivesixeight/). Now, before you say, it’s not the verbal abuse from the pretty much universally hated miners and no, it’s not the funky shirts. It’s without a doubt, the free food.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282339-tna08-aadlab---fallenstar2012_03.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282339-tna08-aadlab---fallenstar2012_03.jpg"
+image_caption: ""
 ---
 
 There is an underground space near Baker Street that feels a lot like a baroque sci-fi future. The half-light is illuminated by occasional flashes of neon. Blue and green lasers strafe the ceiling and an eerie soundscape of ambient electronic squawks and whirring servos greets the intrepid. Skulls in mechatronic legs stalk the space and glowing orbs shimmer with undulating constellations of colour.

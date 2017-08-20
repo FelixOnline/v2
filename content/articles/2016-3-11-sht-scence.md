@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111141-felix-10031394203_74bfbeb927_o.jpg"
-image_caption: >
-  Just a typical day out in Quebec apparently.
-image_attribution: "Ed Bierman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111141-felix-10031394203_74bfbeb927_o.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we believe that all science has a purpose, and helps us better understand the fascinating world we all live in. Especially when scientists spend some time exposing the sexual deviances of Quebeckers.

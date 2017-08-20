@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103211037-ks607-burgerbu.jpg"
-image_caption: >
-
-image_attribution: "Lost in Cheeseland"
-image_attribution_link: "http://www.lostincheeseland.com/2010/08/good-eats-in-london.html"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103211037-ks607-burgerbu.jpg"
+image_caption: ""
 ---
 
 This year, it's all about meat in the London restaurant scene. Hot new arrivals include pop-up joint [#Meateasy](http://www.themeatwagon.co.uk/) (New Cross) serving minced 28 day aged chuck steak burgers, Philly cheesesteaks and other North American grill classics. Satisfying our pure, primitive desire to eat meat provides the comfort that lets us forget about the grim times we're in. Aside from the new faces, capitalist London is full of legendary gastronomic rivals who strive to outdo each other in nothing other than preparing the most exquisite meat. So where's the beef?

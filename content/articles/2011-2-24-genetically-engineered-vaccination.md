@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
+image_caption: ""
 ---
 
 A new type of vaccine for pneumonia based on genetically engineered bacteria has been developed, and may help in the fight against many other infectious diseases.

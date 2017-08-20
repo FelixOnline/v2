@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012135-felix-rcsu.jpg"
-image_caption: >
-  This year’s dinner was held at The Gore Hotel
-image_attribution: "Maria Han Veiga"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012135-felix-rcsu.jpg"
+image_caption: ""
 ---
 
 The [Royal College of Science Union](http://rcsu.org.uk/exec/) (RCSU) held a formal dinner for alumni and the Science Challenge 2011 winners on Thursday 24 November. The Science Challenge competition is an annual, national scientific essay writing competition aiming to encourage scientific debate, reasoning and the communication of science in a public-friendly context.

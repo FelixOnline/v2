@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172134-pk1811-high+dependency+unit+promo3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172134-pk1811-high+dependency+unit+promo3.jpg"
+image_caption: ""
 ---
 
 You can’t go much further than Dunedin, New Zealand, before you’re on the way back again. Nearly 20,000 kilometres away, give or take, it’s probably the remotest city in the world.

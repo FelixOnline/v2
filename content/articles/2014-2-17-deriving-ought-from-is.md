@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’ To quote another Marxist Antonio Negri’s Political Descartes, ‘every metaphysics is simultaneously a political ontology’ and this applies all the more to a field like ethics. And to those who suggest that politics is founded on ethics, I suggest they go and (carefully) read the first western work of political philosophy, Plato’s Republic.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012259-tna08-skyfall-still06.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012259-tna08-skyfall-still06.jpg"
+image_caption: ""
 ---
 
 Practically every Bond film in the last 50 years has the same final promise before the credits roll: “James Bond will be back”. But that’s all we ever know – and the expectation surrounding this latest 007 endeavour was at an all-time high before its release last Friday. Sure – we knew it was Daniel Craig, and we knew what the baddie looked like, and the ever-present Bond girls, and the new geeky Q... but that tells us nothing really. And after the slight disappointment of _Quantum of Solace_ (probably not helped by the brilliance of _Casino Royale_, nor by the competition of Nolan’s excellent _The Dark Knight_), _Skyfall_ needed to be something spectacular.

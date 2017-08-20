@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031920-ks607-dahinten.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031920-ks607-dahinten.jpg"
+image_caption: ""
 ---
 
 __For other people who are thinking about running, what’s the one thing you wish you’d known before you started?__

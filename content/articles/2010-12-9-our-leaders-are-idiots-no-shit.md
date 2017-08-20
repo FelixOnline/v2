@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
+image_caption: ""
 ---
 
 The praise for Julian Assange certainly is interesting to me. Not that I don’t admire the man; it’s very impressive what he’s done, and many of the papers released are genuinely hilarious to read. Mainly because they paint a picture that confirms the best and most accurate conspiracy of all - that the world is not run by malicious plotters or fascists or corporations, but that it is run by people. Stupid, fallible, normal people who just happen to be in a seat of power rather than the front of a taxi.

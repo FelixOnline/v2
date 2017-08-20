@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200528-felix-the-apprentice-hopefuls-2011.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200528-felix-the-apprentice-hopefuls-2011.jpg"
+image_caption: ""
 ---
 
 Dear Alan, Lord, Sir, Del Boy,

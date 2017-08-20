@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021928-felix-pills-cmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021928-felix-pills-cmyk.jpg"
+image_caption: ""
 ---
 
 HIV patients who take antiretroviral therapy (ART) early enough not only protect themselves but also their partners, new research has shown.

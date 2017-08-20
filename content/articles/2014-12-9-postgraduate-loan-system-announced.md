@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
+image_caption: ""
 ---
 
 A student loan system has finally been introduced for postgraduate study. The decision, announced in the Chancellor’s Autumn statement, is said to “revolutionise’ access to postgraduate university courses.

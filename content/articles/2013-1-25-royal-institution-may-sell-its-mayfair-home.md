@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250150-tna08-royal-institute007_full.jpg"
-image_caption: >
-   I think I heard a tenner from the gentleman at the back of the room
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250150-tna08-royal-institute007_full.jpg"
+image_caption: ""
 ---
 
 The Royal Institution in Mayfair has been a centre for scientific research and communication for over two centuries. Previously the workplace of such scientific greats as Michael Faraday and George Porter, the Ri now focuses on outreach, running courses, book clubs, school events, and the famous Christmas Lectures, in their 18th century building.

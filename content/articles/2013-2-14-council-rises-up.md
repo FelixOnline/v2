@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was a good thing to see that Council decided to [vote to have a clear opinion on something](http://felixonline.co.uk/news/3337/union-does-not-support-closure-of-translation-studies-unit/). Especially that people came to a decision and didn’t care what the sabbs thought and made up their own mind. This happened on not one but two occasions, which was refreshing. Perhaps it had something to do with the seating change, where it was a circle. I initially mocked it as “being like an A Level drama class”, but maybe having a select few sit at the front of the room does make people think they are above them.

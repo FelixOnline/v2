@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091707-ea3211-seGvp80ysWo.market_maxres.jpg"
-image_caption: >
-
-image_attribution: "FX - Floyd County Productions"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091707-ea3211-seGvp80ysWo.market_maxres.jpg"
+image_caption: ""
 ---
 
 The ever popular action-spy-office-whatever comedy returns for yet another season; one that again opts to change the show’s setting altogether. Given the show’s relatively niche premise, and its ever-falling viewership, it’s quite impressive that it has made it this far. It has even managed to be renewed through till a tenth season. Not that I’m complaining, given that I’m a huge fan of the series. Over the past few seasons, however, the creative fatigue has become clear, with the show’s creator, Adam Reed, being quite vocal that he’d like to move onto something different. It is no surprise then, that Reed uses season seven’s cliff-hanger to completely renew Archer’s central premise, going even further than past efforts like Vice.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241221-ps3110-xoxmi5opj2t1n9cv4zzc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241221-ps3110-xoxmi5opj2t1n9cv4zzc.jpg"
+image_caption: ""
 ---
 
 If we look up the work ‘Objectification’ in the dictionary, it will tell us that it describes “treating a living person as a thing, with no regard to their dignity”. It appears that Allen Jones has misinterpreted this meaning. At least, that’s how things appear when entering the retrospective of his work currently being held at the __Royal Academy__, where one is immediately faced with a semi-naked mannequin, clad in leather and staring passively down, supporting a large glass table-top on her back.

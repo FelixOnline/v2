@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192023-ams111-ascdt_cave.jpg"
-image_caption: >
-  The man himself
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192023-ams111-ascdt_cave.jpg"
+image_caption: ""
 ---
 
 Hello, aspiring scientists. Cave Johnson here.

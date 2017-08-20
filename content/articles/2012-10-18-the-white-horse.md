@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the northern corner of Parson’s Green stands the long established Fulham favourite, The White Horse, known for its unpretentious seasonal menus, extensive drinks selection and reasonable prices. Its location makes this restaurant perfect for the large proportion of Imperial Students who live in or very close to Fulham. There are two main eating areas: the upstairs, in which you feel as though Nelson could have plotted his defeat of the French over a cheeky pint, the second (and my favourite), the downstairs conservatory, which has an intimate feel, with candles set into the exposed brick walls.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
-image_caption: >
-  Earth’s not doing so well.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
+image_caption: ""
 ---
 
 The Book of the New Sun is universally acclaimed as a speculative fiction classic, with its author, Gene Wolfe, having been recently awarded the title of Grand Master of the genre. However, seeing how it comes in at 1200 pages, I have never really had the time to read it. Finding myself with relatively little to do over the winter break I decided to rectify this mistake – something that I’ve not come to regret doing.

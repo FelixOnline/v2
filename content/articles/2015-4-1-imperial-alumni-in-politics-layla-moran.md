@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504011801-ps3110-screen-shot-2015-04-01-at-18.00.28.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504011801-ps3110-screen-shot-2015-04-01-at-18.00.28.png"
+image_caption: ""
 ---
 
 Layla Moran, a physics graduate from Imperial College London is currently running for Parliament in the ultra-marginal seat of Oxford West and Abingdon. Last weekend the Imperial Liberal Democrats popped down to help Layla with her campaign. We caught up with Layla over lunch.

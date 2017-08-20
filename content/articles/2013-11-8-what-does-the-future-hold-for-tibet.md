@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At least 120 Tibetans have set themselves alight in protest against Chinese rule since 2009. It’s the only peaceful way they’ve been able to broadcast their recurrent message: Save Tibet. It seems that their message has fallen on deaf ears. When you ask most people what they know about Tibet common answers would be “it’s part of China isn’t it?”, or “it’s where the Dalai Lama lives…” Whilst the second answer is significantly wrong and the Dalai Lama has been in exile since 1952 the first answer, though technically correct, completely undermines and puts into perspective Tibet’s efforts to fight peacefully for independence for over 50 years.

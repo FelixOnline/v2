@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Deep breaths everyone. Let’s open with the statement that no-one finds rape funny. So let’s do that: it’s not funny. No-one likes to see or hear about anyone being abused in such a way. I’m not particularly interested if you think male rape is under-represented, or if rape law only protects women, or anything like that. This is not Reddit. Rape isn’t ha-ha funny, plain and simple. I’ve never seen an episode of Friends about someone getting jovially drugged, abused and dumped somewhere.

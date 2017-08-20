@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Taking on medics at netball is always a daunting task and coming up against King’s Medics was no different to the norm. Tensions were high amongst the girls before the game had even got underway due to the umpires running late however, the team soon found thir rhythm once the match began.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102222-ps3110-cafe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102222-ps3110-cafe.jpg"
+image_caption: ""
 ---
 
 Eh-up, Imperialites – welcome back to another instalment of Felix Food! The weather’s turned turtle and it seems all of us in my flat have fallen victim to some form of Freshers’ Flu (despite not being freshers, pah.) That said, however, it’s perfect weather for all the comfort foods we associate with winter: stews, mash, soups... and dare I say it, hot puddings (obviously with more than a side of custard!)

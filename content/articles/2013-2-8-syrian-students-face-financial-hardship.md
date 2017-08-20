@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080118-tna08-action-syria.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080118-tna08-action-syria.jpg"
+image_caption: ""
 ---
 
 Over the last few weeks most students at university have settled back into a routine of lectures, coursework and exams as they return to university ready to face the challenges ahead. However, the story is very different for the Syrian students at UK universities; the civil war in Syria means they are unable to pay their fees or meet living costs, theyface the prospects of deportation and death. Topped with this, they are dealing with the continuous anguish facing their family and friends at home, in a war-torn country. A country that has had over 60,000 deaths since March 2011. It is currently uncertain what Imperial College will do if Syrian students are affected, although none have come forward to say they are at the present time.

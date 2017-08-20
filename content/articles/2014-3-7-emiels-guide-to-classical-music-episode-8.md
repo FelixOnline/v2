@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week we discussed Josquin, who is often known as the ‘Beethoven of the 16th Century, and in particular his work Ave Maria. For many generations, Josquin was regarded by theorists and other thinkers as the composer who had perfected the art of music. As Martin Luther wrote; “He is the master of the notes. They must do as he wills; as for the other composers, they have to do as the notes will”. Josquin’s use of imitation (different voices entering sequentially in a similar manner) and his synthesis of many different European styles would be taken up by his students and by their students too. The most famous of these were Nicolas Gombert, Jacob Clemens and Adrian Willaert, all ‘Netherlandish’ – Dutch speakers from present-day Belgium.

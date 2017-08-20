@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182042-ks607-cinemati.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182042-ks607-cinemati.jpg"
+image_caption: ""
 ---
 
 As an Imperial student, the Royal Albert Hall can easily become a mundane and constant feature of our university lives. It’s by no means an ugly building but, after almost three and half years at Imperial, I scarcely give it a cursory glance. Last Sunday, after experiencing The Cinematic Orchestra perform within its circled walls, I found a renewed appreciation for our illustrious neighbour.

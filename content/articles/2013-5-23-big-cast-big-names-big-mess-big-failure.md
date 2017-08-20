@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232236-tna08-the-big-wedding-diane-keaton-robert-de-niro-susan-sarandon-e1366999573237.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232236-tna08-the-big-wedding-diane-keaton-robert-de-niro-susan-sarandon-e1366999573237.jpg"
+image_caption: ""
 ---
 
 What’s this? Katherine Heigl in yet another underwhelming romantic comedy? Amanda Seyfried as yet another googly-eyed bride-to-be? Robert de Niro in yet another brainless role? Diane Keaton as yet another neurotic old woman who is unlucky in love? Ben Barnes playing yet another charming but empty shell of a role? And is Robin Williams so out of work that he needs to resort to playing a priest for the second time? (Remember License to Wed? It’s best to forget aboutthat one) Such is the dire concept of this horrible mess of an ensemble comedy, a film that boasts having all these hugely talented stars, but one that doesn’t give any of the actors something interesting to work with.

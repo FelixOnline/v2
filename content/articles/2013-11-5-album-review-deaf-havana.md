@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Deaf Havana’s early single Friends Like These ends with the repeated line “Nothing gets worse than growing old”. This show made me realise they’re not wrong (maybe grammatically, but, you know…). Surrounded by teenagers having the time of their young lives, I came to the startling realisation that I am no longer young. There were people jumping up and down, there were people singing along to every word, there were young couples spooning like their lives depended on it. Then there was me, stood at the back, tapping my foot along nonchalantly, and drinking a pint of cheap lager like my life depended on it.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411242029-ps3110-images.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411242029-ps3110-images.jpeg"
+image_caption: ""
 ---
 
 Sunday 16th November brought the Imperial Immortals’ first away game of the season against the Hertfordshire Hurricanes. The Hurricanes are an impressive team that made the semi-finals last season, the same as the Immortals. This was an important match for both teams as the Immortals were looking to extend their season to 2-0 while Hurricanes wanted their first win of the season.

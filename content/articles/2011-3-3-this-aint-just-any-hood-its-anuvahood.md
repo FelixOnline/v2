@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
-image_caption: >
-  Adam Deacon is our hapless hero Kenneth
-image_attribution: "Owen Billcliffe"
-image_attribution_link: "http://owenbillcliffe.co.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
+image_caption: ""
 ---
 
 So den, mans tinks he’s a top boi MC yeh? Well, despite the common perception that the youth of today all aspire to be the next ‘Nappy’ from N-Dubz, it appears the message from latest urban offering – Anuvahood – is that it’s perfectly acceptable to be ordinary. In a genre where almost every scene involves someone being shanked or whacked in the wedding vegetables with a baseball bat, this film stands out in stark contrast.

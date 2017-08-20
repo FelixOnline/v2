@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
-image_caption: >
-  I wonder if he leaves chocolate squares wherever he goes.
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
+image_caption: ""
 ---
 
 Engineers are pretty obsessed with matrices.

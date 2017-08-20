@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
+image_caption: ""
 ---
 
 __FIFTY SHADES OF GREY__

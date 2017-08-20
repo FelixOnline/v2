@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
+image_caption: ""
 ---
 
 Biomedical engineers at Imperial College London have developed a cheap new method of detecting ultralow concentrations of HIV and some cancers, with the results visualised via a colour changing solution. This colour change is visible to the naked eye.

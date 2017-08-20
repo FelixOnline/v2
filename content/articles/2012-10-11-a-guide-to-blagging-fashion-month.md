@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112154-felix-fashiongirlfrontrgb.jpg"
-image_caption: >
-  “Oh girl that Prada fox stole is from like, before I was born. Not chic.”
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112154-felix-fashiongirlfrontrgb.jpg"
+image_caption: ""
 ---
 
 For those unfamiliar, fashion month is a bi-annual occasion made up of fashion weeks in the four fashion capitals, where the fashion community (editors, buyers, bloggers and celebrities alike) collects to view the major designers’ collections for the following season. This September saw the presentations for spring/summer 2013, beginning in New York.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260332-tna08-eptracsalv.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260332-tna08-eptracsalv.png"
+image_caption: ""
 ---
 
 Researchers at the University of New York have conducted the first experimental demonstration of a tractor beam – a travelling wave that comes from one direction and pulls its target towards the beam’s origin.

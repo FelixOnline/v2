@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161431-felix-27677265152_7061229a73_o.jpg"
-image_caption: >
-
-image_attribution: "Jeremy Segrott"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161431-felix-27677265152_7061229a73_o.jpg"
+image_caption: ""
 ---
 
 Theresa May announced this week that she intends to force companies to “justify” executive pay in response to reports that, at times, executives earn 140 times more than the average worker. High executive pay has been thrust into the headlines recently amidst the furore of the BHS collapse, and the harsh working conditions discovered at Sports Direct. Whilst I am not in favour of spending other people’s pension money on yachts (depending on who the people are, and the size of the yacht), I am outraged at the suggestion that the Government has the right to determine what a company pays its staff.

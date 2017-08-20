@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212146-ps3110-d¢ra-maurer,-seven-rotations-1--6,-1979.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212146-ps3110-d¢ra-maurer,-seven-rotations-1--6,-1979.jpg"
+image_caption: ""
 ---
 
 It’s not really a square. That’s my first impression when faced with _Black Square_, the Kazimir Malevich work from 1915 that starts off the __Whitechapel Gallery__’s retrospective of abstract art. It’s more like a slightly squished rectangle, and after all the hype, it’s actually pretty small. However, its size belies the huge impact that this little artistic gesture has had on modern society; over the last hundred years the black square has gambolled through Europe, zipped along the highways of America, and spread its influence across the entire globe. The title of the exhibition – _The Adventures of the Black Square _– is therefore fitting; we are invited to join this unassuming canvas as it charts a novel path into a bright, uncertain future.

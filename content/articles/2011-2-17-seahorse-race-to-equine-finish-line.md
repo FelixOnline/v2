@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172031-dr910-seahorse.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172031-dr910-seahorse.jpg"
+image_caption: ""
 ---
 
 How did the seahorse get its shape? According to a new study published in Nature Communications, the tiny critters’ horse-like bodies evolved to help them capture prey large distances away from their beady eyes.

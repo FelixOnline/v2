@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610031759-felix-eu create.jpg"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610031759-felix-eu create.jpg"
+image_caption: ""
 ---
 
 Studying with a year abroad might soon be a thing of the past, as Britain edges closer to implementing Brexit. The exchange scheme allowing UK students to spend up to a year in participating universities across the EU, is for the first time in its 30 year-long history facing a “moment of uncertainty”, according to UK director of Erasmus+, Ruth Sinclair-Jones.

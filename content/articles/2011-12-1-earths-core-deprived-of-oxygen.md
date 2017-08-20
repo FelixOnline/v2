@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
-image_caption: >
-  Cross section showing the inside the Earth.
-image_attribution: "Nature"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
+image_caption: ""
 ---
 
 The composition of the Earth’s core has been a mystery to scientists for nearly 60 years. While we know much about how this section of our planet affects us in terms of magnetism, energy generation and planetary dynamics, its precise makeup has remained hazy. Until recently all we knew was that the core is composed of predominantly liquid iron, along with small amounts of nickel, and 10% (by weight) of light elements.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182005-nm1010-phoneyyy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182005-nm1010-phoneyyy.jpg"
+image_caption: ""
 ---
 
 Yet another photographic tome on the ubiquitous Ms Audrey Hepburn – there are so many out there now that if you didn’t know better, this one, by the late renowned Hollywood photographer Bob Willoughby is just another one on the shelf.

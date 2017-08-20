@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Eurozone crisis has all the traits of a perfect story: a choral drama with a fuzzy and mistrusted antihero, pompous and obscure villains, few and powerless heroes, and many victims; the plot is so twisted that its outcome remains as mysterious as exciting, and its consequences so open to chance and mishaps that any guess in this respect is but a fools errand. Hence, it comes to no surprise that the UK press devotes so much ink to the Eurozone crisis: it is where the news seem to be.

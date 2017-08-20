@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152128-ig711-img_0271.jpg"
-image_caption: >
-  Kudos to Soko: this hat is hard to pull off
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152128-ig711-img_0271.jpg"
+image_caption: ""
 ---
 
 If any of you have seen the recent contentious article from The New York Times talking about how depraved and culturally rigid London has become. Thankfully, [Soko](http://www.s-o-k-o.com/), whose origins lie in France, but spends most of her time in California, doesn’t hold such views about our fair capital. You can see from the very first minute of her show that playing here, at the Union Chapel in Islington, was a special moment. After interviewing her following the gig she indicated that the venue was “absolutely perfect, like everything you could ever hope for” and one can understand why; her dream-like bedroom pop is perfectly sited to the intimate, beautiful setting.

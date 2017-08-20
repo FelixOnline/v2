@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171551-felix-Screen Shot 2017-02-17 at 15.51.06.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171551-felix-Screen Shot 2017-02-17 at 15.51.06.png"
+image_caption: ""
 ---
 
 The hipster revolution is upon us. No food is safe. The humble burger has been embellished with a bright green avocado bun. If you haven’t tried kale or quinoa (pronounced “keen-wah”, trust me, I have been corrected multiple times), frankly, where have you been? Although the occasional twists on traditional dishes are welcome, food fads are often the products of bored people with well-groomed beards and usually die out in a matter of months. Many try too hard to be alternative and lose sight of the practicalities of eating. “Deconstructed” spaghetti bolognese out of mason jars anyone? And let’s face it, bread served in hats is simply unhygienic.

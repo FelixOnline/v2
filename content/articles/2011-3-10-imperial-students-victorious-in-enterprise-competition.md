@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Monday February 21st, three teams representing Imperial College London, King’s College London and UCL competed in the London Apprentice 2011 in the first year of the event. Proudly organized by [Imperial Entrepreneurs](http://imperialentrepreneurs.com/), the [KCL Business Club](http://www.kclbc.com/region) and the [UCL Entrepreneurs Society](http://www.uclentrepreneurs.com/), the competition was a major success, attracting high-profile judges such as Margaret Mountford (from ‘The Apprentice’), Pier Paolo Mucelli (founder and CEO of eOffice) and a representative from Oliver Wyman.

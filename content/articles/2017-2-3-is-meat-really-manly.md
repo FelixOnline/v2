@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031645-felix-Burgers.jpg"
-image_caption: >
-
-image_attribution: "Cyclonebill"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031645-felix-Burgers.jpg"
+image_caption: ""
 ---
 
 I guess I’ll start with a controversial, but factual statement: Men don’t live as long as women do. Now, would you believe that this and so many other gendered beliefs affect our health habits, including the foods we choose to eat? An article in The Washington Post piqued my interest lately, focussing on today’s relationship between meat-eating and gender. It all actually may seem pretty old-fashioned – not all females like to dine on dainty pretty kale salads dressed in hibiscus flowers and not all men live for burgers and the Union’s curly fries (had to throw that one in as an old Beit-timer, sorry). However, research shows these assumptions truly have historical grounding. In fact, these eating patterns, socially influenced or not, could help explain why men are at higher risk of heart disease and some cancers. Perhaps our ideas about masculinity do negatively affect our health.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
-image_caption: >
-  Top: Boris under questioning Bottom: Boris doing 'the creep'
-image_attribution: "Joseph Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
+image_caption: ""
 ---
 
 The Great Hall at Imperial played host to the second biannual People’s Question Time, an opportunity for members of the public to interact directly with the Mayor and the London Assembly. Over 700 people attended the event, with many being members of the public that live in the Kensington and Chelsea area.

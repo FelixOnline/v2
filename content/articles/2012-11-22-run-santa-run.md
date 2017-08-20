@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222250-tna08-santa-run.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222250-tna08-santa-run.jpg"
+image_caption: ""
 ---
 
 On Sunday 2nd December an army of Santa Clauses will be taking to the streets of London. They will be marching from East to West and they’re not alone. Santas will be doing this all over other university cities too: Bristol, Nottingham, Cambridge, Bath, York, Oxford, Durham… and even New York!

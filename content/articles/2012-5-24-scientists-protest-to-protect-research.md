@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205242356-mc4509-chemistry_lab_29.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205242356-mc4509-chemistry_lab_29.jpg"
+image_caption: ""
 ---
 
 On Tuesday 15 May, around 80 physicists and chemists from around the UK held an unusual protest against their research funder by parading a coffin and a horse-drawn hearse down London’s Whitehall to Downing Street.

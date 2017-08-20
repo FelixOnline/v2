@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
-image_caption: >
-  Did you meet your partner at Imperial?
-image_attribution: "University of Minnesota"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
+image_caption: ""
 ---
 
 According to this year’s survey data, just 41% of Imperial students are single or “not seeing anyone” exclusively. A surprisingly high 46% of you are in an exclusive relationship at the moment, and 8% are seeing someone but “non-exclusively”.

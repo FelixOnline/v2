@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201009011654-ks607-Heart.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201009011654-ks607-Heart.jpg"
+image_caption: ""
 ---
 
 I saw the ads. I read the previews. I couldn’t wait for Ernesto Neto’s Edge of the World exhibition – this year’s summer offering from the Hayward Gallery. Weeks and months went by and I was just too busy to get to it. Rosie, my co-editor went and loved it. Yesterday I realised that it was in its final few days: I had to go or miss out on what one critic claimed was the most fun one can have in a gallery. Wrong.

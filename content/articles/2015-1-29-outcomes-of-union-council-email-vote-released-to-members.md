@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292357-ps3110-edited_council.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292357-ps3110-edited_council.jpg"
+image_caption: ""
 ---
 
 The results of an online vote taken last week by members of Union Council were released on Monday.

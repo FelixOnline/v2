@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
-image_caption: >
-  Ahmad was interviewed by the BBC in April
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
+image_caption: ""
 ---
 
 Babar Ahmad is a British Citizen and former student and staff member of [Imperial College London](http://www.imperial.ac.uk) who has been detained in prison for eight years under anti-terrorist legislation without a trial in the UK. He has been battling against extradition to the US but on 10 April the [European Court of Human Rights](http://www.echr.coe.int/ECHR/homepage_en)[approved](http://cmiskp.echr.coe.int///////tkp197/portalhbkm.asp?sessionId=95024221&skin=hudoc-pr-en&action=request&poll=6#) the decision for him to be extradited within the next three months where he may be subjected to solitary confinement in a ‘Supermax’ prison.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242217-felix-maccabees.jpg"
-image_caption: >
-  Waiting in line at the hairdresser or posing for the waiting room magazines?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242217-felix-maccabees.jpg"
+image_caption: ""
 ---
 
 Say “__The Maccabees__”. The response from most people, in order of frequency, would probably be a blank look, “is that something to do with the Jews?”, or one of intense gushing adoration.

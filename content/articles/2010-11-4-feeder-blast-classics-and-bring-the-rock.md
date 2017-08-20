@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After the quickest devouring of a Nandos chicken you have ever seen, my plus one and I hopped over to watch Feeder play at [Shepherds Bush Empire](http://www.o2shepherdsbushempire.co.uk/), one of London’s most iconic and surprisingly intimate venues.

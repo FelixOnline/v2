@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Over the last few months Felix has broken two stories about Union Club, Society and Project election mismanagement. Most recently we wrote about the rules broken during the elections held by the Chinese Students and Scholars Association which contravened Union election rules, especially when considering the prioritisation of committee votes. One thing that this has shown us is that maybe it’s time to rethink how voting is managed at the Union, if clubs regularly fall foul of the rules. As Stephen suggested, we may even see a widening adoption of the Union’s e-voting by clubs, whether willing or not.

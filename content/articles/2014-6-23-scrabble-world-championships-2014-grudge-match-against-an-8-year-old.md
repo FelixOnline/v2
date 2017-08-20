@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231407-jal08-1581_features_scrabble_lewis-copy.jpg"
-image_caption: >
-  Will playing New Zealand’s Lewis Hawkins, aged 8.
-image_attribution: "Felix / Maximilian Hunter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231407-jal08-1581_features_scrabble_lewis-copy.jpg"
+image_caption: ""
 ---
 
 __Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins. What sets him out from the rest of the crowd is that, being aged 8, he’s at least a decade younger than anyone else here. Learning from my failures in adopting the direct approach with Nigel, I managed to convince him have a chat with me over a game the following day.__

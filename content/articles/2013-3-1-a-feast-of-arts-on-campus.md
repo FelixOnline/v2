@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010014-tna08-big-band-queens-tower.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010014-tna08-big-band-queens-tower.jpg"
+image_caption: ""
 ---
 
 From the 18th to the 21st of February, ArtsFest returned for Imperial’s annual showcase of music, dance, drama and everything in between. The South Kensington campus came alive for four days of the best arts events that our student groups have to offer, showing the vast array of talent hidden amongst our scientists, engineers and medics.

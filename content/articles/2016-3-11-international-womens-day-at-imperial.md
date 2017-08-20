@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
-image_caption: >
-  Fun fact – there have been four female FELIX Editors so far.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
+image_caption: ""
 ---
 
 International Women’s Day on Tuesday was marked by college’s ‘Women@Imperial’ week.

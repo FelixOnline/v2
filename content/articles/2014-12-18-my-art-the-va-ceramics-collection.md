@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212218-ps3110-2006an8282_lucie_rie_bowl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212218-ps3110-2006an8282_lucie_rie_bowl.jpg"
+image_caption: ""
 ---
 
 Tucked away on the sixth floor of the V&A, the ceramics section is my little artistic idyll in London. Even on weekends it is virtually empty, so you can sit back and enjoy the craftsmanship without the hassle you get with the better known art establishments. Huge glass cabinets filled to the brim with ceramics extend the whole length of hallways, ensuring totally immersive experience. It is little wonder then that one can spend hours utterly transfixed!

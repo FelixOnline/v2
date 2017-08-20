@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091538-felix-Screen Shot 2016-12-09 at 15.36.58.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091538-felix-Screen Shot 2016-12-09 at 15.36.58.png"
+image_caption: ""
 ---
 
 There are three types of people who take overnight coaches: the stupid, those trying to fulfil a stereotype, and the desperate.

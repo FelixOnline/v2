@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182133-jyg11-features-1610.jpg"
-image_caption: >
-  “The gap between what we want the world to be and what it is should be filled with laughter.” – Alain de Botton talking at a TEDx Conference in Oxford.
-image_attribution: "FT"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182133-jyg11-features-1610.jpg"
+image_caption: ""
 ---
 
 There are not many people who can say they have set up an international school, written books that have been bestsellers in 30 countries, and given two TED talks. Fewer still can say they have re-hung an art museum and worked as Heathrow airport’s first ever writer-in-residence – but the author, documentary maker, and popular philosopher Alain de Botton can claim all of these achievements.

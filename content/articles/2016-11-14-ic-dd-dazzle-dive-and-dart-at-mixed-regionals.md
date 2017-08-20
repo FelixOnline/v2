@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
+image_caption: ""
 ---
 
 After a great start to the year for the disc Doctors (dD - Imperial’s Ultimate Frisbee club) with the women performing brilliantly at SICKO and our very own beginners’ tournament, the women in particular were outstanding, scoring an impressive number of points and maintaining the quality of their game. #ImperialGirlsCan.

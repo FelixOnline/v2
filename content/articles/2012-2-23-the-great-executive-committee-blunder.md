@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Union’s Executive Committee is charged with deciding how the Union is run on a day-to-day basis. It approves things like the Summer Ball, and the whole Union’s budget to make sure things are progressing how the student body wants them to. Three weeks ago the Executive Committee chose to reallocate nearly £35,000 away from Clubs and Societies funding. The rationale given by Michael Foster (Deputy President for Finance and Services) for this 10% cut was that “the total grant underspend [by clubs and societies] last year was greater than the changes to funding.” Grant money left unspent at the end of the year by a club is reabsorbed by the Union and generally deemed as unnecessary funding. Foster then went on to say “the reallocated money will be much more effective invested in support mechanisms.”

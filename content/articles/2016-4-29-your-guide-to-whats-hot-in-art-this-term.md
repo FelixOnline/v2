@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291152-felix-lesblancs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291152-felix-lesblancs.jpg"
+image_caption: ""
 ---
 
 **Les Blancs at the National Theatre** now until 2nd June

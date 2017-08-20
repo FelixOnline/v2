@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
-image_caption: >
-  Imperial College - A day at the rankings!
-image_attribution: "Shiladitya Ghosh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
+image_caption: ""
 ---
 
 No matter who you are or where you come from, you are, to some extent, proud of this esteemed institution’s very high rankings on various scales and from a variety of scorers around the world. It helps that the QS League Tables just got updated earlier this month to show Imperial rising to its greatest heights ever – hats off to Civ. Eng., how does it feel to be on top of the world? – just as we all start/resume our college adventure. (A selection of up-to-date rankings is shown in a table if you want to feel good about yourself while you still can.)

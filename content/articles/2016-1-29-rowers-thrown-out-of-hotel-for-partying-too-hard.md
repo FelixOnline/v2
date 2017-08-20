@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290842-felix-ambassadors-bloomsbury.jpg"
-image_caption: >
-  The swanky hotel in Bloomsbury where the rowers had their party
-image_attribution: "Tripadvisor"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290842-felix-ambassadors-bloomsbury.jpg"
+image_caption: ""
 ---
 
 Last Saturday, Imperial College Boat Club’s annual party ended early when students were chucked out for bad behaviour.

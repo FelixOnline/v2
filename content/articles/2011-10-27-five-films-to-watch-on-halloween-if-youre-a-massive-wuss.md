@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272300-felix-11-ffilm2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272300-felix-11-ffilm2.jpg"
+image_caption: ""
 ---
 
 So, it’s Halloween and your friends suggest you have a group trip to the cinema to watch [Paranormal Activity 3](http://www.youtube.com/watch?v=90r3CnPI0AM&ob=av3e). There’s just one problem: last time you watched a scary film, it was [The Ring](http://www.youtube.com/watch?v=TuH5FaUpFm4) when it came out on DVD ten years ago, and despite watching it in the middle of the day you still shat yourself. Have no fear! Here’s a list of ‘safe films’ for utter wimps like you.

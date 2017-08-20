@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051201-felix-5641181503_bb7dfb6f62_o.jpg"
-image_caption: >
-  Smog obscuring the view from Primrose Hill.
-image_attribution: "Luton Anderson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051201-felix-5641181503_bb7dfb6f62_o.jpg"
+image_caption: ""
 ---
 
 Have you ever smelled the air in London? Wait, stupid question. For those who aren’t aware, London’s air isn’t the best on the market. Nor is the rest of the UK’s. In fact, the UK has been found in breach of EU regulations on air quality in 16 zones nationwide for the last 15 years.

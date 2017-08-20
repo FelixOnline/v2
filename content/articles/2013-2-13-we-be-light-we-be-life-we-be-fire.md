@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131439-tna08-angels.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131439-tna08-angels.jpg"
+image_caption: ""
 ---
 
 Books were better when I was younger. I’m sure of it. I don’t know if I’m becoming more experienced, or more cynical, or if I was simply lucky enough to be introduced early to a large amount of really excellent fiction, but I find it very hard to bring to mind any books in my adult life that affected me as powerfully as my childhood favourites.

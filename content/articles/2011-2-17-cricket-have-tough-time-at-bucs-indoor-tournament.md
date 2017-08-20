@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial took a squad of seven to Edgbaston, Birmingham on Sunday with genuine hopes of progressing from the semi-final of the BUCS men’s indoor tournament, despite a tough draw of Loughborough and Coventry Universities.

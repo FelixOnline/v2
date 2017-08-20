@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The coursework season has descended at Imperial - many of us are spending endless hours at the library. No matter if you are writing up your research project on rotor stator disk rim sealing, a model of the thermal structure of the North American lithosphere, or an essay answering the question “What is a gene?”, you are probably looking for ways to top up your body’s caffeine level every now and then. If you want to make the most of your tea / coffee / Redbull / Monster, you might want to read on.

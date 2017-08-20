@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002181651-lh106-Nigerian.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002181651-lh106-Nigerian.jpg"
+image_caption: ""
 ---
 
 This is not what you would call a normal book review, but that’s just because _Sozaboy_ is not a normal book. It is not one of those novels that after you have finished reading you’ll put back on the shelf. No, when you will be done reading _Sozaboy_ you will give to everyone you know. This is how I felt. This happened to me because _Sozaboy_ is a book that makes you perceive injustice and when you perceive injustice, especially when you are young, you want to make other people aware and you want to do something.

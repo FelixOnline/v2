@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041125-felix-Screen Shot 2016-03-03 at 15.54.24.png"
-image_caption: >
-
-image_attribution: "Imperial Hockey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041125-felix-Screen Shot 2016-03-03 at 15.54.24.png"
+image_caption: ""
 ---
 
 Wednesday’s Varsity Hockey matches saw mostly college wins over the medics. With four games played at Harlington, Hockey took place two weeks earlier than Football and Rugby, which are on the 19th at Heston.

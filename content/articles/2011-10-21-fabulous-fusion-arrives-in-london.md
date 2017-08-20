@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211208-felix-fusionmodels.jpg"
-image_caption: >
-  In the face of stricter drinking rules, the Medics had to think of alternative intiations
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211208-felix-fusionmodels.jpg"
+image_caption: ""
 ---
 
 Imperial is no stranger to big events; you’d have to have had your head in the sand to not know what [East Meets West](http://www.union.ic.ac.uk/osc/india/Events.html) is. Now an Imperial postgraduate hopes to bring her experiences from her previous university to break the mould with a spectacle that goes above and beyond anything that has come before.

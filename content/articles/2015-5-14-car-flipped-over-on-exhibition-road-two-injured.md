@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
-image_caption: >
-  An Imperial medic caught a picture of the incident
-image_attribution: "Twitter/ samir_afzal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
+image_caption: ""
 ---
 
 Two women were treated for minor injuries after their car was flipped onto its roof due to a collison with a lorry on Exhibition Road. The incident occurred on Tuesday afternoon outside the Natural History Museum, which also saw a Rolls-Royce take damage.

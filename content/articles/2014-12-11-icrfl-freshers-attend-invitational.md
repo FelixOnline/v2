@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112337-cj914-rfl.png"
-image_caption: >
-
-image_attribution: "ICRFL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112337-cj914-rfl.png"
+image_caption: ""
 ---
 
 On Saturday 29th November, Imperial College Rugby League took a core of players, mostly freshers, to Cambridge for a session hosted by the Green Lions. The day provided an opportunity for blooding new players for both sides in a social environment. ICRFL, keen for their first run out of the season, attended in full kit striking fear into the hearts of the lions.

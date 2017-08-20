@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312223-tna08-this-year.png"
-image_caption: >
-  The graph from this year
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312223-tna08-this-year.png"
+image_caption: ""
 ---
 
 There has been a large increase in the percentage of students filling in the [NSS](http://www.thestudentsurvey.com/) when compared to the same time last year.

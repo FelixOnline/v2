@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142112-ps3110-dsc00224.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142112-ps3110-dsc00224.jpg"
+image_caption: ""
 ---
 
 People not heavily invested in video games may not realise the reverence and devotion shown to the music from a select few series by the fans. One such, arguably the best, example is the music from _Final Fantasy_, which is almost entirely created by Nobuo Uematsu.

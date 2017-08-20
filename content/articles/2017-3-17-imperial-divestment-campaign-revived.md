@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171259-felix-divest_rectangle.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171259-felix-divest_rectangle.png"
+image_caption: ""
 ---
 
 This Monday will see the relaunch of the fossil fuel divestment campaign at Imperial. The new campaign will be called Divest Imperial, and at the official Launch Party on Monday evening campaigners are hoping to convince students that the recent successes of divestment groups such as the one based in King’s, can be replicated at Imperial.

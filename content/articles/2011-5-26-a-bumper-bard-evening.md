@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105270049-felix-portraits-of-shakespeare-001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105270049-felix-portraits-of-shakespeare-001.jpg"
+image_caption: ""
 ---
 
 Maybe you’ve had your fair share of proper Shakespeare, maybe you’ve already seen more than you want to, maybe you just like the idea of efficiency in getting through all of Shakespeare’s work in two hours. Well, you might just find this show appealing. A fun romp through famous plays and their derivatives, it achieves well what it sets out to do and certainly makes for a pleasant evening out.

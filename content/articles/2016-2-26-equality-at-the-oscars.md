@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261138-felix-1424718000517.cached.jpg"
-image_caption: >
-  As Patricia Arquette pointed out in her Oscar speech, Hollywood is a hostile place for women.
-image_attribution: "Fox"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261138-felix-1424718000517.cached.jpg"
+image_caption: ""
 ---
 
 The year that saw the first Academy Awards, 1929, also saw two landmarks in the march for equality: in the UK, the 1929 election was the first one in which women under 30 could vote, leading to it being termed the ‘Flapper Election’; and in Canada, five women led a campaign to change the legislature to recognise women as ‘persons’, meaning they could stand for any role in government. In the nine decades since, we have seen revolutionary strides in sexual equality, and yet Hollywood awards remain a region of segregation: when the Academy Awards are broadcast, the acting categories will still be split along gender lines, as they have been since their inception.

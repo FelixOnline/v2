@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Bet you didn’t know your one idea can save the world! You will be surprised to find that in a typical week, the average UK household is throwing away what would have been six complete meals. Not shocking enough? Well, how about picturing five Wembley Stadiums full of food waste? That is the amount of food waste we generate every year – all these could have been good, consumable food that would have fed the stomachs of the millions who are badly in need of it And if food wasn’t so much of a concern to you, how about heat and fuel, since the supposed worst winter in 50 years is hitting us right now? Canary Wharf, tall skyscrapers, the London Stock Exchange – all the posh and modern images of London would have never hinted to you that UK is ranked the 2nd-highest in Europe for the number of people struggling to pay their energy bills. Households are being trapped in fuel poverty, a trend that has increasingly blighted the lives of millions of households. And of course, there are so many other issues like environmental damage, child poverty, ageing population and healthcare. You might have heard of all these before, but have you ever stopped and pondered seriously the extent of all these social problems affecting the UK?

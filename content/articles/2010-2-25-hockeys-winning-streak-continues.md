@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
+image_caption: ""
 ---
 
 Having trekked from one end of London to what seemed like the Far East, IC ladies 2s arrived at Redbridge Sports Centre in Essex ready to take on St Bart’s, only to find out that the hockey astro had been taken over by some hockey players of the miniature variety, who were playing a nice little tournament.

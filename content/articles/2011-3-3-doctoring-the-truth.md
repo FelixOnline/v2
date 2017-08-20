@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032049-ks607-germande.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032049-ks607-germande.jpg"
+image_caption: ""
 ---
 
 The tedious work of assembling footnotes that usually torments scores of postgraduate students and research assistants has suddenly become a matter of national importance in Germany. After extensive passages of plagiarized material were discovered in his PhD dissertation, the German Secretary of Defense Karl Theodor zu Guttenberg [resigned this Tuesday morning](http://www.guardian.co.uk/world/2011/mar/01/german-defence-minister-resigns-plagiarism).

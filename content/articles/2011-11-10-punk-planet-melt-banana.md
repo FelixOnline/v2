@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102135-felix-mb_1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102135-felix-mb_1.jpg"
+image_caption: ""
 ---
 
 As with many of its cultural exports, Japan’s punk is a little different. Epitomised by bands such as the percussion-heavy __[Boredoms](http://www.youtube.com/watch?v=ZOxCwert9lA)__, the metal-heavy __[Boris](http://www.youtube.com/watch?v=t_GgowniQWk)__, and psychedelic __[OOIOO](http://www.youtube.com/watch?v=BJ1FLn7T448)__, its brand of noise-rock tempers avant-garde intensity with kitschy dollops of fun.

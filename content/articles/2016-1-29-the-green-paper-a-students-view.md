@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290950-felix-20151104_141456.jpg"
-image_caption: >
-
-image_attribution: "Cale Tilford"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290950-felix-20151104_141456.jpg"
+image_caption: ""
 ---
 
 Too many universities in England have allowed teaching to become a “poor cousin to research”.

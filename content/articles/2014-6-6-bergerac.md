@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060351-jal08-bergerac_(tv_series).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060351-jal08-bergerac_(tv_series).jpg"
+image_caption: ""
 ---
 
 ___Bergerac___

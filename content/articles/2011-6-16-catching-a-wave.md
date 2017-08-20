@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162048-felix-psion005-abstract-digital-art-fractal-quantum_chromodynamics.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162048-felix-psion005-abstract-digital-art-fractal-quantum_chromodynamics.jpg"
+image_caption: ""
 ---
 
 Physicists have come one step closer to unveiling the elusive quantum world with a new experimental method developed by Canadian scientists. The article, [published in Nature](http://www.nature.com/nature/journal/v474/n7350/full/nature10120.html), shows how a team from the [National Research Council of Canada Institute for National Measurement Standards](http://www.nrc-cnrc.gc.ca/eng/ibp/inms.html) were able to perform a direct measurement of the wavefunction of a photon, which is the elementary unit, or ‘quanta’, of light.

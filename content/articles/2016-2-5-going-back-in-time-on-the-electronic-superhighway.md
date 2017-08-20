@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
-image_caption: >
-  “Lorna” by Lynn Hershman Leeson.
-image_attribution: "Courtesy of Whitechapel Gallery."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
+image_caption: ""
 ---
 
 The phrase ‘electronic superhighway’ has become, a mere 40 or so years after it was coined, no more than a vague anachronism. The concept, envisioned by artist Nam June Paik in the mid-70s, has fast become a relic of the bygone age of utopian technology. While Paik’s idea of a communication revolution that has become so far-reaching as to become, in his words, ‘a springboard for new and surprising human endeavors’, modern technology has instead brought with it the threat of coercion, manipulation, and ever-present surveillance. While such an optimistic view of human endeavors has since been consigned to the growing pile of historical disappointments, the Whitechapel Gallery is unafraid to take a retrospective look at the concept. Indeed, it forms the name of its newest exhibition, which looks back at the past 50 years of interaction between the artistic and the digital; the phrase’s ethos is reflected in this retrograde collection of work, which is exuberant, ground-breaking, and wholly revolutionarily.

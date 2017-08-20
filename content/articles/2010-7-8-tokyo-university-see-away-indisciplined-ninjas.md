@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201007080455-jn104-ICvsToky.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201007080455-jn104-ICvsToky.jpg"
+image_caption: ""
 ---
 
 __Tokyo University 1st XV 32____

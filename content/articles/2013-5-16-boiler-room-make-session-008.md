@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161618-js2310-g037-1000x-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161618-js2310-g037-1000x-2.jpg"
+image_caption: ""
 ---
 
 The Boiler Room sessions are always a treat. When Make Session 008 descended on Hoxton I was sure to get in the queue to get a space. Red Stripe had teamed up with long term friends T-Shirt Party. You have to love a brand whose vision is “REAL G’s WEAR WHITE T’s”. Inside an art gallery next to Hoxton Overground, the walls were decked out with hundreds of different simple, yet creative t-shirts, making the night look more like someone’s Tumblr feed than a club. Portico Quartet, Stubborn Heart, Factory Floor, Anushka, Eaux and CKTRL had teamed up for a night of artful beats and groove.

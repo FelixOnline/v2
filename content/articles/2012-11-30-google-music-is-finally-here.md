@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211301126-jp1409-music-players.png"
-image_caption: >
-    Google comes into a pretty competitive market against these badass’ of digital music
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211301126-jp1409-music-players.png"
+image_caption: ""
 ---
 
 I used to use browser based music services “[Grooveshark](http://grooveshark.com/)” & “[Hypem](http://hypem.com/)” in addition to downloading to fulfil my musical listening needs. However, I knew it wasn’t really sustainable, especially considering that Grooveshark is in a [very long legal battle](http://mediadecoder.blogs.nytimes.com/2012/07/11/digital-notes-grooveshark-wins-a-battle-but-can-it-win-the-war/) and is currently being sued by several labels, the biggest case for [$17.1 billion from Universal](http://www.digitalmusicnews.com/permalink/2011/111123grooveshark). Combine this with Android, Apple and Facebook all removing the Grooveshark app from their OS/Social network and the future isn’t bright for Grooveshark, or my musical fulfilment.

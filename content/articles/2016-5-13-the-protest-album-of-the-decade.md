@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131104-felix-anohni.jpg"
-image_caption: >
-  Drone bomb me.
-image_attribution: "ANOHNI"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131104-felix-anohni.jpg"
+image_caption: ""
 ---
 
 Hope was the word that came to represent Obama’s presidential campaign back in 2008. For a few brief moments the world – inspired by Shepard Fairey’s iconic poster – genuinely believed that change might finally come to neoliberal America. After eight years in office, Obama has grown old and the energy that once defined him has dissipated, along with many of his promises. **ANOHNI’s** debut solo album _Hopelessness_ is not kind to America and Obama. It presents the obvious truths and struggles that have defined the politics of the 21st Century: the rise of drone warfare, the defeat of environmentalism, mass-surveillance, and the hypocritical attitude of Western nations. It is always direct; nothing is ever held back or hidden under multiple layers of meaning. The result is a beautifully modern and accessible experimental protest record.

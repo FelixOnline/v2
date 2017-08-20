@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512151301-felix-crowded-trains-2372669.jpg"
-image_caption: >
-
-image_attribution: "mirror.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512151301-felix-crowded-trains-2372669.jpg"
+image_caption: ""
 ---
 
 In 1910, E.M. Forster described trains as “our gates to the glorious and the unknown. Through them we pass out into adventure and sunshine, to them, alas! we return.”

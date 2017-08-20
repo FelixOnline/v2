@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [This week](http://www.telegraph.co.uk/comment/letters/8938812/Universities-should-not-be-run-for-profit.html) professors from various institutions across the UK outlined their fears regarding the higher education [White Paper](http://discuss.bis.gov.uk/hereform/white-paper/) in a letter, in particular highlighting a perceived move that the Paper could lead to: a US-style higher education private sector that would see for-profit companies becoming able to acquire struggling universities. Claiming that one of the negative consequences of such a move would be “crushing levels of debt”, the conclusion that the academics have reached deserves at least some analysis, especially considering the ongoing debt situation that graduates already face.

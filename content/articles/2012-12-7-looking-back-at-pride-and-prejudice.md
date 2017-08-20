@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Pride and Prejudice by Jane Austen was first published in 1813. It hardly belongs on the latest bestsellers chart so why have I landed on this book, now? A few reasons. One, it’s one of those classic books that you always promise yourself that you’ll read (but never do). Indeed, I’ve put off reading this book for nearly two hundredyears. Two, my girlfriend adores Austen and I wanted to know what all the fuss with this chick-lit is. So, in total, a milieu of self-improving and self-motivated reasons.

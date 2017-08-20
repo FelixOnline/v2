@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
-image_caption: >
-  I’m going rogue and pouring LOADS of milk on the cereal
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
+image_caption: ""
 ---
 
 You don’t need me to rehash that old cliché about breakfast being the most important meal of the day, seeing as it’s been nattered on enough. Some of you who skip breakfast might even want to stab my eyeballs for even bringing it up. However, for the majority of you who skimp on it because you rolled out of bed with precious little time to spare, this one’s for you. A major plus is that these things won’t give you a severe sugar crash afterwards. Thank us for the improved concentration in lectures later.

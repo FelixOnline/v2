@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
+image_caption: ""
 ---
 
 The Balans menu is an eclectic mix of dishes from Thai to Italian and a wide variety of cocktails. It is a café style restaurant, which specialises in cocktails. If you can’t agree where to eat out, then this is a great place for you as there’s something for everyone on the menu.

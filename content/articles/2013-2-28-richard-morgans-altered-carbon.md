@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302281811-txl11-altered-carbon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302281811-txl11-altered-carbon.jpg"
+image_caption: ""
 ---
 
 I had heard a lot of good things about Richard Morgan, but a glance through the blurbs of his novels didn’t turn up anything that I thought I would particularly enjoy. However, upon reading that Altered Carbon, his first book, had been voted as the fifth best SF novel of the twenty first century by the readers of Locus magazine, I decided that I just had to check it out.

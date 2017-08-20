@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Over the past three terms, I’ve made a habit of sitting on the fence when it comes to reviewing. I’ve never known quite why we don’t include ratings in the Arts section, but I suspect it might be due to the fact that it would just be a constant stream of three star reviews. Having said this, I wouldn’t give the RA Summer Exhibition three stars. Well, at least some bits of it. Christ, other bits I wouldn’t even care to deign with attention. This, dear reader, is the Summer Exhibition dilemma.

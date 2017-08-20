@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 18 years after the famous Deep Field image, a series of photographs from the Hubble space telescope are giving us a new insight into extremely distant galaxies that formed soon after the big bang. This new deep image is centred on a large galaxy cluster, Abell 2744, which acts as a gravitational lens, focussing light from extremely distant galaxies towards the earth. Some of these galaxies could be up to 12 billion light years away, making them amongst the most distant ever seen. An exposure time of 50 hours was needed to collect enough light for around 3000 of these incredibly faint galaxies to become visible. A series of images (the Frontier Fields) are being taken in areas of the sky known to contain a large number of gravitational lenses. This first image will be taken again in May, using a different set of equipment, and another five locations will be investigated over the next three years.

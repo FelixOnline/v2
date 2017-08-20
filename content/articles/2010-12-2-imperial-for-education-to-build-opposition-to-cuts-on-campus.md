@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022159-nm1010-imperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022159-nm1010-imperial.jpg"
+image_caption: ""
 ---
 
 The first signs of opposition to the governmentís higher education proposals are emerging at Imperial. ëImperial for Educationí, a group opposed to higher education cuts, held its first meeting in the SAF lobby on Thursday.

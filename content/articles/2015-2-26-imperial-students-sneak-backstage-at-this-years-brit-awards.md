@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502260018-ps3110-hassan-web.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502260018-ps3110-hassan-web.jpg"
+image_caption: ""
 ---
 
 Two [Imperial College Television (ICTV) ](https://www.youtube.com/channel/UCbnVV7tcJZlUJTh8zPQFxMQ)reporters managed to sneak past security and get backstage to the BRIT awards on Wednesday, and even managed to interview some celebrities before leaving undetected.

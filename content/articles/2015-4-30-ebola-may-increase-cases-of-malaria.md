@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
+image_caption: ""
 ---
 
 The most recent findings from the Medical Research Council (MRC) Centre for Outbreak Analysis & Modelling has predicted an extra 3.5 million cases of malaria as a result of the epidemic. Researchers based at the Centre have also found that the disease hits those under one year of age hardest, with 90% of those infected dying shortly after.

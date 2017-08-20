@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002271711-rsp07-manonski.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002271711-rsp07-manonski.jpg"
+image_caption: ""
 ---
 
 When I was younger, and had time on my hands and nothing better to do, I frequently fell ill. Nothing particularly debilitating or life-threatening, you understand, only regular healthy doses of the common cold or flu. Influenza, as they say, and out flew my health.

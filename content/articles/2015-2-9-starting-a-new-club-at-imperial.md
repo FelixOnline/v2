@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091805-ps3110-screen-shot-2015-02-09-at-18.05.44.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091805-ps3110-screen-shot-2015-02-09-at-18.05.44.png"
+image_caption: ""
 ---
 
 Imperial College Union boasts over 340 societies, and that number grows every month, with new societies proposed including Wine Tasting, Airsoft and three different applications for weightlifting societies.

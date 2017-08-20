@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131139-felix-11209592_10153330167295917_54200595470464036_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131139-felix-11209592_10153330167295917_54200595470464036_n.jpg"
+image_caption: ""
 ---
 
 One of my favourite things about playing the French horn is that you get called in to play in concerts at the last minute pretty often. At Imperial the concerts usually tend to end up being actually really good and so it’s always quite exciting to get the opportunity to play with groups here. Last week I got to play in the ICSM Music Society Concert and it basically lived up to all my hopes for a concert and massively surpassed my expectations for a night that the only details I’d really been given beforehand were ‘turn up for rehearsal at 4.30, St Stephen’s Church’.

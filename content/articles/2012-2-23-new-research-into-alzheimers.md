@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Alzheimer’s disease](http://alzheimers.org.uk/site/scripts/documents_info.php?documentID=100) affects almost 30 million people around the world but it remains a poorly understood condition with no cure and few effective treatments. However, recent studies by scientists at Columbia and Harvard universities provide tantalising evidence of how the disease spreads through the brain and even offer hope of way to stop it in its tracks.

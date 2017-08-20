@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051653-felix-iscience.jpg"
-image_caption: >
-  The grid background is what turns me on...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051653-felix-iscience.jpg"
+image_caption: ""
 ---
 
 The Guardian Student Media Awards 2012 have been announced. I, Science, the student produced science magazine of Imperial College London and the sister publication of Felix, has made the shortlist in the category of “Student Website of the Year”. The website www.isciencemag.co.uk/ will face off against competition from Sheffield, Leeds, Birmingham, and Bournemouth, to be crowned Student Website of the Year 2012.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021855-ps3110-img_0505.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021855-ps3110-img_0505.jpg"
+image_caption: ""
 ---
 
 I suspect that I was not the only person disappointed to read the news article “Lesson Learnt: Never go in Dri” in last week’s issue (Felix 1584). This awful pun aside, I felt that the article unfortunately misrepresented and undermined Imperial College Union’s ‘Dri’ night, its first ever alcohol-free club night. The event was aimed at students who, for various reasons, don’t drink, and might not feel comfortable with one of the Union’s typical boozy nights. This includes students under the age of 18 who cannot attend Union events at which alcohol is served, or even enter Union bars, due to licensing restrictions. These students are socially marginalized and excluded from most of the fun of Freshers’ Week events and are not able to make use of the social hub that is the Union bars.

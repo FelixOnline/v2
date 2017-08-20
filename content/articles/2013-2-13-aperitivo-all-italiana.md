@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131410-tna08-820643_264778900320289_1437876619_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131410-tna08-820643_264778900320289_1437876619_o.jpg"
+image_caption: ""
 ---
 
 Yes, Aperitivo all’ Italiana. The first official event of the newly founded Italian Society at Imperial! Of course, it was food related and that is why I was very excited about it. It took place at a traditional Italian bar called Da Lisa at Gloucester road and it was indeed very Italian and also a heaven for people who appreciate good food. If a room full of typical Italian desserts, pastries, biscuits and of course the smell of that perfect espresso cannot be called heaven, then what can?

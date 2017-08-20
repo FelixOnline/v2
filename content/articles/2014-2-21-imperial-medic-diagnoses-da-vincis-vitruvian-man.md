@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial surgeon Mr. Hutan Ashrafian has recently diagnosed a picture of Leonardo Da Vinci’s Vitruvian Man, saying in an email to the Huffington Post: “I noticed that Leonardo da Vinci’s image of a man had a feature that may have been pathological.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272229-felix-11-ffilm.jpg"
-image_caption: >
-  Gwynnie wasn’t too pleased with her hubby’s new album: myloawef xylotosoiwlek
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272229-felix-11-ffilm.jpg"
+image_caption: ""
 ---
 
 __Contagion__

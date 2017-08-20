@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211124-so515-5139407571_176d0729e6_o.jpg"
-image_caption: >
-
-image_attribution: "justgrimes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211124-so515-5139407571_176d0729e6_o.jpg"
+image_caption: ""
 ---
 
 Imperial College Union had to remove 73 positions from the Autumn Elections that were underway this week, after a technical error that allowed students to vote twice.

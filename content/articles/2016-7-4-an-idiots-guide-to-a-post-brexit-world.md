@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201607041151-felix-sadcorbyn.jpg"
-image_caption: >
-  Feeling as lost as sad Corbyn on a night bus? Fear not, FELIX is here to explain what happens next.
-image_attribution: "Stuart Low"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201607041151-felix-sadcorbyn.jpg"
+image_caption: ""
 ---
 
 So, we’re out. What now, eh? What came to pass last Thursday and early Friday morning was, whichever way you cut it, historic. No full country, this deep in the EU, has left it before and now we’ve got to deal with the fallout for better or for worse.

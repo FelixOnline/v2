@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
+image_caption: ""
 ---
 
 London is filled with loads of cafés, which, let’s face it, look almost the same and offer very similar products. That’s why it’s completely OK to feel sick of them. There is, however, a place in London where you can have your coffee or tea like you’ve never have before. It’s small, it’s cozy, it’s friendly, it’s “Betty Blythe”. Named after the Hollywood starlet, “Betty Blythe” is a beautiful, vintage teashop and fine food pantry in west London – just 10 minutes walking from Hammersmith Station.

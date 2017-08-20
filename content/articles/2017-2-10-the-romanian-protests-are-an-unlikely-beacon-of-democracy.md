@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101353-felix-Screen Shot 2017-02-10 at 13.53.47.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101353-felix-Screen Shot 2017-02-10 at 13.53.47.png"
+image_caption: ""
 ---
 
 A brief glance at the main headlines and you can see that the past month has been filled with protests, discontent, and outrage. While the world is watching the United States, Eastern Europe is facing its own demons as formerly communist country Romania is seeing its largest protest since the fall of the regime.

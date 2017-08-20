@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
-image_caption: >
-  Colours signify the degree of perturbation of the spacetime fabric (the gravitational waves)
-image_attribution: "NASA Blueshift"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
+image_caption: ""
 ---
 
 Two black holes merged billions of light years away, causing a ripple in the fabric of spacetime big enough to be measured by scientists at the LIGO Collaboration. The results provide further support for Einstein’s theory of general relativity.

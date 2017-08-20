@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281103-felix-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281103-felix-cover.jpg"
+image_caption: ""
 ---
 
 Of all the shit stage-names artists have given themselves in the history of music, ‘[Bono](http://www.youtube.com/watch?v=Eih_ybKdVXU)’ has got to be the worst. But ‘Young God’, one-half of Seattle-based [__Blue Sky Black Death__](http://www.bsbdmusic.com/) (BSBD), is definitely a close second. In fact, if BSBD weren’t so damn fantastic, I’d say he was an arrogant so-and-so (thankfully __U2__’s songs [afford them no such protection](http://www.youtube.com/watch?v=19KstSgU-c0&ob=av2e)).

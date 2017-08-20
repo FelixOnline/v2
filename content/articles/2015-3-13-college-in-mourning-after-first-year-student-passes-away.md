@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130105-cj914-11024720_10152681538801200_8754949963606033918_n.jpg"
-image_caption: >
-  Georg Zänker sadly passed away on Saturday 7th March 2015
-image_attribution: "Jonathan Masters"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130105-cj914-11024720_10152681538801200_8754949963606033918_n.jpg"
+image_caption: ""
 ---
 
 Students across Imperial have come together to mourn the loss of first year student Georg Zänker, 20, who passed away on Saturday.

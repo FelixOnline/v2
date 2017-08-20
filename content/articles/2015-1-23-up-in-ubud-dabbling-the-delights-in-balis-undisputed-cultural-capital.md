@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png"
-image_caption: >
-  Your luxury retreat in the hills
-image_attribution: "Chris Richardson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png"
+image_caption: ""
 ---
 
 Bali: the four letters roll eloquently off the tongue, and immediately conjure up images of beautiful beaches, bronze bods, and bottled Bintang. But a stone’s throw – literally one hour by shuttle bus – into the island’s core teleports you to a different kind of paradise: the kind that featured heavily in _Eat Pray Love_, and the kind that continuously captures the imagination of yogis and chill-seekers from across the globe. And with its seas of green, cooler climates, and cultural delights, it’s easy to see why. Welcome to Ubud.

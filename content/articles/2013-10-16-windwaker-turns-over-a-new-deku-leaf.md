@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310161511-me1711-games_wiwa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310161511-me1711-games_wiwa.jpg"
+image_caption: ""
 ---
 
 There are few new games that hold my attention for very long anymore. I’m bored of games like Assassins Creed and Halo with their endless sequels that seem to offer nothing new except better graphics (even though I still buy them). However there is something about Nintendo that makes me forgive them for doing just that. Every new Mario, Zelda and Donkey Kong game that comes out always get me excited, and Windwaker HD is no exception. As a massive fan of the original Gamecube version I was pretty sure I would like this one too, but I didn’t expect to like it as much as I do.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305281552-tna08-56677701.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305281552-tna08-56677701.jpg"
+image_caption: ""
 ---
 
 I have to say that it is my view that this communication should be going to the Rector of the College and in my day as a student we would have had the right to take a letter straight to his door. However of course in my day I could have raised this matter to the rector either in my weekly meetings with him, by picking up the telephone orby raising it at the Governing Body or Finance and Executive committees. However it seems that in today’s world even the alumni have to take a back seat in regard to communications with college officials and hence I am forced to write to you.

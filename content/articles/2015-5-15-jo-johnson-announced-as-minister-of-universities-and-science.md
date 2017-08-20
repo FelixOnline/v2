@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
-image_caption: >
-  Jo Johnson has a pro-EU stance and supports international collaboration in the sciences
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
+image_caption: ""
 ---
 
 Jo Johnson, newly elected MP for Orpington in the London Borough of Bromley, has succeeded Greg Clark (a former economist) as Minister of State for Universities and Science.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112111-ks607-berlusco.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112111-ks607-berlusco.jpg"
+image_caption: ""
 ---
 
 Silvio Berlusconi is, in his own words, “the best political leader in Europe and the world.” To most foreign commentators, however, he is at best a carefree, flamboyant playboy who likes to throw sexy parties at his Sardinian Villa. He makes Hugh Hefner seem an amateur, and Bill Clinton a choir boy. At worst, he is accused of being a supremely corrupt businessman, with excessive control over the nation’s media, alleged links to the mafia, and a predisposition for bribery and fraud. Defending this ex-cruise ship crooner might therefore seem as difficult as supporting the intentions of a charming spotty-faced, white tracksuit-laden youth who likes to loiter around bus stops at three in the morning. But there are arguments in favour of the Italian Prime Minister, and they merit attention, starting with his gaffes and highly charged libido.

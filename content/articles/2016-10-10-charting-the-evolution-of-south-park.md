@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
-image_caption: >
-
-image_attribution: "vagueonthehow"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
+image_caption: ""
 ---
 
 For the last twenty years, Comedy Central has graced our screens with a getaway from the crassness of modern life: the idyllic Colorado town of South Park. It may seem remarkable that a show with such seemingly low effort animation has made it two decades but, as any watcher will tell you, the lack of detail is only skin deep. If you’ve somehow managed to avoid this behemoth of a franchise, this sitcom follows four young boys, Stan, Kyle, Eric, and Kenny, as they have surreal and frequently satirical adventures, attempting to navigate modern America.

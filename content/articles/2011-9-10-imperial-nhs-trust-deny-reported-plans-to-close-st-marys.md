@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201109101650-felix-st_mary_s.jpg"
-image_caption: >
-  St Mary's Hospital, located in Paddington
-image_attribution: "Jan Chlebik"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201109101650-felix-st_mary_s.jpg"
+image_caption: ""
 ---
 
 A heated exchange has broken out between Imperial College Healthcare NHS Trust and _The Independent_ newspaper, amid fears that St Mary’s Hospital, based at Paddington, will be closed and sold for housing.

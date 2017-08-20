@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
-image_caption: >
-  The Careers Advisory Service, located on Level 5 of Sherﬁ eld
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
+image_caption: ""
 ---
 
 It’s a searingly hot day in central London. The sun beats down on the Queen’s Lawn as an acquaintance and I pass by a monstrous, awkward marquee. Inside, emissaries from various companies appeal for students’ attention with all the enthusiasm of sleepy clams. The students scurry from table to table hoarding pens and slightly disappointing key-rings.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206150841-mc4509-booze.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206150841-mc4509-booze.jpg"
+image_caption: ""
 ---
 
 Imperial [Professor David Nutt](http://www1.imperial.ac.uk/medicine/people/d.nutt/) has suggested that all cars should be fitted with an alcohol detector.

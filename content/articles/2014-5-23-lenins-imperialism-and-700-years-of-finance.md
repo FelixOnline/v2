@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405231451-jal08-lenin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405231451-jal08-lenin.jpg"
+image_caption: ""
 ---
 
 Last week I gave a fairly standard summary on the start of the financial crisis, and a Guardian, perhaps Huffington Post, summary of subsequent economic ‘events’. This was to help put the findings of a recent economic research group into a little context and provide some background to my criticism of Tory policy. However, there are, I believe, severe limitations with the standard summary, and this was probably reflected in some slight differences in emphasis which might have stood out to any of my sharp eyed readers, assuming of course I have any readers. For instance, I make very little of the role of the complexity of the new financial products (specifically the CDOs and CDSs) and don’t mention the massive amounts of information required to understand a single trade. I don’t stay long on the lack of transparency in the CDS market, and I’m not sure I mention the potential conflict of interest between the banks and the rating agencies. This is not because I believe these points are false or irrelevant, but in my mind they are second-order problems.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091834-felix-IMG_7818.JPG"
-image_caption: >
-  Quality coverage from your fave paper
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091834-felix-IMG_7818.JPG"
+image_caption: ""
 ---
 
 Monday saw the Union thank its volunteers at the annual Union Awards.

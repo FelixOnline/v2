@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Making visible: what an unimaginative name for an art exhibition! – This was my first thought, but the Paul Klee exhibition in the Tate Modern surprisingly deserves that name. Through a collection of pictures it conveys a lot more than “just” art: the artist, the context and of course the idea behind each picture is literally “made visible”.

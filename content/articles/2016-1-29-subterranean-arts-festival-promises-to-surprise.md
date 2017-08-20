@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290943-felix-Vault_2015_9.jpg"
-image_caption: >
-
-image_attribution: "We Are Full Fat PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290943-felix-Vault_2015_9.jpg"
+image_caption: ""
 ---
 
 Have you ever wondered what goes on underneath London’s famous “graffiti tunnel” that is Leake Street, near Waterloo station?

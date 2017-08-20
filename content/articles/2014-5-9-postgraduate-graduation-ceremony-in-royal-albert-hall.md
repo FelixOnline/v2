@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090258-jal08-news_graduation.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090258-jal08-news_graduation.jpg"
+image_caption: ""
 ---
 
 This week 2,700 students graduated from various postgraduate course in the Royal Albert Hall.

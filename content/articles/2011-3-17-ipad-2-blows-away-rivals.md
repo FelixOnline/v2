@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
+image_caption: ""
 ---
 
 If preliminary reactions are anything to go by, it appears that [Apple might have pulled another winner out of the bag](http://www.apple.com/uk/ipad/) with the newly released successor to the original iPad. The fully upgraded model has been garnering some serious attention from reviewers over the week, with the almost unanimous conclusion being that the device delivers exactly what was promised on the tin, if not more.

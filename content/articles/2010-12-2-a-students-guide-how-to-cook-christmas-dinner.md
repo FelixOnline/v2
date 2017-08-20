@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
+image_caption: ""
 ---
 
 For me, hall Christmas dinner was one of the highlights of first year. It made sense we’d pay homage to our newly adopted family and celebrate Christmas together with the basting of an oversized bird and a vat full of mulled wine. A good excuse to reminisce about the first term’s antics (with much naming and shaming), get a little snozzled and eat pig wrapped in pig; hall Christmas dinner is not to be missed. Staircases seven and eight of Selkirk Hall came together and our twenty strong team of culinarily challenged, blurry eyed students actually produced a feast of a meal (despite my meagre contribution of peeling approximately three whole root vegetables) .

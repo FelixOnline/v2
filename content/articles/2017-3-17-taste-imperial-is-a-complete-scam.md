@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
-image_caption: >
-  Get your own raisins. Oh wait.
-image_attribution: "Barney Moss"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
+image_caption: ""
 ---
 
 Before anyone comes at me with their perceived positives of TasteImperial, I'll have you know that you have been utterly deceived. Commonfolk may be misguided by their SCR breakfasts or the library café 'food'. But I will dispel these myths them with one simple example: The Granola Yoghurt.

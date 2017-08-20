@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
-image_caption: >
-  A scene from The Royal Ballet’s Woolf Works
-image_attribution: "Tristram Kenton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
+image_caption: ""
 ---
 
 From the very opening moments of _Woolf Works_, the audience realises that what they are about to experience will not be anything one would expect from a conventional ballet, but a bold, mixed-media theatrical experiment with dance as its main act.

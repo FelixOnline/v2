@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
-image_caption: >
-  A painting of a lumpen knot of thumbed clay maps out the awkward spread of entwined figures, alludin
-image_attribution: "BLYTH GALLERY"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040247-jal08-arts-poster-copy3.jpg"
+image_caption: ""
 ---
 
 What: Sitting With The Qualities of a Mountain Exhibition

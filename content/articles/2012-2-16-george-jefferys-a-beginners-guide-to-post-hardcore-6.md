@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162201-pk1811-reuben-blog-photo.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162201-pk1811-reuben-blog-photo.png"
+image_caption: ""
 ---
 
 As promised, this week I will be beginning my rampage of digging up dead, old UK post-hardcore bands. The first band to be mentioned is, obviously, [Reuben](http://www.wordsfromreuben.com/2009/). Despite their ten-year lifetime and numerous outstanding releases, they failed to gain any mainstream success (as is the story for most bands in this series). For some reason, the good post-hardcore bands from the UK seem to all come from Surrey and Reuben are no different.

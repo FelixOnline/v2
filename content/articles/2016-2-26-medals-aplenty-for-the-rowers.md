@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261213-felix-12743858_10102363028415889_2873748662090135156_n.jpg"
-image_caption: >
-
-image_attribution: "Imperial Boat"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261213-felix-12743858_10102363028415889_2873748662090135156_n.jpg"
+image_caption: ""
 ---
 
 For Imperial’s rowers, BUCS Head was moved from the metropolitan Boston to the tropical Newcastle this year (a Head race is a rowing time trial, rather than a side by side race). ICBC sent up 22 of our finest athletes to compete on the Sunday, in an attempt to prove that the strength of our squad is defined by quality, not quantity.

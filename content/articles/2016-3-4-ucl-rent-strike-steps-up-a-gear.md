@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041125-felix-128cl rent19344_487411581443165_5745645532743636195_o.jpg"
-image_caption: >
-  Fight the power!
-image_attribution: "UCL, Cut the rent"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041125-felix-128cl rent19344_487411581443165_5745645532743636195_o.jpg"
+image_caption: ""
 ---
 
 The rent strikes that UCL students have been undertaking since late January are gaining more and more traction, now boasting a cohort of over 500 disgruntled tenants.

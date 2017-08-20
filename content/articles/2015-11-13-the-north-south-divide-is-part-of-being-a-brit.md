@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131433-ygr12-ned-and-jaime.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131433-ygr12-ned-and-jaime.png"
+image_caption: ""
 ---
 
 Where I come from, in rainy old Manchester, I’m considered relatively posh. Hop across the imaginary divide though, and I might as well have just come up from the mines with a pie in one hand and a ferret in the other.

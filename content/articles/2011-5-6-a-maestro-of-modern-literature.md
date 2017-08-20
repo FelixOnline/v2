@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
+image_caption: ""
 ---
 
 David Mitchell is a major figure in contemporary English literature. Two of his novels, number9dream and Cloud Atlas were shortlisted for the Booker Prize. His latest book, The Thousand Autumns of Jacob de Zoet, follows the adventures of a young Dutch clerk in 18th Century Edo Japan in a tale of clash of cultures, corruption, love and redemption set amongst a rich backdrop of an empire shut off from the rest of the world

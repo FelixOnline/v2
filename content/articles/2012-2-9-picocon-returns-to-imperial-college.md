@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092201-ams111-picocon29-artwork.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092201-ams111-picocon29-artwork.jpg"
+image_caption: ""
 ---
 
 The Science Fiction, Fantasy and Gothic Horror Society is preparing for its annual convention, [Picocon](http://www.union.ic.ac.uk/scc/icsf/social/events/picocon/), due to take place on Saturday 18 February at the Imperial College Union. Picocon has gone from strength to strength since it started in 1984 and this year’s event has all the makings of being one the best ones yet.

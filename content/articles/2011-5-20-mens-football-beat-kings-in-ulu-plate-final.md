@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 An incredible season of football for Imperial College Football Club culminated in two cup finals, having already seen a league win for the 4s, and a narrow miss on promotion for the 3s. With the 1s cup final played on the Saturday, the 5s were out to set the cup final bar on the preceding Wednesday.

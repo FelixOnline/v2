@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
-image_caption: >
-
-image_attribution: "Alexander Johnstone Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
+image_caption: ""
 ---
 
 Procrastination has only served man kind: The pizza burger, Kite Surfing, Skittle Vodka and now the PistolShrimps! An invitational rugby 7s team formed by Alex Johnstone and Joe Brown whilst trying to revise for their finals…The idea was that the team would be made up of the best players to have passed through Imperial over the past 5 years and a couple of ringers. The intention of the team was to be competitive at the big national tournaments and have a good time doing it.

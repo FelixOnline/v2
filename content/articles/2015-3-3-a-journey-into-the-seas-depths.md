@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031409-ps3110-screen-shot-2015-03-03-at-14.09.27.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031409-ps3110-screen-shot-2015-03-03-at-14.09.27.png"
+image_caption: ""
 ---
 
 A strip of water runs across the stage, which itself slopes upstage, with vague impressions of a ship’s windows in the distance. Daland’s crew shuffles around, clearing up after a storm as Daland announces that they will be heading home soon, and Senta, his daughter, will be waiting for him. This opening scene heralds the well-known tale of the Dutchman, who is bound to sail the seas for eternity unless a maiden swears to be true to him; Senta, deeply moved by his fate, swears to follow him unto death.

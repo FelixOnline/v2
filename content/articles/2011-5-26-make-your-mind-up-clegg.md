@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week I offered my thoughts on why I believe Nick Clegg’s stance on the tuition fee policy was requisite, citing the essential maintenance of government stability. This week, we have seen the Lib Dem leader chance his arm on the other side, and I think he will find out that the grass is decidedly less green. I am of course referring to his open chastising of the NHS reform plans set out by the coalition.

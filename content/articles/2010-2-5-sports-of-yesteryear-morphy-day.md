@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002051725-rsp07-morphyda.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002051725-rsp07-morphyda.jpg"
+image_caption: ""
 ---
 
 As some of you may know, Imperial was founded when three different college’s joined together back in 1907; the Royal College of Science (RCS), the Royal School of Mines (RSM) and the City and Guilds College (C&G). There was a sense of belonging, a sense of identity to the constituent College’s and rivalry that puts the current IC vs Medics one to shame. This rivalry, much like the Varsity matches of today, was focused around sports, however it was not exclusively left to the sports field, the rivalry also extended to the mascotry, but that’s another story for another time.

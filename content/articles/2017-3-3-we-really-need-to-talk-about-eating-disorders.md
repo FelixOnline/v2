@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031454-felix-Emily Jane Cramphorn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031454-felix-Emily Jane Cramphorn.jpg"
+image_caption: ""
 ---
 
 The past week on campus has been a busy one, what with the 2017 leadership elections, ‘show season’ at the union concert hall, and of course Varsity going on. But the past week has also seen activists across the nation trying to create change for people who are impacted by eating disorders. The final week of February is Eating Disorders Awareness Week (EDAW) both in the UK and the USA, and thus I have worked hard to lead a supportive campaign from ICU. Sadly, my efforts have been somewhat overshadowed by what can be seen as more pressing issues such as Elections and Varsity. Whilst this is frustrating, I can understand why EDAW isn’t at the top of everyone’s agenda: eating disorders are a seemingly niche and poorly understood topic and might not take priority when we are all under pressure to meet deadlines and balance a rudimentary social life. This in itself is not necessarily a huge problem but it is indicative of the wider problem of how eating disorders are perceived, discussed and treated in society. We don’t have to talk about eating disorders for only one week of the year. I, and others who are trying to foster change, am willing to talk about eating disorders all year long. The problem is, other people aren’t necessarily as keen because eating disorders aren’t seen as hugely important.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
-image_caption: >
-
-image_attribution: "2014 Handle Productions"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
+image_caption: ""
 ---
 
 For many, the Moomins hold nothing more than the nostalgia of childhood. While some have no idea what they are, for others the word conjures up a vague image of a hippo-esque creature that adorns cutesy bottles and notepads. There is no particular reason to go any deeper than these associations, but it was during attendance at an interactive exhibit dedicated to all things Moomin – and when I say interactive, I mean ducking through ‘forests’, crouching in a sandy tent, and wading through ‘snow’ – that the depth of these children’s stories, and their importance at times such as ours, came to light.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
+image_caption: ""
 ---
 
 Michael Llewellyn-Williams was Editor of Felix in the year [1974/75](http://felixonline.co.uk/issuearchive/year/1974/). He has had a fantastic life since being Felix Editor. He has travelled the world, “made a tonne of money” on the dot com wave, helped create Archie the Scotch Skeleton, worked with everyone from Carling Black Label to NatWest to Visa and BMW, written a book, and has had his own company since 1998. He currently lives in the San Francisco Bay Area, so I had a conversation on Skype with him.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201742-ps3110-am.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201742-ps3110-am.jpg"
+image_caption: ""
 ---
 
 Born and bred in Sheffield, __Arctic Monkeys__ are an English rock band that formed in 2002. Most commonly associated with __The Libertines__ and __The Strokes,__ Arctic Monkeys consist of front man Alex Turner (lead vocals, rhythm guitar, lead guitar), Jamie Cook (lead guitar, rhythm guitar), Nick O’Malley (bass, backing vocals), and Matt Helders (drums, backing vocals). In the nine years since their debut album release, Arctic Monkeys have released four more studio albums, won seven Brit awards, performed during the London Olympic Opening Ceremony and headlined Glastonbury. Twice.

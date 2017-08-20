@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
+image_caption: ""
 ---
 
 Wednesday 25th saw Obama give his second State of the Union address – his first since his party’s ‘shellacking’ at the hands of the Republicans in November’s mid term elections. The speech was short on policy but included concessions to the Republicans. His speech included:

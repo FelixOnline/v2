@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There is plenty of on-going research in the field of battling cancer, whether chemically, physically or biologically. A research group from southern California is developing a new strategy on improving the transport of medicine within the patients’ body, by creating antibodies which only activate in the presence of cancer cells.

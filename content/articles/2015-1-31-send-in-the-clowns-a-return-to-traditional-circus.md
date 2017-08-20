@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311917-ff712-chinese-chair,-picture-credit-owen-carey-a.jpg"
-image_caption: >
-  Chinese Chair at Cirque du Soleil's Kooza
-image_attribution: "Owen Carey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311917-ff712-chinese-chair,-picture-credit-owen-carey-a.jpg"
+image_caption: ""
 ---
 
 We arrived at the __Royal Albert Hall__ for the Friday matinee performance of __Cirque du Soleil__’s _Kooza_, and almost immediately began a mission to find somewhere to buy the programme and video recording. It turns out that the Londoner’s assumption of “oh, they’ll probably take card” does not extend to ushers on doors at theatres – and also that I get disoriented very easily in circular buildings. Nevertheless, glossy purple programme in sweaty hand, we made our way to the Grand Circle.

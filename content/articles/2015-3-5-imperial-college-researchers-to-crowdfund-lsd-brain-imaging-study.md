@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
-image_caption: >
-  One of the study's participants prepares for a brain scan
-image_attribution: "The Beckley Foundation"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503052007-cj914-lsd-brain-scan-hat.jpg"
+image_caption: ""
 ---
 
 Scientists from the Department of Medicine are reaching out to the public in an attempt to source the funding required to complete the final phase of their research. The study hopes to generate the first ever images of the brain of a person experiencing the effects of the psychedelic drug.

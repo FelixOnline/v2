@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603150943-felix-tunnel.jpg"
-image_caption: >
-  Under decency rules, the referred to Snapchats cannot be shown here.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603150943-felix-tunnel.jpg"
+image_caption: ""
 ---
 
 > > Heads were banged, and knees were scraped

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041538-felix-4617027843_244b598c51_o.jpg"
-image_caption: >
-
-image_attribution: "Aaron Vowels"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041538-felix-4617027843_244b598c51_o.jpg"
+image_caption: ""
 ---
 
 On the evening of the 19th October, at the University of Nevada’s Las Vegas campus, the phrase ‘nasty woman’ entered the internet’s lexicon. These words were uttered by Donald Trump towards the end of the third and final election debate, in a contest that has been defined by mud-slinging, press-madness, and all-round feelings of dread. While answering a question about tax increases for the wealthy, Hillary Clinton made a jab about Trump’s likely tax evasion; half way through her answer, Trump leaned into the microphone, and pointedly said the words ‘such a nasty woman’, closely followed by ‘your husband disagrees with you’.

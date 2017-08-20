@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182156-felix-b01myjqs_640_360.jpg"
-image_caption: >
-  Hard body; bad skin
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182156-felix-b01myjqs_640_360.jpg"
+image_caption: ""
 ---
 
 Classically, bronze is thought of as the material of antiquity. The discovery of the endurable properties of such copper alloys certainly allowed our ancestors to make more robust tools and weapons than their stone-age predecessors. Its use as an artistic medium, however, from the ancient world to the modern day, cannot be overlooked. The impressive exhibition of Bronze, currently running at the Royal Academy, eulogises the versatility and beauty of this abiding material, with a collection of artworks and artefacts spanning over 5,000 years of history.

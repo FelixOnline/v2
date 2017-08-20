@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Thou shalt not question Stephen Fry? Oh dear, I may as well go watch Hollyoaks and eat a Kit Kat. While we’re at it, the Beatles aren’t just a band – they are a way of life.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242013-pk1811-bulgaria.jpg"
-image_caption: >
-  Looking down on Veliko and the Yantra from midway up the Tsaravets...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242013-pk1811-bulgaria.jpg"
+image_caption: ""
 ---
 
 Veliko Tarnovo is one of the oldest settlements in Bulgaria, dating back at least five million years. Nicknamed ‘the Old Capital’, this timeworn city sits in a mountainous region of northern Bulgaria, surrounded by forestry and wildlife unlikely to be seen almost anywhere else in Europe.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
-image_caption: >
-  Court Chair Hamish Common (left) ruled that Kendall had not acted inappropriately
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
+image_caption: ""
 ---
 
 The Union Court has ruled that Union President Alex Kendall did not act inappropriately when, during the central Union elections when he was Returning Officer, he told a student to withdraw his nomination for the position of Community Action Group (CAG) Chair. The Court also ruled that Kendall had not acted in a biased way in approving candidate material.

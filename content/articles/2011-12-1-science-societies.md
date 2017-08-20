@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011950-ams111-img_4084.jpg"
-image_caption: >
-  Sir Paul Nurse spoke at the dinner
-image_attribution: "Raphael Scheps"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011950-ams111-img_4084.jpg"
+image_caption: ""
 ---
 
 November 26 saw the first of what is hoped to be an annual convening of the science societies of universities in the UK in [a dinner](http://www.scisoc.com/ri), attended by some of the most prestigious names in the discipline.

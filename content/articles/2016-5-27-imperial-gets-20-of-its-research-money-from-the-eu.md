@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271037-felix-eu create.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271037-felix-eu create.jpg"
+image_caption: ""
 ---
 
 Imperial receives just over 20% of its research funding from the EU, according to a report by a research software firm.

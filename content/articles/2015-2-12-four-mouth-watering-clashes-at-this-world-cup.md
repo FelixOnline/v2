@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122255-jyg11-screen-shot-2015-02-12-at-22.55.38.png"
-image_caption: >
-  The rivalry between India and Pakistan is fierce
-image_attribution: "Asia Cup"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122255-jyg11-screen-shot-2015-02-12-at-22.55.38.png"
+image_caption: ""
 ---
 
 #### Australia v England

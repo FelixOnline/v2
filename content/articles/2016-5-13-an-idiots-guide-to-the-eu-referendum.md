@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131056-felix-eu create.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131056-felix-eu create.jpg"
+image_caption: ""
 ---
 
 Over the course of the last UK election period and for the bulk of 2016 so far, the media and news in general has been focussed on the UK’s membership within the European Union, but what’s actually going on?

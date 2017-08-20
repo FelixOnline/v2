@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201110-felix-futureoftheleft.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201110-felix-futureoftheleft.jpg"
+image_caption: ""
 ---
 
 From their formation of the ashes of the wonderful **Mclusky** in 2005, Welsh noisy alt-rock savants **Future of the Left** have generated a reputation for absurd lyrics, excellent musicianship and live shows that Pitchfork would label as incendiary. A reputation justified by their fifth album _The Peace &amp; Truce of Future of the Left_.

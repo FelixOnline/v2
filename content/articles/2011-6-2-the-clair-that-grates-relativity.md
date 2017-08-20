@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022116-felix-img_6067_1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022116-felix-img_6067_1.jpg"
+image_caption: ""
 ---
 
 Last week, whilst consuming a coffee and éclair, I had a debate with a friend about string theory, gravity, and whether everything is made of particles or waves. It was then that a rather charming French friend stopped for a brief chat. And, sure enough, we concluded that French women are definitely made of waves (not that they don’t have good particles too).

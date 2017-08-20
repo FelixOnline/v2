@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With most of the advertising targeting the Freshers, Monday’s Big Tickle comedy evening seemed to have slipped past the rest of the college unnoticed. Despite this, the predominantly fresher based audience gave the comics plenty to work with. Where else, but Imperial, would a debate over whether a pterodactyl (or more correctly, a pterosaur) is a dinosaur or a ring tone of R2-D2’s beeps and whistles get truly appreciated?

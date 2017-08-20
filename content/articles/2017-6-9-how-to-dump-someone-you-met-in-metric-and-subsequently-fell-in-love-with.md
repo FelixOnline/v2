@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091818-ea3211-Screen Shot 2017-06-09 at 18.18.29.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091818-ea3211-Screen Shot 2017-06-09 at 18.18.29.png"
+image_caption: ""
 ---
 
 You were weak. Despite our foolproof guides on how to have a one night stand (in Metric), ‘How to have a one night stand (in Metric)’, and how not to fall in love with someone (from Metric), ‘How not to fall in love with someone (from Metric)’, you went ahead and fell in love with someone (from Metric) and now you’ve been stuck in a relationship with them (someone you met in Metric) for months. Somehow, this relationship still sort of revolves around Metric. Congratulations, you’re trash. But, just like a gastrobug, it’s run its course, and more importantly, summer is nearly here and you want to bang some hotties in a hostel in Indonesia as you travel around trying to find yourself. Or, it’s your final year, and you’re ready to Gold Rush. You can’t do that with a relationship, or a gastrobug. So you want out. But how?

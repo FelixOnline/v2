@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
-image_caption: >
-  Louis Theroux and Camille, in the BBC Two documentary Transgender Kids, broadcast last month, which sparked a debate about transgender issues in childhood
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151328-cj914-louis-theroux-cmyk-copy.jpg"
+image_caption: ""
 ---
 
 Those of you that have a TV Licence, or have had a look at BBC IPlayer recently (much more likely), will have seen that Louis Theroux – the mild mannered, inherently awkward, bespectacled documentarian – has a new series, of which three episodes have already been broadcast early, due to the Clarkson-shaped hole in BBC Two’s Sunday scheduling. My question is, is it anything more than voyeurism or does he have a genuine positive effect?

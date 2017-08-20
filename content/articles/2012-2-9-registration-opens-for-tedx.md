@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ticket prices for TEDxImperialCollege have been revealed as [registration](http://tedximperialcollege.com/registration/) opens today. Tickets for students will be £10, while all others will pay £25. It has also emerged that Google is to be the main sponsor of the event.

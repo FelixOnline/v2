@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
-image_caption: >
-  Amy Adams in Arrival
-image_attribution: "Paramount Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
+image_caption: ""
 ---
 
 Around the halfway point of Denis Villeneuve’s latest sci-fi thriller _Arrival_, which touches down this week, I found myself questioning the circular nature of time. But while the film itself – with its focus on language, neurology, and chronology – does try and upset our conventionally-held notions of time (to say any more would risk spoiling it), my confusion was more simply explained as a regular case of déjà vu: haven’t we already seen this before?

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091149-tna08-rgb-poppy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091149-tna08-rgb-poppy.jpg"
+image_caption: ""
 ---
 
 You’d think that ‘anti-war’ would be a pretty easy position to present, wouldn’t you? When you think of things that we name Horsemen of the Apocalypse after, it’s not exactly a list of things that split opinion. There is no pro-Pestilence lobby. There is no Society for the Advancement of Famine. Famine especially, Famine’s a right dick. Keeps enough food around to keep an undead horse running for all eternity, and then goes around taking away everyone else’s dinner? That’s the sort of thing that makes it hard to run Horseman PR effectively.

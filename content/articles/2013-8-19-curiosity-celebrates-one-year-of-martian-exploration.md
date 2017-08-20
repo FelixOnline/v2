@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
-image_caption: >
-  Layers seen at the base of Mount Sharp, Curiosity’s ultimate destination.
-image_attribution: "NASA/JPL-Caltech/MSSS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
+image_caption: ""
 ---
 
 Just over a year ago, on 6 August 2012 (5 August Eastern Standard Time), a little something called Curiosity made its final descent towards the Martian surface. Curiosity had spent over seven months making the journey from Cape Canaveral in Florida to the outer atmosphere of Mars. After a series of perfectly executed moves, and an excruciating wait for the Mars Science Laboratory (MSL) team at NASA, the rover landed safely in Gale crater, near the Martian equator.

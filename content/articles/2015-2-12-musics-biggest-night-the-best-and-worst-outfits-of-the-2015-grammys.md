@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Beyoncé killed it in this all black Proenza Schouler dress at Sunday’s Grammy’s. She wore an equally beautiful white dress on stage whilst performing _Take My Hand, Precious Lord_, which featured in the popular movie _Selma_ about the civil rights movement in the United States. Her performance was controversial since Ledizi, a jazz singer who sang the song in the movie, was not asked to perform it at the Grammy’s. Ledizi was also Grammy-nominated for ‘Best R&B Performance’ but, ironically, lost it to Beyoncé. Ledizi even told critics that she was “a little disappointed” that she wasn’t asked to perform the song. Despite the controversy, Beyoncé’s performance was flawless and she looked fabulous at the awards show.

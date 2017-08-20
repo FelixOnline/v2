@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201515-felix-p04m9tlx.jpg"
-image_caption: >
-
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201515-felix-p04m9tlx.jpg"
+image_caption: ""
 ---
 
 In 2010 when Sherlock was first introduced to the world as Arthur Conan Doyle’s great detective being brought into the 21st century, co-creator Steven Moffat explained his motivations in making the series to Premium Hollywood thus: “This wasn’t a case of, ‘Let’s grab that off the shelf and update it.’ It was, ‘We love this, we think everybody’s been getting it wrong, and we think we can get it right.’ Unless you think you’re correcting everyone else, you shouldn’t be doing something. You should be saying, ‘Now this is the way it should be done.’ “ Admirable words, certainly but it does beg the question: what exactly did Moffat and co-creator Mark Gatiss think should be done?

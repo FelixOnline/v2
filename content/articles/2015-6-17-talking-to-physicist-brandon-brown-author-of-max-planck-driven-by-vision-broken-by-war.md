@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
-image_caption: >
-  Brandon Brown, giving his talk
-image_attribution: "USF Faculty"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
+image_caption: ""
 ---
 
 <a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>Brandon Brown has spent his career teaching Physics. Starting off as physics graduate from Rice University, Brandon got his PhD from Oregon State University and later attained a certificate in Science Communication at the University of Califronia, Santa Cruz. Now a professor at the University of San Francisco, Brandon’s research focus has shifted to sensory biophysics and high-temperature superconductivity. Research students at his laboratory have explored the electric and magnetic sensory abilities of a variety of creatures.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Chris Forsyth is an American psych rock guitarist much admired by myself for his dabblings in drone and general guitar badass-ery. In my review of his previous full length, Kenzo Deluxe, I noted that Forsyth was essentially returning the guitar to some past glory, shedding it of the threadbare stereotype engendered by cock-rock’s (along with many other genres) self-indulgence and reverting it to an instrument of experimentation, where many of the older guitar based genres, especially blues, rear their head at one time or another.

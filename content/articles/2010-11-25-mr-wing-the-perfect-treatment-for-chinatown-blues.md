@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252032-nm1010-winggggg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252032-nm1010-winggggg.jpg"
+image_caption: ""
 ---
 
 The 12th November, 4:48 pm: e-mail received asking me to review Mr Wing, a Chinese restaurant in Earl’s Court.

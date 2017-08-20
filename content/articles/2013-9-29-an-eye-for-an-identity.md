@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291533-tna08-artsrouter.jpg"
-image_caption: >
-  Thomas Thwaites created “Nabu” - An intelligent internet router that tracks and censors web traffic.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291533-tna08-artsrouter.jpg"
+image_caption: ""
 ---
 
 What makes us who we are? The answers that immediately spring to mind are personal, intimate influences - our parents and siblings, friends and teachers; but there is one unlikely figure that has a profound and almost invisible impact on our lives - the Designer. From the clothes we wear to the cars we drive and the websites we visit, the designer has an enormous role in forging our individual identity.

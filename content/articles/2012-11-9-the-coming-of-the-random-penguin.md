@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091322-tna08-fourth-random-penguin-rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091322-tna08-fourth-random-penguin-rgb.jpg"
+image_caption: ""
 ---
 
 Penguin and Random House – the consumer publishing divisions of Pearson and Bertelsmann respectively – have recently announced their intention to merge, creating the world’s biggest publishing house, duly named ‘Penguin Random House’.

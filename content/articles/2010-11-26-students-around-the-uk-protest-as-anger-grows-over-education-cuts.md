@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261042-ks607-protests.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261042-ks607-protests.jpg"
+image_caption: ""
 ---
 
 Students have once again [clashed with police](http://felixonline.co.uk/gallery/?albumID=5) during protests over proposed changes to higher education. The protest, the second this month, planned to target the Liberal Democrat headquarters in central London.

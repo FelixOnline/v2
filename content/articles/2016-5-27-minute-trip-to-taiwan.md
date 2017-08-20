@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271105-felix-Exterior 1-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271105-felix-Exterior 1-1.jpg"
+image_caption: ""
 ---
 
 Last Wednesday was another one of those typical rainy, gloomy days with me sitting, staring into space in the back of the Chem Eng library. I must have appeared to be either half asleep, or deep in thought pondering upon the underlying philosophy of a radiative heat transfer problem. Hangry, more like. I was craving something naughty, something unique, something that tasted like home. After five minutes of desperate scrolling up and down my Instagram feed, I got an answer.

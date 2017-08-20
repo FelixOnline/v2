@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312315-tna08-lgbt-history-month-2013-logo.jpg"
-image_caption: >
-  The theme for LGBT History Month 2013 is Maths, Science and Engineering: keep an eye out for our art
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312315-tna08-lgbt-history-month-2013-logo.jpg"
+image_caption: ""
 ---
 
 It’s February, and that means it’s once again time for LGBT History Month. For those of you that may not be aware, LGBT History Month aims to draw attention to both the past and the present state of LGBT (lesbian, gay, bisexual and transgender) rights, as well as the impact LGBT people have had throughout history. While in many cases the sexuality of historical figures is only speculative, it is important to acknowledge that alternative sexualities have always existed, and are not some “modern lifestyle choice”. For example, while many people will know of Sir Francis Bacon, King James I and Florence Nightingale, they may not be aware that these historical figures are believed to have had relationships with members of the same sex.

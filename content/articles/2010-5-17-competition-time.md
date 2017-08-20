@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
+image_caption: ""
 ---
 
 Topman Ctrl are throwing free tickets at us to give to you for this show, so we're running a mini-competition for them, just email us at music.felix@gmail.com with the answer to this question:

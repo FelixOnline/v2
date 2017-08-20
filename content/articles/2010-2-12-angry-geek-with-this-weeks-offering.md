@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002120208-rsp07-groupwor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002120208-rsp07-groupwor.jpg"
+image_caption: ""
 ---
 
 There's something about group work at Imperial that just brings the best out of people, isn't there? It's like a cross between Ocean's Eleven and that scene from the Power Rangers where everyone teams up and combines into a giant robot penis.

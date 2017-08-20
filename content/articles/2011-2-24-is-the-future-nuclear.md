@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241956-ks607-nucleard.jpg"
-image_caption: >
-  Professor Gordon MacKerron, Neil Hirst, and Professor Jim Skea OBE
-image_attribution: "Christopher Walmsley"
-image_attribution_link: "http://christopherwalmsley.tumblr.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241956-ks607-nucleard.jpg"
+image_caption: ""
 ---
 
 On Thursday 17th February, three of the UK’s leading experts on nuclear power came to Imperial to discuss their pet subjects in a debate organised by [A Global Village](http://aglobalvillage.org/); Imperial’s global affairs journal. Joining the debate were Professor Jim Skea OBE, Director of the UK Energy Research Centre, Professor Gordon MacKerron, Director of the Sussex Energy Group and Chair of the UK Committee on Radioactive Waste Management and Neil Hirst, Senior Policy Fellow in Energy Mitigation and Climate Change at the Grantham Institute at Imperial.

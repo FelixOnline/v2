@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102231-ps3110-screen-shot-2014-11-10-at-22.30.40.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102231-ps3110-screen-shot-2014-11-10-at-22.30.40.png"
+image_caption: ""
 ---
 
 This week, another rugby team has been suspending following another stint of bad behaviour. Although this lessened the logistics of arranging our front page (literally, we could have just changed the name of the team from last week’s issue), it is becoming a much more difficult topic for us, as a student paper, to report on.

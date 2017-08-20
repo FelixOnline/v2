@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121922-felix-fusion-6.jpg"
-image_caption: >
-
-image_attribution: "Matt Grum"
-image_attribution_link: "http://www.mattgrum.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121922-felix-fusion-6.jpg"
+image_caption: ""
 ---
 
 What kind of city do we live in? The London social calendar is full of awfully pretentious events charging ludicrous amounts of dosh for a very ordinary experience whilst managing to be incredibly vile and unwelcoming about it at the same time. Events where the lighting has that weird, trendy glow that occasionally reveals the semen-ink words ‘reclusive wanker’ on the trousers of the dismally self-important clientele. Events where the barman claims to make the best Bellini cocktail in the world outside of Venice, with all the pomp and disillusionment Nick Griffin that uses to claim he’s the best guy to deal with immigration. Events that are cynical, tacky, dunderheaded, and decadent.

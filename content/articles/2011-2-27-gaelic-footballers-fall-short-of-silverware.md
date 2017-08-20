@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Continuing on from Friday's report](http://felixonline.co.uk/sport/890/gaelic-sports-football-go-to-birmingham-/), IC Gaelic's next opponents at the BUCS Championship were Teeside.

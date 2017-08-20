@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
-image_caption: >
-  Shit, shit, shit, shit, shit, shit, shit
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
+image_caption: ""
 ---
 
 Robert Redford’s standing in Hollywood must be a good one for him to have attracted so much star power and talent for his latest directorial effort that is at best, distinctly average. Marketed as a clever political thriller, it shows a lot of promise from its opening scenes, but what we find is a gradual dip in quality as it becomes clear the film doesn’t have too much to say for itself.

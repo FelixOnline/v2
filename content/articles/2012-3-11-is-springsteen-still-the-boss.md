@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
-image_caption: >
-  Bruce wants to know why you haven’t bought the album. It was out March 5th!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
+image_caption: ""
 ---
 
 __Bruce Springsteen__ is ﬁnally back. After the unfortunate death of his long-time friend and music companion, saxophonist Clarence Clemons, the Boss has been preparing for the release of his 17th studio album titled _Wrecking Ball_ packed with a tour across the US and Europe starting late March.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502021424-bwh12-dsc_0898_by_tlim.jpg"
-image_caption: >
-  Scenes from a newsroom's mind.
-image_attribution: "Thomas Lim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502021424-bwh12-dsc_0898_by_tlim.jpg"
+image_caption: ""
 ---
 
 We decided to ‘start strong’ with _Felix_, under the assumption that we could write most of this over the break.

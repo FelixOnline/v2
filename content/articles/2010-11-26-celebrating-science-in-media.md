@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
+image_caption: ""
 ---
 
 On Monday the Public Awareness of Science and Engineering organisation, PAWS, held The European Science TV and New Media Awards Evening at the prestigious Institute of Engineering and Technology (IET). A fitting location to celebrate science in the media, as the IET was once home to the BBC many years ago! This is the first year which has seen the celebration of science in TV and New Media throughout Europe. The awards recognised a variety of countries for documentaries, general programming and new media, as well as more unusual categories such as science in TV drama.

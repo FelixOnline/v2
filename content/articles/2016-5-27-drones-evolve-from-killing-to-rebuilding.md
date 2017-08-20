@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271056-felix-1280px-MQ-9_Reaper_in_flight_(2007).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271056-felix-1280px-MQ-9_Reaper_in_flight_(2007).jpg"
+image_caption: ""
 ---
 
 It is the 17th March 2011 and there is a distant humming from the sky over the Waziristan mountains, on the border between Pakistan and Afghanistan. Is it a bird? Is it a plane? No, it is an unmanned aerial vehicle (a drone to you and me) that is about to fire three missiles into a community meeting.

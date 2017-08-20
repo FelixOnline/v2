@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171135-felix-d4126c656252607aeaa7b870e3f241f9.jpg"
-image_caption: >
-  Me, right now, thinking about all you guys.
-image_attribution: "Orlando PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171135-felix-d4126c656252607aeaa7b870e3f241f9.jpg"
+image_caption: ""
 ---
 
 And so, we’ve come to the end, just as every brilliant film must do. My year as Film Editor has provided me with the extreme privilege of seeing first-hand some of the amazing, insightful writing we students are capable of. Over the last 28 issues, we’ve had numerous contributors, who have all produced absolutely incredible work. In no particular order, I would like to thank our writers: Tom Stephens, Ben Collier, Meryl Anil, Thomas Carroll, Diego Aparicio, Alex Heib, Cale Tilford, Arnold Duralliu, Max Lewis-Clarke, Ioanna Morianou, Jonathan Masters, and Diogo Miguel Geraldes – you guys have all made my job worth-while, and I thank you from the bottom of my chilly celluloid heart.

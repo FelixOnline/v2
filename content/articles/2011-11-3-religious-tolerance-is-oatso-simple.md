@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’ve started eating porridge. I waited and waited for the weather to get colder, but at some point it becomes obvious that I’m going to lose the staring contest with BBC Weather and I just break out the oats and jam. All year, I’m just waiting for winter to come around. So now I’m eating porridge every morning, I’ve committed to that for the next few months.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211320-ps3110-pie-chart.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211320-ps3110-pie-chart.png"
+image_caption: ""
 ---
 
 With college claiming that their new bursary scheme is “most generous bursary provision of any of the leading UK universities” Felix decided to investigate just how generous the university is with its money compared to others.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
-image_caption: >
-  Simon McBurney in The Encounter.
-image_attribution: "Barbican Centre"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
+image_caption: ""
 ---
 
 _McBurney’s performance recounts the story of Loren McIntyre– an American photographer who travels into the Amazon rainforest to attempt to capture on film an elusive, indigenous people called the Mayoruna. It quickly becomes apparent however that this story did not happen in the past alone, but is also happening in the present. This is uniquely done through the engaging auditory experience._

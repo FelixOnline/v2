@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
-image_caption: >
-  How you doin’?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
+image_caption: ""
 ---
 
 [__Bonnie ‘Prince’ Billy__](http://www.myspace.com/princebonniebilly), aka Will Oldham, is a name who should be on everyone’s lips. Instead, in the current landscape of indie-folk/Americana he has been overlooked for the watered-down beige-athon that is [__Mumford and Sons__](http://www.mumfordandsons.com/). Many commendable elements of the current scene can be seen in Bonnie ‘Prince’ Billy’s prodigious output; the stark, naked beauty of [__Bon Iver__](http://boniver.org/), the lyrical twist of [__Conor Oberst__](http://www.conoroberst.com/) and [__Laura Marling__](http://www.lauramarling.com/)’s ability to take your breath away with a tune. Thankfully, Mumford’s equation for success (an abundance of waistcoats, combined with inane choruses) is nowhere to be seen on any of the Prince’s eleven albums.

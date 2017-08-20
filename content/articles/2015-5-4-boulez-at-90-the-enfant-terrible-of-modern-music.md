@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041722-ps3110-201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041722-ps3110-201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
+image_caption: ""
 ---
 
 Pierre Boulez is _the _controversial figure at the forefront of musical development in the 20th Century. Though equally respected by his enemies as by his supporters, a certain stubbornness and radicalism has alienated many. For instance, in 1952 he declared in one fell swoop half of the musical world as useless, in 1967 that opera houses should be blown up, and in 1971 he advocated for the destruction of the Mona Lisa.

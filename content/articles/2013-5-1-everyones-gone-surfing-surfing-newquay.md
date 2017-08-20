@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012035-tna08-surf2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012035-tna08-surf2.jpg"
+image_caption: ""
 ---
 
 On the 1st March, the call of Newquay found SurfSoc packing into a minibus for our second trip of 2013. Already full and with two people still to pick up at Bristol, we battled on through the Friday traffic towards our goal: the sea (and Belushi’s). At Bristol, we stocked up on passengers, port and WKD with Carly Rae on full volume. The creation of the ‘social seat’ and a few Cheeky Vimto’s later, the atmosphere began to heat up and soon the whole minibus was skanking to Radio1’s Friday Nite Dubstep Bangerz. Big up to Alex ‘Karbs’ Karvelas for not crashing at this point while Adam ‘Hardcore’ Harvey was gyrating in his face! However, Karbs became progressively less composed as the frequency of toilet stops “on the side of a f***ing road” increased but at around 1am we finally rolled into our destination. The night was still young though, and there was still time for many Jaeger bombs and games of International Cock or Ball before the Belushi’s staff began to tire of our antics and we finally resigned ourselves to bed.

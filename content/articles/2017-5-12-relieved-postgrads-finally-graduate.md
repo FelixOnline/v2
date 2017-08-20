@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121733-felix-18290099_1172564479519899_1479746780_o (1).jpg"
-image_caption: >
-  Everyone looks so happy to be out of the Royal Albert Hall
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121733-felix-18290099_1172564479519899_1479746780_o (1).jpg"
+image_caption: ""
 ---
 
 Last Wednesday marked the day of the largest graduation  ceremony at Imperial where more than 3000 doctors, engineers, scientist and “future business leaders” from 93 countries graduated.

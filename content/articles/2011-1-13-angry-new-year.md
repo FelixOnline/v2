@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
+image_caption: ""
 ---
 
 Happy New Year folks. Contractual obligations mean I must make at least one joke about not fulfilling resolutions in the first issue of the year, so here it is right now: I like my resolutions like I like my awkward man-hugs. Well-meaning initially and…not drawn out?

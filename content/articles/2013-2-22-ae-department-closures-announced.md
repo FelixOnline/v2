@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220006-tna08-charing-cross-medium-square.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220006-tna08-charing-cross-medium-square.jpg"
+image_caption: ""
 ---
 
 [The hope that the Charing Cross A&E department was to be saved has been overturned after the official meeting was held on February 19](http://www.bbc.co.uk/news/uk-england-london-18534889). This comes after speculation that the A&E department was going to remain open as a smaller A&E.

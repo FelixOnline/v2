@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406021406-felix-gods-not-dead-kevin-sorbo-shane-harper-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406021406-felix-gods-not-dead-kevin-sorbo-shane-harper-2.jpg"
+image_caption: ""
 ---
 
 __God’s Not Dead__

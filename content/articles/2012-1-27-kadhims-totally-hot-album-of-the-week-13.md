@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201270956-ks607-dizzee.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201270956-ks607-dizzee.jpeg"
+image_caption: ""
 ---
 
 The most irritating thing about Tim Westwood is this: he’s actually 100% credible. He’s been supporting UK hip-hop since the 80s and, by all fair metrics, has earned the right to ram obnoxious horns and gunshot sounds up the backside of every track he plays on [his radio show](http://www.bbc.co.uk/programmes/b0082kyx). I, on the other hand, have absolutely zero street-cred – unless of course you count the Walkway as a street, and you accept furiously avoiding eye contact as ‘cred’.

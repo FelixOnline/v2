@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291346-ps3110-a-hooded-thief-stealing-a-001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291346-ps3110-a-hooded-thief-stealing-a-001.jpg"
+image_caption: ""
 ---
 
 My name is Nigel Ward, and on 30th March 2015 I was employed by Imperial College as the Senior Security Officer, Crime. My role is to investigate all crime, deliver a gold standard of victim care, and implement prevention tactics and strategies to reduce crime and the number of victims. What I bring to this role comes from serving 30 years in the Metropolitan Police service from which I retired this February.

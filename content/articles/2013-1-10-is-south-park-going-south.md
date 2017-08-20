@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102257-csw09-animaatjes-southpark-41673.jpg"
-image_caption: >
-  OMG they keep making shitty episodes. YOU BASTARDS
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102257-csw09-animaatjes-southpark-41673.jpg"
+image_caption: ""
 ---
 
 Like it or not, South Park is a cultural phenomenon, often quoted, reminisced about or each episode carefully dissected. The fact that South Park just finished its 16th season does nothing to lessen its appeal; in fact the show has now been extended to finish in 2016 bringing it to 20 seasons.

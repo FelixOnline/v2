@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The election results for the outstanding Council positions have been announced. In the incredibly catchily named Faculty of Engineering Undergraduate Council Ordinary Member Election, Joseph Gibbs, Oladipupo and Thomas Lim were all elected with 64, 30, and 21 votes in the first round respectively. Joseph Gibbs was elected in Round 1, with the other two being elected in Round 2. The faced competition from four other students, as well as the ever present, infamous RON (Re-Open Nominations).

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311241700-jal08-aleqm5jom4uzxshi3birmrwf0cu1jdgxbq-(1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311241700-jal08-aleqm5jom4uzxshi3birmrwf0cu1jdgxbq-(1).jpg"
+image_caption: ""
 ---
 
 As the controversial 23rd Commonwealth Governmental meeting in Colombo closed earlier this week there was widespread feeling that the Commonwealth has suffered a huge dent in its credibility. In March 2013 (for the first time in its history) the Commonwealth set out a new charter emphasising the need for human rights, freedom of expression, good governance and the rule of law. Sri Lanka (Commonwealth chair for the next two years) frequently ignores these tenets.

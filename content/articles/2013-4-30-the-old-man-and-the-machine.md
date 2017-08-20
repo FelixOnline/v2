@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012040-tna08-url.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012040-tna08-url.jpg"
+image_caption: ""
 ---
 
 Robot & Frank is the film of an elderly, deteriorating gentleman, and the Robot, a technological care assistant, given to him by his son. The film focuses on the relationship between the pair, a more mismatched couple it is hard to imagine: a cranky, lonely old man and a blank faced, obliging machine. Frank Langella gives a brilliant performance as Frank; completely understated but complex and affecting. As an elderly man suffering from spells of memory loss, the viewer is never quite sure how much of an act he is putting on, either to hide his illness or to play it up. The character has a delicious penchant for mischief and is far from your typical sweet old man. His past as a cat burglar is finely sketched but proves the driving force for the plot along with much of the humour of the film, which whilst rarely laugh-out-loud gives the film a lightness of touch that counterbalances the sadness at its heart. This is a film of dysfunctional relationships with Robot taking the position of Frank’s helper, friend, perhaps even the son that he missed out on. The viewer is frequently asked to consider if Robot can be considered as a friend: can he be viewed as a real person? As the story develops, the themes of memory and identity become more pronounced, particularly when contrasted between human and robot. Robot will never forget anything unless his memory is completely erased by his user, whilst Frank periodically forgets his own children yet is too stubborn to accept help.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131058-felix-reactions-to-virtual-reality-porn-on-oculus-rift-1102730-TwoByOne.jpg"
-image_caption: >
-  This guy looks like he’s having a great time.
-image_attribution: "askmen.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131058-felix-reactions-to-virtual-reality-porn-on-oculus-rift-1102730-TwoByOne.jpg"
+image_caption: ""
 ---
 
 When Palmer Luckey kickstarted the virtual reality revolution in 2012 I doubt he expected that one of primary uses of his new technology would be pornography. We’ve seen smartphones change the way we watched porn, and VR is set to do the same. While 3D porn itself is nothing new (it’s been around for decades), virtual reality porn is significant in that it is able to simulate physical presence via a combination of head tracking and stereoscopic vision. The porn set is now all encompassing and you become the porn star. No longer merely the spectator, you are now a spectre in another person’s body.

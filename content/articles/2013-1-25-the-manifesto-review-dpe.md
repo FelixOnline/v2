@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250202-tna08-doug-white-background.jpg"
-image_caption: >
-  Doug Hunt, Deputy President (Education)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250202-tna08-doug-white-background.jpg"
+image_caption: ""
 ---
 
 I warn you now that this article is a bit dry but that is just the way I am.

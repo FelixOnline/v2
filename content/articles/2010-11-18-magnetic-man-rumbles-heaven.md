@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182037-ks607-magnetic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182037-ks607-magnetic.jpg"
+image_caption: ""
 ---
 
 Calling themselves the world’s first dubstep supergroup, this talented trio have definitely stepped up their live act (from what initially resembled a Warcraft LAN party) to a blitz of lights and torrent of bass. For those of you who have been living in the library too much, they are composed of dubstep giants Skream, Benga and Artwork (who? precisely) and have recently released their kick-ass eponymous debut. On Wednesday 3rd they shook Heaven’s foundations with the excessive dub that incited chaos on the dance floor as they were joined on-stage by guests that included the likes of Katy B and Ms. Dynamite.

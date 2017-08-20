@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031118-felix-6510960541_2d1e558622_o.jpg"
-image_caption: >
-  Itsame! Mario!
-image_attribution: "Sergey Galyonkin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031118-felix-6510960541_2d1e558622_o.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we like to show how all science is special, a little bouncing 1-UP that your character runs towards to let it continue through  the game. This version of Sh!t Sc!ence is a little different. Because this week, I’m not going to be talking about research that sounds silly, or  useless. This week, I’m talking about research that, to me, sounds so cool it makes my eyes water a little bit.

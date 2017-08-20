@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041531-aib116-into-the-inferno-image.jpg"
-image_caption: >
-
-image_attribution: "Netflix "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041531-aib116-into-the-inferno-image.jpg"
+image_caption: ""
 ---
 
 Violent. Destructive.Catastrophic. These may be the words you think of when encountering the word volcano. Werner Herzog, one of the world’s most influential directors, together with volcanologist Clive Oppenheimer, take you on a trip to the heart of the earth, with the question: are volcanoes all destructive?

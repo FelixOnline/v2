@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After trawling the fairly non-exhaustive ‘Best Games of 2013’ lists, I came across a game which intrigued me – low budget, first-person and heavily story based. Major reviews raved about it, so I took the plunge on ‘_Gone Home_’ – the first effort of The Fullbright Company.

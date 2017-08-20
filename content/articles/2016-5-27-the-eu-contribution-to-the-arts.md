@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271101-felix-LIFT 2016 M.jpg"
-image_caption: >
-
-image_attribution: "Manuel Abramovich, Tony Fanning, Cyclone A, Maria Baranova"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271101-felix-LIFT 2016 M.jpg"
+image_caption: ""
 ---
 
 According to the Leave campaign, it is to the tune of £350m a week that the patriarchal dictators in the EU extort our poor impoverished island. As the great cultural icons Boris and Nigel might like to believe, if it were not for the bloodsucking greed of the EU, each and every British family up and down the country would be wading in the newfound riches of our great free trade state. Of course the numbers are wrong, but that would make for a less punchy tagline. Including Thatcher’s renegotiation of the UK’s EU contribution in 1984, the British rebate drops the actual sum to around £250m. But even still, the whole idea of sending away billions to the EU misses the point – the majority of that sum is sent back in all the different shapes and sizes of EU spending in the UK. Disgraceful I know, not only does the EU flood the UK with unwanted migrants, they also have the cheek to think that they know best when it comes to spending in the Britain. Maybe so, maybe not, whatever the truth, anyone claiming that the issue isn’t disastrously complicated is probably lying. However, in one area the EU is surely nothing but a force for good – amongst the many other EU spending receipts, there is one stack devoted to supporting UK arts and culture.

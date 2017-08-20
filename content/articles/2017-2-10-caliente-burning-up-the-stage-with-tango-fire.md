@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101554-felix-Oblivion -18.jpg"
-image_caption: >
-
-image_attribution: "Sadlers Wells"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101554-felix-Oblivion -18.jpg"
+image_caption: ""
 ---
 
 Tango – the word alone conjures images of passion, seduction, and power play. German Cornejo and his sizzling dance crew return to London with Tango Fire to set the stage ablaze.

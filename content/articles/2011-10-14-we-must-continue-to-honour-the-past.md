@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 University College London (UCL) [this week announced their planned adoption of the American-style grade point average system](http://felixonline.co.uk/news/1503/ucl-to-introduce-grade-point-average/) in lieu of traditional degree classifications. Naturally, this raises the question as to whether UCL are leading the charge against a “crude and undistinguished” system in an attempt to improve the value of a degree, or whether they are simply hoping to ensure easier comparison with American institutions.

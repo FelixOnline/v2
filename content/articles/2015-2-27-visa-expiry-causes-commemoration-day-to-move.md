@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
-image_caption: >
-  Graduation takes place at the Royal Albert Hall
-image_attribution: "Thomas Lim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
+image_caption: ""
 ---
 
 In an email sent out earlier this month to undergraduate students expecting to graduate this year, the College announced a change from usual procedures for the annual ceremony.

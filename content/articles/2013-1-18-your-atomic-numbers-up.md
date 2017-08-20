@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
+image_caption: ""
 ---
 
 Whether it was using sand, sundials or swinging pendulums, humans have strived to create more efficient time keeping devices. The past century saw a large jump with the introduction of the atomic clock. Current models operate by measuring the microwave energy signature of electrons dropping between energy levels. These are remarkably precise with errors as little as 1 part in 1017, which equates to dropping a second every 3 billion years or so.

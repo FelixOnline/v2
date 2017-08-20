@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two Imperial College researchers have been placed on list of 100 top practising scientists compiled by the Science Council. Professor Michelle Dougherty and Dr Ahmer Wadee join other well known scientists on the list, including Lord Martin Reese, Sir Paul Nurse and Dame Jocelyn Bell Burnell.

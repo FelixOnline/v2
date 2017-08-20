@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232142-ams111-4x6postcard_back.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232142-ams111-4x6postcard_back.jpg"
+image_caption: ""
 ---
 
 Falling into a set routine of university life, we can find ourselves sinking into a certain state of mind where nothing really matters much beyond the next deadline or what we are planning for the weekend. When we switch off like this we can sleepwalk through the days and find that life simply passes us by. As we watch time slip past, we seldom take the chance to ask the important questions: Why are we here? What is the meaning of life? We leave these questions unanswered in the back of our minds.

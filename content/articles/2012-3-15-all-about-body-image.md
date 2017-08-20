@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152141-pk1811-phillippa-diedrichs.jpg"
-image_caption: >
-  Dr. Phillippa Diedrichs delivers a talk at Imperial on Monday 19 March
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152141-pk1811-phillippa-diedrichs.jpg"
+image_caption: ""
 ---
 
 __Nicolas: Can you tell me little bit about yourself?__

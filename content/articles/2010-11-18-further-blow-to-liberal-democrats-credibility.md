@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Student organizations have expressed outrage after it was recently revealed that a group of senior Liberal Democrat figures planned to surrender their policy on removing tuition fees in the case of a possible coalition government – two months before the general election.

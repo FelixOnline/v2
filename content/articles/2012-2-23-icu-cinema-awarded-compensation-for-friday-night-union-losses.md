@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
-image_caption: >
-  ICU Cinema operates out of the Union Concert Hall
-image_attribution: "Philip Kent"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
+image_caption: ""
 ---
 
 A paper by [ICU Cinema](http://union.ic.ac.uk/arts/cinema/) which has been passed by Imperial College Union’s Executive Committee, the policy-executing branch of the Union, requested compensation for £94.50 in predicted losses from showings during the Film Festival, running from 10 January until 20 January, due to entry charges to enter the Union building.

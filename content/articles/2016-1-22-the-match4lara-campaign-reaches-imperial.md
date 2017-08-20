@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601221246-felix-Match4Lara3.jpg"
-image_caption: >
-
-image_attribution: "match4lara campaign"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601221246-felix-Match4Lara3.jpg"
+image_caption: ""
 ---
 
 Today, the Anthony Nolan branch at Imperial is running a bone marrow drive in an attempt to find a match for a Thai-Italian student,  the 24 year old Lara Casalotti, who has been diagnosed with leukaemia.

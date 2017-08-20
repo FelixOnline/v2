@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021446-felix-philippe-petit-man-on-wire.jpg"
-image_caption: >
-
-image_attribution: "Jean-Louis Blondeau - Polaris Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021446-felix-philippe-petit-man-on-wire.jpg"
+image_caption: ""
 ---
 
 I often hear people sing the praises of director James Marsh and his two supposed classics Project Nim and Man on Wire. Having recently seen both films, I thought it would be interesting to present my reviews this week in tandem. The reason for this is that I noticed a lot of similarities in presentation and subject matter between these two films… I also bloody hated one and quite liked the other.

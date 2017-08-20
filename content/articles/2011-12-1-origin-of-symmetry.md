@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
-image_caption: >
-  The best forking album by the best forking band to ever set foot on forking Earth
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
+image_caption: ""
 ---
 
 Back in 2001; the year iTunes was born, [__J-Lo__](http://www.jenniferlopezonline.com/) got her first UK number 1 single and George Bush began his war on terror, [__Muse__](http://muse.mu/) released the amazingly beautiful album that is _Origin of Symmetry_. Although this was the Devonshire band’s second album after _Showbiz_, it was the collection of songs that marked the greatness that was to come.

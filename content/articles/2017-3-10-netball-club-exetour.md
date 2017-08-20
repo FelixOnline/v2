@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101439-felix-17016472_10212239375399489_54928250_o (1).jpg"
-image_caption: >
-  Partay!
-image_attribution: "ICUNC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101439-felix-17016472_10212239375399489_54928250_o (1).jpg"
+image_caption: ""
 ---
 
 In the lead up to Varsity, most clubs double up on training, start running extra fitness classes and generally work even harder on their sport. Naturally, netball chose to spend the weekend partying in Exeter. Getting the first bus out of London, 15 girls from a mixture of all 6 teams headed into Exeter tired but excited to see what the night life is like for other universities. Despite not getting to the hotel until ten, the squad headed back out an hour later.

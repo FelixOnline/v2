@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last term in the midst of ‘Imperial Girls Can’ week the ICURFC gentlemen headed down to Kent for their last formal game of 2015 in the hope that they could make the ladies of Imperial proud. With our eyes set on the league title the necessity for repeated bonus point wins cannot be stressed enough; the pressure was on. The game opened with a few changes to the regularly fielded side – most notably in the backs with Ed Durkin stepping in at ten. A guest appearance at prop from Eifion Foster got the horns blowing when he put Hobson over the line for the first score of the game and the second score of his life. The Sonny-Bill offload brought an orchestrated applause from the crowd; an impressive start for IC.

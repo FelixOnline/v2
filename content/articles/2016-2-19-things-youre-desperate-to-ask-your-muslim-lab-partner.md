@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191112-felix-image1.JPG"
-image_caption: >
-  We’re chilling in SAF, just like you.
-image_attribution: "ISoc"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191112-felix-image1.JPG"
+image_caption: ""
 ---
 
 Muslims are probably one of the easiest groups of people to identify from the way we dress, girls being more obvious than guys. As Muslims we find that there’s a lot of confusion about why we do certain things and people speculate because they’re too scared to ask in case we get offended. Contrary to what the media might tell you, 1 in 5 of us don’t sympathise with a certain group of people. In fact we’d be more than happy to tell you why we don’t eat all Haribos or why I didn’t join the Pub Crawl at the start of the year. For those too shy to question us directly, here’s a selection of questions Muslims on campus have been asked in the past.

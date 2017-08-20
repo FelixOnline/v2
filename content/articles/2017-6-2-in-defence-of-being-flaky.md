@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021525-felix-Screen Shot 2017-06-02 at 15.25.19.png"
-image_caption: >
-
-image_attribution: "Original pic by owlin alin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021525-felix-Screen Shot 2017-06-02 at 15.25.19.png"
+image_caption: ""
 ---
 
 Be honest, we all have that friend who’s a complete flake. You know, you make plans with them only to have them cancel at the last minute. Maybe this happens repeatedly. They’re really fucking annoying, right? Maybe you don’t even want to bother to reschedule. Maybe they’re so flaky that you eventually ghost them as friends or maybe they drive you nuts but something keeps you from severing ties, despite the mild dread that comes every time you make plans with them.

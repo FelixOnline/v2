@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280041-ps3110-rugby-for-web.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280041-ps3110-rugby-for-web.jpg"
+image_caption: ""
 ---
 
 Imperial Medicals Rugby Football Club, one of the rugby teams suspended earlier this term for smashing a coach window, appealed against the sanctions placed against them last week.

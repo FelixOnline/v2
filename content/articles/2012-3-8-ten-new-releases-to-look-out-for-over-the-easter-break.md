@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
-image_caption: >
-  Jennifer Lawrence in The Hunger Games
-image_attribution: "Lionsgate"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
+image_caption: ""
 ---
 
 __We Bought a Zoo (16 March)__

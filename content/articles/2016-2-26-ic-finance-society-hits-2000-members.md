@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261209-felix-DSC 2-8310.jpg"
-image_caption: >
-  The gang.
-image_attribution: "Abhishek Mukherjee"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261209-felix-DSC 2-8310.jpg"
+image_caption: ""
 ---
 
 Last Tuesday Imperial College Finance Society (ICFS) successfully overtook Medical Education (the biggest departmental society) in terms of membership. By Friday, ICFS reached yet another milestone by becoming the first society to exceed 2000 members.

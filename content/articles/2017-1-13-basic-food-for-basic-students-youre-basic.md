@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131511-felix-7885846128_19f61ed706_o.jpg"
-image_caption: >
-
-image_attribution: "Kiran Foster"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131511-felix-7885846128_19f61ed706_o.jpg"
+image_caption: ""
 ---
 
 For many of us, it’s revision week time! Yay!! Can you feel the enthusiasm? I can feel it all around campus – especially in the library late at night or when I see some girl crying in the bathroom; I’m not saying that men do not cry in the bathroom, but I for one cannot see them – the perks of using the ‘ladies room’.

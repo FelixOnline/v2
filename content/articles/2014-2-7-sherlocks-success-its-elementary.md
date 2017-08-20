@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Sherlock’s third series debuted on New Year’s Day to tremendous hype. After two years of being off-air, fans were hoping that it would match their high expectations. Now that the dust has settled on the last of the three episodes, what was the final verdict?

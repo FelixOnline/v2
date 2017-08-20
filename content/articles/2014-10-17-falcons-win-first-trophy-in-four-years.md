@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The minibus was full of excitement and anticipation as club driver Rhys guided it down the M40 to Slough where the Falcons were to play in the inaugural National University Baseball Fall Cup organised by Baseball Softball UK (BSUK). The off-season had seen fantastic recruitment, particularly in the pitching department and this team represented the best chance yet that the Falcons had of securing that vaunted Fall Cup Shield which they last won in 2010.

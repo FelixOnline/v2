@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151959-ams111-srep00304-f1.jpg"
-image_caption: >
-  Sampling sites around the Fukushima Daiichi nuclear power plant (DNPP)
-image_attribution: "Nature"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151959-ams111-srep00304-f1.jpg"
+image_caption: ""
 ---
 
 Last week, just days before the anniversary of the Fukushima disaster, came evidence that radioactive plutonium has spread much further from the nuclear plant than previously thought. Scientists from the National Institute of Radiological Sciences in Japan, found traces of the potentially harmful substance over 20 kilometres away from the plant – thankfully though, they say this poses no health risk.

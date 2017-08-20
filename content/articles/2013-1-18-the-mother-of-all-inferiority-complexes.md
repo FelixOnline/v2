@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week Felix published an article discussing the differences in workload between Oxbridge and Imperial. ‘Who works harder?’ seemed to be the question it was asking. It threw lots of figures at the reader and seemed to suggest that Oxbridge gives students more contact hours and was much better value for money. The comments online erupted. Imperial’s longer terms were pointed out as an explanation for reduced contact times and there were debates on the quality of the course content, particularly amongst the physicists.

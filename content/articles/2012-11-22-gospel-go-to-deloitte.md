@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222251-tna08-ugcy-stage.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222251-tna08-ugcy-stage.jpg"
+image_caption: ""
 ---
 
 What do a university gospel choir and Deloitte, one of the four major professional services companies, have in common? Possibly morethan you might think...

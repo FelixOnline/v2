@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152016-pk1811-alcatraz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152016-pk1811-alcatraz.jpg"
+image_caption: ""
 ---
 
 Created by J.J. Abrams, the mastermind behind _[Lost](http://www.imdb.com/title/tt0411008/)_ and _[Fringe](http://www.imdb.com/title/tt1119644/)_, _[Alcatraz](http://www.imdb.com/title/tt1728102/)_ follows a special unit within the FBI dedicated to investigating the disappearance of the prisoners and guards from the infamous prison in 1963. The year is 2012 and the 63s, as they are commonly referred to, have started showing up the same age as when they disappeared and with no memory of how they vanished, or where they’ve been for the past 50 years.

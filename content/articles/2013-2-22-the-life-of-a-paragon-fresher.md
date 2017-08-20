@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Paragon, described on the University web-site as: “a high-quality, award-winning, purpose-built hall of residence with excellent transport links and good shopping and leisure facilities available”, has been a source of quite some controversy amongst Imperial students. Sounds idyllic, so what’s the problem?

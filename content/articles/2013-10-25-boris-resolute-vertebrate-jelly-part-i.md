@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
-image_caption: >
-  Golly gosh, am I really that blond? Rome, save me!
-image_attribution: "Boriswatch.com"
-image_attribution_link: "http://www.boriswatch.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
+image_caption: ""
 ---
 
 The mayor for London, Boris Johnson, made the headlines in February of this year after deeming members of the London Assembly as “great supine protoplasmic invertebrate jellies” for failing to interrogate him over revisions to the £16.5 bn budget. The characteristic neologism merely capped his voluminous arsenal of quips and redeeming facets. He is, by far, the most popular politician in The Conservative Party at present. A March 2013 poll carried out by the London Evening Standard claimed that he would obliterate Ed Miliband in the polls if he were to (hypothetically) succeed David Cameron as party leader. His broad and endearing appeal to the people of London is extensive, being re-elected with a 44% mandate over Labour’s Ken Livingstone.

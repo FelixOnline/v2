@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Of the many things you might have been sweeping off your balconies and terraces, cosmic dust particles could have found their way in your dust pan. Cosmic dust grains are minute particles measuring around 0.01 millimetres in size and are remnants from the time our solar system was born. They contain traces of minerals and analysing it can help scientists  to solve the puzzle of how the entire solar system was formed.

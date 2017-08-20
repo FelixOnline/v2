@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002121614-ak6309-CGCULogo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002121614-ak6309-CGCULogo.jpg"
+image_caption: ""
 ---
 
 Following the departure of Kirsty Patterson, former CGCU President, the City and Guilds College Union held elections to appoint a new President and Guildsheet Editor. The elections attracted respective candidates Dan Lundy and Richard Bennett, who attained their positions unopposed.

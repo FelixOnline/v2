@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172148-pk1811-top-boy-4-shot-on-roof.jpg"
-image_caption: >
-  We’re posing on the top floor of a multi-storey car park. No. We don’t know why either
-image_attribution: "Channel 4"
-image_attribution_link: "http://www.channel4.com/programmes/top-boy"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172148-pk1811-top-boy-4-shot-on-roof.jpg"
+image_caption: ""
 ---
 
 Welcome to Summerhouse, fam. Here, food (the kind you smoke) is sold on the streets by 10-year olds, snakes (traitors) get stabbed and adults run farms (not the kind that grow fruit and veg). In the shadow of the mighty Canary Wharf, this Hackney estate is the centre of Dushane and Sully’s drug dealing business. And they are expanding. Ra’Nell is a local 13-year old who has to live alone and fend for himself whilst his mother is in a mental hospital. With his friend Gem, they get sucked into the gangs and violence of the streets.

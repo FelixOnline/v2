@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505131518-ps3110-fiona_kimm_as_ellipsis_paul_curievici_as_eames_david_stout_as_selby_robyn_allegra_parton_as_peg_0-photo-credit-fiona-kimm.jpg"
-image_caption: >
-  David Stout, Fiona Kimm, Robyn Allegra Parton and Paul Curievici in the Royal Opera House’s production of The Virtues of Things
-image_attribution: "Stephen Cummiskey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505131518-ps3110-fiona_kimm_as_ellipsis_paul_curievici_as_eames_david_stout_as_selby_robyn_allegra_parton_as_peg_0-photo-credit-fiona-kimm.jpg"
+image_caption: ""
 ---
 
 _T__he Virtues of Things_ is a chamber opera by the sometime computer game music composer Matt Rogers, and his debut at the __Royal Opera House__. It is performed by the Aurora Orchestra, conducted by Richard Baker, and directed by Bijan Sheibani with a cast including last year’s Figaro at the __ENO__, David Stout, and the veteran mezzo-soprano, Fiona Kimm.

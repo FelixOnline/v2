@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201407081207-jal08-tdf_london_image.jpg"
-image_caption: >
-  #CyclistsOnTour
-image_attribution: "Joe Letts / Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201407081207-jal08-tdf_london_image.jpg"
+image_caption: ""
 ---
 
 On Monday the Tour de France returned to London after a seven year absence as German Marcel Kittel won his second stage in three days in a sprint finish on the Mall.

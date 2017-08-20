@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
-image_caption: >
-  Let's take a step back
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
+image_caption: ""
 ---
 
 So here’s my plan, to get my own back on the remakes. By actually going back. As in, back-WARDS in time! Yes, I’m going to use the power of artistic licence to reverse time, and see what pixelated gems of gaming goodness have been lost along the way.

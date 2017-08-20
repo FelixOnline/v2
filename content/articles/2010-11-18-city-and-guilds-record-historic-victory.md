@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182108-ks607-cgcursm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182108-ks607-cgcursm.jpg"
+image_caption: ""
 ---
 
 Sunday was not only for remembering those lost, but also for creating new history. The day for mourning was earmarked for the battle between two past greats; it was time for the annual C&G vs. RSM grudge match. A gloomy start saw both teams arrive an hour after the scheduled kick-off time due to the ever reliable London Transport Network.

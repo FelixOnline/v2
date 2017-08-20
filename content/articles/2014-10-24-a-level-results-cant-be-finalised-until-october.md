@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021901-ps3110-imgid7073188.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021901-ps3110-imgid7073188.jpg"
+image_caption: ""
 ---
 
 Universities have been told that they shouldn’t view exam results as “finalised” until the end of October. OCR, a leading exam results board, added to the statement saying that all results “remain provisional” until all re-marks are complete. Re-marks aren’t fully finished until the end of October, which is a month after most degree courses start.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132006-ks607-sweets.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132006-ks607-sweets.jpg"
+image_caption: ""
 ---
 
 Want to shed your Christmas bulge but can’t resist the Quality Streets? Then imagine eating them, for it could help you in the long run. A study published in Science over the festive period has shown how imagining eating a certain food can reduce your consumption of that food.

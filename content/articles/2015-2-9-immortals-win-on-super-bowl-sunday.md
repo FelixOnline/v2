@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091909-ps3110-screen-shot-2015-02-09-at-19.09.06.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091909-ps3110-screen-shot-2015-02-09-at-19.09.06.png"
+image_caption: ""
 ---
 
 Sunday 1st February saw the Immortals take a trip to the seaside to face Brighton Tsunami for the second time in the season. The first time saw the Immortals dominate with a 12-6 win at home. The team all packed onto the coach at 8am for the two-hour drive to Brighton; looking ready to take the second, and most important, win of the season. This game was the most important in the Immortals’ season because it almost certainly decided who would be relegated from the Premiership South division.

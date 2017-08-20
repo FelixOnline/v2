@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101346-felix-Screen Shot 2017-02-10 at 13.46.29.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101346-felix-Screen Shot 2017-02-10 at 13.46.29.png"
+image_caption: ""
 ---
 
 Opening last week’s issue of felix, I was greeted on page three by an article entitled “Israeli ambassador’s secret visit to Imperial”. And I’m pleased to say that, on the whole, the article was a very balanced read, just as the event was very civil. The sensitive nature of the discussion had clearly been recognised by felix, and was therefore covered appropriately.

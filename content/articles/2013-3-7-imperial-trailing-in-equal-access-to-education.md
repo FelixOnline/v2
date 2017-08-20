@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072343-tna08-hesaphoto.jpg"
-image_caption: >
-
-image_attribution: "Sam Lav"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072343-tna08-hesaphoto.jpg"
+image_caption: ""
 ---
 
 At the core of student opposition to the College’s decision to close Garden Hall and open a new residence in North Acton is a concern for Imperial’s less well off students. Campus Services seems to have demonstrated an utter disregard for the possibility that poorer students may be forced out off campus, separated from their classmates and their union. This raises difficult questions; what proportion of Imperial’s students come from less privileged economic backgrounds, and how do we compare to other institutions? Is Imperial ‘needs blind’, or a science, medicine and engineering finishing school?

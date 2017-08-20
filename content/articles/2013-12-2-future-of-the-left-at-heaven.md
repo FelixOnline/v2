@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s Wednesday night and I am at Heaven to see angry Welsh noise-rockers Future of the Left. Formed from the ashes of mclusky and Jarcrew, and now featuring Julia Ruzicka from Million Dead on bass, they are known for their heavy stop-start guitar riffs and front man Falco’s viciously delivered satirical lyrics.

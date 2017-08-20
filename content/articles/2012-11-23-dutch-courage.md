@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [The Holland Club has closed](http://felixonline.co.uk/news/2931/holland-club-closed/). The space will be redeveloped by College and Commercial Services into something new. Apparently, everyone was crying out for more food outlets. Dinner and such.

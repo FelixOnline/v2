@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Professor Liang Xinsheng of Lingnan Normal University has lost his managerial position in light of posts made on Weibo expressing discontent over social issues. The demotion has been widely seen as a symptom of an increasing crackdown on dissent in academia, a crackdown led by China’s premier Xi Jinping.

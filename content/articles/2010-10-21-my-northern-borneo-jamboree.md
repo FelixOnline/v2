@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010211950-nm1010-admiring.jpg"
-image_caption: >
-
-image_attribution: "Christopher Richardson"
-image_attribution_link: "http://felixonline.co.uk/user/cr709/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010211950-nm1010-admiring.jpg"
+image_caption: ""
 ---
 
 I am a huge fan of mainland Malaysia, what with its plethora of creole cuisines and party people, but its true face lies on Sabah in Malaysian Borneo. As soon as I landed in Kota Kinabalu (KK) and hit the streets, I realised I was onto something grand: the sun was smouldering, the prices cheap, and all of the locals greeted me with a friendly smile.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The audience, of what was effectively a maths lecture, was a mixed crowd. Organised by Friends of Imperial – an organisation that encourages alumni and the public to get involved in the work of the College – the lecture drew people from a range of ages and walks of life, but all with an interest in science. Interests no doubt like mine that picked up at the mention of the sub title: “How to Win a Small fortune”. Not suggesting that people who have an interest in science are always after a quick buck – no one does a PhD expecting a fast car and penthouse – but rather the dynamics of the statistics and numbers behind gambling and tricks excites in the scientific mind a possibility to win through knowledge and shrewd planning alone. And, well, if you manage to walk away from a Blackjack table with a couple of hundred grand in your front pocket in the process then all the better.

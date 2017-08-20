@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ICU Snooker enjoyed their best ever performance at the Midlands Universities Snooker Championships, which included top-four finishes for both a new look second team in the Team Trophy and first team captain Bilal Nasim in the Individual Championship.

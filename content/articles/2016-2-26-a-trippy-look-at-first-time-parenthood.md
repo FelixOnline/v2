@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261158-felix-night.jpg"
-image_caption: >
-
-image_attribution: "Bill Knight"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261158-felix-night.jpg"
+image_caption: ""
 ---
 
 I read Nina Segal’s  script for in “In the Night Time” in a mad, streaming rush, coffee on fingertips on pages in the dregs of whisky and sleep. It deserved every one of my 5am minutes, and more.

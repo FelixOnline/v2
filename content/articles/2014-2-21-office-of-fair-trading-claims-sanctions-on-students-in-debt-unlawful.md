@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After analysing the terms and conditions of over 100 UK Higher Education Institutions, the Office of Fair Trading (OFT) concluded that almost 75% included sections that could stop students graduating or progressing to the next year of study if they were in debt to their institution.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
-image_caption: >
-  A stained glass window of primes. Pretty if nothing else...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
+image_caption: ""
 ---
 
 Mathematicians from the US, Hungary and Turkey just might be one step closer towards the impossible. One of the greatest problems in number theory is determining whether the number of prime tuples, prime numbers which lie very close to each other, is infinite. In short, “are there an infinite number of prime tuples which lie next to each other?”

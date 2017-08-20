@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College London announced Sarah Porter Waterbury as its very first Vice President (Advancement) on 27th January. The new role, which she will take up in April this year, sees Mrs Waterbury in charge of all things encompassing alumni relations, events and development.

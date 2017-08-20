@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
+image_caption: ""
 ---
 
 By now, you might’ve heard the news about the Italian scientists that were found guilty of failing to warn the populace of the earthquake that devastated the region of Abruzzo three years ago. The Grandi Rischi (Great Risks) is a commission of experts on calamities whose purpose is to monitor the likelihood of such catastrophes happening, and to advise on how to avoid them or mitigate their effects; according to the judges, they failed to predict the earthquake and therefore are at least partly responsible for the over 300 deaths, thousands of wounded and tens of thousands of evacuees.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031707-felix-16102649867_82aee2042a_o.jpg"
-image_caption: >
-
-image_attribution: "Mosaic Marketing"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031707-felix-16102649867_82aee2042a_o.jpg"
+image_caption: ""
 ---
 
 Among other smaller, less internationally important incidents, it seems to me that 2016 will be remembered primarily as the year that the BBC lost the Great British Bake Off to Channel 4.

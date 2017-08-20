@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242113-mc4509-screenshot_20120913_01.jpg"
-image_caption: >
-  Now that’s just cheating
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242113-mc4509-screenshot_20120913_01.jpg"
+image_caption: ""
 ---
 
 Hah – you thought that you would escape my zombie fanaticissm this week, but you haven’t! This week’s selection is [Zombie Driver](http://www.youtube.com/watch?v=jzWYxZLZWOE), the spiritual sequel to Zombie Chauffeur, the game adaptation of the BAFTA winning Driving Miss Zombie.

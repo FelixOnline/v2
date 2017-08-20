@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You can’t deny that the Union isn’t carefully considering the financial onset of this year’s Summer Ball. Regrettable as the cancellation of the on-campus Formal Dinner was to those preparing their own formal attire, the decision will not have an impact on the financial success of the event, with the tickets having been sold at cost price.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171945-ks607-martinmi.jpg"
-image_caption: >
-
-image_attribution: "Marie Chkaiban"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171945-ks607-martinmi.jpg"
+image_caption: ""
 ---
 
 A few weeks ago, [many people were saddened](http://www2.imperial.ac.uk/blog/reporter/2011/02/03/tribute-to-martin/) to hear that Martin Milligan, who many knew as the man who sold the Big Issue in the South Kensington pedestrian tunnel, had passed away.

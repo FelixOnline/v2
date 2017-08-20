@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231251-ygr12-beachhouse.jpg"
-image_caption: >
-  Dolls aren’t only for girls - fuck gender stereotypes
-image_attribution: "Bella Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231251-ygr12-beachhouse.jpg"
+image_caption: ""
 ---
 
 It’s rare to see bands produce such consistently great music, and the few that do offer substantial evolution of their sound over time. Beach House, on the other hand, have released six albums that all sound very similar, each a slight refinement of the one before. Thank Your Lucky Stars is no different in this respect; it’s a continuation of their sound that presents the dream-poppers at their best.

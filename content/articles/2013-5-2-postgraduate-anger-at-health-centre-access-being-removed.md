@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021450-tna08-screen-shot-2013-05-02-at-14.49.58.png"
-image_caption: >
-  The Health Centre website, with the message to students
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021450-tna08-screen-shot-2013-05-02-at-14.49.58.png"
+image_caption: ""
 ---
 
 Imperial College Health Centre will no longer be letting postgraduate students use their services if they live outside of the registration area. Imperial College Union informed the postgraduate students of the change via email, which prompted over 200 replies mostly stating anger and upset at the situation.

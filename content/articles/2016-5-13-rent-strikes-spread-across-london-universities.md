@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605211250-felix-cut.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605211250-felix-cut.jpg"
+image_caption: ""
 ---
 
 Students from Goldsmiths, Roehampton and the Courtauld Institute have joined UCL in a rent strike, protesting the high fees and low quality housing offered by their universities. It’s been estimated that this amounts to about £1 million’s worth of lost revenue from all the students combined.

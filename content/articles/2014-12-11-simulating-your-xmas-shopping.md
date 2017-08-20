@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Recently I was sitting in the _Felix_ office absentmindedly jingling the bells (I know sad, right?), when a fellow section editor sent me the link to the game _Christmas Shopping Simulator_. This immediately gave me purpose in life, and faster than a elf can wrap a present I had clicked on the link to the merriment. What I found there was about as much fun as a sack of coal.

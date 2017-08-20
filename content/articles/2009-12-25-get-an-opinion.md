@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Watching interviews from the 60s and 70s, is an odd experience. I saw some with John Lennon on YouTube the other day, in which he wasn’t being a grinning media-trained robot. He was joking about, with his style of surrealist humour, and generally being relaxed. If someone did that now, there would be stories all over the place saying they gave an ‘erratic’ interview. Watch several interviews and you realise he was doing something that nowadays seems far too terrifying to us – he was being himself.

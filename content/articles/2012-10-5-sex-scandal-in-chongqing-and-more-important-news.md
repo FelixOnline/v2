@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051404-felix-gu-kailai-3.jpg"
-image_caption: >
-  Gu Kailai at her trial
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051404-felix-gu-kailai-3.jpg"
+image_caption: ""
 ---
 
 China is one of the largest and fastest growing economies in the world and (to an extent) the country that gave us Jacqui Chan (I’m totally going to watch Rush Hour now – Tim). At a time when the rest of the world, especially the Eurozone, is turning towards China to solve their (money) problems, China is having its own little personal troubles. The year 2012 is proving to be rich in political gossip.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112048-ks607-baseball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112048-ks607-baseball.jpg"
+image_caption: ""
 ---
 
 Last weekend, the [Imperial College Baseball Club](http://www.union.ic.ac.uk/acc/baseball/) played in its biggest tournament of the year, the [British University Baseball Association](http://www.unibaseball.co.uk/) (BUBA) Fall Cup, featuring the top six university baseball teams battling for the right to be called the best in the country. This was Imperial’s first Fall Cup, having earned an automatic spot by winning the Southern League last year. The Falcons travelled to Herts Hertfordshire team grounds in Hemel Hempstead on Saturday the 30th of October. We were prepared for a long day of baseball, with the bulk of the round robin stage taking place on Saturday. The top two teams would face off in the Sunday afternoon Fall Cup final, while the 3rd and 4th place teams would battle for the Fall Shield.

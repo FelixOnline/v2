@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The government has delayed the publication of its plans to reform universities after it discovered that it was unable to stop universities charging the £9,000 maximum rate of tuition fees. The Times Higher Education (THE) [revealed that ministers mistakenly believed](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=415292&c=1) the Office for Fair Access (Offa) could “impose” rates of tuition fees on universities. The government is now struggling to regain control and prevent universities from charging the highest rate of tuition fees. Greater competition is the government’s new strategy to regulate fees, with caps on student places being lifted and public loans being extended to students studying at private higher education institutions.

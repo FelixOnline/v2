@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292304-csw09-up-in-the-air.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292304-csw09-up-in-the-air.jpg"
+image_caption: ""
 ---
 
 Jason Reitman’s third directorial effort (after Thank you for Smoking and my ever-favourite Juno) establishes him as one of Hollywood’s talents and also creates another nepotism case (his father is director Ivan Reitman, of Ghostbusters and Dave fame, who also serves as producer for this movie). He tells the story of Ryan Bingham (George Clooney), a successful corporate downizer and a motivational speaker – who motivates people to live their life independent from relationships, a lifestyle he enjoys to practice. Willingly alienated, Ryan’s biggest ambition is to reach his 10,000,000 air miles goal. In one of his stops he meets Alex (Vera Farmiga) an equally cynical and attractive woman, with whom he creates a “no strings attached” relationship, something – initally – ideal for him.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412111956-cj914-grouptall.png"
-image_caption: >
-  This year's sabbatical officers: Pascal Loose (DPE), Tom Wheeler (President), Abi de Bruin (DPCS), A
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412111956-cj914-grouptall.png"
+image_caption: ""
 ---
 
 Imperial College Union is vast. It has 344 different societies, and every year they collectively turn over £2 million. The entire Union turns over £7 million. There are 3000 different society committee positions and 40% of undergraduate students are a member of at least one club or society.

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Every time there’s a terrorist attack, the more skittish of my friends set about panicking. Marking themselves safe on Facebook, making dramatic social media posts, and generally creating the hysteria and alarm that follows a terrorist attack.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031938-ams111-snow-crash.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031938-ams111-snow-crash.jpg"
+image_caption: ""
 ---
 
 My friend read this and raved about it to me. Quickly sold (mainly by the main character’s name, Hiro Protagonist), I vowed I’d read it as soon as I could. That was in high school. Some ten years later, I’ve finally got around to it.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021451-felix-Screen Shot 2017-06-02 at 14.51.17.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021451-felix-Screen Shot 2017-06-02 at 14.51.17.png"
+image_caption: ""
 ---
 
 As we move, it seems inevitably, towards a Theresa May-led government, let's take a moment to think about the fallout for the political landscape of the future. Leaving aside the speculations as to the potential success of Mrs. May as future PM, consider what will be left wilting on the opposite benches of the House: a decrepit, highly unconvincing, and functionally incapable opposition. If we're lucky, and the gods of political amusement are smiling upon us, this could be spearheaded by Tim Farron, backed mightily by his four fellow Lib Dem MPs, but, then again, we might see him pipped to the post by the fish finger running against him in his constituency (true story). What is inevitable, however, is that whatever opposition we may have in the Commons, it will be an embarrassment, which will negatively affect all voters, whether the blood that runs in their veins is blue, red, orange or green.

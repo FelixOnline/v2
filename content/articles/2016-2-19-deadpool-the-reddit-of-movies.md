@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191140-felix-deadpool-movie-image-reynolds.jpg"
-image_caption: >
-  Ryan Reynolds as wise-cracking, fourth-wall-breaking, uninspiring Deadpool
-image_attribution: "20th Century Fox"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191140-felix-deadpool-movie-image-reynolds.jpg"
+image_caption: ""
 ---
 
 Critics have been predicting comic book movie fatigue ever since Marvel’s _The Avengers_ back in 2012, yet audiences are turning out in droves to increasingly stale comic based blockbusters.

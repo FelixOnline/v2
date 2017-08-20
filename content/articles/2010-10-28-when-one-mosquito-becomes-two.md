@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282015-ks607-mosquito.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282015-ks607-mosquito.jpg"
+image_caption: ""
 ---
 
 A new study from Imperial College London has suggested that, in our race to battle malaria, a new threat has emerged.

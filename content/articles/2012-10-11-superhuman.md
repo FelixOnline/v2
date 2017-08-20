@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
-image_caption: >
-  My caption-writing skills have finally been rendered useless
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
+image_caption: ""
 ---
 
 What do dildos, wheelchairs and steroids have in common? There are probably only two places in London you will find these three things in conjunction. One of them is not suitable for a family newspaper, the second is the Wellcome Collection. In the latter case their justification for sharing a room is their function as devices with which humans have tried to improve, repair or augment their bodies. This is a theme that should excite scientists and artists and equal measure.

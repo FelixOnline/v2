@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
+image_caption: ""
 ---
 
 I started this column last year but any recent input has been massively lacking. The feature started off highlighting electronic music labels that were either doing big things at that time or labels that should just be known due to their impact on music. I suppose this one falls into both categories.

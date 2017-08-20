@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
-image_caption: >
-  Some pretty chill guys
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
+image_caption: ""
 ---
 
 The Imperial Devils ice hockey team clinched the inaugural London Ice Varsity title with a 7-3 smashing of the UCL Yetis in a feisty contest that saw the Devils live up to their name, racking up more than a period’s worth of penalty minutes. After a rousing rendition of the national anthem by our resident Canadian operatic Trent Allen, the game started in earnest when barely a minute into play the Devils found themselves on the penalty kill (PK) after Rich Barlow threw a robust hit that sent the UCL player into the boards but was deemed interference.

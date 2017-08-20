@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021443-felix-18518019_1290491971019297_1314277974552387098_o.jpg"
-image_caption: >
-  Most of the award winners were from the Faculty of Engineering
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021443-felix-18518019_1290491971019297_1314277974552387098_o.jpg"
+image_caption: ""
 ---
 
 The Union honoured Imperial staff last week at the annual Student Academic Choice Awards (SACAs for short) after sifting through a record breaking 831 nominations. The ceremony saw eight humans of Imperial getting recognised for their contributions in teaching.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101206-felix-3438033141_b2dda9b651_o.jpg"
-image_caption: >
-
-image_attribution: "adifansnet"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101206-felix-3438033141_b2dda9b651_o.jpg"
+image_caption: ""
 ---
 
 ## 1

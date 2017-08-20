@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260400-tna08-swimmy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260400-tna08-swimmy.jpg"
+image_caption: ""
 ---
 
 On Saturday the Imperial swimming team travelled to Cambridge to take part in the first gala of the year, and it was a good meet but was not without hitches. Our captain, after telling us which trains to book, booked hers for half an hour later, and when we did arrive in Cambridge Tom Trimnell assured us he knew how to getto the pool so we started walking. We took the scenic route round the outskirts of Cambridge and an hour later, we arrived at the pool. After our little adventure round Cambridge we didn’t need to warm up and so the competition began.

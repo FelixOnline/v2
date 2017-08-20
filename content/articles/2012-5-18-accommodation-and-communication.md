@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Last week](http://felixonline.co.uk/comment/2440/league-table-woes-not-a-problem/) Felix commented that it could be worthwhile to focus on improving the 'student experience' from within rather than from focusing on comparison with other universities. If anything, [it has emerged](http://felixonline.co.uk/news/2454/hall-senior-prospects-in-doubt/) that focusing internally would indeed be beneficial regarding the current Wilson House hall senior situation.

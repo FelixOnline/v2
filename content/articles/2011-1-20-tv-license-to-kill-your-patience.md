@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The television licensing people and I are playing a game. The rules of the game are pretty simple. The first player – that’s me – abides by all known laws this side of the Mars–Jupiter asteroid belt. The second player – Grand Duke John Hales of the London South West Enforcement Division – simply has to send a letter to me every month asking if I’ve broken any laws yet. Simple game.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101622-felix-IMG_0736.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101622-felix-IMG_0736.jpg"
+image_caption: ""
 ---
 
 You should never make a comment about a restaurant before you’ve tried it.”

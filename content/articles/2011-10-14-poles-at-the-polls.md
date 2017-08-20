@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110141122-felix-4c75738e07c92_o.jpg"
-image_caption: >
-  10.2%! It brings a tear to my eye. Where's my hanky?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110141122-felix-4c75738e07c92_o.jpg"
+image_caption: ""
 ---
 
 A radical libertarian party could hold the key to power in Poland after Sunday, when the EU’s sixth largest economy and only country to not contract in 2009 held parliamentary elections. Unsurprisingly, the incumbent centrist PM came out on top; Donald Tusk’s Civic Platform won 39.2% – a slight decline from the 41.5% gained in 2007. The main opposition, the right wing Law and Justice, gained 29.9% – also a small reduction from 32.1% in 2007. However, the newly formed breakaway from Tusk’s party, Palikot’s Movement, gained support from 10.2% of Poland (including myself), making it the third most popular party.

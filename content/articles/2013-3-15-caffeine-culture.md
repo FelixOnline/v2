@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150310-tna08-stock__coffee_beans_by_unamanic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150310-tna08-stock__coffee_beans_by_unamanic.jpg"
+image_caption: ""
 ---
 
 There are prices you pay for obsessions, and mine is a small, daily coronary. This occurs at some point between the hours of 10.40 and 11.30am and, like most heart conditions, is usually triggered by anxiety, stress and/or over-indulgence.

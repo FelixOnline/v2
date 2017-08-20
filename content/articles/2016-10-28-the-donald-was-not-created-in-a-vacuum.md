@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
-image_caption: >
-
-image_attribution: "Gage Skidmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
+image_caption: ""
 ---
 
 Donald Trump is, as a bullyish toddler of a man, a hugely amusing individual. Except, perhaps, to those in the US whose lives may be a little more impacted by his caricature lunacy.

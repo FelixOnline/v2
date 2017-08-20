@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182244-felix-01139_afr_view2_dusk_2011-12-12_a_fullsize.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182244-felix-01139_afr_view2_dusk_2011-12-12_a_fullsize.jpg"
+image_caption: ""
 ---
 
 Further development of the new Imperial West campus in White City is set to move forward following the recent granting of planning permission by local authorities. Zoe Mulholland, programme manager for the project, said that “she can confirm that Hammersmith and Fulham Council granted permission on 25 July 2012. due to the scale and nature of the scheme it was referred to the GLA [Greater London Authority] for their approval which was given on 20 September 2012.”

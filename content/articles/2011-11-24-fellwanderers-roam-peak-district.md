@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242258-pk1811-ds_20111112_125934_9407.jpg"
-image_caption: >
-  Fellwanderers hire a fleet of paragliders to ensure the best possible photo opportunity
-image_attribution: "David Sutanto"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242258-pk1811-ds_20111112_125934_9407.jpg"
+image_caption: ""
 ---
 
 5.30pm on Friday evening. The first fellwanderers made their way to the Union, eager to leave London after a hard week of work. We quickly gathered together, packing out two buses, and excitedly awaited our trip.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The fact that the majority of gamers are male is hardly a controversial statement. It’s almost tautological. Guys like games, girls don’t. Yet, fundamentally, I don’t see why one’s fondness of gaming should be so dominated by a person’s sex. Games are, at their most basic level, just interactive media. When you think about games a bit more you can see why they’re so male dominated; you can see why I spent a lot of my childhood playing on my Sega Megadrive and my sisters didn’t. Maybe it’s some ingrained gender pigeon-holing but little boys seem to prefer playing with toy soldiers, whilst little girls end up playing with dolls. When you look at the majority of games out there they generally seem to involve shooting and killing stuff and I guess that’s more appealing to a 7 year old boy than a 7 year old girl.

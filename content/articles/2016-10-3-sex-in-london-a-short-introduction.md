@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610032238-felix-Screen Shot 2016-10-03 at 22.38.00.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610032238-felix-Screen Shot 2016-10-03 at 22.38.00.png"
+image_caption: ""
 ---
 
 You moved to London! Wooh! Soon you’ll realise that this city is split into various different areas, each with it’s own set of tribes, social hot spots and cultural practices. Speaking of cultural practices, there are certainly sex things that are more likely to occur in some places rather than others. Here’s a guide that may or may not be based on real life experiences.

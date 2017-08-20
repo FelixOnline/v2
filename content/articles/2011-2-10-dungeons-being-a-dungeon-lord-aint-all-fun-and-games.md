@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102037-ks607-someothe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102037-ks607-someothe.jpg"
+image_caption: ""
 ---
 
 Dungeons, the sequel to the 90’s classic [Dungeon Keeper](http://en.wikipedia.org/wiki/Dungeon_Keeper), is a sim-management game that sets the player as a Dungeon Lord who must design their foul, evil cave of despair to entince in heroes... before brutally murdering them at their peak to steal their ‘soul energy’. The idea is basic enough; your dungeon is made more tempting by artefacts, monsters and traps. In order to buy more of these you must harvest more and more soul energy from captured heroes.

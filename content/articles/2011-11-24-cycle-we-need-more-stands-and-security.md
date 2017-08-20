@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242254-pk1811-img_7517.jpg"
-image_caption: >
-
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242254-pk1811-img_7517.jpg"
+image_caption: ""
 ---
 
 Bikes are great, but getting your bike stolen isn’t. Pretty simple stuff, but at Imperial an average of two bikes per day are stolen. Now I’m sure that some of them are down to the individual, but I think a big part is the facilities and security available at Imperial. That’s why the Bike Users Group has started up a petition for an increased amount of stands and an overview of security for bike parking.

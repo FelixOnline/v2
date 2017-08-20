@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105261949-felix-mg_0289.jpg"
-image_caption: >
-
-image_attribution: "Ralph Hodgson/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105261949-felix-mg_0289.jpg"
+image_caption: ""
 ---
 
 The current two-hour lunch break could be abolished to allow departments more flexibility in scheduling classes, according to proposals from the College Day Working Party. The Chair of the working party, Professor Dorothy Griffiths, said that departments would still be expected to schedule a one-hour lunch break.

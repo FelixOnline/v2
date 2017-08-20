@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131447-ygr12-bollywood.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131447-ygr12-bollywood.jpg"
+image_caption: ""
 ---
 
 Just Bollywood – the nationwide fusion-dance competition organised by IndianSoc, is back!

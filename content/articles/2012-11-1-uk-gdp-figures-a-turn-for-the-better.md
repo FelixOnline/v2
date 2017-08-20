@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week, the Office for National Statistics released their first estimate for the economic growth of the UK economy in the months of July, August and September, known as the third quarter. Somewhat unexpectedly, a 1% rise in the GDP of the country was announced. Given the excuses given by the Chancellor, George Osborne, for previous falls ranging from the weather to the royal wedding, using the Olympics as a reason for growth does not seem so far fetched.

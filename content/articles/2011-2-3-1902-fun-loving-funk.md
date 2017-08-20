@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031912-nm1010-19002222.jpg"
-image_caption: >
-
-image_attribution: "Luke Tomlin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031912-nm1010-19002222.jpg"
+image_caption: ""
 ---
 
 Some people take music way too seriously. Praise Jeebus then for bands like [The Eleven 37s](http://www.theeleven37s.com/). Mixing the fun vibes of funk with the raw energy of rock, they play party music of the best breed, sure to get you dancing and leaving you with a smile on your face.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161306-ps3110-10007506_614561735278994_1607643032_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161306-ps3110-10007506_614561735278994_1607643032_n.jpg"
+image_caption: ""
 ---
 
 Plans have been announced to change election regulations for clubs that have more than 150 members. Under the changes, clubs that hit the criteria would have to hold their committee elections as part of the Big Elections. Despite this, voting would still only be available for members of that society.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
-image_caption: >
-
-image_attribution: "IC Waterpolo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
+image_caption: ""
 ---
 
 After securing 4th place in the Premier South division, a home draw against Northumbria awaited the Imperial College Men’s waterpolo team in the first cup round of BUCS on Wednesday. With a number of starting players missing, things were not looking good, and early in the week they quickly got a lot worse. Problems with pool bookings left the team with nowhere to play the match and at risk of conceding a walkover.

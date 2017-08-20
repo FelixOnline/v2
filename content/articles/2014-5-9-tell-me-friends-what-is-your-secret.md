@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090301-jal08-feat_secret_ring.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090301-jal08-feat_secret_ring.png"
+image_caption: ""
 ---
 
 It’s often said that in the Internet Age there is no more anonymity but this is only half true. Yes, thanks to Facebook I’ll know that the girl from my old English class in Year 12 has just broken up with her boyfriend and is playing Taylor Swift on a tear-filled triumphant loop on Spotify but the internet has also opened up so many ways to be completely expressive and yet completely anonymous. Take Twitter. While my own handle is @roryfenton (Hint: follow me. I’m lonely), many of the people I follow use anonymous accounts. @LetterOfNote shares interesting letters written by famous and not-so-famous hands. @IAM\_SHAKESPEARE (“Willy Shakes”) fills my timeline with accidental innuendos from Shakespeare’s plays (today’s include “His youthful hose, well sav’d, a world too wide” from As You Like It). These don’t, however, represent the bulk of anonymous tweeters. Less interesting or humorous are the countless accounts set up to anonymously abuse other Twitter users. When you see someone like Lenny Henry told to “EFF OFF BACK TO *insert misspelt African country*”, there’s a good chance that was sent from an anonymous account, possibly set up just to send that tweet. To exaggerate a little, it seems we’re stuck with either arseholery on anonymous Twitter or Too Much Information on nonymous Facebook. Yes I made the word “nonymous” up.

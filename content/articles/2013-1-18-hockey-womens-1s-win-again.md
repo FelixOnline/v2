@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180100-tna08-ce.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180100-tna08-ce.jpg"
+image_caption: ""
 ---
 
 For the first match this year it was definitely thermal weather as the Ladies’ 1s went out to play RUMS in the arctic conditions found at Harlington, on a pitch that was nearly frozen, although this didn’t put a damper on our spirits. We were out to get them, as earlier in theseason they had beaten us by a fair few goals to very few in return.

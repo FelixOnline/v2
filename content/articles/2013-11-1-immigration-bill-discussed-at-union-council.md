@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010940-felix-icu-council.jpg"
-image_caption: >
-  Imperial College Union
-image_attribution: "Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010940-felix-icu-council.jpg"
+image_caption: ""
 ---
 
 The second meeting of the Union Council was held on Tuesday, October 29. The main issue of discussion was the Union’s response to the government’s Immigration Bill 2013-2014. Proposed by Home Secretary Theresa May on October 10 the Bill had its second reading on October 22 and is expected to pass through parliament and receive royal assent early next spring. The Bill is of potential concern to international students since it would require them to pay a minimum fee of £200 a year to use non-emergency NHS services and would place a legal obligation on landlords to check the immigration status of their tenents – potentially biasing them against international students.

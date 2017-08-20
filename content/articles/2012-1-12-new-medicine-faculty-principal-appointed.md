@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122236-felix-prof-kelleher.jpg"
-image_caption: >
-  Professor Dermot Kelleher
-image_attribution: "Trinity College Dublin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122236-felix-prof-kelleher.jpg"
+image_caption: ""
 ---
 
 [Professor Dermot Kelleher](http://www.tcd.ie/IMM/translational_bioscience_2003_2008/prof_kelleher.php) has been appointed Principal of the Faculty of Medicine. The Vice-Provost for Medical Affairs and Head of the School of Medicine at Trinity College Dublin since 2006, Professor Kelleher is to take up the role on October 1 2012.

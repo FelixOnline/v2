@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312333-tna08-composite_earth1_red.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312333-tna08-composite_earth1_red.jpg"
+image_caption: ""
 ---
 
 The enormous fusion furnace at the centre of our solar system has been continually belting out light and heat for the past 4.6 billion years since its formation. From the distance the Earth lies from the sun, the solar rays are strong enough to warm the atmosphere to around 20-30°C. The sun’s surface is understandably hotter – with measurements around the 6000°C mark. But one question which has had solar physicists baffled is that its corona – the particulate layer above the surface – has temperatures measuring up to 4,000,000°C. So where’s all this extra heat coming from?

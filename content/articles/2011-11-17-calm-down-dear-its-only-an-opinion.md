@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
+image_caption: ""
 ---
 
 Silvio Berlusconi has proved himself a great salesman and a poor statesman. Sounds good, doesn’t it? Has a certain panache. The only thing is, I didn’t come up with it. The succinct, elegant sentence was written by Beppe Severgnini, the reputable Italian political commentator, in a [recent Financial Times column](http://www.ft.com/cms/s/0/5054b196-0c9c-11e1-a45b-00144feabdc0.html#axzz1e0GhdDEz). My opinions on Berlusconi’s reign as Prime Minister of the eurozone’s third largest economy are limited to what I have read in national media; I have never met an Italian politician, let alone voted in an Italian election. And herein lies the problem with student opinion pieces: they cannot be more than a regurgitation of other, professional, columnist’s original thoughts.

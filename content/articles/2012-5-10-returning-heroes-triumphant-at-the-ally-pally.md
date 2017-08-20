@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This was my first time at the epic venue which is Alexandra Palace and I was not disappointed. With support from __Rae Morris__ and __Lianne la Havves__, the evening had a solid start but it was the first few songs of __Bombay Bicycle Club__’s set that really kicked the show into gear.

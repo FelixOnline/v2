@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022152-ks607-vincecab.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022152-ks607-vincecab.jpg"
+image_caption: ""
 ---
 
 The latest higher education reforms have not been without significant resistance from many, with one of the key issues being the fear of significant debt following a proposed increase in tuition fees. Current graduates are no strangers to debt, with many owing several thousand pounds following their degree. Felix sought to discover just how dramatically the current system affects graduates and whether they themselves approve of the impending changes or stand against them.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
+image_caption: ""
 ---
 
 __Bernadett: Where are you from and do you think it affected your outlook of Imperial?__

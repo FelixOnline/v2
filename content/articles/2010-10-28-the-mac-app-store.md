@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
+image_caption: ""
 ---
 
 The iOS App Store: over 250,000 apps and more than 6.5 billion downloads onto 120 million iPads, iPhones and iPod touches, which are themselves growing, at a rate of 230,000 devices per day.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
-image_caption: >
-  New research from a team of scientists, involving some from Imperial College London, suggests that a Western diet, high in protein and fat, can lead to an increased risk of colon cancer compared to one high in starch
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
+image_caption: ""
 ---
 
 Those late night burgers and sloppy kebabs may be doing far more dangerous things to your body than just expanding your waistline, research from Imperial suggests. A diet swap between American and African volunteers has indicated that one nation’s dietary habits leads to a greater risk of getting colon cancer.

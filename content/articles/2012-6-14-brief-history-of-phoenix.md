@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142204-pk1811-phoenix1.png"
-image_caption: >
-  Front cover Phoenix Vol XVII
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142204-pk1811-phoenix1.png"
+image_caption: ""
 ---
 
 In the 125 years since its inception Phoenix has changed its name, format and remit. In fact, in almost every way this issue would be completely alien (aliens being something of a preoccupation) to the man who founded the magazine in 1887. However it is just possible to trace a thread of continuity all the way back to the great founder himself, Herbert G. Wells.

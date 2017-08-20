@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112039-cj914-mount_storm_power_plant,_areial2-copy.jpg"
-image_caption: >
-
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112039-cj914-mount_storm_power_plant,_areial2-copy.jpg"
+image_caption: ""
 ---
 
 On 12th November, the US and China announced a historic bilateral agreement to reduce greenhouse gas (GHG) emissions amounting to a 26-28% reduction by 2025 (from a 2005 base) for the US and a peak in emissions in 2030 at the latest for China. Whilst the implications for the Paris Summit in 2015 seem positive, there are still question marks over how the US and China will actually achieve these new targets, or indeed, if they can be seen as achievements in the first place.

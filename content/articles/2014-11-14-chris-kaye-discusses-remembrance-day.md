@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411141954-ps3110-l0l.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411141954-ps3110-l0l.jpg"
+image_caption: ""
 ---
 
 This week I had the honour of laying a wreath, on behalf of the Students of Imperial College, to those staff and students who paid the Ultimate sacrifice in service during the First and Second World Wars. The moving ceremony was held in the foyer of the City & Guilds Building and was led by the College Chaplain with a reading from the College Archivist.

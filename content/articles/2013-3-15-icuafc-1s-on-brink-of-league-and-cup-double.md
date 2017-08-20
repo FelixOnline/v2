@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150204-tna08-footy1sforreals.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150204-tna08-footy1sforreals.png"
+image_caption: ""
 ---
 
 After a long season, ICUAFC 1s were hoping to follow in the footsteps of Dante emerging from the Inferno and Purgatory into the long awaited Heaven (minus a Roman poet as a guide and lasting considerably longer than 66 Cantos). The week beginning 25th February was the definition of make or break, with matches against Hertfordshire 2s—placed 2nd in BUCS—and a LUSL cup semi-final against Kings Medic 2s (GKT [TK MAXX]).

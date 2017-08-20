@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104251816-felix-profilepic.jpg"
-image_caption: >
-  The photo used as a profile picture for 'Demi Atkinson'
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104251816-felix-profilepic.jpg"
+image_caption: ""
 ---
 
 With her big bright eyes, a selfless desire to help those in need, and an unrivalled passion for the sounds of obscure bands you’d have to Google just to maintain conversation, Demi Atkinson certainly ticked all the boxes. And to your average Imperial fresher, confined to our beloved South Ken bubble with a less-than-ideal male to female ratio, perfect she did seem.

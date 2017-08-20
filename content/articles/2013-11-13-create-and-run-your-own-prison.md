@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311132300-me1711-games_pa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311132300-me1711-games_pa.jpg"
+image_caption: ""
 ---
 
 The Felix games team were kindly given a copy of Prison Architect by Introversion. In this game you act as an architect and overseer of a Prison. You get to hire staff, build the prison, and then watch over as you gain more prisoners make money and expand. Many, many hours and just as many failed Prisons later I am ready to tell you just why you should buy this game.

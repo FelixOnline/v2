@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
-image_caption: >
-  Stephen Richardson, Deputy Rector of Imperial College London
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
+image_caption: ""
 ---
 
 The Imperial College Union Awards Ceremony was held yesterday (Thursday June 13). The Awards Committee chose the winners and Union Council unanimously upheld the decision.

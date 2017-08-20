@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611120957-ff712-TDU sandwich - Will Sharpe.jpeg"
-image_caption: >
-  Will Sharpe as Zac in The Darkest Universe
-image_attribution: "The Darkest Universe PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611120957-ff712-TDU sandwich - Will Sharpe.jpeg"
+image_caption: ""
 ---
 
 Tom Kingsley and Will Sharpe follow up their delightfully-dark 2011 debut _Black Pond_ with _The Darkest Universe_, a film that serves as both a subtle reminder about the intimacy of family relations and a stunning advertisement for the UK’s canal network.

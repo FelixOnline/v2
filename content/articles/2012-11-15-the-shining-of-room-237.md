@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152149-tna08-the-shining-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152149-tna08-the-shining-1.jpg"
+image_caption: ""
 ---
 
 The image of Jack Nicholson leering out from a hole in a door, his teeth bared and his eyes manic, has gone down as one of cinema’s most iconic images. It perfectly conveys the unsettling atmosphere which Stanley Kubrick conjures up in his 1980 film The Shining. The film has become ingrained in our culture, and is often used as a benchmark against which all other horror films can be compared. However, this has not always been the case; upon release it received a luke-warm response, with critics calling it “an overreaching, multi-levelled botch” and describing Shelley Duvall’s character as a “simpering, semi-retarded hysteric”. How things change. Today The Shining is widely recognized as one of the greatest horror films of all time, and has been established as a modern classic of cinema. Last week saw the UK premier of the US extended edition, which has never been shown here before and includes an extra half hour of footage, meaning everyone now has the chance to see this masterpiece on the big screen.

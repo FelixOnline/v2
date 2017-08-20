@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
-image_caption: >
-
-image_attribution: "Felix / Joe Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
+image_caption: ""
 ---
 
 “The regime at ICL [Imperial College London] clearly fell short of the standard required by the Animals (Scientific Procedures) Act 1986 (ASPA)” according to yesterday’s report by the government’s Animals in Science Committee (ASC).

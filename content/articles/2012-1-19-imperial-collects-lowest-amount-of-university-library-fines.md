@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192259-felix-dsc_6608.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192259-felix-dsc_6608.jpg"
+image_caption: ""
 ---
 
 Imperial College London are bottom of a league table. Luckily, this is a list of the amount of money raised from library fines. Only £26,703 was collected in fines in the period between the 2005/2006 academic year and now. As all students know, if you don’t pay your fines, you aren’t allowed to use the library. It’s hard to speculate, but maybe the thought of being barred from the library is so unnerving that Imperial students promptly return their books.

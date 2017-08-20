@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Well here we are. Nearly 30 issues later and we have come to the end. It’s pretty emotional really. I’ve invested an entire year of my life into this newspaper and I’m not sure what I can say that will do justice to how strange this feels. I will say that I hope you have enjoyed this year of Felix. I hope you have laughed, learnt, been shocked, been happy, and all feelings in between, while you casually flick through these pages on a Friday. I would first of all like to thank everyone involved in the production of the paper, especially the editorial team. Thanks for putting up with me for a year! Now, most importantly, I would like to thank you, the reader. You see, you are the lifeblood of this newspaper. You are what makes it great, not me. This paper would be nothing without you; it would be words whispered into the wind.

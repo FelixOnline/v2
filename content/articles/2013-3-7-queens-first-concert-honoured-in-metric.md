@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072339-tna08-img_7605.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072339-tna08-img_7605.jpg"
+image_caption: ""
 ---
 
 Brian May and Roger Taylor from Queen were at Imperial in Metric on Tuesday 5 March to unveil a plaque commemorating their first public performance, which took place in the Union Concert Hall.

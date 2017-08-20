@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181702-felix-snowsports 1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181702-felix-snowsports 1.jpg"
+image_caption: ""
 ---
 
 Something big went down this weekend: 25 of Imperial Snowsports’ finest and loosest made the annual pilgrimage to BUDS, a massive national snowsports competition just outside Edinburgh. To put it simply, it was seriously incredible.

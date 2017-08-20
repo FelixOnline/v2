@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051650-felix-hammersmith_hospital.jpg"
-image_caption: >
-  Imperial College Health Care Trust operates hospitals including Hammersmith
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051650-felix-hammersmith_hospital.jpg"
+image_caption: ""
 ---
 
 Record keeping problems at the Imperial College Healthcare Trust — which runs five London hospitals and is the largest NHS Trust in England — have led to long delays for critically ill patients. 900 patient records were found to be incomplete while over 3500 people had to wait longer than the 18 week target for operations and many more, including cancer patients, received vital test results late.

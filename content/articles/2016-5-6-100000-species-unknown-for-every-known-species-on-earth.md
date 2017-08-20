@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
-image_caption: >
-  With over 200 genera they still only represent a fraction of Earth’s diversity.
-image_attribution: "Picturepest"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
+image_caption: ""
 ---
 
 Researchers from the IU Bloomington College of Arts and Sciences believe there could be around a trillion species inhabiting our humble planet, one hundred thousand times more than the species we currently know of. Of course, the vast majority of these undiscovered species are microbes, still this new estimate tremendously broadens our understanding of Earth’s biodiversity.

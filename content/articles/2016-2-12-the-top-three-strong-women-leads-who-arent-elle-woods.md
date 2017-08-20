@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 _Legally Blonde_ is a decent enough film, and I appreciate the effort of the filmmakers to create a stereotype-defying and intelligent female lead. However, the fact remains that Woods only gets into law school because the admissions officer fancies her, and her big show of intelligence at the end of the film has nothing to do with any knowledge of complex law. I’ll take any of these badasses over Ms. Woods:

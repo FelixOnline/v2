@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
+image_caption: ""
 ---
 
 _I recently got in touch with Cian Walker and Patrick Fennelly of Irish band Dentistry. Their debut last year released on Forwind Records made quite an impression on me and I got a chance to discuss their approach to making music._

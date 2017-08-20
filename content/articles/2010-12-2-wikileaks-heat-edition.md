@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Whether you regard Julian Assange as a [feckless self-aggrandiser](http://www.telegraph.co.uk/news/newstopics/politics/8175921/WikiLeaks-Why-is-Julian-Assange-picking-on-the-United-States.html) or a [champion](http://www.slate.com/id/2276312/) of much needed disclosure, few can dispute that he has a knack for getting attention.

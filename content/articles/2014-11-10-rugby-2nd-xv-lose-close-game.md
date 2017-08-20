@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102205-ps3110-crotch%20stretch%20icurfc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102205-ps3110-crotch%20stretch%20icurfc.jpg"
+image_caption: ""
 ---
 
 Imperial’s 2nd team made the long journey to Kent to play Christchurch Canterbury, looking to rectify last week’s game which by all rights should have been won.

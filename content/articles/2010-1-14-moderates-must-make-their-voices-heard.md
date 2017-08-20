@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
+image_caption: ""
 ---
 
 It’s good to see that all of you have safely made it back to college. Whether by plane, train, sleigh or snowplough, or thanks to having hitched a ride on the back of a frisky reindeer, you’ve finally made it back to the warm embracing arms of college. Some of you have had to fight snow and ice, cancelled flights and endless news reports about snow and ice, while others have had to suffer through heightened security at airports following the attempted terrorism on a flight bound for Detroit on Christmas Day.

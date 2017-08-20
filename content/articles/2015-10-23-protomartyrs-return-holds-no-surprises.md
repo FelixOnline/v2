@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231248-ygr12-witheredoak.jpg"
-image_caption: >
-  A withered oak tree – the only thing that truly understands you.
-image_attribution: "Old Oak School of Dao"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231248-ygr12-witheredoak.jpg"
+image_caption: ""
 ---
 
 Golly gee, am I an angsty emo. The only clothing I own is black. Black like my soul – my heart, which screams constantly in writhing agony about the horrors of the human condition and the bleakness and depravity of our dismal existence. Sometimes, when I’m really moody, I walk to the park and let black mascara be washed down my face by my own salty tears, as I talk to a withered oak tree – “the only thing that understands my suffering.”

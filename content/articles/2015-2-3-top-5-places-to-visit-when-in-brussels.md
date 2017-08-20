@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031412-ps3110-screen-shot-2015-02-03-at-14.11.44.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031412-ps3110-screen-shot-2015-02-03-at-14.11.44.png"
+image_caption: ""
 ---
 
 Only a two hour train ride away is the dazzling city of Brussels, full of gastronomical and architectural treasures. The capital of Belgium is known to be small, but the three days I spent there wasn’t enough to visit everywhere I wanted to – though if you go all out on the transport, you might be more fortunate than me! Here are my top five favourite places – though they are more like a concentrated area of sights – in the historical city:

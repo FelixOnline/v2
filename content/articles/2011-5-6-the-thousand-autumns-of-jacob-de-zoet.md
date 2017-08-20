@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
+image_caption: ""
 ---
 
 One of the joys of reading David Mitchell is the way his intricate prose immerses you into the rich, luxuriant and complex worlds he crafted; his intriguing plots and and ability to get beneath the skin of a diverse cast of characters combinres to create some of the most engrossing read in modern literature.

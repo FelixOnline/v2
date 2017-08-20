@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210121-tna08-man-of-steel-2165999.jpg"
-image_caption: >
-  I’m so pretty
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210121-tna08-man-of-steel-2165999.jpg"
+image_caption: ""
 ---
 
 After the disappointment of Superman Returns that gave very little of what audiences were really looking for, here comes another reboot that starts off a well-known superhero character story from scratch. And here is the kind of loud, bombastic action feature this definitive superhero really deserves.

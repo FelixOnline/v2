@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.26.49.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.26.49.png"
+image_caption: ""
 ---
 
 Protesting was the easy bit. Sorry to break it to you, but the Women’s March was not the finale, it was the opening number, and the rest of the show is no fun at all. I hate to ruin the mood because I was there on Saturday so I understand how intoxicating it can be – screaming “I’m mad as hell and I’m not going to take it anymore” is satisfying, but it doesn’t actually change anything. It’s important to recognise that the fight is only starting because you can’t win fights you aren’t in. So what can we do?

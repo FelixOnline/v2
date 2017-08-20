@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
-image_caption: >
-
-image_attribution: "STAR TRAK, LLC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
+image_caption: ""
 ---
 
 _You know you want it.

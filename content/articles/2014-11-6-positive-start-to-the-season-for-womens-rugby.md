@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
-image_caption: >
-  A good start to the season for the Women's Rugby Team
-image_attribution: "IC Women's Rugby"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061951-cj914-10329043_676863819077942_4752931591311584292_n.jpg"
+image_caption: ""
 ---
 
 With the graduation of so many of our senior girls last year, this season was always going to be about rebuilding and bringing new players into the squad. With that in mind we thought it important to get a new coach. We were pleased that we hired Stewart Mcguire who, with age grade international caps for Wales and Ireland and currently playing for London Scottish, has brought enthusiasm and a lot of fun to training.

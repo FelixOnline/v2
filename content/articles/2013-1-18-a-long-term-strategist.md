@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180005-tna08-debra-at-computer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180005-tna08-debra-at-computer.jpg"
+image_caption: ""
 ---
 
 __Tim Arbabzadah: Does your background help you in your current role? Did you gain – I hate this word – transferrable skills?__

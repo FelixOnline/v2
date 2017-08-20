@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Photons can often be difficult to measure because as soon as they are, they are gone. Most measurement methods require direct absorption, or are in some other way destructive to the nature of the particle. This means that you have little time to glean all of the information before it disappears, and there is no way to double check your results. Now, if only there was a way around this. Oh wait, there might be!

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201005071248-srg03-WorldCup.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201005071248-srg03-WorldCup.jpg"
+image_caption: ""
 ---
 
 The World Cup is coming and it's only 34 days away! That's 32 of the best teams from around the world, battling it out over 30 days, through group stages and knockout games, all to get their hands on that elusive golden trophy. That's a lot of quality football, and this year we'll get the chance to see the whole lot in glorious HD.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
+image_caption: ""
 ---
 
 Inflammation is a major cause and constituent of many different conditions and scientists believe they have identified a “master switch” protein that could hold the key to new treatments for these diseases.

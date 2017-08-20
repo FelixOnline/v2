@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131516-bwh12-3stoogesjailbreak3.jpg"
-image_caption: >
-  This approach apparently only works on this side of the Channel.
-image_attribution: "Bella Dennis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131516-bwh12-3stoogesjailbreak3.jpg"
+image_caption: ""
 ---
 
 After 5 hours of nervous sleep and a night spent discussing almost military tactics, myself, Sophie Johnston and Will Daubney waited in Beit Quad for 09:00 to pass with trepidation.

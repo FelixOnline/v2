@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212031615-tna08-38_hk47_starwars.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212031615-tna08-38_hk47_starwars.jpg"
+image_caption: ""
 ---
 
 All right, I know my force powers don’t work through the printed word. I guess I’ll have to persuade you instead withthe actual reasons why you should play this game, and if those don’t work, well; you are strong-willed indeed.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
-image_caption: >
-  The ADE 651, the false detector sold by McCormick
-image_attribution: "SWNS"
-image_attribution_link: "http://www.mirror.co.uk/news/uk-news/british-businessman-sold-golf-ball-1750300"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
+image_caption: ""
 ---
 
 On August 20th 2013 Gary Bolton was dealt a seven year prison sentence for the sale of fake bomb detectors. His chief crime was classed as fraud, having pocketed up to £10,000 per unit.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306201711-txl11-joe.jpg"
-image_caption: >
-  The new top dawg at Felix HQ
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306201711-txl11-joe.jpg"
+image_caption: ""
 ---
 
 So, it has come to the end of an era, well a year-long era. Goodbye Tim and hello… me. I’m sure the Supreme Editor himself is feeling bittersweet; it’s the end of a very tiring year, but also the end of a year of fun and boundless creativity.

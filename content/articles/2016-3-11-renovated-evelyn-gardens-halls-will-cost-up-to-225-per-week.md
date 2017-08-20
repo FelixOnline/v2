@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
-image_caption: >
-
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
+image_caption: ""
 ---
 
 Three halls in Evelyn Gardens, Holbein, Southwell and Willis Jackson, which college closed at the end of  last year, will reopen this September to second and third year undergraduates only.

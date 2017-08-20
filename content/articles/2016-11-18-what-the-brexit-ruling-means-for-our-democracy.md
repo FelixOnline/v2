@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181442-felix-Screen Shot 2016-11-18 at 14.41.55.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181442-felix-Screen Shot 2016-11-18 at 14.41.55.png"
+image_caption: ""
 ---
 
 On the 3rd November, the High Court handed down a decision stating that the Government needed parliamentary approval before triggering Article 50. Whilst the Brexiteers have made an outcry, stating that this is a breach of democracy, it is actually a vindication of the United Kingdom’s parliamentary sovereignty, something they campaigned for earlier this year. We must therefore use this judgement to push the Remain camp’s ideas to the forefront, so that they are not neglected as they have been so far.

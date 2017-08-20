@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142040-ams111-comment3.jpg"
-image_caption: >
-  Think about it. If you donate an organ you could become part of a rock star or Nobel laureate. Or if
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142040-ams111-comment3.jpg"
+image_caption: ""
 ---
 
 Don’t worry. I’m not going to intimidate you with statistics in order to convince you to give your organs away at death. Nor am I going to persuade you that you’ll be needing them in the afterlife. It is after all your body and it’s really none of my business what you do with it.

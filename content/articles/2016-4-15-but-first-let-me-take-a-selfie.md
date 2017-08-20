@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604151907-jc7413-excellences_perfections_instagram_update_8th_july_2014_itsjustdifferent1.jpg"
-image_caption: >
-  Amalia Ulman, Excellences & Perfections (Instagram Update, 8th July 2014),(#itsjustdifferent)
-image_attribution: "Artist & Arcadia Missa"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604151907-jc7413-excellences_perfections_instagram_update_8th_july_2014_itsjustdifferent1.jpg"
+image_caption: ""
 ---
 
 Does the appeal and purpose of performance art lie partially in its ephemeral nature? Or can photography be integral to preserving the performance for contemplation, and even to creating a new meaning in the work? It is the latter that Tate Modern’s exhibition _Performing for the Camera_ explores by bringing together photographs across many time periods – photographs used to document the performances as well as those used by artists themselves to produce their own art.

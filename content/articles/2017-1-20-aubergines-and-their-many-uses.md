@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201543-felix-Screen Shot 2017-01-20 at 15.42.24.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201543-felix-Screen Shot 2017-01-20 at 15.42.24.png"
+image_caption: ""
 ---
 
 Yes, the aubergine – delicious in dips, smokey and rich, and yet equally at home in a spicy, lip-smacking curry, the aubergine is a vehicle for flavour without compare. I think my love affair began when I would take home small scoops of baba ghanouj, a levantine dip of smoked, roasted aubergine, with tahini and lemon, after school from my local turkish deli. Savouring the creamy, salty and yet slightly bitter paste, I was transported away from deary England to an oasis, filled with travellers from across the desert, sharing tales and eating. What an innocent, and dull, life I lived.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200643-felix-3._laus_veneris.jpg"
-image_caption: >
-
-image_attribution: "Laus Veneris, Edward Burne-Jones"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200643-felix-3._laus_veneris.jpg"
+image_caption: ""
 ---
 
 Between 1860 and 1900, something extraordinary happened. A group of artists rebelled against the prevailing Victorian mood of the tiny but demure middle-class and unleashed upon Victorian England art for art’s sake, a movement which worshipped the sensuous and delightful, the Aesthetic movement (1860-1900).

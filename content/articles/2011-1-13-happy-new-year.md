@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131941-ks607-milakuni.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131941-ks607-milakuni.jpg"
+image_caption: ""
 ---
 
 As another year begins again and starts us off right at the beginning of Oscar season, the Felix Film writers take a look back at the best of cinema in 2010 – in case you were in some kind of year-long coma – and discuss some of our most anticipated films of 2011.

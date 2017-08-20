@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142033-ams111-comment2.jpg"
-image_caption: >
-  An ultrasound image of a baby in a womb
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142033-ams111-comment2.jpg"
+image_caption: ""
 ---
 
 However different American healthcare is from British healthcare, it wouldn’t be unreasonable to assume that the principles of consent are similar. One such principle is that valid consent needs to be informed; one must be aware of the implications of a decision to have a procedure, the benefits, risks and so on. When it comes to abortion, it seems people cannot agree on what it means to be informed. Some Americans feel that to be sufficiently informed about a decision to terminate one’s pregnancy a woman must undergo transvaginal ultrasound. They refer to this together with the provision of other information as “the right to know”.

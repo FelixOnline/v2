@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The dean of Imperial’s Business School published an article in Monday’s edition of _City A.M._ bemoaning the finance industry’s complacency when it came to Bitcoin, and other cryptocurrencies.

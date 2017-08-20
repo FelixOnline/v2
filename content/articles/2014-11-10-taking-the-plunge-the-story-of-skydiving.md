@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102207-ps3110-copy-of-ws1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102207-ps3110-copy-of-ws1.jpg"
+image_caption: ""
 ---
 
 There’s a long-standing myth that states that anyone who goes skydiving is either mad, has no concept of death or is emotionally-blackmailed into doing it because their mum bought them a voucher for their birthday. What I discovered was a group of inspiring, friendly people who engage in an activity with one of the best safety records of any extreme sport.

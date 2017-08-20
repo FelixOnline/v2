@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200353-felix-image001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200353-felix-image001.jpg"
+image_caption: ""
 ---
 
 BUCS 2011 was a successful one for Imperial College Boat Club culminating in an impressive 13 medals won; 6 gold, 2 silver and 5 bronze, as well as 145 all important BUCS points. The club was third overall and in the medals table, despite being depleted in numbers due to the pressing matters of exams and revision. Five of the six gold were won by the skinnier half of ICBC with the lightweights winning almost every race they entered.

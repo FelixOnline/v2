@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501300003-ps3110-screen-shot-2015-01-30-at-00.04.40.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501300003-ps3110-screen-shot-2015-01-30-at-00.04.40.png"
+image_caption: ""
 ---
 
 Imperial College isn’t well known for their regard for the wellbeing of undergraduate students; and there are many at Charing Cross who would argue that College high-ups give even less of a toss about medics. Either way, sitting back and watching students, medic or otherwise, fall into such severe financial difficulty, as illustrated in the recent survey, is an abandonment of their duty of care. It is not a new phenomenon that medics take a massive cut in funding after fourth year. As far as I can tell, this is the first time anyone has tried to tackle the monetary troubles faced by fifth and final year medics.

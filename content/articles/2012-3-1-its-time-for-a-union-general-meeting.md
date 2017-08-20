@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
-image_caption: >
-  It probably won't look like this
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
+image_caption: ""
 ---
 
 It took me approximately 4 months to really understand how the University and Union work. Both of these organisations are layered with bureaucracy, which doesn’t help. Additionally, you need to get to term time before various committees meet and the workloads hit a stage where acronyms like SRASOC* start rolling off the tongue. (*Student Recruitment and Admissions Strategy and Operations Committee)

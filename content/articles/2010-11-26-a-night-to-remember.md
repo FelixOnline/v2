@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011260951-ks607-metricla.jpg"
-image_caption: >
-
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011260951-ks607-metricla.jpg"
+image_caption: ""
 ---
 
 Well, finally [Metric](http://www.imperialcollegeunion.org/metric) is at long last open and to answer your question, yes, it definitely was worth the wait.

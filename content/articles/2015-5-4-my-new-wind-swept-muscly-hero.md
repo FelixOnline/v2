@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041758-ps3110-screen-shot-2015-05-04-at-17.57.59.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041758-ps3110-screen-shot-2015-05-04-at-17.57.59.png"
+image_caption: ""
 ---
 
 I rarely write an article about a programme and focus so much interest on its main character. Of course there are heartthrobs who keep you glued to the screen, but Ross Poldark is different. The reason why he is different, is that rarely such a hype has been built around a single character, to the detriment of an otherwise rather empty show.

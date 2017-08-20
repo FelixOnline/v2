@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040132-jal08-sci_photonmolecule.jpg"
-image_caption: >
-  Photonic Molecule
-image_attribution: "MIKHAIL LUKIN, VLADAN VULETIC/NATURE Mikhail D. Lukin & Vladan Vuletić"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040132-jal08-sci_photonmolecule.jpg"
+image_caption: ""
 ---
 
 The Harvard-MIT Center for Ultracold Atoms has created “photonic molecules” by binding photons together, as published in Nature last week.

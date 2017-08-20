@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012041-tna08-evil-dead1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012041-tna08-evil-dead1.jpg"
+image_caption: ""
 ---
 
 The original Evil Dead was one of the classic video nasties. Made for $350,000 (1000th of the budget of director Sam Raimi’s later film SpiderMan 3), it has become a cult classic and staple of the horror genre. It’s a splatter-filled mess of black comedy, genuine terror and low-budget creepiness. It still scares and combines over-the-top set pieces with wit, strong characters and the all important shock factor; there’s something about the pre-CGI effects that give it a tangible ickiness.

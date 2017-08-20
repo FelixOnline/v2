@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061339-ygr12-fernando.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061339-ygr12-fernando.jpg"
+image_caption: ""
 ---
 
 Imperial College London’s University Challenge team has made another strong appearance on the BBC quiz show, winning their second round match against Sidney Sussex College Cambridge with a final score of 305 to 75.

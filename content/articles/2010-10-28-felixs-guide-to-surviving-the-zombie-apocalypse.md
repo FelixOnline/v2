@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282017-ma1307-Zombie.jpg"
-image_caption: >
-  Damn student protestors...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282017-ma1307-Zombie.jpg"
+image_caption: ""
 ---
 
 So we all know the zombie apocalypse is coming at some point, most likely arising from some combination of a genetically modified virus, a dodgy business venture and a mad Imperial graduate. When it does strike, what on Earth do you do? No idea? Well, after days of careful thought I’ve come up with a list of five important things you need to take into consideration when you’re battling though the infected hordes, with additional notes supplied by my celebrity guest Chuck Greene, star and survivor of [Dead Rising 2](http://deadrising-2.com/) and true zombie killing expert.

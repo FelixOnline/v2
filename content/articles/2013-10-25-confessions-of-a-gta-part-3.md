@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
-image_caption: >
-  Seriously starting to wonder if the GTA is actually Jack Black...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
+image_caption: ""
 ---
 
 I was really looking forward to my teaching class with the final years. At last these were people that did not care if you did not know the answer of the top of your head as long as you tell them what the heck is going on or at least what should be. I think this is something to do with the Fear. This is that feeling you get before your exams that makes you start studying ridiculously early and freak out went you find out one of your classmates is studying for 12 hours a day. Don’t get me wrong, the first years are lovely but the Fear fills them. I think this causes irritating questions like “Is it ok if I use a blue pen in the exam?” Or worrying questions such as “How do you add up in Excel?” and also the crazy questions. My favourite of these was one fresher marching up to a lecturer, who is eminent in his field, and insisted that a question on the tutorial sheet was wrong because he had done three pages of working and the solution he had found was impossible…

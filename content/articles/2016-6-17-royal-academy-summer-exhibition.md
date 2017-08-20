@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171125-felix-ra5.jpg"
-image_caption: >
-  Last year’s coordinator Michael Craig-Martin has his work on display.
-image_attribution: "Stephen White"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171125-felix-ra5.jpg"
+image_caption: ""
 ---
 
 The Summer Exhibition at the Royal Academy is a bit like Glastonbury of the arts world, if the people who went were 97% white with a mean age of sixty. Along with fixtures like Wimbledon, it heralds in the summer, bringing together established artists from all the different disciplines: printmaking, painting, sculpture, video, while offering a platform for the work of lesser known artists and amateurs through the open submission policy.

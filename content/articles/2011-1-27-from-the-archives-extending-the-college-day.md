@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271751-ks607-archivea.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271751-ks607-archivea.jpg"
+image_caption: ""
 ---
 
 Few will remember the glorious days when a working day at Imperial College was limited between the times of 9.30am and 5.30pm. However proposals to axe this ‘slackers’ paradise were brought forward in the early nineties, causing great agitation amongst students and staff alike. [Sound familiar](http://www.felixonline.co.uk/?article=633)?

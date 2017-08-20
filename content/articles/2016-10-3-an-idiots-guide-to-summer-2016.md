@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610031844-felix-6996026717_86a05ac440_o.jpg"
-image_caption: >
-
-image_attribution: "BackBorris2012 Campaign Team"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610031844-felix-6996026717_86a05ac440_o.jpg"
+image_caption: ""
 ---
 
 Ah, summer. That brief and fleeting moment of respite between the end of one exam period and the start of the next? Well here’s a recap for those of you who either forgot what went down or were on one of those holidays where you’re in a cave for a month because it cleanses your soul.

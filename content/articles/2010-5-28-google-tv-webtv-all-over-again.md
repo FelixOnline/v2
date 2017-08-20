@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201005281135-srg03-GoogleTV.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201005281135-srg03-GoogleTV.jpg"
+image_caption: ""
 ---
 
 If you haven't heard, Google launched its attempt to infiltrate the TV space with internet content this week. The Android based Google TV aims to bring not only video, but the whole internet onto the small screen. The search giant isn't the first to attempt to do so however, as Microsoft tried and failed to do the same thing many years ago with its WebTV. The big G thinks the failures of the past have been due to poor implementation, but I beg to differ.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For every action there is an equal and opposite reaction. It seems this rule holds as true in theatre as it does in physics. After the cerebral existentialism of _The Hard Problem_, the bells-and-whistles approach of _Rules for Living_, and the highly modern adaptation of _Everyman_, the__ National Theatre__ return to well-worn theatrical traditions. _The Beaux’ Stratagem_ is a streamlined, watertight performance; it doesn’t offer any radical reinterpretation of restoration comedy – and perhaps it doesn’t have to – but this means that, despite the ability of the cast and crew, it remains little more than a light diversion.

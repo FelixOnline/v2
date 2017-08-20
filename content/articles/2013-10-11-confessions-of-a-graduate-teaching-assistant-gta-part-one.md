@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
-image_caption: >
-  Seriously starting to wonder if the GTA is actually Jack Black...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
+image_caption: ""
 ---
 
 I’ve always wanted to be a GTA. It wasn’t because they were doing amazing PhDs on their own desks, in which they cured cancer or published ground-breaking articles which they presented at world conferences. This was all pretty cool but actually, it had a lot to do with them being rubbish at teaching. As an undergraduate I saw them turn up late to lectures they were being paid to help with, chat with their colleagues and completely ignore any student of a different nationality from their own. They would stand right behind you in an exam breathing heavily, or when questioned on how to do the most impossible problem conceived by man, they would ask, “What do you think?” I always thought that it was startlingly clear that, at this point, being so confused and exasperated by this stupid question, that all I cared about was them telling me what I should be thinking. If there was one thing I was going to get right on my PhD it was being a good GTA.

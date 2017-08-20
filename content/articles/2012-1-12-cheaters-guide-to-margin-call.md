@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
-image_caption: >
-  Must work to “live long and prosper!”
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122241-cac111-zachary-quinto-margin-call.jpg"
+image_caption: ""
 ---
 
 What is shown in Margin Call is what really might have happened in the final days leading up to the eventual financial collapse of 2008 that has put the global market in chaos.

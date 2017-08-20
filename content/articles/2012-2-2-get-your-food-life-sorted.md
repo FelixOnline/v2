@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022110-ams111-one_2432.jpg"
-image_caption: >
-  Ben Ebbrell (second from right) and the SORTED team, putting Take That to shame
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022110-ams111-one_2432.jpg"
+image_caption: ""
 ---
 
 __What is SORTED in one sentence?__

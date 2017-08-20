@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282053-ks607-ahdhdfh.jpg"
-image_caption: >
-  Students answering questions on their phones
-image_attribution: "Marie Chkaiban"
-image_attribution_link: "http://felixonline.co.uk/preview/user/ec610/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282053-ks607-ahdhdfh.jpg"
+image_caption: ""
 ---
 
 I have to admit that I did feel slightly nervous as I sat down in the back of the Clore Lecture Theatre. I had a slight hope that something would become familiar to me and that I wouldn’t feel like a fish-out-of-water Humanities student in a Mathematics lecture... no such luck!

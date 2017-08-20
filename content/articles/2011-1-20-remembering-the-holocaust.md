@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We are approaching a time when Holocaust survivors and other eye witnesses of the largest mass murder in modern history will no longer be alive. On Tuesday 25th January, it will be both an honour and a privilege to have Holocaust survivor Mrs Lily Ebert among us, to tell us her experiences, on the occasion of Holocaust Memorial Day.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
+image_caption: ""
 ---
 
 A member of Imperial College Mountaineering Club (ICMC) fell 100ft whilst climbing in north Wales on Saturday 13th February. He was climbing with three other Imperial students during a trip with the ICU club which took place on the Welsh mountains of Cwm Cneifion in Snowdonia.

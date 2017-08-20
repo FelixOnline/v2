@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201045-felix-lib copy2.jpg"
-image_caption: >
-
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201045-felix-lib copy2.jpg"
+image_caption: ""
 ---
 
 _Sign the petition [here](https://www.change.org/p/imperial-college-london-put-air-conditioning-in-the-imperial-college-central-library)._

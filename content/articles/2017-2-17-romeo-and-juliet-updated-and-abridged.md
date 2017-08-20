@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171515-felix-ROMEO&JULIET17_0534.jpg"
-image_caption: >
-
-image_attribution: "Ludovic des Cognets"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171515-felix-ROMEO&JULIET17_0534.jpg"
+image_caption: ""
 ---
 
 Regardless of whether you're madly in love, or frankly you've had enough of it this week, there's still something inherently appealing about the tragic tale of Romeo and Juliet.

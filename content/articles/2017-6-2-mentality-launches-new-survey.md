@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two years after its launch, Mentality is conducting another survey to gain insight into stress and mental health at Imperial. The survey will close at the end of June, with results expected to be published by the end of term. According to Mentality chair Ariana Sadr-Hashemi, the previous report focused on getting Imperial-specific statistics on what mental health issues are most prominent in the student body and measuring general attitudes to mental health.

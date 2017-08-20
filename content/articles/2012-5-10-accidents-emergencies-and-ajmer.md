@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
-image_caption: >
-  Fans, cricket, presidents... it’s all go in Ajmer
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
+image_caption: ""
 ---
 
 How far is it to Ajmer?”, I asked, concerned.

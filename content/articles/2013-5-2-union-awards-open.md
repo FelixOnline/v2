@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Union Award nominations for this year have opened. Any student can nominate another student for their contributions to the Union. This can be with their contributions to a club or society or other work. There are four levels of recognition, which from Fellowship with Distinction to Union Colours. The nominations will be open until Friday 31 May through eActivities. After this the Awards Committee will have to decide on who deserves what.

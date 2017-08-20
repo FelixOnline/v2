@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102036-ks607-hardhats.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102036-ks607-hardhats.jpg"
+image_caption: ""
 ---
 
 Pandco Ltd. began life with a simple idea; they wanted to change the world of gaming. And after that idea turned out to be insane, they decided to try and make a pretty good iPhone game instead.

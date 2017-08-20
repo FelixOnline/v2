@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So the new Felix website was launched just over a month ago and I hope that you all have enjoyed the change. Now that my exams are finished I thought that I would go over some of the tools and technologies that we used to create the site and what we are planning on doing in the future. Oh and I warn you that this is going to get quite technical!

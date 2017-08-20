@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192114-cac111-wolf-tracks.jpg"
-image_caption: >
-  Wolves are only ever this friendly on National Geographic
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192114-cac111-wolf-tracks.jpg"
+image_caption: ""
 ---
 
 ___Who’s who?___

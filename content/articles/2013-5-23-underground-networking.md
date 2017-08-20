@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232308-tna08-20100916_011605_mycelium.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232308-tna08-20100916_011605_mycelium.jpg"
+image_caption: ""
 ---
 
 You probably think humans invented communication networks. However according to recent research, plants might have got there first, communicating with each other through extensive underground fungal networks.

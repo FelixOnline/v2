@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103251451-jn104-BUCSFenc.jpg"
-image_caption: >
-  Imperial's fencing teams celebrate their win
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103251451-jn104-BUCSFenc.jpg"
+image_caption: ""
 ---
 
 Imperial Fencing’s first teams came to the BUCS Championships semi-finals with an amazing season in the bag. Both of the teams were undefeated in their leagues and had confidently gone through their knock out rounds. In everyone’s mind were the double silvers from last year, where both men and women were close to grabbing the gold but in the end were defeated. For the women this year was of extra importance, having ended up second two years in a row.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280117-kmw13-199111.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280117-kmw13-199111.jpg"
+image_caption: ""
 ---
 
 8th March 2009, Kingsmead, Durban. An Australian batsman is entertaining the crowd with a superb hundred. It was his second of the game, and meant that he, at the age of 20, became the youngest man to score two hundreds in a Test Match. It was just his second test match. This week, we mourn his passing.

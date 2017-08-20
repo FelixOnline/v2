@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012218-tna08-white-micerbg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012218-tna08-white-micerbg.jpg"
+image_caption: ""
 ---
 
 Animal testing has always been a very controversial topic amongst people. A lot of research is conducted at Imperial and sometimes this may involve the use of animals. The currently policy on the Use of Animals in Research states that “animals may only be used in research programmes where their use is shown to be

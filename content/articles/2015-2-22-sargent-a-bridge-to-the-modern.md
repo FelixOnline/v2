@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502221738-ps3110-npg_920_1365_douardandmarie.jpg"
-image_caption: >
-  Edouard and Marie-Louise Pailleron by John Singer Sargent, 1881.
-image_attribution: "Des Moines Art Center"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502221738-ps3110-npg_920_1365_douardandmarie.jpg"
+image_caption: ""
 ---
 
 John Singer Sargent is not often included amongst the great painters of the late 19th century. It’s an exclusive club. Monet, Renoir, Picasso, Degas, Rodin, Cézanne, van Gogh, and Klimt amongst others dominate the public perceptions of art in the 1880s-1910s, and with good reason. Some of the biggest movements in art history took place in that period; it was the birth of modern art in the form of impressionism, the beginnings of cubism. At the turn of the century the age of the _avant garde_ had started sweeping through Europe, leaving Sargent looking somewhat stuck in the archaic realism of yesteryear. He and his paintings were regarded by many of his contemporaries as accomplished but lightweight – pandering to his rich patrons rather than contributing to the innovative canon of European art of the era. Modern critics have often taken the same view; Sargent has gained a reputation for painting portraits that depict the moneyed literati and society heiresses of Paris and London. A virtuoso but with an oeuvre that is staid and facile.

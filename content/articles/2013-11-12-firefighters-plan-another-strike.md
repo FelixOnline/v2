@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311121838-jal08-london-firefighter_1994300i.jpg"
-image_caption: >
-  Firefighters on parade
-image_attribution: "The Telegraph"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311121838-jal08-london-firefighter_1994300i.jpg"
+image_caption: ""
 ---
 
 Firefighters in England and Wales are due to hold a strike this Wednesday as a response to proposed changes to the pension scheme. This will be the fourth such strike this year. The government proposed changes include cutting the pensions of those firefighters who retire early for health or fitness reasons by up to 47.1% to £9,000 a year and increasing monthly pension contributions from £320 to £340.

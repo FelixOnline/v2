@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151751-felix-32514422900_c9365314fa_o.jpg"
-image_caption: >
-  This generation is soooooo entitled
-image_attribution: "Eloise Acuna"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151751-felix-32514422900_c9365314fa_o.jpg"
+image_caption: ""
 ---
 
 The media is obsessed with millennials being more entitled than previous generations, what with all those years of praise, encouragement, and social media. It’s a great rhetoric: we’re all narcissistic nightmares, who are too obsessed with our personal brand and too lazy to put our heads down and memorise things that we could easily Google.

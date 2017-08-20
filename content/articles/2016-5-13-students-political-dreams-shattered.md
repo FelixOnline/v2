@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-20160501_112818.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131048-felix-20160501_112818.jpg"
+image_caption: ""
 ---
 
 An Imperial student with dreams of becoming a councillor was beaten by two Conservative candidates to join Kensington and Chelsea council.

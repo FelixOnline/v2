@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Sunday, the head of the department of mechanical engineering sent an email to all of his students and staff, addressing concerns about a post-Brexit fee status for EU students, and telling them that he was “strongly in favour of remaining in the EU” and so would be “voting accordingly”.

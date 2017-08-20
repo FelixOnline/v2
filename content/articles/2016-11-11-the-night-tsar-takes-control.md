@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111829-felix-2295062530_3fc16f3d20_o.jpg"
-image_caption: >
-
-image_attribution: "dockleaf"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111829-felix-2295062530_3fc16f3d20_o.jpg"
+image_caption: ""
 ---
 
 The Night Tsar’ is not a period thriller starring Tom Hiddleston, but rather something far more ambitious. The night tsar is going to save London’s nightlife single-handedly and raise an industry from its knees, away from the clutches of the London property machine. It’s a big task, but thankfully the woman appointed to the job seems to have a glowing CV: Amy Láme is a 45-year-old comedian.

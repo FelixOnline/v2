@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
-image_caption: >
-
-image_attribution: "Ben Kennedy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
+image_caption: ""
 ---
 
 I try not to get too interested in politics. It leads to disappointment and raised blood pressure, and I get enough of that during exam season as it is. I raised an eyebrow at the NHS reform debate, but even that managed to cool down after a week of whining from pressure groups, and my eyebrow repositioned itself on my face in its classic, slanted, hateful place, knotted between my eyes.

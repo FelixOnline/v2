@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403070430-jal08-screenshot-2014-03-07-04.29.33.png"
-image_caption: >
-
-image_attribution: "Joe Letts/Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403070430-jal08-screenshot-2014-03-07-04.29.33.png"
+image_caption: ""
 ---
 
 This week Felix discovered the existence of “GineSoc”, the alter-ego of the Imperial Men’s Hockey XI 2’s team. After discovering a certificate of “Gine” last week on a table outside the FiveSixEight (a bar located on Union premises), we carried out further research. Our investigations revealed the existence of an “@ginesoc” twitter feed (now removed), containing an explicit avatar image and a mixture of tweets to pornographic actresses as well as tweets about hockey matches. Included in the twitter feed were an invitation for a porn actress to visit Imperial College Union on a Wednesday night if she “ever want[ed] a good time in London” and a request for a shout out from Select UK Radio to “ginesoc hockey club, listening on the way back home from a big 4-2 win”

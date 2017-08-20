@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
-image_caption: >
-  Khan Sadiq solve the housing crisis?
-image_attribution: "Dionisos Olympian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
+image_caption: ""
 ---
 
 It’s that time of year again. The ‘Private Housing Event’ invitation has appeared on Facebook, your housemates are suspiciously quiet about that looming deadline to renew your tenancy, and the thought of going through the whole process again makes you even more nauseous than that seventh snakebite you had at Reynolds the previous evening.

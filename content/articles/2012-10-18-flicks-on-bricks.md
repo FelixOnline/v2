@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182158-felix-tumblr_mby2qgwfnw1qi7eogo4_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182158-felix-tumblr_mby2qgwfnw1qi7eogo4_1280.jpg"
+image_caption: ""
 ---
 
 Last week from October 11th to 14th, the Bargehouse of Oxo Tower Wharf hosted the annual Moving Image fair, London’s only fair solely dedicated to moving image and contemporary video art. This meant four floors celebrating the video installations, projections and other forms of moving pictures of 35 artists from 15 different countries. With the easy access to digital technologies, video art is a still offbeat yet increasingly popular form of art – which should not be confused with experimental film!

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
-image_caption: >
-  Federer vs Djokovic is a final we've all got used to
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
+image_caption: ""
 ---
 
 Last week Novak Djokovic won his third consecutive ATP World Tour Finals title whilst also in the process securing the World Number One ranking for the year. Apart from a minor (and temporary) blip against Japanese player Kei Nishikori in the semi-final, Djokovic swept aside all those in his way with disdain.

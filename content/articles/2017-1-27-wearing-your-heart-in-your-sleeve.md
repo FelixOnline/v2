@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271632-felix-heart.jpg"
-image_caption: >
-
-image_attribution: "Ellen Roche / Harvard SEAS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271632-felix-heart.jpg"
+image_caption: ""
 ---
 
 A so-called ‘soft robot’ has been invented to help keep the human heart beating. Developed by researchers from Harvard University and Boston Children’s Hospital, the robot fits around the heart and helps it pump blood. This could mean a significantly higher quality of life for people that have survived heart attacks but suffer from heart failure, a growing population in this day and age. The robot itself does not come into direct contact with the blood, reducing potential risks such as blood clotting. Instead, the heart is encased in a sleeve which mimics the outer layers of cardiovascular tissue, allowing the material to act in a similar way to the heart within it.

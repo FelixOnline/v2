@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051756-tna08-7fell.jpg"
-image_caption: >
-  Must be up north; blue skies, beach and still they have coats on! All pictures courtesy of Terrence
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051756-tna08-7fell.jpg"
+image_caption: ""
 ---
 
 Friday, 24th of May: a rainy day in London, what else would you expect? But 12 brave, hiking loving students were ready to leave for Pembrokeshire, Wales on a Fellwanderers weekend trip. Since it was a bank holiday weekend, it took us quite a while to get to Wales. But by the time we arrived, it stopped raining and although some were still sceptical about the weather, we trusted in the weather forecast for the weekend that it would be sunny and set up our tents.

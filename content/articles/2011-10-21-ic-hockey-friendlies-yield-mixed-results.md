@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
+image_caption: ""
 ---
 
 Wednesday 12 October was a mixed day for ICHC, with the 6 teams recording 2 wins, 3 losses and a draw. The series of friendlies played against a combination of UCL and the RSM provided valuable experience for ICHC and an opportunity for the freshers to impress and show what they were capable of.

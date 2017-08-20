@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
-image_caption: >
-  All you need to be a world leader is to be able to use Google Earth
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
+image_caption: ""
 ---
 
 The year is 2020 and climate change has reached critical levels. The global temperature is rising, the Maldives are being evacuated, and countries have realised that their individual efforts are no longer enough. 2018 brought what scientists called the world’s first ever “hypercane”, and the serious possibility of dangerously high temperatures by 2100, along with growing economic uncertainty, is leading to growing civil unrest.

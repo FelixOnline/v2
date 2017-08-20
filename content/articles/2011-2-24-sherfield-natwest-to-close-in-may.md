@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241938-ks607-natwestn.jpg"
-image_caption: >
-  NatWest declined to comment
-image_attribution: "Robert Bishop"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241938-ks607-natwestn.jpg"
+image_caption: ""
 ---
 
 The Sherfield branch of NatWest is due to close in May after the bank decided not to renew its lease. The closure will leave only one bank on campus, Santander, and there are concerns that international students will be badly hit by the loss of the student expertise at the branch.

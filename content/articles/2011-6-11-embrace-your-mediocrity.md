@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Greatness is overrated. Being awesome, epic, or whichever other adjective you want to use to describe superiority, is not worth it. It’s too much effort, spurred by exaggerated accounts of others who will fail to recognize your achievements. We’ve spent our entire lives being indoctrinated to aim high and attempt to emulate great people, to reach success in any way we can measure it. Whether you want to be a skilled scientist, a powerful politician or a respected artist, you have to work hard for a long time and invest a lot of resources to achieve your goals.

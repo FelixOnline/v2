@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
-image_caption: >
-  Photographs from the Tate Britain’s new exhibition, Nick Waplington/Alexander McQueen: Working Process
-image_attribution: "Nick Waplington"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
+image_caption: ""
 ---
 
 Last week, Nick Waplington’s photography exhibition of legendary fashion designer Alexander McQueen’s final collection opened at Pimlico’s __Tate Britain__. The exhibition, based on Nick Waplington’s book entitled _Alexander McQueen: Working Process_, features photographs of McQueen’s Fall 2009 collection – from inception to the runway show in Paris. The exhibition takes us on a tour of McQueen’s creative process, from initial concept sketches, all the way to his dramatic final show.

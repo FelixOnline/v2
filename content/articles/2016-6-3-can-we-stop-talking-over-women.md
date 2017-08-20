@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
-image_caption: >
-  Terry Crews doesn't have time for your hypermasculinity bullcrap.
-image_attribution: "NBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
+image_caption: ""
 ---
 
 We’ve all been there – you finish your exams and suddenly there’s a deep hole, a lack of purpose in your life. What else was I to do but pick up Felix and read Arnold Tan’s “message to feminists”.

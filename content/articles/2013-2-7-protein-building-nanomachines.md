@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072324-tna08-ecoli_70s_ribosome_pair_with_trna_mrna.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072324-tna08-ecoli_70s_ribosome_pair_with_trna_mrna.jpg"
+image_caption: ""
 ---
 
 Inside every cell, tiny biological machines are hard at work, constructing the proteins that will perform vital roles as enzymes, hormones, and a wide variety of other structural and biochemical functions. These molecular machines, called ribosomes, translate our genetic code into a protein sequence, and assemble the amino-acid building blocks into the peptide chain that folds into a functional protein.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251903-mb506-Imperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251903-mb506-Imperial.jpg"
+image_caption: ""
 ---
 
 This year’s BUCS Championship and Beginner’s Head was a successful one for Imperial. There were three golds, two silvers and two bronzes, as well as several other top ten placings.

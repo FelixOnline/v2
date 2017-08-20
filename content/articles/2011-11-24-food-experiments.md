@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
-image_caption: >
-  I know you’ve had it with eggscruciating yolks
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
+image_caption: ""
 ---
 
 Young science students from Sherborne Girls in Dorset have discovered what makes the perfect boiled egg and soldiers. In an “Eggsperiment” commissioned by the Royal Society of Chemistry, a team of 12 girls tested one of Britain’s favourite breakfasts and confirmed the optimum time for boiling an egg, as well as the key variables that make up the perfect dipping soldier.

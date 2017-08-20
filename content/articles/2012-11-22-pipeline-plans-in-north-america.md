@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222319-tna08-obama-windfarm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222319-tna08-obama-windfarm.jpg"
+image_caption: ""
 ---
 
 Barack Obama, the newly elected President of the United States, was widely believed to be the ‘Green Candidate’ in thAmerican elections. However, in a country where one of the two main political parties adopts the slogan of “drill baby drill” in its environmental policy, one can hardly be forgiven for meeting Obama’s green policies with an air of scepticism.

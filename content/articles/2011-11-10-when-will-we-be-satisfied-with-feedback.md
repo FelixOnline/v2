@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week saw the release of a summary of the annual Rector’s Away Day, with Sir Keith O’Nions announcing a statement pledging to improve the ‘undergraduate experience’, with the improvement of assessment and feedback becoming a priority in this aim. The battle against feedback has been continuing for some time now, however, and it may ultimately fall to tackling the individual marker rather than the department when it comes to improving feedback across College.

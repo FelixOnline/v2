@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031503-ps3110-recordersim1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031503-ps3110-recordersim1.jpg"
+image_caption: ""
 ---
 
 Anyone who’s ever been to a primary school music recital may well have got the impression that the recorder is a rather simple instrument.

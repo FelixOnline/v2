@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092236-pk1811-dixrwmo-keik-tis-manoulas.jpg"
-image_caption: >
-  The dark cake rises
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092236-pk1811-dixrwmo-keik-tis-manoulas.jpg"
+image_caption: ""
 ---
 
 __Ingredients__

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042020-cj914-1383340_10100177190907641_6215749255525179063_n.jpg"
-image_caption: >
-
-image_attribution: "IC Snooker and Pool"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042020-cj914-1383340_10100177190907641_6215749255525179063_n.jpg"
+image_caption: ""
 ---
 
 Records tumbled at the first inter-university pool tournament of the year as a new-look Imperial team pulled off some stunning wins and overcame bad luck (and hangovers) to earn their first ever medal in the Southern England Univesities Pool Council Team Shield event. The team set off early Saturday morning from Paddington, and spirits were high as we made the arduous journey towards sunny Weston-Super-Mare. With three new members to the team, team captain Rob had some head scratching to do in the run up to the tournament as to how to field his eager players, using the journey to make sure all were up to speed on tournament rules and regulations.

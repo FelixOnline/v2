@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502192351-ps3110-screen-shot-2015-02-19-at-23.50.54.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502192351-ps3110-screen-shot-2015-02-19-at-23.50.54.png"
+image_caption: ""
 ---
 
 Residents of Weeks are infuriated by the College decision to close their hall, and have demanded an emergency Union Council meeting to revote on the decision not to campaign against the closure.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271906-ks607-lastbend.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271906-ks607-lastbend.jpg"
+image_caption: ""
 ---
 
 Los Angeles this weekend was buzzing even more than usual with the awards ceremony seeing the great minds behind Sex and the City 2 and M. Night Shyamalan’s The Last Airbender scooping most of the major prizes. At the 2011 Razzies.

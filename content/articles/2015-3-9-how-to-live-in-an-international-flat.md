@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091929-ps3110-screen-shot-2015-03-09-at-19.29.45.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091929-ps3110-screen-shot-2015-03-09-at-19.29.45.png"
+image_caption: ""
 ---
 
 You’ve probably had a flat mate who’s from a different culture. For some of you, it might have gone like this. Day one, things were going well. Day seven, tensions began with unwashed dishes. Day twenty-five, both sides mobilized for war over a party that had turned the corridor into a disaster-ravaged scene.

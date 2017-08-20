@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
+image_caption: ""
 ---
 
 This week I played some videogames. You might think that this isn’t particularly announcement–worthy in an age of Farmville and Bejewelled. On the face of it, videogames are part of our culture now. But read a gaming fansite or web forum and you’d be forgiven for thinking we were in the middle of a cultural apartheid.

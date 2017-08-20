@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
-image_caption: >
-
-image_attribution: "Strelka Institute for Media, Architecture and Design Follow"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
+image_caption: ""
 ---
 
 Continuing on from the successful This Girl Can campaign, Sport England have joined forces with BUCS to promote female sport participation at universities nationwide between 31 October and 6 November. This means the Sports Imperial is launching Imperial Girls Can again this year in an attempt “to encourage and celebrate womens sport”.

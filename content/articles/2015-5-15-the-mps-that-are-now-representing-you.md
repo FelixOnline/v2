@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151332-cj914-screen-shot-2015-05-15-at-13.31.52.png"
-image_caption: >
-  Top from left to right clockwise: Greg Hands, Mark Field, Victoria Borwick and Andy Slaughter
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151332-cj914-screen-shot-2015-05-15-at-13.31.52.png"
+image_caption: ""
 ---
 
 Areas around South Kensington saw the expected election of several Conservative MPs, although popular student haunt Hammersmith did see the re-election of their current Labour MP, Andy Slaughter.

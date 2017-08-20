@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031453-ps3110-robin-picture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031453-ps3110-robin-picture.jpg"
+image_caption: ""
 ---
 
 At 23 years old, Robin McGhee has already been involved with the Liberal Democrats for over a decade. While reading History at Oxford University, Robin affirmed his interest in politics and stood for a local council seat. Since graduating, he has been involved in television, journalism, research, and has worked for Lib Dem MPs. In November of last year Robin was selected to be the Liberal Democrat parliamentary candidate for Kensington. I spoke with him to discuss constituency matters and national politics.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140019-tna08-imp-outreach.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140019-tna08-imp-outreach.jpg"
+image_caption: ""
 ---
 
 A recent joint [report](http://www.offa.org.uk/wp-content/uploads/2013/06/HEFCEOFFA-Joint-Monitoring-Outcomes-Report.pdf) from the Office for Fair Access (OFFA) and the Higher Education Funding Council for England (HEFCE) has raised concerns about the efforts made by elite English universities to increase numbers of students from low income backgrounds. The report, focusing on the 2011-2012 academic year, was generally positive about the efforts of most higher education institutions but recognised key areas for improvement.

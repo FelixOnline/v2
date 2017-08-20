@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206150832-mc4509-201110272007-felix-img_6764.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206150832-mc4509-201110272007-felix-img_6764.jpg"
+image_caption: ""
 ---
 
 Imperial College Union President Scott Heath found himself at loggerheads with Union Court (a committee designed to ensure that Union officers follow the rules of the Union) on Monday at the last session of Union Council of the academic year.

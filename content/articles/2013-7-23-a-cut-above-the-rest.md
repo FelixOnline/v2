@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
-image_caption: >
-  The iKnife has the potential to improve surgical precision
-image_attribution: "AP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
+image_caption: ""
 ---
 
 It sounds like something Apple would produce, not a team of Imperial researchers: the iKnife, the surgical device that can ‘sniff out’ cancer.

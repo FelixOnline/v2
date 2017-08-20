@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403261328-jal08-thedyingearth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403261328-jal08-thedyingearth.jpg"
+image_caption: ""
 ---
 
 Though I fancy myself reasonably well read in the field of science fiction and fantasy I must admit that there are quite a few classic authors of the genre whose work I haven’t read at all. Of these the one I probably felt most guilty about not checking out was Jack Vance. After all, he was a Science Fiction and Fantasy Writers of America Grand Master and has been cited as an influence by a number of my favourite writers, including Neil Gaiman and Gene Wolfe. Therefore, having found myself with a little spare time a few months back, I decided to check out one of his most notable works – the epic _Tales of the Dying Earth _series.

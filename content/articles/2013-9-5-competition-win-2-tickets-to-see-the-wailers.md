@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
-image_caption: >
-  #Winning!
-image_attribution: "Felix Music"
-image_attribution_link: "https://www.facebook.com/ICFelixMusic?fref=ts"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
+image_caption: ""
 ---
 
 COMPETITION ALERT!

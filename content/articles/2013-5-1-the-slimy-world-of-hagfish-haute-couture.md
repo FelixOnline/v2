@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012020-tna08-broadgilled-hagfish_eptatretus-cirrhatus_paddy-ryan-ryan-photographic-fileminimizer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012020-tna08-broadgilled-hagfish_eptatretus-cirrhatus_paddy-ryan-ryan-photographic-fileminimizer.jpg"
+image_caption: ""
 ---
 
 Clothes are important to anyone; whether you’re an avid fashionista or more of the practical sort, we all need clothes. However, the materials making up our clothes may be straying from the ordinary to the extraordinary in the not so distant future. The new source of the fabric for your brand new dress or coat could be swimming at the deep, dark depths of our ocean floor.

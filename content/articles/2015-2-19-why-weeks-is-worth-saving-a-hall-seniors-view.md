@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fullsizerender.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fullsizerender.jpg"
+image_caption: ""
 ---
 
 Weeks Hall was kindly donated to Imperial by British engineering firm Vickers in 1959 to be used as affordable undergraduate accommodation. Ungratefully, College have now rejected this generosity and plan to make “more efficient” (i.e. more profitable) use of the space.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
-image_caption: >
-  North Africa’s Got Talent had whittled thousands of hopefuls down to its final four
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192128-pk1811-ali-saleh-gaddafi-mubarak.jpg"
+image_caption: ""
 ---
 
 Beyond being an interminable stream of the thoughts of Lethal Bizzle, Twitter for this reviewer had always been just another tool for procrastination. In 2006, many of the angel investors running their rule over the nascent microblogging site figured the same. To have said to them then that tweets of 140 characters would one day be enough to catalyse the downfall of governments, they would have dismissed you as mad. How wrong they all were.

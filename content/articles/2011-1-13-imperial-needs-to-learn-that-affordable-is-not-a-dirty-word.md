@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Affordable. It is hardly a glamorous word. It does not make the heart race nor the mouth salivate. It implies a sort of glum settlement; when your shallow pockets deny you your desires, go for ‘affordable’. It is not a word that springs to one’s mind when thinking about Imperial College London. Nestled in the regal South Kensington environment, our university, with its history, buildings and international reputation, is the complete antithesis to the emotions evoked by the word ‘affordable’.

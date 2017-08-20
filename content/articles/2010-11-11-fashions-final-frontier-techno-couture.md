@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112031-nm1010-anastasi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112031-nm1010-anastasi.jpg"
+image_caption: ""
 ---
 
 Many of us think that Imperial could not be further removed from the world of fashion, however I’d like to persuade you otherwise. Both fashion and technology are constantly evolving industries; fickle and always in search of the new ‘it’ product to entice buyers into yet another superfluous purchase. Therefore one can only imagine the force generated when these two polarised worlds collide...

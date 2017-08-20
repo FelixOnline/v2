@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070241-tna08-anita-with-horse.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070241-tna08-anita-with-horse.jpg"
+image_caption: ""
 ---
 
 This summer, cycle 8 of Britain and Ireland’s Next Top Model aired on Sky Living, featuring many exciting challenges and photo shoots, including a shoot with tarantulas, walking on CN tower, and posing with naked male models. During the series, twenty contestants were whittled down to one winner. Anita Kaushik was the contestant labelled as the dark horse of the competition, starting off weakly but improving rapidly every week, gaining approval from the judges, and finally reaching the final episode, coming third place. I spoke to Anita to find out her views on the competition, modelling and the fashion world.

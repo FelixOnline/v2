@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091531-felix-newseventsimages.jpg"
-image_caption: >
-
-image_attribution: "Imperial College"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091531-felix-newseventsimages.jpg"
+image_caption: ""
 ---
 
 **So I guess we should probably start by welcoming you to Imperial. How are you finding it so far?**

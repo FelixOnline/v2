@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112043-nm1010-planneat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112043-nm1010-planneat.jpg"
+image_caption: ""
 ---
 
 Directors Shelly Lee Davies and Or Shlomi are new to filmmaking. In an after-screening Q&A they revealed that this endeavour was one which they carried out largely alone and with what appeared to be little past experience; suffice it to say that it did show. Although the content of this film speaks volumes, the editing and camerawork left something to be desired, especially when compared to The Cove, An Inconvenient Truth, Fahrenheit 911, or in fact many of the eye-opening “docufilms” which have so thrillingly educated us in the past.

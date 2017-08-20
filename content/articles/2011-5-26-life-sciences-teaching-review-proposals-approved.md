@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Science Studies Committee has approved the recommendations of the Life Sciences Teaching Review, after initially rejecting them last week. The committee were satisfied that the department had addressed their concerns and that “its requirements for the academic quality of degree programmes had been met”.

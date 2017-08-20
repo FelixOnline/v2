@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206080926-mc4509-news1.jpg"
-image_caption: >
-  The earliest possible meeting of the planning committee is 10 July
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206080926-mc4509-news1.jpg"
+image_caption: ""
 ---
 
 Councillors at the London Borough of Hammersmith and Fulham have postponed discussion of the planning permission for the new “[Imperial West](http://www3.imperial.ac.uk/newcampus)” campus for a second time, following the case officer taking unexpected leave. This follows on quickly from a recent High Court judgement that found that the Borough acted unlawfully in a planning application for the redevelopment of Shepherds Bush Market.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ATP in many ways can be seen as an embodiment of alternative music, often attended by those who know their music, it never fails to provide a selection of the finest alternative music out there, sweeping a wide range of musical genres in every line up. This quality is coupled with a spirit of musical fellowship, as often bands on the line up are seen enjoying the sets of their colleagues, and having the festival curated by a band or individual allows a feeling of connection to a normally hugely influential and respected curator. This sense of intimacy is further added to by a smaller venue, accommodating only 3000. Having spent a few years based in Butlins, Minehead, they have returned to Pontins in Camber Sands, the spiritual home of the festival, where the first 7 or 8 festivals took place. It should also be noted that, as was also the case in Butlins, the uncomfortable and dehumanising camping experience is bypassed with comfortable chalets, allowing a good night’s sleep and a place to chill between shows.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032018-ks607-varsityv.jpg"
-image_caption: >
-  Last year's JPR Williams Cup
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032018-ks607-varsityv.jpg"
+image_caption: ""
 ---
 
 The biggest day in the Sport Imperial calendar is nearly here, yes that’s right Varsity 2011 is taking place on Wednesday 16th March. After an action packed day of sport, entertainment and rivalry at Harlington, Ethos and Wilson House, the JPR Williams Cup will be finishing off what “will be the best Varsity to date” (Medicals Club Captain, Jamie Rutter). This year the JPR Williams Cup has moved to a new venue The Stoop, home of Harlequins RFC, this venue is a larger professional stadium and is all geared up for a dazzling display of rugby, with exhilarating entertainment both on and off the pitch. The Stoop is the biggest venue many of the players have ever had the chance of playing in and is a fantastic opportunity for all involved.

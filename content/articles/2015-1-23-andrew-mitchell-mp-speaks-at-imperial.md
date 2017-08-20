@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230116-cac111-screen-shot-2015-01-23-at-01.15.53.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230116-cac111-screen-shot-2015-01-23-at-01.15.53.png"
+image_caption: ""
 ---
 
 Former cabinet minister and current MP for Sutton Coldfield, Andrew Mitchell spoke to students this week about the importance of aid and charity in improving the lives of people in the developing world.

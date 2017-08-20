@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121731-felix-5400115815_b2b64f9dd9_o.jpg"
-image_caption: >
-  It's unclear what the tuition at Hogwarts is
-image_attribution: "Mike Hammerton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121731-felix-5400115815_b2b64f9dd9_o.jpg"
+image_caption: ""
 ---
 
 You probably missed the memo, buried deep under a pile of revision notes but the fact remains: The cost of your degree has just increased.

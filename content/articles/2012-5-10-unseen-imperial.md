@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102100-pk1811-3.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102100-pk1811-3.png"
+image_caption: ""
 ---
 
 Once again, thank you to those who have submitted accounts on the aspects of our lives that we just don’t talk about

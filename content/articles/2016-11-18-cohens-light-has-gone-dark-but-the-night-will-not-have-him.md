@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181538-felix-Leonard Cohen Takahiro Kyono.jpg"
-image_caption: >
-
-image_attribution: "Takahiro Kyono"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181538-felix-Leonard Cohen Takahiro Kyono.jpg"
+image_caption: ""
 ---
 
 This is not strictly a review. Given the circumstances it can’t be. Instead, it is a look at how an album takes on a new life when its creator passes away so shortly after its release – or, more appropriately, how an album allows for the continuation of a life that is no more. If you read practically any of the existing reviews for Leonard Cohen’s now final LP, You Want It Darker, you’ll see a string of 4 star, 5 star, 9/10 and ‘A’ reviews. These have not come about from a sense of pity on behalf of the music press – nor could they, the album was released over a fortnight before his sad passing on 7th November – but because the album is quite simply that good.

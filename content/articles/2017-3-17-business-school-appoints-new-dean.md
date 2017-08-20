@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171307-felix-newseventsimages.jpeg"
-image_caption: >
-  He’s already staring longingly at the College Cafe
-image_attribution: "Imperial College"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171307-felix-newseventsimages.jpeg"
+image_caption: ""
 ---
 
 Imperial College Business School appointed a new Dean this week, Professor Francisco Veloso. Veloso takes on the position in August after a year of temporary leadership from Professor Nelson Phillips, who held the role of Acting Dean after the previous Dean (Professor G. ‘Anand’ Anandalingam) stepped down last summer.

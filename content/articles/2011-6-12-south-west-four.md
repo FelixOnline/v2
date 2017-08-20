@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106121649-felix-sw4.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106121649-felix-sw4.jpg"
+image_caption: ""
 ---
 
 Jealous of your friends going backpacking this summer? Don’t be. London in the summer is wonderful and the weather rivals that on any expensive holiday abroad. One of the best things about spending summer here has to be [South West Four](http://www.southwestfour.com/). What better way to celebrate the end of your exams than two days dancing till the sun goes down (or comes up) to the world’s best house and techno DJs? It’s on your doorstep in Clapham Common so there’s no need to travel to a muddy field in the middle of nowhere, or pay the ludicrous prices of going to Ibiza.

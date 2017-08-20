@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112207-ks607-EEEEEEE.jpg"
-image_caption: >
-
-image_attribution: "Kadhim Shubber"
-image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112207-ks607-EEEEEEE.jpg"
+image_caption: ""
 ---
 
 Senior figures in the Department of Electrical and Electronic Engineering have begun concerted efforts to ensure that postgraduate students understand the circumstances under which they are paid for teaching duties, introducing a potential new measure to reduce the current bursary and have students explicitly earn their lost money.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003041235-srg03-GoogleBe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003041235-srg03-GoogleBe.jpg"
+image_caption: ""
 ---
 
 Would you indict a postal worker for delivering hate mail? Or jail an eyewitness to a crime for not having stopped it in the first place? To use the precedent set by a recent court ruling in Italy, you should.

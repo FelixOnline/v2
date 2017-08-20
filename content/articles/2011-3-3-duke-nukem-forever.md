@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032119-ks607-dukeduke.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032119-ks607-dukeduke.jpg"
+image_caption: ""
 ---
 
 Yes, eventually I get to it. Of course, technically speaking this game has been picked up to be carried to completion by Gearbox Studios, mainly by being incredibly famous for just never showing up.

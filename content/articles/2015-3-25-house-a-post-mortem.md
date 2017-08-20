@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251207-ff712-3840x2400.jpg"
-image_caption: >
-  Hugh Laurie, who stars as the title star in the long-running series House, which bowed out at the end of its eighth series in 2012.
-image_attribution: ""
-image_attribution_link: "http://FOX"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251207-ff712-3840x2400.jpg"
+image_caption: ""
 ---
 
 If you have never watched _House_, I envy you. It is one of the most nuanced and intelligent shows ever created, and there are 177 episodes for you to enjoy for the first time. In the eight years that _House_ ran (2004-2012) it was distributed to over 60 countries and at one point had the highest worldwide viewing figures of any television series. While the idea of a new medical show for Fox network originated with Paul Attanasio, it was David Shore, credited as creator, who conceived the titular character that made the series so captivating.

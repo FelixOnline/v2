@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171054-felix-DJ-Makes.jpg"
-image_caption: >
-  These guys don't want Simon & Garfunkel.
-image_attribution: "themrbenagency.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171054-felix-DJ-Makes.jpg"
+image_caption: ""
 ---
 
 This will be my final article for FELIX, as, after nearly nine years, my time has come to leave Imperial. This newspaper has been an important part of my experience here, back from the very first copy I acquired in freshers’ week and kept because it had the instructions on how to operate washing machines.

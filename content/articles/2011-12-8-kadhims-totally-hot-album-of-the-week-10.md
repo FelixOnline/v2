@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082109-pk1811-76265.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082109-pk1811-76265.jpg"
+image_caption: ""
 ---
 
 And so this is Christmas. The season of merriment, mulled wine, and all-too-predictable disappointment. You were probably expecting the album of the week, given that it is the season of cheer, to be __Michael Bublé__’s _Christmas_; if so, I’m sorry to disappoint. You may have expected it to be __The Black Keys__’ latest release _El Camino_; if so not only am I sorry to disappoint, but I’m also extremely disappointed myself – the album is a bit of a dud. Given the overwhelming ubiquity of disappointment, I thought it better to simply embrace it. To welcome the ennui, loneliness, and introspection that accompanies the monotonous sounds of Christmas – Jesus Christ, __Leona Lewis__, you’ve been bleeding for almost four years now, die already!

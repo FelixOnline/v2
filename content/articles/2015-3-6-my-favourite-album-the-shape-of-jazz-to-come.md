@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061314-ff712-ejc55450.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061314-ff712-ejc55450.jpg"
+image_caption: ""
 ---
 
 1959, probably the most important year in the history of jazz, a turning point away from bebop and its roots in blues and dixieland, towards a new path for jazz: free jazz. In the same year Miles Davis released _Kind of Blue_ and Dave Brubeck came out with _Time Out_, a lesser known artist called Ornette Coleman came out of the shadows to release his album _The Shape of Jazz to Come_. The implications of this album cannot be underplayed; it heralded the advent of free jazz: more a way of thinking than a genre in itself, that would revolutionise music for the rest of the 20th Century.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161321-ps3110-o-french-muslims-terrorism-facebook.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161321-ps3110-o-french-muslims-terrorism-facebook.jpg"
+image_caption: ""
 ---
 
 Last week’s heinous attacks on Charlie Hebdo caused an outpouring of grief and support from around the world for the innocents who lost their lives that day, and in the days that followed. The brazen assault was led by two masked gunmen claiming that they were avenging the name of the Prophet Muhammad, whose gross caricatures Charlie Hebdo had published in years gone by. And yet, 2 of the 12 murder victims that day were Muslim – one named Ahmed, the other Mustapha – both names of the Prophet Muhammad, a telling symbol of the character assassination that took place that day. In the coverage that followed, it became clear that the terrorists did more to defame the name of Islam than any cartoon ever could.

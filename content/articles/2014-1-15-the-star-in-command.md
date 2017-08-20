@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Delays, delays and more delays, at the end of which only 30% of the game had been realised. Truly… the cake was a lie. I’m talking, of course, about the Kickstarter campaign of Star Command, a game that was pitched as a strategic space simulator, where aspiring Captain Kirks would explore planets and fight against aliens, all the while chewing bubble gum.

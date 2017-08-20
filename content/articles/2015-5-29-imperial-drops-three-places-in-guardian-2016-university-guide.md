@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
-image_caption: >
-  Criteria weighting for the Times Higher Education World University Rankings.
-image_attribution: "Times Higher Education"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
+image_caption: ""
 ---
 
 This week Imperial College London dropped three places in [the Guardian’s 2016 University Guide](http://www.theguardian.com/education/ng-interactive/2015/may/25/university-league-tables-2016), taking eighth place out of 119 Universities.

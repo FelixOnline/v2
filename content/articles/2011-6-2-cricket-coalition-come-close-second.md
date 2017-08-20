@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022133-felix-p1000151.jpg"
-image_caption: >
-  Imperial women’s co-captain, Priya Patel sharing the runner’s up trophy with Hampstead’s captain
-image_attribution: "Priya Shah"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022133-felix-p1000151.jpg"
+image_caption: ""
 ---
 
 Cricket, cupcakes and comedy – who could ask for more on a glorious Bank Holiday? For those of you weren’t chained to your desks revising, you’ll remember that Good Friday was like the perfect English summer’s day. With the clear blue skies, sun beating down and public deciding ‘less is more’ when choosing their outfit for the day – one could have mistaken this to be in the height of summer.

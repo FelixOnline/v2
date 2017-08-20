@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Hope comes before sunrise, a dream in hand and the promise of a better future. For the children of Tanzania, this is not always true. Less than 20% of Tanzanian children have access to secondary school education. This is due to the lack of funds and secondary schools that do not work closely together. However, a glimmer of hope comes in the form of TEKUA. As an education centre that provides free education for the neediest students, TEKUA aims to empower its students with knowledge, giving them a means to make a living. TEKUA gives them hope, and our dream of a better future.

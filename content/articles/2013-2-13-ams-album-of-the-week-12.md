@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131300-tna08-my-bloody-valentine-mbv-608x605_1359883348_crop_560x547.286184210526.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131300-tna08-my-bloody-valentine-mbv-608x605_1359883348_crop_560x547.286184210526.jpg"
+image_caption: ""
 ---
 
 Whenever I have an article to write I find the first sentences and phrases always come to me when I’m walking on my own. My rough draft for this review emerged the same way; I was ready to talk less about the album, which was okay, and more about the promise of My Bloody Valentine recording once more. But then I listened to it again.

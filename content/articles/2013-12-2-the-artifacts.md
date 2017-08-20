@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Each year, scientists from Imperial College and artists from the Royal College of Art join forces to create inspiring, innovative and interesting works of art under the scheme Artifact. Closet artist and Imperial student Meredith Thomas told Felix Arts all about it.

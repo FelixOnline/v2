@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
+image_caption: ""
 ---
 
 Against the picturesque backdrop of Windsor Castle and loyally donning the club’s apparel, Imperial 1st XI put out one of its strongest line-ups to play against Windsor Cricket Club. Captain Jayanth Ganapathy, a former player for the opposition, elected to bat first on a good batting wicket with a fast outfield.

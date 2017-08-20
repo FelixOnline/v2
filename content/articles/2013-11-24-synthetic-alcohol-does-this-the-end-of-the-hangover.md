@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For those reading this hungover in bed after that “quick pint” on a Thursday evening turned into a free for all, we have good news. It seems that our very own Professor Nutt, previous government advisor and keen advocate of drug legalisation, has finally identified candidate molecules that can imitate all the good parts of drinking, without that dreaded feeling the next day. The molecule can hopefully reproduce the pleasurable effects of alcohol, but, with a lower toxicity, may keep the hangovers and health risks associated with drinking at bay.

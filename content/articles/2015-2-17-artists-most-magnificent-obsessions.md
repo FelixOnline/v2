@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Keyrings. That was what I collected when I was younger. Every time someone I knew went abroad, I forced them to bring me back a trinket attached to a keychain, until I had boxes and boxes bursting with these gaudy accessories jam-packed above my wardrobe. Of course, being 8 there was no need for me to own a keyring, let alone hundreds, but this is what lies at the heart of collecting: buying and then not using, accumulating and storing ephemera whose sole purpose is to bring enjoyment to the collector.

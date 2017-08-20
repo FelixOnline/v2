@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131956-ks607-sudansud.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131956-ks607-sudansud.jpg"
+image_caption: ""
 ---
 
 On Sunday, the Southern region of Africa’s largest country started voting in a week-long referendum on whether or not to become the world’s newest country.

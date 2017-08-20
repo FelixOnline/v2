@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091818-ps3110-screen-shot-2015-03-09-at-18.17.32.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091818-ps3110-screen-shot-2015-03-09-at-18.17.32.png"
+image_caption: ""
 ---
 
 I’ve been at Imperial for seven years, which is quite a long time – longer than most. In that time, I’ve seen a lot of change. Some of these changes are ones I never imagined happening, like the loss of Evelyn Gardens, which was my home as a fresher, but they’re mostly overwhelmingly positive.

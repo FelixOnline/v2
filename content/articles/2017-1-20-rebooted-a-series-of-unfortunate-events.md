@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201517-felix-maxresdefault (4).jpg"
-image_caption: >
-
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201517-felix-maxresdefault (4).jpg"
+image_caption: ""
 ---
 
 The catchy theme song of this Netflix adaptation advises you to look away, warning you of a story that is dark and has no happy ending. If you actually listen to that advice, it would be an unfortunate event in of itself, as you would be missing out on a well-made, dark and incredibly self-aware series.

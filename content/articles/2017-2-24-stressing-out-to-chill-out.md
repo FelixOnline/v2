@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241514-felix-13740073235_b8a4ec0ffc_k.jpg"
-image_caption: >
-  Oh No! That’s like, the thrity seventh time I’ve died!
-image_attribution: "Allan Rotgers"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241514-felix-13740073235_b8a4ec0ffc_k.jpg"
+image_caption: ""
 ---
 
 Once upon a time, games used to be hard. Like really, really fucking hard. You had to spend hours grinding and leveling up, looking for the right items or npcs and learn the technique needed to progress.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102045-ams111-titus-groan-large.jpg"
-image_caption: >
-  Peake’s haunting illustrations are a major asset of the series
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102045-ams111-titus-groan-large.jpg"
+image_caption: ""
 ---
 
 How do I describe a work like Mervyn Peake’s _Gormenghast Trilogy_? The series, by its very nature, seems to resist description. While often classed as fantasy, and while it is clear that Peake has been a massive inspiration to later fantasy authors like China Miéville, I tend to reject this label. The _Gormenghast _books are a truly unique creation, in a genre of their own – I have never read anything else like them.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082040-pk1811-snowflake_-_microphotograph_by_artgeek.jpg"
-image_caption: >
-  A magnified snow crystal
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082040-pk1811-snowflake_-_microphotograph_by_artgeek.jpg"
+image_caption: ""
 ---
 
 Snowflakes start out life as small particles of dust in a high up cloud. Water freezes around the dust particles, forming tiny ice crystals. At first, the ice crystals grow slowly, developing flat sides known as facets. At this stage they are hexagonal prisms, with eight sides or facets – two shaped like hexagons and six that join the two hexagons together to make the prism. All facets grow at equal rates and, for a while, the ice crystals slowly get bigger. Once they reach a certain size, branches sprout from the six corners of the crystals. The branches grow at the same rate to begin with, because the atmospheric conditions are the same all around the crystals.

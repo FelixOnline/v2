@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 To start with, just to avoid confusion – _The Red Lion_ is in and of itself not a humorous play. Certain scenes were found particularly funny by the audience – perhaps partly because laughing prevents them from thinking too deeply about the situation, and partly because those scenes were meant to be funny; but the play itself has a deadly serious message.

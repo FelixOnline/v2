@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Residential Experience review was announced by College at the start of the year. The aim of this review is to improve the residential experience students at Imperial have. The Union were asked to submit evidence for the review, which was bought to Union Council last week and approved for submission.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181153-felix-12528563_10156595569485394_223107068_o.jpg"
-image_caption: >
-  Professor Joanna Haigh.
-image_attribution: "Natasha Khaleeq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181153-felix-12528563_10156595569485394_223107068_o.jpg"
+image_caption: ""
 ---
 
 Professor Joanna Haigh is one of Imperial’s leading scientists. In 2009, she became the first woman to become Head of the Physics Department. As she’s eager to say herself,  “It’s a great department and a lot of fantastic science is going on here.”

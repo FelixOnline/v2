@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091239-aib116-Uma Thurman.jpg"
-image_caption: >
-
-image_attribution: "Peter Lindbergh/Pirelli Calendar"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091239-aib116-Uma Thurman.jpg"
+image_caption: ""
 ---
 
 Last year, I wrote about Pirelli turning over a new leaf; its 2016 edition had come on the heels of Playboy announcing that it would no longer feature nudity. What a winter of discontent, I said, for the meninists, won’t someone please think of all those poor men fighting for a world where old white dudes can hold more power economically, socially, and politically? It seems the universe is not a fan of gentle sarcasm; the meninists have had the last laugh.

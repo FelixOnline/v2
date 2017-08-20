@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ok I have a confession to make: I absolutely love trashy RnB and Hip-hop from around the millenium. As well as listening to [metronomic dance tunes on print day](http://felixonline.co.uk/music/1245/london-student-vs-felix-day-six--a-song-that-reminds-you-of-somewhere/), the [Sports](http://felixonline.co.uk/sport/) Editor David Wilson and I also spend a significant amount of time listening to Nelly, G-Unit, and sometimes even a little [Usher](http://www.youtube.com/watch?v=bQRzrnH6_HY). (I know, even my mother hates me for it.)

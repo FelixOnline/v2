@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
+image_caption: ""
 ---
 
 Jonathan is the _King of the Jungle_. A small jungle, nestled in Central London, with its population of drunks and crack-heads, smack-heads and prostitutes, and the office girls eating their lunches in the Sun. Once a painter and a major figure in the London art scene, Jonathan is now a park-keeper and professional “tramp shit picker-upper”. He spends his days taking care of the trees and flowerbeds, making sure the garden is clean and that its gates open and close on time. Most definitely not the life of an artist. It is clear early on that he despises his previous life, he speaks bitterly of it and of other painters and writers.

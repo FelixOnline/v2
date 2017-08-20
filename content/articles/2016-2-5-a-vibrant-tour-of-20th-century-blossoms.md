@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051215-felix-4231.jpg"
-image_caption: >
-  Claude Monet,  Water Lilies, 1916-26
-image_attribution: "Cleveland Museum of Art "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051215-felix-4231.jpg"
+image_caption: ""
 ---
 
 To walk into _Painting the Modern Garden: Monet to Matisse_ at The Royal Academy is to plunge into a world of exuberant greenery, of sun-dappled paths, manicured lawns, a land where it is always spring, and Paris is always in bloom.

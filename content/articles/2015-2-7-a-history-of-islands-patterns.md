@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If you want to gauge the measure of a culture, you only need to look at their clothing. The stuffy moralism of the British Puritans was reflected in their monochromatic dress; the grotesque opulence of pre-revolutionary France is woven into the gowns of Marie Antoinette; and – as the new exhibit at the __British Museum__ shows us – the pattern on your barkcloth can mark anything from status, to age, to cultural group.

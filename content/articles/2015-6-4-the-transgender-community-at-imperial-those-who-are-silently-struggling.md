@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050036-cj914-transflag.jpg"
-image_caption: >
-
-image_attribution: "One of the international symbols of transgender activism and support."
-image_attribution_link: "http://GENEQ"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050036-cj914-transflag.jpg"
+image_caption: ""
 ---
 
 The Felix Sex Survey found that 9 of the respondents do not identify with the gender they were assigned at birth. A third of those respondents said they were unhappy with their sex life, and a few commented about the issues they face as transgender individuals.

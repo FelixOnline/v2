@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041159-felix-11]police.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041159-felix-11]police.jpg"
+image_caption: ""
 ---
 
 CCTV of a violent mugging that took place last month near Gloucester Road has been released by the Metropolitan Police, in the hopes that the perpetrators will be found.

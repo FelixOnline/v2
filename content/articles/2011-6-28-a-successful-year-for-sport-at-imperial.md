@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As we reflect on the year gone by, the [ACC](http://www.union.ic.ac.uk/acc/exec/) has a lot it can be proud of. In terms of sporting achievement, this looks set to be a record year for our performance in BUCS, not to mention the successes of clubs competing outside of BUCS.

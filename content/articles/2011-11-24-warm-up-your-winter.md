@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242134-pk1811-spiegel-saloon-(1).jpg"
-image_caption: >
-  Everyone’s obviously too busy watching the latest John Lewis Christmas advert
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242134-pk1811-spiegel-saloon-(1).jpg"
+image_caption: ""
 ---
 
 Spiegel Saloon returns to Central London as part of Hyde Park’s Winter Wonderland. Open until Tuesday 3rd January, the stunning bar and restaurant is the only fully heated place within Winter Wonderland. Going back to the early 19th century, Spiegel Tents were travelling ballrooms and entertainment salons, originating in Belgium. Spiegel Saloon maintains this charming aura of tradition; the bar is spacious – the saloon seats up to 200 visitors – and the comfy sofas and beanbags contribute to a warm welcoming.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292153-tna08-screen-shot-2012-11-29-at-17.52.09.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292153-tna08-screen-shot-2012-11-29-at-17.52.09.png"
+image_caption: ""
 ---
 
 This may be old news to some, but at the start of term, the databases of several universities worldwide were hacked. Called “Project WestWind” according to [the manifesto of “Team Ghost Shell”](http://pastebin.com/AQWhu8Ek), the system intrusions were a protest about changes in modern education, both in terms of rising tuition fees. They also describe a change in the usefulness of higher education, stating “…we have ventured from learning valuable skills that would normally help us be prepared in life, to just, simply memorizing large chunks of text in exchange for good grades”, something I’m sure students may identify with.

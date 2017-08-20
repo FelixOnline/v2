@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092141-dr910-imperial.jpg"
-image_caption: >
-  Students gather to make their views on the restructure clear
-image_attribution: "Afonso Campos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092141-dr910-imperial.jpg"
+image_caption: ""
 ---
 
 When will Imperial march?’ was the question Felix asked [last week](http://www.felixonline.co.uk/?article=499). Government cuts to higher education and tuition fees of up to £9,000 had failed to bring out the inner revolutionary in the average Imperial student. What then would it take to inflame passions on campus? The answer arrived with a flurry of leaves on Wednesday, as hundreds of students took the Life Sciences department to account over what they see as the unjustified and unjustifiable cuts being made to what is, as the department itself admits, ‘[one of the largest life science groups in Europe](http://www3.imperial.ac.uk/lifesciences)’.

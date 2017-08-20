@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
+image_caption: ""
 ---
 
 Another sports club tour has resulted in a broken coach window, with the club now currently suspended as a result.

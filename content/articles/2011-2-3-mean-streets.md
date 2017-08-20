@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031947-nm1010-meanstre.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031947-nm1010-meanstre.jpg"
+image_caption: ""
 ---
 
 On the surface, New York City appears to be the physical embodiment of the American Dream. The wide, leafy spaces of Central Park nestled amongst the glittering spires of the skyscrapers that house the largest financial district in the world project a symbol of prosperity and success across the Atlantic. However every city has an underbelly and the seedy alley's beneath the behemoths of capitalist wealth and highrise apartments have proved irresistible for scores of directors since John Schlesinger's Academy Award winning classic Midnight Cowboy. John Voight's iconic portrayal of a hustler slumming it with Dustin Hoffman's crippled conman introduced American audiences to a new brave style of filmmaking, far from the glitzy optimism of the classic Hollywood aesthetics, and soon a young upstart director was ready to stamp his own impression of this city of contradictions on celluloid.

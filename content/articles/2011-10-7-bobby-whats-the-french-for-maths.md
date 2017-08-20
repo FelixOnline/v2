@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071130-felix-patti-smith.jpg"
-image_caption: >
-  Patti Smith thinking about Poincaré homology spheres. Probably
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071130-felix-patti-smith.jpg"
+image_caption: ""
 ---
 
 There ought to be a word for that moment when, as you’re reclined in blissful peace an arm’s reach from a trashy novel and an iced drink with the Mediterranean sun beating on your overworked, pasty body, you realize that you haven’t got any material for Felix next week. My best attempt has four letters and begins with ‘f’, but I’m sure the Germans must have got a better compound word for it.

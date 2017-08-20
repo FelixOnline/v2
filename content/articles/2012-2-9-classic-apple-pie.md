@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092241-pk1811-apple-pie_-week-4.gif"
-image_caption: >
-  Exact temperatures all round
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092241-pk1811-apple-pie_-week-4.gif"
+image_caption: ""
 ---
 
 This recipe was taken from the book _Vegan Pie In The Sky_ by Isa Chandra Moskowitz.

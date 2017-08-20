@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
-image_caption: >
-  Financial support will be provided for households earning up to £60,000
-image_attribution: "Kadhim Shubber"
-image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
+image_caption: ""
 ---
 
 Imperial College London has [today unveiled](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_12-7-2011-8-25-24) a new bursary package for UK students due to be affected by the planned rise in tuition fees.

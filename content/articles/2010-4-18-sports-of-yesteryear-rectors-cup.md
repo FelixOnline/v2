@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201004181801-jn104-RectorsC.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201004181801-jn104-RectorsC.jpg"
+image_caption: ""
 ---
 
 Blood, sweat and beers. If there were ever three words that would describe the Rector's Cup, they would be it. Last week, we discovered the wonder that was Morphy Day and how it was a sporting and social highlight for half a century. But what of the other events? This week, we delve into the sweet science that is boxing.

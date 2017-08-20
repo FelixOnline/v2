@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161623-felix-IMG-20161123-WA0003-20161214-171124447.jpg"
-image_caption: >
-
-image_attribution: "Ifrah Hussain"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161623-felix-IMG-20161123-WA0003-20161214-171124447.jpg"
+image_caption: ""
 ---
 
 The start of the summer saw planning and preparations for the upcoming academic year get underway at ICSM Netball. With an ever-expanding club, we decided to shift some focus to the development of the club off-court whilst maintaining team progression on-court. One particular area of focus was club engagement within the community with the aim being to use match-free days to organise volunteering opportunities for our members.

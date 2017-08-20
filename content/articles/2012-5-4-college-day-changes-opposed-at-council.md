@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205040221-felix-dsc_2345.jpg"
-image_caption: >
-  Heath opposed the extension of teaching on Wednesday until 1pm on the grounds of students having to
-image_attribution: "Thomas Lim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205040221-felix-dsc_2345.jpg"
+image_caption: ""
 ---
 
 The latest meeting of the Student Union Council was held this Tuesday. One of the issues which dominated the meeting were the changes to the teaching day announced by the College Management Board on the 28th of March. The board has decided to phase out the current noon to 2pm undergraduate lunch time slot, "beginning with first year students in 2012-13, and extending to second year students in 2013-14 and to third year (and above) students in 2014-15". Instead, individual departments will each choose the time when their students have a lunch hour.

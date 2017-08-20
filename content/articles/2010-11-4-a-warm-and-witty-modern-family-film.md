@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041815-ks607-algkidsa.jpg"
-image_caption: >
-  Clever writing makes this a warm and witty film, the hugs helped too
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041815-ks607-algkidsa.jpg"
+image_caption: ""
 ---
 
 The kids are all right. The title makes that clear. But what about the adults? How is a lesbian couple supposed to react when their children start looking for their sperm donor? And what about when they start bonding with him? When he works his way into their seemingly normal family life? The adult protagonists of The Kids Are All Right are lesbians, but this theme is never exploited. It’s not necessarily about the lesbian marriage, it just centres on one. They’re a normal suburban family and Nic (Annette Bening) and Jules (Julianne Moore) face the same challenges that all married couples face.

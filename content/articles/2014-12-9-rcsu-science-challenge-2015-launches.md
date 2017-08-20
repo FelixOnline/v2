@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412091400-ps3110-web-version-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412091400-ps3110-web-version-copy.jpg"
+image_caption: ""
 ---
 
 On Monday, 100 students gathered in the Sir Alexander Fleming Building for the launch of the Science Challenge 2015. The Science Challenge is an annual competition that is open to Imperial College London students and school students across the country, often drawing in hundreds of entries over the course of the competition.

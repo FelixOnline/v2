@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211021639-tna08-med3.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211021639-tna08-med3.jpeg"
+image_caption: ""
 ---
 
 In 1615, Galileo was tried and convicted by the Italian inquisition for his unorthodox views on the heliocentrism of our solar system. His denial to comply and bend over before the established power threw him into house arrest until the end of his life. However, it also sparked a scientific revolution, an attempt to distance knowledge from established sayings, dogmas and stories, whilst giving birth to one of the brightest periods of humanity. For the first time, knowledge and the logical search for truth was put ahead of fairy tales and excuses to sit on gold thrones under marble cupules.

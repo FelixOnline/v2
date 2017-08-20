@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010101622-ks607-TurnerPr.jpg"
-image_caption: >
-  Angela de la Cruz's "sawn-up and deformed canvasses"
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010101622-ks607-TurnerPr.jpg"
+image_caption: "Angela de la Cruz's sawn-up and deformed canvasses"
 ---
 
 The 2010 Turner prize opened on Monday amidst the usual publicity circus, highlights of which this year included Tate Britain attempting to ban any photographers whose work may “result in any adverse publicity” for the prize, and Stuckist Charles Thompson leading his traditional anti-prize protest colourfully ‘engaging’ with director Nicholas Serota on the steps of the gallery.

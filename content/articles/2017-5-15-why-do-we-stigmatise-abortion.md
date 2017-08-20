@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151942-felix-Screen Shot 2017-05-15 at 19.42.28.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151942-felix-Screen Shot 2017-05-15 at 19.42.28.png"
+image_caption: ""
 ---
 
 I haven’t had an abortion. In fact, I only know two people who have and they personally told me of it. One was a girl I went to school with, who had an abortion aged 15, and lost a lot of friends who had never realised they were pro-life until that moment. The other is my mother, who speaks about it with the same straightforward frankness with which she talks about close family deaths: as something sad that mights have been traumatic or difficult at the time, but ultimately is normal and a standard part of life.

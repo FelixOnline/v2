@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041845-ks607-maltamal.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041845-ks607-maltamal.jpg"
+image_caption: ""
 ---
 
 The [Imperial College Fencing Club](http://www.union.ic.ac.uk/acc/fencing/) summer tour saw them invade Malta, escaping from their exams, and starting the week with a bit of night swimming at the villa they had rented in Mellieha for the competition.

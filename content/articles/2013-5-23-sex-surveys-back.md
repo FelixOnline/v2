@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [The Sex Survey has come back for another fucking year](http://felixonline.co.uk/news/3623/sex-survey-2013/). Well that’s a couple of puns out of the way, so I guess we can get onto more serious(ish) stuff.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
-image_caption: >
-  The Mechanical Engineering Department
-image_attribution: "Ian Gillett/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
+image_caption: ""
 ---
 
 A team of technical experts is currently investigating how a £3 million exhaust system, in the Mechanical Engineering building, came to be built with galvanised, instead of stainless steel. The College were reluctant to reveal the cost of fixing the error, saying only that it was less than half of the original cost, meaning that whichever party is found liable could face a bill of up to £1.5 million.

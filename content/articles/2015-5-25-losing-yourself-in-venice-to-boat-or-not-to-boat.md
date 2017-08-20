@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505251358-ync111-p1100656.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505251358-ync111-p1100656.jpg"
+image_caption: ""
 ---
 
 Perhaps one of the most frequently asked question for travelers in Venice is whether they should take the water buses or not.

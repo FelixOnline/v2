@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
-image_caption: >
-  Satellite image of Fukushima nuclear plant
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
+image_caption: ""
 ---
 
 Like all large earthquakes, the Japanese quake occurred in what is known as a subduction zone. In these zones – which are common in the Pacific – large slabs of solid rock called tectonic plates move towards each other. When they collide, the less dense plate will ride over the denser plate, which is forced below the other.

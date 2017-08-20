@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
-image_caption: >
-
-image_attribution: "Dave Stokes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
+image_caption: ""
 ---
 
 Having watched enough music videos and viewed the odd ‘Rich Kids of Instagram’ profile, it’s not unusual to spot an exotic animal being used as a power status symbol or display of wealth for social media. A tiger padding over a marble floor, a marmoset monkey hanging from a chandelier, or a snake being used as a prop in a painstakingly well-lit selfie. All the types of image that would attract plenty of attention. All vanity posts. The animal having one purpose: to add to the backdrop of money.

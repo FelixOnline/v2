@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If you have ever strolled into Imperial Union on a [Jazz n’ Rock](http://www.union.ic.ac.uk/arts/jazzrock/) jam night, chances are you’ve been paralyzed by the sight of Inescapable Fate’s members tearing shit up with an admirable disregard for authorized decibel levels. [Inescapable Fate](https://www.facebook.com/pages/Inescapable-Fate/163518166995537) (IF) is Imperial’s foremost death metal band, and they will get the place they deserve in the limelight at [BONED, the second Felix Music Night](http://felixonline.co.uk/music/1314/boned-at-metric/), taking place at Metric on Saturday 11th June. We spoke to IF about their story and their performance.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031708-felix-justice-league-action.jpg"
-image_caption: >
-
-image_attribution: "Warner Bros. Television"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031708-felix-justice-league-action.jpg"
+image_caption: ""
 ---
 
 Since there are a number of DC Comics adaptations on the horizon, it seems only fitting that an animated series be released to capitalise on its popularity. While Justice League Action is definitely entertaining, how much you personally enjoy it depends on what you’re expecting.

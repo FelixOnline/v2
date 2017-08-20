@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Meat. That quintessential ingredient of all meals. The point of any fare. Or so I’ve been told. I love food; lunch, brunch, pudding, tea, tapas and amuse-bouche are all held in fond regard. I could however easily forgo meat. I’m not a vegetarian. I would definitely not want to be part of that fringe group, though they have my sympathies. Having seen the abuse my sister puts up with from all you rabid animals, I wouldn’t tarnish myself with that brush.

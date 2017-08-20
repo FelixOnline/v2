@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271807-ks607-lordlord.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271807-ks607-lordlord.jpg"
+image_caption: ""
 ---
 
 Lord Kerr, Chairman of the Imperial College Council for over six years, intends to step down in the Summer, a staff briefing indicated. The briefing included an announcement inviting members of the College to encourage people they know as suitable candidates to express interest.

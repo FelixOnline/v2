@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082105-pk1811-luke.jpg"
-image_caption: >
-  Luke Jerram, T4 Bascteriophage, Glass
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082105-pk1811-luke.jpg"
+image_caption: ""
 ---
 
 _Trauma,_[__GV Art__](http://www.gvart.co.uk/)’s new science-inspired exhibition revolves around the different manifestations of trauma. The exhibition explores physical and biological trauma, revealing the effect they have on those who suffer from them and investigating our own personal perception of them.

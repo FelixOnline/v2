@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306071409-tna08-natdpe.jpg"
-image_caption: >
-  Next year's Deputy President (Education): Natalie Kempson
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306071409-tna08-natdpe.jpg"
+image_caption: ""
 ---
 
 Imperial College Union has announced the results for the Summer Elections. This election is for some of the part time positions but also included the sabbatical position of Deputy President (Education), as the former winner will be taking an interruption of studies and so is no longer able to take up the post.

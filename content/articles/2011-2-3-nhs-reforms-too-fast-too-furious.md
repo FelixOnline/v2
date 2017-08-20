@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
+image_caption: ""
 ---
 
 David Cameron has said “fundamental changes” are needed in the NHS. Defending reforms for England, he told the BBC it was right to start now and change was being done “steadily” - amid criticism it is being done too fast. The heads of six health unions, including the BMA, have warned of their “extreme concerns” about greater commercial competition between the NHS and private companies.

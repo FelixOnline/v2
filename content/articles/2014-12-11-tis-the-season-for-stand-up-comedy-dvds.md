@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112116-cj914-russell-howard-cmyk.jpg"
-image_caption: >
-
-image_attribution: "visitlondon.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112116-cj914-russell-howard-cmyk.jpg"
+image_caption: ""
 ---
 
 Chestnuts roasting on an open fire, it’s beginning to look a lot like Christmas, the goose is getting fat. In other words, though you may not know, not having ventured outside South Kensington since the second week of October, Santa is here!

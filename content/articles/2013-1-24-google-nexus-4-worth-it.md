@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242121-mc4509-nexus-4.jpg"
-image_caption: >
-  Nexus 4, a real beaut! The Glitter does put me off a bit though
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242121-mc4509-nexus-4.jpg"
+image_caption: ""
 ---
 
 The best effort at a [Nexus](http://www.google.com/nexus/) phone so far, albeit with some teething issues.

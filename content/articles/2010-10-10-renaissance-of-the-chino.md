@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010101640-ks607-JamesDea.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010101640-ks607-JamesDea.jpg"
+image_caption: ""
 ---
 
 Good news medic boys! Your favourite sports night style staple and go-to firms-wear has found itself on the hottest catwalks of London, Paris, Milan and New York: yes, chinos are actually in vogue.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A guy got on the tube and sat down next to me last week, which is a momentous enough event for me to open the column with because being that close to another human is a sure-fire way to ruin my week in spectacular style. Fortunately for me, the chap in question pulled out an iPhone and opened the notes app, where he began adding to a list – a list which would turn out to be the highlight of the day.

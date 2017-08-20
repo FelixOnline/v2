@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
+image_caption: ""
 ---
 
 Irony simply cannot be expressed in a better way: I was attempting to explain the concept of budget travelling to a PR guy representing Dubai Tourism.

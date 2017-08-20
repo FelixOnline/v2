@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Thousands of student protestors marched on to the streets of London and Manchester once again this past weekend, to demonstrate their anger and disapproval of the government's plans to impose higher tuition fees and introduce public spending cuts.

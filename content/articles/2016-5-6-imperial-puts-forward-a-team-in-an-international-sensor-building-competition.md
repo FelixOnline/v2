@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
-image_caption: >
-
-image_attribution: "SensUs Imperial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
+image_caption: ""
 ---
 
 Imperial College has put forward a team of twelve students to compete in the International SensUs Competition, which aims to produce a creatinine molecular biosensor for healthcare applications. Its applications include uses in monitoring chronic kidney damage, radiology, the cardiovascular system and transplantation.

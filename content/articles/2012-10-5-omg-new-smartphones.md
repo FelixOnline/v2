@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051243-nn1209-tech-race.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051243-nn1209-tech-race.jpg"
+image_caption: ""
 ---
 
 Unless you’ve been trapped under a rock or on a ton of last minute holidays the last month before freshers’ week, you’ll be aware that a ton of great new smartphones been announced.

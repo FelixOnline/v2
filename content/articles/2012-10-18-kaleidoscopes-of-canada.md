@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191359-tna08-boc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191359-tna08-boc.jpg"
+image_caption: ""
 ---
 
 IDM (which, unfortunately, is short for intelligent dance music) is an incredibly interesting genre. Also dubbed “Armchair Techno” , it’s a loosely defined term for experimental electronic music. The sounds lumped under this label can vary wildly, from the hauntingly nostalgic to tracks with beats that go beyond the limits of danceability and syncopation into the realm of pure fetishism. I want to talk about a group from the former end of the spectrum: IDM mainstays Boards of Canada (BoC).

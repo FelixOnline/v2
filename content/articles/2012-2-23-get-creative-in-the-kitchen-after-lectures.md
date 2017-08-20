@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
-image_caption: >
-  Apologies to Clare and Hannah...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
+image_caption: ""
 ---
 
 You have finished lectures, you have just returned home and you are starving. The worst thing is that you’re sick of eating fast food, but you don’t have that much experience with cooking.

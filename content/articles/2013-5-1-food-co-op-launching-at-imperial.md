@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305011921-tna08-final3.jpg-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305011921-tna08-final3.jpg-1.jpg"
+image_caption: ""
 ---
 
 Imperial’s first food co-operative is starting next week! If you are looking for affordable food that benefits the producers and the planet then look no further! The aim of the co-op is to provide the Imperial College community with a one-stop shop for ethically sourced goods. We all know, and particularly during exam times, that eating well can be difficult; even Sainsbury’s on Cromwell Road seems like a trek to another land. We aim to give you a more ethical, and more convenient alternative. Our goods, sourced through a co-operative supplier, are all Fairtrade, grown in Britain or organic (if not a combination of all three)!

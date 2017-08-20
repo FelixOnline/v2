@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082102-felix-img_7895.jpg"
-image_caption: >
-
-image_attribution: "Indy Leclercq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082102-felix-img_7895.jpg"
+image_caption: ""
 ---
 
 Imperial’s fencing teams produced a solid set of results last week in the BUCS knockout championships to ensure their progress to the quarter-finals. Only the Men’s Seconds suffered an unfortunate loss at the hands of Aberystwyth, having made the somewhat epic journey all the way to the West coast of Wales. The Men’s Firsts and Women’s Seconds were both hosting matches at Ethos, against Keele Firsts and Oxford seconds respectively.

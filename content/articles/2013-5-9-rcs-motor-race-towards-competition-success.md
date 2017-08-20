@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305091309-tna08-jezebel.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305091309-tna08-jezebel.jpg"
+image_caption: ""
 ---
 
 Much celebration was had by members of [RCS Motor Club](https://union.ic.ac.uk/rcc/rcsmotor/) as Jezebel, the vintage fire engine they maintain, was awarded ‘Second in Class’ at the 52nd HCVS London to Brighton Run, held last Sunday.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Fisher’s principle is an evolutionary argument that explains why most sexual species tend to have a stable gender ratio that approximates 1:1. The principle is that, as one gender increases in abundance, the marginal value of having offspring of the other gender increases. So any genetic predisposition to have more of one gender than the other gets balanced out. Most species exhibit this property, and historically the gender ratio of Humans at birth has been ~105:100. Males having a slight historical surplus due to our greater tendency than females to get ourselves killed; fighting wars, hunting bears, or similar. The stability innate in Fisher’s principle is elegant, and easily understood, and this is why it is celebrated as one of the greatest arguments in evolutionary theory.

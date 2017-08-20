@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041821-jk708-Fable3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041821-jk708-Fable3.jpg"
+image_caption: ""
 ---
 
 Welcome back to the Kingdom of Albion! 50 years on from the setting of Fable II, [Fable III](http://lionhead.com/Fable/FableIII/) tells the story of a prince having to overthrow the tyrant king that is his brother. The game takes you through the prince’s role at the head of the revolution having to complete quests in order to convince faction leaders that you are worthy to start the uprising.

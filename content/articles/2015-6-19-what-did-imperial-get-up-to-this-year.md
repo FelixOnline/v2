@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506191426-ps3110-screen-shot-2015-06-19-at-14.26.01.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506191426-ps3110-screen-shot-2015-06-19-at-14.26.01.png"
+image_caption: ""
 ---
 
 This year, Felix has covered a plethora of stories from all corners of the campus, covering stories relevant to staff and students alike. We recap the stories we’ve brought to you this year, and what to watch out for next year.

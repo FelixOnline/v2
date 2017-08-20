@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162104-cac111-mogworld3.jpg"
-image_caption: >
-  Jim has clearly had better days...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162104-cac111-mogworld3.jpg"
+image_caption: ""
 ---
 
 Death is a real nuisance. You can’t move, you can’t see, you can’t – well, let’s be honest here, you can’t do much at all. The best you can manage is a bit of basic decomposition, but it’s not really something to brag about (not that you can talk anyway). On the plus side though, you do get some well-deserved shuteye. That is, unless you’re awakened by a rogue necromancer who runs monthly entertainment nights for his undead minions.

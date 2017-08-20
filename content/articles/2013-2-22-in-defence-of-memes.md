@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Memes, meant in the sense of those internet jokes very fond of cats and stylised shouting faces, are often misunderstood.They are seen as part of a nerdy, self-referential culture keen on meta-humour and pushed beyond the limits of common human discourse by its anonymity, and while all of this is absolutely true, they do display some characteristics that can be associated with art. I do not wish to imply that they are at the same level of Dante, Shakespeare and Tchaikovsky, but perhaps they deserve more love and respect than they are currently given.

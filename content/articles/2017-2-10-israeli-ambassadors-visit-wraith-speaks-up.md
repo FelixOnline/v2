@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101334-felix-IMG_6981.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101334-felix-IMG_6981.JPG"
+image_caption: ""
 ---
 
 Two weeks ago the Israeli ambassador to the UK, Mark Regev, visited Imperial to give a talk to students in an event that was shrouded in secrecy. An article detailing what went on at the event and the build-up to the day itself was published in felix last week but since then the chair of the talk, Dr. Matthew Wraith, and his students have contested points in the article (namely Palestinian Society’s statement). A piece on the subject can be found in Comment.

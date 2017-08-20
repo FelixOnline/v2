@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 While hard SF writers such as Asimov are some of the best known names in science fiction I feel that the sub-genre has been somewhat neglected of late. There are of course, several exceptions, some of the most notable of which have to be the works of Alastair Reynolds.

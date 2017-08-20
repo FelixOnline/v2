@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 John Wayne once mumbled, in the five spare minutes he had between starring in every Western movie ever, that “You can get more with a kind word and gun, than you can with just a kind word.” I know he said that, because I read it in a videogame once. And we read that and we think, “Eh, sounds about right.” That quote sounds nice because it’s about superiority and getting your way, and if there’s one thing we absolutely fucking love in this world, after honey-flavored cereals and Deal or No Deal, it’s feeling superior.

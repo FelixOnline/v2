@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
-image_caption: >
-
-image_attribution: "Jill Carlson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
+image_caption: ""
 ---
 
 Do you remember that blissful moment in Pokémon Red, when after walking around at a snail’s pace for so long, you finally could get your bike in Cerulean City and glide effortlessly down Cycling Road to Fuchsia City (or indeed, to anywhere)? No, you probably don’t because now it’s been a long time and you probably were barely born when they were released. Well, I do, because I was nine years old when they came out (in the UK) and along with all the boys in my class, was immediately obsessed.

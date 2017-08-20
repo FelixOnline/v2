@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On my travels about Imperial and the Union I have occasionally heard that “we should engage better with the postgrads” or a statement of similar sentiment. What a wonderful idea it is, although sometimes limited to just that, with little substance to any plans to reach out to an entirely different student community. That is the root problem per se, it is an entirely different student experience, and people just don’t always get that. Imagine trying to reach out to all of the staff members at Imperial?! The approach will be tailored to that cohort, which will further consist of many differing groups and work structures. Post-graduate students are already lumped under one banner when actually a taught MSc can differ vastly from a research based PhD, and any approach to ‘better engage’ needs to reflect that. If you’re an undergraduate, you might have very little contact with anyone other than your course peers, halls friends (& enemies) and activities at the Union. The Union has a predominantly undergraduate involvement in a lot of its activities, and correspondingly many committees are run by undergrads, who have less contact with ‘postgrads’. As such it’s understandable to not fully appreciate those vast differences in lifestyle, but to able to empathise with someone you need to know the issues they face. To cater to someone’s needs, run an inclusive event or properly represent them, you have to know why it is different, appreciate it and then alter plans to accommodate. But that is a very general ideology, and a hard one at that.

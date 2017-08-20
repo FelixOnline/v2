@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Wednesday 11th November marks 97 years since the armistice of the First World War. Across the UK, the poppy will be worn this month as a symbol of commemoration for all the lives lost and affected by conflict.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142013-ks607-peterche.jpg"
-image_caption: >
-  Head of Department, Peter Cheung
-image_attribution: "Imperial College London"
-image_attribution_link: "http://imperial.ac.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142013-ks607-peterche.jpg"
+image_caption: ""
 ---
 
 The [Department of Electrical and Electronic Engineering](http://www3.imperial.ac.uk/electricalengineering) has been forced to clarify its position regarding the payment of its postgraduate students.

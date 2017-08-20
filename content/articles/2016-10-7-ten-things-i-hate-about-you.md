@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610071939-felix-Screen Shot 2016-10-07 at 19.38.43.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610071939-felix-Screen Shot 2016-10-07 at 19.38.43.png"
+image_caption: ""
 ---
 
 We’ve come to the end of Freshers’ Week, and maybe you’ve had a bit too much fun. We’ve all been there, made mistakes, and done things that we live to regret with the bad-boy (or girl) hall senior who seems _so_ mature and experienced. Regardless of how, when, or why, many people all over Imperial will be waking up this week with a worry niggling at the back of their head: _What if I caught something?_

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702071512-felix-8381100558_c20e29bf98_o.jpg"
-image_caption: >
-
-image_attribution: "poppet with a camera"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702071512-felix-8381100558_c20e29bf98_o.jpg"
+image_caption: ""
 ---
 
 Dr Adam Perkins, the King’s lecturer who last week sparked public outrage after a series of offensive tweets were brought to the attention of King’s Intersectional Feminist Community, has issued a public apology on twitter.

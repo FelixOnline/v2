@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172019-nm1010-iphoneip.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172019-nm1010-iphoneip.jpg"
+image_caption: ""
 ---
 
 Incipio is pretty well known for its slimline iPhone cases. From the first generation through to the iPhone 4, Incipio has made some of the best minimal cases money can buy. So you could say Incipio’s latest, the feather for iPhone 4, has some big boots to fill.

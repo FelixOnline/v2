@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060353-jal08-goat-sim-3.jpg"
-image_caption: >
-  HEY GUYS, LET’S PLAY A GAME!
-image_attribution: "coffeestainstudios.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060353-jal08-goat-sim-3.jpg"
+image_caption: ""
 ---
 
 Wondering what games to play this summer? Here’s two great and perhaps unussual suggestions to get you started.

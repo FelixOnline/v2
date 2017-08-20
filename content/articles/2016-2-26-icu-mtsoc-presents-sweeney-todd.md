@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Isuppose you can never really tell which of your friends would make the most convincing serial killer. When auditions were running for MTSoc’s production of Sweeney Todd back in December, the titular role of the murderous barber was hotly contested with auditionees flocking in from as far afield as King’s College to throw their hat into the ring. So when 2nd-year physicist Nick Bradley secured the part of Sweeney - undoubtedly one of the most coveted characters in all of musical theatre, and in his debut performance with the society no less – quite a few people were surprised.

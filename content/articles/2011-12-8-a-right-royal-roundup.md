@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082131-pk1811-modern-warfare-3-cover-art-revealed.jpg"
-image_caption: >
-  One of the big games from 2011
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082131-pk1811-modern-warfare-3-cover-art-revealed.jpg"
+image_caption: ""
 ---
 
 __Hacks, cracks and website attacks__

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200659-felix-dsk-handcuffed.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200659-felix-dsk-handcuffed.jpg"
+image_caption: ""
 ---
 
 France woke up on Sunday morning to widespread shock and disbelief: Dominique Strauss-Kahn, had been arrested in New York City during the night, on allegations that he had raped a chamber maid in Manhattan.

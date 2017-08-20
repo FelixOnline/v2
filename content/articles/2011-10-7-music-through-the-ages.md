@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071332-felix-recordcollection.jpg"
-image_caption: >
-  Your parents' record collection: nothing but a catalogue of embarassing purchases
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071332-felix-recordcollection.jpg"
+image_caption: ""
 ---
 
 Is there a more appealing time warp than an old record player? Not only does the standard matte black metal and peeling wood-look veneer sum up a bygone era, but the sound quality still surpasses anything that digitised files can muster. I’m sure that most of us have, at some point in our adolescence, played some of our parents' ageing record collection out of curiosity and I’m sure that most of us were quite disappointed; for me, the artists were so disappointing that I didn’t even take the records out of their covers.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial houses some of the wealthiest students in the UK. At Imperial, students are only able to live in college provided student accommodation for their first year, before moving out with friends or becoming a hall senior. As SW7 is the most expensive postcode in the UK, rent in the neighbourhood can be extremely expensive. One way some parents get around this problem is through investing in property in London. Trends are good at the moment in London, with the London Property Watch measuring 14.2% growth in house prices for a one bedroom property in London between October 2012 and October 2013.

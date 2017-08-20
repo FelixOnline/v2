@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090303-jal08-2bmuesp7iqai9dye.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090303-jal08-2bmuesp7iqai9dye.jpg"
+image_caption: ""
 ---
 
 Lugging the recommended 200 copies of Felix, I skilfully avoided Friday rush hour and made my way to King’s Cross to attend the Student Publication Association National Conference (#SPANC) being hosted at Nottingham Trent University. Due to an administrative oversight (idiocy) tickets were exclusively via Grantham (lovely station) and highly reasonably priced (expensive). After relieving myself of about 30kgs worth of newspaper at the hostel, I headed on down to Nottingham Trent Union (NTU) to meet with my hosts and the other Felix rep (our estimable Editor-elect).

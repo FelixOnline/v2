@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502152303-ps3110-newseventsimages.jpg"
-image_caption: >
-  An Artist's impression of the new halls in Acton
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502152303-ps3110-newseventsimages.jpg"
+image_caption: ""
 ---
 
 Students present at Union Council this week voted in favour of new rent proposals, which included lowering the suggested rates for the new student accommodation based in Acton. The new hall, now named Woodward, will open next academic year; students will face a commute time upwards of thirty minutes to get to campus.

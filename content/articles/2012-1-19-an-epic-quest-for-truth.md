@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
-image_caption: >
-  Russell-ing up some serious artwork
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
+image_caption: ""
 ---
 
 _Logicomix_ is a rather unusual book – an exploration of the early development of mathematical logic, interwoven with the profound story of the life of one of the greatest thinkers in the field – Bertrand Russell – all told in graphic novel format. A tall order for any work, but _Logicomix_ manages it admirably.

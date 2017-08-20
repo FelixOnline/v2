@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405191421-jal08-sport_cricket_redknapp.jpg"
-image_caption: >
-
-image_attribution: "ICU Cricket"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405191421-jal08-sport_cricket_redknapp.jpg"
+image_caption: ""
 ---
 
 On Sunday 11th May Imperial 1st XI played at home against Royal Holloway 1st XI in a LUSL fixture.

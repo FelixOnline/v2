@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s been nearly sixty years since Marilyn Monroe and Jane Russell told of the gentleman’s penchant for blondes, but it has recently come to light that mother nature herself may feel the same way: blonde hair evolved twice.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101404-felix-smoke-1580460_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101404-felix-smoke-1580460_1920.jpg"
+image_caption: ""
 ---
 
 I can’t speak for everyone, but when I think of China in relation to the environment, an image of coal and smog-full Beijing, with millions of citizens running around in protective anti-pollution masks, springs to mind. Henry Wang, in his talk Energy and Environment Growth Strategies hosted by the Imperial Energy Society, brought a ray of optimism in the future of China’s energy mix and environmental legislation.

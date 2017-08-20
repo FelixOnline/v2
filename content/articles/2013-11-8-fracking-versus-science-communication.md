@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080922-felix-screen-shot-2013-11-08-at-09.22.14.png"
-image_caption: >
-
-image_attribution: "MotherEarthNews"
-image_attribution_link: "http://www.motherearthnews.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080922-felix-screen-shot-2013-11-08-at-09.22.14.png"
+image_caption: ""
 ---
 
 The word ‘fracking’ has become aligned with unconditional taboo in the United Kingdom in a two year interval. Strong public scepticism has been fuelled by the parade of paraphernalia arriving from the USA. Images ranging from flaming taps right through to ominous ‘frack pads’ litter the internet. In the summer of 2013 protestors took to the streets at the G8 Summit in Fermanagh. Balcombe became the focal point in the notorious Cuadrilla row, exhibiting some of the most vitriolic resistance.

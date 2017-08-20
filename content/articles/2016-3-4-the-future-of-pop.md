@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041144-felix-sophie.jpeg"
-image_caption: >
-  PC music!!!!1
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041144-felix-sophie.jpeg"
+image_caption: ""
 ---
 
 Until recently, many saw the netlabel and electronic collective **PC Music** as the future of pop. However, even after a number of brilliant, innovative releases they’ve remained on the fringes. **Danny L Harle**’s debut EP _Broken Flowers_, their first release on a major label, might have had a single that made it onto BBC Radio 1’s ‘A-List’, but he’s failed to capitalise on this success. Similarly, **SOPHIE**’s compilation album, _Product_, which was released last year seemed like a bit of a flop, considering that its release also coincided with the launch of a sex toy.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282052-nm1010-unionemb.jpg"
-image_caption: >
-  Everyone agreed that it was the worse game of Tetris in living memory
-image_attribution: "Chris Darby"
-image_attribution_link: "https://twitter.com/#!/ICUchris"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282052-nm1010-unionemb.jpg"
+image_caption: ""
 ---
 
 For a moment there, it looked like everything was coming together. FiveSixEight, despite problems and delays, opened to a lively first night. Everyone - even the engineers - seemed to be having a good time.

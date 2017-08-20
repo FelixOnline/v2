@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141921-rsp07-fencing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141921-rsp07-fencing.jpg"
+image_caption: ""
 ---
 
 It was a weekend of mixed fortunes for the IC fencing club at the BUCS individual championships in Nottingham. Held annually, the competition brings together the best university fencers from around the country. Last year Imperial had three podium finishes, with Hannah Bryars taking the gold in women’s foil. Could we do better this time?

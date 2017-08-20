@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142122-ams111-games.jpg"
-image_caption: >
-  Don’t blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink. Good Lu
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142122-ams111-games.jpg"
+image_caption: ""
 ---
 
 Any class D personnel are to stop reading this article immediately. Further reading with result in immediate termination.

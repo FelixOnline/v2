@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292302-csw09-trouble-with-the-curve.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292302-csw09-trouble-with-the-curve.jpg"
+image_caption: ""
 ---
 
 Aren’t you tired of this same old formula? Once again, we get an underdog sports movie (baseball…yawn…) that carves out its path the minute the lead character is introduced. Once again, we see the ageing Clint Eastwood playing a grumpy man with snarky outbursts and failing health or to put more simply, channelling what he did in Gran Torino. Once again, Amy Adams fills the role of a charming, adorable female, this time as Eastwood’s daughter. Once again, singer-turned-serious-actor Justin Timberlake eases into the role of a cheeky young love interest.

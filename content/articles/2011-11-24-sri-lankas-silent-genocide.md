@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242243-pk1811-srilankaarmy.jpg"
-image_caption: >
-  Sri Lankan armed forces are accused of carrying out genocide
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242243-pk1811-srilankaarmy.jpg"
+image_caption: ""
 ---
 
 On Monday 21st November and Tuesday 22nd November Imperial’s International Tamil Society organised and ran a successful Breaking the Silence Campaign. They are one of eight different universities in London participating in the campaign. Their stalls quickly became overwhelmed with inquisitive passers-by, who were interested and, more often than not, shocked and infuriated at what they learnt at the stall. There was also a Krispy Kreme sale which helped raise £150 and will go towards those caught up in the final days of the war in 2009. For those of you who weren’t able to attend, or those who are further interested, this article details the message that Breaking the Silence is trying to convey.

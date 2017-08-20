@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241222-ps3110-pr8a7849---glare,-amar-muchhala-as-alex-©-roh---photograph-by-stephen-cummiskey.jpg"
-image_caption: >
-  Amar Muchhala as Alex, in Glare
-image_attribution: "Photo: Stephen Cummiskey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241222-ps3110-pr8a7849---glare,-amar-muchhala-as-alex-©-roh---photograph-by-stephen-cummiskey.jpg"
+image_caption: ""
 ---
 
 A blinding light descends on the crowd, momentarily dazzling us. In that moment, the world of this production descends, transporting us into a dystopia, disconcertingly similar to our own, where nothing can be taken for granted.

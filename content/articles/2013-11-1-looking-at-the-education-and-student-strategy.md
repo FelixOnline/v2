@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 College has released a new Education and Student Strategy this week which “sets out our vision, aims and priorities for education and the student experience.” The scope of the document is a guide for the development of the education system and student experience over the next five years, providing a strong framework for improvements that students will hopefully benefit from over this period of time.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511271416-ygr12-lion_porcupine.jpg"
-image_caption: >
-
-image_attribution: "Carnivoraforum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511271416-ygr12-lion_porcupine.jpg"
+image_caption: ""
 ---
 
 The lion has long been hailed a most majestic and fearsome creature. Respected by the other animals within its habitat, the lion has a purpose, pride and courage. And as far back as the time of Richard I, the lion has been used as England’s national animal for all the aforementioned reasons. As a nation, we supposedly share these qualities with the lion, hence the massive statues in Trafalgar Square, amongst other places, paying homage to our national animal.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201509271929-ygr12-12041868_10153686561361683_1728173960_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201509271929-ygr12-12041868_10153686561361683_1728173960_n.jpg"
+image_caption: ""
 ---
 
 On Monday the medics will be demonstrating. The proposed changes to junior doctors’ contracts place patient safety at risk. In short, pay will be slashed and ‘sociable hours’ will be extended to 7am through to 10pm Monday to Saturday, normalising fifteen hour working days. Changes to pay progression will disadvantage part time trainees – women taking maternity leave, amongst others. I must make myself very clear here, this is not about money. This is about patient safety and doctors’ safety, but the two are inextricably linked. No one wants to be treated by an exhausted, demoralised, overworked doctor.

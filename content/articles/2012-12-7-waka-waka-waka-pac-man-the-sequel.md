@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212121227-lap08-img004673-br500.jpg"
-image_caption: >
-
-image_attribution: "saturn.jpl.nasa.gov"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212121227-lap08-img004673-br500.jpg"
+image_caption: ""
 ---
 
 At one point it was just Mimas, one of Saturn’s 62 moons, that looked like 80’s gaming legend [Pac-Man](http://en.wikipedia.org/wiki/Pac-Man). Now Tethys, another Saturnian natural satellite, becomes the second.

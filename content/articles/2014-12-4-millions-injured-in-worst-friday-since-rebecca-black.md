@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041926-cj914-blackfriday-copy.jpg"
-image_caption: >
-  Artist's impression of scene at Currys Worthington
-image_attribution: "youtube.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041926-cj914-blackfriday-copy.jpg"
+image_caption: ""
 ---
 
 Horror at Currys PC World Workington branch as millions of people flocked to the store to pick up excellent deals on the best and latest technology, ranging from 2.5mm microphone cables to ruby-encrusted vibrators.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In his [Commemoration Day address](http://www.youtube.com/watch?v=lN0lzKWPn7M) this year, the Rector, Sir Keith O’Nions, recalled a conversation he had with an alumnus of Imperial. The alumnus, who graduated in 1966, told him that in her time here only 180 of the 3500 students were women. Sir Keith told those of us gathered at the Royal Albert Hall that he had looked up the statistics and this had been, in fact, a slight overestimate. He used this as an example of the “massive changes” that have taken place at the college over recent years.

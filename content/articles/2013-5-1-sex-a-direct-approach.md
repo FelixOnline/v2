@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305011900-tna08-russellbrand.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305011900-tna08-russellbrand.jpg"
+image_caption: ""
 ---
 
 "Can I come on your tits?” – I thought this was a somewhat forward request for our first night together but personally I’m quite sexually liberated and as a result didn’t think much to it. Well not until later when he asked to come on my face. Don’t get me wrong It’s not that I have anything against experimental ejaculation per se, hell I think it’s kind of hot. However, it did strike me as pretty unorthodox coming from someone I’d only met a couple of times. What if I’d been a demure, reserved kind of girl, who only enjoyed missionary and spooning? And whilst I think it’s fair to assume that I don’t exactly exude timid wallflower, the question remains: what made this guy think it was okay to make such a request?

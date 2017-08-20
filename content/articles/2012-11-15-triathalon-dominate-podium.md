@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152222-tna08-triathlon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152222-tna08-triathlon.jpg"
+image_caption: ""
 ---
 
 On what felt like the coldest morning of the year so far, a selection of Imperial Triathlon members met while it was still dark to ride off towards Paddington, and to the first race on our calendar. The team was severely dented with four members dropping out at the last minute due to falling down stairs (valid), recurring hip problems (valid), misjudged coursework deadline (crap excuse) and a no show(WTF??!). But never the less, the ten-strong team headed out into the darkness.

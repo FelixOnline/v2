@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
-image_caption: >
-
-image_attribution: "Dana Li"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
+image_caption: ""
 ---
 
 “What do you think of Venice?” I asked. “Tourist trap”, replied Dylan. When he next told me that he hadn’t even been, I decided his opinion was invalid: I wasn’t prepared to discuss the pitfalls of this dream destination, considering the countless praise it gets.

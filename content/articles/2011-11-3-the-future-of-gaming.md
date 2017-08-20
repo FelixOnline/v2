@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
-image_caption: >
-  Fuel up on plutonium, ‘cos we’re heading into the future!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
+image_caption: ""
 ---
 
 _Interested in how gaming got to where it is today? [See our companion article here!](http://felixonline.co.uk/games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour/)_

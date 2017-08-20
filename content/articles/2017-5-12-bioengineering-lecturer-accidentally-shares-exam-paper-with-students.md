@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121851-felix-3005650135_f3fabbe642_o.jpg"
-image_caption: >
-  You can't upload an exam paper by accident if you don't use a computer
-image_attribution: "Shawn Campbell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121851-felix-3005650135_f3fabbe642_o.jpg"
+image_caption: ""
 ---
 
 Last week a lecturer accidentally shared an upcoming exam paper with their first-year bioengineering students.

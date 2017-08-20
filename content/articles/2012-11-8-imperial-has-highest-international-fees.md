@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211090004-tna08-feedragon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211090004-tna08-feedragon.jpg"
+image_caption: ""
 ---
 
 Imperial College has been found to charge the most for their International student tuition fees out of the Russell group universities. The data shows that Imperial’s international students who do clinical medicine are charged a massive £39,150.

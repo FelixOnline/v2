@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
+image_caption: ""
 ---
 
 This may end up in the bullshit graveyard of sensationalist physics speculation, but seemingly impossible occurrences – such as a shattered pane of glass returning instantaneously to its original form, a Latte separating back into pure coffee and milk, or Megan Fox replying to my emails – are not as conceptually absurd as they may appear at first glance.

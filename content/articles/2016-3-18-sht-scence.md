@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we try to show that all science, preposterous as it may sound, is useful to humanity and increases the sum of human knowledge. That is, even when the research seems to investigate something that is so bleeding self-evident, it makes you want to cry.

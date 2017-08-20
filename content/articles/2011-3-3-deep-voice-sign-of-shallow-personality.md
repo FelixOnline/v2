@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032032-ks607-barrywhi.jpg"
-image_caption: >
-  Surely not you, Barry?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032032-ks607-barrywhi.jpg"
+image_caption: ""
 ---
 
 Men with deep and manly voices are more likely to be judged as unfaithful by woman, compared to those with a higher vocal register – good news, perhaps, for Joe Pasquale.

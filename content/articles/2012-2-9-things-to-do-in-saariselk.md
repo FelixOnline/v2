@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092248-pk1811-4.jpg"
-image_caption: >
-  What’s the time, Mr. Wolf? I don’t have a bloody clue
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092248-pk1811-4.jpg"
+image_caption: ""
 ---
 
 Saariselkä is a small tourist village in mountainous northern Finland which offers a beautiful landscape, various snow-based activities to get involved in and, of course, an opportunity to see the Northern Lights.

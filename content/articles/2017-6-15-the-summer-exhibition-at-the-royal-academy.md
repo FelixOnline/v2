@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
-image_caption: >
-  Assorted works the The Summer Exhibition | Photo: Indira Mallik
-image_attribution: "Indira Mallik"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
+image_caption: ""
 ---
 
 There aren’t many galleries in which you might expect to see a multimillion pound creation by a Turner prize winning artist exhibited on equal footing with an oil by Joe Bloggs from Surrey, but that is exactly what the Royal Academy’s Summer Exhibition offers. Each year, tens of thousands of works are submitted to the Summer Exhibition, not only from established artists but also from amateurs and students. These are then whittled down to the 1100 works ultimately displayed on the walls of the Royal Academy by the Hanging Committee, this year headed by Eileen Cooper.

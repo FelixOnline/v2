@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232129-cac111-hannahbucs.jpg"
-image_caption: >
-  You wouldn't wanna mess with her!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232129-cac111-hannahbucs.jpg"
+image_caption: ""
 ---
 
 Last weekend [Imperial’s Archery Club](http://dougal.union.ic.ac.uk/acc/archery/) travelled to Telford for the 2011-2012 [BUCS indoor championships](http://www.bucs.org.uk/page.asp?section=13034%A7ionTitle=Indoor+Championships). This event is the most popular student archery competition on the calendar and this year was no exception with a new record of over 520 entrants descending on the Telford International Centre.

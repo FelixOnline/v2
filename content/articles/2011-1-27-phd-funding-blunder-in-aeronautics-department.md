@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101280841-ks607-roderich.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101280841-ks607-roderich.jpg"
+image_caption: ""
 ---
 
 Eleven PhD students in the [Department of Aeronautics](http://www3.imperial.ac.uk/aeronautics) have been left angered and confused after their monthly bursary payments were cut in December and January. No forewarning was given to the students; a blunder described as “unfortunate” by the Head of Department.

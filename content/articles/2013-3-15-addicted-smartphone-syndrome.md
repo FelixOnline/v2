@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150110-tna08-thinker_iphone.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150110-tna08-thinker_iphone.jpg"
+image_caption: ""
 ---
 
 Smartphones affect almost every aspect of the average student’s life. Marvels of modern technology, something underlined by the much quoted: “your smartphone has the equivalent processing power of the computers used for the Apollo space missions”, they have revolutionised the way we interact with other human beings as well as giving us tools to accomplish a multitude of tasks. In a sense these increasingly powerful devices have freed us from a desk-bound environment, as they can fulfil many tasks that your average desktop would do. All in all it seems smartphones enrich our daily lives.

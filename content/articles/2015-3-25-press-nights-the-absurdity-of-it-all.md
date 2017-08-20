@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251244-ff712-untitled.jpg"
-image_caption: >
-  Statler and Waldorf from The Muppet Show.
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251244-ff712-untitled.jpg"
+image_caption: ""
 ---
 
 One of the perks of writing for the Felix Arts section has of course got to be all of the free tickets we get: plays, exhibitions, opera, you name it (even puppetry…)! I still find it amazing to think that these art establishments actually somewhat value our work, even if it is just that free publicity trumps empty seats.

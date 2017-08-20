@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091943-ps3110-fossil.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091943-ps3110-fossil.jpg"
+image_caption: ""
 ---
 
 The world is waking up to the reality of approaching dangerous temperature rise. And that’s without considering the catastrophic hurricanes, changes to ocean currents, mass extinctions globally, political instability, war, famine, human displacement on a biblical scale, and the growing injustice of global inequality, with ever more power shifting to the 1%.

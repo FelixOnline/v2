@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291153-js5913-pitch-perfect-2-2.png"
-image_caption: >
-  I wrote this caption before I found the picture, which is why what I'm writing has no relevance at all to what you're seeing. You know you love it. (I even had to find a different picture for the web, this caption just keeps on giving)
-image_attribution: "Elizabeth Banks/Universal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291153-js5913-pitch-perfect-2-2.png"
+image_caption: ""
 ---
 
 It’s a well-known fact that comedy sequels are tricky. For every occasional good one, there is a whole host of bad ones. _Pitch Perfect_ was one of 2009 most surprising hits, making back its money in a big way and having one of the most downloaded soundtracks of the year.

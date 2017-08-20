@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I learned this week that the Spanish government have recently been taking lessons from George Orwell. The new Citizen Security Bill is a title worthy of the delicious irony heaped upon the various ministries in 1984, while the Spanish government is trying to use it to introduce new laws that brings the Spain of Franco (as described by Orwell) uncomfortably close.

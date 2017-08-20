@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There are a good number of reasons why you may want to join one or more of the plethora of membership schemes offered across the capital. Do you want to show off to everyone how cultured you are? Maybe you simply can’t stand to queue. Perhaps you relish going to members-only areas. Hopefully though, the number one reason is that you love soaking up any exhibition that comes flying onto your radar. And so I’ve compiled a list of my memberships, answering questions like; “Is it worth the money?”; “what benefits do I get?” ; and most importantly “what is the members’ bar like?”

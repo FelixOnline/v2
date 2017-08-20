@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291647-ff712-gallery-diehard-3.jpg"
-image_caption: >
-  Don't be sad Bruce, there are loads of other films you can see!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291647-ff712-gallery-diehard-3.jpg"
+image_caption: ""
 ---
 
 I love _Die Hard_. In fact, I’m one of those people who call it one of the best Christmas films of all time. The issue is that I am banned – as we all should be – from watching the film until at least the start of December. Until then, it looks like we need some other action films to fill the void:

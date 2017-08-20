@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
+image_caption: ""
 ---
 
 The Galaxy Tab is a 7-inch Android-based tablet device from Samsung. It’s been dubbed the first serious competitor to the current king of the slates, Apple’s iPad. But does the the Galaxy Tab really have what it takes to top wishlists this Christmas or will the iPad reign supreme? Read on to find out.

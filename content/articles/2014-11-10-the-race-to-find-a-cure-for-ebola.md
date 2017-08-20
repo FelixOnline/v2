@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102135-ps3110-ebola_virus_(2).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102135-ps3110-ebola_virus_(2).jpg"
+image_caption: ""
 ---
 
 The Ebola outbreak has claimed about 4,900 lives to date mostly in the poverty-stricken countries in West Africa — Sierra Leone, Liberia and Guinea. As the death toll and number of cases rise exponentially, scientists are scrambling to develop treatments that would stop this epidemic, which Oxfam describes as a “humanitarian disaster”. Until there are vaccines approved by the FDA, standard public health containment measures will be used to control the situation.

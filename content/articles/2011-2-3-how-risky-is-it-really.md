@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 David Ropeik tackles a subject that both fascinates and bewilders us, taking apart the human psyche to try and explain why it is that we fear the things we do, however irrational those fears are. He separates the risks associated with common fears such as snakes from long-term risks which in the end are the ones that we are not instinctively able to deal with. Ropeik explains both the mental process that has made fear a fundamental part of our evolution and the rational approach we have developed in dealing with risks over time.

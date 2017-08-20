@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
-image_caption: >
-  Thick, white and deliciously sticky - just what the doctor ordered.
-image_attribution: "luxlife-blog.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
+image_caption: ""
 ---
 
 Your committed relationship to Wasabi for breakfast, lunch, dinner AND midnight snack is just not working any more. You’ve tried everything at Hummingbird from cupcakes to whoopie pies, risking diabetes and an E number overload. You’ve even set foot into Roots &amp; Bulbs desperate for something new, green and wholesomely natural.

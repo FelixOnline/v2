@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142114-tna08-imperial-civils-high-res-2.jpg"
-image_caption: >
-  The Imperial students in the Final
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142114-tna08-imperial-civils-high-res-2.jpg"
+image_caption: ""
 ---
 
 Three second-year Civil Engineering students make up the only team from Imperial College to have passed onto the Finals of the 2013 BP Ultimate Field Trip challenge. Edward Courtnell, Stephen Rose and Dominik Sznajder are now facing teams from Oxford, Strathclyde and Glasgow Universities for the chance to win a 2-week trip and a cash prize of £1000. The group of friends went from regular term work of solving problem sheets and revising for progress tests, to climbing up the ladder and impressing BP executives at last week’s Semi-Final.

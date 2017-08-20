@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012043-tna08-olympus-has-fallen09.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012043-tna08-olympus-has-fallen09.jpg"
+image_caption: ""
 ---
 
 With tensions in North Korea constantly on the rise, Gerard Butler’s new action-packed outing tells a story that doesn’t seem far too out of reach.

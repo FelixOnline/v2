@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Currently, the tablet market is undeniably dominated by Apple, with Google’s Android looking to take some share with Honeycomb. The tablet OS that has seen far less of the limelight so far however is Windows 7. Known of course as a desktop and laptop OS, it’s also perfectly useable on a tablet, and this is what the Asus EEE Slate EP121 brings to the table.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201006161924-srg03-3DHDTV.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201006161924-srg03-3DHDTV.jpg"
+image_caption: ""
 ---
 
 The age of the red-and-blue grainy cliché is over! Cast aside your cheap cardboard spectacles and make way for a new era of unparalleled 3D realism accompanied by spectacular picture quality. However, instead of overpriced cinema screenings the revolution is going to happen right in your front room, changing the televisions and video games we know and love for ever.

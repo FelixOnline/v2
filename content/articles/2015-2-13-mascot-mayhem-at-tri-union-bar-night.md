@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
-image_caption: >
-  Why is he wearing that cloak?!
-image_attribution: "Facebook"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
+image_caption: ""
 ---
 
 It seems that City and Guilds College Union (CGCU) have been foiled again; this time having their mascot, Spanner, stolen from right under their noses.

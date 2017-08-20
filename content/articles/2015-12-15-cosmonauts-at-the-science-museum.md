@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It seems that space is becoming more and more part of our daily reality. Last year we landed on a comet, the creation of Interstellar produced the most accurate representation of a black hole to date, Pluto’s beauty was finally captured by New Horizons, there’s serious talk about sending one-way manned missions to Mars further fuelled by the discovery of liquid water flowing on the surface of the planet, space planes are officially a reality and in less then a week we’ll be casually sending a UK astronaut to the ISS. No biggie.

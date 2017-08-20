@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102124-felix-grouper.jpg"
-image_caption: >
-  Grouper – a master of technical trickery
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102124-felix-grouper.jpg"
+image_caption: ""
 ---
 
 St Giles in the Fields, a church in Soho, is not the most conventional musical venue, but its large, echoing space perfectly suited Grouper’s recognisable brand of ethereal ambient pop.

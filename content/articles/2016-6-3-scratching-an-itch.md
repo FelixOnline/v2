@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031125-felix-games1.jpg"
-image_caption: >
-  I’m seeing double.
-image_attribution: "animal phase"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031125-felix-games1.jpg"
+image_caption: ""
 ---
 
 _Into_, or, _I Turned My Autobiography Into a Fictional Second-Person Surreal Coming-Out-Of-Age Dramedy and Now My Life Is Happier_ is not like many experiences you’ve interacted with before. In three short, distinct scenes it captures one person’s coming of age. Across these the screen focuses equally on two hands, two heads, and two bodies. These are two different people but together they tell the story of one.

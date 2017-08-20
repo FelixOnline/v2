@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102018-pk1811-252_5283.jpg"
-image_caption: >
-  Wilson House
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102018-pk1811-252_5283.jpg"
+image_caption: ""
 ---
 
 Wilson House has been removed from Imperial College’s accommodation website for prospective students. In February, it was [reported](http://felixonline.co.uk/news/2152/wilson-review-could-lead-to-rehousing/) in Felix that the hall could potentially be closed for refurbishment for the 2012-2013 academic year.

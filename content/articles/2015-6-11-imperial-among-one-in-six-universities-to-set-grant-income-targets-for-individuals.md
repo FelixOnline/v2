@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112309-cj914-imperial.jpg"
-image_caption: >
-  Individual targets have been criticised.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112309-cj914-imperial.jpg"
+image_caption: ""
 ---
 
 A Freedom of Information request by _Times Higher Education_ (THE) has revealed that Imperial College London is among around one in six universities in the UK to set targets for the amount of grant money brought in by its academics.

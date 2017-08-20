@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
+image_caption: ""
 ---
 
 In mid September, Europe began to howl. Guttural, deep, pained. On one day, Spain joined Italy, France and Ireland in staging a General Strike. The hot streets of Cadiz thronged with protesters; shops had doors glued or taped shut. Europe had arisen to protest austerity measures imposed to combat massive national debt (16% of GDP in Spain’s case). Their people faced lowered minimum wage, mass unemployment (peaking at 20%) and stark cuts in order to meet Prime Minister Zapatero’s aggressive plan to reduce debt.

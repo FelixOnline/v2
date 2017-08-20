@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311011036-felix-ideas360-what-if.jpg"
-image_caption: >
-
-image_attribution: "Shell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311011036-felix-ideas360-what-if.jpg"
+image_caption: ""
 ---
 
 __Shell Ideas360__

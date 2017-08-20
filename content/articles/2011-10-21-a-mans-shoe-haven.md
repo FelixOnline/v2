@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211124-ak6309-offspringxtopshopbeg.jpg"
-image_caption: >
-  Who needs shoes? I use reinforced bin bags – deal with it
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211124-ak6309-offspringxtopshopbeg.jpg"
+image_caption: ""
 ---
 
 I rather like shoes, which is a problem because buying shoes is usually the low point of any shopping trip, especially for men. I guess we buy fewer shoes and don’t spend as much money on them, and thus as inferior customers get massively inferior treatment in shoe shops.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151957-ig711-freud_1952749b.jpg"
-image_caption: >
-  Lucian was on the whole disappointed with the results of his diet regime
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151957-ig711-freud_1952749b.jpg"
+image_caption: ""
 ---
 
 [_Lucian Freud Protraits _](http://www.npg.org.uk/freudsite/)is a monumental exhibition, revealing the life-long strive of the artist to capture the mystery of human flesh. Freud, from his beginnings one of the greatest artists of the 20th Century, has struggled with his art, learning and challenging himself up to his death last summer at the age of 88. Until then, he had been working closely with the National Portrait Gallery to prepare this exhibition; one of the painting was left unfinished, its striking incompleteness proof of his energy.

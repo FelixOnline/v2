@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221409-rsp07-science.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221409-rsp07-science.jpg"
+image_caption: ""
 ---
 
 When Ethiopia commenced construction of a dam on the Upper Omo river in 2006, groups downstream in Ethiopia and Kenya made their opposition clear. The dam, they said, would affect communities and wildlife by interfering with the annual supply of nutrient-rich floodwaters that nourish grazing areas and wetlands.

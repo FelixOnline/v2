@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I was linked to a post on Political Scrapbook this week, a blog which seems to mostly cover UK politics from the sort of left–wing perspective that makes you want to pat in on the head and pinch its cheek. The post in question highlighted the genocide–worthy activities of the York University Young Conservatives (YUYC), a bunch of incredibly distasteful foetuses who have taken to the Tory stereotype like a particularly fascist duck to a pond full of army uniforms. There were the usual arse–faced drunk Facebook photographs, of course. But mixed in with these were some unbelievable ‘hilarious’ posters offering a buffet of horrible, insulting slogans like a Cadbury’s selection box of human faeces.

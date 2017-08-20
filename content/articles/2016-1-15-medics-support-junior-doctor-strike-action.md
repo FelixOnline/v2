@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601151118-felix-thumb_IMG_0005_1024.jpg"
-image_caption: >
-  Students and junior doctors hand out flyers and stickers outside South Kensington on Tuesday.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601151118-felix-thumb_IMG_0005_1024.jpg"
+image_caption: ""
 ---
 
 On Tuesday, junior doctors went on strike  for 24 hours, in protest against the government’s proposed changes to their contracts. Doctors say  these changes will involve both dangerously long working hours for them, which will in turn endanger patients, as well as an effective pay cut.

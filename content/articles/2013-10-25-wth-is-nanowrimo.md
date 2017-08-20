@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250112-felix-nanowrimo.png"
-image_caption: >
-  NaNoWriMo: National Novel Writing Month
-image_attribution: "NaNoWriMo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250112-felix-nanowrimo.png"
+image_caption: ""
 ---
 
 Whether it’s swimming 500 lengths or climbing 5,000 metres, we all know about the athletic challenges that some people rise to. Fewer know about the creative challenge that over a quarter of a million aspiring authors take up each year: writing a 50,000 word novel in thirty days.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Could Miley Cyrus help lower your energy bills?” asked the Daily Mail. The answer: probably not, but ambient noise could increase the efficiency of solar cells, researchers at Imperial College and Queen Mary University of London have found.

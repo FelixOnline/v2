@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032003-ks607-sleeping.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032003-ks607-sleeping.jpg"
+image_caption: ""
 ---
 
 Research has revealed how the replaying of memories while we are awake leaves them vulnerable to interference and distortion. The study, published in the journal Nature Neuroscience, showed that by reactivating these memories during our sleep, they are protected from this manipulation, particularly during slow wave sleep (SWS). SWS occurs in stages 3 and 4 of non-REM sleep, and we will normally SWS in periods of longer than 20 minutes, or extended power naps.

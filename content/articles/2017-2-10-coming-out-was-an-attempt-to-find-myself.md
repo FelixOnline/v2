@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101344-felix-Screen Shot 2017-02-10 at 13.44.13.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101344-felix-Screen Shot 2017-02-10 at 13.44.13.png"
+image_caption: ""
 ---
 
 I was a special kid (the lonely and isolated type, always lost in their thoughts).  Around the age of five, I remember first hearing about homosexuality and even though it was not quite described as a ‘bad thing’, I still associated it with something to be afraid of. I told myself “with my luck, it will happen to me too” while thinking about a family member who was actually gay.

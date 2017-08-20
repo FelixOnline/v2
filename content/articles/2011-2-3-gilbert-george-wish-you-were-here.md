@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
+image_caption: ""
 ---
 
 A seemingly endless tapestry of postcards greets visitors to the latest [Gilbert & George exhibition at White Cube](http://www.whitecube.com/exhibitions/gg%202011/). The aesthetic quality of the show is tangible from the start, even when one is not quite sure of the content of the pictures. The overall effect is that of giant, multicoloured quilts that cover the walls of two rooms. And then you get closer to the pictures; and each one is a surprise.

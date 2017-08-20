@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262151-ams111-whole-foods-social-space-cooking.jpg"
-image_caption: >
-  All that's missing is Gregg Wallace
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262151-ams111-whole-foods-social-space-cooking.jpg"
+image_caption: ""
 ---
 
 Whole Foods Market is well known for organising great events for food lovers like me. Last week, I discovered that every Wednesday in January they have free cooking sessions. Without thinking it twice, I immediately sent an email to book a place for the January 18 class. Lucky me, I found two places, one for me and one for my friend.

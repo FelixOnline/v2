@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012033-tna08-bridge-copy.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012033-tna08-bridge-copy.png"
+image_caption: ""
 ---
 
 The Imperial College Bridge society was shut down a several years ago but after some convincing the Imperial College Union decided to give us another shot and the Imperial College Bridge club was up and running again in 2010. Our sport once again had a dedicated club at our university (and yes, it is a sport according to the IOC!).

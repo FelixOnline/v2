@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
+image_caption: ""
 ---
 
 The University and College Union (UCU) has [scheduled strikes](http://www.ucu.org.uk/index.cfm?articleid=5371) over changes to pension schemes of university staff, with English universities due to be affected on the 22nd and 24th of March. Falling in the last week of term, the strikes could have a damaging effect on lecture courses across many departments, if employers and unions don’t come to an agreement.

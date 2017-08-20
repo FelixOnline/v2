@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
+image_caption: ""
 ---
 
 When men die, they enter into history. When statues die, they enter into art. This botany of death is what we call culture. These powerful opening lines from the 1953 film ‘_Les Statues Meurent Aussi_’ (‘_Statues Also Die_’) - originally made as a critique of the West’s consumerist attitude towards African art – resonated with me as I went around London’s 12th annual __Frieze Art Fair__, where art exists only as a commodity, a soulless husk.

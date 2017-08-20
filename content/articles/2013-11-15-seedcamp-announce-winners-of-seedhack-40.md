@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150245-felix-oppozeit.png"
-image_caption: >
-
-image_attribution: "Oppozeit.me"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150245-felix-oppozeit.png"
+image_caption: ""
 ---
 
 Seedcamp is known as ‘the Harvard of Startup Accelerators’, and widely regarded as the top Accelerator in Europe. On top of their regular activities, they also run Seedhack a hackathon (where coders, designers and other startup-y types get together and ‘hack’ cool products together over a weekend). Last weekend was Seedhack 4.0, with the theme of ‘remixing content’. They worked to get a lot of data providers at the event, and we were spoilt for choice! From the BBC’s realtime news data hose, through to Nokia’s music service and lots of image providers (including Getty, the photo source for all newspapers), we had it covered!

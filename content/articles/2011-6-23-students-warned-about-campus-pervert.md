@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232044-felix-img_4918.jpg"
-image_caption: >
-  2nd floor ladies toilets
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232044-felix-img_4918.jpg"
+image_caption: ""
 ---
 
 On Saturday 18th June, during the Summer Ball, an at around 3pm in the Central Library, a female Imperial student, who has asked to remain anonymous, was followed into the 2nd floor toilets by another person who then attempted to take pictures of her by sliding their mobile phone underneath the stall.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211090010-tna08-sw7__2009-07-31_37836.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211090010-tna08-sw7__2009-07-31_37836.jpg"
+image_caption: ""
 ---
 
 Let me start by introducing myself, I am [Becky Lane](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/becky-lane) and I am this year’s Deputy President (Welfare) and I have just finished my Physics degree at Imperial College. Although my experiences here as an undergraduate here at Imperial have generally been fine (aside from the OH-MY-GOD-EXAMS-ARE-SO-BAD) there are times that I have felt marginalised because of my gender. I seemed to blunder

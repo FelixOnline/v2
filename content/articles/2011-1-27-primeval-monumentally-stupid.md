@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Those of you who complained about me focusing so much on the plot holes in my [Moon review](http://www.felixonline.co.uk/?article=558) should stop reading now because this is much of the same. I’m sorry, but I just couldn’t pass up the opportunity to review a show as monumentally stupid as Primeval.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012021955-ac1507-Gruff.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012021955-ac1507-Gruff.jpg"
+image_caption: ""
 ---
 
 __I should start off by saying that I loved the book – you’ve converted me to Science Fiction! __

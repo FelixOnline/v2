@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101338-felix-d5b2dfddb267cab40a3247c4f233661d.jpg"
-image_caption: >
-
-image_attribution: "BFI"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101338-felix-d5b2dfddb267cab40a3247c4f233661d.jpg"
+image_caption: ""
 ---
 
 In Jacques Rivette’s 1974 new wave classic, Celine and Julie Go Boating, there exists the perfect metaphor for going to the cinema in the middle of the day: the plot revolves around two women playing magical games in a Paris-turned-playground; towards the second half of the film, they discover a mysterious house, into which they repeatedly disappear, only to return several hours later, dazed, with no memory of what has happened.

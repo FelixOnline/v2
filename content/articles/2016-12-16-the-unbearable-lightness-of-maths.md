@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161459-felix-IMG_7138.jpg"
-image_caption: >
-
-image_attribution: "Agnese Abrusci"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161459-felix-IMG_7138.jpg"
+image_caption: ""
 ---
 
 The Winton Gallery is all about shape. It explores how  mathematics shape  every aspect of our lives The stunning new permanent gallery space, unveiled last week at the Science Museum, was designed by Zaha Hadid and her team. Its main aim is unravelling the fundamental role mathematicians have played in the development of civilization.

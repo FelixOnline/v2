@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271919-ks607-robertna.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271919-ks607-robertna.jpg"
+image_caption: ""
 ---
 
 Chances are you’ve read about the 14-year-old that recently [designed a mobile application for the iPhone](http://www.guardian.co.uk/technology/2011/jan/18/angry-bird-bubble-ball-itunes), which proved to be incredibly popular. So popular in fact it knocked your friend and mine, ‘Angry Birds’, off the top spot to earn the American teenager the position of number 1 free app in the UK. Upon your reading of this news you may well have thought to yourself ‘well I could do that, I’ve had hundreds of ideas for apps’. Everyone seems to like saying this, but very few actually put their wallet where their iPhone is and invest some time in their idea. Why not follow our How-To guide to become the next ‘Paper Toss’ success story.

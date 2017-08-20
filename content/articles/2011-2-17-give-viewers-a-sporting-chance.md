@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Picture the scene: the Olympic Stadium, East London, less than a year and a half from now, on a balmy August evening. There is little wind; the heat is slowly rising from the track. The atmosphere is heavy, but that has little to do with the weather. The entire world’s gaze is fixed upon the ten men at one end of the track. Never before has one event monopolised the attention of so many people. Cameras are everywhere, and for the first time, people are watching in 3D.

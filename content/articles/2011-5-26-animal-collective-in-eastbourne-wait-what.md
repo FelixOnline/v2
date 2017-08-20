@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It would probably be the first, and last time that the sheltered residents of Eastbourne would see the word ‘Supreme’ with the word ‘chicken’ preceding it. Yes, a sizeable crowd of hipsters had made the perilous journey out of London and Brighton to the mundane streets of my elderly hometown – also known as God’s waiting room.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
-image_caption: >
-  It probably won't be this empty...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
+image_caption: ""
 ---
 
 From 15 – 17th February 2013, you will see numerous important looking people in black suits and formal dresses run around our campus. And you may wonder what it could be causing this invasion of foreigners. Let me give you some insight into the big things happening at Imperial.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012322-cac111-kurtv.jpg"
-image_caption: >
-  Kurt Vile, what a man!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012322-cac111-kurtv.jpg"
+image_caption: ""
 ---
 
 We are going to start this review with a bold statement: __Kurt Vile’s ___Smoke Rings for my Halo _was the hottest album of 2011. No matter how poignant PJ Harvey’s Let England Shake was or how acclaimed the Horror’s Skying was, no-one can convince us otherwise. It was with this in mind that we headed to Koko on 21 February for the NME awards with high expectations in mind.

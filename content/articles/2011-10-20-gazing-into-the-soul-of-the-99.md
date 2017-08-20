@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202251-felix-dsc07394.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202251-felix-dsc07394.jpg"
+image_caption: ""
 ---
 
 Saturday saw a [global day of occupation and protest in 951 cities across 82 countries](http://newsfeed.time.com/2011/10/17/solidarity-saturday-occupy-wall-street-goes-global/), making this day one of the most widespread days of resistance ever seen. Apart from Rome, they were also entirely peaceful. This was no random event but part of a global tide of uprising that began in the Arab spring and has swept across Europe and America. Although you may question the link between the protests in the Middle East and apparent Western democracies two common features have ran through them all: high unemployment combined with increasing difficulty to live on low wages and a feeling that the general public have no control over their governance.

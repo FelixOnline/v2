@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
+image_caption: ""
 ---
 
 Have you ever felt like someone was judging your pubes? Most of us have felt under some pressure to neaten up, groom, or man-scape our bits, but is this a social expectation that we place on ourselves, or do other people actually care about how well maintained we are down there?

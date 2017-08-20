@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220145-tna08-ross-banking-drawing.jpg"
-image_caption: >
-
-image_attribution: "Aaniya Ahmed"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220145-tna08-ross-banking-drawing.jpg"
+image_caption: ""
 ---
 
 Well, this is turning into a [delightful little serial isn’t it?](http://felixonline.co.uk/comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary/) Today, I would like to discuss the most controversial of all issues concerning investment banking: [remuneration](http://en.wikipedia.org/wiki/Bankers'_bonuses). This has been a hot topic since the (thoroughly understandable) moral outrage at bankers still raking in massive bonuses following the crisis. Whilst I understand this viewpoint, there is a piece of legislation coming in from the EU that is pretty much sheer insanity; which will almost certainly destroy our financial services sector and deepen any future recessions. I know everyone dislikes bankers these days but I can’t help but feel we might miss the substantial amount of GDP and tax they contribute once the EU has decimated what was once the jewel in the British economic crown.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Despite it being over ten years since AF first burnt music onto a CD to hand out at a small local gig in their Montreal neighbourhood, they are still teenagers – full of fire, angst, beauty and surprising lyricism. They have been almost alone in crafting albums which have a lot to say without falling into the dreaded ‘concept album’ trap. Their first offering, Funeral, is a masterpiece of tension and strife between generations, Neon Bible is a biting criticism of modern day religion and The Suburbs is an exploration of the hopelessly grey areas that lie between the urban and rural extremes. But the crucial thing is they needn’t be, it’s the music and not the ideas that keep you hooked. They have developed a sound that can span genres and yet still be solidly AF, and never has this been more evident than on their fourth: REFLEKTOR.

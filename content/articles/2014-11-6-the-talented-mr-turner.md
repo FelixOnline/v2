@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061923-snb11-mr-turner-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061923-snb11-mr-turner-copy.jpg"
+image_caption: ""
 ---
 
 Acclaimed director Mike Leigh has an array of impressive films to his name. And _Mr Turner _is no exception when it comes to his expert craftsmanship. It is a hugely ambitious biopic, one that covers decades of an eccentric artist’s life, packing the narrative full with rich, colourful settings, memorable characters, and a deep, poignant view into the protagonist.

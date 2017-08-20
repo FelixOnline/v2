@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603121331-felix-union.jpg"
-image_caption: >
-
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603121331-felix-union.jpg"
+image_caption: ""
 ---
 
 The Leadership Election results are in, the votes have been counted, and your new sabbatical officers and constituent union presidents are as follows:

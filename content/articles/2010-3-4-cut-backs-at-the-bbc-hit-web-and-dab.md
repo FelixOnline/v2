@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003041310-srg03-BBCTestC.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003041310-srg03-BBCTestC.jpg"
+image_caption: ""
 ---
 
 This week saw something I fundamentally disagree with: cut backs at the BBC in preparation for a Tory government.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two years ago, on a January afternoon, an Israeli shell hit Dr. Izzeldin Abuelaish’s home in Gaza, killing three of his daughters and his niece. Nothing can replace the hole left in his life by that shell. Yet the Harvard educated gynaecologist stood in front of the Imperial College Israeli Society in March and proclaimed that “good deeds, wisdom and good works” were the only weapons he wanted. His war wasn’t against those who took his daughters away, but with himself. “Hate”, he said, “hate was my greatest enemy. I knew I would only drown in it; I had to look beyond”.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104231939-felix-5214127497_3c2de2f081_b.jpeg"
-image_caption: >
-
-image_attribution: "flickr/ricofermistat"
-image_attribution_link: "http://www.flickr.com/photos/54749344@N08/5214127497/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104231939-felix-5214127497_3c2de2f081_b.jpeg"
+image_caption: ""
 ---
 
 After a month at imperial, my friends had found out that I hadn’t ever touched snow. Naturally I was mildly teased as they took amusement from my winter noobness. As soon as the prospect of snow arrived in the form of a little icon on the BBC online weather forecast, I was over the moon. Of course, I was expecting to wake up to a snow day the next day so when I went to lectures that day I was rather excited. As soon as people said “it won’t settle”, I just nodded and toned down the outward enthusiasm. One Google search later I realised that meant it’ll be in the sky but not on the ground. Sad face.

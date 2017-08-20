@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231551-jal08-stock-footage-worried-businessman-sitting-on-sofa-at-home.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231551-jal08-stock-footage-worried-businessman-sitting-on-sofa-at-home.jpg"
+image_caption: ""
 ---
 
 People who spend more time sitting are more at risk of getting cancer than people who don’t, a new study reveals.

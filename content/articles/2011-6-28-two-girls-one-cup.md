@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
-image_caption: >
-  Two girls in a cup, not quite the same...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
+image_caption: ""
 ---
 
 Two Girls One Cup is a scatological fantasy drama centered around a solitary cup, which is shared by the two girls named in the title. Produced by Brazilian company MFX Media in 2007, it is the notorious work of the self-described “compulsive fetishist” Marco Fiorito. What a dirty bastard he is.

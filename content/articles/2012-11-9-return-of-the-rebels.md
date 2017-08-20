@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091420-tna08-immortaltechnique.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091420-tna08-immortaltechnique.jpg"
+image_caption: ""
 ---
 
 So last Thursday i had the good fortune to visit the Electric Brixton for the ‘Return of the Rebels’ tour. The set included Harlem based rappers Swave Sevah, Mazzi, Poison Pen and Dj Static, one of UK’s finest namely Lowkey, and the main event himself was Immortal Technique. Those who know who he is and have heard his music will probably realise that it must have been an incredible gig. And boy it was.

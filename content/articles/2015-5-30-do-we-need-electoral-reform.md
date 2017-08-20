@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
-image_caption: >
-  Is the alternative voting system better for our democracy?
-image_attribution: "ChatPolitics"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
+image_caption: ""
 ---
 
 The election is finally over. It was a tightly contested campaign but in the end, the Tories carried the day. The final tally put the Conservatives on a slim majority, and sent Labour back to the opposition benches for another five years. The country has moved further to the right, which ironically would bring us closer to Europe, and Miliband will not take the top spot in UK politics.

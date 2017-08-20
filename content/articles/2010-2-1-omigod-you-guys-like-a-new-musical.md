@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011802-rsp07-musical.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011802-rsp07-musical.jpg"
+image_caption: ""
 ---
 
 You know how it is, you wait all term for a new musical to open and finally one does. Two days before my exam. See what I sacrifice for you dear reader; who am I kidding? I needed a break and Legally Blonde the Musical was the perfect excuse.

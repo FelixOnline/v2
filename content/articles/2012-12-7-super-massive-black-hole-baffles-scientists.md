@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070135-tna08-nature11592-f1.2.jpg"
-image_caption: >
-
-image_attribution: "nature.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070135-tna08-nature11592-f1.2.jpg"
+image_caption: ""
 ---
 
 Astronomers analysing data from the Hobby-Eberly Telescope in Texas have [spotted an enormous black hole](http://www.nature.com/nature/journal/v491/n7426/full/nature11592.html) — but in a relatively miniscule galaxy.

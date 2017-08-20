@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I love Justin Bieber. There, I said it, I outed myself as a Belieber. I am a self-confessed fan of The Biebs. I know that this proclamation generally elicits a fairly strong reaction, but let me defend this view before you cast me out to the place where Directioners go to die.

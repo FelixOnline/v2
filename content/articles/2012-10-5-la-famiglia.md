@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051420-felix-la-famiglia-exterior.jpg"
-image_caption: >
-  So Italian it comes with a scooter outside
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051420-felix-la-famiglia-exterior.jpg"
+image_caption: ""
 ---
 
 It doesn’t seem quite right to say there’s a dodgy part on the King’s Road. But there is, just beyond the trendy Bluebird brasserie, where the pavement gets a bit dirtier, the shops a bit more Londis. It is here that one stumbles upon La Famiglia restaurant. A place that proves eating out is just as much about the atmosphere as it is about the food.

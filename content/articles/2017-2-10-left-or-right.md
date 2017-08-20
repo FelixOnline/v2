@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101606-felix-12562991864_7d726f4601_o.jpg"
-image_caption: >
-
-image_attribution: "Micolo J"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101606-felix-12562991864_7d726f4601_o.jpg"
+image_caption: ""
 ---
 
 Video games are unique from TV shows and movies due to the sense of immersion they give players. Having the ability to make choices plays a large part in this. It’s not just any old story you get to experience, it’s one chosen and defined by you and that’s what makes it all the more intimate.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272025-ks607-laralarl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272025-ks607-laralarl.jpg"
+image_caption: ""
 ---
 
 Now I don’t usually start off by focusing on Lara Croft’s buttocks (who does?), but I’ve seen an awful lot of them lately and feel the need to confess why: I changed the controls I used in _Tomb Raider Anniversary_. And now I’m worried, because somehow I changed everything else too.

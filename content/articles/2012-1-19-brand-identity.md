@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
-image_caption: >
-  Two of the most recognisable brands in the world have been warring over the soft drinks market
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
+image_caption: ""
 ---
 
 [Bloomberg BusinessWeek](http://www.businessweek.com/innovation/the-key-to-success-your-corporate-mission-07142011.html) recently published an article by Larry Popelka titled “The Key to Success? Your Corporate Mission.” It investigates the particular case of the Chevrolet Volt and it is perfectly summed up by one line: “Most consumers no longer shop for products. They shop for a company.”

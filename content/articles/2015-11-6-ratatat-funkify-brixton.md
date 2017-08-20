@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061416-ygr12-ratatat2.jpg"
-image_caption: >
-  Ratatat bring the jam like your aunt does at tea time.
-image_attribution: "Electric Brixton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061416-ygr12-ratatat2.jpg"
+image_caption: ""
 ---
 
 As those of you who speak to me on a regular basis know, I went to see Ratatat live in Brixton the other day. I couldn’t help pouring gloat after gloat out my face-hole. Eat it, Josh! I was on the guest list!

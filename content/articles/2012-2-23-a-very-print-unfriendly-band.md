@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232109-ams111-anal-cunt.jpg"
-image_caption: >
-  Featuring the ballad, ‘I Respect Your Feelings as a Woman and a Human’
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232109-ams111-anal-cunt.jpg"
+image_caption: ""
 ---
 
 I was exceptionally upset to hear about the death last June of Seth Putnam, lead singer of __Anal Cunt__ (or __AxCx__). For some reason, his death wasn’t reported that widely in the mainstream media, and in my post-teenage years my involvement in the metal scene has been dramatically diminished, so his passing passed me by. I loved his band more than can possibly be explained in anything approaching logical terms, but I hope to make you want to listen to them anyway.

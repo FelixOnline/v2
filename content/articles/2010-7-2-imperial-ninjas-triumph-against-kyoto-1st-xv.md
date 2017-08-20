@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201007021209-jn104-Kyoto1st.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201007021209-jn104-Kyoto1st.jpg"
+image_caption: ""
 ---
 
 ### Kyoto University RFC 1st XV 19

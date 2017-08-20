@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502171648-ps3110-battersea_arts_centre,_lavender_hill,_sw11_(3324322940).jpg"
-image_caption: >
-  Battersea Arts Centre, Battersea
-image_attribution: "Ewan Munro"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502171648-ps3110-battersea_arts_centre,_lavender_hill,_sw11_(3324322940).jpg"
+image_caption: ""
 ---
 
 ## ## __Battersea Arts Centre__

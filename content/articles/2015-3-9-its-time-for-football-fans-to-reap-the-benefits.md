@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091901-ps3110-screen-shot-2015-03-09-at-19.01.02.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091901-ps3110-screen-shot-2015-03-09-at-19.01.02.png"
+image_caption: ""
 ---
 
 A

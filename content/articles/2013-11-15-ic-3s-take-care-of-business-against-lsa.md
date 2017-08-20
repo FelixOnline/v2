@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the 6th of November – a sinisterly drab Wednesday (the kind that taunts at the beginning of a cold, dark winter) – ICUAFC 3rd Team played against LCA Business School 1st Team. The 5-0 score-line showed the match to be (ironically) not just business as usual for the opposition, and indeed the same was true of both teams’ journeys to the match.

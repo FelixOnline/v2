@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
-image_caption: >
-  It's Clarke v Cook, take two
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
+image_caption: ""
 ---
 
 If there is one thing that almost seems certain, it is that England face a much tougher task than the one they undertook during the summer. With the addition of George Bailey (who showed strong form in the recent one-day series in India), Australia’s batting looks a bit stronger. England’s bowling hasn’t impressed as much as they would have liked in the tour matches, and the England management don’t seem too sure which bowling combination is their strongest.

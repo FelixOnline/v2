@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201548-felix-20170115_123752.jpg"
-image_caption: >
-
-image_attribution: "Daw"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201548-felix-20170115_123752.jpg"
+image_caption: ""
 ---
 
 Apparently one of the most hotly anticipated games of the NFL season happened a couple of days ago. Did you know? I certainly didn’t, but it was played between two giants of the game to decide who would progress for a chance at the Super Bowl. No, not a huge piece of crockery for mammoth breakfast portions, but the most important date in the American football calendar. In pure American style the Super Bowl is an event of epic proportions, with the likes of the Red Hot Chilli Peppers, Beyoncé, The Who and Bruce Springsteen gracing the famous half-time extravaganzas. Before I even get into my attempt at taking this on, I’m already excited by a sport whose associated entertainment dwarfs the Monmouth Male Voice Choir who sang at the Six Nations last year (still brilliant I hasten to add).

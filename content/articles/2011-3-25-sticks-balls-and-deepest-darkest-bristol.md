@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103251630-jn104-Polowith.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103251630-jn104-Polowith.jpg"
+image_caption: ""
 ---
 
 The problem with starting a tournament on a Thursday during reading week is that we don’t get a reading week. As such it was a somewhat slapdash crew that converged on Clevedon for the University Polo Nationals. Despite what might charitably be described as an exuberant driving style from one of our players we all made it to the rural side of Bristol more or less intact, though one of our two train goers got a bit of a dent to his wallet when he realised that booking his tickets in advance would have been four times cheaper.

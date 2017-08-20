@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201949-ks607-blackswa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201949-ks607-blackswa.jpg"
+image_caption: ""
 ---
 
 Director Darren Aronofsky provides a masterful account of the human psyche’s masochistic tendencies in a tale of the corruption of innocence, paranoia, and one hell of a psychotic breakdown. Black Swan is the story of sheltered ballerina Nina Sayers (Natalie Portman), who has recently been handed the much-coveted lead role in Swan Lake. Quiet, innocent and dedicated; Sayers has the perfect qualities to represent the purity and grace of the White Swan, however, it is her portrayal of the erotic and passionate abandon of the character’s alter ego that presents the greatest barrier between Nina and success. It is no mean feat for a virginal teenager, who lives at home, and sleeps in a room that looks as if it has been decorated by a team of loved-up Care Bears, with a particularly strong penchant for pink.

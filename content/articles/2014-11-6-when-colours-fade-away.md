@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062021-snb11-depression-xalt.png"
-image_caption: >
-  You might know that different things are happening to you, but they don't feel very different. – Hyp
-image_attribution: "Allie Brosh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062021-snb11-depression-xalt.png"
+image_caption: ""
 ---
 
 This week, let’s move on from anxiety to the more cheerful topic of depression. To the sufferers, it is the worst feeling in the world. But for those who have never experienced it, it is hard to truly understand how unpleasant or disruptive it is, so this article will try to explain how it feels.

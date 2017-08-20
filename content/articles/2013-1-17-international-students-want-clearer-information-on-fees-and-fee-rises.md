@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172338-tna08-faculty-picture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172338-tna08-faculty-picture.jpg"
+image_caption: ""
 ---
 
 Imperial College fails to provide sufficient clarity on international student tariffs, as perceived by students. Imperial College Union intends to lobby the University amidst growing apprehension among overseas students.

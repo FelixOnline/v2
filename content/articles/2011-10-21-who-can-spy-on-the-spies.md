@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211044-felix-21:10:11-ffilm.jpg"
-image_caption: >
-  Where the hell's Johnny English when you need him?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211044-felix-21:10:11-ffilm.jpg"
+image_caption: ""
 ---
 
 __Tinker Tailor Soldier Spy__

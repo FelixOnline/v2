@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311271609-me1711-gaming_gamer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311271609-me1711-gaming_gamer.jpg"
+image_caption: ""
 ---
 
 ### Many Potential PC Gamers

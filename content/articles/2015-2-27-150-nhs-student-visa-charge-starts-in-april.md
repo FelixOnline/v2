@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
-image_caption: >
-  Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
+image_caption: ""
 ---
 
 Despite complaints from many quarters, the Government will be implementing its previously announced plans to charge non-EU nationals (including students) for access to NHS services.

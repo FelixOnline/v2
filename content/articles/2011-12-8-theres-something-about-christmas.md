@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The entire final quarter of the year snowballs towards the 25th of December with the unstoppable momentum of an avalanche on a skateboard. Even by November, the excitement runs at fever pitch levels. In fact, there is a spike in A&E admissions that coincides with the first screening of the Coca Cola advert. Even after seeing it for so many years previously, I had to have a lie down with a stiff drink afterwards.

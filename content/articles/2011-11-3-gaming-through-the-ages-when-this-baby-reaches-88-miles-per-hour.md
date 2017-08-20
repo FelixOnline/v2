@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032029-sjw209-atari_2600.jpg"
-image_caption: >
-  This stuff’s so retro even hipsters don’t know what that console is
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032029-sjw209-atari_2600.jpg"
+image_caption: ""
 ---
 
 _Interested in what our writers think of the future of gaming? [See the companion article here!](http://felixonline.co.uk/games/1678/the-future-of-gaming/)_

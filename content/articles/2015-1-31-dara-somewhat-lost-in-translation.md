@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311850-ff712-4.-nicholas-khan-(mir-khalil),-esh-alladi-(gvernor-khan),-sargon-yelda-(aurangzeb),-simon-nagra-(mullah-farooq),-rudi-dharmalingham-(danishmand)_credit-ellie-kurttz.jpg"
-image_caption: >
-  Nicholas Khan (Mir Khalil), Esh Alladi (Gvernor Khan), Sargon Yelda (Aurangzeb), Simon Nagra (Mullah Farooq), Rudi Dharmalingham (Danishmand) in Dara
-image_attribution: "Ellie Kurttz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311850-ff712-4.-nicholas-khan-(mir-khalil),-esh-alladi-(gvernor-khan),-sargon-yelda-(aurangzeb),-simon-nagra-(mullah-farooq),-rudi-dharmalingham-(danishmand)_credit-ellie-kurttz.jpg"
+image_caption: ""
 ---
 
 The first challenge that presented itself to writer Tanya Ronder and director Nadia Fall, when planning on bringing a production of Pakistani play _Dara_ to the __National Theatre__, was how to tell a story that is a legend in the Indian subcontinent, but largely unknown in the UK? _Dara_, originally written by Pakistani playwright Shahid Nadeem, had an outing in India a couple of years ago, where most are familiar with the struggle between brothers Dara Shikoh and Emperor Aurangzeb for the throne of the Mughal Empire. While some aspects of the play are translated well, notably the set design and performances, on the whole much of the nuance and drama is lost on its journey to the South Bank.

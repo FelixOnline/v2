@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As I sat down in the lecture theatre, I slowly became aware of a feeling that I was surrounded. I looked around. The audience was a mass of white and grey hair, glasses, and suits. As a whole, it was summed up by a rather elderly man who passed behind me, shouting to his wife: “Sorry dear, I was stuck behind a buffoon!” I was slightly worried for my safety.

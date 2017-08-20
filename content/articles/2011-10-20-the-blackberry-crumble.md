@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202224-felix-blackberry_logo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202224-felix-blackberry_logo.jpg"
+image_caption: ""
 ---
 
 As I’m sure many of you know, [Research In Motion](http://www.rim.com/) last week suffered its biggest ever service disruption, with millions of customers across the globe affected. Users lost access to push email, BlackBerry Messenger, Facebook and Twitter applications, and even in some cases their internet access. For a company that built its reputation on many of those features, and indeed, the stability and reliability of those services, I’m sure it’s a week the executives would rather forget.

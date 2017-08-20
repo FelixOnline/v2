@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
-image_caption: >
-
-image_attribution: "Sport Imperial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
+image_caption: ""
 ---
 
 College has recently announced the suspension of all sports activities at the Teddington Sports Ground in Richmond for next academic year.

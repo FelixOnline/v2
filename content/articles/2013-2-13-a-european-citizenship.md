@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131854-tna08-eu-passport-web.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131854-tna08-eu-passport-web.jpg"
+image_caption: ""
 ---
 
 For an outsider to European politics, or indeed politics in general, it can often be difficult to understand the need for the European Union. Of course it helped maintain peace, but was war really possible after the atrocities of the Second World War? Although the common market was a good and necessary step, why do we need such a powerful body to regulate and limit our national sovereignty? Not to mention the incredible amount of money we have to ‘donate’ to other countries because they cannot manage their economy well. All reasonable objections, except they happen to be slightly false, or at least to say misguided.

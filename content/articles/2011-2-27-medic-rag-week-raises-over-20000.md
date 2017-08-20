@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
+image_caption: ""
 ---
 
 Last week hundreds of Imperial’s medical students raised £23,000 for St Mary’s Hospital Paediatric Department in a series of events as part of their annual RAG week.

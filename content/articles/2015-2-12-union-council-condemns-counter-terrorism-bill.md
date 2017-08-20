@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502130159-ps3110-theresa-may-014.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502130159-ps3110-theresa-may-014.jpg"
+image_caption: ""
 ---
 
 Also at Council this week was a motion against the Counter Terrorism and Security Bill (CTSB), which is currently concluding its passage through the Houses of Parliament.

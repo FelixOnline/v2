@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082153-pk1811-winter-wonderland-2.jpg"
-image_caption: >
-  You might not find a free lunch within Hyde Park this winter, but headaches are a real possibility
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082153-pk1811-winter-wonderland-2.jpg"
+image_caption: ""
 ---
 
 Winter is coming.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242020-nm1010-claypond.jpg"
-image_caption: >
-
-image_attribution: "David Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242020-nm1010-claypond.jpg"
+image_caption: ""
 ---
 
 Why did I choose to stay at [Clayponds Village](http://halls.imperial.ac.uk/clayponds/), the Imperial postgraduate hall?

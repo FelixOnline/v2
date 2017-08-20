@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161438-felix-7632898002_49046bc6c8_o.jpg"
-image_caption: >
-
-image_attribution: "When black holes collide - NASA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161438-felix-7632898002_49046bc6c8_o.jpg"
+image_caption: ""
 ---
 
 This week Physics World has announced the winner of its yearly Breakthrough of the year: the Ligo Scientific Collaboration, involving more than 80 institutions worldwide, for “its revolutionary, first-ever direct observations of gravitational waves”. This is the first ever direct evidence of the existence of black holes. Nine other achievements are highly commended, groundbreaking discoveries from nuclear physics to materials science:

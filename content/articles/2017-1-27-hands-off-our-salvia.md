@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701272046-felix-Screen Shot 2017-01-27 at 20.44.24.png"
-image_caption: >
-  Not sure why but we think this is relevant
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701272046-felix-Screen Shot 2017-01-27 at 20.44.24.png"
+image_caption: ""
 ---
 
 Eight months ago the UK government banned so-called ‘legal highs’ under the Psychoactive Substances Act. The law was intended to stunt the trade of synthetic chemicals that reproduce the effect of traditional illegal drugs. According to the Office for National Statistics, deaths linked to new psychoactive substances (the catchy government-approved name for legal highs) rose from 82 in 2014 to 114 in 2015, so it’s easy to see why politicians wanted them banned so quickly.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
-image_caption: >
-  David Smith takes the chair this year
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
+image_caption: ""
 ---
 
 Monday 10 October saw the first Imperial College Union Council meeting of the academic year. Held in the Union Dining Hall and open to all students, the meeting saw this year’s sabbatical officers provide updates of their progress over the summer, presided over by this year’s Council Chair, David Smith.

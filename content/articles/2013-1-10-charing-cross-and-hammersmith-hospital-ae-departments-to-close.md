@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
+image_caption: ""
 ---
 
 Charing Cross and Hammersmith A&E departments are going to be closed.

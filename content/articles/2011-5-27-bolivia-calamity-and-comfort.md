@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271627-felix-bolivian-dancers.jpg"
-image_caption: >
-
-image_attribution: "Priya Garg"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271627-felix-bolivian-dancers.jpg"
+image_caption: ""
 ---
 
 We descended via a smog-filled cliff overhung by green leaves, to a city clustered within a valley, full of tiny red houses. We passed by unfinished brick buildings, tumbling mechanics, crumbling newsagents, two children stroking a graffiti-covered wall and an elderly woman with a baby swung across her back, as the ringing of bicycle bells and beeping of car horns continued.

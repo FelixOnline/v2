@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After almost two months of waiting, the Union’s new club, Metric, is set to open triumphantly on Saturday 20th November. The launch marks the end of ‘Phase 3’ of the £2.5 million Union redevelopment, which included the refurbishment of the old Da Vinci’s bar, now FiveSixEight, and a scrub up of the Union Bar.

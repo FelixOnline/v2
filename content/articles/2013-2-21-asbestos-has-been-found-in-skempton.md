@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Recently released [College Council minutes](https://workspace.imperial.ac.uk/secretariat/Public/Minutes/Council/Council%20Minutes%2025%20Sept%202012.pdf) from last September have revealed the discovery of asbestos in the Skempton Building. The material, which is no longer used in construction, is highly toxic and leads to a range of respiratory illnesses.

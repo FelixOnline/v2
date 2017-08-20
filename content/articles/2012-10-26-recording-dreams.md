@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Have you ever had an absolutely fantastic dream, woken up and promptly forgotten everything that happened in it? I certainly have, and would love to be able to watch some of the more interesting ones back later. The idea of reading and recording dreams has been the preserve of science fiction, but as our understanding of the brain improves, it is getting closer to reality.

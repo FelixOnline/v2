@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504241501-ff712-josh-taylor-&-clare-holman-in-each-his-own-wilderness_orange-tree-theatre_image-richard-hubert-smith_press-image.jpg"
-image_caption: >
-  Josh Taylor & Clare Holman in Each His Own Wilderness
-image_attribution: "Richard Hubert Smith"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504241501-ff712-josh-taylor-&-clare-holman-in-each-his-own-wilderness_orange-tree-theatre_image-richard-hubert-smith_press-image.jpg"
+image_caption: ""
 ---
 
 If only third time lucky always worked out. With another long-winded, lacklustre display from the __Orange Tree__, I am starting to lose patience with Paul Miller’s tenure at this fantastic theatre.

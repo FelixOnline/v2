@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032019-ks607-klasjdfs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032019-ks607-klasjdfs.jpg"
+image_caption: ""
 ---
 
 I was, as usual, fighting a losing battle.

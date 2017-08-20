@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022305-sjw209-img_0877.jpg"
-image_caption: >
-
-image_attribution: "IC Hockey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022305-sjw209-img_0877.jpg"
+image_caption: ""
 ---
 
 The Men’s 2nd XI are currently experiencing a season of two halves. Going into the latest BUCS match against Roehampton Mens’ 1s in the home fixture having beaten them comprehensively 4-1 at the start of the season, we sit at the top of the league unbeaten with 3 wins and 1 draw, and not having played the league leaders yet. In ULU we are sitting squarely at the bottom, with 3 defeats.

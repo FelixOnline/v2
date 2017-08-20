@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152059-tna08-keyboard.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152059-tna08-keyboard.jpg"
+image_caption: ""
 ---
 
 This week, the front page contains a storyabout science spending cuts. It’s all a bit economics heavy, but the gist is that, in real terms, science spending was cut by a lot in the 2010-2011 year.

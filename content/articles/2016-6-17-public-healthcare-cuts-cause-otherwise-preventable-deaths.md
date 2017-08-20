@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171110-felix-2129079425_291111a332_o.jpg"
-image_caption: >
-  During periods of economic austerity easily treatable illnesses thrive.
-image_attribution: "pudgeefeet"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171110-felix-2129079425_291111a332_o.jpg"
+image_caption: ""
 ---
 
 We all witnessed the devastating effects of the 2008 economic crisis, as ordinary people lost their jobs and homes, and saw their hard-earned savings and financial security evaporate. Now a team of researchers are warning that the financial collapse may have also led to the preventable deaths of hundreds of thousands of people. With the NHS already facing enormous pressure and under threat from cuts from disingenuous politicking, this discovery doesn’t bode well for the UK. In a study published recently in _The Lancet_, researchers uncovered damning links between slashed public health spending, unemployment, and 160,000 cancer-related deaths in the EU alone in the fallout of the recession.

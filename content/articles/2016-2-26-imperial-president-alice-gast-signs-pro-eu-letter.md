@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
-image_caption: >
-  Brexit-er Boris out on Exhibition Road.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
+image_caption: ""
 ---
 
 Over one hundred leaders of UK universities, including the President of Imperial, Alice Gast, have signed an open letter published in the _Sunday Times_, asking the British public to reject a ‘Brexit’ and vote to stay in the European Union.

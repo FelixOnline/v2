@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291650-ff712-tangerine_041-1600x900-c-default.jpg"
-image_caption: >
-  Changing the conversation – Mya Taylor and Kitana Kiki Rodriguez in the ground-breaking film Tangerine.
-image_attribution: "Magnolia Films"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291650-ff712-tangerine_041-1600x900-c-default.jpg"
+image_caption: ""
 ---
 
 On 9th June 2014, American actor Laverne Cox became the first transgender person to appear on the cover of _Time _magazine. Statuesque in a deep blue dress, Cox’s face, framed by flowing tresses, stares deep into the viewer’s eyes; to her left, the title of the lead article is written – _The Transgender Tipping Point: America’s Next Civil Rights Frontier_; it is a direct challenge, a confrontation for those who stand in the way of trans rights.

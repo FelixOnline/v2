@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101409-felix-14496866427_82e07994f0_o.jpg"
-image_caption: >
-
-image_attribution: "Pabak Sarkar"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101409-felix-14496866427_82e07994f0_o.jpg"
+image_caption: ""
 ---
 
 The past three weeks have meant that the previously enjoyable activity of looking at Facebook has instead become a daily battle of emotions as I brace myself to learn of another Trump shocker. A travel ban on 7 countries, banning organizations from speaking to the public and a petty fight over who had the most fans “ever” at the strange inauguration thing – the headlines just keep on coming from the Trump establishment.

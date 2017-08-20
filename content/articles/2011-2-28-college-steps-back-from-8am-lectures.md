@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
-image_caption: >
-
-image_attribution: "Veronika McQuadeova"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
+image_caption: ""
 ---
 
 Last Wednesday saw the first meeting of the committee in charge of discussing the possibility of changing college hours. Members of the committee, a mix of representatives for students, staff and Imperial College had the opportunity to begin debating the feasibility of changing college hours and possible solutions.

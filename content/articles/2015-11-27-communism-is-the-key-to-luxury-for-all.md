@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511271420-ygr12-jetsons.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511271420-ygr12-jetsons.jpg"
+image_caption: ""
 ---
 
 In a speech last Friday at Imperial, shadow chancellor John McDonnell outlined his ideas on a new form of socialism where “technology liberates rather than traps.” With full automation in the not-too-distant-future almost inevitable, it’s now time we start thinking about how Britain will adapt to a post-work society. McDonnell’s speech recognised many of the problems automation might introduce, but offered few solutions. As a party firmly rooted in the trade union movement, Labour seem woefully unprepared for a world with a workforce without work.

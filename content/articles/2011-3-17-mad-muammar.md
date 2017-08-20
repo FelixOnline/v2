@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172132-ks607-gaddafig.jpg"
-image_caption: >
-
-image_attribution: "Benjamin Kennedy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172132-ks607-gaddafig.jpg"
+image_caption: ""
 ---
 
 Muammar Gaddafi has been an outstanding figure on the world scene, in terms of absolute lunacy. When it comes to stories about him, it’s hard to separate fact from fiction. Usually, as is often the case, the fact is stranger than the fiction. His Facebook page lists his interests as: “Libya”, “Pan-Africanism”, “Hating America”, “Justin Bieber”, and “cock.” The last two were the result of an unimaginative Facebook rape, I assume.

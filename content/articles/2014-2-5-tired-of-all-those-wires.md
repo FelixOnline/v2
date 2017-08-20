@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402051022-me1711-tech_wire.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402051022-me1711-tech_wire.jpg"
+image_caption: ""
 ---
 
 I hate wires. Every time I look at the back of my PC and I see the bunch of wires, my OCD kicks in. Luckily, I can usually sit at my desk and pretend the wires are not there.

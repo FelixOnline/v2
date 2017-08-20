@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
-image_caption: >
-  Technology: helping to put people either with each other or against each other
-image_attribution: "Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
+image_caption: ""
 ---
 
 The first thing I did after unboxing my Nintendo Switch was to lick the game cartridge. Videos of games and tech journalists doing the same went viral during the week of the Switch’s launch after Jeff Gertsmann of Giant Bomb discovered their bitter aftertaste. However, the taste serves a purpose beyond internet virality: Nintendo coats them with a “bittering agent” to stop young children from accidentally swallowing the micro sized games. The Switch certainly isn’t a console for kids. It’s not foldable, small, and easily carriable like the 3DS and it doesn’t follow playful design of the GameCube, Wii, or even Wii U. The console looks and feels like a device built for adults (unless you buy the garish neon colour option).

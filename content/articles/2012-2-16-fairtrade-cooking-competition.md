@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162150-ams111-fairtrade-mark.jpg"
-image_caption: >
-  Fairtrade Fortnight starts on February 27
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162150-ams111-fairtrade-mark.jpg"
+image_caption: ""
 ---
 
 The annual Fairtrade Fortnight is soon upon us! To kick-start the festivities the ICU Fairtrade Society is hosting a competition to find the most scrumptious ethical chef at Imperial!

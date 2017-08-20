@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150244-felix-womanhittingman.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150244-felix-womanhittingman.png"
+image_caption: ""
 ---
 
 There is a general feeling in our society that guys shouldn’t hit girls. This is great. Girls shouldn’t hit guys either, but on the occasions that these rules should be bent, they aren’t. If you haven’t guessed, I’m talking about martial arts, where men and women come together to train themselves in self-defence – or attack. As a woman who has been training in martial arts for the best part of eight years, with numerous classes and sets of people, I’ve always found it a struggle to get a guy to hit me. Hard. This isn’t masochism; this isn’t a cry for help. I simply want to train, and yet I have met and seen women suffer with similar frustrations. So I’m writing to reach out to practitioners of martial arts and hopefully set the record straight.

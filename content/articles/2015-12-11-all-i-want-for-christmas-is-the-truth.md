@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512111529-felix-o-CREEPY-SANTA-facebook.jpg"
-image_caption: >
-
-image_attribution: "Huffington Post"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512111529-felix-o-CREEPY-SANTA-facebook.jpg"
+image_caption: ""
 ---
 
 Every year, a strange phenomenon occurs:  trees are decorated, gifts are exchanged, and the world decides that it is again time to deceive millions upon millions of impressionable children.

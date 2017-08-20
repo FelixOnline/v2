@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241509-felix-16776192_10155009221659282_117277352_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241509-felix-16776192_10155009221659282_117277352_o.jpg"
+image_caption: ""
 ---
 
 ## Album of the year

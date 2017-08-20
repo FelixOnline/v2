@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042053-cj914-_79473402_phil_story_sheet_getty.jpg"
-image_caption: >
-
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042053-cj914-_79473402_phil_story_sheet_getty.jpg"
+image_caption: ""
 ---
 
 Cricketer Phillip Hughes was laid to rest at his funeral in his hometown in Macksville, New South Wales, on Wednesday. Australian captain Michael Clarke gave an emotional eulogy after acting as a pall bearer. Hughes, who would have turned 26 on Sunday, was struck by a bouncer last Tuesday, and died on Thursday afternoon, after an artery burst in his neck. The Test Series between Australia and India has been subsequently rearranged. Adelaide, Hughes adopted home ground, will now host the first test, with Brisbane hosting the second. A twitter hashtag, #putoutyourbats, has become a global phenomenon, with many leaving their bats outside with a cap on the handle in tribute.

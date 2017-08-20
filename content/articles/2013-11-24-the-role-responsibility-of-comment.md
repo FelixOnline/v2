@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Comment sections across a broad variety of newspapers all share a common thread. The bulk of their published material will prove emotive for a sizeable portion of its readership. Individuals may empathise with views expressed in a given article. Others may be offended. On occasion a given issue may catalyse universal approval or (as one has come to appreciate in the past seven days) disavowal of its material. In context of a parochial University community consisting of a spectrum of nationalities, ideals and beliefs (such as Imperial College London) the margins for error are slight. In light of this I wish to briefly examine the boundaries for the Comment section.

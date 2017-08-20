@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111703-felix-16013449841_0fbdbcedc2_o.jpg"
-image_caption: >
-
-image_attribution: "Tara Schmidt"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111703-felix-16013449841_0fbdbcedc2_o.jpg"
+image_caption: ""
 ---
 
 Imust confess – the last time I made a stew, it took me 72 hours from start to finish. Short ribs, cooked at 54oC for two-and-a-half days in my waterbath were mouthwateringly tender and exceptionally beefy, with a wonderful red wine sauce and plenty of just tender veg. But fear not! You don’t need to raid the lab for a waterbath for this stew.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Christened the London Forum for Science and Policy (LFSP) and launching this year, Imperial’s first student think tank carefully sidesteps the university’s trap of a neocolonial-sounding name. At a time when policymakers are increasingly criticised for their poor use of evidence, LFSP will infuse Imperial’s first love, science, with a new, political edge. In turn LFSP plans to inject the political sphere with some of the university’s world-famous scientific rigour.

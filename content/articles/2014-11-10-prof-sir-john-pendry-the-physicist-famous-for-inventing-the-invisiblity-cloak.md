@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102334-ps3110-professor_sir_john_pendry_039-for-site.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102334-ps3110-professor_sir_john_pendry_039-for-site.jpg"
+image_caption: ""
 ---
 
 Professor Sir John Pendry, FRS, holds a Chair in Theoretical Solid State Physics here at Imperial. In 2014 he was awarded the $1M Kavli Prize by the Norwegian Academy of Science and Letters in recognition of his work in the field of nano-optics. This article is a summary of an interview for Felix that took place on September 26, 2014.

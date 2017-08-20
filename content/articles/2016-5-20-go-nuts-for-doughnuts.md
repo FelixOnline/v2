@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201119-felix-Document2.jpg"
-image_caption: >
-  CW from top left: nutella duffin, earl grey with soaked prune, apple crumble,  salted caramel cheesecake cruffin.
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201119-felix-Document2.jpg"
+image_caption: ""
 ---
 
 Throwback to the seven years spent in an all-girls boarding school in the countryside. A weekend trip to the nearest town with an actual supermarket was a sacred privilege only to those of Year 9 and above, while you have to be at least in Year 12 to be allowed to step on the train on the opposite platform to London.

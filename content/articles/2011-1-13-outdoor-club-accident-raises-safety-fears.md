@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132147-ks607-helvelyn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132147-ks607-helvelyn.jpg"
+image_caption: ""
 ---
 
 A club trip took a turn for the worse last November when a member of the Outdoor Club fell 100ft while climbing in the Lake District. The injured student was winter climbing on the slopes of Helvellyn, the third highest peak in England, with a small group of other Imperial students on the 27th of November when the incident occurred.

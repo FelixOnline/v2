@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201207251432-mc4509-printer-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201207251432-mc4509-printer-2.jpg"
+image_caption: ""
 ---
 
 As I am leaving the country soon, I am selling a black and white HP LaserJet P2015d in perfect state, printing on both sides (duplex), fitted with a toner still 3/4 full. Selling price: only £59. Please contact me via email: [catherine.wu08@imperial.ac.uk](mailto:catherine.wu08@imperial.ac.uk?subject=Printer).

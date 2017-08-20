@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
-image_caption: >
-
-image_attribution: "J. C. Chandor, FilmNation Entertainment"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
+image_caption: ""
 ---
 
 __A MOST VIOLENT YEAR__

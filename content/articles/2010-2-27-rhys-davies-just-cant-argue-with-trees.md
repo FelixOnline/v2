@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002271701-rsp07-trees.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002271701-rsp07-trees.jpg"
+image_caption: ""
 ---
 
 Whilst walking through Hyde Park one day, I came across a very peculiar sight.

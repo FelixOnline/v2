@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150125-tna08-dsc_0082.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150125-tna08-dsc_0082.jpg"
+image_caption: ""
 ---
 
 “The greatest happiness of the greatest number is the foundation of morals and justice.” Really Mr Bentham? We beg to differ, as we think you’ll find that it’s actually Musical Theatre Society’s latest production, Parade!, that will be providing all the moral and judicial foundations we will be needing from now on…

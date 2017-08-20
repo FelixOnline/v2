@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071341-felix-Sequence-02.00_00_00_15.Still001.jpg"
-image_caption: >
-
-image_attribution: "TBS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071341-felix-Sequence-02.00_00_00_15.Still001.jpg"
+image_caption: ""
 ---
 
 Does comedy television have the power to change political conversation? On the face of it, the purpose of satirical news is to reflect the headlines, draw humour from what seems often to be ever deepening pit of despair. ‘Look up, do you see it? Way up there- that’s rock bottom,’ remarked John Oliver a few weeks ago on _Last Week Tonight_ in response to the latest Trump scandal.

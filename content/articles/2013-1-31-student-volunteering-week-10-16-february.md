@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312308-tna08-blue-balloons.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312308-tna08-blue-balloons.jpg"
+image_caption: ""
 ---
 
 Student Volunteering Week, brought to you by the [NUS](http://www.nus.org.uk/) and your very own [Imperial Hub](http://www.imperialhub.org/xwiki/bin/view/Imperial+Hub/) is a week aimed at celebrating, inspiring and supporting student volunteering.

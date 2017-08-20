@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041246-aib116-Roof types.png"
-image_caption: >
-
-image_attribution: "Tesla Motors "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041246-aib116-Roof types.png"
+image_caption: ""
 ---
 
 Unless you’ve been living under a cave for the last few years, you will have heard of Elon Musk, the founder of Tesla Motors, SolarCity and SpaceX. This South African born engineer, inventor and progressive thinker is on a quest to save mankind from itself through renewable energy, space exploration and by tackling whatever global issue he sets his mind on. Musk has often been compared to a real life Tony Stark.

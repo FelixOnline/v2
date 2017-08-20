@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112107-nm1010-broadway.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112107-nm1010-broadway.jpg"
+image_caption: ""
 ---
 
 “How formal is this place you are taking me to?” my friend Apu called to ask before meeting me at the newly opened Broadway Bar & Grill on Fulham Road. “I don’t think it’s too formal. Relax,” I told him. “Okay, let me ask it this way: Is it a shirt place, or a t-shirt place?” he replied.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111040200-felix-goa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111040200-felix-goa.jpg"
+image_caption: ""
 ---
 
 Let’s be honest about it, the existing beach scene has very much gone to the dogs: Ibiza is past its expiry date, Koh Phangan is being sucked into that same black hole (thanks, The Hangover Part II), and Malia-napa-luf is far too saturated with sleaze for me to waste my time with a rant. My point is that things are indeed looking bleak, which has forced sun worshippers and classier party-goers to be a little more creative. Perhaps India’s western coast is the answer we’ve all been searching for.

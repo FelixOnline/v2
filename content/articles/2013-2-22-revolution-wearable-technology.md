@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220124-tna08-2012sergeyglasses.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220124-tna08-2012sergeyglasses.jpg"
+image_caption: ""
 ---
 
 After the smartphone and table revolution, the next big thing in the tech world seems to be wearable gadgets. After the full saturation of these two markets, which are quite important for these kind of companies, the technology giants are attempting to claim this new area of the market. Potential game changer, these could completely revolutionise the way we interact with our gadgets, affecting even more of our lives than all our smartphones and tablets already do.

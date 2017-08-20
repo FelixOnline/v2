@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011427-mc4509-fruits.jpg"
-image_caption: >
-  Fructose is a sweetener used widely in processed food and drink
-image_attribution: "topnews.in"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011427-mc4509-fruits.jpg"
+image_caption: ""
 ---
 
 Scientists have warned students preparing for exams that eating sugary desserts makes you stupid.

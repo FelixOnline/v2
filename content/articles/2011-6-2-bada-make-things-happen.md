@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021937-felix-bada-os.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021937-felix-bada-os.jpg"
+image_caption: ""
 ---
 
 While Android and iOS have become increasingly popular and must-have platforms, Samsung has an alternative to suggest: the [Bada ecosystem](http://www.bada.com/whatisbada/ecosystem.html). In June 2010, Bada-based Samsung Apps were launched in 118 countries, with over a hundred million downloads and more than 13,000 applications available by March 2011.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151748-felix-5606183129_8ca64912bd_o.jpg"
-image_caption: >
-
-image_attribution: "Pascal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151748-felix-5606183129_8ca64912bd_o.jpg"
+image_caption: ""
 ---
 
 In the last month, relations between North Korea and the rest of the world have soured, due to a series of missile launches. North Korea is one of the world’s most secretive and oppressive states, and has harboured nuclear ambitions for a long time. Its complex relationship with the rest of the world can be put down to its history and the governing Kim dynasty.

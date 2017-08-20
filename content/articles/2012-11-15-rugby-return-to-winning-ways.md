@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152227-tna08-ruggy2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152227-tna08-ruggy2.jpg"
+image_caption: ""
 ---
 
 After a slow start to the season as the 1stXV get used to a new league, their opening cup fixture against last seasons opposition Kent was an ideal way to get back to winning ways. After a rushed warm up, and with Imperial have to don a somewhat village playing jersey to avoid a kit clash, the game got underway. Imperial kicked off proceedings, quickly leading to a turn over and good possession in the opposing 22. It didn’t take long before the first points of the game, and after an inch perfect pass from fly-half “Big” George Lane – who admits himself fly-half is not his natural position – Oli Benton crossed the line for a 5-0 lead. Soon after the restart, the pressure was back on Kent. The ball was charged down by the face of Jon Hardisty (some say his most useful contribution to the game) resulting in a lineout in opposition territory. This again produced an Imperial try, with good hands by the backline finished off well by Nathan “Brucey” Fitzpatrick in the corner. After the initial burst of tries by Imperial, the game started to get tighter. With the exchanging of tries, Kent started to get back into the game – due mainly to

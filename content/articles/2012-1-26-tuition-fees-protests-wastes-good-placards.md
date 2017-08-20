@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Apparently 2012 is going to be a bumper year for protests, and I am quite looking forward to them. As the late Christopher Hitchens once wrote, “seek out argument and disputation for their own sake; the grave will provide plenty of time for silence”. But what would the brilliant man have made of the recent tuition fees increase? Having earned a third class degree in PPE from Oxford, and having achieved in his short life much more of merit than David Cameron – who got a first class degree in precisely the same course – he would probably advise against going to university at all. He’d say that it’s vastly overrated, except for the cheap alcohol.

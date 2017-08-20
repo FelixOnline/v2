@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161620-felix-2740283397_3088a90c4f_o.jpg"
-image_caption: >
-
-image_attribution: "Vladimir Morozov"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161620-felix-2740283397_3088a90c4f_o.jpg"
+image_caption: ""
 ---
 
 I know that times are tough when you go back home for the holidays. You’ve got used to having your freedom and privacy during term time, and maybe even got used to having a bae that keeps the sexual frustration at bay. Maybe you’ve got used to being able to use that corn-on-the-cob shaped vibrator that you got “as a joke” Secret Santa gift, but the thin walls in your parents’ house mean that any buzzing will be extremely embarrassing. But don’t worry. The illustrious felix Sex team has you covered, and we want to make sure you’re kept sexually satisfied over the holidays.

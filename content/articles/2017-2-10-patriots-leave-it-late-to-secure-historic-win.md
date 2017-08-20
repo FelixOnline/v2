@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101649-felix-File_000.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101649-felix-File_000.jpeg"
+image_caption: ""
 ---
 
 Super bowl came about due to a merger agreement between two of the rival American football leagues the AFL (American Football league) and the NFL (National football league). This became official in 1970 when the NFL we all know and love was created. At that time there were only 26 teams, the rest were added as part of expansion programs (there have been talks of an UK based expansion team with 2022 set as the target date). The first Super bowl was played in Los Angeles Memorial Coliseum with the crème de la crème of the NFL and AFL being the Green Bay Packers and Kansas City Chiefs respectively. Under the coaching of the legendary Vince Lombardi the Green Bay Packers won the game. Quarterback Bart Starr was named Super bowl MVP for his dominant 250 yard, two touchdown performance; impressive in those times. The following year the Packers won again against the Oakland Raiders with the Raiders’ line-backers’ coach being John Madden, who has his name attributed to the long-running Madden NFL video game series. The more you know…

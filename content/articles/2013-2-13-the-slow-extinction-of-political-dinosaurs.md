@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131618-tna08-partysaurus-rex-toy-story-entier-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131618-tna08-partysaurus-rex-toy-story-entier-2.jpg"
+image_caption: ""
 ---
 
 Free speech is a wonderful thing. It is one of the things that makes this country an amazing place to live in. Granted, it may not be absolute, but the opportunity to be introduced to new ideas, impart mine in return and argue over them is a positively delightful experience. To me, there is nothing more enlightening than thrashing out some political philosophy, looking at issues from different perspectives, amending your way of thinking or even dropping it and searching for a new one. This is not weak compromise – it is enriching your understanding of the world through debate which helps build a better and coherent way to view and deal with it.

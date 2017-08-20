@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152127-ams111-post-hardcore-mosh.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152127-ams111-post-hardcore-mosh.jpg"
+image_caption: ""
 ---
 
 Over the past ten weeks, I’ve tried to give an insight into the wonderful world of post-hardcore music. Hopefully I’ve achieved my goal in revamping the record collection of the old-timer P-H fans and perhaps even converted some people previously sceptical about this incredible genre. However, the sad truth is that there’s probably very few of you willing to read anything labelled “post-hardcore” but for anyone that is, I urge you to read this summary and listen to the bands mentioned, you will not be disappointed.

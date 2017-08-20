@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031934-ks607-floodflo.jpg"
-image_caption: >
-
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031934-ks607-floodflo.jpg"
+image_caption: ""
 ---
 
 The Biochemistry building has been hit with two serious floods this past week. A failure of a pipe connection to a rooftop water tank is believed to have caused the flood on Thursday morning while a suspected valve failure, or pump malfunction, caused a 6ft flood of water in the sub-basement during the weekend.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The UK’s current stance on Green policy is mixed at best: despite Coalition pledges to be the ‘Greenest Government Ever’, Cameron and Clegg have come under repeated fire, whether over the planned ‘Dash for Gas’, or the Tory energy minister insisting on challenging the coalition policy on onshore Wind Farms. And yet, there’s been a spate of positive news too.

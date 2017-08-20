@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
-image_caption: >
-
-image_attribution: "Glassnote Records"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
+image_caption: ""
 ---
 
 Awaken, Gambino is back! Apart from doing his regular mixtape releases it has been a while since Childish Gambino has released an album to the public. It can be said that Gambino has evolved into a completely different artist since his 2013 debut of Because of the Internet, which was heavily rap based, with standard R&amp;B backbeats to the tracks. His 2014 EP release Kauai already hinted at a change in sound, which is heavily reinforced in his new album Awaken, My Love!.

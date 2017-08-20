@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
-image_caption: >
-  What a jacket. And what a face.
-image_attribution: "Brian Rasic/Redferns"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
+image_caption: ""
 ---
 
 __Brandon Flowers__ going solo has always been an interesting proposition, begging the question: when it comes to __The Killers__ and everything they’ve done, how much of their sound is down to him?

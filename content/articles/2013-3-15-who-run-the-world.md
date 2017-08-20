@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150307-tna08-hbo-s-girls-is-the-best-new-tv-show-of-2012.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150307-tna08-hbo-s-girls-is-the-best-new-tv-show-of-2012.jpg"
+image_caption: ""
 ---
 
 "I don’t want to freak you out, but I think that I may be the voice of my generation.” So says Hannah Horvath, the main character of HBO’s Girls, in the very first episode of the show. It’s a line that’s come back to haunt Lena Dunham, the show’s creator, writer and co-producer, who also plays the character of Hannah – in spite of the line being uttered by the naïve, self-involved character of her own creation, it’s often been attributed to Dunham herself. Fans believe the show is a raw, realistic picture of what it’s like to be fresh into adulthood in today’s society, while critics attack it for being vapid and self-indulgent. So, is Girls really the show that’s defining a whole new generation of young women?

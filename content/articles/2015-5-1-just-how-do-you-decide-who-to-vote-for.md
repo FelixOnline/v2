@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010128-ps3110-screen-shot-2015-05-01-at-01.28.01.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010128-ps3110-screen-shot-2015-05-01-at-01.28.01.png"
+image_caption: ""
 ---
 
 The novelist and essayist George Orwell once said that political language is “designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind.” He wrote that over half a century ago, but it is just as relevant today as it was then. Perhaps even more so.

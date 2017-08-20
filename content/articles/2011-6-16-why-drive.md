@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162205-felix-jpr_2744.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162205-felix-jpr_2744.jpg"
+image_caption: ""
 ---
 
 I have yet to take helicopter gunships seriously. Whenever I hear about them—which has been regularly since the business in Libya kicked off—I immediately think they are referring to something out of science fiction, or at least Bucky O’Hare.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071325-felix-earrings-dolce-.png"
-image_caption: >
-  Shoulder skimming earrings from Dolce and Gabbana
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071325-felix-earrings-dolce-.png"
+image_caption: ""
 ---
 
 __Hats__

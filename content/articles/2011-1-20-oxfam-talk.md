@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202044-nm1010-oxfammmm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202044-nm1010-oxfammmm.jpg"
+image_caption: ""
 ---
 
 Want to learn a little more about the issues affecting international development in an ever-changing world?

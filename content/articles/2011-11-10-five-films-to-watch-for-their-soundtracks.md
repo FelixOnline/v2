@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Forget orchestral scores, these are songs you would actually listen to. Or maybe you like to have the shower scene from _Psycho_ on repeat during your walk to college every morning, I’m not here to judge.

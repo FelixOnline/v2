@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261154-felix-Avengers_(2).jpg"
-image_caption: >
-  Assembled we’re strong; together fight as one.
-image_attribution: "Disney XD"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261154-felix-Avengers_(2).jpg"
+image_caption: ""
 ---
 
 A_vengers Earth’s Mightiest Heroes_ is a fantastic journey into fun  and adventure, with writing that embraces the best elements of Marvel media as well as the original comic book roots. With well done, serialised storytelling, an excellent voice cast and superb animation, _Avengers EMH_ is a lot of plain, awesome fun that anyone can enjoy.

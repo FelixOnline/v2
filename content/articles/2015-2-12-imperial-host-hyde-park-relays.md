@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122227-jyg11-startline.jpg"
-image_caption: >
-  The start line of the men's race
-image_attribution: "IC Cross Country"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122227-jyg11-startline.jpg"
+image_caption: ""
 ---
 
 On Saturday 7th February, more than 600 runners from universities across the UK, the Netherlands and Poland took part in the Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Teams comprised of 6 men or 4 women each running a lap of the 5 km course, beginning by the Serpentine and looping clockwise up to Marble Arch and returning to the bandstand.

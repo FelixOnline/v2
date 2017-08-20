@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
+image_caption: ""
 ---
 
 Last year students [took to the streets](http://www.felixonline.co.uk/?article=452) in reaction to the Tories’ plans to hike up tuition fees to up to £9,000 a year. Protesters urged Nick Clegg and his Lib Dems to remember their pre-election pledges which promised to vote against a rise in tuition fees.

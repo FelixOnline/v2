@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142012-ams111-arts1.jpg"
-image_caption: >
-  Keeping up the Imperial ratio with FOTSN
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142012-ams111-arts1.jpg"
+image_caption: ""
 ---
 
 One of the few enduring life lessons I learnt during my time in halls is that some guilty pleasures are more acceptable than others. Even in the relatively tolerant enclave of Imperial College, pulling an all-nighter in the kitchen with your mates playing StarCraft until dawn will still draw some rolled eyes and tuts under the breath.

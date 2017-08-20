@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192216-ygr12-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192216-ygr12-cover.jpg"
+image_caption: ""
 ---
 
 Several hundred people gathered at the foot of Queen’s Tower on Monday for a minute’s silence to remember the 129 people killed in the Paris attacks. The crowd included students and staff, who joined a Europe-wide moment of reflection three days after the tragedy.

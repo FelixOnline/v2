@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091852-felix-colour020.jpg"
-image_caption: >
-
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091852-felix-colour020.jpg"
+image_caption: ""
 ---
 
 In my house, down in the dark there's a door.

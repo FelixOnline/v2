@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505080112-ps3110-imperial_college_36479c.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505080112-ps3110-imperial_college_36479c.jpg"
+image_caption: ""
 ---
 
 In the latest University ranking table study produced by The Complete University Guide, Imperial took the top spot, being declared the best University for postgraduate employment prospects.

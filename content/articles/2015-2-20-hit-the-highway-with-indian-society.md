@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200025-ps3110-screen-shot-2015-02-20-at-00.25.30.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200025-ps3110-screen-shot-2015-02-20-at-00.25.30.png"
+image_caption: ""
 ---
 
 _East Meets West_ is a student run multicultural show that accumulates the talent across Imperial College and showcases a cornucopia of cultures. It is the longest running student show in the UK and its 23rd anniversary show, _Highway_, will be held at the __Richmond Theatre__ in London on 22nd February 2015.

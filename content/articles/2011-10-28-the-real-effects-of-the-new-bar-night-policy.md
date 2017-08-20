@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
-image_caption: >
-  Some club chairs want to call time on the new regulations
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
+image_caption: ""
 ---
 
 In response to [the comments made by Michael Foster last week](http://felixonline.co.uk/news/1555/club-chairs-lukewarm-over-bar-nights/), on the new responsible retailing of alcohol policies and how they have affected the way in which bar nights are run, I would like to clear a few things up.

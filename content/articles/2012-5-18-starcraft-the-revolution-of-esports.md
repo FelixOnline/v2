@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
-image_caption: >
-  The audience of the Starcraft: Brood War Proleague finals in Seoul, South Korea, 2006
-image_attribution: "Fighterforum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
+image_caption: ""
 ---
 
 The lights of the metropolis shine brightly on the clear summer night. Down on the bay, a crowd gathers around a giant outdoor screen. Spotlights flood the area as the audience,now exceeding 50,000 people, work themselves into a fever pitch. The two teams come out on stage to deafening cheers. Teenage girls scream as one idol from each team is chosen for the first round of combat. They each enter a booth. The music swells, and the video game begins.

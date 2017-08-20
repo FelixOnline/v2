@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211139-ak6309-8dc1e46a-10d8-44fb-a0b2-4c81a19c690c_625x352.jpg"
-image_caption: >
-  The standard Essex scene
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211139-ak6309-8dc1e46a-10d8-44fb-a0b2-4c81a19c690c_625x352.jpg"
+image_caption: ""
 ---
 
 It being less than four years since I left secondary education, I was very interested in watching ‘Educating Essex’— Channel 4’s documentary set in Passmores School, an ordinary secondary in Essex. I am happy to say that I was hooked as soon as I tuned in.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612121609-felix-15271390_10157771547145394_1576959608_o (1).jpg"
-image_caption: >
-
-image_attribution: "Natasha Joana Khaleeq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612121609-felix-15271390_10157771547145394_1576959608_o (1).jpg"
+image_caption: ""
 ---
 
 The union was quite literally painted blue last week after another successful ACC. The makeover was a result of blue face and body paint runoff which was part of the costumes men’s rugby had selected for the occasion.

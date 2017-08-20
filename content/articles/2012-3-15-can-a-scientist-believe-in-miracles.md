@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152137-ams111-blue_sea_parting.jpg"
-image_caption: >
-  Personally, I’m getting memories of Bognor Regis
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152137-ams111-blue_sea_parting.jpg"
+image_caption: ""
 ---
 
 Most people define a miracle as a supernatural event, inexplicable by the laws of science and nature. So is it reasonable for a modern, rational, Imperial scientist to believe in miracles?

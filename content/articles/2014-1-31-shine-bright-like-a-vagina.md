@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
-image_caption: >
-  The contents of your pants could one day look like this
-image_attribution: "images-of-elements.com"
-image_attribution_link: "http://www.images-of-elements.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
+image_caption: ""
 ---
 
 What’s hard, metallic and found down your pants? Despite the common answer to this usually referring to some sort of recreational, copulation mimicry device, perhaps owned by a maternal figure, this time, the answer may in fact be an anti-viral cream.

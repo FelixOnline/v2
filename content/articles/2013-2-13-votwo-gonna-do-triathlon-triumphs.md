@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The first event of a year is always a tough race, but this one was at Dorney Lake; a well-established, flat course with beautiful smooth roads. This short Votwo Gatorade 5k/20k/5k duathlon is always a good lung opener to start your season. To make the most of the potential for a PB, a number of Imperial College Triathletes drove there in the early hours of Saturday. The team included Alex Milne, Aimee DiMarco, Paul Bryant, Tom Pearson and Hugh Mackenzie. The day dawned bright, cold and worryingly windy. The lake is extremely exposed and with a course consisting of out and back loops it meant running/cycling directly into a head wind and then returning with a tail wind pushing you along. Despite my reservations, I knew this was going to make for some exciting racing.

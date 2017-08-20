@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010101626-ks607-Diagramo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010101626-ks607-Diagramo.jpg"
+image_caption: ""
 ---
 
 A small band with big sounds, they are a London-based electronic duo who have enough energy to outrun the energizer bunny. They’re on the road to be quite the big deal. Here’s what Kye and Anthony had to say before they performed at Bestival this summer.

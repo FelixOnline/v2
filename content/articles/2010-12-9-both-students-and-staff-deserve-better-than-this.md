@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There are so many things that are objectionable about the redundancies in the Life Sciences department that one hardly knows where to begin. The staff being made redundant have had their teaching achievements ignored and their research talked down. Undergraduates have been repeatedly assured that their courses will not be impacted despite the overwhelming evidence that the quality of teaching will decrease and the courses that they want to do will no longer be available. Masters students have paid for a service that they will not receive to the standard that they expected when they forked over their cash and finally PhD students have been thrown into chaos with little or no information given to them. Even the academics who have survived feel insecure; if this is how the department treats the aforementioned groups, why should any of the survivors be treated differently in future?

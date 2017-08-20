@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232033-pk1811-couscous-salad-2.jpg"
-image_caption: >
-  First week dish for the vegans. Alternatively, visit Gaucho for a juicy steak
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232033-pk1811-couscous-salad-2.jpg"
+image_caption: ""
 ---
 
 Hannah and Clare are two real foodies who have become vegan for a month to raise money for the Multiple Sclerosis Trust. They’ve decided to make the most of this opportunity and are on a quest to find really good vegan food. Follow their progress in their weekly column to see if they really can find vegan food that satisfies the meat-eaters among us.

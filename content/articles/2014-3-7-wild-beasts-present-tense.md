@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Prior to writing this review, I stumbled upon a recent YouTube recording of Wild Beasts performing a mellow and slightly mocking rendition of Miley Cyrus’ Wrecking Ball. I watched this video probably three or four times. This was not just because I love Wrecking Ball (who doesn’t?), but because the vocal complementation between front-men Hayden Thorpe and Tom Fleming is so damn great. Anyway, it goes without saying that Wild Beasts are much better than Miley Cyrus, and their most recent offering, Present Tense, may be their best.

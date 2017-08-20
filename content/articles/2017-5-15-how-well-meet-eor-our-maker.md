@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151937-felix-3894541486_24838071bd_o.jpg"
-image_caption: >
-  Ouch
-image_attribution: "IvyMike"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151937-felix-3894541486_24838071bd_o.jpg"
+image_caption: ""
 ---
 
 New computer simulations have found that if an asteroid impacted Earth, humans would be more likely to die from the blast itself, and not the subsequent effects it would have on the planet. A comforting thought. The shock waves, extreme winds and falling bits of space rock would probably deal the surrounding humanity its final blow. That is, according to recent computer simulations conducted by planetary scientists lead by Clemens Rumpf.

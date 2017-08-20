@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Wednesday 17th October saw 42 runners from Imperial College make the journey to north London to take on the “mountains” of Hampstead Heath. This marked the start of the annual London Colleges Cross Country League, with six races taking place around London over two terms.

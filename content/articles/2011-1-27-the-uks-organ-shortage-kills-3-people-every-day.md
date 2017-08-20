@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271839-ks607-organdon.jpg"
-image_caption: >
-
-image_attribution: "Tom Welch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271839-ks607-organdon.jpg"
+image_caption: ""
 ---
 
 Imagine. Something in your machinery has stopped working. Somewhere in your body, a vital organ, your kidneys, eyes, your heart, has malfunctioned. Your doctor says that the damage is irreversible and that you need a replacement.

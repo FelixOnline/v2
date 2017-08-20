@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
+image_caption: ""
 ---
 
 I have come to realise that there is one thing that gamers crave above all else in their video games: uniqueness. It's something that we only seem to see fleeting glances of in the modern day. Where did all the innovation and inspiration go? Well, a lot of it was spent in 1998 with the conception of _Grim Fandango_.

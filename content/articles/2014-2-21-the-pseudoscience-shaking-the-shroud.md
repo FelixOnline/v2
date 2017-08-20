@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Alongside UFOs, homeopathy and all manners of conspiracy theories, the Shroud of Turin has long been known as a perennial source of pseudoscience. It has almost certainly lived up to its well-earned reputation this week. An army of journalists have flooded the internet with stories about a new paper explaining why radiocarbon dating may not have given the “right” answer when aging the religious icon. It already sounds suspicious, doesn’t it?

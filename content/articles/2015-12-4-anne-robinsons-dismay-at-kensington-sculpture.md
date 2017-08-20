@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512041508-ygr12-anne-robinson.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512041508-ygr12-anne-robinson.jpg"
+image_caption: ""
 ---
 
 This week, plans to install a new sculpture on the roundabout just off Gloucester Road were damned by ex-presenter of The Weakest Link and Watchdog, Anne Robinson.

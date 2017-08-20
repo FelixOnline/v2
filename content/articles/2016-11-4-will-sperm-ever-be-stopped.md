@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041257-aib116-sperm-956482_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041257-aib116-sperm-956482_1920.jpg"
+image_caption: ""
 ---
 
 Talking about Imperial Girl’s Can, isn’t it about time for a bit of equality when it comes to birth control? Men currently only have 3 options: condoms, vasectomies and withdrawal (not recommended), compared to the multiple women can choose from. Unfortunately, side effects are common alongside hormonal contraception methods resulting in mood swings, depression, weight gain, acne, or heavy periods. Having a male equivalent is a more balanced compromise, but would also allow men to take control of their fertility, making it more of a two-way street. A report showed that over half of women forgot to take at least one Pill during their last cycle. Yikes.

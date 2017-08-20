@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261200-felix-girl.jpg"
-image_caption: >
-  Aoife Duffin delivers a captivating solo performance in A Girl is A Half-Formed Thing.
-image_attribution: "Mihaela Bodlovic"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261200-felix-girl.jpg"
+image_caption: ""
 ---
 
 The audience sits calmly, unaware of the storm that is poised to strike.

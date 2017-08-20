@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151948-ig711-rtr2xiyr.jpg"
-image_caption: >
-  Between a rock and a hard place: I don’t envy the French people
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151948-ig711-rtr2xiyr.jpg"
+image_caption: ""
 ---
 
 Five years have passed since the last presidential elections took place in France in 2007, which saw the centre-right populist [Nicolas Sarkozy](http://www.support-sarkozy-france.com/nicolas_sarkozy/) beat the centre-left Ségolène Royal to become the sixth president of the Fifth Republic. The presidency of France is up for grabs once again and will be contested in two rounds on 22 April and 6 May. In 1981, the French people chose left over right and booted out the unpopular incumbent. It is not unrealistic to think that we could see a replay of this unusual situation in the upcoming elections.

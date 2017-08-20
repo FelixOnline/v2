@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502021435-bwh12-mongolia-1.jpg"
-image_caption: >
-
-image_attribution: "Gemma Milman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502021435-bwh12-mongolia-1.jpg"
+image_caption: ""
 ---
 
 The Union has, according to the 2014 Impact Report, a turnover of just over £4.4 million. When you take out the bar and retail outlets, as well as staffing, overheads etc, that leaves approximately £1.4 million running through the clubs’ coffers on a yearly basis – as reported last year at budgeting. With all of that cashflow, spread over 350 societies, you might reasonably ask where all of the money comes from.

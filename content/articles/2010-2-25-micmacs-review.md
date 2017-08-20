@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251548-egk08-Micmacs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251548-egk08-Micmacs.jpg"
+image_caption: ""
 ---
 
 _Micmacs_ starts very sombrely; a soldier crouching over a landmine, gingerly sweeping the dirt off its surface amongst the cruel barenness of the desert. The camera cuts to a longshot and the mine suddenly explodes in the soldiers face throwing him high into the air. This sounds like a step into darker themes for Jean Pierre Jeunet, the man who gave us the surreal brilliance of _Delicatessen_ and the anarchic spirit of _Amelie_.

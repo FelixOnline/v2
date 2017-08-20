@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192239-felix-aimg_0620.jpg"
-image_caption: >
-  (Left to right) Peter Lacy, Lord Robert Winston, and Pallab Ghosh
-image_attribution: "Maria Veiga"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192239-felix-aimg_0620.jpg"
+image_caption: ""
 ---
 
 The [Royal College of Science Union (RCSU)](http://rcsu.org.uk/exec/) launched the [Science Challenge 2012](http://www.rcsu.org.uk/sciencechallenge/) on Tuesday 18 January after holding an event that saw students turn out in force. The launch event, held in the Sir Alexander Fleming building, revealed the questions which this year's Science Challenge revolve around, with Paul Beaumont, RCSU Vice President (Operations) and Science Challenge Chair hosting the night.

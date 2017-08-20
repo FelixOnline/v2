@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
-image_caption: >
-  Oh God no! The UrbEx itch is back! Probably need some tetanus jabs after though....
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
+image_caption: ""
 ---
 
 _"Dear Esther. The morning after I was washed ashore, salt in my ears, sand in my mouth and the waves always at my ankles, I felt as though everything had conspired to this one last shipwreck. I remembered nothing but water, stones in my belly and my shoes threatening to drag me underwater to where only the most listless of creatures swim.”_

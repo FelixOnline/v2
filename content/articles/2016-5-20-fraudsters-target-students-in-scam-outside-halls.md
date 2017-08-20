@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201049-felix-Dusk003.jpg"
-image_caption: >
-
-image_attribution: "Simon Kreitem"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201049-felix-Dusk003.jpg"
+image_caption: ""
 ---
 
 This week, a student was conned into handing over cash to fraudsters on Prince Consort Road.

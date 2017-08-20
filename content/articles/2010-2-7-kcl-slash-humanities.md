@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002070334-ak6309-KingsCol.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002070334-ak6309-KingsCol.jpg"
+image_caption: ""
 ---
 
 King's College London faces controversy and fierce opposition as they announce plans to make cuts in the School of Arts and Humanities, including the firing of several internationally renowned academics.

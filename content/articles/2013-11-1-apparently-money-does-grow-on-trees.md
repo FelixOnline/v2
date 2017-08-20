@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010946-felix-science-gold-leaves.jpeg.jpg"
-image_caption: >
-  Particulate gold in eucalyptus leaves
-image_attribution: "CSIRO Australia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010946-felix-science-gold-leaves.jpeg.jpg"
+image_caption: ""
 ---
 
 Money doesn’t grow on trees, said every person ever, but it turns out that isn’t entirely accurate. There’s gold in them thar hills, or rather, in them thar trees. Scientists have struck gold – surprisingly in the leaves, twigs and bark of eucalyptus trees in Western Australia.

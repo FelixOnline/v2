@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205180703-felix-ct1fdd3p5oes0mod.jpg"
-image_caption: >
-  Ognisko Polskie is situated opposite the main entrance of Imperial College
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205180703-felix-ct1fdd3p5oes0mod.jpg"
+image_caption: ""
 ---
 
 A petition has been set up to save the Polish Club, Ognisko Polskie, based in Princes Gardens, which is at risk of being sold. The South Kensington club includes the Ognisko restaurant, popular with staff and students from Imperial.

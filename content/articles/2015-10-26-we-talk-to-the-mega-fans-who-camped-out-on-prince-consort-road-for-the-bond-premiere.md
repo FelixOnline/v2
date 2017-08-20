@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510261257-ygr12-queues.jpg"
-image_caption: >
-  View of the queue this morning outside Beit.
-image_attribution: "Grace Rahman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510261257-ygr12-queues.jpg"
+image_caption: ""
 ---
 
 You might well be skiving lectures this afternoon to catch a glimpse of national treasure Daniel Craig and a handful of royals as they attend tonight’s _Spectre_ premiere. That’s nothing compared to these fans, who have been camping out on Prince Consort Road for three days to secure a place right at the front of the crowds lining the red carpet.

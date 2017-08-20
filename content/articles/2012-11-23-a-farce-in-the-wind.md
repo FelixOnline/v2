@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
+image_caption: ""
 ---
 
 Pinero’s The Magistrate is a classic of 19th Century farce. It concerns a woman with a son from a previous marriage, who has to conceal her real age from a recently acquired husband, the magistrate. This means a 19 year old son, along with everyone else, are convinced he is actually 5 years younger than he is. Through that deceit, the farce brought all the characters together to a supper room where they were found contravening the licensing laws by the police. The subsequent fallout concerning reputation and social standing occupies the last two acts with a few romantic storylines thrown in for good measure.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181206-felix-image4.JPG"
-image_caption: >
-  They’re an unstoppable force.
-image_attribution: "Imperial Lacrosse"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181206-felix-image4.JPG"
+image_caption: ""
 ---
 
 Finishing top of the league with a goal difference of 199, the undefeated Imperial Ladies Lacrosse 1st team are having a phenomenal season.

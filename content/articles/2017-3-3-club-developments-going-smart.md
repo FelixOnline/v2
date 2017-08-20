@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031616-felix-Consulting project_3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031616-felix-Consulting project_3.jpg"
+image_caption: ""
 ---
 
 The membership base of the Imperial College Yacht Club had shrunk over the past five years and the new committee of the yacht club are eager to find solutions to improve this situation as well as the club’s operations.

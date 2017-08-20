@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
-image_caption: >
-  Journalist and editor Rachel Johnson returns to lead one of the teams in the Classics Quiz
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
+image_caption: ""
 ---
 
 The Soho Literary festival is to return for its third year at the Soho Theatre. Taking place at the end of this month (September 26-29) the festival is organised by _The Oldie _magazine, a publication well known for its regular literary lunches. With over thirty different events there is guaranteed to be something to appeal every lover of books and literature.

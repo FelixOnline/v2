@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As reported extensively by the media [this week](http://felixonline.co.uk/news/1607/university-applications-fall-by-9/), university applications have seen an approximate drop of 9% from last year. In the wake of such a startling figure (especially in comparison to the year-on-year rise that the sector has recently enjoyed), questions must be asked regarding the potential implications that this may have on Imperial College.

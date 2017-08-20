@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
+image_caption: ""
 ---
 
 With exams finishing and the sun coming out, Imperial is a hive of frenzied sexual activity, as inhibitions are shed in anticipation of the long summer break. But if you live in a shared room in halls, it strongly limits the privacy available for the exciting sexual encounters that we’re all craving. Some of you may have already worked out how to get around this, and for others this may be a new problem. Anyway, here’s some advice for you to make the most of the rest of the summer term.

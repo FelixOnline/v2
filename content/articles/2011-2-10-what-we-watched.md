@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It's that time when all the post-Christmas series are coming to an end, and writing this column is really difficult when there's sod all on telly, so a couple of the shows could possibly be repeats. They should be just as good as when they were first broadcast though so no complaining.

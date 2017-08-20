@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511201400-ff712-4a3fbd7e-0cab-40f5-84a8-8649e3da18db.jpg"
-image_caption: >
-  Yeah, hold off on that celebrating Sylvester
-image_attribution: "Everett Collection"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511201400-ff712-4a3fbd7e-0cab-40f5-84a8-8649e3da18db.jpg"
+image_caption: ""
 ---
 
 People always say the original _Rocky_ is a classic, but I’ve never really seen this. I challenge its fans to watch it again today, and tell me it’s aged well. Yes, there are some iconic scenes, but this is not because they’re good – rather it’s because the film was popular. What we have here is a serious case of nostalgia goggles. Here are some alternatives:

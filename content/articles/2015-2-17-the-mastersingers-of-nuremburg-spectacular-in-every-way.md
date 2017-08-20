@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
-image_caption: >
-  Nicky Spence as David and Andrew Shore as Sixtus Beckmesser in Wagner’s The Mastersingers of Nuremberg at the London Coliseum.
-image_attribution: "Tristram Kenton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
+image_caption: ""
 ---
 
 Hyperbole has never been my enemy, and I won’t shy from it now; Wagner’s _The Mastersingers of Nuremberg_ is one of the pinnacles of Western art. But works of such scope and breadth of vision are notoriously difficult, and expensive, to perform. Opera houses must offer enlarged orchestras, vast crowds of singer-actors, numerous sets, and the scores demand almost superhuman abilities from the principle cast. With this production, the __English National Opera__ has created something that delivers all this, and fully lives up to the mind-blowing depths of Wagner’s vision.

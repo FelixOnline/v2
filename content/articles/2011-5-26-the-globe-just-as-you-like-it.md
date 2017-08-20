@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105270048-felix-globe.jpg"
-image_caption: >
-
-image_attribution: "John Tramper"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105270048-felix-globe.jpg"
+image_caption: ""
 ---
 
 The British summer has officially begun. Shakespeare’s Globe theatre has set its band of players onto the road for three months of comedy – As You Like It. And what a riotous three months it promises to be. James Dacre directs a cast of eight who take on double that number of parts in this Victorian adaptation of one of Shakespeare’s most loved and revived comedies.

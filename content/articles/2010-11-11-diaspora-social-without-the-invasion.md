@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
+image_caption: ""
 ---
 
 [Diaspora](https://joindiaspora.com/) is an open source social network built by four students at NYU’s Courant Institute; Daniel Grippi, Maxwell Salzberg, Raphael Sofaer, and Ilya Zhitomirskiy.

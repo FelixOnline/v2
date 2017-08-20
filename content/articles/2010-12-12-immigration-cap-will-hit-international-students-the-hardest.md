@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121425-ks607-theresea.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121425-ks607-theresea.jpg"
+image_caption: ""
 ---
 
 Speaking to the House of Commons on 23rd of November, the Home Secretary Theresa May announced plans to cut the number of non-EU immigrants by a fifth from next year. Student visas are amongst one the proposed targets for the cut. In light of the impending visa restrictions, the future of international students in UK seems increasingly uncertain.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
-image_caption: >
-  Eat Pray Throwup...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
+image_caption: ""
 ---
 
 If you happen to have an ounce of cynicism in your body, avoid this like the plague, because for the cynics amongst you, Eat Pray Love will no doubt be the most self-indulgent film you will see all year. But for those who are truly romantics at heart, one woman’s pretty looking journey across the colourful globe to find the meaning of life, searching for a true connection, will be something to marvel at. Is she brave for venturing out into the world, following her dreams? Or is she simply deluding herself into a materialistic journey? Are the problems in her life that serious?

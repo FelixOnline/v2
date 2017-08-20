@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210091214-jp1409-speedtest.png"
-image_caption: >
-  MOAR SPEED. NEVER STREAM AGAIN
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210091214-jp1409-speedtest.png"
+image_caption: ""
 ---
 
 __General Productivity__

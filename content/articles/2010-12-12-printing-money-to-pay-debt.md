@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121427-ks607-printing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121427-ks607-printing.jpg"
+image_caption: ""
 ---
 
 This year will be the toughest year for the eurozone ever. Since the financial crisis in 2008, the US and Europe have suffered from a serious recession. In fact, the PIIGS (Portugal, Ireland, Italy, Greece and Spain), especially Greece and Ireland, are now at the fiscal brink, and they have called for a bailout from the EU and the International Monetary Fund (IMF).

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 All I bloody hear is the clock ticking. We all know what that sounds like, and we all know what the stabbing sounds of each second, ‘tick’ or ‘tock’, means. Time is slipping away, and there’s just about nothing we can do to stop it (short from building a DeLorean and taking a joyride with Marty McFly).

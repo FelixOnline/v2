@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150034-tna08-money.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150034-tna08-money.jpg"
+image_caption: ""
 ---
 
 273 members of staff at Imperial College London during the period of 2011/12 were paid over £100,000. This is according to the official reports released at the end of each academic year. Keith O’Nions, the President & Rector, was, in total, renumerated £354,000. This figure is actually a reduction of last year, which was £367,000. The figure is mostly salary, but £20,000 was categorised as “Other”. The total renumeration puts O’Nions as the 4th best paid Vice-Chancellor in the UK, with only Oxford, Birmingham and UCL’s Vice-Chancellors being paid more. This does not appear to include the added benefit of the accommodation.

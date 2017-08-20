@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211315-ps3110-1526521_10152904433937526_445959434434131090_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211315-ps3110-1526521_10152904433937526_445959434434131090_n.jpg"
+image_caption: ""
 ---
 
 The first ever Royal Mixer, which took place last Thursday 13th Nov 2014 at Metric, saw students from a host of other “Royal” institutions in London attend an Imperial-based social for the first time.

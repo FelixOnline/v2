@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032006-ks607-dogdogdo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032006-ks607-dogdogdo.jpg"
+image_caption: ""
 ---
 
 Although dogs are surely the first animals to be domesticated, the history and location of wolf-to-dog evolution has been controversial. Yet recent genetic evidence points to the Middle East. Most farmyard animals and the house cat were domesticated in the Middle Eastern area known as the Fertile Crescent, as a result of that area being witness to the first sedentary, agricultural human settlements.

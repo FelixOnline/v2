@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122130-felix-holland-club-poster.jpg"
-image_caption: >
-  A poster campaign has been organised
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122130-felix-holland-club-poster.jpg"
+image_caption: ""
 ---
 
 The future of Imperial College’s staff bar, the Holland Club, is in serious doubt this week as it emerged that college catering are potentially planning on converting the space into a new food outlet.

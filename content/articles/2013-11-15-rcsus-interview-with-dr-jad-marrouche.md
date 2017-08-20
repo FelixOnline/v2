@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 RCSU’s annual Science Challenge is launching for this year on December 3rd. Previous years have included a tour of CERN as a prize for the overall winner. This tour of CERN was offered by past RCSU President & Science Challenge Chair Dr Jad Marrouche.

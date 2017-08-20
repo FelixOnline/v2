@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702022329-felix-8381100558_c20e29bf98_o.jpg"
-image_caption: >
-
-image_attribution: "poppet with a camera"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702022329-felix-8381100558_c20e29bf98_o.jpg"
+image_caption: ""
 ---
 
 KCL’s feminist intersectional society has condemned a lecturer at King’s College London after he released a series of tweets which were described as “racist and incredibly insulting remarks directed at the Somali community”.

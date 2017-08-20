@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221902-rsp07-technolo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221902-rsp07-technolo.jpg"
+image_caption: ""
 ---
 
 Google and China have never really been the best of friends, and now finally it's all over. Following security breaches of Google servers by hackers thought to originate from China, last week Google announced that it would be removing censorship from all of its Chinese services. Although the future is still uncertain, it's extremely likely that we'll see the end of Google.cn and the company effectively exiled from the country. As is usual, Google claims the moral high ground and reinforces its “don't be evil” attitude, but other evidence suggests that Google may have another hidden agenda.

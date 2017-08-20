@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102213-tna08-stirlingwj_1000.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102213-tna08-stirlingwj_1000.jpg"
+image_caption: ""
 ---
 
 [Professor James Stirling](http://www.phy.cam.ac.uk/people/stirlingwj.php) CBE FRS [has been named the first Provost of Imperial College London](http://www.timeshighereducation.co.uk/story.asp?storycode=422136).

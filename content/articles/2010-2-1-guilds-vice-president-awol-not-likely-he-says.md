@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011632-rsp07-rikkinor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011632-rsp07-rikkinor.jpg"
+image_caption: ""
 ---
 
 In a long line of mishaps involving the City & Guilds College Union, their Vice President (Finance & Societies) Rikki Norris has been criticised for his absence about College, but has now spoken to felix to clarify the situation.

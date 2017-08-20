@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041150-felix-516d9b42-ba71-43ae-9e4a-b8e39591143a.jpg"
-image_caption: >
-  Director Kurt Kuenne (left), at the graduation of friend Andrew Bagby, the subject of the film.
-image_attribution: "Mongrel Media"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041150-felix-516d9b42-ba71-43ae-9e4a-b8e39591143a.jpg"
+image_caption: ""
 ---
 
 Before I begin this review, I’m going to really strongly recommend that if you haven’t already seen the film you should avoid reviews or summaries online. Should you watch this documentary – as I did – with no foreknowledge then I guarantee that watching _Dear Zachary: A Letter to a Son about his Father_ will be a genuinely unique experience. Director Kurt Kuenne has a very important message to get across here, and the structure of the film – the way it progresses, slowly giving you drips of information – is essential to its effectiveness.

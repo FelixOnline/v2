@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310130109-jal08-car_iaeste_pic1-copy.jpg"
-image_caption: >
-
-image_attribution: "IAESTE"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310130109-jal08-car_iaeste_pic1-copy.jpg"
+image_caption: ""
 ---
 
 It was something as innocuous as an online search where I discovered the International Association for the Exchange of Students for Technical Experience - or IAESTE (eye∙ee∙es∙ta) –during my second year reading Chemistry at Imperial College London. I’d already considered a number of similar schemes, all offering undergrads the opportunity to work abroad for 6-12 weeks during the summer (sometimes a year) with full pay, but often only in business, language assistance, the tourism industry or with some other caveat or restriction.

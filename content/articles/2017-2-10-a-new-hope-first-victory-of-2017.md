@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101642-felix-IMG_20170201_165026_889.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101642-felix-IMG_20170201_165026_889.jpg"
+image_caption: ""
 ---
 
 A man with a Scouse accent, unfortunate bowels and admittedly good tackling technique once said: ‘Imperial have never won a game without me’. The record remained standing as IC 1s dominated the set-piece to win a comfortable away victory against Surrey. Man of the Match Tom ‘Shuz’ Szyszko put in an admirable shift as the forward pack won themselves a penalty try after numerous scrums on the opposition five metre line. Strong defence around the ruck kept Surrey’s attack to a minimum, although some slow folding caught IC off guard out wide a few times. However, excellent scramble defence kept Surrey just short of the line and IC were soon back on the front foot, and a late first half penalty helped Imperial lead 10-0 at the break.

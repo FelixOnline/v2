@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072331-tna08-truckl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072331-tna08-truckl.jpg"
+image_caption: ""
 ---
 
 I feared this would happen. It was foretold by an ancient Mayan calendar, and Nostradamus mentioned it somewhere. It’s a simulator game that I like, and won’t take the mickey out of. Much.

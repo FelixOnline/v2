@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial Rocksoc was out in force this weekend to catch the Metal Hammer: Defenders of the Faith IV tour. It doesn’t get much more metal that a show headlined by modern day Vikings Amon Amarth with heroes of the grindcore and melodic death genres Carcass, the fresher faced Bleed From Within and cult 80’s heavy metal band Hell opening proceedings. All to a sold out Kentish Town Forum filled with excited fans.

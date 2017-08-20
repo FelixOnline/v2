@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130125-cj914-abubakar-shekau-boko-haram.png"
-image_caption: >
-  Abubakar Shekau reportedly made the comments in a video posted on Twitter
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130125-cj914-abubakar-shekau-boko-haram.png"
+image_caption: ""
 ---
 
 A video of Abubakar Shekau, the leader of the militant extremist group Boko Haram, has emerged in which he swears allegiance to Islamic State (IS).

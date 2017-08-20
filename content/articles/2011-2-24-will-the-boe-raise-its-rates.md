@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241946-nm1010-boeboebo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241946-nm1010-boeboebo.jpg"
+image_caption: ""
 ---
 
 A mid growing concern over the Bank of England’s focus on and commitment to keeping its inflation targets, one more committee member joined calls to raise interest rates. According to minutes from the latest monetary policy meeting, three members now find “the case for removing some monetary stimulus” compelling.

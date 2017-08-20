@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111125-felix-201501292357-ps3110-edited_council.jpg"
-image_caption: >
-  A rare antique photograph of a prehistoric union council meeting.
-image_attribution: "Cem Hurrell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111125-felix-201501292357-ps3110-edited_council.jpg"
+image_caption: ""
 ---
 
 At this week’s union council a paper was tabled... on the problems faced by union council.

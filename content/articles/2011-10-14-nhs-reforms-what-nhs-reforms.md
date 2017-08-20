@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140119-sjw209-stephen-small.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140119-sjw209-stephen-small.jpg"
+image_caption: ""
 ---
 
 You’d think that when Parliament was on the verge of passing a bill to effectively abolish the NHS it would be front page news, but apparently not. By the time you’re reading this, the House of Lords will have decided whether or not to pass the 2011 Health and Social Care Bill. For both your sake and mine I hope they have not; here’s why.

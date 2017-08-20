@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010031-tna08-sabre-attack.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010031-tna08-sabre-attack.jpg"
+image_caption: ""
 ---
 
 The guys started on Saturday, facing Bristol. Their opponents had lost one of their main fencers, but gained an international who held his ground well in foil and epee. Whilst the epeeists found the going tough, losing their match 32-45, the foilists were able to even out the score through a 45-35 victory and then handing it over to the sabreurs to comfortably win 45-13 for an overall victory of 122-93.

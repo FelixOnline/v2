@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week saw the Postgraduate Graduation Ceremony take place in the Royal Albert Hall. Felix congratulates all of those who received their doctorates and wishes you well for the future of your careers, whether in academia or otherwise.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
-image_caption: >
-  Another hero is in on the action.
-image_attribution: "The CW"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
+image_caption: ""
 ---
 
 Spinning out of the CW’s live action DC shows is an animated one by the name of Vixen. This series takes place in its own corner of the called ‘Arrowverse’, offering a take on a different kind of hero, as well as using animation to do the things too expensive for live action. This venture is mostly successful but not without its faults.

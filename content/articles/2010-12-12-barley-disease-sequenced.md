@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121348-ks607-barleyfi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121348-ks607-barleyfi.jpg"
+image_caption: ""
 ---
 
 Researchers from the [beleaguered](http://felixonline.co.uk/?article=547) Department of Life Sciences at Imperial College have sequenced the genome of a major fungal disease that affects cereal crops including barley. This [breakthrough](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_10-12-2010-11-9-20) could advance our understanding of the evolution of plant diseases. The research suggests that parasites within the fungal genome help the disease adapt and evade the plant’s defences.

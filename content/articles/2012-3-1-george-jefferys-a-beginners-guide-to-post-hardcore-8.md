@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012316-cac111-blakfish.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012316-cac111-blakfish.gif"
+image_caption: ""
 ---
 
 This week we’ll be taking a detour into the mysterious world of so-called “math-core”. Math-core is to post-hardcore what Imperial is to UCL: the same, just a bit cleverer. There are countless math-core bands that have left their mark on post-hardcore music but the one I’m reviewing this week is rather more low-key, a hidden gem from none other than Birmingham.

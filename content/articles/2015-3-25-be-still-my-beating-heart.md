@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251350-ff712-the-broken-heart-007_captioneda.jpg"
-image_caption: >
-  Tom Stuart as Prophilus and Amy Morgan as Penthea in Caoline Steinbeis' production of The Broken Heart in the Sam Wanamaker Playhouse
-image_attribution: "Marc Brenner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251350-ff712-the-broken-heart-007_captioneda.jpg"
+image_caption: ""
 ---
 
 The descriptor ‘little performed’, when applied to a piece of theatre, is a double-edged sword: on the one hand, the idea of a play returning to a London stage after an absence of 5, 10, 20 years can be enough to get any number of culture vultures clamoring for a seat; on the other, it begs the question why? Why has the play fallen off the radar? And what does that mean for those trying to bring it back? It is these questions I have in mind when visiting the __Sam Wanamaker Playhouse__, whose latest production _The Broken Heart_ has rarely been performed on stage.

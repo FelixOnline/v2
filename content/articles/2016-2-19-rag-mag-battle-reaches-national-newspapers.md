@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
-image_caption: >
-
-image_attribution: "MailOnline"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
+image_caption: ""
 ---
 
 This week, national newspapers covered the sexism row that has been raging since the union strongly advised RAG to bin 1600 copies of a satirical magazine they’d just printed. In an attempt to raise money for Great Ormond Street Hospital, the British Refugee Council and Porridge in Rice, which works in Kenya, RAG published a 16-page handout that included several pages of ‘satire’, which the union has branded a sexist example of “harassment and bullying” against the Union President. After last Friday’s FELIX, which published comment pieces responding to the story, journalists from the _Daily Mail_ and _Evening Standard_ began to contact members of the RAG committee, the Union President and College.

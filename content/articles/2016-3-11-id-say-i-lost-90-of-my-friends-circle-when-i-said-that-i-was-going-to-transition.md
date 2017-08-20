@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Iam ten minutes late by the time I get on the line to Anjeli Patel – not something I reckon would be taken lightly at Ernst &amp; Young LLP, where she works as an associate in assurance within Wealth and Asset management.

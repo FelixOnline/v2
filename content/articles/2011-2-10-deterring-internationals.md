@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
-image_caption: >
-
-image_attribution: "Antony Theobald"
-image_attribution_link: "http://www.flickr.com/photos/antphotos/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
+image_caption: ""
 ---
 
 On January 26th, a press-conference focused on the international student migration regulations was held in the Queen Elizabeth II Conference Center. The speakers included Tony Millns (English UK), Aaron Porter (National Union of Students), Dominic Scott (Universities and Colleges Information Systems Association), Susan Hindley (Study UK), Nicola Dandridge (Universities UK) and Professor Edward Acton (University of East Anglia).

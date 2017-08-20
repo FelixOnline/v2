@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At times you may feel like it’s almost a full time job in itself trying to get your first opportunity in the workplace. As we have talked about previously, there are a lot of considerations to take on board when seeking opportunities. Have you fully considered all your skills and selling points? Have you researched the areas of work that you are interested in? Have you looked at all opportunity providers, large or small? Have you considered the hidden job market, and finally, are you doing yourself justice on your applications and CV’s?

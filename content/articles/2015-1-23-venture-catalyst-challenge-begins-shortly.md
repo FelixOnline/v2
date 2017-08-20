@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230133-cac111-vcc-graphic-695x398.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230133-cac111-vcc-graphic-695x398.png"
+image_caption: ""
 ---
 
 Do you have an idea that could change the world, or that could even become a career itself? Imperial’s Create Lab is once again hosting its Venture Catalyst Challenge – a competition that gives it participants the chance of winning £10,000, one-to-one mentoring from industry experts, evening masterclasses, and free space to help bring your idea to reality.

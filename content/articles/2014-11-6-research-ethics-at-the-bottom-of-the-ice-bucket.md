@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102232-ps3110-download.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102232-ps3110-download.jpeg"
+image_caption: ""
 ---
 
 Remember those summer weeks when your entire Facebook feed was filled with people pouring cold water over themselves and making some form of disgruntled exclamations about the fact? Everyone from Victoria Beckham to my own mother took part in the ALS Ice Bucket Challenge, and good on them too.

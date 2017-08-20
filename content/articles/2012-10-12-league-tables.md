@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week, we have painstakingly (sort of) gone through all of the league tables so you can see where we stand. Also, importantly, you can see where your subject is placed. I hope it’s interesting and that you enjoy the pretty infographics. We’ve tried to strip out the boring waffling from us and just give you the facts and figures.

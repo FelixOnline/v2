@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051156-felix-k Hopkins.jpg"
-image_caption: >
-  Katie Hopkins’ hate speech goes unpunished.
-image_attribution: "Wales online"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051156-felix-k Hopkins.jpg"
+image_caption: ""
 ---
 
 Freedom of speech is the right to speak without censorship or restraint by the government.  At least, that’s what Google says. How does the British establishment fare when we look at restrictions on freedom of speech?

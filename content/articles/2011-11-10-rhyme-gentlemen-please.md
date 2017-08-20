@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [__Fluent on Paper__](http://en-gb.facebook.com/event.php?eid=297519073593048), apparently the first poetry night to take place in South Kensington, has been set up by last year’s Felix editor Kadhim Shubber, and will likely feature amateur poets from the university.

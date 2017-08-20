@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252153-nm1010-charles.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252153-nm1010-charles.jpg"
+image_caption: ""
 ---
 
 Barack Obama has something in common with the England Football team. For good or bad, he made politics interesting again during the 2008 Presidential campaign. Yet since he has been in power, his approval ratings have started to drop as people realise with just how unreachable their levels of expectation were.

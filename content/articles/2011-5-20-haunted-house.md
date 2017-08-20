@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200537-felix-insidious.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200537-felix-insidious.jpg"
+image_caption: ""
 ---
 
 Leave it to James Wan, the man behind Saw who kick-started the whole franchise, to make another low-budget thrilling horror experience. This time there is very little gore, no limbs being hacked off, no scary man in a freaky mask telling the victims that he wants to “play a game.” No, the villain here is far sneakier and sinister than that (hence the title). Plus with Insidious, Wan ventures out into the paranormal, as seems to be a popular crowd pleaser when it comes to the horror genre these days. Even the opening score, loaded with string instruments plucking away, is similar to those of vintage horror films that scare us even to this day.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
-image_caption: >
-  Peter Paul Rubens, Tiger, Lion and Leopard Hunt, 1616
-image_attribution: "MBA, Rennes, Dist. RMN-Grand Palais / Adelaide Beaudoin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
+image_caption: ""
 ---
 
 In collaboration with the Royal Museum of Fine Arts of Antwerp, the __Royal Academy __presents the first exhibition in the UK exploring Rubens’ influence on subsequent art history.

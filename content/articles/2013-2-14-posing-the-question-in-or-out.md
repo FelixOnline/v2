@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302141702-tna08-concerned-cam.jpg"
-image_caption: >
-
-image_attribution: "Alex Folkes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302141702-tna08-concerned-cam.jpg"
+image_caption: ""
 ---
 
 "I really hope that the UnitedKingdom pulls out of the European Union and that the Euro collapses – I could definitely do with a cheaper holiday somewhere nice and sunny in Europe…” was the conclusion to a ranting monologue I was faced with during a taxi ride back home one evening.

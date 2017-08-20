@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512061403-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
-image_caption: >
-
-image_attribution: "Black Mass PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512061403-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
+image_caption: ""
 ---
 
 There's an episode of David Mitchell's brilliant YouTube series _Soapbox_ in which he talks about the problem with gangster movies: one great film about gangsters gets made in the seventies, he argues, and suddenly everyone thinks they can make three hour long dirges filled with smoky wood-finished rooms, hilariously thick swear-riddled accents, and overly masculine geriatric men droning on and on about who's next to get whacked. He blames _The Godfather_. It feels almost unfair to compare any film to _The Godfather_, except perhaps _The Godfather Part II_, but watching the Boston-set crime drama _Black Mass_, it's easy to see what Mitchell was on about.

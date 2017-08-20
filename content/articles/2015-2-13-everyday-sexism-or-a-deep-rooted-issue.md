@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131455-bwh12-icsexism.png"
-image_caption: >
-
-image_attribution: "IC Femsoc"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131455-bwh12-icsexism.png"
+image_caption: ""
 ---
 
 Feminist Society is launching the campaign IC SEXISM on campus to document the experiences of students and staff with respect to facing everyday sexism at Imperial College London.

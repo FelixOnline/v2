@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251428-felix-22529815437_3dad9af372_k.jpg"
-image_caption: >
-
-image_attribution: "Don Graham"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251428-felix-22529815437_3dad9af372_k.jpg"
+image_caption: ""
 ---
 
 ## TURN: Washington’s Spies

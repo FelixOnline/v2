@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171709-felix-Jackie.jpg"
-image_caption: >
-  Andy Warhol, Jackie II (Jacqueline Kennedy II), from 11 Pop Artists, vol. II, 1965, published 1966, colour screenprint
-image_attribution: "2016 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS), New York and DACS, London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171709-felix-Jackie.jpg"
+image_caption: ""
 ---
 
 The UK’s first major exhibition of modern and contemporary American printmaking, that has recently opened at the British Museum, spans twelve rooms and six decades. The American Dream: pop to the present is as ambitious as it is controversial, with critics questioning not only pop art’s artistic value, but moreover whether it belongs in the British Museum at all.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122252-jyg11-1992.jpg"
-image_caption: >
-  The 1992 World Cup has often been viewed as the fairest
-image_attribution: "PA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122252-jyg11-1992.jpg"
+image_caption: ""
 ---
 
 If there is one thing that can be said about the ICC Cricket World Cup, it’s that over the years, the International Cricket Council (ICC) themselves have been very unsure over what the best format is. A large amount of this has been down to the debate over how many teams there should be in the World Cup. The governing body is keen to downsize, whereas the Associate nations are, predictably, not.

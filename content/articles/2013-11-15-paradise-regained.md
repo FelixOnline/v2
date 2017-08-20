@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Paradise Lost played their 25th anniversary show at the roundhouse on Sunday, and I was there! It’s been 25 years since Paradise Lost emerged from Halifax in west Yorkshire. Twenty-five years in which the band has established itself as one of the best and most reliable in metal music, with 13 studio albums to their name, all but one original member still touring and new material that can stand shoulder to shoulder with the best of their early work. Guns n’ Roses should be jealous.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051249-felix-netflix_house_of_cards_a_l.jpg"
-image_caption: >
-  House of Cards, a compelling and amazing Netflix original.
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051249-felix-netflix_house_of_cards_a_l.jpg"
+image_caption: ""
 ---
 
 These past few years, we’ve seen a sudden shift in popularity of several online streaming sites with Netflix, Hulu and Amazon Prime being the most popular of the bunch. They’ve added competition into the television market and are growing in popularity by the day. Netflix have also been expanding their reach, now present in most countries around the world. With all this growth, it begs the question, can these online streaming sites replace live cable TV altogether?

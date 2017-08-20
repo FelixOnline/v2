@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031418-ps3110-screen-shot-2015-02-03-at-14.17.51.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031418-ps3110-screen-shot-2015-02-03-at-14.17.51.png"
+image_caption: ""
 ---
 
 With Groupon becoming more and more universally well known, one can purchase virtually anything, from clothes to household appliances to restaurant deals, at a discounted price. However, a lot of people hesitate in the face of travel deals.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403240340-jal08-whotter.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403240340-jal08-whotter.jpg"
+image_caption: ""
 ---
 
 __Can you tell us a bit about your current business in the sustainability sector?__

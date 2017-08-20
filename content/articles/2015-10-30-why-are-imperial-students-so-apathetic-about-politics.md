@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301236-ygr12-angry-medics.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301236-ygr12-angry-medics.jpg"
+image_caption: ""
 ---
 
 The students of Imperial are, in my experience, greatly lacking in their enthusiasm for political and social issues when compared to their contemporaries at other institutions. While it might be true that there is growing resentment and disillusionment among students towards the political class, this does not excuse the alarming lack of visible activism and demonstration across campus.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012119-pk1811-ron-paul-2012-campaign.jpg"
-image_caption: >
-  Would you have known if we had just put a picture of a random guy that wasn’t Ron Paul?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012119-pk1811-ron-paul-2012-campaign.jpg"
+image_caption: ""
 ---
 
 If you’ve been paying attention to the goings on in America in the lead up to next year’s presidential elections, you will no doubt have heard many political commentators expressing the view that Ron Paul is the man that everyone has been waiting for. The hero that America needs. What is especially impressive is that this type of praise is happening across the board, regardless of political loyalties or emotional ties.

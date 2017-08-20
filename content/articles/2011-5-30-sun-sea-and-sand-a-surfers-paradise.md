@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105301251-felix-h.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105301251-felix-h.jpg"
+image_caption: ""
 ---
 
 On Thursday October 18th, [Imperial Surf Soc](https://www.facebook.com/group.php?gid=6569375282) headed down to Newquay for our first ever competition. Friday marked the beginning of the [BUCS annual surfing championships](http://www.bucssurfchamps.co.uk/) – the biggest surfing competition in Europe – and we had four surfers ready to do it justice. The long minibus journey was soon forgotten as we jumped in the sea to catch some waves and get some practice in before the first heats the following day. After showers and supper, drinking ensued, but the four entering the competition (Will Hunt, Elliot Taylor, Adam ‘Hardcore’ Harvey and Dario Mazza) packed in early to get some sleep before the big day. The rest of us (supporters and reserves) decided the night was still young and headed to the campsite bar. A few pints later, the Sambuca shots were on. Unfortunately, Serkan ‘Duncan’ Karaagac couldn’t handle this and opted for a safe vodka and coke, prompting Thom to empty all the shots into his glass. Serkan was obliged to Down It, and imminently became the first casualty of the weekend. Luckily he wasn’t wearing his ‘pulling shirt’.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
+image_caption: ""
 ---
 
 I must say; I was rather taken aback by the hullabaloo caused by [my (somewhat overemphasised) opinions](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/) when I reviewed the Jeremy Kyle show a few weeks ago, and for that, I extend my apologies to anyone who was offended by it. I have never professed to be any good at this writing malarkey – evidently my tongue-in-cheek style and exaggeration were not recognised by some people. Oh well!

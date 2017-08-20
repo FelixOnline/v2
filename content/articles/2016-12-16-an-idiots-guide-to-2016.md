@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161424-felix-5440002785_7b1ed0ac3e_b.jpg"
-image_caption: >
-
-image_attribution: "Gage Skidmore "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161424-felix-5440002785_7b1ed0ac3e_b.jpg"
+image_caption: ""
 ---
 
 It’s been a rollercoaster ride. Except a rollercoaster ride where you threw up on yourself at the start. But, let’s take a trip down memory lane; there are a few nuggets of joy to be found amongst the pile of crap that was 2016. Promise.

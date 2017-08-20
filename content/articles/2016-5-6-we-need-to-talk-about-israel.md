@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061049-felix-peace1.jpg"
-image_caption: >
-
-image_attribution: "Al Jazeera"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061049-felix-peace1.jpg"
+image_caption: ""
 ---
 
 It’s like that old saying goes, ‘you wait for one anti-semitism scandal, and then three come along at once’. First was the election of Malia Bouattia as NUS president, whose labelling of Birmingham as a Zionist outpost was quite problematic, then came the four-year-old posts of MP Naz Shah saying that the people of Israel should be relocated to America (okay, more than a little more problematic). Finally, the nail in the coffin for the Labour party’s anti-semitism problem, the former Mayor of London compared the intentions of Israel to that of Hitler. Well. That is very problematic.

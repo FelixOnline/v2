@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the backdrop of the dramatic demonstrations sweeping Egypt, another battle is being fought for the control of internet and communication lines in the country as the government tries to prevent protesters from organising and the local media from distributing images and videos of the events to an eager international audience. In an unprecendented step, the government has gone as far as ordering ISPs to completely halt routing of all traffic, a move that draws Egypt into an exclusive club of censorship along with the likes of North Korea and Burma.

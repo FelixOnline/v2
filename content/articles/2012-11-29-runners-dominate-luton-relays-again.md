@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last Sunday morning, our four Imperial teams arrived in a sunny but cold Luton, ready to once again dominate the Luton Marathon Relays. Simply put, each relay team consists of three people, each running a third of a marathon.

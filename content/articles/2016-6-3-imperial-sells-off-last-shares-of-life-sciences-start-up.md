@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031034-felix-bio.jpg"
-image_caption: >
-  Let’s commercialise some research!
-image_attribution: "Imperial Innovations"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031034-felix-bio.jpg"
+image_caption: ""
 ---
 
 Imperial Innovations Group, the company which oversees the spin-off companies from technology developed at Imperial, has sold its remaining shares in Alkion Biopharma to chemical giant, Evonik Industries.

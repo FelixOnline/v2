@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031811-felix-Screen Shot 2017-02-03 at 18.10.54.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031811-felix-Screen Shot 2017-02-03 at 18.10.54.png"
+image_caption: ""
 ---
 
 Have you ever found yourself aroused by the thought of having a cream pie pushed into your face or cracking eggs over someone’s chest? Of course you have. Well, you’re not alone. This fringe phenomenon is called ‘Wet and Messy Fetishism’, often abbreviated to WAM or simply called sploshing. Fans of WAM enjoy the sensation of wet or messy substances being rubbed or poured on their bodies. These can include cream, custard, eggs, milk, beer and non-food substances such as paint, gunge, oil, mud or lotion. People involved in WAM often like to stress that bodily fluids are not included in the list.

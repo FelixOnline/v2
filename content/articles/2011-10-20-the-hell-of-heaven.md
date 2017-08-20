@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111041133-felix-sam-horti-new.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111041133-felix-sam-horti-new.jpg"
+image_caption: ""
 ---
 
 The question of what happens to us after we die is one that has troubled us as a species for thousands of years, and to this day many among us still wrestle daily with our own doubt and confusion over the matter. The posthumously themed wonderings of religious movements and philosophers alike have produced many weird and wonderful ideas filled with fantasy and creativity. The conspicuously man-made nature of the afterlife as displayed in modern religions isn’t something that I feel it would be worthwhile to investigate at great length, mainly because of the fact that it is so palpable that the term “flogging a dead horse” comes to mind. The grubby fingerprints of mankind are present wherever you look.

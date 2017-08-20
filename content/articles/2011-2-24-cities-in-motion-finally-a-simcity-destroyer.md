@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242008-nm1010-simsimsi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242008-nm1010-simsimsi.jpg"
+image_caption: ""
 ---
 
 _[C](http://www.citiesinmotion.com/)__[ities in Motion](http://www.citiesinmotion.com/)_ is a complex transport simulator based on a simple concept – you have to build and manage the public transport system in a city. While this isn’t the type of game I’d usually opt for, I decided to take the plunge and take a look at what it had to offer.

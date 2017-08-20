@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280109-ps3110-enforcer.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280109-ps3110-enforcer.jpeg"
+image_caption: ""
 ---
 
 Recently Felix Games was offered a steam key to Enforce: Police Crime Action, to test and try out, review and break! And that is exactly what we have done.

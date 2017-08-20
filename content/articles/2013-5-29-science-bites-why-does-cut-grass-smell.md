@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Causing tissue damage to grass by cutting it causes it to release volatile organic compounds, collectively known as green leaf volatiles (GLVs). One effect of GLV release is to attract predatory insects to defend the plant, though how effective they’d be against a lawnmower is another question.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
+image_caption: ""
 ---
 
 The Wizard of Oz may be a great and powerful man but Sam Raimi’s modern origins story possesses neither of those two qualities. Instead of going for something grand and epic, Raimi opts for the easy way out, pouring all of his expensive budget into the scenic visual treat. There is very little focus on building any kind of coherent story, and much like Tim Burton’s highly disappointing Alice in Wonderland back in 2010, the film’s heart is in all the wrong places – which comes as yet another letdown.

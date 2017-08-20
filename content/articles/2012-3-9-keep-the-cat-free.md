@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ___Following allegations that Felix has been prevented by College from printing, I would like to take the opportunity to reassure readers that it was solely an editorial decision to not run the piece on the Careers Advisory Service.___

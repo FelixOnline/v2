@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
-image_caption: >
-  Lotus test their 2011 car in Cambridgeshire
-image_attribution: "James Cronshaw"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110280038-felix-2011-09-01_0044_edited-1.jpg"
+image_caption: ""
 ---
 
 I’m standing on a windswept airfield somewhere in Cambridgeshire. In the distance there’s the scream of a V8. A black silhouette of a car is racing at great speed down the runway. Behind me a radio crackles and the car turns off the runway, heading to where I’m standing, engine warbling at each downshift.

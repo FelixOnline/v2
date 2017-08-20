@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
+image_caption: ""
 ---
 
 The long wait is finally over. After being teased for way over a year, the third game of the Bioshock franchise is out. I dedicated a good chunk of my life to the game already, so I think I’m in a good enough place to review it.

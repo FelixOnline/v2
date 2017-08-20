@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
-image_caption: >
-  More like Tate Magenta...
-image_attribution: "Eikoh Hosoe"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
+image_caption: ""
 ---
 
 The disturbed mind of Yayoi Kusama is a fascinating place. An artist with links to Georgia O’Keefe, Andy Warhol and Joseph Cornell, her art is inspired by her own hallucinations and her outlook on the world. Even before arriving at the exhibition entrance, you have already been greeted by huge red blow-up balls with white polka dots, hanging from the ceiling – a small taste of things to come.

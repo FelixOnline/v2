@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231649-jyg11-screen-shot-2015-01-23-at-16.49.13.png"
-image_caption: >
-
-image_attribution: "Alejandro G. Iñárritu, New Regency Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231649-jyg11-screen-shot-2015-01-23-at-16.49.13.png"
+image_caption: ""
 ---
 
 This week I somehow found myself with a day free, so made the choice to go and see a triple bill of _Whiplash_, _Birdman_ and _Foxcatcher_, which between them have accumulated an impressive selection of award nominations and wins, including nineteen Oscar nominations. So there was one thing about them that really surprised me, and I possibly only noticed it watching them back to back. Though they are set at different times, in different places, with vastly different plots, they are exceedingly similar.

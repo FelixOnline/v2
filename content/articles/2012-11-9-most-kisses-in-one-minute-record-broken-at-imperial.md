@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211092008-tna08-kisses.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211092008-tna08-kisses.jpg"
+image_caption: ""
 ---
 
 On Tuesday 6 November 2012, Sarah Greasley, a newly arrived PhD student in the Materials department at Imperial, broke a World Record in Ethos. The record was for most kisses received in one minute. Shockingly, at Imperial there must have been plenty of men out there willing to help her achieve this aim.

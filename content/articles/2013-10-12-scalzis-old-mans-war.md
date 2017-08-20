@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310120110-jal08-oldman.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310120110-jal08-oldman.jpg"
+image_caption: ""
 ---
 
 John Scalzi is one of the highest profile science fiction authors alive. A prolific writer, he was also President of the Science Fiction and Fantasy Writers of America, consulted on the hit TV show Stargate Universe, maintains a hugely popular blog and is an outspoken activist for many good causes. It was therefore with high hopes that last year I picked up Redshirts – one of his latest novels, which recently won the Hugo award. Unfortunately the reality did not live up to the hype – it was, effectively, a single Star Trek joke stretched out to fill 300 pages, with uninspired characterisation and insipid prose. Over time, however, I began to suspect that I might have judged Scalzi too harshly and that it might be worth giving a writer of his reputation another chance. Therefore, I recently read Old Man’s War – his first ever novel.

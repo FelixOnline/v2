@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272031-dr910-riazriaz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272031-dr910-riazriaz.jpg"
+image_caption: ""
 ---
 
 One of the stories that has emerged over the transfer window period is the clash between certain premier league managers. Houllier is such a manager, who has received criticism due to his conduct over the signing of Darren Bent and what is seen as an insulting bid for Blackpool’s Charlie Adam.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012105-ks607-day3make.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012105-ks607-day3make.jpg"
+image_caption: ""
 ---
 
 _This is Day 3 of the IC.HACK tutorial series! For the previous articles click [Day 1 - Starting](http://www.felixonline.co.uk/?article=903) or [Day 2 - AI](http://www.felixonline.co.uk/?article=934), or for the next installment click [Day 4 - Maps](http://www.felixonline.co.uk/?article=988)._

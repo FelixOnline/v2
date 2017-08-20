@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 How to write a review of something whose own creator describes as “weird and impossible to describe”? At its simplest, _Welcome to Night Vale_, produced by Commonplace Books, is a fortnightly audio podcast in the format of a radio news broadcast from the fictional American desert town of Night Vale. However, Night Vale is not what we would recognise as an ordinary town, it is a weird and shadowy place where the laws of physics don’t always work and where behind every corner lurk eldritch abominations, ancient conspiracies and “vague yet menacing” government agencies.

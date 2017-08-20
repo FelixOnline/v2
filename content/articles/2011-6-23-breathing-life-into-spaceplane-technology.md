@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232023-felix-skylon-orbit-reaction-engines.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232023-felix-skylon-orbit-reaction-engines.jpg"
+image_caption: ""
 ---
 
 The dream of spaceplanes has often been dismissed as fantasy, born out of bad 1950s science fiction films. According to most industry analysts, the rightful place of the spaceplane – along with food pills, floating cities and personal jetpacks – is consigned to the dustbin of history.

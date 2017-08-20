@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180104-tna08-snow3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180104-tna08-snow3.jpg"
+image_caption: ""
 ---
 
 By this point most people will have just about recovered from the best week of skiing and partying yet. This was Imperial’s biggest ski trip by a long way and did not disappoint!

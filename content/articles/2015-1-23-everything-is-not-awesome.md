@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231737-jyg11-screen-shot-2015-01-23-at-17.36.40.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231737-jyg11-screen-shot-2015-01-23-at-17.36.40.png"
+image_caption: ""
 ---
 
 You might have noticed there’s been a bit of controversy about the Oscars. _The LEGO Movie_ got completely snubbed for Best Animated Feature, and a lot of people got very angry, very, very quickly. The directors (Phil Lord and Chris Miller) responded in their typically wonderful style, with the former posting a picture of an Oscar statuette made of LEGO, and the latter issuing heart-felt thanks to all involved in the film, as well as noting that “everything [was] not awesome.”

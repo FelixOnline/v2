@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292257-tna08-vaccines.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292257-tna08-vaccines.jpg"
+image_caption: ""
 ---
 
 Wandering around the large and looming Alexandra Palace, simultaneuosly trying to avoid drunky, lairy forty year old men who wanted to “ave it large” while attempting not to trip over the large number of excited teenage girls scurrying about, it became blindingly obvious how much of a big deal The Vaccines have become. Few bands at the moment could captivate such a diverse crowd whilst releasing a new album, which although not revolutionary, provided a darker, more sinister step up from their wide-eyed debut.

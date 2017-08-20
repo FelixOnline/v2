@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401091800-jal08-p01nr9v3.jpg"
-image_caption: >
-  Six Teach First Grads take on children in the real world
-image_attribution: "BBC"
-image_attribution_link: "http://http://www.bbc.co.uk/programmes/b03plzvt"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401091800-jal08-p01nr9v3.jpg"
+image_caption: ""
 ---
 
 Recent Imperial engineering graduate Nicholas Church appears in a new six-part BBC3 documentary about 6 new teachers who are taking part in the Teach First scheme.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142129-ams111-food2.jpg"
-image_caption: >
-  Zest is best
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142129-ams111-food2.jpg"
+image_caption: ""
 ---
 
 Modified recipe from the book _Vegan Pie in the Sky by Isa Chandra Moskowitz_.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505111847-jr2514-nige.jpg"
-image_caption: >
-  The marmite man of modern politics tendered his resignation immediately after failing to win his South Thanet seat
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505111847-jr2514-nige.jpg"
+image_caption: ""
 ---
 
 Love him or hate him, you’ll be seeing even more of Nigel Farage in the near future.

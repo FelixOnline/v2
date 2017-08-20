@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021915-felix-musharraf.jpg"
+image_caption: ""
 ---
 
 Former Pakistani President Pervez Musharraf has pulled out from a talk scheduled for this Sunday. The College had approved the talk, [after initially rejecting an earlier date](http://felixonline.co.uk/news/1294/college-await-police-advice-on-musharraf-talk/), but imposed severe restrictions, including only allowing College members to attend and preventing online publicity, except through Clubs’ member email lists.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021856-ps3110-img_0505.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021856-ps3110-img_0505.jpg"
+image_caption: ""
 ---
 
 Thanks for the response; I’m glad at least somebody, other than the Union staff and Sabbs that ‘checked over it’, actually read the article.

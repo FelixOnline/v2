@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
-image_caption: >
-  The lads performed songs by British artists.
-image_attribution: "Joe Martinez"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
+image_caption: ""
 ---
 
 In a series of events that could have come straight out of a Glee episode, Imperial’s male A Cappella group, The Techtonics, managed to win first prize at the finals of the international competition for university A cappella groups in New York. They are the first ever British team to win.

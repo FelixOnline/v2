@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
+image_caption: ""
 ---
 
 This week has seen the annual Mobile World Congress take place in Barcelona. MWC is THE place where mobile device manufactures come to show off their latest wares and where journalists flock to attempt to chart what we can all expect for the mobile year.

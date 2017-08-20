@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261156-felix-unravel.jpg"
-image_caption: >
-  Look at that swagger.
-image_attribution: "Unravel, Electronic Arts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261156-felix-unravel.jpg"
+image_caption: ""
 ---
 
 Platformers (that aren’t made by Nintendo) have seen a revival in recent years, with a large focus on artstyle and graphical fidelity. _Rayman Legends_, _LittleBigPlanet_, _Bionic Commando_, and _Shadow Complex_ are all notable for their presentation, whether realistic or stylised. Innovating within the platforming genre is hard, so developers often use visuals to distinguish their work.

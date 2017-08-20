@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
-image_caption: >
-  A friendly conversation takes a sudden turn for the worst when Pythagoras gets asked to find the squ
-image_attribution: "BBC"
-image_attribution_link: "http://www.BBC.co.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
+image_caption: ""
 ---
 
 With the demise of Merlin, the BBC were clearly in the market for a new family-friendly fantasy drama to fill the Saturday evening slot. Enter Atlantis, a retelling of the legend of Greek hero Jason, best known as leader of the Argonauts and slayer of the minotaur. Well, "retelling" is perhaps a slight exaggeration: in reality, Atlantis fea-tures a bizarre mish-mash of Greek mythology with real historical figures, with an extra dash of time travel to keep things interesting.

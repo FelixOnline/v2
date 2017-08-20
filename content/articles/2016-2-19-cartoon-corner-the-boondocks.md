@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191222-felix-tumblr_mt6jj9UTQa1rgam01o1_1280.jpg"
-image_caption: >
-  Huey and Riley, partners in crime and brothers at odds.
-image_attribution: "Adult Swim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191222-felix-tumblr_mt6jj9UTQa1rgam01o1_1280.jpg"
+image_caption: ""
 ---
 
 Created by Aaron McGruder and based on the comic strip of the same name, The Boondocks is a show that takes a sharp and satirical look at American society with an emphasis on social issues, as well as icons like Oprah Winfrey and Barack Obama. It was controversial right from the start (as you can tell from the opening line) but it was able to address hot button issues in unconventionally humorous ways.

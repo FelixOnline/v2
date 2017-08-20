@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Turns out Imperial isn’t the only London uni to routinely fuck up exams, neither is it the worst at it. Last week at UCL a mechanical engineering exam had to be rescheduled after the department realised it had accidentally leaked the paper.

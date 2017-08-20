@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110070211-sjw209-269763_10150238996223759_608118758_7515553_6632009_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110070211-sjw209-269763_10150238996223759_608118758_7515553_6632009_n.jpg"
+image_caption: ""
 ---
 
 This tour had it all; no sleep, local delicacies, someone getting lost, British weather – and some great rugby. Whilst this describes the tour to leave it at that would not do it justice. C&G RFC celebrated the end of the season with a 4-day tour to Berlin where they participated in the 2nd international Rugby Union Sevens.

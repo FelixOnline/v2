@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502082240-ps3110-privatis_stay_safe_online.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502082240-ps3110-privatis_stay_safe_online.jpg"
+image_caption: ""
 ---
 
 Every year people ask how Felix keeps the details you give us in our surveys private and secure. To reassure all our readers, we now reveal how it works.

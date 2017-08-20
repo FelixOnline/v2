@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260413-tna08-supersonic-festival.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260413-tna08-supersonic-festival.jpg"
+image_caption: ""
 ---
 
 The 10th Supersonic Festival was held in the Custard Factory in Birmingham. Since the line-up was announced some months ago, I had been excited about attending. The slogan on a lot of the commemorative t-shirts was ‘celebrating 10 years of adventurous music.’ My experiences ranged from the obscure to the experimental to the just plain weird, so the slogan seems apt enough.

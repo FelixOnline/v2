@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A preliminary study published recently in [Annals of Surgery](http://journals.lww.com/annalsofsurgery/pages/default.aspx) suggests that modafinil, an analeptic drug, can help sleep-deprived doctors to improve their cognitive process, but not their clinical psychomotor performance.

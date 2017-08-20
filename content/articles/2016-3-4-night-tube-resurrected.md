@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041123-felix-maxresdefault.jpg"
-image_caption: >
-  This has looked silly on the side of Underground trains for a while now.
-image_attribution: "TfL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041123-felix-maxresdefault.jpg"
+image_caption: ""
 ---
 
 One of the four main unions representing London Underground drivers, RMT, voted in favour of a renegotiated contract on Monday, paving the way toward the Night Tube service that was due to be implemented in September last year.

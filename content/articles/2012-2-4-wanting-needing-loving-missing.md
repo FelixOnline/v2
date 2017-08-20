@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202041738-felix-like-crazy-460x307.jpg"
-image_caption: >
-  If you ever leave me, I’ll strangle you... like crazy...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202041738-felix-like-crazy-460x307.jpg"
+image_caption: ""
 ---
 
 __Like Crazy__

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Have you ever had the chance to stand in front of a class of 40 wide-eyed Kenyan children and attempted to teach them about matrices? Have you ever rocked out with a group of Luo tribeswoman, or been mauled by a velvet monkey?If you had told me a year ago by now I would have experienced all these events I would honestly have called you insane. Yet last July, I somehow found myself on a plane to Nairobi with 10 other students, ready to take part in the Kenyan Orphan Project (KOP) summer programme.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Rep Week is starting on Monday and provides a platform to celebrate the great changes that have taken place with the help of your Academic Representation Network. Just last month a record number of students voted in our Your Rep Elections and there are now over 430 Academic Reps working, for you, in every department of College. Their aim is to improve your education.

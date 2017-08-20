@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Wednesday the 11th November, IC 2nd XV travelled to Regents’ Park to face the School of Oriental and Asian Studies in the first cup game of the season. After four consecutive wins for IC, the last two of which were by over 50 points, playing a team from a different league meant a solid performance would be necessary. Motivation for IC was at it’s peak with the whole squad knowing that the toughest teams we will face will be in this cup, so progression would be crucial for the team’s development this season.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
+image_caption: ""
 ---
 
 One effect of digital distribution is that books become that would previously be unreleasable become available. This is not necessarily a bad thing, as books with potential audiences too low to justify a print run can now reach their target market. Julian Assange in Sweden however, is less a book, and more of an assemblage of internet message board rantings. Literally so, as much of the book is given over to conspiracy theories which are noted as being proposed on a Swedish internet forum (the logo of which features a cat smoking a spliff, which tells you all you need to know).

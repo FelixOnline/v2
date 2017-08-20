@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
-image_caption: >
-  The GSU Summer Elections, are we sure they exist?
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
+image_caption: ""
 ---
 
 For those of you who are blissfully unaware, the Graduate Students Union (formerly the GSA) elections are being held this week, although you wouldn't know it. There's a significant lack of social media campaigning, especially the usually active #voteicu twitter hashtag which normally chirps every few minutes. Aside from sending out emails and updating the online manifestos, there hasn't been much activity from the Union either, not even a change of dates for the election timetable!

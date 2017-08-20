@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082023-pk1811-untitled.jpg"
-image_caption: >
-  Director of Physical Sciences at Diamond Light Source, Professor Trevor Rayment
-image_attribution: "Alice Yang"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082023-pk1811-untitled.jpg"
+image_caption: ""
 ---
 
 [Diamond Light Source](http://www.diamond.ac.uk/), the UK’s national synchrotron facility, sits in the form of a gigantic steel ring amongst stretches of the green countryside surrounding the Harwell Science and Innovation Campus in Oxfordshire. Less than a decade old, this facility is at the cutting edge of research and luckily for me, having interned here for eight weeks, [Professor Trevor Rayment](http://www.diamond.ac.uk/Home/About/Company/Management.html), Director of Physical Sciences at Diamond, has managed to find a few minutes in his busy schedule for this interview.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Universities are facing a drastic funding shortfall. As Felix [reported last week](http://felixonline.co.uk/?article=766), the Higher Education Funding Council for England has announced that it will be cutting the money that it gives to universities by almost £1 billion for 2011/12. These cuts could affect all areas of a university’s activities, and it will be up to individual institutions to decide what to prioritize. Even though fees of £9,000 will go some way to plugging the shortfall in funding, austere times lie ahead of us.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Royal Albert Hall was ready to welcome back the queen of Broken Social Scene for a truly magical end of 2012’s spring equinox weekend after __M. Ward__ played a very pleasant stripped down version of his repertoire and __David Bowie__’s ‘Let’s Dance’.

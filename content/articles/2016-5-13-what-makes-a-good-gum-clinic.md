@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131100-felix-p01l937f.jpg"
-image_caption: >
-  Don't these look like people you'd want to stick a speculum up your foof?
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131100-felix-p01l937f.jpg"
+image_caption: ""
 ---
 
 Apparently I engage in risky sexual behaviour. This means that like the good millennial I am, I have to periodically get tested to make sure that I'm free from the nasties that make sex a little less fun and a little more infectious (and not in a good way). Although there are many sexual health clinics in London, many of which are excellent and come with rave reviews (with a particular shout out to the Dean Street Clinic in Soho), my personal preference is Imperial College's own Jefferiss Wing in St Mary's Hospital.

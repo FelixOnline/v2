@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.04.21.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.04.21.png"
+image_caption: ""
 ---
 
 There were train strikes this week, you might have heard. No, not the tube strikes, they happen like once a year; you can take a bus for a day, get over yourself, no one cares. I’m talking about Southern Rail, whose staff are on strike for three days this week, causing a genuine total shutdown of all services.

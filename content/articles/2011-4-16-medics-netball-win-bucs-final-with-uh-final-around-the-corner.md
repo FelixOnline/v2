@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104162030-jn104-netballb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104162030-jn104-netballb.jpg"
+image_caption: ""
 ---
 
 With all the excitement of varsity out the way, with the BUCS season finished, and with no fixtures left until October, it’s about time that Medics Netball had some of the limelight.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
+image_caption: ""
 ---
 
 Conversations with friends around campus have reminded me that those of us keenly following the General Election are in the minority. Hardly surprising given that it’s exam season, but it doesn’t take much effort to go and vote next Thursday. What surprised me more was how people hadn’t registered, believing their vote was either worthless or would not make a difference.

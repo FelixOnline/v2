@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Research is into artificial strains of H5N1 (bird flu) is resuming following a voluntary halt from scientists in January 2012 amid safety concerns. Professor Wendy Barclay from Imperial College London is one of 40 authors of [a letter recently published in Nature](http://www.nature.com/nature/journal/v493/n7434/full/nature11858.html), which outlines the situation and why some countries are restarting research. The letter declares an “end to the voluntary moratorium on avian-flu transmission studies” following a list of safety recommendations for this type of research from The World Heath Organization.

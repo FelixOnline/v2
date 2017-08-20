@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162142-cac111-redneuronal.gif"
-image_caption: >
-  Neural networks are used to simulate brain activity, but cannot interpret thoughts
-image_attribution: "networksandservers.blogspot.com"
-image_attribution_link: "http://networksandservers.blogspot.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162142-cac111-redneuronal.gif"
+image_caption: ""
 ---
 
 Scientists from the University of California, Berkley, have been able to successfully determine fragments of people’s thoughts by decoding brain activity caused by words they hear.

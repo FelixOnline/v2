@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071910-ps3110-marlene-dumas-copya.jpg"
-image_caption: >
-  The Widow, Marlene Dumas
-image_attribution: "Marlene Dumas"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071910-ps3110-marlene-dumas-copya.jpg"
+image_caption: ""
 ---
 
 _“Art is not a mirror. _

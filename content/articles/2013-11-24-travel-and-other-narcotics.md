@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Travel is, in so many ways, a powerful drug. This resemblance is one that I’ve always considered, and the analogy seems to hold true with respect to most of travel’s traits, except perhaps for the fact that you can’t physically sniff travel through a crisp fifty after crushing it with a credit card.

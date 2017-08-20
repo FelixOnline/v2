@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262232-ams111-catcherintherye.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262232-ams111-catcherintherye.jpg"
+image_caption: ""
 ---
 
 J. D. Salinger’s only full length novel, The Catcher in the Rye, has become one of the 20th century’s defining novels, dealing powerfully and intelligently with the turbulent feelings of loneliness, alienation, and sexual confusion felt by so many during their adolescence. The book is narrated by Holden Caulfield, a teenage boy convalescing in a sunny Californian mental hospital, as he relates the circumstances that lead up to an unspecified mental breakdown he went through.

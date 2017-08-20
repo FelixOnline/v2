@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012124-ks607-baseball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012124-ks607-baseball.jpg"
+image_caption: ""
 ---
 
 On February 20 2011 the Imperial College Baseball Club officially opened their purpose built baseball facility in Harlington with a friendly visit from the neighbours, a crowd of two cow/horses.

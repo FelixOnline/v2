@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031451-ps3110-screen-shot-2015-03-03-at-14.51.03.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031451-ps3110-screen-shot-2015-03-03-at-14.51.03.png"
+image_caption: ""
 ---
 
 4am on a weekday morning is rarely a time you see students trooping into College, far less seemingly excited about the prospect of doing so. Yet this was the scene on Tuesday 17th February, as 150 Chemical Engineering students set off to Birmingham to compete in their annual sports competition – Frank Morton’s.

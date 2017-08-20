@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131521-bwh12-1584-2.png"
-image_caption: >
-  An instructor defends himself against an armed attacker in the first class.
-image_attribution: "Xuan Chen"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131521-bwh12-1584-2.png"
+image_caption: ""
 ---
 
 For anyone unfamiliar with _Krav Maga_, the short summary is this; it’s a brutally effective modern self-defence system invented by the Israeli military halfway through the 20th century.

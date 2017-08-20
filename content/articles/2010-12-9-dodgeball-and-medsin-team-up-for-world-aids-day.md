@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Thursday 2nd December, [Medsin Imperial](http://www.union.ic.ac.uk/medic/medsin/) and the [Dodgeball Club](http://www.union.ic.ac.uk/acc/dodgeball/about.php) collaborated to organise the biggest charity Dodgeball tournament Imperial has ever seen with prizes including a £50 bar tab at B@1 for the winning team. Over £200 was raised and donated to World Aids Day to combat HIV/AIDS.

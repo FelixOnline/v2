@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311904-ff712-aboudia_spiritual_conversations_2014.jpg"
-image_caption: >
-  Detail from Spiritual Conversations
-image_attribution: "Aboudia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311904-ff712-aboudia_spiritual_conversations_2014.jpg"
+image_caption: ""
 ---
 
 Cyprien Tokoudagba is quite simply my favourite contemporary African artist yet hardly known outside a very small group of art consumers, left in the wake of the well established El Anatsui and Ablade Glover. Unlike the stereotypical loud, busy and somewhat overwhelming African art, Tokoudagba draws from influences other than the continent’s rapid urbanisation and explores aspects of the region’s rich cultural and spiritual history. Harking from Benin, the home of _Vodun_ (voodoo) and the powerful Kingdom of Dahomey, the sculptor and painter established his career as a restorer of traditional royal palaces and temples and hence had unprecedented access to the dying traditions of the Fon people. Creating surreal works steeped in _Vodun_ symbolism, his works leave you with a sense of unease, haunting, as if left in a trance by the creatures suspended on the cream background. His works paint a different picture of Africa, one of its too often overlooked history, as opposed to its perceived present of corruption, war and famine.

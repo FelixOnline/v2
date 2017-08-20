@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
-image_caption: >
-  The cast of The Suicide all fighting for Sam’s attention.
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
+image_caption: ""
 ---
 
 The National’s latest modernisation of an old classic, _The Suicide_ has all the potential of a biting satirical comedy with little of the finesse or foundation to really pull it off. While the laughs are frequent and at times provocative, the play struggles to maintain its momentum and leaves little of an underlying narrative.

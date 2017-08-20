@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091546-felix-Chi-Raq_2.jpg"
-image_caption: >
-
-image_attribution: "Roadside Attractions"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091546-felix-Chi-Raq_2.jpg"
+image_caption: ""
 ---
 
 Back in November, when the trailer for Chi-Raq dropped, the reaction was swift and brutal. A modern-day adaptation of Aristophanes’ comedy Lysistrata, Spike Lee’s latest film uses rhyming verse and bawdy humour to debate the ongoing homicide crisis in Chicago, Illinois – a city with a murder rate that is higher than NYC and LA combined. Chicago trauma physician Amy Ho wrote in The Chicago Tribune that Lee ‘has managed to trivialize the suffering of the men, women, and children of Chicago’s West and South sides’, and many were quick to agree. Combined with the fact that ‘A Spike Lee Joint’ doesn’t promise radical politics in quite the same way it did in the 1980s and 90s, Chi-Raq is a pretty tough sell.

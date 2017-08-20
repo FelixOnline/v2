@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
+image_caption: ""
 ---
 
 On Friday 16th November, Haringey Magistrates Court was the inconspicuous location for the trial of David Lawley-Wakelin. Mr Lawley-Wakelin memorably interrupted Tony Blair with cries of “This man should be arrested for war crimes” while the former Prime Minster was giving evidence at the Leveson enquiry. Following the combined efforts of two policemen he was arrested under Section 5 of the Public Order Act.

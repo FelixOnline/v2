@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161611-felix-uzeda.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161611-felix-uzeda.jpg"
+image_caption: ""
 ---
 
 Sicily: land of citrus fruit, olive oil, Cosa Nostra, and __Uzeda__, a band hailing from the foothills of smoking Mt. Etna. Three of their five albums were recorded by Steve Albini, the pixie of punk rock himself, and released on the _Touch & Go_ label. Albini’s instantly recognizable sound on _4_ (1995), _Different Section Wires_ (1998), and _Stella_ (2006) encouraged online music magazine Pitchfork to call Uzeda “a T&G cover band with __Kim Deal__ on vocals”. But that’s no bad thing.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022104-dr910-wikifloo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022104-dr910-wikifloo.jpg"
+image_caption: ""
 ---
 
 So says Bradley Manning, the US soldier working as an intelligence analyst in Baghdad.

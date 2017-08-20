@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192355-kmw13-chemeng%20trophy%20photo.jpg"
-image_caption: >
-
-image_attribution: "ChemEng Soc Football"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192355-kmw13-chemeng%20trophy%20photo.jpg"
+image_caption: ""
 ---
 
 Back in April of last year, there was a vision. A vision shared by two chemical engineers; to start a sports legacy for their department. And so, having created a procrastinating nest of Imperial students revising for exams/hoping for a miracle, Max Fawcett and Will Batchelor laid the foundations, as captain and manager respectively, for the first Chemical Engineering football team.

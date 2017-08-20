@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132357-felix-lost.png"
-image_caption: >
-  WE HAVE TO GO BAAAACK... to reading this review
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132357-felix-lost.png"
+image_caption: ""
 ---
 
 Writing reviews on shows I love is something I have found to be quite difficult. When I try to persuade someone to watch something I like, it generally ends with me saying, “Erm, yeah, you just need to watch it, cos it’s amazing.” And reviewing a show like LOST is even harder, because I never want to give away too much, because it’s the secrets and surprises that make it so enjoyable.

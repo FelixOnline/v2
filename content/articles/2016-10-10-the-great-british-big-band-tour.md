@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101404-felix-13585102_1094112680634671_6175912047297279752_o.jpg"
-image_caption: >
-
-image_attribution: "Nelson Matthew"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101404-felix-13585102_1094112680634671_6175912047297279752_o.jpg"
+image_caption: ""
 ---
 
 O

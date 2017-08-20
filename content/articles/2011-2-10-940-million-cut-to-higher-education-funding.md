@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
-image_caption: >
-  The universities minister, David Willetts, has called on universities to adapt to a new environment
-image_attribution: "flickr/bisgovuk"
-image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4624547316/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
+image_caption: ""
 ---
 
 University funding for teaching and research is to be cut by £940 million for the 2011-12 academic year, a decision described as “a challenging financial settlement” by the chief executive of the Higher Education Funding Council for England (Hefce) which [announced the cuts last week](http://www.hefce.ac.uk/news/hefce/2011/funding.htm). Universities will also receive £190m less than they had anticipated for this academic year (2010-11), as an in-year cut is announced for the first time.

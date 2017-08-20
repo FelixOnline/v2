@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Something crazy is going on with this internet thing. Oh sure, there’s always some kind of weird video of [people shooting a bear](http://www.youtube.com/watch?v=4ba1BqJ4S2M) and doing ungodly things over it afterwards, but I’m not talking about that. I mean a social media revolution, involving music in particular. Social media is Youtube, Twitter, Bandcamp, and all those other websites you might check out once in a while for new music.

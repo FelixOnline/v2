@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111137-felix-8189896503_377474128d_o.jpg"
-image_caption: >
-  Regardless of what coffee does or does not do, we love it and can’t live without it.
-image_attribution: "Olga Filonenko"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111137-felix-8189896503_377474128d_o.jpg"
+image_caption: ""
 ---
 
 Even though I don’t drink coffee, which coming from an Imperial college student may sound like an oxymoron, I have managed to successfully get through all-nighters on tea instead. Yet new research suggests that drinking coffee may have other benefits besides waking your brain up for that 9am lecture. Specifically, evidence suggests that six cups of coffee a day can significantly decrease chance of developing multiple sclerosis (MS).

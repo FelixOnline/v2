@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
-image_caption: >
-  If you look carefully, there is actually a person waiting to catch the frisbee.
-image_attribution: "Impetus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
+image_caption: ""
 ---
 
 Sport Imperial have launched a new initiative, aimed at people who want to play casual sport without the pressure of being a part of a sports club or the atmosphere of being in Ethos for a fitness class or gym session.

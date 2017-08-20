@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Sunday 23rd December, Imperial College Cross Country and Athletics club along with the ICSM (Imperial Medics) athletics club competed in the annual University of London championship at the Lee Valley Athletics centre. Having (somewhat unfairly) lost out to LSE last year in the battle for the top spot, our team was hungry for a chance to take back the championship, which has been won by Imperial for 10 out of the last 12 years.

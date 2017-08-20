@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
-image_caption: >
-  Eat your frozen veggies kids.
-image_attribution: "Rosana Prada"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
+image_caption: ""
 ---
 
 Breakfast this morning got me thinking. It merely involved microwaving frozen bread prior to making French toast, but the nonchalant routine reminded me to extol the virtues of frozen food, something I think many of us tend to overlook.

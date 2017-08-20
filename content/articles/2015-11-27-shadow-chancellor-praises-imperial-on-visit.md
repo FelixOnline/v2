@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511271149-ygr12-sc3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511271149-ygr12-sc3.jpg"
+image_caption: ""
 ---
 
 MP and shadow chancellor, John McDonnell, visited Imperial this week, where he gave a speech acclaiming Imperial’s role in science and innovation. This visit comes only two weeks after George Osborne, the chancellor of the exchequer, visited Imperial’s White City campus, where he said Imperial represented “the future of our economy here in the UK”.

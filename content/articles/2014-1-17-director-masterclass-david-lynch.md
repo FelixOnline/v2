@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as _Eraserhead_ (1977), _Blue Velvet_ (1986) and _Mulholland Drive _(2001). He also directed the more mainstream _Elephant Man_ (1980). Though the he has been making films for 37 years there has been a set of aesthetics and themes throughout his work which bind them together to create a consistent body of work. Critics Le Blanc and Odell stated that “his films are so packed with motifs, recurrent characters, images, compositions and techniques that you could view his entire output as one large jigsaw puzzle of ideas.”

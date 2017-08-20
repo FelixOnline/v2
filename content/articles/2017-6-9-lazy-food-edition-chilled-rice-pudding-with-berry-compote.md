@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091739-ea3211-Screen Shot 2017-06-09 at 17.37.03.png"
-image_caption: >
-  What did the ice cream cone tell the cup of hot coffee?
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091739-ea3211-Screen Shot 2017-06-09 at 17.37.03.png"
+image_caption: ""
 ---
 
 I’m back you fools and to celebrate let me share a story from my childhood.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162027-felix-99.jpg"
-image_caption: >
-  Professor Sara Rankin
-image_attribution: "Charles Poon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162027-felix-99.jpg"
+image_caption: ""
 ---
 
 It almost sounds like something straight from a children’s fairytale: using the milk teeth of children to build a palace. But this is no tooth-fairy-gone-rogue story, rather it’s the inventive collaboration of Imperial’s [Professor Sara Rankin](http://www1.imperial.ac.uk/medicine/people/s.rankin/) and artist [Gina Czarnecki](http://www.ginaczarnecki.com/). The pair aim to move the debate about stem cells away from the controversies of embryonic stem cell research and to challenge perceptions about discarded body matter with a new project called ‘[Palaces](http://palaces.org.uk/)’.

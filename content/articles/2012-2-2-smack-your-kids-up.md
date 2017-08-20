@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202021946-ams111-sam_0575.jpg"
-image_caption: >
-  How red is too red?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202021946-ams111-sam_0575.jpg"
+image_caption: ""
 ---
 
 MP David Lammy has blamed anti-smacking laws for the lack of discipline that led to riots in London last summer.

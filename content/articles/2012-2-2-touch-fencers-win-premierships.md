@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
-image_caption: >
-  Singing rowdy songs all together after a match
-image_attribution: "Charlotte Levin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
+image_caption: ""
 ---
 
 The mantle of success is never an easy thing to bear, especially so in sport. Success breeds expectation, which translates into pressure – exactly the sort of thing you don’t want when you’re trying to reproduce past exploits.

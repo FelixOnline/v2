@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192014-ams111-cthulugaiman.jpg"
-image_caption: >
-  Gaiman with his favourite Great Old One
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192014-ams111-cthulugaiman.jpg"
+image_caption: ""
 ---
 
 Given the latest upsurge in popularity for Sherlock Holmes, and the recent film and TV adaptations, I think that the time is right for a review of a Holmes story in this section. I’m not a huge fan of Holmes but I have read all of the stories Sir Arthur Conan Doyle wrote about him. It’s hardly a huge achievement – there are sixty of them, and only four of these are novels. However, despite this small number, and Doyle’s clear and engaging writing style, the Holmes tales are very repetitive. After a few dozen one inevitably becomes bored and stories begin to all run together. Therefore, if asked for my favourite work about the great detective, I would have to point to the only story that I have read that really stands out for me, a story not even written by Conan Doyle: Neil Gaiman’s _A Study in Emerald_.

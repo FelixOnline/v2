@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102048-dr910-kramerkr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102048-dr910-kramerkr.jpg"
+image_caption: ""
 ---
 
 With Valentine's Day approaching, I realise that it's pretty pessimistic to be reviewing Kramer vs. Kramer – a milestone of a film that discussed the then-rare topic of divorce in frank, almost brutal honesty. Nevertheless, Kramer vs. Kramer was a hit at the Oscars in the late 70s and continues to be an enduring embodiment of modern families. Starring the ineffable duo of Meryl Streep and Dustin Hoffman as a couple parting ways, leaving their young son caught in between, Kramer vs. Kramer could be considered to be pioneering in the way it portrayed its characters.

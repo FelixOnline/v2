@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Early on Saturday 31st January a 37 strong team from Imperial Cross Country took the train down to Brighton to compete in the BUCS Cross Country Championships, apprehensively eyeing up the snow from the windows. With the strongest level of competition from universities all over the country including a host of elite athletes who have represented England, Scotland and Great Britain on an international stage this was undoubtedly billed to be the race of the year.

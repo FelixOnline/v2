@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102023-pk1811-comment-student-protest.jpg"
-image_caption: >
-  This banner only rhymes with certain accents. Just wanted to put it out there
-image_attribution: "Tommy Allieri"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102023-pk1811-comment-student-protest.jpg"
+image_caption: ""
 ---
 
 It’s that time of year again. The placards will be waved and students will rapidly get bored of chanting, “No ifs. No buts. No education cuts.” Two student demonstrations are planned for November, with [the first](http://felixonline.co.uk/news/1708/students-take-to-the-streets/) happening on the Wednesday just gone. However, this year, the fight is against the rapid increase in privatisation of universities discussed in the Government’s higher education white paper. After a full blown attack on the proposal of rising fees last winter (that had little effect on a government unwilling to listen) questions are being posed, such as: Why do we protest? What does it aim to achieve?

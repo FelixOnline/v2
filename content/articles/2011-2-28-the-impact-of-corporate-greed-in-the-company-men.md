@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282040-ks607-thecompa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282040-ks607-thecompa.jpg"
+image_caption: ""
 ---
 
 For a white-collar worker earning a six-figure salary, the priorities are golf, his Porsche, his nice house, providing for his family and of course, keeping his job. But, during the recent economic downturn that resulted in some major corporate downsizing, a hefty number of confident employees faced and still do face, some major unanticipated cutbacks. Speaking directly to the present-day American worker, John Wells’ debut venture as a film director draws on his huge body of experience as executive producer for such television masterpieces as The West Wing and E.R. to produce this astute and absorbing drama.

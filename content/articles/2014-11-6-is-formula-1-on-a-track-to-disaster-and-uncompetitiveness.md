@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061938-cj914-1414711932818_wps_108_file_photo_marussia_f1_te.jpg"
-image_caption: >
-  Marussia and Caterham have gone into administration. Could more follow them?
-image_attribution: "James Moy/PA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061938-cj914-1414711932818_wps_108_file_photo_marussia_f1_te.jpg"
+image_caption: ""
 ---
 
 Formula 1 touched down in Austin, Texas, on Sunday for the 17th race of the season at the Circuit of the Americas. The race was saturated with on-track action with wheel to wheel racing and daring overtakes commonplace. The final result had Lewis Hamilton atop the podium for Mercedes followed in by his team mate Nico Rosberg and Red Bull Renault’s Daniel Ricciardo. One noticeable difference to previous races this season was the reduced line up of just 18 cars as opposed to the normal 22. Backmarkers Caterham and Marussia were not present at the Grand Prix after both teams fell into administration during the two week break after Sochi. While their absence did not have a large impact on the outcome of the race or the excitement of the spectacle, it has served to highlight the extremely expensive nature of the sport and the fine financial margins that teams, especially the smaller ones, work to.

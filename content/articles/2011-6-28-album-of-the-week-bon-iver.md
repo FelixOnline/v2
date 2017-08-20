@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281213-felix-bon_iver.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281213-felix-bon_iver.jpg"
+image_caption: ""
 ---
 
 This is certainly the best album released so far this year, and it will probably remain that way unless __Joanna Newsom__ sneaks out another before December. Often sounding very 80s with Peter Gabriel-esque synths on the opener ‘Perth’ and familiar pop-rock nuances on ‘Beth/Rest’, the album combines a huge range of influences in interesting and varied ways. Remarkably, however, the albums is completely cohesive and utterly original. This eponymous second album is streets ahead of his previous (and excellent) record _For Emma, Forever Ago_, which, when listened to after __Bon Iver__, simply sounds dull and repetitive. Finding words to describe the sheer beauty of this album is difficult, but I wrote a poem to explain how it makes me feel.

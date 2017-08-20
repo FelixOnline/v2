@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312345-tna08-kitkat-chunky-choc-fudge_4-cutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312345-tna08-kitkat-chunky-choc-fudge_4-cutout.jpg"
+image_caption: ""
 ---
 
 It definitely sounds as if it’s going to be amazing. The fudge is actually pretty nice. The problem is when you compare it to just a normal Chunky: doesn’t add so much that you think it’s revolutionary. Okay, we know that it’s not exactly supposed to be pioneering new grounds, but, still, some innovation please.

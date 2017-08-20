@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002120144-rsp07-tannakab.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002120144-rsp07-tannakab.jpg"
+image_caption: ""
 ---
 
 If you are in second year or above, you may remember the halcyon days when Imperial College Business School was called the Tanaka Business School. The name came from Gary Tanaka, a Japanese-American fund manager who did a PhD in Mathematics at Imperial. He pledged £27 million to the College, who thanked him by naming the new Business School in his honour. In 2004, the Queen thanked him for his generosity during the ceremony in which she opened the new Business School building.

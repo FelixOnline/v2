@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271233-ks607-jigglypu.jpg"
-image_caption: >
-  Oh Jigglypuff, so many memories...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271233-ks607-jigglypu.jpg"
+image_caption: ""
 ---
 
 I have a younger sibling. He's quite the games enthusiast. Whenever I visit home, I notice some new console videogame being played on the TV and I'm often greeted with an explanation of the gameplay. I can't help but notice, however, that commitment to single games has weakened over the years, and it appears that stopping halfway through a level to play something entirely different has become acceptable behaviour.

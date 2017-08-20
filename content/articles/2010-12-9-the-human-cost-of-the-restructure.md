@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
+image_caption: ""
 ---
 
 The [14 academics lost](http://www.felixonline.co.uk/?article=530) to the Life Sciences department represent the most incredible array of talent, expertise and experience. The staff caught up in the restructuring, deemed unsuitable for the new department, have nevertheless contributed enormously to university life, being involved in teaching, career services and student welfare to name only a few areas. Felix considers what these individuals have brought to the university over many years and what will be missed.

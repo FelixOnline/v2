@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061357-felix-game-of-thrones-3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061357-felix-game-of-thrones-3.jpg"
+image_caption: ""
 ---
 
 A few years ago, picking up ‘[A Game of Thrones’](http://en.wikipedia.org/wiki/A_Game_of_Thrones) started a love affair that kept me up through the deep hours of midnight, and ended 5000 pages and 4 books later. I was swept away into the world of Westeros George R. R. Martin created and was entangled in the intricate plots and characters that the story is lived through.

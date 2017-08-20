@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 "I have so much work! I hate Imperial!" Heard this before? Mmm... I thought so - there is a lot of this Imperial hate around. The same university that everyone has chosen to attend also appears to be the root of all of their misfortunes and unhappiness.

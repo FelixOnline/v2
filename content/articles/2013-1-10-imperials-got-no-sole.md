@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102220-tna08-survey-ting.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102220-tna08-survey-ting.jpg"
+image_caption: ""
 ---
 
 Participation in SOLE shows that Earth Sciences once again has 100% participation rate, with the lowest being Biomedical Science at 34%.

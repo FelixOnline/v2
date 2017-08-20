@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091545-felix-legends-of-tomorrow-invasion-crossover-dc-tv-justice-league-asse-213819-1280x0.jpg"
-image_caption: >
-
-image_attribution: "The CW"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091545-felix-legends-of-tomorrow-invasion-crossover-dc-tv-justice-league-asse-213819-1280x0.jpg"
+image_caption: ""
 ---
 
 Having four shows set in a shared universe and on the same channel meant a crossover was inevitable. It was certainly ambitious, especially on a TV network budget, but I’m glad to say they were able to pull it off.

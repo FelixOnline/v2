@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161523-felix-driving-miss-daisy-broadway.jpg"
-image_caption: >
-  This is actually how Darth Vader steered the Death Star. Probably
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161523-felix-driving-miss-daisy-broadway.jpg"
+image_caption: ""
 ---
 
 Vanessa Redgrave and James Earl Jones are acting royalty, both on stage and screen, whose careers have spanned decades and yet show no sign of slowing down. Standing tall in both stature and talent even at their admirable ages of 78 (Redgrave) and 80 (Jones), the two veterans still command the stage like never before, and it is precisely their excellent performances that make this production of “Driving Miss Daisy” worth every penny, which is why this very limited 12-week engagement in Wyndhams Theatre, Leicester Square is an experience you cannot afford to miss.

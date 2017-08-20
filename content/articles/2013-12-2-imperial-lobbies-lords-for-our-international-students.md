@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312031559-jal08-news_imbill.jpg"
-image_caption: >
-  Imperial academics against the bill
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312031559-jal08-news_imbill.jpg"
+image_caption: ""
 ---
 
 There are two proposals in the Immigration Bill in particular which affect international students – the first is the introduction of an NHS fee of up to £200 per year of study, paid before entry into the country. For doctoral research students with families, this could add up to £3000 to their costs of studying in the UK. Although there is a persistent stereotype that all international students are rich, 51% of students claimed it would be a financial struggle to pay this levy.

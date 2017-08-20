@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202042-cj914-rosetta_s_philae_lander_on_comet_nucleus.jpg"
-image_caption: >
-  Plucky Philae settles on the surface of comet 67P
-image_attribution: "ESA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202042-cj914-rosetta_s_philae_lander_on_comet_nucleus.jpg"
+image_caption: ""
 ---
 
 It’s the space mission that has had both scientists and members of the wider public waiting with baited breath. The Rosetta mission has been a nail-biter of a ride since the awakening of the craft back in January, and has left news rooms and control rooms alike buzzing all through summer as the craft approached its final destination that it’s taken ten years to reach.

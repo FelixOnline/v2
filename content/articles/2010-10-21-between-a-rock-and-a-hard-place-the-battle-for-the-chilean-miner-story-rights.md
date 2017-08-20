@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212015-ks607-chileanm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212015-ks607-chileanm.jpg"
+image_caption: ""
 ---
 
 The live feed of the Chilean miners’ rescue on the 13th October 2010 had it all: drama, suspense, and plenty of filler from the reporters on scene who were trying to occupy the long pauses between anything actually happening in San José de Copiapó. In this, a frequent theme was what would happen to the miners once brought to the surface and much speculation as to the possibility of a film being made of the story. Ever sensitive to incidents of peril, the Felix office and its film writers have put together several theories as to what kind of outcomes we might be able to expect from a dramatization of their sixty-nine day ordeal.

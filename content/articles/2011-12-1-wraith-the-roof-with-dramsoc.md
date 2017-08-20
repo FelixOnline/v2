@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
-image_caption: >
-  James took it into his own hands to complain about caption quality
-image_attribution: "Alexander Yip"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
+image_caption: ""
 ---
 
 It’s been nearly eight years to the day since the final installment of the _Lord of the Rings_ trilogy hit our screens - eight long years with little but over-sexed vampires and under-sexed boy wizards to fill the void. Clearly spotting an audience starved of orcs and elves, DramSoc’s latest productions takes the Dungeons and Dragons out of Beit basements and brings them to the stage.

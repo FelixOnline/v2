@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For a vehicle designed to last just 7 earth weeks, Opportunity has done remarkably well. Ten years to the day since the rover first landed on the surface of Mars, its new analysis of some of the oldest rocks ever found there show environments potentially suitable for life were around on the planet much earlier than we previously thought.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
-image_caption: >
-
-image_attribution: "Felix / Joe Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
+image_caption: ""
 ---
 
 A dispute has broken out between Chelsea’s famous Royal Brompton and Royal Marsden hospitals. Late last year the Royal Brompton, a specialist heart and lung centre which collaborates on much of its research with Imperial College, publicly announced plans to sell off its Fulham Road building in order to fund improvements on its nearby Sydney Street site. The Royal Marsden, a hospital focusing on cancer treatment and research, had expressed interest in buying the building, which is located between the Royal Marsden and the Institute of Cancer Research, as early as 2009. The Royal Marsden had set aside up to £30 million to purchase the site, however the Royal Brompton has decided to sell the building to a private housing developer, hoping to get a price of over £500 million.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291502-jal08-drunkeness.jpg"
-image_caption: >
-  Should you really be at the wheel?
-image_attribution: "The Simpsons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291502-jal08-drunkeness.jpg"
+image_caption: ""
 ---
 
 Imagine: it’s 9am and you enter the lecture theatre that will be your home for the next year. Maybe you went out to Ministry or you had a few too many pints in Metric. Perhaps you just stayed up late getting to know new people in halls or from your course. Either way you’re knackered. Maybe you’re even still drunk!

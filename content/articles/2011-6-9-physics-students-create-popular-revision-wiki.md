@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Physics students Deep Shah, Kin-Hing Lo, and Victor See have developed the ‘[Imperial Physics Wiki](http://rcsu.org.uk/physoc/wiki)’, a website which allows students to share lecture notes and past-paper solutions. The collaborative website is built upon the same technology behind Wikipedia. It’s fully integrated into the Imperial system, such as logins and email alerts, and by using open-source software, the whole thing hasn’t cost the department a penny.

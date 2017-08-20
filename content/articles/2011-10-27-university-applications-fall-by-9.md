@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272054-felix-img_6743-copy.jpg"
-image_caption: >
-  Despite the decrease in the number of applications, science remains in demand
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272054-felix-img_6743-copy.jpg"
+image_caption: ""
 ---
 
 After years of steady increases, university applications are currently 9% lower than last year’s level at this time with 7000 fewer applications so far. Although the deadline for most courses is January, [these figures from UCAS](http://www.ucas.com/about_us/media_enquiries/media_releases/2011/20111024) (University and College Admissions Service) are the first official application figures for students who will be paying higher tuition fees of up to £9000 per year.

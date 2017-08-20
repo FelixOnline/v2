@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051343-felix-boris-ladyleg.jpeg"
-image_caption: >
-  Politics: you get into it for the money and biyatchez and stuff. I got into caption writing for the.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051343-felix-boris-ladyleg.jpeg"
+image_caption: ""
 ---
 
 Boris Johnson does something funny, isn’t he great!” seems to be the standard title for news stories about the man. Its like “Jim’s dad dresses up as Elvis, hilarious”; but I feel like Jim. Whilst some people find him hilarious and willingly vote for him, I think: “Oh God, I have to put up with this on a day-to-day basis.” I can’t even escape him when I go home to Norway: damned Olympics. And then he started dancing at the closing ceremony: that drunk-middle-aged-dad-at-a-wedding-dance (not for the faint of heart).

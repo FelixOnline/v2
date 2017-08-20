@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
-image_caption: >
-  Acts will perform on the Queen's Lawn and in the Great Hall
-image_attribution: "Charles Poon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
+image_caption: ""
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/summer-ball-2012-plan-3966.pdf) brought to Imperial College Union Council last Monday (February 13) Deputy President (Finance & Services) Michael Foster outlined plans for this year’s Summer Ball, which will see the return of black-tie and a formal dinner.

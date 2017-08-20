@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110280128-sjw209-laurence-pope.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110280128-sjw209-laurence-pope.jpg"
+image_caption: ""
 ---
 
 Unless you’ve been living under a rock, or hiding out in a sewer for the last week, you’ll know that everyone’s favourite Northern African whack job [Muammar Gaddafi is dead](http://www.bbc.co.uk/news/world-africa-12537524). To this I say – good riddance. I shall miss you about as much as I do my ingrown toenail.

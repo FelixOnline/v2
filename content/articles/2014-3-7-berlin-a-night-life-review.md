@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot. Maybe, if luck will have it, you manage to make love sideways to the rhythm of Mandy and Stella Artoorhys in Dalston or Metric. But sadly, London can be a bit of a ‘les incompetents’ in this department. It can fail to deliver the goods.

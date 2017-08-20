@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
-image_caption: >
-  Professor Brian Cox hosted last year’s Ultimate Field Trip final
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
+image_caption: ""
 ---
 
 The [BP Ultimate Field Trip](http://www.bp.com/fieldtrip) semi-finalists have been revealed, and include nine Imperial students. They will compete in the regional semi-final that will take place towards the end of February for the prize of a 6-8 week internship in Trinidad and Tobago in the Gulf of Mexico.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121137-felix-gravityrush3.jpg"
-image_caption: >
-  Fuck gravity.
-image_attribution: "Sony Computer Entertainment"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121137-felix-gravityrush3.jpg"
+image_caption: ""
 ---
 
 There are very few games that have provided the same joy and awe as _Super Mario Galaxy_. I remember fondly the moment when I, as Mario, was able to run around a small spherical planet for the first time. I wasn’t defying gravity; I was adhering to it, in a way no game had ever done before. It didn’t allow the player to control gravity, instead it offered up new environments where the concept of up and down was constantly in flux.

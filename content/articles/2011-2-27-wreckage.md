@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The grand opening of the exhibition in the [Blyth Gallery](http://www3.imperial.ac.uk/arts/visualart/blythgallery) at 6pm on Wednesday is open to everyone. There’ll be free wine, nibbles and a chance to meet the talented artists and talk to them about the works. The theme ‘Wreckage’ is explored through five large scale installations which have been put together by collaborations of artists, and contributions from individual members of the society on the theme.

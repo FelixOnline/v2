@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s all too was easy to say that this year’s Oscars is going to be exciting but I do believe that the 51st Academy Awards are going to be a bit special. Whereas previous years have been dominated by a few strong contenders ( There Will be Blood and No Country For Old Men 2007) or a weak field (2006) or just ridiculous hysteria for one film (Slumdog Millionaire, 2009), this season’s Oscars have few clear favourites.

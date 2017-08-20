@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031914-ks607-hopperbu.jpg"
-image_caption: >
-
-image_attribution: "Katherine Bettany"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031914-ks607-hopperbu.jpg"
+image_caption: ""
 ---
 
 Disgruntled students have this week found themselves unable to use the NHS Trust ‘Hopper Bus’ service, a shuttle service that runs between [NHS Trust](http://www.imperial.nhs.uk/) sites.

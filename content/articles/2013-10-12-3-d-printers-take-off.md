@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
+image_caption: ""
 ---
 
 Launching a rocket into space is in itself a tricky business; well after all it is rocket science!

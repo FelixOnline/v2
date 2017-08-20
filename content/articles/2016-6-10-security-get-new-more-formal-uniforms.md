@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Monday, college support staff, including the security team, were given brand new uniforms, which for the security staff meant cumbersome new ties, epaulettes, long-sleeved shirts with the Imperial logo and suit jackets with name badges.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242357-felix-rgb.jpg"
-image_caption: >
-  Left to right: Delphine Rolando, Carla Canturri-Gispert and Zara Ganase
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242357-felix-rgb.jpg"
+image_caption: ""
 ---
 
 Another week, another interview for your intrepid Felix Sport Editor. Today: Synchronised Swimming! Yep, I know you’re excited about this one. I meet up with Carla, the treasurer, Delphine, the club secretary and Zara, the club president in 568 to talk swimming pools, holding your breath underwater, and fancy routines. Owing to the triple interview format, this week is presented as a Q&A session. Enjoy!

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091542-felix-4606875546_68657f5f23_o.jpg"
-image_caption: >
-
-image_attribution: "Sean Lucas - Shazam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091542-felix-4606875546_68657f5f23_o.jpg"
+image_caption: ""
 ---
 
 So it’s Sunday; I’m tending to some life admin, such as paying rent, doing laundry, binge-watching Gilmore Girls, you know, the usual. All of a sudden an amazing cover of I Drove All Night (originally by legendary Céline Dion) comes up on the radio and I just have to know who it’s by. So I whip out my phone, open Shazam and… well shazam the shit out of the song until it’s registered and BOOM: I Drove All Night (B Side) \ The Maccabees \ 129 shazams.

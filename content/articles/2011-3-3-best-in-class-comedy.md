@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030610-ks607-bigbangt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030610-ks607-bigbangt.jpg"
+image_caption: ""
 ---
 
 I am known in my group of friends as being somewhat obsessed with television and the film industry in general. I spend countless hours in front of my computer watching episode after episode of a favorite series and often find myself forgetting about the world outside and absorbing myself in the characters of a show. Most people who know me would probably say that I have an unhealthy fascination with fantasy, i.e. vampires and witches, so it might come as a bit of a surprise that I have chosen to write about comedy shows. While all of the shows that I watch have comedic moments, I confess to currently only following one purely comedy show, namely The Big Bang Theory. But let me first take a step back and try to analyze what I think makes for a successful comedy show.

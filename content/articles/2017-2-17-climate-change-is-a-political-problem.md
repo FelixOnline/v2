@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171432-felix-9031727127_a9187349c0_o.jpg"
-image_caption: >
-
-image_attribution: "Policy Exchange"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171432-felix-9031727127_a9187349c0_o.jpg"
+image_caption: ""
 ---
 
 As political descriptors go, the humble watermelon is   perhaps predictably an unconventional one: it is not wheeled out too often as a way of making a point. It’s a charge often levelled at politicians like Caroline Lucas, who are accused of being green on the outside but red (that is, socialist) on the inside. The scorn that this combination provokes on the right of the political spectrum is telling – for too long, environmentalism has been seen as detached, and even beyond politics: a fringe interest, something best left to millionaire celebrities with a guilty conscience. Global warming is often treated as if it were a catastrophe that we have no control over, with our only hope being some miracle of technology. This could not be further from the truth; climate change is emphatically not like an asteroid heading towards Earth – rather, it is the direct result of the way that we choose to organise our societies and our economies. The challenge that climate change poses is neither scientific nor technological, but political.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You might not immediately assume DNA sequencing technology and human medicine go hand in hand, but you’d be wrong. Research currently being carried out by scientists involved in the [Human Genome Project](http://www.ornl.gov/sci/techresources/Human_Genome/home.shtml) is having a huge impact on 21st century medicine.

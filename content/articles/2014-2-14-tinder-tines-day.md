@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s that time of year again – Valentine’s day. For me, it’s usually spent eating pizza, watching films, and drinking cheap cava, which on any other day would be perfectly acceptable behaviour (right?) but on this particular one comes across as a bit sad. Therefore, as Felix’s resident perennial singleton, I volunteered to test-drive the app of the moment, Tinder, admittedly fuelled more by a morbid curiosity than anything. Online dating is a thing now I guess – who knew?

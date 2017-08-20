@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
-image_caption: >
-  The concept of context is apparently lost on these people
-image_attribution: "Imgur"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
+image_caption: ""
 ---
 
 Those following ‘Shirtgate’ may have seen this image being shared on Reddit and Twitter. The Mayor of London certainly has, as this week he incorporated its idiotic message into a piece for the Telegraph, joining the keyboard warriors who have defeated feminism, showing it to be a mess of double standards and hypocrisy.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061858-snb11-exhibit-b-at-the-barbican-012.jpg"
-image_caption: >
-  Is this too offensive?
-image_attribution: "Guardian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061858-snb11-exhibit-b-at-the-barbican-012.jpg"
+image_caption: ""
 ---
 
 Why bother writing an article about free speech today in Britain? We no longer ban books – surely freedom of speech is a concern of the past.

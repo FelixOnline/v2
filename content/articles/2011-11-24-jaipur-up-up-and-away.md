@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
-image_caption: >
-  Kicking back with a chai while the Sky Waltz team get the show on the road
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242015-pk1811-296375_10150757531005504_647705503_20236134_1325817_n.jpg"
+image_caption: ""
 ---
 
 Having been on the road for a while at this point in time, I’d lost all sense of a sleeping pattern: probably for the best when facing a 4:30 start. After overcoming that bitter morning sensation we peered from our hostel window to see what appeared to be a hot-rod straight out of Kill Bill: we hopped in and it roared through the dark, dusty streets of Jaipur and took us to our take-off point.

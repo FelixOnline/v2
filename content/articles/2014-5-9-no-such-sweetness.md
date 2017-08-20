@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090314-jal08-arts-sweet.jpg"
-image_caption: >
-
-image_attribution: "Simon Annand"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090314-jal08-arts-sweet.jpg"
+image_caption: ""
 ---
 
 __I__n January of this year, the UK Government pledged to accept 500 refugees from the Civil War in Syria. _Oh My Sweet Land _tackles the other 2.3 million refugees who don’t have that “privilege”. A collaboration between Amir Nizar Zuabi and Corinne Jaber resulted in this play, inspired by their trip to the Syrian refugee camps in Jordan and hearing the stories of people in the harshest moments of their lives.

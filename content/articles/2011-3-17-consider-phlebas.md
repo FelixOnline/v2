@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103180701-ks607-consider.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103180701-ks607-consider.jpg"
+image_caption: ""
 ---
 
 Today, I’m going to talk about Ian M. Banks’ first science fiction novel, Consider Phlebas.

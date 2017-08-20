@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210049-tna08-smaug_crop02.jpg"
-image_caption: >
-  Imperial’s cash reserves rival this chap’s
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210049-tna08-smaug_crop02.jpg"
+image_caption: ""
 ---
 
 I wrote an [article last month](http://felixonline.co.uk/comment/3540/an-uncaring-university/) about how Imperial College is run like a business. This business doesn’t have the interests of the students or its academics at heart. The week after my article, [a letter from Ian Howgate](http://felixonline.co.uk/comment/3627/college-put-students-last-at-harlington/), hockey player and former Imperial College Union President, followed up on this.

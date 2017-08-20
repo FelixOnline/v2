@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182055-nm1010-indiancu.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182055-nm1010-indiancu.jpg"
+image_caption: ""
 ---
 
 A visit to a typical curry house in England would lead one to believe that understanding curry is pretty straightforward. A choice of three types of meat (chicken, lamb, or prawns) with some vegetables (tomatoes, onions, peas, and sometimes even, oh my God, pineapple), all swimming in the same sauce, often enhanced with food colouring (red or purple) and adjusted for your desired level of spiciness: Korma if you’re a complete chicken, Madras if you’re feeling rather confident in your ability to tolerate chilli, or Vindaloo if you’ve made a drunken bet with your friends. Wash it down with a bottle of Cobra, the authentic Indian beer that no one in India seems to have heard of. (The company is based in the very exotic location of Fulham.)

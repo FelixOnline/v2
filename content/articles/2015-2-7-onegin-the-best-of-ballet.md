@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071903-ps3110-fc-onegin-thiago-soares-marianela-nunez-knees_1000.jpg"
-image_caption: >
-  Thiago Soares and Marianela Nunez in Onegin
-image_attribution: "oteini Christofilopoulou"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071903-ps3110-fc-onegin-thiago-soares-marianela-nunez-knees_1000.jpg"
+image_caption: ""
 ---
 
 O_negin_ is a 1960s German ballet based on a 19th century Russian novel in verse.

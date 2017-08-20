@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
-image_caption: >
-
-image_attribution: "Dazed and Confused"
-image_attribution_link: "http://www.dazeddigital.com/music/article/8280/1/star-slingers-unique-beats"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
+image_caption: ""
 ---
 
 It’s the 1st of May and [Star Slinger](http://starslinger.net/home.html) is playing Camden Rock at the Camden Crawl. The room is rather sparsely populated and despite the best efforts of this “one man beat machine”, as he was described by Pitchfork, the sound system just isn’t playing nice this evening. At the end of his set a crowd approach the DJ booth, my friend is the first to reach him and proclaims obnoxiously, “Can I have a hug?!?” Star Slinger peers at him through his long brown hair with a slightly confused face and has evidently misheard him, “Thanks but I don’t need a hug.” When my friend clarifies, Star Slinger reconsiders for a moment, and then gives him a full-bodied embrace.

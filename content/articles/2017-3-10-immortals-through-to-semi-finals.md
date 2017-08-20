@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101449-felix-unnamed.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101449-felix-unnamed.png"
+image_caption: ""
 ---
 
 Defeated, downtrodden, but with a fervent desire to win; that’s how we entered the season. As Drake so eloquently put it, “started from the bottom now we’re here”. After a winless season last year we have now risen to the top. A new coaching squad and great new recruits (as well as veteran players) has enabled us to maintain a flawless home record. Since we are top of our division our first playoff game was at fortress Harlington. We will ensure that no team desecrates our sacred runway. We surely won’t allow any Demons to ravage it. Last Sunday we came ready to defend our ground against the 5-3 record Exeter Demons in the Southern 1st division Quarter-final. And defend it we did.

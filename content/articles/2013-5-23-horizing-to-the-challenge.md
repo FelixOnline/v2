@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232250-tna08-3008198393.jpg"
-image_caption: >
-  Imperial students turning into artsy types?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232250-tna08-3008198393.jpg"
+image_caption: ""
 ---
 
 It’s drawing to the end of another year at Imperial. Everyone has some kind of big deadline looming, except for the lucky few that finish early. It’s around this time that extra curricular activities suffer. If you go to level 4 of the Library and suggest to someone that they do work for something that will give them precisely zero marks, then you’re risking a punch in the face.

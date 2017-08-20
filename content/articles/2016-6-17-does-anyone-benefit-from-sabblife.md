@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Sabbatical officers at every university are the same. They’re all self-important, egotistical, and narcissistic, with an inflated sense of the importance of their role. They enter this multi-generational circle-jerk of sabbs, stroking each other’s egos and sucking each other’s dicks, both literally and metaphorically.

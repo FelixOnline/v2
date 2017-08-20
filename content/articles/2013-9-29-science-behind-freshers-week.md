@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291542-jal08-mf_ddp_large.jpg"
-image_caption: >
-  See this? This won’t be you. See that guy with glasses sitting in the corner texting. Guess where th
-image_attribution: "Wired"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291542-jal08-mf_ddp_large.jpg"
+image_caption: ""
 ---
 
 According to your personal statement, ever since you can remember you have always wanted to study RNA replication, so we here know you love a bit of science. Even if you actually meant it, and we know some of you probably didn’t, science will no doubt be at the back of your mind this week. But so it should be! This week is all about making friends in halls, drinking in halls, planning to go to Ministry of Sound and then giving up after finding out the route home takes two buses.

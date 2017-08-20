@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122310-felix-lukess.jpg"
-image_caption: >
-
-image_attribution: "Imperial Snowsports Club"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122310-felix-lukess.jpg"
+image_caption: ""
 ---
 
 Life is a relentless cycle of untold misery; the daily drudgery of existence a crushing weight on the unfortunate shoulders of the conscious and the sober. An all-too-brief respite from this grim reality was granted to the dedicated few who chose to brave the annual pilgrimage to Edinburgh for the only dryslope snowsports event ever to achieve a reclassification to Class B.

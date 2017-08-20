@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It shows the sort of crisis that FIFA is in that, two days away from the start of their flagship tournament (the World Cup in Brazil for the few of you who are not already aware of it), there have been calls from all of Europe’s football leaders demanding that FIFA President Sepp Blatter step down within the next year. Such is the crisis that, two days before the carnival that we have been promised begins, we are instead talking about where the World Cup in 2022 should be held. This crisis is in fact so big that all of FIFA’s sponsors (bar Emirates), on the eve of the biggest sports event in the world (bar the Olympics, in my opinion), are threatening to back out if a full investigation is not launched into allegations of corruption in the sport’s organising body.

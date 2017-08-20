@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290936-felix-adorelife.jpeg"
-image_caption: >
-  Defiant.
-image_attribution: "Matador"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290936-felix-adorelife.jpeg"
+image_caption: ""
 ---
 
 A_dore Life_ is an album about the good and the bad parts of love. The title should really be a question because Jenny Beth and her band are conflicted: “Is it human to adore life?”

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102106-ps3110-key-23.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102106-ps3110-key-23.jpg"
+image_caption: ""
 ---
 
 Are you interested in portraiture and the state of affairs in Italy during the sixteenth century? Have you ever wondered how the great masters like Caravaggio and Velasquez were inspired? The answers lie in the Royal Academy’s latest exhibition, where you are faced with works from throughout the life of Giovanni Battista Moroni, a relatively unknown Italian painter who was able to capture the likeness and personality of his sitters with apparent ease. The portraits are done with such skill that they seem to capture precise moments in time rather than simply standing in the room you are transported back to late Renaissance Italy.

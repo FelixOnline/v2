@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242127-pk1811-david_cameron_and_barack_obama_at_the_g20_summit_in_toronto.jpg"
-image_caption: >
-  I hope you don’t mind a bit of London Pride?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242127-pk1811-david_cameron_and_barack_obama_at_the_g20_summit_in_toronto.jpg"
+image_caption: ""
 ---
 
 The Twentieth Century has been marked and shaped by many international alliances. From NATO to the Warsaw pact, these alliances have changed our world, for better or worse. But even as NATO warplanes fly over Libya and the Arab League rails against Syria, the strongest and most enduring of these alliances has no formal founding documents, no official meeting chambers and no flashy logo.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062016-snb11-stuff-matters.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062016-snb11-stuff-matters.jpg"
+image_caption: ""
 ---
 
 I’ve often found it difficult to find a thoroughly engaging popular science book.

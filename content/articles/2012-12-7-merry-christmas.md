@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070105-tna08-deer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070105-tna08-deer.jpg"
+image_caption: ""
 ---
 
 The title says it all really! Merry Christmas and have a fantastic new year everybody. If you have exams, then, as I said before: relax, panic a bit, but try to take at very least Christmas Day and New Year’s Eve off. Saying that, I’m pretty sure that for my third and fourth year exams I didn’t take New Year’s Eve off. Not to rub it in your faces, but this is the first exam free holiday I’ve had in years and I’m frankly absolutely loving it.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102144-ps3110-cabin-in-the-woods.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102144-ps3110-cabin-in-the-woods.jpg"
+image_caption: ""
 ---
 
 It’s late night on Halloween, and you and a group of friends are walking home from your party of choice. One of you takes a wrong turning and somehow you suddenly lost in a part of London you don’t know. You stop and ask for directions, but no-one is being helpful. And even though there are only five of you, for some reason you can hear a sixth set of footsteps. Is there someone following you?

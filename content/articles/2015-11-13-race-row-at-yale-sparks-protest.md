@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131416-ygr12-screen-shot-2015-11-11-at-20.53.32.png"
-image_caption: >
-  Students protesting on Monday
-image_attribution: "Twitter / @hannuhmontanuhh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131416-ygr12-screen-shot-2015-11-11-at-20.53.32.png"
+image_caption: ""
 ---
 
 After an email from a college administrator, telling them to “look away” if they were offended by racially insensitive Halloween costumes, Yale students have been protesting this week.

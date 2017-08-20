@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032034-ks607-frankher.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032034-ks607-frankher.jpg"
+image_caption: ""
 ---
 
 I’ve done very few book reviews over the past few weeks so I thought that I’d remedy this today by reviewing one of the most well known and respected series of science fiction novels: Frank Herbert’s Dune.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
+image_caption: ""
 ---
 
 As a classical art enthusiast, I would be the first to admit that I can be somewhat pessimistic when it comes to contemporary art. Long have I held the somewhat closed-minded view that a number of today’s more renowned modern artists are in fact talentless criminals with a license to print/paint money because they’re able to tell some quite exotic lies about what their pieces mean. In short, I was perhaps a little harsh...

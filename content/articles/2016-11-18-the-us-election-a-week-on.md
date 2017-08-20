@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181425-felix-5440002785_7b1ed0ac3e_b.jpg"
-image_caption: >
-
-image_attribution: "Gage Skidmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181425-felix-5440002785_7b1ed0ac3e_b.jpg"
+image_caption: ""
 ---
 
 It’s been about a week and a half since the U.S. election was held. By now, most of the world seems to know that Donald Trump is the president-elect of the United States.

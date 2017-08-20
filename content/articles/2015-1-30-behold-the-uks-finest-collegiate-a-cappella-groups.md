@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501300006-ps3110-screen-shot-2015-01-30-at-00.07.33.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501300006-ps3110-screen-shot-2015-01-30-at-00.07.33.png"
+image_caption: ""
 ---
 
 Last weekend Imperial College played host to the vivacious, nerve-wracking, and outrageously outstanding International Championship of Collegiate A Cappella (ICCA) UK Semifinal competition: a massive undertaking attracting the best unaccompanied singing groups in the world.Nine of the UK’s best teams competed for just one place at the ICCA Finals in New York, to face off again against six American groups and a Wild Card category winner from anywhere in the world.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101343-felix-Ugly Lies the Bone at the National Theatre. Kate Fleetwood (Jess).Photo by Mark Douet _D4A1319.jpg"
-image_caption: >
-
-image_attribution: "Mark Douet "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101343-felix-Ugly Lies the Bone at the National Theatre. Kate Fleetwood (Jess).Photo by Mark Douet _D4A1319.jpg"
+image_caption: ""
 ---
 
 Ugly Lies the Bone follows the story of Jess, a young woman returning home following 3 tours in Afghanistan, which have left her with severe burns after an IED. Struggling to fit back into her old life in her declining Florida home town, and struggling to cope with her disability and chronic pain, Jess becomes involved in a virtual reality therapy program. The disembodied voice of a therapist guides her through this experience, helping her create new worlds to overcome her pain and frustration.

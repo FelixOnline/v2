@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 40 years ago, physicists Hendrik Casimir and Dirk Polder, proposed that empty space wasn’t really empty. This may seem counterintuitive, but the answer lies in quantum mechanics. Quantum mechanics tells us is that a vacuum cannot have zero energy. It is actually a sea of virtual particles, usually photons, which exist for infinitesimal amounts of time and cannot be observed on the scale at which we live.

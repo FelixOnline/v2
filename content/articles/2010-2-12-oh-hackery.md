@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002131126-felix-BeitQUAD.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002131126-felix-BeitQUAD.jpg"
+image_caption: ""
 ---
 
 As Editor of a student newspaper in a student union without any real political agenda, you know these kind of weeks are coming. Those weeks where almost nothing happens of any worth are the ones when you try to prepare for, you think you've prepared for, but when push comes to shove, you haven't really. Well last week was the push, and this week's the callous shove into an oblivion of unfilled and pointless headlines.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Scientists have measured the rate at which quantum information travels through real systems. Changes, such as those in electronic spin or energy, propagate through materials at a limited speed; similar to the speed of light, this maximum theoretical limit known as the Lieb-Robinson bound has now been determined empirically by scientists.

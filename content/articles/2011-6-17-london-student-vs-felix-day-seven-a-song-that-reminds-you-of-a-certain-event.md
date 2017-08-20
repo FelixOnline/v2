@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The [album](http://oddfuture.tumblr.com/post/557859926/jet-age-of-tomorrow-voyager) that this song is off was played almost on loop throughout the week of [The Daily Felix](http://felixonline.co.uk/issuearchive/). The rolling bass kept me calm and saved me from near certain insanity.

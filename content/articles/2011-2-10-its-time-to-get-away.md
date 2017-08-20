@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102101852-dr910-tajmahal.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102101852-dr910-tajmahal.jpg"
+image_caption: ""
 ---
 
 With a significant proportion of you currently being in a ‘dry spell’ (as highlighted by Felix’s excellent [sex survey](http://www.felixonline.co.uk/?article=791)) this article is probably irrelevant to a lot of you. But I urge those it concerns to take some of the key points on board before hopping on the lovey-dovey travelling bandwagon. It takes some serious cojones and a lot of hard work to properly pull it off.

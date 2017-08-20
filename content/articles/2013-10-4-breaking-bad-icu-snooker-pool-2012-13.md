@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040319-jal08-masters-pic-2.jpg"
-image_caption: >
-  ICU Snooker & Pool
-image_attribution: "ICU Snooker & Pool"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040319-jal08-masters-pic-2.jpg"
+image_caption: ""
 ---
 
 The 2012/13 season for ICU Snooker and Pool, which brought about the big name change from ICU Snooker, sparked to life with our annual fun-filled Freshers’ Pool Party at Rileys Victoria. Many new stars burst onto the scene including the ‘Shermanator’ (aka Yi Xuan Zhang), for his ambidextrous snooker prowess, and eventual Internal League runner-up and prolific pool player Rob “Rob-ot” Speller.

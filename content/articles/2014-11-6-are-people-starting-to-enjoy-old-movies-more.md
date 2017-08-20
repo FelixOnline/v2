@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was the sort of sunny afternoon when girls put on floral skirts and pin their hair up. As I floppily moved my mouse to click on a link someone had just shared, my eyes widened. It was a list called “Upcoming Movies 2015”, and there were many names that made my heart leap in familiarity. I saw SpongeBob, Cinderella, Peanutws, Star Wars, and loads of other old friends who suddenly look back at me from the foreseeable future. My first thought: 2015 is going to be a fun year. Second thought: are people starting to appreciate old movies more and more?

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601291006-felix-tharsis2.jpg"
-image_caption: >
-  Those are some pretty dice.
-image_attribution: "Choice Provisions"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601291006-felix-tharsis2.jpg"
+image_caption: ""
 ---
 
 Fiendishly difficult games have proven popular with gamers in recent years. Most of these games require fast reactions and an intimate understanding of each level or enemy. Tharsis is as difficult as games like Dark Souls and Bloodborne and it should be. Your spacecraft is on it’s way to Mars. It has just been hit by a meteorite and you’ve lost two members of your crew. Your chances of survival are infinitesimally small – you might never beat this game because it’s all down to luck. It’s emulating real life.

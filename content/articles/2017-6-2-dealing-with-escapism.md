@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021522-felix-15055844420_35e3678de8_k.jpg"
-image_caption: >
-
-image_attribution: "Michael"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021522-felix-15055844420_35e3678de8_k.jpg"
+image_caption: ""
 ---
 
 It should come as no surprise to anyone that life is a cruel mistress, especially if you’re in uni. With deadlines, exams and project work, it can quickly get overwhelming. Things can also be insanely frustrating (when for example, you put all your heart and soul into revising for a course but you screw up the exam, just because the compulsory question was about waves in the solar wind which you obviously hadn’t revised thoroughly because it barely came up until now!).

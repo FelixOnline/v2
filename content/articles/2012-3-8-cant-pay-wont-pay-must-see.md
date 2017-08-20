@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Once more I managed to wangle my way into watching __DramSoc__’s second spring term production, _Can’t Pay? Won’t Pay!_, Nobel laureate Dario Fo’s 1974 farcical comedy, involving pseudo-pregnant woman, confused husbands and a suspiciously similar-looking string of police inspectors and undertakers. I was promised a barrelful of laughs, and I certainly didn’t leave empty handed.

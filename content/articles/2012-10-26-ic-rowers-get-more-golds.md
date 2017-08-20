@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260357-tna08-rowers).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260357-tna08-rowers).jpg"
+image_caption: ""
 ---
 
 The Diamond Jubilee Regatta was held over the weekend of the 20-21st October at the scene of the summer’s Olympic rowing frivolities, Dorney Lake. The prospect of a major 2 kilometre sprint event just three weeks into the autumn term struck fear into even the hardiest IC rower. However, despite the shock to the system, it turned out to be a hugely successful event. Imperial College Boat Club arrived in force, storming their way up the medal table and finishing second in the Victor Ludorum at the end of the weekend.

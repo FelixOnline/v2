@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161526-felix-armand_2024074b.jpg"
-image_caption: >
-  Rojo and Polunin: a lesson in passion
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161526-felix-armand_2024074b.jpg"
+image_caption: ""
 ---
 
 Watching a ballet from the wings is an experience akin to glancing through an open window into the life of a stranger. A voyeuristic experience perhaps. Dancers on a stage appear as magical and ethereal creatures, even in the most human of roles. They are perfectly poised, every movement apparently effortless. However, in ballet there is little that can be done without effort.

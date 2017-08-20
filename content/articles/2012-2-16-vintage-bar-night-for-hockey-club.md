@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
-image_caption: >
-  When they break out the pens, it’s time to get out
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
+image_caption: ""
 ---
 
 The [Imperial College Hockey Club](http://www.union.ic.ac.uk/acc/hockey/) (ICHC) hosted a bar night at Vintage, formerly Chateau 6, on Thursday last week. The event was open to all students and served as a way for both students involved in sports and others to blow off some steam before the all-important Varsity games this March.

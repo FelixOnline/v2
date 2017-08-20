@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201004301144-srg03-ApplesiP.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201004301144-srg03-ApplesiP.jpg"
+image_caption: ""
 ---
 
 Whilst you were out, Apple launched a little thing called the iPad. You might have seen our feature on Mr. Jobs' 'magical' device last term, which was released in its WiFi only form to avid fans across the US on April 3rd. Is it as amazing as all Apple fanboys hoped and dreamed? Maybe.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101930-nm1010-akinskin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101930-nm1010-akinskin.jpg"
+image_caption: ""
 ---
 
 Silicon cases have been a dime-a-dozen ever since the original iPod. When you get to the iPhone 4, those same soft silicon cases haven’t really evolved very much. Sure they have cut outs now so you can access the buttons and the ports, but they’re still pretty poor.

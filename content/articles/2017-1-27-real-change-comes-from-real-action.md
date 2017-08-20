@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.26.19.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.26.19.png"
+image_caption: ""
 ---
 
 Oh, you went on Saturday’s march? You must have the moral high ground now. You 100% changed the world by walking around with a sign. Here’s a reality check: the only way to influence the nation is through government. You didn’t make any tangible change, you sent a letter of complaint: 'Hi, I think you are meanies and this is how angry I’m going to get if you continue.’ How often does a head of state listen to a protest?

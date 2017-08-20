@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251407-felix-11._Gaybashers_Come_and_Get_It_1.jpg"
-image_caption: >
-
-image_attribution: "Courtesy of Blanca Garcia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251407-felix-11._Gaybashers_Come_and_Get_It_1.jpg"
+image_caption: ""
 ---
 
 In an interview with The Paris Review Joan Didion describes the act of writing as "hostile", explaining further: "you’re trying to make somebody see something the way you see it...wrench around someone else’s mind". The same can be said of any form of art. Truly meaningful art can confront the viewer with things they don’t want to hear, ideas they didn’t know even existed – it can be a painful process. As Didion puts it: "you want to tell somebody your dream, your nightmare. Well nobody wants to hear it, nobody wants to walk around with it."

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
-image_caption: >
-
-image_attribution: "marsroverdriver"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311621-felix-2937458980_131b711609_o.jpg"
+image_caption: ""
 ---
 
 There is a depressing if predictable irony to the fact that, within hours of this article being completed, the Globe’s board went and pushed out their female artistic director. On Tuesday morning, it was announced that Emma Rice will be stepping down from her role in April 2018, following the close of the 17/18 season.

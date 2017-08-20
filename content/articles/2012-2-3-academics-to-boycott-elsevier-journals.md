@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
-image_caption: >
-  Academics have voiced their disapproval with Elsevier’s methods
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
+image_caption: ""
 ---
 
 Following [a damning blog post](http://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/) by Cambridge mathematician Professor Tim Gowers, nearly 3,000 academics have signed an online pledge to cease all work with [Elsevier](http://www.elsevier.com/wps/find/homepage.cws_home), a Dutch journal publishing house responsible for many publications including [_The Lancet_](http://www.thelancet.com/).

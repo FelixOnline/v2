@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171925-ks607-healthpr.jpg"
-image_caption: >
-  Protestors outside the Sherfield building
-image_attribution: "Maciej Matuszewski"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171925-ks607-healthpr.jpg"
+image_caption: ""
 ---
 
 This Monday, Imperial celebrated the opening of the new [School of Public Health](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_14-2-2011-11-18-4). The school will focus on both teaching and, according to its director, Professor Elio Riboli, research aimed at providing “the evidence that will help societies understand the causes of diseases and how to prevent them”. Visitors to the opening event, taking place in the Great Hall and featuring Health Secretary Andrew Lansley, were, however, met by a group of over twenty demonstrators, part of the ‘[Big Society NHS](http://www.facebook.com/BigSocietyNHS)’ campaign against the government’s planned NHS reforms. Although they were not allowed into the Sherfield building’s entrance foyer, the group stood outside, handing out leaflets and shouting the slogans “public health not private wealth” and “Lansley, Lansley don’t be a fool – you’re making me quit medical school”.

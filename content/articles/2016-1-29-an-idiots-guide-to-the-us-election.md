@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290906-felix-GTY_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg"
-image_caption: >
-  There’s gonna be hell toupée.
-image_attribution: "ABC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290906-felix-GTY_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg"
+image_caption: ""
 ---
 
 The United States Presidential election. The  $6 billion race for the White House. The battle between Democrats and Republicans, Donkeys versus Elephants. Like an Olympics for politicians, it happens every four years and has the potential to shape world economics and policy until the next one.

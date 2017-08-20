@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A relatively up-beat third ranked team arrived at Streatham to see away a home match with the division leaders. In the second game without coach Coolegem the B-Team were confident in themselves although this may have manifested into arrogance. A solid pre-game tactics session by bench coaches Dolan and Runcorn made sure the team knew what was required of them, but concerns over Warwick’s player stats and top scorers stole the focus. Added to this the line-up was missing key elements, treachery on the half of Assistant Captain Matt Nolan (#53) and Treasurer Nathan Jones (#40).

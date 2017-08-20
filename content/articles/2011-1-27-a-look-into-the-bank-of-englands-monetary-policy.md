@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271928-ks607-mintmint.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271928-ks607-mintmint.jpg"
+image_caption: ""
 ---
 
 The Bank of England (BoE) has kept rates at record lows of half a per cent for almost two years. Its ‘quantitative easing’ has purchased assets totaling £200 billion in the last eighteen months. Interest in this extremely loose monetary policy sparked recently when the latest UK Consumer Price Index (CPI) figures showed an annualised rise of 3.7% in December – above the already high previously forecast of 3.4%. A loose monetary policy may have two severe side effects. Firstly, it risks overheating the economy, creating bubbles in the stock market and property markets that force the economy into downturn upon bursting. Secondly, it broadens the monetary base; a cause of high inflation.

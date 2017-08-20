@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032124-nm1010-menmenme.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032124-nm1010-menmenme.jpg"
+image_caption: ""
 ---
 
 Men’s first fencing team had a visit by University of Bath’s first team on Wednesday afternoon.

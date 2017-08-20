@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280038-ps3110-top-ten-institutions-by-income-201114-large.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280038-ps3110-top-ten-institutions-by-income-201114-large.jpg"
+image_caption: ""
 ---
 
 Imperial College has returned to the top of the league table for research council income for the year 2013-14. It is the fourth time in the last five years that the College has topped the table, having been in third place for the year 2012-2013.

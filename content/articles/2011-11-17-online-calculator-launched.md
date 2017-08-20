@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111181022-felix-7607_02.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111181022-felix-7607_02.jpg"
+image_caption: ""
 ---
 
 A new online calculator was launched this week by Imperial, aiming to give prospective students better access to information on the financial support available to help fund their studies.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031817-fa608-exo2_push_ups_2.jpg"
-image_caption: >
-
-image_attribution: "gizmag.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031817-fa608-exo2_push_ups_2.jpg"
+image_caption: ""
 ---
 
 Every week in here at Technology, we try and peek a few weeks into the future, to tell you what might be the best new technology of the coming season or the device that you’re going to be saving up for. The far future is often best left to science fiction; technological predictions about the future have a hairy way of coming back to bite you.

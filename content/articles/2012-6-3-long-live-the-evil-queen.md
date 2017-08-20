@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206031727-felix-snow-white-huntsman-movie-image-charlize-theron-5.jpg"
-image_caption: >
-  Theron a roll! Sorry, that caption attempt was a bit Grimm...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206031727-felix-snow-white-huntsman-movie-image-charlize-theron-5.jpg"
+image_caption: ""
 ---
 
 __Snow White and the Huntsman__

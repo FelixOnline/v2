@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292305-tna08-pickup_artist.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292305-tna08-pickup_artist.jpg"
+image_caption: ""
 ---
 
 Single? Virgin? Afraid to admit this because Felix told you you should quit whining about it, so now you just keep it all bottled up inside and wank while you cry yourself to sleep at night? Don’t worry, you’re not alone! Er, sorry, you are alone, but this is Imperial, and there’s a lot of other people out there just like you.

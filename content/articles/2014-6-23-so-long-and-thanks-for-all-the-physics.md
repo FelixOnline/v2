@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
+image_caption: ""
 ---
 
 __Six years is a long time to spend in this place. If my Imperial career were a child, it would be preparing for its first year of primary school by now: shiny new rucksack perched on its back, lunch money nestled in its pocket. Like a parent leaving his child at the school gates, it’s time I let Imperial go. Will it miss me? Probably not. It’ll be too busy fighting the other boys and girls for its place in the league tables. Still, watching it scamper across the playground has got me reminiscing. __

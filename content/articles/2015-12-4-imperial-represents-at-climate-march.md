@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512041512-ygr12-climate.jpg"
-image_caption: >
-
-image_attribution: "Jen Ho Ker"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512041512-ygr12-climate.jpg"
+image_caption: ""
 ---
 
 Last weekend saw Imperial students along with over 50,000 people march through the streets of central London to campaign for action from governments against climate change.

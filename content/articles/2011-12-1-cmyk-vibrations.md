@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012108-pk1811-james-blake-live.jpg"
-image_caption: >
-  Under the sea, where the octopuses live
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012108-pk1811-james-blake-live.jpg"
+image_caption: ""
 ---
 
 [__James Blake__](http://jamesblakemusic.com/). The face of a dazed little boy, presumably innocent and so melancholic at the same time, with a voice, or should I say voices (oh the beauty of transpositions) so poignant it makes you want to bury your face in your hands and cry – it’s OK, don’t worry, I won’t tell anyone. So finally, I managed to witness the contained and cleanly crafted songs come to life at the HMV Forum for the last show of his tour, and here’s the impression I got to carry around since then.

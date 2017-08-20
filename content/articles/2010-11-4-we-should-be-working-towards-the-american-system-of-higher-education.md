@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041906-ks607-markfiel.jpg"
-image_caption: >
-
-image_attribution: "Slobodan Radosavljevic"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041906-ks607-markfiel.jpg"
+image_caption: ""
 ---
 
 __In September, during a speech at Queen Mary University, Vince Cable said “there is no justification for taxpayers’ money to be used to support research that is neither theoretically outstanding nor commercially useful.” What is your stance?__

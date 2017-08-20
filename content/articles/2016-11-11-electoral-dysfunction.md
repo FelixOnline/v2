@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
+image_caption: ""
 ---
 
 Right before I boarded my flight from London Stansted Airport to travel to Rome for a short trip, I refreshed a Google search on my iPhone. My screen read the following: Hilary Clinton with 215 electoral votes, and Donald Trump with 244. Hours later, as I was chatting with two Londoners who were taking the same train I was to central Rome, one of them said, “Donald Trump won the election.” And here we are: the day millions of Americans have been fearing since the Donald declared his run for the White House on the 15th June last year. Many of my friends are shocked by the news. And I am too. But let me be clear: Trump is not the main reason I am sickened by my country. It’s the people who voted him in.

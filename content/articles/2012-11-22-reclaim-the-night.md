@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222217-tna08-dsc_0979.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222217-tna08-dsc_0979.jpg"
+image_caption: ""
 ---
 
 "Walking home at night should not be scary. We live in a strange society. If fear of our neighbours is considered normal, but many people are. Many women I know are afraid to walk alone in the dark, due to a perceived high danger of facing violence.

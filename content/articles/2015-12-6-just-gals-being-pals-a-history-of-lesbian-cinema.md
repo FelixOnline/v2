@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512061451-ff712-maxresdefault.jpg"
-image_caption: >
-
-image_attribution: "Youtube"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512061451-ff712-maxresdefault.jpg"
+image_caption: ""
 ---
 
 **Manuela and Fräulein von Bernburg in _Mädchen in Uniform_ (1931)**

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041857-jk708-UnionCou.jpg"
-image_caption: >
-
-image_attribution: "Kadhim Shubber"
-image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041857-jk708-UnionCou.jpg"
+image_caption: ""
 ---
 
 This week [Imperial College Union Council accepted Union President Alex Kendall’s Higher Education Funding Policy paper](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html). The paper broadly supported the Browne Review, with Kendall warning against “reactionary” behaviour similar to that of the NUS, suggesting that students should be prepared to “work with universities, not against them”.

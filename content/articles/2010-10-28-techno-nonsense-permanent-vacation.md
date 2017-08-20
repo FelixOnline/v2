@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
+image_caption: ""
 ---
 
 Over the coming issues of Felix I will embark on a quest to dispel the popular belief that electronic dance music begins with Tiesto and finishes with David Guetta. I will try and dip into as many genres as possible; highlighting what’s big at the moment, what was big 20 years ago and just generally stuff that I’m into at the date of publication.

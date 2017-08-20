@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 George Osbourne’s new favourite line to describe the Conservatives is “the party of working people”. Over the last three years, since he was booed at the London Olympics opening ceremony, Osbourne has undergone a transformation, reinventing himself as a person and a politician.

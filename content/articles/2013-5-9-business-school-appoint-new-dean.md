@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305091239-tna08-newdean.jpeg"
-image_caption: >
-  Professor G. ‘Anand’ Anandalingam
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305091239-tna08-newdean.jpeg"
+image_caption: ""
 ---
 
 Professor G. ‘Anand’ Anandalingam has been named the new Dean of Imperial College Business School and Professor of Management Science. He replaces Professor Dorothy Griffiths OBE who has been Head since February 2012.

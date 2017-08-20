@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404071356-jal08-jerusalem-3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404071356-jal08-jerusalem-3.jpg"
+image_caption: ""
 ---
 
 __D__ramSoc’s spring term production of _Jerusalem, _directed by Grace Surman, opens with a young girl wearing fairy wings singing the eponymous hymn in the middle of the countryside. A peaceful scene until The Prodigy’s _Invaders Must Die_ cuts in and a group of ravers rush onto the stage and scare the fairy away. This sets the tone for the play - constantly zig-zagging between romantic, nostalgic ideals and the reality of the present day.

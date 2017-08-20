@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
+image_caption: ""
 ---
 
 Gosh. Cripes. Blimey. What a responsibility. I have just been asked by the delightful new Arts editor to inaugurate this column by writing a short, pithy piece on my favourite book. Publicity whore that I am, I couldnít bring myself to refuse.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Médecins Sans Frontières](http://www.msf.org.uk/) (MSF) is an international humanitarian organisation that provides medical humanitarian assistance in situations of extreme need irrespective of race, religion, creed or political convictions. In the past few months, media attention has focused on the risks of delivering aid to refugees and internally displaced persons (IDPs), after Dr. Karel Keiluhu and Philippe Havet were killed in Mogadishu, Somalia and Blanca Thiebut and Montserrat Serra were abducted in Dadaaab, Kenya. Why did these four feel so passionate that they would risk their lives volunteering so far from home, what work were they doing and how can you get involved to make their dreams reality?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102137-ams111-commonwealth-glacier-face.jpg"
-image_caption: >
-  Commonwealth glacier, Taylor Valley, Antarctica, January 1956
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102137-ams111-commonwealth-glacier-face.jpg"
+image_caption: ""
 ---
 
 A well-known consequence of global warming is rising sea levels, caused by the melting of polar ice as the Earth heats up. Now, scientists have found evidence that sea level rise this century will fall short of the expected worse case scenario. A team at the University of Washington have found glacial flow in Greenland to differ from that of previous expectations. This latest research results in two main findings: that glaciers are moving a lot slower and that this movement is not likely to slow down.

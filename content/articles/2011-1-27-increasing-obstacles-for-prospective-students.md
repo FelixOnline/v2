@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
+image_caption: ""
 ---
 
 Recent figures [published by UCAS](http://www.ucas.ac.uk/about_us/media_enquiries/media_releases/2011/finalendofyearfigure2010) in their Final End of Year Figures for 2010 has shown a decrease of 0.1% in accepted applicants in the UK compared to 2009, but this doesn’t really come as a surprise after all the over-hyped news of university cuts and how 200,000 students had missed out on places last year.

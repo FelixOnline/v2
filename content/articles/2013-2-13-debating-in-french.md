@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131541-tna08-french-revolution.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131541-tna08-french-revolution.jpg"
+image_caption: ""
 ---
 
 While English language debating is already well established as a student activity in British universities (such as Imperial) and indeed in many universities across the world, French language debating has, until now, been completely non-existent, even in proudly Francophone institutions.

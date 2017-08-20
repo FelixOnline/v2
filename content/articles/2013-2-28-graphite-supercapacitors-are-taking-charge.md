@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302281758-txl11-graphite-rod-sg-007-.jpg"
-image_caption: >
-  Some graphite rods
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302281758-txl11-graphite-rod-sg-007-.jpg"
+image_caption: ""
 ---
 
 In a viral video released last week from the website [www.upworthy.com](http://www.upworthy.com), Richard Kaner and Maher El-Kady of the University of California, Los Angeles [revealed that they have discovered a cheap and efficient new way of manufacturing graphene](http://www.nature.com/ncomms/journal/v4/n2/full/ncomms2446.html), in a way which could lead to the development of affordable graphene-based capacitors and batteries.

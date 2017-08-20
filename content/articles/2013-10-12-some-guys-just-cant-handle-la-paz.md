@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310130052-jal08-trav_dsc02613.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310130052-jal08-trav_dsc02613.jpg"
+image_caption: ""
 ---
 
 Bolivia isn’t exactly a fresh addition to the Latin American gringo trail – it features heavily in countless itineraries (indeed, I even ran into an old Felix editor whilst there) – yet it’s managed to retain an essence of individuality whilst neighbouring countries have started to subside. The population of the entire country is barely larger than London’s, with 60% of the population calling themselves indigenous: it is a vibrant place bursting with culture and epic, Martian landscapes.

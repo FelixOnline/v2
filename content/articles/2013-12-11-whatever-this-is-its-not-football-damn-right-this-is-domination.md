@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This match report was thrust on to me, in the literal sense, by Captain Robinson in the late hours of Monday night who had more important things to do. I had planned a quiet night in with the other half after training, but duty called and I rose to the occasion; ladies take note, when Peter Nugent is called upon, he delivers, in style.

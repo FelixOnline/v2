@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
-image_caption: >
-  Freshers' Fair can wait...
-image_attribution: "Neville Miles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
+image_caption: ""
 ---
 
 Welcome to Imperial! You’ve done well to make it here; for the next few years you will get to experience extreme levels of stress, a rapidly receding hairline and the effects of excess Red Bull consumption (seizure, in the case of one of my housemates).

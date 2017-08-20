@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706010129-im1413-3155.jpg"
-image_caption: >
-  John Boyega and Sarah Greene in  Woyzeck. Photo: Manual Harlan
-image_attribution: "Photo: Manual Harlan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706010129-im1413-3155.jpg"
+image_caption: ""
 ---
 
 _Woyzeck_ at the Old Vic is a retelling of a play left unfinished by playwright George Büchner at the time of his death in 1837. In this version, the setting is moved to Berlin in 1981, before the fall of the Berlin Wall. The titular character, Frank Woyzeck, is a young British soldier stationed in Berlin, struggling to provide a home for his girlfriend, Marie, and their child. As they aren’t married they cannot live in the barracks, but Woyzeck’s meagre salary can barely afford their tiny apartment. Desperate for money, Woyzeck agrees to take part in a mysterious clinical trial of an unknown drug. Here begins his descent from a struggling young man into desperation, delusion and, eventually, insanity.

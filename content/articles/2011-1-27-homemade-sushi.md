@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
-image_caption: >
-
-image_attribution: "flickr/ukaaa"
-image_attribution_link: "http://www.flickr.com/photos/ukaaa/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
+image_caption: ""
 ---
 
 Japanese food is widely associated with expensive prices and not a lot of food. However that doesn’t always have to be the case. All you need to do is equip yourself with a tube map and a willingness to travel.

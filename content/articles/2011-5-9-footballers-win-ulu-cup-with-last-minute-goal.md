@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
-image_caption: >
-
-image_attribution: "James Brown"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
+image_caption: ""
 ---
 
 The end of spring term saw the 1st XI clash with UCL in the ULU Cup Final. The two teams had been head and shoulders above the competition throughout the year, with Imperial denied the league title by a single point after suffering their only defeat of the season against UCL’s. This only strengthened Imperial’s resolve, and the squad went into the game in high spirits, and with a legion of fans to help them on their way.

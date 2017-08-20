@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week's TV treated us to two chilling new episodes of the brilliantly gory __Silent Witness__, which starts with womanising Harry taking a trip to Budapest to perform a second post mortem on a Romanian prostitute who suspiciously turned up looking cadaverous in the River Danube. I have always considered it slightly odd that the pathologists seem to single-handedly conduct an entire murder investigation, but I suppose there wouldn't be much drama if they stuck to their usual mandate of messing around with the victims' insides.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271103-felix-o-CASTLE-facebook.jpg"
-image_caption: >
-  On the plus side, Nathan Fillion’s schedule is free!
-image_attribution: "ABC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271103-felix-o-CASTLE-facebook.jpg"
+image_caption: ""
 ---
 
 As the renewal period for shows finally winds down and writers once more begin plotting ahead, networks start to announce which shows didn’t make the cut. The major victims for this season are the singing competition powerhouse _American Idol_, the country-music drama _Nashville_, and a personal favourite of mine, the Nathan Fillion driven, crime procedural _Castle_. But, as much as we mourn the recently departed, the reasons why individual shows are cancelled are quite varied.

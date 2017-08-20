@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201270004-felix-img_0050.jpg"
-image_caption: >
-  Professor Burland has worked on constructions at Westminster underground station
-image_attribution: "Philip Kent"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201270004-felix-img_0050.jpg"
+image_caption: ""
 ---
 
 Members of the House of Commons Commission have met to discuss options to deal with the subsidence problems that the Palace of Westminster is experiencing. The palace, which was constructed in 1870, is slowly sinking into the ground, and the clock tower, which houses the infamous Big Ben, is leaning at an angle of 0.26 degrees.

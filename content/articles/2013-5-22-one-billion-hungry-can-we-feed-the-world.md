@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305221533-tna08-one-bill-hung.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305221533-tna08-one-bill-hung.png"
+image_caption: ""
 ---
 
 __JH: What are the key threats to global food security?__

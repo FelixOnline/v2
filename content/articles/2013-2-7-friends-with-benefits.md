@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072310-tna08-awkward-men-sex.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072310-tna08-awkward-men-sex.jpg"
+image_caption: ""
 ---
 
 Casual sex, no fuss no muss: the holy grail for most guys. In this modern society, the taboo has largely been lifted on satisfying one’s own sexual needs. You only need to browse truelad.com for five mins to realise that most guys are probably whacking one out in the five minute break between lectures. As for the ladies, we’ve gone one step further; certain battery operated devices named after innocent woodland creatures that are endowed with not one, but three speed settings have been provided to satisfy our needs. And although these devices are life-savers, there is only so much love you can give yourself before the asymmetry between the musculature of your right and left arm becomes a bit of a giveaway. Solution: the fuck buddy. A number you can dial when you need to, someone who won’t spend the night and a relationship in which it is considered perfectly acceptable not to swallow. What could possibly go wrong?

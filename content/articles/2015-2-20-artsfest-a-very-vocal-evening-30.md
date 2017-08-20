@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
+image_caption: ""
 ---
 
 On Wednesday night I had the pleasure of attending my first ArtsFest event of the year – A Very Vocal Evening (3.0), presented by The A Cappella and Musical Theatre societies. All four established A Cappella groups gave performances, and various solos and duets were performed by members of both societies old and new.

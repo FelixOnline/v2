@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012038-tna08-siddhartha-cover-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012038-tna08-siddhartha-cover-2.jpg"
+image_caption: ""
 ---
 
 Coming in at 114 pages long, Siddhartha is by far the easiest book to read by a Nobel Prize winning author. The guy I borrowed my copy off managed to read the whole thing in a particularly slow flight back from Jordan. I had only vaguely heard of either the book or the author before having the paper-back thrust into my hands, but it bore the trusted sign of being a “Penguin Modern Classic,” with its tasteful but artsy cover; so I figured I’d give it a go.

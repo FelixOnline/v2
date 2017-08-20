@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220249-tna08-wistar_rat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220249-tna08-wistar_rat.jpg"
+image_caption: ""
 ---
 
 Researchers at Duke University have given lab rats the ability to ‘see’ infrared light, in research published in Nature Communications last week.

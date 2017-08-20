@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ‘[The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7)’ is a new radio series currently being broadcast on BBC Radio 4. Each week [Jim Al-Khalili](http://www.jimal-khalili.com/), physicist and science communicator, interviews a different leading scientist, asking about their work, their life, and what motivates and inspires them.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
-image_caption: >
-
-image_attribution: "Valle Varo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
+image_caption: ""
 ---
 
 The first thing that comes to mind when you mention pole dancing is pretty obvious. The sexual connotation it carries will remain for as long as clubs continue to offer such services, but there is a sporting aspect to it as well that, though rather well-known as well, is almost certainly not the first thing one would associate with pole dancing. That pole dancing is indeed a form of sport is advocated by plenty of pole instructors and societies out there, Imperial’s very own Pole and Aerial Society being one of them, and after covering the London Pole Varsity 2017 for felix’s sport section last Saturday, I must say that I completely agree with the notion. Considering that my knowledge and ability to appreciate anything with the word ‘dance’ in it, pole or not, is comparable to that of a potato, combined with pole dancing being almost non-existent in my home country (hence I’d never seen a pole dance prior to last Saturday),  it must’ve been mighty impressive. Good news IC Pole and Aerial: it was indeed!

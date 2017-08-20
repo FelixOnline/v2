@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
+image_caption: ""
 ---
 
 The votes have been cast, the results are in, and the outcome is far from unexpected. The Democrats have been unceremoniously kicked out of Capitol Hill.

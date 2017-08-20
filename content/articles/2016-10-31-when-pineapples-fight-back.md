@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311600-felix-pineapple-1602345_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311600-felix-pineapple-1602345_1920.jpg"
+image_caption: ""
 ---
 
 Fact: pineapples are the only food to try to eat you while you eat them.

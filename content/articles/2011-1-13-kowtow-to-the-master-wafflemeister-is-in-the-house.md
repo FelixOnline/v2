@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131944-ks607-waffleme.jpg"
-image_caption: >
-
-image_attribution: "Katie Tan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131944-ks607-waffleme.jpg"
+image_caption: ""
 ---
 
 Have you ever tried Sainbury’s Belgian Waffles? They glow a certain shade of yellow that reminds me of the Mercedes Benz SLK320 in sunshine yellow. God knows just how many additives they employed for you to ‘Taste the Difference’.

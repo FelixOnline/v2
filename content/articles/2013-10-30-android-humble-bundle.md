@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310301536-me1711-games_t2r.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310301536-me1711-games_t2r.jpg"
+image_caption: ""
 ---
 
 The Humble Bundle with Android #7 is currently on sale. For those of you who don't know what this is, the Humble Bundle is a sale in which a set of games are available for whatever price you choose. It started off as an indie game only bundle, but since then it has expanded and even THQ has gotten in on it (though they placed more limitations than other groups have previously done).

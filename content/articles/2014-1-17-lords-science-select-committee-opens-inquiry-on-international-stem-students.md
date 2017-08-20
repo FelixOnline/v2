@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401170259-jal08-news_lords_chamber_(landscape)_terry_moore_parl.jpg"
-image_caption: >
-
-image_attribution: "Terry Moore, Parliamentary copyright images are reproduced with the permission of Parliament"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401170259-jal08-news_lords_chamber_(landscape)_terry_moore_parl.jpg"
+image_caption: ""
 ---
 
 Imperial College Union has helped secure an inquiry by the House of Lords for the Science and Technology Committee.

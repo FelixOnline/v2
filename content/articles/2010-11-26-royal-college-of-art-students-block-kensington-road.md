@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
+image_caption: ""
 ---
 
 Around 200 students from the Royal College of Art (RCA) held an hour long protest as part of a national day of walkouts, sit-ins and marches against the government’s planned cuts to higher education.

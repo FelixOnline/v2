@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506161952-ff712-rsz_203.jpg"
-image_caption: >
-  Pan Pan Theatre, All That Fall
-image_attribution: "Ros Kavanagh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506161952-ff712-rsz_203.jpg"
+image_caption: ""
 ---
 
 We enter a dark room scattered with rocking chairs. The far wall is covered by an array of bright yellow lights, emanating heat and an irritating electrical buzz, while dimly lit bulbs hang from the ceiling. Taking our seats on the cushioned wood, I can see the looks of anticipation and curiosity on faces around me. Like them, I had little idea of what to expect, though we were promised to be “immersed into an atmospheric chamber of multiple speakers and ambient lights” whilst listening to Samuel Beckett’s radio play, _All That Fall_.

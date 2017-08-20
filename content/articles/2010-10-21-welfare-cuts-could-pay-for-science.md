@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Wednesday’s Spending Review brought with it the news, much speculated and feared in this paper, that science spending would itself face cuts. The research budget will be frozen, which means a real terms cut of 10%; about £500 million. This may not sound like too much but it comes at a time when countries like America and Germany are increasing research spending, seeing it as key to continued economic growth. Our own business school at Imperial recently produced at report showing how investment in science research leads directly to growth in other, seemingly unconnected, sectors.

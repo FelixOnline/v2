@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112129-cj914-exams1.jpg"
-image_caption: >
-  If only we were all taking whatever exam this person was revising for. Granted, subtraction can alwa
-image_attribution: "GettyImages"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112129-cj914-exams1.jpg"
+image_caption: ""
 ---
 
 It’s that time of the term again. Well, for those of us unfortunate enough to have end-of-term exams anyway (e.g. me). As the days are getting shorter, colder and revision hours are ticking away like a time bomb, it’s hard to stay festive even with Christmas so close.

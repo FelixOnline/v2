@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201006031614-srg03-Android2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201006031614-srg03-Android2.jpg"
+image_caption: ""
 ---
 
 When Google announced the Android mobile operating system in late 2007, the reaction it received was at best, lukewarm. Coming only a few months after the release of the iPhone OS, which had taken consumer markets by storm, most analysts were cautious about the announcement despite the fact that the OS had the backing of Google. The first release of the open source OS did nothing to enthuse them with only a relatively small number of manufacturers taking the OS on board and producing rather clunky handsets; Android proved to be unattractive and sluggish. Along with a relatively small developer market, there seemed no way that Android handsets could legitimately compete with the gloss of the iPhone or the sleek business chic of the Blackberry.

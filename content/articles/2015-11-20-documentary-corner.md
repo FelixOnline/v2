@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Much like Bowling for Columbine, our featured film of last week, The Cove stands as a masterful example of a documentary with a message. A renowned critical darling, the film boasts countless awards, including the Academy Award for ‘Best Documentary Feature’. Despite being heavily one-sided, it is a near-perfect example of how to produce an informative, campaign-based documentary. While many films of a similar vein often end up incredibly dull and repetitive in their preachiness, The Cove keeps the viewer engaged, and has more than just dry facts to keep us hooked.

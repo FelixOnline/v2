@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Even at Imperial I doubt you’d find biology students wearing T-shirts referring to Lamarckism, but you especially wouldn’t find them wearing shirts that deride, “Inhindsight, pretty ridiculous”. Jean-Baptiste Lamarck’s evolutionary theories are remembered for suggesting that offspring could inherit characteristics that their parents had acquired due to the environment. The classic example is that every generation of baby giraffes has slightly longer and stronger necks because their parents are continuously stretching their necks to reach the leaves of Acacia trees.

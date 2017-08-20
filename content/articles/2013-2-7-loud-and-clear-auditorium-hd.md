@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072334-tna08-js51683184060df8cc44aao.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072334-tna08-js51683184060df8cc44aao.jpg"
+image_caption: ""
 ---
 
 As a physicist there is something about making particles swirl round and making pretty pictures from the results which I totally get deepdown inside my soul. Auditorium HD is a game about directing a stream of coloured particles into audio containers. These audio containers light up when sufficient particles of the correct colour touch them, adding a new instrument or phrase into the mix progressively unlocking what are often beautifully atmospheric tracks. To achieve this each level gives you a wide variety of tools, including splitters, black holes, coloured bubbles that change the colour of particles and accelerators amongst others.

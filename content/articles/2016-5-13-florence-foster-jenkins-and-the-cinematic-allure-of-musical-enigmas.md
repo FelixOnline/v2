@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131108-felix-5_TSL_Shot_04_174.jpg"
-image_caption: >
-  The Space Lady.
-image_attribution: "Upset the Rhythm"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131108-felix-5_TSL_Shot_04_174.jpg"
+image_caption: ""
 ---
 
 Last week saw the release of _Florence Foster Jenkins_, a biopic based on the life one of the worst singers of all time – Florence Foster Jenkins was widely regarded as a completely hopeless singer, a fact she didn’t let get in the way of attempting to forge a musical career. Recordings from the time betray a complete lack of pitch, rhythm, intonation, and tone – a fact that may have been linked to a syphilis-linked decay of her central nervous system. Cheery! While the Stephen Frears-directed film, starring Meryl Streep, may have been welcomed with more praise than Jenkin’s singing voice, she’s not the only outsider musician out there who deserves to have a film made about her. Here are four more left-field performers who deserve a movie of their own:

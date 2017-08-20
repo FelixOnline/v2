@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151800-felix-Screen Shot 2017-05-15 at 18.00.22.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151800-felix-Screen Shot 2017-05-15 at 18.00.22.png"
+image_caption: ""
 ---
 
 Here at Imperial, any mention of divestment from fossil fuels is largely met with one of two responses. The first is a supportive but disheartened reply along the lines of, “yeah, it’s a nice idea but it will never happen”. The second offers a complete aversion to the subject entirely, by changing the topic of conversation. If we are serious about tackling climate change and securing a safer future for society, this atmosphere of apathy needs to change. This is the motivation behind the Divest Imperial Campaign, aiming to encourage the college to stop investing in the fossil fuel industry.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302211314-txl11-gateme_cargo_shoreditch-smaller.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302211314-txl11-gateme_cargo_shoreditch-smaller.jpg"
+image_caption: ""
 ---
 
 Exams… Library, presentations… Library, coursework... Library. Being an Imperial College student is usually associated with the “nerdiness” stigma. If you weren’t already one when you got in, the general idea is that by the time you leave, you will have become a super studying sleepless monkey.

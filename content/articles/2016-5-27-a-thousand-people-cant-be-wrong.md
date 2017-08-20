@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
-image_caption: >
-
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
+image_caption: ""
 ---
 
 An expected outbreak of support for Felix’s campaign for air conditioning in the library has seriously raised questions about the role of the union in delivering student demands.

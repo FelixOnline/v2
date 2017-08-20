@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When I was 10 years old I started playing Rugby. I was an imposing 4ft 8” (though even that might be generous). With a career as the next England captain in front of me, I returned to pre season training with the under 11 squad for an introduction to full contact. So began 6 years of big kids kicking the shit out of me.

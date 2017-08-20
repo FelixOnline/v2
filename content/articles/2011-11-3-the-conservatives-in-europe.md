@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week was a particularly brutal one for David Cameron and his policy on Europe. First the French president Nicholas Sarkozy told him to “shut up” over unhelpful criticisms over the Euro. To make matters worse, on his return, Mr Cameron faced an 81 member backbench rebellion over a proposed referendum on whether Britain should remain in the EU, withdraw, or take certain powers back from Brussels. This rebellion came despite a three line whip.

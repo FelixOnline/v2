@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610032156-felix-binocolours.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610032156-felix-binocolours.jpg"
+image_caption: ""
 ---
 
 For the uninitiated, London can be a strange and scary place. However, for the ornithologically-inclined, it can be a place of wonder. Let _felix_ be your guide, taking you on a tour of the different culture tribes you can spot in the capital. Bonus points if you manage to see them all!

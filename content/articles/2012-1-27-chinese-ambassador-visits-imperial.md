@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
-image_caption: >
-  Rector Keith O’Nions meeting with Mr Liu last week
-image_attribution: "Amna Siddiq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
+image_caption: ""
 ---
 
 The Chinese Ambassador to the UK visited Imperial College last week to discover more about Imperial and also gave a lecture on the role of innovation as the path to success in twenty first century China. Xiaoming Liu has been the Ambassador for China since 2009 and took the time to talk to Chinese staff and students to find out more about their experiences at the college.

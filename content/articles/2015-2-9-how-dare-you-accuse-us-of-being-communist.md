@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091804-ps3110-screen-shot-2015-02-09-at-18.04.10.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091804-ps3110-screen-shot-2015-02-09-at-18.04.10.png"
+image_caption: ""
 ---
 
 The Socratic Society (SocSoc) became a full society in December of last year, as a revival of the previously inactive Philosophy Society.

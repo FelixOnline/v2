@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281225-felix-chance-meeting-front.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281225-felix-chance-meeting-front.jpg"
+image_caption: ""
 ---
 
 1979 holds the key to the farthest reaches of musical conception. That year, [Nurse With Wound](http://brainwashed.com/nww/) released their debut album _Chance Meeting on a Dissecting Table of a Sewing Machine and an Umbrella_. Their music is the aural equivalent to the paintings of Salvador Dalí, stretching the mind and questioning reality. The surrealistic instrumentation and Dadaist approach are an amalgam of some of the strangest music of modern times. Tucked into the vinyl gatefold, the revered NWW List payed homage to their influences and bore the wonder for others to discover.

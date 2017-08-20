@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232110-pk1811-ziggy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232110-pk1811-ziggy.jpg"
+image_caption: ""
 ---
 
 __David Bowie - _The Rise And Fall of Ziggy Stardust and the Spiders from Mars___

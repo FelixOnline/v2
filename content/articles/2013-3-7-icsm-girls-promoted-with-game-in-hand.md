@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072153-mc4509-girlshockey.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072153-mc4509-girlshockey.jpg"
+image_caption: ""
 ---
 
 Having checked the league table a million times (no exaggeration!), we all knew this was the big one, the one to win. ICSM Ladies 1st XI was undoubtedly two points clear with a game in hand. A win on this surprisingly sunny March morning would lead us into the final match of the season, against second place Barts 1’s, inevitable champions! No pressure…

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131421-bwh12-skaters---awspeedskating.jpg"
-image_caption: >
-  IC Skate Soc warm up on the Serpentine
-image_attribution: "AWSpeedskating"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131421-bwh12-skaters---awspeedskating.jpg"
+image_caption: ""
 ---
 
 It was an inauspicious start to last year’s Le Mans 24 hour roller relay. One seventh of the team had missed the train and there had been one injury before the race had even started; our team shirts were homemade with sharpies on the Eurostar and the rain was practically biblical.

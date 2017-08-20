@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
-image_caption: >
-  Claire Fox says there's a "climate of distrust" in the UK
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
+image_caption: "Claire Fox says there's a climate of distrust in the UK"
 ---
 
 __If I can start by being totally honest, I hadn’t heard of the ‘[Battle of Ideas](http://www.battleofideas.org.uk/)’ before I found out you were coming to the Royal College of Art this year. What would you like people to know before they come along?__

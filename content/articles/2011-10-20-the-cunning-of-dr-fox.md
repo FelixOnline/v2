@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
-image_caption: >
-  A whirlwind of business cards and political bust ups for Dr Liam Fox
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202257-felix-e47cb8eaf1245a16fb0e6a706700f8d7_2.jpg"
+image_caption: ""
 ---
 
 Last Friday, after a week of revelations over wrongdoing in his affairs, the Defence Secretary Dr Liam Fox, announced his resignation to the Prime Minister. The first Tory cabinet minister to resign has been replaced by Philip Hammond, whose Transport brief is now to be fulfilled by Treasury minister Justine Greening.

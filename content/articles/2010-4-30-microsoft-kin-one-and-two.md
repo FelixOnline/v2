@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201004301240-srg03-Microsof.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201004301240-srg03-Microsof.jpg"
+image_caption: ""
 ---
 
 Microsoft, not to be left out of the party that was April, announced its first own-brand phones, the Kin One, a square slider and the Kin Two, a more traditional landscape slider. Microsoft's aiming the Kin brand as a separate device category from the recently announced Windows Phone 7, targeted at what Microsoft calls, 'Generation Upload', that's the youth of today apparently. Essentially, the Kin phones are smart-dumbphones, or should that be dumb-smartphones, either way, they've got smartphone like features running on a stripped out smartphone operating system that lacks critical features that define a true smartphone. There are no apps for the Kin; neither does the user have to worry about multitasking or device management. But what the Kin does provide is a streamlined way to get on the mobile web, life stream and connect with friends. The Kin is the product of the Danger purchase that Microsoft made a year or so ago and is the spiritual successor to the T-mobile SideKick.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031555-felix-IMG_7992.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031555-felix-IMG_7992.jpg"
+image_caption: ""
 ---
 
 Gosh, what a morning, I thought to myself as I landed on a lush, green, velvet chair, flushed and out of breath from an intense power walking session down Park Lane (my definition of being ‘fashionably late’). A fellow blogger sitting opposite was doing her 5th re-run on Snapchat: “…it’s too early in the morning to do this without a filter…” Other bloggers purred at each other, exchanging delicate kisses on cheeks and Instagram-perfect smiles.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
-image_caption: >
-  The interpretation of the wavefunction has been static for 85 years
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
+image_caption: ""
 ---
 
 Scientists at Imperial College London have presented a theorem which suggests that the wavefunction is a physical object. The paper, which emphasises that the quantum state cannot be interpreted statistically, was submitted on November 14 and has potential to shake the foundations of quantum theory.

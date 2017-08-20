@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
-image_caption: >
-
-image_attribution: "Benjamin Lester"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
+image_caption: ""
 ---
 
 Amidst a week of bungee jumping, cartoon collecting, pizza eating, Dark Knight-watching, serenading, raffling and masked dancing £11,305 worth of coins rained down on our buckets. This brought our total generated for charity in the year so far to £47,556.48 – more than TRIPLE that raised in the entirety of last year and we have yet to reach third term!

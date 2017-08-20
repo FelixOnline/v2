@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232301-felix-img_0107.jpg"
-image_caption: >
-  Selwyn College, Cambridge, gave Archbishop Sentamu’s views a cold reception following his statement
-image_attribution: "James Mottram"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232301-felix-img_0107.jpg"
+image_caption: ""
 ---
 
 Earlier this month undergraduates of [Selwyn College](http://www.sel.cam.ac.uk/) at the University of Cambridge voted to send [a letter to the Archbishop of York](https://docs.google.com/document/pub?id=1ujy49dDFo9ydPCHA55NyNcOjbGkSDCueMsQFaMxHt1g), John Sentamu, in light of his views on gay marriage. In [an extensive interview last month](http://www.telegraph.co.uk/news/religion/9045796/Dont-legalise-gay-marriage-Archbishop-of-York-Dr-John-Sentamu-warns-David-Cameron.html) with _The Daily Telegraph_ about the Church, racism and his life experiences, the Archbishop stated a “relationship between a man and a woman – that’s marriage”.

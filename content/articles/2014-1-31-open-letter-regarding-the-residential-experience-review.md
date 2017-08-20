@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 *Dr Nick Voulvoulis is the Warden of Southwell & Bernard Sunley Hall, and Reader in Environmental Technology at the Centre for Environmental Policy. He has been the Warden of Southwell Hall since 2003 and Southwell & Bernard Sunley since 2011 when the halls merged. He was Subwarden and then Assistant Warden in Garden Hall from 1997 and till 2003 when he moved to Southwell. He was the Chairman of the Wardens’ Committee between 2003 and 2011, and is currently responsible for ‘Legacy and Alumni’ for the Committee.

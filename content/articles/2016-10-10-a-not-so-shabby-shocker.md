@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101638-felix-Tosca_Sq_new.jpg"
-image_caption: >
-
-image_attribution: "English National Opera"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101638-felix-Tosca_Sq_new.jpg"
+image_caption: ""
 ---
 
 Puccini’s _Tosca_ is well-known for being a melodramatic opera. After its premiere in 1900, it received mixed reviews from critics despite its popularity with the public - the musicologist Joseph Kerman famously dismissed it as “a shabby little shocker”.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s less than two weeks until the RCSU Science Challenge 2014 launch event, on Tuesday December 3rd. Come along to find out what prizes will be on offer and to hear the judges speak about science communication and reveal their questions for this year’s Challenge. You can book your free place now online at http://bit.ly/1ekv9Vj. And there will of course be free food and drink afterwards! You really have no reason not to attend.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080035-tna08-logo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080035-tna08-logo.jpg"
+image_caption: ""
 ---
 
 People always discuss the European Union as though it were some mysterious and distant institution that has either too much, or too little power depending on the point of view. The current financial crisis has stepped up the discussions about the EU and here in the UK, the EU has become a hot topic in the last few months. However it seems that it is more and more difficult to follow all the changes currently affecting European policies.

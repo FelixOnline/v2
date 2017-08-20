@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072240-tna08-stray-souls.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072240-tna08-stray-souls.jpg"
+image_caption: ""
 ---
 
 Stray Souls is Kate Griffin’s latest book, the first in the Magicals Anonymous series, and is set in the same magical version of London as her Matthew Swift series (the first of which will be reviewed in next week’s edition of Felix). The urban fantasy sub-genre is becoming increasingly popular but Griffin shows here, as in her previous work, that she is still someone to watch, even in such a crowded field. You don’t have to have read that series to still enjoy Stray Souls, but there is some crossover and reading the earlier books first wouldn’t hurt.

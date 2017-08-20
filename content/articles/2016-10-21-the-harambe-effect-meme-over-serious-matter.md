@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211434-ajp15-Screen Shot 2016-10-21 at 14.34.36.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211434-ajp15-Screen Shot 2016-10-21 at 14.34.36.png"
+image_caption: ""
 ---
 
 The story about Harambe gained global attention this summer. Then the Cincinnati Zoo wrote “We are not amused by the memes, petitions and signs about Harambe.” And that broke the internet. The number of memes created skyrocketed. Songs were composed, signs were made, petitions were signed. God it was hilarious. But it seems like nobody really cared about the gorilla.

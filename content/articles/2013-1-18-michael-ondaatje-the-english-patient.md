@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180045-tna08-cafleurebonenglishpatientfirstedition.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180045-tna08-cafleurebonenglishpatientfirstedition.jpg"
+image_caption: ""
 ---
 
 “The story is a poem disguised in prose”, says the introduction to the 2007 edition of this novel.

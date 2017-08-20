@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172030-pk1811-nvcenter.jpg"
-image_caption: >
-  An individual nitrogen vacancy centre in diamond can be used as a Qubit
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172030-pk1811-nvcenter.jpg"
+image_caption: ""
 ---
 
 Two developing technologies have been touted to mark the emergence of new quantum systems. Published in the journal Science last month, the fields of plasmonics and nanophotonics promise to speed up the advent of quantum information systems, which are capable of achieving processing powers that are orders of magnitude larger than classical computers.

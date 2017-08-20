@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051745-tna08-marking.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051745-tna08-marking.jpg"
+image_caption: ""
 ---
 
 The demonstrator, working late at night, still has a stack of papers to correct for the following day. Though the bed beckons to him, he relentlessly keeps going, as students require his slightly-above-minimum wage insights and comments: without his feedback, they would have literally no other way to improve their marks. Or so he tells himself, correcting for the umpteenth time that night that the plural of “momentum” is not “momentums”.

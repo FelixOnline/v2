@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030614-ks607-talldark.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030614-ks607-talldark.jpg"
+image_caption: ""
 ---
 
 So, here it is: Woody Allen’s 40th feature-length film – a director/writer so gifted that he can somehow manage to churn out one film every year. With You Will Meet a Tall Dark Stranger, Allen once again finds himself in London, and is surrounded by sad, unfulfilled characters going through their own versions of an existential crisis. Though all this sounds like the common, perhaps over-used themes central to Woody Allen films, he introduces something new here – juggling with the idea of faith and the supernatural.

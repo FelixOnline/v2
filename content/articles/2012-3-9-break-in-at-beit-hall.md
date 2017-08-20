@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
+image_caption: ""
 ---
 
 Student residence Beit Hall was disrupted on Wednesday 29 February following a series of thefts that took place during a fire alarm. Following the alarm, which began at 1am and lasted for 45 minutes, students who left their doors open during the commotion returned to find items such as cash, jewellery and personal items missing. Concerns were soon raised as to whether the fire alarm was set off with the express intent of creating the opportunity to raid students’ rooms.

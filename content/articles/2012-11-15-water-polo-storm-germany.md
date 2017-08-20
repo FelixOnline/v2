@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152246-tna08-water-polo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152246-tna08-water-polo.jpg"
+image_caption: ""
 ---
 
 The Aachen Annual Water Polo Tournament is by far the most challenging encounter Imperial College’s Water Polo team faces every year. Historically, their performance in this tournament has been humble, so they arrived without the prejudice of having to protect a reputation, which meant everyone could let loose a little and enjoy themselves. Furthermore, it was a great opportunity for people new to the sport to earn some valuable match experience.

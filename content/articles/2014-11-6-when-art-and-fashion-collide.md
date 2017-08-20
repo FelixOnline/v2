@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062132-snb11-ysl-warhol.gif"
-image_caption: >
-  Yves Saint Laurent - Andy Warhol. 1974
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062132-snb11-ysl-warhol.gif"
+image_caption: ""
 ---
 
 2012 was a good year for Japanese artist Yayoi Kusama. With a career that spans more than six decades, and ranges from painting to performance art, her hard work was rewarded with not just one, but two retrospectives, held on either side of the Atlantic. The __Whitney Museum__ in New York City played host to a number of her polka-dotted creations, while the __Tate Modern__’s exhibition proved to be one of the highlights of that summer.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
-image_caption: >
-  Théâtre de la Ville – Paris, Six Characters in Search of an Author.
-image_attribution: "JL Fernandez"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
+image_caption: ""
 ---
 
 Despite reading the synopsis beforehand, I was entirely unprepared for _Six Characters in Search of a Story_, an intense piece of metatheatre that turns all convention on its head. Written in 1921 by Luigi Pirandello and first performed in the same year to mixed reviews, I can only imagine how startling it must have been for audiences then, and how radical it still is.

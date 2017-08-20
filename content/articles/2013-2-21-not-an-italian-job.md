@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220228-tna08-405786_256248_ori_0_0.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220228-tna08-405786_256248_ori_0_0.jpg"
+image_caption: ""
 ---
 
 The Renaissance is generally considered to be an Italian affair. No one could doubt the profound part that the works of the Italians, such as Michangelo and Leonardo da Vinci, played in this era. But this is not the whole story. The 130 plus artworks which are currently on display at The Queen’s Gallery depict the flip-side of the Renaissance, from the darker lands of Northern Europe. These artworks are certainly a far cry from the soft, sensuous curves of Botticelli’s The Birth of Venus and they may lack the alluring quality of da Vinci’s Mona Lisa, yet these artworks were constructed with skill and talent comparable to the Italians and are a real feast for the eyes.

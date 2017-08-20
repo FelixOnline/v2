@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101019-felix-city-people-woman-street.jpg"
-image_caption: >
-  It is very important to get pics for the 'gram.
-image_attribution: "unsplash.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101019-felix-city-people-woman-street.jpg"
+image_caption: ""
 ---
 
 It's almost the end of the academic year, meaning many of you will be in that final frenzy of wrapping up your final year projects. From frantic pipetting to manic coding, it's all very stressful – I've been there. But for those of you, much like myself a year ago, the end of uni does not equal a cry from relief. It means facing your boggart which, let’s be honest, is far more soul wrenching than Harry's dementor – the dreaded prospect of unemployment.

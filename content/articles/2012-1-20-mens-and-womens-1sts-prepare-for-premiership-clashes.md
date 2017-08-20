@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201201208-felix-img_7960.jpg"
-image_caption: >
-  Don’t mess with the guy with the sabre
-image_attribution: "Indy Leclercq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201201208-felix-img_7960.jpg"
+image_caption: ""
 ---
 
 The Imperial fencing men’s and women’s teams stand to win their respective leagues this weekend, the men’s and women’s Southern Premiership, if they can fight off the likes of Oxford, Cambridge, and London rivals such as Queen Mary or ULU.

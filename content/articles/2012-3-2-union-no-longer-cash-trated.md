@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203020110-felix-pounds_sterling_cash.jpg"
-image_caption: >
-  Dare you go for the fifty pound note?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203020110-felix-pounds_sterling_cash.jpg"
+image_caption: ""
 ---
 
 As many happy sober (or otherwise) students may have noticed, there is now a cash machine in the Union.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292253-csw09-pasta.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292253-csw09-pasta.jpg"
+image_caption: ""
 ---
 
 It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for once!) with your friends. You are dreaming of a huge three course meal, a delicious starter, a great main dish and a luxurious dessert accompanied with good wine of course but then you suddenly realise that you can’t afford it!

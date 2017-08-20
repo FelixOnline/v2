@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031853-nm1010-moooooli.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031853-nm1010-moooooli.jpg"
+image_caption: ""
 ---
 
 Situated just off Shaftsbury Avenue in the heart of the West End, a district known for its wide variety of theatres and eateries, Mooli’s is a small, minimalistic and trendy restaurant which stands out from the crowd by serving food that’s a little bit different. Fed up with the cuisine wrongly assumed to be ‘Indian’ in London, *cough* Brick Lane, Mooli’s is the brainchild of two former bankers who saw a gap in the market for cheap authentic Indian food on-the-go. For this reason you won’t find a tikka masala or anything of that sort at Mooli’s!

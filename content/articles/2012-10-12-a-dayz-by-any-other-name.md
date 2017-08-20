@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Zombie games have taken all shapes and sizes over the years, from Wii-based Evil Dead-style games within the Resident Evil universe (Umbrella Chronicles) to frantic rooftop gunfights in the Left 4 Dead series. They all bring in the element of isolation into the mix, surrounded by crumbling cities and smoking ruins, but they just manage to miss that feeling of desperation - you die, and then you respawn or reload, not that far back.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
+image_caption: ""
 ---
 
 It’s my 6th year here and my brain has been permanently disfigured, forever transformed by all that Science. It’s my 6th year of student discounts. My 6th year of Tuna-pasta dinners. My 6th year of pretending that I know stuff, and my 6th year of exam-period all-nighters because I don’t.

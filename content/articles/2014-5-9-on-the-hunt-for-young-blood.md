@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090309-jal08-blood.jpg"
-image_caption: >
-  Stephanie Meyer called, she wants her sexual aphrodisiac back
-image_attribution: "sikhanswers.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090309-jal08-blood.jpg"
+image_caption: ""
 ---
 
 Why do our bodies wear down as we get older? What turns us from jumping, frolicking children into aching, creaking OAPs? And could we ever stop this process?

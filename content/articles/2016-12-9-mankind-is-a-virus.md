@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091211-aib116-dna-163466_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091211-aib116-dna-163466_1280.jpg"
+image_caption: ""
 ---
 
 Fact: We contains more DNA that makes viruses than DNA that makes humans.

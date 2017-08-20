@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142122-tna08-tsu.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142122-tna08-tsu.png"
+image_caption: ""
 ---
 
 The Union opposes the[ closure of the Translation Studies Unit (TSU)](http://felixonline.co.uk/news/3173/translation-unit-under-threat/), following a vote at Union Council on Tuesday 12 February. The Union will also be seeking clarification on the reasons why the Unit will be closed and how the students will be supported in the completion of their studies; this is because College’s previous explanations have been vague. Council voted to both oppose the closure of the TSU and to seek clarity, despite all sabbatical officers either abstaining or voting against the motion. This increases pressure on the College, as[ an online petition has already received over 6000 signatures](http://www.change.org/en-GB/petitions/petition-against-the-transferral-or-closure-of-the-translation-studies-unit).

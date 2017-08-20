@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
-image_caption: >
-  Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian?
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
+image_caption: ""
 ---
 
 As we picked our way through the tents outside St Paul’s Cathedral this Monday one thing was clear: anarchists are not an easy bunch to organise. Not a surprise, perhaps, but add to this a passionate belief in not telling others what to do, and suddenly you find yourself voting about whether to vote…

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201270021-felix-shapeimage_2.jpg"
-image_caption: >
-  Dr. Toby Murcott
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201270021-felix-shapeimage_2.jpg"
+image_caption: ""
 ---
 
 An animated and passionate figure in person, [Dr. Toby Murcott](http://www.esconet.org/Visitors/TobyMurcott.html) is as one would imagine the typical science journalist – never without an opinion, in possession of an open (yet critical and witty) mind and of course, a seemingly unlimited knowledge of everything within the bounds of science.

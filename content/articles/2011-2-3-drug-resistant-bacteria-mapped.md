@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031954-ks607-somekind.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031954-ks607-somekind.jpg"
+image_caption: ""
 ---
 
 The genomes of hundreds of bacterial strains that cause pneumonia have been sequenced and may lead to new antibiotics and vaccines.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280059-ps3110-vincent-womb-transplant-b-012.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280059-ps3110-vincent-womb-transplant-b-012.jpg"
+image_caption: ""
 ---
 
 In early September this year, a 36 year old woman made history by giving birth to the world’s first womb-transplant baby. Absolute uterine factor infertility, caused by either an abnormal or absent uterus, is considered the only untreatable type of female infertility. It affects many women throughout the world, some of whom have resorted to other motherhood options such as surrogacy and adoption. Several uterus transplantations have previously been attempted but no live births have been reported until recently, as part of a groundbreaking clinical trial led by Dr Matt Brannstrom of the University of Gothernburg. It has taken more than a decade of intensive animal research by the team of scientists before achieving this goal.

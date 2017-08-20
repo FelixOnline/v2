@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403261331-jal08-screen-shot-2014-03-26-at-13.31.13.png"
-image_caption: >
-
-image_attribution: "Overseas Societies Committee"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403261331-jal08-screen-shot-2014-03-26-at-13.31.13.png"
+image_caption: ""
 ---
 
 International Night (I-Night): Beyond Barriers 2014 organised by the Overseas Societies Committee (OSC) took place whho weeks ago in the Great Hall. Bringing together 10 different Imperial College student societies in a nail-biting competition, it involved colourful acts from Thai Society, Hellenic Society, Irish Society, Belly Dancing, Malaysian Society, Funkology, Japanese Society, Dance Company, Bangladeshi Society, Cypriot Society and a catwalk by Fashion Society!

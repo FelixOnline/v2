@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171937-nm1010-digestdi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171937-nm1010-digestdi.jpg"
+image_caption: ""
 ---
 
 After having a long, drawn out and indulgent dinner, what does one have whilst engaging in sophisticated conversation and to cleanse the palate after the cheese board? To continue drinking wine simply lacks imagination, besides it wouldn’t be best suited to aid digestion. Fortunately a whole genre of drink has been developed over the past several hundred years purely for this purpose, I am of course writing about the digestif.

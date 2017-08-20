@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406112259-me1711-grace-of-monaco-nicole-kidman-ftr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406112259-me1711-grace-of-monaco-nicole-kidman-ftr.jpg"
+image_caption: ""
 ---
 
 __Grace of Monaco__

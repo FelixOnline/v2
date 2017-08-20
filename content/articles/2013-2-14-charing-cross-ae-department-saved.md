@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142120-tna08-charing-252928655.jpg"
-image_caption: >
-
-image_attribution: "Fulham Chronicle"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142120-tna08-charing-252928655.jpg"
+image_caption: ""
 ---
 
 [Plans to close the Accident and Emergency department of Charing Cross Hospital ](http://felixonline.co.uk/news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close/)have been scrapped in a last minute decision. The original plan to downgrade Charing Cross Hospital has been changed so that the hospital will still have a 24/7 emergency service for those who make their own way to the A&E. More complicated emergencies, including blue light emergencies will be directed to specialist centres. Many have said that the A&E Department hasn't properly been saved at all.

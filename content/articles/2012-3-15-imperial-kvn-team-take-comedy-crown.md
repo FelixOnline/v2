@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152110-ig711-russian.jpg"
-image_caption: >
-  The semi finals. From left to right – Alexey Denisov, Alexander Bukharin, Oksana Iamshanova, Egor Sa
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152110-ig711-russian.jpg"
+image_caption: ""
 ---
 
 On Sunday, Imperial College KVN Team “IMPACT” became the UK League Champions, beating 17 other teams from other universities and combined team all over the UK for this title.

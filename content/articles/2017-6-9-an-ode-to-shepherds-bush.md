@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091658-ea3211-Screen Shot 2017-06-09 at 16.58.41.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091658-ea3211-Screen Shot 2017-06-09 at 16.58.41.png"
+image_caption: ""
 ---
 
 I've lived in various places all over London over the last eight years, but I always come back to Shepherd’s Bush. It's not the geographical convenience or the relative cheapness that keeps me there, it’s the fact that Shepherd’s Bush feels like home.

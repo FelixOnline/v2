@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171526-felix-4883316444_092d1fb98c_o.jpg"
-image_caption: >
-
-image_attribution: "U.S. Department of Agriculture"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171526-felix-4883316444_092d1fb98c_o.jpg"
+image_caption: ""
 ---
 
 As a director on the executive board of the Network of Sustainable Scientists and Engineers (NESSE) and a PhD student in the Chemistry Department funded via the Grantham Institute, it may appear as though my future career path in sustainable science is all but decided. This, however, is far from true.

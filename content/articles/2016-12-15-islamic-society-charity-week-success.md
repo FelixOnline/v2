@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612152340-felix-pastedImage (2).png"
-image_caption: >
-
-image_attribution: "Islamic Society"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612152340-felix-pastedImage (2).png"
+image_caption: ""
 ---
 
 For the first time, this year’s Charity Week hit and smashed through the £1,000,000 ceiling, as students from around the globe managed to collectively raise a total of £1,057,220.12 in donations.

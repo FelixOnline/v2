@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After a super successful Xbox 360, which most people claim won the last console generation wars, Microsoft is now releasing the next iteration into a less clear cut market. The hardcore gaming sector as such is being threatened by smartphone and tablet dominated casual games. This situation is now reflected by Microsofts approach with the One. Instead of just focusing on just gaming the redmond based company has packed the One with tons of features to bring in new customers that wouldn’t usually buy a console.

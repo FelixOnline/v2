@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152120-pk1811-photo.png"
-image_caption: >
-  The auction spinning into action
-image_attribution: "Afonso Campos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152120-pk1811-photo.png"
+image_caption: ""
 ---
 
 On Monday lunchtime, [ICU RAG](http://union.ic.ac.uk/rag/) and the [Bike User’s Group for the Imperial College Community](http://www.union.ic.ac.uk/presidents/icbug/) (BUG) held this year’s second bike auction. Up for sale were 52 bikes varying from basic and run-down to high-end racing frames. Prices this time around were lower than October’s highly successful auction, in part due to lower numbers in attendance and also due to the variable bike quality.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 MDMA seems to be keeping clubbers and scientists alike on their toes at the moment, with research into the recreational drug on the rise. Despite the law heavily restricting drug experimentation even within the laboratory, there still seems to be an unrelenting interest into the potential medical benefits of many of the illegal substances out there. With new research published this week, it may only be a matter of time before drugs such as ecstasy are no longer restricted to the dives and dens of those partying past dawn.

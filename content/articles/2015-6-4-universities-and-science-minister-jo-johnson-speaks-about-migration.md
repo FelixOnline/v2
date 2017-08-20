@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050017-cj914-5fda2009-e2f0-4423-89f9-7072eb598891-2060x1236.jpg"
-image_caption: >
-  Mr Johnson affirmed his commitment to addressing the drop in students coming from India.
-image_attribution: "Lewis Whyld/PA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050017-cj914-5fda2009-e2f0-4423-89f9-7072eb598891-2060x1236.jpg"
+image_caption: ""
 ---
 
 In his first speech as Minister for Universities and Science, Jo Johnson stated that the government has “an ambition to grow” its activity in international education. Highlighting the economic and social value of international students, he affirmed his commitment to addressing the drop in numbers of students coming to the UK from India.

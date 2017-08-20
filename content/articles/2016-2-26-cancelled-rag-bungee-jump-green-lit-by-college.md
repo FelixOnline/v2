@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
-image_caption: >
-  Each to their own.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
+image_caption: ""
 ---
 
 Despite knowing about it since November, college officials cancelled the jump just three days before it was due to  take place, over health and safety concerns.

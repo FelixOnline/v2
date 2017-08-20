@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105221341-felix-institute-steps-photo-021181-by-sydney-newbery.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105221341-felix-institute-steps-photo-021181-by-sydney-newbery.jpg"
+image_caption: ""
 ---
 
 When construction began on the grand Imperial Institute in 1887, fears were already being expressed that it would turn into a wasteful white elephant. Barely a year later, in fact, Thomas Henry Huxley had already pronounced the monumental project ‘a failure’. But when Rector Sir Patrick Linstead decided to tear the building down over half a century later, he was met with public outrage. At the time, it was reported that the decision to demolish the Institute was partly because its ‘architecture would be “difficult to reconcile” with the new science buildings’.

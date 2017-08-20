@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Style. It’s different to fashion. Fashion suggests something fleeting, with trends that slip by like wind. Style, in contrast, is much more constant. It evokes a timeless ideal of chic-ness, a trend that will never go out of style; in other words, a classic.

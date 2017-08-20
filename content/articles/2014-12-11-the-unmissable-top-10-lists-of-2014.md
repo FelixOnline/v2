@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112103-cj914-boyhood-1.jpg"
-image_caption: >
-
-image_attribution: "sundance.org"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112103-cj914-boyhood-1.jpg"
+image_caption: ""
 ---
 
 __10. 20 Feet From Stardom__

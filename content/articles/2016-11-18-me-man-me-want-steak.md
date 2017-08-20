@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181524-felix-Screen Shot 2016-11-18 at 15.24.28.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181524-felix-Screen Shot 2016-11-18 at 15.24.28.png"
+image_caption: ""
 ---
 
 Steak: at its finest, a juicy, browned hunk of meat, bursting with flavour, and apparently quintissentialy manly. At its worst, a drab, uninspired piece of “grilling” that disappoints in every mouthful.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
+image_caption: ""
 ---
 
 One of the biggest challenges facingtoday’s world is how to feed an increasing population, particularly with the impending threats of climate change and water shortages.

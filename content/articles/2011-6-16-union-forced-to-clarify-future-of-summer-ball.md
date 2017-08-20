@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
-image_caption: >
-  Last year's Summer Ball
-image_attribution: "Imperial College London/Tim Smith"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
+image_caption: ""
 ---
 
 The Union has been forced to clarify that no plans for the future of the Summer Ball have been set in stone after several Deputy Presidents raised concerns following [last week’s Felix article](http://felixonline.co.uk/news/1350/union-unveil-ambitious-future-for-summer-ball/). Union President Alex Kendall said that the statement given to Felix regarding plans for the future of the Ball gave the “wrong impression” that the decisions had already been made and emphasied that student input would be sought and included in future decisions.

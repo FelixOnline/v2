@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412011305-ps3110-for-web.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412011305-ps3110-for-web.jpg"
+image_caption: ""
 ---
 
 Complete understanding behind the powerful effects of psychedelics on the mind has remained a mystery for many decades. Over 60 years has passed since the first discovery of lysergic acid diethylamide (LSD) and since then surprisingly little concrete knowledge of its effects on the brain has been established.

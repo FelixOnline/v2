@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
+image_caption: ""
 ---
 
 Within the past year experimental electronic music has exploded into the D.I.Y. cassette culture within the UK, previously dominated by (but by no means limited to) noise releases. Stephen Bishop, head honcho of prominent label Opal Tapes, spoke to me about its formation, the themes that run through its work and his opinions on noise in electronic music.

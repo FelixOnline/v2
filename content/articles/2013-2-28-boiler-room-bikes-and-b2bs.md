@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282327-tna08-g035-800x-4.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282327-tna08-g035-800x-4.jpg"
+image_caption: ""
 ---
 
 When I first considered writing an article on Boiler Room, I thought it would be redundant. I always thought that it’s just one of those things that everyone who would be interested knows about, but when I started chatting to people about it I realised this is not really the case. Considering how electronic Imperial’s tastes seem to be, as well as our churning out a pretty incredible number of DJs and producers, I felt this needed remedying.

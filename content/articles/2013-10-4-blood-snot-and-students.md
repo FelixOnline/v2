@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m sure several of you are suffering with freshers’ flu by now, as I am, because sharing your germs via sniffling and/or coughing on your unfortunate peers in lectures is akin to physical intimacy here at Imperial. You’d rather be healthy, or at least in bed, as you sip your Lemsip Max and wish that you hadn’t shuffled through crowds of virus-laden students in the QTR at Freshers’ Fair.

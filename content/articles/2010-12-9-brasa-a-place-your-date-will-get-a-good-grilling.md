@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091934-ac1507-brasa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091934-ac1507-brasa.jpg"
+image_caption: ""
 ---
 
 This week, Felix returns to Fulham to review Brasa, the restaurant attached to the recently opened Broadway Bar & Grill which we [wrote about a few weeks ago](http://www.felixonline.co.uk/?article=354). Since our last visit, Brasa has acquired its own sign above the door, sending out the “Hello we exist!” message to passers-by, although the word probably hasn’t spread much yet: it was rather quiet on a Friday night when we visited.

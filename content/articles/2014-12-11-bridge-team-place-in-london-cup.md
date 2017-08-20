@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112125-cj914-bridge.jpg"
-image_caption: >
-
-image_attribution: "Dominic Price"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112125-cj914-bridge.jpg"
+image_caption: ""
 ---
 
 Imperial came back the proud owners of the second place trophy in last week’s London Cup – the annual inter-university bridge tournament attended by teams from around the UK.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162158-pk1811-school-boy-q-things-i-carry.jpg"
-image_caption: >
-  South Ken street cred
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162158-pk1811-school-boy-q-things-i-carry.jpg"
+image_caption: ""
 ---
 
 As the imaginatively named title of this column would suggest, each week I hope to bring you a top notch hip-hop tune. This week’s song comes courtesy of [__Schoolboy Q__](http://www.myspace.com/schoolboyq)’s recently released album _Habits and Contradictions_. The song samples a live Lissie cover of the __Kid Cudi__ track ‘The Pursuit of Happiness’ for the chorus and also features critic’s favourite __A$AP Rocky__. In an album with a general tone of moody introspective aggression, ‘Hands on the Wheel’ is a relatively upbeat affair with tight production courtesy of __Best Kept Secret__.

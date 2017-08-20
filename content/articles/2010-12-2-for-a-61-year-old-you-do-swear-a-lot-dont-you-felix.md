@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This coming Thursday will be an important day for students all across the country. Parliament will vote on controversial proposals to raise the cap on tuition fees to £9,000. For the Editors of this newspaper the day is also important for another, albeit more light-hearted, reason. It will be [61 years](http://felixonline.co.uk/?go=archive&d=1940&y=1949) to the day since the first issue of Felix was published. It is Felix's birthday.

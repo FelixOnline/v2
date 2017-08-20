@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101352-felix-Screen Shot 2017-02-10 at 13.51.38.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101352-felix-Screen Shot 2017-02-10 at 13.51.38.png"
+image_caption: ""
 ---
 
 ## I found a home in the LGBT community

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504152334-jr2514-whiplashimage.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504152334-jr2514-whiplashimage.jpg"
+image_caption: ""
 ---
 
 Written and shot by the young American director Damien Chazelle, Whiplash is an ambitious piece of storytelling that chronicles the development and suffering of a young musician with dreams of becoming one of the greatest drummers of his generation. The film follows Shaffer Conservatory of Music freshman Andrew Neyman (Miles Teller), who is handpicked by the demanding and much-feared teacher, Terrence Fletcher (J.K. Simmons), to be a drummer in a jazz orchestra created for the competition circuit.

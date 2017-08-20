@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
-image_caption: >
-  Dr Lamb has previously written books on Genetics and the Queen's English
-image_attribution: "Queen's English Society"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
+image_caption: ""
 ---
 
 One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no-go’ areas at night for white people”.

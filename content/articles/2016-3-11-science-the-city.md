@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In our occidental institutions of learning, the hallways hear the daily echoes of our scientific history being taught in classrooms. “We stand on the shoulders of giants” was a 12th century quote, though more commonly attributed to Sir Isaac Newton. It’s an acknowledgment of our predecessors, the trials and errors, insights and ideas, lessons and losses, all that we have built our foundation of knowledge on.

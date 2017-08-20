@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010080001-ks607-Business.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010080001-ks607-Business.jpg"
+image_caption: ""
 ---
 
 Being at one of the world’s top universities has its perks when it comes to getting employed. You are lucky enough that companies actively want to give you the chance to shine through a summer internship which could hopefully lead to the holy grail; the offer of a full-time job after your graduation. The opportunity to do well is yours to throw away. The internship does not need to be the seven-headed monster that it is sometimes made out to be.

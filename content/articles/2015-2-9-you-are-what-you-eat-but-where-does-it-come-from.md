@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091930-ps3110-pesticides-bro---photoshop.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091930-ps3110-pesticides-bro---photoshop.jpg"
+image_caption: ""
 ---
 
 Fertile Crescent of Western Asia provides the earliest evidence so far of agricultural development; dated to have occurred in this region around 11,000 years ago. This behaviour originated independently at several locations and spread globally.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
+image_caption: ""
 ---
 
 Imperial’s equestrian first team got the new season off to a cracking start by beating rivals Oxford, LSE and Brunel.

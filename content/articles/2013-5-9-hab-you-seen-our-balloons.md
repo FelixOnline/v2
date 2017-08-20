@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305091255-tna08-icseds_2.jpg"
-image_caption: >
-  All photos: ICSEDS
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305091255-tna08-icseds_2.jpg"
+image_caption: ""
 ---
 
 On Sunday 5 May, members of Imperial College Students for the Exploration and Development of Space (ICSEDS) travelled to Elsworth, Cambridgeshire for their first launch. The aim was to launch two high altitude balloons (HABs) and several model rockets built over the course of the year.

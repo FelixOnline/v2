@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201109301204-felix-statin-medicines.jpg"
-image_caption: >
-  Unexpected results have shown that statins may reduce the risk of death by infection
-image_attribution: "howshealth.com"
-image_attribution_link: "http://howshealth.com/wp-content/uploads/2010/06/Statin-medicines.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201109301204-felix-statin-medicines.jpg"
+image_caption: ""
 ---
 
 While you’ve been busy travelling the world, waiting for term to start, the staff at Imperial have been pushing the boundaries of human knowledge. The keen students amongst you may be aware of what headlines Imperial has been making over the last few months. But for those of you whose _New Scientist_ subscription was ended abruptly as soon as you got your offer, [Felix Science](http://www.facebook.com/FelixScience) has a round up of some of the most interesting and important science coming out of the College this summer.

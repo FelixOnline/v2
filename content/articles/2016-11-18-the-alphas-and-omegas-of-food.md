@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181447-felix-sardines-1489630_1920.jpg"
+image_caption: ""
 ---
 
 I hereby appeal to everyone: pick up a copy of Michael Pollan’s In Defence of Food this week. It truly drives home how food is being treated in this nutrition-crazed world, with people’s sad attempts to reduce it to health components. Most forget that food in itself is more significant than this. One key fact that stood out to me was Pollan’s stance on omega 3, the polyunsaturated fatty acid which we know is good for overall health, especially the brain. There are other fats which our body can synthesise from other nutritional components, but omega 3 isn’t one of them, making them more important than we think.

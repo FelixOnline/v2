@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503051156-ps3110-screen-shot-2015-03-05-at-11.55.52.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503051156-ps3110-screen-shot-2015-03-05-at-11.55.52.png"
+image_caption: ""
 ---
 
 While there’s no denying that I’d love a 70p pint at the union on a Wednesday as much as the next person, I will be voting for Lucinda as our next union president and I’m here to tell you why.

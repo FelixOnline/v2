@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
-image_caption: >
-  We’re not entirely sure what the giant mound of earth is for
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
+image_caption: ""
 ---
 
 For Imperial’s ﬁrst match there couldn’t have been much of a better way to start the Hurling season. With blue skies and a light breeze in Greenford the boys in blue new they were in for something good.

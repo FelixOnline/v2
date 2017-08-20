@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291723-tna08-59d51511-a3a1-42df-8f82-912b0a1e05cb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291723-tna08-59d51511-a3a1-42df-8f82-912b0a1e05cb.jpg"
+image_caption: ""
 ---
 
 If you’ve been living under a rock these last two weeks, there was a lot of hype, building up to the reveal of Microsoft’s latest console – the last real contender in the latest saga of the console wars. As with anything that has ever had that much anticipation built up for it, you could hear the joy leaving everyone’s souls, making the noise like a rudely deflating balloon animal. It turns out that most people’s worst fears had become manifest.

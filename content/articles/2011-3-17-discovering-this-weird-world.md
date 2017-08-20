@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104212101-felix-fedex_logo_2200.jpg"
-image_caption: >
-  Spot the arrow...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104212101-felix-fedex_logo_2200.jpg"
+image_caption: ""
 ---
 
 The other day I saw something strange and wonderful. I was walking along the street, happily minding my own business, and happened to stop at a junction. All normal so far. Then, a lorry stopped beside me – a FedEx lorry with the FedEx logo emblazoned all over. And that was when I saw it; inside the FedEx logo, there was an arrow!

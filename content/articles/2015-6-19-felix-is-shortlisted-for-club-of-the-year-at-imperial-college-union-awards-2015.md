@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506191433-ps3110-img_8134.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506191433-ps3110-img_8134.jpg"
+image_caption: ""
 ---
 
 Felix was shortlisted for Club of the Year at Monday’s Union Awards ceremony, much to the club's delight. Sadly Felix closly missed out on taking the award home, which went instead to Islamic Society, but all were very deserved of the award.

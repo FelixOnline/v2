@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121112-felix-buildroneprototype.jpg"
-image_caption: >
-
-image_attribution: "Buildrone"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121112-felix-buildroneprototype.jpg"
+image_caption: ""
 ---
 
 A PhD student from Imperial has led a team from the Aerial Robotics Lab to victory in a competition to find ‘Drones for Good’ in Dubai.

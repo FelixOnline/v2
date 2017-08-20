@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the early morning before the British University Hurling Championships a squad of 9 Imperial College and 5 St. Mary’s hurlers dragged themselves out of bed and headed to the Union where a minibus was waiting. On the road to Birmingham, with no idea of what lay ahead, the lads discussed the best starting line-up for the team. Arriving at Páirc na hÉireann by the official starting time, a first for the IC lads, gave the team enough time for a warm up and some drills.

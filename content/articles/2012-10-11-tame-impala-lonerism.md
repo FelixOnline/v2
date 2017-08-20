@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112229-felix-lonerism.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112229-felix-lonerism.jpg"
+image_caption: ""
 ---
 
 Tame Impala released their debut album, Innerspeaker, in 2010. A 60s throwback made of fuzzy guitar and big psychedelic hooks, it was filled with catchy pop songs and hum-along melodies. Their new album is a much more complicated affair. Lonerism is the classic sophomore album. It’s a band maturing, diversifying, experimenting, but ultimately, running out of hits.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132332-tna08-space-merchants2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132332-tna08-space-merchants2.jpg"
+image_caption: ""
 ---
 
 There is often a stigma attached to early works of science fiction (SF). They are often stereotyped as being poorly written and filled with bad science and bug-eyed monsters. While true for some works this is by no means universally the case. Early SF laid the groundwork for what the genre is today and it includes some of the most imaginative and thought provoking works of fiction ever written.

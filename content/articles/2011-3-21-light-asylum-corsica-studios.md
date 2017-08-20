@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Light Asylum](http://www.myspace.com/lightasylum); the dark wave, ‘enough-balls-to-bust-up-Schwarzenegger’, electroclash duo from Brooklyn are Shannon Funchess and Bruno Coviello. They came for [Club Motherfucker’s](http://www.clubmotherfucker.com/) eighth birthday at Elephant and Castle’s [Corsica Studios](http://www.corsicastudios.com/). The pair address the stage like a boxing ring with the crowd as their opponent as they limber-up for their set at 12.30. Breaking into swirling synth sounds they engage in tear-your-face-off songs from their new EP In Tension, as the crowd welcome the music drone and power from both vocals and synth. Funchess’ vocals bring memories of a female Ian Curtis with attitude as she yelps and shouts with a shocking vocal range through the microphone, using smartly placed loops to weld into Coviello’s rhythms. The sound matches New Order’s electronic reign post-Curtis, with his female successor. The hugely dramatic event keeps the crowd enticed and on the verge of anarchy. Using recognisable themes and forceful bass and lyrics, the two keep the intensity at bursting level as they career through their appropriately named album. ‘Knights and Week Ends’ along with ‘Skull Fuct’ send patches of the crowd into apoplexy and patches into jaw-dropping shock.

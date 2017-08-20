@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
-image_caption: >
-
-image_attribution: "Luke Tomlin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
+image_caption: ""
 ---
 
 [Felix is throwing another rocking party](http://www.facebook.com/event.php?eid=214310911933116) at Imperial College Union’s live music venue and all around super-club, Metric, on Saturday 11th June.

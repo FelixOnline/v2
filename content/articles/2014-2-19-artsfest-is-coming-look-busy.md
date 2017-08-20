@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Yes the biggest event of the union calendar has arrived. And I don’t mean the Big Elections. ArtsFest sees our scientists’ paradise turned over to our Artistic under culture for a week of something different. The festivities this year include lunchtime concerts, an art exhibit, singing, dancing, comedy, colour, noise and fun. This will be at least the 5th ArtsFest, records go back to at least 2010; a time where, as far as ArtsFest was concerned, even the internet didn’t exist. But it’s been growing and learning every year. In my tenure as Arts and Ents chair I’ve already been impressed by so many talented clubs and societies performances and I really hope as many people as possible will seek out this showcase of what’s on offer.

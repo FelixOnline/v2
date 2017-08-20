@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
+image_caption: ""
 ---
 
 Erika Craig is one of many upcoming artists in our generation. She began her career in California where she received her BA. During this time she also studied in an inspirational and architecturally rich city, Paris.

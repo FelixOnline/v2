@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You’re on the brink of it. You’ve spent the last few months being told that your exams were too easy, your future is jobless, your university fees higher than ever, your hair too long and your generation’s romantic comedies too full of Gerard Butler. Most of these things are not true. Gerard Butler does appear to be able to star in several movies simultaneously, however.

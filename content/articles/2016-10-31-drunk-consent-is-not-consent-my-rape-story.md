@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610312233-felix-3677708469_0d92186faa_o.jpg"
-image_caption: >
-
-image_attribution: "SamahR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610312233-felix-3677708469_0d92186faa_o.jpg"
+image_caption: ""
 ---
 
 This week the coat I lost on the night I was raped found its way back to me.

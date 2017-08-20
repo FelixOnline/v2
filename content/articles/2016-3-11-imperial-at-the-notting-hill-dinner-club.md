@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111147-felix-DSC_0625.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111147-felix-DSC_0625.JPG"
+image_caption: ""
 ---
 
 Two weeks ago, the Union put on a whole load of student volunteering opportunities as part of the national campaign of Student Volunteering

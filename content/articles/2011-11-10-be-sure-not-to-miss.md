@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In 2009, I received a copy of Tru Thoughts’ Tenth Anniversary album and although I was slightly embarrassed at the fact that it took me ten years to notice them, it was musically one of the best things that’s ever happened to me.

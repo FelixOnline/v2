@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
+image_caption: ""
 ---
 
 With Remembrance Day just behind us it seems appropriate to draw in some of the more sombre elements of travel destinations. As a traveller you often confront the tensions of the place you’re visiting, though this will of course vary by destination. I think embracing such darker elements of a culture is often what separates travelling from tourism: you’re interested in the lifestyle and not just sporting your token ‘peace fingers’ pose for your prized photo with the big Buddha statue.

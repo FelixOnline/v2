@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180037-tna08-jc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180037-tna08-jc.jpg"
+image_caption: ""
 ---
 
 At the Donmar Warehouse, I have always found my way into the parallel reality that theatre should create. With Phillipa Lloyd’s new production of Julius Caesar, one can simultaneously find oneself in not one, but two different realities.

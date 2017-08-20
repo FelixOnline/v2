@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The members of the __English Touring Theatre__ assemble in the __Barbican__’s theatre for their production of _A Mad World My Masters_, and there is an elephant in the room. Based on the 1605 work by Jacobean playwright Thomas Middleton, this production of _A Mad World My Masters_ has been transposed from the metropolis of 17th century London to the vice-filled streets of 1950’s Soho. Of course, with such a construct, one is almost obliged to consider the __National Theatre__’s hugely successful production of _One Man, Two Guvnors_, in which James Corden filled the main role; with a traditional source material updated to a nostalgia-tinged vision of the recent past, an emphasis on slapstick comedy, and a huge amount of bawdy humour, the comparison is inevitable. Sadly, _A Mad World My Masters_ is a disappointment; maybe I am holding it to too high standards, but the whole thing is about as funny as an am-dram production, put on in a village hall.

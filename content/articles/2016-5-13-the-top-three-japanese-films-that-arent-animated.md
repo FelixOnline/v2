@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two weeks ago I  slagged off the French film-making philosophy. In an effort to be more positive this week, I’m going to heap praise on my favourite film-producing country – Japan. Looking past the endlessly churned out anime crap, animated Japanese cinema may very well be the best in the world. – Miyazaki, Katsuhiro Ôtomo and Mamoru Hosoda are unmatched in the eyes of many critics. But it would be nice for live action films get a look in:

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132159-felix-dsc_4859.jpg"
-image_caption: >
-
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132159-felix-dsc_4859.jpg"
+image_caption: ""
 ---
 
 Jezebel, fire engine and mascot of the Royal College of Science Union, has now reached 50,000 miles on the clock.

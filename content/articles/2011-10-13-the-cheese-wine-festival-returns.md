@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
-image_caption: >
-  A whole festival based around cheese and wine? Better brie-lieve it
-image_attribution: "Travelmaven - Wordpress"
-image_attribution_link: "http://travelmaven.files.wordpress.com/2011/01/wine-and-cheese-medium.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140033-sjw209-wine-and-cheese-medium.jpg"
+image_caption: ""
 ---
 
 Last issue, Felix Food made mention of the [Chocolate Week](http://felixonline.co.uk/food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup/), the [London Restaurant Festival](http://felixonline.co.uk/food/1496/london-restaurant-festival-showcases-culinary-diversity/) and the Diwali Festival. It’s likely some of you dislike chocolate, hate restaurant festivals or think Indian food is just another thing that drags you to the toilet! So, let’s talk about cheese… and wine!

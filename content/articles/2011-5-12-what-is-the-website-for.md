@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A common declaration amongst many people in publishing is that ‘print is dead’. By which they mean the idea that the public will continue to read content on paper in the future is laughably ignorant. While the print edition of this cat probably has quite a few years in it yet, we would be foolish to try and resist the inexorable push and pull towards web-based content.

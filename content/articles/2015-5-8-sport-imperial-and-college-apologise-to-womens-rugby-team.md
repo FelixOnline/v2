@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505080129-ps3110-screen-shot-2015-05-08-at-01.29.26.png"
-image_caption: >
-
-image_attribution: "Ben Lester/ throughbenslens.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505080129-ps3110-screen-shot-2015-05-08-at-01.29.26.png"
+image_caption: ""
 ---
 
 The College has released the investigation findings surrounding Varsity 2015, with Sport Imperial and the College offering up apologies to the Women’s Rugby team.

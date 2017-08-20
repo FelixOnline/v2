@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181425-felix-background2.JPG"
-image_caption: >
-
-image_attribution: "ICU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181425-felix-background2.JPG"
+image_caption: ""
 ---
 
 The National Student Survey (NSS) came out earlier this year and the long and the short of it is that students are getting less and less satisfied with both College and the Union. The Union has now published its list of recommendations it wanted College to enact to try and reverse the slump, all of which have been accepted.

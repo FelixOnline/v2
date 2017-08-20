@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Holocaust Memorial Day is a day of remembrance held annually on the anniversary of the liberation, by Soviet soldiers, of the concentration camp Auschwitz-Birkenau on 27 January 1945. Auschwitz was the largest of the Nazi killing camps, where approximately 1.1 million men, women and children, including Jews, gypsies, the handicapped, homosexuals, Soviet prisoners of war and political dissidents, were killed, out of a total estimate of 11 million assassinations throughout the Holocaust across Europe at the hands of the Nazis, from 1933 to 1945. However, what meaning do these figures hold, with no knowledge of the personal experiences of those involved?

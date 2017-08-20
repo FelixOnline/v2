@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
+image_caption: ""
 ---
 
 A bus took us round meandering long corners and sharp curves on our way to San Carlos de Bariloche, which rests at the foothills of the Andes, until we finally reached Argentina’s answer to the Lake District. Snow-capped mountains lay in the distance as we rumbled towards our destination, huge geographical reliefs looming in the bright blue sky. The chill of the air began to cut through our clothes. However, the undisputed masterpiece of the area, an unbelievably beautiful lake named Nahuel Huapi, quickly removed us from this vapid distraction.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041812-ks607-marclays.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041812-ks607-marclays.jpg"
+image_caption: ""
 ---
 
 Time will run away with you. It will skip, jump, come to a standstill, and even explode in front of your very eyes in [Christian Marclay’s](http://en.wikipedia.org/wiki/Christian_Marclay) ‘[The Clock](http://www.whitecube.com/exhibitions/cm/)’. Marclay has made a twenty-four hour film using snippets from movies that involve clocks and references to time. Every single minute of the day is mapped out using scenes from famous old and new movies. James Bond will surreptitiously tell you what time it is as he tracks some unknown person’s movements; at four o’clock bands of excited children run out of classrooms screaming as their teacher tells them to slow down; and I am almost sure I saw Kevin Spacey walk across the screen with a watch on his hand in a scene from The Usual Suspects.

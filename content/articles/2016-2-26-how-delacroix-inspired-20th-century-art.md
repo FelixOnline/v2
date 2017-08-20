@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261157-felix-1590.jpg"
-image_caption: >
-  The Death of Sardanapalus, the reduced 1846 version, by Delacroix
-image_attribution: "Philadelphia Museum of Art"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261157-felix-1590.jpg"
+image_caption: ""
 ---
 
 Most would not expect the last painter of the grand style to be one of the first modern artists, and so it is quite daring and unique for an exhibition to make such a statement. _Delacroix and the Rise of Modern Art_ sheds light on Delacroix’s overlooked role as being an early modern revolutionary in both his individual style and the influence he had on succeeding modern masters.

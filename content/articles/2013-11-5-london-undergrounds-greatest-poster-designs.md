@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Crowds of rushing commuters, dawdling tourists and giggling schoolchildren. A sea of colours, thoughts, noises. The new film adverts. The delays announcements. The sound of a tube pulling into the platform and your desperate wish to get onto it.

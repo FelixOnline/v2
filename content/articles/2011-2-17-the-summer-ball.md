@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171918-ks607-tinietem.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171918-ks607-tinietem.jpg"
+image_caption: ""
 ---
 
 End of year summer exams, nobody likes them. It is the best way to ruin the best season of the year and everyone dreads them. But now there's something epic to look forward to, because this year, not only is there an end of year summer ball, but there's a whole day of live performances to go with it.

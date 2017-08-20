@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042022-cj914-ben-morgan-of-england-crashes-over-to-score-the-opening-try.jpg"
-image_caption: >
-  Ben Morgan scores a try for England in their 26-17 victory over Australia. They won two out of four
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042022-cj914-ben-morgan-of-england-crashes-over-to-score-the-opening-try.jpg"
+image_caption: ""
 ---
 
 England ended their autumn international campaign with a 26-17 win against an Australian team struggling for form in recent weeks. An estimated 82,000 supporters at Twickenham watched England exert their dominance in the scrum leading to a brace of tries split either side of half time for number eight Ben Morgan. Australia did sparkle at times and retaliated with two tries of their own through Fly Half Bernard Foley, who was substituted immediately after, and replacement lock Will Skelton, although they conceded far more penalties during the 80 minutes.

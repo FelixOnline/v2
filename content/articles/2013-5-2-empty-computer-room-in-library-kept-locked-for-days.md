@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021427-tna08-pic2-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021427-tna08-pic2-2.jpg"
+image_caption: ""
 ---
 
 Computer room 204 in the Library was recently locked as their was training scheduled. The door has a sign saying it is booked. This meant that students were unable to use the computers inside. However, there are days when nobody has been seen in the room. A student complained to the Library staff about this and was told that it belongs to ICT, who have recently started locking it.

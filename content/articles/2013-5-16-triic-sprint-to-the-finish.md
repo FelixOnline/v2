@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161853-tna08-920303_10152793614280603_2025627639_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161853-tna08-920303_10152793614280603_2025627639_o.jpg"
+image_caption: ""
 ---
 
 This year saw a record number of TriIC members travel to St Mary’s school in Calne for the 2013 BUCS Sprint Championships. It was a stunning morning, the perfect set up for a full day ahead of racing and sunning ourselves on the grass. Eighteen people worked together in the Tetris challenge of squeeze themselves, their bags and racing bikes into two minibuses but with everything finally on board we set off down the M4 on open roads, treated to faint snoring noises from the back seats.

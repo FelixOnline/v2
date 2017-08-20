@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Around one billion euros worth of art has been discovered in the home of an 80 year old man in Munich. The collection, including pieces by Matisse, Picasso, Renoir and others, represents one of the largest recoveries of looted art in recent history, and includes many pieces previously unknown to art scholars.

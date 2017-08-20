@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271945-ks607-fruitsel.jpg"
-image_caption: >
-
-image_attribution: "Lucie Jichova"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271945-ks607-fruitsel.jpg"
+image_caption: ""
 ---
 
 Colombian coffee is savoured all over the world, but the cuisine of this country has not been exported as widely. Colombians are a nation of highly energetic, sociable people who know how to enjoy a good party. And they certainly enjoy parties that involve eating. Their cuisine is hearty and varied. Ingredients used in Colombian dishes are typical for Latin America: beans, corn, plantains, fresh cheese, rice, chorizo… and, of course, meat. Quality grilled beef is king, but chicken and pork appear a lot too. If there’s no meat, it’s not really food.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282130-ks607-harrycon.jpg"
-image_caption: >
-
-image_attribution: "www.harryconnickjr.com"
-image_attribution_link: "http://www.harryconnickjr.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282130-ks607-harrycon.jpg"
+image_caption: ""
 ---
 
 New Orleans music is an addiction. Its diversity portrays every emotional state and as the legendary jazz musician Ellis Marsalis puts it, "at a time when individualism is becoming an endangered species, the sounds of the Bayou represent a celebration of the individual". Put simply, without it life would be emptier.

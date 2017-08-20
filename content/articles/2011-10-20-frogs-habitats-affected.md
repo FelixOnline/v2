@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202149-felix-taricha_t_torosa_1979-08_1.jpg"
-image_caption: >
-  A frog-in-hand situation
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202149-felix-taricha_t_torosa_1979-08_1.jpg"
+image_caption: ""
 ---
 
 Climate change and global warming caused by greenhouse gas emissions have important implications on re-shaping Earth’s landscape. Animal species can suffer dramatic consequences, possibly even extinction, from these changes.

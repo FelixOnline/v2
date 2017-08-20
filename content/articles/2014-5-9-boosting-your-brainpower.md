@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090306-jal08-111434-pills.walbridge-01.jpg"
-image_caption: >
-
-image_attribution: "archive.dailycal.org"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090306-jal08-111434-pills.walbridge-01.jpg"
+image_caption: ""
 ---
 
 The London 2012 Olympics was not just a very fruitful and lucrative opportunity for the UK economy, which benefitted from a £9.9bn boost in trade and investment. It also placed a huge responsibility on the analytical chemists who had the job of identifying the drug cheats and keeping the Games fair.

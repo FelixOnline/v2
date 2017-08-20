@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070028-tna08-theawards.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070028-tna08-theawards.jpg"
+image_caption: ""
 ---
 
 Imperial College was nominated for two [Times Higher Education Awards](http://www.the-awards.co.uk/the2012/awardscategory/awards) this year: [Most Improved Student Experience and Outstanding Support for Early Career Researchers](http://www.the-awards.co.uk/the2012/shortlist). Imperial however lost out in each category, losing to the University of Chester and the University of York respectively. The nominations; particularly for ‘Most Improved Student Experience’ ought to be good news for Imperial that has lagged behind other universities in student satisfaction ratings which has contributed to disappointing [Guardian Rankings](http://www.guardian.co.uk/education/table/2012/may/21/university-league-table-2013) in recent years. (It came in 13th in the 2013 rankings behind the University of Bath, The University of Essex and perhaps most disturbingly, UCL).

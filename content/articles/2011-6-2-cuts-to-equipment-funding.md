@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021911-felix-apprenticeship-10.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021911-felix-apprenticeship-10.jpg"
+image_caption: ""
 ---
 
 Research in engineering and science disciplines took another blow last week when it was announced that a second round of research budget cuts would be effective on research proposals submitted after 1st May 2011.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
-image_caption: >
-
-image_attribution: "Matthew Turner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
+image_caption: ""
 ---
 
 The Finborough Theatre occupies a small room above a Kensington pub (The Finborough) and seems the most unlikely place to put on a large cast musical by the great Broadway duo Rodgers and Hammerstein. Now I’m a massive fan of the intimate theatre but a broadway musical? All I can say is that “Me and Juliet” triumphed in it and in fact only a few minutes into the show the size of the place completely left my mind; quite a tricky but vital thing to achieve when putting on such a show.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041751-ps3110-img_1015.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041751-ps3110-img_1015.jpg"
+image_caption: ""
 ---
 
 The start of the year already hinted at a great volleyball season to come; with over 120 people attending the taster session and a record-high membership of 87.

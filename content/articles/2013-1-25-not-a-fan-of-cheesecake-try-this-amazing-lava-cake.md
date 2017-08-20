@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
+image_caption: ""
 ---
 
 It really is simple, cheap and absolutely divine. It will take you about 10 minutes to make and it only needs 15 minutes in the oven. So, in less than 30 minutes and with minimum effort you can also have this amazing dessert.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Reviews. I hate writing reviews for places that I’ve eaten ‘on the house’. There’s something about dining for free, and the awkward moment when you don’t call for the bill. Do you just thank the waiter and bid him “Adieu!”? And when the restaurant gets my review in the post, I always wonder whether they admire and put it amongst their other shiny reviews; or do they put your name in the black book if you foulmouthed the taste of their tap water; or do they simply throw it in the trash. The latter does seem far more likely. (Especially when they see the last sentence isn’t even finished with a full stop.)

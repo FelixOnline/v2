@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This being my last of an excessive six years at Imperial, I can’t help but wonder, with more than a little panic, just how different life will be outside of the academic bubble. Excactly how I’ll gel with a world of 9-5s, responsibility, mortgages and early nights is uncertain. One thing I do know is clear: I’ll never again get to live in South Kensington. More precisely, I’ll never again get to live beside Exhibition Road. I’ll miss it.

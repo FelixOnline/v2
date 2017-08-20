@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101311434-jn104-hockey14.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101311434-jn104-hockey14.jpg"
+image_caption: ""
 ---
 
 This week saw the hockey mens 1st XI in action twice, both in cup matches. As holders of the ULU challenge cup, IC were hoping to retain the trophy this season, but received a tough draw against this seasons form side, UCL, in the quarter finals. Imperial showed plenty of ability, but some defensive mistakes and some missed chances saw us crash out of the ULU cup, eventually losing 6 – 4 in a fast, open game, where attack was the only form of defence for both sides.

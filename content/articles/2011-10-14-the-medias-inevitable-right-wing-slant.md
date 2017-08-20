@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We live in democracies where we hold those in power to account using elections. To help us make informed choices about our society there are many kinds of media on the market whose job it is to tell us all the bad stuff and to suggest solutions to them. The idea is that this will build a public support base, which will propel a good representative to electoral victory and kick out bad representatives.

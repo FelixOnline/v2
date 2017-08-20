@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172020-dr910-election.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172020-dr910-election.jpg"
+image_caption: ""
 ---
 
 The last article I wrote was about Mubarak and he resigned when it came out. Not saying it was all me but coincidences like that don’t happen. So now I’m going to hope my curse can help two other countries.

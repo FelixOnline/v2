@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202003-ks607-wossywos.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202003-ks607-wossywos.jpg"
+image_caption: ""
 ---
 
 Although Nintendo let their big bosses have the honour of announcing the Nintendo 3DS, the successor to their current range of handheld consoles, the task apparently fell to Jonathan Ross to host the latest press conference on the upcoming device.

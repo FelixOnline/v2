@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282030-ma1307-easystar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282030-ma1307-easystar.jpg"
+image_caption: ""
 ---
 
 I have to admit that reggae and psychedelia is not an orthodox blend, come to think of it, it’s hardly like anything out there, and that’s what makes me admire the Easy Star All-Stars for doing something different. Different is not always good, and for those of you who hold the likes of Pink Floyd and The Beatles on a pedestal of progressive and glorious music, I would advise you to steer clear. However, there is no reason why one of the greatest conceptual albums in history, ‘The Dark Side of the Moon’, cannot be opened up to a new audience of reggae skankers. I must admit that I regard some of the original music by these bands as a force that is powerful enough to change the world and at times the Easy Star All-Stars may have missed the point a little and do commit ruthless butchering of otherwise perfect music, but then again, I think, why the hell not?

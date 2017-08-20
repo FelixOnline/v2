@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
+image_caption: ""
 ---
 
 Cognitive decline is often accepted as an inevitable part of aging. Even aside from specific conditions such as Alzheimer’s disease, poor short term memory and impaired reasoning abilities can be among the problems that come with older age, and for many people they can be severe enough to interfere with daily activities and the ability to live independently. But there is mounting evidence that the risk of developing such problems is strongly correlated with common health and lifestyle issues.

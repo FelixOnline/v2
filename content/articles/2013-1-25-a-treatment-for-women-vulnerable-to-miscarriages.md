@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250152-tna08-sonogram-human-foetal-fetal-ultrasound-scan-at-10-weeks-mono-1-anon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250152-tna08-sonogram-human-foetal-fetal-ultrasound-scan-at-10-weeks-mono-1-anon.jpg"
+image_caption: ""
 ---
 
 Researchers at Imperial College and the University of Warwick have identified molecular signals produced by cells in the womb saying whether an embryo can implant there or not, and suggest that drugs affecting these signals could be used to treat women vulnerable to miscarriages.

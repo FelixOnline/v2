@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
-image_caption: >
-  A revitalising coconut scrub after a rough day at the office
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
+image_caption: ""
 ---
 
 By the time I hit Kerala I was more than ready for it: with Rajasthan’s dusty forts a distant memory I was ready to hit up something a little more tropical. That’s the incredible thing about Kerala: after a short and breezy (read: forty hour and mosquito-infested) coastal train down from the north, you find yourself in paradise. Of course, to the rational mind that doesn’t doubt the existence of continental drift, this shouldn’t really come as much of a shock. But I was still in awe of the abundant African-esque flora and fauna at my disposal.

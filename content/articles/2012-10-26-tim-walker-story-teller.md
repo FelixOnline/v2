@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210281226-ay310-tim_walker_storyteller_annoucement.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210281226-ay310-tim_walker_storyteller_annoucement.png"
+image_caption: ""
 ---
 
 There has long existed a debate in regards to the reasons behind fashion photography. Do photographers pick up their Hasselblads solely under the direction of Devil Wears Prada-esque editors, and do models pose nonchalantly just to put the seemingly un-wearable catwalk designs to use? Or perhaps it is just to do with amusement, allowing some to turn a hobby into a career.

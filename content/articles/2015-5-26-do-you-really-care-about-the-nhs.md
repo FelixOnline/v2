@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505261436-js5913-who-cares.jpg"
-image_caption: >
-  Martina Laird in Who Cares at the Royal Court
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505261436-js5913-who-cares.jpg"
+image_caption: ""
 ---
 
 The title of Michael Wynne’s latest work, _Who Cares_, is both deliberately provocative and perfectly explanatory of what the audience entering the __Royal Court__ have signed themselves up for. This production for the Jerwood Theatre Upstairs is less ‘state of the nation’ and more ‘state of the national health service’, a no-holds barred examination of how the NHS has fared, is faring, and will fare under the previous and future governments.

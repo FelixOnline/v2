@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291718-tna08-kop1.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291718-tna08-kop1.png"
+image_caption: ""
 ---
 
 This July Imperial College’s branch of the Kenyan Orphan Project set out for their annual trip to Kenya to see the work that their efforts had made possible. Throughout the year, the group had been finding new and novel ways of raising money for their cause, be it through nights out, tube collections, or a Valentine courier service.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282036-ks607-colinfir.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282036-ks607-colinfir.jpg"
+image_caption: ""
 ---
 
 It’s always a joy when one film doesn’t clean up all the statuettes at The Oscars and this year was one of the most balanced distribution of gongs in recent years. However amongst the most predictable wins there were a few obvious surprises, notably The King’s Speech. Honestly I did not anticipate the historical drama snatching Best Film and Director from David Fincher’s The Social Network but I am happy about the home win (Yay Britain!).

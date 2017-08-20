@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201107181209-felix-dsc_0021.jpg"
-image_caption: >
-  This year's Summer Ball
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201107181209-felix-dsc_0021.jpg"
+image_caption: ""
 ---
 
 Management accounts from Imperial College Union show that this year’s Summer Ball made an estimated loss of £100,000.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206031707-felix-umami---ped-mekham.jpg"
-image_caption: >
-  Cromwell Road's Umami offers a unique and peaceful atmosphere
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206031707-felix-umami---ped-mekham.jpg"
+image_caption: ""
 ---
 
 There’s no way you can stand another lunch at Queen’s Tower, or the Library Cafe, or even the JCR after your exams. It’s just unacceptable! If you feel that life at Imperial has become monotonic (and at the moment your mind thinks of functions) then you need a getaway. Today we’ll present you with an alternative choice.

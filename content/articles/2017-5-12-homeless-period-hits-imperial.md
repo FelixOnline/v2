@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121823-felix-17039277_1275990769149131_8994981921398345635_o.jpg"
-image_caption: >
-  The Homeless Period Imperial week
-image_attribution: "Manuel Martinv"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121823-felix-17039277_1275990769149131_8994981921398345635_o.jpg"
+image_caption: ""
 ---
 
 ICU has opened a branch of The Homeless Period, an initiative lobbying government to provide a yearly allowance to homeless shelters for the provision of female hygiene products to shelter seekers. The founders of the initiative believe that just as access to condoms and razors is facilitated for men by these institutions, access to clean clothes as a result of access to female hygiene products should not be a luxury.

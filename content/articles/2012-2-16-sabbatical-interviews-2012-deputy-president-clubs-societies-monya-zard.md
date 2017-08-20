@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162307-sjw209-monyazard.jpg"
-image_caption: >
-  Deputy President (Clubs & Societies) Monya Zard
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162307-sjw209-monyazard.jpg"
+image_caption: ""
 ---
 
 __What have you enjoyed most?__

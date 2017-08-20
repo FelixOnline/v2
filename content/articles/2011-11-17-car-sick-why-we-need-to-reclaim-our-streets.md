@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172137-felix-luke-sheldon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172137-felix-luke-sheldon.jpg"
+image_caption: ""
 ---
 
 Our streets are currently being occupied by aggressive, murderous, polluting inhabitants: cars. They are effectively environmental squatters. Unfortunately, whereas the criminalisation of squatting, [which was voted through the Commons the other week](http://www.insidehousing.co.uk/tenancies/govt-releases-plans-to-criminalise-squatting/6518624.article), will throw thousands of the most vulnerable in our society onto the street, it will do nothing to solve the environmental and social ills of cars. However, as it’s [Green Week](http://www.imperialcollegeunion.org/news/green-week-2011,424,ICUNS.html) and all, I’m taking this opportunity to explain why we don’t need them (which hopefully won’t be too difficult as west London is the most congested area of London I cycle through).

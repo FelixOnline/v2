@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082052-ams111-thames_hub_vision22-1.jpg"
-image_caption: >
-  Promo shots for the latest Grand Theft Auto game were met with a lukewarm critical response
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082052-ams111-thames_hub_vision22-1.jpg"
+image_caption: ""
 ---
 
 Ever since its conception, the future expansion of Heathrow airport has been the topic of discussion of many a government. Generations of our ‘representatives’ have used the topic to their political gain, including the current coalition, who opposed the famous 3rd runway to help them garner support in the leafy west London suburb of Richmond Park. Now worry not, this is not an article about government policy; you’ve had enough of those from me for a while. Instead, I’d like to take a moment to outline what is possibly the most exciting, and vital project for kick-starting the UK’s failing economy: the Thames Hub.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
-image_caption: >
-
-image_attribution: "Mitesh Patel"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
+image_caption: ""
 ---
 
 The government’s planned changes to university funding are anything but inconsequential. Protests and sit-ins have sprung up at universities around the country, but the anger does not seem to have reached Imperial in any significant way. Walking around campus, the only signs of opposition to these changes are a few discreet posters. Indeed, the Imperial Student Union’s Council recently [voted to broadly support the Browne review](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html), which proposes lifting the tuition fee cap for home students.

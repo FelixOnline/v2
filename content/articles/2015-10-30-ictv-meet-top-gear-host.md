@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301446-ygr12-screen-shot-2015-10-28-at-23.30.30.png"
-image_caption: >
-  Evans attempting a kind of Blair Witch - James Bond edition type thing
-image_attribution: "ICTV"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301446-ygr12-screen-shot-2015-10-28-at-23.30.30.png"
+image_caption: ""
 ---
 
 ICTV’s Jonathon Masters and Hasan Al-Habib managed to wangle a YouTube gem at the Spectre premiere: an interview with Chris Evans.

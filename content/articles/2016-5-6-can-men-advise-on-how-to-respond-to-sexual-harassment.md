@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061050-felix-Meghan-Trainor-NO_01.jpg"
-image_caption: >
-  Sometimes “no” isn’t all you gotta say.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061050-felix-Meghan-Trainor-NO_01.jpg"
+image_caption: ""
 ---
 
 Picture the scene: A friend of yours has just told you about an experience of theirs, one in which they experienced discrimination, and they’re pissed off.  Why did they tell you? So you could explain to them how their reaction to the situation was wrong, right?

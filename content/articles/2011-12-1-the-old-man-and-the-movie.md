@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was Tuesday and I found myself having a beer in [Brinkley’s](http://www.brinkleys.com/brinkleys.asp), the louche Chelsea eatery and favourite Hugh Grant haunt, and I was surrounded by middle-aged desperate housewives. They were botoxed and dyed blonde and high-heeled. It was then that I became engulfed in a peculiar Hemingwayesque malaise. It was then that I realised just how depressing desperate housewives are. It was then that I noticed there are too many cheerless people busy gold digging and lust searching at the same time when the two appear to be incompatible. They demonstrate that romance is dead in all too many marriages.

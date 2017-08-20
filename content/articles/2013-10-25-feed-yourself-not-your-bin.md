@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250205-felix-food_foodwaste.jpg"
-image_caption: >
-
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250205-felix-food_foodwaste.jpg"
+image_caption: ""
 ---
 
 How much food do we throw away? Well, a quick survey in the EEE Level 5 labs shows that as students, we try to eat everything we buy in our shop. Unfortunately students only make up about 4% of the UK population, and Tesco has revealed earlier this week that it generated almost 30,000 tonnes of food waste in the first 6 month of 2013. Just to put that into perspective, that is just over 1500 new Boris buses full of passengers, each eating 2 Weetabix biscuits and drinking a litre of milk.

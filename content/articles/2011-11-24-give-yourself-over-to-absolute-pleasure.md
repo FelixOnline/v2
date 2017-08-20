@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242248-felix-rocky-horror-feature.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242248-felix-rocky-horror-feature.jpg"
+image_caption: ""
 ---
 
 I’m a Rocky Horror Picture Show virgin. Or, at least, I was a Rocky Horror Picture Show virgin until last Thursday, when my innocence was taken from me in a flash of lingerie, transvestitism, and hilarious heckling. [Musical Theatre Society](http://mtsoc.co.uk/) provided the girls, guys, and the pizazz, while [iCU Cinema](http://union.ic.ac.uk/arts/cinema/) provided the film that’s built a rock-solid cult following since 1970s.

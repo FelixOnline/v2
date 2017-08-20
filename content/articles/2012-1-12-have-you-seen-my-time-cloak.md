@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122212-cac111-student_sleeping_in_lecture_theatre_is0266n4p.jpg"
-image_caption: >
-  Still the best way to escape from truly awful lectures
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122212-cac111-student_sleeping_in_lecture_theatre_is0266n4p.jpg"
+image_caption: ""
 ---
 
 Yes, you read right: time cloak. But what is this mysterious device? Well, it works to conceal an event in time. This is not just science fiction; experiments and investigations have been carried out to show that such a cloak might actually be a possibility.

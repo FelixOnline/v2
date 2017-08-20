@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041840-ks607-allblack.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041840-ks607-allblack.jpg"
+image_caption: ""
 ---
 
 The New Zealand Rugby Union team, commonly known as the All Blacks across the world, came for a quick visit and training session in Ethos on Monday afternoon. According to Sport Imperial, the team did not wanting to publicise their visit; despite this, the sports centre was swamped with enthusiastic students and their camera phones, as well as journalists from Sky.

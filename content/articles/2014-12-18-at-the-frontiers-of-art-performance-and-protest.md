@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In recent years, the idea of revolution and protests has barely left the public consciousness, or our TV screens. From the Arab Spring across Syria, Libya and Egypt to the recent protests in Ferguson and New York against police brutality, protest has spread to all corners of the world.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291645-ff712-1102.jpg"
-image_caption: >
-  Who wouldn't want a large bronze dog in their house...
-image_attribution: "Hand Gestures PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291645-ff712-1102.jpg"
+image_caption: ""
 ---
 
 A meditative exploration of craftsmanship and the passion of artisans, _Hand Gestures_ takes a long, slow look at the work of Fonderia Artistica Battaglia, a foundry located in Milan, that has been making bronze sculptures for the last century. The technique they use, lost-wax casting, goes back even further, to the 4th millennium BC. This information, about the technique and the foundry is shown at the beginning of the film, and then for 77 minutes we are left alone, with the craftsmen and a sculpture.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312354-tna08-1507.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312354-tna08-1507.jpg"
+image_caption: ""
 ---
 
 I’m sure you’ve all heard the phrase ‘two heads are better than one’. Seems pretty obvious, right? By this logic, it follows that three heads are better than two, four better than three and so on. Unfortunately, when it comes to startups, the equation is not quite so simple. Finding the right team is a very long and difficult task, and one mistake could jeopardise the entire business. Ed Catmull, co-founder of Pixar, summarises it perfectly: “If you give a good idea to a mediocre team, they’ll screw it up. But if you give a mediocre idea to a great team, they’ll make it work.”

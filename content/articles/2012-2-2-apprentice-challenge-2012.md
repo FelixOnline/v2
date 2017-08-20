@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Whilst many students were having a lie-in on Saturday 21 January, the 16 students selected to participate in the 2012 Imperial Apprentice Challenge arrived at the Business School, complete with suits, laptops, and determination, ready to conquer the challenges organised by the Imperial Entrepreneurs society.

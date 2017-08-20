@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021458-felix-14256652138_c9aaf7417f_b.jpg"
-image_caption: >
-
-image_attribution: "The Royal Opera House | Bill Cooper 2014"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021458-felix-14256652138_c9aaf7417f_b.jpg"
+image_caption: ""
 ---
 
 Despite the pre-existing Manon by Jules Massenet, Puccini chose to write another opera based on the story of Manon Lescaut, defending his decision thus: “a woman like Manon can have more than one lover.” The sentiment is not untrue; by turns passionate, coquettish, and mercenary, Manon is a character who captivates both the audience and her fellow protagonists on stage.

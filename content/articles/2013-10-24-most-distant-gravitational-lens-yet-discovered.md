@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250052-felix-lbt_seip.jpg"
-image_caption: >
-  The Large Binocular Telescope, one of the world’s most advanced, saw first light in 2005
-image_attribution: "Stefan Seip (TWAN)"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250052-felix-lbt_seip.jpg"
+image_caption: ""
 ---
 
 The most distant example of a gravitational lens has been discovered by scientists in Germany. The large galaxy, 9.4 billion light years away from us, focuses light towards the earth, like a sort of cosmic telescope, enabling us to detect another smaller, more distant galaxy that would normally be too dim for us to pick up. But the unexpected discovery of this smaller galaxy has puzzled the astronomers behind the research, at the Max Planck Institute for Astronomy in Heidelberg.

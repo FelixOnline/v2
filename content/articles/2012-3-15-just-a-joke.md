@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Let me ask: what have you personally done to prevent rape recently? If you’re a man, the answer is hopefully “not raped anyone.” If you’re a woman, the answers will be many: avoiding dark places at night, avoiding walking alone, taking a taxi rather than public transport, not making eye contact with people in the street, keeping away from groups of men or calling a friend to make sure that they got home safely. This is only considering the relatively rare case of people being raped by strangers in the street, compared to the much more common crime of being raped by someone you know or someone you’ve just met in a social situation, which requires its own preventions: not getting too drunk, not taking drugs at a party, watching one’s drink, and avoiding going to social events without close friends. Men reading this might be shocked at such measures: surely all of that’s not necessary?

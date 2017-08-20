@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
+image_caption: ""
 ---
 
 Tor many, life has been normal so far; most have attended school, the lucky progressing onto university, the majority then graduating. However, I realised the next 10 years of my (professional) life could creep up on me as quickly as the last 16 years, during which time I was being unwittingly conveyor-belted along an education system and churned out into real life. I felt like doing something different, just for a while.

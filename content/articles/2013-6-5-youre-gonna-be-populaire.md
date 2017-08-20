@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051319-tna08-romain-duris-and-déborah-françois-in-populaire.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051319-tna08-romain-duris-and-déborah-françois-in-populaire.jpg"
+image_caption: ""
 ---
 
 Back in the day, it was every woman’s dream to become a secretary; to assist and travel with powerful men, filing away important papers, typing up documents, taking calls and receiving messages etc. It was the best job any woman could ever dream of, and it would appear this trend was also in style in 1950s France.

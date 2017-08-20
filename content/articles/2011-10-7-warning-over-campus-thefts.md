@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110070149-felix-5169407837_8dc7a09ffb-(1).jpg"
-image_caption: >
-  A genuine police warrant card also features imprinted braille
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110070149-felix-5169407837_8dc7a09ffb-(1).jpg"
+image_caption: ""
 ---
 
 Imperial College is a fantastic environment in which to study and most staff, visitors and students will never experience crime whilst on the campus. However, some will and it is my job to deter crime, provide crime prevention advice and investigate reported crimes, along with my colleague Community Support Officer, Paul Stratford. Imperial College has an ‘open door’ policy and some non-sensitive areas are unlocked during working hours and accessible to the public. This affords unhindered passage for all but can attract criminals. Keeping your property with you at all times is probably the best way of keeping them safe. I often walk around the campus and see laptop computers, mobile phones and bags left unattended, not just inside the buildings but also in the garden areas. The in-house security team is very effective at collecting these items and storing them in the security office, but some are stolen. This can lead to a complete loss of a student’s work, which can be devastating. The same advice is pertinent to offices: if you keep your laptop computer or digital camera in the office, ensuring it is under lock and key is the best way of keeping it safe.

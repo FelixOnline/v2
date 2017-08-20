@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201307151714-jal08-thilanga-kasun-iddamalgoda.jpg"
-image_caption: >
-  Dr. Thilanga Iddamalgoda - a rather blurry fellow
-image_attribution: "LinkedIn"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201307151714-jal08-thilanga-kasun-iddamalgoda.jpg"
+image_caption: ""
 ---
 
 Dr. Thilanga Iddamalgoda, a former Clinical Research Fellow at Imperial was arrested in August of last year in Trafalgar Square after plain clothed police officer PC Tiffany Anderson noitced his suspicious behaviour. Upon further examination it was discovered that Dr. Iddamalgoda, a former Senior House Officer in Cardiothoracic Surgery had been secretly filming up women's skirts in Trafalgar Square, taking videos of women's thigh, chest and groin regions on his iPhone. One of these videos included footage of the legs of the arresting officer, who was horrified to find the video of herself on his phone. Following his arrest Dr. Iddamalgoda accepted a caution at Charing Cross Police Station for outraging public decency.

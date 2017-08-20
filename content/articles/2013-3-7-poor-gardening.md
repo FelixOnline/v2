@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Another week another issue. This week has been absolutely shattering. In fact, I am so tired that when I came into work today (Thursday) I put on my scarf, went to the door, then turned around and looked for my scarf as I thought I had lost it. It’s just been one of those weeks. Work, sleep, eat: barely time for relaxing at all. This is actually being written on a bus into College, just to prove that point.

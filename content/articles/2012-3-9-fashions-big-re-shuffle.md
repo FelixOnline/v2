@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203090052-felix-fashion-people.jpg"
-image_caption: >
-  First row: Slimane, Pilati, Sander, Simons Second row: Jacobs, Kane, Ackermann, Galliano
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203090052-felix-fashion-people.jpg"
+image_caption: ""
 ---
 
 As a month of high-fashion draws to an end with yards of lace, cashmere and leather erupting lavishly off the Paris catwalks, the unavoidable fact is that a tornado of names is what belies the centre of its storm.

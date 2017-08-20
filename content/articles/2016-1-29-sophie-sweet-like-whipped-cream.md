@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602011702-cet13-sophie1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602011702-cet13-sophie1.jpg"
+image_caption: ""
 ---
 
 Over the last few years, **SOPHIE** (the stage name of Samuel Long) has played many times in London and around the world. I’ve been lucky enough to see him twice. This time he played at Village Underground, one of London’s most hip venues. With each successive live performance he has debuted new material to the audience and each time a new song is debuted the reaction is the same: pure unadulterated joy.

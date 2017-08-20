@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201191945-ams111-screen-shot-2012-01-18-at-00.14.57.jpg"
-image_caption: >
-  Career routes following the completion of a PhD, as published in the 2010 Royal Society report
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201191945-ams111-screen-shot-2012-01-18-at-00.14.57.jpg"
+image_caption: ""
 ---
 
 In the age of privilege, when very few attended and graduated from university, achieving the degree of Doctor was a rare feat even amongst the educated. Doctors were revered in many of the royal courts of Europe and granted privileges reserved only to the highest peers of the realm: in Spain, France, the Holy Roman Empire and Portugal, doctors were exempt from uncovering their heads in the presence of the sovereign, and were allowed to address Him without previous questioning. Even the awarding of such PhDs was performed differently – these were not, for instance, awarded after a dissertation had been submitted, but instead granted to honour the academic career of the holder who, for one reason or another, had been deemed sufficiently distinguished as to deserve a doctoral degree. PhDs were thus intimately linked to academia – to the point that they were seldom awarded out of it – and doctors inevitably pursued academic careers because it was the only way of being awarded such degrees in the first place.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As the results of a feasibility study that will determine the future of [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) still remain to be announced, an [e-petition](http://www.change.org/petitions/imperial-college-save-the-holland-club-2) in support of its continuation has received nearly 400 signatories at the time of writing.

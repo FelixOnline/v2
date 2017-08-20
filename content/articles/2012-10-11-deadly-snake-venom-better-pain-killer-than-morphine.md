@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112145-csw09-snake.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112145-csw09-snake.jpg"
+image_caption: ""
 ---
 
 Few of us associate the black mamba, one of the world’s most venomous snakes, with pain relief.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406021407-felix-r-herring_1318271c.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406021407-felix-r-herring_1318271c.jpg"
+image_caption: ""
 ---
 
 Richard Herring is one of the best British comedians. Fact.

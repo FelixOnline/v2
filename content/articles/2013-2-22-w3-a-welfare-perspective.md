@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220140-tna08-milliband.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220140-tna08-milliband.jpg"
+image_caption: ""
 ---
 
 It’s the topic of the moment – [the new halls that Imperial College London Council has approved in W3, North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/). Some of you may have been following the Twitter hashtag #AgainstActon, seen the info about the campaign on the Union website or read Paul Beaumont’s blog post (opposite article). I’m going to assume you know the basics, but here is my lowdown on why I think the halls in W3 will have some pretty serious consequences for the welfare of the students who get allocated these halls.

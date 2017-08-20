@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290217-ps3110-screen-shot-2015-05-29-at-02.16.06.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290217-ps3110-screen-shot-2015-05-29-at-02.16.06.png"
+image_caption: ""
 ---
 
 A 3D model of a 425 million year old fossil of a sea creature has allowed researchers to obtain the first examples of Invavita piratica (invading pirate) an ancient ancestor of a lung parasite called Tung Worm, sometimes found in humans.

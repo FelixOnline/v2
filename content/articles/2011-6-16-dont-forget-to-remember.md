@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m a bit embarrassed. Y’see, you’ve caught me at quite an inopportune moment. I was going to write this letter on something important, I’m sure of that. The only thing is... I can’t remember what I was going to write about. You don’t happen to know, do you? Wait! Hah, got it! Memory, that’s what it is.

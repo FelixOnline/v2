@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 First off, I’m not a natural coffee drinker. Fair enough, unless your mother had a very peculiar physiology while breast-feeding, none of us are natural coffee drinkers. My point is, if given a choice, I would rather pick a pot of peppermint tea than choose a cafetiere of cappuccino. This puts me in a very adversarial relationship with the various coffee-shop chains on the high street. First among equals in my derision of them is Starbucks.

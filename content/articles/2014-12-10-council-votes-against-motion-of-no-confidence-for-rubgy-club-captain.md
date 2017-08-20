@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412101513-ps3110-edited_council.jpg"
-image_caption: >
-  Council met to discuss the sanctions against Hobson
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412101513-ps3110-edited_council.jpg"
+image_caption: ""
 ---
 
 Union Council saw the motion of no confidence against Imperial College Union Rugby Football Union (ICURFC) Club Captain rejected Tuesday evening.

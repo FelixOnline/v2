@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220232-tna08-cottagefromms.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220232-tna08-cottagefromms.jpg"
+image_caption: ""
 ---
 
 With each passing year, the Artsfest annual exhibition increases in importance. This show is the result of a collaboration between two of the largest arts societies on campus: Leonardo Fine Arts society and Photographic society. Last week, Rocio Molina gave us an insight into the trials and tribulations of putting on an exhibition. What was the outcome?

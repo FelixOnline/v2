@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Unknown Mortal Orchestra’s self-titled 2011 debut album did a great job of soundtracking my Freshers’ Week with its warm fuzzy tones. I’m now midway through my second year, and UMO have returned with an album that is fresh yet nostalgic. Quite a few of its songs offer more than just a nod to the psychedelic rock of the 1960s, whilst dealing with themes of withdrawal and isolation.

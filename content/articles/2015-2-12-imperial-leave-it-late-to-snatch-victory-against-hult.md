@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122259-jyg11-js30759917.jpg"
-image_caption: >
-  An artist's impression of the challenging conditions the 7th XI faced at the weekend
-image_attribution: "Steve Porter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122259-jyg11-js30759917.jpg"
+image_caption: ""
 ---
 
 Last Saturday IC 7s faced off against Hult International Business School 2s in Victoria Park. The day got off to a bad start when Giles Wane decided he would miss the meeting time altogether after his alarm just decided it would not go off that morning. The tube journey to Victoria Park took us past all of the great sights of London, including Whitechapel, a place where one of the team feels more comfortable and cosy than anywhere else in London.

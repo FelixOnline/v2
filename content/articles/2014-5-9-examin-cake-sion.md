@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405091658-jal08-food_custard.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405091658-jal08-food_custard.jpg"
+image_caption: ""
 ---
 
 Who doesn’t like cake? Even Latvia’s entry to this year’s Eurovision was all about this sweet, fluffy and tasty food! It is a wide misconception to think cakes are hard to bake and it takes up a long time. But we are here to prove that wrong.

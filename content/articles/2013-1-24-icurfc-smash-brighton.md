@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
-image_caption: >
-  Rugby didn’t give us any pictures so we dug this up from Facebook
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
+image_caption: ""
 ---
 
 It has been well over 8 weeks since ICURFC have taken the field. This winter the bitter English weather has been brutal but this gave the team time to heal up and, in some cases, fatten up. A very strong squad took the two hour trip to Eastbourne, home of sun seeking pensioners and apparently Brighton rugby. We travelled through rain and snow to be greeted by a pitch that had seen better days.

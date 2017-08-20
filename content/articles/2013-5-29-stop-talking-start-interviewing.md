@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291616-tna08-shaa_wasmund.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291616-tna08-shaa_wasmund.jpg"
+image_caption: ""
 ---
 
 __Ananya Das: You have a fantastic entrepreneurial career, have there been moments when you needed ‘A Kick in the Pants’ similar to in Stop Talking, Start Doing? If so, who or what did you turn to for a bit of encouragement or motivation?__

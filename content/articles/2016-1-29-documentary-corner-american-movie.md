@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290930-felix-american-movie.jpg"
-image_caption: >
-  “Coven, man, we gotta get this sucker done, though.”
-image_attribution: "American Movie PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290930-felix-american-movie.jpg"
+image_caption: ""
 ---
 
 It’s not often you see a documentary split opinion in such a love-it-or-hate-it fashion. I suppose that is something that comes with ‘cult film’ territory, and personally, when I think of the label of ‘cult classic’, _American Movie_ is the first film that comes to mind. The star here is Mark Borchardt – an amateur filmmaker who has spent his whole life trying to inspire his family and slacker friends to fund, star in, and help produce a short horror film ‘_Coven_’. He does this in order to garner interest and money, eventually allowing him to produce his magnum opus ‘_Northwestern_’.

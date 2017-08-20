@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Proudly possessing one of the most ridiculous tour kits seen at Imperial, 32 members of Imperial College Hockey Club will be touring Malaysia this July. Following last year’s fantastic trip to Slovenia and Croatia, where much amusement was had on overnight trains, and the opposition ranged from under-fifteen internationals to casual mixed teams, the tourists will be travelling further afield to Kuala Lumpur, the Cameron Highlands, and Penang. In Slovenia and Croatia, there were Roman ruins, sun, and enormous cocktails – Malaysia seems more likely to provide jungles, beach and temples.

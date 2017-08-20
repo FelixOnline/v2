@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Union’s Higher Education policy will go to a referendum later this year, after Union Council felt unable to make a decision without further consultation. Students will have the opportunity to choose from three funding models: free education, graduate tax and the current tuition fee loan system.

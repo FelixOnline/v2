@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021455-felix-Screen Shot 2017-06-02 at 14.54.57.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021455-felix-Screen Shot 2017-06-02 at 14.54.57.png"
+image_caption: ""
 ---
 
 None of my friends from home have mental health problems. This is in small-town, rural Wales, where knowing about the wider world isn't really a thing, and buzzwords like self-care and mindfulness might as well be in a totally different language, or are laughed at from behind a veneer of defiant stoicism. This isn't to say that some people in my hometown don’t suffer like my friends in London, but certainly more of them claim to be happy. Maybe it’s the country way of life, or maybe it's the lack of awareness that all too often leads to self-diagnosis and, like a self-fulfilling prophecy, misery.

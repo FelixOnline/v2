@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross will also be joined by Imperial’s Professor David Southwood – Chair of the Royal Astronomical Society and patron of the SF Foundation. Organised by the Science Fiction, Fantasy and Gothic Horror Society and currently in its thirty first year, the theme of the convention this time round will be ‘Survival’.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The annual Centre for Doctoral Training (CDT) Festival of Science will be happening on Friday 13th June 2014 in the SAF lecture theatres. It is a chance for CDT students to come together to organise and present a showcase of current science and scientific issues to the Imperial College London research community.

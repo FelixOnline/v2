@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603231423-jc7413-queenvictoria.jpg"
-image_caption: >
-  Nigerian wood carving of Queen Victoria herself.
-image_attribution: "Collection of Michael Graham-Stewart"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603231423-jc7413-queenvictoria.jpg"
+image_caption: ""
 ---
 
 The power of Empire has been increasingly on my mind since moving to London; wandering around this beautiful city I can’t help but wonder how many of the buildings were funded by the spoils of Empire, and how much of that money was acquired at the expense of others. I was intrigued, therefore,when I heard about the Artist and Empire exhibition at the Tate Britain, which promised a view of Empire through a new lens: that of the artist.

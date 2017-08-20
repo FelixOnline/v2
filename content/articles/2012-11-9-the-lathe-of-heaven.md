@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091320-tna08-pressphotolathe5.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091320-tna08-pressphotolathe5.jpg"
+image_caption: ""
 ---
 
 There are few SF and fantasy authors who have won as many awards as Ursula Le Guin. For over 40 years she has been well known for writing thought provoking, intelligent stories and she is fast becoming one of my favourite authors. Having thoroughly enjoyed reading her Earthsea series of novels last year I decided to finally try one of her science fiction offerings and so turned to The Lathe of Heaven.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101447-felix-IMG_20170215_154942.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101447-felix-IMG_20170215_154942.jpg"
+image_caption: ""
 ---
 
 It’s been an amazing couple of weeks for women’s rugby, with three consecutive wins, all the hard work this season has really started to pay off. Most recently with a glowing 69-10 win over Kingston and a 38-5 win against Roehampton the week before, propelling Women’s Rugby into the South-Eastern Conference Cup Semi-Finals.This improvement can in part be attributed to the decision to focus solely on the BUCS league, and the organisation of weekly weight lifting sessions to supplement their training.

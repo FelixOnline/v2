@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150244-felix-ibussch.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150244-felix-ibussch.png"
+image_caption: ""
 ---
 
 Brevan Howard - the third largest hedgefund in the world, has made a historic £20.1 million donation towards the set up of ‘The Brevan Howard Centre’ at Imperial College London. The centre is set to be “one of the most important centres for financial research in the world” according to Mervyn King (former governor of the Bank of England) and will be based in Imperial’s renowned business school.

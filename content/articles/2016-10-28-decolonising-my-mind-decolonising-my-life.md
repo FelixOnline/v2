@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
-image_caption: >
-
-image_attribution: "Gerald Jackson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
+image_caption: ""
 ---
 
 Last Tuesday I watched a viral video showing Social Justice Warriors (SJWs) at the University of Cape Town, South Africa, decrying science as racist because it was developed by European scientists and isn’t applicable to Africa. Also, magic is real and science cannot explain how witch doctors can call down lightning bolts from the sky. When one scientist in the audience said that it wasn’t true, the SJWs berated and scolded him until he apologised. They ended by saying that people should decolonise their minds and reject Western modernity.

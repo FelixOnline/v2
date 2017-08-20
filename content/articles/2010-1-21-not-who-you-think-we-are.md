@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001212124-rsp07-SalmanHa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001212124-rsp07-SalmanHa.jpg"
+image_caption: ""
 ---
 
 Shockwaves of anger and relief reverberated across the world on Christmas Day 2009 as the news of Umar Farouk Abdulmutallab’s failed bombing of Northwest Airlines Flight 253, en route from Amsterdam to Detroit.

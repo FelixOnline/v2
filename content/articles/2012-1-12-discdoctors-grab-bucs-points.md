@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
-image_caption: >
-  Well, you can tell it’s the indoor nationals
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
+image_caption: ""
 ---
 
 On Friday 25 November, 11 of Imperial College discDoctors’ finest men embarked on a campaign to compete against the other 15 best university indoor teams in the country. It was the weekend of Open Indoor Nationals and it carried the potential for discDoctors (dD) to earn some BUCS points for Imperial College.

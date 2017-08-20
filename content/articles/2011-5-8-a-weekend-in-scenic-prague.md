@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105081424-felix-prague.jpg"
-image_caption: >
-
-image_attribution: "Maksim Mijovic"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105081424-felix-prague.jpg"
+image_caption: ""
 ---
 
 “Not many people know this, but the Nazis had lined the tunnels underneath Prague with dynamite and were prepared to destroy it as they retreated in the face of the Red Army. Were it not for a small group of Russian monarchists who opposed them for 5 days and managed to foil the plot, all of Prague’s beauty wouldn’t exist.” We sipped our tea as Miloš continued his story. “And are they remembered today? There’s a small memorial to them, about knee-high, somewhere in the city. That’s justice for you.”

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232049-felix-hypnosis.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232049-felix-hypnosis.jpg"
+image_caption: ""
 ---
 
 “It got to the stage of desperation, I tried GPs, neurologists, psychiatrists and other types of psychotherapists... it was purely because I was out of any other choices that I tried it.”

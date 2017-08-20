@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051322-tna08-byzantium09.jpg"
-image_caption: >
-  The same meal every single day must get boring
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051322-tna08-byzantium09.jpg"
+image_caption: ""
 ---
 
 In this day and age when vampires of fiction are all-powerful, untouchable creatures, it’s undeniably refreshing to have a more human spin on the ever popular genre. Plus it’s an extra bonus point to not have to endure a cring inducing love subplot between an immortal and mortal – what we get here is something entirely different – a more patient, slow-burning approach to telling a familiar but not at all predictable story of supernatural beings we can’t ever stop hearing about no matter what.

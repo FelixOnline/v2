@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Dark, very intense, balanced, unique, mysterious, delicate and smooth with a strong character, body and deep sensual aftertaste. [Or at least that’s how the ladies in the Nescafé Nespresso adverts put it ](http://www.youtube.com/watch?v=DfyeXrdZZ1o)(much to the disdain of George Clooney). Indeed, not much compares with the pleasures of an early morning espresso.

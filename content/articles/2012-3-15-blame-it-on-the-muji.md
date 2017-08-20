@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
-image_caption: >
-  The cost-cutting decision to construct open toilets in one corner of the exhbition was not widely we
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
+image_caption: ""
 ---
 
 The events that took place on 11 March 2011 in Japan were a wake up call for many people. 20,000 died and hundreds of thousands were stranded without homes. This major disaster served as an eye opener for Japan: it made people appreciate the everyday things that surround us and those moments that make up day-to-day living. The earthquake raised questions about the increasing concerns around excessive consumption of goods and sustainability.

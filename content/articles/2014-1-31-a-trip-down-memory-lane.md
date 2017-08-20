@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401311735-jal08-sci_chknfh-neuron1.jpg"
-image_caption: >
-  Rat neurons stained with a green chicken antibody
-image_attribution: "NASA, ESA, J. Lotz Space Telescope Science Institute (STScI)"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401311735-jal08-sci_chknfh-neuron1.jpg"
+image_caption: ""
 ---
 
 Have you ever wondered why we tend to remember some things more than others? Our nervous system is a highly organised, complex system of neurones (units that communicate via electrical signals), their dendrites (highly branched outgrowths) and support cells called glia (involved in processes such as maintenance and protection). It is estimated that the human brain contains around 86.1 billion neurones, with some capable of having up to 400,000 dendrites.

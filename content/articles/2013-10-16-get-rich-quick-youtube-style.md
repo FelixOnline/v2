@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310161456-me1711-tech_ymoney.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310161456-me1711-tech_ymoney.gif"
+image_caption: ""
 ---
 
 All of you spend a significant amount of your life on youtube, be it watching handy tutorial videos, lets-plays, music videos and/or videos of cute-ass kittens (the last being the most time intensive). However have you ever wondered why some of these Youtubers, more often than not just average Joe’s, actually do it? Yes of course they are all kind, considerate people who really just want to entertain you, but apart from that have you ever thought, what’s in it for them? Cash. Cold, hard cash. Youtube makes money from ads, and so that they encourage more clicks/views, they need to share some of the loot.

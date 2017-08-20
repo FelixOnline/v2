@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231754-jyg11-hubble-andromeda-picture.jpg"
-image_caption: >
-
-image_attribution: "NASA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231754-jyg11-hubble-andromeda-picture.jpg"
+image_caption: ""
 ---
 
 The Hubble space telescope has taken the highest resolution image ever made of a galaxy. The image is so detailed that it’s possible to resolve individual stars in a 61,000 light-year wide panorama.

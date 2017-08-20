@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182200-felix-disappoint-man.jpg"
-image_caption: >
-  Tweezer shortage affects Wayne Rooney
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182200-felix-disappoint-man.jpg"
+image_caption: ""
 ---
 
 The current exhibition at the Royal Festival Hall at the Southbank Centre consists of paintings, poetry, sculptures, textiles, and videos by offenders, secure patients, and detainees.

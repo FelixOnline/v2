@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312355-tna08-siliconvalley-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312355-tna08-siliconvalley-copy.jpg"
+image_caption: ""
 ---
 
 When it comes to the crunch explaining what ‘Silicon Valley’ actually represents – ask yourself – do you really have a clear understanding? For most of us, I suppose the influence from popular social media tools and cool high tech gadgets will probably relate us to multinational corporations like Facebook, Microsoft and Google which have offices situated in that region of San Francisco. Perhaps this amount of information is more than enough to bore some of the more ignorant ones about tech-based entrepreneurship – but honestly, Silicon Valley’s history and its place at the forefront of innovation and enterprise has more than what meets the eye.

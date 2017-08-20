@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Imperial College Healthcare Trust, which runs five London hospitals including St Mary’s and Charing Cross. has announced the appointment of a new Chief Executive. High profile Australian healthcare administrator Dr Tracey Batten will take up the position at the start of April. This follows the resignation last October of Mark Davies, who was widely credited with making large improvements to the Trust’s financial situation. The post of interim Chief Executive has since been jointly held by former medical director Professor Nick Cheshire and former chief financial officer Bill Shields.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092153-felix-0101_005.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London/Jan Chlebik"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092153-felix-0101_005.jpg"
+image_caption: ""
 ---
 
 The Union has criticised the College’s decision to [cut ties with the science lobby group CaSE](http://felixonline.co.uk/news/1291/imperial-cuts-ties-with-case/), calling the decision “cynical” and suggesting that the Union itself could affiliate with the group independently.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102319-csw09-queens-squash.jpg"
-image_caption: >
-  IC Squash in action....one day
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102319-csw09-queens-squash.jpg"
+image_caption: ""
 ---
 
 Rich people tend to lavish their money on fast cars, helicopters and yachts. Portable glass squash courts, though, are surely the ultimate display of status and wealth. The court can be assembled at the drop of a hat (well… within three weeks) at whatever location the owner fancies. Which means that he can perfect his backhand on palm tree-lined beaches, practise his reverse-drive on top of the Sydney Opera House, and delight the crowds in St. Peter’s Square…

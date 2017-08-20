@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What’s in a name? Probably some erotica, as the name is “The Vibrator Play”. Unquestionably the play lives up to its name, with a certain amount of overt sexual content. But In the Next Room or The Vibrator Play is also much, much more than a bawdy comedy or theatrical pornography. American playwright Sarah Ruhl has created a piece that deals with the most intimate of human relationships: husband and wife, doctor and patient, woman and confidante, mother and child, man and woman.

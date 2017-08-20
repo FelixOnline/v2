@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After record numbers of applicants to university this year, [figures released by UCAS](http://www.ucas.com/about_us/media_enquiries/media_releases/2010/211010) have shown that a staggering 30.4% of students have not managed to secure a place.

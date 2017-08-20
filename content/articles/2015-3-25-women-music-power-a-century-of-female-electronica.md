@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251233-ff712-rvngnl24_pic_print_0021a.jpg"
-image_caption: >
-  Experimental composer Holly Herndon, renowned for her combination of the synthetic and organic
-image_attribution: "RVNG Intl"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251233-ff712-rvngnl24_pic_print_0021a.jpg"
+image_caption: ""
 ---
 
 Recently, an image has been widely circulated on Twitter, showing what the Reading/Leeds 2015 lineup would look like if all the male-only bands were removed. Published by the music blog _Crack In The Road_, it makes for a grim indication of the modern music industry; a wealth of band names has instead become a sea of vibrant yellow, like an garish alarm warning us, “there is a problem”. This year, 89.6% of the festival’s lineup consists of solo men, or all-male bands; remarkably, this isn’t actually that bad – feminist organisation _female:pressure_, a collective of musicians and artists pushing for equality, have stated that “nowadays, a 10% proportion of female artists can be considered above average”. Although we are now 15 years into the new millennium, it seems that festival organisers, music promoters, and – indeed – many arts journalists are still stuck in the last century.

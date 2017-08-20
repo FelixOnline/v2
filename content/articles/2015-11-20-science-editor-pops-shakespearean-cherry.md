@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200941-ygr12-henryv.jpg"
-image_caption: >
-  There’s something awfully disconcerting about this image – why no real horse?
-image_attribution: "RSC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200941-ygr12-henryv.jpg"
+image_caption: ""
 ---
 
 Although I can’t say I’ve ever been called uncultured, I’m still a cultural virgin in many respects. I’ve never gone to the ballet, and my last brush with opera resulted in a 3rd act power nap (it was four hours long and in French, just saying). I’ve also never picked up Shakespeare, let alone sat through one of his plays. So when Max procured a ticket for Henry V, I took the opportunity and popped my Shakespearean cherry. As expected it was dramatic. (Zing!)

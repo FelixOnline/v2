@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022023-ac1507-Looky.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022023-ac1507-Looky.jpg"
+image_caption: ""
 ---
 
 This heavily travelled part of the world offers great variety in the potential circuits suited to the varied tastes of the people you meet out there: if you want to stay well off the track it’s more than easy to do so, or you can hop on and off the track as and when you please, as I did. Some people prefer the somewhat more reductionist ‘circuit’, bouncing between Thailand’s infamous full moon parties on Koh Phangan and tubing in Laos’ Vang Vieng.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It has emerged that the decision to [cut Imperial’s £3,000 per year membership](http://felixonline.co.uk/news/1291/imperial-cuts-ties-with-case/) of the Campaign for Science and Engineering (CaSE) was made by the College’s [Management Board](http://www3.imperial.ac.uk/secretariat/governance/committees/managementboard).

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After two consecutive number two albums and massive sets supporting both Eminem at Reading and Prodigy at Creamfields, Chase & Status have become one of the few dance acts with a crossover appeal large enough to play an arena tour in support of their most recent album, Brand New Machine. Whereas Pendulum or Prodigy did extended runs of late shows at Brixton Academy during the heights of their respective popularities, Chase & Status’ show at a venue that hosted One Direction for nine sold-out shows earlier this year produced some bizarre contradictions, such as MC Rage encouraging fans to rave late into the night despite an 11pm curfew and £5 drinks.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182049-jyg11-kate-bush.jpg"
-image_caption: >
-
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182049-jyg11-kate-bush.jpg"
+image_caption: ""
 ---
 
 No one else thinks it’s the end of the year, but we’re going to summarise the best, worst and most important moments in music of this year. So while you spent the year locked in labs, cramming or pretending to do your FYP, you might have missed the following.

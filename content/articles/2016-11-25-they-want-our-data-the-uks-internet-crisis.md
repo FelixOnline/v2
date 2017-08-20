@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251333-felix-Screen Shot 2016-11-25 at 13.33.47.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251333-felix-Screen Shot 2016-11-25 at 13.33.47.png"
+image_caption: ""
 ---
 
 Edward Snowden said that “Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.” And, while we may have nothing to hide here at felix, we have plenty to say.

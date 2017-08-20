@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291149-felix-16. Strange and Familiar, Curated by Martin Parr, Barbican. Photo Tristan Fewings_Getty Images.JPG"
-image_caption: >
-  Strange and Familiar is a unique take on the British way of life.
-image_attribution: "The Barbican Art Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291149-felix-16. Strange and Familiar, Curated by Martin Parr, Barbican. Photo Tristan Fewings_Getty Images.JPG"
+image_caption: ""
 ---
 
 It is often said that familiarity breeds contempt. While that may not be true in life all the time, in photography at least, introducing a new observer to a tired scene can definitely produce some fresh perspectives. It is with this notion that British photographer Martin Parr curates _Strange and Familiar: Britain as Revealed by International Photographers_, a photography exhibition of British subjects by foreign photographers. Known for his work scrutinising all manner of British clichés, Parr now turns his attention to what Britain might look like to an outsider.

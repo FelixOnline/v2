@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505261509-js5913-beyond-caring.jpg"
-image_caption: >
-  Phil (Sean O’Callaghan) and Grace (Janet Etuk) in Beyond Caring at the National Theatre.
-image_attribution: "Timeout"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505261509-js5913-beyond-caring.jpg"
+image_caption: ""
 ---
 
 The house lights don’t dim at the start of _Beyond Caring_. That’s the first thing that went through my head. That, rapidly followed by “hang on, have we even started?” It’s a unique and bold use of the __Temporary Theatre__, and an instantly striking re-opening for the __National’__s fourth theatre. Formerly known as __The Shed__, the Temporary Theatre wasn’t even meant to be here anymore. But here we are, at the start of a new season of innovative and exciting works.

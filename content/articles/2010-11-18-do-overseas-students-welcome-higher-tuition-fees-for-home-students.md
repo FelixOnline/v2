@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Proposals to increase the tuition fee cap to £9000 per year for EU and home students were attacked by over 50,000 students protesting on the streets of London last week. However, the opinions of one particular group of students who also have a stake in this matter have mostly been ignored..

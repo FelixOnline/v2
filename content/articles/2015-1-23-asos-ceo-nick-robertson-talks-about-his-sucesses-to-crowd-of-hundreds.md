@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
+image_caption: ""
 ---
 
 On Monday, an event hosted by the Imperial Entrepreneurs society (IE) saw Huxley flooded with students hoping to see ASOS co-founder and CEO, Nick Robertson, give his insight into the success of his company. As the queue of hopeful students extended onto the Sherfield walkway, members of IE handed out flyers “guaranteeing” entry to the event.

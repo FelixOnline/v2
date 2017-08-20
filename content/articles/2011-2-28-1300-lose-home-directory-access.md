@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282118-ks607-disconne.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282118-ks607-disconne.jpg"
+image_caption: ""
 ---
 
 A problem arising while moving user data between server disks last week resulted in the temporary outage of over 1300 student and staff profiles. The problem began on the morning of Monday 21st February, when staff and students found that their home directory was empty and that they had no profile settings. As a result, the default guest profile was used and the affected users were met with no desktop background or access to files on the Home Directory (H:/).

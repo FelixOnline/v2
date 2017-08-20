@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s late. My eyes are red from fear and concentration. The only light in the room comes from my desk lamp as I burn the midnight oil, stooped over my desk. The floor around me is littered with scrumpled wads of paper. Discarded ideas. Each one would have worked, they would have worked fine. But fine isn’t good enough – this has to be perfect. My girlfriend’s birthday is coming up and everything must go just right.

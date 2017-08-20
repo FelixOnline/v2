@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A miserable day befell Harlington, but a bright spirit dawned upon it - a historical rivalry that stretches back many a year. The result of this fixture would be a precursor to the sacred Varsity match.

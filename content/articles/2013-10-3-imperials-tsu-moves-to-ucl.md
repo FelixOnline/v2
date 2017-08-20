@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310032359-jal08-news_students.jpg"
-image_caption: >
-  The move to UCL comes despite continued petitions by TSU students which were supported by the Union
-image_attribution: "Google Plus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310032359-jal08-news_students.jpg"
+image_caption: ""
 ---
 
 On Wednesday 2 September, Imperial and University College London officially announced that the Translation Studies Unit (TSU) at Imperial will be moving to UCL.

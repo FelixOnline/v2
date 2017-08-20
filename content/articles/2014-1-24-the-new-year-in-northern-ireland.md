@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __T__hose who complain that British politicians lack principles should look to Northern Ireland. There is surely no other part of the UK where so many political leaders have such stupid, boring and ultimately harmful principles. Take Edwin Poots, Northern Ireland’s Health Minister, who has spent £37,000 of taxpayer money on his legal efforts to ban gay men from donating blood and £57,000 trying to prevent civil partners from adopting, citing homosexuality as “an illness”. This is the Health Minister.

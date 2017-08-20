@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012125-ams111-sleeping-puppies.jpg"
-image_caption: >
-  Are you getting enough sleep? We're certainly not, but these guys are...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012125-ams111-sleeping-puppies.jpg"
+image_caption: ""
 ---
 
 Every student faces the eternal dilemma: balancing work, having a social life and sleep. On average, we humans spend a third of our lives sleeping. So what is sleep and is it really that important?

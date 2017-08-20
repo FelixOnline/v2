@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
+image_caption: ""
 ---
 
 Facebook is taking over the world. From the dorm-run social network exclusive to Ivy-Leaguers six years ago, today it boasts over 500 million users worldwide. That’s 13.7% of the world population.

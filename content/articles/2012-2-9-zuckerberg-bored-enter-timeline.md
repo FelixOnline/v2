@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092217-pk1811-blog-facebook-logo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092217-pk1811-blog-facebook-logo.jpg"
+image_caption: ""
 ---
 
 Tell your life story with a new kind of profile. Or so the marketing material goes. The latest revamp of the Facebook profile page has divided opinion among many people and it has not been embraced by as many people or as widely as Mark Zuckerberg would have wanted. These changes are possibly more far-reaching than any single modification to our favourite social network in its entire history. Like it or not, they will be made compulsory for everyone within the next month.

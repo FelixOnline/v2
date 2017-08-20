@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In January 2011, when Egypt’s political landscape was marred by widespread distrust in President Hosni Mubarak’s regime the citizens of Egypt took to the streets with zeal for new hope and better governance. Protests were bolstered by the involvement of youth and there was a unanimous demand for transfer of power. Today, in 2014 young secular Eqyptians voicing opinions against the military are languishing in jails at the mercy of a coup which once enjoyed their outright support.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Just in case you are wondering if your eyes are being weird or not: they aren’t. This week is the closest we get to a Valentine’s issue, so I changed the colour of the top bit and the drop cap to red. How romantic.

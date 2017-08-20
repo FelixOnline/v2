@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291504-tna08-parthenon.jpg"
-image_caption: >
-  Not quite, but Comment is nearly as good
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291504-tna08-parthenon.jpg"
+image_caption: ""
 ---
 
 There are people out there that are highly critical of the ethos of Imperial College and its approach to academic pursuits. Some individuals from outside the institution find it ‘lacking’ in certain qualities. They often attempt to draw parallels between ourselves and the University of Oxford or the University of Cambridge. Be it the lack of stunning architecture, the skewed gender balance or its unrealised ‘brand’ they choose to draw upon every negative fathomable and consider us gauche, unrefined and imbalanced. This provides the Raison D’être of Felix Comment; Imperial College needs to utilise every voice possible in order to ward off and rise above these criticisms. Every voice matters. Your voice matters.

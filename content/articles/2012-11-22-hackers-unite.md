@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
+image_caption: ""
 ---
 
 ackathons are magical. Hackathons are non-compulsory, unpaid, but last long enough to warrant overtime pay and a day off in a normal corporate environment. Yet somehow participants are highly engaged, and manage to produce creative solutions in a much tighter timeframe. Why do Hackathons work? What is the differentiating factor from regular work?

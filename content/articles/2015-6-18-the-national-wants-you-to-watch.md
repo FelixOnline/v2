@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182215-jyg11-jpeg-1-abbi-greenland,-helena-lymbery-and-helen-goalen-photography-by-richard-davenport.jpg"
-image_caption: >
-  Abbi Greenland, Helena Lymbery and Helen Goalen in We Want You to Watch at the National Theatre.
-image_attribution: "Richard Davenport"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182215-jyg11-jpeg-1-abbi-greenland,-helena-lymbery-and-helen-goalen-photography-by-richard-davenport.jpg"
+image_caption: ""
 ---
 
 Following on from _Beyond Caring_ in the __National__’s__ Temporary Theatre__, _We Want You to Watch_ is the latest venture from producing trio RashDash, written together with Alice Birch.

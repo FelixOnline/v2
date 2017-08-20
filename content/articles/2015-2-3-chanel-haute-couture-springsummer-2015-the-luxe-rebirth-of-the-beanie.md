@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
+image_caption: ""
 ---
 
 On Tuesday, Karl Lagerfeld pushed the boundaries of haute couture fashion yet again at the Chanel haute couture fashion show. The exclusive catwalk event was held at the Grand Palais in Paris, with attendees ranging from the likes of Hollywood starlets like Kristen Stewart, to French femme fatales Vanessa Paradis and Charlotte Gainsbourg.

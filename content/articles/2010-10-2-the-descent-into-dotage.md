@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010021304-ck806-gambon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010021304-ck806-gambon.jpg"
+image_caption: ""
 ---
 
 One actor, no more than a few minutes of monologue and the rest tape recordings. Combined with little action and the ponderous nature of Samuel Beckett’s plays, Krapp’s Last Tape doesn’t necessarily promise the most easy going of theatre experiences. Michael Gambon (no introductions necessary) plays the decaying and decrepit Krapp – a role previously played by Harold Pinter – in a version directed by Michael Colgan at the [Duchess Theatre](http://www.duchesstheatre.co.uk/).

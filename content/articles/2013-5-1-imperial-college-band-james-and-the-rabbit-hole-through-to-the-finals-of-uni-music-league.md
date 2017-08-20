@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012039-tna08-james.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012039-tna08-james.png"
+image_caption: ""
 ---
 
 Uni Music League is a unique project that has hit the UK with a bang. Acting as a support system for up-and-coming student musicians and bridging the gap between the unsigned world and the professional music industry, Uni Music League is the UK’s biggest student-based music competition. The immense prize package which James and the Rabbit Hole from Imperial College are hoping to win is an EP recording deal with Metropolis Studios, the opportunity to perform at the Wilderness Festival, support slots at KOKO, full PR campaign and professional photography shoots. Yes, it really is a dream prize for any up and coming musician…

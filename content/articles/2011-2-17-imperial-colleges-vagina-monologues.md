@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171858-nm1010-vaginamo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171858-nm1010-vaginamo.jpg"
+image_caption: ""
 ---
 
 Yikes, despite the title, I didn’t exactly realise that this was going to be exactly what it says on the tin. Eve Ensler’s all female and always controversial The Vagina Monologues saw an adaptation by DramSoc on three nights last week as part of SHAG Week events, and the taboo busting subject matter had me shifting uncomfortably in my seat.

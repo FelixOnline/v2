@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
-image_caption: >
-  Noel takes particular care when framing his shots
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
+image_caption: ""
 ---
 
 With universal song lyrics, occasional falsetto vocals and a collection of sing-along anthemic choruses, to an extent [Noel Gallagher’s High Flying Birds](http://www.youtube.com/watch?v=kFx_IniNjfE) contains all the ingredients that have characterised his later Oasis contributions.

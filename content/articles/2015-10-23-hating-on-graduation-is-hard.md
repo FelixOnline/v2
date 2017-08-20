@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
-image_caption: >
-  Angry Grad (not pictured) looked peng.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
+image_caption: ""
 ---
 
 Graduation day. Supposed to be a milestone, right? One of the happiest days of your lives, some people (morons) say. Well, not if I, the Angry Grad, have anything to do with it.

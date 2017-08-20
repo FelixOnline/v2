@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So, for those of you who actually read these colour-anemic boxes, last week I put up a vote for which simulator game I should play and review. I had a deluge of emails telling me to try the ‘social life’ simulator and that I should get out of the Felix office, but the joke’s on them – I’m dead inside anyway. I chose to give the Bus & Cable Car Simulator – San Francisco a spin, as I felt like seeing the sights and sounds of a hustling and bustling bay city.

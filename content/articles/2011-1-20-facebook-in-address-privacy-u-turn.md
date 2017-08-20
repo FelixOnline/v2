@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Facebook was forced to beat a hasty retreat over the previous week as plans to allow third party access to user phone numbers and addresses caused strong concerns among security experts, even before the feature was fully rolled out. Less than 72 hours after a blog post announced the new capabilities, another posting was made stating that the capabilities were ‘temporarily on hold’ until required changes were made to the system.

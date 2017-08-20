@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261153-felix-1401x788-Screen-Shot-2015-10-23-at-8.49.50-AM.jpg"
-image_caption: >
-
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261153-felix-1401x788-Screen-Shot-2015-10-23-at-8.49.50-AM.jpg"
+image_caption: ""
 ---
 
 Lately there’s been some strong comic book TV adaptations debuting, ranging from the gritty atmosphere of _Daredevil_ to the fun and colourful world of the _Flash_. Marvel’s _Jessica Jones_ manages to bring another successful, while at the same time different, mood to the table. Focusing on the more shady side of the Marvel Cinematic Universe, the show has very much a noir feel to it.

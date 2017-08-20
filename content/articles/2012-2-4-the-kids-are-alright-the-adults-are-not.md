@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202041713-felix-winslet-carnage-polanski.jpg"
-image_caption: >
-  Kate ﬁnally regrets letting go of that expensive blue diamond necklace in Titanic...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202041713-felix-winslet-carnage-polanski.jpg"
+image_caption: ""
 ---
 
 __Carnage__

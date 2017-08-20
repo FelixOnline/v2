@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020203-jal08-1574---beit-quadrangle.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020203-jal08-1574---beit-quadrangle.jpg"
+image_caption: ""
 ---
 
 This week saw another session of Union Council, the body of elected representatives that create and approve policies that shape the views and the functionality of the Union. The week saw another inquorate session of Council, during which the body was unable to vote effectively on papers due to poor attendance.

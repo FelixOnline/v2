@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192117-pk1811-dazed-and-confused-exhibition-at-somerset-house-london.jpg"
-image_caption: >
-  Dazed? Confused? Our caption writers are
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192117-pk1811-dazed-and-confused-exhibition-at-somerset-house-london.jpg"
+image_caption: ""
 ---
 
 It is odd to think that around the time of my birth, some 20 years ago, Jefferson Hack and John ‘Rankin’ Waddell were on the brink of producing the first issue of what was to become one of my favourite magazines during my late teens and beyond. Granted, _Dazed & Confused_ started as a rather low-key black and white fold out poster, but it almost inevitably gained momentum and acclaim, with Rankin’s prolific photography and Hack’s keen eye for talent, making it one of the leading creative publications in the world. It is not least because of this that as I crossed London to view a showcase of the _Dazed_ story, my expectations were set exceedingly high.

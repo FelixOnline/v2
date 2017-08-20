@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101416-felix-11912982694_4bd45dd89f_o.jpg"
-image_caption: >
-
-image_attribution: "William Warby"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101416-felix-11912982694_4bd45dd89f_o.jpg"
+image_caption: ""
 ---
 
 If you’re a fresher, welcome to Imperial! If you’re a returning student, welcome back. Right now it’s only been a week or so of University so things are probably still feeling pretty relaxed. You’re just going through introductory lectures, there’s no coursework to be on top of, and you’ve basically just been chilling, partying and having some fun.

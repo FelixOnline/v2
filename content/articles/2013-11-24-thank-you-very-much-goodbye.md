@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Thursday 16th November 1989, a sixteen-year-old took guard in his first innings for India and faced one of the most feared bowling attacks in the world. He was dismissed by fellow debutant Waqar Younis for 15, but everyone knew that there was something special about this schoolboy – the youngest ever test cricketer at the time.

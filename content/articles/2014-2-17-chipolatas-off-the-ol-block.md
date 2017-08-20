@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This Valentine’s Day, Felix pays homage to our own population with a closer look at the food that has become one of our running jokes/characteristics...at our expense. Well if you can’t beat them, join them! And in true Hugh Fearnley-Whittingstall’s Three Good Things style - or well, thinly veiled saucy references - we include two veg suggestions with each sausage. Mmm mmm.

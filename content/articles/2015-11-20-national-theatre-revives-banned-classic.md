@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200937-ygr12-4.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200937-ygr12-4.jpg"
+image_caption: ""
 ---
 
 Waste is true to the name, a play about dashed hopes and broken dreams. It’s a damnably English affair.

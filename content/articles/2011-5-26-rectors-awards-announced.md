@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
-image_caption: >
-  Dr Jane Saffell: 'Outstanding Innovation in Teaching'
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
+image_caption: ""
 ---
 
 The recipients of the annual Rector’s Awards for Excellence in Teaching and in Research Supervision have been announced this week. The staff honoured range across departments and faculties and include two academics who were affected by the Life Sciences restructure.

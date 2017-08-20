@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205180650-felix-252_5289.jpg"
-image_caption: >
-  Wilson House, Paddington
-image_attribution: "Neville Miles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205180650-felix-252_5289.jpg"
+image_caption: ""
 ---
 
 Hall seniors at Wilson House have been left questioning the future of their traditionally guaranteed accommodation.

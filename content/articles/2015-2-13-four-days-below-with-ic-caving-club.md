@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131526-bwh12-pict3.jpg"
-image_caption: >
-  Rhys Tyers in a passage at –820m
-image_attribution: "IC Caving Club"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131526-bwh12-pict3.jpg"
+image_caption: ""
 ---
 
 Hey ho! Silence. We know what it means. Cavers returning. The kettle lets out a hisssss and gurgles. A tackle bag falls heavily on the floor and we all look up. “Hey ho!” And conversations resume, “Yes this word fits”, “What about fifteen down ?”, “Does it go?”, “Tea is up!”, “Where’s the cow ?”

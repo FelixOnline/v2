@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When asked about the suggestion that he would keep the flame of Thatcher alive, UKIP leader Nigel Farage said that the Iron Lady was right to reduce the size of the government. Farage is the “turkey who would vote for Christmas”, and is keen to downsize the public sector.

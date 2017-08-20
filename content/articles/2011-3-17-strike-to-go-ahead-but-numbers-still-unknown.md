@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The University and College Union (UCU) has officially confirmed that members at Imperial college will be striking on the 22nd and 24th of March. It is still unknown exactly how many lecturers will strike but around as of Wednesday 17th, a dozen had already declared their intentions to College, with more expected to follow.

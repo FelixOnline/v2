@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102110653-ks607-oysterso.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102110653-ks607-oysterso.jpg"
+image_caption: ""
 ---
 
 Is there any food more seductive than the oyster, with its shells brimming with succulent juices? Knowing where to look, the classic Valentine’s Day treat for grown-ups is cheaper than you’d think.

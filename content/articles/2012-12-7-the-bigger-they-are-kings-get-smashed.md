@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070305-tna08-hockeyweb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070305-tna08-hockeyweb.jpg"
+image_caption: ""
 ---
 
 Many of you may have read the article written by the Hockey Club Captain last week referencing the email written to the Imperial 2s captain by the KCL 1s captain. The email undoubtedly showed unsportsmanlike behaviour on the part of the KCL captain but also gave the 2s even more motivation to go out there and show KCL exactly what they are made of.

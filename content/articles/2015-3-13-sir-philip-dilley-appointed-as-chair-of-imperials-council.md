@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
-image_caption: >
-  Sir Philip will take over as Chair this May
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
+image_caption: ""
 ---
 
 Imperial alumnus Sir Philip Dilley will take over as Chair of Imperial’s governing Council this May. The leading engineer and businessman will succeed Baroness Manningham-Buller, who has been in the role since July 2011.

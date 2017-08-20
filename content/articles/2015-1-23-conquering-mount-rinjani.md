@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
-image_caption: >
-  An extra day brings you to the gorgeous lakeside completened with hot spring
-image_attribution: "Chris Richardson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
+image_caption: ""
 ---
 
 To the unacquainted, volcano climbing in the Indonesian archipelago might seem a little dumb, but in reality there’s only so much tanning and partying you can handle before you get the itch to do something a little more challenging. Having done my homework, I’d come to the conclusion that Mount Bromo on Java was a glorified tourist trap, and the two hour climb offered by Mount Batur on Bali wouldn’t really scratch my hiking itch. So I decided on Mount Rinjani on Lombok, a treacherous three day hike, to be completed before passing out on the neighbouring Gili islands.

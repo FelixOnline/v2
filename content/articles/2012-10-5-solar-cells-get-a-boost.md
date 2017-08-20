@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051257-nn1209-nl-2012-02796f_0005.jpeg"
-image_caption: >
-  Peak absorbance around natural light increases efficiency
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051257-nn1209-nl-2012-02796f_0005.jpeg"
+image_caption: ""
 ---
 
 Scientists at the University of California Santa Barbara have developed an improved method of generating solar electricity. Rather than making use of the photoelectric effect, this newly designed solar cell generates electricity while splitting water into oxygen and hydrogen gas. In the past, the main difficulty in building such cells has been finding a catalyst that isn’t simply oxidised by the highly reactive molecular oxygen involved in the process. Recent developments in the field of cobalt-based catalysts have now made them a more feasible alternative.

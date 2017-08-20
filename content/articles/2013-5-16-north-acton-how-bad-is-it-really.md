@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305171131-tna08-actonfinalpicture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305171131-tna08-actonfinalpicture.jpg"
+image_caption: ""
 ---
 
 At first sign, North Acton station appears prettier than most – there’s even a cherry tree in front of the ticket barriers. Travel time from South Kensington: 45 minutes 18 seconds. That’s 45 metric minutes at 60 seconds/minute, not these new 80 second imperial-Acton minutes that the college use in their 30 minute estimate for travel time.

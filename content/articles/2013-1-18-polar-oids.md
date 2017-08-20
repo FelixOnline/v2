@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180040-tna08-gull-fina.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180040-tna08-gull-fina.jpg"
+image_caption: ""
 ---
 
 The Wildlife Photographer of the Year exhibition always proves an exciting, engaging, and inspiring visit if the permanent NHM displays were not already enough.

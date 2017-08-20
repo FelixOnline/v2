@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162126-pk1811-dsc_2242.jpg"
-image_caption: >
-  Mick Fowler, not your conventional tax office resident
-image_attribution: "Arnaud Sors"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162126-pk1811-dsc_2242.jpg"
+image_caption: ""
 ---
 
 Ever sat in the Library, staring out of the window and wondering what else you could be doing? On the last day in January, [Exploration Society](http://www.union.ic.ac.uk/rcc/exploration/) helped fuel the imagination of adventure by hosting a talk by Mick Fowler.

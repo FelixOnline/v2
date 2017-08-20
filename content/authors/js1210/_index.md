@@ -1,7 +1,7 @@
 ---
 id: "js1210"
 title: Jegadeesh Sithamparathas
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""
 website_url: ""

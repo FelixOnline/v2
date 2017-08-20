@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
-image_caption: >
-  Prince Harry opened the Centre for Blast Injury Studies in 2013.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
+image_caption: ""
 ---
 
 Researchers at the Royal British Legion Centre for Blast Injury Studies have valued the cost of caring for members of the armed forces serving in Afghanistan who have lost limbs at just under £290 million.

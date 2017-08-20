@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232035-ams111-coco-chanel.jpg"
-image_caption: >
-  Oh Coco, smoking isn’t cool, it just sort of looks it. Damn
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232035-ams111-coco-chanel.jpg"
+image_caption: ""
 ---
 
 Anyone that knows me well will know that over the past few months I have fallen hopelessly in love. Forgive me for using such a tired cliché, but it really was love at first sight. Yes, since the moment I first clasped my eyes on a Chanel handbag, I was infatuated.

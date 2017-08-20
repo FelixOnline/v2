@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012110-felix-ucas_logo_rgb300.png"
-image_caption: >
-
-image_attribution: "UCAS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012110-felix-ucas_logo_rgb300.png"
+image_caption: ""
 ---
 
 The gap between the number of applicants to UK universities this year compared to last has widened. The [latest figures](http://www.ucas.com/about_us/media_enquiries/media_releases/2011/20111128) from the [Universities and Colleges Admissions Service](http://www.ucas.com/) (UCAS) reveal that the number of applicants for higher education courses has fallen by 12.9%, corresponding to over 23,000 people, compared to this time last year. Last month’s figures indicated a drop of only 9.0%.

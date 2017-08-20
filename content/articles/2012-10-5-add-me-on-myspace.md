@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051246-nn1209-myspace-new-cnyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051246-nn1209-myspace-new-cnyk.jpg"
+image_caption: ""
 ---
 
 After launching in 2003, MySpace was guilty of taking many of our social networking virginities by taking advantage of us being embarrassing teenagers while we posed, pouting in front of mirrors with a 1MP camera phone.

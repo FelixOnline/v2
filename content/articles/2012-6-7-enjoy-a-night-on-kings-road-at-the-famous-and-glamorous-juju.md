@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072000-ams111-food1.jpg"
-image_caption: >
-  Just like Made in Chelsea, but with a crippling lack of Francis Boulle
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072000-ams111-food1.jpg"
+image_caption: ""
 ---
 
 JuJu is an award winning bar located in the heart of glamorous Chelsea on King’s Road. It’s the ideal place for after work drinks or a pre-clubbing warm up. JuJu offers the finest cocktails in London, including the popular Pornstar Martini, mixed by undoubtedly brilliant bartenders. For the more “spendy” readers out there, you can also find an extensive list of wines and champagnes.

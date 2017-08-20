@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271951-ks607-bottlema.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271951-ks607-bottlema.jpg"
+image_caption: ""
 ---
 
 The Bottle Match was the decisive game for the Royal School of Mines. Win and R.S.M. would boast a 5-3 victory over their bitter rivals Camborne School of Mines following wins in golf, netball, squash and women’s hockey. Lose and the weekend of fixtures would be drawn at four apiece. None of the R.S.M. faithful would be content with sharing the spoils with C.S.M., especially if it meant losing out on the Bottle for the second year running.

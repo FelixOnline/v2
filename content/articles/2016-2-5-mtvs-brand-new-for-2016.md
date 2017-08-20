@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051238-felix-mtv"
-image_caption: >
-
-image_attribution: "Aiden Langan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051238-felix-mtv"
+image_caption: ""
 ---
 
 The second of MTV Brand New for 2016 showcases hit Camden’s Electric Ballroom on Wednesday 27th January, featuring up-and-comers **Nimmo** and **Rat Boy** alongside noughties indie legends **Bloc Party**.

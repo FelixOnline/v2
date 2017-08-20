@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121134-felix-battlefield.jpg"
-image_caption: >
-  The cast of Battlefield at the Young Vic.
-image_attribution: "Simon Annand"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121134-felix-battlefield.jpg"
+image_caption: ""
 ---
 
 I really wanted to like _Battlefield._ Usually, a statement like this foreshadows ruthless panning and heartless criticism, especially when it makes an appearance at the beginning of a review. But I shall try and be objective.

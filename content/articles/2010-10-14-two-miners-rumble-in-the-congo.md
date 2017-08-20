@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
-image_caption: >
-  A copper mine in the Congo
-image_attribution: "onlinenigeria.com"
-image_attribution_link: "http://news2.onlinenigeria.com/news/general/63673-Genuine-restitution-for-sports.txt"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
+image_caption: ""
 ---
 
 Last year, the Government of the Democratic Republic of Congo terminated the mining license of First Quantum Minerals, the Canadian owner of Kolwezi copper mine. This was a considerable blow for First Quantum, which spent US$750m developing the mine, a move that generated over a quarter of the company’s US$3bn profits in 2008.

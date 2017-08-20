@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
-image_caption: >
-
-image_attribution: "Lulla, Etsy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
+image_caption: ""
 ---
 
 It’s no secret that Brits are known for being HUGE tea lovers. Songs are written about it, many jokes (sometimes with vicars) are made on the subject – it’s a national institution. But do you know about the many benefits of tea? Thankfully they’re not all hard-to-stomach bitter brews; there are so many different types out there that there is bound to be one that you’ll come to really enjoy the flavours of.

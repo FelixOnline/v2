@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071734-felix-IMG_5846.JPG"
-image_caption: >
-
-image_attribution: "Ellen Zheng"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071734-felix-IMG_5846.JPG"
+image_caption: ""
 ---
 
 Avery bad presentiment seized us when we stepped into Grande halle de la Villette : one pint of Heineken cost seven euros and it seemed like Heineken was the only sponsor of the event. We went to see Flavien Berger, a French musician that neither of us had listened to before, but he somehow became the surprise of the day. His deep raspy voice melded with the funky beats and spaced out synths in an eccentric yet coherent way. As my friend Alicia, who just moved to Paris, got excited about the successful exploration of French music, we gradually forgot about booze issues and became confident that the level of soberness would not affect the experience at all.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102227-ps3110-img_0626_690x518.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102227-ps3110-img_0626_690x518.jpg"
+image_caption: ""
 ---
 
 I recently took a stroll down the online memory lane that is the _Felix_ archive, all the way back to the heady days of 1998. Times have changed.

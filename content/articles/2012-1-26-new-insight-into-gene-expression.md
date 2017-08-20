@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
-image_caption: >
-  Is this a sequence binding of proteins or did we print wrong?
-image_attribution: "B. Franklin Pugh, Penn State University"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
+image_caption: ""
 ---
 
 A new genomic sequencing method has been put into practice by Professor Franklin Pugh and graduate student Ho Sung Rhee, after development in Penn State University. The method, known as ChIP-exo, gives us an insight into the proteins that read and regulate chromosomes (transcription preinitiation complexes, or PICs) and was detailed in a paper published online in Nature.

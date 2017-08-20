@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141927-rsp07-fencing2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141927-rsp07-fencing2.jpg"
+image_caption: ""
 ---
 
 A week after the individual championships in Nottingham, the men’s first team drove up to Oxford for their initial round of Premiership matches. This was the first major test of the season, facing up to the Oxford, Cambridge UCL and Bristol teams.

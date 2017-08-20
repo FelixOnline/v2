@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162117-felix-linkedinipo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162117-felix-linkedinipo.jpg"
+image_caption: ""
 ---
 
 You might have still been running around your primary school grounds in the late 1990s, but the Internet was about to witness its largest market revolution. While Silicon Valley has seen its fair share of bubbles over the last decade, the [dot-com bubble](http://en.wikipedia.org/wiki/Dot-com_bubble) that marked the turn of the century was probably the most significant. Now economists warn us that a new bubble may threaten the stability of Internet-based companies: the initial public offering (IPO) bubble. And the first company to define it is [LinkedIn](http://www.linkedin.com/).

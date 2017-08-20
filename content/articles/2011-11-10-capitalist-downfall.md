@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102103-felix-capdown.png"
-image_caption: >
-  Caution: angles may induce torticollis
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102103-felix-capdown.png"
+image_caption: ""
 ---
 
 It’s an unusual setting for [Capdown](http://www.capdown.net/)’s final gig, skin heads and punks looking incredibly out of place in the theatrical grandeur of [KOKO](http://www.koko.uk.com/). For years these veterans of the UK ska scene (and perhaps the only good thing ever to come out of Milton Keynes) have toured the country’s basements, only now, at the end, getting the recognition and large scale venues they deserve.

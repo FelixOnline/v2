@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262155-pk1811-screen-shot-2012-01-25-at-08.09.02.jpg"
-image_caption: >
-  Could Kodak have a shot at survival?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262155-pk1811-screen-shot-2012-01-25-at-08.09.02.jpg"
+image_caption: ""
 ---
 
 Filing for bankruptcy… a Kodak moment” joked someone in an elevator at one of Goldman Sachs offices, according to the twitter account [@GSElevator](http://twitter.com/#!/gselevator). On Thursday 19 January, (ex) photographic giant Eastman Kodak Co. filed for Chapter 11 bankruptcy. Low on cash, unable to effectively sell its assets, the company hopes through this move to slash its debts and, by forcing larger technology companies to pay to use its patents, stay in business. Kodak is now calling for a $950m bankruptcy loan, a call which seems to have been answered by the Citibank lending syndicate.

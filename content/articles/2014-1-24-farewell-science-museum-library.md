@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week the Science Museum announced that they have come to a mutual agreement with College to relocate the Science Museum Library as part of a scheme that will create a new Science Museum research centre at it’s South Kensington site.

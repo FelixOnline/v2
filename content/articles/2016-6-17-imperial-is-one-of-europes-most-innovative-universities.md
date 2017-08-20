@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171052-felix-Imperial_West,_Launching_The_Vision,_Innovation_Sign.jpg"
-image_caption: >
-  Mmm, innovation.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171052-felix-Imperial_West,_Launching_The_Vision,_Innovation_Sign.jpg"
+image_caption: ""
 ---
 
 Thomson Reuters this week released a report listing the most innovative universities in Europe, with Imperial coming in 2nd on the list just behind KU Leuven in Belgium.

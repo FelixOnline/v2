@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
+image_caption: ""
 ---
 
 Travel is the only thing you can buy that would make you richer – there’s no denying that visiting a place in person brings history to live in a way that words never can.

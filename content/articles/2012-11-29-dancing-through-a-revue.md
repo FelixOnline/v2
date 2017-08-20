@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When I attended a run-through of MTSoc’s new production, Dancing Through Life, none of them suspected that I was in fact a theatre critic in disguise. This was probably because I occasionally make a somewhat convincing keyboard player. So convincing I’m actually playing in the show next week. None-the-less I had my critic’s hat on as I settled down to watch the performers for the first time.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042033-cj914-basketball_pic.jpg"
-image_caption: >
-
-image_attribution: "IC Basketball"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042033-cj914-basketball_pic.jpg"
+image_caption: ""
 ---
 
 Half-way through the season, and everything is extremely bright for Imperial College Basketball so far! The teams which entered the British Universities & Colleges Sport (BUCS) leagues have been performing outstandingly. The Men’s 1st team tops its league, and is still undefeated (just like the Philadelphia 76ers, only the other way round). The Women’s 1st and Men’s 2nd teams are respectively 4th and 2nd in their league.

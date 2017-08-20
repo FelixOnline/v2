@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Felix Travel](http://felixonline.co.uk/travel/) Editor Chris Richardson demanded that we listen to the Jamie xx/Gil Scott-Heron [remix album](http://en.wikipedia.org/wiki/We're_New_Here) in the office when it was released way back in February, but his orders fell on deaf ears; when I finally got around to it a few weeks ago, I felt quite the fool...

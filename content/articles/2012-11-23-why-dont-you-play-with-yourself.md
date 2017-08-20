@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230039-tna08-silver-linings-playbook-bradley-cooper-jennifer-lawrence.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230039-tna08-silver-linings-playbook-bradley-cooper-jennifer-lawrence.jpg"
+image_caption: ""
 ---
 
 For a man just released from the mental institution, Pat (Cooper) seems to have an alarmingly optimistic view on his future well-being. He is convinced his estranged wife, who has taken out a restraining order against him, will come back to him and he’s unafraid to try whatever he can to win her over. His strategy is to think positive. Because with all the good energy and vibe, he believes he has a shot at a “silver lining” (hence the title).

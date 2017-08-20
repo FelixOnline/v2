@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311241659-jal08-news_icu_bins.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311241659-jal08-news_icu_bins.png"
+image_caption: ""
 ---
 
 Last week Felix reported on College Campus Services’ decisions to change the campus cleaning services during a re-tendering of the cleaning contract. It transpired that one of the department’s decisions included reducing the frequency of cleaning in bedrooms and communal areas, at one stage justifying this by explaining this had enabled the potential more frequent cleaning of other areas such as Ethos and the Library Café.

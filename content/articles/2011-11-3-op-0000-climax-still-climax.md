@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
-image_caption: >
-  Operation Midnight Climax    getting BONED at the last Felix Music Night in June
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032053-pk1811-opmidclim-uncrop.jpg"
+image_caption: ""
 ---
 
 A lot has been said over the years about Operation Midnight Climax. Some have called them the saviours of rock music, others have called them evil space demons hell-bent on destroying humanity. I would say there is truth in both those statements.

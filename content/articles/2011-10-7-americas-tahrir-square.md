@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071100-felix-occupy_wall_street.jpg"
-image_caption: >
-  A group of New Yorkers angry at the lack of Starbucks on this block
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071100-felix-occupy_wall_street.jpg"
+image_caption: ""
 ---
 
 You may not have heard about it, but there is currently a mass protest in New York’s financial district. Named [#OccupyWallStreet](http://occupywallst.org/) after the Twitter hashtag, the protest against the banking industry started on September 17 and is scheduled to last until the protesters’ demands are met. Accusations of police brutality, however, have turned #OccupyWallStreet into a spark that is lighting fires of protest across America and Western Europe. So what are the demands of the protesters? How far will the protests spread? And is this the start of a social revolution?

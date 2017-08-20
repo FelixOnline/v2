@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091730-ea3211-9588609087_c4bb6c2232_k.jpg"
-image_caption: >
-  Expos are where the fun is at!
-image_attribution: "Sergey Galyonkin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091730-ea3211-9588609087_c4bb6c2232_k.jpg"
+image_caption: ""
 ---
 
 The biggest gaming event of the year is right around the corner; all the biggest gaming companies will be taking the stage to announce their plans for the upcoming year and showcase brand new games and consoles.

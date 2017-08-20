@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031607-felix-Screen Shot 2017-02-03 at 16.02.47.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031607-felix-Screen Shot 2017-02-03 at 16.02.47.png"
+image_caption: ""
 ---
 
 I have a complicated relationship with food. I think every fat person does. That isn’t to say I don’t also think that every woman or man who is impacted by the pressure of beauty standards also does – I do – but for a fat person it is subtly different. Being fat is the reason that we are perceived as greedy, lazy, stupid. Fat is the reason that we are told that we are not attractive, not desirable, not good enough. And food is predominantly the thing that causes that. Food is something that we need to consume, several times a day, but it is also something that is heavily associated with shame.

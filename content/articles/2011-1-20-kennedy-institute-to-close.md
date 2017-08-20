@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
+image_caption: ""
 ---
 
 The [Kennedy Institute of Rheumatology](http://www1.imperial.ac.uk/medicine/divisions/kennedy/), one of the world’s leading research centres in rheumatology, currently housed within the Faculty of Medicine of Imperial College will be relocated to Oxford University in what Felix has been told is a sensitive matter for the Faculty.

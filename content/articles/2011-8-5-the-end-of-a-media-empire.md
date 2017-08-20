@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201108051427-ma1307-kadhimandfamily.jpg"
-image_caption: >
-  Happier times
-image_attribution: "Vanity Fair"
-image_attribution_link: "http://en.wikipedia.org/wiki/File:Rupert_Murdoch_Wendi_Murdoch_2011_Shankbone.JPG"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201108051427-ma1307-kadhimandfamily.jpg"
+image_caption: ""
 ---
 
 Events of the past few weeks have shone a new light on how our media has been operated as a monopoly, with one arguably great but unquestionably evil man at its apex. With the disintegration of his empire, the question now facing all of us is how can the media change its ways of operating and still meet the need of its audience?

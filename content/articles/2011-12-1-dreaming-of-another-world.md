@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011934-ams111-animal_0050.jpg"
-image_caption: >
-  You should have seen this guy last night... he’s going to have to nap for a very long time
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011934-ams111-animal_0050.jpg"
+image_caption: ""
 ---
 
 Have you ever woken up the day after a night out and mentally recoiled in horror as you remember embarrassing things that you said or did under the influence of alcohol? Well, researchers at the University of California, Berkeley, have discovered a way to take the edge off those painful memories — all you have to do is nod off long enough to dream.

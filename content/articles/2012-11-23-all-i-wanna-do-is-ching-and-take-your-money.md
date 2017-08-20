@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
-image_caption: >
-  Photo by Benjamin Lester
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230001-tna08-2012-11-21-12.54.31.jpg"
+image_caption: ""
 ---
 
 Right now the NUS is congratulating itself on a job well done. Despite the rain it got ten thousand students out on the street, fights didn’t break out, there were enough placards to go around and the biggest cock up was when the President, Liam Burns, was egged and suffered a stage invasion by those who don’t like the NUS’s ‘moderate’ position. I’ll get to that in a minute.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Currently, experiments at CERN have halted, giving time for maintenance work and a renovation of its equipment to take place. It is set to continue its experiments in 2015, where the energy intensity of its collisions will be increase from 4 trillion electron-volts to 6.5.

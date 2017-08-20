@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
+image_caption: ""
 ---
 
 An under-used class of prescription drug for treating asthma is just as effective as conventional methods according to new research. Scientists, from the University of East Anglia, say pills containing leukotriene receptor antagonists (LTRAs) can provide an alternative to steroid-based inhaler treatments for mild forms of the disease.

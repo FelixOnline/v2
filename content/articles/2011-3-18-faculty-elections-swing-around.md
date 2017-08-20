@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Although the biggest results have already been announced this Tuesday for the Imperial College Union elections, election fever is far from over, with nominees vying for the votes for positions on the committees of the RCSU, CGCU and ICSMSU. All three unions are running their own election for members to choose a new committee to represent them for the upcoming academic year.

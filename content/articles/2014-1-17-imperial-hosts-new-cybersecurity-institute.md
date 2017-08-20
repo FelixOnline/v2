@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial is to host a new centre focussed on preventing cyber attacks against UK industry and infrastructure. The new centre will be artfully named the Research Institute into Trustworthy Industrial Control Systems and will focus on preventing cyber attacks on large infrastructure such as nuclear power and the national rail.

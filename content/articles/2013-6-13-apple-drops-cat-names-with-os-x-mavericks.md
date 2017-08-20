@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132353-tna08-applearticletechrgb.jpg"
-image_caption: >
-  Some of the key new features from OS X SeaLion? Clockwise from top left: Bookmark sidebar, Multiple
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132353-tna08-applearticletechrgb.jpg"
+image_caption: ""
 ---
 
 At WWDC 2013, Appleannounced the upgrade to the Mountain Lion operating system, OS X Mavericks. Based on the new features, it seems that Apple have placed a lot of focus on productivity and ease of use with this OS. Amongst hundreds of new features, the key things to take away from the new release are updates to Finder, Safari and improvements for users of multiple displays.

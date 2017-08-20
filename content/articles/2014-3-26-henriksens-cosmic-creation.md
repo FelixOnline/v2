@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403261651-jal08-arve-henriksen_2009.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403261651-jal08-arve-henriksen_2009.jpg"
+image_caption: ""
 ---
 
 This week, I’ve set out on a factfinding mission to discover whether the latest effort by __Arve Henriksen__, entitled _Cosmic Creation,_ lives up to its grandiose title. Despite the obvious spoiler of my review, I can tell you that my conclusion was that it does indeed live up to the title. Aside from not being the space rock odyssey that it sounds like, the album succeeds in not only being really good but also having a pretty ethereal – some might even say cosmic – air to it.

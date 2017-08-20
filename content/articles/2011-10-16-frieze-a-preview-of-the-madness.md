@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161531-felix-friezey.jpg"
-image_caption: >
-  “Who runs this mother?” I think yacht-buying millionaires might...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161531-felix-friezey.jpg"
+image_caption: ""
 ---
 
 The talk of the day at [Frieze Art Fair](http://www.friezeartfair.com/), from some grasped snippets of conversation, was a Yacht. It was, quite literally just a yacht that the artist Christian Jankowski was going to sign. Apparently this sort of thing is called “ready made art” and “the viewer gets to decide onwhether or not to consider it art”. How lucky for “the viewer” right? It is necessary to have a vast amount of cheek in order to get away with it. I was not convinced although, as someone very kindly put it, “Yeah… but you get the signature!”.

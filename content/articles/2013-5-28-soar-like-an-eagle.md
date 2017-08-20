@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
+image_caption: ""
 ---
 
 It is slightly perplexing for a few seconds. Laura Marling is a name seemingly sliding off everyone’s lips at the moment, yet still, seems to be unheard of to more than a fair few. Widely known but remaining anonymous, this enigma-like quality continues to run through her music, her fourth album being no exception.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
-image_caption: >
-
-image_attribution: "Ricardo Baeza-Yates"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
+image_caption: ""
 ---
 
 After finally recovering from my bout of food poisoning, we ventured out of the suburbs of Santiago and up through the drastically arid bush to the national park. Here we were able to see the Santiagans relaxing and socialising in typical South American fashion – as always, every day and night is a party.

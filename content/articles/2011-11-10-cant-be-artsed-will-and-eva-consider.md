@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102139-pk1811-ladywithermine.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102139-pk1811-ladywithermine.jpg"
+image_caption: ""
 ---
 
 It is always difficult, for unfathomable reasons, to make it to even the best of cultural events taking place in your own city. As a tourist, rushing around during a fleeting visit to the newest European cultural capital, visiting every museum in sight is merely second nature. But at home, with time on one’s hands, nothing. Perhaps it is the knowledge that museums will be there the following day, maybe offering a better student rate on Friday evenings to tempt you with. Except that on Fridays, relaxing seems to be the better idea. Or maybe going to galleries or attending concerts and plays appears to be too expensive to suit a student budget.

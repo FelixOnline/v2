@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292307-tna08-dangerous-planes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292307-tna08-dangerous-planes.jpg"
+image_caption: ""
 ---
 
 Flying is terrifying: trust me, I’ve tried it. And don’t bother trying to contradict me, because how could sitting in a metal can 30,000 feet up in the air not be scary?

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
-image_caption: >
-  The exhibition came with a face painting stand!
-image_attribution: "Tom Mutimer"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
+image_caption: ""
 ---
 
 Friday of last week, I had the pleasure of attending the Blyth gallery for the opening of a joint exhibition between Leonardo Fine Arts and PhotoSoc, titled ‘Confused Nursery’.

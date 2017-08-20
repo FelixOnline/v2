@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192348-cj914-clotho-girls.jpg"
-image_caption: >
-  Vivien Tang and Caroline Wood, AKA The Clotho Girls
-image_attribution: "Clotho"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192348-cj914-clotho-girls.jpg"
+image_caption: ""
 ---
 
 Clothes-swapping business Clotho, founded by Imperial graduates Vivien Tang and Caroline Wood, has been named joint winner of the Mayor of London’s Low Carbon Entrepreneur Prize.

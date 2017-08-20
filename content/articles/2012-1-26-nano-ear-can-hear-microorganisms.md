@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Is there something more we can learn from the sounds emitted by bacteria and viruses? Even though microbes cannot ‘speak’ in the way that animals can, scientists believe that there is a lot to learn from the noises produced when small organisms move around.

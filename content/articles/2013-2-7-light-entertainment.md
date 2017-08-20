@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072234-tna08-light.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072234-tna08-light.jpg"
+image_caption: ""
 ---
 
 In the centre of a large room in the Hayward Gallery, a cylinder made up of hundreds of glass tubes hangs from the ceiling. Contained withineach tube are thousands of tiny LED lights, which flicker on and off, creating an endless series of hypnotising patterns. Explosions of light burst out, only to fade and be replaced by an image of flickering stars, which grow in intensity before returning to darkness. This cycle repeats again, and again, and again, but is never quite alike; we never see the same image twice. This mesmerising piece by American artist Leo Villareal opens the Hayward’s latest exhibition, aptly titled Light Show, which explores how artists use the medium of light to create incredible, powerful and mind-boggling artworks.

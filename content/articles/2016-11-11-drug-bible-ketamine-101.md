@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111525-felix-Screen Shot 2016-11-11 at 15.25.07.png"
+image_caption: ""
 ---
 
 ## What it does

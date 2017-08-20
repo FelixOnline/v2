@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011729-rsp07-niqabwom.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011729-rsp07-niqabwom.jpg"
+image_caption: ""
 ---
 
 France, a country known mainly for cheese, wine, surrendering, gourmet food and the Eiffel Tower, is not a country I often praise. There is, however, one thing which I envy about France: the way the French Republic sticks to its principles – mostly.

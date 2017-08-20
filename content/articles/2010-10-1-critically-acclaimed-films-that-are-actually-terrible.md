@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
-image_caption: >
-  Badass, sure. But 'compelling'? Give me a break
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
+image_caption: ""
 ---
 
 We all know the importance of conversation while making friends in your first week, especially the pit-falls of trying to not to sound lame. However, in spite of your best efforts to be cool, some pretentious knobber will always have something smart to say in response to your movie opinions, usually by knocking whatever you say. Let’s call him [Mr Knock](http://www.felixonline.co.uk/?user=egk08), for example. Well, fear not Freshers, I have produced a cut-out-and-keep guide to four really powerful movie opinions that will leave you the winner in any conversation with Mr Knock.

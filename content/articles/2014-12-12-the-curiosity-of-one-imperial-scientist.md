@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
+image_caption: ""
 ---
 
 Imperial scientists working on the Curiosity Rover have revealed how water may have shaped the landscape on Mars. Sanjeev Gupta, a Professor of Earth Science from the Royal School of Mines, teaches multiple undergraduate courses alongside his work with NASA on the Rover, and was part of the team that made the discovery.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072004-pk1811-paladog.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072004-pk1811-paladog.png"
+image_caption: ""
 ---
 
 __[Paladog](http://armorgames.com/play/13262/paladog)__

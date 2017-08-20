@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162158-felix-jamiexx.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162158-felix-jamiexx.jpg"
+image_caption: ""
 ---
 
 For those of you paying any attention to the underground dance music scene here in London, there has been one true star to emerge over the past year, and that is the [Boiler Room](http://boilerroom.tv/); yet describing it isn’t easy. It’s not a club night because to get in you need an invite and it’s usually all over by 11pm. Rather, the whole event is more like a radio show, broadcasting over Ustream to thousands of people sat at their laptops (like I have done numerous times, wishing my life wasn’t so dull). Every week, the biggest names in the underground scene make it down to [Corsica Studios](http://www.corsicastudios.com/) in Elephant and Castle to play out to the lucky two hundred who got guest list, and to a few thousand internet fans across the world.

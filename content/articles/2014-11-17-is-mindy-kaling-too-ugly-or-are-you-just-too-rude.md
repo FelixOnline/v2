@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411171817-ps3110-the-mindy-project-4.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411171817-ps3110-the-mindy-project-4.jpg"
+image_caption: ""
 ---
 
 After an incredibly well received debut, praised by viewers and critics alike, what is happening with _The Mindy Project_? After a bumpy second season that brought threats of cancellations, the Fox Network decided to renew the sitcom for another series.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411141959-ps3110-newseventsimages.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411141959-ps3110-newseventsimages.jpg"
+image_caption: ""
 ---
 
 A team of students from the Department of Bioengineering have augmented a sports wheelchair in order to enable disabled athletes to re-right themselves back on their wheels after a crash. Jacqueline Beddoe-Rosendo, Bianca de Blasi and Simone Castagno developed the prototype during a UROP this summer, which caters to wheelchair basketball athletes and potentially other athletes of high-impact sports such as wheelchair rugby. The technology has been trialled with members of the London Titans wheelchair basketball team, who the team extensively consulted with over the course of the project.

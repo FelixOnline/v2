@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232059-felix-mick%20on%20sylvester.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232059-felix-mick%20on%20sylvester.jpg"
+image_caption: ""
 ---
 
 Decades after pit closures that claimed 170,000 jobs across England, coalfield communities continue to suffer from chronic arthritis, asthma and long-term back problems.

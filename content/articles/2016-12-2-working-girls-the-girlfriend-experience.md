@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021507-felix-15-girlfriend-experience-4.w750.h560.2x.jpg"
-image_caption: >
-
-image_attribution: "Starz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021507-felix-15-girlfriend-experience-4.w750.h560.2x.jpg"
+image_caption: ""
 ---
 
 This was an unusual show for a number of reasons. The show starts off fairly simple but slowly evolves into an intriguing drama with complexity and depth.

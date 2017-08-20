@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Science and the law have clashed again this week, and it seems that the US is adamant in attempting to inhibit scientific advances yet again in the name of public safety. This time, it is the geneticists that are under pressure, as Californian senators are attempting to pass a bill that could hinder on-going research into genetic diseases.

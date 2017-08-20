@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The completion of the Human Genome Project in April 2003 was a milestone in science. Ten years on, however, Bill Clinton’s prediction that it would “revolutionise the diagnosis, prevention and treatment of most, if not all, human diseases” is far from the truth. For all the project’s contributions to biology, little of this has translated into promised “personal medicine” treatments.

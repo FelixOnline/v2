@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232136-ams111-meet-me-in-st-louis.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232136-ams111-meet-me-in-st-louis.jpg"
+image_caption: ""
 ---
 
 A few of you may remember an article which appeared in Felix Music last term about a trampy man who played an acoustic gig on a boat. Well this man is about to have his Imperial fame replenished as this week I acquaint you with UK post-hardcore masterminds __Meet Me In St. Louis__.

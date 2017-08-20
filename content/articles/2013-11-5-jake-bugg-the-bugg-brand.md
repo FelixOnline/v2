@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I was lucky enough to get the chance to see Jake Bugg last Thursday at one of his three sold out gigs at the O2 Academy in Brixton. I’m only familiar with a handful of his songs, so I was actually quite surprised by his performance as a musician, singer and songwriter. Some people say he lacks charisma whilst performing, but I think they are confusing the word charisma with arrogance. Jake Bugg isn’t the kind of artist who needs to jump around the stage or smash a guitar to grab the audience’s attention; his music does that for him. Ok, so the only times he spoke in between songs were to thank the audience or to introduce the next song, but like the majority of the other audience members, I was there to enjoy his musical talent and that I certainly did.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171446-felix-Screen Shot 2017-02-17 at 14.46.45.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171446-felix-Screen Shot 2017-02-17 at 14.46.45.png"
+image_caption: ""
 ---
 
 From his images in National Media (and yes, those do require capital letters), it’s clear that Vladimir Vladimirovich Putin has a hard on for one man: himself. Whether he’s shirtless fishing, riding a horse, or killing a bear with his bare hands, Putin’s got a thing for being the manliest manly Russian man around. And right now he has the added advantage of being the shrewdest and luckiest foreign policy operator in the world.

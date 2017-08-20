@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271411-felix-141112_imp_careers_046--tojpeg_1453133537311_x1.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271411-felix-141112_imp_careers_046--tojpeg_1453133537311_x1.jpg"
+image_caption: ""
 ---
 
 The Union has resolved to put pressure on Imperial College to Improve Career Services. The decision came after Eric Suen, a third year medic raised the issue during Council last Tuesday.

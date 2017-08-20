@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 February 10th’s edition of Felix managed, in two articles, to highlight the issue of sexism at Imperial College, in two very different ways. One was a straightforward, serious article on the issue of sexism, while the other was the (now infamous) satirical “Hangman Guide to Get Laid”. Not surprisingly, perhaps, the reception enjoyed by these articles has been extremely different. But despite their differences, are the overall viewpoints of the articles really that dissimilar?

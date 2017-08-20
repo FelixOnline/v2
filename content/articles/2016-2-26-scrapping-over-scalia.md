@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261128-felix-Antonin_Scalia_2010.jpg"
-image_caption: >
-  The judge divided opinion.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261128-felix-Antonin_Scalia_2010.jpg"
+image_caption: ""
 ---
 
 Love him, hate him, agree or disagree with him, it is undeniable that US supreme Court Justice Antonin Scalia was one of the most divisive and outspoken American political figures of this generation. A gifted jurist and bastion of American conservatism, his aggressive style of questioning and acerbic put-downs of opposing opinion made him respectively loved and reviled by Republicans and Democrats of all stripes. His passing, while away at a luxury ranch in Texas, in many ways marks the end of a political era.

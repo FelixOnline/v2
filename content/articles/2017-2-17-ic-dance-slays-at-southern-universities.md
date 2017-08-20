@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171626-felix-ben & kerys.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171626-felix-ben & kerys.jpg"
+image_caption: ""
 ---
 
 Dancing is a sport? Of course! After months of intense training, IC Dance’s Ballroom and Latin Dancesport teams travelled to Cardiff last weekend for a clash of the southern universities. This is one of the most eagerly anticipated competitions of the year, a crucial step before the UK-wide competition in Blackpool at the end of February. Vying with universities as far as Exeter and Southampton (as well as the powerhouses Cambridge and Oxford), Imperial made an extremely strong showing, with dancers at all levels giving top-notch performances.

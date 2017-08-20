@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032036-pk1811-flcl-cartoon-image-character-31000.jpg"
-image_caption: >
-  Do you brandish your sword at me old chap?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032036-pk1811-flcl-cartoon-image-character-31000.jpg"
+image_caption: ""
 ---
 
 What can I say FLCL (pronounced fooly cooly or furi kuri)? Produced by anime powerhouses Gainax and I.G. Production, it’s certainly one the craziest pieces of fiction that I’ve ever seen.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 J.B.S. Haldane famously remarked: "the universe is not only queerer than we suppose, but queerer than we can suppose". As a geneticist and evolutionary biologist, Haldane believed that there are definite limits to human comprehension. He based this belief on the fact that our intelligence has evolved to help us overcome specific problems related to our survival. Thus, it has been argued, while our brains are well-equipped to tackle the sort of problems our ancestors had to deal with out on the African plains of the Pleistocene, they are, and will forever remain, woefully inadequate when it comes to truly understanding the universe.

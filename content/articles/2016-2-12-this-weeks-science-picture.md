@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121133-felix-12695610_10156453692850394_802890096_o.jpg"
-image_caption: >
-
-image_attribution: "Natasha Khaleeq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121133-felix-12695610_10156453692850394_802890096_o.jpg"
+image_caption: ""
 ---
 
 Guerilla Science held their V-Day event last Monday at The Book Club. The night titled ‘An Evening of Lust, Sex and Brains’  aimed at demonstrating how senses and brains react when people meet that special someone. Guests were to undertake several challenges based on scientific findings, all while advertising their arousal, holding up a ‘Turned off’ or ‘Turned on’ card, oh and while blindfolded.

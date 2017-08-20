@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101520-felix-Tough_festival_still00002_1000.jpg"
-image_caption: >
-
-image_attribution: "Jennifer Zheng"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101520-felix-Tough_festival_still00002_1000.jpg"
+image_caption: ""
 ---
 
 If there is a theme of the nominees for the BAFTAs for Best British Short Film and Best British Short Animation, it would probably be ‘journey’. Across the eight shorts, we are catapulted from one corner of the globe to the next, dealing with themes both big and small. One of the most engaging films, however, deals with the instantly-recognisable institution of the British police force: Charlotte Regan’s Standby takes place entirely in a police car, with all shots taken from the same angle. Andrew Paul and Alexa Morden play the officers, and we join them on a whistle-stop tour of birthdays, breakdowns, and promotions, punctuated by hilarious sequences of the two cops rapping along to Skepta. It’s not the most profound of pieces, but it’s lively and amusing.

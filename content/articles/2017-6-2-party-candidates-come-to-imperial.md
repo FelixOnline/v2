@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021550-felix-18765959_1333703923345937_8256790574883053648_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021550-felix-18765959_1333703923345937_8256790574883053648_n.jpg"
+image_caption: ""
 ---
 
 A hustings of local parliamentary candidates was held yesterday in Blackett which saw Victoria Borwick (Conservatives), Cllr Alan De’Ath (Labour), Bridget Fox (LibDems), Richard Braine (UKIP), and finally Bill Cashmore (Green), engaging in a debate on Education, Public Health and Brexit.

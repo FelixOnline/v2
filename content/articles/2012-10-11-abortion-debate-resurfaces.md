@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112212-csw09-jeremy-hunt-011.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112212-csw09-jeremy-hunt-011.jpg"
+image_caption: ""
 ---
 
 One of the central features of David Cameron’s reinvention of the Conservative party going in to the 2010 election was the pull to the centre; dressed in the vocabulary of the Big Society and Green Conservatism, they sought to shed the old-fashioned, right-wing image. ‘Backbench’ MPs may have been unhappy, but the promise of government and a Tory majority kept them at bay.

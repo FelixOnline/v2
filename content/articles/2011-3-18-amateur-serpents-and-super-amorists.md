@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
+image_caption: ""
 ---
 
 I was apprehensive when I heard that, because the budget would not allow for period costume, this production was to be a contemporary version of the opera. That is not to say I know anything about opera, but for me part of its appeal is the historic context and atmosphere that it exudes. However, I was very pleasantly proven wrong.

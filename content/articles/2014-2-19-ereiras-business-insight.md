@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Tavistock Tutors was set up by Marcus Ereira and Luke Shelley when they were just 17 years old. A few years on, the business has grown tremendously and they have over 300 tutors on their books. They provide private tutors for GCSE and A-levels as well as extra-curricular activities. Tavistock Tutors started of advertising the company with a brightly coloured orange bicycle, and now have their own G Wizz driving around London. They have clients ranging from the Far East to America and they plan to be the best agency in the world. I caught up with Marcus to find out more about the enthralling duo.

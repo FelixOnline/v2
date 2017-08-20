@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181205-felix-IMG_6385.JPG"
-image_caption: >
-  The PhotoSoc Exhibition up in Blyth.
-image_attribution: "Abigail de Bruin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181205-felix-IMG_6385.JPG"
+image_caption: ""
 ---
 
 After the all round success seen at ArtsFest last term for the Arts societies Imperial has seen them come roaring back to life for a series of incredible Easter term concerts. ICSM Drama put on a wonderful performance of Midsummer Night’s dream in the Union Concert Hall last week with snazzy costumes, set and performances. The PhotoSoc exhibition has been up in the Blythe gallery since the launch last week and it’s pretty incredible. The free wine and cheese at the launch was also pretty incredible, if we’re being completey honest.

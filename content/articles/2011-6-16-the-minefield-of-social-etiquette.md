@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 How many times have you ever wanted to tell someone who is apologising to you, to **** off? Not because they slept with your best friend, but just because of the grovelling, sickening nature of it. I amaze myself about how fervently I want to sometimes. But equally, how often has an apology barely scratched the surface of the wrong it is attempting to right?

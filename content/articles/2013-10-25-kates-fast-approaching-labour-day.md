@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250148-felix-la-la-ca-0917-enough-said-015-jpg-20130917.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250148-felix-la-la-ca-0917-enough-said-015-jpg-20130917.jpeg"
+image_caption: ""
 ---
 
 Labour Day

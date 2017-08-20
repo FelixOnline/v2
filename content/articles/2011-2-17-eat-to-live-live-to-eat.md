@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171935-nm1010-livelive.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171935-nm1010-livelive.jpg"
+image_caption: ""
 ---
 
 There are many reasons why we eat, sometimes we eat to fill that rumbling stomach — a purely physiological requirement, but other times, we eat for our hearts and (corny as can be, I know), our souls. Many of us are rather methodical about food, treating food as an invariant, a necessity to tick off the daily list. I’m not saying that it is wrong to have such a pragmatic view about food, but it is rather a shame; it is untapped potential. No, foodies like us are not food snobs. We appreciate food (sometimes obsessively) but we don’t expect everyone to treat food with as much intimacy as we do. It is extremely unfortunate if we are thoughtless about eating though.

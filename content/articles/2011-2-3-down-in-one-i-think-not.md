@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031845-nm1010-whiskeyw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031845-nm1010-whiskeyw.jpg"
+image_caption: ""
 ---
 
 Not everybody may agree with me, but is there a more satisfying tipple than a whisky? The aromas, the warmth, the flavour, come to think of it, there are few drinks I would rate more than a good scotch. Whilst its taste is acquired and occasionally referred to as a kin to petrol by philistines, this makes it even more rewarding when you begin to appreciate it, yet despite these points, perhaps the best feature of whisky is its versatility. Whisky is great for mixing as well drinking neat, bourbon and coke, has a far more complex and enjoyable taste than its vodka alternative and any kind of whisky (preferably nothing too expensive) with ginger ale is also highly agreeable. On top of that, the drink is fairly good value compared to its distant cousin brandy for equivalent qualities.

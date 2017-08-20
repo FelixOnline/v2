@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131505-felix-Screen Shot 2017-01-13 at 15.04.51.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131505-felix-Screen Shot 2017-01-13 at 15.04.51.png"
+image_caption: ""
 ---
 
 As a year, 2016 really pissed me off. I remember when 2008 ended. I remember people saying that it would be consigned to history as the year of the Great Recession. My call is that 2016 will be seen as the year of the fuck-up. The future looks uncertain and shaky. No one planned for political tragedy and who knows when deaths of refugees on the Mediterranean, of Syrians in their homes and terrorist bombings will end. Last year the world saw a profound change.

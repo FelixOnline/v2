@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
+image_caption: ""
 ---
 
 Though everyone seems to be resigned to the Coalition trundling along to 2015, there’s still a bite to British (though perhaps more specifically English) politics. It’s been a tumultuous month, with waves of Tory rebellion unsettling David Cameron and the guffawing face of Farage barely off the front pages.

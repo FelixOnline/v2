@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
-image_caption: >
-  The BP oil rig ablaze
-image_attribution: "U.S. Coast Guard"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
+image_caption: ""
 ---
 
 On the second anniversary of the Deepwater Horizon oil spill in the Gulf of Mexico, [a new report ](https://www.nceas.ucsb.edu/news/tale-two-spills-novel-science-and-policy-implications-emerging-new-oil-spill-model)suggests that existing scientific models were inadequate to deal with the disaster. The team, based at the University of California, Santa Barbara, have published the first comprehensive study of what happened at the Deepwater oil spill in 2010.

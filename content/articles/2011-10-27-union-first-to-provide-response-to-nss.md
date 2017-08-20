@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
-image_caption: >
-  Imperial College Union aim to combat Imperial’s low ranking for assessment and feedback in the NSS
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
+image_caption: ""
 ---
 
 [Imperial College Union](http://www.imperialcollegeunion.org/) has become the only student union in the UK to publish an official response to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS). A poor performance in this this year’s NSS has been widely blamed for the College slipping 11 places in the Sunday Times League Table for 2012 entry. This was the first year of a new methodology, which places greater weight on the survey, being used to compile the table.

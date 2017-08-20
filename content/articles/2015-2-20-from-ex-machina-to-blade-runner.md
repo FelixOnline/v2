@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201640-ps3110-exmachina2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201640-ps3110-exmachina2.jpg"
+image_caption: ""
 ---
 
 Ex Machina was released at the end of January, a film I would recommend to many people. Written and directed by regular Danny Boyle collaborator Alex Garland, it explores the concept of the definition of humanity through the paradigm of artificial intelligence where the plot sets in motion a Turing test (a test devised to test a machine’s capacity to exhibit intelligent behaviour akin to that of a human). Watching the film got me thinking about the merits of science fiction as a genre of film. A lot of the time science fiction is heavily degraded due to false assumptions about its maturity as a genre. Opinions which can be attributed to the likes of Star Wars and the various exploits of the Superhero genre of the Marvel production company create this image of the fan base of this genre and therefore our expectations of it. You know what I’m talking about – you see a few around Imperial: Glasses wearing, acne-ridden, slightly overweight, awkward when talking to members of the opposite gender, and possessing a strange penchant for Anime.

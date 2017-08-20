@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A London-based Hedge Fund, [Brevan Howard](http://www.brevanhoward.com/), have decided to donate £20.1 million ($30 million) to Imperial College in order to set up a finance research centre after them.

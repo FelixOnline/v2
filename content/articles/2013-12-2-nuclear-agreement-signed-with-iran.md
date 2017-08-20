@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After months of escalating tensions between Iran and the United States, a nuclear deal has finally been signed. After intense negotiations between the P5+1 nations- the Permanent members of the UN Security Council and Germany- and Iran was signed in Geneva. The agreement is one, which manages to ease the pressure on Iran for a six-month interim period. It’s perhaps a small step towards improving understanding between western states and a rather unpredictable nation.

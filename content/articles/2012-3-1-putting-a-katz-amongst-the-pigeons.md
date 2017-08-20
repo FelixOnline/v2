@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203051133-felix-jason-katz-hi-res.jpg"
-image_caption: >
-  Lolkatz: He haz ur private equity financial expertise
-image_attribution: "Bob Xu"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203051133-felix-jason-katz-hi-res.jpg"
+image_caption: ""
 ---
 
 Jason Katz, a renowned investment banker who turned his hand to private equity, visited Imperial College to share his knowledge and advice in an event organised by the Imperial Speaker’s Club and the Imperial Investment Club.

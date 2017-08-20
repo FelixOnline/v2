@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250159-felix-tech_silk-road.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250159-felix-tech_silk-road.png"
+image_caption: ""
 ---
 
 Known and loved by its many users and advocates as the Silk Road Marketplace, this underground website dubbed as the ‘amazon.com’ and ‘e-bay’ of illegal drugs has officially been shut down by the FBI. Seizing what is believed to be $3.6 million dollars in bitcoins, a small fraction of their $80 million profits, during the online raid, the FBI also managed to claim hold of the sites ‘digital wallets’, used to store some of the marketplace’s virtual assets.

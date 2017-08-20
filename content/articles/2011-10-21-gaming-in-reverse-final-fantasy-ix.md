@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211607-sjw209-2032247.jpg"
-image_caption: >
-  NO TIFFFAAAAAA!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211607-sjw209-2032247.jpg"
+image_caption: ""
 ---
 
 _See last week's 'Gaming in Reverse' [here](http://felixonline.co.uk/games/1514/gaming-in-reverse---quake/)!_

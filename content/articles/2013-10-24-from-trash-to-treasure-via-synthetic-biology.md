@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250042-felix-feat_maple.png"
-image_caption: >
-  MAPLE - Team Plasticity's  home bioreactor.
-image_attribution: "Imperial iGEM"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250042-felix-feat_maple.png"
+image_caption: ""
 ---
 
 Imperial’s iGEM (international Genetically Engineered Machine) team have just flown back from Lyon, finishing in the top three in Europe in the international Synthetic Biology competition and progressing to the next round at MIT in Boston.

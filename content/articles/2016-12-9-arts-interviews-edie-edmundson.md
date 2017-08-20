@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612121556-felix-TAN13418 (1)_captioned.jpg"
-image_caption: >
-
-image_attribution: "Steve Tanner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612121556-felix-TAN13418 (1)_captioned.jpg"
+image_caption: ""
 ---
 
 The Little Matchgirl is a show populated by people and puppets, of which the eponymous character, masterfully operated by Edie Edmundson, is one.  Our writer, Ezra Kitson, was fortunate enough to speak with her after the performance.

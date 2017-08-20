@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302121830-tna08-this-is-40-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302121830-tna08-this-is-40-1.jpg"
+image_caption: ""
 ---
 
 A follow-up to Knocked Up without actually holding onto any of its main characters, we instead have a closer look at how aged, mature relationships work, and in this case, how the “happily ever after” is much easier said than done.

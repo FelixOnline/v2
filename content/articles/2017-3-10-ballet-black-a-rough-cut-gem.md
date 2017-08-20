@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101344-felix-3.jpg"
-image_caption: >
-  Ballet Black, Triple Bill, Cira Robinson, José Alves and Mthuthuzeli November in Captured, choreographed by Martin Lawrance
-image_attribution: "Bill Coope"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101344-felix-3.jpg"
+image_caption: ""
 ---
 
 Ballet Black’s triple bill at the Barbican consisted of three works, which covered an eclectic range of compositions and dances. The first work, House of Dreams, was a non-narrative work consisting of three pas de deux and a finale to a diverse selection of compositions by Debussy. The compositions were not entirely disparate: all were solo compositions for piano, producing a minimalist atmosphere which was matched by the sparsity of props on stage and the simple lighting used throughout. Each piece conveyed a distinct emotional tone – the work opened with the melodic and whimsical Prelude from the Suite Bergamasque but proceeded to the haunting and introspective Des Pas Sur La Neige before finishing with the frantic and bold Passepied. However abrupt, these transitions were not jarring as they were confidently handled by the dancing pairs: in particular the partnership of Sayaka Ichikawa and Damien Johnson stood out as terrifically coordinated and emotive.

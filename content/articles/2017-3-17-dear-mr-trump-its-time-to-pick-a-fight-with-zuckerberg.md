@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171512-felix-Screen Shot 2017-03-17 at 15.12.00.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171512-felix-Screen Shot 2017-03-17 at 15.12.00.png"
+image_caption: ""
 ---
 
 Dear Mr Trump: It is well known that you’re a regular reader of felix, so I sincerely hope you get to read this.

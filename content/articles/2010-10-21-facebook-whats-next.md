@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104201305-felix-facebook-login-1.jpeg"
-image_caption: >
-
-image_attribution: "azziet.blogspot.com"
-image_attribution_link: "http://azziet.blogspot.com/2011/04/facebook-sellingexposing-our-data-to.html"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104201305-felix-facebook-login-1.jpeg"
+image_caption: ""
 ---
 
 Google, the Mecca of top minds in computing, the dream workplace of fresh-grad software engineers, is shaken by a tremor of brain drain. Or rather, a brain haemorrhage. And it is Facebook who struck the blow. It started with Sheryl Sandberg, once Google’s Vice President of Global Online Sales and Operations, now Facebook’s first Chief Operating Officer. Then Erik Tseng, a high level product manager of Google’s Android hopped on to Facebook to lead its mobile strategy. Trailing along was Google’s ‘rockstar’ developer and head of the Chrome OS project, Matthew Papakipos. He went to Facebook right before the completion of Chrome OS.

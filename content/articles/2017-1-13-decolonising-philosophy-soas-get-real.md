@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.03.28.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.03.28.png"
+image_caption: ""
 ---
 
 So The Telegraph reported that the SOAS’s Student Union wants the university to decolonise its philosophy to remove Plato, Descartes and Kant. I read it just after having a pint of ale at Eastside to forget the tragedy that was my Structural Mechanics paper and my Asian flush made my face redder than the time I confessed my feelings to that girl two years ago – (She very politely rejected me). You may ask me, “But didn’t you decolonise your life and go to China to be a farmer?” Let’s just say that my mum found out and beat some sense into me. Also, I can’t fly. I now have to face the horrifying reality that I can’t blame white people for everything and to take responsibility for my actions.

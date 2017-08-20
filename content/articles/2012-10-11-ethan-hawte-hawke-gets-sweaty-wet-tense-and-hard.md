@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s a shame characters in horror films leave things until too late to put the pieces together. They spend an agonising part of the running time going through all sorts of danger and jump scares but refuse to admit that there’s something wrong with the house they’re living in. It’s not entirely clear just what Ellison Oswalt (Hawke) is trying to achieve when he moves into the house where an entire family was hanged in their garden. Sure, he’s a true-crime writer but did he really need to drag his family into the scene of the crime? He of course keeps this little secret to himself, with his wife Tracy (Juliet Rylance) and two children completely unaware of what they are in for.

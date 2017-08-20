@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002181633-lh106-Stephani.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002181633-lh106-Stephani.jpg"
+image_caption: ""
 ---
 
 __How did your concert at the New Player’s Theatre come about? How do you find the intimate concert atmosphere in comparison to being on a huge stage?__

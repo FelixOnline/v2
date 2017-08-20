@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010051-tna08-tre-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010051-tna08-tre-cover.jpg"
+image_caption: ""
 ---
 
 Ladies and gentlemen, we have come to the last album of our trilogy, and thus the last of these articles. However I promise last should not be least! ¡Tré!, as the last album is called, features the drummer on the cover as well as carrying his nickname. It was released a month before schedule, due to the band cancelling their promotion tours. Green Day, in accordance with their attempt to vary musical approaches on each album, decided to go for the stadium rock style, with the odd punk rock song thrown in (a lá Dookie). There is a more grand feeling to this album, especially when in some songs when you have the string arrangements and vocal harmonies.

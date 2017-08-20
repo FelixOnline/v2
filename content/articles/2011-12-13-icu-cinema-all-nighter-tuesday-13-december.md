@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s that time of year again, when it is so brutally cold outside that finding a good night out where it’s socially acceptable to stay wrapped up in blankets is the stuff of dreams. Fortunately, it is also the time when [iCU Cinema](http://union.ic.ac.uk/arts/cinema/) brings us the Winter All-Nighter – the first all-nighter of the academic year, and a fantastic opportunity to catch all the films you might have missed over the last few months for only a tenner.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212006-ks607-sloanecu.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212006-ks607-sloanecu.jpg"
+image_caption: ""
 ---
 
 London is a quintessential fashion capital. Though we don’t have the edgy cool of New York, the elegant chic of Paris or the classic luxury of Milan, we have quirkiness and an extraordinary propensity to seek originality, using every sartorial tool in the box to illustrate exactly who we are, consciously or not. What we have, unique to London, are more distinctive fashion districts than you can shake a stick at. In Paris you have the right bank, and the left. New York: uptown and downtown. In London we have sartorial subsets that range from Chelsea to Camden, Shoreditch to Shepherd’s Bush, Portobello to Primrose Hill.

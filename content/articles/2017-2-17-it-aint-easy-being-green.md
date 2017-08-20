@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171624-felix-IMG_1917.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171624-felix-IMG_1917.JPG"
+image_caption: ""
 ---
 
 Have you ever said to yourself “I love basketball, football and rugby with a passion but it would be a dream to play them all at once” ? Well then I have just the thing for you. A sport for those who fancy carrying the ball like rugby, but prefer a rounder shape. For those who fancy bouncing it every now and again, but also want the luxury of booting it into the net. A sport played with enormous teams but on suitably large pitches. I give you, Gaelic football.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s the time of year when all around you fellow students are busy getting ready to make applications to graduate roles, internships and further study. Does it feel like everyone apart from you has their future planned out? Don’t worry, hopefully this article will give you some pointers about how to make that all important career decision and start planning for your future.

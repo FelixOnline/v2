@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041146-felix-5832.jpg"
-image_caption: >
-  The Globe to Globe tour perform Hamlet at the Jungle camp in Calais
-image_attribution: "The Guardian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041146-felix-5832.jpg"
+image_caption: ""
 ---
 
 The question of whether the arts are a luxury or a necessity has become one of the issues surrounding the ‘Jungle’ refugee camp just outside Calais.

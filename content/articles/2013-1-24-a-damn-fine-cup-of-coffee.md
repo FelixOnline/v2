@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242146-mc4509-twin-peaks.jpg"
-image_caption: >
-  A deep vein of surrealism
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242146-mc4509-twin-peaks.jpg"
+image_caption: ""
 ---
 
 [_Twin Peaks_](http://www.youtube.com/watch?v=i7d0Lm_31BE) manages to do the almost impossible; mixing sex, violence, mystery and even the odd dosage of the supernatural into a heady whirlwind that is sure to draw you in to its strange world. The series itself is from the early ‘90s and has been recommended to me time and time again by my family and other people of that same, shall we say, ‘mature’ age.

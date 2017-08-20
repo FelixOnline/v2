@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201006111157-lh106-ThreeLit.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201006111157-lh106-ThreeLit.jpg"
+image_caption: ""
 ---
 
 __How did you meet and where did the name Three Little Maids come from?__

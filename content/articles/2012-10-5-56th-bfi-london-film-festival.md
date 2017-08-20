@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051318-felix-thumbnail.php.jpeg"
-image_caption: >
-  Look where his hand is... what is he wanting you to feel? Pervert
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051318-felix-thumbnail.php.jpeg"
+image_caption: ""
 ---
 
 Every year, the British Film Institute (BFI) hosts Britain’s biggest, most exciting, star-studded film event, the London Film Festival, where directors worldwide get the chance to share their accomplishments with the public. As one of the most accessible film festivals around, any eager movie fans in London should try to catch a screening or two. Packed full with big-scale red carpet premieres, in focus Q&A sessions with the stars, the festival is truly an exciting occasion to be taken advantage of.

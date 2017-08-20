@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403111741-me1711-tech_blockslogo.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403111741-me1711-tech_blockslogo.png"
+image_caption: ""
 ---
 
 A few of months ago a couple of Imperial College students set out on an adventure to create the world’s most versatile smartwatch – BLOCKS. Since then the team, expanded to 8 people, entered Imperial Create Lab’s £20,000 challenge and are getting ready to “Pitch at St James’ Palace” event in April. But is there really a market for smartwatches, or are they just another caprice of the geekworld that will whizz past the mainstream?

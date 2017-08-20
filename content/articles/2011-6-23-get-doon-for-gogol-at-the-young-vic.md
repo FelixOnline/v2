@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232205-felix-doon-not-cmyk.jpg"
-image_caption: >
-
-image_attribution: "Keith Pattison"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232205-felix-doon-not-cmyk.jpg"
+image_caption: ""
 ---
 
 FIFA 2001 gave me unrealistic expectations in life. Never before had I realized that you could transfer Thierry Henry, Jimmy Floyd Hasselbaink and Fernando Hierro (to name but a few) to Leeds United and create a star-studded, world beating super team. In truth in reality, you couldn’t, but through the wonders of modern technology, beautiful things were possible.

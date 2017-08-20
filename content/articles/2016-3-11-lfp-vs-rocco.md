@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111208-felix-lovepasta.jpg"
-image_caption: >
-  Let’s face it, no one ever chose the kid’s size and was happy with it.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111208-felix-lovepasta.jpg"
+image_caption: ""
 ---
 
 If there is one thing South Kensington doesn’t have a shortage of, it’s Italian restaurants. FELIX decided to put two of the more similarly priced places head to head; the more rustic and traditional Rocca, and the modern, do-it-yourself, Loves Fresh Pasta.

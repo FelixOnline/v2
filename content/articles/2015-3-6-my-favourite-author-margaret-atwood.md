@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
-image_caption: >
-  Canadian author Margaret Atwood
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
+image_caption: ""
 ---
 
 The first book that I can remember being upset at finishing, not just sad, but actually physically hurt, was Margaret Atwood’s _The Handmaid’s Tale_. A story of a future in which radical Christians have transformed America into a theocracy, and the declining fertility rate has led to the remaining fecund women being enslaved as ‘handmaids’, _The Handmaid’s Tale_ kick-started in this prepubescent boy a love of dystopian fiction; _1984_, _Brave New World_, _We_, these all followed in rapid succession, but none could match the joy I felt when reading Atwood’s carefully crafted prose.

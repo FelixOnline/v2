@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182152-jal08-features_frog.jpg"
-image_caption: >
-
-image_attribution: "Green Lion Studios"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182152-jal08-features_frog.jpg"
+image_caption: ""
 ---
 
 David Bond is a worried man. When he was a child, he spent his time outdoors in the natural world, but now all his children do is stare at screens and obsess with big brands. He sets out to change things, appointing himself Marketing Director for Nature. This witty and irreverent documentary follows his antics as he attempts to launch a national marketing campaign to get children back enjoying the great outdoors. Described as “Like David Attenborough and Morgan Spurlock got drunk and had a baby” by one watcher at the Sheffield Doc Fest where the film premiered this summer, it’s sure to be an interesting watch.

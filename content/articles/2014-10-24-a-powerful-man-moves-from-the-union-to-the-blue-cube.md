@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021854-ps3110-phil-power.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021854-ps3110-phil-power.jpg"
+image_caption: ""
 ---
 
 Dr Philip Power is finally leaving the Union after 16 years of involvement at Imperial College London, first as an undergraduate, then a postgraduate and finally as a member of staff for Imperial College Union.

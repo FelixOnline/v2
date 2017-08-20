@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201109301232-felix-building-on-fire-during-t-007.jpg"
-image_caption: >
-  A Tottenham carpet store burns during the riots
-image_attribution: "guardian.co.uk"
-image_attribution_link: "http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2011/8/7/1312718209368/Building-on-fire"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201109301232-felix-building-on-fire-during-t-007.jpg"
+image_caption: ""
 ---
 
 Dear Freshers and regular readers, welcome to a new year at Imperial; a new year that brings new experiences and new challenges. The politics team in Felix hopes to keep you interested in the politics of the outside world while you spend your year in the bubble of university life.

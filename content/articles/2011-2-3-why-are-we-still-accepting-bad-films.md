@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031949-nm1010-tourrist.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031949-nm1010-tourrist.jpg"
+image_caption: ""
 ---
 
 Awards season is here, and whether you take an interest or not, it generally means the time of year when the cinemas are packed with impressive, intelligent films. Though a few of the leading films in this year’s nominees, such as The Social Network or Toy Story 3 were out a few months ago, the majority of the ones generating buzz have only emerged very recently (Black Swan, 127 Hours, True Grit, The King’s Speech). Now is a time when film aficionados will actually relish going to the cinema, a time when they may not actually resent the huge dents in their bank accounts most ticket prices leave.

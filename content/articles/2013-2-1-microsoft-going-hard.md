@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010107-tna08-microsoft-badass.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010107-tna08-microsoft-badass.jpg"
+image_caption: ""
 ---
 
 It’s not unfair to call Microsoft a reactive company, i.e. they follow trends and build on others innovations, it’s in their history.

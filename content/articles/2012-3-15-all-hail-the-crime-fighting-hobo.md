@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152025-ams111-2011_hobo_with_a_shotgun_002.jpg"
-image_caption: >
-  Boris Johnson is getting serious about winning his London Mayor campaign
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152025-ams111-2011_hobo_with_a_shotgun_002.jpg"
+image_caption: ""
 ---
 
 [Hobo with a Shotgun](http://www.imdb.com/title/tt1640459/)

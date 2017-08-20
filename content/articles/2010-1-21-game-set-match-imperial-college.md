@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001212112-rsp07-Universt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001212112-rsp07-Universt.jpg"
+image_caption: ""
 ---
 
 On Monday, Imperial won the first of their quarter-final matches against Edinburgh University in the latest episode of University Challenge. At this stage in the competition, Imperial needs one more win against Emmanuel College Cambridge to secure a place in the semi-finals.

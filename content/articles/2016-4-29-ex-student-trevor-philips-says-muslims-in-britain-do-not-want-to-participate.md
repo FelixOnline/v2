@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291103-felix-1700.jpg"
-image_caption: >
-  Any first year statistician would think this poll was dodgy.
-image_attribution: "Richard Ansett/Publicity image"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291103-felix-1700.jpg"
+image_caption: ""
 ---
 
 Ex-ICU President and broadcaster, Trevor Philips, appeared in a Channel 4 documentary called “What do Muslims really think?” The controversial show, which aired in the Easter break, reflected on a poll which had quizzed Muslims on their thoughts on issues like homosexuality, sharia law and human rights.

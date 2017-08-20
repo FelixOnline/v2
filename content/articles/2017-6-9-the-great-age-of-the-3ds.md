@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091724-ea3211-81I7gzdcIpL._SL1500_.jpg"
-image_caption: >
-  Six years since the initial release and still going strong
-image_attribution: "Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091724-ea3211-81I7gzdcIpL._SL1500_.jpg"
+image_caption: ""
 ---
 
 The 3DS has been the go-to portable games machine of its time, testified by the sales of over 65 million units, and is a shining example of how to make a perfect handheld console. Its only other portable rival, the Playstation Vita is as good as dead these days, and mobile games don’t even come close to meeting the phenomenon that is the 3DS. It has a large and stable fanbase and its market dominance has been absolute for the past few years.

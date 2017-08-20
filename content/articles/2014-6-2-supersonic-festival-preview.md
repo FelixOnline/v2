@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406021349-felix-ex-easter.jpg"
-image_caption: >
-  Ex-Easter Island Head
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406021349-felix-ex-easter.jpg"
+image_caption: ""
 ---
 
 Birmingham’s Supersonic Festival is undoubtedly an institution in British experimental music. I was lucky enough to attend their last festival in 2012, and found it to be a postively life-changing experience, which featured a great mix of obscure and impressive new discoveries to more established experimental musicians the calibre of which I’d only dreamed of seeing in the past.

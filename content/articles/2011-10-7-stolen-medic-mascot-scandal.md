@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071538-felix-img_5902.jpg"
-image_caption: >
-  ICSMSU President Suzie Rayner (right) outside the RCSU office
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071538-felix-img_5902.jpg"
+image_caption: ""
 ---
 
 Luke Kanczes, President of the [Royal College of Science Union](http://www.rcsu.org.uk/exec) (RCSU) successfully stole the [Imperial College School of Medicine Students' Union's](http://www.icsmsu.com/exec/) (ICSMSU) Phoenix mascot head earlier this week with RCSU Vice-President Paul Beaumont in a mascotry scandal that continues today. The RCSU President explained that they ‘’saw the chicken head carelessly tossed aside on the Queen’s Lawn”, posed as freshers to distract the medic manning the RAG stall and took the mascot.

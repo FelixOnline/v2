@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150140-tna08-ss_74d0cae5569f20353ac8519f4aebd1301c246eb5.1920x1080.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150140-tna08-ss_74d0cae5569f20353ac8519f4aebd1301c246eb5.1920x1080.jpg"
+image_caption: ""
 ---
 
 Call me old fashioned, but I always thought that phones were for talking to people, rather than browsing the internet, watching moviesand playing games. Nowadays, it seems that phones are primarily used to avoid having to talk to people.

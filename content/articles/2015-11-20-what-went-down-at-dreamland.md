@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200925-ygr12-foals2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200925-ygr12-foals2.jpg"
+image_caption: ""
 ---
 
 Foals are one of the most legendary live bands of this generation in music. A bold statement, perhaps, but I honestly believe that to be the truth.

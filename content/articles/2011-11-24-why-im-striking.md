@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 “I will be striking on N30. It’s absolutely outrageous cutting pensions. I do feel ambivalent; to forfeit a wadge of money, when my wage is very low does worry me greatly, however, what they are doing is obscene. It is outrageous pensions are not protected, they’re not fantastic anyway. You work the best years of your life for the pensions, which are then attacked, it’s morally wrong to attack our pensions. I’d like to do something meaningful and valuable, I think I’ll picket the library and town hall. It seems really important to do something meaningful with the time. “

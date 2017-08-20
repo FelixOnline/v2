@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
+image_caption: ""
 ---
 
 Any keen eyed students who were at Imperial last year will definitely notice the differences around campus, specifically the Mechanical Engineering Building. This is not a simple recladding to revamp the building’s look. It is in fact part of a major redevelopment of building on the South Kensington campus. Steve Howe, Director of Capital Projects and Planning, has said that what you see is just the “tip of the iceberg” describing the plans as a “huge project”.

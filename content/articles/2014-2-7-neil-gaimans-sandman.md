@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Comic books and graphic novels have a, not entirely undeserved, reputation for not being the finest example of modern literature. Poor plotting, tired characters and woeful dialogue still continue to plague the medium. However, there have always been a small number of creators – such as Alan Moore, Warren Ellis and Neil Gaiman – who have been held in much higher regard than their compatriots and who have managed to elevate the medium into a respectable art from. Of these, I have always admired Gaiman the most. This is partly due to his versatility – as well as working on comics he is an acclaimed novelist and screenwriter – but mainly the because of his amazing writing talent. This talent is on fine display in one his earliest and most enduringly popular works, The Sandman series.

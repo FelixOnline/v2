@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There will be an event in Level 2 of the Sherfield Building at 11:30am - 2:30pm on Tuesday 12 February in aid of Student Money Week. The aim of the Week is to raise awareness of student financial issues and offer help, advice and offer tips on how to save money and helping students budgeting day-to-day. The Student Financial Support Team and the Student Adviser from Imperial College Union will be available and will be available to offer a money “health check”.

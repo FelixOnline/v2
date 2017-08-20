@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092304-felix-mango.jpg"
-image_caption: >
-  If a giant mango can’t get you to ditch the car, then what will?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092304-felix-mango.jpg"
+image_caption: ""
 ---
 
 Back home in the Midlands, there is an extremely popular bus company known as [Trent Barton](http://www.trentbarton.co.uk/). Like just about every other bus company in the world, you get on the bus, you pay some money, and they drive you to where you want to go. Some of their competitors are faster at getting to some destinations, and are sometimes cheaper too. So why do they remain much loved and admired throughout the East Midlands? The reason for this is clear: they value the community they created around their products.

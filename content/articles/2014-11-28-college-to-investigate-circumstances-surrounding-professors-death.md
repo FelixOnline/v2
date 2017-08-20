@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280036-ps3110-article-0-02676b1e0000044d-782_468x371.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280036-ps3110-article-0-02676b1e0000044d-782_468x371.jpg"
+image_caption: ""
 ---
 
 A professor from the Faculty of Medicine, Professor Stefan Grimm, was found dead in September of this year in Northwood, Middlesex.

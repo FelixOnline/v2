@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
-image_caption: >
-  Something to do with Fluid Mechanics maybe?
-image_attribution: "Joe Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
+image_caption: ""
 ---
 
 Most of you will be revising (or trying to) over the Easter break, either panicking or comfortably smug and prepared, having started revision before the year started.

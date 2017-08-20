@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104181235-felix-4973119165_b97d1b7550_o.jpg"
-image_caption: >
-
-image_attribution: "Jonathan Cole"
-image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4973119165/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104181235-felix-4973119165_b97d1b7550_o.jpg"
+image_caption: ""
 ---
 
 On Saturday the 9th of October, over 2,000 scientists and science supporters will rally at Westminster to protect the future of British science. Their aim is to make the government reconsider any spending cuts to be made in the fields of research and development, cuts that scientists fear could cause the country long-term damage.

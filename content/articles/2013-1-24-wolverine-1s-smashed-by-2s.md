@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242044-mc4509-dodge.png"
-image_caption: >
-  No medals for Steve
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242044-mc4509-dodge.png"
+image_caption: ""
 ---
 
 On Sunday 13th January, the Wolverines set off for Essex with 3 teams ready to hit their first tournament of 2013 in force. In a first in the club’s history, there were no delays in setting off, nor incidents on the way there (minus Scott Esnouf’s typical minibus stalling, mind).

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
-image_caption: >
-  The Moto 360 supports Android Wear meaning it's default interface is very customisable
-image_attribution: "Photo: Paul Balaji"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
+image_caption: ""
 ---
 
 The Moto 360 is one of the first Android Wear devices to launch this year, amongst the LG G Watch and Samsung Gear variants. Sporting a round face and elegant design, it is one of this year’s most highly desired gadgets. At £199 it’s also one of the more expensive, but the combination of Google’s software and Motorola’s hardware make it the smartwatch to buy.

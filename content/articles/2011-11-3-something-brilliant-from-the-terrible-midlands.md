@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032056-pk1811-ui.jpg"
-image_caption: >
-  Black & white bearer
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032056-pk1811-ui.jpg"
+image_caption: ""
 ---
 
 Anyone familiar with the UK independent hardcore scene will know of the untimely demise of the mighty Blakfish two years ago. This crippling shot to the nuts did however have one positive; the birth of Brummie trio &U&I (not like an actual weird birth of three fully grown, bearded men at the same time, just like… shut up, you know what I mean).

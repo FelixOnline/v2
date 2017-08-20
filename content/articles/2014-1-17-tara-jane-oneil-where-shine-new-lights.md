@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401170353-jal08-music_tjo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401170353-jal08-music_tjo.jpg"
+image_caption: ""
 ---
 
 __Tara Jane O’Neil __is a multi-talented musician based out of Portland, Oregon. At the age of 19 she was already playing bass for art punk band __Rodan__. She then went about forming __Retsin__, a folky indie duo and __The Sonora Pine__, a more experimental post-rock type band. Since then there has been a collaboration with legendary slowcore band __Ida__, a wide range of guest appearances and even a prominent role in the film _Half-Cocked. _She is also a notable painter. (I did say multi-talented!)

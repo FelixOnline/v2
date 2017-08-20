@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021229-so515-25528872280_8ded0ab8a8_o.jpg"
-image_caption: >
-
-image_attribution: "Matt Brown"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021229-so515-25528872280_8ded0ab8a8_o.jpg"
+image_caption: ""
 ---
 
 A packed public meeting was attended by hundreds of Hammersmith and Fulham residents this week, in support of the campaign to save Charing Cross Hospital.

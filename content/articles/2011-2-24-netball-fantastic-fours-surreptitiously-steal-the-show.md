@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Victory rarely tastes so sweet as when you spend 59 minutes behind on goals, only to seal the deal in the dying seconds. The ICs 4s appetite was whetted for the run up to the end of the season when they did just that against their visitors, Queen Marys 4s.

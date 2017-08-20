@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the first Council of the academic year, changes to the constitution, which were put forward by Paul Beaumont, Union President, were agreed to in principle. A period of consultation is now expected to begin. Beaumont said that he was going to be talking to people about it and explaining the changes.

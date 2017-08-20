@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
+image_caption: ""
 ---
 
 The tabloids and I, we’ve had a chequered past to say the least. I grew up on a diet of the Daily Mail, yet it wasn’t until the merits of secondary education that I realised what I was fervently devouring wasn’t exactly all that wholesome. As I began to write more and more, something clicked. The whinging, the constant references to burdened taxpayers, the preference for introspective scandal rather than global issues. Bias pervaded in the language, and it really didn’t taste very good.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103211158-ks607-visiting.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103211158-ks607-visiting.jpg"
+image_caption: ""
 ---
 
 Mendoza is a cosmopolitan city in the north of Argentina, crushed by an earthquake and rebuilt from the foundations, leading to expansive sunny reading parks with blue tiled fountains, cathedrals, large plazas and shopping malls. In the parks lie big wooden chests in which you can pick out copies of anything from 'Teach Yourself Spanish' to 'The Life History of the Bin Ladens' and settle on a bench, reading on a warm spring afternoon. On every street corner you will find a carved cathedral and a ‘helado’ shop, selling you ice-cream in any flavour from tiramisu, to lemon meringue pie, flan and ‘Bariloche’ chocolate.

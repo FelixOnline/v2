@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070209-tna08-article_csr-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070209-tna08-article_csr-copy.jpg"
+image_caption: ""
 ---
 
 Think social responsibility and you don’t normally think of banks. Discovering social enterprise, learning business skills, pitching for sponsorship and inspiring volunteering were just some of the themes explored in the[ Imperial College Finance Society (ICFS](https://www.union.ic.ac.uk/scc/finance/)) led Corporate Citizenship conference on Wednesday. A pilot event for the society and run in collaboration with[ Imperial Hub](http://www.imperialhub.org/xwiki/bin/view/Imperial+Hub/) & The Student Led Projects symposium, the conference brought together senior business leaders from investment banks, start up social entrepreneurs and student projects – with a series of speeches, workshops and a sponsorship pitching session with £750 up for grabs.

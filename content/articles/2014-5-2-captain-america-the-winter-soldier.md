@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020207-jal08-captain-america-winter-soldier-scarlett-johansson-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020207-jal08-captain-america-winter-soldier-scarlett-johansson-2.jpg"
+image_caption: ""
 ---
 
 __Captain America: The Winter Soldier__

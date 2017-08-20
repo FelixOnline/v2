@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012106-tna08-seated_buddha_amitabha_statue.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012106-tna08-seated_buddha_amitabha_statue.jpg"
+image_caption: ""
 ---
 
 “I’m an atheist and I’m interested in meditation.” Last year I had a number of conversations with people who all began with this comment. It is too small a sample from which to interpret the changing nature of atheism or if there is an increasing interest in meditation. (And anyway all of these comments may have arisen from the realisation ‘OMG, it’s the vicar, quick what can I talk about?’)

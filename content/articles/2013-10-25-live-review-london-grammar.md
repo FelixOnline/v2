@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250130-felix-mus_london_grammar.jpg"
-image_caption: >
-  London Grammar
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250130-felix-mus_london_grammar.jpg"
+image_caption: ""
 ---
 
 As they play, the screens behind London Grammar display visuals of flocks of birds, and wisps of smoke; these are perhaps perfect representations of their music. Transient and fleeting, most of the tracks on their debut album If You Wait begin minimally, swelling to a crescendo as the different elements come together, before ending as quickly and quietly as it began.

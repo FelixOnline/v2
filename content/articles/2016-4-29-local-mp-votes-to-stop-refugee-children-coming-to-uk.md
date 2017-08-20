@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291101-felix-Screen Shot 2016-04-27 at 13.30.37.png"
-image_caption: >
-  Trying to find a heart, mate?
-image_attribution: "greghands.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291101-felix-Screen Shot 2016-04-27 at 13.30.37.png"
+image_caption: ""
 ---
 
 The MP for the Fulham and Chelsea constituency, where many Imperial students live, voted on Monday night not to allow 3000 Syrian refugee children into the UK.

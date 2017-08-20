@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Classed as the number one domestic threat in the US since 2001, eco-terrorism is estimated to have cost $300million between 2003 and 2008. Organisations like EarthFirst!, the Earth Liberation Front (ELF), the Animal Liberation Front, GreenPeace and PETA have been accused of radical environmentalism and actions. Tree spiking, arson and even bombing are methods used by environmentalist groups to express their point. Radical environmentalists are often associated to anti-capitalism and a general belief that capitalism and the patriarchal society are responsible for damaging and destroying nature.

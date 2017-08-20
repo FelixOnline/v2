@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [Last week’s Felix headline](http://felixonline.co.uk/news/1242/union-president-maggie-dallman-misinformed-college-council/) announced that I accused Professor Dallman, the Principle of Natural Sciences, of lying to the College Council. Those are not the exact words that I used (I said she lied to the Union President and misled College Council), but the implications are large and it is worth explaining what happened.

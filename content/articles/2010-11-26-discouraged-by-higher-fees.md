@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261003-ks607-inforgap.jpg"
-image_caption: >
-
-image_attribution: "Veronika McQuadeova"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261003-ks607-inforgap.jpg"
+image_caption: ""
 ---
 
 With [protests](http://www.felixonline.co.uk/?article=452) going on up and down the country, there is a great deal of anger about the government’s plans for higher education. Almost all of us will be leaving university with some debt, however this debt did not deter us from coming to Imperial in the first place. However a Union survey has shown that Imperial students are just as concerned by debt and rising fees as other students in the U.K. In light of the Union’s support for the Browne Review and the government’s proposals, is it [being truly representative](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html) of the majority of Imperial students?

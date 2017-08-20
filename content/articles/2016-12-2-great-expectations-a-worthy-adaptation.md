@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
-image_caption: >
-
-image_attribution: "Guildhall School | Clive Barda 2016"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
+image_caption: ""
 ---
 
 The advice of Mr Jaggers is "Take nothing on its looks; take everything on evidence. There’s no better rule." It is keenly observed by Christian Burgess who delivers a no frills production of Great Expectations superbly carried by convincing performances and slick directing.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161502-felix-Everyman_dj.jpg"
-image_caption: >
-
-image_attribution: "Houghton Mifflin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161502-felix-Everyman_dj.jpg"
+image_caption: ""
 ---
 
 I have always found myself inexplicably drawn to books about regret, lost opportunities, death, and dying. Perhaps there is something cathartic about reading of other people’s regrets, regrets that are disturbingly close to home yet safely ensconced in the realm of fiction. Perhaps it is the ritual of a young person trying to pre-empt and avoid the dark and looming future – as if reading about them will prevent me from falling into similar traps of life.

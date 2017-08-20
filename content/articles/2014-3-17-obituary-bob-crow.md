@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 London awoke to a shock on Tuesday morning with the news that Bob Crow, the leader of Rail, Maritime and Transport (RMT) union had died at the age of 52. During the RMT strikes last month that crippled London Crow sprang to national prominence as the situation pitted him against Boris Johnson, Mayor of London, in a series of heated arguments about the future of the Underground Network. A controversial figure to the end, people on all sides of the political spectrum have paid their respects to a man who has had an undeniable impact the lives of Londoners in recent times.

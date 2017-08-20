@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __O__n January 20th European tensions, sparked by Prime Minister Cameron’s utilisation of migration as a political chess piece, came to a head. The tone of UK-Europe relations were reflected in the words of German Foreign Minister (and Social Democrat), Walter Steinmeier.

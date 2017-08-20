@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162141-ams111-9780847836925.jpg"
-image_caption: >
-  Dazed & Confused: Making It Up As We Go Along Written by Jefferson Hack, Edited by Jo-Ann Furniss
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162141-ams111-9780847836925.jpg"
+image_caption: ""
 ---
 
 Born in Hertfordshire in 1996, John Rankin Waddell has come much further than most ex-accounting students, inspiring millions of people worldwide with his renowned collection of portraits. From top models and famous celebrities to the Queen, all the way to the less glamorous Mugunga refugee camp in Congo, his hefty Mamiya camera has seen it all.

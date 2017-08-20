@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041916-cj914-friends.jpg"
-image_caption: >
-
-image_attribution: "NBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041916-cj914-friends.jpg"
+image_caption: ""
 ---
 
 Are you troubled by revision time? Do you find yourself sweating over notes and books, asking yourself who invented pre-Christmas exams? Well, we’re all in the same boat.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I collapsed this week, caved in and put Fairytale Of New York by The Pogues on my iPod. It’s like funding an insurgency campaign in my mp3 player; it’s not offensively Christmassy, but it’s beginning to make the other albums on there consider rising up in protest and installing a festive dictatorship.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051148-felix-KingsCollegeChapelWest.jpg"
-image_caption: >
-  You didn't want to go there anyway.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051148-felix-KingsCollegeChapelWest.jpg"
+image_caption: ""
 ---
 
 Cambridge university is set to introduce new admissions tests for every subject to make up for changes to the qualification system that will see AS Levels no longer count towards A Level results.

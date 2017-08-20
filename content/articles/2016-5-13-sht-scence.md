@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131102-felix-1789243636_7987f706f5_o.jpg"
-image_caption: >
-
-image_attribution: "Simon Thomas"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131102-felix-1789243636_7987f706f5_o.jpg"
+image_caption: ""
 ---
 
 At Sh!t Sc!ence, we like to defend research that may seem insignificant or futile. We believe that all research projects go through a complicated selection process during which a group of learned intellectuals congregate and decide what particular pieces of research need to be conducted in order to bridge our gaps in human knowledge. This week, insights on children - are they werewolves? Science has the answer!

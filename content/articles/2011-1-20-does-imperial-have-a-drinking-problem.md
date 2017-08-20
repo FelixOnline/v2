@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202101-ks607-drinkind.jpg"
-image_caption: >
-  Lads...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202101-ks607-drinkind.jpg"
+image_caption: ""
 ---
 
 Following the [controversial exposure](http://www.dailymail.co.uk/news/article-1343184/Pass-sick-bag-The-antics-Imperial-College-medical-students-worry-all.html) of the drunken antics of Imperial medical students at the Reynolds Bar earlier this month, action has been taken to clamp down on the excessive drinking of “a minority of students”. However, as Felix found this week, many students have shrugged off concerns about drinking, while Royal College of Science Union President Scott Heath, has raised concerns that the bad press would be used as an excuse to interfere in students’ lives. So what do students think about the amount of alcohol that they drink, and of the fresh media interest into their drinking habits?

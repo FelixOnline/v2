@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
-image_caption: >
-  Barack Obama met with King Salman to pay his respects to the former King and Prime Minister of Saudi Arabia, Abdullah bin Abdulaziz Al Saud after his death in January
-image_attribution: "itv"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
+image_caption: ""
 ---
 
 In the last two decades the Middle East has experienced Sunni and Shia suppression, the toppling of dictators, Western intervention, Western withdrawal and the spread of fundamentalist terrorism.

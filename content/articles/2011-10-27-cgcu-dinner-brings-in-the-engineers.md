@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
-image_caption: >
-  CGCU President Jacky Kwan takes to the stage to engineer the night's proceedings
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
+image_caption: ""
 ---
 
 The [City & Guilds College Union](http://www.cgcu.net/) (CGCU) held their Welcome Dinner event along with an afterparty, on Tuesday 25 October at Café De Paris, marking their flagship event. The party attracted over 600 students, testing the 700 capacity of Café De Paris, with a three course dinner starting from 7:30pm.

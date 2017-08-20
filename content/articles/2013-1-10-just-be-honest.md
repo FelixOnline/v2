@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102156-tna08-liar-liar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102156-tna08-liar-liar.jpg"
+image_caption: ""
 ---
 
 Let me level with you. Since becoming Editor I have very often worn glasses. I consider myself a contact wearer. However, I ran out of contacts and I just haven’t had the time to go to get more. Okay, I’ll be more honest, Ihave had the time to get more contacts; I just personally preferred to spend that time relaxing. So, in the spirit of honesty, I have changed the picture in the paper. That’s a more accurate representation of what I usually look like when I walk about campus (except in real life I’m much more handsome, and taller, just). I’m sorry for duping you all for so long, but I decided to fess up. I hope you appreciate me telling you the truth and not sugar coating it.

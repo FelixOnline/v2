@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
-image_caption: >
-  Ainsley Harriot remains involved in the production of a variety of recipes
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
+image_caption: ""
 ---
 
 He has hosted the longest running cookery series in the world and has worked as a chef in hotels and restaurants across London after training at Westminster Catering College.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We are all somewhat superficial. Looks are an easy way to gauge the physiological and genetic stature of a potential mate (someone with one non-functional eye and no legs probably won’t be any good at fending off savage beasts), and so evolution has designed human beings to judge other members of the species largely on their appearance. We all do it, however vehemently some of us might try to deny it. Why else would our favourite magazines be filled with advice from the arcane and mysterious world of fashion about what to wear and, much more importantly, what not to wear?

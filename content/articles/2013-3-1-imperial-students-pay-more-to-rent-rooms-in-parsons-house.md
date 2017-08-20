@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010103-tna08-payment-for-halls.jpg"
-image_caption: >
-  A screenshot showing a monthly payment
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010103-tna08-payment-for-halls.jpg"
+image_caption: ""
 ---
 
 Concerns have been raised about potentially excessive rents at one of Imperial’s hall of residence. Imperial College rents the first three levels of Parsons House, located on the grounds of Charing Cross Hospital, from housing company A2 Dominion and then rents out individual rooms to students for £121.82 a week. All rooms are single occupancy with a shared kitchen and bathrooms.

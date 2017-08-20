@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232317-tna08-pierre_and_marie_curie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232317-tna08-pierre_and_marie_curie.jpg"
+image_caption: ""
 ---
 
 I still cherish the memory of the first meeting of the IC Heads of Departments I attended – it was both educational and amusing.. Having received the invitation, my predecessor immediately tried to dissuade me from accepting it; nobody expected the Librarian to discuss College business, shamefully I would be the odd one out among the Heads.

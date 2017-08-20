@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505121704-jr2514-_82891092_027131722-1.jpg"
-image_caption: >
-  Hundreds took to the streets just two days after the general election
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505121704-jr2514-_82891092_027131722-1.jpg"
+image_caption: ""
 ---
 
 Protestors threw traffic cones, smoke bombs and other objects at the police in central London, angry that the Conservatives won the general election.

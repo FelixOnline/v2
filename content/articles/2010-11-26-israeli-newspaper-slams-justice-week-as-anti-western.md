@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
+image_caption: ""
 ---
 
 The Israeli newspaper The Jerusalem Post attacked [Imperial College Islamic Society](http://www.union.ic.ac.uk/scc/islamic/) on Monday, publishing an article entitled “[UK university hosts ‘anti-west’ week under ‘justice’ guise](http://www.jpost.com/home/article.aspx?id=196237)”. Justice Week is described by its organizers at ISoc as an opportunity to “educate ourselves about some of the injustices found in the world and show what we as individuals can do about them”. Scheduled [events](http://www.facebook.com/event.php?eid=116407028422645) include talks on exploitation of the 3rd world, Guantanamo bay imprisonment and a screening of the latest Michael Moore film; but will also stage controversial speakers.

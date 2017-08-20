@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311011054-felix-boris.jpg"
-image_caption: >
-  Boris Johnson not at Imperial
-image_attribution: "Daily Mail"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311011054-felix-boris.jpg"
+image_caption: ""
 ---
 
 “If the ball came loose from the back of the scrum, which it won’t of course, it would be a great, great thing to have a crack at.”

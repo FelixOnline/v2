@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232009-pk1811-rampart_i1.jpg"
-image_caption: >
-  Enjoying a nice cup of coffee - a luxury most actors can’t afford on set but...to heck with it
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232009-pk1811-rampart_i1.jpg"
+image_caption: ""
 ---
 
 [__Rampart__](http://www.imdb.com/title/tt1640548/)

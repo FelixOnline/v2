@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181708-felix-Tour Felix Pic - water polo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181708-felix-Tour Felix Pic - water polo.jpg"
+image_caption: ""
 ---
 
 The 37th Internationales Wasserballturnier Aachener SV 06 is arguably the most important event in IC Water Polo’s 2016 calendar. After meeting early in the morning on the 4th of November, the team travelled in convoy through France, Belgium (unintentionally), the Netherlands, and finally Germany. After arriving at a university campus where the only signs of life were an unsuspecting man in a kitchen and a karate class, the team were nonetheless confused. None more so than TJ Leo Pashov, who insisted we were still in Belgium. The men had drawn strong opponents in the group stages, namely Essen and the home favourites Aachen. The women also had Aachen, with DJK SV Poseidon Duisburg for company but with their squad totalling only three players, they were going to have a tough time playing a seven-a-side sport. Once the Germans finally showed up, a team bonding session alleviated concerns.

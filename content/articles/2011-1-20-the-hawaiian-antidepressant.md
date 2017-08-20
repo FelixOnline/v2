@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
+image_caption: ""
 ---
 
 There are an awful lot of grumpy people in London at the moment. They’re fed up with the daily commute on overcrowded trains, the fellow passengers sneezing all over them, and the realisation that they just don’t have the will power to keep any New Year resolutions. But actually their crabbiness does not stem from any of these things. It’s all down to a bad case of seasonal affective disorder, aka winter depression.

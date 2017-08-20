@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031733-felix-15262595018_46811ca672_b.jpg"
-image_caption: >
-
-image_attribution: "Benjamin Esham"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031733-felix-15262595018_46811ca672_b.jpg"
+image_caption: ""
 ---
 
 So you want to learn how I’ve slaughtered dragons, conquered galaxies, and made my legend? Well, you’re in the right place.

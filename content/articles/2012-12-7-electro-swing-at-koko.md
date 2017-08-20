@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070337-tna08-caravan-palace.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070337-tna08-caravan-palace.jpg"
+image_caption: ""
 ---
 
 November 21st, was an important day for British fans of the electro-swing band Caravan Palace. They held their first ever concert in the UK – which took place not too far from Imperial College, in the Camden KOKO venue.

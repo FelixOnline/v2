@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122154-cac111-titan_multi_spectral_overlay.jpg"
-image_caption: >
-  Titan as seen by Cassini in ultraviolet and infrared wavelengths
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122154-cac111-titan_multi_spectral_overlay.jpg"
+image_caption: ""
 ---
 
 Scientists have developed the most advanced model yet of the weather system on Titan, one of Saturn’s moons and the only place in the solar system other than Earth that harbours lakes.

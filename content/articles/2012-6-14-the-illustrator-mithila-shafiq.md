@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142129-pk1811-mithi_b_01.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142129-pk1811-mithi_b_01.jpg"
+image_caption: ""
 ---
 
 Mithili Shafiq was the archetypal scientist with a creative itch. By the end of her PhD she had decided that the itch needed to be scratched. Now she has retrained as an illustrator and is making a new life for herself in Bristol. I caught up with her over Skype after several abortive attempts to catch her between dance lessons and deadlines.

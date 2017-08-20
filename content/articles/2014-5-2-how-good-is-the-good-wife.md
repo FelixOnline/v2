@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020256-jal08-the-good-wife-cast-cbs-636.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020256-jal08-the-good-wife-cast-cbs-636.jpg"
+image_caption: ""
 ---
 
 Rating: 5/5

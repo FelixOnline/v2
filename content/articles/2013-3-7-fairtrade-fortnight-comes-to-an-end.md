@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072132-jal08-wp_20130306_012-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072132-jal08-wp_20130306_012-2.jpg"
+image_caption: ""
 ---
 
 It began with an old favourite. A cold Thursday in late February with the promise of ice cream; Ben & Jerry’s ice cream to be exact. The academic year had been welcomed with a raucous first session in October seeing Activity Space 1 crammed with attendees of a two hour frozen dessert buffet. This time, with the second term waning, a more relaxed affair was anticipated and with this in mind, we had divided it into two sessions. The previous three days leading to this moment saw our stands in the JCR and SAF intermittently approached for ticket purchases. But we were experienced heads in the game, knowing that this was nothing more than the calm before the storm.

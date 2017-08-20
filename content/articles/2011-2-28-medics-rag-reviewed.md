@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
+image_caption: ""
 ---
 
 Last week our medical students recalled, distantly, their reason for being here: the hazy memory of a burning desire to make a difference to the world and help those unable to help themselves. Enthused with a newly found raison-d’etre not involving bodily fluids outside of the body, they have devoted themselves to RAG week and its causes.

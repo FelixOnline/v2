@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232318-tna08-cover_ensemble-pearl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232318-tna08-cover_ensemble-pearl.jpg"
+image_caption: ""
 ---
 
 Ensemble Pearl is a thoroughly dark album featuring some big names in modern avant-garde metal. Steve O’Malley of Sunn O))) is the best known, but two members of Boris, the Japanese noise rock band, are also present (drummer Atsuo and live guitarist Michio Kurihara). Former bassist of Jesse Sykes & the Sweet Hereafter, Bill Herzog, is the only musician that might seem out of place.

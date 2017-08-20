@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101435-felix-6883264549_91e06f3034_o.jpg"
-image_caption: >
-
-image_attribution: "Diego David Garcia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101435-felix-6883264549_91e06f3034_o.jpg"
+image_caption: ""
 ---
 
 This year’s Spring All-Nighter will take place on Tuesday the 21st of March at 6pm, ending at approximately 7.45am the next day. For those who are inexplicably out of the loop with this beloved Imperial College tradition: it’s a whole night of films, shown back to back, on a screen 8 meters wide, for a tenner. Oh, you want unlimited hot-dogs too? We got you.

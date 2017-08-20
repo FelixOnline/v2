@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two weeks before term starts, sport imperial organized some FREE pre-season fitness for all abilities from those elite athletes among us, as well as anyone just wanting to look in tiptop shape for the incoming freshers!

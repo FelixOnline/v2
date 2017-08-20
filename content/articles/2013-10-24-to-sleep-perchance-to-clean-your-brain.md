@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250059-felix-bedroom.png"
-image_caption: >
-
-image_attribution: "Amrita Ghosh and Arya Mehta"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250059-felix-bedroom.png"
+image_caption: ""
 ---
 
 After hundreds of years of hypothesis, the primary function for sleep may now have been discovered. Maiken Nedergaard and colleagues this week released a paper detailing how in sleep the brain clears away waste proteins linked to neurodegenerative diseases such as Alzheimer’s that build up in the space between brain cells.

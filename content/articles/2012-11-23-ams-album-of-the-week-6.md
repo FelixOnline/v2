@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230021-tna08-121008-bjork-bastards.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230021-tna08-121008-bjork-bastards.jpg"
+image_caption: ""
 ---
 
 After returning to the limelight with the world’s first app album, Biophilia, Björk has continued her tradition of remix albums with the affectionately named bastards. It’s refreshing to see an artist so accomplished actually acknowledging the remix efforts of other musicians, as opposed to just using them as B-side filler.

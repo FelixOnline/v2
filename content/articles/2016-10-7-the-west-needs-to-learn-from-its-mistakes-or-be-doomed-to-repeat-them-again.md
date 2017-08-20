@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
-image_caption: >
-
-image_attribution: "Debra Sweet"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
+image_caption: ""
 ---
 
 It’s the 2nd of August 1990. Saddam Hussain has just invaded Kuwait in order to absorb the country as the ‘19th province’ of Iraq. The next year a counter invasion to expel the Iraqis from Kuwait (known as Operation Desert Storm) is launched by the US and other western countries on the orders of President George H. W. Bush. While the coalition suffers casualties, the Iraqi army is much worse off and surrenders within 42 days. The operation is hailed as a ‘success’ by the international community. However, the success is to be very short lived, as it marks the beginning of deep tensions between the US and Saddam; distrust was to linger and with terrible consequences.

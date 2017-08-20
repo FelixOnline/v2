@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161442-felix-TheLittlePrince.jpg"
-image_caption: >
-
-image_attribution: "Onyx Films"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161442-felix-TheLittlePrince.jpg"
+image_caption: ""
 ---
 
 ## Alex Heib, Max Lewis-Clarke and Meryl Anil

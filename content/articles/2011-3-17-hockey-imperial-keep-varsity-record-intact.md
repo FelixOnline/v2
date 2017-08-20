@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172156-ks607-hockeyva.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: "http://christopherwalmsley.tumblr.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172156-ks607-hockeyva.jpg"
+image_caption: ""
 ---
 
 After watching Imperial register two wins and a draw against the Medics, there was a lot of pressure on the Men’s 1st team. Imperial played to their full potential and ran out 5-4 winners.

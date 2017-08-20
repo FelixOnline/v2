@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Wednesday the 17th, the Imperial Womens’ first team played their first match of the season against Reading. Despite being their first match as a team, Imperial dominated from the first whistle with Ellie Hill scoring the first goal and setting us off to an awesome start.

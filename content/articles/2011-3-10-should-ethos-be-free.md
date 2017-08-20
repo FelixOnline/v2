@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When the Union President Alex Kendall said that using the amenities fund to subsidise alcohol was immoral, there was an eruption of anger. Postgraduate students rose to the defense of the amenities fund, and Kendall claimed that he was merely encouraging debate. The discussions about hall rents have almost entirely focused on this subject, but beneath the furore another, perhaps more contentious, question is being asked by the [survey](http://www.surveymonkey.com/s/hallrent): Should Imperial continue to offer free gym and swim facilities at Ethos?

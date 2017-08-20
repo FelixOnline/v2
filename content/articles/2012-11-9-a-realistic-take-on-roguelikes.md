@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091641-tna08-zangband1rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091641-tna08-zangband1rgb.jpg"
+image_caption: ""
 ---
 
 A popular mod on the PC gaming scene, as many of us will know, is DayZ, where you get one shot at survival on an island covered with zombies. It’s hailed for finally getting “survival” right, with atmosphere, realism and difficulty – and it’s the difficulty that interests me.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242033-pk1811-cornishcross.jpg"
-image_caption: >
-  Chickens had the opportunity to get up to a little fowl play during Green Week
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242033-pk1811-cornishcross.jpg"
+image_caption: ""
 ---
 
 Last Friday night, I was sat in my favourite bar in London with my friends, when a well-dressed young man in a suit came up to me and offered to buy me a cocktail. Pretty exciting, for a single girl, right?

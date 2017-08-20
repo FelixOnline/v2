@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220120-tna08-merzbowgustafssonpandi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220120-tna08-merzbowgustafssonpandi.jpg"
+image_caption: ""
 ---
 
 Merzbow is widely regarded as the biggest name in noise music; the man’s been blistering eardrums in over 350 recordings since 1979. Like most of the experimental music world, in addition to copious solo albums, there are copious collaborations, often live.

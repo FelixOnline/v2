@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130121-cj914-animal-testing-1.jpg"
-image_caption: >
-  An Imperial Fringe event was held in honour of the report’s release
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130121-cj914-animal-testing-1.jpg"
+image_caption: ""
 ---
 
 Imperial College London has released its first annual report on animal research practices within College. The 30-page document was launched at a specially held event as part of the Imperial Fringe series, which was open to the public and drew a crowd of around 200.

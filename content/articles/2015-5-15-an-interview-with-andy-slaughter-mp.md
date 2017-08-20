@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151315-ps3110-screen-shot-2015-05-15-at-13.14.22.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151315-ps3110-screen-shot-2015-05-15-at-13.14.22.png"
+image_caption: ""
 ---
 
 The Labour politician Andy Slaughter was elected as Member of Parliament for Hammersmith in 2010, and was re-elected last week with 50% of the vote. Previously the MP for Ealing, Acton and Shepherd’s Bush from 2005 to 2010, Slaughter has been the Shadow Justice Minister since 2010, serving on the Labour Party’s front bench. Joshua Renken interviewed Andy to talk about constituency matters and national politics.

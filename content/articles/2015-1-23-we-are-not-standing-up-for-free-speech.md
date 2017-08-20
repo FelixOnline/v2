@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230134-ps3110-charliehebdo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230134-ps3110-charliehebdo.jpg"
+image_caption: ""
 ---
 
 The Comment section of last week’s _Felix_ made for interesting reading, unsurprisingly, the writers for the most part choosing to focus on the _Charlie Hebdo_ massacre, which has been dominating headlines these past weeks. I’ll start by saying that there were good ideas expressed in those articles, and in the centre-left’s media response as a whole, however, I believe that _Felix _and the rest of the mainstream media is wrong not to stand up for freedom of expression and publish the cartoons.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310041445-jal08-games_awe.jpg"
-image_caption: >
-  Awesomenauts! Awesomesauce!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310041445-jal08-games_awe.jpg"
+image_caption: ""
 ---
 
 For a long time Awesomenauts had a lonely existence in my Steam library. I picked it up in a sale and then there it sat unplayed. One day prompted by fellow editor Max I finally played it and realised the mistake I had made! Straight from the opening titles I knew I would love this game so sit tight for my “AWESOME! AWESOME! AWESOME!” review.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110280048-felix-bottles-of-drink.jpg"
-image_caption: >
-  It might be “bizarre beliefs” that make you act like an idiot, not all that alcohol...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110280048-felix-bottles-of-drink.jpg"
+image_caption: ""
 ---
 
 Despite the millions it spends on cultivating an image of arch sophistication, Stella isn't likely to shrug off its “wife-beater” epithet anytime soon – and especially not now it's become the tipple of choice for tosspot terriers. But the story of [a Staffordshire Bull Terrier attacking a child](http://www.telegraph.co.uk/news/uknews/8845153/Boy-mauled-by-dog-that-was-drunk-on-Stella.html) after someone poured Stella down its throat isn't the only piece about alcohol abuse that stood out recently.

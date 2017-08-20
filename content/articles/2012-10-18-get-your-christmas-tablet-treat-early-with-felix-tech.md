@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
-image_caption: >
-  We apologise to any Apple fanboys who just ejaculated all over their keyboard
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
+image_caption: ""
 ---
 
 Seasons come and go, but Christmas never changes and considering that it’s only 65 shopping days away, you might as well get started making your wish list (parents do need something to spend money on!). So to help you get an idea, here are 4 budget tablets that might tickle your fancy!

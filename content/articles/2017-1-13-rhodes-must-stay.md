@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131409-felix-Screen Shot 2017-01-13 at 14.03.53.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131409-felix-Screen Shot 2017-01-13 at 14.03.53.png"
+image_caption: ""
 ---
 
 In recent months, the ‘Rhodes Must Fall’ campaign has gained significant traction not only at Oriel college, Oxford but at several institutions in the UK and abroad. The campaign has attempted to have the statue of Cecil Rhodes removed due to his strong support for the apartheid movement in South Africa.

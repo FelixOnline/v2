@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140045-tna08-boards-of-canada-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140045-tna08-boards-of-canada-cover.jpg"
+image_caption: ""
 ---
 
 Boards of Canada, the much respected, secretive and shadowy WARP signed duo are back after a six year quiet period with a new album and an often different sound. Tomorrow’s Harvest, billed as their most dystopian and gloom-ridden sounding project to date nevertheless has that irascible BoC sound – not IDM, certainly nowhere close to dub-step, but more like a modern day, grittier Music for Airports. This album, with their characteristic layered soundscapes and off-beat synth stabs over slowly morphing beats is somehow sparser than their previous offerings, as if everything has been put through an industrial filter. It sounds like an urban sprawl on a particularly thoughtful day, one of the few things the duo themselves have confirmed they were aiming for.

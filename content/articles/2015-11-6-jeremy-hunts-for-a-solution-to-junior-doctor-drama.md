@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Health Secretary Jeremy Hunt has offered junior doctors an 11% basic pay rise, having cut the hours classified as 'unsociable' meaning that some will actually get a pay cut of as much as 15%. In an attempt to convince junior doctors not to take strike action, he’s conveying the message via a letter to be sent to all 50,000 junior doctors in England via their medical schools.

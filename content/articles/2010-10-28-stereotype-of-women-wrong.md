@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 She’s probably uneducated and unfulfilled. Captive to her religion, subservient and invisible. These are just some of the inherent stereotypes that are embodied in our modern society, obscuring the Islamic female identity under the guise of oppression and inequality. But did Islam really intend to undermine the female existence? If so, are Muslim women victims of a chauvinistic spiritual ideology or simply a misrepresentation by an unchanging historical label?

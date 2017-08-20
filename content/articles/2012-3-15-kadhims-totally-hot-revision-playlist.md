@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152116-ams111-totallyhot.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152116-ams111-totallyhot.jpg"
+image_caption: ""
 ---
 
 _Listen to the playlist here: <http://spoti.fi/FelixRevision>_

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181803-felix-sprinttri-090.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181803-felix-sprinttri-090.jpg"
+image_caption: ""
 ---
 
 A 6-strong team from TriIC donned their lycra (or to be precise a pleasant Nylon-Spandex mix) to compete in the 340-strong field of May’s BUCS sprint triathlon championship. Arriving at the sunny Wiltshire in the morning, avoiding the wealth of carbon time trial bikes in the car park, the task of 750m of swimming, 25km of cycling and 5km of running lay ahead.

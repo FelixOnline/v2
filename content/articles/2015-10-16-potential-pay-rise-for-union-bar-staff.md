@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
+image_caption: ""
 ---
 
 At last Monday’s Union Council meeting, the question was raised as to whether the union should be paying student bar workers the London Living Wage.

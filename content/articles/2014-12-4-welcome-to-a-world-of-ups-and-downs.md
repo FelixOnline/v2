@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
-image_caption: >
-  YOYO is the electronic payment choice of a lot of Imperial students. Disclaimer: has nothing to do w
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
+image_caption: ""
 ---
 
 Silicon Valley has for some time now declared an all-out war on our non-electronic habits, changing them to fit around their technology. It has been a gradual process but thinking about it, we certainly don’t read books the way we used to. Writing an essay barely involves a pen anymore, we can go grocery shopping without even leaving the house and our fitness regime is becoming a lot more informative. It now seems tech companies have got their eyes set on the way we pay.

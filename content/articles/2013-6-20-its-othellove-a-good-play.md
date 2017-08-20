@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306202152-cac111-othello.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306202152-cac111-othello.jpg"
+image_caption: ""
 ---
 
 What is your notion of prime, weeknight entertainment? If the answer is a three-and-a-quarter hour performance of an early Jacobean tragedy, executed in the original lexicon, dwelling on jealousy, treachery and racism, and ending in a bloodbath, I suspect that most people would be, well – disconcerted.

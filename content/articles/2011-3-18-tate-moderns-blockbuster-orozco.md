@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103180838-ks607-blackkit.jpg"
-image_caption: >
-  Black Kites (1997)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103180838-ks607-blackkit.jpg"
+image_caption: ""
 ---
 
 Is it worth going to see another exhibition full of quirky art put there just to leave the onlooker wondering how anyone can call it ‘Art’? Beyond the bewildering first impression, [Orozco’s exhibition at the Tate](http://www.tate.org.uk/modern/exhibitions/gabrielorozco/) evokes a personal and surreal world where playfulness comes side by side with death. On entering the gallery, you can find a primaeval clay heart made simply by the artist’s hands compressing a piece of mud. It has a simple but powerful beauty to it.

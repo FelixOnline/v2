@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061426-ps3110-flyingcar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061426-ps3110-flyingcar.jpg"
+image_caption: ""
 ---
 
 Imperial is opening a new lab to develop flying robots. The drone lab will be the most advanced in the UK, and will cost £1.25m to build. The testing lab is to be built on the South Kensington campus, as an investment into next generation robotics, and construction of the lab will begin in 2016.

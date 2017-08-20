@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Starbound is a platform adventure game currently in beta and being developed by Chucklefish Games, a UK indie games studio. I love this game! I am eight hours in and I’ve barely even scratched the surface of all that is available in this game. Indeed I’ve only just completed the tutorial, a fun yet disheartening experience that will be shared later in this review. This game is special, and not just because fellow games Editor Max bought it for me at Christmas or because it’s an indie game. Read on to find out why you should spend your time playing this game.

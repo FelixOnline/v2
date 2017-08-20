@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172057-ks607-small_oxford.jpg"
-image_caption: >
-
-image_attribution: "University of Sheffield"
-image_attribution_link: "http://www.dcs.shef.ac.uk/ml/summer_school/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172057-ks607-small_oxford.jpg"
+image_caption: ""
 ---
 
 No image test articleNo image test articleNo image test article

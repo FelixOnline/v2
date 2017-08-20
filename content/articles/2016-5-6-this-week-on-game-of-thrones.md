@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061116-felix-game-of-thrones-episode-2-4-810x539.jpg"
-image_caption: >
-  That awkward moment when you’re older than your father.
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061116-felix-game-of-thrones-episode-2-4-810x539.jpg"
+image_caption: ""
 ---
 
 Following last week’s relatively uneventful, measured episode, _Game of Thrones_ cranks the dial up to eleven with this one. Last time was the safety briefing; now we’ve hit the first drop on the rollercoaster.

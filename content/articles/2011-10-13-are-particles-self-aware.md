@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
-image_caption: >
-  The white noise spectrum, random peaks over all frequencies without clear correlation... trippy, yo
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
+image_caption: ""
 ---
 
 We all think we know what Brownian motion is. It is the way physicists describe the motion of fluids like air and smoke in which the particles moves about, seemingly at random, and diffuse throughout a volume. However, by looking at the microscopic scale where the particles interact, scientists have found a new phenomenon.

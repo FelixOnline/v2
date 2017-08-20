@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The decision of Union Council on Monday to award Honorary Life Membership (HLM) of the Union to only five of six Sabbatical Officers, excluding Deputy President (Finance & Services) Ravi Pall, was overturned at a meeting of the Union Court on Wednesday.

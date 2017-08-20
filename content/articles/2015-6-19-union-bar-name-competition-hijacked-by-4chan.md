@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506191437-ps3110-4chan-temporarily-offline.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506191437-ps3110-4chan-temporarily-offline.jpg"
+image_caption: ""
 ---
 
 Disaster struck on Saturday afternoon when the competition ran by Imperial College Union to name a new student bar was posted on the forum website 4chan, sparking thousands of entries from the website users.

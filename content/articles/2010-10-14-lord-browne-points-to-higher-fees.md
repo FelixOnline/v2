@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142005-ks607-brownere.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142005-ks607-brownere.jpg"
+image_caption: ""
 ---
 
 Universities should be unlimited in charging fees to students, the [Browne review of university funding has recommended](http://webarchive.nationalarchives.gov.uk/+/hereview.independent.gov.uk/hereview//). The influential review, released early this week, outlined various proposals and potential changes in higher education funding to the government, including lifting the current cap on annual tuition fees, which currently stand at £3,290. The review also proposed raising the threshold earning salary for graduate repayment to £21,000 to ease the rise.

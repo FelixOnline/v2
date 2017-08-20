@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282325-tna08-eel9f0av-awalktoremember_635x400.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282325-tna08-eel9f0av-awalktoremember_635x400.jpg"
+image_caption: ""
 ---
 
 ## Message in a Bottle - 1999

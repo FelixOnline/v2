@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091702-ea3211-32628065710_a4d205d3a8_o.jpg"
-image_caption: >
-
-image_attribution: "Sheila Sund"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091702-ea3211-32628065710_a4d205d3a8_o.jpg"
+image_caption: ""
 ---
 
 Fact: Hot water freezes faster than cold water.

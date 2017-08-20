@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 During the 17th and 18th centuries, Europe and North America experienced much severer winters than we do now – people could frequently walk or even skate across a frozen Thames. This period is called the Little Ice Age, though unlike true ice ages, it had its origins in the waning strength of our sun and it was only experienced in isolated regions with a minor global temperature change. Whereas the millennial changes in the sun were responsible for this period, a team of scientists from the Met Office, Oxford and Imperial have attributed current cool winters to the smaller 11 year solar cycle.

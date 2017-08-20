@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082218-felix-hohoho.jpg"
-image_caption: >
-  Yeah, he thinks he has a lot of work around this time of year. Slacker
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082218-felix-hohoho.jpg"
+image_caption: ""
 ---
 
 Unless you’ve been glued to your library desk, you’ve probably seen the rows of fluorescent bulbs hanging over the streets of London and thought, “is it that time of year already?” Sure, they light up the street a little more, and let’s face it, we need that at a time of year when it gets dark at 4pm, but there must be more to it than that, right?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404071352-jal08-arts-margate-2.jpg"
-image_caption: >
-  Helen Frankenthaler, Overture, 1992
-image_attribution: "Helen Frankenthaler Foundation, Inc./Artists Rights Society (ARS), New York and DACS, London 2013"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404071352-jal08-arts-margate-2.jpg"
+image_caption: ""
 ---
 
 __M__argate is like the New Brighton of the South, but a bit larger & more remote. It’s stuck between the nostalgia of the seaside’s heyday, disappointment at its current pointlessness, and the trickle of investment coming into British seaside towns. Symptomatic is the amusement park Dreamland, its entrance capped with its name in yellow capitals, closed for the last eight years.

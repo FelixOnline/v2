@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251317-felix-IMG_6251.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251317-felix-IMG_6251.JPG"
+image_caption: ""
 ---
 
 Imperial launched its College-wide consultation on the Learning and Teaching Strategy this Wednesday with a Town Hall meeting which saw Vice-Provost of Education, Simone Buitendijk, address the issues raised by Imperial’s disappointing NSS scores.

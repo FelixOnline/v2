@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112223-csw09-img_8323small.jpg"
-image_caption: >
-  Image courtesy of edphillipsimages.com
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112223-csw09-img_8323small.jpg"
+image_caption: ""
 ---
 
 This year’s summer weather wasn’t the greatest for polo and for the first time in a number of years the weather forecast looked extremely grim when we headed off to Royal Leamington Spa for the Schools and Universities Polo Nationals. On the upside the Jubilee weekend fell perfectly to give us a full four days of play and a chance to get through even with the looming rain. We pitched our tents at midnight on Friday under the headlights of the union minibus and started a few relaxing drinks and cigars as the rain began to come down.

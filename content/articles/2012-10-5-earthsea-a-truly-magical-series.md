@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m generally not a big fantasy reader but I had heard a lot of good things about Ursula Le Guinn’s Earthsea series and so had very high expectations before I started reading it. I wasn’t disappointed. Whilst featuring many standard western fantasy elements − kings, wizards and dragons − the books are unique for their setting on an archipelago of many hundreds of islands. For a series that was begun in the 60s there is a great deal of freshness to the Earthsea stories, especially for those who have grown tired of fantasies set in pastiches of medieval England.

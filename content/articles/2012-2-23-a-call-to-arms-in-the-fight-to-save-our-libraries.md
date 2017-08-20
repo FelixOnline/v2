@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I first found out about [_The Library Book_](http://www.nationallibrariesday.org.uk/2012/01/profile-to-publish-the-library-book-in-aid-of-the-reading-agencys-library-programmes/) in a small addendum to a piece in the _Guardian_ by[ Lucy Mangan](http://www.guardian.co.uk/profile/lucymangan), one of my favourite columnists, announcing that she was one of the contributors. Investigating further, I became even more interested upon finding out that the contributors also included such impressive figures as Stephen Fry, China Miéville and Alan Bennett. Yet, even having known beforehand the amount of talent involved I have to say that the book far exceeded my expectations.

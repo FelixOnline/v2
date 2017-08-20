@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151346-cj914-funkeambimbola.jpg"
-image_caption: >
-  Funke Amimbola  leads the legal team that supports Roche’s UK pharmaceutical operations
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151346-cj914-funkeambimbola.jpg"
+image_caption: ""
 ---
 
 It’s almost the end of the academic year. Have you thought about what you are doing in the future? Knowing which career to pursue can be daunting for many students, but did you know that graduating with a STEM or business degree sets you up for a wide range of careers beyond scientific research or finance?

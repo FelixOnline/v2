@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302121829-tna08-warm-bodies.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302121829-tna08-warm-bodies.jpg"
+image_caption: ""
 ---
 
 You may think you know all about the zombie genre. They’re dead, they walk about aimlessly, bumping into things, and as soon as they smell living flesh, they will not stop until they get their share of raw human meat/organs in their mouths. But have you ever seen a zombie fall head over heels in love?

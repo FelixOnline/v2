@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A Chief Scientific Advisor (CSA) has finally been appointed to the Treasury, previously the only remaining government department without a CSA. The position is being filled by James Richardson, who will retain his role as the Treasury’s director of public spending. CaSE director, Imran Khan, [applauded the move](http://sciencecampaign.org.uk/?p=5503) saying, “We desperately need someone within the department who can talk about how critical a long-term investment strategy for science and engineering is for the UK’s future.”

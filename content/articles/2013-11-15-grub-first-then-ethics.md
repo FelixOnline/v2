@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Somewhere in the imposing tome, Less than Nothing, author Slavoj Žižek relates an anecdote about the attitudes taken by Bertolt Brecht and Dashiell Hammett in their respective McCarthy-inspired HUAC trials. Brecht tells the factual truth but phrases answers in such a way to suggest that he is nothing more than an anti-fascist agitator. Hammett, on the other hand, is accused of managing communist organizations funds – of which he knows nothing. Despite this Hammett refuses to answer questions and is subsequently sent to prison.

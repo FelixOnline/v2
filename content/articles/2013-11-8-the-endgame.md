@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Over the past few years we have sadly seen studios satisfy audiences’ need for film escapism with story-driven fantasy action (comic book films being the biggest example) while staying away from science fiction. Even sci-fi staples like Star Trek -whose writers Alex Kurtzman and Roberto Orci are involved in this project- haven’t been spared and have been turned into entertaining but nonetheless seat-rumbling blockbusters.

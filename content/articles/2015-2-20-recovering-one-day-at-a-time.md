@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
+image_caption: ""
 ---
 
 Depression sucks, there’s no getting around that. It’s awful and makes you feel like you’re not in control of your own emotions, sleep pattern, or motivation. But something that’s worth remembering is that it’s not unmanageable.

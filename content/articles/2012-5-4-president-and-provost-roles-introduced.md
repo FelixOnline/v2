@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
-image_caption: >
-  Imperial follows in the footsteps of universities such as Harvard
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
+image_caption: ""
 ---
 
 Imperial College is to have a Provost. Where once there was a Rector there will be two positions, a “President & Rector” and a “Provost of the College”. What is a Provost, one wonders. By definition, a provost is the head of a college. What, then, is a rector?

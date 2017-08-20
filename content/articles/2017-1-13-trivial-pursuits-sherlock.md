@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131443-felix-1480701024-sherlock-season-4.jpg"
-image_caption: >
-
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131443-felix-1480701024-sherlock-season-4.jpg"
+image_caption: ""
 ---
 
 After last year’s somewhat disappointing bait and switch, Sherlock has finally returned with a full season this holiday period. The Six Thatchers picks up immediately where we left off at the end of the previous episode, with the government leaping into action over Moriarty’s seeming return. The episode, however, quickly distances itself from this plot line, as if the writers had realised that they’d backed themselves into a corner by needing to constantly raise the stakes.

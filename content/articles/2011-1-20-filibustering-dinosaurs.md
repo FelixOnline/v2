@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201943-dr910-jameslee.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201943-dr910-jameslee.jpg"
+image_caption: ""
 ---
 
 The chance of the country getting a referendum on the alternative vote system was held up in the Lords this week. The key point of contention is in the title of the bill discussed- ‘The Parliamentary Voting System and Constituencies Bill’ groups together reforms to the way we vote for MPs along with the number and borders of constituencies. At the time of writing, the bill was still not settled, although the front bench members were talking again.

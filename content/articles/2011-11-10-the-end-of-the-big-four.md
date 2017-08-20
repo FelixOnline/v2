@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
-image_caption: >
-  Oonly four professional service firms perform the majority of audits for companies
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
+image_caption: ""
 ---
 
 PwC, Deloitte, KPMG and Ernst and Young – better known collectively as the Big Four. The word ‘Big’ really doesn’t do them justice; enormous, gigantic and colossal are more appropriate adjectives. It’s hard to get a grasp of how big they are compared to other accountancy firms until you look at the raw figures.

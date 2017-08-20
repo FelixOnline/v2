@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last Wednesday, a constellation of comedy stars performed at the Eventim Apollo’s one off Stand Up in Action benefit to raise money for Action-Aid and the UN Refugee Agency (UNHCR), the charities providing aid in response to the global refugee crisis.

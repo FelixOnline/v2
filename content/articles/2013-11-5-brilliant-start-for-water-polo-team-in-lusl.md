@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Following the loss of many excellent players this year, namely ex Team GB vice-captain Adam, we were worried we’d find a team with as much quality and finesse as our old BUCS team this year. Fortunately we did some great work at the Fresher’s Fair and managed to recruit several outstanding players, including some girls who were actually familiar with the game, which is rare. Not to mention the guys we got, who certainly know how to handle their balls.

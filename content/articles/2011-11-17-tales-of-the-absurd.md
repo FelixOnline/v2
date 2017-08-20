@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172138-pk1811-getthumbimage.asp.jpeg"
-image_caption: >
-  Putting superglue on his hand was bad, but the fly swat was too far
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172138-pk1811-getthumbimage.asp.jpeg"
+image_caption: ""
 ---
 
 [_Next Time I’ll Sing to You_](http://www.orangetreetheatre.co.uk/Next-Time-Ill-Sing-To-You/) is currently being staged at the Orange Tree Theatre in Richmond until December 10. Written by James Saunders in 1962 it has recently been revived by the theatre he had such a close involvement during his career. It is remembered mostly today as the play which saw Michael Caine’s West End debut as Meff when it was first staged at the Arts Theatre. As a story it, it is based around five characters planning a play about the real life story of a hermit who spent the last 36 years of his life in isolation before dying in 1942. As well as loosely telling the story of Alexander James Mason, the Great Cranfield Hermit, it involves the 5 characters bouncing around various topics covering questions of death, identity and their own existence; mostly with irony and humour. In particular, whether, as the hermit had not been seen for such a long period of time, it can be said he really existed at all.

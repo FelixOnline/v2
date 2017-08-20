@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.36.26.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.36.26.png"
+image_caption: ""
 ---
 
 If you’ve read my comment pieces in this paper around the time of the American election, then you know two facts: first, I’m American, and second, I’m pretty opinionated about our political landscape and how polarized it’s seemingly become.

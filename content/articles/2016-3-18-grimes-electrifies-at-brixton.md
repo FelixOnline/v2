@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181200-felix-grimes3.jpg"
-image_caption: >
-  Claire Boucher and her crew.
-image_attribution: "Cale Tilford"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181200-felix-grimes3.jpg"
+image_caption: ""
 ---
 
 Before **Grimes** bursts onto stage at the Brixton Academy, there’s a sense that she’s compensating for something: we would usually expect the venue to be playing the usual warm-up mix of inoffensive R&amp;B and indie pop – the standard fare for off-piste artists like Grimes, who straddle populism and experimentalism – but tonight they’ve opted for a succession of classical string pieces. There’s something deliberate about it. Following the release of her breakout third LP, _Visions_, which catapulted her onto the world stage, Grimes was subject to oppressive amounts of scrutiny, from professionals and public alike; in a since-deleted tumblr post, she hit back: “I’m tired of men who aren’t professional or even accomplished musicians continually offering to ‘help me out’ (without being asked), as if I did this by accident”, she wrote, “I’m tired of being considered vapid for liking pop music.”

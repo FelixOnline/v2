@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182018-ks607-politics.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182018-ks607-politics.jpg"
+image_caption: ""
 ---
 
 Minister for Communities and Local Government, Andrew Stunnell visited Imperial last month to speak at Interfaith’s student led debate on the right to freedom of speech. Views were heard from members of the Jewish Society, Islamic Society, Christian Union and a secular member of the Debating Society.

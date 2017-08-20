@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406261415-jal08-concorde_club.jpg"
-image_caption: >
-  A view of the new grounds
-image_attribution: "baclubs.com/British Airways"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406261415-jal08-concorde_club.jpg"
+image_caption: ""
 ---
 
 College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range. Meanwhile inside the clubhouse students will be provided with squash and basketball courts. The sports ground, in Heston, Hounslow, will be available for student use from Autumn 2014.

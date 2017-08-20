@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111206-felix-MV5BMjUwNDE1ODgtOTQyMi00ZGVhLTg0M2QtYTM1ZDdmNWVlNWM1XkEyXkFqcGdeQXVyNTQ4ODM3NDM@._V1_.jpg"
-image_caption: >
-  The Dream Team.
-image_attribution: "Fox"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111206-felix-MV5BMjUwNDE1ODgtOTQyMi00ZGVhLTg0M2QtYTM1ZDdmNWVlNWM1XkEyXkFqcGdeQXVyNTQ4ODM3NDM@._V1_.jpg"
+image_caption: ""
 ---
 
 The year of 1994 was a wildly different time. Institutional racism in America was under the limelight following the release of footage of police brutality against an unarmed black man. The public imagination was infatuated with a murder trial that didn’t quite make sense and seemed to unfairly target one man. Also, the Kardashians were big in the news. How the world changes, eh?

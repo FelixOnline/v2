@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201918-ks607-timelaps.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201918-ks607-timelaps.jpg"
+image_caption: ""
 ---
 
 The finding of a new meteorite in Western Australia’s Nullarbor Desert has been announced by an international group of scientists, led by Imperial’s Dr Philip Bland. This was achieved using the Desert Fireball Network, a project involving the Onarejov Observatory in the Czech Republic, the Western Australia Museum, Curtin University, Perth, as well as Imperial College. The Network consists of a number of film based cameras, used because the available digital cameras do not have a good enough resolution, spread out over several thousand square kilometres of the desert. Each takes time lapse photographs of the night sky, the film of which is sent by local farmers back to the researchers to be developed and studied. The clear Australian sky allows useful photos to be taken almost every night. If a meteorite fireball appears in more than one picture the scientists are able to calculate not only its previous orbit, but, using climate models, also where it landed. The system is so accurate that the position of the latest find was calculated to be just 150m from its true location.

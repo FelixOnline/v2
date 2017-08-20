@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This Tuesday the Union released their most recent annual report, covering last year’s activities. There have been some changes in the Union’s financial reporting methods, after the recent change to full charity status it now has to present financial statements according to the Charities SORP (Statement of Recommended Practice). The SORP requires a charity to not only present its finances, but also to do it in such a way that shows how financial transactions relate to their charitable activities.

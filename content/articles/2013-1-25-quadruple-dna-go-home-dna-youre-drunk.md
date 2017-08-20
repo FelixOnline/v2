@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250153-tna08-watson-and-crick.jpg"
-image_caption: >
-  Dude, I swear, that’s totally the nerd gene right there
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250153-tna08-watson-and-crick.jpg"
+image_caption: ""
 ---
 
 The traditional double helix configuration of every biologist’s favourite acid, DNA, is a common sight in the media. It’s on textbook covers, in adverts and even in logos attempting to convey scientific superiority, but which are really playing on the naivety of the general public (anti-aging creams, I am looking at you). The dual swirl has been incredibly romanticised since its discovery by the biology big shots James Watson and Francis Crick, but new research is showing that this structure may not be all that DNA has up its molecular sleeve.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011659-rsp07-roryfent.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011659-rsp07-roryfent.jpg"
+image_caption: ""
 ---
 
 This New Year, the media’s focus was back on Northern Ireland, my home country. Only this time it wasn’t about bombings, shootings or kidnappings, but the extra- marital affair of NI’s First Lady, Iris Robinson.

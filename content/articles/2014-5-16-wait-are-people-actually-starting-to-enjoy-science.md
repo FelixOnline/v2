@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160249-jal08-imperialfestival_web.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160249-jal08-imperialfestival_web.jpg"
+image_caption: ""
 ---
 
 The third annual Imperial Festival took place last weekend on campus, and saw students, staff and members of the public alike come together for the ambitious public engagement endeavour. The scientists of Imperial, usually hidden away in their labs and lecture theatres, came out in full force to share what Imperial gets up to in its day to day workings.

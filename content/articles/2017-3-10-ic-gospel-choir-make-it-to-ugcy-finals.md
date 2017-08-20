@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101438-felix-gospel choir.JPG"
-image_caption: >
-
-image_attribution: "ICGC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101438-felix-gospel choir.JPG"
+image_caption: ""
 ---
 
 The Imperial College Gospel Choir (ICGC) family cordially invite you to come and support us in our attempt to make ICGC history by placing top three in the University Gospel Choir of the Year (UGCY) finals.

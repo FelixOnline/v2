@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241300-ps3110-steveballmer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241300-ps3110-steveballmer.jpg"
+image_caption: ""
 ---
 
 Since the explosion of the smartphone, Microsoft has been facing an ever-increasing uphill struggle. With the introduction of iOS and Android, Windows is no longer the only viable OS option out there. iPads and Android tablets might not be the productivity powerhouses that Windows is, but they have certainly provided alternatives to people that would otherwise have no other choice but to buy a Windows laptop. Bill Gates’ brainchild is still by far the number one operating system for personal computers but it hasn’t been showing the growth it used to – and PC manufacturers aren’t happy.

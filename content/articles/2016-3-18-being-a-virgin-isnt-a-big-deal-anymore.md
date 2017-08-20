@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181146-felix-madonna-like-a-virgin.jpg"
-image_caption: >
-  Find that someone who makes you feel shiny and new.
-image_attribution: "Sire Records/Warner Bros"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181146-felix-madonna-like-a-virgin.jpg"
+image_caption: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

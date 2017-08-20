@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
+image_caption: ""
 ---
 
 Launched in London last month was a new online game called Chromaroma. The game is played on the London transport network and utilises your Oyster travel card to gain information regarding your commuting. Players can get points by many different actions but each swipe of your card contributes to your team’s tally. You can go on personal missions to set record times between stations or venture to parts of London that you might not have visited before.

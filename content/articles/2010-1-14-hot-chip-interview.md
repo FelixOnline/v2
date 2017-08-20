@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
+image_caption: ""
 ---
 
 __Kadhim:__ The new album sounds less brash than your previous records, it’s a little more laid back.

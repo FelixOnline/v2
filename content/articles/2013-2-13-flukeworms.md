@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
+image_caption: ""
 ---
 
 [The Artsfest exhibition is an annual institution that has existed since I arrived at Imperial.](https://www.union.ic.ac.uk/arts/artsfest/2013/) It is an important event for those who are involved with the Arts on campus. The show, which is planned to coincide with Imperial College’s festival of art, music and dance, features collaboration between members of Leonardo Fine Arts Society and Photographic Society. Some reader might remember the maze of string last year or the flock of paper cranes the year before.

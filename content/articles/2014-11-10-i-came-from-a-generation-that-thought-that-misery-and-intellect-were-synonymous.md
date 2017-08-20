@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102246-ps3110-c4cp01177e-p3_hi-res.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102246-ps3110-c4cp01177e-p3_hi-res.gif"
+image_caption: ""
 ---
 
 __BF: Why don’t you tell me a little bit about yourself, and why you want to be the next Dean? __

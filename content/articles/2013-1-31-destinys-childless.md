@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312328-tna08-destinys-child-love-songs-nuclear.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312328-tna08-destinys-child-love-songs-nuclear.jpg"
+image_caption: ""
 ---
 
 The pill has been letting women grab life by the balls instead of washing those of unwanted children for over 50 years. Roughly 100 million women worldwide take the pill and this has led to improved quality of living across the globe, huge reductions in numbers of deaths during childbirth and an understandably massive decrease in the number of unwanted pregnancies.

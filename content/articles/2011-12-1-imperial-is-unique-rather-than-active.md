@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Following the sudden impact of the first wave of student protests last year, this week’s pension protests almost seem part of a natural occurrence, but one, nonetheless, that continues to demonstrate the ever-changing nature of political activism. Imperial, however, remains an anomaly amongst institutions as protests continue on (as demonstrated by limited campus action on Wednesday). This is by no means a negative aspect.

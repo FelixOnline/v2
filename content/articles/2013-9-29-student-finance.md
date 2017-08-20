@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291443-tna08-banknote.jpg"
-image_caption: >
-  My mind on my money and my money on my mind
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291443-tna08-banknote.jpg"
+image_caption: ""
 ---
 
 Hopefully anyone who is eligible has already applied for Student Finance England. SFE offers student loans and grants which help cover university fees and living costs. Imperial College London also offers bursaries/scholarships which can be applied for.

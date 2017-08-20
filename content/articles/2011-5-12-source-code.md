@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121739-felix-source-code.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121739-felix-source-code.jpg"
+image_caption: ""
 ---
 
 This week I’d like to talk about ‘Source Code’, a science fiction film released over the Easter break directed by Duncan Jones, who had previously worked on the film ‘Moon’. [Though I gave ‘Moon’ a scathing review](http://felixonline.co.uk/?article=558) my main problem was with the screenplay. That film had a brilliant atmosphere for which Jones was in a large part responsible, so I had great hopes ‘Source Code’.

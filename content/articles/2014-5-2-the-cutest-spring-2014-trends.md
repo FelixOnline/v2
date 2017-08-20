@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Spring is slowly starting to set in in London, and although we’re not feeling the mini-skirt wearing heat yet, these trends work for the transiton stage between winter and summer. On a cooler day, carry around a chunky knit sweater to ward off the occasional chills of the British spring time, and don’t forget to keep a portabe umbrella with you in your hanbag, because one things for sure in this city: There will be spring showers!

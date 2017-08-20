@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
-image_caption: >
-  I refuse to use self checkout. I’m basically temping for free by PLEASE REMOVE ITEM FROM BAGGING ARE
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
+image_caption: ""
 ---
 
 Say you’re on your way home from college, and you need to pop into the supermarket for a cheeky bit of grocery shopping, even dropping by the reduced section to buy a whole cheesecake that not only you’re never going to finish before it goes off but you end up paying more per unit of cheesecake eaten despite the reduction, but you buy it anyway because it has a yellow sticker and you grab it like a magpie in a jewellery shop. There’s also that sense of accomplishment that you’ve ‘beaten’ the supermarket by not paying full price, even though you’re probably playing straight into their hands.

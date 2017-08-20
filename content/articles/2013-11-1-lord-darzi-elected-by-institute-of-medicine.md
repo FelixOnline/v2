@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010911-felix-newseventsimages.jpg"
-image_caption: >
-  Professor Lord Ara Darzi
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010911-felix-newseventsimages.jpg"
+image_caption: ""
 ---
 
 Professor Lord Ara Darzi has been elected by the Institute of Medicine (IOM), which is the health sector of the US National Academy of Sciences.

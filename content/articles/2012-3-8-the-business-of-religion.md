@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082110-ams111-dscf2614.jpg"
-image_caption: >
-  The relationship between religious traditions and business could provide a new angle to Occupy
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082110-ams111-dscf2614.jpg"
+image_caption: ""
 ---
 
 The camp of Occupy London has finally been evicted from outside St Paul’s Cathedral. I had visited the site and talked with a few people. I liked the way they focused attention on the how the current economic crisis is being handled. The camp highlighted the close links between the Cathedral and the City of London. Yet it also had wide support from local UK Churches. Their members feel the economic issues themselves and hear the stories of hardship from their partner communities in developing nations.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230020-tna08-rolo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230020-tna08-rolo.jpg"
+image_caption: ""
 ---
 
 On a chilly Halloween night, it was a great idea to warm our bodies with a pumped up punk show at XOYO courtesy of Rolo Tomassi. Dressed as the Addams family, with the spritely lead singer, Eva Spence, appearing as Morticia, the band kicks off the night with ‘Howl’.

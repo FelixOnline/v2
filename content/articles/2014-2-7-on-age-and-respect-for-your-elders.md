@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Respect your elders” is a mantra that I always felt was redundant. You would give someone due respect if they were reasonable and polite to you, as anyone should be, or you would give them special consideration, such as offering your seat on the bus, if they were physically infirm, not just because they were old. It is not the case that I resent old people; I’m just very suspicious of anyone who demands special treatment for being in a position that is passively attained, like being privately educated, provided that it is not an affliction, though many may view old age as one.

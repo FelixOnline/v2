@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012305-cac111-perfume-genius-put-your-back-n-2-it-cos-(1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012305-cac111-perfume-genius-put-your-back-n-2-it-cos-(1).jpg"
+image_caption: ""
 ---
 
 I saw __Perfume Genius __in November 2010; I hated him. “Whoa there!”, I hear you cry – hot coffee spitting from your mouths in shock. Don’t be too hasty, don’t turn the page, don’t ‘Command + T’ away: there’s redemption at the end of this article.

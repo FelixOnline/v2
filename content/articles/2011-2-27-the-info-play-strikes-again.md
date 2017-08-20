@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271931-ks607-greenlan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271931-ks607-greenlan.jpg"
+image_caption: ""
 ---
 
 Greenland is the National Theatre’s (NT) contribution to the eco-play wave that is washing ominously over London. And they do it unique NT style. Much in the same way as ENRON did a couple of years back for the financial crisis, the piece has dream-cum-documentary-like quality. By dressing science, one part fact to about nine parts opinion of very important eco-people, in emotive stories and metaphorical displays, they provide a kind of jazzy lecture on climate change – imagine TED with more dancing. No matter who you are or where you are, there are two things in life that almost everyone appreciates: scientific rigour and dance. And what Greenland lacks in scientific rigour, it certainly makes up for in dance.

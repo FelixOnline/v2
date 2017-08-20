@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112217-nm1010-students.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112217-nm1010-students.jpg"
+image_caption: ""
 ---
 
 Original by [Markus ](http://bbc.co.uk)Kuhn, adapted for HTML by Martin Dürst.

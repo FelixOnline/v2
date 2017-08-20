@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022018-ks607-rareexpo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022018-ks607-rareexpo.jpg"
+image_caption: ""
 ---
 
 Bored of the festive season? Bored of mince pies and cold weather? If you’re looking for something different this season, you need not look any further than this Finnish film about an ancient child-eating devil Santa, [Rare Exports: A Christmas Tale](http://www.youtube.com/watch?v=9RQlikX4vvw), which has been slated as this year’s premier festive-comedy-horror.

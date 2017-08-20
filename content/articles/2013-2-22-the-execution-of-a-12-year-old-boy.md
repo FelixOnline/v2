@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302221034-tna08-sri-lanka-photo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302221034-tna08-sri-lanka-photo.jpg"
+image_caption: ""
 ---
 
 It is a war that has produced some of humanity’s most shocking and depraved images. But the new photographic evidence, released by Channel 4 News last Monday, is perhaps the most disturbing yet. The first photo shows Balachandran Prabakaran, the 12-year-old son of a Tamil Tiger, being held captive by the Sri Lankan army and looking up anxiously from a fortified bunker. A second photo shows him nervously eating a snack, whilst being watched by a government soldier. Less than two hours later, he will be taken, executed at gun point – and then photographed a third time.

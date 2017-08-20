@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310301548-me1711-game_pleak.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310301548-me1711-game_pleak.jpg"
+image_caption: ""
 ---
 
 Pokémon X & Y saw the first ever simultaneous release of a Nintendo title worldwide. Combined with the fact that the encryption for the 3DS has not yet been broken two years into its release, this has been one of the most exciting release of a Pokémon game in several years, and spell extremely good news for Nintendo.

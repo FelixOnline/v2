@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506121337-cj914-star-wars-battlefront.jpeg"
-image_caption: >
-  A childhood dream come true?
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506121337-cj914-star-wars-battlefront.jpeg"
+image_caption: ""
 ---
 
 If you love star wars, first person shooters or in fact games in general, you could not have missed the fact that the makers of _Battlefield_, __DICE__ are remaking one of the best First Person Shooters (FPS) game ever.

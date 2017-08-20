@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505061333-km2612-dsc_5201.jpg"
-image_caption: >
-
-image_attribution: "Ensemble Intercontemporain"
-image_attribution_link: "http://ensembleinter.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505061333-km2612-dsc_5201.jpg"
+image_caption: ""
 ---
 
 The __Barbican__ brought their _Boulez at 90_ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain. This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.

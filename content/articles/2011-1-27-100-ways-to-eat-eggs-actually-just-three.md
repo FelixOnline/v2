@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
-image_caption: >
-
-image_attribution: "flickr/pietroizzo"
-image_attribution_link: "http://www.flickr.com/photos/pietroizzo/3514192452/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
+image_caption: ""
 ---
 
 Apparently eggs are the ultimate fast food. Some of you may already know this. In fact I know one guy who eats scrambled eggs nearly everyday. Good effort, Steve!

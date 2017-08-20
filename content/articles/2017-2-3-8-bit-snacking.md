@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031734-felix-3473758739_9ae204f630_o.jpg"
-image_caption: >
-
-image_attribution: "Andrew Ell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031734-felix-3473758739_9ae204f630_o.jpg"
+image_caption: ""
 ---
 
 There are a million reasons as to why food appears in video games which is to say there is only really one reason: everybody eats. It might seem obvious but it’s the truth and when you think about it, food plays a much larger role in video games than what you think.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
-image_caption: >
-  The reward for reading this article is a picture of Scarlett Johansson
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012123-pk1811-scarlett-johansson.jpg"
+image_caption: ""
 ---
 
 Reading that title, you can probably roughly guess what this article is going to be about. It’s the trains in Britain. I used to think the trains being often delayed, expensive and not running much on the weekend was an Essex thing, innit. It appears that I was wrong in that assumption, and Mock The Week panellists must be pleased that it’s widespread enough for everyone to appreciate their jokes. I’m just going to go straight for the jugular here: the trains in Britain need to be renationalised

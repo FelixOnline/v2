@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031736-felix-IMG_7489.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031736-felix-IMG_7489.jpg"
+image_caption: ""
 ---
 
 There’s this one question I always get asked: how do I have the time to fit in lectures in the morning, project-work in the afternoon, while managing an Instagram story saturated with #bloggermail, press events and bearded baristas in tiny independent cafés in god-knows-where?

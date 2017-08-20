@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306062047-tna08-shampoo-boy-licht.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306062047-tna08-shampoo-boy-licht.jpg"
+image_caption: ""
 ---
 
 Blackest Ever Black, the aptly named London label that has been grabbing attention with crushingly dark electronic releases for the past few years, seems like an ideal home for Peter Rehberg (PITA, Editions Mego head), Christina Nemec, and Christian Schachinger’s new project Shampoo Boy.

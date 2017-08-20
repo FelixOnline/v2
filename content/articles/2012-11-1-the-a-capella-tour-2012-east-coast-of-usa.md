@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012223-tna08-techtonics-picture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012223-tna08-techtonics-picture.jpg"
+image_caption: ""
 ---
 
 A packed out itinerary involved travelling over 2000 miles and visiting 8 different states on the 13-day tour. From NYC, we headed north to New Haven to visit Yale, where we were able to experience the oldest and most established a cappella scene in the world. We sang a set outside, amongst their beautiful campus buildings in the baking sun, before watching a ‘singing dessert’ concert from one of the 17(!) a cappella groups there, before attending an amazing house-party thrown for us by our guests there. For more detail of all these events, see our [tour blog](http://www.union.imperial.ac.uk/arts/acappella/groups/techtonics8/).

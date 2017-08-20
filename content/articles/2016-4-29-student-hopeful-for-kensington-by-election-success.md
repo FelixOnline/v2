@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291059-felix-6997132774_62093dae36_k.jpg"
-image_caption: >
-  Democracy.
-image_attribution: "Flickr / secretlondon123"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291059-felix-6997132774_62093dae36_k.jpg"
+image_caption: ""
 ---
 
 Next week, local elections are happening up and down the country, most notably the London Mayoral elections, but slightly closer to home is the Kensington and Chelsea Councillor by-election in which Imperial College physics student Ben Fernando is standing.

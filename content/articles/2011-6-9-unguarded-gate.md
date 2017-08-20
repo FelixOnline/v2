@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091850-felix-gate.jpg"
-image_caption: >
-  'Gate'
-image_attribution: "Luca Modenese"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091850-felix-gate.jpg"
+image_caption: ""
 ---
 
 O, Liberty! Is it well to leave the gates unguarded? – Thomas Bailey Aldrich

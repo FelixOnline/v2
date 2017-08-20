@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121130-felix-6142882297_250a80021c_o.jpg"
-image_caption: >
-  If you think the echidna doesn’t look that weird, A) really? B) you clearly haven’t tried to have sex with it.
-image_attribution: "Wendy Eiby"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121130-felix-6142882297_250a80021c_o.jpg"
+image_caption: ""
 ---
 
 Nature documentaries often show the animal kingdom to be a weird and wonderful place, but animal genitalia don’t usually get the attention they rightfully deserve. To right this wrong here’s a list of five of the most bizarre bits on offer out there.

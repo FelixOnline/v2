@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021553-felix-Screen Shot 2017-06-02 at 15.53.05.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021553-felix-Screen Shot 2017-06-02 at 15.53.05.png"
+image_caption: ""
 ---
 
 I went home last week for a few days over the bank holiday. As always when I go home, I opened up Tinder and began to swipe. I mostly use it as a way to keep track of who from school is single, but sometimes use it to shark on hot students and locals.

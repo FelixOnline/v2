@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310161513-me1711-games_fc3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310161513-me1711-games_fc3.jpg"
+image_caption: ""
 ---
 
 Partying. Hostages. Drinks. Machetes. Skydiving. Friends. Pirates. The game starts off with a montage of you (as Jason Brody), your brothers and your friends having the time of their life on a large island in the south pacific. The nightmare quickly begins when Jason wakes up to find himself imprisoned in a bamboo cage by indigenous pirates, and it’s not long before you meet the fiend himself, the psycho pirate lord Vaas.

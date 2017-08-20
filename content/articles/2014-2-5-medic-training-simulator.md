@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402051029-me1711-games_surgeon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402051029-me1711-games_surgeon.jpg"
+image_caption: ""
 ---
 
 There are a ton of simulator games out there. For people who want to try their hand at Farming, driving a bus, or mining a stone quarry there are simulator games out there for you! These games portray all the elements you need to master to be successful in these games, often sacrificing fun in their quest to be 100% accurate. This week, Felix games tried out a simulator game that defies the convention and does the exact opposite of this. Surgeon simulator definitely includes more fun than accuracy and is one of the most hilarious games I’ve ever played.

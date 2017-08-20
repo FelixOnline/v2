@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
-image_caption: >
-  The cover of the offending leaflet
-image_attribution: "RAG"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
+image_caption: ""
 ---
 
 Yesterday the union told RAG its magazine of adverts and satire was “beyond the acceptable bounds of satire or mockery”. RAG were also warned that the individuals involved in writing it could be faced with serious consequences from the college if they continued to distribute the magazine as this would be considered “elevated harassment”.

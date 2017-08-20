@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The whole ‘traingate’ fiasco actually makes me genuinely pity George Osborne. He must have thought he had it bad when 48 % of the public wanted him removed in a cabinet reshuffle (making him even less popular than Nick Clegg). He must have thought it was a notable low when thousands booed him at the Paralympics. In fact, it must have been pretty atrocious ever since his parents were told by doctors there is no cure for a complete lack of empathy. Still, he never could have thought it come to this, no one could ever conceive that their life could hit the depths it did that ominous day en route to Euston: a stranger high fived a train inspector for giving him a ticket.

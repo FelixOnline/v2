@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A body like this doesn’t just happen by accident, you know. I’m gesturing at my midriff here, you can’t see from where you’re sitting, obviously. No, I work hard to maintain my physique, a bristling thirteen stone of organic matter. Here’s my routine for you – seven a.m., wake up. Eight a.m., wake up again. Sometimes I wake up again at nine just for the sheer hell of it, and also because I forget to set my alarm on Sunday evenings.

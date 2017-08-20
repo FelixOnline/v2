@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061405-ff712-oscar_wilde_by_napoleon_sarony_(1821-1896)_number_18_ba.jpg"
-image_caption: >
-  Portrait of Oscar Wilde, Napoléon Sarony, 1882
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061405-ff712-oscar_wilde_by_napoleon_sarony_(1821-1896)_number_18_ba.jpg"
+image_caption: ""
 ---
 
 I have such an obvious fondness for _Arcadia_ – and for Stoppard’s work in general – that my picking it as my favourite play seems like a foregone conclusion. So let’s side step that conversation by turning straight to my second-favourite play. Now comes the requirement to actually think about the answer to this.

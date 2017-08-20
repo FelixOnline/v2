@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032216-sjw209-somepeople.jpg"
-image_caption: >
-  The cricketeers gather
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032216-sjw209-somepeople.jpg"
+image_caption: ""
 ---
 
 Seven of Imperial Cricket’s finest journeyed down to a barn in Hertfordshire last week Saturday only to come away with a moral victory after losing both of their games.

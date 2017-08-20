@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502270033-pk1811-untitled.png"
-image_caption: >
-  The prototype sensor, held by the project’s lead engineer Helen O’Brien.
-image_attribution: "Thomas Angus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502270033-pk1811-untitled.png"
+image_caption: ""
 ---
 
 A team of researchers from the Space and Atmospheric Physics group have reached a new milestone in their mission to study the sun’s magnetic field.

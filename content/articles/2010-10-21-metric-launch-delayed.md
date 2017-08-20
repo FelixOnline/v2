@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It has been a tumultuous week for the Union. While the new bar FiveSixEight has opened with great success and a generally positive response from students, the new club Metric has been further delayed by the discovery of asbestos.

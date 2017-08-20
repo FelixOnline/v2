@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I seem to be in a bit of a gaming rut at the moment. I bought a few games in the Steam sales and in Humble Bundles that I haven’t given due gaming time. Instead of exploring the vastness of my steam library, I am always playing the same game: CounterStrike Global Offensive.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A [poll by the Association of Graduate Recruiters](http://www.agr.org.uk/content/Brighter-outlook-for-graduates-as-vacancy-numbers-increase-for-first-time-since-recession-began) (AGR) of 222 recruiters in the UK reveals an 8.9% annual increase in graduate jobs, with a forecast of a further 3.8% increase for this year.

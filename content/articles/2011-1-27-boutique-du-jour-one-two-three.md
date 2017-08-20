@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271930-nm1010-12333123.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271930-nm1010-12333123.jpg"
+image_caption: ""
 ---
 
 Tucked away in Shoreditch, lives one of London’s most exciting concept stores. 123. Offering beautifully crafted, locally sourced British clothing and accessories, as well as homeware and other trinkets, the main ethos of 123 is anti-mass production: British and vintage sourcing and recycling. Micaela Phillipo, representative for 123, tells us more:

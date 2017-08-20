@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Following the release of their latest effort, _Forever Becoming _(the rather excellent, if a little mystifying artwork is shown on the right) , an album that is instantly distinguishable as __Pelican__, while still breaking new ground, I had the chance to talk to Pelican’s two guitarists, founder member Trevor de Brauw and Dallas Thomas, who joined the band in 2012 to replace Laurent Schroeder-Lebec, about the new album, and a variety of other Pelican related topics.

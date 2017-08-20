@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403101009-cac111-mnight1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403101009-cac111-mnight1.jpg"
+image_caption: ""
 ---
 
 It's one thing to write a review for an Imperial College student production. It's another thing to write a review for such a show you've personally been involved in for two years (both in acting and production) - and therefore already know the good/bad/ugly that comes with it. You find your pride and bias as an insider/alumnus of said production ("oh it was amazing and we could do no wrong!") grapples with your professional view as a neutral outsider with prior external stage experience. Still, that was the situation I willingly put myself in when I made a snap decision to attend Malaysian Society's MNight this year - this time as an audience member with no involvement.

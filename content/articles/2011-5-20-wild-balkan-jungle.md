@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200640-felix-outlook-festival.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200640-felix-outlook-festival.jpg"
+image_caption: ""
 ---
 
 The idea behind Outlook Festival is straightforward: a large number of people; an 18th century fort; a strictly UK-Jamaican bass and dub sound; beach parties; boat parties and, if you need it, a coach named “The Sunshine Bus” to get you from England to Croatia.

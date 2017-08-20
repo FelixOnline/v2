@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271647-felix-images.duckduckgo.com(18).jpg"
-image_caption: >
-
-image_attribution: "Gorillaz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271647-felix-images.duckduckgo.com(18).jpg"
+image_caption: ""
 ---
 
 Gorillaz are back – and this time they are as political as they are whacky.  Having teased a new album through Instagram and SoundCloud releases over the past few months, Gorillaz released the brand new track Hallelujah Money (ft. Benjamin Clementine) on the eve of Trump’s inauguration.  The Damon Albarn-led virtual band described the track in their own words as a  “commentary on a politically-charged, historical moment”.

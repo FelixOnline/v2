@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
-image_caption: >
-  But we did win the unofficial award for highest typo rate <3
-image_attribution: "Lenore Edman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
+image_caption: ""
 ---
 
 UPDATE: We didn't win anything, there is no god, and everything sucks

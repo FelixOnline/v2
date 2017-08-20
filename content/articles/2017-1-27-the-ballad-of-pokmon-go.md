@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271734-felix-30549920024_e4133e1eea_k.jpg"
-image_caption: >
-   Blasted surver issues again
-image_attribution: "Skinny Casual Lover"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271734-felix-30549920024_e4133e1eea_k.jpg"
+image_caption: ""
 ---
 
 Ah, Pokémon GO. What it was and what it could have been. It was a sensation that gripped so many people only to come crashing down.

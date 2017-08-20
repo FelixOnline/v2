@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281118-felix-scary_cat_fin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281118-felix-scary_cat_fin.jpg"
+image_caption: ""
 ---
 
 Imperial’s music scene is certainly underground. The bright morning sunshine rarely reaches its dark recesses and its artists receive little attention. The [Felix Music Nights](http://www.facebook.com/event.php?eid=289649254397857) are our way of celebrating this under-appreciated scene and also fostering it; bringing more students into the tent and saying, “Hey, there’s a good thing going on here.” The formula hasn’t changed since [last year’s successes](http://felixonline.co.uk/music/946/1902-felix-music-night/): scout the finest DJs from [Music Tech](http://www.imperialcollegeunion.org/clubs-and-societies/a-to-z/m/music-tech/), sniff out some red-hot bands from [Jazz & Rock](http://www.union.ic.ac.uk/arts/jazzrock/), and grab London’s most hyped up-and-coming artists to headline.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
-image_caption: >
-  Valentin Klotz, View of grave on the Mass after a siege, 1675.
-image_attribution: "The Courtauld Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
+image_caption: ""
 ---
 
 This January sees the opening of the __Gilbert & Ildiko Butler____drawings gallery__ at the Courtauld. The wonderful purpose built gallery, designed by 2013 Stirling prize winners Witherford Watson Mann Architects, finally gives the public a chance to see one of the most celebrated collections of drawings in the country. With over 7000 works, this is a remarkable opportunity to see a glimpse into the overlooked riches of the __Courtauld Institute. __

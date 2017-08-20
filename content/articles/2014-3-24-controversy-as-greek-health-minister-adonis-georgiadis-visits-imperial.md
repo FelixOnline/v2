@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
+image_caption: ""
 ---
 
 Last Sunday the College was visited by Adonis Georgiadis, the Greek Health Minister. The event – organised by the Imperial College Hellenic Society and held in the Clore Lecture Theatre – both from College and outside. One Imperial student gives his perspective:

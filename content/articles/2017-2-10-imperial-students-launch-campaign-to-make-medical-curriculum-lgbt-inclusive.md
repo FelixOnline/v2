@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101338-felix-9941609134_f0f40a4663_o.jpg"
-image_caption: >
-
-image_attribution: "Ted Eytan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101338-felix-9941609134_f0f40a4663_o.jpg"
+image_caption: ""
 ---
 
 The founding principles of the NHS were that it should meet the needs of everyone, be free at the point of delivery, and be based on clinical need, not ability to pay. Those of us watching BBC’s Hospital last week, were reminded of the importance of these values, as we witnessed overseas patients facing exorbitant bills for life-saving treatment.

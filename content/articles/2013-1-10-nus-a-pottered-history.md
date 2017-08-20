@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Personally, I have a great deal of respect for Liam Burns. I should imagine he has an incredibly difficult job attempting to mire the two ends of the tertiary education system: Higher Education (Universities) and Further Education (more vocational courses). The two systems – in my opinion -have very different needs and objectives. And so how can one body, the NUS, ever hope to properly represent everyone? Well, I don’t think it can.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012243-tna08-onezoon.jpg"
-image_caption: >
-
-image_attribution: "http://www.onezoom.org/"
-image_attribution_link: "http://www.onezoom.org/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012243-tna08-onezoon.jpg"
+image_caption: ""
 ---
 
 Imperial saw the advent of [OneZoomTM ](http://www.onezoom.org/)this month, a navigable, online Tree of Life that allows for easy exploration of mammals and how they are related to each other genetically. Using a click of a mouse, you can scroll through millions of years of evolutionary hardship to come to the organisms it has shaped today, each settled cosily on a little leaf.

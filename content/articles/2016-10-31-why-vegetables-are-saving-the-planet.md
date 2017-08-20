@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311606-felix-salad-498203_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311606-felix-salad-498203_1280.jpg"
+image_caption: ""
 ---
 
 I can already feel the eye-rolls. The “Oh, this vegan hippy nonsense again” eye-roll, so before I lose you all, let me promise that I’m not going to preach about animals’ feelings or inform you how tasty avocado is. What I am going to tell you about is a VegFest-induced realization of how easy it is to make a difference to the environment and how many people are doing so already.

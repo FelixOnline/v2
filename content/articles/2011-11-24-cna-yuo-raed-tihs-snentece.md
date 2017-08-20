@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Throughout the history of neuroscience, we have often been amazed by the brain’s capability and workings. Instances like the ability to read the jumbled headline above intrigue us – how is a mess of letters comprehensible?

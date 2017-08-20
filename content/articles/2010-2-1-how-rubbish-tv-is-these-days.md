@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011703-rsp07-remote.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011703-rsp07-remote.jpg"
+image_caption: ""
 ---
 
 Anyone who has lived in the new Eastside/Southside complex of halls in Princes Gardens (of which I am one!) would know that every kitchen comes with a flat screen plasma TV. To achieve superiority, this fact would be bragged about countless times in conversations with friends of other universities or even with the older years at Imperial.

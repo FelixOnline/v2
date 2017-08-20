@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202031030-sjw209-kad.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202031030-sjw209-kad.jpg"
+image_caption: ""
 ---
 
 At first sight an event that describes itself as an open mic poetry night may not seem like something everyone can enjoy. You may even assume that it, and by extension anyone writing about it, will be pretentious; perhaps you think it will be the sort of night where somebody without a beret would be persona non grata (see, not pretentious, quod erat demonstrandum… too meta a joke?). I can assure you, _[Fluent on Paper](http://www.facebook.com/events/173620746075860/)_ is not at all like that.

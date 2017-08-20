@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205040159-felix-george.jpg"
-image_caption: >
-  St George’s, University of London
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205040159-felix-george.jpg"
+image_caption: ""
 ---
 
 Imperial has dropped nine places from last year in the [_Times Higher Education_](http://www.timeshighereducation.co.uk/) (_THE_) Student Experience Survey to take joint 71st place with Canterbury Christ Church University. The University of Dundee topped the survey with a score of 85% while Imperial scored 73.4%, slightly lower than the average of 75.1%.

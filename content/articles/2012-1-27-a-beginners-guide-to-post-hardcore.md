@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
+image_caption: ""
 ---
 
 The point of this column is to give you enough guidance so that you can go out into the big bad world of post-hardcore and not end up naked, lying in filth and eating your own rancid faeces. That was meant to be symbolic for listening to poor music by the way. To set you up with a solid foundation, the first few episodes in this saga consist of the older but integral champions of this genre and to add another sturdy block to this foundation, this week I give you __[Glassjaw](http://www.myspace.com/glassjaw)__.

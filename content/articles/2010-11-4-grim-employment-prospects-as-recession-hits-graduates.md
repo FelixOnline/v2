@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Graduate unemployment has risen to 8.9%, a rise of one percentage point from the previous year. This is the conclusion of a survey by the [Higher Education Careers Services Unit](http://www.hecsu.ac.uk/index.htm) (HECSU) of 225,000 graduates questioned in January this year, after leaving university in the summer of 2008.

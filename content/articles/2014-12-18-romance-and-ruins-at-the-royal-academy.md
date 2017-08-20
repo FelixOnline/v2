@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212224-ps3110-anselm-kiefer-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212224-ps3110-anselm-kiefer-1.jpg"
+image_caption: ""
 ---
 
 Anselm Kiefer is not an artist to approach in half measures. When I read that, in 1992, he turned his 35 acre studio in Barjac, France, into a giant Gesamtkunstwerk comprised of storerooms, installations, paintings, underground chambers, corridors, striking glass structures and huge lead sculptures, I thought that maybe, in the pretty, well presented halls of the Royal Academy of Art (RAA), a certain undertone of Kiefer’s work may well be lost on me. It wasn’t.

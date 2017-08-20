@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201509-felix-baking-1293986_1280.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201509-felix-baking-1293986_1280.png"
+image_caption: ""
 ---
 
 Everyone is familiar with the perceived positive and negative connotations of Marijuana. In 2016 alone, 51% of Americans smoked cannabis, and its global use is on the rise due to recent legalisation in several US states. However, despite its widespread use, surprisingly little has been confirmed in terms of its effects on the human body.

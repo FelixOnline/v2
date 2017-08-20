@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial’s 11 players were prepared take on the table-topping Chichester, who had yet to drop a point this season. The opponents kicked off the first half and chased well to settled into Imperial’s 22. They retained possession through numerous phases and combined well between forwards and backs. Good support in defense saw Imperial turn the ball on several occasions but were unable to clear their lines having to kick against the blistering wind. Chichester even managed to make their way over the 5 m line, but Imperial held firm despite playing the first 10 minutes in their own half.

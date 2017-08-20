@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202005-nm1010-joanaaaa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202005-nm1010-joanaaaa.jpg"
+image_caption: ""
 ---
 
 Tucked away down side streets, in basements and attics away from the crowds, small gig venues give you the opportunity to see the bands that will be playing the big venues in a year or two’s time up close and personal at a fraction of the price. Here are a few of the best ones:

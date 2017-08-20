@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012217-felix-imperial_medicine-096.jpg"
-image_caption: >
-  Professor Lord Ara Darzi is a key figure in the partnership’s development
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012217-felix-imperial_medicine-096.jpg"
+image_caption: ""
 ---
 
 Imperial College London is establishing ties with numerous healthcare providers in North West London including approximately eleven NHS Trust hospitals and institutions. The new Academic Health Science Partnership (AHSP), to be launched in April 2012, aims to improve the health and care of the local population of 1.9 million people.

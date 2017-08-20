@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
-image_caption: >
-  What’s worse, lookin’ jealous or crazy?
-image_attribution: "Beyoncé"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
+image_caption: ""
 ---
 
 A couple of months ago, I wrote an open letter in Felix. It was directed at my very recent ex-boyfriend, and in it I attempted to verbalise the pain I felt and some of the things I realised in the wake of our breakup. It wasn’t something that I wrote originally with the intention of publishing it in FELIX, but for me, the act of editing it for publication and seeing it printed was incredibly cathartic.

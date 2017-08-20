@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211231706-tna08-imp251012_fringehearts_009.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211231706-tna08-imp251012_fringehearts_009.jpg"
+image_caption: ""
 ---
 
 Bad puns aside[ Imperial Fringe ](http://www3.imperial.ac.uk/festival/fringe)this month is all set to put bones under microscope in an evening of skeletal debauchery on the Thursday the 29th of November.

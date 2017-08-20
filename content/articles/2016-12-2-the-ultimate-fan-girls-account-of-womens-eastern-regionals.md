@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021653-felix-Womens Regionals.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021653-felix-Womens Regionals.jpg"
+image_caption: ""
 ---
 
 On the 19th and 20th of November, I participated in the Women’s Eastern Regionals for Ultimate Frisbee. While I could just list the outcomes of matches, I think it’s time the sports section of felix discussed what goes the behind the scenes of an ultimate tournament – particularly from the lens of an inexperienced player.

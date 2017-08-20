@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112123-cj914-mtsoc.jpg"
-image_caption: >
-  The cast relax during a break in rehearsal.
-image_attribution: "Shankho Chaudhuri"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112123-cj914-mtsoc.jpg"
+image_caption: ""
 ---
 
 The Musical Theatre Society (MTSoc) ended their Autumn season last week with an all-singing, all-dancing musical revue. _Carrying The Banner _featured numbers from a spectrum of different musicals and cabaret acts, including _Wicked_ and _Avenue Q_.

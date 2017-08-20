@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031447-ps3110-screen-shot-2015-03-03-at-14.46.58.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031447-ps3110-screen-shot-2015-03-03-at-14.46.58.png"
+image_caption: ""
 ---
 
 On Saturday 21st February 2015, the Recreational Clubs Committee held its annual Night Hike, a team orienteering-style competition held at night in the countryside around London, open to all students, staff and alumnus of Imperial. This year the competition returned to its original base of Amersham, Buckinghamshire and with a record 44 teams and 151 competitors, it was set to be a night to remember!

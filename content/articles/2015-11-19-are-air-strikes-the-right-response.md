@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192241-ygr12-black-and-white-city-bird-people.jpg"
-image_caption: >
-
-image_attribution: "pexels.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192241-ygr12-black-and-white-city-bird-people.jpg"
+image_caption: ""
 ---
 
 In the wake of last Friday’s horrific attacks on Paris, it’s important that we remain calm and collected when dealing with our enemies. To defeat terrorism we need a well thought out and multilateral response. Instead, on Saturday, Francois Hollande responded with a futile act of revenge. By bombing ISIS and declaring war, we prove their world view, that the world is black and white, and play into the insidious narrative of us versus them.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Wednesday, the Women’s 2nd Fencing Team faced King’s for the 8th BUCS league match of the season. The team needed a win to defend their current ranking of 3rd place in the league, and to boost team morale as the two previous matches had both been losses.The situation initially looked dire, as one fencer was clearly ill, and two people were injured from the week before.

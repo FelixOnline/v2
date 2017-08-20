@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Living the typical meagre student existence at Imperial College in South Kensington, one of the wealthiest boroughs in one of the world’s most expensive cities, was never going to be easy. But my soon–to–be alma mater (assuming I pass my damned degree) is going to make it a whole lot harder with the increase in tuition fees. The powers that be feel that Imperial is esteemed enough to demand £9,000 a year for a degree, and had this been the case when I was applying for university, I feel my parents would have been far less supportive of me coming here. After all, they have had to suffer most of the costs.

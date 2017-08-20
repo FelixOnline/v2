@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290210-ps3110-o-douglas-carswell-facebook.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290210-ps3110-o-douglas-carswell-facebook.jpg"
+image_caption: ""
 ---
 
 Anti-austerity protests took place in London on Wednesday, with demonstrators taking to the streets alongside the Queen’s Speech in the newly elected Parliament.

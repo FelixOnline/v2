@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011718-rsp07-tannaka.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011718-rsp07-tannaka.jpg"
+image_caption: ""
 ---
 
 The Financial Times World Rankings is one of the most respected international league tables for Business Schools. In their latest annual assessment, released this week, Imperial College Business School has moved up seven places to 32nd place in the world. Its Principal, Professor David Begg, has given felix Business his thoughts on the School and its future plans.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Be honest now. You love this exam period. It’s the ultimate trump card, a super-charged get-out-of-anything free excuse accepted by everyone. Exercise? Can’t, exams. Important favours? Can’t, exams. Washing? Can’t, exams.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305072032-tna08-greece_1.png"
-image_caption: >
-
-image_attribution: "All photos: Natalia Petrou"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305072032-tna08-greece_1.png"
+image_caption: ""
 ---
 
 With summer vacations just a stone’s throw away, it seemed ideal for me to think about possible summer destinations. The first thing that crosses all our minds when thinking about summer is, of course, sun, and consequently we think about Mediterranean countries. This article will be dedicated to my personal home country, namely Greece.

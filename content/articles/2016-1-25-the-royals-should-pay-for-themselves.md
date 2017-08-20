@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601251428-felix-Prince Harry.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601251428-felix-Prince Harry.jpg"
+image_caption: ""
 ---
 
 For a long time, the UK has been wading through an era of cuts, cuts and more cuts. The NHS is expected to shave off £20bn in costs by 2021, schools are preparing for 16% cuts over the next three years, and controversial plans to reduce working tax credits have been in the public eye recently. Despite there being some overly optimistic murmurs of an end to austerity, it’s looking unlikely that George Osborne is going to start splashing the cash any time soon. It’s a sticky situation that, supposedly, we’re all in together.

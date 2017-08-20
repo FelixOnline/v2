@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141543-rsp07-ChengZha.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141543-rsp07-ChengZha.jpg"
+image_caption: ""
 ---
 
 Well done terrorism – you’ve won again. A single guy is discovered with (potentially) explosive underpants and now millions of pounds of taxpayers’ money is being spent on full body scanners in airports. Initially, there was a fuss over liquids, which are still banned until 2011. Presumably someone somewhere in the world was discovered with a bottle of liquid which was apparently part of a wider bomb plot. As a result of that, millions of travellers not only have to endure excessively long queues but are left baffled every day when their bottles of juice and plastic bags are confiscated by security personnel. Terrorists around the world must be rubbing their hands together gleefully at the thought of the millions of pounds we’ve been forced to spend on largely meaningless and useless crap every time there’s even a whiff of suspected terrorist activity. I wouldn’t be surprised if the terrorists who plotted the daring underpants raid had shares in these body scanner producing companies.

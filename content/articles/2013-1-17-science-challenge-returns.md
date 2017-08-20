@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172353-tna08-scichalimperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172353-tna08-scichalimperial.jpg"
+image_caption: ""
 ---
 
 The RCSU Science Challenge returns! With a total prize-pot of over £4,000 to give away and the chance to win an all-expenses paid trip to CERN, Geneva, this is a competition you don’t want to miss.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
-image_caption: >
-  Nerve cells captured with Amos’ mesolens
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
+image_caption: ""
 ---
 
 Brad Amos, who contributed significantly to the development of the laser scanning confocal microscope while working at the Medical Research Council in Cambridge, has developed a new giant microscope, the ‘Mesolens’, that allows the imaging of an entire mouse embryo in subcellular detail.

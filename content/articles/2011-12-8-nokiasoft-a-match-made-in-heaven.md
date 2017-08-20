@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
-image_caption: >
-  deadmau5 helped to launch the Nokia Lumia 800 at Millbank Tower in late November
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
+image_caption: ""
 ---
 
 When Nokia announced their partnership with [Windows Phone 7](http://www.microsoft.com/windowsphone/en-us/default.aspx) instead of Android back in February I honestly thought that they’d made one of the biggest mistakes in the company’s history. How wrong I was.

@@ -36,14 +36,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051241-felix-IMG_0018.JPG"
-image_caption: >
-  Indira the Arts Editor wonders round a virtual gallery.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051241-felix-IMG_0018.JPG"
+image_caption: ""
 ---
 
 The year of virtual reality is finally upon us. This week, the FELIX team tried Gear VR, Samsung’s mobile virtual reality headset.

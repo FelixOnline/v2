@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012116-ams111-sportinterview.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012116-ams111-sportinterview.jpg"
+image_caption: ""
 ---
 
 As we roll into December, the Captains’ interviews just keep on coming! This week, we have one of the quirkier Imperial sports on display: Dodgeball. Alan Soltani, a 3rd year physicist and Dodgeball club captain, is the man of the hour. We meet up in Beit quad to talk about balls, wrenches and more.

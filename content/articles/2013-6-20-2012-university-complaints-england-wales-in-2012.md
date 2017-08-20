@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306201735-txl11-free-hd-sad-keanu-wallpapers.jpg"
-image_caption: >
-  Sad Face Keanu
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306201735-txl11-free-hd-sad-keanu-wallpapers.jpg"
+image_caption: ""
 ---
 
 [I kid you not.](http://felixonline.co.uk/arts/3725/complaints-on-the-rise/) The title highlights a rise of 25% in complaints lodged to the Office of the Independent Adjudicator from academic institutions in England and Wales.

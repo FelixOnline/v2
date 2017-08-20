@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192344-kmw13-tbl_varsity_quick_set_20h38m25s.jpg"
-image_caption: >
-
-image_attribution: "Ben Lester"
-image_attribution_link: "http://throughbenslens.co.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192344-kmw13-tbl_varsity_quick_set_20h38m25s.jpg"
+image_caption: ""
 ---
 
 Varsity, the annual College-wide sports event took place on Wednesday, with matches taking part across London between teams of students from Imperial College (IC) and teams of Imperial College School of Medicine (ICSM) students. Imperial College stormed to victory ahead of the Medics, with IC winning 15.5 games overall, and ICSM winning 8.5 games.

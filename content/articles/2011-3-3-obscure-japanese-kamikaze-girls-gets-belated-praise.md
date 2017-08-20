@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104220153-felix-r13_m.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104220153-felix-r13_m.jpeg"
+image_caption: ""
 ---
 
 Mention that you’ve watched a film called Kamikaze Girls the first thing people tend to ask is whether you have a fetish for Japanese adult videos. Appearances can be deceptive however, and this adaptation of [Novala Takemoto’s](http://en.wikipedia.org/wiki/Novala_Takemoto) novel tells the story of the quirky friendship that develops between two girls of vastly differing tastes.

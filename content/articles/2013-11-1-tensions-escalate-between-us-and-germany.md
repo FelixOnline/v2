@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 NSA whistleblower, Edward Snowden, has recently leaked documents stating that the US has been monitoring phone calls of Angela Merkel and other European leaders. According to a German newspaper, Der Spiegel, the US has been monitoring Angela Merkel’s phone since 2002. Such operations are said to be carried out by the US in 80 destinations around the world including Brazil, Mexico and France. This has resulted in growing anti American sentiment in these countries.

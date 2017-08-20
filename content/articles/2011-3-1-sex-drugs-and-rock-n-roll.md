@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012141-ks607-sexdrugs.jpg"
-image_caption: >
-  Not much "joint social territory" being created here...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012141-ks607-sexdrugs.jpg"
+image_caption: "Not much joint social territory being created here..."
 ---
 
 I listen to Puccini, others listen to rock, while others still listen to some horrid musical genre called drum and bass. It would be obvious to point out that music plays a central role in our lives, but what is specifically interesting about music is how it reinforces and defines the personal spaces we choose to live in. This is something that Dr. Harry Witchel, of the Brighton and Sussex Medical School, calls “social territory”. As he explains in his new book, “it is not a place – it is a state of mind that triggers various behaviours of empowerment.”

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181454-felix-5274270428_c4dff8b634_b.jpg"
-image_caption: >
-
-image_attribution: "renatodantasc"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181454-felix-5274270428_c4dff8b634_b.jpg"
+image_caption: ""
 ---
 
 It seems wearable tech is becoming somewhat of a fashion trend around the world. And many new products coming into play this year take their inspiration from the 1980s film franchise: Back to The Future. Nike were the first to stun the world with the first-ever line of self lacing trainers, The HyperAdapt, which they based on Marty Mcfly’s footwear in the second film. These trainers have been designed with a sensor located at the heel, triggering the fitting process when activated. The new line will be available on November 28th with an initial selling price of $720.

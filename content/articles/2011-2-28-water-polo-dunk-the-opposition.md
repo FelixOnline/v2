@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Despite a good season so far in the London League, Imperial College's Mixed Water Polo team went into their final match of the year on Monday, UCL 1sts away, knowing that it would be their most challenging match so far. A clear three point lead going into the match meant that only a draw was needed to hold the top spot, but with several team members injured the outlook was not good.

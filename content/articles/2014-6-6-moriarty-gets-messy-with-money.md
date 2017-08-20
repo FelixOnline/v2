@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060348-jal08-arts-birdland_2877186b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060348-jal08-arts-birdland_2877186b.jpg"
+image_caption: ""
 ---
 
 __I__t is a strange quirk of the human condition that we can enjoy being uncomfortable. Simon Stephens’ new play_ Birdland_ at the Royal Court Theatre manages to captivate an audience whilst remaining incredibly painful to watch.

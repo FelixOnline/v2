@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211131-so515-icimages.jpg"
-image_caption: >
-  Sherfield hadn’t been this packed since lunchtime
-image_attribution: "Imperial College"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211131-so515-icimages.jpg"
+image_caption: ""
 ---
 
 Esteemed theoretical physics boffin, Professor Stephen Hawking, gave a lecture on Monday evening, speaking on black holes, Hawking Radiation, and AI.

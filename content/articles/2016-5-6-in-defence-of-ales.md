@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061048-felix-squirrel ale.jpg"
-image_caption: >
-  Like me, you can enjoy classy beverages like this.
-image_attribution: "Brewdog"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061048-felix-squirrel ale.jpg"
+image_caption: ""
 ---
 
 Every Friday I pick up a copy of FELIX to glance at the headline, look at the centrefold to see if I recognise anyone in it, quietly complain to myself that my half-hearted attempts at developing a six-pack have yet to succeed, read Hangman, lament the fact that it's only one page long, and amuse myself with the idea of running for Felix Editor just to convert the whole damn thing into 32 pages of Hangman 4 teh lulz (note to Grace, I’m not actually seriously going to do it).

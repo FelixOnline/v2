@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102041648-sjw209-DeadSpac.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102041648-sjw209-DeadSpac.jpg"
+image_caption: ""
 ---
 
 In the immortal words of John McClane: [“How can the same shit happen to the same guy twice?”](http://www.imdb.com/title/tt0099423/quotes?qt0457572) In this case the ‘shit’ is another alien infection and the ‘guy’ is everyone’s favourite space engineer, Isaac Clarke (lose a thousand nerd points if you miss the reference).

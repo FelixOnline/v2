@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Imperial male is very much a wonder to behold. What this population lacks in female companionship is makes up with a multitude of complex social rituals; whether it is the drinking circles of the rugby team, the LAN parties of the computer scientists or the Friday night pizza fest down in the sci-fi library.

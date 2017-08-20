@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051244-felix-Mozart-in-the-Jungle-TV-Series-Cast-Poster-Wallpaper.jpg"
-image_caption: >
-  Full of style and substance.
-image_attribution: "Amazon Prime"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051244-felix-Mozart-in-the-Jungle-TV-Series-Cast-Poster-Wallpaper.jpg"
+image_caption: ""
 ---
 
 If you followed this year’s Golden Globes, you might’ve been surprised by Mozart in the Jungle sweeping the Best Television series – Comedy, and Best Actor in a Television series – Musical or Comedy categories. By virtue of being an Amazon Original, this show has flown under most people’s radars.

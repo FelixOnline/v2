@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122322-jyg11-19om08cowley.jpg"
-image_caption: >
-  Professor Cowley, potentially the busiest man in the world, pauses to use a blackboard. inset: the fandom is strong with this one
-image_attribution: "Oxford Mail"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122322-jyg11-19om08cowley.jpg"
+image_caption: ""
 ---
 
 Professor Steven Cowley is the CEO of the United Kingdom Atomic Energy Authority and a part-time professor in plasma physics here at Imperial College. But that’s not what catches the attention of an entire cohort of physics undergraduates every year – it’s his lectures, where his charisma and confidence along with sheer passion for the subject captivates the young audience.

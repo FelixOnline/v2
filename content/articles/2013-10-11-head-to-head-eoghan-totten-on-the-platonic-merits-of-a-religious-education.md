@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Immanuel Kant, perennial philosopher of the 18th century, once made two key distinctions. Firstly, objects act in accordance with fixed rules. The latter distinction clarified that rational agents (you and I) formulate actions with flippant regard to mere conceptions of those rules. One would therefore conclude that certain elements of humanity prove to be flawed. Many would concede that Roman Catholicism, in recent decades, serves as a fitting allegory. Be it the sex abuse scandals portrayed to perpetuate ad infinitum or the Vatican’s dogmatic condemnation of contraception, the church has received its fair share of criticism (as has religion as a whole).

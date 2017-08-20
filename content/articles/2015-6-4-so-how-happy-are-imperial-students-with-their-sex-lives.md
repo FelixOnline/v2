@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
-image_caption: >
-  It’s like a giant game of Where’s Wanker?
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
+image_caption: ""
 ---
 
 Overall, 62% of us are ‘happy’ or ‘very happy’ with our sex lives at Imperial. Only 21% reported that they were ‘unhappy’ or ‘very unhappy’ (sorry folks), while 15% didn’t feel one way or the other.

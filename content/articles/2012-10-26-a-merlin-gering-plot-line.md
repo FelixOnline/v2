@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260338-tna08-dragon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260338-tna08-dragon.jpg"
+image_caption: ""
 ---
 
 The new series of Merlin started three weeks ago, and we tuned in (on iPlayer) with anticipation. I’m not going to lie – you don’t watch Merlin for the brilliant graphics, or to learn something new about the way that Camelot and the Arthurian legends played out. The interpretation of the legends is pretty straightforward – but what this adaptation does bring to the screen is a refreshing youth that is not associated with the tales of old in the way you would expect.

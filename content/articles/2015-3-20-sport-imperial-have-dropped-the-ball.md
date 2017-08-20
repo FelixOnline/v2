@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week was meant to be a celebration of women at Imperial, as the women’s rugby team was set to headline Varsity for the very first time. The evening was meant to pay homage to the incredible progression of women’s sport and in fact women at Imperial in general, but in reality, due to the thoughtlessness of the staff of Sport Imperial, it fell flat on its face.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We have the deepest sympathy for Imperial's senior management. The government's schizophrenic and frankly gormless policy (or lack thereof) on higher education must be infuriating for those trying to formulate long-term plans and strategies for this institution.

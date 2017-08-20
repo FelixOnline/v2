@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061649-cj914-brand96_w_3147107b.jpg"
-image_caption: >
-  Comedian and political activist Russell Brand has been encouraging young people not to vote and has written a book on modern politics titled Revolution
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061649-cj914-brand96_w_3147107b.jpg"
+image_caption: ""
 ---
 
 With just 61 days to go until polling stations open across the United Kingdom, party election campaigns are well under way. In 2010, voter turnout was at 65%. The over-65’s demographic had an overall turnout of 76%. Amongst 18-24 year olds, however, turnout was only 44% and recent polls indicate that number will be even lower on 7th May.

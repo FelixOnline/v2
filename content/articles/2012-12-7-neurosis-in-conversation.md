@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070340-tna08-neurosis1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070340-tna08-neurosis1.jpg"
+image_caption: ""
 ---
 
 One of the most influential bands out there, progressive sludge outfit __Neurosis__ have left their mark on the metal scene and anyone who’s seen their live performance. After seeing an impressive show of theirs at ATP,I was able to speak to Scott Kelly of Neurosis about Neurosis’ decision to remove visuals from their live set, his solo project and the post metal scene.

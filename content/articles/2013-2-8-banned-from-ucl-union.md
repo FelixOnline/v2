@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080123-tna08-uclunion.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080123-tna08-uclunion.jpg"
+image_caption: ""
 ---
 
 Imperial students were banned from the [University College London Union](http://uclu.org/) (UCLU) following accusations of criminal damage and theft by Medics RAG during their Circle Line Pub Crawl.

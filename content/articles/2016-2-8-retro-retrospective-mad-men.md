@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602081741-sa8713-madmen1-1024x576.jpeg"
-image_caption: >
-
-image_attribution: "AMC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602081741-sa8713-madmen1-1024x576.jpeg"
+image_caption: ""
 ---
 
 Last year marked the end of lots of things; Jon Stewart’s run on the Daily Show, Bill Cosby’s career, Meek Mill’s career, 2014, and many beloved TV shows. Of these, one was Mad Men, a series I discovered, binge watched, and fell in love with, all in the space of about two weeks. Centring on the enigmatic and dapper Don Draper, played by a perfectly cast Jon Hamm, the show follows the exploits of the men and women of the Sterling-Cooper advertising agency; as they attempt to navigate through the rapidly changing world of 1960s New York.

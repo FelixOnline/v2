@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
-image_caption: >
-  Thankfully that didn’t ruin my shirt!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
+image_caption: ""
 ---
 
 As CollegeHumour once said: “The two things you could always kill in videogames were nazis and zombies, there was no moral ambiguity there. So to combine them is just brilliant!” Now combine this with the award winning game Sniper Elite, and it seems like you have a high chance of a really fun game. The game Sniper Elite on its own is a tactical sniper simulation, set in world war two. With heavy focus on gameplay and realism, it was quite a fun game to play. Furthermore Sniper elite included an absolutely visually brilliant X-Ray kill cam, which played on every other successful long distance head shot. Now considering the way that many games have gone (Call of Duty, Red Dead Redemption etc.) releasing a zombie version is not that farfetched.

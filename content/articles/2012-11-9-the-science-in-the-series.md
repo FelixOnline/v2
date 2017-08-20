@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091327-tna08-bones.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091327-tna08-bones.jpg"
+image_caption: ""
 ---
 
 Recently, I read an interesting article about outraged nerds demanding a change of the outdated definition of the term nerd. As it stands, the official translation according to the Oxford English Dictionary is “a foolish or contemptible person who lacks social skills or is boringly studious”. At a university such as this there is no shortage of nerds or people that may be considered boringly studious. Most Imperial students would probably join in this uproar against old-fashioned terminology that fails to convey the full meaning of what it means to be a nerd!

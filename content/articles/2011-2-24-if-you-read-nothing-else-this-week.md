@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241859-nm1010-pipipipi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241859-nm1010-pipipipi.jpg"
+image_caption: ""
 ---
 
 Looking for a thought provoking but comfortable and easy read? Look no further. A book which should not be rejected for having pi in the title. Don't worry, there's nary a mention of the ratio of a circle to its diameter between its covers.

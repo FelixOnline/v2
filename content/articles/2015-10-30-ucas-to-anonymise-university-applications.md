@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301228-ygr12-cameron-approves.jpg"
-image_caption: >
-  Cameron supports anti-bias measures and tax credit cuts
-image_attribution: "Reuters"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301228-ygr12-cameron-approves.jpg"
+image_caption: ""
 ---
 
 This week the government announced plans to remove candidate names from university applications in a move to prevent unconscious bias against ethnic minority candidates.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
+image_caption: ""
 ---
 
 As mentioned in last weeks news bubble Apple had a key note last tuesday. That day confirmed most rumours on the internet as well as some pleasant surprises. However if you are looking at the news, scratching your head and wondering how this will affect anything in your life, read on dear reader and all shall be explained!

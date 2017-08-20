@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101231-felix-69729963_a737132ad6_o.jpg"
-image_caption: >
-
-image_attribution: "TS Pakhrin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101231-felix-69729963_a737132ad6_o.jpg"
+image_caption: ""
 ---
 
 If you only hold a European passport, you might want to consider applying for permanent residence in the UK, if not for British citizenship. Or at least that is what immigration lawyers invited to Imperial are advising, in a series of presentations for College’s European staff, to help them navigate the post-Brexit landscape.

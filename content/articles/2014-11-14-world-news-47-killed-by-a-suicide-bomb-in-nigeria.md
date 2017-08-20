@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142008-ps3110-11-10-2014yobe_nigeria.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142008-ps3110-11-10-2014yobe_nigeria.jpg"
+image_caption: ""
 ---
 
 On the morning of Monday 13th November, an explosion detonated by a female suicide bomber killed 47 people and injured 79 others in Yobe, Niberia. The attack took place at a local school, and the suicide bomber entered the school undetected, wearing a school uniform and carrying explosive materials in a backpack.

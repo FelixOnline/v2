@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121734-felix-colloseum-in-rome.jpg"
-image_caption: >
-  The Romans earthquake-proofed this, right?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121734-felix-colloseum-in-rome.jpg"
+image_caption: ""
 ---
 
 Urban myth or not, rumours of a possible earthquake predicted over 90 years ago sparked mass panic in Rome this week, with residents vacating the Eternal City for fear of a large tremor. The prediction was made in 1915 by Italian-born seismologist [Raffaele Bendandi](http://en.wikipedia.org/wiki/Raffaele_Bendandi), who forecast Rome would be devastated by a quake on 11 May 2011. Despite officials stressing the unpredictable nature of quakes, hundreds of workers requested leave and families chose to keep their children away from school amid fears that Bendandi’s forecast may become true.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041843-cj914-1409564461000-isis-militants.jpg"
-image_caption: >
-  Extremists mask the true meaning of Islam.
-image_attribution: "gannett-cdn.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041843-cj914-1409564461000-isis-militants.jpg"
+image_caption: ""
 ---
 
 This year, the true face of Islamic Caliphate has been obscured by the smoke rising from Iraq. Kindled by the horrific actions of militant extremist group ISIS, the conflict there has not only scorched the lands of Syria and Iraq, but has left in cinders the very principles on which the extremists claim to stand. True Caliphate is a spiritual leadership to promote peace, not political leadership to impose power. Understanding how and why extremists twist Islam to meet their own ends is vital in the ongoing fight against extremism.

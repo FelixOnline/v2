@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410171545-kmw13-fusion54.jpg"
-image_caption: >
-
-image_attribution: "Johannes Hoenigl"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410171545-kmw13-fusion54.jpg"
+image_caption: ""
 ---
 
 On Monday, Fusion 54, a new food outlet opened its doors on the Sherfield Walkway.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311271604-me1711-tech_sec.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311271604-me1711-tech_sec.jpg"
+image_caption: ""
 ---
 
 The recent spate of NSA tapping data and storing huge amount of internet traffic has been rather worrying. The exposé courtesy of Edward Snowden has made end-users more aware of the need for encryption, and accelerated the process of enhancing the security between end users and the service providers at many big names. Twitter is the latest company to join the ranks of Google and Facebook by implementing Perfect Forward Secrecy on their servers. This is a much needed move. The end user might not notice anything different in their experience, but NSA will certainly have a harder time trying to pry open your private communications.

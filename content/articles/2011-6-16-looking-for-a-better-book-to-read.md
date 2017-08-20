@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162145-felix-6a00e54f0e675e88340133f4050907970b-320wi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162145-felix-6a00e54f0e675e88340133f4050907970b-320wi.jpg"
+image_caption: ""
 ---
 
 I have always been an avid reader, ever since a young age. I’m not picky either – as long as I have something papery in my hands, I’m glad to read it. I’ll read – and enjoy – mostly anything.

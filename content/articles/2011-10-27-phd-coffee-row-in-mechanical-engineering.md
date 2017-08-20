@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 An experiment in the [Mechanical Engineering department](http://www3.imperial.ac.uk/mechanicalengineering) whereby PhD students have been allowed to share the academic common room (701) with staff members has ended after six months – with the eviction of students. In an email sent to the students involved, [Mike Lowe, Chair of the Space Committee](http://www3.imperial.ac.uk/people/m.lowe), listed a combination of contributing reasons why “the facility is no longer working out to be convenient.”

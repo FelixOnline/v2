@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041801-ps3110-broadchurch_ep1_06.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041801-ps3110-broadchurch_ep1_06.jpg"
+image_caption: ""
 ---
 
 Look behind the well-sculpted muscles of Ross Poldark and you’ll see the Cornish coastline. This is not the first time that a British beach has proven to be a co-star on a TV show.

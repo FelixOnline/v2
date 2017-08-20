@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112033-ks607-3g3g33g3.jpg"
-image_caption: >
-  Now that's what I call 'fast'
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112033-ks607-3g3g33g3.jpg"
+image_caption: ""
 ---
 
 We’ve been stuck with 3G (Third Generation) networks in the UK since March 2003. Technology has moved on significantly in the last seven years, but unfortunately we have not. The USA, Japan and most of Europe have already signed deals and are set to have the next generation of mobile networks operational in under 12 months. In fact in Germany and India, we’ve already seen the government auction off the frequencies that are required to broadcast these networks to cellular providers. In short, we’re well behind the game.

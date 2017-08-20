@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106111828-felix-unfrined.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106111828-felix-unfrined.jpg"
+image_caption: ""
 ---
 
 Deleting people is a growing form of therapy. Perhaps happily, this is not the latest jargon for serial-killing, but is a synonym for a re-appraisal of ‘Facebook friends’. Facebook friends – those people you like or love, but also those people who have got married and not told you, even after the event. If those two categories are indistinguishable to you… oh dear.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211181306-jp1409-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211181306-jp1409-1.jpg"
+image_caption: ""
 ---
 
 Yes, dear readers, I have recently discovered the world of wireless headphones. Two weeks ago, bored and not feeling like untangling my normal headphones, I decided to peruse the various stores of the internet, to discover if the World Wide Web had anything to tickle my fancy. Lo and behold, on Amazon, I stumbled upon a whole array of Bluetooth headphones and, perhaps more surprisingly, very (and I mean VERY) attractively priced ones. I had previously visited an apple store (to check out the iPad Mini) and had seen headphones priced at £300, so to see these puppies being displayed from £20 to £70 was really astounding! Anyway, before I launch into my review of one of these headphones that I purchased, I will firstly talk pros and cons of Bluetooth/wireless headphones in general.

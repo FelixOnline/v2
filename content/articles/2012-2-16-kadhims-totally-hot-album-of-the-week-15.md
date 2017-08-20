@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162138-pk1811-elcamino.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162138-pk1811-elcamino.jpeg"
+image_caption: ""
 ---
 
 Oh, errors of judgement. How I know you well! Last term, just as we were heading off for Christmas, I wrote, in a throwaway comment that I’d now like to dispose of properly, that the Black Keys’ latest album El Camino is a ‘[dud](http://felixonline.co.uk/music/1931/kadhims-totally-hot-album-of-the-week-10/)’. Well, it is time to make amends. Using all the powers of apology that [I acquired as Felix Editor last year](http://felixonline.co.uk/news/1242/union-president-maggie-dallman-misinformed-college-council/), let me now say, “I was wrong”.

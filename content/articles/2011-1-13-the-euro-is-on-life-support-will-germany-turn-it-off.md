@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132003-ks607-euroeuro.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132003-ks607-euroeuro.jpg"
+image_caption: ""
 ---
 
 “We can abandon the euro if our proposal is refused.” Angela Merkel, the German chancellor, said to George Papandreou, the Greece prime minister, during dinner at the EU summit in Brussels last October. The summit was held to discuss the euro crisis and a plan to bail out Ireland. Merkel had demanded a new legislation stating that bailed-out countries should lose certain voting rights in EU councils. Since it is only Germany that can pay a large amount of money as a bailout, the country is asked to bear the greatest burden whenever a debt crisis happens. Such unfairness has certainly made the German populace uncomfortable, but insisting on the loss of EU council voting rights was opposed by many other EU governments.

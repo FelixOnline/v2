@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
-image_caption: >
-
-image_attribution: "Gordon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
+image_caption: ""
 ---
 
 Over the past few years, discussion of the rapid decline of bee populations has intensified. Every week there seems to be another alarming headline implying that honeybee population decline is something we should care about. Do bees truly impact the world as we know it? Wouldn’t we do just fine without them? Exploring the subjects that bees have mastered may be a good way to start answering those questions.

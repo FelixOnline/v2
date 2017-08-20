@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131351-felix-15991967_10210299606259628_23172809_o.jpg"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131351-felix-15991967_10210299606259628_23172809_o.jpg"
+image_caption: ""
 ---
 
 Just before noon last Wedensday, hundreds of visitors were evacuated from the Science Museum. As the visitors collected outside the museum on Exhibition Road, three firefighter squads arrived and created a perimeter around the historical building, amounting to a total of seven fire engines with aerial support from a helicopter.

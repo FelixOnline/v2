@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232330-tna08-pic-8741719026_8b4a130005.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232330-tna08-pic-8741719026_8b4a130005.jpg"
+image_caption: ""
 ---
 
 Two Imperial students, Aran Kankiwala and Shi Yunn Chua, have won a competition that gave them the prize of a three-day all expenses paid program of events in Rotterdam last week as Shell’s special VIP guests.

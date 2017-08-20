@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612121613-felix-15338747_1166041000112231_8751072089703624181_n.jpg"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612121613-felix-15338747_1166041000112231_8751072089703624181_n.jpg"
+image_caption: ""
 ---
 
 Union Council voted to put pressure on College to investigate the legitimacy of the 2015-2016 bursary scheme which has been criticised for not providing adequate funding to students of higher income brackets.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m sat across the table from my friend from Gaza; he only got back a week ago but somehow home has managed to find its way back on the news. In between bites of SCR chicken he tells me about his friends back home. I ask if they’re OK and he nods. Suddenly he remembers that one of his friend’s sisters has died. He tells me that she left behind a baby, a little girl only 14 months old – another orphan and another dead mother. Of course she was Palestinian, nationless and now dead, her only crime to have been born in Gaza.

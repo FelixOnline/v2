@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091152-tna08-mcshane.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091152-tna08-mcshane.jpg"
+image_caption: ""
 ---
 
 When the expenses scandal originally broke in 2009, my opinion was succinctly summarised by a Guardian feature wherein an MP of the time described the story as a “wonderful moment of British fiddling, but more on a Dad’s Army scale than the real corruption of politics.” Yes, the MPs had decided against buying their own hobnobs/tampons/moats but MP pay is poor for a thankless, gruelling job and I envisioned the majority of expenses as a deserved bonus. Not to mention the whole thing was worth it to officially see that toilet seats were not designed to support John Prescott.

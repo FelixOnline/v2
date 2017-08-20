@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111041214-felix-wlc.jpg"
-image_caption: >
-  William Lane Craig recently lectured at Imperial
-image_attribution: "Joseph Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111041214-felix-wlc.jpg"
+image_caption: ""
 ---
 
 _Watch the interview in full below – with thanks to [STOIC TV](http://www.stoictv.com/)_

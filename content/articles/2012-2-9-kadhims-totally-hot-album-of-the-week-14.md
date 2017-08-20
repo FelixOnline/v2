@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092221-pk1811-djangodjango.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092221-pk1811-djangodjango.jpg"
+image_caption: ""
 ---
 
 I’m bAAAAAck! Terribly sorry about last week; unfortunately my ghostwriter was on holiday, so doing my column was a bit trickier than expected. But now that he’s taken his leave for the next 12 years, we can continue on as normal. __Django Django’__s _Django Django [[Spotify](http://open.spotify.com/album/3pqPOPqLgIwLaE4ZuVhYlg)]_ is this week’s Totally Hot Album of the Week (try saying that while covered in cheese, hanging upside down from a [monkey’s uncle](http://www.youtube.com/watch?v=SQG10A-ymtg)). The 1st class students amongst you may have noticed that, that sentence didn’t make sense; this album is just as awesomely weird.

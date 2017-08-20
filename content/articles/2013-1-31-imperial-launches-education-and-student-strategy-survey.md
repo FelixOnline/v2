@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312250-tna08-ed_1.png"
-image_caption: >
-  A screen shot of the survey, including a quick entry from Felix...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312250-tna08-ed_1.png"
+image_caption: ""
 ---
 
 [Imperial have launched an anonymous survey to help to develop an Education and Student Strategy](http://www3.imperial.ac.uk/educationoffice/strategy/students). The website consists of a questionnaire with all open text responses for students and staff to fill out with their thoughts on the education and student experience. The survey is behind a log in wall, but is going to be anonymous, unless students wish to be credited with their suggestions. The survey is open to all members of the College community and will be open until Tuesday 19 February. There will be two open meetings, which all students and staff can attend, at 13:00-14:00 Wednesday 6 February and 17:00-18:00 Thursday 14 February in the Pippard Lecture Theatre in Sherfield.

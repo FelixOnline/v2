@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506242307-ync111-untitled-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506242307-ync111-untitled-2.jpg"
+image_caption: ""
 ---
 
 It’s no secret that the internet has revolutionized the world: there are a whole host of information and applications available now that wasn’t there a few decades ago. People can now do everything on their phone that no one could even dream of before – in fact, I still remember putting my phone away for my travels a few years back and now I wouldn’t even think about not having it on me. Period.

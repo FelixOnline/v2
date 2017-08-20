@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271048-felix-conservatives say yes.jpg"
-image_caption: >
-  The referendum is not just a left-right debate.
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271048-felix-conservatives say yes.jpg"
+image_caption: ""
 ---
 
 Before Obama’s recent tour of the country (mainly London, of course), I was largely on the fence over how I’d vote in the EU referendum. Unfortunately for him however, he didn’t manage to convince me to vote to remain. Instead, his warnings of being put at the back of the line for neoliberal negations like TTIP reinforced my left wing case against the EU.

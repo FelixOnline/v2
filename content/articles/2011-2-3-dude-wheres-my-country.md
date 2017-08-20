@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
+image_caption: ""
 ---
 
 Where do you live? A simple enough question, in appearance. I’ve been asked it a lot this year. Meeting an endless stream of new people from various countries makes for a large number of introductions. After you’ve said hello to the fifteenth German girl at the party, whose name you’ve already forgotten, the quasi-scripted question-and-answer session begins.

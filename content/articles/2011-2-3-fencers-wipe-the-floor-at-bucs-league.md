@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032037-ks607-etretret.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032037-ks607-etretret.jpg"
+image_caption: ""
 ---
 
 The second and final weekend of Men’s and Women’s, BUCS Southern Premier League took at place at Ethos on the 28th-29th January. Going into the weekend both Imperial teams looked strong contenders for their respective titles, being undefeated in the first weekend. Expectations on further victories were high and winning the league was the goal everyone was aiming for.

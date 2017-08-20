@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131103-felix-1280px-NSF_building.jpg"
-image_caption: >
-
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131103-felix-1280px-NSF_building.jpg"
+image_caption: ""
 ---
 
 We’re caught in an odd crux of perspectives on justifications for science and technology. There’s the age-old idea of fundamental research having inherent, non-monetary value as a social service - sort of like a library, providing building blocks of knowledge we can all draw from. Increasingly, however scientists are having to prove the financial value and the return-on-investment of their research in order to get funding, much the way someone getting a loan from a bank for, say, a start-up cupcake stand does. When you factor in the increasing amount of time scientists have to spend with their hats-in-hands writing grants, submitting proposals,  – an incredible amount of our collective scientific brain capacity is spent thinking about how to acquire and justify sources of funding from drying wells. Skilled researchers and their teams spend countless days, months, even years pandering to administrative managers who often only see a chart of red lines that need to be converted to black. Many scientists claim upwards of 30% or greater of their time is now taken up simply finding funds. This also disproportionately affects younger researchers who can’t secure funding based on their ‘brand’ the way more established scientists can.

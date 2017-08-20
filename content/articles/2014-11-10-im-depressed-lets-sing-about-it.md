@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102116-ps3110-img_7692.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102116-ps3110-img_7692.jpg"
+image_caption: ""
 ---
 
 Why am I depressed? What is the cause of my depression?” aren’t exactly questions easily remedied by ringing up NHS Direct and asking. This opera, though, strives to find answers.

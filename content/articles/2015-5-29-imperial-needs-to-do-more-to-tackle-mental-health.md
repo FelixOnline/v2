@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290200-ps3110-mentality-report.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290200-ps3110-mentality-report.jpg"
+image_caption: ""
 ---
 
 Mental health is the great un-tackled health problem in the UK.

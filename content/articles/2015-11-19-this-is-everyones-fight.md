@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192244-ygr12-hunt_2329078b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192244-ygr12-hunt_2329078b.jpg"
+image_caption: ""
 ---
 
 I’m aware that the media and Facebook may have recently reached saturation with heartfelt pleas for help from the medic community. I have undoubtedly littered friends’ timelines with tearjerking videos, angry statistic-riddled rants and protest photos. However, Jeremy Hunt still refuses to listen and I believe you, the voting public and NHS patients, deserve to know what’s happening. I hope you might even join the debate.

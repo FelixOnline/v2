@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050013-cj914-pipeline-corrosion.jpg"
-image_caption: >
-  Corrosion of pipelines has been a technical challenge for Qatari industries.
-image_attribution: "knovel.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050013-cj914-pipeline-corrosion.jpg"
+image_caption: ""
 ---
 
 On Tuesday 2nd June, Imperial College London signed an agreement with Qatar University (QU) and the Qatar Shell Research and Technology Centre (QSTRC) that covered corrosion prevention in wet sour gas pipelines.

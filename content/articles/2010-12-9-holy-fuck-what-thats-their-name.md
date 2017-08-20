@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092024-ma1307-Holyfuck.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092024-ma1307-Holyfuck.jpg"
+image_caption: ""
 ---
 
 Holy Fuck are a chaotic band. Every song they play seemingly warrants an additional instrument, and every new musical nuance is brought about by haggard old equipment on the verge of falling apart. One moment in the set sees a band member amplifying film being wrenched off a reel to add to the epic din.

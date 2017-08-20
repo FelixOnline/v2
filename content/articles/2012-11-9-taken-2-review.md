@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091333-tna08-taken.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091333-tna08-taken.jpg"
+image_caption: ""
 ---
 
 Producer Luc Besson and director Olivier Megaton had a smash hit on their hands with 2008’s Taken, starring Liam Neeson as the ex-CIA guy whose daughter was kidnapped by traffickers in Europe. Needless to say, Liam went after the bad guys, found them and killed them. Sorted. It was such a success that a sequel was inevitable – and it’s got a strange twist, this one. This time around, it’s Liam who’s got himself kidnapped, and his daughter who is trying to save him.

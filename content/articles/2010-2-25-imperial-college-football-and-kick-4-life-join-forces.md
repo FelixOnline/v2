@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
+image_caption: ""
 ---
 
 Imperial College Football Club last month held the inaugural Kick 4 Life 5 a-side tournament in Ethos. Elite footballers from across our university were invited to test themselves at the highest level of indoor football, all in the name of raising funds for Kick 4 Life.

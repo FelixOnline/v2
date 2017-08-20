@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
+image_caption: ""
 ---
 
 [Imperial's David Robertson](http://www.felixonline.co.uk/?article=851) might be up for a Bloggie, but what about the rest of us? It might not be something you've thought about, but science blogging is an activity that could be worth considering. And with funding tighter than ever, it might be time to start fleshing out that CV and publications list with some extras.

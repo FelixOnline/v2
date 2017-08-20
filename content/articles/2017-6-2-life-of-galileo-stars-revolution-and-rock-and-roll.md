@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021516-felix-201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
-image_caption: >
-   Billy Howle in Life of Galileo at the Young Vic
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021516-felix-201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
+image_caption: ""
 ---
 
 Director Joe Wright has pulled out all the stops for the Young Vic’s new staging of Bertolt Brecht’s Life of Galileo. Under a huge makeshift planetarium dome actors in modern dress hurtle around the circular stage. Brendan Cowell as the titular man never seems to stop, at one moment stabbing apples to illustrate the concept of gravity, and the next bodily spinning Billy Howle playing Andrea, his pupil to demonstrate the rotation of the earth; he never seems to lower his voice beyond a mid-bellow. That it’s energetic cannot be denied, but at times it gets a little too much.

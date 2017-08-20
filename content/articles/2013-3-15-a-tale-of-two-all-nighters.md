@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150210-tna08-458348_420684761283652_291963720822424_1560876_1143192476_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150210-tna08-458348_420684761283652_291963720822424_1560876_1143192476_o.jpg"
+image_caption: ""
 ---
 
 Along time ago, in a Union room far, far away an intrepid young fresher decided to attend her first all-nighter. Young and innocent, this girl did not know what to expect and this is the magical, mystifying tale of what she found there...

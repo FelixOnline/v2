@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406130403-jal08-screen-shot-2014-06-13-at-04.03.26.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406130403-jal08-screen-shot-2014-06-13-at-04.03.26.png"
+image_caption: ""
 ---
 
 College has recently announced the closure of the 4-year fast track graduate-entry medicine course. Students will instead have to apply for a new 5-year graduate medical course, which will open in 2015. The withdrawal of the 4-year option does not affect students currently on the programme.

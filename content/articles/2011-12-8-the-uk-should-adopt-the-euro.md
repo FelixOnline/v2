@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
-image_caption: >
-  The euro sign, illuminated in the European Central Bank logo, outside ECB HQ in Frankfurt, Germany
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
+image_caption: ""
 ---
 
 In last Wednesday’s Autumn Statement, George Osborne confirmed that the UK economy’s health was far worse than his office had expected. He blamed the ongoing Eurozone crisis of negatively affecting the UK’s economic growth, by pointing out the negative impact the former had had in our country’s exports.

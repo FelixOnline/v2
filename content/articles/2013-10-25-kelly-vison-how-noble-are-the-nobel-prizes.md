@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With the unsurprising news that Higgs and French physicist Englert were awarded the 2013 Nobel Prize in Physics, I feel that I can indulge in cross-subject chauvinism. No other prizewinner this year will be given for something of such profound importance. The most important Chemistry prize was Rutherford... who was a physicist.

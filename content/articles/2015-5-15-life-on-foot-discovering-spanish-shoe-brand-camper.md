@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151354-cj914-life-on-foot-jill-tate-08-copy.jpg"
-image_caption: >
-  Pelotas shoes aligned at ‘Life on Foot’ at the Design Museum
-image_attribution: "Jill Tate"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151354-cj914-life-on-foot-jill-tate-08-copy.jpg"
+image_caption: ""
 ---
 
 After arriving at the Design Museum soaking wet from London’s pelting rain, I joined a group of journalists ready to be guided through the Museum’s latest exhibition entitled _Life on Foot: Camper at the Design Museum._ The exhibition marks the 40th anniversary of the Spanish footwear Brand Camper, which is well known for its casual styles, many of which are unisex. The exhibition guides visitors through the process of how a shoe collection is researched, created, manufactured and presented – from initial sketches to the detailed graphics on the shoebox.

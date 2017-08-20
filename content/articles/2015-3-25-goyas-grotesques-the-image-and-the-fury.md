@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
-image_caption: >
-  Regozijo (Mirth), red chalk and scraping. 237 x 148mm. Francisco Goya (1746-1828)
-image_attribution: "Courtauld Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
+image_caption: ""
 ---
 
 Rarely has there been a painter who represents the darkest recesses of humanity more skillfully than Spanish artist Francisco Goya. Making his living as a court painter for the latter half of the 18th Century, it wasn’t until 1793, whilst recuperating from a disease that would leave him permanently deaf, that he began to paint the violently disturbing scenes for which he is best known today. _Saturn Devouring His Son_; _The Sleep of Reason Produces Monsters_; the entire _The Disasters of War _series; all of these are deeply unsettling visions of the blackness fundamental to human nature, and it is for these, more than for his masterful court scenes, that he is most celebrated today.

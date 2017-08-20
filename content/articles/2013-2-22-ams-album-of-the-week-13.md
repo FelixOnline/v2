@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220121-tna08-veronica-falls-waiting-for-something-to-happen.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220121-tna08-veronica-falls-waiting-for-something-to-happen.jpg"
+image_caption: ""
 ---
 
 Veronica Falls released their self titled debut album back in 2011 to a smattering of applause from the indie pop scene. Adding shoegaze elements and some great little indie guitar riffs to the basic Camera Obscura template made for a very listenable and funalbum. It never really clicked for me though, and after a few listens I’d pretty much forgotten about the band. That is until a few weeks ago, when I saw they’d released a new album, and decided to give it a go. I expected very little, since bands with forgettable debuts tend to release even worse sophomore records. Instead, I was blown away. This could well be my favourite twee pop release for a couple of years.

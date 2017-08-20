@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132107-ks607-omaromar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132107-ks607-omaromar.jpg"
+image_caption: ""
 ---
 
 Christmas has now come and gone, hopefully fulfilling its promise as a time of goodwill to all people. According to A Christmas Carol, it is a time when rich people should have been kind and generous to the poor as, statistically at least; many of them are people too!

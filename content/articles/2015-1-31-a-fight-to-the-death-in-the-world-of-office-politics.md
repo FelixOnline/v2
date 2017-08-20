@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
-image_caption: >
-  Sam Troughton, Adam James and Eleanor Matsuura
-image_attribution: "Simon Annand"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
+image_caption: ""
 ---
 
 Three people enter. Two people leave. Anyone who is familiar with the BBC show _The Apprentice_, in which a collection of terminally unlikable corporate drones are paraded in front of the camera, will be familiar with this format; every week a contestant is sent packing, the grizzly tones of Sir Alan’s catchphrase “You’re fired” still ringing in their ears. In the __Young Vic’s__ latest production _Bull_, this format is brought to the stage, and we are presented with a similar dilemma.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112225-ar3310-thatcherrbg.jpg"
-image_caption: >
-  This lady is not for TURN AND FACE THE CHANGE. Sorry, I’ve just got that David Bowe song in my head
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112225-ar3310-thatcherrbg.jpg"
+image_caption: ""
 ---
 
 Because that’s what feminism’s all about, right? Right? Wrong, but from the incredulous looks, comments and questions we got at Freshers’ Fair, it seems like a lot of you really believe that the goals of feminism are to overthrow and subjugate men and introduce a gynocratic fempire. Consider your entrance to Imperial and this article your welcome to reality. You’re in the real world now, and you’re here to learn. So, get learning:

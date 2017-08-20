@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091910-felix-rocio-molina-(double-face)2.jpg"
-image_caption: >
-  Rocio Molina
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091910-felix-rocio-molina-(double-face)2.jpg"
+image_caption: ""
 ---
 
 When they said that you see a bright light when you die, you did not realise that it was actually a 60 watt desk-lamp.

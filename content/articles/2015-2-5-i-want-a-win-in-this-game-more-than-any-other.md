@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
-image_caption: >
-  The rivalry between England and Wales is fierce and steeped in tradition
-image_attribution: "RBS 6 Nations"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
+image_caption: ""
 ---
 
 This week, the best (annual) sporting event kicks off with the Six Nations, with a mouth-watering Wales vs England game under the Friday night lights in Cardiff. With England and Wales in the same World Cup group later this year the game is steeped in significance.

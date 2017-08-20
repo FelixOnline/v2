@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091425-tna08-rugger.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091425-tna08-rugger.jpg"
+image_caption: ""
 ---
 
 Imperial Women’s Rugby has seen a fantastic start to their 2012-2013 season, winning their first three games with impressive margins. The success began even before the matches started, with a strong turnout for Fresher’s Fair and our taster session, which says a lot about the effectiveness of certain team members enticing freshers to the stall through the medium of dance! Our large intake this year sees a range of talent, from those who have played competitively before to those who had never even picked up a rugby ball before this year but all show great potential and enthusiasm for the game. With a new team assembled, it wasn’t long before our first game of the year – a friendly away at Oxford University. This game set the tone for the season to follow with a great turnout of the new members, with Carolanne Vouriot scoring our first try of the year! Oxford put forward a largely Fresher opposition but this provided a great opportunity for those who hadn’t played before to experience the often chaotic world of rugby against a more evenly-matched side. Our new girls took to the challenge with admirable panache and enthusiasm whilst our senior members led by example. 80 minutes later and Imperial stood slightly muddy and probably fairly bruised, but victorious with a full-time score of 31-10. Kudos to our men of the match – newcomer Juliet Lennon and last year’s captain Kath Fok!

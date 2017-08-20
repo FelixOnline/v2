@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Royal College of Science Union (RCSU) Science Challenge finally launched last week. The essay writing competition offers cash prizes of up to £2,000 and is open to Imperial students and students from schools in the UK. However, the competition this year is vastly scaled-down in comparison with previous years and has faced delays due to funding problems.

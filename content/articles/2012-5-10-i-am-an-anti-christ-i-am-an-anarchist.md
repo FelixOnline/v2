@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
-image_caption: >
-  The world indeed moves in mysterious ways
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
+image_caption: ""
 ---
 
 For anyone who knows about the history of punk music, they will instantly recognise the title as part of one of the most famous songs that went on to define the genre. In the 70’s the Sex Pistols, fronted by Johnny Rotten a.k.a John Lydon, started a revolution in the music scene with just one album. To this day music critics recognise that album as one of the most original pieces of work in the industry. I would not bore you with my praise for that album as I’m sure you hear enough of it from your parents (_Not sure what you imagine normal parents to be like, but you must have some seriously cool ones – Music Ed_). This is about one of the best nights I’ve had at Imperial, when I found Mr Rotten in Eastside bar having a pint with his friends on St. Patrick’s Day.

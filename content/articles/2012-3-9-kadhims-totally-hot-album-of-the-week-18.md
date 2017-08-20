@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203091300-ks607-tru250_1440_300ppi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203091300-ks607-tru250_1440_300ppi.jpg"
+image_caption: ""
 ---
 
 Do you know anyone who says, “Music is crap nowadays?” Let’s be honest: those people are the most boring people you know. In fact, you’re not even sure why you know them anymore. Everytime you hang out with them you find your brain warning you, with fundamentalist zeal, “Get the fuck out of here before I cut off the oxygen to myself”.

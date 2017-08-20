@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Over the last couple of years I have had the pleasure of putting on three little known, but well received, performances of what was codenamed ‘Panto’. In two weeks time we’ll stage the final Panto Show, laying the series to rest once and for all.

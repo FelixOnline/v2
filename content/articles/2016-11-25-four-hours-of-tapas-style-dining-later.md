@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251434-felix-IMG_4120.jpg"
-image_caption: >
-
-image_attribution: "Cristy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251434-felix-IMG_4120.jpg"
+image_caption: ""
 ---
 
 Sometimes I wish I could duplicate myself. One to go to those dreaded 9am lectures, one to do the laundry and one to tend to the exploding experiments in the lab. And at the end of the day, we can all gather and dine at one of the many restaurants on my to-visit list.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262259-ak6309-karapetian-banner.jpg"
-image_caption: >
-  Sorry, we know some of you are so street the sight of feds is terrifying
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262259-ak6309-karapetian-banner.jpg"
+image_caption: ""
 ---
 
 You cannot censor the Internet. You cannot subpoena a hashtag. You cannot arrest an idea. You CAN expect us.” These are the words of decentralised hacktivist online group Anonymous, tweeted as they launched a hailstorm of Distributed Denial of Service (DDOS) attacks on various websites just hours after the US Government shut down [Megaupload.com](http://megaupload.com) on Thursday 19 January. Their attacks successfully brought down websites belonging to the RIAA, MPAA, Universal Music, the Department of Justice, the US Copyright Office, EMI, the FBI and others by flooding them with requests, but a number of outlets have begun accusing them of falling head first into a trap.

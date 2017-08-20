@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051228-nn1209-the_muscles_of_the_shoulder_arm_and_neck_919008.jpg"
-image_caption: >
-  Getting hench, Leo style
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051228-nn1209-the_muscles_of_the_shoulder_arm_and_neck_919008.jpg"
+image_caption: ""
 ---
 
 It was a wonderful quality of Leonardo da Vinci’s, that he had the abilities, both mental and practical, necessary to reach the minutiae of a subject such as to become almost an expert in fields that were not his own. Trained in painting early on in life, but with an inexhaustible fascination for scientific learning, he collected ‘interests’ like one might collect ticket stubs. He took care of each one, obsessing over it, although, as happens often with hobbies, forgetting about then for a while. Leonardo’s works on anatomy were some of the most detailed he carried out, intending for them to be published. His beginnings in the field concerned the true representation of nature, in particular human and animal images, in art. Initially, Leonardo wanted to describe human nature, in its physiological and psychological aspects, for a treatise on painting.

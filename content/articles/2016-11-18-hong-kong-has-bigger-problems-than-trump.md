@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181435-felix-Screen Shot 2016-11-18 at 14.34.33.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181435-felix-Screen Shot 2016-11-18 at 14.34.33.png"
+image_caption: ""
 ---
 
 You think the US election was the apocalypse? Take a look at Hong Kong.

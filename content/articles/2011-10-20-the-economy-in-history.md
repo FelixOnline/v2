@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202345-felix-mansa_musa.jpg"
-image_caption: >
-  Mansa (Emperor) Musa of Mali (1312-1337), holding one of the golden nuggets Mali was so famous for d
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202345-felix-mansa_musa.jpg"
+image_caption: ""
 ---
 
 Legend has it that, as for all faithful Muslims, the day came when the good King Musa of Mali announced to his people that he would be leaving Mali for the Hajj, the pilgrimage to Mecca. The announcement, though praised by the wise and respected by all his subjects, came with fear, as the trip from Niani to Mecca was long and perilous.

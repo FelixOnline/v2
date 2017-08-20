@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032117-ks607-Lordofth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032117-ks607-Lordofth.jpg"
+image_caption: ""
 ---
 
 Thinking of a single reason why they didn’t make this game is really hard. If they were worried that it wasn’t going to sell enough copies to make it viable I really hope they’re reading this because I will commit right here to buying enough copies to make it worth it.

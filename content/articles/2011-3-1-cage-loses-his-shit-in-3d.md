@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012101-ks607-driveang.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012101-ks607-driveang.jpg"
+image_caption: ""
 ---
 
 When a film uses the suffix of “3D” in its title, it comes with several expectations. Not only does this generally promise an excessive, gratuitous use of 3D, but it also often means that the film will be entirely ludicrous from start to finish Enter Nicolas Cage in Drive Angry 3D. This film not only deliver all of the above, but it also – as the rest of the title suggests – has Academy Award winning actor Cage doing a lot of angry driving.

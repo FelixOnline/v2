@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062104-snb11-0-1-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062104-snb11-0-1-copy.jpg"
+image_caption: ""
 ---
 
 I managed to get a trip down memory lane this week – well, this was when I was making a batch of red velvet cupcakes for our ed-in-chief’s birthday on Tuesday (happy birthday again Philippa!) Many moons ago, when I was a not-so-jaded fresher, I was actually known amongst some peers as the queen of red velvet. I totally blame the South Kensington outpost of the Hummingbird Bakery for this one; they were the ones who sold me my first red velvet cake, and I fell in love.

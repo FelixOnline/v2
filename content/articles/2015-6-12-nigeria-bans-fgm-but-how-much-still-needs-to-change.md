@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
-image_caption: >
-  In some parts of the world, FGM is the norm, but while it is seen as so horrific in the UK, it is rarely mentioned.
-image_attribution: "flipboard.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
+image_caption: ""
 ---
 
 Female genital mutilation (FGM) has been performed on more than 130 million women and girls worldwide, and more than 20,000 girls under the age of 15 in the UK are considered at risk. It is often done using razors, sharpened rocks, glass or even fingernails as tools.

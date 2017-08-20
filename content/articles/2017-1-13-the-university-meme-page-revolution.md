@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
-image_caption: >
-
-image_attribution: "Sent By James"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
+image_caption: ""
 ---
 
 T        his strange world of memes which we currently find ourselves in – one where a president can be catapulted to the White House with the help of online fascists and Pepe the Frog – is terrifying. There was an undercurrent of darkness in the memes that defined 2016: we celebrated Harambe’s death as if he were a messiah, exposed our inner self through evil Kermit, and philosophised over the trolley problem. It wouldn’t be until the end of the year that the dankness would finally return.

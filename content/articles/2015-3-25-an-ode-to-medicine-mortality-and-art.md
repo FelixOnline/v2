@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251239-ff712-t07009_10.jpg"
-image_caption: >
-  The Scalpel 2, Barbara Hepworth, 1949
-image_attribution: "Tate"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251239-ff712-t07009_10.jpg"
+image_caption: ""
 ---
 
 In his poem _Larynx_, Pablo Neruda implored of Death:

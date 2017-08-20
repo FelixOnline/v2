@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
-image_caption: >
-  Valentina Kulagina, Front cover design
-image_attribution: "Ne Boltai! Collection"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
+image_caption: ""
 ---
 
 With _Imagine Moscow_, the newly-opened Design Museum makes its contribution to the range of events marking the centennial of Russia’s October Revolution. The concept is certainly an interesting one: _Imagine Moscow_ focuses on six architectural landmarks around Moscow’s Red Square, conceptualised in the 1920s and early 30s; from health resorts to monumental government buildings, these grand plans all had one thing in common: they were never actually built. Curiously fitting, for what other period was so marked by idealistic aspiration and delusions of grandeur? _Imagine Moscow_ invites us to view these architectural phantoms – radical buildings that, despite never being realised, persisted in the collective consciousness, continuing to inspire modern architects years after they were first conceived.

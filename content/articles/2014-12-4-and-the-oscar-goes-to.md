@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041939-cj914-oscars-copy.jpg"
-image_caption: >
-
-image_attribution: "chrisreedfilm.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041939-cj914-oscars-copy.jpg"
+image_caption: ""
 ---
 
 It’s December, which means only one thing. The Oscar Race has officially begun. The New York Film Critics Circle has announced their winners, the Gotham Awards have given out their trophies to the independent films worthy of recognition, the National Board of Review have also announced, the Los Angeles Critics will soon follow, building up the excitement surrounding some of this year’s best films.

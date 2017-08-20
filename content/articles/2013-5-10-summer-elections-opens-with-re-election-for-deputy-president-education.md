@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305101847-pk1811-unknown.jpeg"
-image_caption: >
-
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305101847-pk1811-unknown.jpeg"
+image_caption: ""
 ---
 
 The annual Summer Elections have come around once again, with nominations for the various Council Officers, Council Chair, and positions of the Graduate Student's Union, the new name of the GSA.

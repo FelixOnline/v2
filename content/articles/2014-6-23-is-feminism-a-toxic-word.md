@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I first remember coming across the word ‘feminism’ when I was about 9, and asking my mum what it meant. “It’s the principle”, she replied, without even glancing up from her newspaper, “that girls and boys should be treated in exactly the same way”. I remember thinking it bizarre that such an obvious concept even needed a name, but I didn’t question it any further.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191102-felix-online.jpg"
-image_caption: >
-
-image_attribution: "Two and Hal Asian's Jailbreak"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191102-felix-online.jpg"
+image_caption: ""
 ---
 
 One team in RAG’s jailbreak competition found themselves £400 down and a day behind after being pulled off of a flight to Istanbul by anti-terror police.

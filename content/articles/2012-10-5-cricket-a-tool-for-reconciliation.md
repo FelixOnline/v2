@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
-image_caption: >
-  Caption in here please! What if this just stays in by accident. What if it’s not an accident/ Yeah,
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
+image_caption: ""
 ---
 
 The summer of 2012 has been a stunning exhibition of top quality sports, as world-class athletes congregated in London for an unforgettable Olympics and arguably the best ever Paralympics. An intriguing Euro 2012 was showcased earlier in the summer in Eastern Europe, and this trio of gargantuan sporting festivals were bookended by the Wimbledon and US Open Grand Slams. Many would think that this is set to continue into September with the T20 World Cup held in Sri Lanka, but in reality the Tamils that inhabit the Northern and Eastern parts of the country and the Tamil diaspora have plenty of reason to think otherwise.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251420-felix-Camus.jpg"
-image_caption: >
-
-image_attribution: "Robert Edwards"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251420-felix-Camus.jpg"
+image_caption: ""
 ---
 
 In Rick Famuyiwa’s Dope, Jay-Z’s Blueprint is described as the "punctuation mark to 90s Hip-hop". It seems to me that, in many ways, Albert Camus’ The Rebel is the punctuation mark to 19th, and early 20th century philosophy. Camus is often regarded, rightly, as an absurdist and, more questionably, as a humanist. In his earliest works, Camus took a purely absurdist stance: questioning the meaning of life and whether it was worth living at all. However, his experiences as part of the French Resistance during the Second World War galvanised his belief in the importance of safeguarding all human life. In his first post-war novel, The Plague, the protagonist pins down the crux of Camus’ stance – there is no grandeur or heroism in saving lives; it is simply what must be done. The Rebel, arguably the philosopher’s most important work, is the culmination of these ideas.

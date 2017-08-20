@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
-image_caption: >
-  'The Wipers Times' Play by Ian Hislop and Nick Newman performed
-image_attribution: "Arts Theatre, London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
+image_caption: ""
 ---
 
 They are just a gang of back-chat comedians deliberately undermining morale with this impertinent, unpatriotic rag.” So goes Lieutenant Colonel Howfield’s complaint about The Wipers Times, a satirical trench newspaper brought to life in the Arts Theatre thanks to Ian Hislop and Nick Newman.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302211342-txl11-obama-1024x879.jpg"
-image_caption: >
-  US-EU relations
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302211342-txl11-obama-1024x879.jpg"
+image_caption: ""
 ---
 
 Spring seems to be in the air. The feeling of change and new prospects seem to blossom. For 2013 marks the beginning of free trade negotiations between the EU and the US.

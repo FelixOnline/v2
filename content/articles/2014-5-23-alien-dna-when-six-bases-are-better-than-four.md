@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405231448-jal08-e-coli-bacteria-close-up-via-shutterstock-615x345-(1).jpg"
-image_caption: >
-  E. coli like these contained the new “alien” DNA with four bases instead of six
-image_attribution: "rawstory.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405231448-jal08-e-coli-bacteria-close-up-via-shutterstock-615x345-(1).jpg"
+image_caption: ""
 ---
 
 Are six bases better than four? Scientists at The Scripps Institute Florida, can boast that they have changed the secret of life; they have invented an extension to our DNA.

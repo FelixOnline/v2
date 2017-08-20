@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
+image_caption: ""
 ---
 
 This week I am going to review something a bit different: the landmark 90s anime [Neon Genesis Evangelion](http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion). This is the first real anime that I have ever seen so I do not really know how well it stands up to other works of this format and am just going to have to review it as work of science fiction.

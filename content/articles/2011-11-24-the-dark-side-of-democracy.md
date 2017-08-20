@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242245-pk1811-silvio-berlusconi-1.jpg"
-image_caption: >
-  Ladies, please, stop arguing. There’s enough of me to share with you all
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242245-pk1811-silvio-berlusconi-1.jpg"
+image_caption: ""
 ---
 
 The reign of the tyrant is over. In Italy, people celebrated in the streets as Berlusconi resigned; across Europe, markets sighed in relief and hoped that his successor would be able to unscrew the pooch that he so thoroughly enjoyed screwing. The ‘it has to get worse before it can get better’ part of this financial crisis seemed to be behind us, and Italy could get back on the road to normalcy. Times, finally, are looking up.

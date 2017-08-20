@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After the huge success of last year’s awards the Student Academic Choice Awards (SACAs) are back, and this year they are bigger than ever! In case you haven’t heard of them, the SACAs are awards for academics and support staff, nominated and chosen entirely by students. The awards are designed to celebrate and reward good teaching and emphasise teaching as a skill of equal worth and value as research. We also want to build a community in which students, academics and staff all feel ownership of the development and delivery of their course. These awards are a chance for students to say thank you to those members of staff that have had a positive impact on their time at Imperial.

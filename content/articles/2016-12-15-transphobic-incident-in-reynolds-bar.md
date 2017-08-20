@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612152344-felix-gen neutral.JPG"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612152344-felix-gen neutral.JPG"
+image_caption: ""
 ---
 
 A transphobic incident reportedly took place last week at the women’s restroom of the Reynolds Bar at Charing Cross Hospital, against a member of women’s rugby.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610281741-aib116-handball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610281741-aib116-handball.jpg"
+image_caption: ""
 ---
 
 Imperial College Handball managed to secure first place at the annual Fresher’s Tournament, which is considered by many as the unofficial beginning of the Handball battle amongst London Universities. It took place in the Olympic Copperbox arena and hosted teams from London’s top handball universities: University College London (UCL), King’s College London, Brunel, Middlesex and of course, Imperial. Despite its friendly nature the tournament presented some intensive games.

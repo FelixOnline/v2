@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162353-sjw209-mfoster.jpg"
-image_caption: >
-  Deputy President (Finance & Services) Michael Foster
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162353-sjw209-mfoster.jpg"
+image_caption: ""
 ---
 
 __What have you enjoyed most?__

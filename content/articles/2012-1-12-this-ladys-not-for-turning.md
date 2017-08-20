@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122233-cac111-the-iron-lady-2011.jpg"
-image_caption: >
-  January blues and then some
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122233-cac111-the-iron-lady-2011.jpg"
+image_caption: ""
 ---
 
 ###  The Iron Lady

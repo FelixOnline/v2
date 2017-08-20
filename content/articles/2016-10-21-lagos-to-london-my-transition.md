@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211219-so515-Daniel Ogbonna.jpg"
-image_caption: >
-  Writer, Daniel Ogbonna
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211219-so515-Daniel Ogbonna.jpg"
+image_caption: ""
 ---
 
 I was born and raised in Lagos, the most populated city in Nigeria and in Africa as a whole. On September 30th 2014, less than 3 weeks after my 17th birthday, probably the most defining event in my life so far occurred. I moved to London to attend Imperial College.

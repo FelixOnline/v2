@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101519-felix-Sandra.jpg"
-image_caption: >
-
-image_attribution: "Komplizen Film"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101519-felix-Sandra.jpg"
+image_caption: ""
 ---
 
 Toni Erdmann, a German-Austrian film by Maren Ade has seen no end to the praise received from critics worldwide since it’s screenings along the festival circuit in 2016. It features in the top film lists of countless film magazines including being named the Best Film of 2016 by Sight&amp;Sound and Cahiers du Cinéma and is also one of the favoured picks for the 2017 Academy Awards for Best Foreign Picture. Given all this acclaim, it’s hard to imagine that such a film is not the talk of the town during its release given the astounding hype procured by other singing and dancing counterparts.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091711-ea3211-sense8_filmloverss.jpg"
-image_caption: >
-  H8 to see you go
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091711-ea3211-sense8_filmloverss.jpg"
+image_caption: ""
 ---
 
 Three weeks ago I embarked on an emotional binge-watch of the 2015 Netflix original Sense8. Within two weeks I’d managed to watch the 23 near hour-long episodes of the first two seasons. Then a week later it was announced that sense8 would not be getting renewed, that episode 23 would be the last ever episode, and just like that I was heart broken. To the uninitiated, the series revolves around the lives of eight strangers who one day find themselves connected, reborn as one as sensates. They become a cluster of eight people sharing their lives, their existence; for all intents and purposes from that point onwards they are a single fundamental unit. That’s the cornerstone of the title and this idea of interconnectedness is also its success.

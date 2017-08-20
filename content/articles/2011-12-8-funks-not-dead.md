@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082114-pk1811-bwminutemen.jpg"
-image_caption: >
-  Minute as in small, not as in time
-image_attribution: "Martin Lyon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082114-pk1811-bwminutemen.jpg"
+image_caption: ""
 ---
 
 Most people probably wouldn’t point to San Pedro, California, as a birthplace of punk, but they might as well. Punk isn’t __Green Day __and __Blink-182__, punk isn’t green hair and safety pins. Punk is an attitude and it can take any form you like. For __Minutemen__, that form was 2-minute bursts of jazzy, bombastic R&B, but in their attitude to playing – to recording, to touring, to what it meant to be in a band – Minutemen were the epitome of punk.

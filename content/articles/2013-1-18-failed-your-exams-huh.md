@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180035-tna08-c1_the-apprentice-long-lead.jpg"
-image_caption: >
-  Standard viva board at Imperial
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180035-tna08-c1_the-apprentice-long-lead.jpg"
+image_caption: ""
 ---
 
 Last year, a friend of mine failed his PhD. He turned to me for advice.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This song will forever remind me of being in the Felix office on a Thursday with Chief Copy Editor Lizzy Griffiths, with an hour or two left until the print deadline. The metronomic shake of the beat, along with the ominous thudding opening, has helped it become our copy-editing anthem (yes, I am aware of how nauseatingly lame that sentence was...)

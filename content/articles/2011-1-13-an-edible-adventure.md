@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
-image_caption: >
-
-image_attribution: "flickr/justinpoliachik"
-image_attribution_link: "http://www.flickr.com/photos/justinpoliachik/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
+image_caption: ""
 ---
 
 I eat. Shocking stuff, you may be thinking, but it gives me a certain problem. Fortunately I have no life-threatening difficulties – I am not allergic to nuts, wheat or milk. I am allergic to Gillian McKeith, but that is another story. What you should perhaps know is that I am tall. I also take a not-extravagant amount of exercise. Point is, I burn off a lot of calories. That, combined with my predilection for boredom, means that eating the same meal three times in three days was not something that was going to last long. A former French flatmate – well, half French half American, not a good combination in this case – was derisive at the idea that this was possible even once. However, I was hungry and wanted to avoid eating the one kilo packets of chicken or beef pasta which Sainsbury’s amusingly label as ‘serves 4’.

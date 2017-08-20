@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
+image_caption: ""
 ---
 
 July 2012 saw thirty intrepid Imperial College Hockey Club members travel to Portugal for two weeks of sun, sea, sand and hockey. This followed on from successful tours to Malaysia, Croatia/Slovenia and India in the last three years.

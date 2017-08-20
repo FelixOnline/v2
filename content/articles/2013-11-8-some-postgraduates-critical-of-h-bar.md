@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080925-felix-screen-shot-2013-11-08-at-09.24.43.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080925-felix-screen-shot-2013-11-08-at-09.24.43.png"
+image_caption: ""
 ---
 
 The new-look postgraduate bar is set to open this Friday, with pictures released by the Union and College previewing what it will look like and explaining the services provided by the new space.

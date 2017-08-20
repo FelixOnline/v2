@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172041-dr910-daviddav.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172041-dr910-daviddav.jpg"
+image_caption: ""
 ---
 
 David Robertson is the small town blogger done good. In only 2 years he has converted his own little personal website into one of the globe’s most eminent science blogs ([davidpj.wordpress.com](http://davidpj.wordpress.com)). Just this month, it has been nominated for the [2011 Weblog Awards](http://2011.bloggi.es/) Best Science Blog. Felix Science caught up with the web celebrity to discuss blogging, science, and blatant self promotion.

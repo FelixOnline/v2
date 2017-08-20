@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After a very successful year dominating British chess, the British Uni and London Uni Champions (your resident chess team) decided that they needed a new challenge. So when ex-President Sam “Sporter” Porter began organizing the trip to the US, a lot of excitement and anticipation started to arise. With big names like Princeton and Columbia on the menu, Imperial Chess was really looking forward to making a name for themselves out there in the land of opportunity. In fact we set out with a very strong team with big ambitions, including our own FIDE Master (FM) Ryan Griffiths and El Presidente Arijit Gupta.

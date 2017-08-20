@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010211945-nm1010-andersan.jpg"
-image_caption: >
-  Landey Patton and Alexander Ford are planning to traverse the length of New Zealand
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010211945-nm1010-andersan.jpg"
+image_caption: ""
 ---
 
 New Zealand. For a land-of-the-long-white-cloud the size of United Kingdom, which secludes itself in the south-eastern corner of the world map, and houses a population of sheep outnumbering that of humans by 15:1, it boasts an uncanny amount of eccentrics and their heroic – yet insane – antics.

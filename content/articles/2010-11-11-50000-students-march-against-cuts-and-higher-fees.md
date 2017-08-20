@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112205-nm1010-unicuts.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112205-nm1010-unicuts.jpg"
+image_caption: ""
 ---
 
 50,000 students and lecturers from across the country marched on Parliament [[more photos](http://felixonline.co.uk/media/photo/2/nus-march/)] on Wednesday in protest of government plans to cut funding to universities and increase tuition fees to anywhere up to £9,000.

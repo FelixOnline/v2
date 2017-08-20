@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271043-felix-huell money breaking bad.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271043-felix-huell money breaking bad.jpeg"
+image_caption: ""
 ---
 
 Imperial’s investment portfolio is a well-known part of the college’s assets. Much like a savings account, a board decides where we invest year on year, to make the most of our stacks of cash and earn us interest. This is done by most universities, and whereas Oxford and Cambridge’s endowments are in the billions, ours are at a modest £201 million.

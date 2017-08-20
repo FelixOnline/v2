@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Making up roughly 20% of the air we breathe in, oxygen is one of the most abundant elements on Earth. It is used by all forms of life for respiration, which provides the energy organisms use to grow, repair and live. However, it has not always been in such plentiful supply.

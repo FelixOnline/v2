@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241415-felix-arrival-review.jpg"
-image_caption: >
-
-image_attribution: "Paramount Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241415-felix-arrival-review.jpg"
+image_caption: ""
 ---
 
 ## Arrival | Cale Tilford's pick

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411101315-ps3110-46.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411101315-ps3110-46.jpg"
+image_caption: ""
 ---
 
 A flat on Kings Road, Chelsea, has become the first ex-council flat to sell for near £1 million. The flat, which has three bedrooms as well as a communal courtyard, was bought by its former owners under the “Right to Buy” scheme in 1989 for the grand total of £48,000 (equivalent to around £110,000 in today’s prices), but has recently sold for £999,950.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
+image_caption: ""
 ---
 
 1. There is one familiar rule which simply says that “Red with meat, white with fish”. Is it correct though? In most cases, a red wine is more suitable for a meat-based dish, simply because the tannins (particular ingredients of red wine) bind the proteins of meat, resulting in a harmonic matching. Moreover, white wine and seafood have many things in common, like their flavour ‘intensity’ and texture.

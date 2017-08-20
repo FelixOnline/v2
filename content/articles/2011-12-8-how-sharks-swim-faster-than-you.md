@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Scientists have discovered how sharks are able to swim faster than most other fish. Making use of an advanced imaging technique, they were able to examine how sharks swing and stiffen their tails to swim more efficiently.

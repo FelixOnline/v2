@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
-image_caption: >
-  David Delpy, CEO of the EPSRC and Gordon Brown
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
+image_caption: ""
 ---
 
 Our universities are being privatised, or so many on the Left would have us believe. But how true is it? And is it necessarily a bad thing? In a series of features over the next few weeks, I will be investigating several areas of privatisation at Imperial and at universities across the UK, areas where corporations are filling a role that used to be public.

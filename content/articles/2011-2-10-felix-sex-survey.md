@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102059-jk708-SexSurve.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102059-jk708-SexSurve.jpg"
+image_caption: ""
 ---
 
 You can view the whole version [here.](http://www.felixonline.co.uk/img/sexsurvey/Felix%20Sex%20Survey.jpg)

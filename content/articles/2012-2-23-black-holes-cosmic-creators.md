@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232043-cac111-black-hole.gif"
-image_caption: >
-  Artist’s impression of a black hole
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232043-cac111-black-hole.gif"
+image_caption: ""
 ---
 
 In the 1930s, soon after Einstein came up with his equations on general relativity, [Karl Schwarzchild ](http://www-history.mcs.st-and.ac.uk/Biographies/Schwarzschild.html)developed a solution that predicted what became known as a black hole. Essentially a mass compressed into such a small volume that its gravitational pull is literally irresistible; not even light is fast enough to escape. But then you already knew that.

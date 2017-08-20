@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
-image_caption: >
-  An artist’s impression of Eris and its moon, Dysnomia.
-image_attribution: "Thierry Lombry"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031947-pk1811-eris_lombry_big.jpg"
+image_caption: ""
 ---
 
 Ever since Pluto’s demotion from planetary status, astronomers have been on the lookout for other similarly-sized and located dwarf planets. The region beginning from the orbit of Neptune and extending away from us is known as the Kuiper belt, inhabited by rocks, dust, debris and large numbers of small planetesimals and dwarf planets. Since its discovery in 1992, the known population of the Kuiper belt has increased to over 1000 objects, one of these being the small dwarf planet Eris.

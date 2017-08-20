@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211082343-tna08-picture-for-news-ting.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211082343-tna08-picture-for-news-ting.jpg"
+image_caption: ""
 ---
 
 [Higher Education Achievement Record (HEAR)](http://www.hear.ac.uk/) have recently been suggested as an alternative to just receiving a single grade.

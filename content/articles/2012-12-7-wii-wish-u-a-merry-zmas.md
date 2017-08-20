@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070238-tna08-wiiublack.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070238-tna08-wiiublack.jpg"
+image_caption: ""
 ---
 
 The Wii U was released about a week ago, with a lot of curiosity surrounding its release, and I had the chance, last Friday, to actually play it! A trip to the Gadget Show Live, with very plain press passes, allowed me to not only jump all the cues, but actually get a look and feel of the Wii U and its weird controller. I only managed to play a relatively short time, as well as only two games, but that was enough to get a good impression of what was going on.

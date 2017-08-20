@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092058-dr910-lifescie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092058-dr910-lifescie.jpg"
+image_caption: ""
 ---
 
 14 academics have been made redundant in a controversial restructure of the Life Sciences department. The academics, who were informed of the decision via email, have until the 7th of January to decide whether to take a voluntary redundancy payoff or appeal and face forced redundancy with no significant payoff. Students and staff have reacted angrily to the cuts with one unaffected member of staff privately telling Felix that academics are “livid” and Emeritus Professor John Mansfield describing the whole process as “unfair, misguided and probably damaging”.

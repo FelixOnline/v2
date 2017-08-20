@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242053-pk1811-light-speed-limit.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242053-pk1811-light-speed-limit.jpg"
+image_caption: ""
 ---
 
 In September, physicists working on the Opera experiment announced that they had observed some subatomic particles called neutrinos travelling faster than the speed of light. The neutrinos in question undertook a journey from CERN in Geneva, through the Earth, and finally ended up at the Gran Sasso laboratory deep underneath the mountain of the same name in Italy. But they arrived at Gran Sasso a few nanoseconds earlier than they should have done, had they been travelling at the speed of light, suggesting that they had in fact travelled faster.

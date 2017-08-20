@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102101956-dr910-musician.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102101956-dr910-musician.jpg"
+image_caption: ""
 ---
 
 Surviving a semi-camo twenty four hour bus journey, we arrived at the slightly grubby omnibus terminal in the iconic metropolis of Buenos Aires. Throwing ourselves onto the Subte (Argentina’s answer to the tube) we were presented with an antique wooden carriage complete with grey leather sashes hanging from the ceiling and extravagant glass wall lights.

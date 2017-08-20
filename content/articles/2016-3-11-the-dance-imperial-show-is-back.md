@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111143-felix-di poster 2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111143-felix-di poster 2.jpg"
+image_caption: ""
 ---
 
 The hugely successful Dance Imperial Show is back for a second year. Debuted last year and selling out both nights, it’s back, bigger and better than before. Shortlisted for Imperial College Union Event of Year 2015, we are expanding on this success to even bigger acts and a third night in the Union Concert Hall.  This dance show spectacular is not to be missed.

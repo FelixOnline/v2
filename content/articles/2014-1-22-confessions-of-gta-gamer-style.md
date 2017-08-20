@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401221429-me1711-games_gtargb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401221429-me1711-games_gtargb.jpg"
+image_caption: ""
 ---
 
 As a massive player of Grand Theft Auto 4, suprisingly I was not that excited for the new Grand Theft game. I felt that 4 would forever be my Grand Theft Auto game of choice and that 5 would just be more of the same in a disappointing way. The adverts showcasing the three new characters for this game and the way you could switch between them just seemed like a gimmick to me, and the city it takes place in, really a copy of Los Angeles, seemed samey. On Christmas day of 2013 Santa showed me just how wrong I was by giving me a copy of this game. Here follows everything about Grand Theft Auto 5 that managed to change my mind!

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002120204-rsp07-gazzarun.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002120204-rsp07-gazzarun.jpg"
+image_caption: ""
 ---
 
 Last year the lives of the people of Gaza changed dramatically for the worse. 1400 were killed, many more homeless and desperate with short supplies. Last week, Imperial College was educated about Gaza. The aim of ‘Gaza Week’ was to inform us (Joe Public) of the importance of supporting the people of Gaza who are in need of our support. The AhlulBayt society took it upon themselves to promote this worthy cause.

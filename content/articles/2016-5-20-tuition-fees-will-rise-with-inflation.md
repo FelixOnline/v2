@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201048-felix-jo.jpg"
-image_caption: >
-  Jo Johnson – who’s raising fees, renaming Boaty McBoatface and is Boris’ brother.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201048-felix-jo.jpg"
+image_caption: ""
 ---
 
 The government has released a white paper this week outlining its future plans for higher education, most notably allowing universities to charge more than £9000 per year in tuition fees.

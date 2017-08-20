@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101610-felix-Picture13.png"
-image_caption: >
-
-image_attribution: "Shanzeh Khurshid"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101610-felix-Picture13.png"
+image_caption: ""
 ---
 
 ## Where to go

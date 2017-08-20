@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012036-ks607-screensh.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012036-ks607-screensh.jpg"
+image_caption: ""
 ---
 
 The time was 4am on the 23rd of February. A relatively large coursework deadline loomed over the heads of Department of Computing students Gabriel Lorin and Raoul Gabriel Urma, but this was not what they were pulling an all nighter for. Having purchased server equipment and spent since noon the previous day configuring it, the two launched [happybirthdaystevejobs.com](http://happybirthdaystevejobs.com).

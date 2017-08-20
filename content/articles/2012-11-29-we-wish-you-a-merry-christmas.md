@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292307-tna08-nativity-scene.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292307-tna08-nativity-scene.jpg"
+image_caption: ""
 ---
 
 What part of Christmas do you look forward to most? The music, the gifts, the cheer...? Where to begin!

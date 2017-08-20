@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041258-aib116-carrots-155715_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041258-aib116-carrots-155715_1920.jpg"
+image_caption: ""
 ---
 
 Let the flags fly and wars rage. Veganism is probably one of the most contentious topics of our time. Though I am not fully vegan due to personal reasons, I joined VegSoc because, after watching documentaries like Cowspiracy and Food Matters, anyone would be hard-pressed to lay off meat slightly. I think it’s time we appreciate the ups and downs of veganism, as contrary to popular belief, vegans aren’t the angry meat prosecutors most people think they are.

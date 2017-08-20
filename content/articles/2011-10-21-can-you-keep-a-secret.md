@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
-image_caption: >
-  Been spending Friday nights, living in a hipster’s paradise
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211231-ak6309-secret-garden-party-motilo.jpg"
+image_caption: ""
 ---
 
 Secret Garden Party is an unconventional festival, slicker or slacker than your average depending on preference. While the music policy is slightly questionable, it’s difficult to not be drawn in by the festival’s Wonderland-like aesthetic.

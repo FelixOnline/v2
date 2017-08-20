@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122301-felix-rory-dub-sequence.jpg"
-image_caption: >
-
-image_attribution: "Simon Federer"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122301-felix-rory-dub-sequence.jpg"
+image_caption: ""
 ---
 
 “I dunno why there’s so much snow, it’s just like MAGIC,” the words of the little girl in the ski film [_Attack of La Niña_](http://www.youtube.com/watch?v=KNI0ZKPA48A) echoed amongst Imperial students throughout the first week of the holidays. The last night of term saw the departure of three coaches of us as we journeyed to Les Arcs in the Alps. A total of 137 attendees made this the biggest ski trip in recent memory by quite a long way. Just two weeks before we left for the Alps there was no snow – none. The wait for snow was painful but after enough Snow Dances praising the God of Pow (powder snow) we were blessed with an unprecedented amount. A mere two days before the trip our chosen French resort, Les Arcs was reporting “Dumping Snow” – the biggest and most consistent snow fall in 10 years. It really was magic.

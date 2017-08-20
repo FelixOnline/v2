@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102212-ps3110-surfacepro3-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102212-ps3110-surfacepro3-2.jpg"
+image_caption: ""
 ---
 
 The third generation of Windows tablets, or Lablets as I like to call them, have been released by Microsoft. They claim that the Surface Pro 3 is not only a tablet, but a laptop as well, potentially replacing both of those devices in your home. After owning one for several weeks, I can honestly back Microsoft on this one. I have not touched my old laptop since the purchase; it is currently sitting in a bedroom drawer collecting dust.

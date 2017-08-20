@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131138-felix-DSC_9816.jpg"
-image_caption: >
-  Look at these cuties and their giant trophy.
-image_attribution: "Joe Martinez"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131138-felix-DSC_9816.jpg"
+image_caption: ""
 ---
 
 The Techtonics, Imperial College Union’s all-male a cappella group, have made international history by becoming the first British group to win the International Championship of Collegiate A Cappella.

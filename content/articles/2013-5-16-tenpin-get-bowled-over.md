@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161850-tna08-bowling1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161850-tna08-bowling1.jpg"
+image_caption: ""
 ---
 
 The British University Tenpin Bowling Association (BUTBA) Cup final against Loughborough, Sheffield, and Portsmouth took place in Rugby last bank holiday Sunday.

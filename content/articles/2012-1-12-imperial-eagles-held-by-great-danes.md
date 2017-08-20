@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Have you ever felt that tension, that awareness that to achieve your goal you will have to fight and exceed your own limits? On the day of the most important match of the season the Imperial Eagles felt exactly that way.

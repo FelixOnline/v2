@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241932-ks607-pullplug.jpg"
-image_caption: >
-
-image_attribution: "flickr/ditocujo"
-image_attribution_link: "http://www.flickr.com/photos/ditocujo/3228845133/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241932-ks607-pullplug.jpg"
+image_caption: ""
 ---
 
 Senior Union figures were left at odds with College last week when the Union’s server was shut down by ICT security following a complaint made by a member of the public about an article posted on the Rugby Club’s website. The Union reacted angrily issuing a statement calling the shutdown “overblown and unnecessary” and accusing the College of failing to follow proper procedures.

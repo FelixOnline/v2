@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122115-cac111-fjg-imperial_college-2637.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122115-cac111-fjg-imperial_college-2637.jpg"
+image_caption: ""
 ---
 
 It’s that time of year again when we all start to make, and consequently break, all those well-meant resolutions we dreamt up over the Christmas break. But one resolution that couldn’t afford to be broken was that made by Imperial College School of Medicine (ICSM) this time last year: its anniversary marked by ICSM’s inaugural ‘Alcohol Awareness Week’, a series of events designed to highlight the dangers students face by abusing alcohol. Here, Felix investigates the binge drinking culture of our universities, and asks what, if anything, can be done.

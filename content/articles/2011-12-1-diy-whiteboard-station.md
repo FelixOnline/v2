@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
-image_caption: >
-  The blob at the top is meant to be China. Don’t ask why
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
+image_caption: ""
 ---
 
 As a mathematician living with a group of other mathematicians, I like to think, at least some of the time, that our conversations relate to something beyond our chosen subject. But let’s face it: we’re Imperial students. Inevitably, the moment does come when normal discourse collapses into a frenzied exposition on Graph Automorphisms and the implications of Zorn’s Lemma.

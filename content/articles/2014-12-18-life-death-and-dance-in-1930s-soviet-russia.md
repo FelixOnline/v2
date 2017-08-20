@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The ballet can be boring. There. I’ve said it. As Arts Editor, you would think it antithetical that I could find dance deathly dull, but in all honesty I can’t tell my _plié_ from my _pointe_, and have held a deep dislike of the art ever since being forced by my parents to attend ballet lessons in my childhood (I protested; they switched me to piano; everyone was happy). So when attending the __Gallery of Russian Art and Design__, whose newest exhibition is centred around a Shostakovich ballet entitled _The Bolt_, I encountered one of those all-too-frequent moments that made me think: “well, perhaps I should have been born in early 20th century Russia”

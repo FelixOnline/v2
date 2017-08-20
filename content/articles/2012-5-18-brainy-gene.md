@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
-image_caption: >
-  A pyrimidal neuron and dendrites
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
+image_caption: ""
 ---
 
 A recent study published in the journal _Cell_ has identified a major genetic component of human brain development, with implications for research into autism and schizophrenia. Scientists at The Scripps Research Institute have found that the gene SRGAP2, the protein product of which is responsible for forming neuronal connections in neocortical development, has undergone two human-specific truncated duplications.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505220012-jmm311-the-tribe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505220012-jmm311-the-tribe.jpg"
+image_caption: ""
 ---
 
 It’s difficult to describe the Ukrainian film _The Tribe_ in a way that doesn’t make it sound like an ‘Elevator Pitch’, one of those nebulous phrases taught in business schools that’s supposed to ensure a product’s marketability. A film set in a school for deaf children, _The Tribe_ is conducted entirely through sign language, with no spoken dialogue, no subtitles, and no explanation.

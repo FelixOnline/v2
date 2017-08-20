@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
-image_caption: >
-
-image_attribution: "Felix / Joe Letts"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
+image_caption: ""
 ---
 
 __More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course. Last week the students sat their Operating Systems paper, but moments after the exam started there were fits of laughter as the department had accidentally left the mark scheme for the first half of the paper attached.__

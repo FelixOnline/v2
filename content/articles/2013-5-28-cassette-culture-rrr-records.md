@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305281542-tna08-sickness_performing_in_rrrecords.jpg"
+image_caption: ""
 ---
 
 After hearing about RRR records through their Recycled series, I discovered a contribution to the development and proliferation of noise music that goes far beyond a series of tapes which brings together some of noise’s most important artists. Based in Lowell, Massachusetts, RRR has the distinction of being the first American label to release Merzow, effectively globalising noise. Despite that, the label’s profile is lower than Merzbow and the like, and this is because rather than sticking with the artists it helped establish, the label has relentlessly focused on new discoveries. This is RRR records’ truly underground ethos, which I felt worthy of further examination, so I got in touch with label founder and head Ron Lessard.

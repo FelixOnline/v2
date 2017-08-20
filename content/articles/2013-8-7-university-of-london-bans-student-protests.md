@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308070927-jal08-2013-08-02-img_1457.jpg"
-image_caption: >
-  ... but leaving out punctuation is!
-image_attribution: "Oscar Webb"
-image_attribution_link: "http://www.huffingtonpost.co.uk/james-burley/protest-as-student-chalke_b_3697641.html"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308070927-jal08-2013-08-02-img_1457.jpg"
+image_caption: ""
 ---
 
 After recent escalating tension between the University of London and the soon-to-be-extinct University of London Union a new act of aggression has been revealed. The University of London has sent a letter to the ULU banning protests by students on parts of the University’s property.

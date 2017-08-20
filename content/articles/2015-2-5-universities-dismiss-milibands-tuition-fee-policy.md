@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502052343-ps3110-screen-shot-2015-02-05-at-23.43.30.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502052343-ps3110-screen-shot-2015-02-05-at-23.43.30.png"
+image_caption: ""
 ---
 
 Ed Milliband, Labour party leader, has promised to decrease tuition fees to £6,000. However vice-chancellors of the Russell group universities have said this is “implausible” as it would leave a £10 billion hole in University Revenue and could lead to “cuts to universities that would damage the economy, affect the quality of students’ education, and set back work on widening access to higher education”. The policy could also potentially cost the government £2.5bn a year.

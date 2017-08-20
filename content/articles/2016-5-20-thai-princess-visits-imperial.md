@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201047-felix-newseventsimages.jpeg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201047-felix-newseventsimages.jpeg"
+image_caption: ""
 ---
 
 Last week, HRH Princess Chulabhorn of Thailand visited Imperial to discuss science and collaboration with students and professors. The princess, who is the youngest child of King Bhumibol Adulyadej, met Thai students as well as experts in her field of interest: medical research.

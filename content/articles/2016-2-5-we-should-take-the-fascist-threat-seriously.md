@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
-image_caption: >
-  People and property were damaged in clashes.
-image_attribution: "Twitter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
+image_caption: ""
 ---
 
 Racism, xenophobia and Islamophobia have reached a new height in light of the ‘refugee-crisis’ and more recently the sexual harassment incidents in Germany on New Year’s Eve. This Saturday, Dover saw another big anti-immigration rally by groups like the English Defense League, National Front, South East Alliance, Britain First, BNP and UK PEGIDA (don’t even try to figure out what PEGIDA stands for, the acronym only “makes sense” in German).

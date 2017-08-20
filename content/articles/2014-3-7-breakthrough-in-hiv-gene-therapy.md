@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
-image_caption: >
-  HIV, coloured yellow, attacking a T cell
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403070448-jal08-hiv-infected-h9-t-cell-1024x576.jpg"
+image_caption: ""
 ---
 
 For the first time ever, researchers have succeeded in making enzymes target and alter the genes of immune cells that are susceptible to HIV infection. A clinical trial tested the enzymes, known as ‘zinc-finger nucleases’ and found that they were able to disrupt the gene CCR5, which codes a protein essential for HIV entry into T cells.

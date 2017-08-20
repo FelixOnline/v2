@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122108-jal08-ed---heelflip.jpg"
-image_caption: >
-
-image_attribution: "Ed Brial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122108-jal08-ed---heelflip.jpg"
+image_caption: ""
 ---
 
 As some of you may already know, Imperial has sadly lost its ‘Skateboarding and BMX’ society this year. However, this does not mean that Imperial has lost its skaters and BMXers! This is a quick update as to what is happening with the Imperial skateboard and BMX scene this year.

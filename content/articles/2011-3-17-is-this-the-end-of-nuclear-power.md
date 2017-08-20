@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172123-ks607-nucleare.jpg"
-image_caption: >
-  An explosion at one of the reactors at Fukushima nuclear power plant
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172123-ks607-nucleare.jpg"
+image_caption: ""
 ---
 
 On Friday 11th March 2011, an earthquake of magnitude 9.0 struck 230 miles off the coast of northern Japan. As well as triggering a devastating tsunami, the earthquake has also caused problems with a nuclear plant in Fukushima, with developments keeping the global community sitting on the edge of its seat.

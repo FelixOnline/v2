@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202231958-pk1811-the-artist-poster.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202231958-pk1811-the-artist-poster.jpg"
+image_caption: ""
 ---
 
 __Best Picture: [The Artist](http://www.imdb.com/title/tt1655442/)__

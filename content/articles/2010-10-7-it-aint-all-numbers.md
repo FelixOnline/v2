@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010072349-ks607-AngelaMe.jpg"
-image_caption: >
-  German Chancellor Angela Merkel studied Physics
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010072349-ks607-AngelaMe.jpg"
+image_caption: ""
 ---
 
 One downside to life at Imperial is the lack of variety of students you meet. You won’t find any undergraduates studying full degrees in English Literature, Languages, Law, History or any other excuse to spend three years writing essays.

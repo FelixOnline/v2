@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152029-ig711-santa-game-2.jpg"
-image_caption: >
-  It’s not Crysis 2 quite yet I’ll admit... (An Angelina designed game)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152029-ig711-santa-game-2.jpg"
+image_caption: ""
 ---
 
 __Laurence: So, first question, for someone who’s never heard of [Angelina](http://www.gamesbyangelina.org/), how would you best describe it?

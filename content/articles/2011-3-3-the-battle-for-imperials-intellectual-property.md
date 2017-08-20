@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032022-ks607-harrietg.jpg"
-image_caption: >
-  Harriet Gliddon explains her campaign
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032022-ks607-harrietg.jpg"
+image_caption: ""
 ---
 
 Harriet Gliddon is the latest student to join the campaign. A student campaign that first sparked in the classrooms of Yale and burned across the world; it has finally reached Imperial College London. Harriet is the founder of the newest chapter of [Universities Allied for Essential Medicines](http://essentialmedicine.org/) (UAEM), here at Imperial. The organisation lobbies universities to show their commitment to aiding the developing world by ensuring that potential new drugs developed are made affordable in poorer countries.

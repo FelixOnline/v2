@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102204-ps3110-crotch%20stretch%20icurfc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102204-ps3110-crotch%20stretch%20icurfc.jpg"
+image_caption: ""
 ---
 
 The unbeaten ICURFC boys proudly journeyed all the way out to North London to challenge the medics of UCL – officially the RUMS rugby club – in what was sure to be a crucial, possibly title-deciding fixture.

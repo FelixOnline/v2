@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010072323-ks607-Singapor.jpg"
-image_caption: >
-  The collaboration with Nanyang Technological University will be Singapore's third medical school
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010072323-ks607-Singapor.jpg"
+image_caption: ""
 ---
 
 Imperial College is set to open its first teaching institution abroad - a medical school in Singapore. The project is run alongside [Nanyang Technological University](http://www.ntu.edu.sg/Pages/default.aspx) (NTU), with the College having been commissioned to develop the curriculum. It is scheduled to admit its inaugural intake of 50 students in 2013, eventually rising to 150 per year, and will be the third medical school in the country.

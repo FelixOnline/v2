@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122027-jal08-games_ps2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122027-jal08-games_ps2.jpg"
+image_caption: ""
 ---
 
 Ever wanted to take part into a continent wide battle for control of an entire planet? PlanetSide 2 (released November 2012) the revamp of the succesful MMOFPS PlanetSide allows you to do exactly that! It revolves around the control of the mysterious planet of Auraxis.

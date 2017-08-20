@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131423-ygr12-corbz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131423-ygr12-corbz.jpg"
+image_caption: ""
 ---
 
 In the most exciting development in High Street Kensington since the Odeon was shut down, this week it was announced that the Labour headquarters would be uprooting from its current offices in Westminster and relocating to within walking distance of Imperial College London.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201545-felix-14020685350_46aa22061b_o.jpg"
-image_caption: >
-
-image_attribution: "Diego"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201545-felix-14020685350_46aa22061b_o.jpg"
+image_caption: ""
 ---
 
 I still can remember my editor’s voice, before Christmas, saying that I might want to try writing more meaty recipes: quick and easy, student friendly meat dishes. I can even see him smiling while he reads this (maybe I should say “Hello!”) but well, this is another meat-free edition.

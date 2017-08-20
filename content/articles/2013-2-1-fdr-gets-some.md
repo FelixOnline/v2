@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010104-tna08-980778_162.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010104-tna08-980778_162.jpg"
+image_caption: ""
 ---
 
 It is sometime in June 1939, at Franklin D Roosevelt’s (Murray) private estate, upstate New York. Europe is on the brink of war, and King George V (West) and Queen Elizabeth (Coleman) are about to become the first British monarchs ever to visit America, in a bid to improve relations and convince America to assist them in a War that was understood to be inevitable. Most of the film takes place during the weekend of the Royal visit; the rest documents FDR’s dalliances with several women other than his wife Eleanor, (including the film’s narrator, Daisy (Linney), his sixth cousin, intimate friend, and later, lover).

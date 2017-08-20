@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
-image_caption: >
-
-image_attribution: "marcgosselin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
+image_caption: ""
 ---
 
 Αt a friend’s house party last week I met a couple that brought back a few memories I had hoped to keep locked up, and now, huddled next to the radiator in my otherwise arctic flat, I try to write this for what seems like the hundredth time. I want to write about emotional abuse, its warning signs, and illustrate this all with my own experiences because looking back now, I feel like had I known what it was that was happening to me, I would have got out of there much, much earlier.

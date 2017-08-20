@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I will confess now that I have never really understood the appeal of role models. It has always seemed slightly ridiculous to treat someone as if they were an exemplary figure, and with a little maturity I also came to recognise the symbolic violence in raising that someone above their idiotic existence into something more… And leaving some Lacanian objections aside (‘il n’y a pas de rapport sexuel’), I generally find the idea that a person needs some exemplar psychological support slightly belittling. This may of course be a sign of my own comfort thus far, and there is little I can or intend to do to deny this, but if this be the case then there should be a little discernment about the choice of role-model.

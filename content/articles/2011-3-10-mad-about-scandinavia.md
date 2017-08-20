@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
-image_caption: >
-
-image_attribution: "Audrey Chew "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
+image_caption: ""
 ---
 
 Getting tired and sick of the same old fast food? Here’s a change for your taste buds going into the toughest second term of your life.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051208-felix-Adobe_HQ.jpg"
-image_caption: >
-  The Adobe headquarters in San Jose, California.
-image_attribution: "Wikimedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051208-felix-Adobe_HQ.jpg"
+image_caption: ""
 ---
 
 Business sustainability as a concept came about in the early 70s, with controversial publications such as The Limits to Growth, addressing environmental and social consequences of economic growth.  Since the ‘green business’ model began to establish its domain, little attention was paid to the discipline until the last 7-8 years. We can now see an exponential growth in the number of businesses and organisations looking to minimise their local and global harm to the environment, community, and society – aiming to make profits without compromising future generations.

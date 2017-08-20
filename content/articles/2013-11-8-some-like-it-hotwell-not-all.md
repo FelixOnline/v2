@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It seems to have been quite a tumultuous year in foodie arena, with many food items under threat. Just this Halloween, fans of the global cult favourite Sriracha hot sauce (affectionately known as Rooster Sauce to some) breathed a sigh of relief when a judge denied a temporary restraining order against the manufacturing company, Huy Fong Foods.

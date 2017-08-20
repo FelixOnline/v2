@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Folk remedies for a heavy heart have ranged from white wine heated with red-hot steel to the flesh of a screech owl. But an Imperial-led international team of scientists from Europe, the US, and Japan have eschewed such treatments in tracking down the gene that causes cardiac hypertrophy – literally, a heavy heart, caused by a thickening of the walls of the left ventricle. This condition often leads to heart failure as the thick and stiffened heart muscles struggle to pump blood around the body.

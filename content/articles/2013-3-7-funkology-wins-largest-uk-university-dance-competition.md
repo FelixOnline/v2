@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072152-jal08-gh6e3940-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072152-jal08-gh6e3940-2.jpg"
+image_caption: ""
 ---
 
 Last weekend saw the battle of the dance teams in the UK’s largest university dance competition at Loughborough. For the first time ever, Funkology represented Imperial in the most contested category, Advanced Hip-hop, up against stiff competition from previous winners.

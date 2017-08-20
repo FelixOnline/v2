@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Oxford Union (OUSU) has declared last week’s vote on whether to continue to affiliate with the National Union Students void amid controversy over “ballot stuffing”. The ‘no’ vote had won the referendum by a slender 128 votes last week, but it has since emerged that more than 1000 votes for ‘no’ were submitted from the same IP address, in batches, with unique voter codes that hadn’t yet been assigned to any members of the union.

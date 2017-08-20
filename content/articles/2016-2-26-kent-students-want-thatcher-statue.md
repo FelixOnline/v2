@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261125-felix-final.jpg"
-image_caption: >
-  Over FELIX’s dead body.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261125-felix-final.jpg"
+image_caption: ""
 ---
 
 Ding Dong, the witch is dead, but not for these students in Canterbury, who want a 70m tall idol of their idol built outside their union’s Metric equivalent.

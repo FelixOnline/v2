@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105122012-felix-img_3768.jpg"
-image_caption: >
-
-image_attribution: "Simon Worthington"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105122012-felix-img_3768.jpg"
+image_caption: ""
 ---
 
 When a cast is given the name of the musical they will perform 24 hours before curtain-up, no-one should expect anything particularly special. When that cast is from the glorious [Musical Theatre Society](http://mtsoc.co.uk/), the tables are turned. This rendition of ‘We Will Rock You’ was absolutely phenomenal. With a cast of 22, plus technical crew, choreographer, director, musical director, and a band, they kept the Union Concert Hall enthralled for nearly three hours.

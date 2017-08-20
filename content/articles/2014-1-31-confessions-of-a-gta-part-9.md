@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week’s confession is pretty bad. Most of the time I enjoy GTAing. The students are nice and unusually polite, but in every class there are always students you try to avoid. These have been getting more frequent and must stop for our sanity. So here are a few you might recognise:

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082145-pk1811-330032l.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082145-pk1811-330032l.jpg"
+image_caption: ""
 ---
 
 __[Hotel Chocolat](http://www.hotelchocolat.co.uk/) is the hotel of your Christmas dreams__

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial is a big organisation. Fifteen thousand students, six thousand members of staff, nine campus areas and a billion pound annual budget. By account of its sheer size, the College consumes a great deal of resources: energy, plastics, water, lavatory paper, and it all stacks up. Fortunately, Imperial’s commitment to reducing waste and increasing energy efficiency was enhanced in 2008 with a commitment to cut the College’s carbon emissions by 2014. We’ll learn early next year if we’ve hit the target, but the signs are promising.

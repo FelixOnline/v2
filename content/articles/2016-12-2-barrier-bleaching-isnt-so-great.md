@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021404-felix-diving-1656380_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021404-felix-diving-1656380_1920.jpg"
+image_caption: ""
 ---
 
 Following the general vibes of this tragic excuse of a year, scientists have now confirmed that 2016 has seen the largest coral die-off ever recorded on Australia’s Great Barrier Reef.

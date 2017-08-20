@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012171133-ks607-audreyhe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012171133-ks607-audreyhe.jpg"
+image_caption: ""
 ---
 
 5am, October 2nd 1960 and director Blake Edwards is granted an extremely rare and fortuitous moment of calmness, undisturbed by traffic, on New York’s Fifth Avenue. It is the first hour of the first day of filming what will become one of the most iconic romantic comedies of all time. A young woman in black evening attire gets out of a cab and drifts to the windows of Tiffany’s, coffee and pastry in hand; black sunglasses hiding any trace of the night gone by.

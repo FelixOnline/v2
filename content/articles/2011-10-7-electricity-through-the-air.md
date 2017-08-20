@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071133-felix-211010-b-delphi.jpg"
-image_caption: >
-  Wireless electricity? I'm counting down the days until we get superpowers
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071133-felix-211010-b-delphi.jpg"
+image_caption: ""
 ---
 
 Cables, chargers everywhere. You’ve got one for your phone, another for your laptop, more for those multiple alarm clocks that get you out of bed in the mornings… the list goes on. And while we can transfer so much wirelessly these days – our keystrokes and mouse movements, our voices and even our internet – power is something still constrained to those same cables we seek to banish.

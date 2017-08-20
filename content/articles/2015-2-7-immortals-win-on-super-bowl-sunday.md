@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Sunday 1st February saw the Immortals take a trip to the seaside to face Brighton Tsunami for the second time in the season. The first time saw the Immortals dominate with a 12-6 win at home. The team all packed onto the coach at 8am for the two-hour drive to Brighton; looking ready to take the second, and most important, win of the season. This game was the most important in the Immortals’ season because it almost certainly decided who would be relegated from the Premiership South division. The game started well with strong running from Emanuel Olagbaju and Rayane Jackson as well as good blocking from the offensive line, something that would become a theme throughout the match. However, unfortunately something else that would become a theme was the Immortals offense struggling to finish their long drives down the pitch with a touchdown.

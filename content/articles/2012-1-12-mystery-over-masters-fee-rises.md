@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122136-cac111-mortar-board.jpg"
-image_caption: >
-  MCap – Master of Captions. £9000
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122136-cac111-mortar-board.jpg"
+image_caption: ""
 ---
 
 Since the government cut funding for higher education and Undergraduate fees were forced up, much has been speculated about the corresponding rise in Postgraduate fees. Though technically the funding from the Government for Postgraduate fees was also cut, since it is lumped in with the total Undergraduate teaching grant it is hard to prise them apart and the two may in fact be inseparable. Across the country, we began to hear of price rises for Masters courses. The UK average is currently a 24% increase and as a student I had heard nothing from the College, the Union or Felix about any rises at Imperial until a lecturer remarked that they were going up to £9000. I decided to investigate.

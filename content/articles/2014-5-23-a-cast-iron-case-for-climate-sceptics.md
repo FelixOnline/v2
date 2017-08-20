@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405231446-jal08-an-iceberg-melts-drips-wa-002.jpg"
-image_caption: >
-
-image_attribution: "guim.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405231446-jal08-an-iceberg-melts-drips-wa-002.jpg"
+image_caption: ""
 ---
 
 Climate change sceptics were thrown a cast-iron lifeline this week when it was revealed that the melting of ice caps containing iron could potentially be biologically beneficial. However, with some predicting that the iron equivalent of of 3,000 Boeing 747s may be leaked into the oceans per year, how exactly could this be seen to be environmentally advantageous?

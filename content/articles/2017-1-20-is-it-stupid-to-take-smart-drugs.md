@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201506-felix-brainGearResize_13ee5faf-9cc9-445c-a3f8-d2e2894310f2.jpg"
-image_caption: >
-
-image_attribution: "Hula Health & Nutrition"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201506-felix-brainGearResize_13ee5faf-9cc9-445c-a3f8-d2e2894310f2.jpg"
+image_caption: ""
 ---
 
 It’s the night before the final exam, but you haven’t studied. If you had a small white pill which promised greater focus and productivity would you take it? The Tab website conducted a survey of 2000 UK university students and discovered that 1 in 5 have taken the drug ‘Modafinil’. Many students take it to concentrate because they cannot cope with the demands of their degree. Furthermore, with an expanding job market and stellar CVs, many students take Modafinil to gain an edge over their competitors.

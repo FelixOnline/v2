@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
-image_caption: >
-  The Diffie-Hellman Key Exchange system relies on random numbers
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
+image_caption: ""
 ---
 
 “The generation of random numbers is too important to be left to chance.” This was the title of a 1970 article by recognised expert in pseudo-random number generation Robert R Coveyou. There are many controversies surrounding the various algorithms used to generate numbers with the illusion of randomness, but one Ottawa physicist appears to have developed a way to generate them truly randomly.

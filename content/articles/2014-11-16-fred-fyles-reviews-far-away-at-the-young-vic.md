@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411160010-ps3110-samantha_colley_as_adult_joan_in_far_away_at_the_young_vic._photo_by_richard_hubert_smith._1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411160010-ps3110-samantha_colley_as_adult_joan_in_far_away_at_the_young_vic._photo_by_richard_hubert_smith._1.jpg"
+image_caption: ""
 ---
 
 _Far Away_ by British writer Caryl Churchill makes its return to London in this production at the __Young Vic__. Beginning with a young girl who sneaks out of bed and ends a mere 40 minutes later with a world in turmoil, in between we have mediations on power, corruption, and danger, delivered at a breakneck speed by a confident cast of four, who traverse the simple set with a deft skill, making every moment look effortless.

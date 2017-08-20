@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
-image_caption: >
-  Big O. doing what he does best
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
+image_caption: ""
 ---
 
 Modern music has few people prolific as Australian guitarist and multi-instrumentalist __Oren Ambarchi__. He started out as free jazz drummer in his native country before moving to guitar, which he plays experimentally and unconventionally, producing sounds alien to traditional music.

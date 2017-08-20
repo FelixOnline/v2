@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611032313-felix-10320387414_7074bac3ab_h.jpg"
-image_caption: >
-
-image_attribution: "Stephen Melkisethian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611032313-felix-10320387414_7074bac3ab_h.jpg"
+image_caption: ""
 ---
 
 Remember 2012? The London Olympics, (almost) the end of the world and the last US presidential election? Well fast forward four years and we’ve had another set of Olympics, another election cycle is coming to a climax and, if you believe everything people are saying on Twitter, the world is coming to its end if either of the frontrunning candidates wins the race to the White House.

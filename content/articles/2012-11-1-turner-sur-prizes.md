@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012249-tna08-paul_noble_1999_public_toilet_0.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012249-tna08-paul_noble_1999_public_toilet_0.jpg"
+image_caption: ""
 ---
 
 Alongside death and taxes, one certainty in life is the controversy generated every year when the Tate releases the shortlist for [the Turner Prize](http://www.tate.org.uk/whats-on/tate-britain/exhibition/turner-prize-2012). With past winners including Damien Hirst and Grayson Perry, the shortlist has always trod the line between great and gimmicky. However this year, all the work exhibited is pretty incredible.

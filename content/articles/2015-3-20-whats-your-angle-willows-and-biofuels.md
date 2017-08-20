@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
-image_caption: >
-  CT scan of willow showing fibre (brown) and vessels (blue)
-image_attribution: "BMC Plant Biology "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
+image_caption: ""
 ---
 
 The true scale of climate change and its impacts on our planet has escalated in the last 50 years. Scientific advancement has been at the forefront in efforts to achieve a more stable climatic future. Biofuel development symbolises a significant movement towards this future. However, growing evidence indicates that this supposedly sustainable, green solution is not quite as great as people hoped.

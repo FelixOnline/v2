@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282045-dr710-football.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282045-dr710-football.jpg"
+image_caption: ""
 ---
 
 The 1st XI, still unbeaten in all ULU competitions, went into their ULU Cup semi-final with confidence, having already beaten their opposition – King’s Medics in the League fixture. After a dramatic last minute change of venue to Harlington, the 1s quickly seized the initiative, with neat control and a fantastic finish from Robinson putting them ahead within two minutes.

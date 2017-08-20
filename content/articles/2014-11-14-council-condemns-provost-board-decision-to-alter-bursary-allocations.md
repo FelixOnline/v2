@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142003-ps3110-download.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142003-ps3110-download.jpeg"
+image_caption: ""
 ---
 
 Union Council on Tuesday voted to “condemn” the College’s Provost Board decision after the changes in bursary allocations for undergraduate students were announced.

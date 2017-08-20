@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003171554-lh106-Hair1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003171554-lh106-Hair1.jpg"
+image_caption: ""
 ---
 
 A Tribal-Love-Rock musical. It is perfectly fitting then that ICU’s Musical Theatre Society chose Hair as their spring term 2010 production – a musical written by young people, for young people. Daring, absurd, surreal, lewd and crude all at once, Hair is also both fun and deeply political, tracking the lives of a tribe of New York hippies as they rebel against the government, ‘square’ parents and the draft.

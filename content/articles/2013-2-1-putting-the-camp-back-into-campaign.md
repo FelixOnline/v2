@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010011-tna08-sam-swainsbury-(l)-and-joseph-timms-(r).jpg"
-image_caption: >
-  Sam Swainsbury (L) and Joseph Timms (R)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010011-tna08-sam-swainsbury-(l)-and-joseph-timms-(r).jpg"
+image_caption: ""
 ---
 
 Meredith and I went down to the Noël Coward Theatre in the West End in order to interview a young actor, Sam Swainsbury, involved in one of the most exciting theatre companies playing currently in London.

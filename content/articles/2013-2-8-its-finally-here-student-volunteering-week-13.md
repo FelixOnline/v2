@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080047-tna08-hubs_svw_postersgenblue.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080047-tna08-hubs_svw_postersgenblue.jpg"
+image_caption: ""
 ---
 
 Students – other than being the drunken, lazy, selfish creatures we’re perceived to be by all those people with real jobs – are also an amazing resource. We are young, healthy (hopefully), intelligent people with a massive capacity to bring about real change.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We need to end the deafening silence – Robbie Lawlor is the charming charismatic Mr Gay Ireland. A Zoology graduate with the kind of accent romcom producers ditch their fiancées and invest in fisherman jumpers to be with. He’s also HIV Positive. That shouldn’t matter. Except it does.

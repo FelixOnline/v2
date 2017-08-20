@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091604-tna08-halo-4-box-artrgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091604-tna08-halo-4-box-artrgb.jpg"
+image_caption: ""
 ---
 
 Let me point this out before I start – I love the Halo universe and the progression and impact the game series has made within the industry. I remember picking up Halo: CE many years ago and not having a PC that could play it, faster than I could draw the frames with a novelty pencil the size of the Eiffel Tower. But I still played the hell out of it. The idea of an artificial world, in the shape of a ring, created by an ancient and long-dead race, worshipped by your mortal enemy and explored by a super-soldier just pushes all the right buttons in my book. That being said, I never finished it – the damn flood can keep the library. I never liked books anyway.

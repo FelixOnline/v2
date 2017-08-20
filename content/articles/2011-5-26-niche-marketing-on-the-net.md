@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
+image_caption: ""
 ---
 
 These days it is quite difficult to find something in common with everyone in the world, apart from being human, but there is one thing that comes close: Internet users. There are about 2 billion of them according to [internetworldstats.com](http://internetworldstats.com). From a business point of view, this is the biggest market sitting in one place, but what product or service can you provide for all of them?

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 National Basketball Association (NBA) star John Amaechi visited Imperial College London’s sports centre Ethos last week as part of a promotional drive for the Global Games London. Amaechi is widely regarded as one of the best British players in NBA history.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 To those of you starting a new chapter of your lives at Imperial this month, welcome. This is the only paragraph you’re getting dedicated to you for the rest of the year if I can help it. Breathe it in. I’m here for you. I care. Listen to these words of encouragement and sympathy. Your life is hard, but well done for making it this far. All of those exams you had to do, poor little you. It must’ve been really hard to coast on the back of natural ability, copious amounts of privately funded education, or an impeccable national education system. Congratulations for being you. Pats on the back all round.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A recent advancement by scientists at Lincoln University shows positive signs of developing robots that can help humans to build and establish longer-term emotional relationships with them. And in doing so, may also overcome certain thought-biases established in the human psyche. With the ability to express five simple emotions, this new technology could see our reaction to humanoid robotics possibly shift from revulsion to attraction.

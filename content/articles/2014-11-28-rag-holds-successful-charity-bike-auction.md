@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280049-kmw13-rag-bike-auction-20-11-14-(2).jpg"
-image_caption: >
-
-image_attribution: "Amy Whistlecroft"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280049-kmw13-rag-bike-auction-20-11-14-(2).jpg"
+image_caption: ""
 ---
 
 RAG held their charity bike auction last Thursday, raising an impressive £4,500 after selling roughly 30 bikes.

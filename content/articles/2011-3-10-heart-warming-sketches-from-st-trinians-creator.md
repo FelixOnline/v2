@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102017-nm1010-rainboww.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102017-nm1010-rainboww.jpg"
+image_caption: ""
 ---
 
 In 1969, cartoonist Ronald Searle’s wife Monica was diagnosed with a particularly virulent form of breast cancer and given six months to live. She went on to undergo a series of experimental and particularly unpleasant chemotherapy treatments.

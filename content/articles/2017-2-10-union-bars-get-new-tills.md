@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101337-felix-IMG_6983.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101337-felix-IMG_6983.JPG"
+image_caption: ""
 ---
 
 So you might have heard – or you might have gathered from seeing the long lines of students stretching from Beit all the way down Exhibition Road – that the Union has updated its tills.

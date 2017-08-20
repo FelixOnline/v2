@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242055-mc4509-p1090381.jpg"
-image_caption: >
-  Harder! Smash those shuttlecocks
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242055-mc4509-p1090381.jpg"
+image_caption: ""
 ---
 
 With the highest number of members in the history of the club, it has been one of the most successful years for ICSM Badminton in both team performance and social events. All of our teams have put on their best performance yet with the women’s and mixed doubles’ team currently taking the top spot in their leagues.

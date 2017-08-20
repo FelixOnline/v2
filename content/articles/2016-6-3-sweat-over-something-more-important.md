@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
-image_caption: >
-  It's not that big of a deal (p.s. please sign our petition).
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
+image_caption: ""
 ---
 
 This quote struck me last week: “air conditioning must be the top priority for sabbaticals”. This is possibly one of the stupidest, most ignorant statements ever committed to this paper. Everybody knows that the library is hot from floors three upwards, and as a result a petition has been signed by over a thousand people in support of air conditioning, but the idea of spending £13.5 million on what is essentially an unnecessary luxury is ludicrous and the union is better off concentrating on actual pressing issues.

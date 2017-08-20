@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282007-nm1010-scarykid.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282007-nm1010-scarykid.jpg"
+image_caption: ""
 ---
 
 As one of the bigger names on the Edinburgh Fringe Festival scene, Pleasance has nearly 25 years experience in giving highly unconventional productions a stage. Halloween thriller The Insti2ute is no exception to the trend, being poles apart from your West End night out in both setting and, sadly, in substance.

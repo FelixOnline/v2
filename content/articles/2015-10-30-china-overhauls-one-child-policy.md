@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301230-ygr12-i-wish-i-was-making-this-up.png"
-image_caption: >
-  China also announced its latest five year plan, through this stunning video
-image_attribution: "New China TV"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301230-ygr12-i-wish-i-was-making-this-up.png"
+image_caption: ""
 ---
 
 China has scrapped its infamous one-child policy after more than three decades, it was revealed this week.

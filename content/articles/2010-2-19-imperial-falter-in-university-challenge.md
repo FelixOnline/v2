@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002191228-felix-universi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002191228-felix-universi.jpg"
+image_caption: ""
 ---
 
 Imperial College's University Challenge team sadly broke their winning streak on Monday in their second quarter-final match, losing against Emmanuel College, Cambridge. The final score was Emmanuel 275 – Imperial 160; a very sound defeat after three glorious previous performances. The team, Ciaran Healy, Simon Good, Gilead Amit, Ben Nicolson and Ed Brightman, as profiled in last week's _felix_, have a final chance to get into the semi-finals by playing a third quarter-final match, broadcast on 8th March. They must win against Girton College, Cambridge in order to stay in the competition.

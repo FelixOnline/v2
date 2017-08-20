@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011949-pk1811-screen-shot-2011-11-30-at-09.31.03.jpg"
-image_caption: >
-  Rural scences depicted in The Harvest (1882) by Camille Pissarro, who also kept an eye on Capitalism
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011949-pk1811-screen-shot-2011-11-30-at-09.31.03.jpg"
+image_caption: ""
 ---
 
 On Tuesday, George Osborne, Chancellor of the Exchequer, [updated Parliament](http://www.parliament.uk/business/news/2011/november/autumn-statement/) on the current economic situation of our nation, and what the government plans to do about it. The Autumn Statement is seen as an important event in government, as it offers an opportunity to reflect on pledges made in the main budget, and adjust policy depending on recent events. The Chancellor and his team take the Office of Budget Responsibility’s published report on growth and borrowing forecasts and use these to adjust the official government position accordingly.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162142-felix-solar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162142-felix-solar.jpg"
+image_caption: ""
 ---
 
 Ian McEwan’s latest book, Solar, is probably the lightest piece he’s written to date. It is a departure from the serious, dark tones characteristic in most of the work that McEwan is renowned for (such as Atonement, Amsterdam and First Love, Last Rites). Solar is a satirical fiction that follows the life of Nobel laureate physicist Michael Beard and satires the current effort in tackling climate change.

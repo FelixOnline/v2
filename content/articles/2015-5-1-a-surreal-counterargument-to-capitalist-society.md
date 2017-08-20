@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505011111-ff712-9shamira_turner_in_1927s_golem_at_the_young_vic_9_dec_2014_-_17_jan_2015._photo_by_bernhard_muller._3.jpg"
-image_caption: >
-  Shamira Turner in 1927's Golem
-image_attribution: "Bernhard Müller"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505011111-ff712-9shamira_turner_in_1927s_golem_at_the_young_vic_9_dec_2014_-_17_jan_2015._photo_by_bernhard_muller._3.jpg"
+image_caption: ""
 ---
 
 Using animation, live music, physical theatre, and stand-up comic timing, _Golem_ is less your standard play and more a cabaret spectacle. Despite a slightly weaker plot than hoped, Golem’s message about corporate greed and human idleness is poignantly addressed by its technical achievements. With stunningly beautiful visuals, an incredible soundtrack, and a remarkable attention to detail, theatre company _1927_ present a truly unforgettable psychedelic nightmare – Golem is quite simply an artistic masterpiece.

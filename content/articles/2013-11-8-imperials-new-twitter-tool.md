@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080910-felix-screen-shot-2013-11-08-at-00.26.22.png"
-image_caption: >
-  How influential is Imperial?
-image_attribution: "Twitter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080910-felix-screen-shot-2013-11-08-at-00.26.22.png"
+image_caption: ""
 ---
 
 A group of academics at Imperial have created a tool that is able to rank the most influential speakers on any topic.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
-image_caption: >
-  We're using this picture ironically because all these people are white.
-image_attribution: "Thomas Angus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
+image_caption: ""
 ---
 
 UCAS has released data that shows Imperial is one of the country’s worst offenders in terms of giving fewer offers to black and poorer students.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191224-felix-firewatch.jpg"
-image_caption: >
-  In the wilderness, no one can hear you scream.
-image_attribution: "Firewatch, Campo Santo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191224-felix-firewatch.jpg"
+image_caption: ""
 ---
 
 Telltale’s _The Walking Dead_ was met with critical acclaim when it was released in 2012, and arguably revitalised the dying adventure game genre. _Firewatch_ has much in common with Telltale’s game, released by Campo Santo, a studio founded by creative leads who had previously worked on _The Walking Dead_.

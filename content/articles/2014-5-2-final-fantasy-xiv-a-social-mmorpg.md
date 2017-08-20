@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020259-jal08-games_ffxiv3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020259-jal08-games_ffxiv3.jpg"
+image_caption: ""
 ---
 
 I can’t talk about _Final Fantasy XIV_ without first talking about its predecessor: _Final Fantasy XI_, Square Enix’s first MMORPG. Released way back in 2002, FFXI was an amazing and beautifully flawed game. I have a bit of a love-hate relationship when it comes to MMOs. Of the several I’ve played they all seem to forget about the second “M” in their name: the one that stands for multiplayer. Sure the ‘World’ in _World of Warcraft _was massive and yes I was online but overall it felt like quite a lonely experience. There was some promise of multiplayer content in the distant endgame but for the most part it was me, alone in the woods, hitting boars over the head with an axe.

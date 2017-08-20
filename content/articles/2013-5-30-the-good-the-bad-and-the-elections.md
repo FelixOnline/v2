@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week, as always, there is a mixture of good news and bad news. I will start with the bad news. [The tragic death of an Imperial alumnus](http://felixonline.co.uk/news/3646/imperial-alumnus-killed-in-syria/) is not the most pleasant thing to be reporting. It reminds me of another incident earlier this year, which was similarly upsetting to put into the paper. The fact that so much money has been raised in his memory in such a short time, and that he seems to have had so many friends at Imperial, shows that his character must have been strong. It is particularly upsetting that he died so young, and left behind a wife. I hope that his friends and family can take some comfort in the fact that he seems to have inspired a lot of people into being very generous: to raise that much money in barely any time at all is almost unbelievable. Hopefully, the field hospital will help people and so it will be for a good cause.

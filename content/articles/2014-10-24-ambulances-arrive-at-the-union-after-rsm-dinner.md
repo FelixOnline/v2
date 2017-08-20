@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021900-ps3110-rcm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021900-ps3110-rcm.jpg"
+image_caption: ""
 ---
 
 Two Ambulances were called to Beit Quadrangle last Friday night to collect two students who had been drinking in the Union bars. The students in question, two girls, had previously been to the Royal School of Mines (RSM) Freshers’ Dinner, although the reasons the ambulances were called were unrelated to alcohol consumption.

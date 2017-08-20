@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Francis Ford Coppola’s _Godfather_ films (excluding _The Godfather III_ – no one likes the third one, let’s be real) are often considered to be two of the greatest films ever made. In fact, they sit nicely below _The Shawshank Redemption_’s top spot on IMDb’s Top 100 Films list. However, _The Godfather_ is not the be-all and end-all. One must never forget that the ‘gangster film’ genre is rich in quality, and can branch out from the standard mid-1900s Mafia setting:

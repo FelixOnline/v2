@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161941-tna08-video-mira-nair-articlelarge-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161941-tna08-video-mira-nair-articlelarge-1.jpg"
+image_caption: ""
 ---
 
 Adapted from the novel of the same name, this Mira Nair film which opened at the Venice Film Festival last year tells the story of Changez (Ahmed), an American educated Pakistani, whose political and religious loyalty we are continuously asked to question.

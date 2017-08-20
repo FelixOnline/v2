@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171848-nm1010-imageima.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171848-nm1010-imageima.jpg"
+image_caption: ""
 ---
 
 An exhibition about mind-altering drugs is likely to elicit the curiosity of nearly everyone, since most of us are at least occasional consumers. Remember how full the Union is of inebriated students some nights of the week? So, I was ready to be surprised by what of artistic value anyone could produce under the influence of psychotropic drugs.

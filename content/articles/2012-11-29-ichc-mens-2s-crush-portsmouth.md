@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A dark and windy November evening saw the men’s 2s head out to Harlington to take on a formidable Portsmouth 3s. With our captain Jimmy S, out injured due to a broken hand, coaching from the sidelines, ICHC got stuck in straight from the first whistle. To say the first half was a one sided affair would be harsh on Imperial: it was a master class.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250156-tna08-tab-screenshot.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250156-tna08-tab-screenshot.png"
+image_caption: ""
 ---
 
 This week [The Tab Imperial ](http://imperial.tab.co.uk/)launched, a new online news source that focuses on news and life of being student at Imperial and around London.

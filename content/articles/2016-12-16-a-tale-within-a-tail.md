@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
-image_caption: >
-
-image_attribution: "Keith"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
+image_caption: ""
 ---
 
 Strolling through the markets of the city Myitkyina in Myanmar, Lida Xing, a scientist with China University of Geosciences, Beijing, came across a block of amber that had preserved within it a fossil of a dinosaur’s tail from nearly 99 million years ago.

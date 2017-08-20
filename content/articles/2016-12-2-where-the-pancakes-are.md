@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0529.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021519-felix-IMG_0529.jpg"
+image_caption: ""
 ---
 
 Evenings on a Wednesday for me are often spent alone in bed, propped up by a few lumpy pillows and my loyal companion, Netflix. The one that just passed was no exemption, with the addition of feeling betrayed after a solid five hours binge-watching the last episodes of The Crown, and left having to entertain myself with my nose in the BS 5500:1991 (which is, in engineering lingo, the specification for unfired fusion welded pressure vessels), looking for the definition of some Factor C.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
+image_caption: ""
 ---
 
 Think back to the last time you dipped sourdough into balsamic, mixed with a gleaming pool of olive oil. Extra virgin, please. As the world of nutrition science continues to shift our perceptions between food ideals, a new study has come to light featuring the sunny, olive oil lifestyle. The paper, published in the online journal Neurology, has shown that those who sustain themselves on a Mediterranean diet retain more brain volume than those who don’t. There is however, one key and slightly unusual exception – the amount of fish consumed, regardless of how much other meat is eaten, fails to make an overall difference. This particular finding contrasts with earlier studies looking into health benefits of a Mediterranean diet. So why is it so healthy for us, even without the fish?

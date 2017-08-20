@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012026-ams111-383296_989134434870_36900750_46857382_815343506_n.jpg"
-image_caption: >
-  Rupert Grint turned up to the workshop in ‘costume’
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012026-ams111-383296_989134434870_36900750_46857382_815343506_n.jpg"
+image_caption: ""
 ---
 
 Imperial College’s very own Musical Theatre Society consistently puts on hilarity filled shows that mix wild humour, a flair for the outrageous and an almost tangible passion for performance. The first term revue of late has progressively developed into something more elaborate. While still based around a collection of well-known show tunes, the plot element and staging of these performances has become ever more ambitious. The sheer scale of this term’s production meant that, attending my preview, I was terrified that perhaps in an attempt to outdo last year’s exquisite Imperial Collage, the well-meaning folk of one of Imperial’s most vibrant and active societies had completely over-reached themselves.

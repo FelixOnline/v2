@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211314-ps3110-acton-halls-website-photo.jpg"
-image_caption: >
-
-image_attribution: "Stephen Ball"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211314-ps3110-acton-halls-website-photo.jpg"
+image_caption: ""
 ---
 
 Felix paid a visit to the construction site of the new Halls, One Victoria Road, to investigate how things were progressing and to talk to Campus Services about the latest news and updates ον τηε προϕεχτ.

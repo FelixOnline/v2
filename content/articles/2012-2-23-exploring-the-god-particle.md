@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232053-cac111-cms.jpg"
-image_caption: >
-  Are we on a collision course with the Higgs boson?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232053-cac111-cms.jpg"
+image_caption: ""
 ---
 
 If the [God Particle](http://www.higgs-boson.org/) is real, 2012 will be the year of its discovery. Scientists at CERN have been searching for proof of the existence Higgs boson since 2008, when the construction of the Large Hadron Collider finally came to an end. Now, after four years, the LHC – a 27-kilometre ring of superconducting magnets located in Geneva, Switzerland – is ready to take up a new challenge. On 13 February, CERN announced that in the next year the Collider will fire proton rays at an energy of 4 TeV. Until now, the LHC has run at a beam energy of ‘only’ 1.18 TeV (Physics fun fact: 1TeV is about the kinetic energy of a flying mosquito). Up until 2009, the highest energy used for this kind of experiment was less than 1 TeV; this record was held by the Tevatron accelerator at the Fermi Laboratory in Illinois, USA.

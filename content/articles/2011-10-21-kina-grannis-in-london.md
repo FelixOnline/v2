@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211239-ak6309-kina5w.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211239-ak6309-kina5w.jpg"
+image_caption: ""
 ---
 
 Kina Grannis is a California-based American singer-songwriter and YouTube sensation. She began performing to her stuffed animals from the age of four, before progressing to her video camera, and finally to people. This month, she is on the European leg of her world tour. She also plans on touring Southeast Asia and Australia later in the year.

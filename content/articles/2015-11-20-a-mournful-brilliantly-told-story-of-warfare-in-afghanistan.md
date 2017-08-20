@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
-image_caption: >
-  Scared, tired and alone in the fight. Tell Spring paints an intimately grim picture of the lives of these Afghan soldiers
-image_attribution: "Tell Spring Not to Come This Year PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
+image_caption: ""
 ---
 
 _Tell Spring Not to Come This Year_ is named after a poem chosen by one of its main subjects: Commander Jalaluddin of the 3rd Brigade of the Afghan National Army (ANA). The poem is a reflection on rebirth and renewal of a country, and the impossibility of such a renewal while the land is still full of death. A mournful poem, it is in many ways a perfect encapsulation of what the film wishes to show us.

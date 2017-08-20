@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the recently released Times Higher Education (THE) World Rankings College was ranked one position higher than last year, coming at 13th. Imperial received an overall reputation score of 20.9, with a slightly higher score for research than teaching. In terms of UK institutions, Imperial came 3rd in the rankings, behind Cambridge and Oxford, who came 4th and 5th with rankings of 74.9 and 74.3 respectively.

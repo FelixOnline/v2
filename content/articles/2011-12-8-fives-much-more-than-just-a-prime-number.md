@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082041-felix-eton-fives-universities-2.jpg"
-image_caption: >
-
-image_attribution: "Abhishek Bhattacharya"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082041-felix-eton-fives-universities-2.jpg"
+image_caption: ""
 ---
 
 What is fives? Read on to the very end, and you could get involved and start your beautiful career.

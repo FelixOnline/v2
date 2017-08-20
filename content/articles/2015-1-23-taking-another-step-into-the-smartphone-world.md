@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231804-jyg11-screen-shot-2015-01-23-at-18.04.14.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231804-jyg11-screen-shot-2015-01-23-at-18.04.14.png"
+image_caption: ""
 ---
 
 This week _Felix_ released the latest version of its app for iPhone. It includes a major revamp of the way it works, adding benefits both in its user interface and in its engine for the user. Today Felix Technology takes a look at what we should expect from the latest addition to _Felix_’s digital “empire”.

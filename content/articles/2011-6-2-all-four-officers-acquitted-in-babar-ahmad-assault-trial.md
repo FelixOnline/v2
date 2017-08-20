@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021846-felix-face-1.jpg"
-image_caption: >
-  Babar Ahmad pictured after his arrest in 2003
-image_attribution: "Free Babar Ahmad/PA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021846-felix-face-1.jpg"
+image_caption: ""
 ---
 
 Update 14:49

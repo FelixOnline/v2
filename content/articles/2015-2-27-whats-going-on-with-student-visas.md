@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 An influential group of MPs has criticised the Government’s student visa policy this week. In a report published by the All-Party Parliamentary Group on Migration, the MPs argued for re-opening of the “post-study work route” following graduation.

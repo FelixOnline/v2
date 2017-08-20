@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032115-nm1010-baseball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032115-nm1010-baseball.jpg"
+image_caption: ""
 ---
 
 The Imperial College Baseball team clinched the Southern League Championship last Saturday in the last game of the season, retaining the trophy after a thrilling 9-8 comeback win against the Southampton Mustangs. This brings to a close an epic season for the Falcons, winning 10 games, drawing 2 and losing 1 on the way to winning the British University Baseball Association (BUBA) double, namely the Fall Cup and Southern League.

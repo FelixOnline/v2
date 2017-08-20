@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031839-nm1010-redeemer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031839-nm1010-redeemer.jpg"
+image_caption: ""
 ---
 
 Our second day in Rio de Janeiro had arrived and we wanted to see the acclaimed towering figure that stands guard atop Mount Corcovado, Christ the Redeemer. From nearly every vantage point in Rio – whether roaming down the random ´Rues´ in Botefugo or actually climbing the winding road past Santa Teresa to the foot of Christ – the statue is always observing you on your way. Despite our dichotomous religious beliefs – one atheist and one believer – in a strange manner we both felt protected by the omnipresence of something so sacred.

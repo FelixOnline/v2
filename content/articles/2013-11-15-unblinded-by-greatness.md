@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Collider exhibition is moulded around the unveiling of the dataset confirming the boson detection earlier this year. It begins by telling the story through a film starring those at CERN in mid 2013, offering the different perspectives of students, fellows and researchers. One of these students is Mingming Yang, only a graduate in the fifth year of her PhD, but who plays one of the biggest parts in this story.

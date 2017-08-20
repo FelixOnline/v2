@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302281804-txl11-worldwarz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302281804-txl11-worldwarz.jpg"
+image_caption: ""
 ---
 
 Last year was the year of the Vampire, and it seems set that 2013 will be the year of the Zombie. Don’t understand me wrong, Zombies have always been present in movies, TV shows, games and books. However only recently this genre has achieved mainstream success, probably through a larger amount of zombie games than ever, the show The Walking Dead as well as a large amounts of movies dealing with the topic.

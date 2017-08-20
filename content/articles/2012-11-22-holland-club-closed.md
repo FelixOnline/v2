@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222237-tna08-holland-club-backup.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222237-tna08-holland-club-backup.jpg"
+image_caption: ""
 ---
 
 The tender process has come to an end and the Holland Club will close the bar on 21 December 2012. Commercial Services will open a new, unnamed outlet in the space at the end of September 2013.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141738-gda07-Gileadsa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141738-gda07-Gileadsa.jpg"
+image_caption: ""
 ---
 
 This has been a busy week on campus. Imperial Christian Union have been hosting their free thinking week, and the Palestinian Society have organised a Gaza awareness week. And being a conscientious, participating member of the Union, I've tried to get involved with all these conflicting activities as best I can. I came to some of the Christian Union events, ready for an argument and the free doughnuts, with my fists clenched and my cheeks turned. I even went to some of my lectures.

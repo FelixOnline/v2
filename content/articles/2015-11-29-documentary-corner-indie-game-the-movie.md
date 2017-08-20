@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
-image_caption: >
-  Jonathan Blow, god of indie games
-image_attribution: "Indie Game: The Movie PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
+image_caption: ""
 ---
 
 In the last decade or so, the video game industry has seen a meteoric rise in success. Previously seen as a pastime for nerds alone, the medium is now as mainstream and popular as any other. A relatively new phenomenon is the concept of the ‘indie developer’; while game production was previously reserved for big-budget, AAA developers, the emergence of platforms such as Steam, as well as the downloadable stores on PlayStation and Xbox, now afford independents a shot at the market.

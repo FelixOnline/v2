@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
-image_caption: >
-         Boy’s best friend, a weird, Griffin-like monster
-image_attribution: "genDESIGN and Sony Interactive Entertainment"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
+image_caption: ""
 ---
 
 This is, without a doubt, a truly phenomenal game. Created by the minds over at genDESIGN (previously Team ICO), it bears a striking resemblance to both of their previous games, Ico and Shadow of the Colossus. In Ico you played a boy guiding a helpless young girl through a castle in an attempt to escape, while Shadow of the Colossus tasks you with finding and killing 16 monstrous beasts. Despite being so different, the two games seem intrinsically linked and The Last Guardian seems to be a marriage of the two, as you partner with a massive beast to escape a ruined castle.

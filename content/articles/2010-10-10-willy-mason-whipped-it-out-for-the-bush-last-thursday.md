@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010101628-ks607-WillyMas.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010101628-ks607-WillyMas.jpg"
+image_caption: ""
 ---
 
 It is a wet and windy evening in Shepherd’s Bush, a resounding confirmation that autumn is indeed upon us and we can now forget our fancy dress frolics at Bestival et al and concentrate on huddling like arctic penguins in the cosy confines of our metropolis’ musical communes, such as the intimate [Bush Hall](http://www.bushhallmusic.co.uk/). Not that we gather solely for the purpose of sharing body heat but rather in order to pay homage the returning prodigal son that is [Willy Mason](http://www.myspace.com/willymason), playing his first UK headlining show since the good old days of 2007.

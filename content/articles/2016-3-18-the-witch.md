@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The concept of the witch is an ancient one. Present since time immemorial, examples of witchcraft can be found all across the globe, from the Maori people’s belief in _makutu_, to the _kitsune-tsukai_ of Japan. Even today, witches play a prominent role in society: just look at the phrase ‘Ditch the Witch’, used a few years ago by supporters of Tony Abbott against the then-incumbent Australian PM Julia Gillard. The witch has come to stand for a fear of female agency and power, and nowhere is this more apparent than in Robert Eggers’ directorial debut, _The Witch_, a slow-burning horror that creeps into your subconscious like tendrils of mist.

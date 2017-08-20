@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071401-felix-chocolate-liquid-1vds4o9.jpg"
-image_caption: >
-  So much chocolate, so little time...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071401-felix-chocolate-liquid-1vds4o9.jpg"
+image_caption: ""
 ---
 
 I have good news for the chocolate-lovers; the biggest celebration of chocolate in the UK is on its way! A wonderful opportunity for the public to learn more about the chocolate market in the UK and have fun in a unique way.

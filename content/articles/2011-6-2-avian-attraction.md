@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021933-felix-white-crowned_sparrowscmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021933-felix-white-crowned_sparrowscmyk.jpg"
+image_caption: ""
 ---
 
 When it comes to choosing a mate, female sparrows have shown they’re anything but bird-brained. According to new research, the feathered females don’t simply pick the most physically attractive, but instead assess the quality of their potential suitor’s inner values.

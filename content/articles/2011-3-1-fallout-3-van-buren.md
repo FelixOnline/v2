@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012108-ks607-fallouts.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012108-ks607-fallouts.jpg"
+image_caption: ""
 ---
 
 Hush up fanboys and those sad enough to try and pick a fight with static print, I’m gonna say it, they cancelled_ Fallout 3_. Not the one you or I played/saw/read about/licked etc. No, this game was in development by Black Isle Studios, the inventors of more cancelled games than ones to actually make it to the shelves.

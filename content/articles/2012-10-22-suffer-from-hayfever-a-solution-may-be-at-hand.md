@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210221618-tna08-science-web-picture.jpg"
-image_caption: >
-  High Pollen days per region. Yellow = Birch. Brown = Grass. Red = Nettle.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210221618-tna08-science-web-picture.jpg"
+image_caption: ""
 ---
 
 ## What is hayfever?

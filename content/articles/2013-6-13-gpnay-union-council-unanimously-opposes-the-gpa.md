@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140007-tna08-yale-university.jpg"
-image_caption: >
-  Yale... How grand. Are you overcompensating for something?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140007-tna08-yale-university.jpg"
+image_caption: ""
 ---
 
 The Union Council this week unanimously passed a paper opposing plans by a number of UK universities to replace the current system of degree classification with US style grade point averages (GPA). The group of twelve universities – including King’s College London and UCL, but not Imperial – first published their plans in June 2011. The new system would involve students being assigned letter grades for each piece of assessment. Each grade would be assigned a numerical value between 0.00 and 4.25 with the final grade being a weighted average of these numerical values.

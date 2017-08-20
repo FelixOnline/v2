@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The South African rugby team followed in the footsteps of their Southern Hemisphere colleagues, [New Zealand](http://www.felixonline.co.uk/?article=307), and trained at [Ethos](http://www3.imperial.ac.uk/sports/ethos) on Thursday morning in preparation for their match against the Barbarians this coming weekend.

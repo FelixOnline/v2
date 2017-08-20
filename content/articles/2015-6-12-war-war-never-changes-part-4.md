@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506121339-cj914-fallout4countdown.png"
-image_caption: >
-  This is the best marketing a game has ever had and in fact ever will have.
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506121339-cj914-fallout4countdown.png"
+image_caption: ""
 ---
 
 Yes, the day of reckoning is upon us. Global productivity has come to a standstill. These are the news headline that will echo around the world on the day of the release of _Fallout 4_.

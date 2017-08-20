@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
+image_caption: ""
 ---
 
 Former College alumnus and IT staff member Babar Ahmad has been sentenced to 12 and a half years in prison after a long battle by US prosecutors in Connecticut. Ahmad admitted to "conspiracy and providing material to support the Taliban."

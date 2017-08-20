@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703122123-ff712-01.jpg"
-image_caption: >
-  Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning
-image_attribution: "Stephen Wright"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703122123-ff712-01.jpg"
+image_caption: ""
 ---
 
 **Julie Cunningham | Dance as performance art**

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
-image_caption: >
-  The Department of Humanities has spent the last three years in a state of
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
+image_caption: ""
 ---
 
 Concerns have been raised about the future of the [Humanities department](http://www3.imperial.ac.uk/humanities) at Imperial by one of its lecturers, Didier Occhipinti. Mr Occhipinti, who teaches French at the College, was due to present a lecture to the Political Philosophy Society late last term but cancelled the event in protest of what he sees as the threat of a "death by a thousand cuts" to the department.

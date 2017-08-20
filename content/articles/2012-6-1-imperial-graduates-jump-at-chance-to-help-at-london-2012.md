@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
-image_caption: >
-  BP graduates at the Olympic Stadium, including Claire Madden, but not including Kelly Holmes
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
+image_caption: ""
 ---
 
 As excitement mounts for this year’s sporting summer, and as career opportunities become ever more uncertain given the unsteady financial climate, a group of Imperial graduates have been given the best of both worlds, with the chance to work at the [London 2012 Olympics](http://www.london2012.com/) this summer as part of a one off graduate programme introduced by BP.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The electronic duo from Edmonton, Alberta played their second London gig this year, touring their album another eternity – note the lack of caps, every track on the album is similarly stylised – the first being at Shepherd’s Bush in April.

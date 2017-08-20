@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
-image_caption: >
-
-image_attribution: "Channel 4"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
+image_caption: ""
 ---
 
 What does it mean to be a human? That’s the question Channel 4’s sci-fi show Humans dances around. Created by Sam Vincent and Jonathan Brackley, this show tells a compelling story with multi-layered characters.

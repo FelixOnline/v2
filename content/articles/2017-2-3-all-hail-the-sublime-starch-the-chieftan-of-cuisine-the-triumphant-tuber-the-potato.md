@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031744-felix-Screen Shot 2017-02-02 at 23.46.09.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031744-felix-Screen Shot 2017-02-02 at 23.46.09.png"
+image_caption: ""
 ---
 
 The humble spud. Where to start? How many foodstuffs can compare to the tuber that brought a whole nation to its knees – and I’m not talking about the Irish potato famine, but rather the introduction of potatoes to haute cuisine. People had been searching for a starch that was affordable yet amazing, could be roasted as easily as boiled, and in all preparations had the same delicious taste – the potato had it all.

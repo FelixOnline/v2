@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A [paper](http://pubs.acs.org/doi/pdf/10.1021/ja01349a006) in 1932 by William Holder Zachariasen hinted at the atomic structure of glass, which at the time was unexplored. This deduction was based purely on the properties of glass known at the time. For example, the fact it does not have a crystalline structure indicated that molecules within it are not symmetric.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102023-dr910-newmusic.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102023-dr910-newmusic.jpg"
+image_caption: ""
 ---
 
 The New Musical Express, perhaps better known as the NME, may have lost some of its influence since it was championing the Beatles and Rolling Stones. The invasion of the internet has certainly chipped away at print media’s appeal, and perhaps one could argue that music hacks have been one of the worst hit. However the NME’s portfolio has expanded, and since 1999 they have been giving out some gongs to some bands for being the best, the worst and the most villainous. Awards shows may also be looked upon with a spoonful of cynicism; as purely masseurs for overinflated rockstar egos. Don’t hold that notion against [the celebratory gigs that are happening right here in the capital throughout February](http://www.nme.com/awards/tour), in the build up to the big event on the 23rd.

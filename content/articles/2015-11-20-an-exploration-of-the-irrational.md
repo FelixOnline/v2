@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200923-ygr12-2.jpg"
-image_caption: >
-  The brutal eye-slicing scene of Un Chien Andalou, which remains one of the most iconic scenes of modern experimental cinema.
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200923-ygr12-2.jpg"
+image_caption: ""
 ---
 
 Hauntingly beautiful, with no linear narrative, no clear plot, and no apparent meaning, the films of Luis Buñuel mark him out as a revolutionary director and key figure in the avant-garde surrealist movement. At the Institute of Contemporary Arts (ICA) a retrospective of his work and life, begun with his most popular film, Un Chien Andalou (1929), and his most rare film, Eating Sea Urchins (1930); a home-movie made at the house of Buñuel’s close companion and artistic partner Salvador Dalí’s, it has been seen by relatively few.

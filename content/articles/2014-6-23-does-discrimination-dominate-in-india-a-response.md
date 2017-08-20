@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes. In a civilised country like India the treatment of women and “untouchables” is not only completely unacceptable, but also completely unforgivable. However I think it is also wrong to say that the story is as simple as saying that the BJP Party, which was sworn into power a fortnight ago, is to blame. __

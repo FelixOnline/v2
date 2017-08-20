@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031056-felix-car.jpg"
-image_caption: >
-  Stop trying to get in on all the nice stuff we have.
-image_attribution: "driven.co.nz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031056-felix-car.jpg"
+image_caption: ""
 ---
 
 We have always been the greatest, most prosperous hub for trade in the whole of Western Europe. Countless enemies have dared to invade us, all with the most unsuccessful results. Since Roman times, we have always resisted, preferring death to yield –always united against tyranny and oppression. We have survived Great Fires, Nazi bombings, terrorist attacks. And we never faltered. We had never surrendered our independence.

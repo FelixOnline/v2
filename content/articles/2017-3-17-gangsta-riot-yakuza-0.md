@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171730-felix-yakuza-zero-ps4-review-5.jpg"
-image_caption: >
-  Talk to the racecar, the face ain’t listening
-image_attribution: "Sega"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171730-felix-yakuza-zero-ps4-review-5.jpg"
+image_caption: ""
 ---
 
 The Yakuza games have always been immensely popular in Japan, so much so that their central protagonist, Kiryu Kazuma, is considered a mascot of PlayStation. However, they unfortunately have never found their footing here in the West and are largely unheard of. If, like me, you have never played a Yakuza game before, please right that wrong by playing this game.

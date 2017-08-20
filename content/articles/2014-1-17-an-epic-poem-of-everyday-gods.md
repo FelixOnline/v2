@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401170345-jal08-arts-kate-tempest---brand-new-ancients---spitalfields-music-winter-festival-16-december.jpg"
-image_caption: >
-
-image_attribution: "Spitalfields Music Festival"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401170345-jal08-arts-kate-tempest---brand-new-ancients---spitalfields-music-winter-festival-16-december.jpg"
+image_caption: ""
 ---
 
 Kate Tempest is a 27 year old performance poet from Lewisham, London. As poetic as her name may sound, she remains unheard of to many. But all of this is changing, fast.

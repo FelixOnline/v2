@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
-image_caption: >
-  Enjoying a local Berliner beer with a book during the day
-image_attribution: "Yung Nam Cheah"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
+image_caption: ""
 ---
 
 It has been almost thirty years since the fall of the Berlin Wall when the capital of Germany finally became whole again. Left with gaping wounds on their landscape, the city has been reborn in an extraordinary way in the last three decades whilst embracing its cultural heritage.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031924-pk1811-dsc_0738.jpg"
-image_caption: >
-  IC Radio are back on the airwaves as of this week
-image_attribution: "Bob Xu"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031924-pk1811-dsc_0738.jpg"
+image_caption: ""
 ---
 
 IC Radio was shut down last Friday after the college received a serious complaint following a show in which the presenters discussed the “dirty little secrets” of an unnamed student organisation. The complaint is thought to have been from a former or current committee member of the organisation who stated that their primary objection to the programme was “defamation of character”. The show, which aired on Sunday 23 October, has since been removed from the [IC Radio website](http://www.icradio.com/).

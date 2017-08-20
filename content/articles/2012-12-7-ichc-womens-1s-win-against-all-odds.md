@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070302-tna08-hockeywebphoto.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070302-tna08-hockeywebphoto.jpg"
+image_caption: ""
 ---
 
 On the very cold afternoon on Wednesday the 5th December we went out to face a team that had not only beaten but really thrashed us at the beginning of the season 7-0. It was not an exciting prospect with a captain Gigi having now become captain hook and only able to watch from the side-lines after breaking her hand a few weeks ago. We have also been struggling though a few injuries and were depleted due to the usual end of term deadlines. But we set out with nothing to lose; at least we looked better than the mottled purple of Portsmouth!

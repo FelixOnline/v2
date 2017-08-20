@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282329-tna08-jonny.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282329-tna08-jonny.jpg"
+image_caption: ""
 ---
 
 At 49 years of age, it seems slightly odd that it took Johnny Marr this long to put out a solo album. Renowned for being the guitarist of the influential indie pop band The Smiths in the 80’s, Marr has been busy since then playing in many bands such as Modest Mouse, accompanied by The Healers and The Cribs. So, it’s fair to say that he’s been around the block a few times, mostly in groups without taking the role of the frontman. Well, you can argue that Johnny Marr and the Healers was a bit like Marr’s own band but I reckon The Messenger has a lot more guts than Boomslang, the Healer’s only album to date.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031758-felix-01-Bleecker Burger.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031758-felix-01-Bleecker Burger.jpg"
+image_caption: ""
 ---
 
 ## 1 | Bleecker Burger

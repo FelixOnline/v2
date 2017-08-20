@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
-image_caption: >
-  Is democracy just a pretty illusion?
-image_attribution: "www.illuminati-news.com"
-image_attribution_link: "http://www.illuminati-news.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
+image_caption: ""
 ---
 
 In this day and age, democracy does not necessary mean equal representation as we are made to believe. In this editorial, I will look at certain issues from around the world that seem to elucidate upon this problem.

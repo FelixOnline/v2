@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
+image_caption: ""
 ---
 
 The __Royal Shakespeare Company__ has shown once again that it defines how Shakespeare should be performed. Unusually at the __Barbican__ as opposed to the __Globe__, the restraints of performing in the round were removed, opening up more options for staging and props. This allowed a realistic scene to be set, engrossing you more fully in this world of debauchery and rebellion.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Inequality irritates me, particularly as it is so prevalent within our society. Women are oppressed on many different levels; here at Imperial the most recent evidence for this is the refusal by the NCC (New Clubs Committee) of a Gender Equality Society. The reasoning of the Union is as follows: we don’t need another women’s society as we have WSET and a Gender Equality Officer. Our attempts to set up this society were instead relegated to ‘campaign’ status within the Union, which, although no one seems to know what this is, seems fair enough on the face of it all. The problem is that this comes at a time when Felix is in trouble with the _Telegraph_ for joking about Rohypnol and others have pointed out how anti-feminist the only Women’s society at Imperial is (see last week’s Felix). There seems to be no time like the present for a feminist or women’s rights group at the Union. Pity those in power disagree.

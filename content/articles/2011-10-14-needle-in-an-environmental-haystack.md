@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140139-felix-eoghan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140139-felix-eoghan.jpg"
+image_caption: ""
 ---
 
 London. A seething, writhing cacophony of activity by day and a place where simmering pulses of energy remain by night. If there’s one thing you can count on, it’s that in London, a light is always turned on somewhere.

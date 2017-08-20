@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
-image_caption: >
-  Shy and elusive beaked whale breaching the surface.
-image_attribution: "NOAA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
+image_caption: ""
 ---
 
 How many species do you think exist on planet earth? 100 thousand, one million, ten million? Recent estimations have induced a species count of 8.7 million. More than 1000 years would be needed to catalogue such a vast number. It’s really a question of ‘where do we start?’

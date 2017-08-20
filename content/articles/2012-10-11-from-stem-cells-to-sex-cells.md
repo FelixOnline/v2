@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112151-csw09-mice-populationsmall.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112151-csw09-mice-populationsmall.jpg"
+image_caption: ""
 ---
 
 Japanese researchers have created viable eggs in mice from skin stem cells which produced healthy fertile offspring that successfully had their own progeny. This breakthrough could hopefully lead to treatments for human infertility in the distant future.

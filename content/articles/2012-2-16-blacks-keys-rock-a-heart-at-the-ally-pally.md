@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202272116-sh1207-theblackkeys_gq_14feb12_rex_b.jpg"
-image_caption: >
-
-image_attribution: "Rex Features"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202272116-sh1207-theblackkeys_gq_14feb12_rex_b.jpg"
+image_caption: ""
 ---
 
 Like most people who spent the better half of their teenage years during the mid-noughties, my music tastes were fairly rigidly constrained to the world of indie rock. My iTunes library was full of guitar bands and the ideal school night involved necking a few tins, getting on the train and sweating copious amounts in the poorly ventilated gig venues of Leeds. These days there are maybe three guitar bands that I pay any real attention to, with the rest of my attention falling on the world of electronic and hip hop music. Thinking about it, I’ve probably been to two gigs featuring bands playing ‘actual instruments’ in the past year. Perhaps this makes me less qualified to comment on this whole thing, perhaps it makes me more so, perhaps I couldn’t give a tuppeny fuck either way.

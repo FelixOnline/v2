@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131712-tna08-antichamber.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131712-tna08-antichamber.jpg"
+image_caption: ""
 ---
 
 It has been a long time since my brain has hurt this much. I’ve just worked out how to reach the bottom of an endless staircase, and now I’m faced with alaser puzzle that needs 30 pieces, when I’ve only got 12, and I can’t even move them around. Welcome to Antichamber.

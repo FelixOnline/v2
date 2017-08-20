@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106111837-felix-becoming-real.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106111837-felix-becoming-real.jpg"
+image_caption: ""
 ---
 
 Toby Ridler, A.K.A. [Becoming Real](http://www.myspace.com/becomingrealmusic), is one of the most promising young producers around today, giving birth to strange new music that tends to melt faces and scar minds. It also turns out he’s a really nice dude. He answered a few questions of mine in anticipation of his headlining set at BONED, the second Felix Music Night, taking place [tonight](https://www.facebook.com/event.php?eid=214310911933116&ref=ts) at Metric (Imperial College Union).

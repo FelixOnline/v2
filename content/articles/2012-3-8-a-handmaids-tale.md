@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082042-ams111-handmaids-tale.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082042-ams111-handmaids-tale.jpg"
+image_caption: ""
 ---
 
 Margaret Atwood’s _The Handmaid’s Tale_ often appears on people’s lists of recommended novels. Unfortunately, I have a somewhat bad record at reading must-read books so I only picked it up last week. Perhaps, however, I should begin to pay more attention to such highly recommended books since _The Handmaid’s Tale_ is honestly one of the best books I have ever read.

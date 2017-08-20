@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Fellow Bristolian Vessel’s 2012 offering, Order of Noise, manages to successfully intertwine dark ambient, glitch, dub and techno to throw us back to those grimy Bristol moments where the stims have ran out and everyone is desperately caning the ketamine, milking the absolute last out of the depraved party that has just run its course.

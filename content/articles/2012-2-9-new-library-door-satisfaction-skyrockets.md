@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092312-felix-dsc_6612.jpg"
-image_caption: >
-  A 'stunning coup' for students
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092312-felix-dsc_6612.jpg"
+image_caption: ""
 ---
 
 The new Library entrance was today unveiled in what is already being called a stunning coup for students. The entrance, which whilst still in the same place, now encompasses an incredible 3.75m2, will provide untold numbers with easier access to Imperial’s coveted study areas.

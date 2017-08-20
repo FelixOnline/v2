@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Professor Erol Gelenbe (Dennis Gabor Chair, Dept. Electrical and Electronic Engineering) was recently awarded the honour of Chevalier de la Legion d’Honneur (Knight of the Legion of Honour) by French President Francois Hollande for 43 years of service in Higher Education and Research.

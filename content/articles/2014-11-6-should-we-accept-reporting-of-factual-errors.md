@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102226-ps3110-ebola.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102226-ps3110-ebola.jpg"
+image_caption: ""
 ---
 
 So if you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa and soon enough, we are assured, the rest of the world.

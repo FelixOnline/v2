@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092213-pk1811-d.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092213-pk1811-d.jpg"
+image_caption: ""
 ---
 
 The [Etymotic](http://www.etymotic.com/) MC2 headset is an in-ear, noise isolating headphone and microphone combination promising high-quality sound. It also has a single button that can be used for tasks such as answering calls or pausing what’s playing. I’ve been using them for the last week, and I have to say I’m finding them pretty good. Of course, compared to a particular known-brand of white earphones (don’t ask – my old earphones broke), most headphones are going to be a decent improvement. However, I also have a separate pair of over-the-ear ‘phones, so they’ll be my point of reference instead.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
-image_caption: >
-  Fourier Transforms are highly useful for signal processing
-image_attribution: "MIT"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
+image_caption: ""
 ---
 
 Researchers at MIT have discovered a new method of performing the Fast Fourier Transform algorithm which, in a large set of use cases, adds performance improvements. The MIT group submitted their paper, “[Nearly Optimal Sparse Fourier Transform](http://arxiv.org/abs/1201.2501)” to ArXiv on 12 January and presented their findings in the Symposium on Discrete Algorithms (SODA) last week.

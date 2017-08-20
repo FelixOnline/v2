@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
-image_caption: >
-
-image_attribution: "Tom Welch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
+image_caption: ""
 ---
 
 New halls in Clapham Junction are set to open to postgraduates in the next academic year. [Griffon Studios](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectivepostgraduatestudents/accommodationoptions/griffonstudios), which charges £235 per week for high-quality studio apartments, is the product of a joint venture between the Imperial College Fund and the property developer [Berkeley First](http://www.berkeleygroup.co.uk/berkeley-first). The halls on Winstanley Road, which include a 24-hour “concierge service” and a free on-site “fitness gym”, will house 452 postgraduates from October 2011, expanding to 566 the following year.

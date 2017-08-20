@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
+image_caption: ""
 ---
 
 I had no intention to watch “[Made in Chelsea](http://www.e4.com/chelsea/)”, but being otherwise unoccupied, along with the fact that it was playing on my friend’s laptop in front of me, I found myself succumbing to three episodes thereof. It was painful.

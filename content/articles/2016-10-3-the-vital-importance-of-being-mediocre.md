@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101210-felix-3596476766_0feee3d08c_o.jpg"
-image_caption: >
-
-image_attribution: "danjo paluska"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101210-felix-3596476766_0feee3d08c_o.jpg"
+image_caption: ""
 ---
 
 University is a time for learning new things.  By the time you leave you’ll (hopefully) be able to make nutritionally passable food, complete group projects without stabbing anyone, and compose the perfect passive aggressive group chat message about washing up.  But, arguably apart from the content of your degree, the most important thing you will learn is that it’s okay to be average.

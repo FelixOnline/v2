@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512061434-ff712-The-Good-the-Bad-and-the-Ugly.jpg"
-image_caption: >
-
-image_attribution: "Creative Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512061434-ff712-The-Good-the-Bad-and-the-Ugly.jpg"
+image_caption: ""
 ---
 
 **The Top Western films that aren’t _The Good, the Bad, and the Ugly_**

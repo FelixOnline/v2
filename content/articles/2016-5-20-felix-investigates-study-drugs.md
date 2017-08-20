@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
-image_caption: >
-  Their website looks legit, but this is all about to become really illegal.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
+image_caption: ""
 ---
 
 Like all good things in life, this article starts with a disclaimer: FELIX is by no means advocating the use of these so-called study drugs. I don’t know about you, but shitting every hour doesn’t scream productive work mode to me, – each to their own. We’re just giving you some facts and student experiences so you can make up your own mind. FELIX is not your mum, but it does love you.

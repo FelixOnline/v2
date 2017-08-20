@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The government has announced that it will be cutting £946 million from its annual grant to English Higher Education Institutions. In the latest its grant letter to the Higher Education Funding Council for England (HEFCE) the Department for Business, Innovation & Skills announced that its final recurrent grant to the sector for the 2014-2015 academic year will be £3.6 billion. This is some £125 million less than the estimate 2014-2015 funding that was announced in last year’s grant letter.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191209-felix-Exit-Through-Gift-Shop.jpeg"
-image_caption: >
-  Super-cool 'artist' Banksy.
-image_attribution: "Exit Through the Gift Shop PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191209-felix-Exit-Through-Gift-Shop.jpeg"
+image_caption: ""
 ---
 
 Last week we had _The Imposter_ – a gripping documentary following a bizarre case of identity fraud and murder. The film was heavy with recreation scenes and utilised them to such an extent that it blurred the lines between documentary and feature drama. The documentary of choice this week continues the theme of mixing reality and fiction. The difference here is that it's kind of the point. In reality, _Exit Through the Gift Shop_ may not even be allowed to feature in this section, as it’s not really clear if it can really be called a ‘documentary’.

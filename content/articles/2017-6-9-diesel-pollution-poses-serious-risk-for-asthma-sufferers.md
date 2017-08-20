@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091700-ea3211-30512519164_41c34909fe_b.jpg"
-image_caption: >
-
-image_attribution: "David Holt"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091700-ea3211-30512519164_41c34909fe_b.jpg"
+image_caption: ""
 ---
 
 Forty million British people are living in cities and towns with illegally high air pollution levels. This alarming statistic is in part due to diesel exhaust, which according to new research can directly affect our lungs and make respiratory conditions worse.

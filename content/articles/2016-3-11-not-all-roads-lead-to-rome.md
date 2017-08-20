@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
-image_caption: >
-  George Clooney as Baird Whitlock, in the Coen brothers' latest comedy outing, Hail, Caesar!
-image_attribution: "Universal Pictures/EPA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
+image_caption: ""
 ---
 
 Old Hollywood’ is a hell of a drug. In an age of social media saturation and online engagement, we long for the halcyon days of the glamourous star, as perfect and distant as a far-flung constellation. No matter how much dirt is unearthed on the horror of the old studio system – which includes forced marriages, arranged murders, and dodgy mob connections – there’s still an aching for a time long past; a willingness to swap enlightened debates about gender and race for just one more Rita Hayworth flick. _Hail, Caesar!_, the latest from the Coen brothers, takes aim at our love for nostalgia, throwing us into the wheelings and dealings of the chaotic world of Hollywood, communist tap dancers and all.

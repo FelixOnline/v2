@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250202-felix-games_pokepimp.jpg"
-image_caption: >
-  YO, CHICKS BE CHECKING OUT MY YOLOSWAG!!!
-image_attribution: "Yong Wen Chua/Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250202-felix-games_pokepimp.jpg"
+image_caption: ""
 ---
 
 In the 17 years since the first Pokémon games were released, Game Freak have been churning out generations of iterative games, each improving upon their predecessors gradually. Now in its sixth generation of the games, Pokémon X & Y delivers another more-of-the-same but greatly improved game from its predecessor Pokémon Black 2 and White 2. I played Pokémon Y, but the differences between the versions are slight, and do not involve any gameplay mechanics. This review will contain spoilers, although not story related ones.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102324-tna08-war-z_s04.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102324-tna08-war-z_s04.jpg"
+image_caption: ""
 ---
 
 It’s not exactly a secret that I’m a fan of zombie games. From fully-fledged team-based games such as Left 4 Dead, to mods such as No More Room in Hell and DayZ. If you’ve been around this genre before, you’ll notice that it nearly always takes place in the ruins of cities and towns. It makes sense, to be honest – it allows for a more varied playground of zombie-killing madness. DayZ took advantage of a massive piece of countryside, and made it lonely and brutal. And best-selling. Well, it’s free, so it’d be best-selling if you could actually sell it. Another group finally noticed this chasm in the market, and promised us The War Z. The one thing that smelled fishy to the office, was that it quickly popped up on our radar, months after DayZ started building momentum, and less than a year later, The War Z was up on Steam. And now we know how.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
-image_caption: >
-
-image_attribution: "David Murray"
-image_attribution_link: "http://Imperial train with the England team in 2008"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
+image_caption: ""
 ---
 
 The College’s [proposals](http://felixonline.co.uk/?article=594) to extend the working day would have several implications in terms of the available time for extra-curricular sporting activity.

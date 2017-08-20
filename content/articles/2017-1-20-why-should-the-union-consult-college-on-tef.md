@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 During this week’s extraordinary council meeting, I proposed a paper to seek permission from Council to approve the following: firstly, for the Union to make contributions to Imperial’s Teaching Excellence Framework (TEF) submission and secondly, for Council to review the Union’s existing Higher Education Funding policy. The paper was passed successfully.

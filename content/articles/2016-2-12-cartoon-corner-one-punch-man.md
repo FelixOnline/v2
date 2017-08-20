@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121156-felix-onepunchman.jpg"
-image_caption: >
-  Gearing up for the ultimate KO punch.
-image_attribution: "Daisuki"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121156-felix-onepunchman.jpg"
+image_caption: ""
 ---
 
 This anime is one which is a stark departure from how typical anime, or indeed superhero stories, usually are and that is a completely good thing. The biggest quality of this show is that it feels fresh and new. It was originally a webcomic which was so popular it got its own animated adaption, and it is not hard to see why. The show features Saitama, our protagonist, who is so strong he can defeat all his enemies with, as the title suggests, one punch. What follows are episodes filled with intense action, outlandish hilarity, and just some plain, crazy fun.

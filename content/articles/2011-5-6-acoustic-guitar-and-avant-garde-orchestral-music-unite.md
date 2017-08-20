@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
-image_caption: >
-
-image_attribution: "flickr/halfmadhalfinsane"
-image_attribution_link: "http://www.flickr.com/photos/61709281@N04/5615772569/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
+image_caption: ""
 ---
 
 _[The Barbican](http://www.barbican.org.uk/)

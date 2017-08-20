@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was a cold frosty morning; luckily the weather was a little more stable than Frosty’s stomach walls. Beasley faced a huge debate though: to wear a layer underneath or not. Sacrifice warmth and endure the possibility of nipple chaffing, or lose vital fluids. It was a tough choice, almost on par with the age-old optimal banana consumption time and optimal shower temperature. We got out on to the pitch well before the opposition, making sure to lock all of our lectures notes in a safe. As we were warming up, the second half of Westminster 1s arrived, opting to jump out over a barbed wire fence rather than walking round to the actual entrance – clearly a bright bunch. I hope they’re a little smarter when I tell them what I want in my Subway.

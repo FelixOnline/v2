@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last Saturday saw the Bussey Building in Peckham play host to About Time #2. A day festival chocked full of the best in UK emo, screamo and noise rock is tough to say no to, so we headed down to check out some bands. The two stages were staggered so you could see everything, and we did our best.

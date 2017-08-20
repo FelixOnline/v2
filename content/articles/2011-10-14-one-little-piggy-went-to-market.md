@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110141114-felix-markets.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110141114-felix-markets.png"
+image_caption: ""
 ---
 
 I have a confession to make. Over the last year or so, I’ve been really quite evil. I really never meant to be, but there it is. Evil as a doorknob. Like many of my ilk, I can pin point the exact day the evil started, it was in November 2009 and I was in the Felix office, chatting to the Business Editor. The chat went something like this:

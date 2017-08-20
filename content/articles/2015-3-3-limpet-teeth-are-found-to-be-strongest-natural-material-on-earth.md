@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503041213-ps3110-screen-shot-2015-03-03-at-15.16.19.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503041213-ps3110-screen-shot-2015-03-03-at-15.16.19.png"
+image_caption: ""
 ---
 
 Engineers believe they may have found the strongest natural material on Earth – limpet teeth. Research conducted at the University of Portsmouth has revealed that the teeth of these small aquatic creatures are so strong they could be copied to make the cars, planes and boats of the future.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
-image_caption: >
-  This photo makes me hate the fact  it is not summer anymore...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
+image_caption: ""
 ---
 
 Monday morning at Bestival provided one of those typically British end-of-summer moments. As 50,000 hung-over festival goers packed up, or, in many cases, abandoned, their tents and gazebos, a distinct air of conclusion could be felt in the rainy skies of Robin Hill Country Park on the Isle of Wight. The preceding four days could not have been in starker contrast, with intense sunshine ensuring unfortunate burns and tan lines all round, accompanying a barmy weekend of wide-ranged music and comedy.

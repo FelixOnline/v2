@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
+image_caption: ""
 ---
 
 Male undergraduates continue to outnumber females by nearly two to one as revealed by the College Strategic Planning Division. Felix tries to make sense of it all.

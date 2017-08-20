@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142152-pk1811-img_2645.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142152-pk1811-img_2645.png"
+image_caption: ""
 ---
 
 _Jemma Pilcher is a fresher ariving at Imperial with an impressive portfolio following an art foundation. Phoenix commissioned this shoot to show off three beautiful bodices from her back catalogue. - Ed_

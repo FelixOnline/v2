@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Some of us are not normal people (but then again, we are Imperial students). We live on the bleeding edge of technology where we thrive on using the latest and greatest of gadgets and software. We readily consume new technology and are willing to learn and adapt. In case of an interface paradigm change, it’s probably true, more often than not, that after a short period of lower productivity whilst getting used to the new UI, it will become second nature. We are also prepared to deal with rough edges in the latest software and we grow acclimatised to their quirks and oddities.

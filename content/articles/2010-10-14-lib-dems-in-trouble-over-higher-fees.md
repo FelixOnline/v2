@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142017-ks607-nickcleg.jpg"
-image_caption: >
-  "Oh dear! Did I promise that?"
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142017-ks607-nickcleg.jpg"
+image_caption: "Oh dear! Did I promise that?"
 ---
 
 The last few months have not been good for the Liberal Democrats. With poll ratings plummeting from 23 to 14% since joining the coalition, the reality of power for the first time in over a century is quickly turning into a nightmare. Low party morale and a new (but not, he stresses, New) Labour leader keen to brand the coalition as ‘the nasty parties’ have left the Lib Dem’s top brass finding it increasingly difficult to keep the sizeable left of the party in tow. In short, this is the worst possible time to test the party members’ commitment to the coalition’s shotgun marriage.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There are a few ways to instantly sell me on a new TV show, regardless of reviews or recommendations. The new BBC show, _Musketeers_, hit virtually all of the boxes: an adaptation of an all-time favourite book, a cast featuring Peter Capaldi and the hot artist from _Heroes_, and plenty of sword fights. I’d have eagerly watched it regardless of any bad reviews, which is probably for the best, as it had something of a mixed reception from critics.

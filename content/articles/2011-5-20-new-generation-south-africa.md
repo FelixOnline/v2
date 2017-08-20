@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200645-felix-martin_machapa.1.jpg"
-image_caption: >
-
-image_attribution: "Martin Machapa – Zanele Muholi, courtesy of Michael Stevenson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200645-felix-martin_machapa.1.jpg"
+image_caption: ""
 ---
 
 The exhibition does not hold back, photos are large enough to step well away from, and with seventeen different photographers there is plenty there to see. As well as the familiar dignified portrait style are some real surprises. Amongst them Pieter Hugo’s astonishingly powerful picture of a man with a hyena, a really breathtaking piece. It is good value for money whilst being possible to visit within half an hour.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705041029-ff712-BFILFFTheLevellingReview.jpg"
-image_caption: >
-  Ellie Kendrick as Clover in The Levelling
-image_attribution: "Peccadillo Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705041029-ff712-BFILFFTheLevellingReview.jpg"
+image_caption: ""
 ---
 
 Director Hope Dickson Leach’s latest film _The Levelling_ follows Clover (Ellie Kendrick), who is forced to return to her family farm in Somerset following the sudden death of her brother, Harry. However, when she arrives, she finds out her brother actually shot himself: her father Aubrey (David Troughton) claims it was an accident, that Harry was wasted at the time; the police, however, have ruled it a suicide, which Aubrey insists cannot be the case. Harry had just inherited the family farm and they’d been celebrating that same evening. He was, to all appearances, happy and optimistic about the future.

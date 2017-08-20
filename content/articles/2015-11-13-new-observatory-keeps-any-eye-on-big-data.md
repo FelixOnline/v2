@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131421-ygr12-observatory.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131421-ygr12-observatory.jpg"
+image_caption: ""
 ---
 
 Last week, the KPMG Data Observatory was launched as part of Imperial’s Data Science Institute. The purpose of the observatory is to enable the analysis and visualisation of data, particularly useful for large corporations that collect massive amounts of it.

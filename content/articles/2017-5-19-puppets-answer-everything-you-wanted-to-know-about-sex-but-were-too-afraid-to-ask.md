@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705191707-felix-18518630_1209345525840680_1370785209_n.jpg"
-image_caption: >
-  Acts in Sex and Puppets
-image_attribution: "Edie Edmundson,Wondering Hands"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705191707-felix-18518630_1209345525840680_1370785209_n.jpg"
+image_caption: ""
 ---
 
 Sex and Puppets is reimagining the way we think and talk about sex and relationships. A production by the puppet company  Wondering Hands uses a series of witty sketches, devised in collaboration with puppeteer Alicia Britt that are based on real life experiences as told by members of the public in online anonymous questionnaires to explore different aspects of sex.

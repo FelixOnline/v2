@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152119-ams111-shad-alt.jpg"
-image_caption: >
-  This will turn your world upside-down
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152119-ams111-shad-alt.jpg"
+image_caption: ""
 ---
 
 In an attempt to redeem myself for last week’s poor no-show this week I’ve upped the ante and bringing you a whole mixtape.

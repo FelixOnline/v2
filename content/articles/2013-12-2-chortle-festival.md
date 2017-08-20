@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I really wasn’t sure what to expect from the Chortle Comedy Books Festival – an event hosted by the comedy news website Chortle. After all, what would such an event even entail? It turns out that I needn’t have worried. The festival was an eclectic mix of comedy shows related to books and discussions of books written by high profile comedians.

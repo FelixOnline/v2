@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
-image_caption: >
-  Not even the ultra masculine Timothy Dalton can bring himself to shoot man’s equals: pigs
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
+image_caption: ""
 ---
 
 Getting home one day, I was met with an unwelcome, albeit familiar, sight. The living room looked like a bomb had gone off and the rubble had been picked over by looters. In the kitchen, scores of mice were defending the ceramic mountain range by the sink from an amorphous and strangely sentient fungus. I dared not step into the bathroom – from what I could see, I didn’t know whether to call a professional cleaner or an exorcist. Faced with this special circle of hell, there was only conclusion I could reach: I’m living with pigs!

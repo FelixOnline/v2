@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201207161309-mc4509-bags.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201207161309-mc4509-bags.jpg"
+image_caption: ""
 ---
 
 So summer has finally arrived and it’s time to pack up our precious belongings and start travelling. Whether it’s lugging a heavy laptop to the office, or, for those more fortunate, a chance to explore the world with SLRs slung around our necks, there’s no doubt that expensive pieces of technology are slowly swirling into the epicentre of our lives.

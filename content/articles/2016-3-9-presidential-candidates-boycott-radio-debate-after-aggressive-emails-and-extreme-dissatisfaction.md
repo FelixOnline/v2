@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
-image_caption: >
-  Drama in the West Basement of Beit.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
+image_caption: ""
 ---
 
 A debate between Union President Candidates that was due to be held on IC Radio last night was scuppered after four candidates decided to boycott the show an hour before it went on air.

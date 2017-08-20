@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311011047-felix-roay.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311011047-felix-roay.jpeg"
+image_caption: ""
 ---
 
 The British Monarchy as an institution is, we can all agree, quintessentially British. Defined by political impotence with a history of starting needless wars to satisfy stupid demands. A historical anachronism allowed to be a part of the elite out of politeness, with the mind to its occasional utility. The US needed Britain’s support during Iraq, to pretend it wasn’t the only ‘democracy’ going to fight there uh, for democracy, and the British Government sometimes needs the Royal Family to throw a good party. Because these are times of austerity! Wait…

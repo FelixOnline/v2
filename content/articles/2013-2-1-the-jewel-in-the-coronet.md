@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010102-tna08-coronet_003_edited.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010102-tna08-coronet_003_edited.jpg"
+image_caption: ""
 ---
 
 If my undergrad is anything to go by most people don’t spend a huge amount of time in Notting Hill Gate. You might make it up to Edgeware Road or into Bayswater for a year but for the most part those I know spend most of their time hanging out in Fulham or Shepherd’s Bush. Everything in Notting Hill Gate is overpriced and there’s not really that much there right? Wrong. The Coronet Cinema is a hidden gem that is not to be missed. Independent cinemas are much less numerous than they used to be as the big cinema chains are able to offer more films at more times in more locations. Those that survive are generally forced to find some niche to fit into; foreign movies or arts films, etc; unable to afford the high prices for studio blockbusters on the limited showings and audience sizes they can manage.

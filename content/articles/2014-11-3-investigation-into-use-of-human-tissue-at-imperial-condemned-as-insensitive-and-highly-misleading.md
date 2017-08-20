@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411031124-ps3110-prince-harry-opens-blast-centre.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411031124-ps3110-prince-harry-opens-blast-centre.jpg"
+image_caption: ""
 ---
 
 An “investigation” into the use of human tissues at Imperial by the [Mail on Sunday](http://www.dailymail.co.uk/news/article-2817170/How-poppy-money-funds-macabre-trade-human-legs-feet-5million-British-legion-lab-opened-Prince-Harry-imports-body-parts-bomb-blasts-tests.html) has been condemned by the College and the Royal British Legion Centre.

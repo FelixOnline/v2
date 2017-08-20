@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101421-felix-5685328895_fc55c07e55_o.jpg"
-image_caption: >
-
-image_attribution: "Elena Olivo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101421-felix-5685328895_fc55c07e55_o.jpg"
+image_caption: ""
 ---
 
 ## 1

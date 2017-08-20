@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
-image_caption: >
-  What a difference a day makes. Miliband, Clegg and Farage all resign as Cameron wins a 12 seat majority
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505081857-jr2514-leaders_3227668b.jpg"
+image_caption: ""
 ---
 
 We have a surprise Conservative 12-seat majority, as the Tories swept across England, while Scotland saw a landslide victory for the SNP, Wales remained majority Labour and Northern Ireland's DUP defended their share of the seats. The Liberal Democrats suffered a catastrophic election result across the United Kingdom, and UKIP only have one seat despite winning nearly 4 million votes.

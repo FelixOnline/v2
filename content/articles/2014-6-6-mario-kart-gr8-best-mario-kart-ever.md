@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060352-jal08-mariokart8.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060352-jal08-mariokart8.jpg"
+image_caption: ""
 ---
 
 As a fan of the series ever since Mario Kart SNES I can truly say that, in my opinion, this is the best Mario Kart to date. Mario Kart, like many Nintendo games, has mostly retained the same formula for each game. You still race or battle whilst picking up items to aid yourself or knock out your enemies. Nintendo however has yet again managed to take an old series and keep it fresh, new and exciting.

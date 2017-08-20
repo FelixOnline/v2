@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280032-ps3110-201301172350-tna08-uc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280032-ps3110-201301172350-tna08-uc.jpg"
+image_caption: ""
 ---
 
 The University Challenge team has been finalised after an extensive selection process. The new team consists of 5 male students and was selected after passing several rounds of quizzes and a final trial stage.

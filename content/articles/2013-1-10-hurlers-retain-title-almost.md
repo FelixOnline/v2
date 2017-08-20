@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
-image_caption: >
-  Winning smiles all round
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
+image_caption: ""
 ---
 
 Much like Leonidas and his 300 Spartans, Sat 3rd November found me leading 10 Imperial hurlers. This time however the hammer would fall, not in Thermopylae, but in Birmingham. Same difference some would say. The challenge facing us was very much as daunting. Our titanic adversaries were University of Dundee, Robert Gordon University (Aberdeen) and University of Liverpool.

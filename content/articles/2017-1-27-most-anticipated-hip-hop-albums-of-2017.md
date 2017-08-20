@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271649-felix-TheComeUpShow.jpg"
-image_caption: >
-  A$AP Rocky
-image_attribution: "The Come Up Show"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271649-felix-TheComeUpShow.jpg"
+image_caption: ""
 ---
 
 ## 10. Lil Wayne | Tha Carter V

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241433-felix-02.jpg"
-image_caption: >
-  Schaubühne Berlin, Richard III, Lars Eidinger and Jenny König
-image_attribution: "Arno Declair"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241433-felix-02.jpg"
+image_caption: ""
 ---
 
 Thomas Ostermeier’s production of Richard III is a celebration of the wicked, the tragic, and the profane. The play is on tour from Schaubühne Berlin and is performed entirely in German with English surtitles on the stage.

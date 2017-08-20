@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010020815-ks607-TowerBri.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010020815-ks607-TowerBri.jpg"
+image_caption: ""
 ---
 
 This is a tough job. Combine the thousands of clubs there are in London with the overbearing feeling that I’m approaching a very premature mid-life crisis and you’ll understand why introducing London’s nightlife to a Fresher is incredibly difficult.

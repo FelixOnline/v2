@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080029-tna08-537998_10152553235430607_652088575_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080029-tna08-537998_10152553235430607_652088575_n.jpg"
+image_caption: ""
 ---
 
 1000 runners, miles of mud and one epic after party can only mean one thing, BUCS Cross Country 2013!

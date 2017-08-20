@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161905-tna08-untitled-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161905-tna08-untitled-2.jpg"
+image_caption: ""
 ---
 
 Individuality seems to be more of an adolescent dilemma for picking profile pictures than it may be for neuroscientists, but research this week shows that they too are worrying just how to stand out from the crowd. Donning their lab coats and grabbing their microscopes rather than a mirror and an iPhone, researchers at the Salk Institute for Biological Studies in California may have pinpointed the reasoning for what makes us all that little bit different.

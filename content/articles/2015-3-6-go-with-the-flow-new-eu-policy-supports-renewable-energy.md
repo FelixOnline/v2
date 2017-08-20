@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
-image_caption: >
-  Uniting gas and electricity markets, a new challenge for the Energy Union Strategic Framework.
-image_attribution: "Shutterstock"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
+image_caption: ""
 ---
 
 This article comes with a health warning. We will be discussing EU legislation and, as with all things EU, there will be a wealth of unhelpful acronyms and terminology fired at you, none more so than those forming the Commission’s new ‘Energy Union Strategic Framework’, officially revealed last Wednesday. Briefly speaking, this hugely ambitious plan intends to unite gas and electricity markets in the different regions of Europe and, eventually, Europe as a whole whilst facilitating the growth of renewables at the same time.

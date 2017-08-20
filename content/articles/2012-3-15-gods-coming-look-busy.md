@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152106-pk1811-second-coming.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152106-pk1811-second-coming.jpg"
+image_caption: ""
 ---
 
 “GOD’S COMING! – LOOK BUSY!”

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
-image_caption: >
-
-image_attribution: "Sunghwan Yoon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
+image_caption: ""
 ---
 
 If you walk through Beit Quad, you’re more likely than not to find at least one person wearing some sort of flashy outfit. Imperial is not known for any sort of fashion programs but students still love to flex their personal styles, whether it’s the preppy jocks from the Rugby team or flannel clad hipsters from the art clubs. London’s fashion week has come and gone but that has not stopped streetwear fanatics from throughout the world from continuously shopping throughout the SOHO area.

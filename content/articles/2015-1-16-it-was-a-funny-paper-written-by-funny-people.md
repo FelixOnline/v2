@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161257-ps3110-eiffel-tower-240173.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161257-ps3110-eiffel-tower-240173.jpg"
+image_caption: ""
 ---
 
 _Felix_ spoke to Camille Grellet, a Bioengineer and the vice president of the French Society. Camille was in France during the attack, and told us how the country seemed to go into a state of shock. Stations, shops and locations of interest were closed whilst the terrorists were still on the run, and people were advised to stay in their home.

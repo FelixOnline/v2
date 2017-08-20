@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172140-pk1811-mobile-apps.jpg"
-image_caption: >
-  Mobile applications have intrinsically changed the way we process information and go about our daily
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172140-pk1811-mobile-apps.jpg"
+image_caption: ""
 ---
 
 As each second ticks away, there’s a quiet revolution going on in every town and every city across the globe. Mobile technology disrupts the way we live our lives, the way we communicate with others and the way we function as a society.

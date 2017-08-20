@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112148-ks607-endowmen.jpg"
-image_caption: >
-  That's one hell of an endowment...
-image_attribution: "Kadhim Shubber"
-image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112148-ks607-endowmen.jpg"
+image_caption: ""
 ---
 
 Imperial College has long wished and pledged to be among the world’s elite of academia, continuously making the assertion that it can stack up proudly against the financial mammoths that are the top American universities, Oxford, and Cambridge. [Its literature certainly highlights the](http://www3.imperial.ac.uk/prospectivestudents) College’s prominent and ubiquitous presence in national and international rankings of universities. Already on-going is a race to the top, and with the myriad of proposed changes to universities’ funding models, it is bound to become more ferocious.

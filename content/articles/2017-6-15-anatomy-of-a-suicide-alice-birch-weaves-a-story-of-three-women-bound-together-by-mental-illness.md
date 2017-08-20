@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706151724-im1413-anatomy-of-a-suicide.jpg"
-image_caption: >
-  Hattie Morahan, Kate O’Flynn and Adelle Leonce in Anatomy of a Suicide | Photo: Stephen Cummiskey
-image_attribution: "Stephen Cummiskey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706151724-im1413-anatomy-of-a-suicide.jpg"
+image_caption: ""
 ---
 
 _Anatomy of a Suicide_ follows the stories of three generations of women of the same family, linked together not only by their genetic heritage, but also by the same emotions and struggles as they battle with mental illness. Carol is a 1970s housewife, struggling to find reasons to stay in the world. Almost 30 years later, in the late 90s, Anna, her daughter, is struggling with a drug addiction, triggered by the loss of her mother. 30 years after still, we meet Bonnie, a busy doctor in an A&amp;E department, who is coping admirably with the stress of her work, but is closed off and distant, famous for not interacting with her colleagues outside work.

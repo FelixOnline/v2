@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
+image_caption: ""
 ---
 
 Imperial College 1s came back from the brink in a pulsating final against Warwick 2s to triumph in the 2012 BUCS Snooker Team Trophy competition, becoming only the third university in recent history to win three titles on the trot.

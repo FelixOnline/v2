@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
-image_caption: >
-  A quick panoramic view of the venue
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
+image_caption: ""
 ---
 
 Undercover reporting allows for the scythe of truth to cut through wrongdoings like a wieldy knife through butter. Corruption can be unmasked! Bureaucracy criticized! All with a single tap of the keyboard, preferably followed by several more. But how could one possibly decide what deserving targets to strike? The answer, in this case, was determined by the fact that there was nothing better to do on Tuesday night. The fickle finger of fate fell upon the RCSU Autumn Ball, held at Soho’s Gem Bar.

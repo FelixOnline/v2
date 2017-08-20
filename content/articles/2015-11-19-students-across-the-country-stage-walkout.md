@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
-image_caption: >
-  RCA students outside the Daily Mail
-image_attribution: "Twitter / @RCAStudentUnion"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
+image_caption: ""
 ---
 
 On Tuesday, a number of UK university students took part in mass walkouts, talks and demonstrations as part of a “day of solidarity” with refugees. The students were acting in protest of the government’s mistreatment of refugees, along with migrants and international students.

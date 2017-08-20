@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
+image_caption: ""
 ---
 
 While Hurricane Sandy was wrecking havoc on the East Coast of America, those of us on the other side of the pond were left disappointed when Google had to cancel a press event in New York. But fear not -- for Google has managed to release new details on a new version of Android and a new family of Nexus of devices that are available right now, by press time.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202031704-sjw209-sfcbic.png"
-image_caption: >
-  Insert inappropriate “Voldemort is back from the dead” joke here... we couldn’t be bothered to think
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202031704-sjw209-sfcbic.png"
+image_caption: ""
 ---
 
 __The English Patient__

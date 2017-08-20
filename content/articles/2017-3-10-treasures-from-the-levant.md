@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101401-felix-CERU exterior .jpg"
-image_caption: >
-
-image_attribution: "Paul Winch-Furness"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101401-felix-CERU exterior .jpg"
+image_caption: ""
 ---
 
 To look on at the birth of a new restaurant is always exciting – I’ve been a part of it, having seen the place I worked at in Oxford rise from the ashes of a mediocre Italian cocktail bar, and realising that I really wanted to be a part of that. Teething problems ranged from gutters that drained into the balcony (we bailed it out with saucepans, literally) to much more minor tweaks, like who supplied our bread. The tentative first few months were some of the most stressful and intense that I have ever worked. It was therefore amazing to me to step into the fresh faced Ceru, in South Kensington, and witness a polished, refined machine that was only three months into its operation. I’d cycled past it for the few months that it took to strip away the previous occupant and revitalise the interiors, and so knew that it was absolutely brand new, and yet when I went, it looked like it had been a local fixture for ages. So how had they done it?

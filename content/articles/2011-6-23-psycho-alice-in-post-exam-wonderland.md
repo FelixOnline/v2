@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232201-felix-the%20duchess.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232201-felix-the%20duchess.jpg"
+image_caption: ""
 ---
 
 Staring at a pile of Civ Eng textbooks proved too much for one Imperial student today, as Alice Liddell was reportedly seen wandering around the Queen’s Lawn talking to flowers. A friend told Felix that Alice had had “a bit of a Donnie Darko moment” earlier in the library and had since been behaving extremely irrationally. “She started following me around earlier,” reported Union Fellow Tosin Ajayi “I was running really late and I’d lost my gloves or I would have stayed to help.”

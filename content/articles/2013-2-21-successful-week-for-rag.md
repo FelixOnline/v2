@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302212356-tna08-bungee-(38-of-79).jpg"
-image_caption: >
-
-image_attribution: "Benjamin Lester"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302212356-tna08-bungee-(38-of-79).jpg"
+image_caption: ""
 ---
 
 Raising and Giving (RAG), the charity arm of Imperial College Union had their annual RAG Week during 11-15 February. It was a week of fun filled events that raise money for RAG’s chosen charities. David Goldsmith, RAG Chair, said “RAG took over Imperial.”

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
-image_caption: >
-  Shut the fuck up and enjoy the greatness.
-image_attribution: "Kanye West"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
+image_caption: ""
 ---
 
 For those of us who have been following the run-up to _The Life of Pablo_ album, it’s been a ride. The release cycle was so messy at times many people began to expect disappointment. Four album names and endless delays later however, **Kanye West**’s seventh studio album has finally dropped. And, despite all the drama, _The Life of Pablo_ is absolutely phenomenal.

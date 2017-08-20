@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182224-jal08-mewtwo.png"
-image_caption: >
-  Mewtwo
-image_attribution: "Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182224-jal08-mewtwo.png"
+image_caption: ""
 ---
 
 Computing power is evolving at a relentless pace. The gaming industry moves in tandem with this tempo. Unfortunately (and for some, regrettably) its viability has waned in recent years having come under pressure from a burgeoning smartphone market and a reversion to the PC as the preferred platform of choice. Playstation serves as a suitable allegory, experiencing a 15% like-for-like drop in revenue of US $1.19 bn for the April-June quarter. Likewise Nintendo, despite a market valuation of US $85 bn, faces flagrant criticism for failing to sufficiently ‘move with the times’. Avid enthusiasts can expect a turbulent future. I find it all slightly depressing.

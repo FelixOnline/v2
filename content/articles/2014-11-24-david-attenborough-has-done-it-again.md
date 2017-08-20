@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411242043-ps3110-life-story-1-cmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411242043-ps3110-life-story-1-cmyk.jpg"
+image_caption: ""
 ---
 
 Although he doesn’t go out to the field anymore, nothing can keep David Attenborough away from TV. This autumn, he returns to the screens with the series_ Life Story_, an attempt to show how different animals share the same rituals and habits across species.

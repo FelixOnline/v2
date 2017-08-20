@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102316-csw09-ben-guns.jpg"
-image_caption: >
-  Move over Victoria Beckham, Pout of the Year belongs to BS-J now
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102316-csw09-ben-guns.jpg"
+image_caption: ""
 ---
 
 The Scullers Head of the River is traditionally an Imperial College dominated event, with multiple pennant and overall winners dotted around current and past IC members. Unfortunately our most recent winner Jamie Kirkwood was released in the summer transfer window on a Bosman free, therefore hopes had turned to the latest crop of IC athletes to step up to the plate. And did they step up! ICBC had the quickest female sculler of the day as well as overall 3rd place, 5th place and 8 pennants, unbelievable!

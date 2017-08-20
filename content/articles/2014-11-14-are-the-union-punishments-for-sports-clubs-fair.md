@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142129-ps3110-7d-003_-_victorious_medics.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142129-ps3110-7d-003_-_victorious_medics.jpg"
+image_caption: ""
 ---
 
 In recent weeks two of Imperial College London’s biggest sports teams have been embroiled in various activities that have brought Imperial College Union into disrepute. The sanctions against the teams are causing innocent students to miss out on playing sport. Is this treating everyone fairly or have the disciplinarians allowed themselves to get influenced by the media?

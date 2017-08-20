@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
-image_caption: >
-  Next year's Sabb team, will they deliver?
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
+image_caption: ""
 ---
 
 "I want it to be the year where your Union makes a Guinness World Record attempt.” “Vote for me for better quality lecture notes.”

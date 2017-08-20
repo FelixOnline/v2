@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Men’s 3’s overcame the odds to produce a sterling performance to embarrass St Bart’s 2s. Quick play mixed with characteristic flair saw the 3s put 4 past a solid Bart’s team.

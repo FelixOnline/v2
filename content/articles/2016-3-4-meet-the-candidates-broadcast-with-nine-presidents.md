@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: "https://www.youtube.com/watch?v=0A7VZYJ0GB4"
+image: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
+image_caption: ""
 ---
 
 > > Loud cries of protest could be heard from the next room

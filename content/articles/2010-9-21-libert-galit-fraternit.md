@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201009211509-ck806-danton.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201009211509-ck806-danton.jpg"
+image_caption: ""
 ---
 
 The rhetorical bombast of revolutionary Paris, 1794, puts the modern era of bland soundbites, media management and political PR to shame. Obsessive revolutionaries, following and manipulating the public will according to their own bloodthirsty instinct for self-preservation, fill this new production of Büchner’s classic. This production emphasises the struggle between its two main anti-heroes, the sensual, hedonistic Danton and the self-righteous demagogue, Robespierre, the main architects of the Terror.

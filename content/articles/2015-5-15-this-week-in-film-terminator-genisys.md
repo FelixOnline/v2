@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151309-cj914-screen-shot-2015-05-15-at-13.08.47.png"
-image_caption: >
-  He'll be back! (in the latest reboot of the Terminator series)
-image_attribution: "Alan Taylor/Paramount"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151309-cj914-screen-shot-2015-05-15-at-13.08.47.png"
+image_caption: ""
 ---
 
 The marketing campaign for the latest reboot/revival of the _Terminator_ series continues rolling, with a new batch of character posters hitting the web this week.

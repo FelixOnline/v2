@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222329-tna08-bdelloids.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222329-tna08-bdelloids.jpg"
+image_caption: ""
 ---
 
 As much as you may think the contrary, and that this advice is hardly required for the average Imperial student, avoiding sex is really quite difficult. That is, for a species to survive, its genome must be kept up-to-date through the ‘shuffling’ effects of recombination and sexual reproduction. Without it, evolution simply can’t happen quickly enough in the fight against threats such as parasites.

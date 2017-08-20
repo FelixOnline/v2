@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
-image_caption: >
-
-image_attribution: "James Emery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
+image_caption: ""
 ---
 
 If you were to hear mention of Haiti in a conversation, what would your initial thoughts be? Some of you would likely confuse it with Tahiti or have no clue as to what Haiti actually is. For most of you, though, I am sure the first thing to pop into your minds would be the devastating 7.0 magnitude earthquake that hit the impoverished country in January 2010, killing an estimated 300,000 and leaving over two million without homes.

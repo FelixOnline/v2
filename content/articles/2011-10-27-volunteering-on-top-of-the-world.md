@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110280015-felix-dscn2103.jpg"
-image_caption: >
-  Getting to know a Himalayan local...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110280015-felix-dscn2103.jpg"
+image_caption: ""
 ---
 
 Nepal provided me with one of the most surreal experiences of my life; from the touchy landing on the pothole-ridden runway, to the ‘seductive’ dancing policeman in one of the local bars. Looking for an experience of a lifetime, I wasn’t disappointed.

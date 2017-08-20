@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070229-tna08-peoplejpeg10.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070229-tna08-peoplejpeg10.jpg"
+image_caption: ""
 ---
 
 At what point doessomeone become a national treasure? This is the question Alan Bennett must have been asking himself when writing People, his latest play, which premiered at the National Theatre last month. Bennett, who has been working in the world of theatre for more than 50 years, is Britain’s most well known playwright, and arguably one of the best. Responsible for The History Boys and The Habit of Art, Bennett has come to represent modern British drama; People continues in this tradition, centring around the idea of national institutions, class divides, and the death of the English country house.

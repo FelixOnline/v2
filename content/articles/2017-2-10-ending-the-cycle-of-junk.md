@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101402-felix-snack-1555512_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101402-felix-snack-1555512_1920.jpg"
+image_caption: ""
 ---
 
 As I type, I’m eating a thin slice of Japanese soufflé cheesecake I made yesterday. But the pleasure I took in eating it triggered a glitch of annoyance. I realised such fine nuances of taste and texture are easily overlooked in today’s world where easy access to and high abundance of  high-energy, palatable, chemical-laden foods is the norm. These are the reasons that drive the overwhelming prevalence of obesity and metabolic disease.

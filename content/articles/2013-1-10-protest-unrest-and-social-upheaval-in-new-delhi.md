@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102220-csw09-new-delhi-protest.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102220-csw09-new-delhi-protest.jpg"
+image_caption: ""
 ---
 
 On the 16th of December last year while Bangladesh celebrated its 39th Victory Day and Japanese voters brought about a change in government, a 23-year-old physiotherapy student was brutally raped and assaulted in the Indian capital, New Delhi. Within a week as news of the vicious attack spread through the country, it sparked widespread protest and cast glaring light on what some call India’s ‘rape problem’.

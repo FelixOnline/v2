@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231238-ygr12-ahir-shah.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231238-ygr12-ahir-shah.jpg"
+image_caption: ""
 ---
 
 The sharpest, most politically charged comedy I have ever seen – period. Of course what I’ve seen is somewhat limited, but that changes little; Ahir Shah is exceptional. There are many great comedians who make you laugh, and some who make you cry, but few can make you think and feel like Shah. Distant isn’t just another set – everything is funny, but funny with a purpose.

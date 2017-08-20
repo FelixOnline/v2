@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222318-tna08-take+the+flour+back+protest.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222318-tna08-take+the+flour+back+protest.jpg"
+image_caption: ""
 ---
 
 The Green Party has been a part of British politics since 1972 with the formation of PEOPLE and currently exists as 3 parties corresponding to the devolved partitions of England/Wales, Scotland and Northern Ireland. 40 years in, and the Green Party is by far the largest environmental political party in the UK, and even gained its first MP, with Caroline Lucas winning Brighton Pavilion in the 2010 General Election.

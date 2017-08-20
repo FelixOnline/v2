@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
-image_caption: >
-  Sarah Hough performs as Elle from the musical version of Legally Blonde
-image_attribution: "Facebook"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
+image_caption: ""
 ---
 
 The Imperial College School of Medicine Students’ Union (ICSMSU) presented an Arts Revue last Sunday, 8th February, to conclude what has been, by all accounts, a very successful Raising and Giving (RAG) week.

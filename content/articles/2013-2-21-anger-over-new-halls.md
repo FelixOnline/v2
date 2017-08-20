@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302212329-tna08-walkway-2.jpg"
-image_caption: >
-  The Sherfield Walkway, showing the #AgainstActon posters
-image_attribution: "Aemun Reza"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302212329-tna08-walkway-2.jpg"
+image_caption: ""
 ---
 
 [Imperial College London is planning to build a large hall of residence in North Acton](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_18-2-2013-12-14-47) that will potentially replace halls that are cheaper and located far closer to the South Kensington Campus. The North Acton Halls could be used as a replacement for [Garden Halls](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectiveundergraduatestudents/hallsofresidenceug/gardenhall) and the halls in Evelyn Gardens, both of which are in South Kensington. The plans have been controversial amongst the student body and have already been denounced. Students have highlighted distance, cost, student experience, and welfare concerns. The Union have launched a campaigned against the plans, using the Twitter hashtag #AgainstActon. Already many students have voiced their opposition in a rare turn of student activism at Imperial.

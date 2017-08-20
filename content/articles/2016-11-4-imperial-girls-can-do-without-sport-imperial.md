@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
+image_caption: ""
 ---
 
 There are a lot of things that Imperial girls can do, including studying science and engineering, leading clubs and societies, and, presumably, going through adolescence, meaning that by the time we’re at Imperial, we’re probably women, not girls. But one area where we seem to be lacking, according to Sport Imperial, is in our ability to engage in any sporting activities.

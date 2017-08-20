@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
+image_caption: ""
 ---
 
 I’d like to say that there is some really good reason for how long this article has taken to come out. You’d think given this is my personal highest achievement at the Polo Nationals in the last 5 years that I’d have managed to get it out quickly. But no, life and, more annoyingly, work goes on. However, as we close in on our trip to the summer edition of the Polo Nationals in early June I have finally managed to sit down (at the pub) and whip my laptop out antisocially to write up my hazy recollections of a cold weekend in February and what looks from the outside like an industrial estate a little outside of Rugby which is, in fact, a polo ground.

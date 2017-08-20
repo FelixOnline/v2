@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502130157-ps3110-devils-b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502130157-ps3110-devils-b.jpg"
+image_caption: ""
 ---
 
 Imperial Devils B head into a two-game road trip this weekend on a dry stretch of late, having lost their last three games since a strong season opener, which saw the team shutout Cardiff Breadhawks for a 6-0 win on home ice at the Streatham Ice Arena (SIA).

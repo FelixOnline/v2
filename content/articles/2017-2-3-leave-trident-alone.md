@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.05.42.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.05.42.png"
+image_caption: ""
 ---
 
 Trident was announced as the UK’s new deterrent back in 1980, and patrols with the missile began in 1994. The renewal of trident was debated in July 2016, to replace the current submarines with the newer Dreadnought Class by 2028. The estimated cost of the upgraded weapons system is around £31 billion.

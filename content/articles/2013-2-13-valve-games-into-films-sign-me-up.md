@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131710-tna08-mtt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131710-tna08-mtt.jpg"
+image_caption: ""
 ---
 
 It has to be said that films based on video games don’t tend to get critically praised. Browsing Wikipedia shows that the highest Rotten Tomatoes score one has ever achieved is 43%, which is less than impressive. They are not, in general, the kind of films I pay to see.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
+image_caption: ""
 ---
 
 You guys already know that global warming is not a myth, nor an April fools trick. It’s a growing concern that we and future generations are facing. Earth’s blood, so to speak, is on humanity’s hands and it is our responsibility to acknowledge, understand and find solutions to this challenge. I talk about ‘humanity’, but in reality it is the actions of every individual, both you and me, which shape the course of our amalgam.

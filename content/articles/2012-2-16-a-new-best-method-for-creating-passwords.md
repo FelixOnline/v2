@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 “Your password will expire in 10 days. Would you like to change it now?” This is the message that greets me when I log on to Outlook Web Access. I was first told my password was going to expire at the end of January, so why have I not yet done so? The act itself of changing the password is by no means a complex task – but instead it’s the creation of its replacement that takes time and effort.

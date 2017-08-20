@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181704-felix-The Winning dD1 team.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181704-felix-The Winning dD1 team.jpg"
+image_caption: ""
 ---
 
 The indoor frisbee season has well and truly got underway, and the Imperial disc Doctors (dD) were able to send three teams to the men’s indoor regionals, one of only two teams in the region to be able to do so. Having won this competition last year, expectations were high, but the team wanted to take a steady approach for continued success.

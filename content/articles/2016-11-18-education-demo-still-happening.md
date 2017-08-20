@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181429-felix-8250197392_d5a1fcdb1d_o.jpg"
-image_caption: >
-
-image_attribution: "Chatham House"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181429-felix-8250197392_d5a1fcdb1d_o.jpg"
+image_caption: ""
 ---
 
 A march for education is taking place on Saturday the 19th of November in London, where students and academics will be protesting budget cuts, tuition fee rises and increases of student debt.

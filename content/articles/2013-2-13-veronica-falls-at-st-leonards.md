@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131253-tna08-1-14.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131253-tna08-1-14.jpg"
+image_caption: ""
 ---
 
 I have recently discovered the real reason the Pope is giving up on wearing his natty white gown and driving about in his suped-up Pope-mobile to devote more of his time to chillaxing. He must have been present at St Leonard’s Church last Friday where Veronica Falls blew away the congregation with an outstanding set. Evidently it became clear to him that the best way to get bums on pews and religion back into the hearts and tweets of the young is to be in a swoonsome twee indie band which specialise in jangly guitar pop. It is not surprising that this idea must have dispirited Herr Ratzinger (as he is more of a dubstep or electo-crunk kind of guy) to such an extent that he had no choice but to step down.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131438-tna08-nanoflower.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131438-tna08-nanoflower.jpg"
+image_caption: ""
 ---
 
 In just a day’s time Peter Hamilton will be arriving for Sci-Fi’s annual convention, Picocon. Before that we finish off our look at the Greg Mandel series with a look at the final novel in that series; The Nano Flower. Set fifteen year’s after A Quantum Murder there’s plenty that’s changed in that time. The Nano Flower concludes the progression of the world around Greg out of recession. Technology is blossoming and the world has started to move forwards in leaps and bounds.

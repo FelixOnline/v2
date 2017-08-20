@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241906-nm1010-gurlgurl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241906-nm1010-gurlgurl.jpg"
+image_caption: ""
 ---
 
 Personally, I thought Al Gore had flogged the climate change donkey for all it was worth. Most people recycle now, protesters have found new things to riot over and we have a Liberal Democrat as Minister for Climate Change – the war seemed, to all intents and purposes, won. Was I wrong? Is climate change killing us? Will someone I’ve heard of ever play Metric? Will we ever find out? Personally, I don’t know but I’m sure the Rector has it all in hand.

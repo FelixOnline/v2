@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290852-felix-mental health 2.jpg"
-image_caption: >
-
-image_attribution: "hercampus.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290852-felix-mental health 2.jpg"
+image_caption: ""
 ---
 
 It is my belief that it is a question of pure, unadulterated human arrogance that has led us to the self-sabotage that I make reference to in the title.

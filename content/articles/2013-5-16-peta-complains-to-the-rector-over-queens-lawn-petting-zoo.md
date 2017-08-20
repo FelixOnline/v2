@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
+image_caption: ""
 ---
 
 PETA have written to the President & Rector of Imperial College London urging him to stop the Union’s plans for a petting zoo on Queen’s Lawn on Thursday 23 May. The letter calls the petting zoo “ill-conceived” and asks for Imperial to “make a formal to avoiding future events that promote the mistreatment of animals”.

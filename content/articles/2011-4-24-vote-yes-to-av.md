@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
+image_caption: ""
 ---
 
 On May 5th I'll be voting yes to introducing the Alternative Vote system for United Kingdom parliamentary elections. This isn't because I have a desire to see Lib Dems make deals with the devil at every election, but because I believe it is a better system to choose the best representative for any constituency.

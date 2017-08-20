@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So, we had a some perfectly timed technical difficulties this week, much like when the printer breaks down just before you’re supposed to be handing in an assignment. I’m praying that this arrives on Friday, so if you see it when you’re out getting lunch you’ll know that today is a lucky day!

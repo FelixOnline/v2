@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201115-felix-A-Riot-Of-Our-Own (1).jpg"
-image_caption: >
-  12 Bar Club – the last of a dying breed of the London gig scene.
-image_attribution: "YouTube"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201115-felix-A-Riot-Of-Our-Own (1).jpg"
+image_caption: ""
 ---
 
 No Nazis. No dark metal. Live acts seven days a week. These simple admission criteria meant that gigs could be booked in the same day, regardless of band size or experience, to play in front of the music-loving crowd who religiously converged on the 12 Bar Club, hidden in Denmark Street.

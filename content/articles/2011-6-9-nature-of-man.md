@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092050-felix-moniqueho.jpg"
-image_caption: >
-
-image_attribution: "Monique Ho"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092050-felix-moniqueho.jpg"
+image_caption: ""
 ---
 
 To recall colour beyond the fracture of days,

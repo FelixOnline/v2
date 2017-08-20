@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
-image_caption: >
-
-image_attribution: "The CW"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
+image_caption: ""
 ---
 
 Pretty much any new TV series has a period of adjustment where the actors settle into their roles and the writers capture the show’s voice. Superhero shows are of course, no exception to this rule, as Agents of S.H.I.E.L.D. can testify. What makes the Flash unique is that it was able to hit the ground running straight off and just continually got better over the course of the next few months. Strictly speaking, it didn’t have to start from scratch; being a spinoff of Arrow, some of the characters and ideas were already established prior to its pilot.

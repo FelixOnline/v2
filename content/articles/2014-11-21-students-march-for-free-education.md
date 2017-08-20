@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211317-ps3110-_79133699_a2b5cc2e-eca6-4f15-aa54-8229827d9029.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211317-ps3110-_79133699_a2b5cc2e-eca6-4f15-aa54-8229827d9029.jpg"
+image_caption: ""
 ---
 
 On Wednesday thousands of student protesters took part in a march against student tuition fees. The protests turned violent when the students reached Parliament Square.

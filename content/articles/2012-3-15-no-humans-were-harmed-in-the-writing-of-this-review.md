@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152109-pk1811-tastes-like-human.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152109-pk1811-tastes-like-human.png"
+image_caption: ""
 ---
 
 I have somewhat of a fondness for amusing lists. They’re a quick read and perfect whether you want to you want to wind down or just procrastinate. I was therefore interested to hear of _Tastes like Human_, the latest book by ‘The Shark Guys’ – Noel Boivin and Christopher Lombardo.

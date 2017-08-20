@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
-image_caption: >
-
-image_attribution: "Andrew Parsons/Parsons Media"
-image_attribution_link: "http://www.flickr.com/photos/conservatives/5574880690/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
+image_caption: ""
 ---
 
 If you want to make Nick Clegg’s day because he is your favourite politician then vote YES to the Alternative Vote (AV). Or you can choose to reject this "miserable little compromise" (to quote Mr Clegg) as the political stitch-up it is.

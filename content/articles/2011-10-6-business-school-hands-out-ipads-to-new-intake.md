@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071533-felix-ipad1.jpg"
-image_caption: >
-  Strategic Marketing students receiving their new iPads
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071533-felix-ipad1.jpg"
+image_caption: ""
 ---
 
 Imperial College Business School is welcoming its ﬁrst students of a new Masters programme and providing them with a free iPad 2 with which to carry out their studies. The programme leaders of the [MSc in Strategic Marketing](http://www3.imperial.ac.uk/business-school/programmes/msc-strategic-marketing) are scrapping the traditional paper-based learning and teaching methods and pioneering a novel approach centred on the use of digital and social media.

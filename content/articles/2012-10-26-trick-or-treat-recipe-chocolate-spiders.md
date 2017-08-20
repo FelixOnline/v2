@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Want to make some treats this year for Halloween? Try your hand at these frightfully delicious chocolate-covered peanut butter spiders. Your friends and family will be screaming with delight after they take their first bite.

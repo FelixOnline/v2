@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102101-ks607-mubarakb.jpg"
-image_caption: >
-
-image_attribution: "Benjamin Kennedy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102101-ks607-mubarakb.jpg"
+image_caption: ""
 ---
 
 President Mubarak is currently in quite a mess and just about clinging on to power. The government resigned, on his request, and a new one has formed and held talks with opposition parties about the constitution. Mubarak has even banned some members of the political elite from travelling abroad. I assume a similar ban is imposed on people living in Birmingham, otherwise that place would be a ghost town, but I digress. The point is, I think it’s a fairly non–controversial statement to say that Egypt’s president Mubarak is currently under fire. By which I mean metaphorically, don’t worry; you didn’t miss anything big on YouTube.

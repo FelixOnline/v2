@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161607-js2310-969427_499040590145469_774806092_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161607-js2310-969427_499040590145469_774806092_n.jpg"
+image_caption: ""
 ---
 
 I went along to the final of the Uni Music League last week having heard only one song by James and the Rabbit Hole. I didn’t know what to expect and was pleasantly surprised. The band only formed early this year (following an application to the competition) and since then their main focus has been writing enough songs to play in the rounds of the competition as they sailed through them one after another. The Uni Music League is the biggest student music competition with a big prize (an EP recording deal with Metropolis Studios, a slot at Wilderness Festival, places as a support act at KOKO, a PR campaign and pro photo shoots) and so the band worked hard. By the final they had six of their own songs (having written the most recent song two days beforehand) and had accumulated a very appreciative crowd. They started the set with a cover of Daft Punk ‘Get Lucky’, a current sure-fire hit. They really did the song justice and sent the crowd wild from just a few notes in. It was easy to understand why the crowd was so excited about the band.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121952-felix-waterfront.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121952-felix-waterfront.jpg"
+image_caption: ""
 ---
 
 The Italians dominated social commentary cinema in the fifties and with the British kitchen sink dramas and French New Wave in their infancies, this gritty genre of cinema was their playground until the Americans caught up a couple of decades later. However, amongst the gaudy visuals of Technicolor musicals and melodramatic epics of the Golden Hollywood era, On the Waterfront bucked against the trend with a classic tale of corruption and working class rebellion against oppression. Elia Kazan’s highly regarded classic was based upon a series of exposé articles about mafia controlled extortion and racketeering on the docks of New York. After being reluctantly involved in the murder of dockworker who is preparing to testify against the Mob, Terry Malloy (Marlon Brando) finds himself questioning his conscience about his actions (or lack of) as he becomes romantically involved with the dead man’s beautiful sister (Eva Marie Saint) who is determined to discover the truth about her brother’s untimely death.

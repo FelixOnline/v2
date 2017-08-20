@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002120157-rsp07-butteran.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002120157-rsp07-butteran.jpg"
+image_caption: ""
 ---
 
 Valentine’s Day is nearly upon us and that can mean only one thing. Half of Imperial will be burning through their student loans in order to pay for an unforgettable night of passion with their respective beau or paramour. The other half will be watching Love Actually in the dark with a tub of Ben & Jerry’s – totally sarcastically, of course. After my last relationship, I’ve regretfully resigned myself to the latter category.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If you’ve never seen Imperial College Symphony Orchestra play, you’re missing out! Full of science-loving musicians, ICSO is Imperial’s flagship orchestra playing great music to the highest standards.

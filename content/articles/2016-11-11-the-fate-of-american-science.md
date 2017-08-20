@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111554-felix-Trump.jpg"
-image_caption: >
-
-image_attribution: "Lizzie Riach"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111554-felix-Trump.jpg"
+image_caption: ""
 ---
 
 The 9th of November saw tears, despair and a whole lot of memes as the results of the 2016 presidential election rolled in. As I woke up to BBC alerts of Trump’s win on my phone, I found myself reliving that fateful Friday morning in June – closing my eyes, telling myself it was all a dream and everything would return to ‘the expected’ when I checked again. However, something is different. What Brexit would mean to science was, and still remains, quite uncertain, but Trump’s science policies are quite clear cut and, with Congress backing, likely to be implemented. Whether we’ll see a wall built with the Mexico border is still to be seen, but that we’ll live through incredible changes in American science policy is almost guaranteed.

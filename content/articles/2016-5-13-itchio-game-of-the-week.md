@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131130-felix-langeskov.jpg"
-image_caption: >
-
-image_attribution: "Crows Crows Crows"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131130-felix-langeskov.jpg"
+image_caption: ""
 ---
 
 D_r. Langeskov_ is the first game by Crows Crows Crows – a studio formed by game writer and designer William Pugh of _The Stanley Parable_ fame. The first person exploration game, that will be familiar to anyone who has played Pugh’s previous works, lasts around 20 minutes (it’s free, so don’t complain). In this short burst of narrative, Simon Amstell voices a stage manager who talks to the player over a loudspeaker. His character is both charming and hilarious (which pretty much sums up Amstell).

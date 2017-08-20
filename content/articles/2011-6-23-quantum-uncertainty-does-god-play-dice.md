@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The most recent [Friends of Imperial](http://www.friendsofimperial.org.uk/) event was a lecture by theoretical physicist Antony Valentini given to a packed SAF lecture theatre. The topic, Quantum Uncertainty, was a popular one: the fact that the half the audience had iPads and the other half had walking sticks —and one rather cool gentleman had both — represented the diverse crowd that such a topic could attract. Most theoretical physics lectures that generate large audiences do so off the back of a German man with distinctive hair, and this talk was no exception. The sub-heading of the lecture was taken from a famous letter from Albert Einstein to Max Born, in which he wrote: “Quantum mechanics is certainly imposing. But an inner voice tells me that it is not yet the real thing. The theory says a lot, but does not really bring us any closer to the secret of the ‘old one.’ I, at any rate, am convinced that He does not throw dice.”

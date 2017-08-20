@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131409-felix-26392896430_6732737220_o.jpg"
-image_caption: >
-
-image_attribution: "Garry Knight"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131409-felix-26392896430_6732737220_o.jpg"
+image_caption: ""
 ---
 
 News flash; Jeremy Corbyn emerged from his ferret hole in North London and made a speech! He must have read my article about how he needed to get his act together and talk positively about immigration. As if I were felix’s de facto Labour immigration policy correspondent, I have returned to give a judgement on JC’s words.

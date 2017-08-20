@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290848-felix-elecs.jpg"
-image_caption: >
-  Where was the FELIX editor? Already working, probably.
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290848-felix-elecs.jpg"
+image_caption: ""
 ---
 
 Get ready for off-puttingly upbeat lecture shout outs, a fortnight of Facebook spam and unwelcome accosting in the library over your jacket potato – it’s election time.

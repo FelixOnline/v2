@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181128-felix-20160317_181400.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181128-felix-20160317_181400.jpg"
+image_caption: ""
 ---
 
 There has been a 38% increase in students seeking counselling services from college over the last three years, despite only a 5% increase in students over the same period.

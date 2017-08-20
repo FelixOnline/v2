@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121208-felix-Imperial Winners.JPG"
-image_caption: >
-  The whole gang.
-image_attribution: "Imperial Squash"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121208-felix-Imperial Winners.JPG"
+image_caption: ""
 ---
 
 Last weekend saw the return of the prestigious Roehampton Club University Cup, with 16 mixed teams across the country playing in a tournament renowned for its high standard of squash.

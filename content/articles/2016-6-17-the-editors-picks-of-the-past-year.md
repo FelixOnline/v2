@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171126-felix-serp.jpg"
-image_caption: >
-
-image_attribution: "Iwan Baan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171126-felix-serp.jpg"
+image_caption: ""
 ---
 
 ## Picks for summer

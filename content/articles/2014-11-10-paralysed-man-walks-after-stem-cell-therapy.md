@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102132-ps3110-spine-scan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102132-ps3110-spine-scan.jpg"
+image_caption: ""
 ---
 
 Last week, it was reported that Darek Fidyka, a man from Poland, had begun to walk. He had been paralyzed from the chest down since 2010 after a knife attack. His recovery was hailed as ‘more impressive than man walking on the moon’ by Geoffrey Raisman, whose research at UCL almost 30 years ago made Fidyka’s recovery possible.

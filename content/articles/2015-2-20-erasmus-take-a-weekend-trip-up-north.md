@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200033-ps3110-screen-shot-2015-02-20-at-00.33.25.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200033-ps3110-screen-shot-2015-02-20-at-00.33.25.png"
+image_caption: ""
 ---
 
 From the 23rd to the 25th of January, the Erasmus Society spread their wings and flew the Imperial nest to visit Liverpool and Manchester! After some good old FiveSixEight grub (and ale) following Friday lectures, the multilingual-chatter-filled five hour coach journey to Liverpool commenced.

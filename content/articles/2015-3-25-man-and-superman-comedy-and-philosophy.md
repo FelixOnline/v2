@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251318-ff712-jpeg-9a.jpg"
-image_caption: >
-  Don Juan (Ralph Fiennes) in Bernard Shaw’s Man and Superman.
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251318-ff712-jpeg-9a.jpg"
+image_caption: ""
 ---
 
 _M__an and Superman_ is at once both funny and serious. Billed as a “comedy and a philosophy”, this dual nature has posed problems in the past and at first Bernard Shaw staged these parts separately.

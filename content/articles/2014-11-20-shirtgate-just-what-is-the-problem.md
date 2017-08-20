@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202100-cj914-matt-taylor-shirt.jpg"
-image_caption: >
-  Yeah, THAT shirt.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202100-cj914-matt-taylor-shirt.jpg"
+image_caption: ""
 ---
 
 I love a good space mission. Pushing the final frontier, venturing into the unknown, lots of robots, rockets and risk – as a budding engineer, what more could I want?

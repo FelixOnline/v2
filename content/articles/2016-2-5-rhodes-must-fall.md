@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week Oriel College, Oxford confirmed that a monument commemorating Cecil Rhodes, a 19th century British imperialist, would remain despite a massive movement by students seeking the removal of the statue. Like many of the students at Oxford University, I’m disappointed by the college’s decision which goes against the views of the university’s student union. Rhodes must fall, and be moved to a more suitable location – the dark and dusty corner of a museum.

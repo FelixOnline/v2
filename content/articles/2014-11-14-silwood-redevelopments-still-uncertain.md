@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142017-ps3110-66355716.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142017-ps3110-66355716.jpg"
+image_caption: ""
 ---
 
 A petition to “Protect Silwood from losing its identity” has amassed over 250 signatures, after it has been announced that redevelopment work on the site is to take place. However, with no straight answers yet available as to what this redevelopment may entail, rumours are running rife through the student body based at the campus.

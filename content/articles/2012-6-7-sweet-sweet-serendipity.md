@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At first they thought that the experiment had gone awry. They’d spent years studying silicon compounds and thought they knew what to expect. But this compound was different. It was unstable, seemingly unpredictable – constantly shifting between electronic states. This compound was misbehaving.

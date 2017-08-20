@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505080126-ps3110-screen-shot-2015-05-08-at-01.26.03.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505080126-ps3110-screen-shot-2015-05-08-at-01.26.03.png"
+image_caption: ""
 ---
 
 Sarah Porter Waterbury has this week taken up the new role of Vice President of Advancement at Imperial College London. The appointment, which was first announced in January, is among the first at such a level for a University in the UK.

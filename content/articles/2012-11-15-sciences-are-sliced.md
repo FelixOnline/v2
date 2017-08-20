@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152044-tna08-cutting-up-money.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152044-tna08-cutting-up-money.jpg"
+image_caption: ""
 ---
 
 Overall government spending on Science, Engineering and Technology (SET) has fallen in real terms by £733m.

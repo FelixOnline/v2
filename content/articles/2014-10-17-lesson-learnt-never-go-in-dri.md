@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410171646-pk1811-empty_metric_by_tlim.png"
-image_caption: >
-
-image_attribution: "Thomas Lim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410171646-pk1811-empty_metric_by_tlim.png"
+image_caption: ""
 ---
 
 The Union held its first ever alcohol free club night – “Dri” on Monday 13th. Unlucky for some; most likely the bar manager’s profit margins, and anyone who turned up. A full complement of security staff were on hand to deal with the rowdy non-crowd of non-drinkers, and with lime soda priced at 20p to lubricate the masses, the chance of breaking even was always going to be slim. An anonymous Union source said: “We literally had to turn people away, and people kept asking if this was a regular thing”.

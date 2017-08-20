@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271432-felix-IMG_6711.JPG"
-image_caption: >
-
-image_attribution: "Tom Hartley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271432-felix-IMG_6711.JPG"
+image_caption: ""
 ---
 
 

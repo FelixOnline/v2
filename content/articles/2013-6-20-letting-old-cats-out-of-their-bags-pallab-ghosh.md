@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
+image_caption: ""
 ---
 
 Pallab Ghosh was Felix Editor from [1983/84](http://felixonline.co.uk/issuearchive/year/1983/). He is currently a science correspondent at the [BBC](http://www.bbc.co.uk/news/technology-22249490). I met him in the BBC offices. When he was Editor they printed in their in house print shop and the Editor was also the manager of the print shop, who printed club leaflets. He tweets as [@BBCPallab](https://twitter.com/BBCPallab).

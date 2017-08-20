@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041647-felix-NayanKhanolkar_WildlifePhotographeroftheYear-Urbanwinner.jpg"
-image_caption: >
-
-image_attribution: "Nayan Khanolkar, courtesy of the Natural History Museum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041647-felix-NayanKhanolkar_WildlifePhotographeroftheYear-Urbanwinner.jpg"
+image_caption: ""
 ---
 
 Tucked away in a quiet corner of the Natural History Museum, _The Wildlife Photographer of the Year_ (WPY) exhibition provides a welcome respite from the maddening crowds that flood the museum during the holiday season. The atmosphere changes as soon as you walk into the darkened room filled with birdsong, and you are presented with a series of illuminated photographs all equally stunning and interesting in their own right.

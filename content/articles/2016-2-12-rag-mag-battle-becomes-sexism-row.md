@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121111-felix-IMG_0046.JPG"
-image_caption: >
-  It’s impossible to say whether RAG’s charitable donations have suffered.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121111-felix-IMG_0046.JPG"
+image_caption: ""
 ---
 
 In this week’s FELIX, the Union President has spoken out on last week’s RAG mag controversy. Contents of the magazine, although technically not banned, caused the union to strongly advise RAG to dispose of the 1600 undistributed copies after the union had seen the contents. One page in particular was said to be “beyond the acceptable bounds of satire or mockery” and that further distribution would be considered “elevated harassment”.

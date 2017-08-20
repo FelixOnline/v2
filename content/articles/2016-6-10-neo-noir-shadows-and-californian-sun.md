@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101030-felix-niceguys-1200x800.jpg"
-image_caption: >
-  Ryan Gosling and Russel Crowe play the odd couple in 1970s neo-noir comedy The Nice Guys.
-image_attribution: "Warner Bros."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101030-felix-niceguys-1200x800.jpg"
+image_caption: ""
 ---
 
 While it is hard enough to make a straight-forward genre film, it is much more difficult for a director to attempt to send that genre up: make it too broad, and it descends into an unamusing mess; too narrow, and it becomes a smug attempt to show off the creator’s smarts. With this in mind, you would be forgiven for having a shudder of apprehension before seeing _The Nice Guys_, the latest work from director and writer Shane Black, which attempts to skewer neo-noir films, buddy comedies, and the 1970s simultaneously. But Black manages to pull it off, supported by the strong cast, to make _The Nice Guys_ a light, buoyant piece of entertainment.

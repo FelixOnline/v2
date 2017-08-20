@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022028-ks607-moonshin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022028-ks607-moonshin.jpg"
+image_caption: ""
 ---
 
 In this [whirlwind of mathematics](http://www.amazon.co.uk/Finding-Moonshine-Mathematicians-Journey-Symmetry/dp/0007214618), du Sautoy provides us with an irresistible combination of anecdotes, mathematical mysteries and history. Articulately conveying his own love for the subject whilst also providing us with a plethora of mathematics, he weaves an intricate and emotive tale of the fundamental questions in mathematics.

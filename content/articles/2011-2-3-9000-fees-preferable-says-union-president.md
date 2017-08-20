@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+image_caption: ""
 ---
 
 Tuition fees of £9000 a year would be “far more preferable” according to the ICU President, Alex Kendall, as well as the norm for “the majority of universities” according to the NUS President, Aaron Porter. These latest comments have arisen as the “Student Fees and Financial Aid Working Group” established at Imperial works to determine where the tuition fee level will be set from 2012.

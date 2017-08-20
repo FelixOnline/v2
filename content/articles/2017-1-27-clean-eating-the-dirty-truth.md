@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271630-felix-kale-1775809_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271630-felix-kale-1775809_1920.jpg"
+image_caption: ""
 ---
 
 Sweet potato brownies, smoothie bowls, tofu cheesecake, courgette noodles. Call it, name it, it’s all out there. The crowned diet gurus so charismatically persuade you to convert to these superior versions. God forbid refined sugar. No dairy. No gluten. Capri-Sonne? What’s that?

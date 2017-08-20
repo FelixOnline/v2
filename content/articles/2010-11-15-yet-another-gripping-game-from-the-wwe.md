@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
+image_caption: ""
 ---
 
 The last time I played a wrestling game was in 1998 on the original PlayStation 1. WWF Warzone was the first 3D wrestling game ever, and although I had no particular interest in wrestling it was a title I came back to every so often. So, twelve years on, how much have things changed?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080916-felix-fb-cover-photo-1[1].jpg"
-image_caption: >
-  London Climate Forum 2013
-image_attribution: "Imperial Hubs"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080916-felix-fb-cover-photo-1[1].jpg"
+image_caption: ""
 ---
 
 A fortnight ago you read about the IPCC report’s finger-pointing, 7 days later you glanced over the future of energy sourcing…now we will have you contemplate sustainable strategies for business, policy, and the general economics of the future!

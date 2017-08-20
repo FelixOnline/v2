@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251519-mc4509-s1.jpg"
-image_caption: >
-  Tree or surround sound system?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251519-mc4509-s1.jpg"
+image_caption: ""
 ---
 
 Researchers at [Disney](http://disney.go.com/) and [Carnegie Mellon University](http://www.cmu.edu/index.shtml) have published new research which could make everyday objects and even the human body into a touchscreen.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230003-tna08-p16_18davidcameron05.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230003-tna08-p16_18davidcameron05.jpeg"
+image_caption: ""
 ---
 
 Much like a promise to lower taxes, a call for more democracy is a cheap tactic for winning votes, yet one that, in what seems to be a continuing trend, the Conservative party have managed to completely cock up.

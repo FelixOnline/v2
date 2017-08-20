@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041533-felix-somerset_house_hair_29.jpg"
-image_caption: >
-
-image_attribution: "Somerset House"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041533-felix-somerset_house_hair_29.jpg"
+image_caption: ""
 ---
 
 As I walked into Somerset House from the increasingly bitter streets surrounding the Strand, I was greeted by the world of fashion, along with a flock of fashion students. I was at the brand new exhibition, _Hair by Sam McKnight_, designed to mimic both the feel of a catwalk and an editorial photoshoot. I wasn’t sure what to expect from a collection solely centred on hair – after all, it only takes up a small part of our bodies, how influential could it be? Well, if you want to find out just how much hair shaped the world, then this is the exhibition for you.

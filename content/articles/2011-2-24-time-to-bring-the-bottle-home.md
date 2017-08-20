@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
+image_caption: ""
 ---
 
 As another year quickly slips before our hands, it is already February and for the Royal School of Mines it is one of the most important months of the year. It is the month when the Bottle Match falls and is a weekend looked forward to by all past and present Miners, but what is the Bottle Match and where did it start from?

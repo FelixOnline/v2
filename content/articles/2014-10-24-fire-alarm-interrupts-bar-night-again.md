@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021847-ps3110-10631142_10202526484876168_7205085367365400776_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021847-ps3110-10631142_10202526484876168_7205085367365400776_o.jpg"
+image_caption: ""
 ---
 
 Hundreds of graduate students were looking forward to enjoying one last hurrah treading the sticky floors of Metric only for their revelry to be cut short by fire alarms and the early closing of the bars.

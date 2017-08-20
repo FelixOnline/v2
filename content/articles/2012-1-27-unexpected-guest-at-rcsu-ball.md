@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last Tuesday, the [Royal College of Science Union](http://rcsu.org.uk/exec/) (RCSU) held its annual Spring Ball in aid of Raising and Giving (RAG).

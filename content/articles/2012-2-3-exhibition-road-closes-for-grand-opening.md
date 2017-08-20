@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
-image_caption: >
-  “Exquisite, my parents don’t let me use scissors at home!”
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
+image_caption: ""
 ---
 
 Following two years of construction, Exhibition Road closed last Wednesday for its grand opening led by the Mayor of London, Boris Johnson. ‘No parking’ signs were put up in advance and the event saw a day long closure marking the opening of the brand new signature road running through the “intellectual capital of London”, South Kensington, as described by Prince Albert.

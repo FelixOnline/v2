@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
-image_caption: >
-  Dammit there’s ALWAYS a queue for the printer when you need it most
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
+image_caption: ""
 ---
 
 The medical library at St Mary’s has been reopened following six months of renovation works on the building and facilities.

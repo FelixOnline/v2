@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In 2008, astronomers obtained the first direct visual evidence for a ‘multiple exoplanetary system’ – a system of planets orbiting one central star that isn’t our sun – using near-infrared ground-based images taken with the [W.M. Keck Observatory](http://www.keckobservatory.org/) and the [Gemini North telescope](http://www.gemini.edu/). A fourth planet orbiting the same star was revealed in 2010.

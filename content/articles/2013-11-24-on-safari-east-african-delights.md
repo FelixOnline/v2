@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’ve had the privilege of growing up in East Africa, complete with the staple diet of safaris, beaches, poor roads and corruption. So having been to most national parks and game reserves in Kenya, we finally decided to venture next door to the fellow Swahili-speaking nation that is Tanzania, home of the famous Serengeti National Park.

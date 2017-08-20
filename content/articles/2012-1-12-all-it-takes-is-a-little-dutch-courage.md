@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The rumoured closure of the Holland Club has seen an immense response from the College community. From staff to postgraduate students, the actions of College with regards to its feasibility study have been watched ever closely since rumours of a possible closure surfaced over last term. Could the severity of such a campaign, employing a sizeable Facebook page, make a change to the study and potentially, the future of the Holland Club?

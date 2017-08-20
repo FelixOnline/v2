@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191345-mc4509-icfctour.png"
-image_caption: >
-  Light blue is soooo in this year
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191345-mc4509-icfctour.png"
+image_caption: ""
 ---
 
 IC football prepared for a Saturday morning 7am flight in the only way it knew how: by consuming pint after pint in the Union on the last night of term. We hadn’t even left the Union before B-Eth-Eth (Milo McGrath) had fallen victim to one of Asterix’s (Charles Gassuer) concoctions. After finishing in the Union we all come to the logical conclusion that it was much better to stay awake through the night than let a hangover set in…

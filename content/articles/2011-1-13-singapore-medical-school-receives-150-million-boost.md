@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132151-ks607-singapor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132151-ks607-singapor.jpg"
+image_caption: ""
 ---
 
 Imperial’s new Singaporean medical school; a partnership between Imperial and the Nanyang Technological University, has this month received a gift of $150 million from the Lee Foundation.

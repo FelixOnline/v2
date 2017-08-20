@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
+image_caption: ""
 ---
 
 Mesdames et messieurs, meine damen und herren, ladies and gentlemen, bienvenue, wilkommen and of course, welcome – to Imperial College.

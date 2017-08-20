@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091214-tna08-lolbama.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091214-tna08-lolbama.jpg"
+image_caption: ""
 ---
 
 Last Tuesday, 6 November 2012, Americans re-elected Barack Obama as the President of the United States, for a second and last four year mandate. It was a slim victory after a harrowing campaign, nothing as glamorous as his first ‘Yes we can’ pinnacle, but still a win. Shall we finally see Obama power through with his close-hearted healthcare and tax reforms? Does this mean new beginnings of hope for peace on Earth? Far from it. For those who have slept through the most important political event of the year, here is a blitz on what needs to be known about what happened, what to expect in the US over the next four years and what it means for the rest of the world.

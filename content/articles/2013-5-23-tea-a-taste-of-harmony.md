@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
+image_caption: ""
 ---
 
 "I can drink tea until the cows come home and I love the atmosphere.” – Z. Budd

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We’re coming up to the final episodes of the second to last season of this show and they apparently still have the time to meander around for an episode with nothing particularly interesting happening. Ah well, here’s a recap anyway.

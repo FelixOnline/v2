@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
-image_caption: >
-  No ifs, no buts...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
+image_caption: ""
 ---
 
 On the student march last term, as 10,000 people protesting against the government’s Higher Education white paper trundled through a path laid out by 4,000 riot police, a chant rose up: “Lets go back to Millbank, Na-Na-Na-Na, Hey!” But what is the student movement now?

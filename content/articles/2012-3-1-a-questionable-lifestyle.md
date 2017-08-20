@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012254-cac111-300dpi-pb-107005-1.jpg"
-image_caption: >
-  “I can see the family resemblance - he’s got Aunt Gertrude’s plasmids”
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012254-cac111-300dpi-pb-107005-1.jpg"
+image_caption: ""
 ---
 
 Hello teary-eyed ladies, Cave Johnson here.

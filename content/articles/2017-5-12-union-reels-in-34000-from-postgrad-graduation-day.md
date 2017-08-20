@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121848-felix-11596490914_955791a7e2_o.jpg"
-image_caption: >
-  That guy's crying after spending so much money just to hear his name being called out in a two hour ceremony at the Royal Albert Hall
-image_attribution: "Jinx McCombs"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121848-felix-11596490914_955791a7e2_o.jpg"
+image_caption: ""
 ---
 
 Remember last week’s postgrad graduation day? It made the Union of ton of dough. The largest graduation ceremony to date which saw a record of 9,400 guests attend, brought Union shops and outlets a total of £34,715. That’s about 13 grand more than last year and eight grand more than the record year of 2015.

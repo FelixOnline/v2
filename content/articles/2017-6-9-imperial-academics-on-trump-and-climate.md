@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091648-ea3211-5440384453_67fef2d0ee_o.jpg"
-image_caption: >
-  Fuck this guy
-image_attribution: "Gage Skidmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091648-ea3211-5440384453_67fef2d0ee_o.jpg"
+image_caption: ""
 ---
 
 Last week Trump declared to the world that he’d be pulling the US out of the Paris Agreement. Within hours, Elon Musk resigned from the President’s Board of Advisors, American states such as California went rogue and protested the move, vouching to uphold their commitment anyway, and world leaders expressed their disappointment and their determination to do their bit for the planet.

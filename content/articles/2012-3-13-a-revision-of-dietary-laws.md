@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 One of the overarching themes displayed by the main religions of the world is a set of dietary restrictions. An example is Islam, and its recommendation/order that you abstain from alcohol and swine. Many of these dietary restrictions were possibly in response to practical issues in the society in which the religion was born into. It’s reasonable to propose that avoiding pork and alcohol was a very good idea at the time of the birth of Islam because of the hazards of either in an arid climate: pigs rot quickly in the heat and harbour salmonella while alcohol is a diuretic.

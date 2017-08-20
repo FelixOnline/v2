@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291109-felix-Women@Imperial_Web-Banner_2-(2)--tojpeg_1425484491963_x2.jpg"
-image_caption: >
-  YAS QUEEN!
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291109-felix-Women@Imperial_Web-Banner_2-(2)--tojpeg_1425484491963_x2.jpg"
+image_caption: ""
 ---
 
 This piece is something of a sequel – the aftermath of a Women@Imperial week interview in FELIX about a month ago. I spoke about my experience at Imperial as a woman of colour, my reaction to sexist comments that were made as “jokes”, as well as the issue of gendered insults, particularly when it comes to female lecturers. I did this so I could tell those that participated that it was not okay. It didn’t work.

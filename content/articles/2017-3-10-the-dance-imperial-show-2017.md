@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101441-felix-Image uploaded from iOS (1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101441-felix-Image uploaded from iOS (1).jpg"
+image_caption: ""
 ---
 
 Next week, for the third year in a row, all dancers at Imperial are going to come together and show that it is not wise to underestimate the motor skills of scientists and that it’s time to start thinking about taking dance classes to become just as light-footed as DI’s performers!

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The SAF main lecture theatre was full to bursting last Wednesday evening, as Simon Foster and his troupe of postgraduate students put on an exciting and informative show on ‘The Oddities of Physics’. Guests were welcomed into the building with a display by the Imperial College Juggling Society, intrigued and unaware that a more fiery take on the display was on its way later in the lecture, to help explain special relativity...

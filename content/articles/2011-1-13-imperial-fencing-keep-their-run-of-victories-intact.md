@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s a Saturday morning in Cambridge as Imperial Fencing’s first men’s team arrive at the sports venue. Ahead of them lays their first BUCS weekend of the year, with matches against University of Oxford, University of Cambridge, Bristol University and University of London Union (ULU).

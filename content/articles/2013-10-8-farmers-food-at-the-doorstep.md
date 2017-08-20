@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310081246-jal08-food.jpg"
-image_caption: >
-
-image_attribution: "Daas Kaluvan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310081246-jal08-food.jpg"
+image_caption: ""
 ---
 
 You might have seen the signs around campus already – there is a new farmers market on Queens Lawn every Tuesday. You will be surprised by how much fresh vegetables and fruits this is. Apart from the expected English strawberries, raspberries, blueberries, plums, apples and pears, there are also Downland Pigs famous free range hog roast, Brambletye Farm’s organic eggs and sweet and savoury goodies from Queen of Cakes. None of which you will be able to get from your local Sainsbury’s.

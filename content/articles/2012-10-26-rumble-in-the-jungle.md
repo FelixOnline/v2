@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260407-tna08-white-house-murder-case_orange-tree-theatre_3.jpg.jpg.jpg.jpg.jpg"
-image_caption: >
-                                          James Alper, Robert Balderrama © Robert Day
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260407-tna08-white-house-murder-case_orange-tree-theatre_3.jpg.jpg.jpg.jpg.jpg"
+image_caption: ""
 ---
 
 With an endless choice of world-renowned plays popping out every week in Central London, one might wonder why one need even look at the smaller theatres for entertainment. The answer, is that it is often only in off-the-beaten-track locations that you can find surprising little gems like the one staged at Richmond’s Orange Tree Theatre, The White House Murder Case. The play is as satirical as it is topical, with US federal elections taking place in a fortnight. The performance takes us to a time in which the US is at war (surprise surprise) with several countries, and reeling from the loss of 750 soldiers in a guerilla conflict in Brazil. The accident, caused by a monumental cock-up has to be accounted for by the President; all this only 6 weeks before the elections!

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503081627-ff712-04a.jpg"
-image_caption: >
-  Ivo van Hove, Antigone, Obi Abili, Juliette Binoche, and Patrick O’Kane (From Left to Right)
-image_attribution: "Jan Versweyveld "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503081627-ff712-04a.jpg"
+image_caption: ""
 ---
 
 In a recent interview, given to promote his 2014 production of Arthur Miller’s _A View from the Bridge_, which opened at the __Young Vic__ to overwhelming critical acclaim before making the switch to broadway, Belgian director Ivo van Hove said ‘I am not so interested in good and evil’. Therefore, it seems that he is an incongruous choice for director of Sophocles’ _Antigone_, a classic that so clearly revolves around ideas of ‘right’ and ‘wrong’. This fact, combined with the reputation van Hove has obtained for his radical reinterpretations of the stalwarts of the theatrical canon, means that those attending the__ Barbican__’s production of _Antigone_ – somewhat of a misnomer; this is in fact an international production, with input from French, British, Luxembourgian, and Dutch companies – are already expecting something out of the ordinary.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
-image_caption: >
-
-image_attribution: "Jeff Cottenden"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
+image_caption: ""
 ---
 
 It was an odd set-up – the 2500-seater Royal Festival Hall packed to the brim, eagerly watching just two individuals on stage. Sat slightly angled towards each other and separated by an unassuming coffee table were two of the greatest literary figures of our time. I was seated right at the back (everything else was sold out), and their figures were dwarfed by the massive screen behind them with their names emblazoned across. Kazuo Ishiguro and David Mitchell may be the only two people on a vast stage regularly used for entire orchestras or dance troupes, but their presence filled the space around them and commanded the attention of rows upon rows of fans, writers, geeks and the curious.

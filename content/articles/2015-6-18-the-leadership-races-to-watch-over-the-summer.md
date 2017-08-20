@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
-image_caption: >
-  Could this muppet be the next leader of the Conservative party?
-image_attribution: "RothCPA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
+image_caption: ""
 ---
 
 Four candidates will be on the ballot paper when Labour Party members get to vote on Ed Miliband’s successor in September. Nominations closed on Wednesday and Shadow Secretary of State for Health Andy Burnham is the bookies’ favourite. Burnham received 68 nominations from MPs (the minimum to be on the ballot was 35), Yvette Cooper achieved 59, Jeremy Corbyn 36 and Liz Kendall 41, with 25 MPs – including Ed Miliband and deputy leader Harriet Harman – deciding not to vote.

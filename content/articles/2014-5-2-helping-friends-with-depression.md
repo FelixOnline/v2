@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020159-jal08-11depression.jpg"
-image_caption: >
-  A demonstration of how not to help a friend who is suffering with depression.
-image_attribution: "Hyperbole and a half (2013)"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020159-jal08-11depression.jpg"
+image_caption: ""
 ---
 
 In the last Wellbeing section, I wrote about my experience with recovering from depression. Maybe it’s because I don’t make a habit of talking about my mental illness but I was genuinely surprised at the positive reception it received from friends, acquaintances and even complete strangers. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.

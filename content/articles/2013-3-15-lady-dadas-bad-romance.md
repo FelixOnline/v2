@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
+image_caption: ""
 ---
 
 The Barbican’s art gallery is haunted by the ghosts of avant-garde. Possessed pianos play atonal compositions, while invisible dancers pitter-patter across the halls, and long-dead voices call out in French. This is the soundscape against which the exhibition The Bride and the Bachelors is set, forming the mise en scène for a production which tells the story of a Dadaist giant and the New York scene he inspired. In this tale, the ‘Bride’ is Marcel Duchamp, the radical French artist whose ‘readymades’ changed the art world forever. The ‘Bachelors’ courting him are the four titans of 1960s American avant-garde: Jasper Johns, Merce Cunningham, John Cage, and Robert Rauschenberg. The exhibition shows the influence these artists had on one another, and the enormous impact Duchamp’s philosophy had on the arts as a whole

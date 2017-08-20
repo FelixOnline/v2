@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101437-felix-Screen Shot 2017-02-10 at 14.36.52.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101437-felix-Screen Shot 2017-02-10 at 14.36.52.png"
+image_caption: ""
 ---
 
 It’s easy to look from the outside at a pride parade and see a unified grouping of similarly minded people. But under this facade of togetherness, within the LGBT community lies a volatile mixture of groups that sometimes have radically different goals. An example of this is the recent push that has led some, particularly from outside the trans community, to question the place of the T in LGBT.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Have you ever wondered why the very job you are madly interested in you never see advertised? Well it could be that it is part of the ‘Hidden Job’ market. It is estimated that approximately 70% of all vacancies filled have never been openly advertised. This can be particularly prevalent for what are called ‘experienced hire’ opportunities but it can also be common in certain industry sectors at the graduate and intern level. So why are some jobs hidden like this? Well there are several reasons. Firstly it takes time and money to advertise job opportunities so if your company is in a sector that is highly sought after then you might prefer to wait for potential candidates to come knocking on your door. For smaller companies who only recruit as and when the need arises there might be a fear of being swamped if they make their opportunities too public. In some cases the work area is highly specialised and so only a known group of people possess the right skill set so why look further afield; and finally many jobs are filled through contacts and networking, so it is all about who you know. So to maximise your job hunting chances you need to take into account this hidden factor as well as the more openly advertised opportunities.

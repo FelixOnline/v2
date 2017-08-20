@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271059-felix-uncharted42.jpg"
-image_caption: >
-  Uncharted 4 and chill.
-image_attribution: "Naughty Dog"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271059-felix-uncharted42.jpg"
+image_caption: ""
 ---
 
 A major criticism of the Uncharted trilogy has always been that it is more style than substance, that is focuses too heavily on glorious set-pieces and stunning scenery to mask its flaws. That is not to say that these games don’t have substantial playable elements – they do – but the gameplay that does exist is often shallow and poor when compared to the genres it borrows from. The gameplay element most criticised in previous titles was the third-person gunplay. Imperfect controls plagued these repetitive sections which make up a large part of the Uncharted series. Many would argue (myself included) that the games would be better if shooting were removed completely. A few years after the release of Uncharted 3, Naughty Dog released The Last of Us, which fixed many of these issues. Uncharted 4: A Thief’s End relies heavily on the improvements that made The Last of Us a critical success. It’s more serious in tone, relies less on set-pieces, and feels more natural (in all of its gameplay mechanics). This is easily the best game Naughty Dog have ever made, the best game on the PS4, and a historic moment in video game history. It is the first game that truly moves beyond the uncanny valley into astonishing realism.

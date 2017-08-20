@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
-image_caption: >
-
-image_attribution: "Shane Anderson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
+image_caption: ""
 ---
 
 Fact: There is a jellyfish that can live forever.

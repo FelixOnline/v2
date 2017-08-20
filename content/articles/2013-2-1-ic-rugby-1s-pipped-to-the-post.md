@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010026-tna08-rugger.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010026-tna08-rugger.jpg"
+image_caption: ""
 ---
 
 On a balmy Wednesday afternoon, ICURFC travelled to the all weather pitch at Maidenhead RFC for a double header match against Reading Uni.

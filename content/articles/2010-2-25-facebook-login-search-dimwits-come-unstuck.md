@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
+image_caption: ""
 ---
 
 This week saw the accidental birth of a new internet meme at the expense of some rather ignorant Facebook users. I say some, it's more like thousands of Stalkerbook simpletons, and it all stems from their inability to understand a simple principle: Google is a search engine, not an address bar.

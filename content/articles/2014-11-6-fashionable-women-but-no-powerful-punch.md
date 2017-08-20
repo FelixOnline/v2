@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
-image_caption: >
-  Vivienne Westwood, the Grand-Dame of controversial clothing, is one of the women featured.
-image_attribution: "Christian Shambenait"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
+image_caption: ""
 ---
 
 “There can be no doubt that the hand which first encloses the waist of a girl in these cruel contrivances, supplying her with a fictitious support, where the hand of God has placed bones and muscles that ought to be brought into vigorous action, lays the foundation of bitter suffering.” Thus spoke Charlotte Elizabeth Tonna, a popular novelist, on the pretty prisons that are corsets. The year of the declaration? 1841, making it a fitting start to the __Design Museum__’s retrospective of the relationship between women, clothes, and feminism, succinctly titled __Women Fashion Power__.

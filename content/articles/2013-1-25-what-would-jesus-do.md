@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250142-tna08-jesus-christ.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250142-tna08-jesus-christ.jpg"
+image_caption: ""
 ---
 
 Let the dialogue begin.’ So began [Rory Fenton’s thoughtful piece last week](http://felixonline.co.uk/comment/3135/faitheism-the-importance-of-dialogue/) – encouraging the religious and irreligious alike to ‘look for the common ground’ and ‘work together’ against extremism for a better society. As a Christian, I welcome this engagement from the (so called) ‘faitheists’ – it’s certainly a refreshing change from the hostile rhetoric spouted by Dawkins et al.

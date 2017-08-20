@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060346-jal08-arts-mary2.jpeg"
-image_caption: >
-
-image_attribution: "Brigitte Lacombe"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060346-jal08-arts-mary2.jpeg"
+image_caption: ""
 ---
 
 __W__ho was Mary? From biblical sources we know that she was the mother of Jesus; from them on it gets a little fuzzy, depending on which line of Christianity you’re following.

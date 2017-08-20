@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091239-tna08-p1010312.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091239-tna08-p1010312.jpg"
+image_caption: ""
 ---
 
 I doubt many visitors to The Netherlands stray far beyond the amazing museums, canals and liberal attractions of Amsterdam. So it was perhaps unsurprising that I was met with quizzical looks when I announced that I was off to The Netherlands to go Wadlopen. Wadlopen, the art of walking on mudflats exposed at low tideby the Wadden Sea, was something that until recently I had never even heard of, let alone considered doing. When I read about it in my guide book, however, I was very keen to try this unusual activity.

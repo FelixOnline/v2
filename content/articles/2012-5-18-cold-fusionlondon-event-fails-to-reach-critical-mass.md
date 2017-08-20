@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205180713-felix-fusion-23.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205180713-felix-fusion-23.jpg"
+image_caption: ""
 ---
 
 The financial outcome of the charity event [Fusion@London](http://fusionatlondon.com/) has finally become clear. [As reported previously in Felix](http://felixonline.co.uk/news/2301/confusion-over-event-success/), there was initially a long, slow, and confusing period of uncertainty as to exactly what the situation was. Up until as recently as 1 May, there were still invoices that needed to be paid. However, the loss is now known and eActivities (the online record of transactions for clubs and societies) currently gives an accurate representation of the financial failure of the event. In total, the event lost £15,506.91.

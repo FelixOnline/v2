@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
-image_caption: >
-  Guess who?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
+image_caption: ""
 ---
 
 After a struggle to grab the interest of viewers the last couple of years, the 84th Oscars may have created a positive future for the show. Billy Crystal kept the night running smoothly with his humorous skits, and all the attendees were charismatic and optimistic. Although comedy was present throughout the night, it was a classy and elegant event that when all mixed together, wonderfully celebrated another year of film.

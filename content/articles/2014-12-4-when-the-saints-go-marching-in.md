@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041943-cj914-st-vincent.jpg"
-image_caption: >
-
-image_attribution: "shockya.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041943-cj914-st-vincent.jpg"
+image_caption: ""
 ---
 
 What happens when you put together a grumpy old man and the next door neighbour’s slightly, odd but intelligent child? The grumpy man who everyone hates at the beginning of the film does something remarkable for the kid, and we discover that actually, the moody old man is a real softie at heart. An episode of US sitcom _Modern Family_ finds a young child bonding with the next door neighbour, a retired fireman. The mother is concerned. But he lists_ Gran Torino_, _True Grit_ and _Up_ as examples of how things worked out in the end. _St. Vincent _essentially follows the exact same formula. We are introduced to Vincent (Bill Murray), a loner of a man who drinks too much, then drives, and spends too much and is generally the last person you would want looking after your child. Not knowing any of this, desperate single mother Maggie (Melissa McCarthy), who is far too busy at her work making a living for herself and her son Oliver (Jaeden Lieberher), recruits Vincent’s help…for an hourly babysitter’s fee of course.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104181303-felix-mfk_sirkeitho_nions_009.jpg"
-image_caption: >
-  The Rector is "extremely disappointed" by the results
-image_attribution: "Mike Finn-Kelcey/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104181303-felix-mfk_sirkeitho_nions_009.jpg"
+image_caption: "The Rector is extremely disappointed by the results"
 ---
 
 The results of the latest [National Student Survey](http://www.thestudentsurvey.com/) have led Imperial College to announce a campaign to improve the assessment of students’ work, with the Rector Sir Keith O'Nions becoming personally involved in an attempt to lead a noted improvement across all College departments.

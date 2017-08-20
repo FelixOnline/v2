@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Drinking in space can be a messy affair. In the absence of gravity liquid floats, requiring all drinks to be sucked up from a pouch using a straw – a particularly odd sensation when having your hot coffee in the morning. But now, thanks to NASA astronaut Dr. Don Pettit, sipping from an open top cup is possible, even in the zero gravity.

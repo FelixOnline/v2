@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
-image_caption: >
-  Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topic
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
+image_caption: ""
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re alone in our experiences, when in fact, we’re probably not. Last week the Union asked the student body to submit anonymous accounts of their experiences of mental health. Sincere thanks to everyone who took part – here are the responses:_

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701252252-ff712-Shappi-Khorsandi-HI-RES-2016.jpg"
-image_caption: >
-  Shappi Khorsdani, whose new show Oh My Country! is on at the Soho Theatre
-image_attribution: "Shappi Khorsandi PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701252252-ff712-Shappi-Khorsandi-HI-RES-2016.jpg"
+image_caption: ""
 ---
 
 As a Middle Eastern girl from Ealing whose life resembles a sitcom, there’s no other comedian I can relate to as much as Iranian-born Shappi Khorsandi, whose performances deliver a refreshing take on the world around us. Her new show, “Oh My Country!” is focused on “reclaiming patriotism” in celebration of her 40th year in the UK.

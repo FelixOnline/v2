@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262222-ak6309-39853_web.jpg"
-image_caption: >
-  A popcorn map, obviously
-image_attribution: "Pamela Belding – STRI"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262222-ak6309-39853_web.jpg"
+image_caption: ""
 ---
 
 They may not have had any decent bowls to eat it from, but new research suggests that, as long ago as around 4600 BC, ancient Peruvians were eating popcorn. A research group led by Tom Dillehay from Vanderbilt University, and Duccio Bonavia, from Peru’s Academia Nacional de la Histori, have found South America’s earliest ever examples of corn ‘microfossils’, at two mound sites, Paredones and Huaca Prieta, on the northern coast of Peru. These fossils, together with some of the oldest known corn cobs, husks, stalks, and tassels, discovered at the site, indicate that the area’s ancient inhabitants were using corn in a variety of ways, from corn flour to popcorn – despite it not yet being an important part of their diet.

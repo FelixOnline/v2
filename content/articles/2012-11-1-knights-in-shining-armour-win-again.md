@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
+image_caption: ""
 ---
 
 It’s a cold Saturday morning as IC Fencing Women’s 1st‘ makes their way over to Oxford. It’s the first weekend out of two, and they’re going to fence Cardiff University, University of Oxford, University of Cambridge and UCL, the other 4 strongest teams in the South of UK. The epee team, first up on piste, consists of three new recruits: Paula Heister, Kat Young and Caitlin Jones, and an old member Charlotte Levin. The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021505-felix-18SPEECHLESS1-facebookJumbo.jpg"
-image_caption: >
-
-image_attribution: "ABC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021505-felix-18SPEECHLESS1-facebookJumbo.jpg"
+image_caption: ""
 ---
 
 Ever since the success of the show, ABC seems to have made ‘Modern Family’ its motto. Leading the charge on diverse sitcoms, in recent years it has put out excellent shows like Black-ish, Fresh off the boat and, now, Speechless. This sitcom follows the DiMeo family as they relocate to a new town in order to be able to better provide for their oldest child JJ who has cerebral palsy.

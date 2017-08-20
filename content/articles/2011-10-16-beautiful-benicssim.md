@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
+image_caption: ""
 ---
 
 _Rototom Sunsplash_ is one of the largest and longest running Reggae, Dance Hall and Dub festivals in Europe. In fitting with the music it endorses, its appeal spans a cross-section of festival goers from the ignorant non-connoisseur to the dub-geek-stoner. The recipe is very simple: an entirely laid back dynamic, a hot climate and enough people to make you feel it was worth coming but leave you with space to move.

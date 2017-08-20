@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Union’s commitment to disabled students was called into question last week as the Union Disabilities Officer resigned saying that the Union “should be leading the way in accessibility for students, not lagging behind the rest of the university”.

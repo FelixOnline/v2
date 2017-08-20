@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Facebook has conducted a joint study which suggests that there are on average 3.74 degrees of separation between users on the popular social networking website. The study, joint between Facebook’s data scientist Lars Backstrom and four researchers from the University of Milan, found that the number of people that link two others on average is approximately four. That is, as the authors of the study explain, “when considering another person in the world, a friend of your friend knows a friend of their friend.”

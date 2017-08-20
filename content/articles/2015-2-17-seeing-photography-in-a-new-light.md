@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
-image_caption: >
-  Leicester Square, 1896, Paul Martin, The Royal Photographic Society Collection.
-image_attribution: "National Media Museum, Bradford / SSPL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
+image_caption: ""
 ---
 
 Photography exhibitions are often about particular movements, themes, or individual photographers. Rarely do you find an exhibition as all-encompassing as this show of the best of the Royal Photographic Society’s (RPS) collection. Besides including instantly recognizable photos, such as Steve McCurry’s _National Geographic_ magazine cover photo _Afghan Girl_, the exhibition is notable for its effort to present a macroscopic view of photographic history, drawing links across time, individuals and whole movements. The Society is in a unique position as both bystander and participant in the major photographic milestones of history, and this exhibition exploits both these roles ingeniously to create a fascinating and informative tribute to the art of photography.

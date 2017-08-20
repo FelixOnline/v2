@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
-image_caption: >
-  Lord Fellowes out for a ride on Jezebel
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122106-jyg11-150206_fellows_kitchener_blast_085.jpg"
+image_caption: ""
 ---
 
 Julian Fellowes, creator of Downton Abbey, visited Imperial College on Friday 6th February for a tour of the research labs and also met with the College President, Professor Alice Gast. Their tour finished with a trip out on Jezebel, the RCSU’s fire engine mascot, who appeared in Downton Abbey last September.

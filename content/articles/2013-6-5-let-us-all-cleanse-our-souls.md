@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051327-tna08-the-purge01.jpg"
-image_caption: >
-  Remember everyone, make sure not to get any blood on my brand new white tee
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051327-tna08-the-purge01.jpg"
+image_caption: ""
 ---
 
 Whether what this film suggests is actually feasible is an entirely separate matter – would an annual 12-hour period in which all crimes are allowed really help decrease America’s crime rate and solve unemployment? During these hours even the emergency services do not respond, and it turns into a free-for-all Battle Royale/Hunger Games in which the population is given the chance to get all violence and hatred out of their system.

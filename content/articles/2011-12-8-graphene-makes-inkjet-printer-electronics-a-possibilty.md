@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Graphene is a unique material consisting of single layer of carbon atoms bonded in a hexagonal pattern. As the thinnest and most conductive material ever discovered it has countless possible applications in electronics. Research into the material is progressing quickly, with the government setting aside £50m for this purpose earlier this year.

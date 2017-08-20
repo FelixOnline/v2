@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
+image_caption: ""
 ---
 
 The Department of Life Sciences came under further pressure as the Director of the influential [John Innes Centre](http://www.jic.ac.uk/corporate/index.htm) (JIC), a plant science and microbiology research institute, called the changes "misguided". It also been revealed that the College's annual surplus, or the profit, has almost trebled to [£41.3 million](http://www.imperial.ac.uk/workspace/finance/Public/annual_report/annual_report_09_10.pdf) for 2009-10.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112051-ks607-fencingf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112051-ks607-fencingf.jpg"
+image_caption: ""
 ---
 
 It was a crisp Saturday morning as a group of Imperial fencers headed out to St Paul’s School Sports Hall for the [London Team Trophy](http://www.londonteamtrophy.ulufencing.net/cgi-bin/index.pl).

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122056-jal08-food_green_door.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122056-jal08-food_green_door.jpg"
+image_caption: ""
 ---
 
 On Tuesday Oct 1, Meat Soc held its primary trip this academic year to the Green Door Steakhouse, on Gloucester Road. It was great to meat new members, and to ketchup with some of our older ones. We felt that we should begin in style, dining on really good food.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Autistic Spectrum Disorder (ASD) affects approximately 1% of the population. The main characteristics of ASD are difficulties in social interaction, communication, and repetitive behaviours. It is a difficult condition to diagnose, especially in young children, but researchers at Birkbeck College have just published some promising findings that open a new path to early diagnosis.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182228-jal08-ralph.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182228-jal08-ralph.png"
+image_caption: ""
 ---
 
 The recent Daily Mail ‘essay’ (to use Daily Mail sketch writer Quentin Letts’ wonderful euphemism) on Professor Ralph Miliband has demonstrated once more, in no uncertain terms, the vicious and quite frankly lunatic nature of some elements of the British Press. They have, quite rightly, come under the strictest censure and condemnation for what can only be described as a hateful and fear-filled piece. On the other hand (this is not to defend ‘The Mail’ in any way) I could hardly describe the article as a ‘smear’.

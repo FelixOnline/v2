@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505142336-cj914-cameron-and-clegg-in-10-downing-street.jpg"
-image_caption: >
-  As we say goodbye to the Liberal Democrats in Downing Street, how are things going to change?
-image_attribution: "Standard"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505142336-cj914-cameron-and-clegg-in-10-downing-street.jpg"
+image_caption: ""
 ---
 
 The Liberal Democrats have had the number of their MPs slashed from 57 to just eight. Members of Parliament who have been in government for 30 years are no longer. Part of their downfall can be attributed to their support of raising tuition fees, part to supporting the Conservatives, and part of it because, apparently, Lib Dem voters don’t actually want them to do anything.

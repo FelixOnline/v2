@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 President & Rector’s 2013 Awards and Medals for Excellence in Teaching, Pastoral Care, Research Student Supervision and Supporting the Student Experience. Apparently brevity wasn’t a concern for him.

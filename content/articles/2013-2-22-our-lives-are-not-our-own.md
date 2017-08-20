@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220131-tna08-13fb86ba0bb9f049b72b5b99e504dd08.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220131-tna08-13fb86ba0bb9f049b72b5b99e504dd08.jpg"
+image_caption: ""
 ---
 
 There isn’t an easy way to describe or to compliment the team effort from the Wachowski siblings and Tom Tykwer, and their boldest, grandest feature adaptation of Cloud Atlas, based on the novel of the same name by David Mitchell. All that can be said is that it’s brilliant. Absolutely brilliant. Here is a film of unimaginable scale and ambition, six (and maybe an extra half) different narrative strands all put together and connected beautifully with endless smart editing, a true work of wonder that needs to be seen. It would be a crime to miss this masterpiece on the big screen.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302121827-tna08-abcs-of-death-featured-1024x561.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302121827-tna08-abcs-of-death-featured-1024x561.jpg"
+image_caption: ""
 ---
 
 26 directors, 26 ways to die. As horror anthology goes, this is the Concorde moment, 26 short films from some of the most twisted horror minds, it’s a brave bold stab at something that may never be repeated.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
-image_caption: >
-  The Holland Club is named after Sir Thomas Holland, former Rector of Imperial College
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
+image_caption: ""
 ---
 
 Potential plans for a proposed renovation of [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) have been provided as part of the area’s ongoing feasibility study this week. The Holland Club Committee has voiced its disapproval over what it considers to be a lack of communication from those in charge of the study, while Imperial College Union President Scott Heath has stated his desire to consider the views of students under any potential changes to the set-up and running of the establishment.

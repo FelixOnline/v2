@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
-image_caption: >
-  It's as fun as it looks.
-image_attribution: "Cem Hurrell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
+image_caption: ""
 ---
 
 This week’s union council meeting was rocked by the tabling of a paper to prevent the union from lobbying its own members.

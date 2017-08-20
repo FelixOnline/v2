@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151348-cj914-sitttingingng.png"
-image_caption: >
-  I. Am. Envy.
-image_attribution: "IC Skydiving"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151348-cj914-sitttingingng.png"
+image_caption: ""
 ---
 
 At Imperial probably one of my favourite things that we get to support Clubs, Societies and Projects with is tours. If I mention it to anyone at other Students’ Unions they can’t believe that we not only support students going on tour but also fund it. Though I guess that in a lot of other places ‘tour’ is often more synonymous with ‘drinking tour’ rather than “we’re going to go do our club activity somewhere new that lets us experience it in a different, exciting way”.

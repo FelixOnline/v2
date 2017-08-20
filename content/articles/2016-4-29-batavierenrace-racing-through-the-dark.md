@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291200-felix-bata3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291200-felix-bata3.jpg"
+image_caption: ""
 ---
 
 Sometimes a marathon isn’t enough. On Saturday 23rd April, 15 runners from the Imperial College Cross Country and Athletics Club romped home to fourth place in the Batavierenrace. With 348 teams covering 172km through Holland and Germany, the race demanded high levels of speed, endurance, strategy, and tolerance to Dutch rave culture from the teams. Finishing this strongly in the world’s biggest relay race represents one of the club’s finest collective achievements in recent years.

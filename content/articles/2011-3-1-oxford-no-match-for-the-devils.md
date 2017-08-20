@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Devils B were psychologically strong going into last Wednesday's game against Oxford Women's. Despite an overall mixed season and a previous game close loss to Bristol (4-3), the Devils had reaped the benefits of match experience and knew Oxford was a team they could and should beat. Playing on home turf was also significant as Oxford only brought two lines so the Devils would have the advantage of numbers.

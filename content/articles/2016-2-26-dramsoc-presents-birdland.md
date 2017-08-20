@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261207-felix-mattoscar.jpg"
-image_caption: >
-
-image_attribution: "DramSoc"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261207-felix-mattoscar.jpg"
+image_caption: ""
 ---
 
 Entering into the second term of the last year of my Joint Maths and Computing Degree, I thought to myself, “How can I distract myself from my work in a ridiculous way I haven’t tried yet?”. Having already become captain of the most obscure sport on the planet (underwater hockey – don’t ask), and literally played God in a DramSoc play last year, I decided it was time to actually become God. Sadly, gaining omniscience is fairly difficult, so I settled on directing. Sadly, nobody liked the play I wanted to do, so I settled on assistant directing someone else’s.

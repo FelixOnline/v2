@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311241714-jal08-screen-shot-2013-11-24-at-17.13.53.png"
-image_caption: >
-
-image_attribution: "Benjamin Whealing"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311241714-jal08-screen-shot-2013-11-24-at-17.13.53.png"
+image_caption: ""
 ---
 
 London Underground and the Mayor of London announced new changes that will have a large impact on London’s tube system. Under the proposed changes by 2015 most manned ticket offices at tube stations will be closed, leading to a loss of 750 jobs. These changes have been set in motion as part of a plan to reduce TfL’s budget by approximately £50 million every year.

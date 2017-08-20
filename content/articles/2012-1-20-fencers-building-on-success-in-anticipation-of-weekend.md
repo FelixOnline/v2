@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201201205-felix-img_8922.jpg"
-image_caption: >
-  Off-target! Such a rare occurence in foil
-image_attribution: "Indy Leclercq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201201205-felix-img_8922.jpg"
+image_caption: ""
 ---
 
 On Wednesday, the Women’s 2nd Fencing Team played, and won, the fifth competition in their league, leaving them in third place with a total of three wins and two losses. The competition was the first one of the term, and saw a confident team facing Portsmouth’s First Team at home.

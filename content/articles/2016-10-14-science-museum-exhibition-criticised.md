@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
-image_caption: >
-
-image_attribution: "Christian Buus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
+image_caption: ""
 ---
 
 Over 50 academics and  other campaigners, including two members of Imperial College’s Science Communication unit, have signed a letter this week calling for the Science Museum to end its deal with Statoil, a Norwegian oil and gas giant, as the headline sponsor of the new children’s exhibition, _Wonderlab_.

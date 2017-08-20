@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051242-felix-landsend1.jpg"
-image_caption: >
-  Land’s End, the first good game about somewhere in Cornwall (kinda).
-image_attribution: "Ustwo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051242-felix-landsend1.jpg"
+image_caption: ""
 ---
 
 For a gaming device to truly succeed it needs a great launch title. Land’s End, a virtual reality puzzle adventure from the creators of Monument Valley, is the game that every owner of the device must play. Developers Ustwo truly understand the power of the new medium and where it works best, and they’ve used that knowledge to create something that feels completely new.

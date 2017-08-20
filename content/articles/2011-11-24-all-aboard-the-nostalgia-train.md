@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There are many ways to travel and I like to think that I’ve experienced most of them. Each one has its own charm, best suited to different needs and situations; from the humdrum of buses to the out-of-this-world splendour of airplanes, and, for the adventurous among you, the awesome majesty of riding an ostrich to college. But there is one form that will hold a special place in my heart.

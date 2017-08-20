@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282041-ks607-TOMCUT.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282041-ks607-TOMCUT.jpg"
+image_caption: ""
 ---
 
 Isn’t it about time that everyone gave Wayne Rooney a break? Let’s get things straight from the off. I am not going to try to defend some of Rooney’s actions over the past few months: some of his off-field behaviour is quite simply indefensible.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010003-tna08-2011-05-16-spaghetti.jpg"
-image_caption: >
-
-image_attribution: "http://i-cdn.apartmenttherapy.com/uimages/kitchen/2011-05-16-Spaghetti.jpg"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010003-tna08-2011-05-16-spaghetti.jpg"
+image_caption: ""
 ---
 
 The idea for pasta Mondays came about as a way for my boyfriend to try to get me and my flatmate to eat more carbs. Before this we tended to succumb to ‘no-carb-days’ (better known as ‘no-fun-days’) and other such health kick fads! We appreciated being cooked for and the opportunity to eat together, but his pasta Mondays generally consisted of overwhelming ‘rower-sized’ portions of pasta often accompanied with some sort of pesto, occasionally some chicken, and perhaps a concession of tomatoes for us girls.

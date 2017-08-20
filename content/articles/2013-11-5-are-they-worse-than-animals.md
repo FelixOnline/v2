@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What does investment banking look like from the point of view of a wide eyed money hungry graduate? Anyone considering going into this avenue of finance after graduation should seriously consider giving this book a read to gain some insight into what kind of work and lifestyle you can expect. The long hours, never ending assignments, high figure deals, fat pay cheques, coveted bonuses and sleeplessness you can expect are neatly summed up in these fast paced and insightful accounts.

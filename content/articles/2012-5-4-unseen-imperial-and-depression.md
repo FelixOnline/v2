@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205040214-felix-depression.jpg"
-image_caption: >
-  Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205040214-felix-depression.jpg"
+image_caption: ""
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re

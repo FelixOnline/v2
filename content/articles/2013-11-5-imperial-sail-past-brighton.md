@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On a windy Wednesday in west London, Imperial 1st XV hosted Brighton at Harlington for their third match of the season. Off the back of a 24-0 win against their inferior university colleagues, IC were brimming with confidence going into this game with a very strong team on paper, only missing centre Mike Floyd (suffering from a bruised shoulder), and albino winger Fred White (busy scouting next year’s fresher intake whilst modelling vests in Korea).

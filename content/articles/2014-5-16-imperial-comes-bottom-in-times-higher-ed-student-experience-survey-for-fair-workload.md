@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Yesterday saw College coming in 43rd place in the Times Higher Education (THE) Student Experience Survey 2014. Ranked on 21 different attributes, from the strength of the students’ union to the fairness of the workload, the data was gathered by YouthSight over the course of last academic year.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ever wanted to watch a new TV show without, you know, committing to it? We’ve all been there: start watching a new series, thinking it looks pretty cool, and next thing you know, you’re nine series in and have no idea why you’re still watching, but too emotionally invested to stop (here’s looking at you, Supernatural).

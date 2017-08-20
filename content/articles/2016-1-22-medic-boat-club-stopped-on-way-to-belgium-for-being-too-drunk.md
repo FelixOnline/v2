@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601221237-felix-web.jpg"
-image_caption: >
-  An artist's impression
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601221237-felix-web.jpg"
+image_caption: ""
 ---
 
 Last week’s ICSM Boat club’s annual trip to Belgium ended before it really even began – at the ferry port in Dover.

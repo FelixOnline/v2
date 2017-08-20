@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102201-ps3110-olley%20win%20crop.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102201-ps3110-olley%20win%20crop.jpg"
+image_caption: ""
 ---
 
 It was cold and windy last Wednesday afternoon when 25 members of the Imperial Cross Country and Athletics Club arrived at Hampstead Heath to take on the other London Colleges in the first Cross Country race of the season: Parliament Hill.

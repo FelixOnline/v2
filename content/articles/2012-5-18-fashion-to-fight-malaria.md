@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181211-felix-120508152046-large.jpg"
-image_caption: >
-  Get cape. Wear cape. Beat malaria...?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181211-felix-120508152046-large.jpg"
+image_caption: ""
 ---
 
 A Kenyan scientist and a Gambian clothes designer have joined forces to fashion a garment that has the power to repel mosquitoes and beat malaria.

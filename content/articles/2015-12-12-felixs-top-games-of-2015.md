@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512151436-cet13-201512121612-cet13-games.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512151436-cet13-201512121612-cet13-games.png"
+image_caption: ""
 ---
 
 ## 4. Rocket League

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212045-ks607-richardd.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212045-ks607-richardd.jpg"
+image_caption: ""
 ---
 
 Professor Richard Dawkins, what isn’t wrong with that guy? A restless mind, a head full of ideas, and the man really doesn’t like religion. Sometimes, his work is a bit like the dialogue in “The Barbaric Beast of Boggy Creek” – he seems to repeat one and the same thing over and over again. The man really, really doesn’t like religion. Did I mention that he repeats that idea over and over again??

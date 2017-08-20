@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So, who knew that preparing for the Freshers’ Fair would only leave two days to produce and send off a newspaper? Certainly not me, despite my Imperial education, sometimes it makes you wonder what I actually did.

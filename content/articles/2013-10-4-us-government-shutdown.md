@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
-image_caption: >
-  Wow, who feeds the ducks?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
+image_caption: ""
 ---
 
 The non-essential services provided by the US government have grinded to a halt as there is disagreement in Congress about the current budget. This not only weakens the country financially but also shows the inefficiency US congress has to deliberate and compromise in situations where ideologies clash.

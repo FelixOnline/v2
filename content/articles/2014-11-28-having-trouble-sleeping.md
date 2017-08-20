@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280101-ps3110-mouse-sleeping.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280101-ps3110-mouse-sleeping.jpg"
+image_caption: ""
 ---
 
 In the UK, 1 in 4 people suffer from some form of sleep disorder resulting in excessive daytime sleepiness. Researchers at Imperial College London, led by Professors William Wisden and Nicholas Franks of the Department of Life Sciences and Dr Mick Hastings’ group at the MRC Laboratory of Molecular Biology in Cambridge, have shined new light on exactly how the body controls when you wake up and when you fall asleep (the circadian rhythm).

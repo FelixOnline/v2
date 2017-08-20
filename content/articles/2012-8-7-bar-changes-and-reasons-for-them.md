@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201208072303-felix-stefan-white-background.jpg"
-image_caption: >
-  Stefan Nubert (got it right, YES!) Deputy President (Finance & Services)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201208072303-felix-stefan-white-background.jpg"
+image_caption: ""
 ---
 
 Over the summer, the prices of some draught products in our bars have been increased. We are in the process of preparing a full release about the change in prices and products available in the bars over the coming weeks.

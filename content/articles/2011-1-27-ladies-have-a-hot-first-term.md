@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272047-dr910-anushaan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272047-dr910-anushaan.jpg"
+image_caption: ""
 ---
 
 The Imperial Womens team are back and we are stronger than ever! After a frustrating couple of years trying to drum up interest amongst our female players, finally things have clicked into place. Nan and I were back after some busy times (we combined to win the BUCS Womens doubles bronze medal in 2007). We also welcomed Trang to the team, who was a mixed doubles bronze medallist for Cambridge University in the same year.

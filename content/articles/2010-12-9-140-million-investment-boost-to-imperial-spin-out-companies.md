@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092135-dr910-facultyb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092135-dr910-facultyb.jpg"
+image_caption: ""
 ---
 
 A leading technological development company, Imperial Innovations, has [announced](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_7-12-2010-8-52-12) that it intends to raise £140 million within the next two years, some of which will be used to fund research at Imperial College.

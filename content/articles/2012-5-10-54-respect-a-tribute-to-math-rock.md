@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102113-felix-shellac.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102113-felix-shellac.jpg"
+image_caption: ""
 ---
 
 [__Shellac__](http://www.youtube.com/watch?v=mxbTRh1o_RU) are another great Math Rock band. You may know them for including prolific producer Steve Albini, or you may know them for the sound, which is pretty much abrasion itself. From the distorted, almost noisy guitars, to the vocals, aggressively shouted, often about violence and fighting and more often than not bitter, sarcastic and unpleasant. They formed in 1992, after Albini’s involvement in [__Big Black__](http://www.youtube.com/watch?v=HuO3wwLuF0w) and [__Rapeman__](http://www.youtube.com/watch?v=ZIZ19j6DndY), who are both somewhat important to math. It is with no disrespect to these bands, however, that I say that Shellac is the culmination of Albini’s work.

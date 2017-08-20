@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401221418-me1711-games_battlefield.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401221418-me1711-games_battlefield.jpg"
+image_caption: ""
 ---
 
 If you read my christmas list, you probably know that I wanted to play BF4 for a while now. I play a lot of FPS, and the battlefield series always interested me from the off. It was the one game I had always missed out on. Especially this iteration, which has just built on the success of its predecessors, updating the graphics, gameplay and most notable introducing big “levolution”. Well it seems someone read my christmas list, and got me the game!

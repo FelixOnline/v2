@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171516-felix-IMG_8109.jpg"
-image_caption: >
-  Maria, the infamous robot from Fritz Lang's Metropolis
-image_attribution: "Agnese Abrusci"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171516-felix-IMG_8109.jpg"
+image_caption: ""
 ---
 
 Robots, the Science Museum’s shiny newly-opened exhibition, is a real treasure trove of delights: featuring over 100 robots models it spans 500 years of humanity's quest to recreate itself in the form of a machine, a process historically shaped by religion, industrial innovation, and popular culture.

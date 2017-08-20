@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152021-ig711-space_invaders.jpg"
-image_caption: >
-  Get the probulators ready...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152021-ig711-space_invaders.jpg"
+image_caption: ""
 ---
 
 Hello Earth-dwellers, Cave Johnson here.

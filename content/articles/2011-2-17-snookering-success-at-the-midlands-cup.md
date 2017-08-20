@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172041-nm1010-snookers.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172041-nm1010-snookers.jpg"
+image_caption: ""
 ---
 
 On the weekend 5th/6th February the ICU Snooker team descended on Coventry for the annual pre-BUCS warm-up; the Midlands Cup Tournament. After an eventful journey in which one player missed the train, the team arrived with high spirits. The 1st team consisted of experienced old heads whereas the 2nd team composed of enthusiastic Freshers and 2nd years who had worked their way into the team.

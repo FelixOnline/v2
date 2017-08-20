@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
+image_caption: ""
 ---
 
 You may notice a story I ran [in the Science section last week](http://felixonline.co.uk/science/1628/study-links-facebook-friends-with-brain-regions/) regarding a study which linked the amount of Facebook friends to the size of an individual’s grey matter. It is interesting to note that there have been many studies which have correlated changing brain structures to internet usage. Although we must not misinterpret correlation as causation in any case, we can discuss the potential implications.

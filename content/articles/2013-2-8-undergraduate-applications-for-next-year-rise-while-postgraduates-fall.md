@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A paper from the College Secretary reveals that Imperial College’s undergraduate application rate has increased on last year against a backdrop of falling applicant rates to UK universities across the board. Postgraduate application numbers, however, are at present lower than last year.

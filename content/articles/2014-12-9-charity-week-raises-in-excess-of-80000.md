@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412091349-ps3110-isoc-cake.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412091349-ps3110-isoc-cake.jpg"
+image_caption: ""
 ---
 
 Charity Week, a fundraising event ran by Imperial College Union Islamic Society (iSoc) earlier this month, managed to raise £83,401.70, breaking all previous records the club held.

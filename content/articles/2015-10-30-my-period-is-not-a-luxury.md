@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301241-ygr12-period-costume.jpg"
-image_caption: >
-  A period is for life, not just for Halloween.
-image_attribution: "shockmymind.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301241-ygr12-period-costume.jpg"
+image_caption: ""
 ---
 
 As a student, the list of items I would define as “luxury” is quite long. Branded chocolate, new razors, shoes without holes in – for all these things there is a feasible, if less appealing, alternative.

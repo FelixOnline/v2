@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080016-tna08-ruggy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080016-tna08-ruggy.jpg"
+image_caption: ""
 ---
 
 After a chequered first term for Imperial College 3rd XV and a great performance resulting in a disappointing draw against King’s Medics three weeks ago the social side of ICURFC wanted to show what they are capable of and bring home the first win this term. A promising squad featuring five new 3rd team players made their way to Wimbledon RFC this Wednesday to face the challenge against St. George’s 2nd XV were a pitch that could have been used as a skiing piste over the last weeks rather than for a game of rugby welcomed them.

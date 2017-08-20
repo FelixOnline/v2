@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132115-felix-img_0322.jpg"
-image_caption: >
-  There were way more girls there, honestly
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132115-felix-img_0322.jpg"
+image_caption: ""
 ---
 
 A barrage of freshers descended on Opal Bar in Embankment on Wednesday for the Royal College of Science Union’s (RCSU) Autumn Ball, where the faculty hosted their first major event of the year. Promising three free drinks, student prices throughout the night and rides across London on a vintage fire engine, the RCSU saw the event quickly become busy from 9pm and maintain unwavering party spirit until the touted end at 3am.

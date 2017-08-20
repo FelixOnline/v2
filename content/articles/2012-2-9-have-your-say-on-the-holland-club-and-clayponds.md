@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The stage has been set for a discussion on the future of both the Holland Club and Clayponds. Next Thursday (February 16) will see Imperial College’s Graduate Students’ Association [host a panel on the potential changes to the status of both the Holland Club and Clayponds](http://www.facebook.com/events/247716935307061/), both without a doubt the most contentious issues affecting both staff and students at Imperial currently. If you have any interest whatsoever in the ongoing situation, then it is crucial you attend.

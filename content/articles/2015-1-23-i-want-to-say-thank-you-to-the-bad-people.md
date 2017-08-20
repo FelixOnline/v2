@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230129-ps3110-dr-evil.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230129-ps3110-dr-evil.jpeg"
+image_caption: ""
 ---
 
 This goes out to all the bad people. This is for the terrorists and the murderers; for those who are violent and bigoted, or ignorant and entitled; for the unscrupulous businessmen and the hypocritical prigs; for the unrepentant criminals and the self-righteous moralisers. To you, I wanna say thank you.

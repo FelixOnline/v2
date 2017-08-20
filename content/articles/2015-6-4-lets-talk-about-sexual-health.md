@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050038-cj914-condoms.jpg"
-image_caption: >
-  Stay safe out there, guys and gals.
-image_attribution: "The Eddystone Trust"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050038-cj914-condoms.jpg"
+image_caption: ""
 ---
 
 This year 65% of sexually active students admitted to having had unprotected sex in the past. 31% of you have apparently been well behaved, while the remaining 4% chose not to say whether they had done it or not.

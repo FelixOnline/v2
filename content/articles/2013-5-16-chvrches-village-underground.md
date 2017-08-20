@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161628-js2310-chvrchesrecover01creditchristinakernohanweb1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161628-js2310-chvrchesrecover01creditchristinakernohanweb1.jpg"
+image_caption: ""
 ---
 
 Fresh from playing the Alexandra Palace with Everything Everything and Two Door Cinema Club the trio Chvrches came to the Village Underground with the weight of expectation lying squarely on their shoulders. They recently won best new non-US band at SXSW and made it into the top 5 of the BBC’s sound of 2013. Little surprise then that the gig sold out in minutes and the queues to get in started an hour before doors opened.

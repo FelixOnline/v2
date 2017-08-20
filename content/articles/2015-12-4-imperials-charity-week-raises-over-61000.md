@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
-image_caption: >
-
-image_attribution: "ISoc"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
+image_caption: ""
 ---
 
 This week it was announced that Imperial College’s Islamic Society (ISoc) have managed to raise £61,648.31 for good causes as part of Charity Week.

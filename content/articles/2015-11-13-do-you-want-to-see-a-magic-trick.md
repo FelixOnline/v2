@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131452-ygr12-derren-brown-011.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131452-ygr12-derren-brown-011.jpg"
+image_caption: ""
 ---
 
 What do you picture when you hear the word ‘magician’? If you think of ‘that guy’ at a party, sloppily doing lame tricks he learnt an hour ago from Youtube, then I’m here to change that. If you imagine a sad man in his thirties doing kids’ parties, filled with self-loathing due to poor life decisions, then I’m here to change that too.

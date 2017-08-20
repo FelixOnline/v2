@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202017-felix-img_6530.jpg"
-image_caption: >
-  Graduates gather outside the Royal Albert Hall
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202017-felix-img_6530.jpg"
+image_caption: ""
 ---
 
 Imperial’s largest ever Commemoration Day took place on Wednesday as 2,200 undergraduates received their degrees in science, engineering and medicine. The ceremonies, watched by around 6,000 friends and family members at the Royal Albert Hall, also marked the first time on stage for [the new Chair of the College’s Court and Council, Eliza Manningham-Buller](http://felixonline.co.uk/news/1507/interview-eliza-manningham-buller/), who congratulated each new graduate.

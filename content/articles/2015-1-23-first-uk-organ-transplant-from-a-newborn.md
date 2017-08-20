@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
-image_caption: >
-  Hammersmith hospital: Two patients received tissues from the donor, a baby girl who died six days after birth
-image_attribution: "Imperial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
+image_caption: ""
 ---
 
 The UK’s first organ donation from a newborn baby has been performed at an Imperial College NHS Trust hospital.

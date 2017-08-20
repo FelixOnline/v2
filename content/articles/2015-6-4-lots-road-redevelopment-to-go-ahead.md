@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
-image_caption: >
-  The project has an estimated completion date of 2019, but the first set of houses will go on sale in the next few weeks
-image_attribution: "The Spaces"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
+image_caption: ""
 ---
 
 Lots Road power station, on the Chelsea waterfront, is to join the likes of Battersea and Bankside as it undergoes redevelopment. The project will add 706 homes and two tower blocks to the site close to the Thames.

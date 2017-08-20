@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The first fencing premiership BUCS tournament was held in Oxford in December, where the home crew, as well as Cambridge, UCL, Bristol and the mighty Imperial crossed swords once again.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181154-felix-superhot2.jpg"
-image_caption: >
-  Punching polygons.
-image_attribution: "SUPERHOT Team"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181154-felix-superhot2.jpg"
+image_caption: ""
 ---
 
 Imagine a game where you are a super assassin, well-versed in the arts of weaponry and hand-to-hand combat. You mow down countless enemies, spraying them down with machine guns, splitting them in half with a well placed katana swipe or just beating them to a pulp, like the good old days. “Wait, why is that different from tons of other games that are on the market?” I hear you cry, dear reader, and I would not disagree with you. This is where the twist and specialty of _SUPERHOT_ comes in: time moves with you. Basically, when you don’t move, time stands still. However, if you even move a finger, the clock starts ticking and all hell breaks loose. This combination of kill all bad guys and the unique time mechanic makes _SUPERHOT_ a really special game.

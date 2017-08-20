@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260327-tna08-1389783_52303175.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260327-tna08-1389783_52303175.jpg"
+image_caption: ""
 ---
 
 It is, by now, almost common knowledge that changes in water temperatures will affect the biodiversity of marine life. Less research has been invested into the topic of how individuals and populations of surviving species will change in response to such developments. A model devised by a collaboration of scientists attempts to answer this question.

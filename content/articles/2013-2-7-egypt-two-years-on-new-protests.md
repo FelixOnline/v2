@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
+image_caption: ""
 ---
 
 January 25th 2013 wasthe second anniversary of the Egyptian protests that led to the fall of the autocratic regime of Hosni Mubarak. Tahrir Square was once again filled with protesters, their anger now directed at the current elected President Mohamed Morsi, and the police who are accused of excessive violence in a series of clashes in recent months. Two years on, Egypt still seems to be on a precipice.

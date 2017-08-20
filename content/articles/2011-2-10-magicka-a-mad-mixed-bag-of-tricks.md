@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102035-ks607-magickam.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102035-ks607-magickam.jpg"
+image_caption: ""
 ---
 
 Ahh, cosplay. There’s nothing I like more than putting on my robe and wizard hat, striding round the Queen’s Lawn and waving about my enormous magical staff, casting spells of such power that mere mortals can only gasp in awe. Then, some killjoy policeman arrests me for public indecency, or something like that.

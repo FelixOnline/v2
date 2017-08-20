@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Researchers from the University of Delaware have developed a new catalyst that may reduce the surplus carbon dioxide in the atmosphere. The proposed nano-porous silver catalyst encourages the conversion of carbon dioxide into carbon monoxide.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
+image_caption: ""
 ---
 
 One of my manifesto points was that there needs to be more non-European study abroad opportunities as part of our undergraduate degrees. I believe this because when you benchmark some Imperial departments against others you will see some have the University of California and the University of Melbourne as partners, while others only have partners inside Europe.

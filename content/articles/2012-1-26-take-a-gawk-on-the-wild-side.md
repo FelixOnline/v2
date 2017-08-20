@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262212-ams111-wildlofe-photographer.jpg"
-image_caption: >
-  Aahh, mate, aah, amte, aaaaahh, maaate, I'm bugging out so bad here
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262212-ams111-wildlofe-photographer.jpg"
+image_caption: ""
 ---
 
 If labs and essay deadlines have so far prevented you from paying a visit to the __Natural History Museum__ and you’re looking for an excuse to get out of the library: forget the dinosaurs, forget the massive blue whale and forget the Kobe earthquake room, because if there’s one exhibition that you actually have to make it to between now and March 11th this is it: _Wildlife Photographer of the Year_.

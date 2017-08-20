@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051153-felix-cow.jpg"
-image_caption: >
-  Dairy cattle are raised in painful conditions.
-image_attribution: "thedodo.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051153-felix-cow.jpg"
+image_caption: ""
 ---
 
 No. If you guessed by reading the title that I was going to say warfare, you are wrong. Poverty? We built that ourselves. Famine? Yet another consequence of capitalism. The Holocaust? Although a stigma that will forever stain the history of mankind, it did not sustain itself for relatively long. Inquisition? Read the previous. What about, say, the food industry? And moreover, the carnivorous food industry?

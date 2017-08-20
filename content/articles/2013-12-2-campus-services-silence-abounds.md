@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 One week further into the confusion over cleaning in halls and Campus Services has yet to reply to the questions sent to them by Felix over two weeks ago, begging the question: Does the department feel any obligation to providing its stakeholders with satisfactory information? We now approach the end of the first term of the academic year, and for some students there is still confusion over their cleaning rotas, and some would still like to see some token of apology from the department in regards to the poor communication that has gotten so out of hand.

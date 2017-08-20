@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
-image_caption: >
-  One thing not being handed out at Imperial Festival was copies of Felix
-image_attribution: "Imperial College"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
+image_caption: ""
 ---
 
 Last weekend, the College played host to 15,000 guests at this year’s Imperial Festival. With alumni events running alongside, the festival seeks to raise Imperial’s profile by dragging its scientists and engineers out of the laboratory to share their research with the public. But this year, one regular campus fixture wasn’t being presented to the ImpFest audience: the student newspaper, Felix.

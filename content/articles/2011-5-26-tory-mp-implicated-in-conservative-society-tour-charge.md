@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105261955-felix-_49091996_-25.jpeg"
-image_caption: >
-  Greg Hands MP
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105261955-felix-_49091996_-25.jpeg"
+image_caption: ""
 ---
 
 Greg Hands, MP for Chelsea and Fulham and parliamentary private secretary to George Osborne, is alleged to have been involved in the prohibited sale of tickets for a tour of the Houses of Parliament by the Conservative Society at Imperial.

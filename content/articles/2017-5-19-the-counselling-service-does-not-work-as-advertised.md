@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705191705-felix-32765504523_a5a54eaecf_o.jpg"
-image_caption: >
-
-image_attribution: "Kevin Simmons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705191705-felix-32765504523_a5a54eaecf_o.jpg"
+image_caption: ""
 ---
 
 Everyone gets stressed at uni at some point. If you don’t, I applaud your Jedi level of inner peace. But for the rest of us mere mortals, it hits at some point. Because it affects everyone, I just assumed that what I was feeling was normal, that my course was always going to be a tough one and it would have its harder moments. For the first year, that was true. I managed the steep learning curve and new social setting with a normal number of bumps in the road. But last summer, and at the start of the winter term, an onlooker would have seen things take a turn for the worse. I, however, didn’t think anything of it for a long time.

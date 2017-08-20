@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505081309-jyg11-the-falling.jpeg"
-image_caption: >
-  Maisie Williams and Florence Pugh in The Falling
-image_attribution: "Carol Morley/Metrodome"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505081309-jyg11-the-falling.jpeg"
+image_caption: ""
 ---
 
 _The Falling_ is written and directed by Carol Morley, whose first feature film was the moving docudrama, _Dreams of a Life_.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211113-ak6309-dsc_5484website.jpg"
-image_caption: >
-  Cut, thrust, parry, riposte...oh wait, there’s two lights. Referee needed
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211113-ak6309-dsc_5484website.jpg"
+image_caption: ""
 ---
 
 The fencing season opened this year at Ethos, with the men’s second team fencing against Surrey University’s first team. After a delayed start, the foilists got things going. Matthew Carney drew first blood with a neat parry-riposte, and continued on to win the bout against the opposition’s left-handed foilist.

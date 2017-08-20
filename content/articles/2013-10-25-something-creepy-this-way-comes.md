@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250155-felix-tv_sleepy-hollow.jpg"
-image_caption: >
-
-image_attribution: "Universal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250155-felix-tv_sleepy-hollow.jpg"
+image_caption: ""
 ---
 
 With Halloween only a week away, ‘tis the season to carve pumpkins and watch something spooky. One new show that fits the bill is Sleepy Hollow, one of the US’s new autumn shows, the first episode of which was shown last week on Universal. Whilst the show isn’t directly related to the film of the same name featuring Johnny Depp, both are based off the folktale written by American author Washington Irving, The Legend of Sleepy Hollow, which narrates the story of the ill-fated Ichabod Crane and his encounter with the Headless Horseman.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
-image_caption: >
-  Robert Wilson in Krapp's Last Tape
-image_attribution: "Lucie Jansch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
+image_caption: ""
 ---
 
 As the __Barbican Centre__’s month-long celebration of Samuel Beckett comes to an end, what better production can see us out than _Krapp’s Last Tape_, a tale of a man looking back on the past, evaluating his actions? There is a palpable sense of excitement in the __Barbican Theatre__, as famed director Robert Wilson is taking on the role, but from the offset, it is clear that things are going to be different with this version.

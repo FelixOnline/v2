@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251332-felix-Screen Shot 2016-11-25 at 13.32.03.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251332-felix-Screen Shot 2016-11-25 at 13.32.03.png"
+image_caption: ""
 ---
 
 If you haven’t already got hooked on a Netflix series then I would recommend Narco’s – a fast-paced, no frills, straight to the point story of Pablo Escobar and his cocaine empire. From the get-go the audience is thrust into the life of the world’s most famous drug trafficker and immersed in the brutality with which he drowned the people of Colombia.

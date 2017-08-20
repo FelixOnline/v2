@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142029-ps3110-screen-shot-2014-11-12-at-21.53.08.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142029-ps3110-screen-shot-2014-11-12-at-21.53.08.png"
+image_caption: ""
 ---
 
 A recent article in _The Guardian _explored the world of student journalism, and the often strained relationship between student journalists and their Universities and Student Unions. One such story took place at Plymouth University last year, where the Editor faced thinly veiled threats from their Union, who would put her degree at risk if she covered a story about cuts to student amenities. When trying to run a story about how University staff had an all expenses paid trip to Miami, she was told by the University’s communications team that they would rather she didn’t print stories which portray the University in a bad light, adding that if she had gotten on better with the University, perhaps she could also have gone to Miami.

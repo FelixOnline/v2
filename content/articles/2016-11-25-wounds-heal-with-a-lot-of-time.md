@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251335-felix-hand-525988_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251335-felix-hand-525988_1280.jpg"
+image_caption: ""
 ---
 
 Since World War I, scientists have noticed how the speed of healing is much slower in older veterans compared to younger ones.  But for an entire century, we had no idea why this was the case, until now.

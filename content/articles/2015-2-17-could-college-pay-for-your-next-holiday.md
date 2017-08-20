@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502171912-ps3110-screen-shot-2015-02-17-at-19.12.38.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502171912-ps3110-screen-shot-2015-02-17-at-19.12.38.png"
+image_caption: ""
 ---
 
 How many people knew there was such a thing as the Imperial Exploration Board? Apparently not that many, as I found out when telling people that I had received their endorsement for a cycling expedition myself and a few friends are planning this summer across Central Asia. And so, I decided to talk to the Chairman of the Board, Dr. Lorraine Craig, to find out more about what the Board does and how others can get involved.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070307-tna08-010.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070307-tna08-010.jpg"
+image_caption: ""
 ---
 
 Wednesday 4th December brought the Ladies 1st Lacrosse team a brilliant win following a 16-4 score finish against the University of Reading.

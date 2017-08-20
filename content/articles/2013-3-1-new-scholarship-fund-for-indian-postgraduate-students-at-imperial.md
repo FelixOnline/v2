@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Indian alumni and Imperial College London are launching a programme of new PhD scholarships for Indian postgraduates. The scholarships will be available to those who have a degree from an Indian institute and are in financial need. The website states that “priority will be given to who have not already completed a degree at a higher education institution outside India.”

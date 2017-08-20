@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291455-tna08-hand-dryer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291455-tna08-hand-dryer.jpg"
+image_caption: ""
 ---
 
 It’s not just the stories making international headlines that are important to Imperial students. As well as giving different viewpoints on current events, Comment showcases any other issues that are significant to your life. Whether you think that the food in the JCR is actually pretty good, or you feel strongly that lab demonstrators don’t get the credit they deserve, there’s always space for an opinion. Whether you think that the Union could be doing something better, or you’re pretty confident that the Student Loans Company has made it their personal mission to make you miserable, we want to know. I personally, am outraged that all the paper towel dispensers in Blackett and Huxley have been replaced with hand dryers over the summer, and will quite happily wax lyrical about this for quite some time. I think big, you see. Students care what other students think, and so why not share your perspectives?

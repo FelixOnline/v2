@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012226-tna08-icdc2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012226-tna08-icdc2.jpg"
+image_caption: ""
 ---
 
 As term really kicks off and we all start getting stuck in our routine, ICDC are coming at you with more projects and talks than you can shake multiple sticks at to get into a creative state of mind.

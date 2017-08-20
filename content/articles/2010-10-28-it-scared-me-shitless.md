@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282035-ks607-Deansol.jpg"
-image_caption: >
-  Pah, easy...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282035-ks607-Deansol.jpg"
+image_caption: ""
 ---
 
 A couple of things you can never forget about a bungy jump: the expression of your co-conspirators’ faces, and the fateful countdown that mount to your eventual plunge.

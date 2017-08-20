@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This Tuesday, it was Imperial’s turn to host the Imperial vs. UCL gaming tournament. The room was packed, so I was expecting fierce fighting from both sides. Instead, I was met with familiar faces at every turn. In fact, about 80% of the room were Imperial students, from what I’ve heard.

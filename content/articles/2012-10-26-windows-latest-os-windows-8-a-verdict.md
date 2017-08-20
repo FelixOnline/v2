@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260322-tna08-windows-8-rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260322-tna08-windows-8-rgb.jpg"
+image_caption: ""
 ---
 
 With the next version of Windows, 8, Microsoft are going completely overhaul the interface, with many people wondering whether ‘the average user’ will be able to adjust to the change (search ‘Dad tries Windows 8’ on YouTube for some examples). The main change implemented is that the traditional desktop is now merely an app inside another interface called ‘Modern UI’ (formerly known as “Metro”, but following a trademark dispute with German Metro AG, Microsoft dropped the name). It’s the same user interface and graphical toolkit currently used by Windows Phone 7 (and soon 8) devices. This is an attempt to unify the ‘face of Windows’ across desktop, mobile, and tablet.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091902-felix-janeseok.jpg"
-image_caption: >
-
-image_attribution: "Jane Seok"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091902-felix-janeseok.jpg"
+image_caption: ""
 ---
 
 Who’s hiding in the trees?

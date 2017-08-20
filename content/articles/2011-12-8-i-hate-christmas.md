@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082203-felix-grinch.jpg"
-image_caption: >
-  He hates Christmas, I hate writing witty captions to please the masses
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082203-felix-grinch.jpg"
+image_caption: ""
 ---
 
 It’s about that time of year again. Bloody Christmas time. You’re probably reading this right now with the most appalled look on your face. I suggest you remove it before someone notices. ‘But why? Why do you hate Christmas?’ You must be asking. Well let me tell you. Because its frickin’ irritating. Irritating as hell.

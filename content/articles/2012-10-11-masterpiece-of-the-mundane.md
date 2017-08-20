@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
+image_caption: ""
 ---
 
 Much has been said derisively of the German sense of humour, but my favourite book review of all time, translated for me by a friend, was of Jonathan Franzen’s 2010 work and appeared in a the German newspaper Süddeutsche Zeitung. The closing passage of it read, simply: “It’d probably be unbearably boring if it wasn’t such a masterpiece”.

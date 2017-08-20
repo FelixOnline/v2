@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140041-tna08-catsmokingweb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140041-tna08-catsmokingweb.jpg"
+image_caption: ""
 ---
 
 Others in the Felix Office will vouch for this. My first words on smoking my allocated e-cigarette were, “this tastes like smoking a dusty egg in a sauna”. In my all too numerous returns to the device I never managed to elucidate a more pithy nor precise description of the experience. As you can probably tell by now, this review will not be positive. Mine came in a red box, which apparently means regular strength, meaning you get the full eggy experience.

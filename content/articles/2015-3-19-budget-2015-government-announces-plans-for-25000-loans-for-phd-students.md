@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192334-cj914-george-osborne.jpg"
-image_caption: >
-  George Osborne and his red box
-image_attribution: "Leon Neal/AFP/Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192334-cj914-george-osborne.jpg"
+image_caption: ""
 ---
 
 The government has revealed plans to offer income-contingent loans of up to £25,000 for PhD and research-based masters students in the latest Budget report, George Osborne’s sixth as Chancellor of the Exchequer.

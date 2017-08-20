@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102191551-ks607-internat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102191551-ks607-internat.jpg"
+image_caption: ""
 ---
 
 Last Friday, 11th of February at 7:00 p.m, the Great Hall of Sherfield Building was packed from Imperial College students, friends, parents and staff. The reason? One of the most entertaining and full of fun event that is organized annually by the Imperial College Overseas Societies Committee; the International Night 2011!

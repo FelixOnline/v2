@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It couldn’t wait until after exams, my split ends were like the multiple-headed monster from Disney’s Hercules. Thus a trip to the hairdressers was to be the scenario of choice one Thursday evening after labs.

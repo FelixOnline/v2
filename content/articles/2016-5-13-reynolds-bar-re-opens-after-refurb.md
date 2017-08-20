@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131050-felix-REYNOLDS.jpg"
-image_caption: >
-
-image_attribution: "Reynolds"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131050-felix-REYNOLDS.jpg"
+image_caption: ""
 ---
 
 Charing Cross Hospital’s only onsite bar has finally been refurbished by the union, after consultation with students.

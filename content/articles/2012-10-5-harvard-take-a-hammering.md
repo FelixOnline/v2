@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051427-felix-556974_10151243526406341_500544924_n.jpg"
-image_caption: >
-  Ably watched by his teammates, Olisa charges on.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051427-felix-556974_10151243526406341_500544924_n.jpg"
+image_caption: ""
 ---
 
 As the ICURFC 1st XV arrived for their first match of tour against Harvard it was clear that things in America were going to be a bit different. We were first informed that we would be playing on an artificial rubber crumb pitch rather than grass, and then that the Harvard team were only willing to play 35 minute halves in the match. To make matters worse, the pitch was marked out with lines that were barely visible and the posts were declared unsafe by the referee minutes before kickoff and moved behind the dead ball line. Despite these setbacks, the team was determined to put in a big performance and a strong start from the Imperial forwards saw a classic IC rolling maul go 22m for second row Chris McGeough to crash over for his first try in over a year. Fly half James Cox then slotted the conversion to take the score to 7-0 on the 5 minute mark.

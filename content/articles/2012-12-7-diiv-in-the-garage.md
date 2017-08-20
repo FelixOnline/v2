@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070340-tna08-diiv---danny-krug.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070340-tna08-diiv---danny-krug.jpg"
+image_caption: ""
 ---
 
 Zachary Cole Smith is the guitarist for lo-fi surf rock outfit Beach Fossils, whose band-members are currently off pursuing their own side-projects. For Smith, his efforts have coalesced into DIIV (said ‘Dive’), with the debut album Oshin coming out earlier this year.

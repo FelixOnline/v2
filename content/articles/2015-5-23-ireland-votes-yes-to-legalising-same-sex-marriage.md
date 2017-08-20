@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
+image_caption: ""
 ---
 
 Ireland has made history as the first country in the world to legalise same-sex marriage by popular vote.

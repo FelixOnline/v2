@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012117-cac111-macbookair_hero_1_print.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012117-cac111-macbookair_hero_1_print.jpg"
+image_caption: ""
 ---
 
 I’m quite ambivalent when it comes to the relative merits of operating systems and the devices they run on. The Mac vs. PC debate has been stumbling along for almost as long as I can remember, and much of what can be said has been said, many times over. Suffering the minor misfortune of having to use Windows, OS X and Linux on a regular basis, it’s hard to have strong opinions when at the end of the day a computer is really just a lump of metal and plastic, and not a philosophical statement, despite what Stephen Fry would have you believe.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080057-tna08-imp-business-signing.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080057-tna08-imp-business-signing.jpg"
+image_caption: ""
 ---
 
 Improving management education is the focus of a new alliance between [Imperial College Business School](http://www3.imperial.ac.uk/business-school) and the [Hero Group in India](http://www.heromotors.com/). The Business school at Imperial will assist BML Munjal University (BMU) in India, to develop its School of Management. The Business School will act as a mentor institution; helping BMU to form, develop and grow its School of Management. The collaboration will focus on both research and education activities. BMU will open to students in July 2014.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151922-felix-1200-1.jpg"
-image_caption: >
-
-image_attribution: "Allstar, Amazon Studios"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151922-felix-1200-1.jpg"
+image_caption: ""
 ---
 
 A young Korean woman arrives at a vast mansion, taking up position as handmaiden to the niece of a wealthy aristocrat. So begins this erotic, psychological thriller, a taut and captivating exploration of deceit, power, and sexuality in Japanese-ruled Korea. The latest film from director Park Chan-Wook, who brought us the uber-violent neo-noir Oldboy, he smashes the ball out of the park once again.

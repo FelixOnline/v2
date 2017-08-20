@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161534-kmw13-201911.3.jpg"
-image_caption: >
-
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161534-kmw13-201911.3.jpg"
+image_caption: ""
 ---
 
 A lot has happened in football over the Christmas holidays. From a position of relative strength Chelsea drew against Southampton and lost to Tottenham to allow Manchester City back into the title race. After the Tottenham defeat Chelsea and Manchester City could in fact only be separated by alphabetical order. Since then, though, Chelsea has opened a two-point gap.

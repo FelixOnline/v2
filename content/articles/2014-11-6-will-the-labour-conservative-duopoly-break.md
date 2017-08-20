@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061846-snb11-nigel-farage.jpg"
-image_caption: >
-  Do all views fall in the middle of the political spectrum?
-image_attribution: "IBTimes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061846-snb11-nigel-farage.jpg"
+image_caption: ""
 ---
 
 One of the most common complaints in politics is that all political parties seem the same. Douglas Carswell has profited from the rise of UKIP by switching alliances from the Conservatives, claiming that the far-right political party supports “fundamental change” in British politics. However, the fact is that extreme political parties have not fared too well in Britain.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102237-csw09-swimming.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102237-csw09-swimming.jpg"
+image_caption: ""
 ---
 
 The Argentinian dance troop came to town preceded by its reputation. Some six years ago, Fuerzabruta re-opened the Roundhouse with an acrobatic extravaganza that left a permanent mark in the minds of so many Londoners as the most amazing show they had ever seen. The group, directed by Diqui James and Alejandro Garcia, combines high-tech light and sound effects with elegant pirouettes to create dashing visual effects.

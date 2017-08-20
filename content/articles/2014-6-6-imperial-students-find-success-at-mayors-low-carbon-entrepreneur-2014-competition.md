@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060333-jal08-dsc_0200-copy.jpg"
-image_caption: >
-  James Winfield (L) and Dominic Jacobson (R) receiving the award from Boris Johnson
-image_attribution: "Joe Letts / Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060333-jal08-dsc_0200-copy.jpg"
+image_caption: ""
 ---
 
 On Wednesday, Imperial students James Winfield and Dominic Jacobson won the Mayor of London’s Low Carbon Entrepreneur 2014 award. Sharing the prize money with SolarBox (created by two students from LSE), Winfield and Jacobson’s idea, called Crowd Power Plant impressed the judges enough to win £15,000 in prize money. The team was one of four Imperial teams (Blocks, Light-Fi, the Energy Defenders and Crowd Power Plant) to make the shortlist, along with five other teams that were also selected from hundreds of carbon-cutting entries.

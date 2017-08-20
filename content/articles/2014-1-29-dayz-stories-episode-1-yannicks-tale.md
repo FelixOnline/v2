@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401291643-me1711-games_dayz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401291643-me1711-games_dayz.jpg"
+image_caption: ""
 ---
 
 I woke up to find myself cold and thirsty on beach in chernarus. All I had on me was a the clothes I was wearing and a flashlight. Time to survive the Zombie apocalypse. I saw immediately a town sign which said Камышово which, I knew from my limited Russian, was Kamyshovo. However my knowledge of my location did not help that much, and therefore in dire of need of water I decided to loot the nearby abandoned houses. As I made my way through the wreckage a glint on the floor caught my eye. A compass! Now I could actually get somewhere. My tired and thirsty mind vaguely remembered that due west of my position there was the big town Electro, where I new that there were several supermarkets which must have some kind of food and drink.

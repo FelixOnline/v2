@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
-image_caption: >
-
-image_attribution: "As the temperature soared, the heat was on to make use of it"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
+image_caption: ""
 ---
 
 Ever looked at the squandered energy shimmering off hundreds of idling, traffic-jammed cars and wondered, “couldn’t we do something with that?”

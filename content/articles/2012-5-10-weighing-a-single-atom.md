@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A mass sensor has been developed by a group of Spanish scientists, lead by Julien Chaste from the Catalan Institute of Nanotechnology, capable of weighing individual molecules, atoms, and even protons.

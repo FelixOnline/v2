@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
+image_caption: ""
 ---
 
 The Imperial College Business School has been selected as the lead academic partner for Microsoft's Innovation Outreach Programme (IOP), following an agreement which came to light during a Global Investment Conference held by the Prime Minister. The role will make Imperial's innovation, management, technology and engineering qualities available to the IOP, of which a range of multinational companies are members.

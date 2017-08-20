@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262016-felix-gas_plasma_ball_multicoloured_blue_red_glowing_black_background_1024_x_768.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262016-felix-gas_plasma_ball_multicoloured_blue_red_glowing_black_background_1024_x_768.jpg"
+image_caption: ""
 ---
 
 Electrons are almost perfect spheres, [new research published in Nature](http://www.nature.com/nature/journal/v473/n7348/full/nature10104.html) this week has reported. Scientists here at Imperial have made the most accurate measurement yet of the size of an electron, and discovered that it is only 0.000000000000000000000000001 cm away from being perfectly round.

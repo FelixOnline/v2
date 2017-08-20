@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061856-cj914-37553d7ff625dc9134f141ac7f8d84fb.jpeg"
-image_caption: >
-  Barack Obama faces a tough final two years in power
-image_attribution: "Saul Loeb/AFP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061856-cj914-37553d7ff625dc9134f141ac7f8d84fb.jpeg"
+image_caption: ""
 ---
 
 On Tuesday night the Republicans took a majority in the Senate in the mid-term elections in the United States. This, along with their strengthening majority in the House of Representatives, means that the Republican party now has control over both houses for the first time since 2006. The results will come as a hammer blow to Barack Obama, who now faces an uphill battle to pass any legislation, including the budget, through Capitol Hill.

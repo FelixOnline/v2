@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
+image_caption: ""
 ---
 
 Imperial College’s virtual learning environment (VLE) is set to undergo an overhaul in time for next September, following a two year process to determine a successor for the College’s current VLE.

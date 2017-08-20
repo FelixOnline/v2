@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282136-ks607-somefoot.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282136-ks607-somefoot.jpg"
+image_caption: ""
 ---
 
 Picture the scene: despite a good performance from Birmingham, Arsenal grind out a 3-1 result. I collect £45 from a bet, Arsenal collect their first trophy since 2005 and play the rest of the season free from pressure, knocking Barcelona out of the Champion’s League and bringing the title race into the last day of the season, all because of the confidence created by a simple cup win.

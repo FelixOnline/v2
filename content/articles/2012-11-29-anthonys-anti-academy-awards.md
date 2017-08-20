@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Sir Anthony Hopkins, winner of the Academy Award for Best Actor for his portrayal of Hannibal Lector in The Silence of the Lambs, has labeled the Academy Awards system ‘disgusting’.

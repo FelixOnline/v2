@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012303-tna08-the-hobbit-an-unexpected-journey-the-hobbit-27868476-1024-768.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012303-tna08-the-hobbit-an-unexpected-journey-the-hobbit-27868476-1024-768.jpg"
+image_caption: ""
 ---
 
 13 December 2012. This is a date that should be imprinted into everyone’s mind – from those who know that by divine law, Olórin is not allowed to use his magic directly against orcs to those who only know him as Gandalf.

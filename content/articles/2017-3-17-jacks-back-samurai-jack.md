@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171704-felix-31.jpg"
-image_caption: >
-
-image_attribution: "Cartoon Network - Adult Swim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171704-felix-31.jpg"
+image_caption: ""
 ---
 
 After an 11 year hiatus, cult-classic Samurai Jack makes a long awaited return to our screens. Wandering samurai Jack is still locked in an uphill battle against the demon Aku, and still stuck in a hellish future spawned from him. Genndy Tartakovsky’s aesthetic delight begins in media res, as had become a staple of the show’s original run. An opening monologue helpfully informs us that 50 years have passed since Jack was thrown into an unfamiliar future, and in that time he has not aged. Not physically, at least.

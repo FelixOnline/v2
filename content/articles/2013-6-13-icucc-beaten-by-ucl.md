@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132322-tna08-eng.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132322-tna08-eng.jpg"
+image_caption: ""
 ---
 
 With his 100% winning record as skipper on the line, Vignesh Venkateswaran once again took up the reins of captaincy as he led the ICUCC 1st XI to face off against arch-rivals UCL, in a nail-biting London derby.

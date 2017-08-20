@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112118-cj914-downton-abbey-cmyk.jpg"
-image_caption: >
-
-image_attribution: "pbs.org"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112118-cj914-downton-abbey-cmyk.jpg"
+image_caption: ""
 ---
 
 Now in its fifth season, the internationally successful British series Downton Abbey is set to return to our screens for another Christmas episode. The quality of the show has been varying over the past couple of years, with the most recent seasons not quite living up to the high standards set by the earlier years. And yet Lord Julian Fellowes gives his audience enough intrigue and character development to keep everything going nicely. There is a reason why this show has become the most widely watched television drama in the world. With this Christmas episode the show has the tough challenge of having to tie up loose ends set up by the preceding eight episodes of season 5. So what are the plot points worth looking forward to the most? Of course, watch out for spoilers – don’t read unless you’ve seen all the episodes on offer.

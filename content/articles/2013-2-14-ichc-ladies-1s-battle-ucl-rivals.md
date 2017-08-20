@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ready for a re-match with long-time rivals UCL, we got to Harlington early, and had a good strategy session with Coach Oli, only slightly distracted by the un-named players who wouldn’t keep their shirts on. Ears ringing with assertions that we should play defensively and win with superior numbers behind the ball, we had a good warm up and prepared to play running into strong wind.

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After months of delay Campus services have finally given halls residents a comprehensive guide to the cleaning provisions provided in halls. The division has recently sent students a booklet containing information about the services the cleaners will provide in different areas of the building, along with a list of equippment available for students to use. The guide itself also provides tips on how to keep bedrooms clean.

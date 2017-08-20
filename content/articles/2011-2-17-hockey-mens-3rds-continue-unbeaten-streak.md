@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172037-nm1010-hockeyho.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172037-nm1010-hockeyho.jpg"
+image_caption: ""
 ---
 
 The mighty Men’s 3rds continued their fine form on and off the pitch by laying down a marker to their ULU rivals. Designer V scored an early brace before a potential comeback by Kings was snuffed out by a counter attack fortuitously finished off by B Tablet.

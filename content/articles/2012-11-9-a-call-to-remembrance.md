@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091155-tna08-poppy3.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091155-tna08-poppy3.jpeg"
+image_caption: ""
 ---
 
 Anybody who has ever seen The History Boys, whether on stage or on screen, will remember the moment when Irwin, that world-wise and world-weary teacher, turns round to his pupils observing a monument to fallen soldiers and says: “All this mourning has veiled the truth. Because you should realise... there’s no better way of forgetting something than by commemorating it.” But whilst I’m a huge fan of Alan Bennett’s play otherwise, I couldn’t disagree more with this statement. Moreover, it saddens me that so many people choose neither to mourn, nor commemorate, on what I see as one of the most important dates in our calendar: Remembrance Day.

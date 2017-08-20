@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104210857-felix-baby-in-womb.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104210857-felix-baby-in-womb.jpeg"
+image_caption: ""
 ---
 
 New Imperial research shows newly born babies have highly developed “daydreaming” brain networks.

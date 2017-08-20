@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Before anyone builds up a mental image of cockney miners drinking pints of bitter, let me set out a few facts. Whilst [Bethnal Green Working Men’s Club](http://www.workersplaytime.net/) at one point probably lived up to its name, those in charge now clearly don’t care for preserving history. Men in overalls and bingo nights have been replaced by perverse shows and barmen transvestites.

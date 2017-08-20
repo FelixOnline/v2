@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022011-ks607-machete.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022011-ks607-machete.jpg"
+image_caption: ""
 ---
 
 If you can remember back as far as 2007, you may recall the film called “[Grindhouse](http://www.imdb.com/title/tt0462322/),” an attempt made by Robert Rodriguez and Quentin Tarantino to make the idea of a double feature film more appealing. You may also recall that there was a fake trailer made to fill the gap between the two separate films. That trailer was “[Machete](http://www.youtube.com/watch?v=hIxcVzwLR1k)” and what was going to remain as a “fake” preview became so popular that now, in the year 2010, we finally get the full-length feature film.

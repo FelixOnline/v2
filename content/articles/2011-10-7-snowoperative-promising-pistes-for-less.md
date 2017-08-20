@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110070207-sjw209-joesnowboarding.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110070207-sjw209-joesnowboarding.jpg"
+image_caption: ""
 ---
 
 In this ‘age of austerity’ skiing and snowboarding can still remain affordable for students. Tough times call for tough measures. So now, Snowsports clubs from across the land of London have come together to bring snowy fun to the masses (i.e. you) at good ol’, pre-tuition-fee-scandal, student prices! While you were busy working on those tans that the days of revision and exams denied you, your lovely Snowsports committee were looking out for your winter needs.

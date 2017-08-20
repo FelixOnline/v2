@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181541-felix-Antonio Rull.jpg"
-image_caption: >
-
-image_attribution: "Antonio Rull"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181541-felix-Antonio Rull.jpg"
+image_caption: ""
 ---
 
 For a form of music so deeply rooted in a culture of self-certainty and dazzling bravado, you might not expect artists of the genre to be tackling sensitive issues relating to isolation, depression, violence and substance abuse. This however, is exactly what we’ve seen take place with fresh new artists championing the cause to give these issues a well-deserved place in the spotlight.

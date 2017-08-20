@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The ailments that afflict UK universities are well documented. A rapid increase in the number of students wishing to go to university, combined with declining government funding has left our higher education institutions short of cash and a generation of young people denied the opportunity to study at a higher level.

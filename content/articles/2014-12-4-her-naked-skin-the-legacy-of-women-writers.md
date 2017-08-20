@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042015-cj914-her-naked-skin-1.jpg"
-image_caption: >
-  Charlie Bate, Rebecca Lee, Amber James, Alice Winslow, Lily Sacofsky, Elaine Fellos, and Emily-Celin
-image_attribution: "Clive Barda"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042015-cj914-her-naked-skin-1.jpg"
+image_caption: ""
 ---
 
 In 1613, Elizabeth Tanfield Cary published _The Tragedy of Mariam, the Fair Queen of Jewry_. Taking its cue from Roman drama, it is a classic example of a Jacobean revenge drama, a tale of love, betrayal and murder. The play centres around Mariam, second wife of Herod the Great; at the beginning of the piece, Mariam believes her husband is dead, killed at the hand of Octavian. However, Herod returns, and his sister, Salome, manages to convince him that Mariam has been unfaithful in his absence. As punishment, Mariam is executed. What makes _The Tragedy of Mariam_ special, unique even, is that it was the first play written by a woman.

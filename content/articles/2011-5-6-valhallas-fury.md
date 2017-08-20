@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
-image_caption: >
-  Odin never regretted trading his eye for wisdom, look at his bitchin’ patch!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
+image_caption: ""
 ---
 
 Now that Joss Whedon’s The Avengers is official, it’s about time we met some of the new Marvel superheroes. First up is Thor, the Norse God of Thunder who wields his trademark hammer to fight evil. Unlike the many superheroes we’ve seen who originate from Earth, Thor (Chris Hemsworth) is from a wholly different world, and has a lot of background information that needs to be explained. Fortunately director, Kenneth Branagh, is not afraid to jump straight in here, and show the magnificently designed universe of Asgard. We see Thor’s father Odin (Anthony Hopkins) the ruler of Asgard, his brother Loki (Tom Hiddleston) and some lavish gold-painted set that truly raises the bar on what is now possible with modern day computer graphics.

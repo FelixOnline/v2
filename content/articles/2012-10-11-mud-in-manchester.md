@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
+image_caption: ""
 ---
 
 After a successful Fresher’s Fair and first run (with a record turnout of 80) Cross Country and Athletics club travelled up to Manchester for our first race of the year. Expecting cold temperatures, mist and rain we were surprised to find ourselves faced with a lovely sunny day!

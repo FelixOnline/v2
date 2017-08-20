@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Looking back with the aged eyes of a fourth year, I can reflect on my experiences here and divise a pattern, common to all who pass through these halls. As a child, food was just food. Food was also delicious. In university, food is still delicious but it is suddenly so much more complicated. For the first time in my life, I am responsible for my own sustenance. With a few mistakes made along the way, I am somehow still alive. There seem to be several distinct stages that a student will pass through during their time here.

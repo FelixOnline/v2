@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061928-cj914-js50045375.jpg"
-image_caption: >
-  We won't know until December if Brendan Rodgers' Champions League gamble pays off
-image_attribution: "Colin Lane"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061928-cj914-js50045375.jpg"
+image_caption: ""
 ---
 
 In the Champions League Arsenal blew a 3-0 lead to only draw against Anderlecht at the Emirates. Liverpool’s game at Real Madrid was the source of much discussion, as manager Brendan Rodgers opted to field a much changed eleven against the Galacticos. The Reds lost 1-0.

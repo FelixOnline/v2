@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Cut Copy stated on the standout track of their previous album, “Blink and you’ll miss a revolution”. The one and a half years that have passed since then are, in the big scheme of things, a blink. The Australian synthpop quartet now return with their fourth album Free Your Mind, which whilst not quite a revolution, is certainly a revelation. Bad puns aside, Free Your Mind will take you a on a nostalgic journey to late 80s acid-house.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181452-felix-abstract-19141_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181452-felix-abstract-19141_1920.jpg"
+image_caption: ""
 ---
 
 Colour is an illusion. When we look at any object, likely the first thing we notice about it is its colour. Colours are incredibly important to our understanding of the world, and we use them all the time in art, film, photography, and in science. Despite all this however, it is a fact that colours do not exist in the external world. Colours are not an intrinsic property of any material, rather they are the representation that our minds produce of the light given off by any object. They do not exist outside of our minds and are simply our interpretation of a certain range of the electromagnetic spectrum; as such, it is impossible to detect or measure how you, or in fact any other person, experiences any colour.

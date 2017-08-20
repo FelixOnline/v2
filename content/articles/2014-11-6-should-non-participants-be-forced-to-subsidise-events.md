@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102232-ps3110-boat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102232-ps3110-boat.jpg"
+image_caption: ""
 ---
 
 Oh how trendy it is to decry the College for their financial decisions! Mind you, short of stating parallels with ‘Butcher of the Somme’, we can settle for glorifying an ambiguous term such as ‘student experience’ – nails in the coffin, I tell you! But do we try to view this topic from a rational perspective? I’m afraid the morality fever has permeated the campus a little too far for that – let’s hope I’m mistaken.

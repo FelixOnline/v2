@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206150818-mc4509-hub.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206150818-mc4509-hub.jpg"
+image_caption: ""
 ---
 
 As the academic year draws to a close, final projects are handed in, and the last few exams are sat, it’s only natural to reflect on the year gone by. Most of us have clocked up more library hours than we care to remember and spent too many nights in Metric that we wish we remembered more of. We’ve all made a new friend, learnt something new and had a new experience. As Imperial students, not only do we grapple with some of the most academically challenging university courses in the UK, but collectively, we also find time to run over 300 different clubs and societies ranging from IC Rugby Club to DramSoc to CheeseSoc. As if this point needs restating, but contrary to what your academic tutor might tell you, university is about much more than just getting your degree.

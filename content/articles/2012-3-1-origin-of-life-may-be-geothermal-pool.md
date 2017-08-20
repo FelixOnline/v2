@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The origin of life on Earth is one of the most compelling questions in science today. Recently, hydrothermal vents on the ocean floor have been cited as potential settings for this event. However, the _Proceedings of the National Academy of Sciences_ has published a study led by Armen Mulkidjanian from the University of Osnabrück, Germany, arguing that the first life arose in pools of condensed vapour from geothermal vents on land.

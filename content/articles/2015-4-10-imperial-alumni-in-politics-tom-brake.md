@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201504102054-jr2514-tombrakepicture.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201504102054-jr2514-tombrakepicture.jpg"
+image_caption: ""
 ---
 
 Tom Brake has been a MP for Carshalton and Wallington since 1997. In this parliament he has served as the Deputy Leader of the House of Commons and assistant whip for the Liberal Democrats. Tom graduated from Imperial in 1983 and recently returned to campus in an event hosted by the Imperial Liberal Democrats.

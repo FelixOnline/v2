@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150234-tna08-tedxlse_-andrew-schoben-1.jpg"
-image_caption: >
-
-image_attribution: "TEDxLSE"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150234-tna08-tedxlse_-andrew-schoben-1.jpg"
+image_caption: ""
 ---
 
 Last Friday saw only the second ever independently organised TED event at the London School of Economics. The day promised talks, performances and workshops selected to encourage us to ‘Redefine our Definition’, and it certainly delivered.

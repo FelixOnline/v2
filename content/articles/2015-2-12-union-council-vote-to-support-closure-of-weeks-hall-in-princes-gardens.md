@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502152311-ps3110-weeks.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502152311-ps3110-weeks.jpg"
+image_caption: ""
 ---
 
 Union Council voted this week to support the closure of Weeks hall in order to transform it into space that could be used for childcare provisions for academics.

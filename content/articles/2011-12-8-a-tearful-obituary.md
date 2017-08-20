@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
-image_caption: >
-  The band thought it was time to take an indefinitely extended nap
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
+image_caption: ""
 ---
 
 Formed in 2003, __Pure Reason Revolution__ have since released three albums, supported bands such as __Mew__, __Placebo__, and __Porcupine Tree__ and have received critical acclaim. However they have only ever attracted a small cult following, so this gig marks the end of 8 years of what guitarist, Jamie Willcox, described after as “a labour of love”. Maybe the mix of new progressive rock and electro is too much for the general public.

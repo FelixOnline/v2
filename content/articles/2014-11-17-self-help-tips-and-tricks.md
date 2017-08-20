@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411171820-ps3110-writing-a-list-1024x692.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411171820-ps3110-writing-a-list-1024x692.jpg"
+image_caption: ""
 ---
 
 Now that we’ve gone through some kinds of mental illnesses, it’s time we talk about how to deal with them.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012042-pk1811-mark-pitts-1024x840.jpg"
-image_caption: >
-  Tuition Cheese – Mark Pitts-Tucker shares his cheese-based experiences
-image_attribution: "Davidstow Cheddar"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012042-pk1811-mark-pitts-1024x840.jpg"
+image_caption: ""
 ---
 
 __A: You are the cheese grader for Cathedral City. What does Cathedral City Cheese have different from other cheese brands?__

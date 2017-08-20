@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Beneath the differences between Wittgenstein’s Tractatus-Logico Philosophicus and his Philosophical Investigations there is a more fundamental continuity between the texts. This article relies heavily on two books, Alain Badiou’s Wittgenstein’s Anti-Philosophy and Saul Kripke’s On Rules and Private Languages.

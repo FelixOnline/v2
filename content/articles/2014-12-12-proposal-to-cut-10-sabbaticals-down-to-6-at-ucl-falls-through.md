@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412121247-ps3110-gordon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412121247-ps3110-gordon.jpg"
+image_caption: ""
 ---
 
 UCL Union has voted to not reduce the number of sabbatical officers in a close-fought debate at a General Assembly on Tuesday. The motion, which was voted for by a simple majority of students, failed to pass as it did not reach the 75% majority necessary to modify UCLU’s governing documents.

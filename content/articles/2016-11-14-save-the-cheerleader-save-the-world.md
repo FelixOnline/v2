@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611141424-felix-Felix pic - cheerleading.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611141424-felix-Felix pic - cheerleading.jpg"
+image_caption: ""
 ---
 
 Imperial College Titans are the university’s cheerleading team. The club is entering its 6th year of competition, with silver medals under our belt from last year’s nationals, and we need your support to go for gold.

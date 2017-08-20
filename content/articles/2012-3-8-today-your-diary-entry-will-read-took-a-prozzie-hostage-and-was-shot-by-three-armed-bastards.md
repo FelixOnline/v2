@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082131-ams111-a2a.jpg"
-image_caption: >
-  Fire up the quattro
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082131-ams111-a2a.jpg"
+image_caption: ""
 ---
 
 Alex Drake (the smoking hot Keeley Hawes) is a trained police psychologist and negotiator who has recently been researching the case of Sam Tyler, an officer who claimed to have been sent back to 1973 after being hit by a car in 2006.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091819-ps3110-businesschool.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091819-ps3110-businesschool.jpg"
+image_caption: ""
 ---
 
 I’ve now spent four years studying as an undergraduate at Imperial. That feels like a long time – I don’t really remember the anxious teenager who arrived here in 2011, who was unsure of how to organise a weekly shop and do the laundry. I seem to have regressed in my organisation of chores, as my life has filled up with report writing, project work and the whole ‘clubs and societies’ thing on which I sometimes spend more time than my degree.

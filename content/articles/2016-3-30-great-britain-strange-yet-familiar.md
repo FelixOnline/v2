@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
-image_caption: >
-  An old man blows bubbles in London, 1953.
-image_attribution: "Cas Oorthuys, 1953."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603301649-jc7413-10. Strange and Familiar. Cas Oorthuys.jpg"
+image_caption: ""
 ---
 
 It is often said that familiarity breeds contempt. While that may not be true in life all the time, in photography at least, introducing a new observer to a tired scene can definitely produce some fresh perspectives. It is with this notion that British photographer Martin Parr curates _Strange and Familiar_, a photography exhibition of British subjects by foreign photographers. Known for his work scrutinising all manner of British clichés, Parr now turns his attention to what Britain might look like to an outsider.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220301-tna08-sushii.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220301-tna08-sushii.jpg"
+image_caption: ""
 ---
 
 Think vegetarian food is boring? Think again! VegSoc, Imperial’s Vegetarian Society was created five years ago to celebrate how amazing and diverse vegetarian cooking can be. We have regular events and always aim to do something unique, exciting and internationally inspired from hands-on vegan sushi rolling to American vegan pumpkin pie night.

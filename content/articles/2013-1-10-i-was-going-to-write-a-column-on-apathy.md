@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102257-tna08-moneydegree.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102257-tna08-moneydegree.jpg"
+image_caption: ""
 ---
 
 Sitting at my desk, slaving over acres and acres of lecture slides, I hear the familiar two-tone emerging from my laptop. An email has arrived. I hurry to check it, eager to escape the dull monotony of work. ‘Dear Student, Please note that SOLE is open for evaluating...’ Aaargh! Delete the email, and continue working...

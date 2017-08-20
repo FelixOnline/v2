@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101342-felix-1819_LOW03_COLORS.jpg"
-image_caption: >
-
-image_attribution: "Image Comics"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101342-felix-1819_LOW03_COLORS.jpg"
+image_caption: ""
 ---
 
 "Life without art is not worth living”

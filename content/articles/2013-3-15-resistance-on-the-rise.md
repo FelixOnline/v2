@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150102-tna08-expat-health-insurance-antibiotic-pills1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150102-tna08-expat-health-insurance-antibiotic-pills1.jpg"
+image_caption: ""
 ---
 
 As any good Imperial student knows antibiotic resistant bacteria are a growing threat to human health. The threat has been heightened once again by a recent report produced by the government’s chief medical officer, calling the problem a “ticking timebomb”.

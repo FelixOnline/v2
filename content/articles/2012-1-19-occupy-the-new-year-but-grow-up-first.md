@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192321-felix-occupy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192321-felix-occupy.jpg"
+image_caption: ""
 ---
 
 _Revolution! With its impassioned rhetoric and gritty anger the Occupy movement is intent on overhauling democracy as we know it. Bitter, disaffected people around the world are answering Occupy’s call, and governments are beginning to pay attention to the voice of the disillusioned masses!

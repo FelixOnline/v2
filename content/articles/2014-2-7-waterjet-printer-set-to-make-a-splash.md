@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ‘Disappearing ink’ generally conjures up images of spies and secret messages. Until now, attempts to create a disappearing ink have been expensive (and sometimes toxic), with the results appearing rather faint on the page. But researchers from China have come up with a solution that uses nothing but plain old water.

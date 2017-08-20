@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072319-felix-josh1.jpg"
-image_caption: >
-  XVI rolling deep
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072319-felix-josh1.jpg"
+image_caption: ""
 ---
 
 __Hey Josh, how are you doing?__

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611141417-felix-Caoilfhionn Dunne in The Nest at the Young Vic. Photo by David Sandison. (2).jpg"
-image_caption: >
-
-image_attribution: "David Sandison"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611141417-felix-Caoilfhionn Dunne in The Nest at the Young Vic. Photo by David Sandison. (2).jpg"
+image_caption: ""
 ---
 
 Having just read _We Need to Talk About Kevin_ I seated myself in the packed Young Vic theatre with considerable foreboding. All I knew of _The Nest_, Franz Xaver Kroetz’ parable with an ecological warning, was that it involved a great tragedy becoming two young parents. I quickly realised that my assumptions had been partly wrong, unlike Lionel Shirver’s portrait of a psychopath, there is no evil child here, or at least not an ostensible one, instead the demon lurks in poverty and the exploitation of labour.

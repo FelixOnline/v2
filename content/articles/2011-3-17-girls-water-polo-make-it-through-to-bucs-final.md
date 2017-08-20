@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Sunday the Imperial girls’ water polo team deservedly qualified for the BUCS trophy final after playing incredibly well throughout the season. They played a gruelling three consecutive matches and impressed in all of them. Initially the girls were down a couple of goals in their first match, and their second, but their determination and team-work brought them back to win their matches 9-5 against UWIC, 8-3 against Warwick and 13-4 against Exeter. By the end of the day it was clear that IC girls were a formidable force!

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132347-tna08-coral.jpg"
-image_caption: >
-  A fishy free-for-all at the O.K. Corral
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132347-tna08-coral.jpg"
+image_caption: ""
 ---
 
 Coral reefs are one of the wonders of the marine world: vast underwater structures supporting a large and diverse ecosystem of marine species. It’s surprising then that until recently we knew very little about exactly how they form.

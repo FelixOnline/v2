@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041804-ks607-cezanne.jpg"
-image_caption: >
-  'Man with a pipe'
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041804-ks607-cezanne.jpg"
+image_caption: ""
 ---
 
 Best known for his instantly recognisable still lifes, [the Courtauld’s latest exhibition](http://www.courtauld.ac.uk/gallery/exhibitions/2010/cezanne/events.shtml) instead focuses on Cézanne’s depictions of people at play. His models were peasant farmers from his own estate, about whom the exhibition provides some intriguing snippets of information. They are pictured smoking and playing card games together, but Cézanne endows them with a gravity and concentration of purpose totally unlike the depictions of the ‘immoral’ behaviours of peasants usual at this time (a second room houses many examples of such works from the 16th and 17th centuries). Cézanne himself said, “I love above all else the appearance of people who have grown old without breaking with old customs”. His rough brush stokes and strong lines lend the peasants a rugged, stoic air and there is a stillness similar to that of his still lifes suggesting the timelessness of the scene. The mix of colours blended carefully to make each block of colour are beautiful, although the compositions sometimes appear a little off balance.

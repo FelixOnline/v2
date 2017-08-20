@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021646-felix-5139407571_176d0729e6_o.jpg"
-image_caption: >
-
-image_attribution: "justgrimes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021646-felix-5139407571_176d0729e6_o.jpg"
+image_caption: ""
 ---
 
 This piece aims to break down the main party manifestos and summarise a few key policies. This is by no means a full and in-depth analysis of each party. Mainly because the manifestos are long and complex, and it’s exam season. [Insert tinfoil hat theory that the timing of the election coincides with the time when young voters are away from their constituencies/too busy to fully engage]

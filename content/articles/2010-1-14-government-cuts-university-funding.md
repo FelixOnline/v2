@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
+image_caption: ""
 ---
 
 Lord Mandelson, Secretary of State for Business, Innovation and Skills has announced a £398 million budget cut for UK universities for the 2010/2011 financial year. The prominent Lord has also asked universities to protect the quality of, and access to, higher education.

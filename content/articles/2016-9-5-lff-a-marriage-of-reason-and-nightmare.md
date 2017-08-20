@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201609052240-ff712-201603181155-felix-6.0.0 (1).jpg"
-image_caption: >
-  Tom Hiddleston as the slippery Dr Laing, luxuriating in his brutalist high-rise
-image_attribution: "Allstar/High-Rise PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201609052240-ff712-201603181155-felix-6.0.0 (1).jpg"
+image_caption: ""
 ---
 
 _High-Rise_ is the kind of film throughout the majority of which you don’t know whether to laugh or cry. Most dystopian films can be tough to stomach at the best of times – surely half the point of cinema is to escape into a world that’s not quite as screwed up as this one is? – but there are those that add enough humour to make it all go down a bit more sweetly. While some of these films, like Terry Gilliam’s 1985 masterpiece _Brazil_, go down a slightly more light-hearted (but still ultimately soul-crushing) slapstick route, _High-Rise_ achieves this through a much more _Clockwork Orange_-based approach: acts of gasp-inducing depravity and violence are played out in such a ridiculous manner that they pile up, eventually intertwining into a web of grisly hilarity.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201042-felix-20160519_163334.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201042-felix-20160519_163334.jpg"
+image_caption: ""
 ---
 
 On Monday, Imperial President, Alice Gast,  and Provost, James Stirling, sent an email to all staff and students, encouraging us to vote and reminding us of their stance on the EU.

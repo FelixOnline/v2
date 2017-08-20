@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022242-sjw209-ponieslad.png"
-image_caption: >
-  A still from the musical number ‘At the Gala’ from the episode ‘Best Night Ever’
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022242-sjw209-ponieslad.png"
+image_caption: ""
 ---
 
 Half way through its second season, Felix has yet to review [_My Little Pony: Friendship is Magic_](http://www.youtube.com/watch?v=QmJvHILyeOo). Shame. The oddly popular TV series based on the line of Hasbro toys has gained immense popularity since it debuted in 2010, spawning an entire subculture of fans older than the target demographic, known as Bronies and Pega-sisters.

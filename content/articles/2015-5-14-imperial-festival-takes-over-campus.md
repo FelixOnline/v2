@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
-image_caption: >
-  The Band of the Household Cavalry opened the Festival at 12PM on Saturday, with a fanfare on horseback and marching band
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505142324-cj914-imperial_festival_by_john_cairns_9.5.15-30-copy.jpg"
+image_caption: ""
 ---
 
 Campus was swarmed by 15,000 visitors last weekend as the fourth annual Imperial Festival took place. Hosted by Imperial College London, the festival is a celebration of all things science, technology and arts, featuring interactive exhibits, workshops, talks, tours and performances.

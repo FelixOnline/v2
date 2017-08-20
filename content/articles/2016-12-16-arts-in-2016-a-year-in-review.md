@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161506-felix-14656329_10154047514611365_8841028665040272408_n.jpg"
-image_caption: >
-
-image_attribution: "Clive Barda 2016"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161506-felix-14656329_10154047514611365_8841028665040272408_n.jpg"
+image_caption: ""
 ---
 
 ## Ezra  Kitson

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch. No concrete details on the wearable device are known as of yet, but the sources across the netscape indicate that it could build on already established partnerships with HTC, Asus, LG and others.

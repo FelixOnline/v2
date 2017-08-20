@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A group of police officers accused of attacking former employee of Imperial College and terrorist suspect Babar Ahmad appeared in court last month. Police Constables Mark Jones, 43, Roderick James-Bowen, 40, Nigel Cowley, 33, and Detective Constable John Donohue, 36, appeared at City of Westminster Magistrates’ Court, intending to plead not guilty. The case has been committed to Southwark Crown Court for October 29th.

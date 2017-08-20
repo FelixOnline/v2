@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College was visited last week by US Energy Secretary Ernest Moniz. In a talk on Friday, January 17, at the Grantham Institute for Climate Change Dr Moniz outlined the US government’s current energy policy and its plans for achieving a low carbon future.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
-image_caption: >
-
-image_attribution: "Neil Conway"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
+image_caption: ""
 ---
 
 An ever growing body of evidence is suggesting that depression,  and other forms of mental illness, can be linked with physical conditions like bowel and skin diseases. While it’s clear that mental disorders are associated with a higher incidence of physical conditions, how generalized (over a range of physical health outcomes) these associations are is far less clear.

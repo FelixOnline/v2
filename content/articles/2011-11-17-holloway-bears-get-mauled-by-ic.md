@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172301-felix-379139_10150351565334094_502249093_8258203_1261507787_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172301-felix-379139_10150351565334094_502249093_8258203_1261507787_n.jpg"
+image_caption: ""
 ---
 
 The Imperial Immortals American Football team stormed through for another victory this Sunday with a hard fought battle against the Royal Holloway Bears. At their last meeting the Bears had won by the closest of margins (scoring a field goal in 3rd overtime) so the Immortals stepped on the field with something to prove. With the momentum of last weeks win behind them the Immortals finished the game with their first shut-out of the season and a well earned 19 points.

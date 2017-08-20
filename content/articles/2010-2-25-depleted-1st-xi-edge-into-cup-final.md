@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251850-mb506-ICUAFC.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251850-mb506-ICUAFC.jpg"
+image_caption: ""
 ---
 
 Saturday 20 February was meant to be a free day for Imperial’s 1st XI. Given the fact that just under half of the starting XI were abroad, captain Mustapher Botchway had informally agreed with the RUMS (UCL Medicals) captain to reschedule the ULU Challenge Cup Semi-Final to the week after (27 February). However, in attempt to capitalise on this, the captain had reneged on this agreement and stipulated that the game was to take place on its original date, to avoid conceding a walkover.

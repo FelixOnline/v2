@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512041514-ygr12-lol.png"
-image_caption: >
-
-image_attribution: "Twitter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512041514-ygr12-lol.png"
+image_caption: ""
 ---
 
 In an interview on IC Radio two weeks ago, our union president revealed a number of potentially problematic views. We all say things we later go on to regret; it’s symptomatic of the social media age. But, our union president chose to defend her contentious tweets, including one which some Imperial students might find offensive.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
-image_caption: >
-  A scintillating view of the BOREXINO neutrino detector in Italy – top lads
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
+image_caption: ""
 ---
 
 Every second each centimetre of the surface of the Earth is bombarded by 6×10^10 solar neutrinos –produced by nuclear fusion and the decay of isotopes such as beryllium-7. Writing in [Physical Review Letters](http://prl.aps.org/), an international collaboration of scientists has announced the unprecedented accuracy of new solar neutrino data from the [BOREXINO experiment](http://borex.lngs.infn.it/) at the [Laboratori Nazionale del Gran Sasso](http://www.lngs.infn.it/), in central Italy.

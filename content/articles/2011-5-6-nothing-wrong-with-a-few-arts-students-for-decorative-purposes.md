@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There has been a great hullaballoo about the Summer Ball. The old adage that the more trivial the matter, the more vicious the invective has been proved true once again by the arguments over the changes to the Summer Ball. Or Summer Festival, as it should probably now be called. Whilst students at other universities occupy lecture theatres to protest the effect of government cuts on their degrees, Imperial students suggest calling an Extraordinary General Meeting to demand that the dress code of the end-of-year party be obligatory black tie.

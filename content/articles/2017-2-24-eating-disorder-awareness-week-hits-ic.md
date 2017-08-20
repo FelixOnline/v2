@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As we’re entering this year’s national Eating Disorder Awareness Week, which takes place over the first week of March in the UK, Imperial College Union will be hosting events and launching a social media campaign in support.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As a self-confessed fan of _Benefits Street_, I was confused at the break in the series two weeks back, which was followed by an announcement that Channel 4 was capitalising further on the few weeks of column inches the show had earned them by staging a debate on benefits.

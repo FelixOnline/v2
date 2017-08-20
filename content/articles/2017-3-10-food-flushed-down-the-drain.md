@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101336-felix-4713741392_e477441f57_o.jpg"
-image_caption: >
-
-image_attribution: "Anthony Albright"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101336-felix-4713741392_e477441f57_o.jpg"
+image_caption: ""
 ---
 
 Food waste is a global problem. As per the Food and Agriculture Organization (FAO), over 870 million people are malnourished and the figures will grow in the future with increase in population.

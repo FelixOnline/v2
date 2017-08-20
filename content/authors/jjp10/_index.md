@@ -1,7 +1,7 @@
 ---
 id: "jjp10"
 title: Joshua Price
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""
 website_url: ""

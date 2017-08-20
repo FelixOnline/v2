@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103010939-ks607-gamesmik.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103010939-ks607-gamesmik.jpg"
+image_caption: ""
 ---
 
 _This is Day 2 of the IC.HACK tutorial series! To see yesterday's article click [Day 1 - Starting](http://felixonline.co.uk/?article=903) or for the next installment click [Day 3 - Art and Sound](http://felixonline.co.uk/?article=965)._

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This past weekend saw [Fusion@London](http://fusionatlondon.com/), an event budgeted to raise £78,897.50 in aid of the charity [Cancer Research UK](http://www.cancerresearchuk.org/), take place. The main aim of the event was “to foster a closer relationship between the capital’s student population“. However, the success of the event is yet to be established. It remains to be revealed the exact gain or loss from the event, which was a joint student venture between the unions of Imperial College London, King’s College London, and University College London.

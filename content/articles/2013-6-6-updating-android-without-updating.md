@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306061849-tna08-android-jelly-bean.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306061849-tna08-android-jelly-bean.jpg"
+image_caption: ""
 ---
 
 Google I/O has traditionally, for the past few years at least, been an event where Google unveils the newest and shiniest version of Android to the world. Although open source, Android is developed in-house with little known to the outside world save through the usual rumours and leaks. It’s been no different this year. Prior to Google I/O, there has been signs of a new version of Android, version 4.3 and widely believed to be a new iteration of Jelly Bean showing up in server logs. The talk of the grapevine was that this version would be unveiled during the I/O event.

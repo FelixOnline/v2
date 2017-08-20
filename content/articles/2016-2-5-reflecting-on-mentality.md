@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051250-felix-stress.jpg"
-image_caption: >
-  Stress balls are only part of the solution.
-image_attribution: "Mentality"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051250-felix-stress.jpg"
+image_caption: ""
 ---
 
 After a successful campaign last academic year, Mentality has succeeded once again in capturing the interests of the staff and student body alike. On the 19th January 2016, Sir Anthony Seldon ‘headlined’ at Mentality’s most recent event, giving an honest and humbling talk about his personal experience of mental health both in and outside the world of education. He spoke about the pressures of university and how looking after oneself often becomes sidelined by students at world class and high pressured institutions such as Imperial College, giving some simple tips for how to achieve better mental health whilst studying.

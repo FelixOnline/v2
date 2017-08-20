@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191216-felix-winterstale.jpg"
-image_caption: >
-  Niamh Cusack (Paulina), Rachael Stirling (Hermione) and John Light (Leontes) in The Winter’s Tale.
-image_attribution: "Tristram Kenton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191216-felix-winterstale.jpg"
+image_caption: ""
 ---
 
 The Winter’s Tale is a true winter’s delight. It is performed at the Globe Theatre, but fear not as it isn’t an outdoor getting-wet-standing-in-the-pit affair, rather you are welcomed to an enchanting theatre tucked next door, the recently built Sam Wanamaker Playhouse. The Playhouse is a replica of the theatre that Shakespeare’s plays were written for, with no modern giveaways in sight. It is intimate and snug; the small stage is surrounded by the limited audience and entirely lit by candlelight, giving a sense that you are peering into someone else’s living room. Along with the rich and vibrant characters, the musical quartet and the intimacy you feel warm and cosy, enough to brighten up even the dreariest of winter nights.

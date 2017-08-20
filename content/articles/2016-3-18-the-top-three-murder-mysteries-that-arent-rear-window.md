@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ok, so the original plan for this week was to put together an election-themed section. Maybe ‘best films featuring presidents’ or ‘best political dramas’? The truth of it is that I’m a bit election’d out right now… Either that or I couldn’t find anything on Google other than _Lincoln_. You know what’s more exciting than student elections though? Murder. Hitchcock’s _Rear Window_ may be the best but it’s not the be-all-and-end-all:

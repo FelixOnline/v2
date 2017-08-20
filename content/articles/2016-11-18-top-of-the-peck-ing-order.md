@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181707-felix-fencing.JPG"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181707-felix-fencing.JPG"
+image_caption: ""
 ---
 
 Last weekend, fresher Harry Peck competed at the Irish Open, an international men’s épée tournament in Dublin. Although he has fenced regularly at an international level for both the cadet under-17s and junior under-20s, it was Harry’s first senior international event. Starting the day with no ranking Harry ended up in poule one, where he achieved five victories out of a possible six, losing only to Giannotte from Luxembourg whilst defeating fencers from Ireland, Australia, Slovakia and Germany.

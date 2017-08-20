@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222302-tna08-xfactor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222302-tna08-xfactor.jpg"
+image_caption: ""
 ---
 
 With it being ‘Guilty Pleasures’ week on The X-Factor, I thought it oddly fitting to finally share my thoughts on the current season of one of the world’s most famous ‘talent’ shows.

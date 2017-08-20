@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012121346-ks607-whereswa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012121346-ks607-whereswa.jpg"
+image_caption: ""
 ---
 
 Our population has tripled within less than one generation. The major reasons are the crash in death rates as a consequence of controlling infectious disease, higher life-expectancy and better quality of life. We are projected to add another 3 billion by 2050; that is more than Europe, Africa, and both Americas combined. It is not about people having huge families, it is about one billion teenagers reaching reproductive age. If we keep this growth trend, human inequality and suffering will only increase, without mentioning the impact on the environment. We are the most intelligent species on the planet and we have a moral obligation to care for it.

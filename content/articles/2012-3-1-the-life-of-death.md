@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
-image_caption: >
-  He whipped out his katana...it was super effective
-image_attribution: "Keane Ritikos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
+image_caption: ""
 ---
 
 I was lucky enough to buy a ticket to the [Malaysian Society’s](http://www.union.ic.ac.uk/osc/malaysia/) MNight long before the sales rush which rendered the Saturday showing sold out. It was a two-day production held in the Great Hall, and I attended the Sunday showing. It was the first time I’d been to such an event in my three years here, and my main motivation for going was to support one of my copy editors here in Felix who was on the cast. A review simply had to follow.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
+image_caption: ""
 ---
 
 After the initial uproar amongst academics caused by the publication of Stefan Grimm’s damning posthumous email, discussion has spread amongst academics outside the English-speaking scientific community.

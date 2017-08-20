@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140024-sjw209-dishoom2.jpg"
-image_caption: >
-  Makes a change from KFC
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140024-sjw209-dishoom2.jpg"
+image_caption: ""
 ---
 
 One minute away from Leicester Square Station, [Dishoom](http://g.co/maps/797c3) offers great Indian food at great prices in an extraordinary yet cosy atmosphere.

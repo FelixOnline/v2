@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I don’t know a lot about you and to be honest I don’t really care (only kidding…no really, I don’t care). but I was fortunate enough to spend Christmas in Les Alpes. Personally, and unsurprisingly (being a wannabe food critic) my favorite part was the food. So again I have another gem of a recipe to share!

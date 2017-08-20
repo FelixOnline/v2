@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012021954-nm1010-language.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012021954-nm1010-language.jpg"
+image_caption: ""
 ---
 
 It’s been 27 years since the first handheld portable mobile phone came out and since then it has revolutionised the world. With the development of GSM technology and seamless international roaming, it is now possible for any two people, on different corners of the Earth not connected by wires, to talk to each another at any time simply by dialling a sequence of numbers on their phone. The mobile phone has torn down geographical and national barriers and made the whole world feel a lot smaller.

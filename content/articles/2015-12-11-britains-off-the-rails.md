@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512111532-felix-crowded-trains-2372669.jpg"
-image_caption: >
-
-image_attribution: "mirror.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512111532-felix-crowded-trains-2372669.jpg"
+image_caption: ""
 ---
 
 > > Apparently operating a series of lights defies engineers’ best efforts

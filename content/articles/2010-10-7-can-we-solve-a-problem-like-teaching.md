@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Professor Omar Matar, Director of Undergraduate Studies for Chemical Engineering notes that “members of staff have a finite amount of endurance and certainly the students are in the same sort of boat” in terms of the amount of work that requires feedback. Professor Julia Buckingham, Pro-Rector (Education and Academic Services) agrees, observing that “there has been a move in some departments to actually reduce the amount of coursework, and I think that will help.”

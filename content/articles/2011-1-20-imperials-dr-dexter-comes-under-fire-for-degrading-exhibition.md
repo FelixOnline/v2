@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201929-ks607-braiiiii.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201929-ks607-braiiiii.jpg"
+image_caption: ""
 ---
 
 A London art gallery’s display of a brain removed from the dead body of a multiple sclerosis sufferer has been attacked by Tory MP David Amess, who has branded the display as “disrespectful and unacceptable”.

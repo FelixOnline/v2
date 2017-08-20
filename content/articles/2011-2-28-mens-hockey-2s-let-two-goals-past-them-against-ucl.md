@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On a rainy Sunday afternoon, the Imperial College Hockey Club Men’s 2nd XI wearily approached the UCL hockey ground late after a tiring morning of push starting a seriously defective Union minibus.

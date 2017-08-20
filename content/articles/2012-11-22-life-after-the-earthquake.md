@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
+image_caption: ""
 ---
 
 A multi-dimensional national disaster – an earthquake, tsunami and nuclear threat from a damaged power plant – that is the situation Japan found itself in on March 11th 2011. Since then, how have the affected areas been recovering? What is the situation like today, in both infrastructure and the lives of ordinary people living in the aftermath?

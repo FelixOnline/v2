@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
-image_caption: >
-  Jackie Speier fights to tackle the current sexual harassment issues and the lack of repercussions.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
+image_caption: ""
 ---
 
 Sexism in science; is there a real problem? How do we fix it? When is everyone, including myself, going to shut up about it? Probably not for a while. And yes, I do realise that I could begin sounding like a broken record, considering this is the third piece I’ve written for Felix discussing the topic, but unfortunately the problem isn’t disappearing so neither will the analogous articles. Things are about to get a bit gross and very complicated.

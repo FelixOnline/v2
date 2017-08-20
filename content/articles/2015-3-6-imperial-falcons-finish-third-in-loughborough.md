@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503061406-kmw13-10405400_10152583315671604_8888381870642720679_n.jpg"
-image_caption: >
-
-image_attribution: "IC Baseball"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503061406-kmw13-10405400_10152583315671604_8888381870642720679_n.jpg"
+image_caption: ""
 ---
 
 __The Imperial Falcons baseball team recorded a third place position in the first ever M1 Series Tournament at Loughborough on the 21st/22nd February, after some strong performances throughout the weekend and a dramatic walk-off hit secured a win in the final game.__

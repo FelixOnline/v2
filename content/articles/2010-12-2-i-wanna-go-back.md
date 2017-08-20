@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
+image_caption: ""
 ---
 
 There has always been one paradoxical quote about Weezer that amused me. I’m paraphrasing, but it goes along the lines that “Weezer are the worst rock band in America to release two of the greatest albums of the last 20 years”.

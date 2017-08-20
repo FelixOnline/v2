@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241258-ps3110-appsworldpic.jpg"
-image_caption: >
-
-image_attribution: "Photo: Xuan Chen"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241258-ps3110-appsworldpic.jpg"
+image_caption: ""
 ---
 
 The release of the iPad in the UK in the early summer of 2010 was a watershed moment which forever changed the way we interact with application technology. It was only a matter of time before a number of social entrepreneurs decided to weave the creative talent together in the form of conventions, and seeing promise and potential in the emerging technological industries, catalyse creative development in the area. Apps World is one such conference which has been growing since its debut five years ago, which means that on Wednesday 12 November 2014, I attended the biggest developer conference ever held in the UK to date.

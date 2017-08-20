@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262153-ak6309-p00nc1ng.jpg"
-image_caption: >
-  An actual spider goat... Batteries not included
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262153-ak6309-p00nc1ng.jpg"
+image_caption: ""
 ---
 
 On a small farm, nestled deep in Northern Utah, something extraordinary is happening: creatures are being bred that are part goat, part spider. Last week’s episode of the BBC’s epic science series Horizon followed Adam Rutherford as he journeyed to meet these fascinating hybrids and their creator to find out more.

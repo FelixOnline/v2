@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411021858-ps3110-rsmdinner.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411021858-ps3110-rsmdinner.jpg"
+image_caption: ""
 ---
 
 The summer months were spent catching up with friends back home, travelling, earning money to blow on rent and, for some, geological mapping. Mixed in with this, the Royal School of Mines committee had carefully planned their start of term activities leading up to the big one: Freshers' Dinner.

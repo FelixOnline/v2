@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
-image_caption: >
-  Headliner Laura Marling
-image_attribution: "flickr/rowl images"
-image_attribution_link: "http://www.flickr.com/photos/rowlimages/5588442875/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
+image_caption: ""
 ---
 
 [The Summer Ball](http://www.thesummerball2011.com/), a chance for staff and students to celebrate the end of their exams (sorry Chemistry, Biochemistry, and Biology), the end of another academic year, and for some, the end of university life, has always been a highlight of the Imperial social calendar. However, when the details of the Ball were announced during the Easter holidays, the response was mixed and for some the radical changes to the format have changed their end-of-year ball into an end-of-year festival. In a comment echoed by many, one student wrote on Facebook: [‘It’s no longer a Ball’](https://www.facebook.com/permalink.php?story_fbid=125401997535280&id=516486102).

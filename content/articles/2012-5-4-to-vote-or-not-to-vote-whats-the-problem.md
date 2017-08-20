@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So somebody’s been elected London Mayor, apparently. When it comes down to those gosh darn Thursday elections, Felix finds itself in the unenviable position of not being able to report on who won. Anyway, as tempting as it might have been for Felix to run an incredibly localised and ultimately wildly inaccurate exit poll, we didn’t particularly wish to tempt fate. What is fact, however, is the potential clout that students had in the vote. With nearly 450,000 London-based students eligible to list their preferences for Mayor of London and members of the London Assembly, a real difference could have been made to the results if all were to stand up and be counted. Of course, this wasn’t entirely the case.

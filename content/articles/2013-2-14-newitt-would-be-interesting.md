@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142231-tna08-lect3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142231-tna08-lect3.jpg"
+image_caption: ""
 ---
 
 he annual Newitt Lecture, hosted by the Chemical Engineering department, was given by Edward Davey MP, Secretary of State for Energy and Climate Change on Wednesday evening. This was the first time that the lecture has been given by a politician – rather than a chemical engineer – a clear signal that the worlds of politics, science and engineering are becoming ever more entwined.

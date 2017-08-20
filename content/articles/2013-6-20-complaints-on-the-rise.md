@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210038-tna08-shouting.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210038-tna08-shouting.jpg"
+image_caption: ""
 ---
 
 [Figures](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx) from the official watchdog, the[ Office of the Independent Adjudicato](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx)r (OIA), show that complaints by students at universities in England and Wales have reached an all time high.

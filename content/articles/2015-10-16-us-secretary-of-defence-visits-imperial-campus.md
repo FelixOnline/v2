@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161521-ygr12-icimages.jpeg"
-image_caption: >
-
-image_attribution: "Imperial College London / Layton Thompson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161521-ygr12-icimages.jpeg"
+image_caption: ""
 ---
 
 United States Secretary of Defence Dr Ashton Carter paid a visit to Imperial College London this week to discuss research ties between the UK and US, including how Imperial researchers are taking on a variety of challenges faced by both countries in the field of defence.

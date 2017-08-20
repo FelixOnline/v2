@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
+image_caption: ""
 ---
 
 Five teams of Imperial students who entered BP's Ultimate Field Trip competition are through to the semi finals, in which they will compete by presenting their ideas on tackling the carbon challenge to a panel of BP experts. The fifteen students are competing for the opportunity to receive a paid internship with BP in their North Sea business unit this summer.

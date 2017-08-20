@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
+image_caption: ""
 ---
 
 At the end of last term I attended a Union Council meeting. Before the meeting could commence there was an extensive powerpoint presentation about the college’s development in White City, Imperial West, given by Professor Neil Alford (Imperial White City Syndicate).

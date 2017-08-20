@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162102-pk1811-the-woman-in-black-12.jpg"
-image_caption: >
-  You’re on your own this time...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162102-pk1811-the-woman-in-black-12.jpg"
+image_caption: ""
 ---
 
 __Director__ James Watkins

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After a convincing win over the RSM last term, the City & Guilds RFC took on Balliol College, Oxford in the annual Gin match. It was to be a day of records; the most number of referees seen in a rugby match and the greatest number of bottles of Gin drunk in one evening. The authoritative word of vice-captain Graeme Ridler stated that the team would meet at 11.50am only for Ridler himself to arrive late.

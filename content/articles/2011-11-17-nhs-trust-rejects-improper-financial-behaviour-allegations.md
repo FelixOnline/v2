@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
-image_caption: >
-  Mark Davies, Chief Executive of Imperial College Healthcare NHS Trust
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
+image_caption: ""
 ---
 
 The [Imperial College Healthcare NHS Trust](http://www.imperial.nhs.uk/) has rejected allegations of impropriety from [_The Sunday Times_](http://www.thesundaytimes.co.uk/sto/news/uk_news/Health/article820891.ece) and [_Private Eye_](http://www.private-eye.co.uk/sections.php?section_link=in_the_Back&issue=1300) concerning its commissioning of management training courses from [Coalescence Consulting](http://www.coalescence.biz/), which is owned by the Trust’s interim chief executive Mark Davies and his wife Karen Johnson.

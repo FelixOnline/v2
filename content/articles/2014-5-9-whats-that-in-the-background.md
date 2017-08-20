@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
-image_caption: >
-
-image_attribution: "Domenico Beccafumi, The Story of Papirius, mid 1520s"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
+image_caption: ""
 ---
 
 __What: __Building the Picture: Architecture in Italian Renaissance Painting

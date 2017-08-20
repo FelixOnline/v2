@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162126-felix-libya.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162126-felix-libya.jpg"
+image_caption: ""
 ---
 
 It is a strange quirk of the British media that it is generally harshly critical of the internal affairs of our government, yet often almost blindly supportive of our affairs outside the EU. Consider, for instance, NATO’s recent intervention in the Libyan civil war. Major newspapers rarely seriously questioned whether the heavy bombardment of Tripoli was a breach of UN Resolution 1973. More importantly, few major newspapers asked in any depth about why our government was apparently so keen to use our resources to “protect civilians” in Libya, but not in Syria, Yemen or Bahrain.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241240-ps3110-mockingjay-2.jpg"
-image_caption: >
-
-image_attribution: "Photo: Francis Lawrence/Lionsgate"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241240-ps3110-mockingjay-2.jpg"
+image_caption: ""
 ---
 
 __Mockingjay – Part 1__

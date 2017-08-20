@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191356-tna08-photo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191356-tna08-photo.jpg"
+image_caption: ""
 ---
 
 On Wednesday the netball first team played Essex 1’s at home in Ethos to kick off their BUCS season. With only 3 returning members no one was quite sure how the team would perform under match pressure and there were a lot of nerves before the first whistle.

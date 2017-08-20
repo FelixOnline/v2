@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102055-dr910-meredith.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102055-dr910-meredith.jpg"
+image_caption: ""
 ---
 
 This story starts with clenched, muscular buttocks. The buttocks in question comprise the cover art of the latest Scissor Sisters album Night Work and while they certainly deserve a second glance you would not grasp their full significance unless you had also knew of the man who took that photograph: Robert Mapplethorpe.

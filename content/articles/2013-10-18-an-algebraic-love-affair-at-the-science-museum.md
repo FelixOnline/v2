@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Marcus du Sautoy and Victoria Gould recently starred in a short run production of “X&Y” at the Science Museum, a story of two algebraic variables apparently falling in love. Together they explore and tackle some of the biggest questions out there. What is infinity? Is there an edge to the universe? Are mathematics and theatre the same? All played out on a small, sparse stage somewhere in the back room at the Science Museum. Sounds interesting right?

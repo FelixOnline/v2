@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What could possibly link Angelina Jolie and the first female President of Sri Lanka, Chandrika Bandaranaike Kumaratunga? Why William Hague and last week’s Commonwealth summit, of course! There has been a bizarre image occasionally popping up over the past few months, of a rather smitten MP standing beside Angelina Jolie talking about the horrors of rape and abuse that women suffer the world over. The most striking image I have of Kumaratunga is, perhaps, less comical: she had made a speech in Colombo brutally criticising the mass murder and war crimes committed by the Sri Lankan government in the closing stages of the ‘war’ against the Tamil ‘Tigers’. I never expected to hear a former head of state claim to be ashamed at being from the country they served but these were the words that came from Kumaratunga’s mouth.

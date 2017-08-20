@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251329-ff712-_samuel-(seun-shote),-chuck-reynolds-(rob-heanley),-ramjohn-gookool-(johann-myers)-in-play-mas-at-the-orange-tree-theatre---photo-by-robert-day.jpg"
-image_caption: >
-  Samuel (Seun Shote), Chuck Reynolds (Rob Heanley), Ramjohn Gookool (Johann Myers) in Play Mas at the Orange Tree Theatre
-image_attribution: "Robert Day"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251329-ff712-_samuel-(seun-shote),-chuck-reynolds-(rob-heanley),-ramjohn-gookool-(johann-myers)-in-play-mas-at-the-orange-tree-theatre---photo-by-robert-day.jpg"
+image_caption: ""
 ---
 
 The joy of carnival is infectious. Dressing up, getting drunk and parading around town to the sound of steel drums: what could be better? Every culture has a different spin on carnival, but few know how to do it better than the Trinidadians’ annual _Play Mas_.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002011653-rsp07-overwirg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002011653-rsp07-overwirg.jpg"
+image_caption: ""
 ---
 
 Suppose you’re worried about your weight. Perhaps you feel you could lose a few pounds. The modern way to deal with these feelings is to smother them with anti-depressants, so you could take a fistful of Prozac washed down with a tub of Ben and Jerry’s and call it irony.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250129-felix-mus_sstudio.jpg"
-image_caption: >
-  Tim Hecker and Oneohtrix Point Never
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250129-felix-mus_sstudio.jpg"
+image_caption: ""
 ---
 
 Tim Hecker and Oneohtrix Point Never are two of the most successful ambient musicians of recent times. Tim Hecker is widely famed for his immersive live performance, where he plays to an audience on a pitch black stage in a pitch black venue, putting all of the audience’s attention on the music and deservedly so. It’ll be a long time before I see a live performance more delightfully spine chilling than his hauntingly cathartic, distorted organ based performance at St. Giles in the Field last year.

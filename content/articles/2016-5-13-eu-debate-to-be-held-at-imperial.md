@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131051-felix-13116282_881640831945600_7666044036402266013_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131051-felix-13116282_881640831945600_7666044036402266013_o.jpg"
+image_caption: ""
 ---
 
 A debate about Britain’s place in the EU is due to take place at Imperial on the 2nd of June. Representatives from both camps will be there to argue over whether we should vote to leave the EU on the 23rd of June.

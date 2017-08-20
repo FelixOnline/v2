@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102204-tna08-imperial-debating.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102204-tna08-imperial-debating.jpg"
+image_caption: ""
 ---
 
 For the first time in living memory, Imperial College has been represented at the annual [World Universities Debating Championships](http://www.wudc.info/). This year’s WUDC competition was hosted by the Berlin Debating Union in Technische Universität Berlin from the December 27th until the January 4th.

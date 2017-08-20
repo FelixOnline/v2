@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071408-felix-popinthesky.jpg"
-image_caption: >
-  I thought he was taking me to the Union
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071408-felix-popinthesky.jpg"
+image_caption: ""
 ---
 
 [London Restaurant Festival](http://www.londonrestaurantfestival.com) celebrates the Capital’s restaurants and their diversity. For two weeks (October 3-17) visitors will be able to try things they wouldn’t otherwise, tickle their tasting pallet and taste extraordinary food prepared by all kinds of chefs experiencing the ultimate dining experience. The Festival splits in two main areas; restaurants running festival menus and a whole series of events.

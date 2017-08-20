@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101654-felix-Clyfford-Still-PH-950-1-795x600.jpg"
-image_caption: >
-
-image_attribution: "Royal Academy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101654-felix-Clyfford-Still-PH-950-1-795x600.jpg"
+image_caption: ""
 ---
 
 Abstract expressionism is a liberation. The art form’s leading American artists of the 1940’s and 50’s emphasized on spontaneous creative acts to express subjective emotion in opposition to the confining rules of realism. Though exhibited and referred as a collective for revolutionizing the art scene, it’s worth focusing on the individuality of each artist (particularly in terms of technique and vision driving their artistic expression). RA’s Abstract Expressionism aims to materialize this concept in highlighting each artist separately, but with critical references to the collective group.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271857-ks607-pathmoti.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271857-ks607-pathmoti.jpg"
+image_caption: ""
 ---
 
 Throughout the year, largely due to reader interest, the business section has a strong emphasis on finance. This fits with many Imperial students’ desire to learn more about the industry, in order to stay informed and help with their career choices. This being an undergraduate newspaper, this seems an appropriate enough use of the business pages.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131413-ygr12-georgeos.jpeg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131413-ygr12-georgeos.jpeg"
+image_caption: ""
 ---
 
 After tagging along on President Xi’s visit three weeks ago, George Osborne was back at Imperial on Monday, but this time slightly further out at our White City branch, AKA Imperial West.

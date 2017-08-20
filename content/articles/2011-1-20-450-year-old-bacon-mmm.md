@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201935-ks607-baconbac.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201935-ks607-baconbac.jpg"
+image_caption: ""
 ---
 
 This weekend, it is time to celebrate bacon. When tucking in to that greasy, hangover-soothing fry-up, take a moment to think about Francis Bacon, who, this weekend, is celebrating the 450th anniversary of his birth.

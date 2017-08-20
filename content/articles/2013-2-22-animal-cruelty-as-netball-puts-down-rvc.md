@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Previously in the season, IC 1’s ventured to muddy Hertfordshire with some usual players missing and some turning up hungover to take on RVC 1’s in the BUCs league, so understandably we suffered an unfortunate loss. However, with 2 more chances to play them, we were determined to show them what we’re made of.

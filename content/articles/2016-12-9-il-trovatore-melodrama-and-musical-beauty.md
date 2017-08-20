@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091556-felix-2777ashm_042 NAJMIDDIN MAVLYANOV AS MANRICO, MARIA AGRESTA AS LEONORA (C) ROH. PHOTOGRAPHER CATHERINE ASHMORE.jpg"
-image_caption: >
-
-image_attribution: "Catherine Ashmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091556-felix-2777ashm_042 NAJMIDDIN MAVLYANOV AS MANRICO, MARIA AGRESTA AS LEONORA (C) ROH. PHOTOGRAPHER CATHERINE ASHMORE.jpg"
+image_caption: ""
 ---
 
 Il trovatore is a classic opera by Verdi, one of the most regularly performed in the operatic repertoire today. It is the sort of opera that has fuelled the caricatures of the art form – it is confusing, extravagant, and filled with impassioned singing, known as much for its convoluted plotline as for its musical beauty.

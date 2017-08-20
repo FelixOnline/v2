@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010052-tna08-img_0186.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010052-tna08-img_0186.jpg"
+image_caption: ""
 ---
 
 When ATP (All Tomorrow’s Parties) and My Bloody Valentine announced their live return to the UK, a single night at the Hammersmith Apollo in March, the internet immediately started buzzing. Tickets went up and were sold out in seconds. Another night was quickly added, where standing tickets also promptly sold out. Having not seen MBV – a key band in the development of my musical tastes – in three years, I was pretty stoked. They were clearly feeling generous with their live performances for the dedicated and added a third, more intimate, date – the show at Electric Brixton last Sunday. By the time this third date was added I was giddy with excitement so quickly seized the opportunity to not only see MBV one more time, but also several months before I had originally expected.

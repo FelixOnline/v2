@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
-image_caption: >
-  Imperial means (un)intelligent business.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
+image_caption: ""
 ---
 
 Imperial College Business School’s full-time MBA program is the 35th best in the world and the fourth best in the UK according to the 2016 _Financial Times_ MBA rankings released this week.

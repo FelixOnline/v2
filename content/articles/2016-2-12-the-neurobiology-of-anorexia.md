@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121126-felix-anor.jpg"
-image_caption: >
-  All about the numbers – waist measurements and calorie counts.
-image_attribution: "Benjamin Watson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121126-felix-anor.jpg"
+image_caption: ""
 ---
 
 It’s amazing how science can be so fiercely intertwined with a topic as contentious as dieting. The relationship between the two became evident when I attended the past weekend’s most anticipated brainy event – the London Students’ Neuroscience Conference 2016. It heralded a most intriguing symposium on mechanisms of psychiatric disorders, with a special focus on Anorexia Nervosa.

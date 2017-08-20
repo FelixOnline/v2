@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102101950-ks607-cambridg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102101950-ks607-cambridg.jpg"
+image_caption: ""
 ---
 
 The University of Cambridge has become the country’s first university to [publicly acknowledge](http://www.guardian.co.uk/education/2011/feb/09/oxford-cambridge-9000-fees) plans to charge students the maximum fee level allowed, starting 2012.

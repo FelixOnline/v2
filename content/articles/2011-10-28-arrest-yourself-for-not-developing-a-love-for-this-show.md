@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281427-felix-19944_arrested-development.jpg"
-image_caption: >
-  Eccentric isn’t the word...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281427-felix-19944_arrested-development.jpg"
+image_caption: ""
 ---
 
 It was recently announced that a new series of [Arrested Development](http://www.imdb.com/title/tt0367279/) is in the works and will be aired at some point in the future. The plan is to then make a film. If you are anywhere near as big an AD fan (as those in the know call it – although it does make it sound a bit like a disorder) as I am you will have flipped your shit, I believe that is the technical term. Don’t worry, that is purely metaphorical shit-flipping going on.

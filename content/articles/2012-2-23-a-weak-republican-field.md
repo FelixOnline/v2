@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232026-ams111-newt-and-mitt.jpg"
-image_caption: >
-  Nah dude I swear it’s THIIIIS big. As if your policy is that all encompassing
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232026-ams111-newt-and-mitt.jpg"
+image_caption: ""
 ---
 
 The US elections are coming faster than a randy teenager who's left his bedroom door open when his parents are downstairs. Much like the aforementioned situation, they are always exhilarating and dangerous. At the moment, it’s the Republican nominations that are taking up valuable headline space. They are not too dissimilar to an arrogant, terrible, and loud punk-rock band: they shout incoherently about how great they are when all the evidence seems to suggest the opposite. If I’m honest, I think that the Republican field is incredibly week this time around. Even John McCain maybe thinks so: he accidentally endorsed Obama and not Romney in what I can only imagine was a Freudian slip. I want to waste your time by immaturely discussing the potential (and real) candidates.

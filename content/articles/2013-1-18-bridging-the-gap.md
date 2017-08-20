@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180046-tna08-the-bridge-project.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180046-tna08-the-bridge-project.jpg"
+image_caption: ""
 ---
 
 I wonder if any of you actually get any revision done – by an almost unanimous vote, this week’s review selection is The Bridge Project. A quick introduction to the game’s genre would be as follows: you have a bridge you need to build, and you’ve limited resources. Your bridge will have to stand up to a variey of tests (buses, boats (use pistons) and earthquakes, to name a few). Savvy?

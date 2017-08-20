@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251319-felix-3350863019_0bcbef53e8_o.jpg"
-image_caption: >
-
-image_attribution: "Nick Mehlert"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251319-felix-3350863019_0bcbef53e8_o.jpg"
+image_caption: ""
 ---
 
 The iconic Farringdon nightclub, fabric,  has announced it will reopen its doors, following a hearing at Highbury Corner Magistrate’s Court on Monday, the 21st of November. The club was closed in September after two 18-year-olds tragically died of drug-related causes at the venue this Summer. An appeal date had been set for the 28th November, after a successful campaign including widespread support from the community, however a settlement has now been reached. The new licensing agreement has been signed by both the club and the council and was approved by judge Robin McPhee.

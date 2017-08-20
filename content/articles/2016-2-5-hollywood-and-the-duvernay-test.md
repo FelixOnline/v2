@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051226-felix-Ava_DuVernay_2015.jpg"
-image_caption: >
-
-image_attribution: "Wikimedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051226-felix-Ava_DuVernay_2015.jpg"
+image_caption: ""
 ---
 
 For the second year running, the Academy Awards has nominated only Caucasian actors for the awards, igniting a powder-keg on social media, and highlighting the lack of diversity in the film world. But not all hope is lost; while actors like Charlotte Rampling and Julie Delpy may make misguided comments on the industry, there are signs of real change: Cheryl Boone Isaacs, president of the Academy, has stated a move towards changes in the membership policy, which would hopefully lead to a more representative group choosing the winners; Idris Elba picked up two SAG awards, in a pointedly-diverse ceremony; and the deliberately-titled slave rebellion drama _Birth of a Nation_ has won two of the top prizes at Sundance.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222357-tna08-woman-scientist.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222357-tna08-woman-scientist.jpg"
+image_caption: ""
 ---
 
 I am a white male, born in the UK, and therefore I know as much about being oppressed, excluded or prejudiced against as David Cameron knows about struggling to make rent. There are, though, some things I feel I can say about sexism at Imperial, particularly in light of some recent Felix Comment articles.

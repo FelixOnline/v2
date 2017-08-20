@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260342-tna08-bl2_tundra_express.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260342-tna08-bl2_tundra_express.jpg"
+image_caption: ""
 ---
 
 Borderlands was, to be frank, a pretty weird concept. Combining a fully-fledged first person shooter with a Diablo-style loot-centric RPG? These ideas seem pretty hard to gel, when first thought about, but Borderlands worked because it just didn’t take itself seriously at all. The whole thing was just one big joke because it had to be. The ridiculously overpowered guns, the crazy character abilities, even the way the game showed you numerically how much damage each shot had done – these things just wouldn’t have worked in your bog-standard shooter. But with its cartoon-style graphics, over the top gore and ridiculous cast of characters, the whole thing worked, and all-in-all, Borderlands was a pretty good game.

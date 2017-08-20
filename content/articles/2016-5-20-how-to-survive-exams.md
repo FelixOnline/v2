@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201124-felix-lib.jpg"
-image_caption: >
-  Real talk.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201124-felix-lib.jpg"
+image_caption: ""
 ---
 
 There is a lot to be stressed out about at exam time. Whether it is your first year or your last, it is difficult to balance the intense workload with other commitments, such as arranging accommodation for next year. First and foremost, if you feel you are struggling to cope, whether you have pre-existing health conditions or not, the most important thing to do is consult a medical professional. If feelings of anxiety are disrupting your life, speak to your GP – a quarter of all GP appointments are regarding mental health, so a good GP should not have problems with leading the conversation.

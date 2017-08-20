@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 An artist and a scientist walk into a bar. They find each other incomprehensible and mysterious and fail to have a meaningful conversation. They leave vowing never to move out of their comfort zone again. Not really funny is it? Before I continue, I must declare an interest in writing this article. I am involved in organising collaboration between Imperial College and the Royal College of Art (probably the UK’s premier post-graduate school of art). This daring plan is codenamed Artifact. But more on that later...

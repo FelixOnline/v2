@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With an impressive 3-1 pre-season victory over RUMS 2nd XI last week, IC 2s arrived at Harlington keen to keep up the high standard of hockey and register a win in our first competitive fixture of the season. Having been defeated at the end of last season in a close-fought Varsity match, we were wary of the threat posed by the ICSM 2s.

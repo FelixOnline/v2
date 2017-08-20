@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091905-ps3110-201104240247-jk708-angry-geek.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091905-ps3110-201104240247-jk708-angry-geek.jpg"
+image_caption: ""
 ---
 
 Hello, readers. It’s been quite a while. I’m still a part of Imperial, just hanging onto the edges here, but it’s been years since I last graced these pages. New writers have to come in, and old ones have to shrivel up and quietly die in the corner under a pile of back issues – it’s the way it’s always been. It also helps that you’re all a fucking disgrace and I probably would’ve burned several key departments to the ground by now in complete disbelief at the pathetic and cynical way they’re run. But mostly it’s the new writer thing.

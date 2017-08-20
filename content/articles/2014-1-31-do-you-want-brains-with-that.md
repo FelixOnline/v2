@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401311738-jal08-tumblr_m31x9rztgr1rt8lhlo1_1280.jpg"
-image_caption: >
-  These prions may look pretty, but they can be deadly too
-image_attribution: "TUMBLR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401311738-jal08-tumblr_m31x9rztgr1rt8lhlo1_1280.jpg"
+image_caption: ""
 ---
 
 Prions (rhymes with “neons”) are really interesting proteins. They can also be very dangerous. The name is a derivative of the words “PROtein” and “INfectious”, and as the etymology suggests, they cause a group of infectious illnesses, called “transmissible spongiform encephalopathies” (TSEs).

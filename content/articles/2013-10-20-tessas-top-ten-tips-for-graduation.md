@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Commemoration Day at Imperial is pretty well labelled, signposted and explained, and it’s pretty difficult to fail to do any of the essential parts. But as with anything else, it’s good to be aware of any potential stumbling blocks so that you can streamline your day. And so as a voice of potentially embarrassing experience, here are some tips that I wish someone had given me.

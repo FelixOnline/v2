@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241921-nm1010-bigbangb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241921-nm1010-bigbangb.jpg"
+image_caption: ""
 ---
 
 I’m from Devon. Before then, I was from Africa. To entertain myself, I used to climb trees, go hiking, cycle to the beach, and for a few hours a day, do homework/music practice/mess around on the computer. I never really watched TV, and when I did, I always had something in front of me to keep me otherwise occupied. The transition from college kid to student has shown a marked change in my behaviour. I’m in my final year, and, thinking back on it, every year has started and ended with an addiction to a new TV show.

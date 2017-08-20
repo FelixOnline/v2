@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092210-pk1811-hester.jpg"
-image_caption: >
-  Bankers like Hester earn over £2m. Meanwhile, print journalism is dying. Fuck.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092210-pk1811-hester.jpg"
+image_caption: ""
 ---
 
 In the wake of last week’s pay scandal concerning [RBS](http://www.rbs.com/home.ashx) CEO Stephen Hester a lot has been said in regards to the opulence of bankers’ bonuses. In fact in the private student accommodation in which I live we even held a debate at the weekend, with a slim majority voting for motion which stated that the government should prevent excessive pay. Since the recession and our slow economic recovery the public has been baying for blood at the mere mention of a large bonus, with heads of public bodies afraid of the public backlash of receiving a bonus, no matter how well deserved. Over the last two weeks, the Chairman and CEO of RBS (83% state owned) both declined to take a bonus, followed by several directors of [Network Rail](http://www.networkrail.co.uk/). Now, while these companies are both controlled by the state that as majority shareholder has the right to veto executive pay packages, some people are starting to call for the government to cast its net wider and consider banning banker’s bonuses in the general financial industry.

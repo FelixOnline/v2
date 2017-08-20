@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
-image_caption: >
-  They thought the complete Stairway to Heaven was a bit too expensive
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
+image_caption: ""
 ---
 
 [Frieze Art Fair](http://www.friezeartfair.com/) – the 21st century’s answer to the Field of the Cloth of Gold – pitched up in Regent’s Park last week for its ninth year. Drawing galleries from not just the major art hubs but from the world over, they come to present the best of their wares – a shopping opportunity for a (predominantly Russian) few, for the rest of us, a chance to bask in an abundance of the foremost in contemporary art.

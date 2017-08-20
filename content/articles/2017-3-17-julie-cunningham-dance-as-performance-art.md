@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171710-felix-4.jpg"
-image_caption: >
-  Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning
-image_attribution: "Stephen Wrigh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171710-felix-4.jpg"
+image_caption: ""
 ---
 
 Classical dance is about confirmation, while contemporary dance is about exploration.” Classical ballets are drawn from well-known tales; the characters fall into easily recognisable roles – the princess, the knight-errant, the evil queen. By the end of the first act, if not before, we all know how the story ends. Good triumphs over evil, the star-crossed lovers are tragically separated by fate, and so on. Even the language of ballet displays itself in conventional figures such as grand jetés and pirouettes. On the other hand, contemporary dance is characterised by freedom and creativity of movement, with a focus on expressiveness – unlike classical dance, there is often no narrative story and the abstract meaning of a piece is left up to the viewer to decide.

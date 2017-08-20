@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
+image_caption: ""
 ---
 
 Last week at Imperial saw the celebration of the College’s first ever International Week with a great myriad of activities taking place. The Week was set up to promote the cultural diversity present at our university in the hope that all students and cultures are represented and encouraged to express themselves equally.

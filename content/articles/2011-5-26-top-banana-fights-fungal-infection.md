@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262011-felix-banana-split-har-dee-har.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262011-felix-banana-split-har-dee-har.jpg"
+image_caption: ""
 ---
 
 For the past 30 years, the humble banana has been under attack from a fungal invader. Black sigatoga disease, caused by the fungus Mycosphaerella fijiensis, decimates fruit yields and reduces profit yields for some of the poorest farmers in East Africa.

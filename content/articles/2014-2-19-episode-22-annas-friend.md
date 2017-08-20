@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402192126-me1711-games_dayz.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402192126-me1711-games_dayz.jpg"
+image_caption: ""
 ---
 
 If you want to read about the start of Anna's tale, here is the link: [Episode 2.1 Anna's Grace](../games/4371/dayz-episode-21-annas-grace/)[

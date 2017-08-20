@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With any absurd, wildly fantastic or outrageous anecdote about the world beyond our experiences, it is all too easy to dismiss it as an urban myth. The three men in their make-shift lounge dance between light-hearted, ludicrous and downright disturbingly macabre tales, and it doesn’t matter whether the tales being told are true or not. The audience is absorbed and captivated by their delivery, as much as the content. In fact it just so happens that most of these anecdotes are, at least in part, true.

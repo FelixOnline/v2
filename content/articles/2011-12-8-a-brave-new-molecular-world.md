@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082048-pk1811-b010t31j_640_360.jpg"
-image_caption: >
-  Professor David Phillips, president of the Royal Society of Chemistry
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082048-pk1811-b010t31j_640_360.jpg"
+image_caption: ""
 ---
 
 [Professor David Phillips](http://www.rsc.org/AboutUs/Governance/RSCCouncil/CouncilMembersBiography/DPhillipsBio.asp), current president of the [Royal Society of Chemistry](http://www.rsc.org/), took to the lectern on November 8 for the latest [Friends of Imperial College](http://www.friendsofimperial.org.uk/) (FOIC) event.

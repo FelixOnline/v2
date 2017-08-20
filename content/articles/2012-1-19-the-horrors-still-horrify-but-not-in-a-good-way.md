@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The most offensive thing __The Horrors__ have probably ever done is release _Strange House_. The best thing they have ever done would have to be a toss-up between recognising this embarrassment and recording _Sea within a Sea_. What lies inbetween was the live show I attended.

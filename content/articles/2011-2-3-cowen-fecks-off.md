@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032011-nm1010-amamamma.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032011-nm1010-amamamma.jpg"
+image_caption: ""
 ---
 
 While Ireland’s media reports on the in-fighting and dithering of its main parties, the Irish people remain focused on the forthcoming general election - a long-awaited opportunity to choose the politicians they believe to be most capable of managing the greatest crisis in the state’s short history.

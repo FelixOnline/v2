@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101448-felix-swa2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101448-felix-swa2.jpg"
+image_caption: ""
 ---
 
 London took centre stage on the weekend of the 17th to 19th February as over 130 windsurfers from universities across the UK descended on the capital to share in the thrill of Imperial College London’s brand new student windsurfing event: London Calling! Despite light winds the weekend was a rip roaring success and a huge celebration of sport with the horizon scattered with windsurf sails taking in the February sun. The Student Windsurfing Association (SWA) certainly made the most of the many activities held both on and off the water. This weekend will not be forgotten easily and will be the first of many to come.

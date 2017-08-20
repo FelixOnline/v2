@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220207-tna08-bucs%208.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220207-tna08-bucs%208.jpg"
+image_caption: ""
 ---
 
 In a highly successful weekend at Boston, ICBC laid claim to having the fastest 8, the fastest 4 and the fastest women’s quad, as well as medals left, right and centre in other categories. We also finished 2nd in the Victor Ludorum for BUCS points and medals, narrowly behind Newcastle. You cannot argue with that.

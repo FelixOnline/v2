@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You know when Facebook has that dumb “what’s on your mind” thing on the status box, well there’s been one thing on my mind all term. Exams. Trouble is, once you get old (I’m a 4th Year…) you just stop being phased by the whole not-being-able-to-answer-entire-sections-of-exams thing. Maybe I’ve become au fait with how exams at university work, or maybe all us final years are just burnt out and don’t care anymore, oddly at the most crucial stage of our degree. To be honest with you, final years have had so many exams for so long that we’re just bored of them now.

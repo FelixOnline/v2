@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A depleted ICUAFC 1s team made the long journey down to Canterbury for the second time this season; a trek so long that Frodo and Sam would have called it quits once they had inevitably run out of lembas bread. Amjad, Wedemeyer and Cherif Jnr were notable absentees, and with Murphy (Imperial’s resident wildlife expert) in the Library and captain Woodhead out with a broken nail, the team had a fresh new look to it. Thomas and Dabbagh were called up from the 2s to make their first appearances for the 1s this season, whilst new recruit Jones was looking to impress. Imperial started the day top of the BUCS league on 9 points from a possible 12, with Canterbury in joint 2nd, making at least a draw imperative. Minds wandered back to 2 months before where a defensive masterclass allowed Imperial to advance to the 3rd round of the BUCS cup on penalties, something that Canterbury were sure to remember.

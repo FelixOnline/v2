@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106021936-felix-pete-doherty-cmyk.jpg"
-image_caption: >
-  Can’t stand me now? Just wait till I get out of prison
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106021936-felix-pete-doherty-cmyk.jpg"
+image_caption: ""
 ---
 
 The euphoria experienced from taking heroin is caused by a molecule known as 6-monoacetylmorphine (6-MAM) and not morphine as previously thought, says a new study carried out by the [Department of Drug Abuse Research](http://www.fhi.no/eway/default.aspx?pid=238&trg=MainArea_5811&MainArea_5811=5903:0:15,4153:1:0:0:::0:0) at the Norwegian Institute of Public Health. This new understanding of how heroin works could have a profound effect on how we go about managing heroin addiction.

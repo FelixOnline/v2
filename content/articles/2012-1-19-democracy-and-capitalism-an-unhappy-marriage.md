@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When Lehman Brothers filed for bankruptcy on 15 September 2008, it marked the most dramatic collapse of an U.S. firm in history. In many ways, the name of the once fourth biggest investment bank in the United States has become a synonym for the global financial meltdown that shook the world in 2008 and whose aftershocks are still felt today.

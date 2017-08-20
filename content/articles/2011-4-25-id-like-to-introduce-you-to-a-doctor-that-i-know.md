@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104252256-felix-amy-pond.jpeg"
-image_caption: >
-  If that smoking hot blue box doesn't make you want to watch Doctor Who, then I don't know what will
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104252256-felix-amy-pond.jpeg"
+image_caption: ""
 ---
 
 Last Saturday brought the long-awaited first episode of the new season of Dr Who. “The Impossible Astronaut” is the 771st episode of the longest running SciFi TV series, featuring Matt Smith as the eleventh Doctor. The series has made it into the Guinness World Records, employed writers such as Douglas Adams, and experienced a revival in 2005 after 16 years off the air. The run up to this event has been carrying on since the Boxing Day episode – nearly exactly five months of countdown.

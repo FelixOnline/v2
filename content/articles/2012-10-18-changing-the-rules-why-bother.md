@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182214-felix-signing_us_constitutionrgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182214-felix-signing_us_constitutionrgb.jpg"
+image_caption: ""
 ---
 
 I completely accept that few will care. And, I completely accept, that, at the minute, the changes will affect very few people. Changing the Union’s Constitution is important though – and, as well as explaining why I want to do it, I’ll try and explain what needs changing, a little briefer than the four thousand word ‘guide to the twenty-thousand-word constitution’ I’m proposing.

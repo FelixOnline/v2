@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031102-felix-o-DAVID-CAMERON-facebook.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031102-felix-o-DAVID-CAMERON-facebook.jpg"
+image_caption: ""
 ---
 
 As the date of the EU referendum approaches, we are being flooded with Remain vs Exit articles on all media. However, this is NOT going to be another advocating piece. In fact, I am wondering why one even gets to vote on such an issue at all.

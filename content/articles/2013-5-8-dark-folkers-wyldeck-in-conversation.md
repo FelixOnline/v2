@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305082116-tna08-wyldeck.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305082116-tna08-wyldeck.jpg"
+image_caption: ""
 ---
 
 hen off-beat rhythms in Wyldeck’s music progress into double time for ever-exciting choruses, the audience is united in a desire to dance. The difference between audience members will be, instead, that some will favour these flashes of energy whilst others will prefer the more serene moments, perfectly showcasing Cece Wyldeck’s pure treble voice. The music mixes these lullaby moments with tinges of dark rock perfectly. The powerful guitar strokes in the upbeat numbers resonate and are definitely addictive. Despite having only formed in March 2012, the band play as if they had been together for years, understanding exactly how to blend perfectly with each other throughout the variation in songs. They clearly enjoy the experience and so does the audience. Wyldeck’s songs are rich in memorable riffs and flowing melodies, successfully reminiscent of lost folk songs.

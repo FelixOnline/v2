@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032027-nm1010-departed.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032027-nm1010-departed.jpg"
+image_caption: ""
 ---
 
 The Best Picture Award is the most coveted prize at the Academy Awards and is awarded to the the film that Hollywood views as the greatest accomplishment of the past year. It is apparently given to the film that has the greatest script, performances, cinematography, editing and direction but if we look back at all 83 previous winners, what does the Academy really consider when deciding who receives the greatest prize in the film world?

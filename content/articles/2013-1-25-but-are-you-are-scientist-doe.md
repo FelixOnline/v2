@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250136-tna08-smbc-comic-science.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250136-tna08-smbc-comic-science.jpg"
+image_caption: ""
 ---
 
 It’s happened: geek is chic, nerds are sexy, and everyone and their dog is ready to debate with creationists. Like Brian Cox’s smiling, wistful face, science itself is increasingly entering the public consciousness. Every haunt of internet culture – Reddit, 4chan, your Facebook friends, etc. – discusses and valiantly defends science against the evils of false belief.

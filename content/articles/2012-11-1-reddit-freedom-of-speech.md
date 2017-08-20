@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211181624-jp1409-capture.png"
-image_caption: >
-  Turn that frown upside down
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211181624-jp1409-capture.png"
+image_caption: ""
 ---
 
 Somewhere in a dank basement, a high school white American teenager smiles to himself for discovering a cute picture of a cat, worthy of sharing with his peers. He fires up his browser and heads to a website called reddit (www.reddit.com) where he posts a link to his uploaded image in a corner of the website called “Awww”.

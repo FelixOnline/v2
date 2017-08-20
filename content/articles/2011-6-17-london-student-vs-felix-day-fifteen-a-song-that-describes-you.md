@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There's always going to be something pretentious about choosing a song that 'describes' you, but the line "I just want to worry about those sunshine girls" sums up my outlook whenever I'm feeling [a little unmotivated](https://twitter.com/#!/kadhimshubber/status/65502287455457281) about doing Felix.

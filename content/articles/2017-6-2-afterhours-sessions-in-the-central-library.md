@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021545-felix-18379612_1178685945574419_1304019873_o.jpg"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021545-felix-18379612_1178685945574419_1304019873_o.jpg"
+image_caption: ""
 ---
 
 How does one end up in the Library past midnight?  Maybe you had a paper to submit tomorrow. You thought you had everything under control. You were halfway there but you made the mistake of taking a break and committing to an episode of the Great British Bake Off. Six hours later you get a text from your coursemate asking you what reference you used for a thing you haven’t even heard of. You look at the time and have a mini heart episode. You get up from the sofa, the sudden movement giving you head-rush, take a deep breath and make the only decision that makes sense at 1 a.m. on a Thursday. You go to the Central Library.

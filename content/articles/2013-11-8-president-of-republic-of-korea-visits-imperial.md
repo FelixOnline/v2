@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311080911-felix-screen-shot-2013-11-08-at-09.07.06.png"
-image_caption: >
-  President of the Republic of Korea, Park Geun-hye at Imperial
-image_attribution: "Layton Thompson / IMPERIAL COLLEGE LONDON"
-image_attribution_link: "http://imperial.ic.ac.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311080911-felix-screen-shot-2013-11-08-at-09.07.06.png"
+image_caption: ""
 ---
 
 On Wednesday November 6th, the President of the Republic of Korea, Park Geun-hye, came on a visit of Imperial College, in order to make a speech outlining her vision for scientific partnership with “leading scientific nations, such as the UK”.

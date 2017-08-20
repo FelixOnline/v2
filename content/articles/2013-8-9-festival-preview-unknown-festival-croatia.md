@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308092050-jal08-screen-shot-2013-08-09-at-8.50.26-pm.png"
-image_caption: >
-  Not even the organisers know what it is...
-image_attribution: "UknownCroatia"
-image_attribution_link: "http://www.unknowncroatia.com"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308092050-jal08-screen-shot-2013-08-09-at-8.50.26-pm.png"
+image_caption: ""
 ---
 
 Over the last few years Croatia’s coast on the Adriatic has become the go-to spot for electronic music festivals. This year the organisers of Field day, Warehouse Project and Hideout are bringing a fresh party to the region, Unknown.

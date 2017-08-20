@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171441-felix-Screen Shot 2017-02-17 at 14.41.31.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171441-felix-Screen Shot 2017-02-17 at 14.41.31.png"
+image_caption: ""
 ---
 
 The US is what most of us think of when we think of Black Civil Rights, which is where the movement was the most prominent, but seldom do we realise or remember what people in our own communities go through. The recent race row at Oxford University, in which students received an email from staff warning them to be 'vigilant' because a black graduate, Femi Nylander, was seen walking through college grounds, is a true wake-up call. Another investigation last January was called at Cardiff University after 32 undergraduates were suspended from clinical practice, after several others of African heritage, complained about a play performance where a medical student “blacked up” to impersonate a lecturer. Suddenly the wake-up call becomes an edgy, max-volume Monday-morning alarm. These are two of many examples from the university (Latin: universitas, "a whole")  scene – yet we’re supposed to be on the side of New Year where the grass is greener.

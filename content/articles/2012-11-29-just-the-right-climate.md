@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
-image_caption: >
-  Photo by Sonali Campion
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
+image_caption: ""
 ---
 
 The [London Climate Forum](http://www.londonclimateforum.org/), in short, is a fascinating and cutting-edge forum which anybody interested in climate change and sustainability, and even those who aren’t, should endeavour to get involved with.

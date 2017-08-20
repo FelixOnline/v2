@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A big hello to those of you picking up Felix for the very first time. And a very good day to you! You are at the beginning of one of the most exciting, terrifying... and certainly unique periods of your life. University. London. People. It gives me a buzz just thinking about it. To prepare you for what lies in store, I will relate a brief Freshers’ Guide to Imperial. First piece of advice: if you ever need a computer in the library, learn how to say, “Stop playing World of Warcraft and get out!” in five different languages.

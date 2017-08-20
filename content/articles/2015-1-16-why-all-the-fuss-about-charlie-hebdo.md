@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161331-ps3110-bokoharam.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161331-ps3110-bokoharam.jpg"
+image_caption: ""
 ---
 
 The news over the past week has been dominated by stories about the terrorist attacks in Paris, killing 17 people, with the satirical magazine _Charlie Hebdo_ among the targets. Also reported, but to a far lesser extent, are attacks by Boko Haram extremists in Baga, Nigeria, resulting in thousands of deaths. With all the media interest focused on _Charlie Hebdo_ and France, the horrifying events in Nigeria have somewhat fallen by the wayside. Why is it the case that these attacks have received far less media attention, not just globally, but also in Nigeria itself? Is it the case that we in the Western world consider the lives of those lost in France more valuable and worthy of attention?

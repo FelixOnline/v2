@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291108-felix-citizens.jpg"
-image_caption: >
-  London Living Wage is one of their famed campaigns.
-image_attribution: "Citizens UK"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291108-felix-citizens.jpg"
+image_caption: ""
 ---
 
 This week at union council, members were treated to a presentation from Citizens UK with a view to becoming a member of the campaigning charity.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You may have heard news headlines describing the biggest strike in generations happening on 30th November, but perhaps thought little of it. What has striking got to do with students? Especially striking over pensions. Pensions seem ages away, we’re only just dealing with our students loans! The strike may seem like a distant and irrelevant event.

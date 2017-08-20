@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Long before Kate Moss brought the fringe back into the mainstream in 2007, these indie babes were rocking some seriously vision-impairing styles. Forget Cara Delevingne; where we’re going there are no eyebrows. It’s not about seeing the audience anyway, as long as they can see your fringe and you can see your guitar, and the rain doesn’t hit it, you’re away.

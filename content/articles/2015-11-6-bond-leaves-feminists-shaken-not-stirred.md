@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week, along with half the country, I decided to brave the crowded cinemas to see the newest James Bond film, Spectre. Some have described Spectre as gratuitous, but I thought that it was fantastic, both in terms of the cinematography, and the primal enjoyment in watching people get beaten to a pulp. But despite enjoying it, I came out of the cinema with a slightly bitter taste in my mouth.

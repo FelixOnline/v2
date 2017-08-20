@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
-image_caption: >
-
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
+image_caption: ""
 ---
 
 England's Junior Doctors are set to strike again with three 48-hour walkouts planned for the coming two months, meaning that planned operations and procedures may well be affected, but emergency care will be maintained.

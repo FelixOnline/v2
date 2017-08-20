@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092005-ma1307-Lakeb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092005-ma1307-Lakeb.jpg"
+image_caption: ""
 ---
 
 Nestled on the stool, the silhouette was none other than what obstructed me as I wrestled, pints in both grasps, my way to the booth where my friends were seated. I bellowed a ’scuse-me – my voice drowned out amid patrons of the busy Queenstown bar – and attracted his attention. Hysteria, on both our parts, ensued and overwhelmed the venue.

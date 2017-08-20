@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251225-ff712-oscar-peterson.jpg"
-image_caption: >
-  Oscar Peterson
-image_attribution: "Pablo Records"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251225-ff712-oscar-peterson.jpg"
+image_caption: ""
 ---
 
 Look up the word ‘jazz’ in the dictionary and you come to find a whole host of definitions ranging from “a type of American music with lively rhythms” to “meaningless or foolish talk” or indeed anything in between. If we stick with the former definition, jazz could be assumed to have its roots in ragtime music, whereas with the latter we are left to question whether jazz should be confined to a sole genre within the realms of music. Some of us, for instance, imply that ‘jazzing’ something up is the process of making it more interesting. Be it in a musical sense or not, jazz fundamentally reflects the art of spontaneity, an art that gained popularity at the beginning of the 20th century.

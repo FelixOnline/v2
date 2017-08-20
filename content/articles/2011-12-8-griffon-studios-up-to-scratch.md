@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112081957-pk1811-aerial_view[1].jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112081957-pk1811-aerial_view[1].jpg"
+image_caption: ""
 ---
 
 The Christmas holidays approach, signalling the end of the first term for the residents in the new [Griffon Studios](http://www.gradpaduk.com/properties/griffon-studios). The new halls of residence, branded a part of accommodation option provider GradPad, opened this October exclusively for postgraduate students. Located south of the river in Battersea, it boasts “affordable, secure and high quality accommodation”. It emulates top-notch student living; over 450 modern studio apartments with wireless internet, free gym on site, large social space with plasma TVs, and a host of shops within five minutes walk. But has this ‘GradPad’ lived up to all of these claims? Upon investigation beneath the shiny exterior of Griffon Studios, cracks appear to have emerged.

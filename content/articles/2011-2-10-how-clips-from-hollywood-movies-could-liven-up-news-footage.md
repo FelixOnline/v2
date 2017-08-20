@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As news breaks at 7am about a man fighting the Russian airforce in the Indian Ocean, the BBC use live footage. They cut to Tom Cruise celebrating victory after shooting down all the enemies, despite his sadness at the loss of his co-pilot.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161625-felix-2nd game vs pirates.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161625-felix-2nd game vs pirates.jpg"
+image_caption: ""
 ---
 
 It was an early rise. Apparently too early for some of our squad. We embarked on our journey to the University of East Anglia Pirates with a heavily depleted squad and a hubris that we would make them walk the plank once again.

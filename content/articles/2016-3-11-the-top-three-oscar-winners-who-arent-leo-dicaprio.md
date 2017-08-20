@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Well damn, he did it. The meme is dead. 22 years after his first nomination, good old Leo has finally nabbed his long-awaited Oscar for his leading role in Alejandro Iñárritu’s epic _The Revenant_. Whilst this is good news, let’s not get carried away in our celebrations. Why not have a look at some of the other winners of the night. Hint: Sam Smith does not feature.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
-image_caption: >
-
-image_attribution: "Peccadillo Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
+image_caption: ""
 ---
 
 _Who’s Gonna Love Me Now_ is a touching documentary which follows the story of Saar Maoz, a 40-year-old Israeli man living in London. Maoz is a proud member of the London Gay Men’s Chorus, which has been a source of support and love through a difficult time in his life. The bulk of the documentary, however, revolves around Saar’s conservative family in Israel, their relationship with his sexuality, and – perhaps most importantly – their attitude to his diagnosis of HIV.

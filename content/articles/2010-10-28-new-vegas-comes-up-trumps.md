@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282024-ma1307-fallpout.jpg"
-image_caption: >
-  The harsh realities of government have really changed Nick Clegg...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282024-ma1307-fallpout.jpg"
+image_caption: ""
 ---
 
 Fallout: New Vegas brings us back to post-apocalyptic America to travel the vast wastelands once again. The story begins with you awaking in a room to discover you’ve just gone through surgery after being found shot and left for dead.

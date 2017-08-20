@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070148-tna08-fashion-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070148-tna08-fashion-1.jpg"
+image_caption: ""
 ---
 
 Common knowledge to anyone who actually wants to embark upon a career in the near future, the world economy is dragging its feet along the ground and practically all global growth has been brought to a grinding halt. The unfortunate result from all of this, besides the lack of money each and every one of us is painfully aware of, is the negative commotion surrounding the luxury sector.

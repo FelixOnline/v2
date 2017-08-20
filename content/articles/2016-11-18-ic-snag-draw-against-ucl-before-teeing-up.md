@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181705-felix-Pub Golf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181705-felix-Pub Golf.jpg"
+image_caption: ""
 ---
 
 The 9th of November saw the rugby 1st XV arrive at their ever windy fortress Harlington to face UCL. After a brief hiatus during the warm-up, the team were out for a few minutes before heading back into the changing room to slide on their ‘mysteriously moist’ playing shirts.

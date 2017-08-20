@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
-image_caption: >
-
-image_attribution: "Warner Bros"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
+image_caption: ""
 ---
 
 Degraded, slapped around, humiliated and undressed in front of the camera” wrote Roger Ebert, esteemed American film reviewer, of Isabella Rossellini’s performance in David Lynch’s 1986 film Blue Velvet. “When you ask an actress to endure those experiences, you should keep your side of the bargain by putting her in an important film.” Ebert’s feelings on the film – which were resoundingly negative – were unchanged up until his death in 2013, but clearly many people disagree: last week saw the re-release of the 30th anniversary edition of Blue Velvet. Today, Blue Velvet stands among one of the greatest films of the 1980s, and marked a turning point in David Lynch’s illustrious and beguiling career. Call it masochistic, pretentious, or even misogynistic if you want – just don’t call it unimportant.

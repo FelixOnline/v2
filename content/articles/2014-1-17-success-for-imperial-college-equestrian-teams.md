@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the 11th December 2013 both of Imperial’s Equestrian teams had their second competitions of the year. The first team was hosting their competition at Trent Park Equestrian Centre and the second team were visiting Southampton.

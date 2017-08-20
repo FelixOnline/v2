@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001212137-rsp07-unionnig.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001212137-rsp07-unionnig.jpg"
+image_caption: ""
 ---
 
 <span style="\"font-size:" 14px;\"="">Violence erupted at the Union on Friday night after a guest of an Imperial student was left with a bloody face after being attacked by a member of College staff on his last day of work.

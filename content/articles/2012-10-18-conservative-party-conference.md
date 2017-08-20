@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Party conference – the political equivalent of the office Christmas party. Careers are made or broken; too much alcohol and inappropriate sex; and all the dirty secrets get out. Thankfully much of that goes on behind the scenes, because the novelty of catching politicians with their trousers round their ankles would wear off pretty soon.

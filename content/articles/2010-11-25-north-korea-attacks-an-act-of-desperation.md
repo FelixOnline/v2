@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252102-nm1010-northkor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252102-nm1010-northkor.jpg"
+image_caption: ""
 ---
 
 North Korea’s unprovoked attack this Tuesday on a South Korean island, just 120km from Seoul, threatened to break the fragile peace with its southern neighbour. Resulting in the death of two soldiers and two civilians, the artillery assault was denounced by the UN as ‘one of the worst violations’ of the armistice which ended the Korean War in 1953. But far from showing strength, many analysts are suggesting that the attacks signal the final thrashes of a dying beast. Rumours abound that North Korea’s aging ruler, Kim Jong Il, is in poor health and many have questioned his choice of his youngest son, Kim Jong Un, who is perceived as a weak choice to head the world’s fourth largest standing army.

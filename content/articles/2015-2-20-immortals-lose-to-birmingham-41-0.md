@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Valentines Day was a special day in every Immortal’s heart this year as it saw us travel to Birmingham to take on the best team in the country. After taking five hours to get to the pitch after multiple motorway closures and heavy traffic on Country Roads, the mood on the bus was a little down but C’est La Vie and Blame It On The Weatherman for the fog causing accidents. Once we arrived in Birmingham to face the Lions the mood switched to one of focus after seeing the 90-man Birmingham horde we were to face. The Immortals kicked off to start the game, only an hour and a half late, and Birmingham returned well. The Immortals defence came out firing and Arjav picked off the Lions quarterback in our own end-zone.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503031413-ps3110-screen-shot-2015-03-03-at-14.13.00.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503031413-ps3110-screen-shot-2015-03-03-at-14.13.00.png"
+image_caption: ""
 ---
 
 An empire can be measured not by the length of its borders, or by the riches of its lands, but by the quality of its sculptures. At least, this is what the __Tate Britain__ is trying to argue, with its newest exhibition _Sculpture Victorious_, an ode to the golden age of British sculpture. Actually, perhaps that first sentence should be amended to read “the quantity of its sculptures”, since it was during the Victorian era that the country experienced a surge in sculpture production, unprecedented in its history, which culminated in the reconstruction of the Palace of Westminster, destroyed in a fire a couple of years before Victoria came to the throne.

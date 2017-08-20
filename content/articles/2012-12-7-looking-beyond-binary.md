@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070126-tna08-beyond-binary.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070126-tna08-beyond-binary.jpg"
+image_caption: ""
 ---
 
 Speculative fiction, that hard-to-define genre that encompasses everything from science fiction to alternate histories, is all about the fantastical, the what-ifs. It is all about imagination. It’s a genre that challenges the reality that we live in, dreaming of and exploring new ideas about society. Stories exploring gender-identity, therefore, are perfect for such a genre.

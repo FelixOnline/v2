@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What is a Sigmar Polke? You are first exposed to strange drawings, soon giving way to intense dotted portraits, where eyes become mere dark recesses, their superficial happiness running thin. Buildings at night that are made of melting ice cream, a supermarket full of Supermen, an office worker about to shoot himself in the head with a catapult, collages of things not disincluding porn, and a really, really big Chairman Mao’s head. Blurred, nearly ethereal photos of homeless guys. You know those times when you remember that capitalism is built on false promises? This kind of brings you to that point a bit quicker.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131442-ygr12-12236867_917274504988883_1675332240_o.jpg"
-image_caption: >
-  Behold the glorious mole rat. This lovable creature may hold the secrets to curing cancer.
-image_attribution: "Roman Klementschitz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131442-ygr12-12236867_917274504988883_1675332240_o.jpg"
+image_caption: ""
 ---
 
 Cancer is one of the scourges of humanity.

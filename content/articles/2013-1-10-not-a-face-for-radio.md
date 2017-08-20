@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102233-csw09-phone.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102233-csw09-phone.jpg"
+image_caption: ""
 ---
 
 The Boy with Tape on his Face aka Sam Wills has been causing something of a splash in recent year. From street performances in Covent Garden he has shot up the comedy league tables with hits at the Fringe, the Melbourne Comedy Festival and, in 2011, the Royal Variety Show. His unique brand of comedy has to been seen to be believed.

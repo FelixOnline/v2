@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051709-tna08-steve_irwin.jpg"
-image_caption: >
-  Steve Irwin didn’t have Urbach-Wiethe disease. Dude just had balls of steel
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051709-tna08-steve_irwin.jpg"
+image_caption: ""
 ---
 
 “You asked me once, what was in Room 101. I told you that you knew the answer already. Everyone knows it. The thing that is in Room 101 is the worst thing in the world.”

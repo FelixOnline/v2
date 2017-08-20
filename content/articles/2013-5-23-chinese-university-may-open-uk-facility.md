@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
-image_caption: >
-  Looks like they rejected my pink marble tower with two side structure design. Wonder why...
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
+image_caption: ""
 ---
 
 [Imperial College London has signed a memorandum of understanding with Zhejiang University (ZJU) ](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_17-5-2013-15-14-49)that could see the creation of a UK facilty for the Chinese university at White City, where Imperial’s new Imperial West campus is to be built.

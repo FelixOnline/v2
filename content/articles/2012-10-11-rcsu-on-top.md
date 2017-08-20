@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210161532-felix-plabon-mascot.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210161532-felix-plabon-mascot.jpg"
+image_caption: ""
 ---
 
 Fresher’s Fair 2012 saw an unprecedented rise in mascotry and the RCSU-CGCU rivalry was re-ignited with a burning vengeance. After the capture of the ICSMU’s Phoenix head last year the RCSU went a step further as it is currently holding onto City and Guild Union’s Bolt and Spanner and the ICSMU’s Phoenix feet. However, it pains me to say that our beloved mascot Theta was violated as well and one of its four parts is currently in the hands of the dirty engineers in CGCU.

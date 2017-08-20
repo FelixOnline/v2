@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
+image_caption: ""
 ---
 
 In the Tate Britain, among the historical portraits and seascapes, the Van Dyke's and Van Eyck's, there is one picture that never fails to catch my eye. Entering the 1540 room, marking the beginning of British fine art, four pairs of eyes glare out at you from a single panel. An oil painting on wood, _The Cholmondeley Ladies_ depicts two women, dressed in bleached-white finery, and resembling pieces of bone china, who each carry an infant swaddled in a blood red christening gown.

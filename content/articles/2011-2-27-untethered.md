@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271923-ks607-untether.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271923-ks607-untether.jpg"
+image_caption: ""
 ---
 
 The Untethered installation is the best use of the space in Imperial’s Blyth Gallery that I have seen since I started occasionally visiting four years ago. The normally minimalist gallery let go and featured a flock of origami birds surging out from one corner to finally disappear up into the spaces in the ceiling at the far end. The calm whiteness was a perfect setting for the 2208 delicate paper birds, folded from individual pen and ink drawings and black and white photographs. For me, perhaps even more exciting was the lighting, which was beautifully executed to throw a mirroring flock of hazy shadows onto the bare gallery walls.

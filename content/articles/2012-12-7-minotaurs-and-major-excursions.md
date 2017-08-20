@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070223-tna08-bulls.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070223-tna08-bulls.jpg"
+image_caption: ""
 ---
 
 The [Architect](http://www.nationaltheatre.org.uk/shows/the-architects-shunt-at-the-biscuit-factory) is Shunt’s first production in three years and it was well worth the wait. Shunt is an unusual collective centred round an experimental theatre company. The group have had a presence around East London for years. Some readers might just remember the astonishing club they ran in the tunnels under London Bridge station of the same name. It was amazing folks; the only dance floor I have ever graced where one of the major dangers was drunk rickshaw drivers. The core work of Shunt however has always been theatre and so, as I traipsed my way into the wilds of Bermondsey to their new hideout in an abandoned biscuit factory, I was more than a little excited.

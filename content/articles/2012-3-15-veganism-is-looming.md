@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152059-ig711-img-20120207-00363.jpg"
-image_caption: >
-  “And we’re back in the game!”
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152059-ig711-img-20120207-00363.jpg"
+image_caption: ""
 ---
 
 With our final week of veganism looming, it’s time for us to look back at what we’ve achieved so far as well as look forward to our unrestricted diets! We’ve enjoyed being vegan more than we thought we would. Our preconception of the vegan lifestyle was that of tasteless and unfulfilling meals that satisfied your body, but not your mind. So it was a surprise when we found that actually some parts of being vegan were pretty good.

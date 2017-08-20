@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Lib Dems have been criticized by everyone and their dog since they joined the coalition last May – the turnaround on tuition fees, their complicity in the public sector cuts, allowing the Tories in to Number 10. We’ve all heard it before: the Lib Dems are doomed, we’ll never vote for them again, yadda, yadda, yadda.

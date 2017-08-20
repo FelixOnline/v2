@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
-image_caption: >
-  Gotham City has a new swim group.
-image_attribution: "Syncronised Swimming"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
+image_caption: ""
 ---
 
 On Saturday 27th February Imperial College’s Synchronised Swimming Team swam in the Middlesex Synchronised Swimming championships, winning the silver medal in the “Masters 20+” age category.

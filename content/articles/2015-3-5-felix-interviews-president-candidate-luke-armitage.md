@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503052125-snb11-la911-5518.jpg"
-image_caption: >
-
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503052125-snb11-la911-5518.jpg"
+image_caption: ""
 ---
 
 ![Screen Shot 2015-03-02 at 17.23.50.png](../inc/timthumb.php?src=/img/upload/201503091457-ps3110-screen-shot-2015-03-02-at-17.23.50.png&w=460px&zc=1&a=t)

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Of all the highlights that come with every lap the Earth makes around the Sun, Valentine’s Day I think is the trickiest. For some, it’s plain tiresome, as all media seem to gravitate around hearts and puppies and little naked children with wings. On any other day, these things would rarely feature among your top interests, unless you’re a veterinary cardiologist...or a paedophile. But for those you for whom it has become important, it is on a par with the worst Lovecraftian nightmare: finding that special someone (for 24 hours at least), making reservations, rehearsing with painstaking precision your spontaneous wit for the evening, practising dance moves that suggest a basic understanding of rhythm, and at last, at the end of evening, scouring the whole of west London for a place that sells...a puncture repair kit.

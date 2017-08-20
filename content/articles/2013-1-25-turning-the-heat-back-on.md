@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250149-tna08-18909.jpg"
-image_caption: >
-  When he released the single Nelly didn’t know hot to control heat, but maybe researchers at MIT do..
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250149-tna08-18909.jpg"
+image_caption: ""
 ---
 
 A researcher at the [Massachusetts Institute of Technology](http://www.mit.edu/) (MIT) has, through his self-devised technique, managed to successfully exercise control over heat the same way we enjoy control over light through mirrors and lenses (most disappointingly falling short of developing a giant heat ray, for the time being). This new technique, which utilises semiconducting alloy crystal nanostructures and similar materials, manipulates the physical separation between atoms so that they correspond to the wavelengths of heat phonons.

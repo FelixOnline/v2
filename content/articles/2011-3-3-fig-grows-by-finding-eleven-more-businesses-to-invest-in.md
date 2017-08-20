@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032031-nm1010-figfigfi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032031-nm1010-figfigfi.jpg"
+image_caption: ""
 ---
 
 _[Read part one](http://felixonline.co.uk/biz/981/the-economy-and-small-businesses/)_

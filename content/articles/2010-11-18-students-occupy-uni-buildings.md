@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182151-ks607-mancoccu.jpg"
-image_caption: >
-  Manchester students occupying
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182151-ks607-mancoccu.jpg"
+image_caption: ""
 ---
 
 Around 70 students from the University of Manchester and over 170 from the University of Sussex have staged sit-ins and occupied university buildings in order to protest that government’s near 80% cut to teaching budgets.

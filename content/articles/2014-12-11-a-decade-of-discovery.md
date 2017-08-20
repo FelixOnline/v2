@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112032-cj914-cassini-2.jpg"
-image_caption: >
-  In the 10 years Cassini has been in orbit around Saturn, its data has revolutionised our understandi
-image_attribution: "NASA/Cassini"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112032-cj914-cassini-2.jpg"
+image_caption: ""
 ---
 
 __Could you please tell me a little about exactly what your involvement in the mission is? __

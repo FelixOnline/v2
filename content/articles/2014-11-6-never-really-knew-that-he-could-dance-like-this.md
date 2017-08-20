@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
-image_caption: >
-  Sunny the Shake Boy at Arabic Night.
-image_attribution: "Meilin Sancho"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
+image_caption: ""
 ---
 
 A_rabic Night_ is a monthly Middle Eastern dance showcase in central London and is a regular favourite of the Imperial College Belly Dancing Society. Last Sunday around 15 of us headed to the fancy Moroccan and Lebanese restaurant __Maison Touareg__, located in the heart of Soho.

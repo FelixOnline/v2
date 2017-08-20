@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312305-tna08-tedmedstage.jpg"
-image_caption: >
-  SAF just got a makeover
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312305-tna08-tedmedstage.jpg"
+image_caption: ""
 ---
 
 Fresh from the excitement of last year’s incredibly successful TEDx event, those great TED vibes return to Imperial College once more, this time bringing with them [TEDMEDLive](http://www.tedmed.com/event/tedmedlive).

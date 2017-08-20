@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
+image_caption: ""
 ---
 
 If you like your Felix lighthearted, you may want to turn the page, because this article is anything but. The seeds of my piece were planted when I heard that one of my friends was planning to attend [CodeF](http://www.ukcodef.com/), a Google networking event ‘exclusively for female computer scientists’ attending top universities here in the UK. These kind of events are commonplace at Imperial, women-only events meant to encourage female scientists and engineers to apply to the top jobs in the country, jobs that are skewed heavily towards men. Unfortunately, these firms are fighting a battle that is very near lost in a fashion that places gestures over results. The losers are not the women already at Imperial, but the many women who will be turned away before they even get the chance to wine and dine with Britain’s best.

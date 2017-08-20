@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306051223-tna08-homestuck2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306051223-tna08-homestuck2.jpg"
+image_caption: ""
 ---
 
 I am an avid follower of many webcomics – both of those with standalone strips and those with longer running storylines. I have, however, found that for the most part, apart from the means of distribution, they don’t differ all that much from their print counterparts. Despite the many creators out there producing brilliant work, there are very few who have attempted to utilise the internet as a creative medium to its full potential. One of the few who, in my opinion, has, is Andrew Hussie, creator of Homestuck.

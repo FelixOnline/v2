@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122110-jal08-imperial-design-collective.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122110-jal08-imperial-design-collective.png"
+image_caption: ""
 ---
 
 As I walk below the Queen’s Tower, before an evening in Central Library, I look up at the surrounding buildings (you guessed it… I’m a civil engineering undergrad!) and the environmental conscience inside me is thinking: “What are all these rooms doing lit-up? We should be turning the lights out as soon as students leave their lectures and tutorials...” Little did I know that within these rooms, there are students. Some of them are studying, but others are doing something even better! They’ve just decided to create a new society at Imperial!

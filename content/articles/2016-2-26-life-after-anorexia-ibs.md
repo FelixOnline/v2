@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261202-felix-_DSC0326.jpeg"
-image_caption: >
-  We all know it’s unhealthy, but IBS is a lesser known consequence of anorexia.
-image_attribution: "Newscast UK"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261202-felix-_DSC0326.jpeg"
+image_caption: ""
 ---
 
 People often speak about the risks of anorexia and bulimia – how they can kill you, make your bones brittle and your hair fall out.

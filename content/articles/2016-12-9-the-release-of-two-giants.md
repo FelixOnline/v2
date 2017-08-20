@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091606-felix-8485649953_12890f4009_o.jpg"
-image_caption: >
-
-image_attribution: "Pauli Marttinen"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091606-felix-8485649953_12890f4009_o.jpg"
+image_caption: ""
 ---
 
 Ten years is a very long time. Ten years ago in 2006, the Xbox 360 had been out for a year and both the Wii and PS3 were released. Call of Duty 4: Modern Warfare released the following year, thus starting the boom of first person shooters. The original iPhone didn’t even release until 2007; instead, the newest portable Apple device was the iPod 5G. NASA also launched their New Horizons space probe to perform a flyby of Pluto, which it just completed in October 2016.

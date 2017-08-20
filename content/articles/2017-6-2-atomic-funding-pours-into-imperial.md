@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021549-felix-trident sub.jpg"
-image_caption: >
-
-image_attribution: "Defence Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021549-felix-trident sub.jpg"
+image_caption: ""
 ---
 
 The Atomic Weapons Establishment (AWE) has long been responsible for the UK’s nuclear deterrence programme. In addition to providing the nuclear warheads for each of the Vanguard submarines that make up Trident, the AWE contributes significant amounts to the coffers of Imperial.

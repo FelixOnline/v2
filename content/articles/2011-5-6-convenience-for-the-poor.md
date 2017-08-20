@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105061602-felix-greggs_int-editted.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105061602-felix-greggs_int-editted.jpg"
+image_caption: ""
 ---
 
 It is just fat pikeys that shop in Greggs. Surely? I mean, it must only be they who demand an opening time of 0700 on weekdays, freshly-baked multi-grain loaves, Empire biscuits, and roasted chicken sandwiches complete with delicate slivers of red onion. Must be. There is no other answer, clearly.

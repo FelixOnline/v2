@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505061733-ps3110-il-turco-in-italia-009.jpg"
-image_caption: >
-  The Royal Opera House’s Il Turco In Italia
-image_attribution: "Tristram Kenton/The Guardian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505061733-ps3110-il-turco-in-italia-009.jpg"
+image_caption: ""
 ---
 
 It would be understandable if a comic opera about a love triangle – featuring a randy Turkish prince, a doddering old man, and his unfaithful young wife – struggled to be relevant. Throw in a few jokes about Gypsies, the inconstancy of women, and old men falling into plates of spaghetti and it turns into an unpalatable cocktail of racism, sexism and slapstick comedy.

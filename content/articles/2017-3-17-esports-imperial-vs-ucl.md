@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
-image_caption: >
-  et that APM (actions per minute you noob!) just right
-image_attribution: "Gotta gSaad Ahmed"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
+image_caption: ""
 ---
 
 For most people, the 12th of March was just another Sunday. For a group of certain individuals, however, it was a chance for lasting and eternal glory. Well, more like temporary happiness for a few days, but hey, we all have to take what we can get.

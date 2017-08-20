@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142114-pk1811-physical-pixels-heads-index.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142114-pk1811-physical-pixels-heads-index.jpg"
+image_caption: ""
 ---
 
 I run into Simon Bond on the second floor landing of their Dean St. office and, assuring me that yes, the unworkable doorbell often plays up, he directs me into the studio.

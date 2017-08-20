@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082112-cac111-black-mirror-007.jpg"
-image_caption: >
-  Look at the massive bogie i just mined from my nose!
-image_attribution: "Channel 4"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082112-cac111-black-mirror-007.jpg"
+image_caption: ""
 ---
 
 I am a great admirer of Charlie Brooker. He is a master of satire and biting social commentary and so I had very high expectations of his latest work – the three part anthology miniseries _Black Mirror_, the first episode of which was broadcast this Sunday. I am happy to say that these expectations were more than fulfilled.

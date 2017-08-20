@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 She didn’t stand a chance. Carrying underarm the small goat she was hoping to trade, Akiru could only join the other traders as they were rounded up in a small village along Ethiopia’s border with Kenya. The following morning she was one of twenty Kenyans carried away in bin bags by Catholic missionaries in a tractor. She was shot at close range.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
-image_caption: >
-  Lord Winston took the opinion that religion is not harmful to the progress of science at the debate.
-image_attribution: "Imperial Debating"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
+image_caption: ""
 ---
 
 Imperial College Union Debating Society’s first public debate of the year saw students debate Lord Professor Robert Winston and Bioengineering Senior Lecturer Dr Jennifer Siggers on the motion “This house believes that religion is harmful to the progress of science” in front of a packed lecture theatre.

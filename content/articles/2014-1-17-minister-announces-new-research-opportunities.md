@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 New funding for UK research institutions has been announced by the Minister of State for Universities and Science, David Willetts. During a visit to Imperial College last Friday, Willetts announced the formation of nineteen new Centres for Doctoral Training (CDT) which will be funded through the Engineering and Physical Sciences Research Council (EPSRC) with the money ultimately sourced primarily from industry partners. CDTs are an increasingly common means of providing PhD studentships – with each centre offering a four year course in a particular area of science and engineering, focusing on research but also including taught elements.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
-image_caption: >
-  No. I ordered Coke. If I wanted a fucking Pepsi I would HAVE SAID
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
+image_caption: ""
 ---
 
 They first met in 1995. Jesse (Ethan Hawke) approached Celine (Julie Delpy) on a train from Budapest. They talked, they connected, and they parted, promising to meet each other six months later. They met again in 2004, with the hastily arranged meeting never having taken place. Once again they talked, they connected, and they prepared to part, only for the audience to figure out in 2013 that in fact, they didn’t part. Turns out Jesse missed the flight he was supposed to catch from Paris back to America, and they had been together since then.

@@ -1,7 +1,7 @@
 ---
 id: "nh1209"
 title: Nabih Hanbali
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: ""
 facebook: ""
 website_url: ""

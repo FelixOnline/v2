@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This Tuesday saw the launch of the Science Museum’s latest exhibition, Collider. The £1 million exhibition was developed in close collaboration with CERN. It provides an insight into both the workings of the collider itself, but also takes visitors through the story of the discovery of the Higgs Boson, its latest successful endeavour in its research into particle physics.

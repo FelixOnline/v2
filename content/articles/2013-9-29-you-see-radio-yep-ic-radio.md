@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291714-tna08-beatlescutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291714-tna08-beatlescutout.jpg"
+image_caption: ""
 ---
 
 You have a student radio station. It’s in Beit’s West basement, just next to the Felix office and to be frank, it’s pretty awesome. We have about 10,000 CDs and vinyls down there, we host live bands from our recording studio (yep, got one of them too) and you can have listen at www.ICRadio.com.

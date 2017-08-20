@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102050-ks607-tomaiken.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102050-ks607-tomaiken.jpg"
+image_caption: ""
 ---
 
 This began when she said “Hey, I’ve got this lab report to finish and I don’t have time to finish that article for Felix. Can you throw an article together instead?”

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042028-cj914-img-20141122-wa0010-2.jpg"
-image_caption: >
-
-image_attribution: "ICUAFC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042028-cj914-img-20141122-wa0010-2.jpg"
+image_caption: ""
 ---
 
 After weeks of deliberation and minutes of research, tour secretary Naven Ghulam came to the decision that Imperial College Union Association Football Club (ICUAFC) and its hordes of Rangers were to return to the tour destination from two years ago: the lovely sea side town of Brighton. The day began as Philipp Gerstenberg arrived for his first pint at the union a good eight hours before the scheduled departure time. The Tour Sec was bombarded with questions on a range of topics using the hashtag #AskNav. Despite his ability to keep calm in answering these questions, it soon became apparent that he was in fact from the Matt Cann school of tour secs and that the tradition of incompetency was to be carried on. Refusing to let this setback hold them down, the army of Rangers powered on as more and more joined the cause.

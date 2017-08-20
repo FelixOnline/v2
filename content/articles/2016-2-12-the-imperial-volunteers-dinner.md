@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
-image_caption: >
-  PwC Presents: Volunteer Dinner organisational committee.
-image_attribution: "Ju Yoo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
+image_caption: ""
 ---
 
 Over the past few months, my team and I have been organising an event called Pwc Presents: Volunteer Dinner; an event to celebrate the hard-work of Imperial’s volunteers, to help promote volunteering societies and to build new relationships between societies. There’s been a huge wealth of support for this new event and I hope that this dinner will help other volunteers as I hope it will help me.

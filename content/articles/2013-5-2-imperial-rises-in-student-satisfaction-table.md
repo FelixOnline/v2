@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College London have placed 41 in the [Times Higher Education Student Experience Survey](http://www.timeshighereducation.co.uk/news/the-student-experience-survey-2013/2003450.article). This is up from a position of 71 last year. University of East Anglia came top of the table, with Oxford in second and Sheffield in third.

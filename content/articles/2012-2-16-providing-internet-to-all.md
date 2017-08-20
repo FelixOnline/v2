@@ -36,14 +36,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162054-ams111-aurora.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162054-ams111-aurora.jpg"
+image_caption: ""
 ---
 
 Can you imagine a day without the internet? Today communication touches every aspect of our lives from social networking to business. We exploit information technology to enhance the learning experience through the use of the internet, supported by online initiatives such as podcasts and Virtual Learning Environments. However in countries such as Morocco, Thailand, India and Nepal, social and economic development is restricted by a lack of communications infrastructure.

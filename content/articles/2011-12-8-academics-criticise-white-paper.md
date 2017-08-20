@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [In a letter to _The Daily Telegraph_ this week,](http://www.telegraph.co.uk/comment/letters/8938812/Universities-should-not-be-run-for-profit.html) academics, including professors from Imperial College London, Oxford and Cambridge, criticised government White Paper proposals for higher education reform, specifically the idea of universities being run by private companies, i.e. for profit. They warn it will be to the detriment of students, graduates and taxpayers. They believe the proposed system will emulate private universities in the US, claiming that in the US higher education system, “for-profit companies offer derisory graduation rates, crushing levels of debt and degrees of dubious value.”

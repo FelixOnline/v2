@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205242349-mc4509-homepage-slide-2.jpg"
-image_caption: >
-  Panopto provides services for Fortune 500 companies
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205242349-mc4509-homepage-slide-2.jpg"
+image_caption: ""
 ---
 
 Plans to record lectures are set to finally come to fruition next academic year. College is set to work with video capture platform [Panopto](http://www.panopto.com/) in order to ensure that lectures are made more accessible to students.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092249-pk1811-pia11718.jpg"
-image_caption: >
-  NASA’s Mars Phoenix Lander on the surface of Mars
-image_attribution: "NASA/JPL-Caltech/University of Arizona/Texas A&M University"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092249-pk1811-pia11718.jpg"
+image_caption: ""
 ---
 
 While May 25, 2008 – the date of the Phoenix lander’s descent onto Mars’ surface – may be a day long forgotten for most, the same cannot be said of [Dr Tom Pike](http://www3.imperial.ac.uk/people/w.t.pike) of the Department of Electrical and Electronic Engineering at Imperial College London and his team, who, for the last three years, have been analysing data provided by the lander, along with colleagues. The results of their work were discussed at a [European Space Agency](http://www.esa.int/esaCP/index.html) meeting last Tuesday.

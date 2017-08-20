@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271047-felix-dave & boris.jpg"
-image_caption: >
-  We're stuck choosing the lesser of two evils.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271047-felix-dave & boris.jpg"
+image_caption: ""
 ---
 
 I have written many times for FELIX with trollish tones and hyperbole, but this time, there is no exaggeration in what I say: I can think of no worse political catastrophe in our time than the UK leaving the European Union, perhaps only rivalled by a Trump presidency.

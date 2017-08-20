@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091635-tna08-img_8388grb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091635-tna08-img_8388grb.jpg"
+image_caption: ""
 ---
 
 It’s been a question that has floated around Imperial College Union’s Gaming Club for years now – why don’t we play anyone else? This year, gears actually started moving.

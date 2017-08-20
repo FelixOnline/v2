@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
+image_caption: ""
 ---
 
 When it comes to Twitter, musicians usually have one of two personalities:

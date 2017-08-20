@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091937-ps3110-backchat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091937-ps3110-backchat.jpg"
+image_caption: ""
 ---
 
 Jack Whitehall has returned for the second season of _Backchat with Jack Whitehall_. His attempt to break into chat shows, however, can only be summarised in one word: awkward. Be it because of the presence of his elderly father, or because of the strange formulation of the show, watching it without cringing is actually virtually impossible.

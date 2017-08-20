@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
-image_caption: >
-
-image_attribution: "RCSU"
-image_attribution_link: "https://www.facebook.com/media/set/?set=a.10153350302595195.1073741829.83336780194&type=1"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310120206-jal08-1275276_10153350305460195_1433117591_o.jpg"
+image_caption: ""
 ---
 
 Two of Imperial’s Faculty Unions, the Royal College of Science Union (RCSU) and the City & Guilds College Union (CGCU) have recently been involved with various “mascotry” activities over the last month. The activities began when the RCSU President Plabon Saba was escorted to the RCSU office in a slightly inebriated state before the start of term. One of the escorts, an engineer took advantage of the RCSU President’s state and was able to remove the RCSU mascot, Theta the Thermometer, from the office.

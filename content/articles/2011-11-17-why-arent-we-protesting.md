@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172112-pk1811-img_8346.jpg"
-image_caption: >
-  Last Wednesday’s protests attracted thousands of students from across the country
-image_attribution: "Tommy Allieri"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172112-pk1811-img_8346.jpg"
+image_caption: ""
 ---
 
 The past year has seen student activism reach previously unmatched levels. Just over a year since the first major protest against the Coalition Government’s policies on higher education, the past week has seen another take place on the streets of London. Organiser for the National Campaign Against Fees and Cuts Michael Chessum has announced a further day of action next week on November 23.

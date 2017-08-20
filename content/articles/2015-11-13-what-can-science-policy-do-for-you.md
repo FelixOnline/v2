@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131439-ygr12-12218729_917276491655351_1827151619_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131439-ygr12-12218729_917276491655351_1827151619_o.jpg"
+image_caption: ""
 ---
 
 In a university populated by scientists, it can be very easy to lose sight of the world outside. Of course, science is important – we know that; we are studying it. But how many people outside of the science bubble really appreciate what science is telling us, and what it can say on some of the big issues that influence our lives?

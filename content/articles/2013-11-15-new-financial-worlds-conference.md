@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 March 2011 saw Imperial College Finance Society hold their first ever conference at the highly impressive Bloomberg Headquarters. It was here that the New Financial Worlds Conference was born. With an attendance of over 200 individuals from a diverse range of backgrounds, universities and professions, it was a real opening success for the society. Now in its fourth iteration, the New Financial Conference 2013 will be held in the prestigious Barbican on the 30th November.

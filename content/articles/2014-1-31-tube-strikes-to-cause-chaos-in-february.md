@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Transport for London have announced that next week there will be disruption to underground travel. On Wednesday 5 February and Thursday 6 February walkouts are expected. Services will be affected from as early as 21.30hrs on February 4 so don’t get caught out.

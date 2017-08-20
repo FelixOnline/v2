@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192029-pk1811-war-horse-movie.jpg"
-image_caption: >
-  Don’t worry, I’ll make sure you don’t end up like that one in The Godfather
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192029-pk1811-war-horse-movie.jpg"
+image_caption: ""
 ---
 
 __Director__ Steven Spielberg

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was a Wednesday afternoon like any other. Laptops, consoles and “You n00b!” screaming across the room, marking the start of the training session for this week’s UCL vs Imperial gaming tournaments. This was just the beginning.

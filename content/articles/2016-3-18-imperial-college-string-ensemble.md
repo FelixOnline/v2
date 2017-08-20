@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
-image_caption: >
-  A very happy ensemble on a very successful trip!
-image_attribution: "Jonathan Rawlinson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
+image_caption: ""
 ---
 
 We all know that feeling. The moment of closure as something wonderful comes to an end. You look back and realise that it will stay with you for many years to come,  as a glowing memory in your life. This year’s weekend away  has been one of those moments for us!

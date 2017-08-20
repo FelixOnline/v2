@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
-image_caption: >
-  A video purporting to show the beheading of Alan Henning was released 2 weeks ago
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
+image_caption: ""
 ---
 
 The National Union of Students (NUS) has rejected a motion condemning Islamic State after a stirring speech by Black Students Officer Malia Bouattia, in which she asserted that passing the motion would be akin to “a justification for war and blatant Islamaphobia (sic)”. The motion said that the NUS would “support unity between Muslims, condemn the bloody terror of ISIS, and support a boycott on people who fund the militants”.

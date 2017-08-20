@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The fledgling cryptocurrency Bitcoin suffered one of its biggest setbacks this past week when the (formerly) largest exchange Mt. Gox filed for bankruptcy protection. The beleaguered exchange has been marred by a string of management problems before it filed for bankruptcy protection. Yet, the currency has been relatively stable amidst all of these: after briefly falling to US Dollars (USD) 400 per Bitcoin after the news broke, it has now recovered up to a steady state of around USD 650 at press time.

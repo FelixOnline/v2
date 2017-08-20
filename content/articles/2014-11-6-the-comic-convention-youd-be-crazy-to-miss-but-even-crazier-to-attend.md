@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061910-snb11-20140524_151804-copy.jpg"
-image_caption: >
-  A rouge Deadpool picks out some new footware
-image_attribution: "P. Skett"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061910-snb11-20140524_151804-copy.jpg"
+image_caption: ""
 ---
 
 Why would someone with no knowledge of any anime, comic books, and video games attend an event aimed at bringing these people together? Curiosity, that’s why.

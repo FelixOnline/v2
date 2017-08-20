@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
-image_caption: >
-  It is rumoured that one of the divers in this picture was celebrating a world cup result.
-image_attribution: "Ryan McCartney"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
+image_caption: ""
 ---
 
 At midday on a Monday six Imperial College Underwater Club members met at Stanstead Airport. Some having already passed through check in the rest of us hurried to security, which was to delay us for far longer than anticipated, with one member having to have their bag unpacked and swept not once, but twice, due to a highly suspicious item… a GoPro handle (apparently they look like they contain liquid on X-ray).

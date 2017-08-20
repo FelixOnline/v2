@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Good thing that nowadays, you are only a search away from “I want to try some Thai tonight!” or “How am I supposed to eat an artichoke?”. But sometimes the Internet does more bad than good and gives too many recommendations. I mean, how are you supposed to decide between that perfect steak and the perfect cake? What about that oh so easy to make soup recipe you stumbled upon the other day? I mean, I know you want to eat them all, but you don’t want to waste all your life cooking – a.k.a. becoming a chef – and you promised yourself that you are going to lose a few pounds so you’re taking it easy on the food.

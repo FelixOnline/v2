@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102005-ks607-skyillus.jpg"
-image_caption: >
-
-image_attribution: "Benjamin Kennedy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102005-ks607-skyillus.jpg"
+image_caption: ""
 ---
 
 Someone once told me that dogs can’t look up. After the serendipitous, albeit not entirely legal acquisition of several dogs and the systematic placing of bones, dog food, and even cats on formidably high shelving, I at last determined that this was utter bollocks. But it got me thinking. Dogs can look up, but can people?

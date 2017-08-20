@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161911-tna08-image.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161911-tna08-image.jpg"
+image_caption: ""
 ---
 
 Climate physicist Professor Joanna Haigh is enjoying a glittering start to 2013. In recognition of her services to Physics she was appointed Commander of the British Empire (CBE) in the New Year Honours and earlier this month she was elected a Fellow of the Royal Society (FRS).

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071315-felix-Screen Shot 2016-10-31 at 20.06.40.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071315-felix-Screen Shot 2016-10-31 at 20.06.40.jpg"
+image_caption: ""
 ---
 
 Right, now I’ve got your attention, listen up. I’m the new Sport editor, I love playing sports, I love writing about sports, and right now I’m writing about one sport most of you probably haven’t heard of (including myself until a week ago). Apologies in advance for those expecting a heroic sports story, I’m more likely to star in _The Benchwarmers_ than _The Mighty Ducks_.

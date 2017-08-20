@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291705-jal08-monstersu.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291705-jal08-monstersu.jpg"
+image_caption: ""
 ---
 
 ANNOUNCEMENT FRESHERS: FREE ICE CREAM and cinema screenings too! Imperial cinema-your student cinema- is putting on a double bill during freshers’ week of two summer blockbusters during freshers’ week. Wanna learn how to use your Imperial science skillz to become like Tony Stark or to use your abundant Imperial social skillz to make lifelong bffs like Mike and Sully? If so then come along to see Iron Man 3 and Monsters University!

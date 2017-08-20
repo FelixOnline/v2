@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
-image_caption: >
-  A new drug could reduce the impact of alcohol on the brain.
-image_attribution: "Wikimedia Commons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
+image_caption: ""
 ---
 
 Could hangovers be a thing of the past? Scientists from the University of Huddersfield have developed a new drug that could reduce the side effects of binge drinking. The compound, called ethane-beta-sultam, is a taurine ‘pro-drug’ that can easily enter the blood stream before being processed by the body. Professor Mike Page, Dr Karl Hemming and colleagues believe that taking the drug during a heavy night of drinking will prevent alcohol from damaging the brain.

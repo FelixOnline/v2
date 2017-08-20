@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306132333-tna08-banks2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306132333-tna08-banks2.jpg"
+image_caption: ""
 ---
 
 Noted author Iain Banks has died aged 59. In a message released on Sunday, June 9, his wife said: “Iain died in the early hours this morning. His death was calm and without pain.”

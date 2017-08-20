@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251453-felix-fencing picture .jpg"
-image_caption: >
-
-image_attribution: "Blade Fencing Equipment"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251453-felix-fencing picture .jpg"
+image_caption: ""
 ---
 
 Last weekend was the opening bout of the Imperial Women’s first season at Oxford. Unlike our other teams, the Women’s 1s are in the Premiership, which is the top league and extremely competitive. In this league it is usual to do all the matches in two or three intense weekends rather than weekly. First up on Saturday was Cardiff, which Imperial won with an impressive score of 130-107. The second match was against local rivals UCL, which Imperial again won 131-113. The final match of the day was against Cambridge where Imperial were narrowly beaten by only nine hits, with an overall score 111-120.  There was only one match for the Women’s 1s on Sunday, against the hosting team, Oxford, where Imperial were unfortunately beaten with an overall score of 124-94. This means that the Women’s 1s have won two and lost two in their first four matches, putting them in a pretty good position going into the match against last year’s Championship winners Surrey.

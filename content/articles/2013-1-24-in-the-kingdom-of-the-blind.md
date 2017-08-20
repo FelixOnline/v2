@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242254-mc4509-100_4875.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242254-mc4509-100_4875.jpg"
+image_caption: ""
 ---
 
 I don’t read much modern literary fiction so José Saramago’s _Blindness_ is not something that I would usually pick up. I am, however, always looking to expand my horizons and so, having heard good things about the book, I decided to give it a go.

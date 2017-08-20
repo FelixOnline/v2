@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Massachusetts Institute of Technology neuroscientists studying the effects of anaesthesia on patients at Massachusetts General Hospital have found that Ritalin, a drug used to treat attention deficit hyperactivity disorder (ADHD), could help bring patients out of anaesthesia almost immediately.

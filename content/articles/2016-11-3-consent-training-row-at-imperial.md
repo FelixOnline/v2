@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611032305-felix-IMPERIAL_ICL_ExhibRdEntrance-120--tojpeg_1417791202195_x1.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611032305-felix-IMPERIAL_ICL_ExhibRdEntrance-120--tojpeg_1417791202195_x1.jpg"
+image_caption: ""
 ---
 
 The RCSU president, Lloyd James, has stepped forward to question Imperial College’s latest investment in student welfare, namely the licence purchase of an online consent training course, which was financed by College and cost a total of £ 5,000.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Black metal has undoubtedly seen regeneration in recent years. Releases such as __Deafheaven__’s_ Sunbather _or __Altar of Plagues__’ _Teethed Glory and Injury_ in 2013 were well received, provided you were looking for challenging music with power behind it. However, you’d be mistaken if it was purely “good black metal” that is suddenly hitting home with the hipsters, rather than just metalheads – really, it’s what these bands do on these albums that isn’t metal at all that grabbed people’s attention. Enter __Alcest__, who have been playing this game for years, merging the typical blast beats, high screams, tremolo guitars and proggy structures of black metal with a mystical dreamy atmosphere. And just as black metal had become cool, fans are left scratching their heads as Alcest abandon the very ship they left port on.

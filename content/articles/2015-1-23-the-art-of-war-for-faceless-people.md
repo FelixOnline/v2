@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
-image_caption: >
-  From left to right: James Franco and Seth Rogen pick a poor time to announce their bromance, someone's getting sacked in the morning at US Central Command and people commemorating the victims of the Charlie Hebdo attacks
-image_attribution: "filmschoolrejects, ITV, The New Yorker"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
+image_caption: ""
 ---
 
 The previous few weeks have seen a surge in cyber warfare like no other. From the __Sony Pictures __hacking over _The Interview_ – a satire film depicting the assassination attempt of Kim Jong-Un, to the ISIS hacking of US Central Command Twitter account. The hacktivist group Anonymous have vowed to take down pro-Islamic extremist websites and social media accounts in light of the recent Paris attacks on Charlie Hebdo. The main objective that all these hacks have in common is not necessarily to undermine security, but to create a psychological impact.

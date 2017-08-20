@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102033-felix-real-estate-days.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102033-felix-real-estate-days.jpeg"
+image_caption: ""
 ---
 
 It was cold this morning, wasn’t it? Like most students, myself included, you’re probably a bit suspicious of the thermostat and slightly paranoid that if you turn the heating on your next gas bill will be enough to bankrupt you. (I’m not talking about you, “1%” students; [you know who you are](http://felixonline.co.uk/comment/1714/protest-is-sacred-hypocrisy-is-really-not/)…)

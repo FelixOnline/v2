@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Here lies the end of an era – both on and off stage. Richard II as King of England and Michael Grandage as artistic director of the [__Donmar Warehouse__](http://www.donmarwarehouse.com/). After almost a decade of ne’er erring productions, Grandage gives us Shakespeare’s [_Richard II_](http://www.donmarwarehouse.com/pl133.html). The stage has the hushed and sacrosanct air of a church after benediction. The King sits in meditation on his throne, and frankincense hangs in the air like a ghost.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041735-ps3110-gapyah.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041735-ps3110-gapyah.jpg"
+image_caption: ""
 ---
 
 I’m sure you’re all depressingly familiar with the concept of unpaid internships by now: roll in with a smile, do a little grunt work, leave with a frown, only to be replaced by the next person on the unending list of the exploited. WorkAway.info is a little different. In exchange for a mere 25 hours of work per week, you at least get free room and board. That and the experiences are typically a little more uplifting than shadowing and fixing coffee. And as you’re breaking even each week, this will also allow you to sustain your travels over a longer period. Most of all, it gives you time to properly settle into a particular place: you get to really feel the vibe as opposed to just box-ticking the colonial buildings and museums deemed worthy of inclusion by the Lonely Planet.

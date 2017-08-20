@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122020-jal08-tv-10.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122020-jal08-tv-10.jpg"
+image_caption: ""
 ---
 
 Previously on Revenge; Emily Thorne (Emily van Camp) was a kick-ass vengeful heroine who would have scared Count Monte Cristo’s socks off...in season 1. When the show debuted, Emily’s goal was to take down anyone and everyone who played a part in her innocent father’s (James Tupper) unfair downfall and his eventual death - and at the heart of this conspiracy was the Graysons, a wealthy Hamptonite family who would lie, cheat, manipulate and kill anyone to score an extra buck or two. There were mindgames between Emily and the Grayson matriarch Victoria (Madeleine Stowe) as Emily worked her magic wrapping Daniel Grayson (Joshua Bowman), the Grayson son, around her fingers. With an explosive season 1 finale, Revenge was supposed to have an even better follow-up season.

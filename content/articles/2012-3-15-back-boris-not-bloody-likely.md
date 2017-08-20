@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
-image_caption: >
-  Just a persona? Boris in action
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
+image_caption: ""
 ---
 
 This May, Londoners will again be called upon to elect a mayor, and if the polls are anything to go by the race between incumbent Boris Johnson and returning rival Ken Livingstone is too close to call. The thing is, I have real difficulty understanding how that can be so. Cynics remark that British politics is increasingly being reduced to a personality contest and, worryingly, it seems to me that the 2012 mayoral election has a candidate basing their entire campaign on a persona.

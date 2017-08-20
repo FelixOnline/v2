@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
+image_caption: ""
 ---
 
 On Wednesday 30th January, Imperial Women’s 2nd Fencing Team set off to duel the University of London Union (ULU) team. The opposing team was an unknown quantity, causing Imperial to keep their guard up. The match began with Clare Perry, Hannah Bryars and Slavina Georgieva fencing sabre. Clare cut to the chase, beating her opponent 5-0. Slavina and Hannah continued, demonstrating that this was not a feint, leading to Imperial winning every round, only halting at 45-6.

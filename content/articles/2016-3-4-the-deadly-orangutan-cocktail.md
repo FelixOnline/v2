@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041135-felix-12626939765_1e1d97bfc3_o.jpg"
-image_caption: >
-  What lies ahead for the futrue of this little one?
-image_attribution: "Eric Kilby  "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041135-felix-12626939765_1e1d97bfc3_o.jpg"
+image_caption: ""
 ---
 
 Orangutans from a completely distinct subspecies have been accidentally introduced to another wild population, a recent genetic study has found. The population in question is situated in Camp Leakey in Tanjung Putjing National Park, within the Indonesian portion of Borneo (Central Kalimantan).

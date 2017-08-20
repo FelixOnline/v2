@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102307-csw09-pea-soup!.jpg"
-image_caption: >
-  Pea soup!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102307-csw09-pea-soup!.jpg"
+image_caption: ""
 ---
 
 Do you have the same recurring New Year’s resolutions? I’ve heard them all before: stop drinking so much, do a problem sheet, get organised, text/call mum more, text/call gran more, stop texting/calling people so much and see family/friends in person, and personally, stp speakin in txt. The most common resolution of all is to tame the bulge. Do you love food and hate scales? If you want to slash the caloricious content of your food but not the scrumptiousness then throw out your old ‘thou shalt not eat’ New Year’s resolution – armed with this week’s helpful issue you’ll see that you can still enjoy your breakfast, lunch and dinner guilt-free.

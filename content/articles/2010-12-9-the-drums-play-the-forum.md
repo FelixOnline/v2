@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092021-ma1307-Thedrums.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092021-ma1307-Thedrums.jpg"
+image_caption: ""
 ---
 
 The Drums took to the stage in a euphoric daze to the sound of electronic ambience that echoed the electro-pop roots of founder members Jonathan Pierce (vocals) and Jacob Graham (guitar). The four–piece were complete with Tom Haslow on guitar and Connor Hanwick providing the drums.

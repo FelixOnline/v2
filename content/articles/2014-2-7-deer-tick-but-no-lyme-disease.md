@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I have managed to catch Providence based alt-country act Deer Tick a couple of times at festivals before. I allegedly first caught them back in 2010, although the performance was unmemorable to the point where I actually have no memory of the set. Of course, this could well not be indicative of the quality of the performance; I have forgotten any number of mid-afternoon festival sets over the years.

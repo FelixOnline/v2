@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012043-ks607-election.jpg"
-image_caption: >
-  Candidates listen carefully to the rules
-image_attribution: "Afonso Campos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012043-ks607-election.jpg"
+image_caption: ""
 ---
 
 With Sabbatical Elections right around the corner, the candidates for the different positions are getting geared up for a fierce week of campaigning for the voting period that starts next week.

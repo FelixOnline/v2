@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Questions on ethics arise in all fields of science, from vaccinations to military weapons. But given the mutability of morality and ethical stances across cultures, individuals, and time, it’s difficult to pinpoint where the lines of what is moral should be drawn. What of the devastating effects of the Manhattan Project, the morals of which physicist Richard Fenyman had always been fairly tight-lipped about? Was it wrong to pursue the development of our capability to split atomic nuclei even though the scientists knew it would be used for application on humans? Or what of the endless case of the anti-vaxxer, in which the scientific community has decided that individual consent is irrelevant in light of the greater social good? These are complex issues with no easy answer, but are dearly worth considering in our own endeavours.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
-image_caption: >
-
-image_attribution: "Marie Chkaiban"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
+image_caption: ""
 ---
 
 His sister is always busy

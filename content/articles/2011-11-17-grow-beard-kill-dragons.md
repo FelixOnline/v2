@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172042-pk1811-screenshot5.jpg"
-image_caption: >
-  New research has shown that dragons make everything 110% more badass
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172042-pk1811-screenshot5.jpg"
+image_caption: ""
 ---
 
 Skyrim is a foreign country: they do things differently there. I’ve been trekking its sunny snow-packed hills and alpine meadows for seven days now, but apart from an incredible beard I’ve little to show for it. I know I ought to be more dependable; I know there’s a lot at stake. I know that dragons have suddenly returned to the world, and I know that, as one of the Dragonborn, it’ll probably turn out to be my problem. But with so many rabbits to chase, flowers to pick and butterflies to eat I’m finding it hard to concentrate on any of the many tasks at hand.

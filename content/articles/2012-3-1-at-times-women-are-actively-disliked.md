@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012253-ams111-frankie-boyle-006.jpg"
-image_caption: >
-  Frankie Boyle couldn’t get away with Tramadol Nights not being that good
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012253-ams111-frankie-boyle-006.jpg"
+image_caption: ""
 ---
 
 It might be hard to believe, but I actually started this article before Stephen Smith’s excellent article on sexism at Imperial and the superb piece on feminism by Veronica Gouvea. Stephen explored particular issues at Imperial and Veronica explained why feminism is important. I feel this piece is now a synthesis of the two including a reminder of what women face in society at large.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131354-felix-8224204466_4f0dfafd90_o.jpg"
-image_caption: >
-
-image_attribution: "Understanding Animal Research"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131354-felix-8224204466_4f0dfafd90_o.jpg"
+image_caption: ""
 ---
 
 Just before the end of last term we ran an article about the fact that Imperial College had been awarded for Public Engagement Activity in the annual ‘Openness on Animal Research Awards’. In response we were contacted by Cruelty Free International and given a press release from the animal rights group.

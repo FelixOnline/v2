@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
-image_caption: >
-  Founders L-Vis 1990 and Bok Bok
-image_attribution: "Shola Branson"
-image_attribution_link: "http://scndtonone.com/2010/05/monki-interviews-l-vis-1990-bok-bok/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
+image_caption: ""
 ---
 
 In this, my second installment of Techno Nonsense, a feature dedicated to highlighting the big players in electronic dance music right now, I’m going to hit you with [Night Slugs](http://nightslugs.net/).

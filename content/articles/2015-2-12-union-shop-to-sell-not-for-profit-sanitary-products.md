@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502130143-ps3110-screen-shot-2015-02-13-at-01.43.25.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502130143-ps3110-screen-shot-2015-02-13-at-01.43.25.png"
+image_caption: ""
 ---
 
 Christopher Kaye, Deputy President (Welfare), achieved victory in Union Council this week when his paper on reducing the cost of female sanitary products was passed by those present.

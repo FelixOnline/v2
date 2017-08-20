@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
-image_caption: >
-  Africa finally gets what its always needed: a bunch of trigger-happy white American students
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
+image_caption: ""
 ---
 
 If you’ve been online at all in the past week, chances are you’ll have seen [Kony 2012](http://www.kony2012.com/), a 30-minute video about the Lord’s Resistance Army (LRA) in central Africa made by the charity Invisible Children, officially the most viral video in the history of the internet. But along with the inevitable memes, the criticisms came hard and fast. You will likely have heard that the charity has dubious finances, spending just 30% of its income on projects in Africa, much of the rest on publicity. But this isn’t why we should be concerned by the success of Kony 2012. Now a week later, we can reflect on a video that was dangerously simplistic, misleading and ultimately deeply patronising to Africans. This article explains why.

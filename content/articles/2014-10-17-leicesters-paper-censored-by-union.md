@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Controversy has broken out at the University of Leicester over an attempt to censure its student paper, The Ripple, by the students’ union at Leicester. In an editorial posted on the paper’s website, Editor in Chief Jess Buckley expressed her disappointment with the Leicester union’s decision to hold back publication by 72 hours whilst the executive committee determined if a story on the front page violated a number of rules. Unlike at Imperial, media groups at Leicester are required to have their output approved by the Union prior to publication or broadcast following the introduction of a “Media Constitution” . The article in question related to criticisms of the ongoing elections at the university, asking whether “there is a lack of engagement”. According to the Ripple, the union accused the paper of writing a number of inaccuracies and violating the constitution. Upon probing as to what exactly the offending text was, no concrete answer was provided.

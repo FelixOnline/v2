@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
-image_caption: >
-  Honey for the bears of the future.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
+image_caption: ""
 ---
 
 Regular readers of my column probably need little introduction to the label that I concern myself with this week. Hyperdub has, with not a hint of exaggeration, been the most influential electronic music label to have come out of London in a long, long time. Why then, you may ask, has it taken me so goddamn long to dedicate some prime Felix real-estate to the imprint? Well Hyperdub is the music label equivalent of a seven foot, teardrop-tattooed, switchblade-wielding nut job: fucking intimidating.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101131916-ks607-clothes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101131916-ks607-clothes.jpg"
+image_caption: ""
 ---
 
 High fashion is not like anything you know or have seen in normal society. What is its link to the fashion worn by the ordinary clothes-wearing public? I have no idea. Images of beautiful women made bizarre by face paint and freakish garments as they strut down the catwalk (which may or may not be underwater/on fire/an enormous chessboard) are the manifestation of this incredibly profitable industry. However, the Royal Academy is not Vogue magazine, and this show is not a haute-couture runway. Well thank goodness for that.

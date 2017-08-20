@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250146-tna08-map-of-europe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250146-tna08-map-of-europe.jpg"
+image_caption: ""
 ---
 
 One of the most baffling things I’ve come across constantly when talking to British people is their use of the word “European” to mean “Beyond The Channel”, as if sharing strong political, historical, geographical, economic and cultural ties weren’t enough to make the UK part of the continent. Rule Britannia, God Save The Queen, and all of that, but isn’t it time to put the nostalgia for the 19th century away in favour of some common sense?

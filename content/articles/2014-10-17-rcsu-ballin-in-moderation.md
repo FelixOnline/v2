@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
-image_caption: >
-
-image_attribution: "Benjamin Lester"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
+image_caption: ""
 ---
 
 In my ancestral Tennessee, we have a saying: “if it ain’t broke, don’t fix it”. Certainly this appears to be the approach the RCSU has adopted in regards to their entertainments over the last few years. The recipe goes something like this: 1) Take a dark room in Central London. 2) Add some loud music. 3) Fill with scientists soaked in inexpensive (or free) alcohol. Shake and serve over ice with a garnish of mint leaves. The mixture is simple but effective – in some cases cripplingly so.

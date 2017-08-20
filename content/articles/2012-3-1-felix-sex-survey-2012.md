@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012216-ams111-censoredtransparentwordcloudonblack2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012216-ams111-censoredtransparentwordcloudonblack2.jpg"
+image_caption: ""
 ---
 
 The number of respondents we had to the sex survey this year has been almost overwhelming. 1063 of you replied, and only about 20 of them as far as we could tell were blatant trolls (thank you guys btw for making us laugh).

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192031-ams111-pirate-flag-1024x819.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192031-ams111-pirate-flag-1024x819.jpg"
+image_caption: ""
 ---
 
 Some readers may well be familiar with the acronyms SOPA and PIPA, both of which have been bounded about in the news over the last few months or so. They stand for the Stop Online Piracy Act and the closely related Protect IP (Intellectual Property) Act. Both are bills that are currently being considered, respectively, by the US House of Representatives and the Senate. As their names suggest, they are aimed at combating online piracy. The issues surrounding these proposed laws are both numerous and complicated in nature, as are the arguments wielded by its supporters and critics; if you’re spurned into action by this piece then there’s a wealth of information that can be found in the very medium the bills will impact – namely, the internet.

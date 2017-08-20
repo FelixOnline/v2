@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191350-tna08-0235_28584.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191350-tna08-0235_28584.jpg"
+image_caption: ""
 ---
 
 On race morning I got out of bed just after 4 and gorged myself on porridge and muesli. It’s an odd feeling waking up so early knowing that you’re going to spend an entire day exercising. Almost all of it will be uncomfortable (as in you’d kind of like to do something else instead) and a good chunk of it will be really painful (as in you’d really like to be doing something else).

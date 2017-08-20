@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201005012007-felix-shotsfor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201005012007-felix-shotsfor.jpg"
+image_caption: ""
 ---
 
 If it hadn't quite clicked already, this General Election is important; not just for the country as a whole, but for you too. As Imperial students, under- or postgraduate, you are the next generation of scientists, engineers, doctors and businessmen of the UK (if not the world). Graduating from a 'world-class' university certainly sets your bar high for career aspirations, and the fields of academia or business you'll be leading will either suffer or prosper under the new Government to be formed on May 7th. Hence, this General Election may have a significant bearing on all Imperial students graduating in the coming years.

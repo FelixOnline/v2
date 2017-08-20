@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221324-rsp07-comment.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221324-rsp07-comment.jpg"
+image_caption: ""
 ---
 
 24th December, 2008. Many of us were most likely sitting at home with the family, enjoying a peaceful night in, or out partying with friends, as Christmas Eve should be. Yet some 2000 miles away, the mood could not be more different. On a 25-mile strip of coastal land steeped in history, controversy and conflict, fighting had once again broken out. This foresaw more tears and bloodshed in the area famously dubbed ‘the world's largest open-air prison' – a fitting name for the territory, walled-off and under strict constant surveillance, encapsulating a million and a half people, many innocent children unknowing of what would befall them. War had once more struck Gaza, Palestine, already decrepit from years of repeated battles.

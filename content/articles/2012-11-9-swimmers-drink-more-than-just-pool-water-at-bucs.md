@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091431-tna08-bucs%202012-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091431-tna08-bucs%202012-1.jpg"
+image_caption: ""
 ---
 
 After a reshuffled schedule, the boys kicked the BUCS 2012 short course championships off with 50m free on Friday evening. Michael earned himself first of many fines by closely losing out to Fraser by .04 seconds. Similarly in this event Niki finished in 27s with compliments from Brad “Niki, your technique was held perfectly throughout the race, well done mate!”. (In an Australian accent...)

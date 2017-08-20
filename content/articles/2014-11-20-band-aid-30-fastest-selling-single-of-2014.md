@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
-image_caption: >
-  Jessie Ware acts as a buffer between old flames Ed and Ellie. Awkward. L-R: (back row) Kyle and Will
-image_attribution: "Band Aid Trust / Brian Anis / Camera Press"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
+image_caption: ""
 ---
 
 The first radio play of the rejuvenated Band Aid single, _Do They Know It’s Christmas?_, happened this week, following a first look at the music video on last Saturday’s _X Factor_. This is the fourth time in thirty years that the charity song has been recorded, but the first time the lyrics have been changed. Bono’s controversial line ‘Well tonight thank God it’s them, instead of you’ has been replaced with ‘Well tonight we’re reaching out and touching you’.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102041657-sjw209-Createti.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102041657-sjw209-Createti.jpg"
+image_caption: ""
 ---
 
 When _Create _was first announced, it was a dream come true. [Electronic Arts](http://ea.com), creators of _The Sims_ series, were making a new kind of creation-simulation game. No mention of houses or families – yes, they were finally making _The Sims_ without the Sims! At last, players could build a house (or anything!) and not have to deal with the monotonously boring lives of the simulated little people afterwards; just pure, unbridled creativity.

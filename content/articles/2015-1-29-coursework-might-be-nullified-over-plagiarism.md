@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292336-ps3110-imperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292336-ps3110-imperial.jpg"
+image_caption: ""
 ---
 
 Students were informed on Monday that the marks from an online coursework may be nullified after reports of “widespread plagiarism.”

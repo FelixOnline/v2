@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
-image_caption: >
-  Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
+image_caption: ""
 ---
 
 NHS student bursaries are available to students on pre-registration health professional training courses, which include students in their fifth or sixth year of studying medicine. A fees-only bursary from the NHS covers tuition fees, and these are paid directly to the university, much like Student Finance pay for any other home or EU undergraduate’s tuition fees. Students do not have to pay this back. The NHS also has an “extra weeks” allowance, that provides £107 per week when academic years are longer than 30 weeks (excluding holidays).

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503041356-ps3110-screen-shot-2015-03-04-at-13.56.30.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503041356-ps3110-screen-shot-2015-03-04-at-13.56.30.png"
+image_caption: ""
 ---
 
 Clubs and societies needs someone who cares about them, and no one cares more than Issie. Clubs are where people make friends, try new things and do the things they love, and without them university life would be much poorer.

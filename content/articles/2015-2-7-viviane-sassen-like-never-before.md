@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
-image_caption: >
-  Viviane Sassen, Warrior, 2013.
-image_attribution: "Viviane Sassen and Stevenson Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
+image_caption: ""
 ---
 
 In my opinion, the __ICA__ is simply not appreciated enough. It is on the front line of contemporary art and this means that, although all shows aren’t guaranteed to thrill (such is the risk of pushing boundaries!), you will have an exciting time no matter what — much better this than the rather soulless blockbuster shows of the __Tate__.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310130046-jal08-games_mary.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310130046-jal08-games_mary.jpg"
+image_caption: ""
 ---
 
 Being games editor is a new job for me. Part of my expectations before agreeing to this role was that I would get games given to me to review. I didn’t mind which games, but thought it would be nice to not have to pay for every game I review. I accepted the role and on my first trip to the Felix office found the pile of free games that could be reviewed. To my surprise, I had not heard of even one of these games, but this is probably because I have never played a Simulator game before. I didn’t know that there was a demand for games such as Chemical Spillage Simulator, Stone Quarry Simulator or Truck Simulator. Keen to dive in to this new world of Simulator games, I picked up European Bus Simulator 2012 and began my educational journey.

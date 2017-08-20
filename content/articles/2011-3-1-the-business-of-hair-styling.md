@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
-image_caption: >
-  Drew Foster's business was truly launched when he was forced to sell his flat to the Council
-image_attribution: "Afonso Campos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
+image_caption: ""
 ---
 
 I meet Drew Foster [at his brand new hair salon in the heart of Shoreditch](http://www.fosterlondon.com/salon.html) early one morning. I am there as he opens up shop. There is a familiar atmosphere to the place, not unlike that of a mid to late sixties music video awash with distant pastel colours. Hues of green, pink and blue are adorned with vintage paintings and what seems like an endless collection of porcelain cats. Ramone and Margo, the two resident puppies try to engage us in play. It is impossible to sit down and not be taken aback by the love that has clearly been poured into this place.

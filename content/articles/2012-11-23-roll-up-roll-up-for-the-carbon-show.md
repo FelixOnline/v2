@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230033-tna08-858.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230033-tna08-858.jpg"
+image_caption: ""
 ---
 
 The annual ‘Carbon show’, that took place at London’s Business Design Centre this October, is a chance for industry-types and Carbon aficionados to network, mingle and promote. However, what was advertised as ‘ the leading annual event on energy efficiency and the low carbon economy’ presented a very dire image of the carbon economy. The Carbon Show shrunk to around 1/3 of its size from last year, to only having around twenty exhibitors (and last year’s event was in itself still somewhat underwhelming, with many stallholders leaving dissatisfied). The exhibitors this year included consultants, certification companies and verifiers; although really it appeared to just focus on companies with the name Carbon in them: Carbon Clear, Carbon Credentials, The Carbon Trust, Carbon Advice Group. Presentations and Seminars ran throughout the day on energy efficiency, carbon investment and green technologies. These represented companies and organisations ranging from Jaguar Land Rover to Kingfischer Plc, RBS and the Energy Saving Trust. Although informative and sometimes enjoyable, the entire show seemed marked from the very beginning by the sense of a lacklustre under-performance.

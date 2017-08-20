@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131450-cet13-cibele3.png"
-image_caption: >
-  Nina Freeman easily wins the award for coolest hair in the gaming industry.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131450-cet13-cibele3.png"
+image_caption: ""
 ---
 
 Nina Freeman has made a name for herself developing weird and wonderful autobiographical games. Many of them only take minutes to play; however, in these vignettes, Freeman pushes the boundaries of the medium more than any ten hour epic has ever been able to do.

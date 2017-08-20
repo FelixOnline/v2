@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 We’ve all heard __Walk Off the Earth__’s cover of ‘_Somebody That I Used to Know_’ by Gotye, and if you haven’t then you should get on it, because these guys are actually good. Actually, they’re better than good. They’re talented. And they use their talent creatively.

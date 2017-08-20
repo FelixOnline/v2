@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181150-felix-12695039_10208714886290677_1568100392785676293_o.jpg"
-image_caption: >
-  View from a stereoscope of a baby gecko hatching.
-image_attribution: "Matt Jarvis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181150-felix-12695039_10208714886290677_1568100392785676293_o.jpg"
+image_caption: ""
 ---
 
 Sometimes you hear about people at Imperial doing weird, obscure,  cool degrees. This week’s science picture comes all the way from Borneo, courtesy of Matt who is halfway through a MRes in tropical forest ecology. Matt has been delighting us with a stream of cool natural history pictures, and this is probably one of my favourites. “The gecko fell out of the air conditioning unit and onto the table in front of us where it proceeded to hatch. We put it under the identification microscope in order to watch it hatch. I’m not sure why the gecko laid its eggs in the air con, I’d  imagine the fluctuations of temperature wouldn’t be good for eggs. When it was hatching it looked very much like a raptor from Jurassic Park and we all felt very much like we were in the film, particularly due to being surrounded by pristine rainforest at the time! It was quite a random and surreal moment!”. I guess life finds a way. KAPOW!

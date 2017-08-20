@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031951-ks607-icradiod.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031951-ks607-icradiod.jpg"
+image_caption: ""
 ---
 
 Imperial College Radio ([IC Radio](http://www.icradio.com/)) was shut down by the Union last Tuesday evening after a “member of the public” complained to the Rector about the use of racially offensive language during a broadcast. A non-Imperial guest on an IC Radio show referred to a close friend as a “Paki”, which the College and Union say breaks Imperial’s regulations governing media content.

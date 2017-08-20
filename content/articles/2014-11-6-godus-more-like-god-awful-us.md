@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062000-snb11-godus.jpg"
-image_caption: >
-  Twenty minutes to get belief? God, my worshipers suck
-image_attribution: "Max Eggl"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062000-snb11-godus.jpg"
+image_caption: ""
 ---
 
 I am a big fan of big overarching civilization sims. Not just the really the strategic ones which give you control over empires, huge armies and the ability to control the entire world, but also the ones where you micromanage each individual citizen of your realm, telling them to chop down this specific tree or mine that ore. You start out with a tiny number of controllable units, which then expands into a huge city. However, the one thing that I always found missing was the fact that I was at the mercy of the elements/ the game that I always found kind of frustrating.

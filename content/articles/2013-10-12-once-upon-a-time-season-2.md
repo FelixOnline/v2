@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122024-jal08-tv-2-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122024-jal08-tv-2-copy.jpg"
+image_caption: ""
 ---
 
 Previously on Once Upon a Time; characters from the most beloved fairytale stories were brainwashed, ripped away from their home the Enchanted Forest, and forced into a modern-day hellish locked down town called Storybrooke run by the evil witch queen and self-appointed mayor Regina (Lana Parrilla, still looking as dark and controlling as ever) who wished to punish everyone for lifelong feuds she had with various people. As more of the characters’ complex, intertwined past was revealed, the more enriched everyone’s background story became. With enough flashback sequences to explain and unmask various people’s true intentions, Season 2 was setting up as though the residents of Storybrooke were finally ready to move on with their lives.

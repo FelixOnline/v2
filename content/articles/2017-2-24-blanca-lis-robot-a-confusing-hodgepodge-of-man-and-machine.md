@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
-image_caption: >
-  Blanca Li Dance Company, Robot
-image_attribution: "Laurent Philippe"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
+image_caption: ""
 ---
 
 There is little doubt that technology has pervaded every inch of our modern lives. From people plugged in on their daily commutes, to the seas of smartphones at concerts, we seem to be constantly immersed in gadgetry. But is that a good or bad thing? This question has become something of a hot topic in recent months, with shows such as _Westworld_ and _Black Mirror_ exploring the darker consequences of a future dominated by technology. Choreographer Blanca Li takes a more playful approach with _Robot,_ a production filled with dancers both human and humanoid.

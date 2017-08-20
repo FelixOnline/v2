@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161547-js2310-969427_499040590145469_774806092_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161547-js2310-969427_499040590145469_774806092_n.jpg"
+image_caption: ""
 ---
 
 The National are a band who have transcended modern music trends. They first came to prominence with the glut of “post-punk revival” indie bands in the mid-2000s. That scene died years ago, but The National rose from the ashes, and have continued to rise and rise. Their last album, High Violet, saw them getting top billing at some of the biggest festivals in the world and it’s a position they richly desevred. Whilst their peers desperately tried to cling to past glories by claiming their new album was “just like the first one” (Interpol) or radically changed their style all the time hoping something would stick (Bloc Party) or just gave up completely (Franz Ferdinand), The National have calmly gone about writing great music that comes naturally. The new record, Trouble Will Find Me, is a perfect extension of that. It’s truly gorgeous, and should cement the National’s place at the top of modern indie rock.

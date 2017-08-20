@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205231727-mc4509-thith1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205231727-mc4509-thith1.jpg"
+image_caption: ""
 ---
 
 Following what appeared to be an indefinite hiatus after the release of their eponymous debut in 2010, [__The Hundred in the Hands__](http://www.myspace.com/thehundredinthehands) are back on the scene. And while that said debut managed to rapidly rack up favourable reviews from the likes of Pitchfork and Metacritic, it looks as though we can expect much more from their forthcoming second album _Red Night_, which gets released next month.

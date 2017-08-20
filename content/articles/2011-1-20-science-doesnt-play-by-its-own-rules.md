@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Happy 450th birthday Francis Bacon! In case you didn't know, it ís thanks to him that you are studying here, and that science exists as it does. It was he who said that we should make observations and draw from them the physical laws which govern our planet. He also wrote that as scientific minds, we should work to free ourselves from idols, the social and professional biases which are part of being human. Our minds must be pure and rational before we can draw accurate conclusions about the world. The scientific method that we all follow started with him. The problem is, he was wrong about quite a few things.

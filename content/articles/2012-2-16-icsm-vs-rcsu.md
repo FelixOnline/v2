@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162242-sjw209-img_9303.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162242-sjw209-img_9303.jpg"
+image_caption: ""
 ---
 
 ___Disclaimer: __If you read this as anything other than a bit of banterous free advertising for our joint event, then you read too hard._

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112042-ks607-american.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112042-ks607-american.jpg"
+image_caption: ""
 ---
 
 The BUAFL season got off to a flying start this Sunday as the Imperial Immortals narrowly lost a nail-biting thriller on an overtime field goal to their Thames Valley Conference rivals, the Surrey Stingers. The two teams last met in March when Surrey managed an 18-8 win and the Immortals were out to avenge last season’s loss.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010124-ps3110-screen-shot-2015-05-01-at-01.24.24.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010124-ps3110-screen-shot-2015-05-01-at-01.24.24.png"
+image_caption: ""
 ---
 
 The majority of students at Imperial (especially those in halls) are concentrated in the four constituencies of Chelsea and Fulham, Kensington, Hammersmith, and Cities of London and Westminster. Felix takes a look at each of them below.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305301326-tna08-logo_national.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305301326-tna08-logo_national.jpg"
+image_caption: ""
 ---
 
 When I found out that my team had made it to the [finals of the Engineers Without Borders (EWB) Challenge](http://felixonline.co.uk/news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals/) I was of course really pleased to know that all of our effort was actually worth it. I feel really satisfied because I think that if they chose us out of the 50 teams in the UK and Ireland, this means the design portfolio and oral presentation we produced were valuable and we actually managed to apply our (engineering) skills to a real problem successfully.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201109301341-felix-the-inbetweeners-lr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201109301341-felix-the-inbetweeners-lr.jpg"
+image_caption: ""
 ---
 
 The Americans are really good at it. [_American Pie_](http://www.youtube.com/watch?v=F0GJMxsivh4), [_Dude, Where’s My Car?_](http://www.youtube.com/watch?v=d1wuijgeaaY), [_Bill & Ted’s Excellent Adventure_](http://www.youtube.com/watch?v=xrGWooNDPiE). The Brits tried it once – [_Kevin & Perry Go Large_](http://www.youtube.com/watch?v=nENwy9GRyF0). And then four pubescent, awkward, goofy, and weird teenagers popped onto the scene to deliver the summer’s funniest movie.

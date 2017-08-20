@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092243-ams111-c.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092243-ams111-c.jpg"
+image_caption: ""
 ---
 
 So I finally completed _The Legend of Zelda: Skyward Sword_ last night.

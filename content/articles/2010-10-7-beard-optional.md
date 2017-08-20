@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Welcome to Imperial, home of the [insert obvious geek joke]. You’re either returning, or starting for the first time, as a scientist, engineer, or failed-medic-in-training, and congratulations to you. If you want to, you can shape the future of the world by improving our understanding and refining our control over the world we live in. Alternatively, you can do sweet Fred Astaire for four years, drag your sorry arse across the Royal Albert Hall stage, and sod off to the world of finance/law/international superstardom. As long as neither of the two paths lead to my supply of New Forest fudge being cut off, I could care less.

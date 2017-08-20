@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
-image_caption: >
-
-image_attribution: "Kevin Warwick, the “living cyborg” with his wife"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
+image_caption: ""
 ---
 
 As we are entering an age where robots are becoming more human, so are humans becoming increasingly attached to technology. Scientists have created a 3D printed ‘bionic skin’ which could give robots the sense of touch. This is a major step towards printing electronics onto human skin. Cyborgs, part human part machine, are no longer confined to science fiction.

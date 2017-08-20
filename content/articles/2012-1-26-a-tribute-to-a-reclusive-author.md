@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262227-ams111-jd-salinger1.jpg"
-image_caption: >
-  JD Salinger – a troubled genius
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262227-ams111-jd-salinger1.jpg"
+image_caption: ""
 ---
 
 Holden Caulfield, Salinger’s most auto-biographical literary creation, once said, “What really knocks me out is a book that, when you’re all done reading it, you wish the author was a terrific friend of yours and you could call him up on the phone whenever you felt like it.” Salinger, a man known for his inaccessibility, was not going to give his phone number away to his devoted readers. Instead, he gave them a greater gift – the gift of a conversation with himself through his novels.

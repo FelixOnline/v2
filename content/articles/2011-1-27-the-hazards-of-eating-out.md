@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101272019-nm1010-billllll.jpg"
-image_caption: >
-
-image_attribution: "flickr/justinpoliachik"
-image_attribution_link: "http://www.flickr.com/photos/justinpoliachik/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101272019-nm1010-billllll.jpg"
+image_caption: ""
 ---
 
 The SCR food, with its leather-tough beef, dry chicken, and liquefied peas – is there anything more depressing? Well, yes – genocide, estate agents, malaria, sexual rape, facebook rape, yawn rape, and Robert Peston. The SCR is, after all, just a university canteen in a country mocked globally for its poor gastronomy – Great British Menu being as much of an oxymoron as Corporate Culture. An overhaul of the lugubrious menu would nonetheless not go amiss – I did contact Jamie Oliver, but he was elsewhere engaged. At a minimum, I trust Felix will not have to apologise again for daring to point out that the SCR food lacks a certain finesse (they have yet to find that delicate balance between burnt or soggy food).

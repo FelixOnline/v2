@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705191506-im1413-IMG_0013.JPG"
-image_caption: >
-  An act from Sex and Puppets (Photo: Edie Edmundson )
-image_attribution: "Edie Edmundson | Wondering Hands "
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705191506-im1413-IMG_0013.JPG"
+image_caption: ""
 ---
 
 ‘Sex and Puppets’ is reimagining the way we talk about sex. The show devised by the puppet company Wondering Hands uses a series of witty sketches - composed from verbatim transcripts of real life experiences - to explore different aspects of sex.

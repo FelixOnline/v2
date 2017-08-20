@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Before you get any further, I feel you should know that writing these things isn’t as easy as it looks. That’s partly because you don’t actually see us writing them, but mainly because, unlike columnists at the Guardian who write for everybody who counts, and those at the Sun who write for everybody who can’t, we have no idea what sort of crowd we’re writing for.

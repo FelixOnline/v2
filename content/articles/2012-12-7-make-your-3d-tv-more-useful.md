@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070254-tna08-dual-play-main.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070254-tna08-dual-play-main.jpg"
+image_caption: ""
 ---
 
 Consumer electronics manufacturers often like to proclaim that their products boast the highest numbers in a certain arbitrary unit that often make no sense to the consumers, or are simply immaterial. Cameras like to boast that they have the highest amount of pixels while computers used to tout their “gigahertz” as their selling point. It seems that this phenomena is almost absent in the realm of televisions.

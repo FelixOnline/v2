@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131430-cet13-grimes.jpg"
-image_caption: >
-  Grimes returns three-eyed and chirpy.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131430-cet13-grimes.jpg"
+image_caption: ""
 ---
 
 With Visions, Grimes (the stage name of Claire Boucher) gave us an album that combined the danceable sound of synthpop with introspection and sorrow of dark-wave. One of the defining albums of 2012, it was celebrated and adored by many including myself.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061917-snb11-horns-copy.jpg"
-image_caption: >
-  Daniel Radcliffe tries his best to look sexy
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061917-snb11-horns-copy.jpg"
+image_caption: ""
 ---
 
 From the very beginning, _Horns_ is a film that doesn’t really seem to know what it’s meant to be. I’m always suspicious of a film that describes itself with more than two genres, but when you are a supernatural thriller incorporating elements of fantasy, comedy and romance, with a bit of drama to boot, it’s never going to go well.

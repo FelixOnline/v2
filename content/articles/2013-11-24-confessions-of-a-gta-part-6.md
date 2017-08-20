@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311241649-jal08-3383896412_ecee24dea3_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311241649-jal08-3383896412_ecee24dea3_o.jpg"
+image_caption: ""
 ---
 
 As an undergraduate, if you had asked me what the worst thing was about Imperial it was obvious: The exams. After working all those hours to be hit with the striking realisation that I did not, in fact, understand the topic even a little bit caused me to doubt many a life decision. I also came to doubt my native English following one particularly bad exam where I distinctly remember no verbs in the first two sentences. But never did I consider what happened to that stack of papers the GTAs insisted on counting for five minutes at least 12 times after the end of the exam.

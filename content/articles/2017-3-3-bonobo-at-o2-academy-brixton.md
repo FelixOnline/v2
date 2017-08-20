@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031526-felix-20170225_221356.jpg"
-image_caption: >
-
-image_attribution: "Philipp Antonas"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031526-felix-20170225_221356.jpg"
+image_caption: ""
 ---
 
 This was a gig that, due to Bonobo’s incredible talent and sense of sound, engendered awe throughout the packed venue, however the occasion was let down by the poor sound setup at the Academy.

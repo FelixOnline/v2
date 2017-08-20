@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
+image_caption: ""
 ---
 
 Lockers in the Electronic and Electrical Engineering (EEE) building were broken into on Tuesday night. The theft is the second in the building in as many weeks. The College is calling on students and staff to remain vigilant to reduce opportunities for “walk-in thieves”.

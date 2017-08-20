@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031453-ps3110-hyperloop-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031453-ps3110-hyperloop-2.jpg"
+image_caption: ""
 ---
 
 It was in 2012 that the restless entrepreneur Elon Musk first announced his idea for a high speed transport system – the Hyperloop. Described by the magnate as ‘a cross between a Concorde, a railgun and an air hockey-table,’ this next-generation train system aims to transport people at speeds of over 700 mph. This would mean a journey from London to Edinburgh would take half an hour, faster than a jumbo jet while at the same time avoiding all those airport waiting times.

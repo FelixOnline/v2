@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The lightest material to date has been created; weighing in at less than 10 milligrams per cubic centimetre, it is lighter than aerogels and dense foams. The Guinness world record beater has a density of just 0.9 milligrams per cubic centimetre, in perspective this is 100 times lighter than Styrofoam. The research was conducted by scientists from the University of California, Irvine, HRL Laboratories and the California Institute of Technology; it was funded by the American Defense Advanced Research Projects Agency.

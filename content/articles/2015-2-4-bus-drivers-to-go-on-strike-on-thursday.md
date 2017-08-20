@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
-image_caption: >
-  Commuters wait for a bus during last month's strikes
-image_attribution: "Glenn Copus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
+image_caption: ""
 ---
 
 On Thursday 5th February bus drivers will go on strike in a protest over pay. It will be the second time this year that a strike has taken place this calendar year over the issue, and a further two walkouts are scheduled for February 13th and February 16th.

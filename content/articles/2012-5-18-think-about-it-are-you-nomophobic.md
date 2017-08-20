@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205180732-felix-blenderiphonesmashed.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205180732-felix-blenderiphonesmashed.jpg"
+image_caption: ""
 ---
 
 Has it ever occurred to you just how much of our modern lives are lived via screens? I am sitting here writing this on my laptop, which has been switched on ever since I decided to watch a cheeky episode of _Green Wing_ over breakfast. My mobile phone has been within a two metre radius of my person all day. My housemates and I are considering popping to the cinema later. No doubt the lectures I will attend this week will be conducted via a projector screen. Even if I wanted to escape, I would no doubt be bombarded with screens and monitors in supermarkets, tube stations, and even just walking innocently down the street.

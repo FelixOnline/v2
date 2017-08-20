@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062135-snb11-tis-pity-004-copy.jpg"
-image_caption: >
-  Fiona Button as Annabella and Max Bennett as Giovanni in Michael Longhurst's production.
-image_attribution: "Simon Kane"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062135-snb11-tis-pity-004-copy.jpg"
+image_caption: ""
 ---
 
 Despite being written almost 400 years ago in a society vastly different from our own, this Renaissance classic still evokes visceral responses. There is something deeply attractive about a story of passionate love between brother and sister, vengeful adulteresses and corrupt cardinals which all end in a bloody birthday party.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031512-felix-NASA.jpg"
-image_caption: >
-
-image_attribution: "NASA"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031512-felix-NASA.jpg"
+image_caption: ""
 ---
 
 Are current politics getting you down? Worried that the world is heading in the wrong direction? Worry not –habitable, pristine, Trumpless, planets are coming soon to galaxies near you (perhaps). Indeed, a newly-discovered solar system just 39 light years from Earth contains planets that are possibly warm enough to sustain water and life.

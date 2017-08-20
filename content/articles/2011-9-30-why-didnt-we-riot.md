@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m young. I’m a student. I’ve grown up with today’s British Culture and I am a part of ‘Today’s Generation’. So why didn’t you see me running around London setting fire to furniture stores and stealing carpets? Oh that’s right, because I’m not a complete and utter idiot.

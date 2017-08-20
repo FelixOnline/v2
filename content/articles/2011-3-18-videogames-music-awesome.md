@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103180845-ks607-nitendis.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103180845-ks607-nitendis.jpg"
+image_caption: ""
 ---
 
 Have you ever felt like going to a pub, having a couple of pints, playing some old style video games and hanging out with friends? Yes? Well, you’re not alone. Two guys, Nicholas Thurgood (Nicky) and David Lightfoot (Dave), have just started running a monthly event called Nintendisco. The basic idea is to get people together and hang out in a bar, and then play videogames together, whilst listening to music, from contemporary radio hits to video game theme tunes!

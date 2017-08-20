@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Recently the Imperial College chess team arrived back from BUCA. After multiple rounds, Imperial managed to dominate the entire tournament. It was a great weekend of fun and exciting chess games. However, throughout the event, one thing particularly struck me. Of a group of more than a 70 people, I could have counted the number of women at this entire event on two hands, maybe even one. Yet on average, men and women are distributed fairly evenly throughout the globe. The ratio of the two genders is close to 1:1. Why was it something like 15 to one at this tournament? After I got home I did my own research into this and found some really astounding facts: no woman has ever been world champion; there are only 30 women who are full Grandmasters (when there are actually 1,192 GMs); and and and. The list goes on and on. Women are woefully underrepresented in this famous game. Why is chess considered such a mans sport?

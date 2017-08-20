@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 After a season-long fight, it all boiled down to the last Sunday of the regular season. To be or not to be, it’s now or never: all three play-off qualifiers (Imperial Immortals, Cambridge Pythons and Kent Falcons) could come out top of the division if the day went their way.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082128-felix-iranian_military_parade_september_2007_005.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082128-felix-iranian_military_parade_september_2007_005.jpg"
+image_caption: ""
 ---
 
 I’m too young to properly remember what the run-up to the invasion of Iraq was like, but I imagine it was rather similar to the situation today with Iran. UN inspectors find no conclusive evidence of weapons, the media spreads irrational panic, diplomatic ties are removed, and then the carpet bombing begins. Fortunately Iran is yet to experience that final step, but a war is looking increasingly likely. Which brings me to my main point: if Britain goes to war in Iran and if even one civilian is killed as a result, I will quit my degree in protest, I’ll go to Iran, and I’ll see what I can do to help. That is, if I can muster enough confidence.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The world has lost two giants of technology in as many weeks. The news that Dennis Ritchie died on 12 October, aged 70, after enduring cancer and heart disease for several years, elicited a quieter response than that for Steve Jobs. Ritchie was the creator of the [C programming language](http://en.wikipedia.org/wiki/C_(programming_language)) and one of the co-inventors of the [UNIX operating system](http://www.unix.org/), which means we’re living in a world Ritchie helped to invent.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271939-nm1010-lesthana.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271939-nm1010-lesthana.jpg"
+image_caption: ""
 ---
 
 Everybody, it seems, loves Terrence Rattigan at the moment – or Terry, as the people who sat next to me during the Jermyn Street Theatre’s production of Less Than Kind, insisted on calling him. Last summer, After The Dance at the National Theatre paved the way for Terry’s centenary year in 2011 and the Old Vic is bringing their rendition of Cause Célèbre to the stage in March – be sure to watch this page for details. And whilst the latter two sought to add clout by drafting in big names, the Jermyn Street Theatre (JST) has taken a different approach entirely. Rather than trawl ES Magazine for glossy faces, it seems they’ve been venturing into the archives.

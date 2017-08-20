@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
-image_caption: >
-  First a bad lab report mark, then pennied by 240 people. Welcome to cat versus booze
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
+image_caption: ""
 ---
 
 Any student visiting the Union recently (possibly for celebrating/drowning your sorrows after resits over summer) may have noticed that the pricing has changed. For example, a pint of Stella now costs £2.40, whereas before it was £2.20, resulting in a rise of 9% (9.09 both recurring, to be precise – we are at Imperial after all).

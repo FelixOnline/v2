@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061122-felix-thumbnail_discDoctors at Nationals.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061122-felix-thumbnail_discDoctors at Nationals.jpg"
+image_caption: ""
 ---
 
 Imperial’s Ultimate Frisbee club, more commonly known as the discDoctors (or dD) were in a position to bring both a women’s team and a men’s team to nationals for the first time ever, with the men having qualified in the league throughout the season, and the women finishing highly at Outdoor Regionals qualifier back in March.

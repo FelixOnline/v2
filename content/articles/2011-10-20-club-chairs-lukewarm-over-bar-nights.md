@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
-image_caption: >
-  Some club chairs want to call time on the new regulations
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
+image_caption: ""
 ---
 
 Members of the Arts and Entertainments Board (AEB) voiced overwhelming discontent with the Union’s new rules on holding bar nights for clubs and societies.

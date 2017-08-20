@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505021709-jr2514-lib-dems-poster.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505021709-jr2514-lib-dems-poster.jpg"
+image_caption: ""
 ---
 
 One of the biggest things I’ve noticed as secretary of the newly formed Liberal Democrat Society this year is that students have very mixed and often strong opinions of the Liberal Democrats. I’m hoping to shine a light to the undecided voter on why the Liberal Democrats deserve your vote on 7th May.

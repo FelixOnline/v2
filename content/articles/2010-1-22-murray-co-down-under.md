@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ah, the familiar pleasures of January. Slate-grey skies and precipitation that can’t make up its mind as to whether it wants to be snow, or rain, or something in between. Without forgetting to mention the pervasive and inescapable COLD. Not so for everyone, though. If you happen to be a professional tennis player it is but a matter of rankings and qualifying rounds before you end up in Melbourne playing the Australian Open. Bright, sunny, sweltering Melbourne, I might add. (Of course, you could be Australian, and actually live in Melbourne-but that’s not something I would wish on anyone.) Understandably, then, Andy Murray and his compatriots of the pro-tennis-player persuasion have decided to take refuge from the weather amongst the kangaroos (although the one million pound winner’s prize money might count for something). With the three Brits in the main draw managing to get through to the second round, their time in Oz might actually be productive.

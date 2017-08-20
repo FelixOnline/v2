@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041440-aib116-spring_in_the_trenches_ridge_wood_1.jpg"
-image_caption: >
-
-image_attribution: "Tate"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041440-aib116-spring_in_the_trenches_ridge_wood_1.jpg"
+image_caption: ""
 ---
 
 Paul Nash was an artist best known for two things: his portrayal of English landscapes, and his work as an official artist in both World Wars.

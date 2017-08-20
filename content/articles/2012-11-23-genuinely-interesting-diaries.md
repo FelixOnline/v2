@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230037-tna08-0318462_2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230037-tna08-0318462_2.jpg"
+image_caption: ""
 ---
 
 Well, there are some films that when you are a bit too pretentious, you always act as you have seen them (I am one of thefew people on this planet to admit that I have yet to watch The Godfather trilogy. And I am too pretentious for my own good). In the past decade, Walter Salles’ The Motorcycle Diaries (Spanish: Diarios de Motocicleta), came to be added in this list.

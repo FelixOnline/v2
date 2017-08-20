@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171110-felix-12234690843_bb05dd31dc_o.jpg"
-image_caption: >
-
-image_attribution: "Mark Freeth"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171110-felix-12234690843_bb05dd31dc_o.jpg"
+image_caption: ""
 ---
 
 If you haven’t already, I implore you all to read _The Diet Myth_ by Tim Spector, the acclaimed work by professor of genetic epidemiology and consultant physician (sadly at a rival university here in London). It finely elucidates all the factors which play gargantuan roles in the way we react to and absorb all the nutrients in the food we eat. One chapter on the nutritional benefits of mushrooms particularly intrigued me, for reasons more than merely spore-related. Namely, the way we can develop yoghurt specific to our vaginal microbial population, to ward off fungal infection. Yum.

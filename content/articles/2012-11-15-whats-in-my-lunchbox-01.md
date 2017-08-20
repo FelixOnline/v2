@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
+image_caption: ""
 ---
 
 Ah, winter. The season when just about everything seems to drop: temperatures, number of daylight hours, moods, hemlines (well, depending.) It’s around this time of the year when us Food Editors face a dilemma when packing our lunches – we need more warm/hot sustenance, so our fallback of sarnies and salads just won’t do, even with a cuppa after. At the same time though, QTR/FiveSixEight/Eastside Bar meals can add up, and we’re really not about to give up the packed lunch habit yet.

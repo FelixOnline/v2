@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291320-cj914-running-with-rifles-pc-screenshot-www.ovagames.com-3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291320-cj914-running-with-rifles-pc-screenshot-www.ovagames.com-3.jpg"
+image_caption: ""
 ---
 
 Back in yonder days when I first started playing computer games, the one that really filled my childhood after-school hours was one called Army Men. Basically it was a shooter revolving around the green plastic men, where you would control one of them and shoot the other plastic dudes using a variety of guns, grenades and vehicles. Sadly the graphics of this classic did not stand the test of time, and I moved on to bigger and graphically better things. However, recently in a fit of nostalgia I decided to look this game up again, and while doing so came across the game Running with Rifles on Steam, made by indie studio Modulaatio Games. Described as a “tactical top-down shooter with RPG elements”, I had found a game that looked eerily similar to my past passion nd it didn’t look half bad! After checking out some videos, I knew I had to get it.

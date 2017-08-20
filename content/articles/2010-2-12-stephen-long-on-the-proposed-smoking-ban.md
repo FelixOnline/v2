@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002120201-rsp07-smokingb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002120201-rsp07-smokingb.jpg"
+image_caption: ""
 ---
 
 The other week, the idea of banning smoking in our Union Quad was mooted. On Monday, a proposal will be made to the Council to pass this into Union rules. This appears to me to be very ill thought- out, and hopefully after reading this article, it will to you too.

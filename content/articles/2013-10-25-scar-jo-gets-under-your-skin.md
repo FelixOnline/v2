@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250142-felix-under-the-skin-scarlett-johansson-movie-2013-jonathan-glazer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250142-felix-under-the-skin-scarlett-johansson-movie-2013-jonathan-glazer.jpg"
+image_caption: ""
 ---
 
 Under the Skin

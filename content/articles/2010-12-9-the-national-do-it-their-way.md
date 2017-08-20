@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092033-ma1307-TheNatio.jpg"
-image_caption: >
-
-image_attribution: "Susanna Howe"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092033-ma1307-TheNatio.jpg"
+image_caption: ""
 ---
 
 The National originate from Ohio. They are made up of vocalist Matt Berninger who fronts two pairs of brothers: Aaron (guitar, bass, piano) and Bryce Dessner (guitar); and Scott (bass, guitar) and Bryan Devendorf (drums). Collectively they continue to create the most enigmatic, hermetic and beautifully absorbing music. In my opinion they are currently the most exceptional band in the world and this evening I am privileged to witness their completing a trio of sold out nights at [Brixton Academy](http://www.o2academybrixton.co.uk/).

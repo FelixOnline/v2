@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030826-ks607-volleyba.jpg"
-image_caption: >
-
-image_attribution: "David Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030826-ks607-volleyba.jpg"
+image_caption: ""
 ---
 
 Hot on the heels of the Imperial Women’s Volleyball team steamrolling Nottingham 3-0, the Men’s team have floored Southampton 3-0 to advance to the final 8 of the BUCS tournament.

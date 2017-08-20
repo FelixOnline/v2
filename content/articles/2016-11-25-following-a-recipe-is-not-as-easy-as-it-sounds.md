@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251437-felix-5513650419_cb14c3a042_o.jpg"
-image_caption: >
-
-image_attribution: "Veganbaking.net"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251437-felix-5513650419_cb14c3a042_o.jpg"
+image_caption: ""
 ---
 
 The most challenging thing for me is to follow a recipe: I rarely do it, as most of the time I only improvise with what I have in the kitchen or what is given to me (thank you, nice people who stopped eating my food and started bringing their own). So imagine me standing in front of a cookbook, trying to understand how things work – some Chemistry labs have less complicated instructions, I swear!

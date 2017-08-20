@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201500-felix-Screen Shot 2017-01-20 at 15.00.30.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201500-felix-Screen Shot 2017-01-20 at 15.00.30.png"
+image_caption: ""
 ---
 
 After the publishing of my article last week, I was informed that The Telegraph article on which I based my own, which was picked up from The Daily Mail, was a gross misrepresentation of SOAS Student Union’s campaign. Reading the official SU statement, I am here to retract my previous article and to write an apology.

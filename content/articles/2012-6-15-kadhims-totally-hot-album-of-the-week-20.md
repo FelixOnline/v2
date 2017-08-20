@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
+image_caption: ""
 ---
 
 I fell in love last week. I was standing in the [Now Wave](https://www.facebook.com/nowwave) tent at Parklife Festival in Manchester, when all of a sudden Cupid’s Arrow pierced my ears. I turned to my friend beside me, and pointed towards the stage with my right hand, and said, “That is the coolest man I have ever seen or heard.” The 1st class students among you will have read the subtitle and fi gured out that I’m talking about Tom Vek.

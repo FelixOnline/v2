@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305141126-pk1811-bessemer_building.jpg"
-image_caption: >
-  Biomedical engineering is based in the big pink Bessemer building
-image_attribution: "Uli Harder"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305141126-pk1811-bessemer_building.jpg"
+image_caption: ""
 ---
 
 Students and alumni have been outraged to discover the [auctioning of a place at Imperial College for a one-week summer internship at the Institute of Biomedical Engineering](http://auction.westminster.org.uk/lots/one-week-internship-at-the-institute-of-biomedical-engineering-imperial-college-london-for-a-level-students) that appeared on the morning of Wednesday 14 May. This placement had been made available to students of Westminster School, a fee paying school that charges upwards of £7000 per term for tuition, who could bid for the the opportunity using the school's online auctioning service. The auction was pulled during the evening of the same day.

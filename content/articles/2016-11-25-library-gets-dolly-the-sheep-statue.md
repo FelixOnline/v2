@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251321-felix-IMG_0507.JPG"
-image_caption: >
-
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251321-felix-IMG_0507.JPG"
+image_caption: ""
 ---
 
 Students who have walked through the security gates at Central Library the past couple of weeks may have noticed a strange sculpture awaiting them before they turn into the main study areas.

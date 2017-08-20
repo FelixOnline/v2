@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071308-felix-IMG_5030.jpg"
-image_caption: >
-
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071308-felix-IMG_5030.jpg"
+image_caption: ""
 ---
 
 It’s not every day you meet a Michelin-star chef. Not hysterically screaming after catching a glimpse some 50-metres away, but to be within talking distance, and most importantly, taking a selfie.

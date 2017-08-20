@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402121136-me1711-games_gta.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402121136-me1711-games_gta.jpg"
+image_caption: ""
 ---
 
 Grand Theft Auto online finally enables you to play Grand Theft Auto how you want. Enabling you to create your character and setting you free on Los Santos to progress as you see fit. Here is one account of what goes down online.

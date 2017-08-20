@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192227-felix-moriarty.jpeg"
-image_caption: >
-  Jim Moriarty's in the dock, in more ways than one
-image_attribution: "BBC"
-image_attribution_link: "http://static.bbc.co.uk/programmeimages/640x360/clip/p00n2bld.jpg?nodefault=true"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192227-felix-moriarty.jpeg"
+image_caption: ""
 ---
 
 First of all, it’s worth saying that I enjoyed _[Sherlock](http://www.bbc.co.uk/programmes/b018ttws)_ and, overall, thought it was a good watch. In fact, I think that the first series was excellent, except for one major problem which I’ll get to later. However, in the second series, there are some things that bugged me about it. I thought I’d focus on those as you’re also getting another view focussing on the best bits (we spoil you).

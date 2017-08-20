@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312229-tna08-bpuft12_076.jpg"
-image_caption: >
-
-image_attribution: "BP"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312229-tna08-bpuft12_076.jpg"
+image_caption: ""
 ---
 
 Imperial students have made it through to the [BP Ultimate Field Trip semi-final](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9044170&contentId=7077247)s. Five Imperial teams, each with three engineering students have reached the semi-finals stage, which will be held on the 4th-5th February across the UK.

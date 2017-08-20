@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105161146-felix-66355713.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London/Christian Richters"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105161146-felix-66355713.jpg"
+image_caption: ""
 ---
 
 The Imperial College NHS Healthcare Trust has been ranked as the worst in the country in cancer patients’ experiences.

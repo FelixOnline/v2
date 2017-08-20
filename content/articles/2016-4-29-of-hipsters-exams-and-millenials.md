@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291204-felix-hipster.jpg"
-image_caption: >
-  The males of the species can often be identified by their facial hair, and are commonly found in East London.
-image_attribution: "New Statesman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291204-felix-hipster.jpg"
+image_caption: ""
 ---
 
 If you’re somehow reading this, you’re probably taking that small break in the library café before coming back upstairs for your revision. Here we are! It’s the final term! You’re probably, like me, starting to feel the library is not your second, but your first home. It is where all your life, aspirations, and social interactions will exist until you’re done, and you’re totally cool with becoming a completely dysfunctional piece of pseudo-zombie, trying to overstimulate your caffeine-addict brain for the next four weeks.

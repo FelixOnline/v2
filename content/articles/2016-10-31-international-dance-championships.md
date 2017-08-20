@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610312214-felix-6018845061_ebbd9ea9bd_o.jpg"
-image_caption: >
-
-image_attribution: "Paul Hudson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610312214-felix-6018845061_ebbd9ea9bd_o.jpg"
+image_caption: ""
 ---
 
 What is it about ballroom dancing that so enthrals us? The public’s fascination with ballroom dancing began years ago in Hollywood, with Fred Astaire and Ginger Rogers lighting up the silver screen. And as the wild success of TV programs like Strictly Come Dancing and Dancing With The Stars shows, its glamour and beauty has captured our imagination ever since. Is it the beauty of the figures danced in tandem? The delight of seeing movement and music perfectly aligned? Or even the dazzling costumes that the dancers wear?

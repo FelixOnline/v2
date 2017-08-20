@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Friday, 18.00. Set off from College in the minibuses. Painstakingly prepared genre-based mix tape 1 out of 6 ‘Reggae’ wobbling out from Transit subwoofer to minimal enthusiasm from backseat passengers – requests for Kraftwerk’s ‘Tour de France’ soundtrack pouring in thick and fast from Sioni. Halfway along the A40 in gridlocked traffic, we realise we’ve left Cyprien behind. After a quick phone call, he forgives us and tells us to keep going so we batter on. This remarkable change from everything going to plan to everything going tits up, only to revert back to going to plan some time afterwards would set the pace (at about 45 km/h) for the weekend.

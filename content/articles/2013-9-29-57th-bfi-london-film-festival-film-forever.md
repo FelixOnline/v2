@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291639-jal08-lff-2013-small-1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291639-jal08-lff-2013-small-1.jpg"
+image_caption: ""
 ---
 
 Dear freshers, welcome to London. And to those returning, welcome back. And what a way to kick off the misery that is October with British Film Institute’s (BFI) stunning 57th London Film Festival. With films that are sure to be contenders when it comes to the big awards, the London Film Festival has that rare appeal of having a huge public presence. It’s easy to score some tickets (although the big gala screenings might be fully sold out by now), so keep an eye out for those screenings that will be shown all across central London cinemas.

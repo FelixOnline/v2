@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152122-pk1811-tree.jpg"
-image_caption: >
-  A lonely tree stood solitary on a darkening hill...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152122-pk1811-tree.jpg"
+image_caption: ""
 ---
 
 A lonely tree stood solitary on a darkening hill. Its branches were bare and no birds would roost in its empty canopy. The bark towards its trunk was peeling off and patchy in many places giving a diseased appearance. Gnarled roots grew twisted in the parched earth, meaning that the whole tree leaned crookedly on its base.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192235-ygr12-tb.jpg"
-image_caption: >
-
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192235-ygr12-tb.jpg"
+image_caption: ""
 ---
 
 As a French national, the events of the 13th of November in Paris were a dagger through my heart. It capped off a tragic year for our country. The Charlie Hebdo January attacks came as a shock, but the stabbing of three soldiers in February followed by the attacks of last Friday have exposed the serious political crisis within our nation.

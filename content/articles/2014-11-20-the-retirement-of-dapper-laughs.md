@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411202054-cj914-tzsx7uqf.jpeg"
-image_caption: >
-
-image_attribution: "twimg"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411202054-cj914-tzsx7uqf.jpeg"
+image_caption: ""
 ---
 
 Ten days ago, controversial internet sensation Daniel O’Reilly appeared on an exclusive Newsnight interview to announce the retirement of his comedic persona, Dapper Laughs.

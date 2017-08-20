@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101340-felix-FrancesHa.jpg"
-image_caption: >
-
-image_attribution: "Pine District LLC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101340-felix-FrancesHa.jpg"
+image_caption: ""
 ---
 
 ## Frances Ha (2012)

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Crazy ants may sound like a Flappy Bird spin-off, but in fact this species of ant is slowly taking over Texas, thanks in part to their ability to neutralise the venom of fire ants.

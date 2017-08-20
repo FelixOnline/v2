@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282355-tna08-72360_10151269654966010_1083927323_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282355-tna08-72360_10151269654966010_1083927323_n.jpg"
+image_caption: ""
 ---
 
 Last weekend saw the battle commence [in this year’s Bottle Match](http://felixonline.co.uk/news/3279/the-111th-bottle-match/), which for anyone who doesn’t know what this is, it’s the varsity between the Royal School of Mines and their rivals Cambourne School of Mines. The varsity consists of seven different sports starting with the tame contests of squash and golf on the Friday afternoon, the tense netball in the evening followed by an early start for hockey and football on Saturday morning, these lead into the main event; the rugby.

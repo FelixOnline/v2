@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
-image_caption: >
-  The LUSO 2012 organising committee
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
+image_caption: ""
 ---
 
 Following the success of previous editions, this year welcomes LUSO 2012, the Sixth Meeting of Portuguese Researchers and Students in the United Kingdom.

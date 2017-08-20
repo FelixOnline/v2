@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082045-pk1811-45125915.winterdriveway.jpg"
-image_caption: >
-  Parasites may be lurking on a cold winter’s day, better off staying in...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082045-pk1811-45125915.winterdriveway.jpg"
+image_caption: ""
 ---
 
 It’s the start of a cold winter’s day in London. A young man gets into his car to drive to work. Amongst the bustle of traffic, a pedestrian runs onto the road – the young man sees this, but does not react fast enough. The car swerves, bumps into the pavement, and he wakes up dazed in hospital a few hours later.

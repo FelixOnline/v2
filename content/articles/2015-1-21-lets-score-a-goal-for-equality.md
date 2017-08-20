@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501211155-ps3110-rainbow_flag_and_blue_skies.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501211155-ps3110-rainbow_flag_and_blue_skies.jpg"
+image_caption: ""
 ---
 
 In 1990, Justin Fashanu was the first English professional footballer to come out as gay. Throughout this, he faced abuse from his teammates, fellow players and even his manager. He committed suicide just eight years later.

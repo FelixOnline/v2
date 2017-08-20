@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306052000-tna08-file_193_11.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306052000-tna08-file_193_11.jpg"
+image_caption: ""
 ---
 
 I met Jennifer Louise Martin in the food hall at Selfridges. To get there I had to walk through the cosmetics hall. Through the haze of perfume, immaculate girls stared out with twinkling eyes, watching my progress as I picked my way though counters stacked with foundation, mascara and lipsticks. I had wondered whether Jennifer was setting herself up to make a point. As it emerged, she is far too straightforward for intricate ploys.

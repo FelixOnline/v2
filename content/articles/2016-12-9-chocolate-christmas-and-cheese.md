@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091147-aib116-IMG_6301.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091147-aib116-IMG_6301.jpg"
+image_caption: ""
 ---
 
 If rolling in cash and taking baths in champagne in a mansion in Saint-Jean-Cap-Ferrat is your lifetime goal, may I suggest a better alternative: earning an OBE for “services to chocolate”.

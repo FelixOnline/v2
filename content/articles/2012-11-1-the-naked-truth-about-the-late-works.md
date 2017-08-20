@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012248-tna08-richard_hamiltons_late_works_national_gallery.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012248-tna08-richard_hamiltons_late_works_national_gallery.jpg"
+image_caption: ""
 ---
 
 “One of Britain’s most influential artists”, “the father of pop art”, “one of the most innovative and audacious printmakers ofthe age”. These phrases have all been used to describe the late [Richard Hamilton](http://www.nationalgallery.org.uk/whats-on/exhibitions/richard-hamilton-the-late-works), creator of such famous collages as Just what is it that makes today’s homes so modern, so appealing?, widely considered as the first ever example of pop art. You can see, then, why I was so interested to explore his final works, currently on display at [the National Gallery](http://www.nationalgallery.org.uk/).

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242230-pk1811-phillippa-wilson-john-hodgkinson-hywel-morgan-tracy-gillman-and-jim-kitson-in-a-walk-on-part.jpg"
-image_caption: >
-  The judges weren’t impressed by Matt’s offering for the village talent show
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242230-pk1811-phillippa-wilson-john-hodgkinson-hywel-morgan-tracy-gillman-and-jim-kitson-in-a-walk-on-part.jpg"
+image_caption: ""
 ---
 
 Those of us born around the end of the 80s and the start of the 90s have a lot to chew over. Too young to remember a time before Blair but old enough to recall a precious year or two before Bush fucked the world – sorry, “took office” – we not only grew up in an era where wars were fought against nouns, at the end of it all we were garroted by a bunch of banksters.

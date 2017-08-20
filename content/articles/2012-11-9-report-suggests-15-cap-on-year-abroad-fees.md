@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A government report by Professor Colin Riordan, Chair of the UK HE International Unit, suggested that the cap on fees for year abroads should be 15% of the fee charged for a normal year, which is £9000 for most Imperial undergraduate courses. This means that the fee would be £1350, which could be seen as an incentive for students to save money by going on a year abroad.

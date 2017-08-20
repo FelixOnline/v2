@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242117-mc4509-iphone5-19-pin-rendering-credit-blackpool-creative-11392050.jpg"
-image_caption: >
-   Thin, light and powerful, just like what the Apple iPhone 5 should be
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242117-mc4509-iphone5-19-pin-rendering-credit-blackpool-creative-11392050.jpg"
+image_caption: ""
 ---
 
 In terms of iOS, 2012 was the year of the [iPhone 5](http://www.apple.com/uk/iphone/). After a rather disappointing iPhone 4S, the anticipation had been growing under the surface for a long time. When the iPhone 5 was revealed on the 12th of September of last year, it sported a radical new design, a better graphics processor, new A6 chip as well as LTE technology and finally Felix Tech has one to review.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
+image_caption: ""
 ---
 
 Grasshopper steak, anyone? If that doesn’t tickle your fancy, how about an ant lollipop? Though these ideas may sound revolting, entomophagy, the consumption of insects, may well become more popular in the Western world as fish stocks dwindle and rising population reduces the space available for traditional meat farming.

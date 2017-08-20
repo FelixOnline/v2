@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203012200-cac111-img_9836.jpg"
-image_caption: >
-  2 Girls 1 Cup received the usual response
-image_attribution: "Simon Worthington"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203012200-cac111-img_9836.jpg"
+image_caption: ""
 ---
 
 Last week I requested a gilded invitation to see DramSoc’s latest spring term play [ENRON](http://www.enron.com/) before it went on stage. Whilst I did get my invite I didn’t get it on gold leaf coated paper, the stingy gits. In spite of this I went to see the cast perform on Tuesday, with no idea what to expect, despite everything I’d heard about both ENRON the company and ENRON the West End production. As it turned out, I was pretty impressed.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142143-pk1811-dsc01824.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142143-pk1811-dsc01824.png"
+image_caption: ""
 ---
 
 Emma Amoafa is a third year medic. After a day on the ward most students can only think about bedsheets but Emma has another fabric on her mind. Her embryonic label Friday Born splashes colour across the streets of London in a life-saving injection of Ghanaian vibrance.

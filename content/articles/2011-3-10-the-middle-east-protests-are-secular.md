@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102007-nm1010-turkeytu.jpg"
-image_caption: >
-
-image_attribution: "Sarah Jeyaprakash"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102007-nm1010-turkeytu.jpg"
+image_caption: ""
 ---
 
 Last Thursday, the [Muslim Student Council](http://muslimstudentcouncil.org/) hosted an event entitled: “Middle East: Revolution, Democratisation, and the End of U.S. Hegemony.” The evening featured four invited speakers, talking about recent events in their home countries: Saeed Shehabi from Bahrain, Monjia Abidi from Tunisia, Kamal El-Helbawy from Egypt and Guma El-Gamaty from Libya.

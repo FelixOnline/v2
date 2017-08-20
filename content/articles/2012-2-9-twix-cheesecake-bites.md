@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092239-pk1811-cimg2023.gif"
-image_caption: >
-  Can’t spell cheesecake without ‘eese’. As in ‘ease’? Yeah? Thought not
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092239-pk1811-cimg2023.gif"
+image_caption: ""
 ---
 
 These are seriously decadent crowd-pleasers. I’ve made them twice for two group gatherings of different sizes – we’re talking at least 15 people, and they get snapped up quite nicely (the latter actually had 30-odd people!) They need a little bit of pre-planning and forethought, though; because making them is a two-stage process that includes baking and overnight chilling (or at least 6 hours if you make them in the morning for a dinner treat); but they’re very well worth the wait so they’ll make a great do-ahead dessert.

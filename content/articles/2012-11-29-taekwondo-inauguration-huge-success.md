@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292316-tna08-lalala.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292316-tna08-lalala.jpg"
+image_caption: ""
 ---
 
 The work from countless months of planning, organisation and training finally came together as Imperial College Union TaeKwonDo (ICUTKD) hosted their very own competition at the Ethos sports hall last Sunday. The Imperial College Open 2012 was the kick-start to the competitive year for many university clubs around the country and also the first TaeKwonDo competition to be held on Imperial grounds in the history of the club.

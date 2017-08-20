@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305301421-tna08-201110272007-felix-img_6764.jpg"
-image_caption: >
-  The Union gives us its come to bed eyes
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305301421-tna08-201110272007-felix-img_6764.jpg"
+image_caption: ""
 ---
 
 Union Council has discussed giving extra remits and remaing the Sabbatical positions in the Union (except for Felix Editor and Medics President). Over the last ten years, the Union roles and remits for the President and four deputy Presidents have been kept relatively constant.

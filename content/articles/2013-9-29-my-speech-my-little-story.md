@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291726-tna08-steve-jobs-cutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291726-tna08-steve-jobs-cutout.jpg"
+image_caption: ""
 ---
 
 Ladies and Gentlemen, Imagine yourself standing on the stage with a thousand pairs of eyes staring blankly at you, anticipating the glorious moment when your mouth opens to push out the words that you have prepared for so long. Somewhere in your heart, you reassure yourself again and again that it is all going to be okay, but then what comes out is nothing more than a struggling, noiseless ‘pop’. Does this sound familiar?

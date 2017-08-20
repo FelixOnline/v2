@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Battle of Ideas is a weekend long festival of talks and debates hosted by the Institute of Ideas, an independent think tank. On the 20th and 21st of October, 350 speakers and 2000+ attendees are expected to gather at the Barbican centre for 80 talks and debates on some of the most pressing contemporary issues in politics, culture and science. The battles are an opportunity, says the Institute, to be fearless in the face of controversy and to explore the intellectual legacy of our generation, summed up by their punchy tag-line: FREE SPEECH ALLOWED.

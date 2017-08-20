@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405282223-me1711-games_stickoftruth2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405282223-me1711-games_stickoftruth2.jpg"
+image_caption: ""
 ---
 
 If you have ever watched south park, then you probably know that no taboo ever goes untouched. In episodes and movie we encounter swear words en masse, racial stereotypes, drugs, sex and unabashed toilet humour. Now imagine every south park episode that you have seen, take all the worst parts in them, make them 100 times more politically incorrect and you get the kind of taboos that are broken in the game.

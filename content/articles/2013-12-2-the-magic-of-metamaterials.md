@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Function through structure” is something of a mantra for researchers of metamaterials, a truly twenty-first century field which aims to create materials with bizarre and fascinating optical and magnetic properties, invented here at Imperial by Professor Sir John Pendry.

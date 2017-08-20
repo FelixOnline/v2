@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
-image_caption: >
-  Yep, he may offend people, but consider this: without him, no Karl Pilkington
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
+image_caption: ""
 ---
 
 In case you haven’t been following the news, here’s a quick summary: the UCL Atheist, Secular and Humanist Society’s president stepped down this week after massive pressure from the UCL Union. The Society had used a picture from the “Jesus and Mo” web comic to advertise an event, and were promptly served with a takedown notice from the UCL Union. When the society shot back with a petition, 4,000 people (including Richard Dawkins) signed it overnight, and the UCLU was forced to back down.

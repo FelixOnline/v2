@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
+image_caption: ""
 ---
 
 Imperial College Business School has recently been conducting their examinations in a manner that has been deemed unfair by students and is potentially a violation of the College’s own policy. The breach of the regulations has been revealed by a student who wished to remain anonymous.

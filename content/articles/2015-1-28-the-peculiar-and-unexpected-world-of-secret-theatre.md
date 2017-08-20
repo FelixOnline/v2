@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501281836-ps3110-secret-theatre.jpg"
-image_caption: >
-
-image_attribution: "Lyric Hammersmith"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501281836-ps3110-secret-theatre.jpg"
+image_caption: ""
 ---
 
 A hipster little theatre in Kilburn. A cast of young actors. An improvised piece on the meaning of life. As far as hints go, the __Secret Theatre__ production of _A Series of Increasingly Impossible Acts_ hadn’t got me too fired up. And yet, despite my initial reticence, I was completely blown away by what proved to be a brave, hilarious and heart wrenching show.

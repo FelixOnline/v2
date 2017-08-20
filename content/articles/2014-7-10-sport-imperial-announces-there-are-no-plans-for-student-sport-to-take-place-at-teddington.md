@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
-image_caption: >
-
-image_attribution: "Sport Imperial"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
+image_caption: ""
 ---
 
 In a [news statement](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/sports/newssummary/news_9-7-2014-15-20-47) released today, Sport Imperial announced once and for all that, despite outcry from medics, the Teddington sports ground will no longer be used.

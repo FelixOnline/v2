@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102032023-dr910-vickyvic.jpg"
-image_caption: >
-  Oh fuck off
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102032023-dr910-vickyvic.jpg"
+image_caption: ""
 ---
 
 Tis’ the season. Award ceremonies are everywhere as the ultimate narcissists congratulate themselves on just how wonderful they are.

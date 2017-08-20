@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105271505-felix-img_4469.jpg"
-image_caption: >
-  Last resort?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105271505-felix-img_4469.jpg"
+image_caption: ""
 ---
 
 I was going to dazzle you all with a review of a restaurant this week but seeing the almost prolific response we received to [our coffee article last week](http://felixonline.co.uk/food/1216/please-sir-where-can-i-find-good-coffee/) I thought I would join in with the conversation. It seems when it comes to our caffeinated sustenance we all have rather exacting standards and I would not expect anything less than that from any true coffee aficionado.

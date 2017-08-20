@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282027-nm1010-g2000000.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282027-nm1010-g2000000.jpg"
+image_caption: ""
 ---
 
 After their meeting in Seoul, G-20 finance ministers expressed optimisim that a much-hyped global currency war may yet be avoided. Thoughts have now turned to the longer-term motivations for countries to manipulate their currencies to help exporters, and measures that can be taken against this.

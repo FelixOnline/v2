@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611141423-felix-rugby.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611141423-felix-rugby.jpg"
+image_caption: ""
 ---
 
 The IC third XV faced the medics at the fortress of Harlington, hoping to follow in the footsteps of the varsity whitewash last year. Falling on the same day as the much-anticipated RVC night, this game could very well go down as one of the most important of the season for the 3s.

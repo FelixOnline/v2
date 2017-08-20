@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152138-pk1811-bp-petrol-station-in-king-001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152138-pk1811-bp-petrol-station-in-king-001.jpg"
+image_caption: ""
 ---
 
 Following the Regional Semi-Finals last month, two teams from Imperial College have made it to the [BP Ultimate Field Trip](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9038817&contentId=7071011) Grand Final. The Grand Final will take place in the Royal Institute on 8 May. Imperial teams make up two of the three teams competing to win the prize of a 6-8 week internship in Trinidad and Tobago in the Gulf of Mexico.

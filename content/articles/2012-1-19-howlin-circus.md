@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192045-ams111-howlin-circus.jpg"
-image_caption: >
-  Gothic architecture makes a singular appearance in the Wild West
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192045-ams111-howlin-circus.jpg"
+image_caption: ""
 ---
 
 __So you guys just had rehearsal. How did it go?

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260412-tna08-hot-chip.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260412-tna08-hot-chip.png"
+image_caption: ""
 ---
 
 I’ve never really understood where __Hot Chip__ fit in. Having shot to musical prominence during the years of ‘nu-rave’ (terrible clothes, a lot of dick heads but hell, the music was fun), the band mix catchy pop riffs and delicate vocals with synths that time and again slay the dancefloor. This combination helped the band pass through throughthe years of nu-rave unscathed - __Hadouken__, __Test Icicles__ where are you now? In many ways Hot Chip were the antithesis of most nu-rave bands; Joe Goddard and Alexis Taylor (the two founding members) went to university at Oxford and Cambridge respectively. They also play the stereotypical nerd very well indeed and nowadays are old enough to be some of their younger fans’ dads. They’re not your stereotypical electro-pop act, and neither are they a balls to the wall dance collective; that leaves only one conclusion: they don’t fit in.

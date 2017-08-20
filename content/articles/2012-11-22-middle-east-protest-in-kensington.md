@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230025-tna08-south-kensington2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230025-tna08-south-kensington2.jpg"
+image_caption: ""
 ---
 
 Last Thursday, High Street Kensington found itself overwhelmed with protestors. At 5:30pm, crowds gathered to protest against the violence in the Middle East.

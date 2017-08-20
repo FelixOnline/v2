@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150237-tna08-colin-love.jpg"
-image_caption: >
-
-image_attribution: "Tim Arbabzadah"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150237-tna08-colin-love.jpg"
+image_caption: ""
 ---
 
 As I walk into the airy Business School on time for a meeting (for once), I wonder where any offices could be. Having snuck in by nefarious means, attempting to be clandestine as I tailgate an unsuspecting accomplice, I realise that the furthest I’ve ever been into the Business School is the café.

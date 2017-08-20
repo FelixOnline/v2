@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104241410-felix-sherfield1.jpg"
-image_caption: >
-
-image_attribution: "Ben Scally"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104241410-felix-sherfield1.jpg"
+image_caption: ""
 ---
 
 Chaos broke out at a demonstration held on campus when a fire alarm was triggered and forced hundreds of students to evacuate the central library. The demonstration was in protest at an Ethiopian government conference being held in the Great Hall on Saturday 16th April. In the confusion that followed the alarm, protesters breached police barriers and attempted to storm the Sherfield building.

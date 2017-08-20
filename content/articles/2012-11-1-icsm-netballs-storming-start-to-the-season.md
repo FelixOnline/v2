@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ICSM 5s started their new BUCS season last Wednesday with a convincing win against Roehampton 5s 33-19. It started off as a perfect day for netball, blue skies and with the team showing up perfectly on time, calming their captain’s pre-match jitters. ICSM turned over Roehampton’s first centre-pass leading to them scoring the first goal of the match. At the end of the first quarter the ICSM narrowly winning 7-6, a score line that didn’t reflect their dominating play. In the next quarter, first time shooter Ifrah Hussain, was on fire, doubling ICSM’s goal count to 14. With ICSM’s defence being equally red hot “roeey” fell behind at half time leaving the score 14-9 to ICSM.

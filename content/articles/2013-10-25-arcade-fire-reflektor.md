@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250139-felix-mus_reflektor.jpg"
-image_caption: >
-  Arcade Fire - Reflektor
-image_attribution: "Arcade Fire"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250139-felix-mus_reflektor.jpg"
+image_caption: ""
 ---
 
 rcade Fire release their new album on October 28th. Reflektor was announced in a reply to a single fan on twitter, it’s been preceded with a viral campaign inspired by Haitian veve drawings (me neither) and a single credited to a fictional band called The Reflektors. The hipster darlings are doing nothing to alleviate accusations of pretensiousness. However, even as a massive fan, much of this has passed me by. I’m finding it really hard to get myself excited about the new album. Back in 2010, when The Suburbs was released, I remember having it pre-ordered from within hours of the release date being announced. I remember it arriving and me listening to nothing else for about 3 days. This time around, I’d forgotten it was even out until a couple of days ago. What went wrong?

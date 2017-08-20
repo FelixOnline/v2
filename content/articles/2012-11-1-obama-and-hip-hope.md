@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012313-tna08-obama-jay-z.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012313-tna08-obama-jay-z.jpg"
+image_caption: ""
 ---
 
 Music and the President of the United States of America has always had an interesting relationship. Music being played in the White House is a long standing tradition, dating back to ever since the Marine Band were invited to perform in the Executive Suite for President John Adams on New Year’s Day 1801. Fast forward to 20 January 2009, President Barack Obama was elected and that evening

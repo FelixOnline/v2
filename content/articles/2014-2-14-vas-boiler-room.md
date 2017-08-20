@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __T__he Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month. The content is purposefully chosen to be very different from what one might expect to be displayed in the V&A – this most recent Friday Late, on the 31st of January, was curated by Boiler Room, a somewhat hard to describe entity.

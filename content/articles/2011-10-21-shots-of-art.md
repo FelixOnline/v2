@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211223-felix-sandrobotticelli2.jpg"
-image_caption: >
-  What do you think Venus and Mars have just finished? Rose can tell you
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211223-felix-sandrobotticelli2.jpg"
+image_caption: ""
 ---
 
 The National Gallery [opens late on Friday evenings](http://www.nationalgallery.org.uk/whats-on/friday-lates/). It is the perfect moment to visit, the rooms being relatively empty and peaceful. This is very conducive to a careful, and thus more interesting viewing of the National Gallery’s splendid collection. However there are few students, excepting those who focus solely on Art of course, who know how to look at a painting in order to get the most out of it. We understand little about the myths and fables that are the subject of many paintings, less about technique, and even less about symbolism. Without basic knowledge, going to a gallery can become a torturous journey into a land of boredom.

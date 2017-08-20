@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Future of the Left released their latest album, How to Stop Your Brain in an Accident, last week and they are currently touring the UK, visiting London on the 13th. Stuart Masson caught up with lead singer and guitarist Andrew ‘Falco’ Falkous.

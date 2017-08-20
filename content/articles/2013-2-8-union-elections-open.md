@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week, the Union opened nominations for the upcoming elections for its part- and full-time positions. [The Big Elections 2013](https://www.union.ic.ac.uk/elections/), as the Union are publicising them, are this year the stage for 56 people to be chosen to represent Imperial students in their respective capacities.

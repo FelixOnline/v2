@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112212-felix-on-the-road-still.jpeg"
-image_caption: >
-  Photobombing in the background
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112212-felix-on-the-road-still.jpeg"
+image_caption: ""
 ---
 
 Here is a repetitive bore of a movie in which the three main characters (Hedlund, Riley and Stewart) spend far too much time chasing three things: alcohol, drugs and sex. Yes, they’re either getting drunk, getting high, or getting laid. One of them fancies himself as a bit of a deep-thinking writer, and he serves as the film’s narrator. We see things in Sal Paradise’s (Riley) point of view, who records every single wild experience he shares with various people in his life.

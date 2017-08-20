@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151828-felix-Screen Shot 2017-05-15 at 18.28.16.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151828-felix-Screen Shot 2017-05-15 at 18.28.16.png"
+image_caption: ""
 ---
 
 I hope you’ve enjoyed hunting for Easter chocolate eggs and that you don’t feel sorry for not letting your younger sister get more than two. Good job, by the way. But now that you are out of your sugar coma, it’s time to start wondering what you are supposed to do with all those kilos of chocolate you’ve acquired over the past month. I’m not saying that you can’t just eat them – God, forbid! – but maybe it’s time to feel like a decent human again.  At least for a little bit.

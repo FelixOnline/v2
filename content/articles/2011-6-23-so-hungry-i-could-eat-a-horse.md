@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232214-felix-sss.jpg"
-image_caption: >
-
-image_attribution: "flickr/publicenergy"
-image_attribution_link: "http://www.flickr.com/photos/publicenergy/4937610935/in/set-72157624642960214"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232214-felix-sss.jpg"
+image_caption: ""
 ---
 
 Hunger has taken me to many weird places – Zone 6, meat free foods and even Ginster’s pasties. What I have not done is eat a donkey’s cock as Paul Merton almost did on his documentary series about China. But if I were really hungry, would I?

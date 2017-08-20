@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002051530-rsp07-beithall.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002051530-rsp07-beithall.jpg"
+image_caption: ""
 ---
 
 Whilst prospective students to Imperial may suffer from the budget cuts announced this week, current students may be wondering how they will be affected by the deficit left in next year's budget. Although experts have argued that teaching quality will suffer, felix looks into how Imperial's student union will suffer, and effectively any student involved with any of the 300+ Clubs or Societies.

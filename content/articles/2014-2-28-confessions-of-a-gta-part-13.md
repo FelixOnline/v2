@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In GTA work, a lot depends on trust from your student. Sometimes this simply depends on perceived authority, i.e. you are older and wrinklier than them and you’ve been introduced by their lecturer, therefore you must know something, right? The nicest times are when it depends on a relationship built up over several sessions when a student really believes through your umming and ahhhhing that you will be able to help them, well… eventually.

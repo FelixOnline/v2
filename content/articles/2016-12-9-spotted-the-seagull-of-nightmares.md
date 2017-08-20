@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091206-aib116-seagull-4911_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091206-aib116-seagull-4911_1920.jpg"
+image_caption: ""
 ---
 
 For most, a visit to Hyde Park engenders feelings of tranquility and relaxation. Going for a walk in this urban wilderness at the heart of London would provide anyone with the “escape” that we city dwellers crave, whether we know it or not. As a biologist, I certainly identify myself as a regular park visitor, always admiring the flora, observing wildlife and I’ve come to familiarize myself with the ecosystem. However, nothing could have prepared me for what I witnessed a few weeks ago.

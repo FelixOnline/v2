@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
-image_caption: >
-  Next year’s Officer Trustees celebrate on the Metric stage
-image_attribution: "Ben Lester, ThroughBensLens.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
+image_caption: ""
 ---
 
 Last Friday saw the end of another year of campaigning and voting for the Imperial College Union sabbatical positions, with the results of the Big Elections 2015 announced during the results party in Metric.

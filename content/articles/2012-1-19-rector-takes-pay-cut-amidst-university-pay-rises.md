@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 An examination of thirteen of the UK’s top universities’ financial statements from 2010-11 has revealed that their leaders earned an average salary of £333,000, with an average pay rise of £9,700.

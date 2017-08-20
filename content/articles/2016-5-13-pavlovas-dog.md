@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
-image_caption: >
-  I mean, whoever thought this looked like a ballerina had clearly never actually seen one.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
+image_caption: ""
 ---
 
 Not as complex to make as a fine éclair, but with just as much flair and style, a pavlova is a delicious summer pudding. Hailing from New Zealand or Australia, depending on who you believe, it was named after the famed ballerina Anna Pavlova, whose ethereal frills it resembles. It’s a pretty classic dessert now – but for a very good reason. What could go wrong with a crispy, marshmallow-like cake with heaps of whipped cream and fresh fruit?

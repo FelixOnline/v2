@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001141646-felix-gaelicgi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001141646-felix-gaelicgi.jpg"
+image_caption: ""
 ---
 
 As I follow IC GAC throughout their tour of Dublin, it is clear that their captain Andrew Lavery is taking on-field performance seriously and looks to establish Gaelic Football amongst the rugbies, footballs and the hockeys of Imperial’s sporting frontline.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021400-felix-five-pound-note-1775779_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021400-felix-five-pound-note-1775779_1920.jpg"
+image_caption: ""
 ---
 
 Introduced in September of this year, the revamped £5 bank notes are designed to be more robust and last longer than the previous edition. Already seen in countries like Australia, Canada and Indonesia, these polymer bank notes are designed not to be torn, therefore increasing their lifespan by about 2.5 times, reducing the need to produce more.

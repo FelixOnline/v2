@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Very few of us are here at Imperial because we’re interested in the inner machinations of the political beast. But as argued lately in Felix, science and scientists need to wake up and start caring about science and policy. Besides being a way to sell ourselves better and increase funding from one of our largest donors (the government), gathering technical knowledge and transforming it into human wisdom requires prescience about how it will affect society. And one of the most powerful, overarching frameworks for societal influence is politics.

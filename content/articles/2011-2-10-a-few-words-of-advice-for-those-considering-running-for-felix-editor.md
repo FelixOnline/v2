@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As the elections grow ever closer and each of the Union's Sabbaticals offers an account of their experiences and some advice for would-be successors, the arrogant urge to do the same has become uncontrollable. It would be farcical to interview oneself so I shall instead substitute what is usually a space to editorialise on 'the issue of the day' with some words of advice for the man or woman that will follow me.

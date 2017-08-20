@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
+image_caption: ""
 ---
 
 “I want to keep fighting because it is the only thing that keeps me out of the hamburger joints. If I don’t fight, I’ll eat this planet.” Take this George Foreman quote, replace ‘fight’ with ‘study’ and ‘hamburger joints’ with ‘Byron’ and it’s instantly applicable to me. Well, sort of. OK, not really, but I still really like Byron.

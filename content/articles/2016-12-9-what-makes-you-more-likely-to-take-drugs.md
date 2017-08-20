@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091615-felix-Screen Shot 2016-12-09 at 16.15.33.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091615-felix-Screen Shot 2016-12-09 at 16.15.33.png"
+image_caption: ""
 ---
 
 All people are the same. Or are they? When it comes to drug use it appears they are not, especially according to the catchily-named Home Office document Drug Misuse: Findings from the 2014/15 Crime Survey for England and Wales. Second edition.

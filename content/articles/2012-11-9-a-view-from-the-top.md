@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091146-tna08-amanda-rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091146-tna08-amanda-rgb.jpg"
+image_caption: ""
 ---
 
 Undoubtedly one of the most recognised modern buildings in the UK, The Gherkin (officially known as 30 St Mary Axe) is magnificently impressive from the outside, yet even more so from the 19th floor up. The view of London from such a height is incredible, and on a clear sunny day there is more than just a pang of jealousy as Amanda Brumpton welcomes me into her glass office.

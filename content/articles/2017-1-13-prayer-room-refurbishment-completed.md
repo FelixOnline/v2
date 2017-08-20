@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701131355-felix-15967129_10158043184975298_388485648_o.jpg"
-image_caption: >
-
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701131355-felix-15967129_10158043184975298_388485648_o.jpg"
+image_caption: ""
 ---
 
 The Brother’s Prayer Room was successfully refurbished over the winter break. Earlier last year, felix revealed many maintenance issues that had plagued the IC Islamic Society managed prayer room for six years.

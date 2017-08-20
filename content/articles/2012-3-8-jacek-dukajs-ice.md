@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082038-ams111-lod.jpg"
-image_caption: >
-  Let me guess, this novel is set in Imperial Russia?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082038-ams111-lod.jpg"
+image_caption: ""
 ---
 
 I find it rather disappointing how so few of the books available to readers in this country are written by foreign language authors. Sure, you can find translations of all the French and Russian classics in the larger bookshops but not much from other countries and certainly nothing contemporary. I’m somewhat at a loss to explain this phenomenon. Other European countries don’t seem to have this problem, with some bookshops devoting up to half their fiction section to translations. I think that it’s a great loss for the British public – foreign literature is a way of immersing yourself in new cultures without leaving your home – it broadens the mind and gives you a new viewpoint. I bet that not many of you have even heard of Henryk Sienkiewicz, despite the man having won a Nobel Prize in Literature. It seems that, in general, publishers have seemingly decided not to run the risk of giving their readers something different. I was therefore pleasantly surprised when I heard that the independent British publisher Atlantic Books will be putting out an English translation of Jacek Dukaj’s acclaimed science fiction alternate history novel _Ice_ before the year is out.

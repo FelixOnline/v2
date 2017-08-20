@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Beauty does not bring true happiness. Marius von Mayenburg’s 'The Ugly One', produced by the [Drama Society](http://union.ic.ac.uk/arts/dramsoc/), discusses this theme in a comedic and slightly ridiculous approach whilst never letting us forget the tragedy of trying to conform to social norms.

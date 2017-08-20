@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205242335-mc4509-cr37351200035.jpg"
-image_caption: >
-  Academic campus Silwood Park is situated near Ascot
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205242335-mc4509-cr37351200035.jpg"
+image_caption: ""
 ---
 
 Concerns regarding staff shortages have risen as entry to postgraduate courses in the Department of Life Sciences has been suspended. Courses such as the Entomology MRes and MSc and Integrated Pest Management MSc, held in [Silwood Park](http://www3.imperial.ac.uk/silwoodparkcampus), and Plant Science and Biotechnology MSc, held in South Kensington, are marked on the postgraduate online course list as ‘’suspended for 2012-2013 entry’’.

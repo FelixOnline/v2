@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
+image_caption: ""
 ---
 
 Exactly one year after making its debut on stage at the Lyric Theatre, Simon Stephens’ Punk Rock crashes back to Hammersmith with an updated cast of bright young things.

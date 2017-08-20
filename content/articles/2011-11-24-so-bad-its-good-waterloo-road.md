@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242120-pk1811-episode-112.jpg"
-image_caption: >
-  The Ofsted inspection suddenly seemed to have become a little less orthodox than usual
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242120-pk1811-episode-112.jpg"
+image_caption: ""
 ---
 
 I don’t normally watch shows in the ‘so bad it’s good’ category – there are far too many genuinely good programmes which I can devote my time to. The one exception to this rule is [_Waterloo Road_](http://www.bbc.co.uk/programmes/b006t1p7)__.

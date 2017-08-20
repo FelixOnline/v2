@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Many of us think that staying up late at night gives us more time to be productive; however, a recent study at UC Berkeley has shown that ‘night owls’ perform worse academically and emotionally in the long run.

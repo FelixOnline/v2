@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192036-cac111-zooey-comment.jpg"
-image_caption: >
-  Zooey Deschanel? Relevant as she’s standing in front of the famously unbiased Fox’s logo
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192036-cac111-zooey-comment.jpg"
+image_caption: ""
 ---
 
 Something hit me the other day. It wasn’t a fist luckily/unfortunately (delete as appropriate based on your opinion of me). I’ll explain, I was reading a newspaper that wasn’t Felix (treason, I know, I wouldn’t recommend that anyone else EVER does this). I was just browsing the news section, as I’m an intellectual/was trying to look intellectual in the hope that a girl in a coffee shop would notice me and be enamoured. It didn’t work (damn you revision beard, you make me look unkempt – in a bad way, not like a loveable rogue), but I did manage to see something so obvious that I was surprised people are not up in arms about it. The newspaper was incredibly unsubtle in its bias. It was obvious what it wanted you to take away from the news story. It was, at times, so clear what side it was leaning towards, that it was bordering on being one giant comment section (being the Comment Editor, that would be both awesome and incredibly destructive to my degree).

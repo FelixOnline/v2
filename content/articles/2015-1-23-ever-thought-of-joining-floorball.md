@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231919-jyg11-fullsizerender.jpg"
-image_caption: >
-  The Imperial College Floorball team is one of the United Kingdom's best Floorball teams and regularly place in the top three in competitions around the country
-image_attribution: "IC Floorball"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231919-jyg11-fullsizerender.jpg"
+image_caption: ""
 ---
 
 “MAN! ON!” The howls resonate through the hall as each team eggs the other one on. A feint to the right, a twirl and another dodge before the striker is through the defensive line. She manipulates the curved head of the floorball stick with the deft and ease of a water bender as she races towards the goal line. 20 yards and closing...

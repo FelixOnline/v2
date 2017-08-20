@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111118-felix-bball.jpg"
-image_caption: >
-  Men's Imperial 1st Basketball are currently top of their BUCS league group.
-image_attribution: "Katerina Stavri"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111118-felix-bball.jpg"
+image_caption: ""
 ---
 
 Last weekend Imperial’s 1st Basketball team were told as they arrived for a tournament they had organised that their court booking had been given away to a birthday party.

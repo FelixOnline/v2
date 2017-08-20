@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271644-felix-la-la-land-ryan-gosling-emma-stone (1).jpg"
-image_caption: >
-  La La Land, a love-letter to Hollywood, wins massive acclaim from Hollywood industry – shocker!
-image_attribution: "20th Century Fox"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271644-felix-la-la-land-ryan-gosling-emma-stone (1).jpg"
+image_caption: ""
 ---
 
 The announcement of the nominees for the 89th Academy Awards this week marked the beginning of the end of the year-long awards process, which begins with the Cannes Film Festival in May, and ends with the Oscars, 8 months later. As usual, the list of nominees contains few surprises, with the Academy of Motion Picture Arts and Sciences choosing to stay on the straight and narrow, throwing out very few left-field choices.

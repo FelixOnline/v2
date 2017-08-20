@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152151-tna08-the-master.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152151-tna08-the-master.jpg"
+image_caption: ""
 ---
 
 There is no denying that Paul Thomas Anderson (Magnolia, There Will be Blood) is the most bold and intelligent director around. He is fearless in undertaking a challenging topic, and his deliberate ambiguity in his characters, the deep complexities, the uncomfortable situations, hard-hitting scenarios, all make their appearances: very little changes in his hotly anticipated The Master. Dense, heavy narrative? Check. Top-notch performances? Check. You get the feeling that there is something great here – an insightful character study of sorts, delving into a struggling man’s psyche, but due to the many obstacles that stand in the way of the film being a widely accessible experience, it sadly misses out on becoming a classic.

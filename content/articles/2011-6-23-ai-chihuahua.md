@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232218-felix-bar_small-(1).jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232218-felix-bar_small-(1).jpg"
+image_caption: ""
 ---
 
 Drinking, Dancing and Dining is the motto of this place - a place where you can drop in after a walk at Covent Garden market and have a tasty and relatively cheap Mexican meal. There are fantastically named cocktails, like “Orgasm please!” and “Blow work”, and tunes blasting from 11pm until 3am.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [![make an avatar](http://i.picasion.com/pic41/bd88fbca4d7c2f8d3eeed9d5047cbd04.gif)](http://picasion.com/ "make an avatar")

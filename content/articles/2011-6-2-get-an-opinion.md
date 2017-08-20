@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022020-felix-sheen.jpeg"
-image_caption: >
-  Everyone needs to take a leaf out of this guy’s book
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022020-felix-sheen.jpeg"
+image_caption: ""
 ---
 
 Watching interviews from the 60s and 70s is an odd experience. [I saw one with John Lennon on YouTube the other day](http://www.youtube.com/watch?v=FsS-uZUh5_8), in which he wasn’t being a grinning media-trained robot. He was joking about, with his style of surrealist humour, and generally being relaxed. If someone did that now, there would be stories all over the place saying they gave an ‘erratic’ interview. Watch several interviews and you realise he was doing something that nowadays seems far too terrifying to us – he was being himself.

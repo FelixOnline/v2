@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201271237-felix-inescpaablefate-logo.jpg"
-image_caption: >
-  Spikey metal logo replaced with baroque oil painting
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201271237-felix-inescpaablefate-logo.jpg"
+image_caption: ""
 ---
 
 ___How long has the band been going?___

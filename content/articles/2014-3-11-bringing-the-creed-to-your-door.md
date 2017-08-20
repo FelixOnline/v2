@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403111816-me1711-games_ac4.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403111816-me1711-games_ac4.jpg"
+image_caption: ""
 ---
 
 Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game. For those who don’t know, it is a game of adventure, deception and a thirst for blood and treasures. There’s two parts to this review, the Story Campaign and Multiplayer Mode.

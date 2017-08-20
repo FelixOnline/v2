@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 X-rays could help us peer back in time to see the origins of life on Earth. Fossils, the indelible mark of ancient life, have been a vital piece of evidence for Darwin’s theory of evolution. Most, however, are from a time millions of years after life started. The evidence of life’s origin has been, until this point, been too small to see.

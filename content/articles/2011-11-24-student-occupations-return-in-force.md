@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
-image_caption: >
-  Universities Minister David Willetts
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242207-pk1811-148130-a-levels-accused-of-being-too-easy.jpg"
+image_caption: ""
 ---
 
 Students and staff affiliated with Members of Cambridge Defend Education have been staging a sit-in protest in a university lecture theatre at University of Cambridge since Wednesday 23 November.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
-image_caption: >
-  RAG Chair Ben Fernando shaking a collection tin for the campus-wide charity week
-image_attribution: "Ben Fernando"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
+image_caption: ""
 ---
 
 This week saw two days of bungee jumping, one evening of fire walking, a lunchtime of pancake-tossing and just under 900 doughnuts; all in the name of Raising And Giving (RAG).

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291631-ff712-love2-xlarge.jpg"
-image_caption: >
-  Murphy (Karl Gusman) and Electra (Aomi Muycock) get up close and personal in Gaspar Noé’s Love.
-image_attribution: "Curzon Artificial Eye"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291631-ff712-love2-xlarge.jpg"
+image_caption: ""
 ---
 
 In the film _Love_, the walls in protagonist Murphy’s (Karl Glusman) bedroom seem to serve as a mission statement for Argentinian director Gaspar Noé: plastered with posters for shocking art-house fare – Pasolini’s _Salo_, Warhol’s _Frankenstein 3D_, Tod Browning’s _Freaks_ – it is clear to us that one day Noé wants to take his place among the auteurs of upset, the unsettlers of the staid filmgoer. But to achieve this you really need to be able to produce something shocking and offensive; unfortunately for Noé, boring your audience to the point of nausea doesn’t count.

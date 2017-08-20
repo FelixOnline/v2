@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511291636-ff712-2526.jpg"
-image_caption: >
-  Yeah, you wish you were as cool as McQueen. We all do.
-image_attribution: "Steve McQueen: The Man & Le Mans PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511291636-ff712-2526.jpg"
+image_caption: ""
 ---
 
 For the avid cinephile, whose interest in films borders on the obsessive, there is a special passion for the ‘making-of’ narrative. _Steve McQueen: The Man & Le Mans_ taps into this with a behind-the-scenes look at _Le Mans_, a 1971 passion project of ‘King of Cool’ Steve McQueen, based on the legendary 24 hour motor race. With little in term of plot or dialogue, the film was an unmitigated flop, but still holds a special place in motorists’ hearts for the realism it brought to the screen.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122158-felix-dsc_6871.jpg"
-image_caption: >
-
-image_attribution: "Beth Elzer"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122158-felix-dsc_6871.jpg"
+image_caption: ""
 ---
 
 It is a truth universally acknowledged that all mad scientists must carry out their ingenious experiments in a basement. But most of us have absolutely no idea what goes on beneath the floors of our faculties. At Imperial, some of our most ingenious pieces of research are carried out by the [London Centre for Nanotechnology](http://www.london-nano.com/) (LCN), which has just celebrated its fifth anniversary. A collaboration between Imperial and UCL, it covers such a large range of research that it could not be contained in a single basement and is now carried out across both campuses.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 "Ah sorry I’m late, fucking Transport for London” – the familiar refrain uttered by thousands of Londoners every day. I mean it was obviously a failure of the bastards that you couldn’t make it to drinks/lectures/sessions of parliament on time. Right?

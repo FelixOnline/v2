@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292144-tna08-coding_day_2-194.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292144-tna08-coding_day_2-194.jpg"
+image_caption: ""
 ---
 
 83 technology students from 15 different Universities participated in J.P Morgan’s first ever Tech Coding Challenge. 17 teams competed in this Hackathon-style event that took place in the headquarters of J.P. Morgan in Canary Wharf. Their coding skills were put to the test as they used technology to choose and solve a social challenge presented by three leading charities: Centrepoint, WaterAid or The Nature Conservancy.

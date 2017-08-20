@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
-image_caption: >
-  ... but only in mice, so far
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
+image_caption: ""
 ---
 
 Researchers in New York have engineered a way to non-invasively trigger gene activation in live animals using nanoparticles and radio waves, a method that may, in the future, be used to remotely control genes in humans for medical purposes.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 From the title to the timing, _McQueen_ at the __St James’ Theatre__ has all the hallmarks of a cheesy opportunistic bio-drama. But despite the tormented genius stereotype it conforms to, James Philip’s play is a brave, moving, and enchanting portrayal of a person’s struggle with mental health.

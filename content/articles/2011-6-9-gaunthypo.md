@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092125-felix-gaunt.jpg"
-image_caption: >
-  Gaunt
-image_attribution: "Luke Tomlin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092125-felix-gaunt.jpg"
+image_caption: ""
 ---
 
 

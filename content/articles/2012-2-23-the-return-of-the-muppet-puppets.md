@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232027-pk1811-muppetsmovie.jpg"
-image_caption: >
-  Clearly you’re never too old to love The Muppets – he’s 32 and she’s 37
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232027-pk1811-muppetsmovie.jpg"
+image_caption: ""
 ---
 
 [__The Muppets__](http://www.imdb.com/title/tt1204342/)

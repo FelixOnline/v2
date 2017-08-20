@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232238-tna08-fast-furious-6-vin-diesel.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232238-tna08-fast-furious-6-vin-diesel.jpg"
+image_caption: ""
 ---
 
 Letty (Rodriguez) died. She died right in front of our eyes when she was shot after a car-flip. We know it, the characters know it, but running out of fresh new ideas to carry on with the popular vehicular franchise, they have decided to bring her back from the dead. But rest assured that this isn’t the most absurd thing you’ll see in the film. See, The Fast & the Furious series isn’t exactly known for its credibility: the more it embraces its stupidity and its tight, succinct structure, the better.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306211041-tna08-poledancing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306211041-tna08-poledancing.jpg"
+image_caption: ""
 ---
 
 Pole is one of the hottest fitness trends in the country, combining ballet and gymnastics to create routines as physically impressive as they are sexy. Don’t let the hotpants fool you – the Pole Soc girls (and guys!) routinely bust out human flags and the exposed skin is used for grip.

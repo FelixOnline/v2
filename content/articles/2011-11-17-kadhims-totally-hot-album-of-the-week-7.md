@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172123-pk1811-kadhim-review.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172123-pk1811-kadhim-review.jpg"
+image_caption: ""
 ---
 
 I recently told my friend that I couldn’t understand [the hype surrounding __A$AP Rocky__](http://stereogum.com/866912/mixtape-of-the-week-asap-rocky-liveloveaap/mp3s/). In a completely unrelated incident, I was called “[a fucking codpiece](https://twitter.com/#!/MikillPane/status/133216344341610498)” on Twitter by [Felix Music Night](http://felixonline.co.uk/music/1774/reports-from-a-sick-night-in-metric-no-seriously/) headliner __Mikill Pane__ ([we’ve since patched things up](https://twitter.com/#!/kadhimshubber/status/133278559652413440)). He didn’t think any of my questions in [an email interview](http://felixonline.co.uk/music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop/) were any good. In particular, one question about why he didn’t rap about “guns and bitches” received this put down: “I’ll pretend you didn’t ask that…”

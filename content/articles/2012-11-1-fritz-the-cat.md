@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was towards the end of a long, drawn-out evening at a festival during the summer, and totally by chance some good chums and I came across a cinema showing Fritz the Cat. I coincidentally had only read about it a couple of days earlier so I suggested to the cohort that we catch the closing 15 minutes. As we loitered around the back, someone else walked in and asked what the film was about. It seemed appropriate for me to answer the question with the following:

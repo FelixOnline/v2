@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505291309-js5913-drivepastmyhouseposterweb.jpg"
-image_caption: >
-  Summer Camp's zine cover
-image_attribution: "Julia Scheele"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505291309-js5913-drivepastmyhouseposterweb.jpg"
+image_caption: ""
 ---
 
 __Summer Camp__ released their third LP, Bad Love, this week, and as well as doing a handful of promotional in store performances, they brought out their second ever zine. Full of comics, poetry and prose from fans who are also friends, ‘Drive Past My House’ is a snazzy addition to any fan’s collection, and perfectly complements their dreamy, high-school rom-com aesthetic.

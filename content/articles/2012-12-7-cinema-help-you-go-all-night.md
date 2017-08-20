@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 And you thought you were done with staying up late sipping coffee staring at a screen? Except this time the screen’s 33ft, and it hasn’t got tomorrow’s lab report minimized while reddit gently soothes your woes. Imperial Cinema brings you six of the latest releases, back-to-back, for your chance to catch up on the recent blockbusters. With the added challenge of trying to decipher the mind of Joss Whedon at 6am.

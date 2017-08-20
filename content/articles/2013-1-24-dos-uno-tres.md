@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
+image_caption: ""
 ---
 
 The aptly titled album [_¡Dos!_](http://www.greenday.com/album/dos) is the second instalment in the rapid-fire trilogy that [__Green Day__](http://www.greenday.com/) now has released. This album is a bit less clean than _[¡Uno!](http://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w),_ playing to a garage rock style vibe. Armstrong went as far to describe this as a second [__Foxboro Hot Tubs__](http://www.foxborohottubs.com/) album. If you have heard of the __Foxboro Hot Tubs__, then you will know that they have a raw musical style, which can be quite easily applied to _¡Dos!_ as well. In fact one of the songs ‘F*** Time’ is actually originally a __Foxboro Hot Tubs__ song.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182117-ks607-baseball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182117-ks607-baseball.jpg"
+image_caption: ""
 ---
 
 I would love to say that I am profiling the Imperial Baseball team as an oath of allegiance to Boston Red Sox owner John W. Henry, the not-so-evil American who is replacing the most definitely evil American former-owners of my beloved Liverpool. How romantic it would have been, after all, to celebrate Mr Henry’s arrival on these grey shores by engrossing myself in anything and everything to with America.

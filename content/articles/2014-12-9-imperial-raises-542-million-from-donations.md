@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412091346-ps3110-newseventsimages.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412091346-ps3110-newseventsimages.jpg"
+image_caption: ""
 ---
 
 On the 25th of November, Imperial College London hosted a Thank You Reception in celebration of the record-breaking number of donations made to the College during 2013-2014. Part of the donations, which totalled £54.2 million, went towards funding 110 undergraduate scholarships through the President’s Scholarship Fund, which consists of a £3,000 reward. The fund also supported the Imperial College PhD Scholarship Scheme, which cover full tuition fees as well as additional financing for three and a half years.

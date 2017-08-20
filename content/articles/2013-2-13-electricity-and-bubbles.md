@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302132004-tna08-1382844_12541003.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302132004-tna08-1382844_12541003.jpg"
+image_caption: ""
 ---
 
 Blowing bubbles from soapy water has been a favourite past time for all of us. Struggling as we try to catch them before the breeze takes them higher and higher provided us with hours of delight. We never gave a thought to the physics behind it, because, well, that would ruin the fun.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104201114-felix-manifestation_12_octobre_2010_orléans_-_place_du_martroi_-_1.jpg"
-image_caption: >
-  Demonstration in Orléans
-image_attribution: "DC/Wikimedia Commons"
-image_attribution_link: "http://commons.wikimedia.org/wiki/User:DocteurCosmos"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104201114-felix-manifestation_12_octobre_2010_orléans_-_place_du_martroi_-_1.jpg"
+image_caption: ""
 ---
 
 Britain’s first coalition government since the Second World War seems to be splitting at the seams as it unveils a budget to deal with the worst deficit caused by the worst recession in Britain since the Second World War. This has already caused a twenty four hour tube strike and backbench anger over broken party pledges. We can, however, at least take solace in the fact that we appear to be coping better than the other half of the entente cordial; our sister nation, France.

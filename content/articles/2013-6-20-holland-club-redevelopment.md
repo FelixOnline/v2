@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210048-tna08-hc2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210048-tna08-hc2.jpg"
+image_caption: ""
 ---
 
 On Wednesday I had a tour of the area that [used to be the Holland Club](http://felixonline.co.uk/news/2931/holland-club-closed/). The space is called Level 0. At the moment, extensive work is still going on, and there is much left to do. It is definitely, for all intents and purposes, a building site; you have to sign in and out and wear a high vis jacket and a hard hat.

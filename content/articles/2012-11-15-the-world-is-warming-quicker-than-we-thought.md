@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152101-tna08-weather.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152101-tna08-weather.jpg"
+image_caption: ""
 ---
 
 Climate change is expected to be more severe than previously thought as the climate models, which record the greatest warming, are found to be more accurate according to a new study.

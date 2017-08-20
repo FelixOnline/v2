@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291131-felix-ales.jpg"
-image_caption: >
-  None of these are any good.
-image_attribution: "wvgazettemail.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291131-felix-ales.jpg"
+image_caption: ""
 ---
 
 Every day I wake up I thank the gods I’m not English. I thank them because I was not born in a country where a family of layabouts is put on the throne and worshipped for no goddamned reason. I thank them because I have much more international football to remember fondly. I thank the gods because my Prime Minister isn’t someone who put a private part of their anatomy inside a dead pig (although I curse them because a former Prime Minister of mine put a private part of their anatomy inside an underage girl).

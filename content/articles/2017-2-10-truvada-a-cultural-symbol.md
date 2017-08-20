@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101510-felix-Screen Shot 2017-02-10 at 14.17.47.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101510-felix-Screen Shot 2017-02-10 at 14.17.47.png"
+image_caption: ""
 ---
 
 Truvada is a household name in the gay community. It is the name of a small blue pill containing two antiretroviral compounds, emtricitabine and tenofovir, used to treat HIV. But Truvada does so much more that carry antiretroviral properties. It is charged with symbolism and packed with historic meaning.

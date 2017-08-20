@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the 160 years since its first publication, Moby Dick has become one of the most acclaimed novels in the English language. However, while most people have heard of the book and its most famous characters, few have actually read it. Now, however, artist Angela Cockayne and writer Philip Hoare, both big fans of Moby Dick, seek to correct this problem and give people a chance to experience this masterpiece in a new and exciting way.

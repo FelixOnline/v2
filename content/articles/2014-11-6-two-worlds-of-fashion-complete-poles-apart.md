@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062127-snb11-screen-shot-2014-11-05-at-14.25.45.png"
-image_caption: >
-  Vanity Fair, 1st February, 1924
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062127-snb11-screen-shot-2014-11-05-at-14.25.45.png"
+image_caption: ""
 ---
 
 On 25th January, 1955, the __MoMA__ opened its doors to the most ambitious photography exhibition ever conceived. Titled _The Family of Man_, the 503 photos aimed to reflect the world around us, highlighting the similarities between vast numbers of people who were just beginning to get their postwar lives together, living in the atomic shadow of Hiroshima. After its wildly popular run in New York, the exhibition toured the world for 8 years, building up a staggering attendance of 9 million; in 2003 its historical value was recognised by UNESCO, who placed the exhibition in their permanent archives. The curator of this grand spectacle? __Edward Steichen__ – intellectual royalty, Academy Award winner, and one of the most influential fashion photographers of his time.

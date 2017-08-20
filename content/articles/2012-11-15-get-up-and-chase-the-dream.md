@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152206-tna08-branson_1805509c.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152206-tna08-branson_1805509c.jpg"
+image_caption: ""
 ---
 
 For some, overcoming endless hurdles is a memory they wish to leave behind with school PE lessons. For others the uncertainty, challenge and commitment involved in developing a start-up is what provides the buzz that gets them out of bed each morning.

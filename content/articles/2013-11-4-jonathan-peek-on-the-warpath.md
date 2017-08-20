@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If there is one thing the our Union has got right is its ability to generate endless of amounts bureaucracy and suffer a constant stream of changing individuals filling roles without much of an idea of what they’re supposed to be doing or even being qualified to complete their role.

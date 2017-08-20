@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202057-dr910-rhyDavis.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202057-dr910-rhyDavis.jpg"
+image_caption: ""
 ---
 
 If popular culture has taught me anything (and I like to think it has), it is that we are most likely to perish as a species in a thermonuclear fire-storm or a zombie pandemic. Though radically different, these apocalypses involve a great deal of mass panic before the dying starts. As such, there are themes common to both that may just dissuade booking any long-term holidays.

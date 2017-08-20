@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503301533-ff712-jpeg-9.-deborah-findlay-(edith)-in-rules-for-living_credit-simon-annand.jpg"
-image_caption: >
-  Deborah Findlay (Edith) in the National Theatre's Rules For Living
-image_attribution: "Simon Annand"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503301533-ff712-jpeg-9.-deborah-findlay-(edith)-in-rules-for-living_credit-simon-annand.jpg"
+image_caption: ""
 ---
 
 Any hope that the __National Theatre__’s _Rules For Living_ would be a quiet affair was quickly dashed upon reading the programme: in the cast list, tucked under the usual Lighting Designers and Sound Technicians, is an acknowledgement for Kate Waters - Fight Director. This gives us a clear indication of the direction the play is going to go in, but really it should be obvious from the start - _Rules For Living_ centres around that most volatile of environments: the middle-class christmas dinner.

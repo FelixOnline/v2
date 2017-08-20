@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012259-csw09-cloudatlas.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012259-csw09-cloudatlas.jpg"
+image_caption: ""
 ---
 
 Cloud Atlas, to refresh your memory, is David Mitchell’s 2004 Booker short-listed novel whose film adaptation is due to release in the U.K early next year. The novel is, to put it mildly, a complex book, composed of six different narratives spanning time and space, from the 19th century South Pacific to early 30s Europe, late 70s America, early 21st century Britain, near future dystopian Korea and post apocalyptic distant future Hawaii. Each story ends abruptly where the next picks up and once the reader reaches forward in time to the sixth narrative he is pushed back through the ages while each story is neatly resolved, ending where the book begins.

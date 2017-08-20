@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171620-felix-octopush 3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171620-felix-octopush 3.jpg"
+image_caption: ""
 ---
 
 I have two minor claims to fame: my brother featured in a Gocompare advert alongside Stuart Pearce and I learnt to swim in the same pool as Anthony Head’s children. Pretty impressive right? No, I know, but it means I have always seen swimming as an epic, almost vampire-slaying-esque activity. And I’ve never really been any good at it. So when I was handed the opportunity to try a sport I’ve never played, hockey, and take it to the pool, I was apprehensive.

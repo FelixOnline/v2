@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202021928-ams111-badger-2.jpg"
-image_caption: >
-  Don't kill them... I'll take them. I'll take them all!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202021928-ams111-badger-2.jpg"
+image_caption: ""
 ---
 
 Late last year, the environment secretary Caroline Spellman announced that badger culling would go ahead in 2012 in an effort to combat bovine tuberculosis (TB). Now that the locations of pilot culls have been named, the scheme is suddenly becoming a reality, but is the cull justified and will it be effective?

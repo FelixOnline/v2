@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251257-ff712-a-scene-from-behind-the-beautiful-forevers---image-by-richard-hubert-smitha.jpg"
-image_caption: >
-  A scene from the National Theatre’s Behind The Beautiful Forevers
-image_attribution: "Richard Hubert Smith"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251257-ff712-a-scene-from-behind-the-beautiful-forevers---image-by-richard-hubert-smitha.jpg"
+image_caption: ""
 ---
 
 _B__ehind the Beautiful Forevers_, based on the non­fiction book by Katherine Boo, and adapted for the stage by David Hare, is currently on at the __National Theatre__. Hare’s adaptation is principally mediocre, and does very little but leave me wanting. Set in a slum outside the Mumbai airport, the play begins with a stage littered with refuse, waiting to be collected, along with a backdrop of crude temporary buildings. Shane Zaz’s character of Abdul Husain is anchored at centre stage sorting rubbish, whilst other young characters run around collecting what they can, thus clearing the stage. This scene foreshadowed the tone of the first half of the play, not only in that it shows the frenzied nature of the characters’ lives, but also the insincerity of the production, which extends to the whole play. Booming electronic Indian music attempts to corroborate and justify the pace of this scene, as the characters frantically run to and fro across the stage. However, the balance of the music forcefully reminds the audience that they are in a theatre, and that the characters moving around on stage are performing for them, undermining any possible immersion into the world in which this play is set.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
-image_caption: >
-  Pascal Loåose, left, hosted the evening
-image_attribution: "Ben Lester/Through Ben’s Lens"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
+image_caption: ""
 ---
 
 The Imperial College Union Student Academic Choice Awards (SACAs) award ceremony took place on Monday evening at the Union Concert Hall. Eight awards were featured that evening, with six shortlisted members of staff per award.

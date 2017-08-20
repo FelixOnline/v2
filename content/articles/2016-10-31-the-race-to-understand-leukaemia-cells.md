@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610311544-felix-5814816122_d9e06fd0bf_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610311544-felix-5814816122_d9e06fd0bf_o.jpg"
+image_caption: ""
 ---
 
 T-cell acute lymphoblastic leukaemia (T-ALL) is a fast progressive type of blood cancer that affects white blood cells, especially those activating antibody-producing cells. It affects both children and adults and since it is in the blood, cancerous cells can also move to and affect other organs of the body.

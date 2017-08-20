@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041941-cj914-men-women-children.jpg"
-image_caption: >
-
-image_attribution: "variety.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041941-cj914-men-women-children.jpg"
+image_caption: ""
 ---
 
 Has technology made us more violent? More promiscuous? Is it easier to cheat with a little help from the internet? How dangerous are online games? Is it okay for a mother to essentially spy on her daughter? Is romance dead because of technology? Does social media reveal too much about us? With a boom in the use of texts, Facebook, Twitter, and all sorts of other platforms, it is everyone who has been affected in some ways, by the advancement of technology. Men, women, children, regardless your gender and age, Jason Reitman’s newest feature is one that looks at how living in the modern world keeping up with the same struggles as before looks like.

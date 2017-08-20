@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092348-felix-viggo-mortensen-7.jpg"
-image_caption: >
-  Dear Mr Mortensen, will you be my Valentine?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092348-felix-viggo-mortensen-7.jpg"
+image_caption: ""
 ---
 
 Last week, Felix Film was lucky enough to wangle a seat in a round-table interview with Viggo Mortensen – yes, an actual real actor – who played Freud quite brilliantly in [_A Dangerous Method_](http://felixonline.co.uk/film/2176/witness-the-birth-of-psychoanalysis/). The interview took place at Freud’s old London house (which is now the quaint and interesting Freud Museum, hidden in a residential area of North London) in Freud’s drawing room, around Freud’s table… it was all rather strange, actually. You feel a little bit intrusive – Mortensen describes our ability to wander round Freud’s house and touch his things as “perhaps wrong… maybe tacky,” although he later laughs that he got over it when researching his character. It is clear that Viggo Mortensen is a very polite, very considered man, who has clearly spent a great deal of time studying Freud for this role, and seemed happy to have a conversation with us about it all.

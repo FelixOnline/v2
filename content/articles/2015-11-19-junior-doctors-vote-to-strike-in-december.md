@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511192220-ygr12-angry-medics.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511192220-ygr12-angry-medics.jpg"
+image_caption: ""
 ---
 
 On Thursday it was announced that junior doctors had voted overwhelmingly to take action against proposed contract changes, with 98% voting to take strike action and 99.4% in favour of industrial action short of striking.

@@ -1,7 +1,7 @@
 ---
 id: "ck1510"
 title: Christopher J Kaye
-image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
+image: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 twitter: "okaye_chris"
 facebook: ""
 website_url: ""

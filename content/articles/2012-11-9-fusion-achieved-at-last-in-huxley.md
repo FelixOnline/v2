@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
+image_caption: ""
 ---
 
 I met Geraldine Cox in a windy garet on the roof of the physics building. The abandoned weather station is an octagonal room half-open to the elements and filled with drying clothes, bits of mouldering, esoteric looking equipment and empty beer bottles. It was an appropriately idiosyncratic setting for an interview with a unusual person. Geraldine is the Department of Physics’ artist in residence.

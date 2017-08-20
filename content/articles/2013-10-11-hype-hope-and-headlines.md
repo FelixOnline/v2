@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310120014-jal08-fertility_02_panorama2_tcm1113_64957.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310120014-jal08-fertility_02_panorama2_tcm1113_64957.jpg"
+image_caption: ""
 ---
 
 The relationship between scientists, the media and the public is fraught with the dangers of miscommunication and exploitation. The question of where the responsibility must lie when a patient becomes a victim is not easily answered. This is particularly true of fertility research, an area that touches on one of the most profound aspects of all our lives.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
-image_caption: >
-  A selection of photographs taken by the photobooth before the damage was done. These were not the im
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
+image_caption: ""
 ---
 
 A photo booth hire service is considering further legal action after incurring damages to its equipment during the joint RCSU-CGCU Winter Ball in early December last year.

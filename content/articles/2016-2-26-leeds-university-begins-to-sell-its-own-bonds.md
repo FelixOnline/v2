@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
-image_caption: >
-  They have bonds, and arguably a nicer library.
-image_attribution: "Which? University"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261126-felix-580_inside_Brotherton_library_uni_leeds20120906-2-cfwtmt.jpg"
+image_caption: ""
 ---
 
 Leeds university has issued its own bond, with an interest rate comparable to the UK government’s own low-risk Gilts.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122029-jal08-games_tombraider-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122029-jal08-games_tombraider-copy.jpg"
+image_caption: ""
 ---
 
 The Lara Croft we see in this game is very different to how we might usually perceive her: confident, strong, comfortable with diving into dark caves or putting bullets into enemies. Instead, our main character starts off as anxious, afraid and averse to violence. This game takes us back to the beginning of the metamorphosis from Lara Croft to the Tomb Raider.

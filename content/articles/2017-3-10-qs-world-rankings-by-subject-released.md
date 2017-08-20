@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
+image_caption: ""
 ---
 
 The QS university rankings have just released a breakdown of ranking by subject and while UK universities remain global leaders in higher education it would appear that competition keeps getting more intense each year.

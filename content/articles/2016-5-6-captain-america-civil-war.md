@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The struggle between good and evil – between superheroes and supervillains – has remained at the centre of the Marvel Cinematic Universe (and blockbusters in general) since its inception in 2008’s _Iron Man_. Without exception, the antagonists of the eleven following Marvel films have always represented the worst of humanity (or super-humanity), and the protagonists, while often troubled, are always redeemable. In this marketing-driven universe there is rarely space for moral ambiguity. The third film in the _Captain America_ trilogy, _Captain America: Civil War_, escapes this mold by pitting hero against hero in a ‘war’ over the controversial Sokovia Accords which hope to establish an international body to govern and monitor superhuman activity.

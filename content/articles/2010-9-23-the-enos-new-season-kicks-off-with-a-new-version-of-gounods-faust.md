@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201009231125-ck806-faust.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201009231125-ck806-faust.jpg"
+image_caption: ""
 ---
 
 One expects one's first trip to the opera to dazzle. Or one expects to be overwhelmed by its cultural gravitas and highbrow nature. Naively thinking that opera would be free from the gimmicks and glitz of musical theatre, this reviewer's first foray into opera left a lot to be desired. Staged in the opulent and spectacular London Coliseum, the English National Opera have teamed up with the Metropolitan Opera, New York, to create Gounod's _Faust_ and begin the ENO's new season 2010/11.

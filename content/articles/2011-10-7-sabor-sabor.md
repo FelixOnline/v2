@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
-image_caption: >
-  Ozy Shyne
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
+image_caption: ""
 ---
 
 One roof, three party rooms, four teachers, five DJs and hundreds of guest make for one of London’s most interesting dance events. It takes place every first Friday of the month at [Firefly Bars & Restaurants](http://www.fireflybar.co.uk/) across London, and for those that prefer to have a warm-up before the event, dance classes are held beforehand at a small extra cost.

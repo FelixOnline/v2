@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082010-ams111-bearours3.jpg"
-image_caption: >
-  This guy is on a mission to find the lost Arctic sea ice
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082010-ams111-bearours3.jpg"
+image_caption: ""
 ---
 
 Declining sea ice in the Arctic Ocean may be indirectly causing mercury fallout in the lower atmosphere, a NASA-led study suggests. The study reveals that the increasing replacement of multi-year ice by saltier seasonal ice is driving the increased release of salt ions such as bromine into the atmosphere, which then interacts with various atmospheric components such as pollutants and ozone.

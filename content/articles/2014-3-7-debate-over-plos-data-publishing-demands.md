@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403070450-jal08-7447202.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403070450-jal08-7447202.png"
+image_caption: ""
 ---
 
 The Public Library of Science, the open access publisher of the largest scientific journal in the world, PLoS One, has announced that from the 3rd of March, authors of an article in any of their seven journals must make all data related to the manuscript publicly available immediately upon publication.

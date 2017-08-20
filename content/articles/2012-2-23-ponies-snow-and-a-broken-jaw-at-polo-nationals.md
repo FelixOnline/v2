@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232136-cac111-1.gif"
-image_caption: >
-  There’s nothing My Little Pony about this
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232136-cac111-1.gif"
+image_caption: ""
 ---
 
 It’s actually getting pretty tough to remember how many polo nationals I’ve been to these days. However, this year, with a new venue in the Midlands, we were expecting something a bit different and a bit special. With some stunning new club shirts courtesy of the extremely generous Rydges Hotel Kensington and the attached Polo Bar on Gloucester Road we felt confident that we were going to at least look the part; with marginally more practice as a team this year than on previous occasions we had fingers crossed for a strong finish.

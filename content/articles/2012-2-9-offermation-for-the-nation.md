@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092211-felix-chris-ramsey-picture-for-feature.jpg"
-image_caption: >
-  That’s right, it’s a totally unnecessary, time consuming, Photoshop. MSci project? What’s that?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092211-felix-chris-ramsey-picture-for-feature.jpg"
+image_caption: ""
 ---
 
 __Tim: We’re a student newspaper and you went to university as I infer from the fact that you were in the Chortle Student Comedian of the Year Awards 2008?__

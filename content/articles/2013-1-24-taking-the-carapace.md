@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242311-mc4509-metamorphosis-gisli-image.jpg"
-image_caption: >
-  Gangnam Style and acid day at the office considered a success
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242311-mc4509-metamorphosis-gisli-image.jpg"
+image_caption: ""
 ---
 
 Gregor Samsa is late for work one day. Everyone is extremely concerned, including his boss who pays him a personal visit for a personal reprimand. Instead of opening the bedroom door to find Gregor, his family and boss are surprised and subsequently disgusted by the huge beetle-like creature which has replaced him.

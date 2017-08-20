@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051237-felix-cmyk_corvo.jpg"
-image_caption: >
-  Don’t worry sir, I’m just here to clean all of your gutters...WITH YOUR BLOOD
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051237-felix-cmyk_corvo.jpg"
+image_caption: ""
 ---
 
 Put simply, Dishonored is what you get if you ask the company who created Skyrim to go away and make Bioshock. It’s got the immersive atmosphere of the former but with the vibrant, larger-than-life visual style of the latter – and it’s a great combination. The art director (who was a big player in creating the visuals for Half-Life 2) was going for “a living painting”, and has created something very reminiscent of steampunk but with all the colour left in. It’s consistently atmospheric and has got bucket-loads of attention to detail that despite the quirky theme gives the game a real, lived-in world.

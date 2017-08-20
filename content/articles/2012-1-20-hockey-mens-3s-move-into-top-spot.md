@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On a cold Wednesday evening, IC M3 clinically dispatched St. Bart’s M2 to reach the dizzying heights of the top of ULU. A 3-0 scoreline did not flatter IC, with our boys creating many chances and defending solidly throughout.

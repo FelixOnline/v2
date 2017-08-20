@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150242-felix-hallsbin.png"
-image_caption: >
-  Someone needs to visit the kitchen bins...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150242-felix-hallsbin.png"
+image_caption: ""
 ---
 
 Since the start of the year, residents in College halls have been coping with a reduced cleaning service, with bedrooms being cleaned only once every four weeks rather than once a fortnight. This is the result of a cleaning review carried our by College’s Campus Services department, the department that in is charge of Accommodation, Catering, Conferences and Events, Sport and the Student Hub. Over the Summer College re-tendered their cleaning contract, resulting in changes to the provision of cleaning services around College.

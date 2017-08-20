@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201448-felix-Council1.jpeg"
-image_caption: >
-
-image_attribution: "Alexandre Adler"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201448-felix-Council1.jpeg"
+image_caption: ""
 ---
 
 An extraordinary Union council meeting was held on January 10th with the specific purpose of discussing the response the student body and the Union representing them should adopt with respect to the upcoming Teaching Excellence Framework (TEF).

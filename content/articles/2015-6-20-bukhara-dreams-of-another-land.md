@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
-image_caption: >
-  Alim Khan, Emir of Bukhara, 1911 by Sergei Prokudin-Gorskii
-image_attribution: "Library of Congress"
-image_attribution_link: "http://www.loc.gov/pictures/collection/prok/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
+image_caption: ""
 ---
 
 _“But there is no such thing as a Silk Road!”_

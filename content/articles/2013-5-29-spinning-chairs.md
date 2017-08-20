@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305291630-tna08-the-voice-march-2013.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305291630-tna08-the-voice-march-2013.jpg"
+image_caption: ""
 ---
 
 Some people really can sing. And I don’t just mean in tune with a token crescendo or diminuendo. I mean with style and true feeling.

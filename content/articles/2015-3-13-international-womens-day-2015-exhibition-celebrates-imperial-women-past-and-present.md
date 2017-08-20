@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
-image_caption: >
-  Women@Imperial comprises a series of events honouring academic and professional women of the College
-image_attribution: "Twitter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
+image_caption: ""
 ---
 
 This week, as part of the Women@Imperial project, the College played host to a number of events celebrating past and present female staff and students of Imperial in honour of International Women’s Day.

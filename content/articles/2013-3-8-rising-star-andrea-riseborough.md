@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303080002-tna08-andrea-riseborough-2013-.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303080002-tna08-andrea-riseborough-2013-.jpg"
+image_caption: ""
 ---
 
 It’s not at all an uncommon occurrence to see both the good guy and bad guy work together in a cops and robbers thriller. And in order for this unlikely allianceto become a believable one, there needs to be careful planning, both in terms of characterisation, as well as the plot that will eventually connect the two.

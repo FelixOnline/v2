@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
+image_caption: ""
 ---
 
 Ever since I first discovered his music, Chris Forsyth has been one of my favourite musicians. A psych rock guitarist, he proved himself worthy to support Grouper due to his use of drone and a thirst for experimentalism, but he elegantly balanced this with some more conventional use of the guitar not unlike blues, folk or even bluegrass in places.

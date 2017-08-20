@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
-image_caption: >
-  Stock those cupboards with delicious goods, but remember to clear them out once in a while, yeah?
-image_attribution: "alegriphotos.com"
-image_attribution_link: "http://www.alegriphotos.com/Red_fruit_pulp-photo-e1e929efc76b2db80206486d55794125.html"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
+image_caption: ""
 ---
 
 __1. I shall not skip breakfast again__

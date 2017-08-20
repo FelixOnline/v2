@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012171128-ks607-artsofth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012171128-ks607-artsofth.jpg"
+image_caption: ""
 ---
 
 The South Bank’s [OXO Tower](http://en.wikipedia.org/wiki/OXO_Tower) is known for its vertiginous height, but resting at its base at river level is a small gem of a gallery, currently home to ‘The Art of the Album’ exhibition. The Hyper Gallery specialises in “rock n roll image making” – it is not often that one is welcomed to a gallery by the sounds of Led Zeppelin’s Tangerine.

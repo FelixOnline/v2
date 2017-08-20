@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Very early on Saturday morning, whilst Freshers were making their way home from Fabric, I was venturing across London for an entirely different reason. I was battling my way through the bitterly cold morning air so that I could catch a train from London Paddington to Oxford in order to attend the annual [Oxford Climate Forum](http://www.oxfordclimateforum.org/). The Oxford Climate Forum is the country’s highest-profile conference on climate change organised entirely by students bringing leading thinkers and doers under one roof to discuss the key environmental concerns facing the global community. As a sustainability enthusiast, not even the malfunctioning heating systems on Great Western trains could deter my excitement about this event. It was 7am on a Saturday morning, I was sat on a (literally) freezing cold train and I was raring to go!

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260253-tna08-beity.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260253-tna08-beity.jpg"
+image_caption: ""
 ---
 
 The Constitutional changes that were proposed and [previously reported in Felix](http://felixonline.co.uk/news/2641/constitution-changes-to-be-discusssed/), are set to be put to a vote at the next Council on Tuesday 30 October. Council will vote whether or not they will accept the changes, or if it needs to be revised more. The draft still contains the changes discussed in the previous article.

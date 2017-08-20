@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
-image_caption: >
-  What's in the box?
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041116-felix-151021_president_Xi_Jinping_China_085.jpg"
+image_caption: ""
 ---
 
 FELIX has discovered that the Chinese university that will partner with Imperial at a new tech hub on the White City campus has been cited by a US security firm as being a recruitment hotspot for the unit of the Chinese army alleged to be involved in the country’s cyberwarfare program.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
+image_caption: ""
 ---
 
 ## 1 | Preparation

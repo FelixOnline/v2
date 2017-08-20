@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072309-tna08-robinince1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072309-tna08-robinince1.jpg"
+image_caption: ""
 ---
 
 Religion is one of those awkward words. To some, it represents all that is good in life, and the celebration of the divine. For others, it’s a term which is almost taboo, one of those awkward boxes that Facebook asks you to fill in. Yet, there’s no doubt that many religions have shaped past and present events, and will no doubt continue to do so for the foreseeable future. Or so you might think; but just how many people are still religious?

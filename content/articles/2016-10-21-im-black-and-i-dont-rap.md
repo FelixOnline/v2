@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211145-so515-15309855336_98632dd775_o (1).jpg"
-image_caption: >
-  The late, great Tupac Shakur
-image_attribution: "Leo Gonzales"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211145-so515-15309855336_98632dd775_o (1).jpg"
+image_caption: ""
 ---
 
 I get these questions all the time: “Who’s your favourite rapper?”, “I bet you can freestyle!”, “How can you not love Tupac? You’re black!”

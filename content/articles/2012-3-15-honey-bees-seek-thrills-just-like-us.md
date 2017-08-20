@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151952-ams111-apis_mellifera_flying.jpg"
-image_caption: >
-  On his way back from an adventure
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151952-ams111-apis_mellifera_flying.jpg"
+image_caption: ""
 ---
 
 Honey bee scouts are at the forefront of bee exploration, seeking out new sources of food for the hungry hive and finding suitable nest sites for the colony when it outgrows its current home. These bees differ from their fellow foragers. They do not wait to be told where to go or what to do, but seek novelty, maybe even adventure.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102049-pk1811-1280px-glasshouse_and_fountain_at_lalbagh.jpg"
-image_caption: >
-  Lal Bagh, amongst others, gives Bangalore its nice nickname, but it also has a more sinister side...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102049-pk1811-1280px-glasshouse_and_fountain_at_lalbagh.jpg"
+image_caption: ""
 ---
 
 Ever sat with a hanky in hand, wiping away tears as Edward climbs the fire escape with a rose in his teeth to profess his love to Vivienne, in the final scene of Pretty Woman? Or ever had a laugh at Belle and her hilarious antics in Secret Diary of a Call Girl?

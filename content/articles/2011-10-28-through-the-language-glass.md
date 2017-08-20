@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110280106-felix-cuba-trinidad-caribbean-sea-playa-ancon-clear-water-fish-1-my.jpg"
-image_caption: >
-  Ancient Greeks called the sea “black” because they had no word for blue
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110280106-felix-cuba-trinidad-caribbean-sea-playa-ancon-clear-water-fish-1-my.jpg"
+image_caption: ""
 ---
 
 Could the language you speak affect how you think? The idea has long been shunned by academics as a relic of an imperialist, racist past when non- Europeans were deemed damned to low level thought by their “unsophisticated” languages. But not all who have held this view have been racist — haven’t we all at times thought something along these lines? Perhaps the strict order of German has something to do the country’s many famous philosophers and scientists? And surely the lack of a future tense, as in some languages, must affect their view of the time?

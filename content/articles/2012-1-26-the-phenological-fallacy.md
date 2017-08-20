@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262220-ak6309-hedgehogsdsds937.jpg"
-image_caption: >
-  He doesn’t look very defiant, does he?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262220-ak6309-hedgehogsdsds937.jpg"
+image_caption: ""
 ---
 
 A recent flurry of articles expounding the effects of the current mild winter on the natural world serves to remind us of the consequences of climate change, but do these examples contain any scientific meaning, or are they merely interesting, if foreboding, anecdotal tidbits?

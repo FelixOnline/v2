@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220302-tna08-green.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220302-tna08-green.jpg"
+image_caption: ""
 ---
 
 Despite the oft-heard claims of how great it is to be studying in central London, many of us rarely dare to venture off campus during lunch, resigned to eating JCR fried chicken or soggy home-made sandwiches. South Kensington is not ideal for the student lunch habit, but with its 10% discount to Imperial students and location mere minutes away on Exhibition Road, Greenfields is hoping to change your ways.

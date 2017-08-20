@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291634-tna08-beans-on-toast.jpg"
-image_caption: >
-  I feel less sick already
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291634-tna08-beans-on-toast.jpg"
+image_caption: ""
 ---
 
 ###  Need something quick?

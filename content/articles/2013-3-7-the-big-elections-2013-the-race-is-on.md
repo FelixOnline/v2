@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072348-tna08-beit-final.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072348-tna08-beit-final.jpg"
+image_caption: ""
 ---
 
 On 3 March at 23:59 nominations for this year’s Big Elections closed. [These are the elections for a large number of positions at Imperial College Union](https://www.union.ic.ac.uk/elections/index.php). All of the Sabbatical positions will be elected by the student body of Imperial, with the Union hoping to beat last year’s record turnout. All of the manifestos for the candidates can be found from page 13 onwards, or online at imperialcollegeunion.org/elections. Imperial students must then submit votes ranking their preference for each candidate with a single transferrable vote system. There is also the option to vote for RON, which stands for Re-Open Nominations. If RON wins the election is re-run.

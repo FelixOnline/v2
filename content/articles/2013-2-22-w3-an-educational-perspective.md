@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If a[ first year lives in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/), they are going to spend at least 90 minutes a day traveling back and forth between South Kensington and their halls. As the courses at Imperial College London are already known to have a high workload, our future students are going to find this incredibly painful and I expect more first years will drop out when they are going through the transition of a school mentality to that of what is needed to complete an Imperial degree. I predict that these students will engage less with the student community, fewer will do Horizons, which will ultimately lead to them not being a well-rounded student and less employable.

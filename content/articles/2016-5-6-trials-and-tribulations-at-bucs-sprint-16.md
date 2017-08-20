@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061123-felix-13116016_10100539315795845_4258963349234723363_o-1024x576.jpg"
-image_caption: >
-  Quick get a parking space.
-image_attribution: "Triathalon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061123-felix-13116016_10100539315795845_4258963349234723363_o-1024x576.jpg"
+image_caption: ""
 ---
 
 On Sunday 1st May, seventeen of Imperial’s bravest triathletes descended upon the sleepy town of Calne, Wiltshire to compete in the 2016 BUCS Sprint Triathlon. Gathered outside SAF at the ungodly hour of 5:45am, some quick Imperial brains spotted that there were actually only sixteen recruits present; we were missing our secret weapon, scholarship athlete Alistair Wallace. A few panicked phone calls later and it became clear that he had slept through his alarm and was not going to make the rendez-vous. We departed one man down, hoping that he would be able to make his own way to the race.

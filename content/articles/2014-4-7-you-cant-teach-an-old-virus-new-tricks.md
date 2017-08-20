@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404071357-jal08-pithovirus-sibericum.jpg"
-image_caption: >
-  Pithovirus sibericum will eat you alive... if you’re an amoeba. Phew!
-image_attribution: "Julia Bartoli / Chantal Abergel / IGS / CNRS / AMU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404071357-jal08-pithovirus-sibericum.jpg"
+image_caption: ""
 ---
 
 After spending 30,000 years lurking deep within the Siberian permafrost, an enormous virus has escaped its icy lair. Even after all those years encased in ice, it’s still deadly. But this isn’t the plot of a low-budget horror film. This is real science.

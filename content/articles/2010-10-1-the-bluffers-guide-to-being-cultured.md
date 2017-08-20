@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104181128-felix-nietzsche_colour_2.jpg"
-image_caption: >
-  Get some opinions, and stick to them no matter what!
-image_attribution: "Gareth Southwell"
-image_attribution_link: "http://philosophyonline.co.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104181128-felix-nietzsche_colour_2.jpg"
+image_caption: ""
 ---
 
 __1: Confidence__

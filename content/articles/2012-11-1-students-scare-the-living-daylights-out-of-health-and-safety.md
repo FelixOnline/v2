@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week, Felix reported that students had found their way onto the roof of Beit using the sheer mental power provided to the excellent students of this institution. Stephwen Hughes, Head of Health, Safety & Fire at Imperial College London, followed up with the following statement:

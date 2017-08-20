@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032022-pk1811-in-the-thick-of-it.jpg"
-image_caption: >
-  Constipation has become a serious issue in 2012’s government
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032022-pk1811-in-the-thick-of-it.jpg"
+image_caption: ""
 ---
 
 After three different Waterstones (ironically, nobody could find the single copy supposedly in stock) and two failed Amazon deliveries, I finally got my hands on the book: “The Thick of It: The Missing DoSAC Files”. Bringing to the paper Armando Iannucci’s BAFTA-winning comedy, this brilliant set of documents has provided me with enough entertainment for another decade (or at least until the next series).

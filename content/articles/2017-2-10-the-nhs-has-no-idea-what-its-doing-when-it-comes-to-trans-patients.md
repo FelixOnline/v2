@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101348-felix-Screen Shot 2017-02-10 at 13.47.52.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101348-felix-Screen Shot 2017-02-10 at 13.47.52.png"
+image_caption: ""
 ---
 
 One of the most disconcerting things you can experience when visiting the doctor is seeing your GP open up Internet Explorer and start googling. As a nervous transgender teenager, I was completely terrified. GPs are meant to be a first point of contact for the general population; somebody we turn to for answers, not more questions. But for transgender people, a lack of knowledge by doctors is to be expected.

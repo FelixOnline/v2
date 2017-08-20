@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012151740-ks607-lifescie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012151740-ks607-lifescie.jpg"
+image_caption: ""
 ---
 
 The movement to [stop the Life Sciences cuts](http://www.facebook.com/home.php?sk=group_122828327782072) suffered a setback today as Imperial College Senate rejected the Imperial College Union [paper](http://www.imperialcollegeunion.org/data/files/imperial-college-senate-859.pdf) that called for a halt to the restructure. The [Senate](http://www3.imperial.ac.uk/secretariat/governance), which is made up of senior members of College management, including the Rector, failed to support the paper to the disappointment of students who [assembled outside the meeting](http://www.facebook.com/album.php?aid=313242&id=151335511288&saved) at the Rector's house. However pressure has continued to build this week as Mustafa Djamgoz, a Professor of Cancer Biology at Imperial and Chair of the Science Council at the College of Medicine, warned that the cuts could cause "long-term damage" and Union President Alex Kendall told Imperial College Union Council that he felt that the department was "lying" about the effect of the cuts on teaching.

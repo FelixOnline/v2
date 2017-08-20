@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101556-felix-3d30460412b0d093783b8c413b698813.jpg"
-image_caption: >
-
-image_attribution: "The Benefits of Gusbandry LLC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101556-felix-3d30460412b0d093783b8c413b698813.jpg"
+image_caption: ""
 ---
 
 Built from the ground up by creator Alicia J. Rose, this series of ten-ish minute shorts chronicles the ever-evolving relationship between 40-something Oregonite Jackie, and her so-called ‘gay husband’, River. Now, to the uninitiated (as I was) this may conjure up images of cringe-worthy sitcom shenanigans. Rather, what we get is an often genuine and frequently heartfelt attempt at eschewing the traditional relationship paradigms one finds on TV.

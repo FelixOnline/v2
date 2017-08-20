@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211428-ajp15-Screen Shot 2016-10-21 at 14.28.09.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211428-ajp15-Screen Shot 2016-10-21 at 14.28.09.png"
+image_caption: ""
 ---
 
 Imperial’s success depends on a culture of open-mindedness that has attracted academics and students to come from abroad, and means people from different cultures, but with similar interests, can exchange ideas. Immigration has allowed this university to thrive, so why is it that in Britain today it is so universally considered a burden on our society?

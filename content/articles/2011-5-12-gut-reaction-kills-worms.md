@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121728-felix-mken.jpg"
-image_caption: >
-  These parasitic worms didn’t have the backbone to stand up to the toxic Muc5ac mucin
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121728-felix-mken.jpg"
+image_caption: ""
 ---
 
 Researchers have found a component of gut mucus that is toxic to parasitic worms. The discovery could help one billion people worldwide.

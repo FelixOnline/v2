@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102045-dr910-thefight.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102045-dr910-thefight.jpg"
+image_caption: ""
 ---
 
 Do we really need another boxing film? Can anyone make a film that will better the much loved Rocky? Or a film that is as aesthetically pleasing as Raging Bull, which has the reputation of being so beautiful that each frame could be hung on a wall as a piece of art? Will we ever see a true story documentary as thrilling and as exciting as Rumble In The Jungle? The trailer for The Fighter leaves us guessing.

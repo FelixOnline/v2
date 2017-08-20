@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121115-felix-201303072327-tna08-save-hall-front-page.jpg"
-image_caption: >
-
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121115-felix-201303072327-tna08-save-hall-front-page.jpg"
+image_caption: ""
 ---
 
 We’ve had our fair share of housing disputes at Imperial.

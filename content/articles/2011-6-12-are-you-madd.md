@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106121712-felix-siam.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106121712-felix-siam.jpg"
+image_caption: ""
 ---
 
 Rupert Street. It’s not exactly a street name that shouts out “Food Mecca”, such an honour usually reserved for the likes of Brick Lane, Old Street and Borough Market. But think again. I visited Rupert Street, located in the centre of Soho, three times within a period of two or so weeks. Not for the X-rated sex shops as some would relate Soho to, but for the relatively newly opened __[MADD](http://www.wearemadd.com/)__, a mango dessert café.

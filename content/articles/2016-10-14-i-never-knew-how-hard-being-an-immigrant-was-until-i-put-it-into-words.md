@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141214-felix-Screen Shot 2016-10-14 at 12.08.27.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141214-felix-Screen Shot 2016-10-14 at 12.08.27.png"
+image_caption: ""
 ---
 
 Being an immigrant was never fun but damn, it really sucks right now. Since the referendum, every week it’s become harder for me to put on a brave face and say everything is going to be OK. Every week I feel less welcome, less worthy, less secure.

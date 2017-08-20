@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706010049-im1413-big.jpg"
-image_caption: >
-  Le Gateau Chocolat as Feste in Twelfth Night at the Shakespeare's Globe. Photo: The Shakespeare's Globe
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706010049-im1413-big.jpg"
+image_caption: ""
 ---
 
 When last season, Emma Rice was appointed artistic director, the Globe seemed to set a new course. Her tenure would mean the company would no longer be focused simply on conservation of Shakespeare but on mutation and adaptation of the classic texts for a modern audience. Yet, this, only her second season, is also Rice’ swansong – she will be stepping down in a few months, and if her adaptation of _Twelfth Night_ is any indication, she is making it count.

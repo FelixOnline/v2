@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 <a name="OLE_LINK10"></a><a name="OLE_LINK9"></a><a name="OLE_LINK8"></a><a name="OLE_LINK7"></a><a name="OLE_LINK6"></a><a name="OLE_LINK5"></a><a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>It’s hard to decide whether S_ingularity Sky_ is hard or soft sci-fi. Inherent to the setting of the book is faster-than-light (FTL) travel and an omnipotent, post-singularity AI. However that stuff is all really just a backdrop to incredibly nerdy (and delightful) discussions of spaceship-to-spaceship combat at relativistic velocities, and a gleeful dissection of how FTL travel inherently leads to time travel. (The word “light-cone” is thrown around a lot.)

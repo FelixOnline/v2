@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 High in the Andean jungle, to the sound of drums, flutes and trumpets, ‘El Dorado’, the golden one, the future king of the Muisca tribe, prepares to dive into sacred Lake Guatavita. Covered from head to toe in gold dust, he tosses emeralds into the water below as an offering to the ethereal spirits that reside in everyone and everything.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
-image_caption: >
-  The Royal Institution's home is located near Green Park
-image_attribution: "Mike Peel"
-image_attribution_link: "http://www.mikepeel.net/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
+image_caption: ""
 ---
 
 In an email sent to members on March 20th, [Sir Richard Sykes](http://www3.imperial.ac.uk/aboutimperial/imperial_people/pastrectors/sykes), Chairman of the Royal Institution, announced the receipt of an anonymous £4.4 million pound donation, clearing [debts ](http://felixonline.co.uk/news/3331/royal-institution-forced-to-sell-home/)which have lead to the scientific body's Central London home being placed on the market. Financial difficulties were initially met after a multi-million pound refurbishment of the premesies failed to return on the investment.

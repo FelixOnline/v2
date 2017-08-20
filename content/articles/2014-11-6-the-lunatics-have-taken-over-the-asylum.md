@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062015-snb11-screen-shot-2014-11-06-at-14.21.16-copy.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062015-snb11-screen-shot-2014-11-06-at-14.21.16-copy.png"
+image_caption: ""
 ---
 
 The UK Misuse of Drugs Act introduced in 1971 is widely regarded as the most epically failed governmental campaigns to prevent drug distribution and usage. By introducing complete prohibition it effectively promoted an underground black-market in drug trade, condemned addicts to conviction rather than treatment, and prevented any form of research on the drug’s potential medical benefits. Cameron even said himself (and I kid you not): “Politicians attempt to appeal to the lowest common denominator by posturing with tough policies and calling for crackdown after crackdown. Drugs policy has been failing for decades”. It’s interesting how this opinion changed once he became leader of the conservative party…

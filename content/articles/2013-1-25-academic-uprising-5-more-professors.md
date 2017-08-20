@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
+image_caption: ""
 ---
 
 On 17 January, the Higher Education Statistics Agency (HESA) released the first set of data from the [2011/12 Staff record](http://www.hesa.ac.uk/index.php?option=com_content&task=view&id=2662&Itemid=161). This data provides information about staff employment at UK Higher Education Institutions (HEIs) on 1 December 2011. The results have been produced in partnership with the UK administrations and have been released upon approval by the UK Statistics Authority. A detailed analysis of the HESA Staff record will be released in March 2013. Felix did a brief analysis of the results, so you don’t have to...

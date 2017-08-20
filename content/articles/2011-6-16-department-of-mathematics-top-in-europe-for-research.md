@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College has been ranked as having the most influential mathematics research of any institution in Europe by a [recent chart](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=416399&c=1) created by Thomson-Reuters. Ranked 13th for top institutions in mathematics, above any non-US institution overall, Imperial is listed as having 777 papers with 5,369 citations as of February 2011.

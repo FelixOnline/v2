@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302281752-txl11-connectome2.jpg"
-image_caption: >
-  One of the images already produced of connections in the brain
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302281752-txl11-connectome2.jpg"
+image_caption: ""
 ---
 
 Have you ever wanted to get into the head of someone? Maybe a potential employer, your examiners or even someone you have taken a fancy to? Do you often find yourself questioning just what is even going on in your own head? Neuroscientists are planning on possibly solving the mysteries of the brain mapping as a means to treat neurodegenerative disorders, as opposed to giving you an edge in that job interview in the city, but it is exciting nonetheless. However, where is the catch, or rather, the cost?

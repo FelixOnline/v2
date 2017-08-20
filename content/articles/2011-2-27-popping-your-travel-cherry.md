@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271937-ks607-backpack.jpg"
-image_caption: >
-
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271937-ks607-backpack.jpg"
+image_caption: ""
 ---
 
 Jetting off around the world can be a little, well, daunting. That’s why the Felix Travel team have gotten together for The Daily Felix to help you plan that life-changing trip. Over the coming days we’ll be giving you the low-down on some of the more popular travel destinations, but for starters we’ll be covering the basics of backpacking: everything from what to bring, what to do, and getting there in the first place. Word-of-mouth is a traveller’s accomplice, and we hope you find this advice useful if and when you decide to plan that big trip.

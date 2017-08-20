@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071908-ps3110-7.jpg"
-image_caption: >
-  The Plumb-pudding in Danger, 1805, James Gillray
-image_attribution: "British Museum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071908-ps3110-7.jpg"
+image_caption: ""
 ---
 
 As George Orwell once said: “all art is propaganda”. The work of an artist cannot be separated from the social and political context in which it is formed, no matter how inoffensive it seems, and this lesson is exemplified by the __British Museum__’s latest exhibition. _Bonaparte and the British_ – which should already give you an idea of the strained relationships found within – looks at the power of images during the Napoleonic wars, specifically those created by British satirists.

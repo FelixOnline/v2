@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271634-felix-fruit-fly7.jpg"
-image_caption: >
-
-image_attribution: "stoppestinfo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271634-felix-fruit-fly7.jpg"
+image_caption: ""
 ---
 
 A new study has discovered that fruit flies (Drosophila melanogaster), unlike many of us make rational decisions while choosing partners.

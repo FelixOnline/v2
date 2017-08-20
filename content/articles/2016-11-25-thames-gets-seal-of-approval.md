@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251338-felix-harbor-seal-991422_1280.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251338-felix-harbor-seal-991422_1280.jpg"
+image_caption: ""
 ---
 
 Over a pint in Clapham, my friend exclaimed that they, along with the entire top deck of the 345 bus, had seen a seal in the Thames on the way to college. At first I was sceptical. Whilst the odd whale has occasionally been known to take a wrong turn, how could anything, especially something as large as a seal, live daily in such polluted water?

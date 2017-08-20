@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032043-nm1010-pythagor.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032043-nm1010-pythagor.jpg"
+image_caption: ""
 ---
 
 We as human beings cannot help but think. We exist because we think and have an unexplained stream of consciousness that puts us into existence. It is not true to say that without our ability to think intelligently we would not exist; we would simply be unable to explain, or attempt to explain it. So, our cognitive existence is deeply intertwined with our physical existence on planet Earth. Coincidence… possibly, but do we live our lives hoping for coincidence or do we set out at the beginning of each day to develop, open our minds and learn about the beauty that so humbly surrounds us in its quiet, harmonious way.

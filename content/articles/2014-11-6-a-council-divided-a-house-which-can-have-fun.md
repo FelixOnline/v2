@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For most people the thought of attending Union Council is not good – to be honest, most people don’t even know what Council is – but for those who do it is often thought of as a chore and is an evening that they would rather spend elsewhere. Personally I rather enjoy the process of locking people in a room until they come to an agreement on some important issues.

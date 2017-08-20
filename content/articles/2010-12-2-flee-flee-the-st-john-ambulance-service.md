@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
+image_caption: ""
 ---
 
 Before coming to London, my friends and family loaded me up with good advice. A common theme running through these kernels of sagacity was that London is a very dangerous place – something I won’t even try and refute.

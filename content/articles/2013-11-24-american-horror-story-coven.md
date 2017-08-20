@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Incest. Rape. Murder. Witches. Voodoo. Resurrection. Zombies. Slavery. Blood. Goats. Snakes. Limbs. A severed tongue. Yes, Ryan Murphy is back doing what he does best – laying on the dark and twisted in the new season of his hit anthology, American Horror Story, this year appropriately titled Coven. Every season is a standalone one, each with its very own beginning, middle and an end, which stops the show from growing stale, as fresh new ideas come alive every year. As can be sussed out from the title, we focus on a group of modern day witches who face extinction.

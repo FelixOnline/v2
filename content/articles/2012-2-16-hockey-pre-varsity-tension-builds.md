@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
-image_caption: >
-  Another one bites the astroturf
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
+image_caption: ""
 ---
 
 __IC Men’s 2s__ – 1

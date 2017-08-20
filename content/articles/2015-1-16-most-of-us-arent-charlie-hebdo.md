@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161329-ps3110-charlie-hebdo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161329-ps3110-charlie-hebdo.jpg"
+image_caption: ""
 ---
 
 This week’s _Charlie Hebdo_ poster features a cartoon man portrayed as the prophet Mohammed, crying and holding a sign reading “_Je suis Charlie._” Above is the slogan “Tout est pardonné” (You’re forgiven).

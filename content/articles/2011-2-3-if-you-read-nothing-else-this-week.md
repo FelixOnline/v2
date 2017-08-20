@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Midnight in the Garden of Good and Evil, by John Berendt, is a welcome exception to my reading habits. It is not a work of fiction, but rather the enthralling true story of a murder and the events surrounding it. It is doubtlessly one of the finest works of modern American literature. It maintained a place on the New York Times' Bestsellers list for over 200 consecutive weeks after the initial publication.

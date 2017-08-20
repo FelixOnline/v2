@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
-image_caption: >
-
-image_attribution: "Leonardo Veras"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
+image_caption: ""
 ---
 
 Once upon a time, Pac Man was as advanced as games got, with basic graphics and simple controls. We’ve definitely come a long way since then with regards to designs, gameplay and much more. With the change and progression of games, we’ve also seen a change in how female characters have been represented, and for the better.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012211-tna08-rgbbucs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012211-tna08-rgbbucs.jpg"
+image_caption: ""
 ---
 
 Following on from a very brief report in Felix earlier this year, there are still problems with Bucs.

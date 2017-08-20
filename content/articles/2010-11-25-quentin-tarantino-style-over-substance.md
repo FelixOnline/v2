@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
+image_caption: ""
 ---
 
 Over the past two decades, few directors have managed to excite such acclaim – and controversy – as Quentin Tarantino. His work has sharply polarised critics, spawning a plethora of varied interpretations and deconstructions. Each new release is followed by a blaze of feverish publicity, and through all of this, Tarantino and his films remain something of an enigma.

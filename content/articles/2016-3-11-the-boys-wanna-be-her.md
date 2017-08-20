@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111201-felix-frida.jpg"
-image_caption: >
-
-image_attribution: "Nickolas Muray Photo Archives"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111201-felix-frida.jpg"
+image_caption: ""
 ---
 
 **Judith Leyster**

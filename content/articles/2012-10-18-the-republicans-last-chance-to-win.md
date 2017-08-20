@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
+image_caption: ""
 ---
 
 Throughout the campaign, Obama has been depicted as having two advantages: the incumbent advantage and the demographic advantage. Since 1948, only three incumbent presidents have failed to be re-elected, with seven successful bids. As an incumbent, the candidate has already gone through the necessary amount of selection to become president in the first place and has four years’ experience doing the job. At the moment, with a dismal economy and gridlocked administration following the GOP takeover of the House of Representatives, many voters are disillusioned and even disappointed with Obama, reducing the momentum that carried him to victory in 2008. The demographic advantage, however, is most certainly playing its part in securing electoral votes.

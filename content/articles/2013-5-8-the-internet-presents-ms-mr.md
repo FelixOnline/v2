@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305082115-tna08-ms-mr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305082115-tna08-ms-mr.jpg"
+image_caption: ""
 ---
 
 During a week’s worth of listening to the radio an average of 0-3 new songs make me drop everything, frown a little in an effort to identify the song / artist, then fiddle a little with the time bar on the listen-again player to figure out what exactly the wonderful noise is.

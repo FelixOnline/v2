@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162202-felix-75795_605895006615_222401196_5691299_2786476_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162202-felix-75795_605895006615_222401196_5691299_2786476_n.jpg"
+image_caption: ""
 ---
 
 Arequipa, informally termed “la ciudad blanca” due to its luxurious white buildings, almost Arabic in stone and construction, lies in the Andes mountains overlooked by the looming snow-peaked volcano of El Misti, which rises majestically some 5822 feet above the city. Bordering El Misti lay the summits of Chachani and Picchu Picchu, the superstitious “Apus” or Inca homes of the Gods and spirits controlling the nature of the universe, nestling this ancient town and UNESCO world heritage site below their watchful eyes.

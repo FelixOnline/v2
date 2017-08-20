@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210182250-felix-jason-in-article.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210182250-felix-jason-in-article.jpg"
+image_caption: ""
 ---
 
 The[ National Student Survey](http://www.thestudentsurvey.com/) (NSS) was established in 2005 by [HEFCE](http://www.hefce.ac.uk/) (the body administering government funding of UK universities), in order to independently gather feedback from students about their institutions. It is carried out every year in the spring: final-year undergraduates in almost every university in the UK answer questions spanning a broad range of topics, from the quality of teaching and assessment, to the adequacy of the learning resources available, to their satisfaction with the Union. Response is generally high: last year, two-thirds of eligible students took the survey. Once the results have been collected and processed, they are released to the public.

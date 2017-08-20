@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306202353-tna08-greenfairy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306202353-tna08-greenfairy.jpg"
+image_caption: ""
 ---
 
 Life drawing is an activity that a lot of people would like to do, but sometimes don’t dare to. For some, the nudity and sterility of classical art classes and the applied attention of overly zealous pseudo-artists in the room can be very intimidating, or maybe simply boring. But rejoice, as a new, alternative drawing movement has brought Dr. Sketchy to life – and to London!

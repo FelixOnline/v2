@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Browne Review aims to advise the Government on changes to the system of Higher Education Funding. Although the headline proposal has been to allow universities to set their own fees, the proposals in the review would, if enacted, mean that anyone could go to university regardless of wealth. It would provide more money for students to live on whilst at university. It would also mean that no one would have to start paying off their loan until they were earning £21,000, and that until then, there would be no interest on it. Why are the NUS against these proposals? For one reason: perception.

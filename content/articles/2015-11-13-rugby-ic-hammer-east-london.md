@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511131502-cet13-fb.jpg"
-image_caption: >
-  The team had a victory so great, it was almost embarrassing
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511131502-cet13-fb.jpg"
+image_caption: ""
 ---
 
 Imperial 2s made the journey to West Ham on Wednesday to play their 4th match of the season against East London University 1st XV. After an easy ride so far in the league, Imperial were hoping for an opposition that would provide some serious competition to test the lads’ capabilities. After the first few minutes it was clear that this was not going to be the case. All it took were a few good phases and solid line breaks in the opposition 22 for IC to cross the white wash early on.

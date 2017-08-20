@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101551-felix-ENO-Rigoletto-c-Alastair-Muir-4.jpg"
-image_caption: >
-
-image_attribution: "Alastair Muir"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101551-felix-ENO-Rigoletto-c-Alastair-Muir-4.jpg"
+image_caption: ""
 ---
 
 It’s never a good sign when the set outshines the main cast. Unfortunately for the ENO’s latest rendition of Jonathan Miller’s superbly conceptualised Rigoletto, this is very much the case.

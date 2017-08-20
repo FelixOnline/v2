@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When it comes to the shortcomings of Marvel or DC’s cinematic output, as a self-confessed comic book fan-boy, I’m usually pretty forgiving. Unfortunately, the first official trailer for DC’s latest film, _Suicide Squad,_ which dropped last week, hints at a film with some serious flaws. It might only be a two-minute trailer, but the way it trivialises mental health and sexualises its female cast has me worried for its release this August.

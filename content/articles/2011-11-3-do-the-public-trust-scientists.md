@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031951-pk1811-p1030933_4_5_6_7_8_9_tonemapped.jpg"
-image_caption: >
-  Cloudy skies could become an even more common sight if geoengineering technique cloud seeding become
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031951-pk1811-p1030933_4_5_6_7_8_9_tonemapped.jpg"
+image_caption: ""
 ---
 
 On the 14th of September of this year, at the British Science Festival in the University of Bradford, was presented the seemingly awkward project called SPICE (Stratospheric Particle Injection for Climate Engineering) led by UK scientists. The basic idea is to suspend a huge balloon one kilometre up in the stratosphere which would then pump out tap water out to produce artificial rain. This would lead to an abatement of CO2 concentration in the atmosphere and reduce the effects of global warming.

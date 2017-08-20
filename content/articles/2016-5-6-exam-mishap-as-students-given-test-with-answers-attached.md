@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
+image_caption: ""
 ---
 
 In a classic example of exam season drama, first year geophysics students were given a paper with the answers at the bottom.

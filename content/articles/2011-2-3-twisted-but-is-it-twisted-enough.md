@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031932-nm1010-roalddah.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031932-nm1010-roalddah.jpg"
+image_caption: ""
 ---
 
 Roald Dahl. Aside from traumatic experiences in chocolate factories and child eating giants, surely that kindly figure looking out from the back of his books was as child friendly as they get? Short answer: he wasn’t. There was another side that many are less aware of, his anthologies of short stories directed towards a far more adult audience. Some of these stories have now been adapted for the stage in [Roald Dahl’s Twisted Tales](http://www.lyric.co.uk/production-archive/entry/roald-dahls-twisted-tales/). Gone are the Oompa-Loompas, and all that’s left are tales of revenge and a disembodied optic nerve.

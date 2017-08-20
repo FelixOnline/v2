@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241445-felix-12459-fitandcrop-594x337.jpg"
-image_caption: >
-
-image_attribution: "Roundhouse"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241445-felix-12459-fitandcrop-594x337.jpg"
+image_caption: ""
 ---
 
 Little Simz, real name Simbi Ajikawo, returned to the Roundhouse Rising show, having performed a headline set in 2014. This year, she headlined and curated a varied line-up of emerging talent. An art installation accompanied the show, with the Wonderland theme in focus throughout. An animation introduced her performance, with a cartoon Little Simz asking Cheshire “Why am I here?” His response: “Simply, you’re here to fuck up the balance”.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505212105-kmw13-screen-shot-2015-05-21-at-18.52.00.png"
-image_caption: >
-  Diversity Officer Ms Mustafa shown here taking her job very seriously
-image_attribution: "Facebook"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505212105-kmw13-screen-shot-2015-05-21-at-18.52.00.png"
+image_caption: ""
 ---
 
 A petition has been launched to remove Bahara Mustafa, the current Diversity officer for Goldsmiths University, from her position following a recent tweet featuring the inflammatory hashtag “Kill all white men”.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101948-nm1010-cubacuba.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101948-nm1010-cubacuba.jpg"
+image_caption: ""
 ---
 
 The Cuban healthcare system is renowned for being one of the most effective healthcare systems in the world today with life expectancies equal to those of some of the world’s wealthiest countries. Cubans have for some time been making a push to reach out far beyond their small island borders in order to export their methods of disease prevention and treatment worldwide, particularly in the developing world where their impact is most noticeable.

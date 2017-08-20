@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511200911-ygr12-clouds_over_the_atlantic_ocean.jpg"
-image_caption: >
-  What’s beyond the horizon for the ecological health of our oceans?
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511200911-ygr12-clouds_over_the_atlantic_ocean.jpg"
+image_caption: ""
 ---
 
 Did anyone else have one of those plastic Helix rulers that said ‘shatterproof’ on them back in school? I always saw that as a challenge.

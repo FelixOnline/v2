@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial Medicals RFC regained the JPR Williams Cup with a comprehensive 37-11 victory over Imperial College Union RFC in the flagship rugby union match under the floodlights at the Twickenham Stoop. The day wasn’t all bad for ICU however, as they won Varsity as a whole with more victories than ICSMSU across the 29 matches. The rugby union was dominated by the Medics, with further victories in the Women’s and 3rd XV only blotted by an ICU victory for the 2nds. The same happened in the Netball, where, with the exception of the 2nd and 3rd teams, the Medics ran out comfortable winners.

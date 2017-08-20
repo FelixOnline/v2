@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I was back home the other day, clearing out the attic, where, inexplicably, a great deal of my dearest childhood possessions had wound up; cherished dolls, knitted by a late grandmother; industrious railway tracks by Brio and Tomy; and enough Lego to fill a skip. I was conflicted. On the one hand, relieved; my parents had said they had all been stolen one night by goblins. On the other hand, betrayed; my parents had lied to me. And if they lied to me about this, what other pillars of my reality are built on quicksand. Father Christmas? The Tooth Fairy? Say it ain’t so!

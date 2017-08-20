@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This year’s Summer Ball, which is tomorrow if you are reading this on Friday, is potentially a fork in the road. If it proves to be a great success then the Union will have been vindicated and there will be a powerful argument for its continued expansion. If it is not a great success, there will be cause to step back and reflect. Either way there are lessons to be learnt but they must not be the wrong lessons.

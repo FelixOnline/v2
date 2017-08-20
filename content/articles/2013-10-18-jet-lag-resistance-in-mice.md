@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182216-jal08-red-eyed-mouse.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182216-jal08-red-eyed-mouse.jpg"
+image_caption: ""
 ---
 
 Jet lag is one of those annoyances that stems from living in the modern era. Anyone who has flown to Asia or come home to the UK after an American holiday recognises its unpleasantness. You just have to wait for your body to adjust to the new time zone. When evolution was working on humans, it had no foresight regarding the development of the aeroplane, or that it would play havoc with our body clock by enabling us to travel across the planet in one or two journeys.

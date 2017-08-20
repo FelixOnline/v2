@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012042-tna08-bowie_photo_collage.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012042-tna08-bowie_photo_collage.jpg"
+image_caption: ""
 ---
 
 David Bowie is more than just pop star. He is a multi-instrumentalist, artist, mime artist, actor, lyricist, poet and record producer. Drawing on all sectors of the art world and modern life for inspiration, his intellectual songs and flamboyant image combine the familiar and the alien and have become stitched into the fabric of contemporary culture. He is not just one man, but at least five; from Major Tom to the Thin White Duke, Bowie has continuously reinvented himself with glorious eccentricity. His sensational career is currently being celebrated at the V&A by exhibiting the first David Bowie retrospective.

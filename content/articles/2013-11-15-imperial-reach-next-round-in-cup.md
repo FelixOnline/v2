@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s safe to say that the ICUAFC 6th XI hasn’t had the best of starts to the season. However, when it comes to the cup, league form is thrown out of the window and we made the epic journey to North London with confidence to play RUMS (UCL Medics) 3s.

@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250218-tna08-i-night-poster.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250218-tna08-i-night-poster.jpg"
+image_caption: ""
 ---
 
 Next week marks the university’s second International Week of the year (4th – 9th Feburary) with overseas societies coming together to promote cultural diversity and integration at Imperial College. The celebrations build up to Saturday 9th Feburary where the 11th annual International Night will take place. With performances varying from traditional dances to traditional plays adapted to original modern day themes; this promise to be a hugely entertaining evening.

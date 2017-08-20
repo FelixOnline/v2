@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011343-mc4509-pinky-and-the-brain.jpg"
-image_caption: >
-  Don’t blame the genetic modification for Brain’s insanity
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011343-mc4509-pinky-and-the-brain.jpg"
+image_caption: ""
 ---
 
 I like the Green Party. I voted for them in May, on all three ballots, and I would vote for them again if there were a General Election tomorrow. But, as with most friends, they often disappoint me. While I was severely depressed by their pledge to offer homeopathic “medicine” on the NHS, and their plans to implement a health service for pets, the recent news about their opposition to genetically modified crops has been the most disappointing thing of all.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Lord of the Rings and The Hobbit director Peter Jackson is currently at loggerheads with animal rights activist group PETA (People for the Ethical Treatment of Animals) over alleged animal cruelty during the filming of the Tolkien stories’ film franchise.

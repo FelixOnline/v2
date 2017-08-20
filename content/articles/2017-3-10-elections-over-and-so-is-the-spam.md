@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101318-felix-Screen Shot 2017-03-10 at 13.17.52.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101318-felix-Screen Shot 2017-03-10 at 13.17.52.png"
+image_caption: ""
 ---
 
 Thank God it’s Friday. Voting for the Leadership elections ends at noon today, as does the constant online and offline harassment from your potential future leaders!

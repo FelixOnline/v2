@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
-image_caption: >
-
-image_attribution: "ICTV/Cem Hurrell"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
+image_caption: ""
 ---
 
 Last Wednesday saw the very first broadcast of Imperial Questions Live, a new current affairs debating programme asking the big questions on campus.

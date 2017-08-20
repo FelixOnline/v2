@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
-image_caption: >
-  Tom Stoppard, perhaps the greatest living playwright?
-image_attribution: "Laura Hynd"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
+image_caption: ""
 ---
 
 To call anyone “Britain’s greatest living playwright” is a bold claim. Competition for the title is fierce, and ever-growing – a simple glance at the work coming out of the likes of the __Royal Court__ shows the strength of new talent.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031858-nm1010-sharrrrk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031858-nm1010-sharrrrk.jpg"
+image_caption: ""
 ---
 
 Recently I went for lunch at FiveSixEight in Beit Quad and was very surprised to find oven-baked Blue Shark Fillet available on the menu at a very affordable £5.50.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102242022-dr910-football.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102242022-dr910-football.jpg"
+image_caption: ""
 ---
 
 Imperial Gaelic footballers travelled down to Birmingham to meet their counter parts from across the Isles to compete in the biggest event on the calendar – the British Universities Championships.

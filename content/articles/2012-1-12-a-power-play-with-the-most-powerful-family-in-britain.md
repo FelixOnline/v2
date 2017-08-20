@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122255-cac111-sherlock-and-watson-bbc-2010.jpg"
-image_caption: >
-  No one could look as cool as Sherlock in this jacket
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122255-cac111-sherlock-and-watson-bbc-2010.jpg"
+image_caption: ""
 ---
 
 After a successful first season, [_Sherlock_](http://www.bbc.co.uk/programmes/b018ttws) is back on our screens. Giving the detective stories a 21st century make-up, the second season does not disappoint. In fact it picks up exactly where it left off, full of suspense, comedy and twists. The way things are turning out, Sherlock should be added to everyone’s must-watch list.

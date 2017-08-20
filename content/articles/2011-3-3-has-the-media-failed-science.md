@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032027-ks607-madscien.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032027-ks607-madscien.jpg"
+image_caption: ""
 ---
 
 This year’s BioSoc debate, held last Thursday in the Sir Alexander Fleming Building, turned out a huge success. The provocative debate title ‘[Has the Media failed Science?](http://www.imperialcollegeunion.org/whats-on/biosoc-debate-2011,1401,EV.html)’, albeit a little misleading to the speakers who were expecting some fierce opposition, was always going to invoke some great input from the audience and speakers alike.

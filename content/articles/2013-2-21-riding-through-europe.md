@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302211350-txl11-laughing_horse_by_samtheblackheart-d51qcxs.jpg"
-image_caption: >
-  That’s right, I tasted good in that lasagna!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302211350-txl11-laughing_horse_by_samtheblackheart-d51qcxs.jpg"
+image_caption: ""
 ---
 
 The horse meat scandal is revealing the intricacies and complexities of the European food industry. When disconcerting discoveries were made in Ireland in November 2012 and finally the scandal erupted in the UK mid-January, no one expected it to blow up in such a dramatic way. Since then, three separate supply chains, 13 countries and 28 companies have become involved in one of the largest food crises since BSE. The scandal looks like it might even take an international turn, with products being removed from supermarkets in Hong Kong.

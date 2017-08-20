@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There has been a fall in university applications for 2012 entry, Universities and Colleges Admissions Service (UCAS) statistics [have revealed](http://www.ucas.com/about_us/media_enquiries/media_releases/2012/20120130a). Referred to as a “headline drop of 7.4% in applicants” by UCAS Chief Executive Mary Curnock Cook, the newly published data includes all applications that met the 15 January equal-consideration deadline. Imperial College received 14,375 applications for 2012 entry, down from 14,397 for 2011, a 0.1% decrease. Increased fees appear to have taken a toll.

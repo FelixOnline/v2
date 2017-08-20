@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
+image_caption: ""
 ---
 
 ### _Keeping it Real _by Justina Robson

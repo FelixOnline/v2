@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061336-ygr12-princetiny2.jpg"
-image_caption: >
-  Prince Andrew just can’t keep away.
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061336-ygr12-princetiny2.jpg"
+image_caption: ""
 ---
 
 The Duke of York’s Pitch@Palace competition, held this year’s finals at St James’s Palace on Tuesday, with Imperial entrepreneurs taking home both first and third place.

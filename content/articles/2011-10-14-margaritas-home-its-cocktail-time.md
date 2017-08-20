@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140104-sjw209-margaritas.jpg"
-image_caption: >
-  The thinking man's Slush Puppie
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140104-sjw209-margaritas.jpg"
+image_caption: ""
 ---
 
 Margarita is the most common tequila-based cocktail and was most probably invented in Mexico, although there is no solid proof of its origin. We like it in its classic form or with strawberry, pineapple, peach, mango or papaya flavours.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601151123-felix-n0j2203.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601151123-felix-n0j2203.jpg"
+image_caption: ""
 ---
 
 At Tuesday night’s union council meeting it came to light that the Evelyn Gardens may become a hall reserved for second years.

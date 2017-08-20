@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201004301136-srg03-EasterBr.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201004301136-srg03-EasterBr.jpg"
+image_caption: ""
 ---
 
 Welcome back all you holidaying Imperialites. I hope you had a refreshing break or as so many of you were, your revision went well. It's back to the daily grind from now until the end of the academic year with the summer term punctuated by exams and projects.

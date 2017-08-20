@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111212-felix-12495942_985531444829230_8102301807300184292_o.jpg"
-image_caption: >
-  Ice Hockey – that notoriously friendly game.
-image_attribution: "Ice Hockey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111212-felix-12495942_985531444829230_8102301807300184292_o.jpg"
+image_caption: ""
 ---
 
 It’s that time of year again. You’re exhausted, because you were up way too late watching the new season of House of Cards or the latest Better Call Saul; stressed, because if you were up so late you should have been finishing your coursework; and spammed to bursting point because suddenly everybody wants to be the Union president.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Back in the dear old early 14th century, “the pox” was considered a punishment from God. If you had it, you were evil and it was a just fate. You had wronged. You had failed. You deserved to die. The trouble with this idea was that there came a time when it struck a lot of people that this was not quite true. In the mid and late 14th century, a lot of people died of it. At once. Whole villages vanished. And this happened across Europe, though sadly without BBC News to report it. Either way, the emphasis shifted a bit from individuals to groups of people being ‘bad’. The thinking was that the older generation had got it a bit wrong, but it is alright, because we have found out about it now. And, co-incidentally, all the bad people are dead so there is nothing more to worry about. Keep praying for good harvests and to avoid Armageddon and it will all be fine.

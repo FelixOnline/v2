@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In modern times, the peer-reviewed publication is seen as the basic benchmark for science. Of course, science must be publicly accessible and able to be duplicated. And with increased metrics and funding in the sciences dependent on performance measured by frequency and recognition of publications, there are few alternatives for modern scientists to succeed – it’s publish or perish.

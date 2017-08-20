@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312350-tna08-food7.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312350-tna08-food7.jpg"
+image_caption: ""
 ---
 
 When you’re a new establishment issuing a challenge to been-around-the-block GBK by proclaiming you’ve got better burgers than they do – and offering punters the chance to play bartender with the first self-serve beer wall in the UK – you’re sure to set a few tongues wagging. Tucked away from busy Fulham Broadway, where the quaint cobbled Vanston Place meets quiet Farm Lane, relative newcomer The Lazy Fox has done just that.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022037-felix-cary-crankson.jpg"
-image_caption: >
-
-image_attribution: "Jane Hobson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022037-felix-cary-crankson.jpg"
+image_caption: ""
 ---
 
 So often in the media you hear directors and people of the arts talking of their desire to ‘transport’ the reader or viewer or listener, whatever it might be, away from their mundane reality. Whether the destination is Richmond, Rio or Ancient Rome, all too often you can find yourself back in that reality in a matter of seconds. As I walked out of Mad Blud, I could not say the same, but not entirely due to the play itself.

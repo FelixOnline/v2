@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
+image_caption: ""
 ---
 
 Athletes from both [Imperial College Athletics Club](http://union.ic.ac.uk/acc/crosscountry/) and [ICSM Athletics Club](http://icsmathletics.com/index.html) travelled up to Sheffield on the weekend of 18-20 February for the BUCS Indoor Athletics Championships. Competing across a wide range of both track and field events, the team were looking forward to an exciting weekend of sport.

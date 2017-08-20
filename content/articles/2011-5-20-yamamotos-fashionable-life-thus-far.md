@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200648-felix-yyf_aw_2009-10027_photographed_by_monica_feudi.jpg"
-image_caption: >
-
-image_attribution: "Monica Feudi"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200648-felix-yyf_aw_2009-10027_photographed_by_monica_feudi.jpg"
+image_caption: ""
 ---
 
 You walk in and there is a huge hall of whiteness, just one single dazzling room, peopled throughout by the headless bodies of life-sized dolls dressed in couture clothing. Do not worry though, your £7 has got you more than just a roomful of mannequins, oh no, there is a whole audiovisual extravaganza to be had. I headed straight for the long row of TVs strung up along the wall.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071409-felix-delhi.jpg"
-image_caption: >
-  Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance and a perfect spot to
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071409-felix-delhi.jpg"
+image_caption: ""
 ---
 
 When I first touched down in New Delhi I have to say I was a tad deceived. Having skimmed my trusty Lonely Planet, I was expecting the Paharganj area to be a bustling Th Khao San à la Bangkok, but was greeted with something else entirely. I suppose I have my own ignorance to thank; I’d been told about what to expect, but brushed it off under the pretence that I am some sort of travel wizard.

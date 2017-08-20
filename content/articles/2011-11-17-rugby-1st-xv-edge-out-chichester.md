@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172229-felix-varsity2011-454.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172229-felix-varsity2011-454.jpg"
+image_caption: ""
 ---
 
 __Rugby__

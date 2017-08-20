@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You find yourself in the library; you have an exam/deadline tomorrow that has made your stress levels reach a new high. Hyped up on pro plus and red bull, a heavenly chorus drifts in from Queens Tower and the melodic chiming of the bells makes everything seem alright… Who am I kidding? Anybody with Facebook or Twitter is accustomed to the tirade of complaints about ‘noise pollution’ and their suddenly sensitive ears. But ever wondered what is really going on up there? What is change ringing and who are the mythical bell ringers?

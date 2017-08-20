@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172010-dr910-technode.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172010-dr910-technode.jpg"
+image_caption: ""
 ---
 
 After years of scouring through the Necronomicon and the Dead Sea Scrolls searching for proof of the existence of the mythical extraterrestrial pharaoh known as Raath-Mon-Tet, a friend suggested I should Google him.

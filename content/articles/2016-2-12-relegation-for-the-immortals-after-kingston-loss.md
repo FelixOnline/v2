@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In our last home game of the regular season, the Immortals faced the Kingston Cougars. After an amazing performance against the Lions last Sunday, the team was confident coming into the game. However, after a long and hard-fought game, the final score was 12-20 to the Cougars.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Since I live in Cardiff and Imperial is in London, I am well-versed in the pages of English countryside that is the M4 corridor. Queues around Newport, chevrons outside of Bristol, roadworks just past Reading, I’m better than any SatNav. As well as speed cameras, lane narrowing and caravans, there is a section of motorway life that I have grown to know and loathe.

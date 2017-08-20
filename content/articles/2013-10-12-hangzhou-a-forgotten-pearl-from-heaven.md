@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122045-jal08-tulips-in-taiziwan-garden---frany-zhang.jpg"
-image_caption: >
-  Tulips in Taiziwan Garden
-image_attribution: "Frany Zhang"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122045-jal08-tulips-in-taiziwan-garden---frany-zhang.jpg"
+image_caption: ""
 ---
 
 ####  Hangzhou

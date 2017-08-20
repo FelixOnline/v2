@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403111813-me1711-games_dinohorde.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403111813-me1711-games_dinohorde.jpg"
+image_caption: ""
 ---
 
 It was a Friday evening. My friend John, fellow games editor Max and me had been working on our coursework all day, and had just handed it in. 11am till 7pm is a long time to work and most students would probably want to follow this up by going to the pub to celebrate, but not us. When we finished we only had one thing on our minds; we wanted to play the game Orion: Dino Horde.

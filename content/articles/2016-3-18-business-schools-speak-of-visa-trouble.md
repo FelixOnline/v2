@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181132-felix-Business-School--tojpeg_1416490828419_x2.jpg"
-image_caption: >
-  Someone in there disagrees with a Tory policy.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181132-felix-Business-School--tojpeg_1416490828419_x2.jpg"
+image_caption: ""
 ---
 
 A group of business school deans and those responsible for international recruitment at 15 UK universities, including Imperial, were interviewed as part of a report which concluded that current visa rules are making study in the UK “difficult and unattractive”.

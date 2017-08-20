@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
+image_caption: ""
 ---
 
 __What are your impressions of the current peace talks in light of the end of the settlement freeze?__

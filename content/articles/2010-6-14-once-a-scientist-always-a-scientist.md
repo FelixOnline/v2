@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201006141131-ks607-DoubleTh.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201006141131-ks607-DoubleTh.jpg"
+image_caption: ""
 ---
 
 Look around the library and you'll see it. In those idle moments between productive bursts of revision, students daydreaming of a more glamourous life; I could have played for England, I could quit and go traveling or perhaps I could be a rockstar. For Valeria Del Prete these daydreams grew and grew until one day, after a Masters in Physics, a PhD and a year of post-doc study, she finally decided it was time to turn dreams to reality.

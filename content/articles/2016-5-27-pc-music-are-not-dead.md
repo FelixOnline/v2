@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271058-felix-pcmusic.jpg"
-image_caption: >
-  Sometimes I wish PC Music were sent on a rocket into space, never to return.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271058-felix-pcmusic.jpg"
+image_caption: ""
 ---
 
 Last Thursday’s Pop Cosmos was another of PC Music’s rare live shows, assembling together the collective for an evening of non-stop music. In the run up to the event at London’s Scala, gig-goers are told that this is an evening to “lose yourself in an immersive journey to the end of time.” The stage is decorated with poorly made space-age objects, and the merchandise stand is lined with reflective foil as if it were the outside of a space-craft. It’s as if the collective are suggesting they are from the future, or at least accelerating at the speed of light towards it. I believe this understanding of PC Music is incorrect – future music is not headed in this direction. They are instead a reaction to mass consumerism and hyper-marketisation, critiquing the present.

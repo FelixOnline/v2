@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601291003-felix-tdc.jpg"
-image_caption: >
-  Waiting for bad news
-image_attribution: "Numinous Games"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601291003-felix-tdc.jpg"
+image_caption: ""
 ---
 
 The titular metaphor of Ryan and Amy Green’s autobiographical exploration game – that cancer is a dragon – is used to describe their young son’s condition to a more innocent audience. Cancer is a beast that is likely to haunt most of us directly or indirectly throughout our lives.  The sheer power of the word cancer makes it a hard subject to discuss and communicate. ‘That Dragon, Cancer’ is the first (mainstream) game to explore cancer and its effect on the families of sufferers; it portrays a difficult struggle between hope and despair, acknowledging that we all react in different ways.

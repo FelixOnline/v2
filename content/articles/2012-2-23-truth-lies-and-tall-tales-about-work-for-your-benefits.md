@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232355-felix-workfare-cartoon.jpg"
-image_caption: >
-  A cartoon demonstrating the popular perception of workfare
-image_attribution: "Joseph O'Brien"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232355-felix-workfare-cartoon.jpg"
+image_caption: ""
 ---
 
 A spectre is haunting our futures – the spectre of unemployment. Most of us are soon-to-be graduates: some of us, inevitably, are the soon-to-be unemployed. With every month, [increasing numbers](http://www.guardian.co.uk/business/2012/feb/15/uk-unemployment-high-economy-flatlines) of young people are finding themselves jobless, and increasing numbers are turning to the government for support.

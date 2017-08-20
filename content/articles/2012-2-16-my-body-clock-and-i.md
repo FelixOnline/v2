@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
-image_caption: >
-  Sleeping like a log...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
+image_caption: ""
 ---
 
 How many times have you ended up staring at Facebook at 3am on a Monday? If you’re me, the answer is too many to count. A lot of people out there have trouble keeping their sleeping pattern in check. It can be very detrimental to your life (and really annoying). It seems my body clock just wants to troll me constantly, smugly making me stumble bleary eyed out of bed after too little sleep. The recent freezing weather doesn’t help. It makes the warm confines of the covers look incredibly appealing.

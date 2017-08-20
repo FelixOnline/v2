@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220138-tna08-stack-of-coins.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220138-tna08-stack-of-coins.jpg"
+image_caption: ""
 ---
 
 What’s the point of widening participation and encouraging the brightest minds to apply to Imperial – if they’re then not going to be able to afford to come. Or worse, can *just* afford to come but get placed in a[ hall in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/)?

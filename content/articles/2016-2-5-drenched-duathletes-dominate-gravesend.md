@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051257-felix-12615319_10208435310861198_4970862720359336288_o.jpg"
-image_caption: >
-  Run, Anna, run!
-image_attribution: "Triathalon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051257-felix-12615319_10208435310861198_4970862720359336288_o.jpg"
+image_caption: ""
 ---
 
 As the first month of 2016 came to a close, eleven duathletes from Imperial College London battled against the elements to achieve an impressive tally of podium finishes at the Gravesend Winter Duathlon.

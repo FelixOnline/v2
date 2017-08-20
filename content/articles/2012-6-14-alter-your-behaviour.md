@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142028-ams111-comment1.jpg"
-image_caption: >
-  It seems like everyone suffers from the thoughtless acts of a minority. By which it is meant the poo
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142028-ams111-comment1.jpg"
+image_caption: ""
 ---
 
 This morning I realised that something has fundamentally gone wrong. Having finished exams I was wandering around in Hyde Park after a delicious coffee with a friend and noticed the horses from the Hyde Park barracks practicing. I went over to watch and was being impressed by their formation horsing when a gentleman with a huge smile came up and asked me what they were doing. My reaction was a sinking feeling wondering how to extricate myself.

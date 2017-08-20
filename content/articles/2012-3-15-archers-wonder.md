@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152130-ams111-sally-archer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152130-ams111-sally-archer.jpg"
+image_caption: ""
 ---
 
 Imagine the strength in the voice of Adele, the soul of Corinne Bailey Rae and the mellow vibe of Regina Spektor in one artist. Ever since starting her vocal career at the WOMAD festival in 2007, Sally Archer has performed in many gigs around the country and has recorded in Abbey Road Studios. Her songs include a selection of heartfelt melodies with beautiful piano and soulful guitar parts; and of course the wonderful blend of her voice can’t help but make you smile.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
-image_caption: >
-  One thing I would say – make it brighter
-image_attribution: "Navid Nabijou"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
+image_caption: ""
 ---
 
 There isn’t a whole lot of space in my flat. Its close proximity to college is a massive plus, but one of the trade-offs is having to share rooms. This isn’t all bad by any means, but at times it can grow a bit trying.

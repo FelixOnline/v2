@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311271428-jal08-web_waffle-iron-front.jpg"
-image_caption: >
-
-image_attribution: "Wafflemeister"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311271428-jal08-web_waffle-iron-front.jpg"
+image_caption: ""
 ---
 
 This is not your average waffle shop. Wafflemeister boasts a secret Belgian recipe which dates back to the 1950’s. The freshly made waffles are topped with a range of toppings from Belgian chocolate fudge and freshly whipped cream to fresh fruit and natural gelato. Wafflemeister is all about delivering a high quality waffle and their promise is “It takes a lot of hard work, continuous training and dedication to become a Meister. The Wafflemeister takes great pride in providing high quality, fresh and great tasting products* which do not contain GM ingredients, artificial flavourings, colourings or preservatives.”

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A report, commissioned on behalf of Imperial College Union, described work completed on Beit’s west basement as having created a facility “considered to be very much inferior to that which existed before, with a significant portion of it being unusable.”

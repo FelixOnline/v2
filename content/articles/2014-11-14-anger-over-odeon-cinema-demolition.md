@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142006-ps3110-30odeon.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142006-ps3110-30odeon.jpg"
+image_caption: ""
 ---
 
 Kensington residents have been up in arms over a recent planning application submitted by Minerva Ltd to the Royal Borough of Kensington and Chelsea (RBKC), which entails demolishing a number of iconic Kensington High Street buildings, including the Odeon Kensington cinema.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172149-ks607-varsityv.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172149-ks607-varsityv.jpg"
+image_caption: ""
 ---
 
 A strong start by Imperial was not enough to keep the Medicals at bay at this year’s Varsity, as they went on to win their ninth successive JPR Williams Cup.

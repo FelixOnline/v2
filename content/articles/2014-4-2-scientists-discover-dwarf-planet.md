@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404021214-jal08-orbit-diagram---n.jpg"
-image_caption: >
-  This orbit diagram shows the paths of Oort cloud objects 2012 VP113 (red) and Sedna (orange), which
-image_attribution: "Scott S. Sheppard/Carnegie Institution for Science"
-image_attribution_link: "http://www.nature.com/news/dwarf-planet-stretches-solar-system-s-edge-1.14921"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404021214-jal08-orbit-diagram---n.jpg"
+image_caption: ""
 ---
 
 The newly discovered dwarf planet __2012 VP____113__ was discovered by astronomers at the Carnegie Institution of Science, Washington last week.

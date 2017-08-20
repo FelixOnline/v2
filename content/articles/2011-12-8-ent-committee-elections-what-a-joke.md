@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082216-pk1811-jeff-bridges-best-actor-academy-awards-2010.jpg"
-image_caption: >
-  A portrayal of how exciting being elected on the ents committee is
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082216-pk1811-jeff-bridges-best-actor-academy-awards-2010.jpg"
+image_caption: ""
 ---
 
 Did you know that voting for First Year Entertainments Committee Members opened last week? Nope, me neither – until it was pointed out to me. In fact, for that matter, I never knew that you could stand for it!

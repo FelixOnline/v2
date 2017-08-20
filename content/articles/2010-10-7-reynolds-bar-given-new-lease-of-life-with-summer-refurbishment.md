@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 While a lot of attention has been focussed on the refurbishment of Metric and FiveSixEight - as they will soon be called - renovations have also been taking place in the Reynolds Bar, the spiritual home of ICSM in Charing Cross Hospital.

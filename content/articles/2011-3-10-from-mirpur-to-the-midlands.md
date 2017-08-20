@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
+image_caption: ""
 ---
 
 For an international student from Pakistan, London is an explosion of new experiences. People form queues, food is bland, the police actually care (but families hardly seem to), dogs are walked, old men jog, commuters are silent, ‘smiling shop staff’ are rarely as described, and under the ground men sit and let women stand on tubes, whilst above it buses actually arrive on time. Compared to Islamabad, it might as well be Oz.

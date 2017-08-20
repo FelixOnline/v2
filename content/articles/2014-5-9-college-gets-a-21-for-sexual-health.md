@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405090255-jal08-news_ic_report_card_sex.png"
-image_caption: >
-
-image_attribution: "Superdrug"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405090255-jal08-news_ic_report_card_sex.png"
+image_caption: ""
 ---
 
 In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142108-ps3110-rosetta_-_comet_fly-by.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142108-ps3110-rosetta_-_comet_fly-by.jpg"
+image_caption: ""
 ---
 
 On Wednesday afternoon, the signal came through that one of the most ambitious space missions ever attempted has successfully landed on a comet.

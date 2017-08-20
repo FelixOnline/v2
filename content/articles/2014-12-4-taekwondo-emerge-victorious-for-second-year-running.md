@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042039-cj914-icx_201-copy.jpg"
-image_caption: >
-
-image_attribution: "IC Taekwondo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042039-cj914-icx_201-copy.jpg"
+image_caption: ""
 ---
 
 The 10th anniversary of the Imperial College Taekwondo society got off to an explosive start over this past weekend, with the hosting of the third annual Imperial College Open Taekwondo Competition.

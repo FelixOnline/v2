@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031930-pk1811-img_6796-copy.jpg"
-image_caption: >
-  Deputy President (Welfare) Nicolas Massie shows his goods
-image_attribution: "Indy Leclercq"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031930-pk1811-img_6796-copy.jpg"
+image_caption: ""
 ---
 
 This Monday saw the Union conduct a bike auction in Beit Quad, raising over £7000 for RAG; a new record. 106 bikes and one scooter were up for sale, having been left chained to railings and bike racks around campus, presumably abandoned by their owners.

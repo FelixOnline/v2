@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101015-felix-mappi.jpg"
-image_caption: >
-  The street where the flat supposedly was.
-image_attribution: "mappio.net"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101015-felix-mappi.jpg"
+image_caption: ""
 ---
 
 A student was caught out by scammers this week after paying a deposit on a flat that turned out not to be for rent.

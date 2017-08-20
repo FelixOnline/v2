@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the Wednesday before elections opened, members of the Union had their questions answered live on STOIC by candidates for the ICU Sabbatical Positions, as well as the faculty union presidents and the student trustees. This is a fantastic idea – if the candidates want our vote, they should be prepared to answer our questions and be subject to our scrutiny.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010049-tna08-hitler.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010049-tna08-hitler.jpg"
+image_caption: ""
 ---
 
 [College seems to be on the anti-smoking warpath again](http://felixonline.co.uk/news/3409/smokers-told-to-stop-lighting-up-by-buildings/). Bins and ashtrays are mysteriously disappearing from places like the RSM entrance and my inbox is filling up with passive-aggressive emails. Interfering busy-bodies have made it their mission to enforce the ridiculous ‘smoke-free’ zones around campus and teenagers with the glazed look of Jehovah’s witnesses, wearing NHS tabards, roam the streets ambushing perfectly innocent pedestrians. All right and good? No it is bloody not. I am a proud smoker and I am starting to get seriously peeved.

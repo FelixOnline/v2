@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Do you ever wonder why we are here? Does it make sense that everything around us has a purposeful order to it and we are the anomalies? Will our lives ever matter in the grand scheme of things, or are we just material beings, that can feel pleasure because of chemicals in the brain? ‘Who’ is it that actually feels?

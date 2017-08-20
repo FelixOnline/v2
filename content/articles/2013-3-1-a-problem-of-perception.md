@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010020-tna08-einstein.jpg"
-image_caption: >
-
-image_attribution: "Aaniya Ahmed"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010020-tna08-einstein.jpg"
+image_caption: ""
 ---
 
 I‘d like to perform a small experiment. Picture a scientist in your mind. Now answer this: what gender is your scientist? What colour is their skin? I’d hazard a guess that a large number of you pictured a white male. Mine has a beard too – and he’s scrunched over a desk in a solitary room, calculating something. His clothes are scruffy, and he clearly doesn’t care over-much about his appearance.

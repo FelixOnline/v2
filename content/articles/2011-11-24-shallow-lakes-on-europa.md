@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242058-pk1811-mag_cover_v02-1.jpg"
-image_caption: >
-  Europa’s ‘Great Lake’ – scientists speculate that many more exist throughout the moon
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242058-pk1811-mag_cover_v02-1.jpg"
+image_caption: ""
 ---
 
 Europa is the second innermost of Jupiter’s four large Galilean moons. Scientists believe that the Jovian satellite’s icy surface hides a liquid ocean that contains twice the water than can be found in all of Earth’s oceans combined. As such it is one of the most likely places in the solar system where extraterrestrial life could be found. However, given that it is widely believed that the upper crust of ice is on average 20 kilometres thick, probing for signs of life is likely to be difficult. But now a group of scientists lead by [Britney Schmidt](http://www.ig.utexas.edu/people/staff/britneys/) from the University of Texas has said that they believe that pockets of liquid water may form far nearer the surface of the moon.

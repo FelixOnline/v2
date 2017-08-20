@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
-image_caption: >
-  Michael Malarkey wowing crowds Wilton's Music Hall
-image_attribution: "Mystic Sons"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
+image_caption: ""
 ---
 
 Tucked just off Cable Street, a short walk from the hustle and bustle of Aldgate, __Wilton’s Music Hall__ is one of the hidden treasures of London’s East End. Positively steeped in history and tradition, it is one of the capital’s oldest music halls, and one of the very few surviving ones that retains its original features. With such an illustrious legacy, it is understandable that some musicians may feel nervous when they emerge onto the stage.

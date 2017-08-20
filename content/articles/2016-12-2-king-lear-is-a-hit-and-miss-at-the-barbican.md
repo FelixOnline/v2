@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021501-felix-5760.jpg"
-image_caption: >
-
-image_attribution: "Ellie Kurttz, Royal Shakespeare Company"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021501-felix-5760.jpg"
+image_caption: ""
 ---
 
 How does a creative team begin to tackle the momentous task of reincarnating a play that has been performed and studied for centuries? Do they period dress the stage and cast, and risk being forgotten in the plethora of Shakespeare productions? Or do they approach the play from an entirely new angle knowing that, should they fail, being a forgotten production would turn from curse to blessing? The Royal Shakespeare Company’s production of King Lear at the Barbican opts for a mixture of the two, leading to an adaptation that trips over itself too often to fall in love with it.

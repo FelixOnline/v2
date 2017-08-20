@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072300-tna08-cupcakes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072300-tna08-cupcakes.jpg"
+image_caption: ""
 ---
 
 These divine cupcakes are perfect for the occasion, whether you are celebrating or not!

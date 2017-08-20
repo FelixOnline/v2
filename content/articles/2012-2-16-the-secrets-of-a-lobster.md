@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
-image_caption: >
-  Grilled, spaghetti or sushi? The choice is yours!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
+image_caption: ""
 ---
 
 The next time you see live lobsters at a restaurant market, don’t be afraid of them! You will see that they’re pretty easy to cook and enjoy.

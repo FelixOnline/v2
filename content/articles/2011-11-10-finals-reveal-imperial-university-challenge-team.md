@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
+image_caption: ""
 ---
 
 Internal contests for Imperial’s University Challenge selection took place last week in the Blackett lab, with the initial tryouts on Thursday 3 November seeing attendance figures upwards of 130 students hoping to get onto the team. Sixty questions sent in by the show were asked in the space of an hour with those who fell within the top sixteen by scoring at least 24 out of 60 making it through to the next round.

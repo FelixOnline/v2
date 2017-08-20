@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Over the weekend of the 27th-28th October the Imperial College English 8 ball pool team began their preparations for BUCS success in February 2013 by participating in the third English Universities Pool Championships in Nottingham. Team Imperial (the so-called ‘Mints’) were confident of success and arrived at the tournament ready to rumble. There were 128 entrants for the individual tournament and 25 University teams in the Team Championship.

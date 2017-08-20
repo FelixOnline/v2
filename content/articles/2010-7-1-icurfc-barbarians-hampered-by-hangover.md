@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201007010212-jn104-JapanRug.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201007010212-jn104-JapanRug.jpg"
+image_caption: ""
 ---
 
 Kyoto University RFC 2nd XV 34

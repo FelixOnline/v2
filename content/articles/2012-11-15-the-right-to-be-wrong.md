@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152216-tna08-wrong-waysign.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152216-tna08-wrong-waysign.jpg"
+image_caption: ""
 ---
 
 Have you been wrong today? Have you failed at basic logic at least once since breakfast? Have you propagated a myth or notion that despite its spuriousness has persisted through laziness and avoidance of fact-checking? Have you done your duty as a human being and exercised your right as a citizen?

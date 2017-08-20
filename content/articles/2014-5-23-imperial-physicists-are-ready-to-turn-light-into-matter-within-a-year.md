@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Physicists at Imperial College London are ready to turn light into matter within a year, according to new research published in the journal Nature Photonics. If successful, the collider would have the capacity to demonstrate one of the most famous theories in physics: Einstein’s theory of relativity, which claims, among other things, that matter and energy are essentially interchangeable.

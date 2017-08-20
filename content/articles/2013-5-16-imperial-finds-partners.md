@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305162141-tna08-quad6may08_08.jpeg"
-image_caption: >
-  Yeah, they've partnered with UCL for something. Dragging ourselves down BIG TIME
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305162141-tna08-quad6may08_08.jpeg"
+image_caption: ""
 ---
 
 Imperial has partnered with Oxford, Cambridge, UCL and Southampton to form a new consortium named Science and Engineering South Consortium (SES-5). The idea is to innovate and explore new ideas through collaboration. The SES-5 have a combined annual research spend of over £1.3 billion. Together they hold a substantial amount of the research awards. The universities involved are five of the six top research powers in the UK.

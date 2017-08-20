@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401170317-jal08-news_lab_mouse_mg_3263.jpg"
-image_caption: >
-
-image_attribution: "Wikimedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401170317-jal08-news_lab_mouse_mg_3263.jpg"
+image_caption: ""
 ---
 
 On 14th April 2013 the British Union for the Abolition of Vivisection (BUAV) presented Imperial College London with a report that accumulated a list of various allegations of misconduct concerning animal experimentation. The report contained a video produced by the undercover investigator, which BUAV released to the public, which purported to demonstrate a number of instances of poor animal welfare practices. As a result Imperial College came under national scrutiny, which can be seen on the comments on College’s social media pages. The public outcry, included Morrissey and Brian May, called for an immediate independent inquiry.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112203-felix-perks-of-being-a-wallflower-set-visit-report-07rgb.jpg"
-image_caption: >
-  Ron and Harry got hotter
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112203-felix-perks-of-being-a-wallflower-set-visit-report-07rgb.jpg"
+image_caption: ""
 ---
 
 Adapted and directed by the author himself, Stephen Chbosky’s The Perks of Being a Wallflower is an enthusiastic, somewhat rushed, American teenage rite-of-passage story. Although a good premise and a best-selling novel, the film itself is distinctly over-full and does appear to have been put together a little hastily – or not edited well enough to reduce the book to film length. That said, this modern classic tale is generally well acted and well scripted.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182030-ks607-micahphi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182030-ks607-micahphi.jpg"
+image_caption: ""
 ---
 
 Micah P Hinson’s music combines lyrical wisdom beyond his twenty-nine or so years with the kind of deep, reassuring voice your dad might use to read bedtime stories to you in. Hailing from Abilene, Texas he is often introduced as ‘the guy who dated the Vogue model and went to prison for forging prescriptions,’ but in person, he comes across as incredibly articulate, grounded and open. Since 2006 he has brought out several EPs and five albums the most recent of which, Micah P Hinson and the Pioneer Saboteurs, just released.

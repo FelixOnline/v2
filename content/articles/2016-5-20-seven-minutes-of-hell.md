@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605201105-felix-120123884_36e8dc7e7f_o.jpg"
-image_caption: >
-  Here at FELIX we believe in positive reinforcement, so have a cookie (or ten) for reading an article about exercise.
-image_attribution: "Tracy Hunter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605201105-felix-120123884_36e8dc7e7f_o.jpg"
+image_caption: ""
 ---
 
 With exams drawing near, many think setting aside time for a dedicated workout is simply not worth it. The mere idea of walking to Ethos makes you die a little inside. Long-drawn lectures and revision means the treadmill is off the agenda on weekdays, so you settle for that walk to the library, the occasional sprint to the toilet. 30-minute run? Forget it – that would mean a shower, makeup (hear hear, females), and that would be your weekday or weekend evening gone. Friends, there is a small saving grace.

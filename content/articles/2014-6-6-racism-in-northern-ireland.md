@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406060341-jal08-.jpg"
-image_caption: >
-
-image_attribution: "Jonathan Porter"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406060341-jal08-.jpg"
+image_caption: ""
 ---
 
 To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets. The curfews no longer empty the streets at night. The bombs no longer tear through shopping centres and flesh. The Northern Ireland of my childhood has rebranded as the land of the _Titanic _and _Game of Thrones_, Liam Neeson and Snow Patrol. But a look at headlines coming out of the country today gives good reason to doubt things really did change for good.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041830-ba108-TECHNOLO.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041830-ba108-TECHNOLO.jpg"
+image_caption: ""
 ---
 
 The iPhone 4 is a svelte piece of product design, with immaculate lines and a glossy, beautiful finish. Like it or loathe it, no one can deny that it is a gorgeous piece of hardware and, with it costing up to £600, you probably want to keep it that way.

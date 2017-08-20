@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
-image_caption: >
-
-image_attribution: "Veronika McQuadeova"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
+image_caption: ""
 ---
 
 It came as a shock to many last week when [Felix reported](http://felixonline.co.uk/?article=594) that a College committee is investigating changes to the length of the College day. The proposals, which include extending the day to 8am until 7pm for undergraduates and until 8pm for postgraduates, on Mondays and Thursdays, are still under consideration but they have been treated with apprehension by students and members of staff alike, many of whom were not officially informed of the proposals. The first meeting of the committee on Monday 17th January was cancelled at short notice for unknown reasons.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206260217-ak6309-dsc_0093.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206260217-ak6309-dsc_0093.jpg"
+image_caption: ""
 ---
 
 On the first day, as we drove to plot ‘D’, I thought it would be simple. I had worked in tropical rainforests before; they had been easy to walk in, an open understory with sparse seedlings caused by the intense shading of the canopy. This forest however, as I discovered after hours of tripping, slipping and ducking under rotting vegetation, was different. We were in the [SAFE Project](http://www.safeproject.net/) (Stability of Altered Forest Ecosystems), the biggest ecological experiment in the world. The entire site, more than 7000 hectares, has been logged twice, most of the trees extracted, cut up and sold. It joins onto thousands of hectares more of logged forest, joining two of the most important conservation areas of South East Asia, the virgin forests of Maliau Basin and Danum Valley.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 New proposals set out by the Union could mean that some prospective clubs and societies at risk of rejection must hold a test event in order to judge their viability and popularity. The suggested changes aim to ease decisions made by the New Clubs Committee on whether to accept or reject “border-line” applications of clubs whose future success is unclear. However, the proposals are yet to be approved by the Clubs & Societies Board.

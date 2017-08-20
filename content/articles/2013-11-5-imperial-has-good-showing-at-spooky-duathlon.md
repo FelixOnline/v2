@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Sunday 27th, six fellow triathletes (plus old boy Sam O’Neil) took to Hyde Park to take part in the Jekyll and Hyde Park Halloween Duathlon. With the clocks going back alarms were tentatively set, not really knowing whether we’d unknowingly cause ourselves to turn up to the race an hour early or not! A crucial race banana was munched and I set off into the rain at 6.30am with nerves and apprehension. With this being my first duathlon I was relieved to be warmly greeted at registration by chairman Ed Hallett (he’s doing a great job, by the way) who helped me rack my bike into optimum streamline setup in transition and calmed my nerves.

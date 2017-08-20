@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022008-ac1507-Gaugin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022008-ac1507-Gaugin.jpg"
+image_caption: ""
 ---
 
 Tate Modern's [exhibition on Gauguin](http://www.tate.org.uk/modern/exhibitions/gauguin/default.shtm) is his first international exhibition for more than 50 years. It documents his shifting styles, focusing on his interest in depicting myth and the supernatural, and culminating in his most famous works painted in Tahiti. As well as allowing the viewer to observe Gauguin's very variable painting styles and progression as an artist, it also documents and provides context to the painter’s life, providing two rooms full of articles, letters and historical memorabilia.

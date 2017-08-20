@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403190247-jal08-mtsoc_mathieson.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403190247-jal08-mtsoc_mathieson.png"
+image_caption: ""
 ---
 
 Somehow on a blustery Tuesday evening I found myself invited to the dress rehearsal of MTSoc’s latest performance, _The Producers_. For those unfamiliar with this play, the basic plot is thus: After _Max Bialystock_'s latest show closes - a failure after only one night - he swears to return as the 'King of Broadway'. When _Leo Bloom_, an accountant with a dream of being a Broadway producer, comes up with the idea that you could make more money from a flop than a success, a plan is born. The pair must now find the worst play ever written, the worst director in town and two million dollars. And that play? _Springtime for Hitler_.

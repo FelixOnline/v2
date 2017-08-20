@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612021648-felix-3rdgamepicfelix.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612021648-felix-3rdgamepicfelix.jpg"
+image_caption: ""
 ---
 
 Following a strong win and a defensive shut out against the UEA Pirates, the Immortals were looking to build upon their momentum and announce themselves as serious playoff contenders. Standing in their way were the Immortals’ fierce rivals, Royal Holloway.

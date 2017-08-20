@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
-image_caption: >
-  Fine I’ll wear black tie, but I draw the line at monochrome
-image_attribution: "Benjamin Kennedy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
+image_caption: ""
 ---
 
 The Summer Ball is once more drawing ever closer. The time when the girls get to wear expensive dresses, and the guys get to wear tuxedos with a real bowtie, (not one of those pre–tied ones, which don’t allow you to wear it with the knot undone for that cool after party look). But wait, what’s that in the sky? Is it a bird? Is it a plane? Yes, it is a plane. It’s actually several planes doing a flyby for the Royal Wedding, but the plane I was referring to is the metaphorical one behind them. It’s here to drop a bomb, a metaphorical bomb; this year the Summer Ball isn’t officially black tie.

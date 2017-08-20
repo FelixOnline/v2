@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281236-felix-flashheart.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281236-felix-flashheart.jpg"
+image_caption: ""
 ---
 
 Given that we have months of freedom in which one could watch anything one wanted to on TV, I thought that I might bring back a brilliant and unique series from the depths of Dave and Dave-ja-vu.

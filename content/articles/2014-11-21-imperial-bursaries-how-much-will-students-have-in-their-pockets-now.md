@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211311-ps3110-website-picture-version.jpg"
-image_caption: >
-  The change in the bursaries funds from 2016
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211311-ps3110-website-picture-version.jpg"
+image_caption: ""
 ---
 
 It was announced in Union Council last week that the bursary scheme for new entrants starting in Autumn 2016 was to change. It has altered to decrease funding for those from lower-income households and funding to increase for those students from households who have slightly more money.

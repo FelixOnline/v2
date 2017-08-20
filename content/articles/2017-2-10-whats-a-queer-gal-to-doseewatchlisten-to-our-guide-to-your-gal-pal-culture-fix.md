@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
-image_caption: >
-
-image_attribution: "Peccadillo Pictures"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101536-felix-appropriate-behavior-still.jpg"
+image_caption: ""
 ---
 
 ## Film

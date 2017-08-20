@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282013-ks607-guyinthi.jpg"
-image_caption: >
-  David Pierson in the Winston Wong Bio-Inspired Ice Vehicle
-image_attribution: "Kadhim Shubber"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282013-ks607-guyinthi.jpg"
+image_caption: ""
 ---
 
 Imagine skimming across the icy wastelands of the South Pole. You’re sitting in the cockpit of the prototype Winston Wong Bio-Inspired Ice Vehicle, the cold air biting through your clothes. Your heart rate, temperature and other bio-functions are being continuously monitored by an array of innovative sensors and suddenly your radio crackles to life. It’s the support vehicle saying that your time is up and it’s time to rotate the driver again. Five more minutes you say to yourself as you push the accelerator to the floor and listen to the strangely hypnotic sound of the rotors spinning ever faster.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210130-tna08-nyan-cat-final.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210130-tna08-nyan-cat-final.jpg"
+image_caption: ""
 ---
 
 Apple fans worldwide rejoiced as detractors grieved a couple of weeks ago at the WWDC event when CEO Tim Cook unveiled yet another incredible update to the beautiful and gorgeous iOS 7, the latest iteration of Apple’s superior and world’s most advanced mobile operating system. It is chock full of innovation that is just simply amazing.

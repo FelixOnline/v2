@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Surprise! A funding gap has emerged in universities. If you were in charge of estimating how many universities would ask for as much money as humanly possible and you predicted less than 100%, I feel like you have only yourself to blame.

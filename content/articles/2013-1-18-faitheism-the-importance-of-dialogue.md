@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180135-tna08-book-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180135-tna08-book-cover.jpg"
+image_caption: ""
 ---
 
 Every Christmas for the past several years I sit down and I cry. It’s not that I’m sad; it’s an important tradition. Every Christmas I sit down and watch It’s A Wonderful Life and like a predictable fool each time I’m blinking back salty water. And it’s not just with this film – name a tear jerker and it’s probably worked its magic on me. I even cried at Susan Boyle’s Britain’s Got Talent audition.

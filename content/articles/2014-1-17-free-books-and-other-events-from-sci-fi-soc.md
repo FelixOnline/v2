@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What could be better than curling up with a good book? That’s right, curling up with a good book that you got for free! That’s why the Science Fiction, Fantasy and Gothic Horror Society is bringing back our hugely popular Book Blind Date event. Last October we found new homes for over fifty great books and this term it’s all going to be even bigger and better.

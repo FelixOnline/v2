@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022058-ac1507-beachhou.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022058-ac1507-beachhou.jpg"
+image_caption: ""
 ---
 
 Beloved by [Pitchfork](http://pitchfork.com/reviews/albums/13872-teen-dream/), Jay-Z and Beyonce as well as your humble reviewer, Beach House are a well regarded twosome emanating from Baltimore that comprise of Alex Scally and Victoria Legrand. This scruffy and seductive pair have been riding an ever-growing wave of critical adoration since 2004 which now appears to be translating into a wider commercial acclaim, as evidenced by healthy sales of their beautifully beguiling 2010-released LP [Teen Dream](http://open.spotify.com/album/72mGz9Dnt42euozq8yBULe) and their sell-out gig at the Shepherd’s Bush Empire.

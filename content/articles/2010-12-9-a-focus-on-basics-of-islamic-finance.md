@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091925-ac1507-minarets.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091925-ac1507-minarets.jpg"
+image_caption: ""
 ---
 
 __So, what is Islamic Finance, really? Give me the [basics](http://www.google.co.uk/url?sa=t&source=web&cd=3&ved=0CCYQFjAC&url=http://www2.standardandpoors.com/spf/pdf/media/An_Introduction_To_Islamic_Finance.pdf&rct=j&q=standard%20%26%20poor's%20islamic%20finance%20FAQ&ei=Kj0BTZSqHsfPhAf5vajvBw&usg=AFQjCNFux9d60WTnBP2Kqfy1AimeRbaC0Q&sig2=8wi2LiZvE8SGK5CwTqyp5Q&cad=rja).__

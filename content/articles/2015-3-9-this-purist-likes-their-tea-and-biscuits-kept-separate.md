@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091908-ps3110-tea.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091908-ps3110-tea.jpg"
+image_caption: ""
 ---
 
 Gentle reader, I’m certain that I am only the latest in a long line of commentators to compare two of the greatest influences in our British lives: tea and sex. While these might initially appear to have as much in common as, say, fashion sense and Islamic State, there’s a great deal of common ground. Like tea, sex can be enjoyed alone but is best enjoyed in company. Sex can be delightful when black, white or even Chinese (do try them all!). Like tea, things are surprisingly nice when they get fruity (or even herbal...).

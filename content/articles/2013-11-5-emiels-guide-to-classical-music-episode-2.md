@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Welcome to the first real instalment of my guide to Classical Music! I hope to start introducing the great composers and some of the masterpieces which address the issues raised in my column last week, but I feel it’s necessary to describe the historical and theoretical context from which “classical music” arose first. To this end I will start at the beginning, or rather, in the middle; for music existed long before the “beginning” and continued its course unperturbed for a long time afterwards. The moment I am referring to is of course the birth of the literate tradition in music; the earliest point from which we have written music which is still performable today, and the start of a rich tradition.

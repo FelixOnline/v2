@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
-image_caption: >
-  Konrad Lars Hastings Titlow, by David Titlow
-image_attribution: "Konrad Lars Hastings Titlow, by David Titlow"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
+image_caption: ""
 ---
 
 Have we reached ‘Peak Selfie’? Last year saw the word, used to describe a self-portrait cum photograph, chosen as the Oxford English Dictionary’s ‘Word of the Year’, which is unsurprising when one considers its ubiquity among social media. The Ellen DeGeneres’ selfie from the 2014 Academy Awards has the honour of being the most retweeted image in the world; Instagram has over 50 million picture with the tag #selfie; and the phenomenon even has its own theme song – #SELFIE by __The Chainsmokers__, a piece of somewhat dubious quality. Truly, our society is saturated with the selfie phenomenon.

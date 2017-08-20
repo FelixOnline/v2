@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041903-jk708-Prof.Nut.jpg"
-image_caption: >
-
-image_attribution: "David Robertson"
-image_attribution_link: "https://davidpj.wordpress.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041903-jk708-Prof.Nut.jpg"
+image_caption: ""
 ---
 
 Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again by claiming that alcohol is more harmful than various illegal substances in a newly released report.

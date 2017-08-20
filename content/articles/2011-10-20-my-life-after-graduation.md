@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
+image_caption: ""
 ---
 
 This is an irrelevant time of the year for this article. As usual, my timing is wrong (must set a reminder to be in sync with the rest of the herd). Thoughts and hopes of graduation begin to emanate at about early May to late June, sparkly spring seems to set in motion a chain of celebration. Then, reality hits: you still have to get through those exams.

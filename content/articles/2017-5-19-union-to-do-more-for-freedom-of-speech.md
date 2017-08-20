@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Union is moving towards taking a stronger stance on Freedom of Speech. Over the past few months a conversation has begun around the role of Imperial College Union in supporting students’ freedom of speech. The question of “Are we doing enough to promote dialogue and debate?” lies at the centre of this move.

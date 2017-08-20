@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Italy may be home to the greatest number of UNESCO World Heritage Sites in the world, however, as of last week the French can boast pipping the Italians to arguably the most questionable of awards ever granted by the United Nations’ cultural organisation. The French multi-course gastronomic meal has been named to the Convention of Intangible Cultural Heritage.

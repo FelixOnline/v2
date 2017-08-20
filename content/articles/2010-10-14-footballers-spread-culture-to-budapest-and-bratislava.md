@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010142036-ks607-sports.jpg"
-image_caption: >
-  Spot the ball...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010142036-ks607-sports.jpg"
+image_caption: ""
 ---
 
 An early morning Wetherspoons heralded the beginning of the ICUAFC Tour 2010, with 21 of the current batch of Airborne Rangers primed to spread their unique culture to Budapest and Bratislava. Little time was wasted on arrival in Budapest and Szimpla was the first port of call. Militant tour matchbox was initiated and several pints of Hungarian mind-alterer consumed. Their properties were soon on show as The Black Plague declined to follow the convention of closing the door when liberating Richard the Third. The night advanced to Rumkert on the banks of the Danube where Harry Potter was lurking ready to acquaint itself with [Susan Boyle](http://images.mirror.co.uk/upl/m4/apr2009/1/2/susan-boyle-pic-pa-106501596.jpg). A wedgie of outrageous proportions was dispatched, ending in Earthworm Jim displaying his earthworm on the dance floor.

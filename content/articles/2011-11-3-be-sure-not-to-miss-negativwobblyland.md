@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 San Francisco cut/paste sound collage pioneers NegativLand team up with fellow Fog City resident Wobbly for an evening of home made electronics. The collaboration is centred around the exploitation of The Booper, a fully analogue device put together from salvaged radio and amplifier parts, creating an unpredictable beast whose temperament is as mysterious as the racket it generates.

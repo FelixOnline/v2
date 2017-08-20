@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __T__his Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.

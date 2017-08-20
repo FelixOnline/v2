@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210191359-tna08-opener.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210191359-tna08-opener.jpg"
+image_caption: ""
 ---
 
 The first thing all Polish attendees of Open’er said when I explained that was British was how crazy I was to go to Poland when Britain has some of the best festivals in the world. They may have a point, but international festivals are definitely underrated.

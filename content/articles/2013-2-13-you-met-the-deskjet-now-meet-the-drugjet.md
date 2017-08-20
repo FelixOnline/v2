@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302132018-tna08-smartcolor-inkjet-printer-ft-1560-.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302132018-tna08-smartcolor-inkjet-printer-ft-1560-.jpg"
+image_caption: ""
 ---
 
 Everyone has heard of the inkjet printer, you probably have one yourself. However, one application of the venerable office supply you haven’t heard of is printing drugs, [recently developed at the UCL School of Pharmacy](http://pubs.rsc.org/en/Content/ArticleLanding/2013/CE/c2ce26519b).

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If you are a science student at Imperial there’s very little you can do to get involved in international aid. The medics can use their skills to deliver life-saving vaccinations in Mozambique. The engineers can use their skills to build drought-fighting dams in El Salvador. And us scientists? We get to teach English in a random school somewhere.

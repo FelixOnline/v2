@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232305-tna08-anopheles_quadriannulatus.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232305-tna08-anopheles_quadriannulatus.jpg"
+image_caption: ""
 ---
 
 Compared to uninfected mosquitoes malaria parasite-containing mosquitoes are approximately three times more attracted to the smell of humans, a study shows.

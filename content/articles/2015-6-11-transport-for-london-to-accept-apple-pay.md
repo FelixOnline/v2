@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112314-cj914-tfl.png"
-image_caption: >
-
-image_attribution: "Tony Wilson, JellyLondon.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112314-cj914-tfl.png"
+image_caption: ""
 ---
 
 Transport for London have announced that they will accept Apple Pay when it launches in the UK in July.

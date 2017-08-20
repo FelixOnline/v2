@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181158-felix-maxresdefault.jpg"
-image_caption: >
-  Aryton Senna relaxes after a race..
-image_attribution: "Senna PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181158-felix-maxresdefault.jpg"
+image_caption: ""
 ---
 
 My fool-proof method for determining whether a biopic is good or not is as follows: if I go in with no knowledge/interest in its subject matter, and 1) understand what’s going on the whole time, and; 2) become genuinely invested in its subject matter, then it passes. _Senna_ was the first majorly successful documentary film produced by the quintessential British studio Working Title, best known for rom coms such as _Love Actually_ and _Notting Hill_. Looking into it, it’s clear that the film was made as a passion project courtesy of Woking Title founder, producer, and massive F1 buff Tim Bevan. This passion is contagious. The story told here is that of Ayrton Senna, the three-time Formula One world champion who died tragically in a crash at the young age of 34. This tragically premature death, televised to 300 million people, deeply shook the world of F1. The main things explored include a cataloguing of Senna’s rise to success, the importance of his icon-status in his native Brazil, and his rivalry with former partner Alain Prost.

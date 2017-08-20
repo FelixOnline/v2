@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150131-felix-film_don_jon.jpeg"
-image_caption: >
-  What's with all the pictures? He must be a photographer...
-image_attribution: "experience12"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150131-felix-film_don_jon.jpeg"
+image_caption: ""
 ---
 
 Joseph Gordon-Levitt’s directorial debut (which he also wrote and stars in – the classic triple threat) opens with a rather unsubtle montage that flicks between credits and the standard examples of society’s objectification of women. It makes a rather obvious point – objectification is everywhere – but the complete absence of context sets the initial tone of the film in a no-man’s-land of taste: is this just another film that uses objectification as part of its draw, or is this one that openly rips into and lays bare the misogyny behind that objectification? (I’m going to spoil things for you here, because if I don’t it completely derails the review, and tell you this is very much the latter. Obviously.)

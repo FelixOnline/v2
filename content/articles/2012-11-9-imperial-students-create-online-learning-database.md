@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211090009-tna08-open-academy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211090009-tna08-open-academy.jpg"
+image_caption: ""
 ---
 
 Students who met at Imperial College have created a website offering free online education courses.

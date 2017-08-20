@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Following on from his [comment article published on 2 March](http://felixonline.co.uk/comment/2292/its-time-for-a-union-general-meeting/), Union President Scott Heath has confirmed a date for the General Meeting. The meeting will be held on Wednesday 6 June in SAF Lecture Theatre G34.

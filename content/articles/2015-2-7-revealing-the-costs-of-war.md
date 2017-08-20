@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
-image_caption: >
-  Michael Ajao in Liberian Girl
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
+image_caption: ""
 ---
 
 The debut work of 31-year-old playwright Diana Nneka Atuona, _Liberian Girl _has already made an impact, performing at the Global Summit to End Sexual Violence in Conflict last year and winning Atuona the Alfred Fagon Award for Best New Play of the Year in 2013. So what is all the commotion about?

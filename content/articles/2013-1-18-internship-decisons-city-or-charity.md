@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180015-tna08-0911_bg_hero_09c_01_hs_081_03.jpg"
-image_caption: >
-  Coffee machine... intern, coffee, get it? get it?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180015-tna08-0911_bg_hero_09c_01_hs_081_03.jpg"
+image_caption: ""
 ---
 
 ## Intro

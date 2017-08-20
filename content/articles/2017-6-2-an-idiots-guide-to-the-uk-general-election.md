@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021555-felix-STML.jpg"
-image_caption: >
-  This place is slowly becoming my second home
-image_attribution: "STML"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021555-felix-STML.jpg"
+image_caption: ""
 ---
 
 Ding ding ding, it’s election time again. No, you haven’t woken up from that nap in 2020, they’ve called an early election. Do you have no idea who you’re voting for? Well, you’re in luck my friend, because we’ve got a whole pull-out complete with manifesto breakdowns, and personal views on who fellow students are voting for. But before all that, let’s have a look at the overall state of affairs.

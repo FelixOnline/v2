@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101024-felix-2349632397_e2da522f85_o.jpg"
-image_caption: >
-  Nic McPhee
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101024-felix-2349632397_e2da522f85_o.jpg"
+image_caption: ""
 ---
 
 The EU Competitiveness Council, a committee including research, science, and industry ministers from all member countries, announced last week that scientific publications should all be open access by 2020. We all wish for this to happen, but is the idea utopian?

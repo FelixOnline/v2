@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610031901-felix-freethenight.jpg"
-image_caption: >
-  The night is free, just like your social calendar
-image_attribution: "TFL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610031901-felix-freethenight.jpg"
+image_caption: ""
 ---
 
 Remember last summer when London was oh-so close to having a 24 hour tube service on the weekend? Well it’s here, it’s finally bloody here.

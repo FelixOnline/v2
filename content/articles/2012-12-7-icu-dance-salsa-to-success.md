@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070322-tna08-_dsc1442.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070322-tna08-_dsc1442.jpg"
+image_caption: ""
 ---
 
 As the Imperial Dance team celebrate another success at Nottingham’s Varsity 2012, there’s no better time to learn

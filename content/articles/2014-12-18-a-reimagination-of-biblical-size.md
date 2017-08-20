@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Two huge, historically successful institutions which have recently lost their appeal, their relevance and many of their dedicated followers: Opera and Christianity. What better way to show the reviving powers of art than to create an exciting, contemporary opera about the Passion of Christ? As pretty much everything in this new piece by John Adams, it’s a good idea with truly disastrous results.

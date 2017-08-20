@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
+image_caption: ""
 ---
 
 Since arriving at Imperial, I have been extremely impressed with our students’ excellence. I’ve seen brilliant scholars explaining their research, talented entrepreneurs describing their spin-out company and gifted musicians inspiring a rapt audience. I love to walk through College in the evening and see the ballroom dance team practicing with the jazz band rehearsing next door. This is an incredible place thanks to the great talent, energy and motivation of our students.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182211-jal08-pet-scan-of-lnormal-brain-r-alzheimers.jpg"
-image_caption: >
-  PET scan of brains (l. normal, r. Alzheimers)
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182211-jal08-pet-scan-of-lnormal-brain-r-alzheimers.jpg"
+image_caption: ""
 ---
 
 The MRC Toxicology Unit research team, led by Professor Giovanna Mallucci at the University of Leicester, has managed to successfully control the progression of Prion disease, a neurodegenerative disorder, in mice. The study, published in Science Translational Medicine, shows great promise for human neurodegenerative disorders such as Alzheimer’s, which affects around half a million people in the UK.

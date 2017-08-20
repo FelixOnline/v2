@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311010943-felix-science-ccd.jpg"
-image_caption: >
-  CCD has destroyed over 10 million honeybee hives and caused over US$2million in damage
-image_attribution: "Modern Farmer"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311010943-felix-science-ccd.jpg"
+image_caption: ""
 ---
 
 The modern-day bee is in a bit of a sticky situation, and we’re not talking about honey.

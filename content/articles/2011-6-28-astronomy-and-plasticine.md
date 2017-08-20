@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106281206-felix-i_am_kloot_1118542a.jpg"
-image_caption: >
-  Apparently these guys are Kloot...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106281206-felix-i_am_kloot_1118542a.jpg"
+image_caption: ""
 ---
 
 Writing about music quickly makes you cynical about dull and repetitive festivals all over the country, all playing boring music and all with the same sex, drugs and rock ‘n’ roll attitude. But occasionally there comes along a festival so perfectly concieved that you can’t quite believe that it’s real. [The Deer Shed Festival](http://www.deershedfestival.com/) is a perfect example.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611141415-felix-Cymbeline production photos_ May 2016_2016_Photo by Ellie Kurttz _c_ RSC_192813.jpg"
-image_caption: >
-
-image_attribution: "Ellie Kurtz RSC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611141415-felix-Cymbeline production photos_ May 2016_2016_Photo by Ellie Kurttz _c_ RSC_192813.jpg"
+image_caption: ""
 ---
 
 C_ymbeline_ is one of Shakespeare’s lesser known plays. On reading it before going for the production at the Barbican, I could understand why. There is a tangle of plot lines: star-crossed lovers, kidnapped royal babes, attempted seduction, attempted assassination, and topping it all off, a war between Rome and Britain. The inevitable deus ex machina is almost necessary to bring all of them to the happy conclusion.

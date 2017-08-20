@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060950-felix-9780241143001.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060950-felix-9780241143001.jpeg"
+image_caption: ""
 ---
 
 Luke Williams’ debut novel, The Echo Chamber, is a beautifully woven reflection on a life of regret and unresolved identity. Across continents and generations, our misunderstood protagonist Evie Steppman crosses paths with many remarkable people that serve to shape her history, and the history of the world. That wealth of cacophonous memories, heavy on our heroine’s heart, is recounted through a curious medium: sound.

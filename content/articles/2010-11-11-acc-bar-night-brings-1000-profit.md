@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The first Athletics Club Committee (ACC) Bar Night of the year took place on Wednesday 3rd November, raising over £1000 for various sporting clubs, with the success being hailed as the beginning of “a new age for the Union”.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
+image_caption: ""
 ---
 
 Last Saturday, the Imperial Falcons achieved a draw and a win against the UCL Capitals in their first home games of the season. Despite coming from behind in both games, Imperial managed to clinch the double header, thanks largely to some excellent batting and fielding by some of the newcomers to the club.

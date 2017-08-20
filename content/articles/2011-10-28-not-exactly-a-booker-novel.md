@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110281033-felix-1018_barnes.jpg"
-image_caption: >
-  Julian Barnes – master of the extended essay?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110281033-felix-1018_barnes.jpg"
+image_caption: ""
 ---
 
 Last week saw [Julian Barnes claim the Man Booker](http://www.themanbookerprize.com/prize/authors/45) for his short novel ‘[The Sense of an Ending](http://www.themanbookerprize.com/prize/books/449)’ in what has been derided as the worst shortlist in the prize’s 43 year history. No doubt this was caused in part by the judges’ reward for readability; a strange requirement for the pre-eminent award for literary fiction in the UK.

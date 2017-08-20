@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606171051-felix-bio.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606171051-felix-bio.png"
+image_caption: ""
 ---
 
 One of the UK’s top investors, Neil Woodford has invested a further £11.6 million into Imperial Innovations, the intermediary between Imperial research and the wider world, taking his stake over 20%.

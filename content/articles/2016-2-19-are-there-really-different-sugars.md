@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191129-felix-3143944790_cbf09a2313_o.jpg"
-image_caption: >
-  Eat sugar mice, and be at peace with the fact that you’re basically consuming pure sugar.
-image_attribution: "Osaka19"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191129-felix-3143944790_cbf09a2313_o.jpg"
+image_caption: ""
 ---
 
 Cane sugar, honey, raw turbinado, coconut sugar, agave syrup. Many nutrition experts sitting on their high horses all wax lyrical over these glistening labels, eager to proclaim the nutritional properties of each. These are the same people who are religious avocado-toast eaters and green-juice guzzlers. These are the people who are fine with anything that’s not white sugar or high-fructose corn syrup, the four words which instigate heated debate in the world of nutrition. The hidden truth? All these sugars are the same, in the sense that they all get processed the same way. Too much sugar in any form is dangerous.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Pancreatic cancer has the lowest survival rate out of the common cancers; only three percent make it past five years, with the majority only making it to 4-6 months after diagnosis. The campaign aimed to improve public awareness regarding this. Its tagline portrayed how those with pancreatic cancer wished they had other types which have better survival rates and well researched treatment options hence the named ‘envy’ campaign. Kerry, a sufferer herself, said she honestly wished she had breast cancer. She pushed for pancreatic cancer to gain more attention and in consequence more funding for research to help people like her, which is definitely positive and to be applauded. However, the comparing of different cancers is a controversial concept, which evoked strong opinions, especially from those with the identified ‘preferable’ cancers like breast cancer.

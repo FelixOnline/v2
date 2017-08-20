@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282007-ks607-lembit.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282007-ks607-lembit.jpg"
+image_caption: ""
 ---
 
 “Building a Fairer Britain” – the slogan of the Liberal Democrat manifesto. Is this just another promise that the Liberal Democrats have compromised on in their frantic grasp for power? A question not only being asked by Liberal Democrat MPs, but one that is also at the forefront of public interest.

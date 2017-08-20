@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
-image_caption: >
-  To be honest, I didn't actually expect any better from Time Magazine...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
+image_caption: ""
 ---
 
 Apparently, very big things are happening in American Literary Fiction (ALF). In August, Time Magazine put author Jonathan Franzen on its front cover and the whole of the ALF establishment went bonkers. I confess that I haven’t read Franzen’s new ‘masterpiece’, but last year I did force myself through his previous work, 'The Corrections'.

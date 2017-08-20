@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406021429-felix-mullet.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406021429-felix-mullet.jpg"
+image_caption: ""
 ---
 
 When your friend tells you he’s entering a Pokémon tournament the only appropriate response is to go there to be his cheerleaders – well, after a half hour of convincing that it isn’t an elaborate ruse to steal your kidney. So with this in mind a few friends and I descended upon Manchester for one of the strangest weekends of my life: the UK & Ireland Pokémon Nationals.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402280721-jal08-news_livmap.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402280721-jal08-news_livmap.png"
+image_caption: ""
 ---
 
 A team of 4 Imperial students last week’s student hackathon hosted at Kings University. The 4 computing students, Andrei-Loan Cioara, Nandor Licker, Tomas Virgl and Patrick Chilton took first place in the UK’s first inter-university hackathon, HackKings, where they triumphed over teams from Cambridge, UCL, Durham and Oxford.

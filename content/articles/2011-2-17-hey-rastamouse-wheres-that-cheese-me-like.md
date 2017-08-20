@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172029-nm1010-rastamou.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172029-nm1010-rastamou.jpg"
+image_caption: ""
 ---
 
 Give it up for the 'Easy Crew' – "der to make de bad tings good" – Rastamouse, Scratchy and Zooma in CBeebies' new series titled __Rastamouse__. The show seems to be popular with adults too, with the widely held theory that "cheese" actually means "marijuana". Refreshingly, the mice are puppets in stop-motion, rather than CGI like the rest of children's TV these days. It's a pity that their English grammar is akin to that of an ill-educated rap-star, but the fact that they all sound like Lenny Henry more than makes up for it. If you're really pissed and bored it'll be the funniest thing you've seen since Susan Boyle.

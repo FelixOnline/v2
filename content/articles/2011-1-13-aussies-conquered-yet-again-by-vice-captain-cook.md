@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132025-ks607-theashes.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132025-ks607-theashes.jpg"
+image_caption: ""
 ---
 
 While we were all enjoying the big freeze here in London, some of the enlightened few of us Imperial College students might have known that the Ashes were going on in the convict colony known as Australia. Too busy revising/partying and don’t know what happened? Here’s a quick recap and a player review.

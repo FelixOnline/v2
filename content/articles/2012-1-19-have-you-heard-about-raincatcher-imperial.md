@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
+image_caption: ""
 ---
 
 We all take for granted that when we switch on the tap, clean, drinkable water will pour out. Sadly, for millions of people around the globe, this is not the case.

@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Edward Davey, Secretary of State for Energy and Climate Change, will be giving a talk at Imperial College London on Wednesday 13 February. He will be giving the annual Newitt Lecture on the energy challenge faced by society.

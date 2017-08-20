@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
-image_caption: >
-  “A vampire in love with a Slayer!  It’s rather poetic...in a maudlin way”
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
+image_caption: ""
 ---
 
 There are shows you watch for mindless entertainment. There are shows you get hooked to, ones you simply need to watch every week. And then there are shows that come to define so many aspects of your life. For me, Buffy the Vampire Slayer is just that show.

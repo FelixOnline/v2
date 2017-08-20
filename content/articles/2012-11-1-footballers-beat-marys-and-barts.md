@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Following a good performance but bad result against Kingston 2s in their first BUCS MARS South Eastern 5C league match, Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington on Wed 24th, looking to pick up their first points of the season. Due to a host of injuries and absentees, Imperial were forced to make several changes to their starting line-up. Consequently Pete Nugent, Andy Smith, Bilal Nasim, Luke Butler and Kume Feese replaced Dom Affron, Bilal Abou Ela Bourquin, Dan Moxham, Alex Dale and Josh March.

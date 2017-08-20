@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142108-tna08-london_bus_route_23.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142108-tna08-london_bus_route_23.jpg"
+image_caption: ""
 ---
 
 As a scientific institution with intense research into energy and climate change, Imperial says it doesn’t take these matters lightly and realises that its everyday activities and operations have a negative impact on the environment and carbon footprint, in particular. Along with other attempts to increase sustainability such as university wide StepChange campaign, which aims to reduce College’s footprint by 20% by 2014, another measure, launched by Department of Energy and Environment, is coming – [annual travel survey](http://www3.imperial.ac.uk/facilitiesmanagement/energy/travelsurvey), which, in addition to staff, also covers students this year.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
-image_caption: >
-  Yes, I do look insufferably smug here
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
+image_caption: ""
 ---
 
 Watching this week’s BBC Weather, the viewer is immediately gifted with the presence of the pride of the meteorological arena: Alex Deakin. A physics graduate (thanked, apparently, in S. F. Helsdon and T. J. Ponman’s paper “The intragroup medium in loose groups of galaxies”) turned Met Office employee turned BBC hyperstar-idol-to-the-masses-weatherman. We’re even treated to the mandatory abomination of a floral tie.

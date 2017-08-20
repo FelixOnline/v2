@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112126-cj914-blacksmith.jpg"
-image_caption: >
-  This is basically blacksmithing. We promise.
-image_attribution: "Lord of the Rings"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112126-cj914-blacksmith.jpg"
+image_caption: ""
 ---
 
 Well, what can I say? Blacksmithing is one of the most rewarding things I have ever done. The satisfaction that you get from turning a lump of dull metal into something useful or beautiful, and on the rare occasion both, is incomparable to anything else!

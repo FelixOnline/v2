@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092310-ams111-star-wars-poster.jpg"
-image_caption: >
-  Even the great Yoda cannot escape this 3D craze – his force clearly wasn’t strong enough
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092310-ams111-star-wars-poster.jpg"
+image_caption: ""
 ---
 
 A long time ago, in a multiplex not so far away, [_Star Wars: Episode I – The Phantom Menace_](http://www.youtube.com/watch?v=gC6w15OwK08) was released to a baying public, hungry for the most hyped film of the millennium. As parents accompanying their children fell asleep and grown adults cried out in horror at their collective childhood being destroyed by what they were watching on screen, the eight-year-old me sat there, dazzled by the then groundbreaking special effects and [Liam Neeson](http://www.youtube.com/watch?v=P-pHc811Ym8). Watching it today, of course, I note the many, many obvious flaws and its entire existence as a merchandising opportunity, but it still holds a special place in my cinematic memory. A special place that is in the process of being tainted by a 3D re-release this week.

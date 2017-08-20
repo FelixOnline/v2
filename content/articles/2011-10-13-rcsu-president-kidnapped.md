@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110132149-felix-luke-kanczes.jpg"
-image_caption: >
-  An image of the captured RCSU President Luke Kanczes, provided by RAG
-image_attribution: "Jack Hewitt"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110132149-felix-luke-kanczes.jpg"
+image_caption: ""
 ---
 
 At 11:45 on Wednesday morning Luke Kanczes (above), the Royal College of Science Union (RCSU) President, mysteriously went missing. He was seen locked in a hockey storeroom and being paraded around the quad before disappearing into the dungeons of the East Basement. It is believed that a crack team of [Raising and Giving (RAG)](http://union.ic.ac.uk/rag/) members, or ‘RAG-gers’, carried this out, bagging and tying him up and quickly removing him from the premises before security could do anything about it.

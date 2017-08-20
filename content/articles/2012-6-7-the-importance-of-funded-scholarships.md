@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
-image_caption: >
-  Disappointingly, they transfer the money into your account, and don’t just give a massive pile
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
+image_caption: ""
 ---
 
 Like an excitable kid on Christmas morning, A-level results day saw me up before dawn, frantically refreshing the beloved UCAS track page to see whether or not I’d cut the mustard. Unfortunately, I had to be up and at work early that morning, so couldn’t make it in to school to find out my exact results or jump into one of those coveted Guardian photographs (though I’m sure I lack the breasts and extra X chromosome to meet their criteria, anyway).

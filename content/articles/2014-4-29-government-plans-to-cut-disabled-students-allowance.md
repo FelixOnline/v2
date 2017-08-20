@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201404291520-jal08-money-notes.jpg"
-image_caption: >
-
-image_attribution: "https://www.ljmu.ac.uk/MKG_Global_Images/money-notes.jpg"
-image_attribution_link: "https://www.ljmu.ac.uk"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201404291520-jal08-money-notes.jpg"
+image_caption: ""
 ---
 
 The Government recently announced changes to the Disabled Students' Allowance, expected to take place in 2016-17. The changes, which according to Universities and Sciences Minister David Willetts are set to modernise the system, will see a reduction in the amount of financial support the government is set to provide students, instead placing a larger proportion of responsibility on their universitites.

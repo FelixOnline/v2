@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
-image_caption: >
-  Evelyn Gardens - One year to go?
-image_attribution: "LondonSchool.com"
-image_attribution_link: "http://www.londonschool.com/fileadmin/uploads/lse/images/Accommodation/Evelyn%20Gardens.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
+image_caption: ""
 ---
 
 According to anonymous sources, the entire network of halls in Evelyn Gardens (providing accommodation for a total of 613 students), is set to close in 2015, with student accommodation spaces being transferred to the accommodation in Acton that is under current development.

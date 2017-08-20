@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Thanks to [David from yesterday](http://felixonline.co.uk/music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy/#comment80000664) for this suggestion. Whichever way you interpret this song, it undoubtedly has the power to take you to that dark place where ex-girl/boyfriends, old friends, and missed opportunities reside.

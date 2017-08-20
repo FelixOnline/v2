@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102032-dr910-samuelgi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102032-dr910-samuelgi.jpg"
+image_caption: ""
 ---
 
 The iPod touch is an outstanding media player for the most part. Packing almost all the tech behind the wildly popular iPhone, save for the cell radio of course, and playing host to up to 64GB of storage, there’s a lot to love about Apple’s touchable media player.

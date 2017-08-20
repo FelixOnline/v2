@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121812-felix-18318799_10206484846959786_1979038611_o.jpg"
-image_caption: >
-  Almost there?
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121812-felix-18318799_10206484846959786_1979038611_o.jpg"
+image_caption: ""
 ---
 
 The summer term might be here but Jazz and Rock fans don’t see no light in that long, long tunnel affectionately referred to as the Jazz and Rock redevelopment. Not yet anyway. The practice room was meant to have been delivered to students by the end of April but it seems the works are still ongoing. The room is still in need of electrical work which is not to be completed until Monday the earliest. The most recent estimate for the completion of the works is two weeks from now. “Having waited literally years, two more weeks isn’t the end of the world, says James Stanley Targett, Jazz and Rock chair and all-round campus personality. “It’s still annoying though.”

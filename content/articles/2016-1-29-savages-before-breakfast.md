@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
-image_caption: >
-  Look at all these people who are going to be late for work.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
+image_caption: ""
 ---
 
 In interviews, **Savages** have always described themselves as a live band: “you don’t understand who we are unless you see us play live.” They aim to create a reaction with their live act, something more than static head bobbing. Watching the video for ‘The Answer,’ the first song on their new album _Adore Life_, you might expect a Savages gig to be a messy, explosive affair. I expect it might be if it wasn’t at 8:45 in the morning. The idea of a gig before work, without alcohol, is a weird one. But replacing intoxication with a coffee high works surprisingly well.

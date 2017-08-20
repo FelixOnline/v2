@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Have you ever looked at the entrepreneurial activities offered by universities such as Harvard (The Harvard innovation Lab), MIT ($100K Entrepreneurship Competition) and Stanford (The BASES $150K challenge) and wondered why Imperial doesn’t have more of this kind of stuff going on?

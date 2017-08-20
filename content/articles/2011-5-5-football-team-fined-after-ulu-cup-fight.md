@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The football team has been fined £100 by the Amateur Football Association (AFA) after a fight broke out at the 19th of March ULU Cup Final with UCL. The club was charged with failing to control its supporters, to which they pleaded guilty, and one individual, whose case has yet to be heard, has been charged with assault on a UCL player.

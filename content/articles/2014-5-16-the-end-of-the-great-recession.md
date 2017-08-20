@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160251-jal08-osbourne.jpg"
-image_caption: >
-
-image_attribution: "http://cambridge-news.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160251-jal08-osbourne.jpg"
+image_caption: ""
 ---
 
 The ‘Great Recession’ is over. To quote the Times: ‘It’s official’. This verdict, coming as it does from ‘one of the country’s leading economic bodies,’ is very impressive no doubt. The National Institute of Economic and Social Research (NIESR) (from whence the claim), is an institution blessed with an authoritative name and steeped in history. In fact, we learn from their website that they are ‘Britain’s longest established independent research institute’ … Sorry, ‘independent’? That sounds very, umm, ‘official’.

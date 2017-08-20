@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
-image_caption: >
-  Council – not only three hours of serious debate, but three hours of arm exercise too
-image_attribution: "Alexander Karapetian"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
+image_caption: ""
 ---
 
 Imperial College Union held its second Council meeting of the term on Monday 31 October, with all full members of Council attending for the first time. A variety of papers revolving around ongoing issues were brought forward with resolution reached for some.

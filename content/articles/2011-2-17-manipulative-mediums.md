@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 While enjoying one of my typically exciting weekday evenings (during which I systematically avoid any kind of social interaction and retreat to the comfort of my couch), I stumbled upon a programme about past life regression presented by ethereal pundit Phillip Schofield. The grey-haired horseshit peddler asks one of the most important questions of our time – have we been here in a past life?

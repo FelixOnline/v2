@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151729-jk708-selection_017.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151729-jk708-selection_017.jpeg"
+image_caption: ""
 ---
 
 Campaigning for this year’s Union Elections began in earnest on Monday, with candidates for the available positions given the opportunity to show students across Imperial their credentials.

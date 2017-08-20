@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
-image_caption: >
-  Asthma affects millions of people
-image_attribution: "Zoombaa"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
+image_caption: ""
 ---
 
 Epigenetic factors behind asthma and other allergic diseases have been identified by a group at Imperial College in research that could lead to better targeted and more effective treatments. Their paper, published in Nature, identifies 34 genes related to inflammation, inhibited in healthy people, but overexpressed in those with allergies.

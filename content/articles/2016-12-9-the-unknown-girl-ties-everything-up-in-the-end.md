@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091552-felix-unknown_girl_the_-_still_1-h_2016.jpg"
-image_caption: >
-
-image_attribution: "Curzon"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091552-felix-unknown_girl_the_-_still_1-h_2016.jpg"
+image_caption: ""
 ---
 
 For about the first 90 minutes of The Unknown Girl, I sat rather unimpressed in my leather chair in one of the small theaters at Soho Screening Rooms. Then, as the last half hour unfolded, directors Jean-Pierre and Luc Dardenne tied together multiple plot lines like a beautiful bow on a Christmas present.

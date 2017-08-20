@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102120-ps3110-london-3_2885892b.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102120-ps3110-london-3_2885892b.jpg"
+image_caption: ""
 ---
 
 This week feels like an homage to the greatness of London as a cultural centre. In what other city do you have such a wide variety of art on offer, whatever your taste? First of all, we have Dara’s _My Art_ article, where she professes her undying love for the Barbican Centre, so often derided as a brutalist monstrosity that weighs heavy on the city’s skyline. Hopefully, her article will help convert some to the way of 60’s architecture.

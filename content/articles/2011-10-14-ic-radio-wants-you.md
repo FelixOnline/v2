@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140100-felix-screen-shot-2011-10-12-at-13.43.41.png"
-image_caption: >
-  Now in Technicolour! IC Radio keeping current in 1986
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140100-felix-screen-shot-2011-10-12-at-13.43.41.png"
+image_caption: ""
 ---
 
 When I got elected as station manager of IC Radio for the coming year, many people were surprised… including myself! I stood a clueless (albeit enthusiastic) fresher whose first suggestion to get the station on FM airwaves was very swiftly shot down (An on-air radio license in the middle of London? Good one, fresher!). Honestly, I don’t know how I got elected – I remember saying the phrase “I’m charming, so vote for me”. Must be the Irish accent that made that statement seem endearing rather than obscenely obnoxious. Anyway, I can tell you now, that despite being barraged with hundreds of emails, being station manager of a student radio station really is as awesome as it sounds.

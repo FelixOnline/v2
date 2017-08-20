@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Forgive me, reader, if you’ve reached Olympic saturation point over the summer. No doubt I would have done so long ago, had I not spent a large part of those two weeks in a lecture theatre in The Netherlands. Utrecht train station, I excitedly discovered, had a large screen TV showing the Games. I stationed myself in front of the screen, keen to catch up on all the action…

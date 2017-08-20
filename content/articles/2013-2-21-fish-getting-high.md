@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220250-tna08-fish_wallpapers_123.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220250-tna08-fish_wallpapers_123.jpg"
+image_caption: ""
 ---
 
 Does any of your medication get washed away through the water system? If so, your medication could lead to aquatic life having a very exhilarating day indeed.

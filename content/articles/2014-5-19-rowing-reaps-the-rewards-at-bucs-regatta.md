@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405191424-jal08-sport_rowing1.jpg"
-image_caption: >
-
-image_attribution: "ICU Rowing"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405191424-jal08-sport_rowing1.jpg"
+image_caption: ""
 ---
 
 IC once again brought home the bacon at BUCS regatta, capturing the Men’s Victor Ludorum and finishing 2nd in the medals table over the three days and finishing with the most BUCS points of any university in the country (again) despite the absence of big lad Henry ‘gully’ Gooder and token chopper Ben Spencer-Jones.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072104-jal08-steve-jobs-cutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072104-jal08-steve-jobs-cutout.jpg"
+image_caption: ""
 ---
 
 The Next Adventure: Why The Start-Up Life Might Be For You.

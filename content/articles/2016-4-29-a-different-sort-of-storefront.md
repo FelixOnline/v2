@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291155-felix-itch.jpg"
-image_caption: >
-  The only indie game store where you can go on hot dates with pugs.
-image_attribution: "Itch.io"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291155-felix-itch.jpg"
+image_caption: ""
 ---
 
 Itch.io is a platform that allows indie game developers to distribute their games for free. The majority of games available on the platform are either free, incredibly cheap or pay-what-you-want. Itch corp has even experimented with reverse sales - allowing developers to increase the price of their games for a limited time. Perhaps the most surprising part of itch.io’s model is that pay-what-you-want also extends to their revenue sharing model. Developers can choose to give itch corp anything from zero to 100 percent of each transaction.

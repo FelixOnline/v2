@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212152-ps3110-2014-12-12-henryiv742.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212152-ps3110-2014-12-12-henryiv742.jpg"
+image_caption: ""
 ---
 
 Sadly, the exciting first half gives way to a much less nuanced production of _Henry IV Part II_. The set-up is largely where we left off from Part I; after crushing one rebellion, King Henry IV must fend off a second one, led by the Archbishop of York, whilst also fighting illness. Prince Hal has – much to his father’s chagrin – resumed his philandering with the aging Falstaff. Beyond this there are a couple of subplots, although they take up far more time than is necessary, meaning that the political intrigue of the first half is more or less removed. Instead, we have an increase in bawdy humour, painted in much broader strokes by Antony Sher, and while I understand that Shakespeare can be difficult to understand at the best of times, gurning to the audience and breaking the fourth wall does not a witty comedy make.

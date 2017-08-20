@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012112-ams111-football.jpg"
-image_caption: >
-  Kill it! Kill it with fire! Or with a brutal tackle
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012112-ams111-football.jpg"
+image_caption: ""
 ---
 
 __American Football__

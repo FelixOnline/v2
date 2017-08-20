@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
-image_caption: >
-  The beautiful people.
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
+image_caption: ""
 ---
 
 Year on year, students put themselves forward as candidates for leadership positions in the Union because they feel strongly that things need to change, and they think that their ideas and their drive can help implement that. They campaign, putting their faces and ideas out there, and, in the case of the sabbatical officers, some earn themselves a job at the end of it. But is this fair?

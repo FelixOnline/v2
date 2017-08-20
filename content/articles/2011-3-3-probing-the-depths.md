@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103031610-jk708-Sciencep.jpg"
-image_caption: >
-  Graphics by Veronika McQuadeova
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103031610-jk708-Sciencep.jpg"
+image_caption: ""
 ---
 
 Ever since man has been able to think of clichés, he has dreamed of heading to the stars. The staff and students at Imperial College London are no exception, and have been involved in numerous missions to explore our solar system. Here, we take a look at just some of the missions Imperial is involved with. From landing on a comet 750 million kilometers away and investigating the unique weather system on one of Saturn’s moons, to hunting for the signs of life on other planets, and even why it might be better to keep our feet firmly on the ground while doing all of this.

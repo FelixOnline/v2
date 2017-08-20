@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In the wake of Paris, David Cameron is set to ask the House of Commons to authorise anti-ISIS strikes in Syria. In terms of strategy, this is common sense. The RAF is already striking ISIS targets in Iraq – it is ludicrous to respect a non-existent border that our enemy does not.

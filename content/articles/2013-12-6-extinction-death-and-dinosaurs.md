@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312060401-jal08-iscience-advert-longer.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312060401-jal08-iscience-advert-longer.jpg"
+image_caption: ""
 ---
 
 The loss of a species was once thought to be as final as the demise of its last survivor but now, thanks to advances in biotechnology, reviving an extinct species is no longer pure fiction. But instead of asking “can it be done?” the conversation is changing to “should it be done?”

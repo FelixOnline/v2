@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021316-tna08-handball-pic-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021316-tna08-handball-pic-2.jpg"
+image_caption: ""
 ---
 
 As the plane door opened, the cold French, garlic and baguette ridden air hit us. We knew the challenge, to go to the French engineering university championships and beat them at their own sport, handball.

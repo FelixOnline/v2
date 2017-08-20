@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205242344-mc4509-jpdpe.jpg"
-image_caption: >
-  The ‘value added’ score in the rankings have been criticised by Jason Parmar
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205242344-mc4509-jpdpe.jpg"
+image_caption: ""
 ---
 
 Imperial has dropped from 10th to 13th place in the [_Guardian_ University Guide 2013](http://www.guardian.co.uk/education/universityguide), the results of which were published on Monday 21 May. The guide, which ranks universities across the United Kingdom, saw institutions ranked across various areas, including results from the [National Student Survey](http://www.thestudentsurvey.com/), expenditure per student, and the student to staff ratio.

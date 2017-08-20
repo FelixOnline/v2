@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
+image_caption: ""
 ---
 
 It's a common misconception that when you're on the Internet, you're anonymous. Surfing along, happily not giving away any personal data; it's hard to imagine how you could be recognisable amongst the vast sea of people browsing online. In fact, your computer gives away a wealth of information about you to every single website you visit. For web developers, this data can be invaluable in making interesting, dynamic websites, but it can also be used to build up a picture of who you are and where you come from.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152055-ig711-1761_1_380.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152055-ig711-1761_1_380.jpg"
+image_caption: ""
 ---
 
 Black Bean, Courgette, & Olive Tacos served with Garlic-Lemon Yogurt – makes 8 tacos

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
-image_caption: >
-  Professor Ian Owens announced the teaching review in a meeting with students
-image_attribution: "Afonso Campos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
+image_caption: ""
 ---
 
 Further details about the ongoing Life Sciences undergraduate teaching review have been provided to students, with Union President Alex Kendall voicing concerns over the review’s relationship to the planned departmental restructure.

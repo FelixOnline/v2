@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112059-cj914-mockingjay-cmyk.jpg"
-image_caption: >
-
-image_attribution: "screenrant.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112059-cj914-mockingjay-cmyk.jpg"
+image_caption: ""
 ---
 
 As is Imperial tradition, once again it is time for the hallowed All-Nighter where once a term we put on all the films you’ve been dying to see, all in one go and for ridiculous prices! With one of our best lineups to date, what more could you ask for?

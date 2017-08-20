@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161507-felix-macgyver1280-2jpg-f9a4dc_1280w.jpg"
-image_caption: >
-
-image_attribution: "CBS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161507-felix-macgyver1280-2jpg-f9a4dc_1280w.jpg"
+image_caption: ""
 ---
 
 ## 1. MacGyver

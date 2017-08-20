@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
-image_caption: >
-  Humanities is concerned that access to languages will be restricted
-image_attribution: "Matthew Colvin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
+image_caption: ""
 ---
 
 The College Day Working Party has outlined its latest recommendations towards the structure of the day. Imperial College Union, while open to some of the recommended changes, has taken the opportunity to reinforce the importance of student input in the face of significant changes. On the other hand, the suggestions have seen strong concerns from the Department of Humanities.

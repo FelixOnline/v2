@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101346-felix-casual-hulu.jpg"
-image_caption: >
-  Modern mother-daughter relationships are weird
-image_attribution: "Hulu"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101346-felix-casual-hulu.jpg"
+image_caption: ""
 ---
 
 This is a show about relationships in every sense of the word, though as its name may imply, the focus here is one of those casual, one-off encounters that many people are engaged with in this day and age. This idea is explored with a very simple premise; a woman, in the wake of her divorce, moves herself and her daughter to her brother’s home.

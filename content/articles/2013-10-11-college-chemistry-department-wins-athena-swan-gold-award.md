@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310120926-jal08-womenchemistry.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310120926-jal08-womenchemistry.jpg"
+image_caption: ""
 ---
 
 The Imperial Department of Chemistry has won an Athena SWAN Gold Award, making it one of the four departments in the UK to win one.

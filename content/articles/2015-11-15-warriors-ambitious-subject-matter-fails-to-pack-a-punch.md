@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511151050-ff712-4928.jpg"
-image_caption: >
-  Warriors charts the impact forming a cricket team has on the Maasai community
-image_attribution: "Warriors Film PR"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511151050-ff712-4928.jpg"
+image_caption: ""
 ---
 
 _Warriors_ is an important and, at times, genuinely moving documentary. It tells the story of the Maasai warriors of Nairobi, how their culture promotes FGM, and its ties into the AIDS epidemic. In a society where the elders are believed to have a link to God, it’s hard for the youth to be heard. The solution to this? Form a cricket team. It sounds odd, and one does spend most of the film wondering how this club is actually doing anything to help, but we do eventually get an idea, if a little too late.

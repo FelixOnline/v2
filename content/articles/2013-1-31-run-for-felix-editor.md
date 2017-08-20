@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Elections are here once again. It seems like only yesterday I was putting my name down for [Felix Editor ](http://www.youtube.com/watch?v=EfKUDSLPias)and hoping someone seconds me.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161434-felix-6170893380_b9f0e7cf16_o.jpg"
-image_caption: >
-
-image_attribution: "Charles de Mille-Isles"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161434-felix-6170893380_b9f0e7cf16_o.jpg"
+image_caption: ""
 ---
 
 Pseudomonas aeruginosa is a bacterium of considerable medical importance. It is the archetypal “multi-drug resistant (MDR) pathogen”, known for its extreme antibiotic resistance, broad host range, and an association with serious illnesses including sepsis and hospital-acquired infections, prominent among which is the life-threatening condition cystic fibrosis.

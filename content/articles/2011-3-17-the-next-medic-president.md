@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103171924-ks607-img_2962.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103171924-ks607-img_2962.jpg"
+image_caption: ""
 ---
 
 Read Suzie's, and other manifestos, here, at [comparethemedic.com](http://comparethemedic.com)

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Friday the 18th of March Imperial College judo sent their elite squad of Judoka to fight in the British University Championships. On the journey up to Sheffield there were many hungry and thirsty players in the minibus, hoping to make their weight for the upcoming weekend. Thankfully, everyone made it and could relax after a long slog up the country and a rather large meal.

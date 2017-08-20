@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
+image_caption: ""
 ---
 
 This week’s band have arguably had the most mainstream success out of all the bands that will feature in this series and prove that post-hardcore music, while perhaps a relatively niche genre, comes in various shapes and sizes.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
-image_caption: >
-  Fight the power! Then pop to Pret for lunch.
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: "https://www.youtube.com/watch?v=Y_X-hL5bhKg&feature=youtu.be"
+image: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
+image_caption: ""
 ---
 
 If you think the squat movement is dead, perhaps you should reconsider because there’s one right on our doorstep, at 221 Brompton Road, just a few streets from Harrods.

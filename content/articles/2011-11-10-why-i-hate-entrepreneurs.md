@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
-image_caption: >
-  “I’m the spoonful of sugar that makes your medicine go down, baby” - Lord Sugar's best chatup line
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
+image_caption: ""
 ---
 
 Don’t get me wrong – I take my hat off to anyone who can fashion a new idea, start a business, and successfully market it. But, despite this admiration (they’d be quick to call it envy), entrepreneurs are the most insufferable people that have ever talked at (rather than to) me.

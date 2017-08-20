@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
+image_caption: ""
 ---
 
 There was a wedding last Friday. One of slightly more importance than normal. Did you see it?

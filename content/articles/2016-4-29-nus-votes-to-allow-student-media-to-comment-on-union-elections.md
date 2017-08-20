@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
-image_caption: >
-
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
+image_caption: ""
 ---
 
 At last week’s NUS conference, a motion was passed which should allow student media organisations to cover union elections in more detail.

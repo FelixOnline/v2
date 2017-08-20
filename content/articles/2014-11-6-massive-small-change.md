@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
-image_caption: >
-  EWB answers the big questions.
-image_attribution: "Engineers Without Borders"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
+image_caption: ""
 ---
 
 Many people in our world face severe challenges just to live and get by each day, though we may not see them around in our privileged lives as students at university. Engineers Without Borders UK is a charitable organisation that believes access to engineering and technical know-how can help overcome many of these challenges.

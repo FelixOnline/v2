@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102113-ps3110-games-console.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102113-ps3110-games-console.jpg"
+image_caption: ""
 ---
 
 Among the cultural highlights on the calender for next year, one sticks out as a particular oddity: March 2015 will see the grand opening of __The National Videogame Arcade__ in Nottingham. The £2.5 million project, which aims to become a draw for tourists visiting Nottingham, will be the first of its kind, aining to become a “hub for videogame culture”.

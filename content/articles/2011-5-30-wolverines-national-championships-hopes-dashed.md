@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105301410-felix-imperialthrow.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105301410-felix-imperialthrow.jpg"
+image_caption: ""
 ---
 
 On Sunday May 15th, Imperial Wolverines 1s played their last and most important Dodgeball tournament of the year. Placing in the top 3 teams would guarantee a place in the National Championships in June. The team met early at Waterloo, and after seemingly been fraudulently sold the wrong type of group discount ticket, headed off to Southampton where the South East England Championship would be played.

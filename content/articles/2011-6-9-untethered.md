@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
-image_caption: >
-  PhotoSoc/LeoSoc collaboration, Blyth Gallery, Spring 2011
-image_attribution: "David Zheng"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
+image_caption: ""
 ---
 
 Imagine: a flock of paper birds set free across the gallery,

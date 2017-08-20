@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250215-felix-football-training-photo.jpg"
-image_caption: >
-
-image_attribution: "ICUAFC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250215-felix-football-training-photo.jpg"
+image_caption: ""
 ---
 
 On the morning of the 16th October 2013, The Force (a.k.a The 4s) readied themselves for D-Day, landing on the shores of the Thames for the opening match of the season: Greenwich away.

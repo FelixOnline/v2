@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101440-felix-Screen Shot 2017-02-10 at 14.40.39.png"
-image_caption: >
-  Things I shockingly don’t identify with despite being an aromantic asexual
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101440-felix-Screen Shot 2017-02-10 at 14.40.39.png"
+image_caption: ""
 ---
 
 The first two weeks in February are an infernal nightmare of constant bombardment with advertisements for jewellery, chocolates, and lingerie – all for that ‘special someone’. People in relationships presumably don’t mind. Single people complain incessantly about it. For aromantics however, Valentine’s Day represents a whole new level of hell. One which is at best an irritation. On a bad day, it can provoke outright nausea.

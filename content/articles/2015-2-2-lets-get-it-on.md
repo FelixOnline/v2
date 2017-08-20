@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502021442-ps3110-screen-shot-2015-02-02-at-14.42.23.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502021442-ps3110-screen-shot-2015-02-02-at-14.42.23.png"
+image_caption: ""
 ---
 
 We’ve officially launched the sex survey 2015!

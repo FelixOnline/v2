@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
+image_caption: ""
 ---
 
 Imperial College has this week [revealed](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_15-2-2011-16-7-31) that it plans to charge the maximum £9,000 tuition fee rate for 2012 entry. The move is an unsurprising one, with the universities of Cambridge and Oxford signalling earlier this month that higher fees would be necessary to fill a deficit created by government cuts. Imperial is currently the only university in the UK to have formally announced its intentions.

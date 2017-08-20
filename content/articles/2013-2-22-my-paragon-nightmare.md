@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
+image_caption: ""
 ---
 
 I was fully prepared for the difficulty of the first year. I was prepared for the step up in terms of work and difficulty of the course. I was prepared for the task of finding new friends all over again. I was even prepared to live alone and take care of myself. I was not however, prepared to find myself alienated from a lot of other ‘freshers’ by being shoved into Paragon. All the other difficulties of a first year are just common ground; everyone is in the same boat. For the students at Paragon, being there meant being in a completely different boat altogether.

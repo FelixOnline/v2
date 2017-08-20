@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
-image_caption: >
-  Don’t worry, they’ve put a new facade on Mech Eng so it now looks as good as this...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
+image_caption: ""
 ---
 
 Following [last week’s](http://felixonline.co.uk/news/2481/courses-suspended-at-silwood/) Felix story about [Silwood Park](http://www3.imperial.ac.uk/silwoodparkcampus), I felt it was important to write about what it’s actually like here at Silwood, which, uniquely for a London based university, is outside of London. Having been a student here and South Kensington I have found that they are very different.

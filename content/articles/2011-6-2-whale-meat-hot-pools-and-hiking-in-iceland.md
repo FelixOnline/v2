@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106022114-felix-dsc_0255.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106022114-felix-dsc_0255.jpg"
+image_caption: ""
 ---
 
 The eruption of the glacial volcano Eyjafjallajökull last year severely disrupted European airspace but pinned Iceland on the tourist map. It’s easy to see why the island in the middle of the North Atlantic was not exactly the place most opt to go for vacation: it is not heir to a rich cultural heritage as many European countries are, nor does it exude an exotic charm and sun of Asian escapes.

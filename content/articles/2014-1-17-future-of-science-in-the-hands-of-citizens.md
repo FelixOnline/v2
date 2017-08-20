@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With the Create Lab’s Venture Catalyst Challenge ads plastered all around campus, those of us who aren’t that interested in entrepreneurship and/or are more academically-oriented might feel a little left out. But while the research model (and wizened scientists in general) might appear to stick with what works and not necessarily engage with the latest and coolest of technology, there is actually a surprising amount of progress and innovation beneath the surface.

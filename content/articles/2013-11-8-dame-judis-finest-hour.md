@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Stephen Frears’ latest “inspired by a true story” drama is a rousing crowd-pleaser that will make you cry and laugh throughout with its extraordinary retelling of what started off as a horrifying event. A child is torn away from his mother, and for 50 long years she has kept this a secret, ashamed of such past, stemming from her long-running faith in the Catholic Church. She finally gathers up the courage to share this painful information, which leads to a desperate search for her long-lost son who she knows nothing about, but who she has never stopped thinking of.

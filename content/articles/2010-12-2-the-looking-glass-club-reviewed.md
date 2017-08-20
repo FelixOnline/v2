@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 ‘[The Looking Glass Club](http://www.thelookingglassclub.com/)’ tells the story of a rather elusive Union society – a society without a stall at the Freshers’ fair anyway; a society which convenes in a dark and dank room somewhere underneath South Kensington, accessible only through a secret tunnel with the membership list kept a closely guarded secret. It is the story of Zeke, an otherwise normal Physics student, that is until he was approached and befriended by a PhD student; in the midst of developing a, to put it lightly, mind altering drug, who persuaded him to come along to a club meeting.

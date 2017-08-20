@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A year after publishing his 2011 memoir Life Itself, Roger Ebert contacted Steve James, the accomplished director of Stevie and Hoop Dreams, to make an accompanying documentary of the same name. It must have been a daunting proposition. Assembling the definitive life story of the world’s most famous film critic is certainly not an easy task. It makes me therefore happy to report, that James ultimately succeeded in producing a biography with subtlety, sincerity and an undeniable intelligence.

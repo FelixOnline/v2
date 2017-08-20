@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502200002-ps3110-untitled.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502200002-ps3110-untitled.png"
+image_caption: ""
 ---
 
 Researchers from the Department of Medicine will perform the first human trials in nearly half a century into the medical benefits of psilocybin, the active compound in magic mushrooms. The pilot study will focus on the potential of psilocybin to help patients with depression who have failed to respond to conventional treatments.

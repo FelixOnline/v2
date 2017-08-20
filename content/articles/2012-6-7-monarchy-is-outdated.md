@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
-image_caption: >
-  Maybe you don’t want the monarchy to exist when it’s his time to be King, but we can all agree that
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
+image_caption: ""
 ---
 
 If you’ve been in the country for the past month or so, you undoubtedly will have heard about the Queen’s Jubilee and the great festivities that accompanied it. National holiday, extended weekend, parades and lots of flag-waving to celebrate the monarch’s sixty year reign. One thing that I was taken aback by was the scale of the whole thing; not by the lavishness and pomp, as I was expecting that considering how proud and wealthy this kingdom is and has been, but rather by how much everyone participated in the affair. As the nation ground to a halt, Union Jacks were flown everywhere and thousands if not millions gathered to celebrate across the globe. Faraway, and otherwise unrelated, countries covered the jubilee in great detail and everyone seemed to participate in wishing the Queen well. My Facebook feed constantly showed messages of support. My cynical side is quick to explain how this widespread approval might be motivated by the four-day holiday, but that aside, the celebrations seemed very earnest.

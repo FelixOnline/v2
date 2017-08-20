@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 In a speech made to the 2011 Google Zeitgeist conference, Chancellor George Osborne announced that Imperial, in collaboration with UCL, are developing plans for a new Research and Innovation Centre in Shoreditch. The project is part of the Government’s ‘Tech City’ initiative that aims to create a new Silicon Valley in East London.

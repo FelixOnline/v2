@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
+image_caption: ""
 ---
 
 Ah, Issue 1500 is here. While some of my fellow editors may be getting nostalgic, technology and history don’t seem to get along. Technology and the future, on the other hand? Well, everyone sees them as going hand-in-hand. So we’ve decided to jump 1500 issues into the future – approximately fifty years – and look at what the world of computers, gadgets and electronics might look like in Issue 3000 of Felix.

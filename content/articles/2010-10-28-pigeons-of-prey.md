@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104201812-felix-cartoonpigeon1.jpg"
-image_caption: >
-  London's pigeons are ruthless and evil, with possible fascist sympathies. Beware
-image_attribution: "Mitesh Patel"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104201812-felix-cartoonpigeon1.jpg"
+image_caption: ""
 ---
 
 It was a very ordinary day when I realised I was a superhero.

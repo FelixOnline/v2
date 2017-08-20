@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
-image_caption: >
-  Oh yes, definitely a bad case of Bieber fever
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
+image_caption: ""
 ---
 
 The infected individual wastes away with fever, sweats and a chronic cough. The disease appears to consume them from within. It is the same disease that consumes Satine, played by Nicole Kidman in Moulin Rouge!, and has been a big killer for centuries. Even today consumption, known now as tuberculosis or TB, is still the biggest killer out of all bacterial diseases. TB is caused by Mycobacterium tuberculosis (Mtb) and, unlike other European countries, infection rates are on the rise in the UK, with 40% of cases here in London. This unexpected rise appears to be linked to the increasing number of internationals entering the country with undetected TB.

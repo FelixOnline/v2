@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082037-felix-icbc4-1.jpg"
-image_caption: >
-
-image_attribution: "Jet Photographic"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082037-felix-icbc4-1.jpg"
+image_caption: ""
 ---
 
 [Imperial College Boat Club](http://www.imperialboatclub.co.uk/) has started the academic year with some incredible results. From the outset, Imperial students, both past and present, have shown strength in depth across the men’s and women’s squads and brought home the silverware to prove it.

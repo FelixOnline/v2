@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A crisp sunny day at fortress Harlington surprisingly saw none of the legendary gusts of wind. With the ground firm and the mercury approaching a lofty double digits, the scene was set for a challenging contest against UWE Hartpury 2nd XV. With Cap’n Jack side-lined, or perhaps an unwilling to play against his former teammates, outside centre Mike Floyd admirably stepped up to captaincy.

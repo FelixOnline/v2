@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312031601-jal08-features_fmsc-food-distribution-kenya.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312031601-jal08-features_fmsc-food-distribution-kenya.jpg"
+image_caption: ""
 ---
 
 There is probably no other question in economics that evokes such strong emotions and creates such a clear divide between left and right. To the left, the world’s poor are caught in a poverty trap; without the minimum resources to help them help themselves, they will never break out of this cycle. Aid, then, is clearly needed as a big push to kick things off. To the right, aid encourages dependency, distorts markets and props up nasty regimes – keeping the poor in their place. There is no sign of either side winning this battle. But subjecting individual aid projects to robust statistical analysis through randomised controlled trials (RCTs), modelled on medical trials, could provide a way out of the ideological mire.

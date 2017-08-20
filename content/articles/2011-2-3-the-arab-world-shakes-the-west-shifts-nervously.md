@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The suicide of a young Tunisian salesman last month could well change the world’s political scene. In much the same way that Paris sneezed and Europe caught a cold, which lead to (admittedly slow) liberal reform in the nineteenth century, Mass political protest in Tunisia has triggered popular movements throughout North Africa and the Near East, much of it planned on Facebook, Twitter and Internet forums.

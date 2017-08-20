@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
-image_caption: >
-  You think JP Morgan interviews are bad, you should do one for the Daily Mail
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
+image_caption: ""
 ---
 
 Unless you’re a masochist, applying for jobs these days, whilst never exactly being pleasant process, is a terrible experience from every point of view. Not only is the student dream of free(ish) money, big booty hoes and four months off a year over, you have to deal with the painful application process itself. First of all, why is it necessary to apply for a job starting next September a year in advance? Come on guys, it doesn’t take that long to skim read a couple of pages! Surely they can start things off a bit later on, giving us (and them) more time to ease back into things after summer. It’s bad enough dealing with labs, lectures and tutorials after a lazy summer let alone filling out a billion job applications on top of that. This brings me onto my main bone of contention.

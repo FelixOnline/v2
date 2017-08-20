@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
-image_caption: >
-  The laser target chamber in the National Ignition Facility in California, US.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102102-pk1811-40-60-0699-1324_4.jpg"
+image_caption: ""
 ---
 
 Physicists are proposing an experiment that will require the world’s most powerful laser. The Extreme Light Infrastructure (ELI) Ultra-High Field Facility is touted to produce a laser so powerful that it would be able to pull together the fabric of space, vacuums.

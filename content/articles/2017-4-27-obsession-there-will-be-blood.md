@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
-image_caption: >
-  Barbican/Toneelgroep Amsterdam, Obsession, Halina Reijn, Jude Law and Gijs Scholten van Ascha
-image_attribution: "Jan Versweyveld"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
+image_caption: ""
 ---
 
 For fans of Brutalism, the Barbican’s architecture is a fixation in itself, so I thought that was the perfect venue for the world premiere of _Obsession_, the new play by the highly acclaimed Belgian director Ivo van Hove.

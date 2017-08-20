@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The Student Publication Association (SPA) is very much in its infancy, especially when compared to other media associations, such as the Student Radio Association. This is particularly surprising considering nearly every university has a newspaper, either independently ran or overseen by their union, like Felix.

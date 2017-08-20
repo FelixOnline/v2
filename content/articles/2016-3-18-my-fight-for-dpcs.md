@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
-image_caption: >
-  Go on, try it - you’ll probably like it.
-image_attribution: "redfairyproject.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
+image_caption: ""
 ---
 
 This year I ran for DPCS in the Union Elections, and here's the story of my campaign.

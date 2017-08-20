@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
-image_caption: >
-  The contestants at the Jamboree in Boston, USA. Imperial won a number of awards at the event.
-image_attribution: "iGEM"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
+image_caption: ""
 ---
 
 The International Genetically Engineered Machine (iGEM) competition saw our own Imperial team receive a number of awards at the Global Jamboree this week. The competition sees teams from hundreds of Universities bioengineer products using synthetic biology techniques and pits their ideas against each other in a giant conference held in the USA.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.33.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111509-felix-Screen Shot 2016-11-11 at 14.12.33.png"
+image_caption: ""
 ---
 
 For generations the gears of the political systems in Northern Ireland have been oiled by religion. Northern Irish politicians have interweaved their self-perceived concepts of morality (determined by their personal religious beliefs) into the politics of the country. The religious beliefs of the country’s politicians have profoundly affected the passage of many pieces of legislation through parliament, which has lead to the isolation, discrimination and, at times, social persecution of those who do not conform to these beliefs. Laws surrounding abortion are a prime example of this.

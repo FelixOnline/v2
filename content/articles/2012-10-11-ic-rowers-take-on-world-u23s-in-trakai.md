@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112226-csw09-u23rowing1.jpg"
-image_caption: >
-  Rowing
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112226-csw09-u23rowing1.jpg"
+image_caption: ""
 ---
 
 The Under-23 World Championships were held in Trakai, Lithuania between 11th- 15th July. This year medic Tim Richards and biochemist Wilf Kimberley donned the triple hooped vests to represent their country and defend Imperial’s honour which they did in style.

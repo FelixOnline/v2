@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the weekend just gone, our 1st and 2nd team entered the South Coast Open Dodgeball tournament in Southampton with both teams (Imperial Wolverines I and II) reaching the quarter-finals and producing an all round solid result. The tournament report follows:

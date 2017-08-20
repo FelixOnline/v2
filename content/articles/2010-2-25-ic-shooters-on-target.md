@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251900-mb506-Imperial.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251900-mb506-Imperial.jpg"
+image_caption: ""
 ---
 
 After traveling on the M25 for approximately 4 hours the Imperial College Shooting team arrived at the prestigious BUCS Clay Shooting Championship in Hodnet, Shropshire.

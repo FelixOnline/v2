@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031921-ams111-the_cabin_in_the_woods.jpg"
-image_caption: >
-  Yep, she's definitely in Team Jacob
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031921-ams111-the_cabin_in_the_woods.jpg"
+image_caption: ""
 ---
 
 [__The Cabin in the Woods__](http://www.imdb.com/title/tt1259521/)

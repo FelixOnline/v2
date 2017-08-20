@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101406-felix-IMG_2349 2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101406-felix-IMG_2349 2.jpg"
+image_caption: ""
 ---
 
 I try to be healthy. Sometimes. You see, when you have to sustain a food blog full of cakes and ice creams and burgers and doughnuts, you have to find a way to balance it out. And luckily for me, the healthy food world is not limited to chomping my way through an iceberg lettuce for dinner while balancing on a yoga mat (which recently transformed into a neglected, pink rolled-up piece of plastic gathering dust in the corner). So far, I’ve tried most of the #eatclean superfoods suggested by the lovely vegans on Instagram, including chia seed puddings, quinoa and kale.

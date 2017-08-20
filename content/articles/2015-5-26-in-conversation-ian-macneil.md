@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505261414-js5913-everyman.jpg"
-image_caption: >
-  A scene from the National Theatre’s current production of Everyman, for which Ian MacNeil designed the set.
-image_attribution: "Richard Hubert Smith/National Theatre"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505261414-js5913-everyman.jpg"
+image_caption: ""
 ---
 
 Ian MacNeil is the set designer for _Everyman_, currently on at the __National Theatre__. Directed by Rufus Norris, the new Director of the National, and starring Academy Award-winning Chiwetel Ejiofor, the play runs until 30th August. Ian’s previous work includes the likes of _Billy Elliot: The Musical_, for which he won the Tony Award for Best Scenic Design of a Musical, and the critically acclaimed _An Inspector Calls_, which won an Olivier Award for Best Set Design.

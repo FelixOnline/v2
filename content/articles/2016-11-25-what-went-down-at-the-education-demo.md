@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251323-felix-Screen Shot 2016-11-24 at 18.01.03.png"
-image_caption: >
-
-image_attribution: "Harisson Jones"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251323-felix-Screen Shot 2016-11-24 at 18.01.03.png"
+image_caption: ""
 ---
 
 Saturday saw thousands of students and academics take to the streets  to protest government cuts and education reforms.

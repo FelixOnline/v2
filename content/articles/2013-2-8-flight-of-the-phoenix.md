@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080034-tna08-pheonix.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080034-tna08-pheonix.jpg"
+image_caption: ""
 ---
 
 How hard is it to steal a mascot? Apparently not hard if it’s the ICSM one! At least, so suggest reports of the theft of the Phoenix from inside the depths of Charing Cross Hospital earlier this week.

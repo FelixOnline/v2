@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181721-felix-mhi_patches2.jpg"
-image_caption: >
-  Monster Hunter International – looks like a friendly bunch
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181721-felix-mhi_patches2.jpg"
+image_caption: ""
 ---
 
 It’s not everyday that you get to throw your boss out of a 14th-story window, but that’s exactly how this story kicks off, and from the start till finish, it’s one heck of a thrilling roller coaster ride. No, it’s not a story about an insane, stressed accountant finally breaking down and deciding to test out Newton’s law of gravitation on his boss. In fact, given all the crazy stuff that goes down in the book, the protagonist, Owen Zastava Pitt is actually quite a sane guy.

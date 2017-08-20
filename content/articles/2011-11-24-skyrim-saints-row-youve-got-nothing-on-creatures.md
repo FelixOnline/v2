@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242107-felix-desert_norn.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242107-felix-desert_norn.gif"
+image_caption: ""
 ---
 
 With blockbusters such as [_Skyrim_](http://www.youtube.com/watch?v=9uNx9-cWJZc) being released, and modern legends like [_Minecraft_](http://www.minecraft.net/) celebrating its birthday, it is often possible to overlook some real masterpieces. One of these is [_Creatures_](http://creatures.wikia.com/wiki/Creatures_Wiki_Homepage), and the sad thing is that many of you will probably have never heard of it!

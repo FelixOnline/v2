@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412021525-ps3110-20141202_150133.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412021525-ps3110-20141202_150133.jpg"
+image_caption: ""
 ---
 
 ICURFC have launched an online petition that has already amassed 500 signatures at the time of press. The petition, to show support for the Club Captain, Thomas Hobson, who currently at risk of losing his position, was launched yesterday and has been signed by students and clubs and societies as a whole.

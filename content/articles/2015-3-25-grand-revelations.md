@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251420-ff712-chronophotograph-of-a-man-clearing-a-hurdle,-c.1892,-êtienne-jules-marey-∏-national-media-museum,-bradford-sspl.jpg"
-image_caption: >
-  Chronophotograph of a Man Clearing a Hurdle, c.1892, Étienne Jules Marey
-image_attribution: "National Media Museum, Bradford SSPL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251420-ff712-chronophotograph-of-a-man-clearing-a-hurdle,-c.1892,-êtienne-jules-marey-∏-national-media-museum,-bradford-sspl.jpg"
+image_caption: ""
 ---
 
 Out of all the artistic disciples, it is photography that is the most fundamentally scientific. From the early days of the camera obscura, whose physics has delighted humanity since the Ancient Greeks, to the chemical reactions silver nitrate underwent in creating the first fixed photographic prints, science has always neatly allied itself with photography, with each field informing and shaping the other - a true expression of a symbiotic relationship. Even today, whenever fixing an image on film, there is an experimental quality: the reel goes into its little black tube, unseen, and it’s not until you have gone through the labour of love of developing and printing that you can actually see what you’ve managed to create.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221508-rsp07-music.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221508-rsp07-music.jpg"
+image_caption: ""
 ---
 
 As Brand New prepare for another stretch on the trans-global road they have become well-accustomed to in recent years, felix catches up with drummer Brian Lane at home in Long Island, New York. Home is clearly where the heart is for Brand New, but their first stop is London, a city they’ve found themselves in countless times. This weekend will be a little different though as they perform at Wembley Arena, the biggest venue they’ve played in the UK since starting out ten years ago.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032048-pk1811-mikill-pane-head-shot.jpg"
-image_caption: >
-  Never hide. Don’t need to. Don’t exist
-image_attribution: "Benjart Clothing"
-image_attribution_link: "http://www.benjartclothing.com/2011/10/benjart-meets-pt-1-ft-mikill-pane-mikillpane/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032048-pk1811-mikill-pane-head-shot.jpg"
+image_caption: ""
 ---
 
 __Kadhim Shubber: Your website says you’re “non-existent”; what happened, can we help?__

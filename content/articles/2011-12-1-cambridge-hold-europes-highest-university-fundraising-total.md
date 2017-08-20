@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Cambridge reached a milestone of US$2.0bn during its [800th Anniversary Campaign](http://www.cam.ac.uk/univ/800/index.html?800redirect=) making it the university with the highest fundraising total in Europe. A mammoth US$905m (£523m) was raised by the university’s colleges and US$1.1bn (£649 million) was raised by the university itself. This 10 year campaign to raise money had its most successful year between 2010-2011 when they raised US$215 million (£135m).

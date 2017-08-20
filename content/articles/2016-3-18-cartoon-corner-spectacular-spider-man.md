@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603181202-felix-1141327-spectacularspidermanseason2poster.jpg"
-image_caption: >
-  A hero’s work is never done.
-image_attribution: "The CW"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603181202-felix-1141327-spectacularspidermanseason2poster.jpg"
+image_caption: ""
 ---
 
 Airing for only two seasons, _The Spectacular Spider-Man_ animated series is one of the numerous shows cancelled before its time. With characterisation true to the spirit of the comics, intelligent storytelling, and superb action, this is one of the greatest portrayals of everyone’s favorite wall-crawling superhero and the strongest in any medium outside of comic books. This is the type of series that proves both the strength of the character of Spider-Man and the unique strengths of animated series in the realm of superheroes.

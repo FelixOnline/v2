@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For a guy who has had such a spectacular rise to musical prominence, __Nicolas Jaar’s__ choice of the Barbican as the venue for a one off gig last weekend should perhaps not be too surprising. In many ways the concert hall is perfectly suited to Jaar’s delicate, jazz-infused melodies and masterful productions. Indeed, the Barbican is no stranger to hosting musicians strongly rooted in the electronic music sphere; the night before had seen __Pantha du Prince__ grace the stage. I was expecting an evening of Jaar’s more laid-back music, hopefully with some guest musicians to fill the acoustic slots from Space is only Noise. For these regions, along with the promise of a trippy accompanying light show, I was hyped.

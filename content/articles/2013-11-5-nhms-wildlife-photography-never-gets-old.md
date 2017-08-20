@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Now in its 49th year, the Wildlife Photographer of the Year exhibition has recently returned to its original habitat the Natural History Museum. It showcases 100 photographs of the world around us that most will hardly ever get an actual glimpse of.

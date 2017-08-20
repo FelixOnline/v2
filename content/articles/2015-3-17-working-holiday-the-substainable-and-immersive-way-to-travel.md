@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503171445-ync111-5122476706_e09e6b098f_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503171445-ync111-5122476706_e09e6b098f_o.jpg"
+image_caption: ""
 ---
 
 I had been fascinated by the concept of working holiday for a while now and even more so when an old friend of mine embarked on her own journey to Australia with her boyfriend, updating us on her 6-months adventure through social media. It seems to be a popular alternative for many young people fresh out of university who wants to travel but still add something to their CV.

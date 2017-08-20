@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This Sunday, Adonis Georgiadis will be the main guest in the final event of the “Greek Presidency in London” initiative held at Imperial, and will serve as representative of the Greek government. Adonis Georgiadis is a controversial political figure in Greece. Starting off with participation in the nationalist Popular Orthodox Rally (LAOS) he was first elected to the Greek parliament under the nationalist party banner in 2007, re-elected in 2009 and in 2010 was LAOS’s candidate in the periphery elections for Attica (the periphery containing Athens). He now serves as Minister of Health.

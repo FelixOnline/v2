@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
-image_caption: >
-
-image_attribution: "Demetri Martin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
+image_caption: ""
 ---
 
 Demetri Martin’s first book of drawings is an utterly beguiling read from start to finish. Perhaps it isn’t accurate to say ‘read’ as there are few words in it ­– each page is taken up by a new simple black-and-white line drawing of charming hilarity, ranging from a graph of melted cheese temperature against time (with a discontinuity at perfect temperature) to a man walking a fish.

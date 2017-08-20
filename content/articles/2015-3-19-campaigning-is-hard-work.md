@@ -35,14 +35,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192356-cj914-random-election-balloons.jpg"
-image_caption: >
-  Campaigning for the Big Elections can be rough, but is it all worthwhile?
-image_attribution: "Ben Lester, ThroughBensLens.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192356-cj914-random-election-balloons.jpg"
+image_caption: ""
 ---
 
 __Tom Rivlin: Deputy President (Clubs and Societies) candidate, 2015__

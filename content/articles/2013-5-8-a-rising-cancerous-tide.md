@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305081731-tna08-lung-cancer-008.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305081731-tna08-lung-cancer-008.jpg"
+image_caption: ""
 ---
 
 Lung cancer, particularly non-small cell lung cancer (NSCLC), is one of the most common forms of cancer globally, with a very poor survival rate: less than six per cent of people diagnosed reaching five-years post-diagnosis.

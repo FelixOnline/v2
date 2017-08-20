@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Babies have a tendency to attend to face and “face-like” stimuli (such as a triangle on a point as opposed to on a base). With faces practically hard-wired into our systems from a young age, it makes sense that there is a part of the brain dedicated to recognising faces in opposition to non faces – the fusiform gyrus.

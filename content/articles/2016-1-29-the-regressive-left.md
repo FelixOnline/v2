@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-  Milo Yiannopoulos was banned from Manchester SU because his views could “incite hatred”.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You would be forgiven for expecting a guy like me, raised by a mother whose list of accolades includes filing suits against a nursery nurse for telling 3-year-old me to remove my nail varnish because “that’s what girls wear” and a post office for not allowing more than two  school children in at a time (ageism, obviously), to have been well and truly smothered in leftie PC rhetoric to the point of opting to punch myself in the face rather than mistakenly refer to a transgender person using a cisgender personal pronoun.

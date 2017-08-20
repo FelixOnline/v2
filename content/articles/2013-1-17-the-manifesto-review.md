@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
-image_caption: >
-  Paul's poster from last year
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
+image_caption: ""
 ---
 
 As the 2012/13 academic year flies by (this time last year, I was already saying ’14 weeks til exams’ in an attempt to motivate myself…) there are a number of developments to update everyone on. For final years, the National Student Survey is back; for the whole student body we have, what I guess is kind of a survey, the dreaded e-word – elections – looming. One term down, and already it’s nearly time to get rid of the sabbaticals.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Foxing released an EP last year called Old Songs. I did not care for it. It was everything post-rock-tinged emo shouldn’t be. The three songs were overthought and overstretched, but worst of all, they were really dull. It was an emo band trying to be a post-rock band with little success. Since then they’ve appeared on a few splits that I’ve completely ignored and I didn’t really plan on giving them any more of my time. However, I saw The Albatross getting a lot of positive comments and decided to give them another chance. I’m really glad I did. It’s ruddy bloody good.

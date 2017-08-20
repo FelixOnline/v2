@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104201423-felix-rug1.jpeg"
-image_caption: >
-
-image_attribution: "NEL Colectivo"
-image_attribution_link: "http://www.nanimarquina.com/en/designers/nel-colectivo"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104201423-felix-rug1.jpeg"
+image_caption: ""
 ---
 
 [A briefing paper released last week](http://workspace.imperial.ac.uk/climatechange/Public/pdfs/Briefing%20Papers/Grantham%20Briefing%20paper_Transport%20mitigation%20potential_October%202010.pdf) by the [Grantham Institute for Climate Change](http://www3.imperial.ac.uk/climatechange) has warned the government, industry and public that “radical changes” to the transport industry are vital in order to effectively reduce CO2 emissions. The authors, all of Imperial College research teams, reviewed current low carbon technologies aimed at reducing greenhouse gas (GHG) emissions from road transport vehicles and their fuels. The conclusion reached is that alterations to improve energy efficiency in existing vehicles will not be sufficient to cause a significant reduction in emissions and a switch to hybrid or fully electric cars, coupled with decarbonisation of the electricity grid through increased use of alternative fuels, will be necessary.

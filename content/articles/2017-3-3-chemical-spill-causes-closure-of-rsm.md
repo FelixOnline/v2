@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
-image_caption: >
-  The Royal Schoo of Mines
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
+image_caption: ""
 ---
 
 Earlier today the Royal School of Mines (RSM) building had to be closed off while a crew of firefighters investigated a potential chemical spill.

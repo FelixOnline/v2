@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501292340-ps3110-_80520669_kensington.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501292340-ps3110-_80520669_kensington.jpg"
+image_caption: ""
 ---
 
 Two men in their mid-20s were taken to hospital after a stabbing near Notting Hill Gate station in the early hours of Monday morning. They are both said to be in stable condition, but the first was described as serious and the second as critical.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030618-ks607-day4make.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030618-ks607-day4make.jpg"
+image_caption: ""
 ---
 
 _This is Day 4 of the IC.HACK tutorial series! To see the previous day's articles, click [Day 1 - Starting](http://www.felixonline.co.uk/?article=903), [Day 2 - AI](http://www.felixonline.co.uk/?article=934) or [Day 3 - Art and Sound](http://www.felixonline.co.uk/?article=965), or for the final installment click [Day 5 – Debugging](http://felixonline.co.uk/games/1022/game-over-for-ichack/)_

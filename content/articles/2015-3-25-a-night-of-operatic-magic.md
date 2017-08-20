@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251324-ff712-16002973044_229642317d_b.jpg"
-image_caption: >
-  Janai Brugger as Pamina and Anna Siminska as Queen of the Night in Die Zauberflöte
-image_attribution: "ROH. Mark Douet 2015"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251324-ff712-16002973044_229642317d_b.jpg"
+image_caption: ""
 ---
 
 Mozart’s _Die Zauberflöte_ – _The Magic Flute_ – is back at the __Royal Opera House __in the 12th year of David McVicar’s production. One of the most frequently performed operas, _Die Zauberflöte _has a highly unusual format, with the sung components interspersed with lots of dialogue, making it a piece that requires great theatrical skill as well as world class opera singers. Its storyline weaves in and out of folk-tale, legend, and cult, switching from enchantments to allusions to the Freemasons. Beneath all these nuances, _Die Zauberflöte_ is a boy-meets-girl tale: noble Tamino goes on a quest to find and free the beautiful Pamina, helped by his comic side-kick Papageno. He overcomes the hurdles, defeats the baddies, and even Papageno gets a girl – everyone is happy.

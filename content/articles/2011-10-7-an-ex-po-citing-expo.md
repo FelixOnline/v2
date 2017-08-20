@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
+image_caption: ""
 ---
 
 I guess now’s the time for me to offer a late (but warm) welcome to all the freshers who’ve stumbled onto the Games section. I would’ve written for the Freshers' Issue, but I was too busy doing more important stuff like working on my rock-hard abs, jet skiing in the Caribbean and seducing beautiful women. Oh, and playing video games.

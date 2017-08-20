@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051247-felix-Netflix-BoJack-Horseman-Opening-Credits-Theme-Song-HD.jpg"
-image_caption: >
-  A has-been actor, drinking away his problems.
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051247-felix-Netflix-BoJack-Horseman-Opening-Credits-Theme-Song-HD.jpg"
+image_caption: ""
 ---
 
 Bojack Horseman is a show about an alcoholic horse who was the star of a Cosby-esque family sitcom in the 90s, now dealing with a life of loneliness and depression. Also, it is fantastic.

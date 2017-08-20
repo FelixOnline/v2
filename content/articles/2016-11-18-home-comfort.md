@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Do you remember when you were five and after a few cold autumn days, you got so sick that you couldn’t get out of bed? But, miraculously, your mum knew exactly what to do so you would feel better. More often than not, it was *suspense* chicken soup, and in just an instant, you felt better! Now I don’t say that it was the soup or you really wanting to go out again, but you get my point.

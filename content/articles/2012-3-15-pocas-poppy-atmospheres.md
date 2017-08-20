@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152112-ams111-poca-keyboard.jpg"
-image_caption: >
-  You can’t read my P-P-P-P-POCA face
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152112-ams111-poca-keyboard.jpg"
+image_caption: ""
 ---
 
 POCA is formed of Poca (vocals), George Karpasitis (guitars), David Horler (bass) and Jack Painting (drums). They have collaborated with Sophie Frankford (violin), Midori Jaeger (cello) and Elin Klingfors and Txako Jones (backing vocals).

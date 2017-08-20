@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 All good curry starts with a base that includes fragrant bulb veg, chillies and some aromatics. To make mine I blend together onions, lemongrass and dried chillies, then fry it together with curry leaves (a mainstay of Southeast Asian curries) until fragrant. Then add to this mixture chili powder and curry powder to taste/tolerance levels. It’s easy to scale this up in batches and then separate into your desired portion sizes before freezing. A cheap compact blender will do the job (no need for a fancy Vitamix), and you can use it for so many other things as well. I own a lovely turquoise one by Breville which costs about £40.

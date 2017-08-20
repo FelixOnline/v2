@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161303-ps3110-nutt2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161303-ps3110-nutt2.jpg"
+image_caption: ""
 ---
 
 Imperial Professor David Nutt has begun research on a legal high that mimics ecstasy but may also stop binge drinking. The drug, known as Chaperon, is still being developed but could one day be available as a cocktail in bars across the country.

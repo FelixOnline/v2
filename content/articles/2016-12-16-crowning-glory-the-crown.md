@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161514-felix-the-crown.jpg"
-image_caption: >
-
-image_attribution: "Netflix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161514-felix-the-crown.jpg"
+image_caption: ""
 ---
 
 The Crown isn’t just one of the most anticipated shows of the year, but if the rumors of its budget of £100 million an episode are true, it’s also one of the most expensive. This is Netflix’s attempt at trying out something more traditional yet different (at least by Netflix standards) at the same time, aiming to reach for a different kind of demographic. After watching the show, one conclusion you immediately draw is that Peter Morgan’s take on young Queen Elizabeth is a superb triumph for Netflix.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082030-pk1811-20090302155850.jpg"
-image_caption: >
-  A pack of wolves bed down in Yellowstone National Park
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082030-pk1811-20090302155850.jpg"
+image_caption: ""
 ---
 
 Scientists at Imperial College have devised an evolutionary model based on climate change and a study of grey wolves.

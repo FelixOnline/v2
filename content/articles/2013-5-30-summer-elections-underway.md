@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305301306-tna08-elections.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305301306-tna08-elections.jpg"
+image_caption: ""
 ---
 
 Nominations have closed for Imperial College Union’s Summer Elections. Voting will be open from Monday 3 June to Friday 7 June.

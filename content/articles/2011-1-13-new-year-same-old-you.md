@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132113-ks607-alexnowb.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132113-ks607-alexnowb.jpg"
+image_caption: ""
 ---
 
 Self-improvement can and should be done at any time. Needing an arbitrary start date for the “new you” is pretty pathetic since you were more than aware of your flaws already, weren’t you? That bit of flab is nothing new even if you christen it “Christmas excess”. New Year’s resolutions conveniently allow you to delay change until the beginning of the following year.

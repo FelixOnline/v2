@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
-image_caption: >
-  A page from the 2013-16 strategy
-image_attribution: "ICU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
+image_caption: ""
 ---
 
 The Union launched a new three year strategy last week in Metric, at an event that was the culmination of a six month effort to meet (or at the very least express) the needs and wants of Imperial students. Despite vigorous consultation though, student reaction was luke-warm.

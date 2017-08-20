@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 How many moments have you actually lived? Or reflected upon, or marvelled… or just, been? Now, this is not some kind of hippy wisdom, this is an understanding of the world around us. Have you ever ran through rain puddles on a sunny day and seen a rainbow at your side? It might seem comical, but try it, and then we’ll see who is smiling. Tennyson personifies nature as an eagle:

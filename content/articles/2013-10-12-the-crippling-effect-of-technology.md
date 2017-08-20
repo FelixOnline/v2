@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310130049-jal08-tech_hudev.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310130049-jal08-tech_hudev.jpg"
+image_caption: ""
 ---
 
 This is a very interesting question I found myself talking about with a friend recently. Is technology really making us weaker, mentally and physically? If you consider that technology is part of the human condition, then you would disagree and I would be on your side. All the brilliant things that humans have invented really do make everything better (or do they? Sorry just had to put that cliché in). However if we only consider the human as the biological entity that makes him, is there a different story?

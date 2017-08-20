@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For those of you who did not read [Alexander Khanin’s comment piece](http://www.felixonline.co.uk/?article=230), his thesis can be reduced to a number of playground-worthy statements. I have a big problem with his reasoning and the nature of his claims so let us work our way through them. It will not take long I promise, but for the sake of intelligent debate everywhere he needs to be cut down to size.

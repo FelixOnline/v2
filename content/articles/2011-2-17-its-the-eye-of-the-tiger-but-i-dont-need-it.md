@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
+image_caption: ""
 ---
 
 Is Survivor’s 80s classic ‘Eye of the Tiger’ the sweatiest song of all time? Whilst Elvis can take credit for millions of broken teenage hearts, and Barry White for millions of unplanned children, Survivor can take pride in being responsible for a sea of sweat lost by inspired gym-goers since _Rocky III_ in 1982. Did you ever wonder why the Pacific Ocean only appears on maps made since the 1990s (maybe a lie)? Well, now you know where it came from.

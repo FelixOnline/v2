@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021444-tna08-nepal.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021444-tna08-nepal.png"
+image_caption: ""
 ---
 
 Summer is approaching and at Imperial this means internships, work and UROP… but not for the Project Nepal team. The team of 18 will be heading to the Tanahun District conveniently during monsoon season to build an extension onto an existing school in dire need of extra space. Living on local food and water, sleeping on the floor and manual labour would deter most, however the group is passionate about helping the poverty stricken children in this rural part of Nepal. I’m sure the spectacular Himalayan backdrop won’t hurt either. Throughout this academic year they have raised nearly all their fundraising target including collecting £246 at this month’s London marathon in Saris, elephant and teletubby costumes!

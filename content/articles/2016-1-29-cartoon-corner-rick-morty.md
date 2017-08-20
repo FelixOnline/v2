@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
-image_caption: >
-  Let’s get Schwifty!
-image_attribution: "Adult Swim"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
+image_caption: ""
 ---
 
 Sometimes considered a loose and boisterous reimaging of Doc Brown and Marty, Rick and Morty is a fun and wild, animated science-fiction show where things are anything but classic Sci-Fi. If you haven’t heard of this show by now, you’ve either been subjugated by the rule of the canines or are trapped in a minverse, inside a miniverse, inside a miniverse inside your car battery.

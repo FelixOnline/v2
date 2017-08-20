@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial Innovations, a company based at Imperial College, is planning to issue new shares on the stock market in a bid to raise up to £150 million. The firm, which is listed on the AIM stock market (a sub market of the London Stock Exchange), intends to use the money to fund future investments in fledgling companies.

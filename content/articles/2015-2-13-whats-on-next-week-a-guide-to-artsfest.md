@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502131442-bwh12-8489844811_41d871f599_o.jpg"
-image_caption: >
-  IC Big Band will play from Queen's Tower on Monday
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502131442-bwh12-8489844811_41d871f599_o.jpg"
+image_caption: ""
 ---
 
 __Big Band on the Tower__

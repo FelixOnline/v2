@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505041727-ps3110-palm-oil-destruction.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505041727-ps3110-palm-oil-destruction.jpg"
+image_caption: ""
 ---
 
 New research in Borneo by researchers from Imperial College London suggests that clear cutting rainforests changes which types of species perform vital ecosystem functions. In logged forests, vertebrates instead of invertebrates appear to be contributing a greater amount to key processes such as seed dispersal and predation. This switch in functional dominance renders these systems more vulnerable to future change.

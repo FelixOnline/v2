@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Understandably everyone reading this article will have a different view or preference/budget when it comes to eating or food shopping. Even within Carol’s household, the boys prefer to bag everything from Sainsbury’s (everything’s in one location), whereas she doesn’t mind scouring the North End Road market and butcher’s for cheaper produce.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211222313-tna08-people.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211222313-tna08-people.jpg"
+image_caption: ""
 ---
 
 Last Thursday we, the Food Editors, decided to paint the town red! We hit the “Cyrus Hospitality” event, organised by the Imperial College London Cypriot society.

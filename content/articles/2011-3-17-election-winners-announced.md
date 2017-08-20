@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
-image_caption: >
-  Next year's Sabb team, will they deliver?
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
+image_caption: ""
 ---
 
 The Imperial College Union Sabbatical and Student Trustee [election results](http://www.imperialcollegeunion.org/news/sabbatical-election-results-2011,471,ICUNS.html) were released last Monday at Council. RCSU President Scott Heath beat closest contender Danish Khan in the third stage of the voting process by 1983 to 1593 votes to be elected Union president. Heath said in a statement that he “would like to thank everybody who voted”, including his opponents “who made the election fun and ran good campaigns”. He hopes that he will “repay [his voters’] trust and faith with a great ICU 11/12” and “continue the trend of good student-sabbatical communication”.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Earthquakes in London is a play that could so easily go wrong. With (brief) nudity, temporal shifts (the narrative jumps around between 1928 and 2525) and philosophical passages on the doomed nature of man due to his treatment of the earth, it is tailor made to fulfill every “it’s all symbolic, innit” cliché of student drama.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031608-felix-7988128448_233276e606_o.jpg"
-image_caption: >
-
-image_attribution: "Nesster"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031608-felix-7988128448_233276e606_o.jpg"
+image_caption: ""
 ---
 
 Society has an eating disorder. Sweeping statement, I know, but take a second to look at the posters next time you get on the tube. Diets, cookbooks, meal replacement shakes, protein bars, detox teas and pretty much anything you can think of claiming to be the answer to your weight problems. Weight problems that you probably don’t have.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230040-cac111-large-header-novello1-1.jpg"
-image_caption: >
-  The Techtonics are just one of three Imperial groups competing on Saturday
-image_attribution: "The Techtonics"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230040-cac111-large-header-novello1-1.jpg"
+image_caption: ""
 ---
 
 The semi-finals of the International Championship of Collegiate A Cappella (ICCA) will be held this Saturday at Imperial College. The competition is presented by Varsity Vocals, in conjunction with the Union’s A Cappella Society, which is also sending three groups to compete against a range of University A Cappella groups from around the UK.

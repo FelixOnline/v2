@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 History does repeat itself. Earlier this term, the Union shut down the entire IC Radio website because of the content of one broadcast and last week the College shut down an entire Union server because of a single benign sentence and the use of a couple of swear words; if we were to extrapolate by magnitude and ridiculousness, one would expect the government to ban the internet next week when a member of the public is tagged in a particularly unflattering photo on Facebook.

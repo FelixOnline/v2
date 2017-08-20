@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505081320-jyg11-harley-quinn.jpg"
-image_caption: >
-  Margot Robbie on set as Harley Quinn
-image_attribution: "David Ayer/Warner"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505081320-jyg11-harley-quinn.jpg"
+image_caption: ""
 ---
 
 In the face of Marvel’s continued success with their Cinematic Universe, DC have begun throwing out early glimpses of their upcoming slate, kicking off with a trailer for _Batman vs Superman: Dawn of Justice_*, and now the first image of the Suicide Squad all together.

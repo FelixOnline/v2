@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
-image_caption: >
-  Last week's issue of the paper
-image_attribution: "Gair Rhydd"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
+image_caption: ""
 ---
 
 Student media at Cardiff University went on strike earlier this following a decision by the Student Senate (Cardiff’s version of Union Council) to force a re-election of Cardiff’s Vice-President of Media and Marketing.

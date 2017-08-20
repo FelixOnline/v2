@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
-image_caption: >
-  The brilliant Defying Gravity was cancelled after only one season
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
+image_caption: ""
 ---
 
 I’ve written a lot about science fiction for Felix over the last few months but now I face my most difficult task yet, to decide on the best television shows in the genre.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102107-pk1811-rick-santorum.jpg"
-image_caption: >
-  Just be glad we didn’t put a picture of the Wiktionary definition up...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102107-pk1811-rick-santorum.jpg"
+image_caption: ""
 ---
 
 Those of you who aren’t following the United States presidential race may not be familiar with Rick Santorum. In order to save you time and limit my own personal biases, I will impartially copy and paste the Wiktionary definition for Santorum:

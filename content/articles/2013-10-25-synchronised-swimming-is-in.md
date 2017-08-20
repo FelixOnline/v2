@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250220-felix-natsynchro-101.jpg"
-image_caption: >
-
-image_attribution: "IC SYNCHRO/G.D. Photos"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250220-felix-natsynchro-101.jpg"
+image_caption: ""
 ---
 
 Last year was great and we are trying to achieve even more in the coming year! We had 29 members, more than enough to put fantastic routines together!! Only a few months on and our members – beginners, intermediates and advanced – were presenting their routines at our Christmas show in the pool of St. Mary’s hospital. This name is probably familiar to everyone given that the Royal Baby was born there. That’s also where our training sessions take place. So, if you join our team, you will see the famous hospital.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101414-felix-Screen Shot 2017-03-10 at 14.14.22.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101414-felix-Screen Shot 2017-03-10 at 14.14.22.png"
+image_caption: ""
 ---
 
 ## Toys for girls

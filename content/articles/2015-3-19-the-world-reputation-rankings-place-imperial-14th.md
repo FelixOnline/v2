@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
-image_caption: >
-  Imperial was the 3rd highest ranked UK university after Cambridge and Oxford
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
+image_caption: ""
 ---
 
 In the latest release of the Times Higher Education (THE) World Reputation Rankings, Imperial College London dropped one place from 13th in 2014 to 14th in 2015. The THE World Reputation Rankings are a spin-off supplement from the internationally acclaimed THE World University Rankings, where Imperial currently retains its strong top 10 position.

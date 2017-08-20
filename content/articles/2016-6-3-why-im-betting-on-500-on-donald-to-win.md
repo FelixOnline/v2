@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week I bet £500 at 2:1 that the next American president will be Donald Trump. And if Hillary Clinton doesn’t sort out her campaign strategy fast, he will win a landslide victory.

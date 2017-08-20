@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312311-tna08-chemo-drugs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312311-tna08-chemo-drugs.jpg"
+image_caption: ""
 ---
 
 [Monday 4th February is National Cancer Awareness Day ](http://www.worldcancerday.org/)and the ten-month-and-twenty-seven day anniversary of my father’s death from – I need hardly say it – cancer.

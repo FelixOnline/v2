@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091907-ps3110-tea2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091907-ps3110-tea2.jpg"
+image_caption: ""
 ---
 
 A fresh cup of English Breakfast tea is truly something to behold. It is the liquid of the Gods and the chosen tipple of this great nation. Make no mistake; to sip a piping hot mug of English breakfast tea after a parched stretch is to know true pleasure. In the last few years I have picked up a few tips on how to best prepare ones cuppa, regardless of which type of breakfast tea you drink. So, laid out before you is a handy cut out ‘n’ keep guide to optimising your brew, if you are interested.

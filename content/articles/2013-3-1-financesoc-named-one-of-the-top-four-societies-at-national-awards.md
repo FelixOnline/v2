@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
+image_caption: ""
 ---
 
 Last week, [Imperial College’s Finance Society](https://www.union.ic.ac.uk/scc/finance/) (ICFS) was named one of the top four student societies in the country by Rate My Placement. This was the only Imperial society representing Imperial at the National Placement & Internship Awards 2013. ICFS was recognised for “outstanding commitment to generating opportunities for students – going above and beyond to balance the needs of corporate sponsors and students.”

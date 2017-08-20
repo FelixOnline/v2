@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What do Steve Jobs, Bill Gates and Mark Zuckerberg have in common with each other? Apart from being incredibly successful businessmen, all began their companies during the period that they should have been in college - and all dropped out to do so. Indeed, a look through more recent history gives numerous examples of Americans who have also begun their great adventure while still at university.

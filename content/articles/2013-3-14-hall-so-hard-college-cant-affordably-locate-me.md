@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 [And we’re back to some more of the same](http://felixonline.co.uk/news/3463/halls-woes-continue/). Yeah, I get it, I know, it’s been going on for a while. But, hey, if we all just forget this and say “this is boring now let’s talk about the email storm or something else” then we do a disservice to future students. It’s exactly what everyone at the top wants us to do: just forget it, get absorbed in our work/life, and let them just do whatever they want.

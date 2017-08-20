@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Hosepipe bans cause outrage in middle England, but some water disputes go much deeper than the need to ensure your lawn is greener than the Jones’, and when there is an issue between India and Pakistan the world needs to pay attention. The Kishenganga tributary in the disputed Jammu and Kashmir region is currently the source of an argument between India and Pakistan over Indian plans to build a 300MW hydroelectric plant.

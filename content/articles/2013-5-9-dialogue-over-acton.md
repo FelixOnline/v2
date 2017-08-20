@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_day.jpg"
-image_caption: >
-  Artist's impression of the new halls. Also a level on The Sims 5, maybe...
-image_attribution: "Berkeley First"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_day.jpg"
+image_caption: ""
 ---
 
 [The Union has replied to the College’s response to the Against Acton campaign](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/file/1892), started earlier this year following [the unveiling of plans by the College to construct an 856 bed hall of residence in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/). Paul Beaumont, Union President, sent a list of requests to the College, which went to the Management Board in March.

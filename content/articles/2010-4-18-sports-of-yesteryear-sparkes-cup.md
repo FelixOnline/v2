@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201004181803-jn104-GuildsRu.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201004181803-jn104-GuildsRu.jpg"
+image_caption: ""
 ---
 
 Everyone knows, or at least will know by within the next few weeks, that every year the Imperial School of Medicine take on the rest of the College in the annual Varsity Matches, with the culmination being the JPR Williams Cup between the two 1st XV sides in front of a packed crowd. For the rugby clubs at least, this is one of their biggest matches and the recent score lines will testify to it, but what was it like before the JPR Williams Cup for the Club. The simple answer is the Sparkes Cup.

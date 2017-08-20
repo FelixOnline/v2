@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201003161507-srg03-AppleVs..jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201003161507-srg03-AppleVs..jpg"
+image_caption: ""
 ---
 
 On March 2nd, Apple Inc. filed a suit against mobile phone manufacturer HTC in which they claimed ten of their patents relating to mobile devices had been infringed. The case covers nearly every Android-based phone that HTC manufactures, including the new Google-endorsed Nexus One and the T-Mobile G1. If the case is successful, HTC may have to pay damages to Apple and could be banned from selling any of the offending phones in the US. The suit was brought to the Delaware State Courts in the US, partly because this claim would not be admissable in other regions such as the EU.

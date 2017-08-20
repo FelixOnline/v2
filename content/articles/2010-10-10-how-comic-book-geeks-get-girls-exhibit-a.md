@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010101637-ks607-ScottPil.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010101637-ks607-ScottPil.jpg"
+image_caption: ""
 ---
 
 Grosse Pointe Blank. Back to the Future. The Dark Knight. Three films that I could watch on repeat – again and again. I left Scott Pilgrim vs the World wanting to go straight back in for another round. The titular character, played by Michael Cera, is a 23-year-old with no job, who splits his time between playing bass in the raw, energetic indie band Sex Bob-omb (the music played by the actors themselves), maintaining a U-rated relationship with a Canadian-Chinese high school girl (the adorable Ellen Wong) and mooching off his flatmate (Kieran Culkin), with outrageously apt comic timing and delivery.

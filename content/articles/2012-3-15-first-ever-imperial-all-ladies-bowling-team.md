@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
-image_caption: >
-
-image_attribution: "A team victorious"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
+image_caption: ""
 ---
 
 Last November, bowlers from Imperial College London competed at the regional BUTBA (British University Tenpin Bowling Association) competition and blazed the lanes, emerging as 1st runners up. Congratulations to Christopher Chan who bowled an average of 211, ranked 2nd overall and to all the other 11 bowlers who have fought their best. The team has advanced to the 2nd round of BUTBA.

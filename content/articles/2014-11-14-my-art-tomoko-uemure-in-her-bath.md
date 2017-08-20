@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142048-ps3110-eugenesmith-tomokouemurainherbath1971big.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142048-ps3110-eugenesmith-tomokouemurainherbath1971big.jpg"
+image_caption: ""
 ---
 
 A picture tells a thousand words, as the old adage goes. But some of the best photos go deeper; not satisfied with a word-limit of a thousand, the photographer instead expands their range, taking in entire movements, nations, and histories with their lens.

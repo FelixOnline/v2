@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101342-felix-Screen Shot 2017-02-10 at 13.42.26.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101342-felix-Screen Shot 2017-02-10 at 13.42.26.png"
+image_caption: ""
 ---
 
 Two weeks ago, newly-elected President  of the United States, Donald Trump, signed an Executive order suspending entry to the United States for residents of seven Muslim-majority countries, and for Syrian refugees. This was a key campaign pledge, and, although more crudely proposed as a total ban on all Muslims, he was largely ignored at the time as an egotistical idiot who had shouted his way into the Republican candidacy, and whose opinions would have little actual impact on US foreign policy. Now that he is in power, a much greater global response to the policy has formed, propelling, almost symbolically, the cause of inclusion against division.

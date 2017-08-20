@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105262008-felix-spotify.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105262008-felix-spotify.jpg"
+image_caption: ""
 ---
 
 Ever since Spotify Open [limited users to 10 hours of free music and 5 plays per track](http://www.spotify.com/uk/blog/archives/2011/04/14/upcoming-changes-to-spotify-free-open/), I’ve been on the hunt for alternative streaming services that offer something similar to its huge library and smooth browsing experience. If you’re searching too, here are my experiences.

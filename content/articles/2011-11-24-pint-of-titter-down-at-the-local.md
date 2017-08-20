@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242236-pk1811-pattiebrewster.jpeg"
-image_caption: >
-  Patti Brewster. Can she really pull off mad-cat-lady?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242236-pk1811-pattiebrewster.jpeg"
+image_caption: ""
 ---
 
 The residents of South Kensington haven’t laughed so hard since a local Science University said it was going to publish a newspaper! Cue the drums and cymbal.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122117-jal08-white-text-black-background.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122117-jal08-white-text-black-background.jpg"
+image_caption: ""
 ---
 
 “STOIC, you’re the philosophy society right?” Is a question I receive many times throughout the course of the year. The latest being at Freshers’ Fair while standing in front of a large AutoCue, professional video camera and a TV playing a showreel of our best bits. While I do have a particular love of 3rd century BCE philosophy that isn’t what the club is about. STOIC in fact is an acronym of Student Television of Imperial College, and that’s exactly who we are. From our studios in the West Basement of Beit Quad we write, film, present and produce a wide variety of television shows that get broadcast online.

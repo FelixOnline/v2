@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
+image_caption: ""
 ---
 
 _The Legend of Zelda: Ocarina of Time_ is easily my favourite game of all time. Having started playing it at age seven, this game has played an integral part in shaping my interest in games. The story tells of a young boy, Link, who is asked to save the land of Hyrule from a terrible danger. This quest takes Link along a journey of epic proportions, travelling across the vast land of Hyrule.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122257-cac111-new-girl.jpg"
-image_caption: >
-  This picture is in no way sexual
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122257-cac111-new-girl.jpg"
+image_caption: ""
 ---
 
 Blue Monday (the statistically most depressing day of the year) is approaching. The weather is ever gloomier. Work starts to pile up. Festive feelings slowly disintegrate into utter misery. In a desperate attempt to cheer yourself up, you splash your student loan in the sales, fill your house with the smell of baking cake, or finish _Skyrim_. I’m going to recommend an alternative measure: Channel 4’s new sitcom, _New Girl_.

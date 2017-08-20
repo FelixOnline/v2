@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I’m going to lay my cards out on the table straight away. I will spend the next six months begging you for money. This is the raison d’etre of this column. Amusing you (or more likely myself) would be a nice perk on the side – a bit like dental insurance.

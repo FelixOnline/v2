@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031029-felix-smoking.jpg"
-image_caption: >
-
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031029-felix-smoking.jpg"
+image_caption: ""
 ---
 
 After FELIX’s scoop last week on Imperial’s £2.4 million investment in the tobacco industry, the _Guardian_ has revealed that a university pensions provider has £211 million invested in British American Tobacco.

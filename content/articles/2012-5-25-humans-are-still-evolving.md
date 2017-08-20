@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251523-mc4509-s2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251523-mc4509-s2.jpg"
+image_caption: ""
 ---
 
 A study of the reproductive success of 6,000 Finnish people born between 1760-1849 suggests that the technological and social advances of the agricultural revolution did not put a stop to human evolution.

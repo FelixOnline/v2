@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 As one of the more strapped for cash GTAs I teach a lot of classes in my department. This includes some outside my speciality meaning I have taught pretty much every year of the undergraduates and as detailed last week, some of the MScs. This is great as I have a broad spectrum of topics and an even broader spectrum of students. Thus the chance I am stuck with people who think I am an idiot is decreased by pure safety in numbers.

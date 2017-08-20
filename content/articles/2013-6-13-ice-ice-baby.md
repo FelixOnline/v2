@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306140031-tna08-the-iceman_02.jpg"
-image_caption: >
-  The Apprentice - 1975
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306140031-tna08-the-iceman_02.jpg"
+image_caption: ""
 ---
 
 In some of the marketing used for Man of Steel (out in cinemas today - will be reviewed in the next issue), we are told to “kneel before Zod (played by Michael Shannon)”. Instead, we should all kneel before the real Michael Shannon, easily one of the most underrated, under-awarded, and under-recognised actors working today. He’s the anti-hero of The Iceman, a taut retelling of the life of Richard “Richie” Kuklinski, an American-Polish mob hitman who was arrested having killed what is believed to be well over 100 people.

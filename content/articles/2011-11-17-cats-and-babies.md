@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172148-felix-catsandbabies.jpg"
-image_caption: >
-  The only thing terrifying about this whole situation is that yarn ball. Dang
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172148-felix-catsandbabies.jpg"
+image_caption: ""
 ---
 
 The fact that I’m still alive is surprising to say the least.

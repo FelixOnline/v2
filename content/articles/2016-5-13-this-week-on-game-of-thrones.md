@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605131122-felix-929f1cb0-f83c-0133-8045-0e31b36aeb7f.jpeg"
-image_caption: >
-  Welcome back home!
-image_attribution: "HBO"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605131122-felix-929f1cb0-f83c-0133-8045-0e31b36aeb7f.jpeg"
+image_caption: ""
 ---
 
 Another week, another load of dead characters. We start off where we left last time with Jon Snow wondering what the hell just happened after being stabbed in the heart, Melisandre wondering how on Earth she just did that and Davos trying to remember how he got involved in this storyline in the first place. Jon then puts some pants on to talk to the Night’s Watchmen and Wildlings that had gathered to see him. He doesn’t end up saying much and it’s not even 5 minutes back in the realm of the living before Tormund says he’s got a small dick. Jon seems to have a thing about getting insulted by gingers.

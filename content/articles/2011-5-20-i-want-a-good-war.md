@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There is nothing like the threat of being shot in the head, for reassurance. And whether or not the threat of that has befallen you, and I hope not, on the world’s stage there seems to be something of a trend of conflict resolution and a supremacy of liberal ideals. The conflict in northern Ireland seems at an end, there is continued progress of the democracy in South Africa, and the death of Osama Bin Laden signally a deep-if-not-fatal blow to the war on the faceless enemy of terrorism. Yes, terrorism and not ‘terror’. Only Lynn Truss can be said to wage war on a verb.

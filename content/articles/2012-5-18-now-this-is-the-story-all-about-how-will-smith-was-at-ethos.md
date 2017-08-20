@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
-image_caption: >
-  Obviously, things didn't pan out this way
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
+image_caption: ""
 ---
 
 Hollywood big-hitter and modern day renaissance man Will Smith [was to be found at Imperial’s very own Ethos Sports Centre](http://www.twitvid.com/DQHPJ) on Princes Gardens last Wednesday morning.

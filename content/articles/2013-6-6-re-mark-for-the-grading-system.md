@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306061646-tna08-cambridge_harvard_square.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306061646-tna08-cambridge_harvard_square.jpg"
+image_caption: ""
 ---
 
 The Union is considering its response to plans by certain members of the Russell Group of elite universities to replace the current degree classification system with a US style grade point average ([GPA](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/file/2016)). The system would involve students being assigned one of 14 letter grades, running from F- to A+, for each piece of assessment. These would each have a numerical value – or grade point – running from 0.00 to 4.25, with a student’s final mark being a weighted average of these grade points.

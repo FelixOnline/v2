@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You may have noticed that [this is the second Star Slinger tune](http://felixonline.co.uk/music/1238/london-student-vs-felix-day-three--a-song-that-makes-you-happy/) so far. (He's basically [my favourite artist](http://felixonline.co.uk/music/1262/star-slinger/) in recent memory.) The beat on this refix makes it the most danceable music that I have ever heard.

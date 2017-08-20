@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610032046-felix-29726247376_386e18525f_o.jpg"
-image_caption: >
-
-image_attribution: "Ted Eytan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610032046-felix-29726247376_386e18525f_o.jpg"
+image_caption: ""
 ---
 
 Are you more _won’t_ than _woke_ when it comes to talking politics? Do you despair at any mention of David Cameron, tremble at the thought of Theresa May, or cower away from Corbyn?

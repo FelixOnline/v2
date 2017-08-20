@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
-image_caption: >
-  To those who read Felix for the witty picture captions, I’m sorry
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
+image_caption: ""
 ---
 
 The first poetry evening I attended [left me with the somewhat sour taste of disappointment](http://felixonline.co.uk/arts/333/-poetry-unplugged-and-unwanted/), enhanced, no doubt, by the dashed hopes I’d been harbouring all week. Instead of great poetry, I was faced by something resembling slapstick stand-up comedy.

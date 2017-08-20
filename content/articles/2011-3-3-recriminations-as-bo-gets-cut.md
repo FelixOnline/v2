@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103030541-ks607-csbbudge.jpg"
-image_caption: >
-  The Clubs and Societies Board spent a gruelling eight hours deciding the allocations
-image_attribution: "Rob Bishop"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103030541-ks607-csbbudge.jpg"
+image_caption: ""
 ---
 
 The [Clubs and Societies Board ](http://www.imperialcollegeunion.org/representation/committees/index,68,COM.html)(CSB) have allocated their funding for the next academic year, with the City and Guilds College Union (CGCU) taking a 30% cut whilst the Royal Society of Science Union (RSCU) allocation is to rise by 95%.

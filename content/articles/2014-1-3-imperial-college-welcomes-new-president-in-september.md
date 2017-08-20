@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401031221-jal08-alice-gast-49.jpg"
-image_caption: >
-  President-designate Professor Gast
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401031221-jal08-alice-gast-49.jpg"
+image_caption: ""
 ---
 
 After a search by College Council through an international list of candidates, Professor Alice P. Gast, President of Lehigh University and former Vice President for Research and Associate Provost at MIT is set to step into the role of President of Imperial College. Professor Gast will be College's first female President/Rector in it's 106 year history.

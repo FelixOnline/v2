@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203082152-ams111-reesethismeanswar.jpg"
-image_caption: >
-  I spy...with my little eye...something beginning with H...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203082152-ams111-reesethismeanswar.jpg"
+image_caption: ""
 ---
 
 [__This Means War__](http://www.imdb.com/title/tt1596350/)

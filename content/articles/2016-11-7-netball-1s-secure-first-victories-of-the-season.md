@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071318-felix-14923006_10211006796265781_974381067_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071318-felix-14923006_10211006796265781_974381067_o.jpg"
+image_caption: ""
 ---
 
 The first team had to wait 3 games to taste victory, but it was definitely worth it. Pre-ACC matches always have an extra sense of excitement but the home game at Heston against St Mary’s was the 1s first cup game and had a great atmosphere before the match even started. In the first quarter the game stayed tight at 11-6, with a relatively new team not used to playing together. Impressive defensive displays from Kath, Filippa and Annie in the second quarter ensured St Mary’s only scored two goals in the second quarter.

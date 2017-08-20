@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611111140-so515-newseventsimages.jpeg"
-image_caption: >
-  Wooh! Science!
-image_attribution: "The iGem Foundation and Justin Knight"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611111140-so515-newseventsimages.jpeg"
+image_caption: ""
 ---
 
 Imperial triumphed at the International Genetically Engineered Machine (iGEM) competition in Boston last week, with their project ‘Ecolibrium’ beating almost 300 other undergraduate teams from around the globe.

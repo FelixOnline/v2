@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121634-felix-img_4206.jpg"
-image_caption: >
-  A section of the test engine lab currently being refurbished
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121634-felix-img_4206.jpg"
+image_caption: ""
 ---
 
 New information about the delayed refurbishment of the Mechanical Engineering department has come to light in the past week; showing the effect of the disruption on PhD students and implying that the College was unhappy with the way the project was being managed and that the error with the £3 million exhaust system is just one area where the refurbishment has not proceeded smoothly.

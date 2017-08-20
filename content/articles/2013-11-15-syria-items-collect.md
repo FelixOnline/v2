@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives! Old clothes will be used to generate funds and new ones will be sent to Syria. The Union is also helping and we have a drop off point at the Union reception. There are more details on the website.

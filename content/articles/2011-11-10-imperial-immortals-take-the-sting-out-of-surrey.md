@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102214-felix-386212_10150351591449094_502249093_8258468_1637076461_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102214-felix-386212_10150351591449094_502249093_8258468_1637076461_n.jpg"
+image_caption: ""
 ---
 
 __American Football__

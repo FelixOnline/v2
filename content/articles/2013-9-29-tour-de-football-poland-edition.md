@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
-image_caption: >
-
-image_attribution: "Maciej Witkowski"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
+image_caption: ""
 ---
 
 Tour began on the final Friday of the summer term. Amongst the celebrations, that are usual at this time of year, there was a sense of trepidation amongst some of the younger members of the touring party. What lay ahead was the football club’s summer tour to Poland by the end of which this feeling of trepidation had been truly justified.

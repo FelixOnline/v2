@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280108-kmw13-199111.jpg"
-image_caption: >
-
-image_attribution: "Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280108-kmw13-199111.jpg"
+image_caption: ""
 ---
 
 In the early hours of Thursday, Australia batsman Phil Hughes was pronounced dead at St Vincent’s Hospital in Sydney. He had been struck on the side of the head by a bouncer from New South Wales bowler Sean Abbott in a Sheffield Shield match on Wednesday. In response, Cricket Australia chose to abandon the round of domestic matches being played this week. They also chose to cancel India’s warm-up fixture ahead of the series in Australia. Pakistan and New Zealand chose to extend their test match by a day and suspend play on Thursday out of respect, while England and Sri Lanka will have a minute’s silence ahead of their match on Friday. An obituary for Phil Hughes is on page 39.

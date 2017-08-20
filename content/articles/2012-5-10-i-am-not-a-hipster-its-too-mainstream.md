@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205102110-pk1811-nathanbarley.jpg"
-image_caption: >
-  Well fucking Mexico yeah. That’s a Nathan Barley reference, you’ve probably never heard of it
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205102110-pk1811-nathanbarley.jpg"
+image_caption: ""
 ---
 
 Firstly, let me clarify – I am not a hipster.

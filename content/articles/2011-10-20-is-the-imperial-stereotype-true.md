@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110210025-sjw209-faye-cutout.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110210025-sjw209-faye-cutout.jpg"
+image_caption: ""
 ---
 
 So it’s two weeks in, and things aren’t going as you planned. It isn’t exactly how it was sold to you. Sure, you’ve been out most nights, met a million people you can’t remember, been a bit of a tourist and burnt a few meals. But you’ve also missed more 9am lectures than you made it to, piled up a mountain of work, and have come to realise that you are no longer one of the elite. Yes, you, the geek extraordinaire with a billion A levels, are average. You’ve finally met a group of like-minded people, and all it’s done is deflate your ego. You’re just a fish in a very large pond, more like a lake actually, maybe the Serpentine in Hyde Park now you mention it.

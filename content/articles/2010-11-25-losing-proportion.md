@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
+image_caption: ""
 ---
 
 Towards the end of my second year at Imperial, I was approached by the chair of what was then the Atheist and Agnostic Society with a view to becoming his successor as official Union Antichrist. Owing to a number of other commitments that would have made Beelzebub blanch, I regretfully declined. Much to my chagrin, the society has since done likewise.

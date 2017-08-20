@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The newly redesigned Exhibition Road saw its [grand opening take place last Wednesday](http://felixonline.co.uk/news/2121/exhibition-road-closes-for-grand-opening-/). Away from the usual buffoonery (read: metal elephants that Felix still doesn’t quite comprehend perfectly) and tussles for photo opportunities that accompany any form of visit from the current Mayor of London the fact remains that the redesign cost £30m, and while the visual changes are plain to see, the reasoning behind them is somewhat muddier.

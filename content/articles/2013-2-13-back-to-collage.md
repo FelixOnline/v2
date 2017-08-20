@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131659-tna08-sc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131659-tna08-sc.jpg"
+image_caption: ""
 ---
 
 [Kurt Schwitters](http://en.wikipedia.org/wiki/Kurt_Schwitters) was a key influence on the development of pop-art, one of the most important movements of the 20th century, but if you have never heard his name before, do not fear. Tate Britain is having a major retrospective of his work and, in any case, it is a catchy name, with a tingling ring to it that sticks delightfully to your brain walls so that you could find yourself Schwittering (muttering Schwitters to yourself whilst trying to look sane) around the sweltering rooms the Tate Britian.

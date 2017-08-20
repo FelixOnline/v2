@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Welcome to Cartoon Corner, the new weekly column where we explore the wonderful world of animation! (Not anime. We have a separate club for that.) Each week I’ll be doing either a review of a currently airing show, or a retrospective on something more nostalgic. So, word counts are tight here, let’s start with an obvious one!

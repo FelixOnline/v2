@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292313-tna08-hockeyinnit.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292313-tna08-hockeyinnit.jpg"
+image_caption: ""
 ---
 
 Having lost a match a few days earlier during a freak weather storm in the remote countryside, the ICSM Ladies 1st XI definitely felt we could use a giant dose of good luck when we trooped out to play on Sunday 25 November. The early morning sunshine and prospect of playing at Harlington boded well for our second LUSL match of the season, but with the loss of several forwards as well as a key defender (who had been beaten up by Wednesday’s opposition with a hockey stick) meant that we all had butterflies in our stomach.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181511-felix-161105_0379-oreste-Edit-adj-©-ROH.-Photo-by-Clive-Barda-1024x6381.jpg"
-image_caption: >
-
-image_attribution: "Clive Barda"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181511-felix-161105_0379-oreste-Edit-adj-©-ROH.-Photo-by-Clive-Barda-1024x6381.jpg"
+image_caption: ""
 ---
 
 As Oreste started, I thought for a fleeting moment that I was in the wrong place. Had I gotten lost among the twisting alleyways of East London? Why was a mascara-streaked, hammer-wielding teenage girl butchering a hapless prisoner on stage?

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241432-felix-ShakespeareYA-160.JPG"
-image_caption: >
-  Madeline Appiah in rehearsal as Lady Macbeth
-image_attribution: "Ellie Kurtz"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241432-felix-ShakespeareYA-160.JPG"
+image_caption: ""
 ---
 
 Shakespeare for schools is an attempt by director Justin Audibert to bring Shakespeare closer to a ‘younger audience’: school children, especially those who may have been disillusioned by endless GCSE English lessons analysing iambic pentameter, may not have had the chance to step back and simply appreciate gripping Shakespearean narratives, such as Macbeth.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411101355-ps3110-article-2230190-15e92a19000005dc-471_964x612.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411101355-ps3110-article-2230190-15e92a19000005dc-471_964x612.jpg"
+image_caption: ""
 ---
 
 Recall the scene from the Wizard of Oz where the Wicked Witch of the West hinders the progress of Dorothy and company by sending them to sleep in a field of poppies. Does this not encapsulate a basic – symbolic – truth about these flowers? Pace John McCrae of In Flanders Fields fame, the soporific effect of the plant has been attested to since antiquity and has so associated itself with the drug that it wormed its way into the Latinate nomenclature: Papaver Somniferum. In fact, the remembrance poppies are of a different species to their brethren – source of the opiates – but forgive me if I dismiss this as pedantry (outside the field of botany where it is no doubt important).

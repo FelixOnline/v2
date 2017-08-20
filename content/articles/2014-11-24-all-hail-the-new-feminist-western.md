@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
-image_caption: >
-
-image_attribution: "Photo: Tommy Lee Jones/Ithaca"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
+image_caption: ""
 ---
 
 __Director: __Tommy Lee Jones

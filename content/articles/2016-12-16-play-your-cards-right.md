@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161437-felix-9705875125_ffc9a496b3_o.jpg"
-image_caption: >
-
-image_attribution: "Wicker Paradise"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161437-felix-9705875125_ffc9a496b3_o.jpg"
+image_caption: ""
 ---
 
 Fact: If you shuffle a deck of cards, that precise order of cards has probably never happened before.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106091934-felix-zoltan-vargas.jpg"
-image_caption: >
-
-image_attribution: "Zoltan Vargas"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106091934-felix-zoltan-vargas.jpg"
+image_caption: ""
 ---
 
 The old man walked into the kitchen, carefully holding his fishing rod in front of him. He was manoeuvring it gingerly to avoid knocking anything off the cluttered kitchen shelves with the swaying tip, before finally propping it against the jamb of the front door. When she saw him come in, his wife paused from wiping a damp rag over the table, and stood back to observe him, fixing up a few strands of long hair back into the tight bun they had escaped from. Like the table, she was plain and roughly cut, heavy and sturdy. Her hair was sparse and grey as iron, contrasting with her husband’s thatch of downy white hair as her soft features did with his angular ones.

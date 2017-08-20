@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232125-felix-augmented_reality_-_heads_up_display_concept.jpg"
+image_caption: ""
 ---
 
 Just what is augmented reality? I was at an augmented reality conference recently and the best definition was this: “Augmented reality is an integration of the real world with computer graphics that you can interact with.”

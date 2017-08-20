@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It’s been a year since we last saw the girls of _Girls_, so the news that its third series would return with a double bill was definitely welcome. The ever-divisive show picks up a short while after we left off at the end of the second season, in which time there’s been more than a few developments. Although Hannah and Adam are very much in an ‘on’ phase of their on-off relationship after he ran through the streets of New York in answer to her desperate cry for help, Marnie and Charlie are most definitely off, with the former turning to her mother in consolation. Also firmly broken-up are Ray and Shoshanna, while wild child Jessa has resurfaced after months of disappearance – in rehab.

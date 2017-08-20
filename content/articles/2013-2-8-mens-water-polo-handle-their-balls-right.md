@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302080025-tna08-imperialeagles-ukuni2013.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302080025-tna08-imperialeagles-ukuni2013.jpg"
+image_caption: ""
 ---
 
 The men’s water polo team are midway through what has already been our most successful season to date. This year we found ourselves in the top division after being promoted last year, along with Warwick, Oxford and Cambridge in what some would call the most intellectual sporting league in the UK.

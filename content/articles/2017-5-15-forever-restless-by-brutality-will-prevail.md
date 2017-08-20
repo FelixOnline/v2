@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151916-felix-a3313749749_10.jpg"
-image_caption: >
-
-image_attribution: "holyroarrecords"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151916-felix-a3313749749_10.jpg"
+image_caption: ""
 ---
 
 Plagued by member changes and after releasing a couple of pretty disappointing albums at the end of 2014, Brutality Will Prevail’s stock had taken a real hit. As one of UK Hardcore’s leading lights in the early 2000’s they built up a following alongside other alumni such as Hang the Dastard, Last Witness and Dead Swans. After their disappointing album Scatter The Ashes I was pretty cautious to ensure that I didn’t get my hopes up too much when listening to their new album In Dark Places.

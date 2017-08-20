@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503091858-ps3110-south-kensington-station.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503091858-ps3110-south-kensington-station.jpg"
+image_caption: ""
 ---
 
 You may or may not have seen that Imperial Hub recently ran a social action #Resolution campaign. Well, a couple of weeks ago we were all over campus asking people to come up with a resolution for how they will contribute to making the world a better place in 2015. On the Monday I was running a stall where, in exchange for making a resolution, we gave people a free cup of tea or coffee.

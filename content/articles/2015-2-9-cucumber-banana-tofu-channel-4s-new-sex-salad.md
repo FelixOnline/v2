@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502091936-ps3110-cucumber-f2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502091936-ps3110-cucumber-f2.jpg"
+image_caption: ""
 ---
 
 At Christmas, Channel 4 aggressively started advertising its new LGBT drama, signed by producer Russell T Davies from _Queer as Folk_. Maybe it was because of the massive billboards on Cromwell Road, or the ever-present YouTube clips, but I feel there was a certain degree of anticipation behind this release.

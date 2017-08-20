@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102213-ps3110-og_apple_watch.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102213-ps3110-og_apple_watch.jpg"
+image_caption: ""
 ---
 
 Tech-companies want to expand their product portfolio outside of smartphones, and with iPad and tablet sales falling quarter after quarter and all the variety in screen sizes pretty much exhausted, where do they go from here?

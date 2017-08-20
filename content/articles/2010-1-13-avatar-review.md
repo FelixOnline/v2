@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001132054-egk08-Navimoun.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001132054-egk08-Navimoun.jpg"
+image_caption: ""
 ---
 
 ‘I’m the King of the World!’ declared James Cameron after the box-office smashing, Oscar hauling behemoth of a film that was _Titanic_. With Hollywood wrapped around his little finger, Cameron looked poised to produce many a hit-film from his throne but quicker than you can say Terrence Mallick, he disappeared. During the decade long absence of his highness, many a young pretender have arisen to steal his crown and whilst Michael Bay and Roland Emmerich’s mediocre blockblusters have filled the void, the return of King Cameron seemed to herald the revitalisation of the action film genre. So just what has JC been doing for the past eleven years? We were promised the biggest revolution in cinema history since the Jazz Singer and a revolution he has certainly started, just how big it will be, only time can tell.

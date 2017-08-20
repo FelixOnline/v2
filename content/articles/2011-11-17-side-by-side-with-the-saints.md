@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172034-pk1811-saintsrowthethirdbox.jpg"
-image_caption: >
-
-image_attribution: "THQ"
-image_attribution_link: "http://www.saintsrow.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172034-pk1811-saintsrowthethirdbox.jpg"
+image_caption: ""
 ---
 
 To someone who has never heard of Saints Row before, there's only one comparison you can make, so I’ll get it out of the way: it’s like Grand Theft Auto. The behemoth that is Rockstar studios’ third-person, driving-shooting free-roam franchise single-handedly created a new genre and also influenced a whole slew of games over the last decade. However, whilst rival studios were taking note and adopting some of the successful elements of GTA, whether it’s the driving or the shooting or the open city, Volition was taking notes. Like scientists citing and Kanye sampling, Volition knew that the better the original source, the more you should put in.

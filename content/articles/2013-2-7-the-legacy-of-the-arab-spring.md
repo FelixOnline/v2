@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302072316-tna08-mali-hollande.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302072316-tna08-mali-hollande.jpg"
+image_caption: ""
 ---
 
 It has been just over two years since a street vendor in Tunisia set himself on fire. His act of protest against the country’s oppressive and corrupt regime was not extinguished: the protest resonated with citizens across the Arab world, engulfing the region in political demonstrations, revolutions and even civil war.

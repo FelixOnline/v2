@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301531-ygr12-basebal.jpg"
-image_caption: >
-  So popular that there's a net to stop their fans rushing them
-image_attribution: "Imperial Immigrants"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301531-ygr12-basebal.jpg"
+image_caption: ""
 ---
 
 Last weekend was the BSUK National University Baseball Championships, one of the biggest baseball tournaments of the year. This time around it didn’t fail to provide drama as the Imperial Immigrants had many tough games but pushed on through.

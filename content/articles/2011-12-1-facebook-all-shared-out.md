@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011933-pk1811-facebook_logo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011933-pk1811-facebook_logo.jpg"
+image_caption: ""
 ---
 
 I expect most of you have noticed the new items that have started appearing in your Facebook feeds: Spotify playlists of music that your friends are listening to and news articles from a whole host of national and international papers. They are part of the ‘[OpenGraph](http://ogp.me/)’ scheme that Facebook has been pushing in earnest over the last few months: adding a few tags to your website means that any links to your website from within Facebook makes it a Facebook page.

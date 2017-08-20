@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151934-ams111-img_3382-1.jpg"
-image_caption: >
-  Pine trees are used to produce biofuels
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151934-ams111-img_3382-1.jpg"
+image_caption: ""
 ---
 
 Scientists at Imperial College have discovered that efficiency savings of up to 80% in the production of biofuel can be made by lubricating the wood biomass.

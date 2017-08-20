@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A well-known property of modern silicon-based electronics is their resilience to change: a printed circuit board (PCB) doesn’t dissolve, and only melts at high temperatures. However, following research recently published in Science, this may no longer be the case, with the production of a complimentary metal-oxide semiconductor (CMOS) that can physically disappear at the end of use.

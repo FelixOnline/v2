@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102210-pk1811-ssago-picture.jpg"
-image_caption: >
-  Better than Titanic
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102210-pk1811-ssago-picture.jpg"
+image_caption: ""
 ---
 
 When someone says ‘girl guide’ or ‘scout’ to you, many people fondly envisage either the days of being one themselves, or the likes of a Brownie or Cub Scout doing something craft based or learning knots. What many people don’t realise is that both organisations in fact have sections aimed at people up to the age of 25, who do activities that are relevant to them: a casual camping trip all of a sudden has the chance to get a lot more extreme.

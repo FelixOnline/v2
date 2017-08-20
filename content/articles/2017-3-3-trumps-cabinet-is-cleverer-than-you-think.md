@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031454-felix-Screen Shot 2017-03-03 at 14.51.17.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031454-felix-Screen Shot 2017-03-03 at 14.51.17.png"
+image_caption: ""
 ---
 
 The language of the Trump administration fascinates me. The daily barrage of comments, tweets and press conferences reveals something quite fundamental about the way that the government is operating, and how it will operate. It’s hard to believe that the administration is not in utter chaos, and what is striking is the language used in the information presented, and the nature in which it is presented. It conveys a semblance of order and the impression that the President and his team are 'doing great’. Sound familiar? That’s because it is. The limited vocabulary of Trump is starkly Orwellian in nature. Groan you may – it’s pretty cliché to compare any aspect of any government to that in 1984 – but aside from illustrating totalitarianism, the novel dealt with the nuanced aspects of a regime that was determined to demonstrate its coherence to the people, so makes for a solid comparison.

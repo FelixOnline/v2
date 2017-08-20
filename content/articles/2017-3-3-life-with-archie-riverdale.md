@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031540-felix-riverdale_64.jpg"
-image_caption: >
-  Careful you don’t cut yourself on all that edge
-image_attribution: "The CW"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031540-felix-riverdale_64.jpg"
+image_caption: ""
 ---
 
 You can now add Riverdale to the increasing list of media adaptations of various forms of literature. Like most recent adaptations, Riverdale also goes for a darker and edgier feel; however in this case, this approach pulls off and actually works spectacularly well.

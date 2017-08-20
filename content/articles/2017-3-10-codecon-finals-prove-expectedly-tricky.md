@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101307-felix-fire.jpg"
-image_caption: >
-  Only 2% of people were able to save lives
-image_attribution: "Peretz Partensky"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101307-felix-fire.jpg"
+image_caption: ""
 ---
 
 London has been host to amazing competitions in recent years. We hosted the Olympic Games in 2012 and shows like The X Factor and Britain’s Got Talent have been world renowned hits for the better half of a decade, but last January, London was host to a different kind of competition, one that it was no surprise to see Imperial students thriving in.

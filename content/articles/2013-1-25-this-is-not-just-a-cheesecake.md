@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250133-tna08-cheesecake1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250133-tna08-cheesecake1.jpg"
+image_caption: ""
 ---
 
 Cooking. Some of you might hate it. Maybe it is time you started seeing cooking and food a bit differently? I believe food is not just something you need to survive. It is much more than that as it creates memories and brings people together!

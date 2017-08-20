@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501161259-ps3110-screen-shot-2015-01-16-at-13.00.07.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501161259-ps3110-screen-shot-2015-01-16-at-13.00.07.png"
+image_caption: ""
 ---
 
 An increase of the Amenities fund from £1.50 to £2.00 per person per week has been recommended by Imperial College Union. The recommendation was made as part of the Student Amenities Fund Review, and was presented to Union Council on Tuesday by the Union President, Tom Wheeler.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
-image_caption: >
-  Oh sweet delicious meat fruit...
-image_attribution: "flickr/laissez fare"
-image_attribution_link: "http://www.flickr.com/photos/laissezfare/5596124134/in/set-72157626443593584"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
+image_caption: ""
 ---
 
 Long before I enter [Dinner](http://www.dinnerbyheston.com/), I have done my research. After four years at Imperial I am an engineer worth my salt: alongside my Lit Review I have menus and quotes, and the date pencilled into Outlook three months in advance. Less than two weeks before we are due to go, Dinner opens and the reviews come streaming in: Giles calls it “[the best restaurant in the world](http://www.thetimes.co.uk/tto/life/food/restaurants/article2896276.ece)” [paywall]. AA Gill is in [raptures](http://www.thesundaytimes.co.uk/sto/style/food/Eating_Out/article534399.ece) [paywall]. Suddenly, with two days to go, our reservations are worth more than that week’s rent: a few hours later, a pair of reservations are selling for £300. Luckily, it does not occur to us to sell them despite the fact that we may not make rent this month, or that we only have two aubergines and some rice left. I cannot say I will ever regret it.

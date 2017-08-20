@@ -1,7 +1,7 @@
 ---
 id: "jk708"
 title: Jonathan Kim
-image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
+image: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
 twitter: "jonnykim"
 facebook: "https://www.facebook.com/Jonny.Kim"
 website_url: "http://jkimbo.co.uk"

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
+image_caption: ""
 ---
 
 2013 has been a year of labels for me. Whilst this may be somewhat rudimentary, I’ve really found labels to be an incredible source of new sounds in the year so far. I had to make a big effort to limit some of my favourite labels from this period (e.g. Opal Tapes, Blackest Ever Black) to just one record. Consequently, I would highly recommend looking at a label’s entire output if you like the release given in the list. I am unsure whether this has been a particularly good year for dark music or an awful year for me personally, but my picks from this year have been dominated by lo-fi, dark, industrial sounds, and so wherever possible I have avoided using this description for the works. Instead I have tried to focus on what it is that makes them stand out within this (surprisingly) tightly themed block.

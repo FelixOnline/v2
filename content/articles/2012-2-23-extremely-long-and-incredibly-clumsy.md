@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
-image_caption: >
-  Now listen, that headline up there is in no way sexual. I swear!!!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
+image_caption: ""
 ---
 
 [__Extremely Loud and Incredibly Close__](http://www.imdb.com/title/tt0477302/)

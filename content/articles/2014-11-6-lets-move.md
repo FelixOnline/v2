@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061925-snb11-fed-up-1.jpg"
-image_caption: >
-
-image_attribution: "huffingtonpost"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061925-snb11-fed-up-1.jpg"
+image_caption: ""
 ---
 
 Katie Couric is_ Fed Up_. In this new documentary, which she narrates and executively produces, we see the health epidemic plaguing the lives of Americans. It spares no one, and a sharp increase in the number of children affected by this in particular is what is so shocking. Yes, it’s the much talked-of issue of obesity. We’re at a point where more people will die of eating too much than too little. Alarming statistics of how many Americans will be obese by year 2050 and how many children develop diabetes nowadays compared to the previous near non-existent number should be a wake-up call to us all.

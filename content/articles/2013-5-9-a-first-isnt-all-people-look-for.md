@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305091311-tna08-robert-winston-webf.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305091311-tna08-robert-winston-webf.jpg"
+image_caption: ""
 ---
 
 It’s exam season. Everyone at Imperial is slaving away behind a desk, energy drink of choice in hand. It’s the time of year when finding a spare computer in the Library is enough to make you ecstatic, and noticing it’s not free and someone is using the classic penny in the arrow key trick will send you into despair. So perhaps it’s not the best time to betold that getting a first isn’t all there is to life.

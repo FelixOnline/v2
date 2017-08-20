@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
-image_caption: >
-  Katharine Burford as Val
-image_attribution: "Paul Toeman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
+image_caption: ""
 ---
 
 My first impressions on entering the [Finborough Theatre](http://www.finboroughtheatre.co.uk/productions/2011/production-fen.php), having climbed the stairs from the wine bar below, were dubious. The middle of the theatre was covered in earth, liberally strewn with potatoes, the room hummed with eerie folky music and for a good five minutes an actress in farmer’s garb darted from side to side, shaking her rattle at imaginary birds.

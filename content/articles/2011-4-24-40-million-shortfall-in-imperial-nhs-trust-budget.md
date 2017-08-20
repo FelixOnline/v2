@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
-image_caption: >
-  Professor Stephen Smith
-image_attribution: "Mike Finn-Kelcey/Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
+image_caption: ""
 ---
 
 Imperial College NHS Trust faces a budget shortfall of £40m next year, according to CEO of the trust and Pro-Rector for the college, Stephen Smith.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171512-felix-Key 20.jpg"
-image_caption: >
-  Bolshevik, Boris Mikailovich Kustodiev, 1920
-image_attribution: "State Tretyakov Gallery"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171512-felix-Key 20.jpg"
+image_caption: ""
 ---
 
 The Royal Academy’s ambitious new exhibition chronicles a troubled period in Russian history, from the overthrowing of the tsarist regime in 1917, through the years of civil war, to the consolidation of power by Stalin after death. In this window of time, art in Russia experienced a brief burgeoning that was soon to be violently truncated. A major exhibition of post-revolution artists took place in Leningrad in 1932 – this was to be a last gasp of creativity before the suppression of “formalism” and the persecution of artists by Stalin.

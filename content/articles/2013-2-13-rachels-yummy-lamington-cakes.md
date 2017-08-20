@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131354-tna08-lamington.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131354-tna08-lamington.jpg"
+image_caption: ""
 ---
 
 Australia Day came and went more than two weeks ago but if, for some unfathomable reason, you forgot to celebrate, fear not: find an excuse to pay homage to your favourite antipodeans. These traditional Australian lamington cakes are ideal for sharing with your loved ones, whether it be a boyfriend or girlfriend or your flat-mates afflicted with the late-night munchies.

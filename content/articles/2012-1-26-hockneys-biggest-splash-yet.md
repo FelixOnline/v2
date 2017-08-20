@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262209-ams111-hockney-key-41.jpg"
-image_caption: >
-  Winter Timber 2009 – Blue Wood
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262209-ams111-hockney-key-41.jpg"
+image_caption: ""
 ---
 
 Herman Hesse, the German novelist and poet, wandered for some time through the Swiss countryside – and wrote as a result the aptly named _Wandering_. His book is about many things, one of them being a communion with nature. Hesse tells his reader “Trees are sanctuaries. Whoever knows how to speak to them, whoever knows how to listen to them, can learn the truth” and these words resounded with especial strength throughout the two hours spent at David Hockney’s new show at the Royal Academy of Arts. For the creation of the new works exhibited in _A Bigger Picture_, Hockney has not strayed from his native Yorkshire, painting the forests and fields near his home. Nevertheless, the concept of unity with nature and the natural world in his painting is readily observed.

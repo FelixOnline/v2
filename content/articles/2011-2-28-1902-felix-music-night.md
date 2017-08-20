@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102282123-ks607-tincan44.jpg"
-image_caption: >
-
-image_attribution: "Christopher Walmsley"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102282123-ks607-tincan44.jpg"
+image_caption: ""
 ---
 
 This one goes out to all the cool cats and saucy mamas who turned up for the first ever Felix Music Night on Saturday 19th February. I hope all 250 people who were there that night had a great time, and from the looks on people’s faces as they left Metric when the event was over, I believe it was a great success.

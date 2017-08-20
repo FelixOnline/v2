@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031826-fa608-pl0pq.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031826-fa608-pl0pq.jpg"
+image_caption: ""
 ---
 
 __Douglas Heaven sees programmable cells, not silicon chips__

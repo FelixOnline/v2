@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012121-ks607-badminto.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012121-ks607-badminto.jpg"
+image_caption: ""
 ---
 
 This year’s BUCS Trophy has proven to be a good one for Imperial’s Ladies team.

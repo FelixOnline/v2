@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
-image_caption: >
-  The group held their first meeting in the Hotel Russell in London
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
+image_caption: ""
 ---
 
 [The Russell Group](http://www.russellgroup.ac.uk/) has agreed to extend its membership to four more universities. Durham, Exeter, Queen Mary and York are the four institutions that will join the traditionally 20-strong association of public research universities, of which Imperial College London is a member.

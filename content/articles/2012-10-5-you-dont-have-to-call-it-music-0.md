@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Music is wonderful, wouldn’t you agree? It stirs up a great deal in one’s being. It makes the foot tap, the heart beat slower and faster, and floods the mind with memories and emotions. Beyond a psychophysiological episode, it actually tells us a lot about ourselves and our humanity, when other means just aren’t enough.

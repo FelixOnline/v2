@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103172108-ks607-photo12.jpg"
-image_caption: >
-  Look at those bulging biceps
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103172108-ks607-photo12.jpg"
+image_caption: ""
 ---
 
 _Read part one "[From Mirpur to the Midlands](http://www.felixonline.co.uk/?article=1058)" _

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Plans to demolish a disused annexe from behind[ Pembridge Gardens hall of residence](http://halls.ic.ac.uk/pembridge/) in favour of a residential development have been clarified by the [College Fund](http://www3.imperial.ac.uk/collegefund).

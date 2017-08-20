@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501212222-ps3110-rsz_24_simon_norfolk_former_soviet-era_palace_of_culture_kabul_2001-02_courtesy_simon_norfolk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501212222-ps3110-rsz_24_simon_norfolk_former_soviet-era_palace_of_culture_kabul_2001-02_courtesy_simon_norfolk.jpg"
+image_caption: ""
 ---
 
 The relationship between the architect and the camera is symbiotic: as a uniquely modern medium, photography is perfectly suited to capturing the environments in which we live.

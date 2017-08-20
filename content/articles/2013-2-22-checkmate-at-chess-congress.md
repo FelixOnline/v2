@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On a cool Friday February afternoon a rag-tag team of students (and alumni that can’t seem to get away) gathered in the shadow of the Royal Albert Hall to take a van-load of trestle tables into Imperial College’s Union Dining Hall in preparation for an event that has been a long time coming – the 2013 edition of the Imperial College Chess Congress.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
+image_caption: ""
 ---
 
 Racial discrimination. It’s everywhere. Blatant or covert. If you deny that it’s an integral part of our society, you’re either an alien or white. Workplace, education, media. It seeps through every aspect of society. So it obviously comes as no surprise that it would influence the way we select our partners.

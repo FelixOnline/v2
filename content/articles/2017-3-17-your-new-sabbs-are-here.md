@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171303-felix-sabbs.jpg"
-image_caption: >
-  Isn't there someone missing tho?
-image_attribution: "ICU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171303-felix-sabbs.jpg"
+image_caption: ""
 ---
 
 Following a 36.79% turnout (down a bit from last year but still the third-highest in the country according to the Union website), elections are finally over and winners have been announced.

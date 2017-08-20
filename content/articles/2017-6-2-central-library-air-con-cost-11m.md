@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021446-felix-IMG_7788.JPG"
-image_caption: >
-  “Wait. How much did library doors cost?!”
-image_attribution: "felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021446-felix-IMG_7788.JPG"
+image_caption: ""
 ---
 
 It might have taken a freedom of information request but we found out how much the new Central Library air-con is going to cost. And while we were at it we thought we’d ask for the cost of every single refurbishment the Library has undergone since 2004. Because nobody keeps secrets from felix (and also because College is only requested by law to keep data for up to 12 years).

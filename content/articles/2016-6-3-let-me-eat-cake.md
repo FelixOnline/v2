@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031131-felix-IMG_2262.jpg"
-image_caption: >
-  Choux trious!
-image_attribution: "Christy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031131-felix-IMG_2262.jpg"
+image_caption: ""
 ---
 
 Marie Antoinette once said, “Let them eat cake.” If I were a peasant back in the days of the French Revolution, I’d happily take her words as a genuine attempt to offer me cake, ditch my hunger for the stale baguettes and munch on the amazing French creations for the rest of my life, maybe a vanilla millefeuille, a Saint Honoré or a basket of madeleines.

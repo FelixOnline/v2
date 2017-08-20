@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
-image_caption: >
-
-image_attribution: "Fabric"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
+image_caption: ""
 ---
 
 The iconic Islington Club, Fabric, shut it’s doors for possibly the last time over summer after it had its licence revoked by the local council.

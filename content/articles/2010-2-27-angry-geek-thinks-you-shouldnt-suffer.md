@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002271706-rsp07-tools.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002271706-rsp07-tools.jpg"
+image_caption: ""
 ---
 
 In my Monday morning lectures there’s a ten-minute break in the three hours of unending pain, and during this time one of the students likes to go and get a coffee. Without fail, he comes back ten minutes late each week. As I am more anal than a particularly uptight haemorrhoid this irritates me greatly, and so next week I will attempt to fashion a landmine out of a bottle of water, a multivitamin tablet, and some thumbtacks.

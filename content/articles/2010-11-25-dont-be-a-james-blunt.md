@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011261007-ks607-bluntjam.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011261007-ks607-bluntjam.jpg"
+image_caption: ""
 ---
 
 Anyone can claim to have saved the world. I stopped the toast from going that little bit too brown this morning. I don't know it yet, but this could have saved the world.

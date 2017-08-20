@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702171513-felix-16735690_10210796834809866_1593581991_o.jpg"
-image_caption: >
-  David Hockney, Portrait of an Artist with Two Figures
-image_attribution: "David Hockney, Private Collection"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702171513-felix-16735690_10210796834809866_1593581991_o.jpg"
+image_caption: ""
 ---
 
 Logistically alone, the new David Hockney exhibition at Tate Britain is a marvel. Nearly 150 pieces spanning the breadth of Hockney’s career – paintings, sketches, photography, video, and drawings – have been assembled in a thirteen-room experience. Many of the pieces have been borrowed from David Hockney Inc., or are owned by the Tate itself, but an extraordinary number have been sourced from other art museums – V&amp;A, MoMA, The Metropolitan Museum of Art, Smithsonian, Ludwig Museum etc. – and at least a third have been obtained from private collections. The team at the Tate deserve a great deal of credit in the organisation of this, the largest ever arrangement of Hockney’s work.

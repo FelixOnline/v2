@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
-image_caption: >
-  The unveiling of the new Exhibition Road, not lobbying in action
-image_attribution: "Jonathan Peek"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
+image_caption: ""
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/imperial-college-union-stance-on-exhibition-road-3971.pdf) brought to Union Council on Monday 13 February by Deputy President (Welfare) Nicolas Massie, the Union proposed to lobby Westminster City Council about multiple concerns with [the new Exhibition Road layout](http://felixonline.co.uk/news/2121/exhibition-road-closes-for-grand-opening-/). The paper pointed out the “uncertainty about the boundaries of the road on the west side, particularly the tactile borders”.

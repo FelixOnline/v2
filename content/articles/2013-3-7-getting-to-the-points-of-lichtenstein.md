@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072350-tna08-roylic006.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072350-tna08-roylic006.jpg"
+image_caption: ""
 ---
 
 “Whaam!” is probably one of the most reproduced pieces of art on the planet. That bold comic style, that distinctive script, the perfect coloured dots... The piece is so distinctively Lichtenstein that it has perhaps come to define him as an artist. However as this retrospective shows, Roy Lichtenstein is so much more than that.

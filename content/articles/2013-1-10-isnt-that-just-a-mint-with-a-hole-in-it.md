@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
-image_caption: >
-  Felix’s latest My Little Pony feature
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
+image_caption: ""
 ---
 
 A dark and snowy December morning saw the Imperial College Equestrian Team meet for their second competition of the year at Trent Park Equestrian Centre in Enfield. The team met at 7am at Baron’s Court tube and began the long tube journey to Oakwood for their home competition, by the time we got to the stables the sun had risen and the snow was beginning to melt, but the team was not looking forwards to plaiting and grooming horses in the freezing cold!

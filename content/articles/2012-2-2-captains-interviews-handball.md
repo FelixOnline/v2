@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022257-sjw209-img_9098.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022257-sjw209-img_9098.jpg"
+image_caption: ""
 ---
 
 Ladies and Gentlemen, I hope you’re having a good Friday afternoon (I won’t, I have lectures till 6). Sport editor gripes aside, I am pleased to present this week’s interviewees: the lovely Annabelle Mayers, handball women’s captain, and the dashing Stefan Bauer – goalkeeper extraordinaire and a founding member of the club. As we sit down in 568 over a pint I get cracking staright away: if he is a founding member, how is he still here?

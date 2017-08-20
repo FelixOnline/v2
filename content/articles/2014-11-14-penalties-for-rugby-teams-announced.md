@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142015-ps3110-rugby-ball.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142015-ps3110-rugby-ball.jpg"
+image_caption: ""
 ---
 
 Earlier this week, in light of the recent incidents concerning anti-social behaviour, Imperial College Union released the penalties that will be held against both Imperial College Union Rugby Football Club (ICURFC) and Imperial Medicals Rugby Football Club.

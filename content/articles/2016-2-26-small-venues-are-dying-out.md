@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
-image_caption: >
-  One of the many clubs at risk of shutting down.
-image_attribution: "100 club"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
+image_caption: ""
 ---
 
 Over the past decade, London has lost over forty percent of its small music venues, and it is a similar story around the country. Notorious venues such as the Sheffield Boardwalk have already closed, which saw greats such as **The** **Clash**, **Sex Pistols**, and **Arctic Monkeys** play there at the beginning of their respective careers. Many more small venues are at a risk of shutting down, like the 100 Club on Oxford Street and the Troubadour on Old Brompton Road, which has gone up for sale.

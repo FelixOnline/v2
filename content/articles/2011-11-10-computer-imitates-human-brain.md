@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Despite computer processors being able to operate at speeds of up to ten thousand billion (1013) bits per second they are outperformed in many tasks by the human brain, the neurons of which fire a mere thousand or so times a second. This is because modern machines are only cable of so-called ‘serial bit-processing’; meaning that calculations only occur one at a time. Each neuron in the brain, on the other hand, can communicate with up to a thousand others each time it fires, allowing for a great degree of parallel calculation.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231255-cj914-president.jpg"
-image_caption: >
-  It didn't rain on this writer's parade.
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231255-cj914-president.jpg"
+image_caption: ""
 ---
 
 On Wednesday, Imperial was honoured to welcome President Xi Jinping of the People’s Republic of China. The trip to the College was part of a four day visit to the UK, which was the first state visit by a Chinese leader in ten years. In addition to visiting Imperial, the President also met with Prime Minister, David Cameron in an extremely important meeting regarding the building of a new power plant at Hinkley Point, Somerset. Whilst in the UK he is a guest of the Queen, residing at Buckingham Palace.

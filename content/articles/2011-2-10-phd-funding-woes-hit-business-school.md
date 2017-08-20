@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
+image_caption: ""
 ---
 
 A group of five PhD students have expressed complaints after they encountered issues with funding from the [Imperial College Business School](http://www3.imperial.ac.uk/business-school). The students, ranging from second to third years on the Graduate Teaching Assistant (GTA) scholarship scheme complained that they were expected to perform teaching as part of their contract while first years have no such condition in the terms, therefore allowing them to earn more money for doing so.

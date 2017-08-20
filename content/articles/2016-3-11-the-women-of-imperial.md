@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201603111132-felix-20160310_140457.jpg"
-image_caption: >
-  Squint and let the white faces wash over you.
-image_attribution: "FELIX"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201603111132-felix-20160310_140457.jpg"
+image_caption: ""
 ---
 
 The odds are good, but the goods are odd, or so goes the saying on the ‘talent’ at our beloved university. It’s an oft-referred trope of Imperial: on open days, we’re warned that there’s no shortage of dudes, and forced conversations during freshers’ week often resort to, “Wow, there are loads of guys here!” We’re always talking about the male experience, or lack thereof in terms of sexual opportunity, but what of the women of Imperial?

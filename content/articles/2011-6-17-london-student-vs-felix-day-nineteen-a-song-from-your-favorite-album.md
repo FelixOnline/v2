@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I'm not sure if [My Beautiful Dark Twisted Fantasy](http://open.spotify.com/album/6LBiuhK7PZKjVXyMfPxPoh) is my favourite album (it's probably close) but since [Pitchfork officially rated it 'perfect'](http://pitchfork.com/reviews/albums/14880-my-beautiful-dark-twisted-fantasy/), it's probably as good a choice as any.

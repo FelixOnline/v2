@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112105-cj914-under-the-skin-cmyk.jpg"
-image_caption: >
-
-image_attribution: "theverge.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112105-cj914-under-the-skin-cmyk.jpg"
+image_caption: ""
 ---
 
 __10. Mr Turner__

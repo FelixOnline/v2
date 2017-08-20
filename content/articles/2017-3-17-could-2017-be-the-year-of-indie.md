@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
-image_caption: >
-
-image_attribution: "Liliane Callegari"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703171706-felix-13705860103_e571e37393_o.jpg"
+image_caption: ""
 ---
 
 Last year, was almost unquestionably the year of hip-hop; the genre saw a huge influx of new artists and the drop of some absolutely massive albums from established names (From Chance the Rapper’s Colouring Book and A Tribe Called Quest’s We Got It From Here… Thank You 4 Your Service to Kendrick Lamar’s Untitled Unmastered). This explosion in hip-hop isn’t going anywhere any time soon but, 2017 might just see a resurgence of indie.

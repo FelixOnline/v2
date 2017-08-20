@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182105-ks607-frisbee.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182105-ks607-frisbee.jpg"
+image_caption: ""
 ---
 
 A 6.30am start proved no hindrance to Imperial College Ultimate at Indoor Regionals 2010 as dD once again secured their place at Nationals in Wolverhampton. Three teams were sent to compete in Sutton, south London; the first team competed against the best in the South East, whilst two further teams of new players held their own to learn the game in a competitive environment.

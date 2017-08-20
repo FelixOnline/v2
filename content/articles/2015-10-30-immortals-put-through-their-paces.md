@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510301521-ygr12-immort.jpg"
-image_caption: >
-
-image_attribution: "Imperial Immortals"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510301521-ygr12-immort.jpg"
+image_caption: ""
 ---
 
 Last Saturday saw the Immortals’ three-way scrimmage against Solent and Brunel. The Immortals were hungry for some contact after many intense training sessions. The day started off with each university’s offensive team going up against each defensive team for ten plays before switching around. This was followed by a round robin scrimmage and the day ended with special teams undergoing specific scenarios. Despite some players being inexperienced, the defensive team were strong and held off the hard-hitting Brunel and Solent offense.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-13148474_1188780351133367_1516358951_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061040-felix-13148474_1188780351133367_1516358951_o.jpg"
+image_caption: ""
 ---
 
 This week, college is coming to the aid of three Imperial students who accidentally signed a three year tenancy agreement for a flat on Queen’s Gate that they can’t afford.

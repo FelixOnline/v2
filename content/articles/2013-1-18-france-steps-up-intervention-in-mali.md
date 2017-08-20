@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301180028-tna08-mali-flag.gif"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301180028-tna08-mali-flag.gif"
+image_caption: ""
 ---
 
 Mali is in the middle of a crisis. Since the start of 2012, a war of independence has been fought in its northern provinces, known collectively as Azawad. The conflict ended abruptly in April with the ousting of the then President Amadou Toumani Touré, by rebelling soldiers over his handling of the war. The loose alliance of Tuaregs and Islamists (Ansar Dine, a group linked to Al-Qaeda) then declared Azawad an independent state.

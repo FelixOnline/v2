@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231830-jyg11-screen-shot-2015-01-23-at-18.30.33.png"
-image_caption: >
-  "But Caz, why are you so angry with that Italian chef?" "It's fusilli reasons."
-image_attribution: "Felix Food"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231830-jyg11-screen-shot-2015-01-23-at-18.30.33.png"
+image_caption: "But Caz, why are you so angry with that Italian chef? It's fusilli reasons."
 ---
 
 Happy 2015, everyone! Between deadlines in early January, prepping for new module lectures this term and catching up with the stuff I missed last term when the Vile Bug of Winter ‘14 hit Imperialites (and their dogs...) finding time to cook decent meals has been rather difficult: So difficult that the headline pun this week is an awfully poor reference to what most of us have been doing during the exam week just gone.

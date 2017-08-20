@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230038-tna08-twilight-breaking-dawn-part-2-plot-twist-spoiler-fight-scene.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230038-tna08-twilight-breaking-dawn-part-2-plot-twist-spoiler-fight-scene.jpg"
+image_caption: ""
 ---
 
 The Twilight Saga comes to a much needed close with its final instalment. The main problem with this film is that Meyer’s final book barely contained enough content for one film, let alone two franchise-bleeding epics. Consequently, this film ended up being two hours in which essentially, nothing happened.

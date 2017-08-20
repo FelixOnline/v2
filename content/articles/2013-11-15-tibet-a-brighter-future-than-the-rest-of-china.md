@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150243-felix-dalailama.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150243-felix-dalailama.png"
+image_caption: ""
 ---
 
 _N.B. Articles in the comment section are the opinion of the author and do not necessarily reflect the opinion of the newspaper or Imperial College. -Ed._

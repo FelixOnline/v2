@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
-image_caption: >
-  *goes to Southall once*
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
+image_caption: ""
 ---
 
 Next Thursday, Londoners go to the polls to vote in their new Mayor of London. Twice-elected Conservative Boris Johnson has moved onto bigger and better things, and now Labour’s Sadiq Khan and the Conservative Zac Goldsmith are going head to head below in this: our comparison of the two frontrunners.

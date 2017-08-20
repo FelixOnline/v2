@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201192152-felix-clayponds.jpg"
-image_caption: >
-  Clayponds is located in South Ealing, and houses over 300 postgraduate students
-image_attribution: "Tommy Allieri"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201192152-felix-clayponds.jpg"
+image_caption: ""
 ---
 
 Students have expressed their concern at the planned closure of [postgraduate hall of residence Clayponds](http://halls.imperial.ac.uk/clayponds/), with Imperial College Union President Scott Heath expressing his "disappointment" at an alleged lack of communication between the College and the Union with regards to the College's decision.

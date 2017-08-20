@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 So the second series of the BBC’s brilliant Sherlock has come to an end. The first series showed that it is possible to make a fresh, modern television adaptation while remaining impressively faithful to the hundred year old source material. The second showed that the creative team has lost none of their spark in the intervening time.

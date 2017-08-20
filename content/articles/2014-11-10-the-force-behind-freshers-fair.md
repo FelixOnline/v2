@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102351-ps3110-dpcs_by_tlim-for-site.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102351-ps3110-dpcs_by_tlim-for-site.jpg"
+image_caption: ""
 ---
 
 __B: What clubs and societies are you currently involved in or have you been a member of?__

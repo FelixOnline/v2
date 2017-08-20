@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
-image_caption: >
-  Some people just can’t do anything right...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242310-felix-wall-street-angry-geek-picture.jpg"
+image_caption: ""
 ---
 
 George Howard wrote ever such an interesting piece on the Occupy protests the other week. You remember? It was the one that kept using the word socialist to describe a bunch of people expressing an opinion. You don’t remember. That’s alright, it’s not really necessary for what I’m going to say anyway. Let’s begin with the Occupy protests, and leave George to one side for a while.

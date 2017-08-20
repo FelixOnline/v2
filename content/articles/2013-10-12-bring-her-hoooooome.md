@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310120147-jal08-809dd08308020ae3e3511ae43b_h498_w598_m2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310120147-jal08-809dd08308020ae3e3511ae43b_h498_w598_m2.jpg"
+image_caption: ""
 ---
 
 ￼__Prisoners__

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305082111-tna08-asiwyfa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305082111-tna08-asiwyfa.jpg"
+image_caption: ""
 ---
 
 Suspiciously named and sensibly abbreviated, ASIWYFA are a 4 piece who play instrumental rock. Their sound is probably best summarised by the title of their best known track, “Set Guitars To Kill” - hyperactive arena rock made to be heard from so close to the band that you can feel splinters flying from the drumsticks. Their self-titled debut released in 2009 benefited from the band’s extensive catalogue of well-practiced demos, recorded with spacious production focusing on bringing out the wide variety of moods the group could create. Their second album, Gangs, adopted a more familiar mix, but fell just shy of being truly memorable when compared to their first album.

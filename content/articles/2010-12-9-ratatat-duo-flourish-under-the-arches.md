@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092027-ma1307-Ratatat.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092027-ma1307-Ratatat.jpg"
+image_caption: ""
 ---
 
 This dynamic duo, formally known as Cherry, fired up at Heaven. A set mainly compromised of tracks from Ratatat’s newest album LP4, was complemented by trippy video projections spanning the rear of the stage, creating a pleasantly multi-sensorial experience. Jungle beats were harmonised with warped collages of sorts, featuring everything from animal portraits to volcanic eruptions.

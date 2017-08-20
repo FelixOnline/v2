@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201527-felix-16121513_10210543447115332_177439220_o.jpg"
-image_caption: >
-
-image_attribution: "Allstar - Studio Canal"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201527-felix-16121513_10210543447115332_177439220_o.jpg"
+image_caption: ""
 ---
 
 If you were to rely on the list of previous winners of the Best Actor Oscar as a definitive list of cinema history’s greatest performances, you would probably have one clear go-to when thinking of acting techniques for a sure-fire win (apart from being white): shouting. It has seemed throughout the years that the only performances by leading actors that really catch awards committees’ attention are the ones that go off with a flash and a bang – nuance and subtlety be damned. In fact, Leonardo DiCaprio’s landmark win last year for his role in The Revenant saw him in a performance that featured more yelling and exasperated grunting than actual speech.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181522-felix-7911930212_8a7fde6cc6_k.jpg"
-image_caption: >
-
-image_attribution: "Darwin Yamamoto"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181522-felix-7911930212_8a7fde6cc6_k.jpg"
+image_caption: ""
 ---
 
 In the olden times, the world was in a very different place. Just look at old stories and folk-tales to get an idea; they always sprang out of the aspirations and concerns of the time. After centuries of storytelling, it can get pretty tricky to cut those bonds. Obviously, society has massively evolved and moved on from then, however video games are still struggling to catch up.

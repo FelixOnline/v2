@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262218-pk1811-snake-mouth.jpg"
-image_caption: >
-  Oopssss... Lookssss like sssssomeone dropped the ssssoap...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262218-pk1811-snake-mouth.jpg"
+image_caption: ""
 ---
 
 Hello Felix readers, Cave Johnson here.

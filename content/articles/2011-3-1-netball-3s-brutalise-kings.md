@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012127-ks607-netballt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012127-ks607-netballt.jpg"
+image_caption: ""
 ---
 
 With two players returning to the team, the 3’s were excited to be playing as a full squad on Monday. The opposition was King’s 4’s, a team who we knew from past experience we could beat, however we also knew they would put up a fight. Literally.

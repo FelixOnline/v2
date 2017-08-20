@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122244-felix-kadhim-album.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122244-felix-kadhim-album.jpg"
+image_caption: ""
 ---
 
 My New Year’s Resolution was to stop using food metaphors in my writing, but as you will see, this album has left me a bit drunk and I’ve succumbed to the lurid appeal of Pot Noodle once again.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Promoters and record label Upset The Rhythm have really been having a good run so far this year, throwing the phenomenal [__Pete Swanson__](http://typerecords.com/artists/pete-swanson) (of [__Yellow Swans__](http://www.youtube.com/watch?v=1RrModDAsO8)) and [__Mark Fell__](http://www.markfell.com/wiki/) (of [__SND__](http://www.youtube.com/watch?v=ddq7PzDSqHY)) event last Monday, and last night putting on a small show in The Sebright Arms for hot-topic [__Helm__](http://soundcloud.com/pan_recs/helm-impossible-symmetry) (on the hot-topic label PAN, which I only recently realised is the same label that put out Sewer Election’s fantastic Vidöppna Sår in 2010) and the obscure Portuguese synth and guitar duo [__Tropa Macaca__](http://tropamacaca.com/).

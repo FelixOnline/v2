@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 By some spectacular stroke of luck I managed to get my paws on a ticket to the Spectre premiere. I’m not just talking a ticket to see the film, I mean full on red carpet walking boozing and schmoozing tickets.

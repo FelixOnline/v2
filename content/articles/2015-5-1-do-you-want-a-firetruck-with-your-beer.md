@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505010135-ps3110-untitled-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505010135-ps3110-untitled-2.jpg"
+image_caption: ""
 ---
 
 Craft beer has seen an exponential increase in popularity in the last four years, and with that increased demand have come entrepreneurs seeking to profit.

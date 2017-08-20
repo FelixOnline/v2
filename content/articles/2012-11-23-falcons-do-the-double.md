@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211230007-tna08-198394_10151085767356504_1250909917_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211230007-tna08-198394_10151085767356504_1250909917_n.jpg"
+image_caption: ""
 ---
 
 The Imperial Falcons are back to winning ways after club President Dan Harris went 3 for 3 and Sidney Louzon hit a home run to fire Imperial to two victories against UCL.

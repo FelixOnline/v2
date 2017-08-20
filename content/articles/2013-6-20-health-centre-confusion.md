@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210042-tna08-london_ambulance_at_abbey_road.jpg"
-image_caption: >
-  Health Centre blame the College for not filling the gap in funding. College say they increased fundi
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210042-tna08-london_ambulance_at_abbey_road.jpg"
+image_caption: ""
 ---
 
 Angry responses have [continued](http://felixonline.co.uk/news/3536/postgraduate-anger-at-health-centre-access-being-removed/) to pour in concerning the decision by the Imperial College Health Centre to stop treating Imperial postgraduates who live outside of the Centre’s catchment area. The Health Centre only receives money from the NHS to register patients living within this area but additional funding received from the College has traditionally allowed it to treat out of area students. These students do not officially ‘register’ at the Health Centre but rather ‘join’. This allows them to use all of the Health Centre’s provisions apart from the out-of-hours service, but they are still encouraged to register with a local GP.

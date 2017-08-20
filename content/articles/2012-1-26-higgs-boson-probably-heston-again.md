@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262249-felix-heston.jpg"
-image_caption: >
-  NO, LEFT THE CHIPS IN THE OVEN FOR 10ns TOO LONG. WHY ALWAYS ME?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262249-felix-heston.jpg"
+image_caption: ""
 ---
 
 Heston Blumenthal can be a bit pretentious. Take his recipe for green bean salad:

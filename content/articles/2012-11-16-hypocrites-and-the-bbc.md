@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211161715-tna08-154603173.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211161715-tna08-154603173.jpeg"
+image_caption: ""
 ---
 
 The [BBC](http://www.bbc.co.uk/) has been having an interesting few days. Or at least a small part of the investigative journalism section has. Not only do they fail to broadcast an allegation about [Jimmy Savile](http://www.bbc.co.uk/news/uk-19921658), leaving it to [ITV to do so several months later](http://www.itv.com/news/update/2012-10-04/watch-the-itv-documentary-on-jimmy-savile/), but they [accidentally aired a report from someone suggesting that they had been abused by a former senior polititician,](http://www.bbc.co.uk/news/uk-20348978) when actually it wasn’t the person they meant, even though they never actually gave a name. I know, I’m confused too.

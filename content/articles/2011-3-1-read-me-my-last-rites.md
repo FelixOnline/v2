@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
+image_caption: ""
 ---
 
 Any film about exorcism will always be compared to William Friedkin’s unintentionally hilarious 1973 classic The Exorcist but Mikael Håfström’s attempt to circumnavigate any comparisons with the latter in his latest horror The Rite inevitably fails. Although we’re informed that the story is ‘inspired by true events’, the film unfortunately resorts to your typical body convulsing, manic preaching we’d expect of an exorcist movie minus the profanities.

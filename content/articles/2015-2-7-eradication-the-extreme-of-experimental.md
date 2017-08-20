@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502071917-ps3110-4_eradication_richard-davenport.jpg"
-image_caption: >
-  The Eradication of Schizophrenia in Western Lapland.
-image_attribution: "Richard Davenport"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502071917-ps3110-4_eradication_richard-davenport.jpg"
+image_caption: ""
 ---
 
 In the eerie Council Chamber of __Battersea Arts Centre__, a partition has been raised between the two halves of the room. With half the audience on one side and half on the other, two different plays are on show. In what feels like a set botched together from bits and pieces, the audience wait to find out which of tonight’s two performances they will see. Into the space walk the four actors; one sits down in front of us and the other three pass through the small opening to the other half of the audience. Although we can hear what is going on on the other side, their actions can only be left to the imagination.

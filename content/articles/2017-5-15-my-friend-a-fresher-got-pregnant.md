@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151941-felix-8674005940_206068c1a8_o.jpg"
-image_caption: >
-
-image_attribution: "Francisco Osorio"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151941-felix-8674005940_206068c1a8_o.jpg"
+image_caption: ""
 ---
 
 This is a story about a friend (yes, it is actually about a friend). Just like any good story, it starts with a nice (by British standards anyway) spring day with my best friend telling me that she’s pregnant.

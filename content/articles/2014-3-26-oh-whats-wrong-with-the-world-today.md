@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It used to be that the world was an absolutely awful place. People were starving left and right in all those countries to the South, the hole in the ozone layer was going to kill us all, there was no more oil left, grubby foreigners were going to steal all of our jobs, and the latest Star Wars movie was the biggest tragedy of our generation.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302142111-tna08-ri-mayfair-home.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302142111-tna08-ri-mayfair-home.jpg"
+image_caption: ""
 ---
 
 The Royal Institution (RI), one of the chief catalysts for the development of British science, has put its Mayfair residence on the market in an effort to overwrite mounting debts. Sir Richard Sykes, the current Chairman and former Rector of Imperial College London, has had to take swift action to remedy institutional losses. These were in excess of £600,000 in the 2012 academic year.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152135-tna08-crystal-castles-iii.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152135-tna08-crystal-castles-iii.jpg"
+image_caption: ""
 ---
 
 Crystal Castles’ rise to fame has undoubtedly been rapid. From their debut album (I) in 2008 to their latest release (III), the band has attracted a huge fan base. They went from playing in dingy, underground bars to playing Reading this year.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111102017-pk1811-2ndclassstamp---large.jpg"
-image_caption: >
-  Not willing to say anything incriminatory – so here’s a picture of the Queen
-image_attribution: "flickr/incurable_hippie"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111102017-pk1811-2ndclassstamp---large.jpg"
+image_caption: ""
 ---
 
 A couple of weeks ago, at the Commonwealth summit in Perth, the sixteen leaders of countries where Elizabeth II is head of state unanimously agreed to change the succession laws to give women equal priority as men. This means should the Duke and Duchess of Cambridge (aka Wills and Kate) have a daughter before any sons, she will be eligible for the throne before her younger brothers. It will also allow any monarch, or anyone else in the succession line, to marry a Catholic without losing their right to the throne. A retroactive clause has been added to prevent hundreds of pretenders to the throne from emerging.

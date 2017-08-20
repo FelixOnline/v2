@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203020106-felix-74bee5e9-720a-4126-a137-b92c534bbdd9.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203020106-felix-74bee5e9-720a-4126-a137-b92c534bbdd9.jpg"
+image_caption: ""
 ---
 
 A student manifesto has been released in light of the London mayoral and assembly elections in May. The document, produced by [Student Vision for London](http://visionforlondon.org.uk/) in collaboration with many London universities’ student unions, outlines nine key issues for students with demands for the mayoral candidates to solve them.

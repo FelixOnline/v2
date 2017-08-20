@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 A hapless ex-lawyer (Elijah Wood) wakes up after trying to commit suicide the night before. Clearly a fruitless attempt – damn you sugar pills! Ryan is confronted by his neighbour, Jenna, asking him to look after her dog, the eponymous Wilfred (played superbly by Jason Gann, and no, I hadn’t heard of him either). Ryan’s opinion of Jenna is fairly self evident – she’s pretty hot – so he obliges.

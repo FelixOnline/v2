@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
-image_caption: >
-  Don’t understand a puzzle? Come back when you’ve explored some more.
-image_attribution: "Thekla Inc."
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
+image_caption: ""
 ---
 
 There have been very few games released in recent years that have had more to live up to than The Witness. Unlike the recent Fallout 4, there was no multi-million dollar marketing campaign, no tube ads, no merchandising – in other words, no ‘hype’. Instead, The Witness has been quietly on our radar for close to six years.

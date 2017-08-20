@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031658-felix-16077864941_3658b9cf66_o.jpg"
-image_caption: >
-
-image_attribution: "pipnash"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031658-felix-16077864941_3658b9cf66_o.jpg"
+image_caption: ""
 ---
 
 Trafalgar Square’s Fourth Pinth is a temporary pedestal upon which the best, edgiest, and most relevant contemporary sculptures are displayed, and the latest spot is now up for grabs. Well, to one of the five shortlisted entries, that is. These are currently up for display (in miniature-sized versions) in the National Gallery, and it makes for an exhibition well-worth perusing, before heading upstairs to drool over the Monets and Van Goghs.

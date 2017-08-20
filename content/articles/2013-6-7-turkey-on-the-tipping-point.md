@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
-image_caption: >
-  Police show no restraint against peaceful demonstrators
-image_attribution: "http://occupygezipics.tumblr.com/"
-image_attribution_link: "http://occupygezipics.tumblr.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
+image_caption: ""
 ---
 
 This week in Turkey, peaceful demonstrations against the demolition of Istanbul’s Gezi Park rapidly escalated into nationwide protests against the increasingly conservative measures enacted by prime minister Recep Tayyip Erdoğan. The disproportionate dispersion tactics used by the police catalysed an uprising in a population which has grown tired of being ignored and oppressed by the authoritarian mandate of the ruling Justice and Development Party (AKP).

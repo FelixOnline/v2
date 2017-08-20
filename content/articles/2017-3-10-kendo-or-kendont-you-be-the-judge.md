@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
+image_caption: ""
 ---
 
 Last weekend on the 4th and 5th of March, the annual UK Kendo University Championships took place in Cambridge, where Imperial College took home several awards, including winning the kyu grade team competition.

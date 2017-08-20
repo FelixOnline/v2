@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302010028-tna08-hockey1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302010028-tna08-hockey1.jpg"
+image_caption: ""
 ---
 
 On a crisp sunny January Sunday morning, (or a continuation of Saturday evening depending on who you ask), 30 of Imperial’s finest, the IC and RSM teams, faced-off at Harlington Sports Ground for an epic Mixed hockey match and a half time boat race. The two components of the match up are fiercely contested allowing both teams to show off their strengths!

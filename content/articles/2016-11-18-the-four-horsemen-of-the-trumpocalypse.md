@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.38.51.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.38.51.png"
+image_caption: ""
 ---
 
 Last Wednesday the world woke to darkness – a fascist, misogynistic, anti-semitic, Islamophobic, racist, sexual assaulter who has called Mexicans rapists, made fun of a reporter’s disability, praised every dictator under the sun from Putin to Kim Jong-Un, ridiculed the heroism of prisoners of war, called for the banning of all Muslims, urged carpet bombing the Middle East, questioned the need to preserve NATO, asserted that climate change is a hoax perpetrated by the Chinese, threatened the 1st Amendment rights of free speech by promising to jail journalists and paying the legal fees of his supporters beating up peaceful protesters, and prided himself on his sexual abuse of women. Quite a mouthful, but only a thin veneer of what is Donald Trump.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101954-ks607-jezebele.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101954-ks607-jezebele.jpg"
+image_caption: ""
 ---
 
 Pride is a funny sort of thing. It tends to only come out on special occasions: times like when you realise the person you are overhearing on the tube went to a university that is rated 3rd from the bottom rather than 3rd from the top of the league tables and you sit there thinking that you’re pleased that you go to Imperial. I think part of our pride comes from the fact that Imperial offers somewhat ‘classical’ subjects, showing a reverence for the timeless and historically robust. In particular, those things that make sense to us but the rest of the world think are slightly bizarre, such as the fact that we have Varsity against ourselves and that we have a Mountain Hut in the midst of Wales. We are one of three universities (guess the other two) with an Exploration Board that encourages students to get off campus and explore the world, and we are one of two taking care of Vintage Vehicles.

@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305072017-tna08-webbenton.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305072017-tna08-webbenton.jpg"
+image_caption: ""
 ---
 
 Imperial College doesn’t care about its students and there’s nothing we can do to change it. The Sabbs are generally powerless and many of the Union’s decisions don’t seem to have our best interests at heart.

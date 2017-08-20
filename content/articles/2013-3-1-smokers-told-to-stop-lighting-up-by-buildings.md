@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010044-tna08-cigarette-butt.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010044-tna08-cigarette-butt.jpg"
+image_caption: ""
 ---
 
 Students at Imperial College London have been receiving emails about smoking on the South Kensington campus. The purpose has been to remind students that they are not allowed to smoke by the entrances to buildings. The emails have been sent by the Heads of Departments, seemingly on the request of Facilities Management – suggested by one such email, forwarded on to students by the Head of the Department of Computing, showing the original sender (Mitul Shah, Assistant Building Manager) and recipients of the original email.

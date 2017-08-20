@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051339-felix-gp3dwileycapstone-(2)-copy.jpg"
-image_caption: >
-  I procrastinate by reading this book. Technically time well spent?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051339-felix-gp3dwileycapstone-(2)-copy.jpg"
+image_caption: ""
 ---
 
 This week I met Dr. Magdalena Bak-Maier, a personal development and learning expert, executive coach to top level scientists and entrepreneurs, and author of Get Productive. The premise of the book is simple: instead of feeling overwhelmed by having too much to do, you can learn how to use your brain well and get things done with time to spare. As she currently works at Imperial as a Organisational Developement Consultant, it seemed fitting to ask the productivity expert a few questions to help Imperial students with their studying habits:

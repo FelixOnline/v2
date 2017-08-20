@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
-image_caption: >
-  Regius Professor of Enginering, Professor Toumazou
-image_attribution: "Imperial College London"
-image_attribution_link: "http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_23-10-2013-15-55-42"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250028-felix-prof_tomz_imperial.jpeg"
+image_caption: ""
 ---
 
 Imperial conferred its first Regius Professorship on Professor Chris Toumazou on Commemoration day for undergraduate students on 23 October.

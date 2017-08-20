@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051251-felix-photosocheader4.jpg"
-image_caption: >
-  Aw, friends.
-image_attribution: "Photosoc"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051251-felix-photosocheader4.jpg"
+image_caption: ""
 ---
 
 As an inaugural collaboration between Photography and Art Society, this photography contest revolves around the theme of ‘friendship’. Both societies organise activities of different natures: ArtSoc organises street art walking tours and musical outings every week, while PhotoSoc organises regular photo walks and workshops.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112156-ks607-zooniver.jpg"
-image_caption: >
-
-image_attribution: "Tom Welch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112156-ks607-zooniver.jpg"
+image_caption: ""
 ---
 
 A grainy picture pops up in front of me. It’s an unimpressive sight. On the right of the picture a simple question pops up, “Is the galaxy simply smooth and rounded, with no sign of a disk?” I’m given 3 options; I click the one which best suits the blob in front of me. I answer a couple more questions and that’s it, I’ve officially classified a galaxy.

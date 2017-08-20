@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151829-felix-Heroes-Illustration-2.jpg"
-image_caption: >
-
-image_attribution: "Nintendo"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151829-felix-Heroes-Illustration-2.jpg"
+image_caption: ""
 ---
 
 After years of Nintendo-only games, we finally get a free-to-play Fire Emblem game for iOS and Android. This spinoff is a simplistic but entertaining spin on the strategy RPG series that offers long-time fans something light to enjoy between last year’s Fates and next year’s game for the Switch.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Memories of a completely crappy rain-filled start to November were dried up in a flash as Sunday came around and the skies cleared for the 2013 Hillingdon Autumn Duathlon. The local race is a favourite among the club with a few podiums last year and a win courtesy of Swiss international Jean-Claude who sadly has now moved back home. Only 15min away by overground from Paddington, and on a purpose built mile long racetrack with no cars or pedestrians to contend with. The atmosphere was light-hearted as fourteen of Imperial Triathlon Club’s finest gathered outside the front of Hillingdon triathlete’s club house. The atmosphere inside was just as relaxed as the hosts seamlessly ran a faultless race day for us.

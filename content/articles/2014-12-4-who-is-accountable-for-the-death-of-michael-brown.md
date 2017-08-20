@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
-image_caption: >
-  It has been tense in Ferguson since the shooting of Michael Brown in August.
-image_attribution: "ibtimes"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
+image_caption: ""
 ---
 
 For the past week, the town of Ferguson, Missouri has been racked with a continuous stream of protests and riots following the Grand Jury’s decision to not indict Officer Darren Wilson in the case of the shooting of Michael Brown. The outcome of the investigation has attracted widespread criticism from many individuals within the United States and elsewhere in the world.

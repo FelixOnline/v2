@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 __Almost every memorable moment as a GTA (Graduate Teaching Assistant) is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job. It’s been a rollercoaster first year as a GTA, and I’ve definitely learnt some valuable lessons (such as not to get too drunk the night before a field trip abroad), but I don’t think I did a bad job. Here are my highlights and lowlights of the year, as well as the best and worst experiences I had with GTAs when I was an undergrad. __

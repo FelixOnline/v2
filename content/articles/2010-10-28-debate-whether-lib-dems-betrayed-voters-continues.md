@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282004-ks607-values.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282004-ks607-values.jpg"
+image_caption: ""
 ---
 
 The accusations that the Liberal Democrats have compromised or “betrayed” their principles has constantly been levelled at them since their rise to shared power in May 2010. These have only intensified with the recent comprehensive spending review and the announcement of a higher cap on university tuition fees. But is it fair to judge them so harshly?

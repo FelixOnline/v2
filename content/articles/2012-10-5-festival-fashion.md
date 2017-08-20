@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051303-felix-img_5668.jpg"
-image_caption: >
-  Katy B. Microphones are for losers, and talanted people – BURRRN
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051303-felix-img_5668.jpg"
+image_caption: ""
 ---
 
 This summer Felix hit up the east coast of Spain, on a mission to discover the summer styles at Benicàssim Music Festival (Festival Internacional de Benicàssim).

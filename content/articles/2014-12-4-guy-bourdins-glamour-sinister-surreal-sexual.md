@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdan__spring_1979____guy_bourdin.jpg"
-image_caption: >
-  Charles Jourdan, Spring 1979 - an example of Bourdin's surreal and sexually sinister style
-image_attribution: "Guy Bourdin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdan__spring_1979____guy_bourdin.jpg"
+image_caption: ""
 ---
 
 __S____omerset House__ unveiled the UK’s largest ever exhibition of Guy Bourdin’s work, which spans the 40 year career of the French photographer, and features not only his most iconic photographs, but also never before seen material including Polaroid test shots, double-page spread layouts, contact sheets, as well as Bourdin’s paintings, poetry, Super-8 films, and sketches. In content and title – _Guy Bourdin: Imagine-Maker_ – the exhibition shows Bourdin as not simply a fashion photographer, but also an artist, and portrays his unique craftsmanship and perfectionist approach.

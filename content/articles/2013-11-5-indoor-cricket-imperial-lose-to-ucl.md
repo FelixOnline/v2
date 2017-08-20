@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On Saturday 26th October, Imperial College 1st XI travelled to the University of East London’s SportsDock centre to play in the first round of games of the BUCS Indoor Tournament. Our first game was scheduled to be against LSE but our opposition forfeited the game, handing us our first points of the competition. Whilst this was a positive start, it took away the opportunity for vital match practice going into the second fixture of the day, against UCL 1st XI.

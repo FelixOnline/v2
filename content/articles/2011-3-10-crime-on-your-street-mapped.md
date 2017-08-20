@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103101922-nm1010-mapmapma.jpg"
-image_caption: >
-  No crime at Imperial, except bike thefts of course...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103101922-nm1010-mapmapma.jpg"
+image_caption: ""
 ---
 
 Two burglaries and a case of vehicle crime – not your an average night out in a rough part of London, but a description of the crime in my street in the last month according to the police’s latest initiative, [www.police.uk](http://www.imperialcollegeunion.org/medsin). The site, which allows you to enter a postcode and retrieve detailed crime statistics for the area, has been a massive success, receiving 400m hits in the two months it’s been online.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232134-felix-google-wallet-setting-up-a-credit-card1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232134-felix-google-wallet-setting-up-a-credit-card1.jpg"
+image_caption: ""
 ---
 
 As summer draws nearer and the spring round of exhibitions and trade fairs draws to a close, there’s a lot of shiny new technology to look forward to over the next few months. Driving the latest round of products is the incessant slide towards perpetual connectivity: be it mobile, tablet, laptop or the increasingly elusive desktop, all major tech players are pushing to have you wired 24/7.

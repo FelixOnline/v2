@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405020202-jal08-money-pooping-unicorn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405020202-jal08-money-pooping-unicorn.jpg"
+image_caption: ""
 ---
 
 In the early days of my GTAing I thought it strange that all the other GTAs became twitchy when there was a quiet tutorial. I mean what is better than getting paid a decent wage just to stand there, literally sometimes for hours. Some of the longer labs can be up to three, not a bad little break from banging your head against the wall of “research”. I mean after a few years at Imperial a bit of boredom is welcome.

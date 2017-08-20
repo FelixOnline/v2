@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
-image_caption: >
-  The live stats on the Union page give a comprehensive breakdown of voters
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
+image_caption: ""
 ---
 
 __Update:__[Click here](https://union.ic.ac.uk/media/felix/img/exitpoll_2015.pdf) for a full breakdown of the results by faculty, year, and gender.

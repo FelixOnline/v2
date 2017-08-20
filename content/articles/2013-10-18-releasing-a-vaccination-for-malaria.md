@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
+image_caption: ""
 ---
 
 Results released on the October 8th revealed that scientists are making promising progress in the development of an effective malaria vaccine called RTS,S. The vaccine could potentially save millions of lives as it aims to combat one of the world’s deadliest diseases.

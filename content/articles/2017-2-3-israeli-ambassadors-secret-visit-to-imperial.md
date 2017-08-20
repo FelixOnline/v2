@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031459-felix-4018064852_215def2815_o.jpg"
-image_caption: >
-
-image_attribution: "Liz Welsh"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031459-felix-4018064852_215def2815_o.jpg"
+image_caption: ""
 ---
 
 Last week the Israeli Ambassador to Britain, Mark Regev visited Imperial College, giving a talk in the Clore Lecture Theatre in Huxley Building. The talk, for which publicity was incredibly limited, was attended by around 200 students and was shrouded in secrecy right up until the very last moment.

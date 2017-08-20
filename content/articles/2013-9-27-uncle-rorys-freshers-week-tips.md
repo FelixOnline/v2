@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201309280015-jal08-screen-shot-2013-09-12-at-23.27.05.png"
-image_caption: >
-  Uncle Rory and the rest of his floor during Freshers’ Week. Sorry Rory! (Ed.)
-image_attribution: "Greg James/Youtube"
-image_attribution_link: "http://www.youtube.com/watch?v=q4kCgq0h0Ck"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201309280015-jal08-screen-shot-2013-09-12-at-23.27.05.png"
+image_caption: ""
 ---
 
 You’ll be hearing this a lot this week but things were quite different back in my day. My day was 2008- Metric was a box called DB’s, Southside and Eastside were building sites, Facebook was a new thing and Justin Bieber was still an embryo. It was amazing. But as you prepare for the modern freshers’ week with your smartphones and status updates and hip-hop music and all that, there is one thing you will face that all freshers have faced since the first freshers guzzled WKD from a hollowed out wooly mammoth tooth; social interaction.

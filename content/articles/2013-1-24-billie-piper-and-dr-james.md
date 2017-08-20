@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301242306-mc4509-theeffect_1.jpg"
-image_caption: >
-  Wait... you’re not Christopher Eccleston
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301242306-mc4509-theeffect_1.jpg"
+image_caption: ""
 ---
 
 Science and art rarely seem to collaborate in popular culture (and we are not talking about science fiction here). It is a shame, because science is inherently intriguing without requiring the embellishment of artistic and creative input. So, when they are combined, they are a strong force of entertainment.

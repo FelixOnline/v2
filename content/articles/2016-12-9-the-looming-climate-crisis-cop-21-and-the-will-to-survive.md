@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.35.53.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.35.53.png"
+image_caption: ""
 ---
 
 This week a positive 20°C air temperature anomaly has been recorded over the Arctic Ocean. With sea temperatures averaging around 4°C higher than is usual for October and November, it looks like we are set to see more extreme effects of climate change in the near future.

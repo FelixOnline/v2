@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If you’re still in the midst of revision, holed up in the library, cramming equations and formulae into your swollen brain, scientists might have a solution. A team of researchers have studied harmless brain stimulation and found it can be used to improve cognitive ability for up to six months.

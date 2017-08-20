@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112047-nm1010-townpani.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112047-nm1010-townpani.jpg"
+image_caption: ""
 ---
 
 Having just watched A Town Called Panic, I am employing every ounce of self-control and the limited reserve of dignity in my body and mind to prevent myself from writing this review in full caps-lock. Words alone cannot describe how much I enjoyed this film. Guttural noises would hardly do it justice either. If you only take one thing from this review, if not even this whole newspaper this year, it is that you should see this film.

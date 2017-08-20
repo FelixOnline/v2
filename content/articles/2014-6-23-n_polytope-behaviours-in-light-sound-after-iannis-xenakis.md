@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231556-jal08-n_polytope_berlin_016.jpg"
-image_caption: >
-
-image_attribution: "Inigo Martinez de Rituerto"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231556-jal08-n_polytope_berlin_016.jpg"
+image_caption: ""
 ---
 
 __In an abandoned swimming pool somewhere in the northern perimeter of Berlin, lights burst to the rhythm of acoustic ricochets. A bizarre choreography of light and sound imitates patterns of synchrony and predation found in the animal kingdom. __

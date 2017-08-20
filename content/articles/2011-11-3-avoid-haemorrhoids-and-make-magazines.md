@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110140110-sjw209-omar.jpg"
+image_caption: ""
 ---
 
 I had a health scare the other day. In an otherwise innocuous tutorial about job applications, a renowned doctor casually joked that we shouldn’t spend too long on the toilet for fear of haemorrhoids. Everyone laughed. I froze.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110272327-felix-portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg"
-image_caption: >
-  Phillip II of Spain (1527 – 1598), the ‘Paper King’ of Spain:  an extreme example of  a micromanager
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110272327-felix-portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg"
+image_caption: ""
 ---
 
 Be it for ignorance, insecurity or psychological compulsion, micromanagement is an ancient curse no business or institution is safe from, and whose risks and consequences can only increase the higher the micromanager’s influence reaches. Though a well-known managerial style – at least known well enough to have its own (and pejorative) name – no reliable statistical study on its occurrence appears to exist; nor does there seem to be any thorough study, psychological or sociological, of the phenomenon beyond, namely the economic consequences when it affects business managers.

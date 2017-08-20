@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
+image_caption: ""
 ---
 
 15) Brave

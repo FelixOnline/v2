@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
-image_caption: >
-
-image_attribution: "Elizabeth Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
+image_caption: ""
 ---
 
 Google – a name we all know. I’m sure that the majority of you use one of the internet giant’s services on a near-daily basis. They of course burst into popularity with the now almost ubiquitous search engine, and have since made inroads into many areas of our digital lives. So their annual [Google I/O](http://www.google.com/events/io/2011/index-live.html) event would usually have technology buffs salivating over what exciting new technologies may be announced. However, this year’s event may not have been so widely anticipated, especially with some of their releases in the last couple of years having a less than pleasing reaction.

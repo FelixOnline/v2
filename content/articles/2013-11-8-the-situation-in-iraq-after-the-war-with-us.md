@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ever since the US troops were withdrawn from Iraq in 2011, there has been little international coverage about the situation in Iraq. Iraq is in a state of dysfunctional governance and civil strife. This has caused the present Prime Minister, Nuri Al-Maliki, to ask for military assistance from the US.

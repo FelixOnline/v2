@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 On the other word tab there’s a lab summary waiting for me, so my eagerly procrastinating brain suggested that I write a bit about a question I’ve been pondering for some time. I’m sure some of you have been wondering over and over again as well… What’s the point of Twitter again?

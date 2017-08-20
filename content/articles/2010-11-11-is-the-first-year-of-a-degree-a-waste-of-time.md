@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Oh goody! Another subject to rant on about in a pedantic and pompous tone of voice. Well, more like splitting hairs in a self-important manner really. Either way, the headline “Is the first year of a degree a waste of time?” is the sort of trashy headline calculated to get Radio Four listeners heading for the hills.

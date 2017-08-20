@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071317-felix-rugbyagg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071317-felix-rugbyagg.jpg"
+image_caption: ""
 ---
 
 After last Saturday’s devastatingly close defeat to Brunel in a friendly, Imperial was on a mission to right this wrong and be deemed victorious on the pitch. They marched out with determination – the likes of which has not been seen since we put a man on the moon – with two subs to cheer them on. Alas, this would prove insufficient.

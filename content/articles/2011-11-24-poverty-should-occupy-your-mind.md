@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
-image_caption: >
-  Poverty is a complex issue with no set solution
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
+image_caption: ""
 ---
 
 When a friend came from home to visit me this weekend, the Occupy protest at St Paul’s Cathedral was an obvious stop on the tourist trail. Whether you agree with the protestors or not, the creation of a functioning tent civilisation with its own library, media centre and even a ‘university’ is really quite impressive. But you don’t need to see what they’ve done to the City of London landscape to see the impact they’ve had on the political arena – our economy and society are under the microscope like never before in our generation. And as the long suffering Felix Comment editors know only too well, the debate has been raging fiercely in these pages.

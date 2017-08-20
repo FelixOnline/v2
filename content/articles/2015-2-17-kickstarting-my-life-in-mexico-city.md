@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502171914-ps3110-overview-of-mexico-city-001.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502171914-ps3110-overview-of-mexico-city-001.jpg"
+image_caption: ""
 ---
 
 Mexico City glitters at night. Dots of yellow flow across the ground. Like a train of ants, they follow a path as if preordained, in a robotic line with no destination. I can feel the energy from my plane window.

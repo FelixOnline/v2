@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701271644-felix-jackie-film-review.jpg"
-image_caption: >
-
-image_attribution: "20th Century Fox"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701271644-felix-jackie-film-review.jpg"
+image_caption: ""
 ---
 
 The first feeling I had when viewing the trailer for Jackie was a familiar weariness: here was a story that sounded interesting, but was to be packaged in a three-hour-long portentous montage of shots of Natalie Portman looking sad out of windows. What I am happy to report, however, is that Jackie – the first english-language film by Chilean director Pablo Larraín, probably best known in the UK for his Gael García Bernal-starring 2012 film NO – is a wrought, tense, and immensely powerful drama, one that has not left my mind for days.

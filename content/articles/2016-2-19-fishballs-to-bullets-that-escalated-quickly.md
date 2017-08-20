@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191110-felix-Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg"
-image_caption: >
-  The 2014 Hong Kong protests.
-image_attribution: "Wikipedia"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191110-felix-Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg"
+image_caption: ""
 ---
 
 Hong Kong experienced a fiery Chinese New Year as protesters and the police clashed on the night of the 7th of February. With 130 people injured and 67 people arrested, one might be surprised to find out that the riots started with fishballs, a popular local snack that could be bought from street vendors.

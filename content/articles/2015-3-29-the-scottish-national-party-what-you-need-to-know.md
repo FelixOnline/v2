@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 You’ve probably heard by now that the upcoming General Election is the most unpredictable and arguably one of the most important in recent UK political history. Minor parties are winning a large number of votes, diminishing the chances of an outright single-party majority in the process.

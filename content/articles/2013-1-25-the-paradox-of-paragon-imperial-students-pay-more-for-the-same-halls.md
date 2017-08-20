@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
-image_caption: >
-
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
+image_caption: ""
 ---
 
 Imperial College London students are paying more for the same room in the same halls than students from two other London universities. Freshers from Imperial pay [£155 per week for a room in Paragon](http://www3.imperial.ac.uk/accommodation/prospectivestudents/prospectiveundergraduatestudents/hallsofresidenceug/paragon). Students from [West Thames College London](http://www.west-thames.ac.uk/en/higher-education/accommodation/) (West Thames) and [University of West London](http://www.uwl.ac.uk/students/support_for_students/Accommodation.jsp) (UWL) both pay £133.55 a week.

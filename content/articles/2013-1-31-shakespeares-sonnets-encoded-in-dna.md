@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312335-tna08-block8.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312335-tna08-block8.jpg"
+image_caption: ""
 ---
 
 Forget parchment in calf skin binding. Forget mock pine filing cabinets jammed with A4. Forget CDs, DVDs, MP3s – in fact, forget all digital, data-storing acronyms.

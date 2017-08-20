@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301172347-tna08-warwick-campus.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301172347-tna08-warwick-campus.jpg"
+image_caption: ""
 ---
 
 A recent study by High Flier Research claims that the top 100 graduate employers focussing on finding graduate recruits on a small number of universities. A list oftwenty universities targeted found Warwick University at the top and Imperial at 12th place.

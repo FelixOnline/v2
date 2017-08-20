@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505290143-ps3110-mentality-image.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505290143-ps3110-mentality-image.jpg"
+image_caption: ""
 ---
 
 Mentality made a number of recommendations towards the end of the survey, which they think would improve the services available to Imperial students.

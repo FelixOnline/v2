@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
+image_caption: ""
 ---
 
 Surely they’re called “big budget action flicks” for a reason!? I was initially excited yet cringing at the thought of reviewing an indie action flick. Indie film virgins like myself need not despair; this film is not a desperation tune-in to Air Canada’s In-flight film fest after 10 hours of inter-continental leg cramps. Blood Ties will snatch you out of mainstream cinema drudgery and entice you into the world of micro-budget film viewing.

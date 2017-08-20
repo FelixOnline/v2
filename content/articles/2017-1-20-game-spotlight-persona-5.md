@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201547-felix-P5_illustration_by_Shigenori_Soejima.jpg"
-image_caption: >
-
-image_attribution: "Atlus"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201547-felix-P5_illustration_by_Shigenori_Soejima.jpg"
+image_caption: ""
 ---
 
 There are very few games which I have absolute faith in. I was incredibly sceptical about both Final Fantasy XV and also The Last Guardian, which was my personal Game of the Year 2016; in fact, I was almost convinced at least one of them would be a massive train wreck. Even games like Nioh and Nier: Automata, both of which seem like they will be great, may not live up to expectations. However, I am convinced, beyond a shadow of a doubt, that Persona 5 will be absolutely phenomenal.

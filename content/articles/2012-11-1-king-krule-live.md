@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012309-tna08-king-krule.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012309-tna08-king-krule.jpg"
+image_caption: ""
 ---
 
 King Krule, a lonely rider of the current music scene, the only one that is really talking about being in pain (his own words), is the alias of an 18-year old South Londoner, Archie Marshall, accompanied on stage by a bassist, drummer, saxophonist and guitarist. Archie first caught people’s eye last year with the track ‘Out Getting Ribs’, and a self-titled EP that blended jazzy, dissonant chords and the emotional ache of the blues with spoken words of existential discontent.

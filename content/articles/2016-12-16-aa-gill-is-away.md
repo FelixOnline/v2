@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161552-felix-AA Gill (c.Peter Marlow).jpg"
-image_caption: >
-
-image_attribution: "Peter Marlow"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161552-felix-AA Gill (c.Peter Marlow).jpg"
+image_caption: ""
 ---
 
 The journalist AA Gill, The Sunday Times food (and occasionally TV) critic, died last week, only three weeks after writing about his cancer diagnosis in his weekly column.

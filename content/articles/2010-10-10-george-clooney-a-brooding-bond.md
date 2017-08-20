@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010101634-ks607-GeorgeCl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010101634-ks607-GeorgeCl.jpg"
+image_caption: ""
 ---
 
 The director of the [much-acclaimed](http://www.rottentomatoes.com/m/control/) Ian Curtis biopic Control, is back with a bang. Anton Corbijn discards the guitar and picks up the rifle in The American, a thriller about a killer who discovers his soul. Adapted from British novelist Martin Booth’s A Very Private Gentleman (1990), the film stars George Clooney as Jack, an assassin-cum-weapons expert hiding in an ancient Italian town after a botched attempt on his life. There, he takes on one last job to produce a custom-made rifle for a client of his boss and strikes up a few relationships that may ultimately change him, or doom him.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505151337-cj914-whitehallriots.jpg"
-image_caption: >
-  Thousands took to the streets in peaceful anti-austerity demonstrations, but riots persisted
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505151337-cj914-whitehallriots.jpg"
+image_caption: ""
 ---
 
 Hundreds of anti-austerity protesters took part in impromptu protests across the UK on Saturday, with a London rally starting outside the Conservative Party headquarters.

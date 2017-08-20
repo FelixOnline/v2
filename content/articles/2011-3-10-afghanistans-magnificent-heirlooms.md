@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
-image_caption: >
-  A pair of clasps depicting warriors
-image_attribution: "Thierry Ollivier / Musee Guimet"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
+image_caption: ""
 ---
 
 Afghanistan. What images are conjured up in your mind? The sad reality is that, for many of us, 3000 years of history has been eclipsed by 30 years of chaos. Fortunately the aim of the British Museum’s exhibition [Afghanistan: Crossroads of the Ancient World](http://www.britishmuseum.org/whats_on/exhibitions/afghanistan.aspx) is to remind us of the country’s crucial historic role as a junction of the silk routes between Rome, India and China.

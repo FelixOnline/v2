@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102241934-nm1010-gesslerg.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102241934-nm1010-gesslerg.jpg"
+image_caption: ""
 ---
 
 Established in 1947, Daquise Restaurant on Thurloe St. never fails to transport alumnis down memory lane. Mr. Gessler, a prominent figure in the restaurant scene in Poland, has recently acquired into one of the longest serving Polish restaurants in London where impeccable food quality is coupled with a homely ambience that makes for a most enjoyable meal.

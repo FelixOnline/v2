@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 For new students joining Imperial College each year, the various Facebook groups for halls, subjects, and for the entire year of Freshers as a whole are an invaluable resource, both for specific questions and getting to know your future class/house/roommates (delete as appropriate). Unfortunately, full as they are of new students, many of whom are arriving in London for the first time, these groups are always a prime target for advertisers and promoters, pushing their own events through links and the odd fake account.

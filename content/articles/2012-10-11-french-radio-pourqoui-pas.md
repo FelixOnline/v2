@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112228-felix-lemouv.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112228-felix-lemouv.jpg"
+image_caption: ""
 ---
 
 It seems as though the older you get, the less time there is for doing fun things, like having sex or keeping up with the best new music. (Or maybe that’s just because you have a frigid boyfriend from Imperial and you finally have better things to do with your time than read the slightly ridiculous and shit NME). Although the getting-more-sex issue hasn’t been resolved, a great solution to the latter is the Laura Leishman Project, a show on French radio station Le Mouv.

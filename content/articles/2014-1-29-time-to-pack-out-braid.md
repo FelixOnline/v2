@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201401291639-me1711-games_braid.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201401291639-me1711-games_braid.jpg"
+image_caption: ""
 ---
 
 Indie Game the Movie is a great film for games fans. It follows the creation and reception of 3 Indie Games; Super Meat Boy, Fez and Braid. I already had played a lot of Super Meat Boy, and soon after the movie I caught Fez in a humble bundle. These were some of the best games I’ve ever played and were instant favourites of mine so it is of no surprise that once I finally caught Braid on sale it instantly followed its predecessors into my top 10.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
-image_caption: >
-  DPE Doug Hunt does his best Seth MacFarlane impression
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
+image_caption: ""
 ---
 
 The winners of Imperial College Union’s first Student Academic Choice Awards have been announced at a ceremony on Tuesday 21 May. Over 150 people attended the event.

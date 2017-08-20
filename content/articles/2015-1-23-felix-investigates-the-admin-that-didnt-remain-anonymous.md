@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501230126-cac111-screen-shot-2015-01-23-at-01.25.56.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501230126-cac111-screen-shot-2015-01-23-at-01.25.56.png"
+image_caption: ""
 ---
 
 _Felix_ has reason to believe that a single student may be behind many of the popular Imperial Facebook pages.

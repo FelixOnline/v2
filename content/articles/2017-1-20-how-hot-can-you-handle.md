@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201512-felix-chili-pepper-621890_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201512-felix-chili-pepper-621890_1920.jpg"
+image_caption: ""
 ---
 
 Some like it hot. But others can’t stand an inkling of chilli anywhere near their food. However, perhaps they ought to try, as researchers from the University of Vermont have found that spicy food may prolong life expectancy. In particular, consumption of red hot chilli peppers was associated with 13% reduction in total mortality in a large-scale study. Primarily these deaths were due to heart disease or strokes. Perhaps this is why they have been used as an ingredient by our spice-loving ancestors, who seemed to enjoy the burning sensation of hell inside their mouths.

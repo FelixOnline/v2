@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201308061054-jal08-arnoldschwarzeneggerarnoldschwarzeneggerh3ha0es9dm2l1.jpg"
-image_caption: >
-  Is that Sarah Connor? Off to work you go!
-image_attribution: "http://www.zimbio.com/"
-image_attribution_link: "http://www4.pictures.zimbio.com/bg/Arnold+Schwarzenegger+Boris+Johnson+Arnold+h3hA0ES9dm2x.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201308061054-jal08-arnoldschwarzeneggerarnoldschwarzeneggerh3ha0es9dm2l1.jpg"
+image_caption: ""
 ---
 
 Who needs Ethos when you’ve got the London Underground? New research from Imperial College London and University College London shows that actively travelling to work (cycling, brisk walking or even using public transport) confers more health benefits than you’d initially suspect.

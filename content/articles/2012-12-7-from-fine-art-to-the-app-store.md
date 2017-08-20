@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070156-tna08-yplan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070156-tna08-yplan.jpg"
+image_caption: ""
 ---
 
 Just a short while ago, I was a Fine Art graduate slowly coming to realisation that conceptual art & me is not a good match. Back then, looking for a ‘real’ job, I accidentally stumbled across [Songkick](http://www.songkick.com/) and got to be one of the lucky ones to become their intern. Starting out as a Data Warrior (don’t ask), after just a few months I progressed to full-time project assistant role working with the hiring team. The office was smack dab in the middle of Silicon Roundabout, where the start-up scene is buzzing (and before Songkick, I didn’t even know it existed).

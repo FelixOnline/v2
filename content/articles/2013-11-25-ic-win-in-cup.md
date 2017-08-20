@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 LUSL Cup days – the highlight of any IC footballer’s career, more magic than the FA Cup and more grit and determination than a drunken iNuge verbally attacking a granny on a night bus after the union.

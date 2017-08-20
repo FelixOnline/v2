@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 If there’s one band who can wear the post-rock tag without shame, it’s Godspeed You! Black Emperor, famous for being able to capture the view of a city skyline burning and turn it into song. And they’re back, after leaving us with the somewhat disappointing Yanqui U.X.O. in 2002. The eight person instrumental ensemble now offers 54 minutes of new music, in the form of two 20 minute epics (which is by no means unusual with an average track length at around this mark) and a pair of drone tracks. So, has the apocalypse returned?

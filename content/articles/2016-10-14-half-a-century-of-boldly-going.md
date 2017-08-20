@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
-image_caption: >
-  In the future no one cares about your awkward grins.
-image_attribution: "CBS"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
+image_caption: ""
 ---
 
 Fifty years ago, as the spectre of the Cold War loomed over the world and the first battles of the civil rights movement were being fought, a corny, slightly overacted show with bold utopian and egalitarian aspirations made its way onto the prime-time lineup. _Trek_ wore its heart on its sleeve, unafraid to be topical and tackle societal issues across the board. Since those tumultuous times, Star Trek has become a cultural cornerstone; offering much to learn from for our tumultuous times.           The Original Series was the brainchild of many men and women, chiefly Gene Rodenberry, and did not have an easy time getting made. Its daring and often transparent confrontation of then-contemporary social injustices made studio executives and advertisers uncomfortable; its neck was only ever an inch from the guillotine.

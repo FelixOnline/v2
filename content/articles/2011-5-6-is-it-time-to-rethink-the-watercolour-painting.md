@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
-image_caption: >
-  The Blue Rigi Sunrise by J. M. W. Turner
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105060953-felix-the-blue-rigi-lake-of-lucerne-sunrise.jpg"
+image_caption: ""
 ---
 
 Tate’s attempt at redefining our vision of a medium, watercolour, so commonly associated with amateurship and spinsters trying to show off their artistic talent is definitely successful. After viewing this exhibit your conception of what can be done with watercolours will have drastically changed, and you may leave with a feeling of greater respect towards what may seem at first an easy medium to master.

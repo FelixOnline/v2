@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012022018-ks607-socialne.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012022018-ks607-socialne.jpg"
+image_caption: ""
 ---
 
 Over this term, we have been following the relaunch of iCU Cinema and celebrating its successes – from its sold-out opening night with Inception to its recent screening of comic-book gold Scott Pilgrim vs. The World – as it brings blockbuster films back to the comfort of the Union.

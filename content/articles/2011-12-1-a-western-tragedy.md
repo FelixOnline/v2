@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112011943-pk1811-map.jpg"
-image_caption: >
-  A seismic map of Europe produced as part of the Global Seismic Hazard Assessment Project
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112011943-pk1811-map.jpg"
+image_caption: ""
 ---
 
 As a result of the so-called “Euro debt crisis” – whose solution seems to be too distant still to be clear – several of the euro club countries have been bailed out. Starting with Greece (2009), Ireland (2010) and Portugal (2010) have also been rescued, and in all the cases, the process followed a similar pattern.

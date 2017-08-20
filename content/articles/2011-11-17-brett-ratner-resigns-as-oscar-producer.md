@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172207-felix-brettratner__111109014817.jpg"
-image_caption: >
-
-image_attribution: "deadline.com"
-image_attribution_link: "http://www-deadline-com.vimg.net/wp-content/uploads/2011/11/brettratner__111109014817.jpg"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172207-felix-brettratner__111109014817.jpg"
+image_caption: ""
 ---
 
 The American producer/director Brett Ratner, known for such films as [Rush Hour](http://www.youtube.com/watch?v=jPULDr0cn6A), [Red Dragon](http://www.youtube.com/watch?v=STnWeHx41p4) and newly-released [Tower Heist](http://www.youtube.com/watch?v=Z4KXF7NWFRE), has stepped down from his prominent position as producer of the 2012 Oscars.

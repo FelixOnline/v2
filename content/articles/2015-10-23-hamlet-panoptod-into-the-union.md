@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231246-ygr12-hamlet1.jpg"
-image_caption: >
-  Cumberbatch in zoomed-in glorious HD.
-image_attribution: "Johan Persson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231246-ygr12-hamlet1.jpg"
+image_caption: ""
 ---
 
 Everyone’s had that moment when you wake up and just cannot be bothered to get up, get dressed and make it to your 9am lecture. So instead you decide to stream it live from home via Panopto. When Imperial Cinema decided to take part in National Theatre Live and stream Benedict Cumberbatch’s Hamlet from the Barbican straight into the Union Concert Hall, it was all these students that thought ‘Score! I don’t have to travel across central London to watch this, I can just watch it from the union!’

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
-image_caption: >
-  Pete Souza
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
+image_caption: ""
 ---
 
 Back in June, Twitter CEO Dick Costolo (@dickc) tweeted: “Welcome back, @jack !!”. He was referring to Jack Dorsey, one of the co-founders of Twitter. This enigmatic tweet, short even by Twitter standards, signalled to those in the know that Dick Costolo had stepped down as CEO of the micro-blogging giant with former CEO Jack Dorsey to return as interim boss.

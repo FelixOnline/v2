@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201503-felix-Screen Shot 2017-01-20 at 15.03.21.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201503-felix-Screen Shot 2017-01-20 at 15.03.21.png"
+image_caption: ""
 ---
 
 Have you been feeling down this week? Allegedly there is an explanation for this – some claim it is the most depressing week of the year. More specifically, the Monday that just passed has been christened 'Blue Monday' as a result of post-holiday reality kicking in and everyone generally feeling a bit shit. The third Monday of January was described as the most depressing day of the year by Cliff Arnell using an equation which supposedly took into consideration a multitude of variables such as weather, debt, monthly salary, time since Christmas, time since failing our new year’s resolutions and low motivational levels.

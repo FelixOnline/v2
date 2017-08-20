@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501311721-ps3110-rsz_basil_twist_dogugaeshi_gold_foxes_©_richard_termine_2.jpg"
-image_caption: >
-  Gold Foxes in Basil Twist's Dogugaeshi
-image_attribution: "Richard Termine"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501311721-ps3110-rsz_basil_twist_dogugaeshi_gold_foxes_©_richard_termine_2.jpg"
+image_caption: ""
 ---
 
 Puppetry is a dying art. It may not attract the same kind of think-pieces that occur when we fear that e-books may replace the comforting rustle of pages, or when small theatre companies are snuffed out one-by-one due to lack of funds, but the fate facing the puppeteer is no less uncertain. _Dogugaeshi_ at the Barbican Centre makes us aware of both how far the art form has slipped from popular opinion, and displays the work of a puppeteer who has - to the extent that puppeteers can - made it big.

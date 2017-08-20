@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305011525-tna08-iceage-7.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305011525-tna08-iceage-7.jpg"
+image_caption: ""
 ---
 
 Iceage’s second album You’re Nothing is getting critics frothing at the mouth, and for good reason. It keeps the raw, visceral vitality of their debut album, New Brigade, and marries it to a more intricate post-punk undercurrent. In fact, whisper it, new track ‘Morals’ seems to be an attempt at a pop song. The band have managed to ride the initial wave of hype and are now proving themselves to be a thrilling live proposition.

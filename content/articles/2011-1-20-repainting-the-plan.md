@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101202047-dr910-soumayaa.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101202047-dr910-soumayaa.jpg"
+image_caption: ""
 ---
 
 I passed my viva a few months ago. The day before my 27th birthday, coincidentally. This should have marked the beginning of the next stage in my life but I now feel strangely confused, unable to move on. Where is my life going and all that? I’m hoping this article will have a cathartic effect. Writing for my former university paper to help me move on might seem ironic but this is not some purely egomaniacal exercise. I’m sure others are going through a similar experience, or will go through it on graduating from university. So this article is dedicated to you.

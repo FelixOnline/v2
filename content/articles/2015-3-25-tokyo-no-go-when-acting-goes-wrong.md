@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
-image_caption: >
-  Haruka Abe (Mari), Nomo Gakuji (Mr Okada), and Meg Kubota (Mrs Okada) in Finborough Theatre’s Harajuku Girls
-image_attribution: "Alexander Newton"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
+image_caption: ""
 ---
 
 I’m pretty obsessed with Japanese culture. I’m also an ardent feminist, and I’m constantly moaning to anyone who’ll listen about the lack of interesting female characters in modern literature. So I was more than ready to love _Harajuku Girls_, a new play about three women growing up in modern day Tokyo, treading the line between empowerment and victimhood as they take up work in Tokyo’s notorious red light district. Heck, they even gave me a free pint with my press ticket. When I settled in to my excellent seat at the __Finborough Theatre__, a tiny venue above a pub, I was already glowing with admiration for the whole thing.

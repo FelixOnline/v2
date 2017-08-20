@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
-image_caption: >
-  JUICE will visit Europa (pictured) along with Ganymede and Calisto
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
+image_caption: ""
 ---
 
 The European Space Agency (ESA) is to lead a billion-euro mission to Jupiter and its icy moons. The Jupiter Icy Moons Explorer (JUICE) spacecraft is scheduled to launch in 2022, arriving in the Jupiter system in 2030.

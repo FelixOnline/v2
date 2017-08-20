@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403261536-jal08-irelandtrophy_3101962.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403261536-jal08-irelandtrophy_3101962.jpg"
+image_caption: ""
 ---
 
 ### __Six Nations: The Verdict__

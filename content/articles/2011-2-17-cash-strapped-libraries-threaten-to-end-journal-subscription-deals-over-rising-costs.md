@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
-image_caption: >
-
-image_attribution: "Jan Piotrowski"
-image_attribution_link: "http://jpiotrowski.wordpress.com/"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
+image_caption: ""
 ---
 
 Intimidating isn’t the first word that springs to mind when you first meet Deborah Shorley, Director of the Imperial College London Library. A short, erudite librarian, one would not imagine such a character to be leading a fight against two of the largest publishers in the UK: Elsevier and Wiley Blackwell.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Traditional ecological knowledge (TEK) is not a new concept, especially for indigenous peoples themselves or those who practice old customs. However, we still find ourselves merely engaging in dialogue about how TEK should be applied to policy-making and research. The world of conservation is only now recognising that incorporating other disciplines is necessary if any changes we try to make as scientists are going to stick.

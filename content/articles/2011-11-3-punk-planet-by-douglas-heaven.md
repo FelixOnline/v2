@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 With the Eurozone gone to the dogs and its leaders making gold-digger eyes at China, it’s probably a good time to check out the best of Shanghai’s eclectic punk scene. Sure, there’s a whole Beijing vs Shanghai thing, but what Beijing has in the way of a distinct and cohesive sound, Shanghai more than makes up for in its DIY ethic.

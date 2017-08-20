@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161914-tna08-reesewitherspoonmud.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161914-tna08-reesewitherspoonmud.jpg"
+image_caption: ""
 ---
 
 Hitting the screens almost exactly one year after its showing at the 2012 Cannes Film Festival, “Mud” (McConaughey) is a wanted fugitive who puts far too much on the line in the name of love. Hiding out on a deserted island, he longs to be reunited with the love of his life Juniper (Witherspoon), although this ambitious plan of his is put in jeopardy as he is constantly hunted by shady characters who are clearly acting above the law.

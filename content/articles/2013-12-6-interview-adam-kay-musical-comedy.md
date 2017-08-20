@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201312060352-jal08-feat_adam-kay-1---photocredit-idil-sukan-for-draw-hq.jpg"
-image_caption: >
-
-image_attribution: "Idil Sukan"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201312060352-jal08-feat_adam-kay-1---photocredit-idil-sukan-for-draw-hq.jpg"
+image_caption: ""
 ---
 
 This week Felix interviews Adam Kay, the frontman of Amateur Transplants and an ex-Imperial Medical student. If you’re not sure who that is, look up the London Underground song on YouTube and send us a letter of thanks.

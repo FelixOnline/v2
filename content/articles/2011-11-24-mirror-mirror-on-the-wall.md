@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242300-felix-charlize-theron-snowwhite.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242300-felix-charlize-theron-snowwhite.jpg"
+image_caption: ""
 ---
 
 Two films. Two Snow Whites. One fairytale. Within a short span of three months next year, we are incredibly un/fortunate (delete as appropriate), to have two films based on the popular story of Snow White. [_Mirror Mirror_](http://www.youtube.com/watch?v=kpLVO396eHs), out next March, takes a much lighter, colourful, and slap-stick approach, whereas [_Snow White and the Huntsman_](http://www.youtube.com/watch?v=VY67V0wOlz8), released in June, as its title may suggest, has a more violent, sadistic, and dark spin to it. Much like this year’s [_No Strings Attached_](http://www.youtube.com/watch?v=Ubfcfs98MBw) and [_Friends with Benefits_](http://www.youtube.com/watch?v=34xfcoRceeU), there will be stiff competition to see which the better adaptation is. Trailers have recently been posted for both films, and it’s time for Felix Film to predict which has the upper hand.

@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161909-tna08-tumblr_m1zlh4cujl1r8czhco1_400.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161909-tna08-tumblr_m1zlh4cujl1r8czhco1_400.jpg"
+image_caption: ""
 ---
 
 The European Union has voted in favour of a ban on neonicotinoids, the most widely used pesticide in the world. However, with fierce behind-the-scenes campaigns and passionate lobbying from all parties involved, this result was by no means easily decided. So why have neonicotinoids been banned? How much will this help honey bee populations? And why does it matter to us?

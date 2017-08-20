@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
+image_caption: ""
 ---
 
 The current Ebola outbreak in West Africa, which began in March 2014, has afflicted Guinea, Sierra Leone, Liberia, Nigeria, and recently, Senegal.

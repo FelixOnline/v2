@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
-image_caption: >
-  A tough choice for Republicans: behold the diverse range of old, rich white men
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201262200-ams111-romneygingrichpaul.jpg"
+image_caption: ""
 ---
 
 By the end of the year, Americans will have elected a new President. However, with no clear majority in public opinion for either the Democrats or the Republicans, who will become the next Leader of the Free World? Who will answer the call from visiting extra-terrestrial dignitaries?

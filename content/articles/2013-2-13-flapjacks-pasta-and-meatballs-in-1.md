@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302131423-tna08-meatballs.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302131423-tna08-meatballs.jpg"
+image_caption: ""
 ---
 
 When you see me, you would probably guess that I like eating. And you couldn’t be more right! I was lucky enough that my food was cooked for me for most of my life. So when I was finally let loose in the kitchen, I have been going bonkers. Here is some of my favourite recipes that I have made.

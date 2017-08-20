@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260329-tna08-tripterygium_regelii_1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260329-tna08-tripterygium_regelii_1.jpg"
+image_caption: ""
 ---
 
 The thunder god vine, or Lei Gong Teng, is a herb used in traditional Chinese medicine and believed by some to be of use in a variety of ailments from arthritis to kidney disease. The plant contains multiple active compounds, and one of the most promising of these is triptolide, previously shown to have potential as a drug for treating various cancers, including pancreatic cancers.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310130045-jal08-games_logo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310130045-jal08-games_logo.jpg"
+image_caption: ""
 ---
 
 A low drone sounds. “Dadddy, daddy, please don’t kill me.” Children begin to sing and a great machine starts up. “Daddy! Daddy!”… You awake in your bed, and go off in search of your children.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Public services should be open to all people, regardless of their beliefs. That so simple a statement should need to be shouted is madness and yet this is exactly what is needed in the UK. The truth is that for all our advances in other areas of human rights, when it comes to religious and belief discrimination in public services, the UK has scarcely changed in 100 years. Nowhere is this clearer than in our state schools.

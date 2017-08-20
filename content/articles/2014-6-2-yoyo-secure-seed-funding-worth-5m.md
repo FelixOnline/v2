@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Yoyo, the mobile payment app that launched last year, has managed to secure seed funding for $5m (nearly £3m), in what is considered to be one of the biggest funding deals in Europe so far this year. The firms to have invested in Yoyo include Imperial Innovations, Firestartr and Telefonica. Yoyo, which was founded in 2013 by Alain Falys (formerly of Visa), Dave Nicholson (formerly of Egg) and Michael Rolph (formerly of Barclays, First Data and PayPal), is an accepted form of payment at all 32 food and drink outlets on campus and this news will be a huge boost as the company announces its impending expansion.

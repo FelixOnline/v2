@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This newspaper has a long and distinguished history of informing, supporting and entertaining students and in the coming years, during your time at this great university, this vital role that Felix plays at Imperial will be ever more important.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
-image_caption: >
-  Thomas Young – the man, the myth, the polymath
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
+image_caption: ""
 ---
 
 It was perhaps due to the imperfect knowledge or absolute ignorance humankind had back then that true polymaths could still exist; nowadays, in the age of specialization, it seems almost impossible. But back in the old days, the same person, if gifted and lucky enough, could undertake forefront research in the most diverse areas and make enormous contributions, large enough for their names to be remembered. Thomas Young (1773-1890), a physician by training, was such a polymath.

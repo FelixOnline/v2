@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104201257-felix-3.-great-court.jpg"
-image_caption: >
-  A monument to cultural theft, hurrah!
-image_attribution: "British Museum"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104201257-felix-3.-great-court.jpg"
+image_caption: ""
 ---
 
 As I dodge knife-wielding pigeons and Underground commuters, disgruntled by the sheer virtue of being awake, on my way in to college from the outer fringes of the capital (and civilisation), I remember with fondness my first year here, spent in the sheltered haven of Prince’s Gardens.

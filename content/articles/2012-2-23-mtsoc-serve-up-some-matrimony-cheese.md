@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Arriving on the tenth floor of the Blackett Building to watch [__Musical Theatre Society__](http://mtsoc.co.uk/)’s (MTSoc) newest performance, their big spring show [_The Wedding Singer_](http://mtsoc.co.uk/current-show/2012-wedding-singer-2/), I get the feeling that either the powers of my imagination will have to be used to their fullest extent or I should keep my expectations pretty low. I have to admit, I was rather happily surprised by the end.

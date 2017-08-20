@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150202-tna08-rugby-woment.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150202-tna08-rugby-woment.png"
+image_caption: ""
 ---
 
 Imperial has gone from strength to strength this year, currently holding the top position in the BUCS South Eastern 2A division and only having dropped one game this season. Despite winning recent games by impressive margins, Imperial approached their final LUSL fixture of the year against the strong and talented UCL with a certain degree of trepidation, knowing it would be the true test of how far they have come. In recent years UCL have ardently beaten Imperial, a point highlighted by their status two BUCS divisions above us, and this certainly made it a fixture we were looking forward to.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
-image_caption: >
-  Arthur Wellesley, 1st Duke of Wellingtonm (detail) by Francisco de Goya, 1812-14
-image_attribution: "The National Gallery, London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
+image_caption: ""
 ---
 
 The aim of the __National Portrait Gallery__’s latest collection is, explains the curator, to “put Wellington’s great reputation back on the map”. This somehow implies that it ever went away. The Duke of Wellington is such a well known figure, carved both on the national consciousness and on numerous memorials, that it makes such an exhibition – _Wellington: Triumphs, Politics, and Passions _– somewhat redundant. Unless, that is, they can stage an exhibition that allows us to look at the Duke in a new light.

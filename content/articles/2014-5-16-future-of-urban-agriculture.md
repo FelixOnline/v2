@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201405160312-jal08-food_underground.jpg"
-image_caption: >
-  London’s underground farm looking a bit purple
-image_attribution: "wired.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201405160312-jal08-food_underground.jpg"
+image_caption: ""
 ---
 
 Space is an issue in a metropolis like London. Roads crowded with cars and pedestrians, with more and more skyscrapers popping up around the capital. As the population in the UK grows, estimated around 70 million by 2028 - many of whom will be living in and around the capital and the major cities, such as Birmingham and Manchester. With less land but more mouths to feed, what would our farms be in the future?

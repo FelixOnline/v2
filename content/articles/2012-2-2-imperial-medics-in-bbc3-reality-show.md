@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202022249-sjw209-article-1327412205173-116ed983000005dc-797282_636x300.jpg"
-image_caption: >
-
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202022249-sjw209-article-1327412205173-116ed983000005dc-797282_636x300.jpg"
+image_caption: ""
 ---
 
 [_Junior Doctors: Your Life in their Hands_](http://www.bbc.co.uk/iplayer/episode/b01bbvcw/Junior_Doctors_Your_Life_in_Their_Hands_Series_2_Episode_1/) is back! After a first series in Newcastle General Hospital and the Royal Victoria Infirmary, eight newly-qualified doctors hit the wards of the Chelsea and Westminster Hospital. After getting their MBBS, for the first time, they have to deal with real life and death situations and take on the responsibility of taking care of patients.

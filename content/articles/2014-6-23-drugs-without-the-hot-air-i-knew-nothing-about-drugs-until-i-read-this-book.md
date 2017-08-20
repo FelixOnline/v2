@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406231554-jal08-screen-shot-2014-06-23-at-15.54.42.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406231554-jal08-screen-shot-2014-06-23-at-15.54.42.png"
+image_caption: ""
 ---
 
 __Guess which substance killed Amy Winehouse? Have a stab in the dark. __

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310250211-felix-careers_graduation.png"
-image_caption: >
-
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310250211-felix-careers_graduation.png"
+image_caption: ""
 ---
 
 Every year, approximately 30% of Imperial College undergraduates go on to further study, so we know it’s a popular option. But what do you need to know and how do you make the best choice of course and institution?

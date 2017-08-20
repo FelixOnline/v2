@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191228-felix-12299265_10153656536750351_8710459785759499218_n.jpg"
-image_caption: >
-  The whole gang.
-image_attribution: "ICURFC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191228-felix-12299265_10153656536750351_8710459785759499218_n.jpg"
+image_caption: ""
 ---
 
 Following a strong home performance against the league leaders the previous week, ICURFC 1s took on the King’s Medics. The first challenge of the day reared its head with the devious Science Museum impounding our buses (likely wishing to examine them as they appear to be older than time itself and, judging by their condition, were used in the great siege of Troy). After breaking through the first defensive line of the day the boys reclaimed their chariot and were on their way to the grimy depths of South East London.

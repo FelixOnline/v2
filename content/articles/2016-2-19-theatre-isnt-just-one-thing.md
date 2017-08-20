@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602191214-felix-benkidd.jpg"
-image_caption: >
-  Ben Kidd, the new kid on The Gate’s block.
-image_attribution: "The Gate Theatre"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602191214-felix-benkidd.jpg"
+image_caption: ""
 ---
 
 Ben Kidd bounds into a Notting Hill basement in between a kebab shop and a pizzeria. For the first time, Gate publicity maestro Tash Brown looks a tad worried. She needn’t be. Gate’s work is exactly the kind of thing I wish we had more of here at Imperial. Passionately done and served up with a massive dollop of generosity on the side, Gate Theatre is one big cosy theatre family – and y’all are invited. (Check out its outreach programme!)   Kidd, fresh from rehearsals, bubbles with the same outspoken friendliness, and we sit down to talk Ireland, Imperial and art.

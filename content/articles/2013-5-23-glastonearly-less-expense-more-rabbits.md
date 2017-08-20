@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232333-tna08-silfest_poster_icu.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232333-tna08-silfest_poster_icu.jpg"
+image_caption: ""
 ---
 
 Summer is on its way and festival season is nearly upon us. Do you long to frolic in the sunshine with live music, alcohol and food… but don’t want to spend a fortune? Have your heard of Silfest?

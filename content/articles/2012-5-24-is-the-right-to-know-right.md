@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
-image_caption: >
-  The question of whether or not Congress should dictate morality is key
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
+image_caption: ""
 ---
 
 On the U.S. political scene, a Republican sponsored bill is causing quite a stir. The “[Women’s Right to Know Act](http://www.health.state.mn.us/wrtk/index.html)” requires females seeking to have an abortion to first undergo an invasive transvaginal ultrasound. This is a procedure that involves what is known as a “10-inch plastic wand” to be inserted into the vagina. The purpose is to dissuade women from having an abortion by forcing them to acknowledge the fetus that they intend to abort. In some states, congressional members have suggested that women should also be made to listen to the heartbeat of the fetus before they are able to proceed with an abortion.

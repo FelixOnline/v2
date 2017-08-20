@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The government is considering proposals to allow universities to offer extra places on their courses at market prices, outside the government loans system. Students entering university in this way could pay fees similar to that of overseas students without any public funding and they would also have to meet the entry requirements of the course.

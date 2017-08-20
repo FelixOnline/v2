@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102252-csw09-bigboi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102252-csw09-bigboi.jpg"
+image_caption: ""
 ---
 
 Big Boi, or the other guy in OutKast, has always been a bit lost in the shadow of Andre 3000. Andre was the crazy experimentalist and Big Boi was just a really good rapper. Big Boi’s excellent debut solo album, Sir Lucious Left Foot, blurred that idea a little. There were big pop hits as well as great hip hop tracks. His second album sees him taking the experimental crown and just running with it. Vicious Lies and Dangerous Rumours is an incredibly diverse and ultimately very difficult record.

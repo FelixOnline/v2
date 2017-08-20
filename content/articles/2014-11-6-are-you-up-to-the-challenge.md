@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
-image_caption: >
-  Spot the Felix cat chilling with the team from 2009. Fun fact, Amit was so amazing he made it into t
-image_attribution: "Felix"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
+image_caption: ""
 ---
 
 What is the capital of Kenya? Which is the largest moon of the Solar System? Who is the only person to have been awarded two unshared Nobel Prizes?

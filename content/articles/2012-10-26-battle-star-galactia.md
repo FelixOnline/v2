@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260408-tna08-scenes1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260408-tna08-scenes1.jpg"
+image_caption: ""
 ---
 
 In 16th century Venice, female artist Galactia is commissioned by the state to paint a wall-sized canvas to commemorate the victory of the Battle of Lepanto. This initiates the events in Scenes from an Execution, a play originally written for the radio in the 1980s but now produced for the stage by the National Theatre.

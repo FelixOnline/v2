@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411242034-ps3110-women_lunch_talking.jpg"
-image_caption: >
-  "No dahhhling, I didn't say I was leaving him because he was going vegetarian. I just told him he wa
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411242034-ps3110-women_lunch_talking.jpg"
+image_caption: "No dahhhling, I didn't say I was leaving him because he was going vegetarian. I just told him he wa"
 ---
 
 As the joke goes: “How do you know if someone is vegan? Oh don’t worry, they’ll tell you”. A lot of people, including myself, are put off by these militant activists, encamped on their moral high ground looking disdainfully down at the rest of us.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211091252-tna08-untitled-7.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211091252-tna08-untitled-7.jpg"
+image_caption: ""
 ---
 
 Ever wondered what it would be like to own a billion dollar company? Ever debated the pros and cons of starting a business over a career? Ever wondered if you can start your own business? Ever thought about starting your own business but don’t know how? [Silicon Valley Comes to Imperial](http://www.svc2imperial.com/) (SVC2Imperial) is your chance to get answers to all of these questions.

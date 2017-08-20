@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241556-felix-Screen Shot 2017-02-24 at 13.59.00.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241556-felix-Screen Shot 2017-02-24 at 13.59.00.png"
+image_caption: ""
 ---
 
 It's a well known fact that if you’re one of the beautiful people, you’re more likely to be successful in the Union elections. But as well as having beauty be a requirement, there is also a culture of successful candidates being chosen from above.

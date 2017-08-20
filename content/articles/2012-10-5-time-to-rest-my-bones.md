@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051758-ks607-334236_263637940415811_1555576600_o.jpg"
-image_caption: >
-  Kadhim, Sioni (background), and Arthur (skeleton) arriving at Land's End on the 14th of July
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051758-ks607-334236_263637940415811_1555576600_o.jpg"
+image_caption: ""
 ---
 
 The last day was bliss. My parents had driven down to Cornwall and had taken the bags off our bikes; after two weeks, [we finally had a support car](https://twitter.com/skeletonfund/status/224069966868119552). With the weight removed from my beleaguered back wheel, the tandem was a dream. I sped up the hills, my now mutant thighs making short work of the climbs, and then flew down the other side, enjoying gears I hadn’t realised existed before. The Claud Butler racing tandem, the “[Majestic Two](http://homepage.ntlworld.com/nkilgariff/ClaudButler.htm)”, was finally getting to spread its wings. The sun was out, and King Arthur (the skeleton) was getting to feel the wind in his… chest cavity. We arrived at Land’s End in no time.

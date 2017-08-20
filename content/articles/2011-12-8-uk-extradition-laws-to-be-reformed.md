@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112082013-pk1811-2700311137_728e72c605_b.jpg"
-image_caption: >
-  MPs called for a public inquiry as a result of the parliamentary debate
-image_attribution: "UK Parliament"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112082013-pk1811-2700311137_728e72c605_b.jpg"
+image_caption: ""
 ---
 
 [A parliamentary debate](http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0002.htm#11120526000001) on extradition took place on Monday 5 December where it was concluded that there should be further calls for a public inquiry into the [Crown Prosecution Service](http://www.cps.gov.uk/) (CPS). The debate came as a result of an e-petition to put Babar Ahmad on trial in the UK securing over 141,000 signatures within three months.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310040317-jal08-sport_icxca.jpg"
-image_caption: >
-  Cross Country & Athletics Team Photo
-image_attribution: "ICU Cross Country & Athletics"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310040317-jal08-sport_icxca.jpg"
+image_caption: ""
 ---
 
 On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus instead. The van, effortlessly navigated and driven by Matt Douthwaite, was loaded up with trainers, sports bags, games and twenty odd obligatory contributions of home baked goods.

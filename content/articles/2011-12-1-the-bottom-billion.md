@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112021604-felix-bigbottombillion.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112021604-felix-bigbottombillion.jpg"
+image_caption: ""
 ---
 
 The world of international development is more often than not more complex than the image the rock concerts and heart-strings-tugging TV ads might project. Often riddled with scandalous corruption and heated debate, a heavy dose of evidence is clearly needed. Oxford Professor [Paul Collier](http://users.ox.ac.uk/~econpco/) aims to provide just this in his 2007 book [The Bottom Billion](http://www.oup.com/us/catalog/general/subject/Economics/Developmental/?view=usa&ci=9780195311457). Billed as an explanation as to ‘Why the poorest countries are failing and what can be done about it’, the book injects a generous helping of evidence and statistical analysis in the aid debate, like smashing LSE and Imperial together in a particle accelerator.

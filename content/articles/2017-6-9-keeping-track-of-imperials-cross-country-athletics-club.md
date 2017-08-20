@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706091742-ea3211-Picture2.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706091742-ea3211-Picture2.png"
+image_caption: ""
 ---
 
 Saturday the 27th of May saw the final event in the London Universities and Colleges Athletics (LUCA) outdoors championship take place. The series of three athletics meets between the London universities had previously visited St. Mary’s and Woodford athletics tracks, and the destination for the final was Battersea’s Millennium Arena.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602051144-felix-2000px-Circle_Line.svg.png"
-image_caption: >
-  The circle line, but not as we know it.
-image_attribution: "TfL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602051144-felix-2000px-Circle_Line.svg.png"
+image_caption: ""
 ---
 
 The ICSM Student Union has been forced to reign in its plans for RAG week, due to growing pressure from the college over recent alcohol-fuelled bad behaviour.

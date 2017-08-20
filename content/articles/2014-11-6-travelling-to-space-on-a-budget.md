@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
+image_caption: ""
 ---
 
 Not many of us have a spare quarter-of-a-million dollars to blow on a half-hour joy-ride.

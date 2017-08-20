@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 “[…] Naturally the majority did notice his criminal activity […] unfortunately, Italian People, if they have to choose between their duty and personal advantage, always chose the latter. He, a mediocre, rough man with vulgar but effective eloquence was and is a perfect specimen of his coevals. In an honest country he would have been at most the leader of a modest party, the not-too-brilliant author of verbose articles in his party newspaper, he would have been considered a ridiculous character for his manners, his megalomania, his offense to common sense due to his emphatic and shameless style.

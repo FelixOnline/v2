@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301312257-tna08-future_money04-1.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301312257-tna08-future_money04-1.png"
+image_caption: ""
 ---
 
 Last term the Political Philosophy Society invited[ Richard Murphy](http://www.taxresearch.org.uk/Blog/richard-murphy/) to speak about the furore amongst the public, media and politicians that arose as a [reaction to news of the tax affairs of major corporations](http://www.guardian.co.uk/business/2012/dec/03/amazon-google-starbucks-tax-avoidance).

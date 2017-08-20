@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201311150245-felix-candybar.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201311150245-felix-candybar.png"
+image_caption: ""
 ---
 
 As Candy Bar, London’s award winning Lesbian bar announces that it will be closing its doors for the last time in January, this is a question that many gay and bisexual women have been asking. Candy is the latest in a long list of lesbian bars and clubs who have lost their homes in recent years including G Spot, Glass bar and Chocolate Lounge. This leaves a significant gap in the market, as it is currently the only remaining female only space in Soho (men may enter, but not unaccompanied). This is a fact that I find shocking and saddening in such a diverse and cosmopolitan city as London. Candy’s motto is ‘Run by Girls, For Girls’, which really emphasises the importance of a space in which women can feel safe, and are protected from the negative attention which sadly follows same sex encounters in many environments.

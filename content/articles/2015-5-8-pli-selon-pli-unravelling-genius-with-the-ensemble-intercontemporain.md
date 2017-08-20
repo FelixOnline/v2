@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505061315-km2612-dsc_5201.jpg"
-image_caption: >
-  The Ensemble Intercontemporain in performance
-image_attribution: "Ensemble Intercontemporain"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505061315-km2612-dsc_5201.jpg"
+image_caption: ""
 ---
 
 __The Barbican__ brought their ‘Boulez at 90’ celebrations to an end last week with a tribute from the composer’s own ensemble, the __Ensemble Intercontemporain__.

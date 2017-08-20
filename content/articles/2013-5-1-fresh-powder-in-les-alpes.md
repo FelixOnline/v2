@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012037-tna08-skiing.jpg"
-image_caption: >
-
-image_attribution: "Lizzy Griffiths"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012037-tna08-skiing.jpg"
+image_caption: ""
 ---
 
 Friday 22nd March brought more excitement than the usual end-of-term celebrations for 48 of Imperial’s snow enthusiasts: we were heading to the French Alps for our Easter ski trip. BUSC Main Event, organised annually by the British University Snowsports Council, is a week full of competitions, après events and drunken antics attended by 1,500 students from the UK, and this year ¬– hosted in Alpe D’Huez – promised to be as crazy as ever.

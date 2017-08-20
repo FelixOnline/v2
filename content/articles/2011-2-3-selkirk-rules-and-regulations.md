@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102031943-ks607-selkirks.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102031943-ks607-selkirks.jpg"
+image_caption: ""
 ---
 
 After several recent incidents in Selkirk Halls – mainly involving alcohol – the Wardens have decided to implement a series of rules regarding ‘gatherings’ and noise levels late at night. These regulations request that students inform the wardens about gatherings so that they can be ‘approved’ and have provoked consternation amongst students there. Students have been warned that if gatherings are not reported to Wardens, after repeat offences, they may get fined.

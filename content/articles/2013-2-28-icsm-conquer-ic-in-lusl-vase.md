@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302282344-tna08-301658_241014742622195_1862828000_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302282344-tna08-301658_241014742622195_1862828000_n.jpg"
+image_caption: ""
 ---
 
 Following talk of an unbeaten season following three wins from three games at the start of the season, the ICSM FC 2nd XI had taken a nose dive. A string of losses left Captain Ali Brown and his men dejected and in desperate need of a win. A quarter final tie against rivals, IC 5th XI, in the LUSL Vase, was cited as the perfect opportunity to turn our fortunes around.

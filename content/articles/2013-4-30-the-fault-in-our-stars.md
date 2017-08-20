@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305012040-tna08-the-fault-in-our-stars---john-green.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305012040-tna08-the-fault-in-our-stars---john-green.jpg"
+image_caption: ""
 ---
 
 Freud was the first to identify the dualistic principle of Love and Death, personified in the Greek gods Eros and Thanatos, as a key component of the human psyche. In his description, the first is the drive for reproduction, the positive instinct of preservation and creation of life; but human beings also display an opposed destructive instinct towards others and sometimes themselves. Attempting to explain our every actions in these terms may be reductive; but in John Green’s fourth novel, The Fault In Our Stars, love and death become real forces, and their painful clash is the central theme of the book.

@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231231-ygr12-steak.jpg"
-image_caption: >
-  You don’t have to serve it on a slate, but it does help.
-image_attribution: "weeklygravy.com"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231231-ygr12-steak.jpg"
+image_caption: ""
 ---
 
 The next time you get the family come to London and take you out for a meal, pause for a second before you order the steak. I mean, fine, it’s not your credit card, and it’s typically the most expensive item on the menu, so surely you’re getting your money’s worth? You certainly wouldn’t pay that much when you go out on a cheeky date to Nando’s, but that’s different; this is a time to treat yourself. It’s not like you’re missing out on anything else on the menu – who really knows what half of it is anyhow? Foams, airs, deconstructions: all are meaningless when you know exactly how juicy, meaty and delicious that steak will be. It’s a safe choice. But, ask yourself - what am I really getting that I can’t do myself?

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702031512-felix-Trump-21.jpg"
-image_caption: >
-
-image_attribution: "Izzat Rais"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702031512-felix-Trump-21.jpg"
+image_caption: ""
 ---
 
 Donald Trump has consistently been on the collective consciousness for a while. Though Trump’s presidency could globally affect climate change and human rights, to name only a few areas of concern, amongst some journalistic circles, there’s the additional concern that the international focus on Trump is steering the public’s attention away from important national news.  And whereas that may be true, it has also undeniably managed to rile up a significant proportion of the population, leading to mass action across the UK.

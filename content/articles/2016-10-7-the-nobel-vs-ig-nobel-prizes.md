@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610071905-felix-8677099509_0c48a6fbf3_o.jpg"
-image_caption: >
-
-image_attribution: "AJC1"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610071905-felix-8677099509_0c48a6fbf3_o.jpg"
+image_caption: ""
 ---
 
 Whereas the Nobel Prizes embody the recognition and respect all scientists strive for, the Ig Nobel Prizes are given out annually for some of the weirdest and most unlikely research materials in each category. Both are significant events in the science calendar, but for very different reasons. Which prize are you more likely to win?

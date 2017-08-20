@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The news that the management training company Coalescence Consulting has received payments of £39,570 this financial year may raise a few eyebrows. While Mark Davies, Chief Executive of the Imperial College Healthcare NHS Trust, has stated that, “On joining Imperial I rightly declared an interest in the company and resigned as a director of Coalescence to avoid any issues of a conflict of interest. I have had nothing to do with the commissioning of any work historic or ongoing,” he remains a Senior Consultant and Executive Coach for the company, with his wife in the position of Managing Director.

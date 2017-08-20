@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Students vow to “keep the momentum going” as the Cops off Campus campaign call another demonstration on 22 January. Three years on from the increase in tuition fees and the student protests that followed, university campuses are faced with fresh opposition as the recent protests against police presence on campus culminated in thousands of students marching through Bloomsbury.

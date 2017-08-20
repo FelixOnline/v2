@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
-image_caption: >
-
-image_attribution: "Instagram @formationmusic"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
+image_caption: ""
 ---
 
 _felix_ catches up with Formation while they’re on tour with Jagwar Ma. Another notch on their belt after playing Glastonbury, Field Day and having their song Pleasure chosen for the FIFA 17 soundtrack. In the room are front-man Will Ritson, his twin brother Matt (synths), Jonny Tams (bass) and Kai Akinde-Hummel (drums).

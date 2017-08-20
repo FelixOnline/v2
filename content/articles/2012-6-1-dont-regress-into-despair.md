@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011430-mc4509-20100315144150-1.jpg"
-image_caption: >
-  Regression analysis. Actually as simple as drawing a big arrow through some dots
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011430-mc4509-20100315144150-1.jpg"
+image_caption: ""
 ---
 
 For anyone considering a career in biological or medical research, the old catchphrase “Never work with children or animals” often comes into play. Biological data never quite does what you want it to. Sometimes a scientist’s intuition, or even looking graphs of your data, tells you that the trend you’re looking for does exist. But now the question is, how can one get the statistics to prove it to the rest of the scientific world?

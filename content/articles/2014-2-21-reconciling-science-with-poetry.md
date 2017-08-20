@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I am sat at a pew in Westminster Abbey, filled with a sense of awe and reverence. Unlike the elderly lady to my right, her hands clasped in silent petition, I am not here for prayer. I am, however, here on a pilgrimage of sorts in an attempt to understand the power and limits of science.

@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It is informative that students, of all the victims of the coalition's cuts, are the first to stand up for themselves, instead of blithely accepting the extreme austerity of the current parliament. The growing sense that older generations have used up all the hot water, so to speak, has created a great sense of injustice amongst young people. Add to this the coming Lib Dem betrayal, of their election pledge to vote against tuition fee increases, and it's easy to understand why 50,000 students marched on Wednesday.

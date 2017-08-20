@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411102248-ps3110-download.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411102248-ps3110-download.jpeg"
+image_caption: ""
 ---
 
 As you put in your personal statement, ever since you were born, you’ve had a deep and passionate curiosity about the intriguing wonders of science. Why not put this to good use by writing for _Felix_?

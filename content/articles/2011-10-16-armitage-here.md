@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201110161540-felix-080210-karolehal.jpg"
-image_caption: >
-  Karole Armitage – so active that we couldn't find a photo of her without motion blur
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201110161540-felix-080210-karolehal.jpg"
+image_caption: ""
 ---
 
 Karole Armitage’s limited run of performances at the Southbank Center were billed as science inspired punk-ballet. On the basis of that description alone I realised that my attendance was inevitable. Nothing however could have prepared me for the breathtakingly energetic, shockingly beautiful dance I witnessed. The show featured extracts from Two Theories and Drastic-Classicism both groundbreaking, iconoclastic works from the Director. Armitage’s choreography subverts classical ballet through modern and street influences to create some of the most visceral, thrilling, yet technically immaculate dance I have ever seen.

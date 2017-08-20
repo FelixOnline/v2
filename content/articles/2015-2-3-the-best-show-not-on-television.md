@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502031451-ps3110-house-of-cards-review-1.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502031451-ps3110-house-of-cards-review-1.png"
+image_caption: ""
 ---
 
 Based on the novels by Michael Dobbs and the British political drama by Andrew Davies, _House of Cards_ is a Netflix original series that follows U.S. Congressman and Majority Whip Francis Underwood, played by Kevin Spacey, who after being denied the position he was promised of Foreign Secretary in a new democratic cabinet sets out to take revenge on the administration he helped to elect and take the Presidency for himself. The series also stars Robin Wright as Frank’s chilling wife Claire, and Kate Mara as the young journalist Zoe Barnes, who forges a secret relationship with Frank in a desperate attempt to get her professional break.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 _Anomalisa_ begins with a single voice. Or maybe single voices. Multiple copies of Tom Noonan’s voice pile up over a blank screen, creating a wall of unintelligible sound. It’s a panoply of voices. A cacophony of voices. An oppression of voices.

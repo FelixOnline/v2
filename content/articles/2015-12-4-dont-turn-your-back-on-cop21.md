@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201512041518-ygr12-follow-the-leaders-london.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201512041518-ygr12-follow-the-leaders-london.jpg"
+image_caption: ""
 ---
 
 On Monday, 25,000 official delegates from 150 countries descended on Paris for the COP21 Climate Talks. Of all the talks we have seen to date, they are the best organised international talks, with the most potential. The biggest progress is that they are focussed around the climate action targets that countries have agreed meet by 2020, called Intended Nationally Determined Contributions or INDCs. They are also set to acknowledge at least some of the great potential of local and grassroots action on climate change by emphasising the role of individual cities, like London, in setting their own targets and actions.

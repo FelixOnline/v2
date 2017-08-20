@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210158-tna08-hamza1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210158-tna08-hamza1.jpg"
+image_caption: ""
 ---
 
 During the end of 2011, when Europe suffered the worst economic crises in decades, the Republic of Trinidad and Tobago was removed from the list of Developing Countries by the OECD.

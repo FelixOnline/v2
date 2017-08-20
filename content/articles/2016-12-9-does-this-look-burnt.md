@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
+image_caption: ""
 ---
 
 The perennial question. You notice that slightly-too-blackened edge of your fried chicken thigh during a friend’s thanksgiving dinner, and hesitate just a little, but eat it anyway because nothing can take that peri-peri pleasure away from you. I guess it’s common knowledge that burnt foods can be carcinogenic, but did you know that different burnt foods pose different levels of danger?

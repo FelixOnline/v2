@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101132139-ks607-timetabl.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101132139-ks607-timetabl.jpg"
+image_caption: ""
 ---
 
 In a move sure to raise eyebrows among those who prefer an extra hour (or three) in bed, it has been revealed that a College committee is considering lengthening the academic day in order to ensure that Imperial is able to “accommodate the growing number of master’s courses and extracurricular programmes [that it] offers.” The proposals being discussed include allowing teaching during the current lunch break by reducing it to one hour.

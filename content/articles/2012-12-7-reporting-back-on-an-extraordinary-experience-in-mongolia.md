@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201212070116-tna08-tumblr_lr9lxqgcqz1qcbmwh-3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201212070116-tna08-tumblr_lr9lxqgcqz1qcbmwh-3.jpg"
+image_caption: ""
 ---
 
 Terelj is located 60km away from Ulan Bator, the capital of Mongolia. The national park has smooth sloping valleys that climb up to become rocky peaks. This past July, the rains were plentiful. Grass carpeted the landscape, though not the soft type you’d find in your lawn. Rather the blades grew in little clumps with wiry roots that ran deep into the dry earth. The hardy vegetation provided an abundance of food for the horses, cows, sheep and camels that seemed to have free roam of the park. In sharp contrast to the green underfoot, a deep blue sky spread overhead with clouds so high they hardly seemed to move.

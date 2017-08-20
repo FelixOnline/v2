@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Spain, 1936. As civil war sweeps through the country, volunteers from all over Europe flock to the standards of the Republican and Nationalist armies. Made iconic through Hemingway’s dry prose and Picasso’s chilling canvas, the Spanish Civil war was probably the last real instance in which thousands of individuals across Europe took up arms to defend their ideals in a foreign state regardless of their own nation’s views on the matter.

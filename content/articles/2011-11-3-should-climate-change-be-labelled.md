@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032155-sjw209-eoghan.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032155-sjw209-eoghan.jpg"
+image_caption: ""
 ---
 
 I read over my last article and it seemed a bit too esoteric… and we’re all scientists after all, so I’ll try and keep to the facts this time.

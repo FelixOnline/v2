@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251402-felix-GLOSS.jpg"
-image_caption: >
-
-image_attribution: "Sabotage Records"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251402-felix-GLOSS.jpg"
+image_caption: ""
 ---
 
 ## G.L.O.S.S – G.L.O.S.S (We’re from the Future)

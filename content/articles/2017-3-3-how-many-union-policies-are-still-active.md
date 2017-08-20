@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031416-felix-tankards policy.jpg"
-image_caption: >
-  Apparently it’s one of the largest collections in Europe
-image_attribution: "Imperial College Union"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031416-felix-tankards policy.jpg"
+image_caption: ""
 ---
 
 The Union has fallen behind maintaining up to date policies responsible for managing a range of issues, from Equality of Opportunities to Club Society and Project (CSP) Equipment.

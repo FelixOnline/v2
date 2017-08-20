@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201703031607-felix-Screen Shot 2017-03-03 at 16.06.48.png"
-image_caption: >
-  Get you St Andrews cross out
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201703031607-felix-Screen Shot 2017-03-03 at 16.06.48.png"
+image_caption: ""
 ---
 
 Following the election theme, today I’m going to talk about relinquishing control of yourself to someone who you deem trustworthy enough not to cause permanent damage to your well-being. Welcome to BDSM 101.

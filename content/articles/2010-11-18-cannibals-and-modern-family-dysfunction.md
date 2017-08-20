@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182051-nm1010-wearewha.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182051-nm1010-wearewha.jpg"
+image_caption: ""
 ---
 
 In 2004 I was travelling in Australia when someone dared me to go to the cinema. The idea was to go to see Super Size Me, the Morgan Spurlock documentary, whilst eating two super-sized McDonald’s Big Mac meals. I succeeded in the challenge although it put me off McDonald’s for the duration of university. I extend that dare to anyone, anywhere, to eat anything even remotely meaty whilst watching the new Mexican horror film based on a family of cannibals, We Are What We Are.

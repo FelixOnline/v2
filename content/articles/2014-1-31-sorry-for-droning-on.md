@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 At the time of writing, the Guardian has just run an online story about Obama. It seems he is ready to bypass congress when it comes to his 2014 agenda. Dan Pfeifer, Obama’s senior advisor for strategy appears particularly ‘American’ in the most pejorative European sense of the term: ‘We need to show the American people we can get something done… the President is not going to tell the American people he will wait for Congress.’

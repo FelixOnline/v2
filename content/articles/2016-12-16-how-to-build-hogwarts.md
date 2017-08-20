@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612161557-felix-15181381_10209879786924407_2702047499125047172_n.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612161557-felix-15181381_10209879786924407_2702047499125047172_n.jpg"
+image_caption: ""
 ---
 
 ## 2009 | The first gingerbread

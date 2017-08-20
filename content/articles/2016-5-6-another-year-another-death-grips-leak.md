@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
-image_caption: >
-  A bottomless balloon pit?
-image_attribution: "Death Grips"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
+image_caption: ""
 ---
 
 The most avant-garde of avant-garde rap groups has leaked yet another album: _Bottomless Pit_. And it’s exactly what you’d expect. It’s so good it’s bad. It’s so bad it’s good. And it’s self-aware. We’ve reached peak irony, and I for one love it.

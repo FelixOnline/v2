@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072048-txl11-rainforest.jpg"
-image_caption: >
-  Let’s find out if it’s venomous!
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072048-txl11-rainforest.jpg"
+image_caption: ""
 ---
 
 Now, I have a huge confession to make. Well, it’s something that I can’t really help, aside from the non-stop verbal diarrhea. When it began is as misty as a fading memory skipping on old stones in a running brook, but it must have been somewhere in my childhood.

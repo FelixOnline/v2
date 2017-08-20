@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
-image_caption: >
-  200pw cause South Ken is fancy af
-image_attribution: "TS Pakhrin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
+image_caption: ""
 ---
 
 Imperial has finally joined the ranks of UK universities offering a rent guarantor scheme, to the delight of many overseas students who are often forced to pay up to a year’s rent in advance due to lack of a UK guarantor. The scheme which was announced this summer by the Union, is set to be launched in 2017, initially as a pilot programme. During this trial period, the guarantor scheme will only be available to returning undergraduate students, but hopefully in the future postgrads and freshers who’d rather not pay 800 pcm will also be able to sign up for it.

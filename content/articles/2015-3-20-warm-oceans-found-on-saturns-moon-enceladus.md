@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
-image_caption: >
-  This cutaway image shows an artist's impression of the ocean under Enceladus' icy crust
-image_attribution: "NASA/JPL"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
+image_caption: ""
 ---
 
 Microscopic grains of silicon-rich rock detected by NASA’s Cassini spacecraft have provided the first clear evidence of hydrothermal activity occurring outside our planet. A four-year analysis of data from Cassini’s instruments, alongside laboratory experiments and computer modelling, was published in Nature this week by scientists at the University of Colorado Boulder.

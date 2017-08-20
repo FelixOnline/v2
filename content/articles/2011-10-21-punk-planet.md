@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 There’s nothing more hardcore punk than having a creed to live by. The straight-edge subculture – an abstention from drugs, promiscuous sex, and often hair – was a creed of sorts, inspired by the anti-hedonistic stance of 1980s bands such as Minor Threat, and many bands have adopted the stance of political revolutionaries.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I try not to listen to BBC Radio if I can help it, because I want old age to hold some surprises and given that I already eat mint imperials all day and complain about ‘the youth’ I’m feeling that it’s not holding much back.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602121158-felix-brain_dissection.jpg"
-image_caption: >
-  Ew... We mean, ooh!
-image_attribution: "Azmi Rahman"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602121158-felix-brain_dissection.jpg"
+image_caption: ""
 ---
 
 Last weekend, Imperial played host to the largest ever student-led Neuroscience conference, organised under the banner of the London Students’ Neuroscience Network (LSNeuroN). For the first time, neuroscience societies of the five London medical schools – Imperial, UCL, King’s College London, Bart’s and St George’s – collaborated to put together the weekend affair, consisting of keynote speeches and a wide variety of symposia organised by each neuroscience society, as well as a poster prize session.

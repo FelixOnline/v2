@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072259-felix-tumblr_m4aahmetrm1r7r4c7o1_1280.jpg"
-image_caption: >
-  She's playing with fire... again...
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072259-felix-tumblr_m4aahmetrm1r7r4c7o1_1280.jpg"
+image_caption: ""
 ---
 
 [__Prometheus__](http://www.imdb.com/title/tt1446714/)

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Having made a fantastic start to the season with two impressive wins, the fixture against King’s College London was eagerly anticipated, if approached with slight trepidation. In the previous three encounters last season, King’s had won convincingly on all occasions which led to their promotion in BUCS. However, they many of their starting line-up had graduated in the interim. In form, this fixture was set to be the first true test of how far Imperial has come since gaining momentum last season.

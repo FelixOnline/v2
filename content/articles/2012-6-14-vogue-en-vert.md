@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206142049-ams111-comment4.jpg"
-image_caption: >
-  Part of the sustainable range at Topshop. Not sure how socially sustainable blue hair is, but it loo
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206142049-ams111-comment4.jpg"
+image_caption: ""
 ---
 
 It’s summer; exams are over, there are parties to go to, holiday destinations to jet off to, and of course, the Summer Ball to attend. For many of us, all of these occasions probably warrant new clothes.

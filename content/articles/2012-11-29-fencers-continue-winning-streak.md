@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211292321-csw09-fencing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211292321-csw09-fencing.jpg"
+image_caption: ""
 ---
 
 Cardiff, Sunday lunch time. Imperial Fencing Women’s 1st park the minibus and make their way through the labyrinth-like venue to find the fencing piste. On the schedule for the day are Oxford and Cardiff University, ranked last and middle of the league respectively. Are the Imperial girls going to continue their incredible streak of victories?

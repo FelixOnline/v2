@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201511061334-ygr12-tiny2.jpg"
-image_caption: >
-  The weedy new tree is barely visible to the naked eye.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201511061334-ygr12-tiny2.jpg"
+image_caption: ""
 ---
 
 One of the two large, established cherry trees dominating Beit quad has been completely removed, and replaced with a younger model. Many readers will be familiar with the trees’ knobbly roots which have lifted the paving around the union’s seating area, forming a trip hazard.

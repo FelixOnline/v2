@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 The New Year is here – which can only mean one thing: the exciting, glittery Oscar season is well under way. Films that carry their studios’ high expectations are rolled out in late December over in the States, which means over here in England, we see their releases throughout January. Sick of feeling down and gloomy with the January blues? Felix Film takes a look at the excellent films on offer that should be worth your while.

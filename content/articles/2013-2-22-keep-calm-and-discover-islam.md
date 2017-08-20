@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220116-tna08-diw.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220116-tna08-diw.jpg"
+image_caption: ""
 ---
 
 There seems to be a ‘KEEP CALM….’ slogan for every situation including ‘KEEP CALM IT’S ONLY THE OLYMPICS’. But here’s one you may not have thought of, ‘[KEEP CALM AND DISCOVER ISLAM’](http://theisoc.com/diw/), perhaps because mainstream media has done such an effective job in portraying that word ‘Islam’ with terrorsism…‘Islamism’...radicalism…list goes on. But just how much do you really know about it? There are loads of misconceptions and Discover Islam Week aims to address them.

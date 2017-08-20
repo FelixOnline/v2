@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
-image_caption: >
-
-image_attribution: "Lane Savage // Comedy Central"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
+image_caption: ""
 ---
 
 It was during the last US Presidential Debate that Donald Trump muttered ‘what a nasty woman’ Hillary Clinton was, the latest of Donald Trump’s transgressions. Minutes after the debate had finished, Twitter was ablaze with women reclaiming the insult. Elizabeth Warren made ‘nasty women’ the centre of her speech stumping for Hillary Clinton, and Samantha Bee, the only female host on late night comedy in America wore a ‘nasty woman’ T-shirt to host this week’s episode of Full Frontal with Samantha Bee.

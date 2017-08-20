@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
+image_caption: ""
 ---
 
 Faced with declining paper revenues and stiff competition from free online alternatives, Rupert Murdoch’s News Corporation made a bold foray into online publishing last Wednesday with the release of their subscription-based iPad-only publication The Daily. The Daily is one of a handful of publications that exists solely as an app, a big gamble from a corporation that has until now been relatively wary of online media.

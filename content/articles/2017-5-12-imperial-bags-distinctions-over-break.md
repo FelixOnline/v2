@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705121833-felix-9059210910_4d639d764c_o.jpg"
-image_caption: >
-  Some distinctions are greater than others
-image_attribution: "Darin McClure"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705121833-felix-9059210910_4d639d764c_o.jpg"
+image_caption: ""
 ---
 
 Over the Easter break, Imperial has shockingly managed to bag not one but two distinctions leaving students to wonder whether this was an April Fool’s joke. First IC won the Student Experience prize at the Guardian University Awards 2017 and shortly after, it got recognised as a centre of excellence in cyber security research.

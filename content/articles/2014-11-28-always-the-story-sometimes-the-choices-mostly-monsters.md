@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280108-ps3110-asm.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280108-ps3110-asm.png"
+image_caption: ""
 ---
 
 Always Sometimes Monsters is an indie game by Vagabond Dog and Devolver Digital. The first time you load it up, you’ll see a tiny (560x454) window with the game logo and 3 buttons – New Game, Credits, and Quit. Yeah, no options. This is a pretty simple game. You can adjust the window by pressing F6 or F7, which make the window bigger and fullscreen respectively. If it didn’t have those options, the size of the window would make Always Sometimes Monsters pretty much unplayable.

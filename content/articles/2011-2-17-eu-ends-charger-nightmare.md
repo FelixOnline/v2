@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102172017-nm1010-chargerc.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102172017-nm1010-chargerc.jpg"
+image_caption: ""
 ---
 
 Plans for a universal phone charger for all mobile handsets sold in the EU have gone ahead this week. Manufacturing has already begun by many of the 14 firms that have subscribed to the initiative, which will see a special charging port added to all devices manufactured from now on.

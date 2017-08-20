@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201002251854-mb506-ICJudo.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201002251854-mb506-ICJudo.jpg"
+image_caption: ""
 ---
 
 Last weekend, three London teams entered the 18th edition of Sheffield USIST, the biggest international student judo tournament held in the UK.

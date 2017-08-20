@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
+image_caption: ""
 ---
 
 And so it has come to pass. After weeks of seemingly endless student protests, vicious exchanges across the House of Commons and many uneasy grumbles from within the Liberal Democrats, the Government’s proposal to raise the tuition fee cap passed through the House of Commons late Thursday afternoon, with 323 votes for versus 302 against

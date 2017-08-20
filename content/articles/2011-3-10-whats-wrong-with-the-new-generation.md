@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Games. They're like gigantic, electric playgrounds. And like playgrounds, nowadays they're all tarmac and cutesy wooden houses for the reception kids to play in, whereas we were lucky to have a bit of rusty old pipe to play catch with. At least that's the impression I get from [Alex Karapetian's article](http://www.felixonline.co.uk/?article=901) in Monday's Daily Felix, which seemed to imply that games are less engaging, less addicting and less related-to-cartoon-series than they used to be.

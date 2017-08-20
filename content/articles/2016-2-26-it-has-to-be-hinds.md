@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201602261149-felix-hinds2.jpg"
-image_caption: >
-  FKA Deers
-image_attribution: "Matt Johnston"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201602261149-felix-hinds2.jpg"
+image_caption: ""
 ---
 
 Ana Perrote, Carlotta Cosials, Ade Martin and Amber Grimbergen. Together they are **Hinds**, a Spanish band on the cutting edge of the garage rock scene in Madrid with a debut album poised to break them out further still. Formed in the summer of 2011 by Ana and Carlotta (the vocalists and guitarists of the quartet), the two went under the moniker of ‘Deers’ until a legal dispute made them change their name, but not before they added bassist Ade and drummer Amber.

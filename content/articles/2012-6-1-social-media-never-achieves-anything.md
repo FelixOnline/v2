@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
-image_caption: >
-  We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
+image_caption: ""
 ---
 
 I’ve got a problem. A problem with you. And your friends. The whole lot of you, in fact, and the way in which you all spread your ideas using social media. Basically, over the past couple of years social media has quickly evolved from a novel way of keeping in touch into a way for people to share their passions, problems and grievances – and in doing so I’m of the firm belief that it’s become a useless, vapid place. People seem to think they are making a difference when they click the ‘Like’ button – but they are, unfortunately, kidding themselves.

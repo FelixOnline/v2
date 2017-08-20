@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271853-ks607-quantumd.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271853-ks607-quantumd.jpg"
+image_caption: ""
 ---
 
 I received [this book](http://www.amazon.co.uk/How-Teach-Quantum-Physics-Your/dp/1851687793) as a Christmas present, probably as a humorous allusion to my ineptitude at physics. The premise is very simple: Emmy the dog is adopted by Orzel, a physics Professor, and subsequently becomes enraptured with his work and how it applies to everyday dog issues. Orzel is happy to explain, creating a witty dialogue between the two.

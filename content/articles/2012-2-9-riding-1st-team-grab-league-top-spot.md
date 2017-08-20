@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202092316-pk1811-photo.jpg"
-image_caption: >
-  Insert horse-related joke here
-image_attribution: "IC Riding"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202092316-pk1811-photo.jpg"
+image_caption: ""
 ---
 
 The first riding team have moved into first place in their league after an impressive win in Buckinghamshire on Wednesday. Picking up individual 1st 3rd and 7th places, Rachel Gregory, Ilse daly, Sinead Conneely and Mikaela Bryant-Meisner are now in a favourable position with two competitions left, one being their home event at Trent Park in Oakwood.

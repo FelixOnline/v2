@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303072131-txl11-jamie-xx-benji-b-xoyo-deviation1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303072131-txl11-jamie-xx-benji-b-xoyo-deviation1.jpg"
+image_caption: ""
 ---
 
 Prior to last Friday it’d been a good year since I was last at XOYO. In 2010, when it first opened, the initial excitement was of a club with the line-ups and support that could have proved a replacement for The End. However something just wasn’t right about the lay-out and the sweat-dripping ceiling combined with line-ups deviating from my tastes meant that I only ended up going about five times. But the potential for the night held last Friday was so great I’d have probably gone had it been held in the Great Hall. Probably.

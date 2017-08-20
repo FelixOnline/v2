@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611251400-felix-Michalina_Olszanska_3.jpg"
-image_caption: >
-
-image_attribution: "Media Brigade"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611251400-felix-Michalina_Olszanska_3.jpg"
+image_caption: ""
 ---
 
 T  he directorial debut from Czech directors Petr Kazda and Tomás Weinreb – I, Olga Hepnarová – takes its title from a line in the manifesto left behind by the last woman to be executed in Czechoslovakia. In 1973, at the age of 22, Hepnarová ran over a group of people with a truck, killing eight, and was executed with short-drop hanging. But the title also acts as an invitation. It invites us to try and get inside the mind of a killer to attempt to shed some light on what, exactly, drove a young girl to commit such a horrific act. A pity, then, that the end result is so dark and unilluminating.

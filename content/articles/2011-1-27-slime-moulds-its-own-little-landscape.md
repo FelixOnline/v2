@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
+image_caption: ""
 ---
 
 The humble amoeba is more intelligent than you would think. A new study published in Nature by evolutionary biologists at Rice University has found that the social amoeba Dictyostellum discoideum exhibit a primitive form of agriculture.

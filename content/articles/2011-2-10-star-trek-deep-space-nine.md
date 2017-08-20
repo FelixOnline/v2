@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102102030-ks607-startrek.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102102030-ks607-startrek.jpg"
+image_caption: ""
 ---
 
 Seeing how I’ve been doing this for a few weeks now I think it’s high time I tackled one of the best known science fiction phenomena out there, Star Trek. The franchise has been a massive success and even most people who aren’t fans can recognise Captains Kirk and Picard. My favourite Star Trek show, however, is a bit more obscure than The Original Series or The Next Generation; it is, in fact, Star Trek Deep Space Nine.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 One cold Wednesday afternoon earlier this week, your fantastic Features editor deigned to trespass and snoop around formally check out and report the annual Postgraduate Open Day happening at the South Kensington Campus. It was much less of a hassle than expected, as I had turned up with Joe Letts’ name card for clearance purposes but may as well have come dressed as a school kid for all the difference it made.

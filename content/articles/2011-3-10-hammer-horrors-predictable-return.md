@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102022-nm1010-resident.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102022-nm1010-resident.jpg"
+image_caption: ""
 ---
 
 Why the two-time Academy Award winning, much-respected actress Hilary Swank thought she needed to do another cheap horror after the [not-so-well-received The Reaping](http://www.rottentomatoes.com/m/reaping/) is anyone’s guess. But before you immediately dismiss this as another scare-free “horror” film, just know that the film is not without its moments, and although everything is predictable almost to an annoying level, creepy moments do pop up every now and then. Thankfully it’s a relatively short film too – only around 90 minutes – so if you’re willing to bear the frustrating moments for a few scenes that do truly pay off once in a while, this might be the laid-back, thoughtless entertainment we all need occasionally.

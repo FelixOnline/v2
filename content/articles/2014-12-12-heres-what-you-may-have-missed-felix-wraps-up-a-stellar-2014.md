@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412121301-ps3110-img_2985.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412121301-ps3110-img_2985.jpg"
+image_caption: ""
 ---
 
 It has been a busy year for Imperial College, with the Union and the University alike giving Felix lots of material and good reason to go to print (most of the time).

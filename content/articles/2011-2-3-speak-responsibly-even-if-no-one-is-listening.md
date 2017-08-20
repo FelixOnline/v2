@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This week our Media basement neighbours, IC Radio, found themselves on the [wrong side of the Union's broadcasting guidelines](http://www.felixonline.co.uk/?article=727). A guest on one of their music shows used the derogatory term "paki" when referring to one of his and the host's mutual friends. Regardless of whether offense was intended or not, at least one of the show's seven listeners was sufficiently affected to complain.

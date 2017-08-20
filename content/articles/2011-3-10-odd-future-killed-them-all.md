@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201103102019-ks607-oddfutur.jpg"
-image_caption: >
-
-image_attribution: "Matt Martian"
-image_attribution_link: "http://oddfuture.tumblr.com/post/3587428638/by-matt-martian-taco-frank-jasper-matt-domo"
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201103102019-ks607-oddfutur.jpg"
+image_caption: ""
 ---
 
 If you are even remotely interested in music, and regardless of your stylistic preferences, then there is a strong chance you have heard of [Odd Future Wolf Gang Kill Them All](http://en.wikipedia.org/wiki/OFWGKTA) by now (Odd Future for the lazy). If you have not, then you must be living under a rock somewhere with no wi-fi, phone or carrier pigeon service. Freak.

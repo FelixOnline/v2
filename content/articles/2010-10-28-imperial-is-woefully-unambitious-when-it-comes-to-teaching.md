@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial is proud of referring to itself as the university of the future. After all, few universities can boast graduates who predicted the 20th Century as keenly as H.G. Wells or who contributed to our advancement throughout it as significantly as Alexander Fleming, Dennis Gabor or James Ellis. It is therefore deeply disappointing that a university so keen to promote technical innovation in all fields should be neglecting an area much closer to home.

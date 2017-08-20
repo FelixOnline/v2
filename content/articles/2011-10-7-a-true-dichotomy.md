@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111041134-felix-sam-horti-new.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111041134-felix-sam-horti-new.jpg"
+image_caption: ""
 ---
 
 When facing a dichotomy, it often takes only a small amount of creative thinking to find a secret, third option. Some people will use this tactic unknowingly when their religious beliefs are called into question, especially when the question posed is: “Are you a theist or an atheist?” The secret, third option in this case is agnosticism, which, in the case of this question, is a nonsensical answer.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
-image_caption: >
-  Protestors at Millbank Tower
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
+image_caption: ""
 ---
 
 The dust has barely settled from the thousands of students who [descended on London last week](http://felixonline.co.uk/gallery/?albumID=2) to demonstrate against the planned rise of tuition fees, but plans are already being set in motion across the country for further protests. [Wednesday 24th November](http://www.facebook.com/event.php?eid=134751449911080&ref=ts) has been proposed by several anti-cuts groups as the next significant occasion to bring the issue to the forefront of both the political and public mindset.

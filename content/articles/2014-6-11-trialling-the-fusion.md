@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201406112246-me1711-games_trials.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201406112246-me1711-games_trials.jpg"
+image_caption: ""
 ---
 
 I first got into trials way back when it first came to Xbox live arcade. It was gathering some hype and after downloading the demo I saw why. On the surface Trials is a very simple motorbike 2D racing game. You race on non-standard terrain courses using the few controls the game has to offer; accelerate, reverse and changing way you are leaning on the bike. The game adds some strategy as going full out top speed often gets you knocked off your bike, and not leaning the correct way also results in the bike getting tipped over. Sometimes to achieve the best times and the elusive gold medal for the track it is better to go over a jump slower to achieve the perfect landing. I was hooked all the way from the easy beginner tracks to the extreme tracks that would take me hours to complete as I patiently had to get past obscene obstacles using many attempts to get to the next checkpoint. The game also offered skill challenges which ranged from sensible ones like completing a track without leaning to ridiculous ones like trying to break as many bones in your characters body. Trials was a simple game but ridiculously addictive. After this game I then got the sequel Trials Evolution gold edition on steam which included all the Xbox tracks and more. This newer version had tracks which were more race like and less filled with obstacles at first but gradually got harder. As the first game took place entirely in some insane warehouse it was refreshing that this game added outside tracks as well as the 2D racetracks curving around the environment to add some more perspective. After these two great games how could Trials Fusion be even better?

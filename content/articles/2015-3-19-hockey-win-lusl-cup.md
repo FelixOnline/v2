@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192358-kmw13-p3140416%20%282%29.jpeg"
-image_caption: >
-
-image_attribution: "IC Hockey"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192358-kmw13-p3140416%20%282%29.jpeg"
+image_caption: ""
 ---
 
 Having won a hard fought battle against RUMS in the semi-final, IC travelled to Royal Holloway to take part in the final of the London Universities Cup against King’s GKT on Saturday. GKT had previously beaten IC in a pre-season friendly in the only meeting of the two teams this season, finishing 2nd in the BUCS league above IC meant that on paper they were surely favourites to take the Cup title. However, coach Cooper had prepared a game plan tailored their style of play and because of this IC were confident in their ability to cause an upset.

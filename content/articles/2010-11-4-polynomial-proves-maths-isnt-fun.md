@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011282018-sjw209-Polynomi.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011282018-sjw209-Polynomi.jpg"
+image_caption: ""
 ---
 
 [The Polynomial – Space Of The Music](http://dmytry.com/games/), far from being just a mathematical expression, is a 3D music action game in which you pilot a space ship through a brightly coloured universe that pulsates along to currently playing song.

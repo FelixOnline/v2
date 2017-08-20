@@ -34,14 +34,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303010032-tna08-marrow-fun-run.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303010032-tna08-marrow-fun-run.jpg"
+image_caption: ""
 ---
 
 You may have seen the IC Marrow team at Freshers’ Week sporting the characteristic black t-shirt with bold white print. This resonates with the design scheme of Anthony Nolan, a national blood cancer charity, which surprisingly few people seem to have heard of. A big part of Marrow, a society that exists in 40 universities including Imperial, is to raise awareness regarding the work that Anthony Nolan does to match stem cell or bone marrow donors to blood cancer patients. The ultimate aim of Marrow Societies is to raise funds to support the work of Anthony Nolan, and to encourage people to sign up to be on the donor register.

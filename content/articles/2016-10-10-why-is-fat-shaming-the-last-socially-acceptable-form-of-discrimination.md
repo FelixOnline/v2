@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
-image_caption: >
-
-image_attribution: "Yosra T"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
+image_caption: ""
 ---
 
 Being fat is seen as the worst thing that a person can be. Fat is often synonymous with lazy, slovenly, unattractive, and unhealthy, and becomes a reason to deny someone any semblance of humanity – fat people aren’t seen as worthy.

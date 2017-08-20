@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210112202-csw09-nick_clegg-small.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210112202-csw09-nick_clegg-small.jpg"
+image_caption: ""
 ---
 
 Ed Miliband is on a high: his party has a 14 point lead over Cameron’s Conservative party (YouGov/The Sun) who are themselves suffering from somewhat of a crisis of identity as Cameron struggles to find policies that will impress his right-wing backbenchers but will still keep his Lib Dem colleagues satisfied in government.

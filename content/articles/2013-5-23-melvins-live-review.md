@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305232321-tna08-melvins3.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305232321-tna08-melvins3.jpg"
+image_caption: ""
 ---
 
 The Melvins have long since become an institution, one of the most influential bands in modern rock. In recent years however, they have not simply been resting on the laurels of their classic albums, but exploring new territory and breaking new ground. Their album as Melvins Lite, a stripped down form of the Melvins with Ipecac favourite Trevor Dunn on double bass is one example, another is their record breaking 51 states in 51 days tour last year. It must be said, however, that a bit of retrogression from a band as great as them is always appreciated, so it was much to the delight of many when two shows consisting of Lysol/Houdini and Stoner Witch/Bullhead played in succession were announced.

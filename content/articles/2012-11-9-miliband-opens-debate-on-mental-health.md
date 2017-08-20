@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 According to the World Health Organisation, one in four of us will have a mental illness at some point in our life, and that by 2030 depression will be the largest cause of disease around the world. That’s a scary statistic. Mental health issues, be them our own or someone else’s, affect us all, and yet we don’t talk about them. This is the problem cited by[](http://www.labour.org.uk/speech-on-mental-health-to-the-royal-college-of-psychiatrists)[Ed Miliband in his speech to the Royal College of Psychiatrists last week.](http://www.bbc.co.uk/news/uk-politics-20117661)

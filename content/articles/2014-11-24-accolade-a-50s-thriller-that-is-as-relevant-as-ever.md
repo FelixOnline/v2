@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411241230-ps3110-download.jpeg"
-image_caption: >
-
-image_attribution: "whatsonstage"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411241230-ps3110-download.jpeg"
+image_caption: ""
 ---
 
 A rich, famous and respectable man has his private life dragged through the tabloids. “The Sir and the school girl!” the media cries. This all sounds very familiar; the eminent and the famous are constantly in the public eye, their lives scrutinised in every detail by scandal-hungry press. So a well written, moving, reflective and excellently performed play on this recurrent issue of our times doesn’t come a minute too soon. But hang on– I forgot to mention – _Accolade_ was written in 1950.

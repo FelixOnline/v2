@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
-image_caption: >
-  Residents protesting outside Campbell House, where many students have withheld rent due to poor living conditions.
-image_attribution: "David Dahlborn"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
+image_caption: ""
 ---
 
 Students living in accommodation run by University College London (UCL) have been threatened by the university with serious repercussions after withholding rent due to allegedly ‘unliveable’ conditions in their halls.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412080924-ps3110-shutterstock_74553967-665x445.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412080924-ps3110-shutterstock_74553967-665x445.jpg"
+image_caption: ""
 ---
 
 Every Christmas holiday, people are often tempted to go abroad, whether to visit famous Christmas markets or enjoy the festive vibes of the country.

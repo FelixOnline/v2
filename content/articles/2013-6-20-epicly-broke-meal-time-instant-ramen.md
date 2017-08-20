@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201306210030-tna08-emt2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201306210030-tna08-emt2.jpg"
+image_caption: ""
 ---
 
 This week – we get broke from eating out all the time during exams. *SQUAWK* being domestic gods or goddesses, we’re tired. And skint. We don’t got “YouTube money” to blow on real food like Harley and that lot – we need cash for the post-exam booze. So we buy cheap like *SQUAWK* instant ramen and pimp it with *SQUAWK*ing leftovers to silence our *SQUAWK*ing stomachs.

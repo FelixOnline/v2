@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 First, a word of warning. This review is about a Secret Theatre production. The entire premise is that it’s secret. So please bear with me: I’m being cryptic for a reason, I’m not just trying to be a ponce.

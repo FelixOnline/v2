@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205031852-ams111-dandy_warhols.jpg"
-image_caption: >
-  They most certainly look dandy
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205031852-ams111-dandy_warhols.jpg"
+image_caption: ""
 ---
 
 The band is __The Dandy Warhols__. The location is the Kentish Town Forum. The mission? To start a mosh pit. My friend, a die-hard punk fan who is also coming to see the gig remains sceptical. A band known for producing radio-friendly power pop hits to supplement their back catalogue of psychedelic stoner rock is – in theory at least – unlikely to attract the energetic and robust crowd required to partake in behaviour traditionally more suited to more aggressive forms of music.

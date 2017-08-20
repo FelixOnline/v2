@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102271953-ks607-rsmwomen.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102271953-ks607-rsmwomen.jpg"
+image_caption: ""
 ---
 
 It may have been 09:00 on a cold, rainy Saturday morning but the spectators for the ladies hockey were in for a treat.

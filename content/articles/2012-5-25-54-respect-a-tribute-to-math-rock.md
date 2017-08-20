@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205251952-mc4509-hella.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205251952-mc4509-hella.jpg"
+image_caption: ""
 ---
 
 Although they have often used larger set ups, Hella, at its barebones, is guitarist Spencer Seim and drummer extraordinaire Zach Hill, who have played together since high school. They released their first EP, _Leather Diamond_, in 2001. Even in that early release, the Sacramento, California band have a distinctive tone, consisting of technical, breakneck riffs and outstanding drum performances from Hill.

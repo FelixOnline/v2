@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
-image_caption: >
-  Elementary my dear Watson, you should never start with French
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
+image_caption: ""
 ---
 
 ###  Sherlock Holmes: A Game of Shadows

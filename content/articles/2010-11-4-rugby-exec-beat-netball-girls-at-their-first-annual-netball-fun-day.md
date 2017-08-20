@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011041849-ks607-netballn.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011041849-ks607-netballn.jpg"
+image_caption: ""
 ---
 
 On Saturday 30th October the first ever Netball Fun Day was hosted by ICUNC. The day started with the sun shining, a clear sky and a lot of excitable Netball girls.

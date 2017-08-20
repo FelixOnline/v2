@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
+image_caption: ""
 ---
 
 _F__ifty Shades of Grey_ has opened the door for us to talk about sex candidly and honestly in a way that has never been done before, something that can only be a good thing. People are more open to discussing their desires and fantasies than ever, with millions of people exploring new sensations, and rejuvenating their sex lives. But along with this comes a dark side, and ignoring that could be potentially damaging.

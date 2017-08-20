@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
-image_caption: >
-  Alessandra Ambrosio in The Fantasy Bra
-image_attribution: "Photo: Dimitrious Kambouris via Getty Images"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
+image_caption: ""
 ---
 
 __Angel: Alessandra Ambrosio__

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151755-felix-Screen Shot 2017-05-15 at 17.54.48.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151755-felix-Screen Shot 2017-05-15 at 17.54.48.png"
+image_caption: ""
 ---
 
 Divest Imperial are calling on College to remove its investments from fossil fuel companies, but what exactly is so bad about fossil fuel companies, anyway? Most attention is given to their impact on the climate through their carbon emissions, but fossil fuel companies often make headlines (or conspicuously don’t) for altogether more sinister reasons. Many have a track record of human rights abuses and environmental lapses that would embarrass even the most hardened dictator.

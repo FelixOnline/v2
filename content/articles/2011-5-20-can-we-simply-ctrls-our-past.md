@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
+image_caption: ""
 ---
 
 In 1986 the BBC launched an ambitious campaign to repeat the Domesday Book collection of data in the 11th Century. The information was thought lost, a victim to digital obsolescence which is when a form of data storage becomes unreadable due to outdated technology. Through the perseverance and hard work of many at the BBC and The National Archives, the data gathered by over 1 million people has now been made public again after 25 years.

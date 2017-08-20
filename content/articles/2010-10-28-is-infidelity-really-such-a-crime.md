@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Our society pours so much scorn onto cheaters. After public outcry, [John Terry was stripped of the England captaincy](http://news.bbc.co.uk/sport1/hi/football/8495604.stm) because of his infidelity. Can you imagine getting chucked out of university because of your personal life?

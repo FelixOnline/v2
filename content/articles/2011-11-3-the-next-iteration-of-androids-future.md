@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111031820-fa608-android-beam-video-sharing.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111031820-fa608-android-beam-video-sharing.jpg"
+image_caption: ""
 ---
 
 A fortnight ago saw Google team up with Samsung for the much anticipated launch of the latest iteration of Android, its popular smartphone OS, alongside the Galaxy Nexus, the latest and greatest Google branded hardware to run it on. Held in Hong Kong, the keynote swiftly began with Samsung taking to the stage to discuss the Galaxy Nexus. It’s not the first time the two companies have partnered together to release a smartphone, as last year they unveiled the Nexus S.

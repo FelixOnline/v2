@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201302220200-tna08-841254_10152577440335607_98816022_o.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201302220200-tna08-841254_10152577440335607_98816022_o.jpg"
+image_caption: ""
 ---
 
 After last week’s BUCS Cross-Country in Leeds, the running hype continued with the Hyde Park Relays 2013, a competition held since 1949 and gathering students from all over Europe. Imperial XC members had been up all week to prepare for the event, and were impatient to show the results of their winter training.

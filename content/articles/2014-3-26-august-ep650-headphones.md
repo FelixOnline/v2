@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201403261543-jal08-tech_bluehead.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201403261543-jal08-tech_bluehead.jpg"
+image_caption: ""
 ---
 
 Almost a year and a half ago I stumbled across the wonderful world of Bluetooth headphones. For those of you who might remember, back then a naïve tech writer I had just decided to splash out on a pair of 20 quid headphones from Amazon, namely the SX-907. To date this still remains my most popular article, and by which I assume that either I am reading my own articles way too much or that you guys are genuinely interested about Bluetooth headphones. For my own sanity, I shall assume the latter.

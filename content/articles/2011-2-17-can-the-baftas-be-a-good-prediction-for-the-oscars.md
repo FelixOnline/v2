@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201102171923-nm1010-amyamyam.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201102171923-nm1010-amyamyam.jpg"
+image_caption: ""
 ---
 
 Despite the rain on February 13th, Leicester Square was once again a buzzing night of flashbulbs and red carpet walks as it played host to the 63rd annual BAFTA awards. A semi-reliable predictor of which way the Oscars might swing, the BAFTAs has becoming an increasingly high profile event in the film world, injecting a bit of life and glamour into the British film scene and bringing big names to the capital. Julianne Moore, Jessica Alba and Mark Ruffalo, were among the Hollywood faces who turned up, but the big winners of the night were the cast and crew of the recent British hit, The King’s Speech.

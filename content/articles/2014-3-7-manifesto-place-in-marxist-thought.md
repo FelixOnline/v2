@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task. Thus this text is half criticism, half recommendations for further reading. Before I start on the meat of the discussion I should say that in 1848 Marx had begun but by no means finished his study of political economy and so we should not place too much emphasis on the relative lack of ‘economic essentialism’ in the Manifesto; the outline of history in the preface of the Contribution was substantially the same as in the Manifesto, but the economic claims were stronger.

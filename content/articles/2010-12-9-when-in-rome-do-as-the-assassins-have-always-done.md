@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012091947-ma1307-ASSassin.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012091947-ma1307-ASSassin.jpg"
+image_caption: ""
 ---
 
 After having your mind completely blown by Assassin’s Creed II’s preposterous ending [(spoiler)](http://www.giantbomb.com/assassins-creed-ii/61-22928/ending-to-assassin-creed-2wtf-spoiler/35-272387/), Brotherhood returns to connect the dots in the bizarre tale and explain what exactly is going on. But in doing so, does it bring any new and redeeming features to expand the series and is it worth it as a game in its own right?

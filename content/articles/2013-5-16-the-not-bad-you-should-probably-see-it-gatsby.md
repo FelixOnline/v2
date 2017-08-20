@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
+image_caption: ""
 ---
 
 You know how, more often than not, the trailer for a film shows all the film’s best bits and everyone is let down by the film? This is so not the case here. The Great Gatsby is everything the trailer promises, and more. It is bold, brash, glamorous and over-the-top in the trademark Baz Luhrmann way.

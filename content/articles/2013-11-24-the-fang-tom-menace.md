@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It was easy to respond to the news of NBC and Sky’s latest venture, Dracula, with a roll of the eyes. What with the frenzied spate of anything vampire-themed following the dubious success of Twilight, including the rise and fall of True Blood and The Vampire Diaries, it would appear that the show is jumping on the bandwagon five years too late.

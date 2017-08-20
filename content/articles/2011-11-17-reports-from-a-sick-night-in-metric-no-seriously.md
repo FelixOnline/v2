@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
-image_caption: >
-  Mikill Pane poses with students
-image_attribution: "Gordon Kam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
+image_caption: ""
 ---
 
 _See photos of the night [here](http://felixonline.co.uk/media/photo/19/kablaam-felix-music-night/)_

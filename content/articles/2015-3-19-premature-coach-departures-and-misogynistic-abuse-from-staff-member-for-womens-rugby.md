@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503192343-cj914-tbl_varsity_quick_set_21h42m27s.jpg"
-image_caption: >
-  IC run through to score one of their three tries on the night
-image_attribution: "Ben Lester ThroughBensLens.co.uk"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503192343-cj914-tbl_varsity_quick_set_21h42m27s.jpg"
+image_caption: ""
 ---
 
 Imperial’s Women’s rugby teams have been left fuming after their Varsity match on Wednesday due to transport mix-ups and alleged verbal abuse from a Sport Imperial staff member.

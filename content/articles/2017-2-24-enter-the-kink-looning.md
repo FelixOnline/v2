@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702241530-felix-Screen Shot 2017-02-24 at 15.29.54.png"
-image_caption: >
-
-image_attribution: "Lef Apostolakis"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702241530-felix-Screen Shot 2017-02-24 at 15.29.54.png"
+image_caption: ""
 ---
 
 Dan got into the shower, washing himself. Holly said she would clear up the mess they had made after the pump-to-pop in the sleeping bag. He still couldn't believe what Holly did for his birthday. They had had a few sessions with balloons before but nothing like this. Last time they had a blow-to-pop race with twelve inches, it was fun but Dan didn't know Holly would get into it, she must have been practicing. After a few minutes Holly enters the bathroom, completely naked, holding a red balloon. It’s deflated but looks like a 16-inch.

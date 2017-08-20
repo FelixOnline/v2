@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Saturday 16 July saw Imperial’s Silwood Park campus in Berkshire play host to this year’s [Silfest](http://silfest.co.uk/), with the annual independent music festival raising enough money to buy two cows.

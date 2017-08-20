@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201205250031-mc4509-kana.png"
-image_caption: >
-  Who can resist an orange glowing scrollwheel!?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201205250031-mc4509-kana.png"
+image_caption: ""
 ---
 
 The SteelSeries Kana is a gaming mouse promising a good specification but at a reasonable price. Armed with a high resolution sensor (3200dpi), two side buttons, two on-board profiles and a resilient, braided cable, it certainly looks good on paper. I’ve been using it for the past week, so let’s take a look at how it is in practice.

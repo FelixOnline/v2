@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Over the past year, a dozen patients have been fortunate enough to participate in an innovative study, led by Dr Robin Carhart-Harris, exploring a novel treatment for depression. Last week it was announced that all twelve, though resistant to conventional treatments, responded positively to this new antidepressant. Only it wasn’t exactly a new antidepressant they were responding to. It was psilocybin, a compound known for making some mushrooms... magic

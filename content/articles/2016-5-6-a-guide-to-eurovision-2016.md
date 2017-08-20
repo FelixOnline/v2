@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605061101-felix-globe.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605061101-felix-globe.jpg"
+image_caption: ""
 ---
 
 After Måns Zelmerlöw’s victory for Sweden in Vienna last year, this year sees “Europe’s favourite TV show” head to Stockholm for the third time in the competition’s history, and it’s set to be a big one! We’ll also see a massive change to the voting system, with each country awarding two sets of points each: one from their televote, one from their professional jury.

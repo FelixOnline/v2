@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411280051-kmw13-ferguson-10.jpg"
-image_caption: >
-
-image_attribution: "Charlie Riedel/Associated Press"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411280051-kmw13-ferguson-10.jpg"
+image_caption: ""
 ---
 
 The St Louis suburb of Ferguson was calm on Thanksgiving morning, after two nights or protests. The suburb has been unsettled since 9th August when police officer Darren Wilson shot and killed civilian Michael Brown. Mr Wilson, who shot Brown six or seven times said that he “feared for his life”. Witnesses, however, claimed that Mr Brown, who was not armed, had his hands up when the first shots were fired.

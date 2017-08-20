@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201701201453-felix-IMG_2223.JPG"
-image_caption: >
-
-image_attribution: "Alexandre Adler"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201701201453-felix-IMG_2223.JPG"
+image_caption: ""
 ---
 
 Happy days. Imperial College will finally be taking steps to solve issues with temperature regulation at the Central Library. Probably.

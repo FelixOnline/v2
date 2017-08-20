@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
-image_caption: >
-  That awkward moment when someone takes the last piece of cake... or the cake.
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
+image_caption: ""
 ---
 
 This week I’m going back straight back to the UK post-punk/hardcore scene by way of a review of the debut full-length album of __The James Cleaver Quintet__ (JCQ), _That Was Then, This Is Now._ Nearly two years ago the JCQ released their first and only EP _Ten Stages of a Make Up_ to massive critical acclaim. Fans have been eagerly awaiting another release and on Halloween this year, they were given what they wanted.

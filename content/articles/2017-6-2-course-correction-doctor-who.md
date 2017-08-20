@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201706021521-felix-dw.jpg"
-image_caption: >
-  This is why you always wear a seatbelt
-image_attribution: "BBC"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201706021521-felix-dw.jpg"
+image_caption: ""
 ---
 
 Halfway into the latest season of Doctor Who, set to be Peter Capaldi and showrunner Steven Moffat’s last, we have yet to be disappointed. After a rocky few seasons, the show began to show signs of recovery with last Christmas’ delightful, superhero themed fix. The first six episodes of series ten have continued this upward trend, with new companion Bill proving to be quite a highlight, and Capaldi being allowed to flourish.

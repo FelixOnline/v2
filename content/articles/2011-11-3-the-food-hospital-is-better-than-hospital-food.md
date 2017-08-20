@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111032030-pk1811-hospital-food.jpg"
-image_caption: >
-  Yeah, that’ll make you better love
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111032030-pk1811-hospital-food.jpg"
+image_caption: ""
 ---
 
 Channel 4’s latest culinary offering is a scientific blend of classics such as don’t-watch-it-with-your-parents Embarrassing Bodies and Supersize vs Superskinny. All three programmes feature C4’s basic ingredients of Grand Design-esque houses and arty long shots, grisly bodily close ups when you least expect them and celebrity doctors who seem to spend far too much time on TV and no time on the skiing holidays my GP frequently enjoys.

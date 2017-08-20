@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211012320-tna08-figure-for-the-applications.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211012320-tna08-figure-for-the-applications.jpg"
+image_caption: ""
 ---
 
 Figures released by UCAS (Universities and Colleges Admissions Service) over the summer show that almost 44,000 less home students applied to study at UK universities for 2012 entry than did for 2011 entry, representing a drop of 8.7%. UCAS analysis suggests that, accounting for changes in population size and long term application patterns, 15,000 less individuals have applied than had been expected to.

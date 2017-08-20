@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
-image_caption: >
-  The Duke of York looks at a low-cost incubator at the Pitch@Palace Bootcamp.
-image_attribution: "Layton Thompson / Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
+image_caption: ""
 ---
 
 The Duke of York was at Imperial last week to host the Pitch@Palace Bootcamp to find finalists for Pitch@Palace4.0, an event where bright young entrepreneurs get to pitch to industry experts, CEOs and people with lots and lots of money. Since stepping down as the UK’s special representative for trade and investment in 2011 after concerns about the company he keeps, Prince Andrew has championed this kind of start-up, supporting hackspacey vibes around the country at various university campuses and techspots. In fact, previous finalists of the Pitch@Palace series were Imperial’s very own _YOYO_ app.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210260344-tna08-clarke1.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210260344-tna08-clarke1.jpg"
+image_caption: ""
 ---
 
 It’s no secret that Arthur C Clarke is one of my favourite authors of all time. Born in 1917 he is often considered, alongside Isaac Asimov and Robert Heinlein, as one of the Big Three authors of Golden Age science fiction.

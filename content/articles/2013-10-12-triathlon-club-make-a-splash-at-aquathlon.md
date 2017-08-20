@@ -33,14 +33,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201310122120-jal08-spot_aquathlon.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201310122120-jal08-spot_aquathlon.png"
+image_caption: ""
 ---
 
 The first event of the tri club racing calendar brought nine athletes to London Fields, competing in the swim-run combo known as an aquathlon. This early season competition was an opportunity to blow away some of the summer cobwebs for returning members, whilst for a couple of others it was an opportunity to get a first taste of the multi-discipline action. Myself in the latter category, I was so full of enthusiasm when signing up, that little things like start times didn’t really seem important enough to check. Surely it can’t be too early, they do realise we were students right? Wrong. Alarms set for between 4.30 and 5 o’clock, we made our way bright eyed and bushy tailed (okay that was a slight lie) to catch the first of our two buses to get to the venue. Now normally bus journeys don’t make it into match reports, but ours makes a brief appearance for two reasons; firstly in memory of the much missed Jean Claude, the ‘porridge-in-a-pot’ made several appearances and secondly for the adventures of Sophie Kirk. Normally the most organised of people, we found it slightly surprising when she missed our arranged meeting time and thus the 211. Fear not, she will get the next bus and catch the subsequent one to London Fields? Wrong again. Due to the Royal Parks half marathon taking place that morning (shout out to Harriet, a Tri member competing) diversions were beginning to take operation and time was beginning to get short. Having pulled a sprint out the bag that Bolt would have been proud of, Sophie just missed catching us in the walk between stops and was now in danger of missing the event. At this point she hailed down a cab and uttered the line in true film fashion – ‘follow that bus!’

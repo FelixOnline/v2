@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201203151957-ams111-120307-science-kamilah2-1205p.jpg"
-image_caption: >
-  Kamilah the gorrila
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201203151957-ams111-120307-science-kamilah2-1205p.jpg"
+image_caption: ""
 ---
 
 A decade after the completion of the human genome sequence, researchers have sequenced the genome of a female western lowland gorilla called Kamilah from San Diego zoo. This means we now have a fully sequenced, representative genome sequence from each of the four great ape groups: humans, chimps and bonobos, orangutans, and gorillas. Having the full set will enable scientists to better understand when each of these groups evolved – a current matter of debate.

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 It appears that the College has yet again taken a somewhat narrow-minded view on their latest venture, extending the working day for not only the students, but the staff as well. Forget the fact that they will have to ask staff to work longer hours, which might be a whole other bag of problems, but the change to the timetable would eat into the already limited hours available for extra-curricular activities, in particular sports.

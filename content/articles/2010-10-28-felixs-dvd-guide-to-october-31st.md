@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010282037-ma1307-OMGDEATH.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010282037-ma1307-OMGDEATH.jpg"
+image_caption: ""
 ---
 
 Halloween parties are like sex: either a dark, lusty and twisted extravaganza enhanced by elaborate costumes; or an over-hyped and disappointing charade we do once a year because we feel socially compelled to. Helping you make yours the former, here is our guide of some new and re-released Horror DVDs to get you going.

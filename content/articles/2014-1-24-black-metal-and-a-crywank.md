@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 When I asked Stuart if he wanted to come to __Crywank__ with me, he was understandably confused. Thankfully, I was able to quickly able to correct any misunderstandings and on Monday night we headed to see Crywank, performing with __Caïna__, __Old Skin__, and __Ithaca__ at Power Lunches.

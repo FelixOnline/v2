@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
-image_caption: >
-
-image_attribution: "Gage Skidmore"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
+image_caption: ""
 ---
 
 Today, when we live in much more tolerant and inclusive times than those in the past, it is really important to remember that even a term such as ‘LGBT’ can sometimes forget to include certain groups of people, necessitating the term ‘LGBT+’. One such group that is often completely forgotten about in the discussion of sexuality is in fact the situation when a person does not experience sexual attraction. Asexuality.

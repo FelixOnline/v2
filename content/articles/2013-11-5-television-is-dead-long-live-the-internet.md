@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Netflix are branching out. No longer content with being the mother of all procrastination techniques (in the battle of lab report against the entire series of Gossip Girl, there can only be one winner) and bringing in the internet streaming revolution, the American website has started showing original content available exclusively on Netflix. The first test subject in this experiment was political drama House of Cards, which proved an uncontested success when it went on to be nominated for nine Emmys, including Outstanding Drama series. Following this, when the cult US comedy Arrested Development was cancelled by Fox, Netflix bought the rights and revived it for a fourth series, to the great delight of fans everywhere.

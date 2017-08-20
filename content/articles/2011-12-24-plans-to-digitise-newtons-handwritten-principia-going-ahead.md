@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
-image_caption: >
-  Newton's handwritten annotated notes, amongst others, are to be put online
-image_attribution: "Cambridge University Library"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
+image_caption: ""
 ---
 
 Cambridge University is to give the public access to Sir Isaac Newton's own [annotated copy of the Principia Mathematica online](http://cudl.lib.cam.ac.uk/), along with several of his other papers. Newton, born on Christmas Day in 1642, shares credit with Gottfried Leibniz for the developments in integral and differential calculus, along with several breakthroughs in mathematics and physics.

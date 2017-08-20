@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 What happens when two worlds collide? This is the question Imperial Fringe attempted to answer last Thursday, when they put on The Arts Experiment, a series of exhibits exploring the close links between art and science. By explaining the science between many of Imperial’s favourite pastimes the organisers were able to show that the worlds of culture and research were a lot closer than many of us may think.

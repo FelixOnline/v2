@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201211152056-tna08-don-lab-oscar-cez.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201211152056-tna08-don-lab-oscar-cez.jpg"
+image_caption: ""
 ---
 
 Imperial has received the highest amount of research council’s money out of all the institutions in the UK.

@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201202231943-ams111-ali-g.jpg"
-image_caption: >
-  Is it called Welfare coz he iz well fair innit?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201202231943-ams111-ali-g.jpg"
+image_caption: ""
 ---
 
 Are women unhappy at Imperial? Some, it seems, are. Some men are too. Whether these are vocal fractions of a silent majority, or simply a vocal minority remains to be seen, but it doesn’t really matter. Every student at Imperial deserves freedom to be him/herself and to thrive to his/her full potential, minority or not – and women at Imperial are a minority. Within the central Union we do a lot of work for many of the recognised minorities but have done little recently for women.

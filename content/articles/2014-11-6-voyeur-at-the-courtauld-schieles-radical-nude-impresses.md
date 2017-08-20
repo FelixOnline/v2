@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
-image_caption: >
-  Two Girls Embracing (Friends) 1915
-image_attribution: "Egon Schiele"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
+image_caption: ""
 ---
 
 A mention of sex in any context, really, is usually enough to get people excited (pun intended). After all, to quote Oscar Wilde: “Everything in the world is about sex, except sex. Sex is about power”.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201402051021-me1711-tech_paper.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201402051021-me1711-tech_paper.jpg"
+image_caption: ""
 ---
 
 Yes, Facebook, has turned 10. Ten years this giant has been sucking out our souls, killing our times and generally trying to inject itself into every aspect of our lives. Now they have introduced their next strategy in their multi-pronged attack to make themselves virtually indispensible, a reader app named paper. Almost identical to Flipboard, it aims to deliver a new experience to browsing Facebook, and general news around the Internet.

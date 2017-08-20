@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201301102225-tna08-highlight-in-books.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201301102225-tna08-highlight-in-books.jpg"
+image_caption: ""
 ---
 
 This week many of you will have been camping out in the Library preparing for exams. (I feel your pain.) This is the first time in 4 years that I am not sitting exams this January (fist punch) and so instead of frantic cramming I’ve taken some time to look into some of the best, and the worst, revision techniques. (Once a nerd...)

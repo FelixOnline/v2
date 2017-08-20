@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201210051848-felix-amsa-advert-final.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201210051848-felix-amsa-advert-final.jpg"
+image_caption: ""
 ---
 
 Make no mistake: “The Innocence of Muslims” is a vile film, and an insult to the Founder of Islam and Muslims the world over. Yet the response to it across the Muslim world has done far more to tarnish the name of Islam than any short film ever could.

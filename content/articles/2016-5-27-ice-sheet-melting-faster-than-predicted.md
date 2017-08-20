@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201605271053-felix-8382308336_d80b1d49bb_o.jpg"
-image_caption: >
-  Antarctica
-image_attribution: "Chrisopher Michel"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201605271053-felix-8382308336_d80b1d49bb_o.jpg"
+image_caption: ""
 ---
 
 Antarctica boasts the largest mass of ice on earth, a colossal 27 million km3, comprised of three vast ice sheets: the East, the West and the Antarctic Peninsula. With warming seas and climbing temperatures, scientists focused their attention on the West Antarctic Ice Sheet, due to its vulnerability to rising water temperatures, being grounded far below sea level.

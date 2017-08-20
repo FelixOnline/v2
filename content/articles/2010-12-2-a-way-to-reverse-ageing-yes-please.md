@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Ah yes, Nature: everyone’s favourite science journal. We slag it off as populist bullshit but secretly dream of the day our paper will be published in its glossy, simplistic covers. What garbage have they thrown at us this week? Oh hurrah, we’re going to be able to reverse the aging process. And no doubt, by the time the mainstream media has finished bouncing on this story like Berlusconi on a power hungry teenie-bopper; we will be queuing up in our thousands to have this wonder enzyme pumped into our bodies. Let’s get one thing straight: if I earn enough money, I will probably get plastic surgery when I’m older to sort myself out.

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201001221347-rsp07-comment.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201001221347-rsp07-comment.jpg"
+image_caption: ""
 ---
 
 The American campaign trail is a thing of beauty. An exhibition of pure democracy at work, it really encapsulated Churchill's quotation: “It has been said that democracy is the worst form of government except all the others that have been tried”. Nowhere else would you find an Ivy League elitist engaging in high level debates with the farmers, steel workers and college drop-outs of the American heartland. The idealistic virtues of politics are exemplified and the devious natures of political manipulation are forgotten. “...5 minutes with the average voter”, rather than the “best argument against democracy” (again Churchill) I think it perfectly demonstrates the essence of it. With the addition of Hollywood glamour, the alluring factor of election season becomes irresistible. If anyone has seen/iPlayered the film about the election story of Barack Obama last week, they will have see the struggles, hopes and triumphs of a Presidential election. A story any Hollywood producer would have been proud of, the “American dream” has never been more enticing, much like the silicone infested body of Pamela Anderson.

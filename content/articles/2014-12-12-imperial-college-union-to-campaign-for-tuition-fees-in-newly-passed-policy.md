@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201412121244-ps3110-screen-shot-2014-12-11-at-22.39.16.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201412121244-ps3110-screen-shot-2014-12-11-at-22.39.16.png"
+image_caption: ""
 ---
 
 Council’s session on Tuesday 9th was dominated by the motion of No Confidence against the ICURFC Club Captain, but the new Higher Education Funding Policy which was passed will probably have even wider implications.

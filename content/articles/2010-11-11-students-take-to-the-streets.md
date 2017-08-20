@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201011112212-nm1010-students.jpg"
-image_caption: >
-
-image_attribution: "Miles Robertson"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201011112212-nm1010-students.jpg"
+image_caption: ""
 ---
 
 No ifs, no buts, no education cuts.” This was the chant carried through London last Wednesday by fifty thousand students and lecturers, in protest against the government’s plans to raise the cap on tuition fees to £9,000.

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 This Wednesday the [Royal College of Science Union (RCSU](http://rcsu.org.uk)) announced via email to the Faculty of Natural Sciences that it will be holding the Science Challenge 2012 Final in the House of Lords.

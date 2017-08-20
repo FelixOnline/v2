@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201501231840-jyg11-brooklyn-nine-nine-cmyk.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201501231840-jyg11-brooklyn-nine-nine-cmyk.jpg"
+image_caption: ""
 ---
 
 Sitcoms are notoriously hard to get right; and cop genre comedies especially so. TV history is full of huge success stories and miserable failures. For every triumphant series there are four or five flops, many of which never even make it to the pilot stage. But despite the significant challenges involved in creating a popular situational comedy, the occasional show is destined to succeed. _Brooklyn Nine-Nine_ is one such success story. Created by Michael Schur and Daniel J. Goor, _Brooklyn Nine-Nine_ is arguably 2014’s best new comedy series and has only just premiered in the UK.

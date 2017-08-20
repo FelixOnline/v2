@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150129-tna08-5862728227_ac36592cb5_z.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150129-tna08-5862728227_ac36592cb5_z.jpg"
+image_caption: ""
 ---
 
 Drama, passion and a thrilling unravelling of events makes Tosca an opera that will keep you on your toes during every act. Set against the backdrop of turbulent Rome in the 1800s, this opera could well be equated with a modern Hollywood drama.

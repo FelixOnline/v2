@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201407231455-me1711-endless-legend--the-roving-clans.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201407231455-me1711-endless-legend--the-roving-clans.jpg"
+image_caption: ""
 ---
 
 Recently Felix games was invited to the press tour of Amplitude Studios, who are promoting their two newest games in their Endless Franchise: Endless Legend and Dungeon of the Legend. We were able to discuss their upcoming releases, Steam Early-Access, Indie Gaming as well as the gaming industry as a whole. We were able to meet CEO Romain de Waubert de Genlis as well as Director of Marketing Max Von Knorring, and see some incredibly promising games!

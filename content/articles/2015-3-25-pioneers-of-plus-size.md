@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201503251158-ff712-tessmunster.jpg"
-image_caption: >
-
-image_attribution: "Girlie Show Photography"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201503251158-ff712-tessmunster.jpg"
+image_caption: ""
 ---
 
 Tess Munster, also known as Tess Holliday, has recently become the largest model ever to be signed to a major modelling agency, MiLK Model Management. Her size being a UK 22-24, and 5’5”, she describes herself as a “body-positive activist”, and is most well known for her #effyourbeautystandards movement, created to encourage larger women to accept and love themselves.

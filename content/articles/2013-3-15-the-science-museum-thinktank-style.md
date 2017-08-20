@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201303150105-tna08-image-4103-orig.jpg"
-image_caption: >
-
-image_attribution: "thinktank.ac"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201303150105-tna08-image-4103-orig.jpg"
+image_caption: ""
 ---
 
 ”A science museum... in Birmingham?! HA!” is the typical response received when I mention Thinktank Science Museum to anyone outside of the West Midlands.

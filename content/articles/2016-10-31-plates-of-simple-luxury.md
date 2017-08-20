@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201610312316-felix-IMG_4793.jpg"
-image_caption: >
-
-image_attribution: "Cristy Lam"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201610312316-felix-IMG_4793.jpg"
+image_caption: ""
 ---
 
 The luxury of Sunday mornings. The only morning in the week when it is entirely appropriate to put a hush to the endless list of unwatched Panopto recordings, lie-in until the church bells ring, then lazily roll out of the house in time for grocery shopping. Aside from snatching the half-priced flowers from Waitrose to adorn my ill-maintained window sill, another one of my weekend leisures I have grown to appreciate is brunch.

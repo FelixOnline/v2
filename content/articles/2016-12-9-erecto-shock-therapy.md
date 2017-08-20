@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201612091204-aib116-9163839223_a0527f5cc3_b.jpg"
-image_caption: >
-
-image_attribution: "BiERLOS a.k.a. photörhead.ch"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201612091204-aib116-9163839223_a0527f5cc3_b.jpg"
+image_caption: ""
 ---
 
 Transcranial magnetic stimulation (TMS) is a technique currently used in the treatment of migraines and depression. It involves stimulating the part of the brain that is linked to reward and pleasure. Patients undergoing treatment for depression may receive numerous sessions of TMS, but it is unknown as to whether their sex drive is altered as a result.

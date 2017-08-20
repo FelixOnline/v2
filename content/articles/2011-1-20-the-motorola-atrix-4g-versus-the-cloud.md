@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201101201911-nm1010-atrixlap.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201101201911-nm1010-atrixlap.jpg"
+image_caption: ""
 ---
 
 With the introduction of the Motorola Atrix at CES, we saw a modern implementation of the “One Device to Rule them All” paradigm. Smartphones have reached a state where they encompass our phone, media player, casual web browser and camera, all to a level that is more than acceptable to the average user. The Atrix takes this to the next level with its laptop dock accessory, potentially making it our primary computer on top of everything else.

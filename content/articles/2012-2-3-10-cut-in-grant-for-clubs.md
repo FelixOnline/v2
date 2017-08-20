@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Last week the Union’s Executive Committee ruled to cut the grant available next year to the Clubs & Societies Board, the Representation & Welfare Board and the Executive itself by ten percent. The £33,820 total, the vast majority of which comes from the Clubs & Societies Board owing to its large budget, will be reallocated to help improve student activity support services.

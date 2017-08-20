@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Monday 23 January saw the start of the [Imperial Horizons](http://www3.imperial.ac.uk/horizons/) program, an experimental scheme that sees 200 undergraduates from departments across the college meeting for a series of lectures and tutorials over the next 8 weeks. Using the topic of climate change, the program aims to develop participants’ awareness of how scientific issues and debates can have wide reaching impacts on an international scale: from affecting policy making in Governments to new technology in people’s homes.

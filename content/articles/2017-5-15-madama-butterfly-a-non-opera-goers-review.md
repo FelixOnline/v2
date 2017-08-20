@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---ELIZABETH-DE-SHONG-AS-SUZUKI-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg"
-image_caption: >
-  Elizabeth DeShong (Suzuki) and Ermonela Jaho (Cio-Cio San) in Madama Butterfly
-image_attribution: "ROH, 2017 - Bill Cooper"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---ELIZABETH-DE-SHONG-AS-SUZUKI-ERMONELA-JAHO-AS-CIO-CIO-SAN-ROH-PHOTO-BILL-COOPER.jpg"
+image_caption: ""
 ---
 
 The Royal Opera House’s Madama Butterfly is a modern take on the operatic classic that showcases a jaw-dropping performance from Ermonela Jaho. Despite this, the newest rendition of Puccini’s ‘ode’ to Japan doesn’t quite pack the punch it needs to drag the piece out of its orientalist past.

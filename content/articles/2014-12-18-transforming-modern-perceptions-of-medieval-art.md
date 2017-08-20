@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Earlier this month, the author Saladin Ahmed wrote on Twitter “the fantasy vision of a medieval Europe devoid of people of colour isn’t realism. It’s a different word that starts with ‘r’ and ends with ‘ism’.”

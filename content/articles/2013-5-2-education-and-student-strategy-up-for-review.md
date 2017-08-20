@@ -25,14 +25,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Imperial College London have created a paper on the future [Education and Student Experience strategy](http://www3.imperial.ac.uk/educationoffice/strategy). Between now and Friday 10 May staff, students, and alumni are asked to give their views on the outcome. Views are being sought for actions proposed and on what to prioritise. To contribute online, go to the [website](http://www3.imperial.ac.uk/educationoffice/strategy). There will also be two open meetings on 17 April from 13.00 -14.00 in the Read Lecture Theatre, Sherfield Building and on 25 April from 17.00-18.00 in the Clore Lecture Theatre, Huxley Building.

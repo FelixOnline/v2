@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201411142054-ps3110-o-tower-of-london-facebook-2.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201411142054-ps3110-o-tower-of-london-facebook-2.jpg"
+image_caption: ""
 ---
 
 The UK has been blown over in support for Paul Cummin’s recent work at the Tower of London_ Blood Swept Lands and Seas of Red _to such an extent that the installation, which began being partly dismantled on Wednesday, was prolonged until the end of the month. Moreover, such was the public reaction that, with the help of David Cameron himself, some of the display will be toured around the country until 2018, after which it will gain a permanent position in the London and Manchester Imperial War Museums.

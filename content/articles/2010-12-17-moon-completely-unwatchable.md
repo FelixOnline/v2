@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201012171047-ks607-moonfilm.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201012171047-ks607-moonfilm.jpg"
+image_caption: ""
 ---
 
 In my [previous column](http://felixonline.co.uk/?article=473) I mentioned my dislike of the film ‘Moon’. I’ve always been surprised by its popularity so I’d thought I’d talk a bit more about it this week. Spoiler Alert: If you don’t want to know the plot of this film then stop reading.

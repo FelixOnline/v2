@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201111242114-pk1811-coral-endangered-bleaching-climate-change-1024x768.jpg"
-image_caption: >
-  The IPCC sees coral bleaching as the greatest threat to the world’s reefs
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201111242114-pk1811-coral-endangered-bleaching-climate-change-1024x768.jpg"
+image_caption: ""
 ---
 
 Scientists in Australia have conducted research showing that corals can detect when adverse conditions threaten their survival, and can activate a cell death mechanism to save the organism as a whole. This process leads to coral bleaching, where corals expel or digest the symbiotic algae which feed them.

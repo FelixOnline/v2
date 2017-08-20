@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305021451-tna08-kings-college-cambridge-university.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305021451-tna08-kings-college-cambridge-university.jpg"
+image_caption: ""
 ---
 
 Imperial College London have come fourth in the 2014 Complete University Guide league table. This is the same spot that Imperial occupied last year. Cambridge (pictured) came top, with Oxford second and LSE third.

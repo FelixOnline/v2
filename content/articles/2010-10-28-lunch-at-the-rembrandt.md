@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201104201750-felix-868678.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201104201750-felix-868678.jpeg"
+image_caption: ""
 ---
 
 The mere mention that I am having lunch at [The Rembrandt](http://www.sarova.com/rembrandt/) in Knightsbridge brings gasps of excitement and jeers of disbelief. It’s not everyday that you dine in the Knightsbridge area, so I made every chance to boast about it!

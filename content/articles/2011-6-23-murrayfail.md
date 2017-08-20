@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106232157-felix-murray_798430c.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106232157-felix-murray_798430c.jpg"
+image_caption: ""
 ---
 
 Andy Murray may have made his name as a great British and mediocre international tennis player but when it comes to [fending off burglars](http://www.thisislondon.co.uk/standard/article-23960557-murray-leaps-out-of-bed-to-tackle-burglars-armed-with-tennis-racket.do) (otherwise known as false alarms) he really ought to leave it to the pros. Kim Sears, his girlfriend, questions Murray’s decision to defend her honour with a tennis racket...

@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201611041423-felix-Screen Shot 2016-11-04 at 14.23.11.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201611041423-felix-Screen Shot 2016-11-04 at 14.23.11.png"
+image_caption: ""
 ---
 
 During this conversation we have touched upon two topics, each with its own complexities, each in need of far more discussion than allowed in a couple of pages. One is the difficulties associated with immigration, the other one is the tensions that Brexit has intensified.

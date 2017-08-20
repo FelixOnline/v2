@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Did you, like everyone else, vow to get more sleep this year? Sleeping is common to all animals and a vital part of staying healthy and alert. However, when we sleep we are missing opportunities to be more productive, and by switching off we leave ourselves vulnerable to attack.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201106162106-felix-man-umbrella-rain.jpeg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201106162106-felix-man-umbrella-rain.jpeg"
+image_caption: ""
 ---
 
 Like recovering alcoholics everywhere, Britain has woken up to the declaration of droughts in several parts of the Kingdom. Queendom. Whatever it is – it is dry. It is also the first half of June after a stinking cold winter. It is tempting to strike up something British and indignant about why the weather is what it is and how exacerbating, inexplicable or inconvenient it is. Although British, I am also a scientist and am going to take that perspective.

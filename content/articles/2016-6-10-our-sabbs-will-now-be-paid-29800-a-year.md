@@ -32,14 +32,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606101010-felix-dolla.jpg"
-image_caption: >
-
-image_attribution: "ICU"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606101010-felix-dolla.jpg"
+image_caption: ""
 ---
 
 This year’s change in sabb pay, despite looking like a £10,000 pay rise on paper, may actually leave sabbs worse off financially than ever.

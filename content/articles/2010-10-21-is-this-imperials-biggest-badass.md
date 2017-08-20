@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201010212041-nm1010-cartoonf.jpg"
-image_caption: >
-
-image_attribution: "Mitesh Patel"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201010212041-nm1010-cartoonf.jpg"
+image_caption: ""
 ---
 
 Not all student nights out end this way. There’s always a story to tell the next day, but it’s not every morning you wake up to find it all described in wavering detail across the global press, from the [BBC](http://www.bbc.co.uk/news/entertainment-arts-11475264) all the way over to [The Los Angeles Times](http://artsbeat.blogs.nytimes.com/2010/10/05/franzens-glasses-pilfered-by-ruffians-or-possibly-hooligans/).

@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 I called shenanigans on the existence of God at the tender age of ten. Even before I knew pie was more than something you threw in 20s slapstick comedies it never made sense to me for an omnipotent being to be benevolent, given that we have such terrible things in this world as Justin Bieber, truly an apocalyptic horseman of our time. He also never returned my prayers, but I’m sure he was too busy setting bushes on fire like some geriatric yob.

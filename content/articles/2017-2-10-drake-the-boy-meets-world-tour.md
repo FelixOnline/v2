@@ -30,14 +30,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201702101525-felix-4972204415_26c96b2ec9_o.jpg"
-image_caption: >
-
-image_attribution: "musicientropy"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201702101525-felix-4972204415_26c96b2ec9_o.jpg"
+image_caption: ""
 ---
 
 Desiigner’s Panda played in the O2 arena as I sat high up waiting for Drake to take to the stage, so high up that I genuinely had a nosebleed during the show. I couldn’t help but overhear the comments of the girls sitting beside me. “I’m so glad they made a song about my favourite animal”, one said whilst her friend dabbed a bit too enthusiastically. I find myself switching from Drizzy fan boy to Drizzy hater on a regular basis. How many hip-hop artists could sell out the O2 for so many dates? On the other hand, his music has infiltrated the mainstream to such an extent that his core fan base is starting to consist largely of a group that don’t appreciate many other hip-hop artists. Is this good for the culture?

@@ -27,14 +27,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201206072328-felix-sun-glitters.jpeg"
-image_caption: >
-  Did he fall asleep on those flowers or is he just hiding behind them? Is that poison ivy?
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201206072328-felix-sun-glitters.jpeg"
+image_caption: ""
 ---
 
 __Tell us a bit about yourself. Did you grow up in a musical household? What kind of music did you listen to growing up?__

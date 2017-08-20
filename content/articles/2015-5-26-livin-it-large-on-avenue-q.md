@@ -31,14 +31,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201505261448-js5913-avenue-q-cast.jpg"
-image_caption: >
-  The cast of the UK touring production of Avenue Q, waiting for a rehearsal to start.
-image_attribution: "Matt Martin"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201505261448-js5913-avenue-q-cast.jpg"
+image_caption: ""
 ---
 
 There’s not a lot new that can be said about _Avenue Q_, on the face of it. It can be succinctly described as the unholy offspring of _The Muppets, Sesame Street _and the real world, blending classic Jim Henson-style puppetry with irreverent humour and adult themes.

@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201502130155-ps3110-screen-shot-2015-02-13-at-01.55.17.png"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201502130155-ps3110-screen-shot-2015-02-13-at-01.55.17.png"
+image_caption: ""
 ---
 
 Sunday 8th February saw the Imperial Immortals clash with the Hertfordshire Hurricanes at Fortress Harlington.

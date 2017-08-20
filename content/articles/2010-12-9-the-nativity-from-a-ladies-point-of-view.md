@@ -29,14 +29,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/"
+image_caption: ""
 ---
 
 Male chauvinists have assured me that it is my job to care about domestics. But to show that I am not merely using this as an excuse to slack off work and am taking my responsibilities as a female seriously, I want to tell you about my role model, Baboushka (aka Babs in my book). One could think of her as a Russian version of St Nicholas. For those to whom St Nicholas is a vague figure of festive season relevance with a day in his name, I ought to add some explanations; it would make a useful piece of trivia wouldnít it? However I want to get off the beaten Christmas track and not bother looking it up for your benefit.

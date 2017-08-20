@@ -28,14 +28,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201305031241-tna08-bookpile.jpg"
-image_caption: >
-
-image_attribution: ""
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201305031241-tna08-bookpile.jpg"
+image_caption: ""
 ---
 
 It’s that time of year again: with the joy of the excessive chocolate consumption that is Easter comes The Fear. Exams are just round the corner and you suddenly realise you haven’t been to an entire week of lectures since October.

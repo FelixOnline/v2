@@ -26,14 +26,8 @@ highlights:
 # Homepage control params
 headline: true
 featured: true
-
-# Image metadata
-image_path: "http://felixonline.co.uk/img/upload/201606031036-felix-bidnez.jpg"
-image_caption: >
-  What does go on in that tube?
-image_attribution: "Imperial College London"
-image_attribution_link: ""
-video_url: ""
+image: "http://felixonline.co.uk/img/upload/201606031036-felix-bidnez.jpg"
+image_caption: ""
 ---
 
 Imperial’s Business School has teamed up with the Forté Foundation to introduce several women-only scholarships worth £22,500 for its Masters of Business Administration (MBA) programme.
