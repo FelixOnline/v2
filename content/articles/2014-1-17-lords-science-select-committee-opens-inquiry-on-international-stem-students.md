@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Union has helped secure an inquiry by the House of Lords for the Science and Technology Committee.
 date: "2014-01-17 02:58:59 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4218"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

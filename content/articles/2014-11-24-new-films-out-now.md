@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews My Old Lady
 date: "2014-11-24 12:47:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4944"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - ps3110
 highlights:
  - comment

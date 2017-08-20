@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eimear McBride’s astonishing novel is transformed into an empowering performance
 date: "2016-02-26 12:00:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5980"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ak4114
 highlights:
 
 # Homepage control params

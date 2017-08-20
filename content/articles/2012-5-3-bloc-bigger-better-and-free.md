@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Music looks forward to the Bloc. weekender and offers up a pair of tickets
 date: "2012-05-03 18:05:39 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2409"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fmusic
  - mc4509
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk is enchanted by the photographer’s dark inner visions
 date: "2014-12-04 20:01:06 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5007"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - et1214
 highlights:
  - comment
 

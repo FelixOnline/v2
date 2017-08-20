@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I would like to say my ability to puck-push closely resembled that of a graceful mermaid, but only to the extent that it was completely fictional
 date: "2017-02-17 16:20:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6801"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ss11814
 highlights:
 
 # Homepage control params

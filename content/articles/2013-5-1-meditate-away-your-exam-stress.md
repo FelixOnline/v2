@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson helps you ease your exam woes
 date: "2013-05-01 20:07:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3523"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

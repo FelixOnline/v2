@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Central Library spent more money in 2017 than it has over the last ten years
 date: "2017-06-02 12:47:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6987"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

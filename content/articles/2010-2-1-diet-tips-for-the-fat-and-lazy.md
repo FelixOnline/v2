@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Stewart has diet tips for the fat and lazy
 date: "2010-02-01 16:57:03 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "62"

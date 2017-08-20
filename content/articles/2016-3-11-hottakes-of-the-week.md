@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Only the hottest of takes
 date: "2016-03-11 11:50:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6034"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

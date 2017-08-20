@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RCSU is challenging ICSMSU at the Tuesday Quiz Night on February 28 in FiveSixEight. Ahead of this, the Comment pages of Felix are taken over to see which is better.
 date: "2012-02-16 22:15:58 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2210"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - pjb09
+ - scr07
 highlights:
  - comment
  - longread

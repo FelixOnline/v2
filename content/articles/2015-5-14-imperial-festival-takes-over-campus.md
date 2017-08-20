@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson looks at the annual celebration of Imperial’s research
 date: "2015-05-14 22:25:40 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5521"

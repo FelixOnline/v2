@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Calcutt has some timely advice for those times behind the sofa
 date: "2011-10-27 22:02:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1614"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffilm
 highlights:
 
 # Homepage control params

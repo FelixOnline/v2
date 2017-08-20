@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you read nothing else this week...
 date: "2010-12-02 20:18:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "466"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

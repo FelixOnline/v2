@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What to do then? How about you jump off a cliff mate, and find out?
 date: "2011-02-03 20:31:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "749"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nd507
 highlights:
 
 # Homepage control params

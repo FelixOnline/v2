@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Autumn Term will see introduction of new scheme
 date: "2012-05-24 22:50:19 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2483"

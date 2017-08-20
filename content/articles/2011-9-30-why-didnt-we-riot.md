@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The events of the summer highlight a split in the young generation
 date: "2011-09-30 10:28:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1457"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ar3310
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lesson 3: Glassjaw
 date: "2012-01-27 12:29:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2084"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gj309
 highlights:
 
 # Homepage control params

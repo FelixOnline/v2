@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland looks at what’s on offer around Imperial
 date: "2014-11-24 12:25:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4938"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - km2612
  - ps3110
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Blue Sky Black Death – Noir (2011)
 date: "2011-10-28 10:05:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1636"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Wiles interviews Viggo Mortensen, the star of A Dangerous Method
 date: "2012-02-09 23:53:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2178"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lw408
 highlights:
  - longread
  - photos

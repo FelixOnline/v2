@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gemcraft Labyrinth is the 3rd Chapter of the epic tower defense series of Gemcraft from Game In a Bottle. Gemcraft Labyrinth offers a deep gameplay with its combination of strategy and RPG elements making it easily one of the best tower defense games of 2013.
 date: "2014-01-29 16:37:25 +0000"
-author_id: "ir112"
 
 # Attributes from Felix Online V1
 id: "4306"

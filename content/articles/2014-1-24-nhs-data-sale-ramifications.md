@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All members of the broadly defined ‘left’ occasionally fall into the trap Yeats left us when he said ‘the best lack all conviction whilst the worst are filled with passionate intensity’.
 date: "2014-01-24 09:52:58 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4282"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - jal08
 highlights:
 

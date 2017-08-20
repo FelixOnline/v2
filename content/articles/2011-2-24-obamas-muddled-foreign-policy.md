@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The U.S. vetoing of the UN resolution on Israeli settlements shows confusion
 date: "2011-02-24 20:09:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "881"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rj408
 highlights:
 
 # Homepage control params

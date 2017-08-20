@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Morton takes to the Soho Theatre for their current offering
 date: "2012-03-01 22:19:03 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2286"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - felart
 highlights:
 
 # Homepage control params

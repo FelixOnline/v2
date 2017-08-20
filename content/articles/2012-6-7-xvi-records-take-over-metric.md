@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber chats with Josh Byrne, head of XVI Records
 date: "2012-06-07 22:22:37 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2538"

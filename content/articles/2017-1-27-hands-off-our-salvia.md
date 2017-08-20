@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The state's fight against legal highs
 date: "2017-01-27 17:42:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6704"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - christopher.haig
 highlights:
 
 # Homepage control params

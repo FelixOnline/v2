@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maggie Smith is acerbic and rancid in this Alan Bennett-scripted film
 date: "2015-11-20 14:05:31 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5767"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Coen brothers show the importance of never standing still
 date: "2016-03-11 12:00:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6040"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Lewis tells you all you need to know about the Triathalon
 date: "2012-10-11 20:30:01 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2644"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - fsport
 highlights:
  - comment
 

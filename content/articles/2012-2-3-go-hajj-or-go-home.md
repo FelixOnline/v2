@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taking a journey to the Heart of Islam
 date: "2012-02-03 10:46:10 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2127"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - sjw209
+ - wsp10
 highlights:
  - photos
 

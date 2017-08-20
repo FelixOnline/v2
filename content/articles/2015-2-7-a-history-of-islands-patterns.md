@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes a look at the British Museum's display of Pacific cloth
 date: "2015-02-07 19:06:22 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5202"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - ps3110
 highlights:
 

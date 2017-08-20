@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Young Vic presents an inspiring but shallow take on a Hindu classic
 date: "2016-02-12 11:35:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5906"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - av3514
 highlights:
 
 # Homepage control params

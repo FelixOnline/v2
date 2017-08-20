@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researches have all the benjamins, as Puff Daddy/Diddy/whatever he calls himself nowadays may say
 date: "2013-01-17 23:45:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3119"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - nm708
  - tna08
 highlights:
 

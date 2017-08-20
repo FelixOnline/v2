@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua echoes Apple: “can’t innovate anymore, my ass.”
 date: "2013-06-21 00:30:46 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3735"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ywc110
 highlights:
 
 # Homepage control params

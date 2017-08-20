@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Programme aims to "set a new tone of respectful debate on campus"
 date: "2011-01-27 18:36:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "656"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - yw3410
 highlights:
 
 # Homepage control params

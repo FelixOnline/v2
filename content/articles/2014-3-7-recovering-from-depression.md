@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There’s been a movement in the last couple of years to get people talking about their experiences with mental health, whether it’s on a national scale such as Mind’s Time to Talk campaign or Imperial’s own OpenMinds campaign.
 date: "2014-03-07 04:41:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4456"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ml2909
 highlights:
  - longread
  - photos

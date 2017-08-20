@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Entrepeneurs Jamal Khan and Rafal Szymanski report on talks from two new companies looking to harness the power of the social network
 date: "2011-10-20 22:52:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1576"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - felix
 highlights:
 

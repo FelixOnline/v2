@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken is really pedantic about making tea
 date: "2015-03-09 19:07:16 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5376"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - ps3110
 highlights:
  - comment

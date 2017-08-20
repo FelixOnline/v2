@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The brilliant first-person adventure game from the minds behind The Walking Dead
 date: "2016-02-19 12:24:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5945"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

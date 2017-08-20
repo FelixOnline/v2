@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Intelligent Dance Music
 date: "2012-10-18 21:28:52 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2708"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - phc11
  - tna08
 highlights:
  - comment

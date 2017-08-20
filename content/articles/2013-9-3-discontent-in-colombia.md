@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tensions rise in Columbia as the government signs a free trade agreement with US, UK and Canada.
 date: "2013-09-03 09:45:21 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3755"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - kr1512
 highlights:
  - comment
 

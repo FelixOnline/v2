@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There crème de la crème of the online fashion community is at your fingertips
 date: "2011-11-10 22:09:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1743"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - felix
+ - lj1409
+ - stv07
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Here Felix Games presents a poem for you: gamers are artists
 date: "2014-01-15 17:07:02 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4217"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - pk1811
 highlights:
 

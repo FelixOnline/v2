@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Kennedy on a potential cure to an awful disease
 date: "2012-11-15 21:03:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2890"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - njk12
  - tna08
 highlights:
 

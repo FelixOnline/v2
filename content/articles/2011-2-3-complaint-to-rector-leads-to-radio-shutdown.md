@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Radio offline after “member of public” complains about racially offensive term
 date: "2011-02-03 19:50:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "727"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

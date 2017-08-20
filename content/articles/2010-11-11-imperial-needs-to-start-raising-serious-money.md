@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Changes to university funding require Imperial to act fast
 date: "2010-11-11 21:50:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "368"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ac1507
  - felix
 highlights:
  - comment

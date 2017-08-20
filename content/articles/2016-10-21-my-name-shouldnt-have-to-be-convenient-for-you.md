@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ndidi Ukachi Iwumene discusses the importance of names as a part of one’s identity
 date: "2016-10-21 12:13:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6342"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ajp15
+ - fcomment
 highlights:
 
 # Homepage control params

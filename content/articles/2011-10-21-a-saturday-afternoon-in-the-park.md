@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Frieze Art Fair 101: A novice’s impressions
 date: "2011-10-21 10:28:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1590"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

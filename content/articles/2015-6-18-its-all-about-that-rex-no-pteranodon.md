@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson takes a trip to the re-opening of Jurassic Park
 date: "2015-06-18 20:16:46 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5632"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - em2512
  - jyg11
 highlights:
  - comment

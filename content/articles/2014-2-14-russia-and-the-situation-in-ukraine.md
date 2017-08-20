@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kartikeya Rana looks at the Ukraine protests and its link with Russia
 date: "2014-02-14 03:25:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4372"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - kr1512
 highlights:
  - longread
  - photos

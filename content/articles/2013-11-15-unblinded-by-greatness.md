@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett talks to the researcher who turned the boson data into the discovery
 date: "2013-11-15 02:19:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4063"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ps3110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Report heralds financial successes and plans for the future
 date: "2014-11-14 20:01:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4864"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - ps3110
 highlights:
 

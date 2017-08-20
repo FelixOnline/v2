@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In Brief
 date: "2013-03-15 00:14:08 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3459"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

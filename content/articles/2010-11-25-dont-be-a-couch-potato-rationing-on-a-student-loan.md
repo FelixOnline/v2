@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Thompson offers rationing recipes for hungry times
 date: "2010-11-25 20:39:06 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "433"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ks607
  - nm1010
 highlights:
  - photos

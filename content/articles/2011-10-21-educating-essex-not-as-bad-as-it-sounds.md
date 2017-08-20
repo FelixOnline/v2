@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fly-on-the-wall documentary shows true colours of the state system
 date: "2011-10-21 10:40:21 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1592"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - mtm10
 highlights:
 
 # Homepage control params

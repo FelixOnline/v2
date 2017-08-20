@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From Shakespeare to the Iraq War, Emily Fulham celebrates the unsung art of the miniseries
 date: "2013-11-15 18:13:46 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4083"
@@ -21,6 +20,7 @@ tags:
  - tv
  - imported
 authors:
+ - ef510
  - jal08
 highlights:
  - longread

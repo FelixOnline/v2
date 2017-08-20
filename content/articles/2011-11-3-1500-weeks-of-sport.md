@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix's resident Sports Editor studies Imperial's sporting past
 date: "2011-11-03 22:12:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1700"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ial08
 highlights:
  - comment
 

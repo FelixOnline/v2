@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring the “Old Capital” of Bulgaria to discover the deep-seated history of a state abundant in old-fashioned splendour and beauty
 date: "2011-11-24 20:13:14 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1801"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - da2309
  - pk1811
 highlights:
 

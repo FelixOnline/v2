@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Job interviews need an overhaul
 date: "2012-02-02 23:39:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2113"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cc2008
  - felix
 highlights:
  - comment

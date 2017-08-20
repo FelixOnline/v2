@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton interviews our very own CBE winner, FRS and researcher
 date: "2013-05-16 18:11:30 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3579"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - skw10
  - tna08
 highlights:
 

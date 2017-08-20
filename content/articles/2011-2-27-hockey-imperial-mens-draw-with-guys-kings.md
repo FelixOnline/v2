@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial pull back from an unpromising start
 date: "2011-02-27 20:00:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "925"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - eq08
  - felix
 highlights:
 

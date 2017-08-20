@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Departments calm as few declare intention to strike
 date: "2011-03-17 20:54:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1096"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - hcd08
 highlights:
  - comment
 

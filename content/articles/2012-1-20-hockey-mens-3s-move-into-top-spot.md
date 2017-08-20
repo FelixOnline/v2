@@ -4,7 +4,6 @@ title: >
 subtitle: >
   St Bart's are made short work of
 date: "2012-01-20 12:10:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2042"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - kvm08
 highlights:
  - comment
 

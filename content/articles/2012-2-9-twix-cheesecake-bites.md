@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Heat up the kitchen this Valentine’s Day with this decadent treat!
 date: "2012-02-09 22:31:45 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2151"

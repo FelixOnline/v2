@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster signs off the year with a traditional Christmas jingle – Portal style
 date: "2011-12-08 21:28:32 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "1939"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - lap08
+ - rw507
 highlights:
  - comment
 

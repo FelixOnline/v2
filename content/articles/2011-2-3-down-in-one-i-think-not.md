@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christian Franke advises you on how to expand your drinking horizons
 date: "2011-02-03 18:47:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "705"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cif110
  - felix
 highlights:
  - comment

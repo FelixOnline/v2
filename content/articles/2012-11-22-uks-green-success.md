@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Padraic Calpin on the UK keeping to the targets
 date: "2012-11-22 23:21:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2947"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - phc11
  - tna08
 highlights:
 

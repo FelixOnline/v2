@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Doug Hunt , Deputy President (Education) wasn’t a mug and voted for Doug. He sees what he has and hasn’t done this year...
 date: "2013-01-25 02:03:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3191"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dh08
  - tna08
 highlights:
  - comment

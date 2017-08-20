@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett gets you ready to face your greatest fear: socialising
 date: "2013-09-29 14:30:49 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3773"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ps3110
 highlights:
 
 # Homepage control params

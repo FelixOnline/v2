@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews 12 Years a Slave
 date: "2013-10-25 00:46:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3937"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jgp09
 highlights:
  - comment
 

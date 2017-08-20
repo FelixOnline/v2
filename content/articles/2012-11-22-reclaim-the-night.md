@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kirstin Hay invites you to join IC’s Feminist Society at the protest
 date: "2012-11-22 22:18:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2926"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klh110
  - tna08
 highlights:
  - photos

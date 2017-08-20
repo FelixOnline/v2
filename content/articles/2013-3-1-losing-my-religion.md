@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton on growing up faithless in a Catholic country
 date: "2013-03-01 00:51:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3411"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - rtf08
  - tna08
 highlights:
  - comment

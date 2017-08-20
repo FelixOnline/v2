@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Painful health problems are totally worth it with literature this good
 date: "2011-11-03 21:18:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1685"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - oh106
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Royal Academy’s colourful exhibition brings together gardens of all times and styles
 date: "2016-02-05 12:17:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5874"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - photos
 

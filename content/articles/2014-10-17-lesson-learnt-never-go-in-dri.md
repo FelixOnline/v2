@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oliver Benton covers the first non-alcoholic Union event of the year
 date: "2014-10-17 15:07:11 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4734"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ohb09
  - pk1811
 highlights:
 

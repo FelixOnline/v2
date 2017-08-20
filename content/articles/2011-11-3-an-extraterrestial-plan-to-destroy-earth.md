@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Silly anime gets the thumbs up from Maciej Matuszewski
 date: "2011-11-03 20:36:59 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1670"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Good Chance Theatre is aiming to offer escapism to refugees across the camp
 date: "2016-03-04 11:47:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6008"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - im1413
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah cannot translate the Rosetta Stone
 date: "2013-05-30 09:16:03 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3639"

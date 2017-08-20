@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The original Robocop was – is – an undisputed classic, a masterpiece, quite possibly the best film to come out of the ‘80s, and other such insanely excessive superlatives (but trust me, it really is that good), and if you dispute any of that… well… you’re wrong.
 date: "2014-02-17 19:30:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4400"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - js5913
 highlights:
 
 # Homepage control params

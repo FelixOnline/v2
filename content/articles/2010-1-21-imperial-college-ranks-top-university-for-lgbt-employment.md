@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College ranks top university for LGBT employment
 date: "2010-01-21 22:26:08 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "46"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   by George Gamow and Russell Stannard
 date: "2011-01-20 19:38:52 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "611"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - kv07
 highlights:
 
 # Homepage control params

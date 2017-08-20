@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Builders Arms plays host to a monthly poetry evening
 date: "2012-02-03 10:27:06 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2125"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - tna08
 highlights:
  - comment
  - photos

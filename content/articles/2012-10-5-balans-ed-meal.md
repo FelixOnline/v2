@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sophia Goldberg samples a three course meal at Balans and reports back...
 date: "2012-10-05 13:14:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2623"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - srg109
 highlights:
  - comment
 

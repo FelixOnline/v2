@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Incredible performance from squash to nick title from favourites
 date: "2016-02-12 12:08:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5920"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ij13
+ - twr14
 highlights:
 
 # Homepage control params

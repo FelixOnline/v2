@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett explains the biology behind the Big O
 date: "2014-02-17 17:17:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4389"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ps3110
 highlights:
  - longread
 

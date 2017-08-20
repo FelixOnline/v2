@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hamza Shaikh reports from a great expedition
 date: "2013-06-21 00:58:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3737"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - hs1008
  - tna08
 highlights:
  - comment

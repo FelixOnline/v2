@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DPE Jason Parmar tackles the calendar highlights and lowlights
 date: "2012-02-23 23:28:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2266"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

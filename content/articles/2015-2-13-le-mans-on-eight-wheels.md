@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Campbell on IC Skate Soc's first speed skate training session.
 date: "2015-02-13 14:27:29 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5251"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - ec511
 highlights:
 
 # Homepage control params

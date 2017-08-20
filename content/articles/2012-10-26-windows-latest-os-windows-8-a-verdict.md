@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Ingram tells us his thoughts of Microsoft’s latest OS
 date: "2012-10-26 02:22:59 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2740"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - tecfelix
 highlights:
  - longread
 

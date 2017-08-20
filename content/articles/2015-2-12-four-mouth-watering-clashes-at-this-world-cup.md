@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle picks out the four group stage matches that he is most looking forward to at this year’s World Cup
 date: "2015-02-12 22:57:02 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5245"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - kmw13
 highlights:
 
 # Homepage control params

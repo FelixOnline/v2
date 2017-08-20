@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New research could help prevent addiction
 date: "2011-06-02 18:36:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1299"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skh10
 highlights:
 
 # Homepage control params

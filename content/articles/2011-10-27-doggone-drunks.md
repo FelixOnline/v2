@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven investigates claims that alcohol does not affect behaviour
 date: "2011-10-27 23:49:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1624"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fsci
 highlights:
  - photos
 

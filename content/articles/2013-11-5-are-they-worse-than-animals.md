@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Grant discusses a book about bankers
 date: "2013-11-05 09:33:22 +0000"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3991"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - cjg111
  - mtm10
 highlights:
 

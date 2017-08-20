@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aeronautics produce prototype that finds pipeline faults
 date: "2016-02-12 11:13:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5897"

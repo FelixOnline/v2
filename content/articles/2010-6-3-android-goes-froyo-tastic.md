@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam shows you why Froyo is Android&8217;s coming of age
 date: "2010-06-03 15:16:10 +0100"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "142"

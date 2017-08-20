@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clubs with 150 members will now have to run their elections in the Union's Big Election system
 date: "2015-01-16 13:06:33 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5095"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kmw13
  - ps3110
 highlights:
 

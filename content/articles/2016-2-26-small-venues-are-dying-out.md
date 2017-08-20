@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Something must be done
 date: "2016-02-26 11:50:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5972"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - pm1912
 highlights:
  - comment
 

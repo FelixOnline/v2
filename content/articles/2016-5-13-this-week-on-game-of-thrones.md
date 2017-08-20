@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Series 6, Episode 3
 date: "2016-05-13 09:23:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6160"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - hjw13
 highlights:
 
 # Homepage control params

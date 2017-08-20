@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Future of the Left have generated a reputation for absurd lyrics
 date: "2016-05-20 09:14:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6186"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rg2112
 highlights:
 
 # Homepage control params

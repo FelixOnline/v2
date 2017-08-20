@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Mitchell discusses how climate change will impact farming
 date: "2012-11-29 22:16:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2987"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsci
  - tna08
 highlights:
  - longread

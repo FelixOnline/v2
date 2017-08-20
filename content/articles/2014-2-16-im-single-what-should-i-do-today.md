@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Today, for all intents and purposes, is Friday the 14th of February, 2014 A.D. Many people are divided over embracing a modern fad called St. Valentine’s Day, with those favoured by Cupid’s Arrows largely choosing to play along and pander...
 date: "2014-02-16 12:18:53 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4385"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - extuser0
  - jal08
 highlights:
 

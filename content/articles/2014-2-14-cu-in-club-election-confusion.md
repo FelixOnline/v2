@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Tuesday a member of the Imperial College Christian Union’s (CU) committee sent an email to all members on their mailing list explaining that in their upcoming society elections only candidates chosen by the current committee...
 date: "2014-02-14 04:32:47 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4377"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - jal08
  - snb11
 highlights:
 

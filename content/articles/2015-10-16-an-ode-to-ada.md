@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In honour of Ada Lovelace Day, FELIX takes a look at the Victorian programmer, gambler and all-round badass
 date: "2015-10-16 14:39:20 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5658"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ea3211
  - ygr12
 highlights:
  - comment

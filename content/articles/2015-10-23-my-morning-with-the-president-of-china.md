@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I showed Xi Jinping what it’s like to be a student at Imperial
 date: "2015-10-23 11:56:20 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5678"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ecj13
 highlights:
  - comment
 

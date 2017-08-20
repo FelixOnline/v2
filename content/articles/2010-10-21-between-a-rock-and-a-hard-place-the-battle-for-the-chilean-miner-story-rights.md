@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chilean Miner Fantasy Films
 date: "2010-10-21 19:16:47 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "236"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - ma1307
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maurice Zard explores the links between physical and mental disease
 date: "2016-12-02 13:59:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6526"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mz2713
 highlights:
 
 # Homepage control params

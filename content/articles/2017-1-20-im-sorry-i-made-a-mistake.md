@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jian Li Chew apologises for his article last week in light of new information
 date: "2017-01-20 15:01:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6659"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jlc14
 highlights:
  - comment
 

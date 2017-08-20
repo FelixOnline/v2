@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Symphony Orchestra play Rachmaninov, Khachaturian and Beal…
 date: "2013-11-24 23:57:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4134"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - felart
  - jal08
 highlights:
 

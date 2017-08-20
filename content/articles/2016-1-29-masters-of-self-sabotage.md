@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our mentality towards mental health needs to change if we are to reduce suffering
 date: "2016-01-29 08:54:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5839"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - vm1315
 highlights:
  - comment
 

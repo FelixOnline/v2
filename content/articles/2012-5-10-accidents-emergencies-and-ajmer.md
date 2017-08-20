@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton recounts an Indian Easter with some very important people
 date: "2012-05-10 19:09:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2430"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skw10
 highlights:
  - comment
 

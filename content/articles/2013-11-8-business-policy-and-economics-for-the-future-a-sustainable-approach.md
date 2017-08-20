@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Part 3 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-11-08 03:44:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4024"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sg4812
 highlights:
 
 # Homepage control params

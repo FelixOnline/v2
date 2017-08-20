@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Beech thinks Felix Music needs more Wham!
 date: "2011-11-24 21:32:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1822"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - eeb109
  - felix
 highlights:
  - comment

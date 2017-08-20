@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have you even gone to Imperial if you haven't been to one of these?
 date: "2017-03-10 14:37:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6884"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sophiesagawe
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kazakhstan’s largest miner battles Canadian rival over property rights in a war-torn and impoverished region
 date: "2010-10-14 19:33:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "209"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sa1908
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Cautionary Tale of Mansa Musa of Mali – by Beñat Gurrutxaga-Lerma and Nina Kearsey
 date: "2011-10-20 22:46:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1574"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - felix
 highlights:
  - photos

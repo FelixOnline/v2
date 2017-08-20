@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hint: It’s not nakedness. (Though that could work too... sort of...) Caroline Wood introduces you to the world of Social Enterprise
 date: "2013-01-25 02:09:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3192"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - csw09
  - tna08
 highlights:
  - longread

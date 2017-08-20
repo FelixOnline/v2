@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The IC snooker team makes us proud
 date: "2011-02-17 20:42:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "849"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sp4409
 highlights:
 
 # Homepage control params

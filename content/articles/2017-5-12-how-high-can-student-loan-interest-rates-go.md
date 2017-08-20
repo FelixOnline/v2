@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s unlikely they’ll be going anywhere but up post Brexit
 date: "2017-05-12 15:31:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6931"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - stephennaulls
 highlights:
 
 # Homepage control params

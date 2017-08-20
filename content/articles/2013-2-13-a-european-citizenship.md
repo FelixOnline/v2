@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the first of two articles about our friends from across the Channel, Leonardo Ialongo lays out the case for European integration
 date: "2013-02-13 16:07:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3309"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lni12
  - tna08
 highlights:
 

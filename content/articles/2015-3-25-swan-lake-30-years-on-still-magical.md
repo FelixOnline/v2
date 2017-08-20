@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles finds ROH’s ballet in need of updating despite strong dancing
 date: "2015-03-25 13:27:49 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5451"

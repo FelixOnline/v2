@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles checks out the Constructing Worlds at the Barbican Centre
 date: "2014-12-18 15:31:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5054"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

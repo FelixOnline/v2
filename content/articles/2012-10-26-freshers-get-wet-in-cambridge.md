@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Charleson reports back from Cambridge, which is apparently an okay university or something
 date: "2012-10-26 03:00:29 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2762"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ac4610
  - tna08
 highlights:
 

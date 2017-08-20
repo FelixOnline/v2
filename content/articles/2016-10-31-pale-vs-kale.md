@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nutrition writer Alexandra Lim encourages us to eat more pale vegetables
 date: "2016-10-31 15:42:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6362"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

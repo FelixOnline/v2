@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madhura Ghosh and Katy Bettany investigate binge drinking culture
 date: "2012-01-12 21:02:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1968"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - klb09
+ - mg2109
 highlights:
  - longread
  - photos

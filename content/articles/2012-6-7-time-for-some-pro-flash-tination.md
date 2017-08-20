@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No time for all those mainstream games? Fed up with talking to other human beings? How about a bit of hot Flash action? Felix Games provides...
 date: "2012-06-07 19:05:05 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2528"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fgames
  - pk1811
 highlights:
  - photos

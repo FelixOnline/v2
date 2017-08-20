@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial has erupted with flyers, posters, sweets, and lecture speeches, Tim Arbabzadah reports on the latest goings on as election campaigning kicks off
 date: "2013-03-07 23:48:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3446"

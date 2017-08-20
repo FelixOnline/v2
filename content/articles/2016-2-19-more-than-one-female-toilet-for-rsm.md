@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All but one female toilet was removed from the Goldsmith’s Wing by College Estates over the summer but now they’re getting changed back
 date: "2016-02-19 11:08:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5925"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

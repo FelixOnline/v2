@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking back on a vegan experience
 date: "2012-03-15 20:59:50 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2367"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cc3710
+ - hc1409
  - ig711
 highlights:
 

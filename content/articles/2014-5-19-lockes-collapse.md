@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Locke is an intriguing premise. Set entirely in the cabin of a BMW (bar a few brief seconds of Locke climbing into his car at the very beginning), and with only one character (the eponymous Ivan Locke) ever visible in the form of a bearded, be-cardiganed Tom Hardy.
 date: "2014-05-19 13:57:36 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4613"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

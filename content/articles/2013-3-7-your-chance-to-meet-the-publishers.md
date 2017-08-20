@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A conference for students
 date: "2013-03-07 23:57:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3450"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

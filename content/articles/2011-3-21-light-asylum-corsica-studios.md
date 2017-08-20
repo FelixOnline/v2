@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Turner on the New York pair with enough-balls-to-bust-up-Schwarzenegger
 date: "2011-03-21 14:36:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1125"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - lht09
 highlights:
 
 # Homepage control params

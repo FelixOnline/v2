@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the US government steps in to tackle sexual harassment, it’s time to ask, what is it going to take to fix this problem?
 date: "2016-01-29 09:05:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5841"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
  - photos
 

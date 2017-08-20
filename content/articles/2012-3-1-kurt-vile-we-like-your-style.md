@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mohammad Mirza and Mark England have a blast in Camden
 date: "2012-03-01 23:22:56 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2299"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - cac111
+ - me1409
+ - mum09
 highlights:
  - photos
 

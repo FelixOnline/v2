@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Review of Imperial College's Drama Society adaptation
 date: "2011-02-17 19:02:15 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "810"

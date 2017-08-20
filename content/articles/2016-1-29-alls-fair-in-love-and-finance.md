@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Esoteric economics are brought down to earth in Adam McKay’s hugely enjoyable film
 date: "2016-01-29 09:25:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5846"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
 
 # Homepage control params

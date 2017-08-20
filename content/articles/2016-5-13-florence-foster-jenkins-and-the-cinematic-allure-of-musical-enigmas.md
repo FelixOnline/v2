@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Musical outsiders who deserve biopics
 date: "2016-05-13 09:08:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6158"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

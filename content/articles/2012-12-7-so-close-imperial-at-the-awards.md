@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Close but not cigar for Imperial. It's an honour just to be nominated, right?
 date: "2012-12-07 00:38:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3025"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmn12
  - tna08
 highlights:
  - comment

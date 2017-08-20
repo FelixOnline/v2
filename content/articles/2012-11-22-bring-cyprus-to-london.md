@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sophia Goldberg on her first taste of Cyprus
 date: "2012-11-22 23:13:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2942"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - srg109
  - tna08
 highlights:
  - photos

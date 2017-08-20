@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kate Pumphrey takes you on a tour of coffee
 date: "2013-03-15 03:15:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3495"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kep12
  - tna08
 highlights:
  - comment

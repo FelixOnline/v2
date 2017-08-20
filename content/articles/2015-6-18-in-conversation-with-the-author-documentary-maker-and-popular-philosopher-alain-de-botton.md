@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken talks religion, writing, The School of Life, and pornography
 date: "2015-06-18 20:53:58 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5634"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - jyg11
 highlights:
  - comment

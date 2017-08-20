@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Enjoy your breakfast, lunch and dinner - guilt-free
 date: "2013-01-10 23:08:44 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3106"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - srg109
 highlights:
  - comment
 

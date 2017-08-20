@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial come fourth, but weren't too upset by it. Josephine Chiu reports
 date: "2013-05-16 17:50:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3573"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
  - photos

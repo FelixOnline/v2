@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does Jonathan Franzen actually deserves all the hype he gets?
 date: "2010-10-14 19:26:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "206"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - drc107
  - felix
 highlights:
  - photos

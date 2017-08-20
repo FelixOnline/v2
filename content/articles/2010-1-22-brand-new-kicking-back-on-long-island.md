@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They&8217;ll be back in London this weekend though. Dan Wan chats to Brian Lane about Wembley, vinyl and getting old.
 date: "2010-01-22 15:10:20 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "55"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caving don't dig themselves into a hole, instead climbing to victory
 date: "2013-06-07 09:57:36 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3671"

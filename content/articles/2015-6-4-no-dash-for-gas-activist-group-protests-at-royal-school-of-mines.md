@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt writes as ‘Reclaim the Power’ occupy front entrance
 date: "2015-06-04 23:12:52 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5594"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bwh12
  - cj914
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Threshold for bursary likely to rise from £50,000 to £60,000
 date: "2011-03-17 19:46:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1089"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - klb09
 highlights:
  - comment
 

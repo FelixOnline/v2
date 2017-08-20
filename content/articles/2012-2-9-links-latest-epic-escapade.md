@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not the best, but certainly not the worst. Rhys Davies embarks on Link’s most recent epic, The Legend of Zelda: Skyward Sword
 date: "2012-02-09 22:44:40 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2160"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - rjd08
 highlights:
  - photos
 

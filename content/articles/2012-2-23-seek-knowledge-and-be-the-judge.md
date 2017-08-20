@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Islamic Society presents a week of events inviting you to discover Islam
 date: "2012-02-23 21:45:35 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2261"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - felix
 highlights:
  - comment
 

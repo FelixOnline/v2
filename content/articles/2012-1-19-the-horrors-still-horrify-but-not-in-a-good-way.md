@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le is left disappointed by their live "offering"
 date: "2012-01-19 21:08:10 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2027"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - lwl09
 highlights:
 
 # Homepage control params

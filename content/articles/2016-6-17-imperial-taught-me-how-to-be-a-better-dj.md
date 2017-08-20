@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It might not go on your CV, but here's my advice on an invaluable life skill
 date: "2016-06-17 08:55:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6273"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - pa07
 highlights:
 
 # Homepage control params

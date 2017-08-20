@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Their head of Estates said “some people just simply cannot afford to live in London”
 date: "2016-03-04 11:25:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5996"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

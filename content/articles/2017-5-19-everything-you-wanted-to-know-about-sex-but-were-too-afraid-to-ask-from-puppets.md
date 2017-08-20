@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ezra Kitson discovers how Edie Edmundson is staging the sex education revolution
 date: "2017-05-19 13:12:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6969"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ezra.kitson14
 highlights:
 
 # Homepage control params

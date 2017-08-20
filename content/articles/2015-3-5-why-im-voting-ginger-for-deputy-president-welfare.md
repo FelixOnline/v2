@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dariush Hassanzadeh-Baboli explains why he thinks Jennie Watson deserves your vote for DPW
 date: "2015-03-05 11:32:23 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5335"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dh1209
  - ps3110
 highlights:
  - comment

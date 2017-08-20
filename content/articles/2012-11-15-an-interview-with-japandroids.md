@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England chews the cud with Japandroids
 date: "2012-11-15 21:33:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2898"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - me1409
  - tna08
 highlights:
 

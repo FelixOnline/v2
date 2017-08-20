@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Election fever over. We all sweated it out.
 date: "2012-11-09 00:14:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2835"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tragedy sparks debate over attitudes to women
 date: "2013-01-10 22:20:40 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3083"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dm1112
  - tna08
 highlights:
  - comment

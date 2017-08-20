@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rave is not a word I would ever have associated with the music of Mogwai. As people, it makes a bit more sense. They has always been a certain distance between them and the more pretentious attitudes most post-rock bands employ.
 date: "2014-02-07 04:37:23 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4338"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

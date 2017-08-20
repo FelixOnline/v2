@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students show support for Garden Hall as future looks unclear
 date: "2013-03-07 23:32:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3441"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s time to recognise that it’s not an expression of your freedom of speech to make jokes about marginalised parties
 date: "2016-04-29 10:10:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6093"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sk2214
 highlights:
  - comment
  - photos

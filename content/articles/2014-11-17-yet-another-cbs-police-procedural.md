@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park looks at the new CBS show Stalker
 date: "2014-11-17 18:19:44 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4904"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - ps3110
 highlights:
  - comment

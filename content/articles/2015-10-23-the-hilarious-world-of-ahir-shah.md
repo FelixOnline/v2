@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The upcoming young comedian takes on London’s top comedy venue in style
 date: "2015-10-23 11:38:52 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5668"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mff113
  - ygr12
 highlights:
 

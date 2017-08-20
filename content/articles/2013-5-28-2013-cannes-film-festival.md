@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film runs down the winners and losers
 date: "2013-05-28 13:50:09 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3624"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists slightly miffed
 date: "2017-02-03 15:01:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6707"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - alexandreadler
 highlights:
 
 # Homepage control params

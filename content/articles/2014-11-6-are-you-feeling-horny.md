@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson on Radcliffe’s latest venture, Horns
 date: "2014-11-06 19:17:50 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4775"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - em2512
  - snb11
 highlights:
  - comment

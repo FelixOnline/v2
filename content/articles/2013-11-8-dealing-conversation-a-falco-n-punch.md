@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson talks to Future Of The left guitarist ‘Falco’
 date: "2013-11-08 09:52:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4036"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sm5810
 highlights:
  - longread
 

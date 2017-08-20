@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica gives a – mostly fictional – parody of the precise and hallowed science of marking lab reports
 date: "2013-06-05 16:44:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3657"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pa07
  - tna08
 highlights:
  - photos

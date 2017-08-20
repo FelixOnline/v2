@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s badass Blues barons Tin Can 44s give us some straight jive talk, promising to push your tushie into full swing at 19.02
 date: "2011-02-17 20:09:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "834"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
  - longread
 

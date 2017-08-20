@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng takes on Verdi’s classic La Traviata
 date: "2015-02-22 17:32:13 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5301"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jc7413
  - ps3110
 highlights:
  - comment

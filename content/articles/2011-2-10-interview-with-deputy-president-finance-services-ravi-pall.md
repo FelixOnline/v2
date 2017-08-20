@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "The key is to stay focused on the bigger picture. If you get bogged down in petty issues, you can miss important milestones"
 date: "2011-02-10 20:04:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "763"

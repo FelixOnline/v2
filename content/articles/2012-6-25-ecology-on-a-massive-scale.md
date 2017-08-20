@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at the SAFE Project, two years from its start
 date: "2012-06-25 23:52:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2583"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - apk06
  - felix
 highlights:
  - comment

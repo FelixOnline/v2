@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken interviews the Liberal Democrat parliamentary candidate for Kensington
 date: "2015-03-03 14:53:33 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5326"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - ps3110
 highlights:
  - comment

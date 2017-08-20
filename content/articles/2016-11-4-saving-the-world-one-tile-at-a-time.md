@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why Elon Musk’s newest invention is smart, sexy and sustainable
 date: "2016-11-04 12:47:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6381"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - eva.coles13
 highlights:
 
 # Homepage control params

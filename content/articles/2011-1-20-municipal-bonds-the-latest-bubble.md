@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lingxi Huang considers the credibility of the latest concerns being raised about municipal bonds in the US
 date: "2011-01-20 20:27:04 +0000"
-author_id: "lh1009"
 
 # Attributes from Felix Online V1
 id: "626"

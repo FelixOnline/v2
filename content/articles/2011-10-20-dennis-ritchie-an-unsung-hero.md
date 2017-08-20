@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven on the passing of the mind behind C
 date: "2011-10-20 21:34:01 +0100"
-author_id: "cb908"
 
 # Attributes from Felix Online V1
 id: "1564"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cb908
+ - extuser0
 highlights:
 
 # Homepage control params

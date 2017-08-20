@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the second of a series of articles on the privatisation of our universities, Stephen Smith asks why many students seem disappointed with heavily sponsored Careers Services
 date: "2012-06-08 08:47:57 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2544"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - ss10210
 highlights:
  - comment
  - longread

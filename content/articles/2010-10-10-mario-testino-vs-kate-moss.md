@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mario Testino pays homage to British icon Kate Moss in limited edition book
 date: "2010-10-10 15:43:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "194"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gy107
 highlights:
  - comment
 

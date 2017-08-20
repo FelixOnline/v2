@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Universities Minister has resigned as David Cameron prepares to announce a reshuffle in the cabinet.
 date: "2014-07-15 02:51:30 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4725"

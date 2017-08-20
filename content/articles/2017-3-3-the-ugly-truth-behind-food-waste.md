@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sadly, it has to be said that we are a wasteful species - and this is often most apparent on our plates. We’ve got some ideas as to how you can change that, and why you should bother doing so.
 date: "2017-03-03 15:57:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6853"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sk5814
 highlights:
 
 # Homepage control params

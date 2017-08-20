@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hundreds of students flock to Beit bars to watch Imperial team storm to 305-75 victory over Cambridge’s Sidney Sussex
 date: "2015-11-06 13:39:41 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5699"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cj914
  - ygr12
 highlights:
  - comment

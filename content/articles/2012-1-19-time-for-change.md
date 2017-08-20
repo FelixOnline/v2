@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Furse on how the world needs to move on up
 date: "2012-01-19 20:32:59 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2015"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - sf305
 highlights:
 
 # Homepage control params

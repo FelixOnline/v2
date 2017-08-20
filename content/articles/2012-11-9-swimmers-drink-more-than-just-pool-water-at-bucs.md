@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yeah, Phelps, you're pretty quick. Let's see you do that after a few drinks.
 date: "2012-11-09 14:31:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2875"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hr610
  - tna08
 highlights:
 

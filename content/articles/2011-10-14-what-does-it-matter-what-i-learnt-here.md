@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's always room in your head for new knowledge
 date: "2011-10-14 00:15:23 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1533"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - oh106
  - sjw209
 highlights:
  - comment

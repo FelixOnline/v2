@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rodrigo’s music is complex, sophisticated, surprising and subtly jazz-influenced
 date: "2011-06-02 20:05:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1316"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

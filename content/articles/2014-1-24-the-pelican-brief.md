@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi talks to Trevor de Brauw and Dallas Thomas
 date: "2014-01-24 10:08:26 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4295"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ra2410
 highlights:
 
 # Homepage control params

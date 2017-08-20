@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports on the research into large-scale screening programmes
 date: "2015-05-29 01:03:26 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5578"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

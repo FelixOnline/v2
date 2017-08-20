@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial is an orgy by international standards
 date: "2012-03-01 21:00:01 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2269"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - rj408
 highlights:
 
 # Homepage control params

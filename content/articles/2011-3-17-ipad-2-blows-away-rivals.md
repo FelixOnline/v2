@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alternative tablets have nothing on Apple's latest offering
 date: "2011-03-17 21:19:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1100"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fa608
  - felix
 highlights:
 

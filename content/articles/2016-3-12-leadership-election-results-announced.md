@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The campaigning is finally over
 date: "2016-03-12 13:31:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6048"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

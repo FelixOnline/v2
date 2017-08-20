@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...
 date: "2016-12-09 12:09:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6567"
@@ -21,7 +20,8 @@ tags:
  - science
  - imported
 authors:
- - felix
+ -  ipsita.herlekar
+ - aib116
 highlights:
 
 # Homepage control params

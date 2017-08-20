@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Sunday Times published the open letter condemning 'Brexit'
 date: "2016-02-26 11:23:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5955"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

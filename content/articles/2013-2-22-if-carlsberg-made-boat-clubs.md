@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ... Oh, you know the rest
 date: "2013-02-22 02:08:01 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3372"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rs1209
  - tna08
 highlights:
 

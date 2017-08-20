@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What does a trade agreement between the two largest economies in the world mean?
 date: "2013-02-21 13:44:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3339"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as9810
  - tna08
 highlights:
  - comment

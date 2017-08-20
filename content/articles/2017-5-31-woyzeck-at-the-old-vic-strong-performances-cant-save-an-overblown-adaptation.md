@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Boyega impresses in an otherwise lacklustre adapation of George Büchner's unfinished play
 date: "2017-05-31 23:31:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6980"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - vaishnavignanana
 highlights:
 
 # Homepage control params

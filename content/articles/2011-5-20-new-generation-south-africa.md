@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Figures and Fictions gives a platform to contemporary South African photographers
 date: "2011-05-20 05:45:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1226"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rm1509
 highlights:
  - comment
  - photos

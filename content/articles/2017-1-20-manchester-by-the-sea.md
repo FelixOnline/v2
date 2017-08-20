@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A restrained exploration of grief, with exceptionally strong performances from Michelle Williams and Casey Affleck, Manchester by the Sea is the most moving film of the year.
 date: "2017-01-20 15:27:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6671"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ts2915
 highlights:
 
 # Homepage control params

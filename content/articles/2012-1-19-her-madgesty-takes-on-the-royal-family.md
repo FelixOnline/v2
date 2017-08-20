@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madonna has made a film, and it is called W.E.
 date: "2012-01-19 20:34:18 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2017"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - jgp09
  - pk1811
 highlights:
 

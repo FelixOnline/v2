@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Colvin talks to the former MI5 Director General and current College Chairman about her role and the future of Imperial College
 date: "2011-10-13 21:24:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1507"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
  - longread
 

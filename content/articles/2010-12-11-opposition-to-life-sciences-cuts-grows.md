@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The John Innes Centre declares opposition to the Life Sciences cuts
 date: "2010-12-11 15:16:32 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "547"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope interviews Dr Fuchter, a synthetic and medicinal chemist at ICL
 date: "2013-05-08 16:36:43 +0100"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3550"

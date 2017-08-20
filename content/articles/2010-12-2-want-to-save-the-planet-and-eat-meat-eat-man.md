@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should return to the food web structure from whence we came
 date: "2010-12-02 20:27:57 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "471"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - sf305
 highlights:
 
 # Homepage control params

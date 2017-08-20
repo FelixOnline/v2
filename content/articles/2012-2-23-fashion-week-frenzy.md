@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London Fashion Week isn’t just for the editors and bloggers, Alice Yang shows you how to get involved
 date: "2012-02-23 21:28:41 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2255"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - pk1811
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Attempting to preserve the Holland Club with help from social media
 date: "2012-01-12 21:32:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1970"

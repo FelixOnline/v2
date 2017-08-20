@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Resident might be the thoughtless entertainment we all need occasionally
 date: "2011-03-10 20:25:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1070"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
  - photos
 

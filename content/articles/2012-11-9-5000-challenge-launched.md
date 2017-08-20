@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Open to many students to win the chance to develop a project further
 date: "2012-11-09 00:15:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2836"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nj1211
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chrysostomos Meli discusses the revolution of automobiles lead by Tesla
 date: "2014-11-06 20:20:06 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4787"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - cm5314
 highlights:
 
 # Homepage control params

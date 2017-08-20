@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deepka Rana and George Howard came to the Leonardo exhibition, had a look around then, err, wrote a review, unearthing a few conspiracy theories along the way
 date: "2012-02-09 22:28:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2149"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - dr710
  - felix
+ - gch10
 highlights:
  - comment
  - photos

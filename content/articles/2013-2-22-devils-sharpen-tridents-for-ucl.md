@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's Ice Hockey's Varsity
 date: "2013-02-22 02:06:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3371"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - thr07
  - tna08
 highlights:
  - photos

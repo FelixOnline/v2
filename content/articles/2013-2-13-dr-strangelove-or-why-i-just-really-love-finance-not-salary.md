@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray provides a retort to last week’s article about banking
 date: "2013-02-13 18:55:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3314"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

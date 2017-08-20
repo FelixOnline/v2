@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Okay, apart from your local Chinese takeaway and Chinatown...
 date: "2014-02-07 04:48:12 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4346"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ykc111
 highlights:
 
 # Homepage control params

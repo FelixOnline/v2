@@ -4,7 +4,6 @@ title: >
 subtitle: >
   British economic cuts may pain us now, but the French failure to reform will hurt them more
 date: "2010-10-21 19:19:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "238"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rj408
 highlights:
 
 # Homepage control params

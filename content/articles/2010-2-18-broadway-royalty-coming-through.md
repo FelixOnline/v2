@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Harrold interviews Broadway Leading Lady Stephanie J Block about her Upcoming Concert... and Beer
 date: "2010-02-18 16:43:26 +0000"
-author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "92"

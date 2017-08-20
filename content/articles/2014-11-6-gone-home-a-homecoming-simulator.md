@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Dutton talks about The Fullbright Company's first release
 date: "2014-11-06 20:11:53 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4786"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - jdd11
  - snb11
 highlights:
  - comment

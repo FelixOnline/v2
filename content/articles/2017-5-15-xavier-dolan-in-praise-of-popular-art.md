@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Xavier Dolan, the critically-acclaimed enfant terrible of French-Canadian cinema, is set to release his sixth feature film later this year, but isn’t even in his thirties. Léo Diaz lifts the lid on his oeuvre, and finds out what makes his films tick
 date: "2017-05-15 17:21:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6961"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - leodiaz
 highlights:
  - longread
  - photos

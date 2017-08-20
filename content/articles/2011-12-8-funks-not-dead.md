@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven ends his trip around a Punk Planet
 date: "2011-12-08 21:13:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1932"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fmusic
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No Grimm faces at Shamini Bundell’s latest MTSoc offering
 date: "2011-12-01 20:26:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1870"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

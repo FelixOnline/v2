@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Only two places for the whole of engineering this year, as fewer students come to Imperial from California
 date: "2013-01-17 23:49:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3121"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

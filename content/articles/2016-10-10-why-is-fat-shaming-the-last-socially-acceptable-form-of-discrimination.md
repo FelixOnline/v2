@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey discusses the abuses, challenges, and stigmas faced by fat people in our modern, Western society.
 date: "2016-10-10 11:41:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6317"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tad08
 highlights:
  - comment
  - photos

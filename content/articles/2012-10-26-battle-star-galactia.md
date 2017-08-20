@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scenes from an Execution, a play originally written for the radio in the 1980s is staged by the National Theatre
 date: "2012-10-26 03:09:57 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2767"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
 

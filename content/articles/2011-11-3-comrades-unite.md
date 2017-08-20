@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “The machinery of capitalism is oiled with the blood of the workers,” argues Dimitri Raphaelovich
 date: "2011-11-03 21:09:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1682"

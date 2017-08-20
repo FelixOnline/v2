@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Just because sexism doesn't take the same form doesn't mean it is no longer real
 date: "2012-03-01 22:54:03 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2293"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - ld710
 highlights:
  - comment
  - photos

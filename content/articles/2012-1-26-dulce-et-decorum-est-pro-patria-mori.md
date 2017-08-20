@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “How sweet and fitting it is to die for one’s country”
 date: "2012-01-26 22:03:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2050"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mh3210
 highlights:
 
 # Homepage control params

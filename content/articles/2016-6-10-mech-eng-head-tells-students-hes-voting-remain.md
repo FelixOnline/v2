@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Peter Crawley emailed all mech eng students and staff telling them life would be harder after Brexit
 date: "2016-06-10 08:12:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6245"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

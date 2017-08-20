@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope reviews DramSoc's most recent production
 date: "2012-03-08 20:29:34 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2316"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - lap08
 highlights:
 
 # Homepage control params

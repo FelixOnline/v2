@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Kendall reports on preparations for summer expedition to Svalbard
 date: "2011-06-02 20:24:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1322"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - apk06
  - felix
 highlights:
  - comment

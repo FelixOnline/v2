@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Time to get rid of all that chocolate you couldn’t finish and have been hoarding all Easter? Want to eat it but finding yourself at the verge of bursting? felix has found the perfect solution for you!
 date: "2017-05-15 16:28:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6955"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

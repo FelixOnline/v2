@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tech Editor Osama Awara on the Silk Road Marketplace
 date: "2013-10-25 00:59:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3945"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - oa1612
 highlights:
  - comment
 

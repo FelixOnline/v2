@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Cribs are as vital as they have ever been before
 date: "2012-11-01 23:10:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2814"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
  - photos

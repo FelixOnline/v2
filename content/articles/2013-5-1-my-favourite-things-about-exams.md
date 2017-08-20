@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's not all just doom and gloom with exams looming...
 date: "2013-05-01 17:54:15 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3516"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
 

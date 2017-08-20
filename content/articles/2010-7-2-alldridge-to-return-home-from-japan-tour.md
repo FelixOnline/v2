@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Loose-head prop, Jamie Alldridge, suffers an injury to his wrist
 date: "2010-07-02 01:01:50 +0100"
-author_id: "jn104"
 
 # Attributes from Felix Online V1
 id: "149"

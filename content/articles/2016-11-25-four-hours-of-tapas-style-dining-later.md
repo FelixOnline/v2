@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix follows Christy Lam during a gastronomical overload, as she indulges in an arguably hefty amount of delights, including but not limited to those of the turkish type.
 date: "2016-11-25 14:36:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6513"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles heads to Hindustan for the National Theatre’s new play
 date: "2015-01-31 18:49:34 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5167"

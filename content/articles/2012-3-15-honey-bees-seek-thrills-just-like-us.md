@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists have investigated differences in bees' neurochemistry determining the way in which they forage for food
 date: "2012-03-15 19:53:52 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2352"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - frh10
 highlights:
  - comment
 

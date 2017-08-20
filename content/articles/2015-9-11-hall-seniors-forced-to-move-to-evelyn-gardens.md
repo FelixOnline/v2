@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The fiasco surrounding the reopened halls continues
 date: "2015-09-11 19:09:48 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5652"

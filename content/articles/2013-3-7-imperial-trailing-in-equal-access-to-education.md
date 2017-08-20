@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Figures released by the government are scoured through and commented upon by Padraic Calpin, Politics Editor
 date: "2013-03-07 23:44:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3445"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - phc11
  - tna08
 highlights:
 

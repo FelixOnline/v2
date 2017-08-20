@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray on Grouper – St Giles in the Fields (October 3, 2011)
 date: "2011-11-10 21:23:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1729"

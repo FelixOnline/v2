@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pokémon X & Y saw the first ever simultaneous release of a Nintendo title worldwide.
 date: "2013-10-30 15:49:05 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3959"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - ywc110
 highlights:
 
 # Homepage control params

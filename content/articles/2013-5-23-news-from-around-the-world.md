@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks fills you in on what's been going on
 date: "2013-05-23 22:12:46 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3611"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh3210
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What is the link between excessive coffee consumption and multiple sclerosis?
 date: "2016-03-11 11:37:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6026"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
 
 # Homepage control params

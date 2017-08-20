@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park tries to determine who really will be the fairest of them all...
 date: "2011-11-24 23:00:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1846"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

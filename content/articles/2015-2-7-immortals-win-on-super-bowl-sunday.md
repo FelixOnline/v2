@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Hill writes as the Immortals record close victory in Brighton
 date: "2015-02-07 17:25:24 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5199"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - kmw13
+ - sjh213
 highlights:
 
 # Homepage control params

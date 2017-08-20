@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year's DPW discusses elation and frustration
 date: "2012-02-23 23:23:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2265"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

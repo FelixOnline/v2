@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman goes on a nightly stroll with Jake Gyllenhaal
 date: "2014-11-10 21:41:51 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4824"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - ps3110
 highlights:
 

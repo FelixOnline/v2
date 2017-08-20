@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Want to set up Ghost? Joe shows you how...
 date: "2014-05-02 01:46:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4555"

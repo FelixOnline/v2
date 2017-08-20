@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pinpointing the causes of the messaging service crash
 date: "2011-10-20 21:25:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1563"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - felix
 highlights:
 

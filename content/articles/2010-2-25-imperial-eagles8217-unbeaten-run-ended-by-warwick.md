@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Eagles 20 - 22 Warwick University
 date: "2010-02-25 18:49:11 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "105"

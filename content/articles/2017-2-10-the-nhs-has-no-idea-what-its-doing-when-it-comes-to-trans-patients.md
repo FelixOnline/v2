@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A trans student discusses the NHS's complete failure to address the needs of transgender patients
 date: "2017-02-10 13:48:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6748"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

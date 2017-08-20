@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saskia Verhagen and Alice Yang bring you this Christmas’ most fashionable presents
 date: "2011-12-08 21:50:18 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "1946"
@@ -21,7 +20,9 @@ tags:
  - fashion
  - imported
 authors:
+ - ay310
  - mc4509
+ - stv07
 highlights:
  - photos
 

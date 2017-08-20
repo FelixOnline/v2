@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A successful and tense night for Chess Soc, reports John Sargent
 date: "2013-02-22 02:09:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3373"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsport
  - tna08
 highlights:
 

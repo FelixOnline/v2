@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The opening lines of Frank are a mixture of odd noises and half-formed (and utterly atrocious) lyrics, providing an amusing and wry look at the plight of the artist in search of inspiration...
 date: "2014-05-19 14:00:00 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4615"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Snowsports clubs collaboration will ‘reduce prices’
 date: "2011-10-07 01:06:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1472"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - erb09
  - felix
 highlights:
  - comment

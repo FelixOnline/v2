@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A great start to the year for bridge team
 date: "2014-12-11 21:25:23 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5039"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - dtp13
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Take an interest in the future of your education
 date: "2011-09-30 12:54:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1463"

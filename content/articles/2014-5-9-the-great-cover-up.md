@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhian Jones discusses the depiction of the male nude in Western art
 date: "2014-05-09 02:13:09 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4577"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rj10
 highlights:
  - longread
 

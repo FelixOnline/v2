@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Make use of upcoming postgraduate panel
 date: "2012-02-09 23:17:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2175"

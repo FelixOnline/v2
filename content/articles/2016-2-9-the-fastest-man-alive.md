@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One of the finest comic book adaptations on the small screen
 date: "2016-02-09 13:25:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5893"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton on glass squash courts.
 date: "2013-01-10 23:19:49 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3111"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - skw10
 highlights:
 
 # Homepage control params

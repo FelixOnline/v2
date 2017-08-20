@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Results of Felix's Sexism Survey
 date: "2012-05-24 23:40:07 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2490"
@@ -25,7 +24,11 @@ tags:
  - image
  - imported_comments
 authors:
+ - jk708
  - mc4509
+ - mh3210
+ - pk1811
+ - sa4110
 highlights:
  - comment
 

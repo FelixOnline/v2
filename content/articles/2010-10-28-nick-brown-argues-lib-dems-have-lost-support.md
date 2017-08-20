@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have the Lib Dems betrayed their manifesto?
 date: "2010-10-28 19:09:20 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "253"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - ks607
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The announcement that a movie based around everyone’s favourite line of construction toys was met with rants about the extent of consumerism in cinema.
 date: "2014-05-09 15:22:44 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4587"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - filmsoc
  - jal08
 highlights:
 

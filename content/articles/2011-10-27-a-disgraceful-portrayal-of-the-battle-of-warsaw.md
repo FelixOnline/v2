@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jerzy Hoffman fails to prove himself with his latest release
 date: "2011-10-27 21:36:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1612"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

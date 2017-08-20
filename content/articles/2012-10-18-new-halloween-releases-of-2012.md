@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Consider this a pre-amble to Halloween
 date: "2012-10-18 21:32:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2711"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lw408
 highlights:
  - comment
  - photos

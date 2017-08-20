@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken offers a final retrospective on this long-running medical drama
 date: "2015-03-25 12:09:18 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5426"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - jr2514
 highlights:
  - comment
  - longread

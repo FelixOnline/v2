@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Jacob is riveted by a show that explores woman's place in the Middle East
 date: "2015-02-17 16:28:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5263"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jlj13
  - ps3110
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The annual artistic extravaganza returns to draw the crowds to the Royal Academy for a mixed bag of works
 date: "2011-06-23 21:10:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1433"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

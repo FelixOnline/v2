@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists gather at The Gore Hotel to receive awards
 date: "2011-12-01 21:35:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1896"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

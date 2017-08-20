@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Writing it on paper can act as a stepping stone
 date: "2015-11-20 09:43:41 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5763"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jf413
  - ygr12
 highlights:
  - comment

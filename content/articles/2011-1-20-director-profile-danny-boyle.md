@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at one of Britain's most important directors
 date: "2011-01-20 19:53:10 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "618"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - ks607
 highlights:
 

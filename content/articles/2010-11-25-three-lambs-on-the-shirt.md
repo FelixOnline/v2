@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three lambs on the shirt
 date: "2010-11-25 21:55:48 +0000"
-author_id: "cb403"
 
 # Attributes from Felix Online V1
 id: "444"

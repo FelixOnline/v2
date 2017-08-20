@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Almost an Earth's worth of gas lost each year
 date: "2012-02-09 22:29:28 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2150"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as1911
  - pk1811
 highlights:
 

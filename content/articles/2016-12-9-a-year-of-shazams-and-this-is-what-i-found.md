@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you’re gonna be the guy that walks up to a speaker, phone first, while asking an entire room of people to shut up so that you can shazam something, at least put that song in a playlist
 date: "2016-12-09 15:43:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6577"

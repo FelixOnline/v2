@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Warm up the kitchen with some classic Christmas baking
 date: "2011-12-08 21:50:23 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1947"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - chy09
  - pk1811
 highlights:
 

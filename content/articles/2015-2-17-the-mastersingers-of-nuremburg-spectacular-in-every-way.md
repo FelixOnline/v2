@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emiel de Lange examines whether the ENO can grapple with Wagner’s masterpiece
 date: "2015-02-17 16:34:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5264"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ed812
  - ps3110
 highlights:
  - longread

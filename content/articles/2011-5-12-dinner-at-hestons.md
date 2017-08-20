@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laura Huckins visits the fabled new restaurant sensation
 date: "2011-05-12 18:36:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1196"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lmh07
 highlights:
  - comment
 

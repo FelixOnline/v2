@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is hooked by a brutal piece of cinema from Ukraine
 date: "2015-05-21 23:09:29 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5556"

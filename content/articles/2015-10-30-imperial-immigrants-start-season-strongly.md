@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They're a force to be reckoned with
 date: "2015-10-30 15:32:15 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5694"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jw7613
  - ygr12
 highlights:
  - comment

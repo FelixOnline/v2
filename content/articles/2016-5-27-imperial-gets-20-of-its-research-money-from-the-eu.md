@@ -4,7 +4,6 @@ title: >
 subtitle: >
   That amounts to £342 million over the last decade
 date: "2016-05-27 08:37:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6195"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

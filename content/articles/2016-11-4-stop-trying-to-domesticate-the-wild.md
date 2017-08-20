@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Eden discusses the wild animal adoption trend and its consequences
 date: "2016-11-04 14:17:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6388"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - je615
 highlights:
  - photos
 

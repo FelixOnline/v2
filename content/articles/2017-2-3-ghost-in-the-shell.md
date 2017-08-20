@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Appreciating the original before Scarlett Johansson ruins it forever
 date: "2017-02-03 16:52:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6722"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - petershatwell
 highlights:
  - comment
 

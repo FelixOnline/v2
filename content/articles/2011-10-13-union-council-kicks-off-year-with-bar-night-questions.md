@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First meeting brings financial questions
 date: "2011-10-13 20:22:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1502"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

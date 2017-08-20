@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about Sex. Well the Sex Survey. Sorry to get you excited
 date: "2013-05-23 22:35:06 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3622"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

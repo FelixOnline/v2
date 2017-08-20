@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why did he not object to these [NHS] plans at a much earlier stage?
 date: "2011-05-26 23:46:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1268"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sph109
 highlights:
 
 # Homepage control params

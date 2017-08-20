@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial just behind LSE, but green wise, are lagging behind
 date: "2013-05-02 13:51:58 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3537"

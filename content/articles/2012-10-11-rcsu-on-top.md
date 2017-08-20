@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plabon Saha says: seriously, we stole everyone’s shit
 date: "2012-10-11 20:49:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2654"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ps3411
 highlights:
  - comment
 

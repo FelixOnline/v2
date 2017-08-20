@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at Hyperion — a classic of SF
 date: "2012-10-05 11:24:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2592"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
  - photos
 

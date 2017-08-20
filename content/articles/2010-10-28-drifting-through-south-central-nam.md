@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aggressive off-road biking, token temple exploration and a cheeky mud spa – cruising along Vietnam’s South Central Coast
 date: "2010-10-28 19:45:53 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "276"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - jk708
 highlights:
  - longread

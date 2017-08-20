@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Theatre is special but Trump is wrong, theatre is not safe. Theatre Can't be safe
 date: "2016-11-25 14:10:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6509"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - js5913
 highlights:
 
 # Homepage control params

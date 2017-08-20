@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or is this the final nail in its coffin?
 date: "2017-05-12 17:05:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6944"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brand New Ancients is a storm of a performance, says Lily Le
 date: "2014-01-17 03:45:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4239"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lwl09
 highlights:
  - photos
 

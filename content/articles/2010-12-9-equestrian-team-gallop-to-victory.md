@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial see off rivals Oxford, the LSE and Brunel
 date: "2010-12-09 20:10:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "517"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - imd08
 highlights:
  - comment
 

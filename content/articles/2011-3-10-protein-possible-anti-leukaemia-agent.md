@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A newly-discovered protein could be used as an anti-leukemic agent
 date: "2011-03-10 19:08:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1049"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - asn210
  - felix
 highlights:
 

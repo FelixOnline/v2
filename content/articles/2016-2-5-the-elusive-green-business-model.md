@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why is it taking so long for businesses to adopt greener strategies?
 date: "2016-02-05 12:08:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5870"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc5412
 highlights:
  - comment
 

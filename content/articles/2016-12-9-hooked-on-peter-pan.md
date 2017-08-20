@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Peter Pan is on at the National Theatre until 4th February 2017 || Tickets from £15
 date: "2016-12-09 12:37:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6570"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
  - photos
 

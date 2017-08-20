@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hope Dickson Leach's first feature film explores grief and relationships in rural Somerset
 date: "2017-05-04 08:29:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6928"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - vaishnavignanana
 highlights:
 
 # Homepage control params

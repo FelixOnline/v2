@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Already secured a city internship for summer ‘13? Or perhaps you’re looking to work in the third sector? Caroline Wood compares the two
 date: "2013-01-18 00:14:15 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3127"

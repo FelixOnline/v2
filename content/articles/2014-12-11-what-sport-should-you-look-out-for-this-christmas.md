@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle tells Felix about some of the best action over the holiday
 date: "2014-12-11 23:39:27 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5044"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - kmw13
 highlights:
  - comment
 

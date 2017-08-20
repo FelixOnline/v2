@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Arianna Sorba looks around some creepy exhibits
 date: "2012-12-07 01:42:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3040"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as1911
  - tna08
 highlights:
  - photos

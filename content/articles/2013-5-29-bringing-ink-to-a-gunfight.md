@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sanchit Sharma is showing off his brand new tatts...
 date: "2013-05-29 16:12:45 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3634"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ss9011
  - tna08
 highlights:
  - comment

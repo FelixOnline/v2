@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sentimental columnists concludes all science is worthwhile science
 date: "2016-06-17 09:20:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6279"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

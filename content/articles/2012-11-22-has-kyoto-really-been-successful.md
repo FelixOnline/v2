@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon reviews the ageing treaty
 date: "2012-11-22 23:17:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2943"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pd111
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Light and death for hospital superbugs.
 date: "2010-11-25 20:06:50 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "425"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jeg07
  - nm1010
 highlights:
 

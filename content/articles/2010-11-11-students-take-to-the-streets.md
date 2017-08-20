@@ -4,7 +4,6 @@ title: >
 subtitle: >
   50,000 students march in London against government cuts and higher fees
 date: "2010-11-11 22:19:44 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "376"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - jw5010
 highlights:
  - comment
 

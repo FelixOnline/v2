@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hamilton’s coolness disappoints at the National
 date: "2012-11-01 22:48:22 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2793"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as1911
  - mc4509
 highlights:
  - photos

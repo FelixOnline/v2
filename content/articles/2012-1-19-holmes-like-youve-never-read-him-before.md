@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Victorian Lovecraftian mystery
 date: "2012-01-19 20:15:46 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2010"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - pk1811
 highlights:
 

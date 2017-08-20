@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But it took all morning to clean up
 date: "2016-12-09 12:01:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6563"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Whitehall's Backchat
 date: "2015-02-09 19:37:29 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5226"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gg2110
  - ps3110
 highlights:
 

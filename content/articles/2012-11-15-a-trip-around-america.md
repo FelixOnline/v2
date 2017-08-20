@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Neil Gaiman’s best known novel
 date: "2012-11-15 21:28:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2896"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

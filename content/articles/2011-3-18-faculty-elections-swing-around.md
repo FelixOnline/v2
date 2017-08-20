@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists, Medics and Engineers vote for next year's committees
 date: "2011-03-18 09:09:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1117"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - dr710
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Chinese Students and Scholars Association has been caught up in an election scandal only weeks after the Christian Union had its own election dispute. The election is being re-run on May 2nd with the DPFS acting as a returning officer.
 date: "2014-04-23 17:15:38 +0100"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4533"

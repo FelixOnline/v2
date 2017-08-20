@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Changes will have consequences for teams, and will be discussed with captains.
 date: "2012-10-11 20:21:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2640"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union President stays away from protest saying he doesn’t believe in its motive
 date: "2010-11-11 22:08:08 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "373"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - ks607
 highlights:
 
 # Homepage control params

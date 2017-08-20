@@ -4,7 +4,6 @@ title: >
 subtitle: >
   People find it easier to express their feelings hidden behind their computer screens
 date: "2010-12-02 21:33:45 +0000"
-author_id: "ae1409"
 
 # Attributes from Felix Online V1
 id: "491"

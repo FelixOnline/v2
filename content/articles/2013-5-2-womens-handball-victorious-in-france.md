@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First and Third place for Imperial
 date: "2013-05-02 12:16:08 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3526"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sg1511
  - tna08
 highlights:
 

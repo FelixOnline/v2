@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman asks whether a live debate was necessary
 date: "2014-02-26 12:58:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4437"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ygr12
 highlights:
 
 # Homepage control params

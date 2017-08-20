@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The underlying narrative of the album tells the true story of the life of J. Cole’s late friend James McMillan
 date: "2016-12-16 14:58:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6608"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - andydjaba
  - felix
 highlights:
 

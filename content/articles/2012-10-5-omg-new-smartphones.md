@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laugh out loud* at people who upgraded their phones before uni
 date: "2012-10-05 11:44:27 +0100"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2602"

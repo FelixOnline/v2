@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joanna Wormald doesn’t really have anything against V Day, but they do mind the complete invisibility of asexuals and aromantics in mainstream culture
 date: "2017-02-10 14:40:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6759"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jmw216
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett takes a look at the scientific landmarks of this academic year
 date: "2013-06-20 23:18:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3719"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

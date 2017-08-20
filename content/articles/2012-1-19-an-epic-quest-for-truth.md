@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An unusual biography of a fascinating philosopher
 date: "2012-01-19 20:11:29 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2008"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - pk1811
 highlights:
  - comment

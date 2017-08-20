@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the world of Google and Apple, Rudolf Lai asks if there is a future for Microsoft
 date: "2011-02-10 20:50:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "785"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - csl209
  - felix
 highlights:
  - longread

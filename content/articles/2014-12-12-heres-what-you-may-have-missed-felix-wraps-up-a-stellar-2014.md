@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A recap of all the main news stories from 2014
 date: "2014-12-12 13:01:10 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5050"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

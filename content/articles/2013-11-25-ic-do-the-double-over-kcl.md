@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action
 date: "2013-11-25 00:01:46 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4140"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jhi13
 highlights:
 
 # Homepage control params

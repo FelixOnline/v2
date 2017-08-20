@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The video is conclusive, Anselmo’s actions were horrific
 date: "2016-02-05 12:39:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5880"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rg2112
 highlights:
 
 # Homepage control params

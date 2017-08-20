@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our predictions for the next year's sabbatical officers [Updated with link to results breakdown]
 date: "2015-03-13 00:49:20 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5387"

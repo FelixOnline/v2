@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Byrne investigates the brain implant that gives the ability to see invisible light
 date: "2013-02-21 20:43:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3341"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - slb210
  - tna08
 highlights:
 

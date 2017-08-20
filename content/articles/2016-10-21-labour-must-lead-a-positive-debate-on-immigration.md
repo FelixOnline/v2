@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy implores the Labour Party to change public perception of immigration
 date: "2016-10-21 12:28:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6344"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ajp15
+ - gib13
 highlights:
 
 # Homepage control params

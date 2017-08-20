@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A bizarre world where tube lines celebrate Christmas
 date: "2010-12-09 21:45:32 +0000"
-author_id: "va208"
 
 # Attributes from Felix Online V1
 id: "542"

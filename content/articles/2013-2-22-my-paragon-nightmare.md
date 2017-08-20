@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A first-year shares their experience of living in halls over six miles from the South Ken campus
 date: "2013-02-22 01:57:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3369"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

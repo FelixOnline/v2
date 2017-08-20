@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As far as young teenage characters go, Laura is a refreshing change of pace from the norm
 date: "2017-03-10 13:46:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6877"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union says students are “skilled, experienced and equipped appropriately” but eyewitness disputes Union account
 date: "2011-01-13 21:50:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "597"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Nice Guys is a send-up of genre flicks that's in on the joke
 date: "2016-06-10 08:30:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6260"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

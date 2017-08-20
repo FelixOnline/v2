@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sorcha Cotter is, for some reason, a pirate...
 date: "2012-12-07 03:01:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3058"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sc3610
  - tna08
 highlights:
 

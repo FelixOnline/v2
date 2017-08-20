@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simone Buitendijk discusses online learning, Brexit and more
 date: "2016-12-09 15:33:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6572"

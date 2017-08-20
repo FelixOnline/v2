@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The man behind fingerprinting and eugenics
 date: "2011-01-13 20:15:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "577"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
 
 # Homepage control params

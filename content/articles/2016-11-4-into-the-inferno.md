@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Documentary of the week
 date: "2016-11-04 15:33:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6399"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - el416
+ - theo.farah13
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica on “My Restraint” with foreword by Jeremy Pac-man
 date: "2013-01-18 00:48:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3142"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pa07
  - tna08
 highlights:
  - comment

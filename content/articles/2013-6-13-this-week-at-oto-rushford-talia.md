@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi speaks to duo and Ambarchi collaborators
 date: "2013-06-13 23:02:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3686"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ra2410
  - tna08
 highlights:
  - comment

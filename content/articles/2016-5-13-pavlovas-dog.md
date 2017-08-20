@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's recipe
 date: "2016-05-13 09:34:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6166"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
 highlights:
 
 # Homepage control params

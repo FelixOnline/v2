@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medic playwright on the creative process
 date: "2012-11-15 21:24:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2894"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - rjd08
  - tna08
 highlights:
  - longread

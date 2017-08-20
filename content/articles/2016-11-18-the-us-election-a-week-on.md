@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix gets out and about for your reactions too
 date: "2016-11-18 14:26:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6455"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - stebo101
 highlights:
 
 # Homepage control params

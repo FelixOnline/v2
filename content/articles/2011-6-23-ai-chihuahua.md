@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anastasia Eleftheriou pays a visit to Los Locos
 date: "2011-06-23 21:18:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1436"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - felix
 highlights:
 

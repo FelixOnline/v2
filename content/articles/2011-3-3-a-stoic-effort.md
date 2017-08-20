@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stoic TV host first ever live online hustings
 date: "2011-03-03 20:13:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1004"

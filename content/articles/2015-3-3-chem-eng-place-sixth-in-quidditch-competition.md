@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Engineering students prove they are smart and sporty
 date: "2015-03-03 14:51:18 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5325"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - rg1212
 highlights:
  - comment
 

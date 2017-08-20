@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Worrying about offending people makes celebrities bland
 date: "2011-06-02 19:23:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1305"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

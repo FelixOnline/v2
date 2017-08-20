@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jian Li Chew takes you through his day channelling his new idol
 date: "2017-02-03 15:25:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6710"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jlc14
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hewa Khalilifar dresses up as a superhero, and so should you...
 date: "2013-03-01 00:34:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3405"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - hk1610
  - tna08
 highlights:
  - comment

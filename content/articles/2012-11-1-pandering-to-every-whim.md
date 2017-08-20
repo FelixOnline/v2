@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl eats shoots and leaves
 date: "2012-11-01 22:54:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2799"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
  - longread

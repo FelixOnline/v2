@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Maxey for one can’t wait for next year’s TEDxLSE. Before that, however, Imperial has an independent TED event of its own...
 date: "2013-03-15 02:36:03 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3490"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jm4911
  - tna08
 highlights:
  - photos

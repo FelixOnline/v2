@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "It’s about companionship, loneliness and survival during tough, conservative times"
 date: "2012-03-15 20:45:57 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2363"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - jgp09
 highlights:
 
 # Homepage control params

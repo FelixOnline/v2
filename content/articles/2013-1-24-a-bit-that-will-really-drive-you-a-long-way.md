@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Driving Dead
 date: "2013-01-24 21:13:18 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3157"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - rw507
 highlights:
 
 # Homepage control params

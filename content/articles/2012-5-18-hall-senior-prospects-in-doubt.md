@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Frustration for future of Wilsonites
 date: "2012-05-18 05:56:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2454"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

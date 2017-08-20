@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett, signing off for Christmas with some festive facts
 date: "2012-12-07 01:44:59 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3041"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3110
  - tna08
 highlights:
 

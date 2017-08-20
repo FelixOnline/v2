@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new and slightly more awkward year
 date: "2014-01-17 03:33:14 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4235"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - gta
  - jal08
 highlights:
 

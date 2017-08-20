@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizabeth Windo discusses the good and the bad of the LGBT community
 date: "2017-02-10 13:51:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6749"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - elizabethwindo
  - felix
 highlights:
  - comment

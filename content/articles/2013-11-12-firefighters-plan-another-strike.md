@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Firefighters in England and Wales plan to strike on Wednesday 13th November between 10AM to 2PM.
 date: "2013-11-12 18:38:02 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4049"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mtm10
 highlights:
  - comment
 

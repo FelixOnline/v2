@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest Friends of Imperial lecture
 date: "2011-06-23 20:01:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1419"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

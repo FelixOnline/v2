@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Surviving the exam period with a tasty alternative to Subway
 date: "2011-06-12 16:14:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1368"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - oh106
 highlights:
  - comment
 

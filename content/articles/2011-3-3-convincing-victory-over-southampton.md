@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Second victory for Hockey Women's 1sts
 date: "2011-03-03 08:25:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "993"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - trm08
 highlights:
 
 # Homepage control params

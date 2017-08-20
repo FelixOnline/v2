@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Food editorial on pasta, by Carol Ann Cheah
 date: "2013-03-01 00:05:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3399"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - cac111
  - tna08
 highlights:
 

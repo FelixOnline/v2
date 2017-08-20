@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl doesn’t really feel like an omnipotent, omniscient god
 date: "2014-11-06 20:00:36 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4785"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - snb11
 highlights:
 

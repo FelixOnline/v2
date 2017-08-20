@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is time that we acknowledged our failure to act, find a cause, and make a difference
 date: "2015-10-30 12:36:55 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5684"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - ygr12
 highlights:
  - comment

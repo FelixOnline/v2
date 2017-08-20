@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's the peanut butter that really gets me
 date: "2011-05-06 15:09:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1176"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dhl106
  - felix
 highlights:
  - comment

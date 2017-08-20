@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Activision kills off the popular music game series
 date: "2011-02-17 20:17:05 +0000"
-author_id: "cb908"
 
 # Attributes from Felix Online V1
 id: "837"

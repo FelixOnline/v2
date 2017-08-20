@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts makes us envious with his glorious food escapade
 date: "2011-03-03 19:25:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "997"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
 

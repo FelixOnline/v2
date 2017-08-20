@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about telling the truth, the whole truth and nothing but the truth so help your reputation.
 date: "2013-01-10 21:58:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3076"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

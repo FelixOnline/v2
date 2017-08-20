@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sara Hamilton reviews London’s biggest vegan festival, commenting on how cutting down on meat may be the answer to our environmental problems
 date: "2016-10-31 16:07:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6366"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sara.hamilton14
 highlights:
 
 # Homepage control params

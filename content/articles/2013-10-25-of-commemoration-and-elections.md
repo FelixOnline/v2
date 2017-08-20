@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking back on a week of graduation, elections, rain, rain and rain.
 date: "2013-10-25 00:11:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3923"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The results from Imperial’s iKnife are promising, but require further validation.
 date: "2013-07-23 17:28:23 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3745"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - lap08
 highlights:
 
 # Homepage control params

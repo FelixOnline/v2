@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All you need to know about tech life here at Imperial
 date: "2010-10-01 22:00:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "162"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - srg03
 highlights:
  - comment
  - longread

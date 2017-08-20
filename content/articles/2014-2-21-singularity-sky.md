@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin explores one of Charles Stross’ most popular novels.
 date: "2014-02-21 03:23:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4425"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tr511
 highlights:
 
 # Homepage control params

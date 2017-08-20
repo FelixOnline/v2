@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The people of South Sudan look set to determine their own future
 date: "2011-01-13 19:57:28 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "572"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - rtf08
 highlights:
 
 # Homepage control params

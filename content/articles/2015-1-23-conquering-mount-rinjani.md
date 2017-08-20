@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson’s epic three day hike up Lombok’s beastly volcano
 date: "2015-01-23 19:07:36 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5150"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr70
+ - cr709
  - jyg11
 highlights:
  - comment

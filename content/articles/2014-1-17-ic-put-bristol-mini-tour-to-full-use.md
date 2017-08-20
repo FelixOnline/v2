@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Man of the mini-tour Matt Cann gives his account
 date: "2014-01-17 04:39:07 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4261"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mc4609
 highlights:
 
 # Homepage control params

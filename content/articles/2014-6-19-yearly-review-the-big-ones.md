@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What have the biggest companies done this year?
 date: "2014-06-19 18:45:50 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4696"

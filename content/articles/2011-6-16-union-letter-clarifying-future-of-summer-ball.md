@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No strategy has been approved by Executive Committee or Union Council
 date: "2011-06-16 20:38:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1395"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - apk06
  - felix
 highlights:
  - comment

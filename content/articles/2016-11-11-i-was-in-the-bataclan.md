@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ollie Kemsley talks about the day of the Paris attack last November, and his experiences in the year following
 date: "2016-11-11 13:18:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6417"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ajp15
+ - olliekemsley
 highlights:
 
 # Homepage control params

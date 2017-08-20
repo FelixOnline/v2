@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Hallett runs and cycles, presumably not while writing this article
 date: "2012-11-15 22:22:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2915"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - eh508
  - tna08
 highlights:
  - comment

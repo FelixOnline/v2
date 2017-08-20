@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The first in Simon Hunter’s new series introducing the best electronic dance labels
 date: "2010-10-28 19:36:02 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "267"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - sh1207
 highlights:
 
 # Homepage control params

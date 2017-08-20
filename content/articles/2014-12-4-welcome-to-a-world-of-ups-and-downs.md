@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chrysostomos Meli looks at how you will be paying for things in the future
 date: "2014-12-04 19:24:35 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4997"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - cm5314
 highlights:
  - comment
 

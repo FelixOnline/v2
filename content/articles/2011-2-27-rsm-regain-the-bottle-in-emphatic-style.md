@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Royal School of Mines win the 109th Bottle Match
 date: "2011-02-27 19:52:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "921"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dmw08
  - felix
 highlights:
  - comment

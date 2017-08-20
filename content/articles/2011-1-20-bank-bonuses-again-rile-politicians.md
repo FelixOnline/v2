@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s that time of the year again: the banks have disclosed the size of their bonus pools and Patrick O’Driscoll thinks the public needs to know more before judging
 date: "2011-01-20 20:28:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "627"

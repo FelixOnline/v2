@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Appeal to stop re-election of paid Editor is granted
 date: "2014-11-21 13:19:09 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4927"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - ps3110
 highlights:
 

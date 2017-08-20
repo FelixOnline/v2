@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook's Privacy?
 date: "2011-01-20 19:26:37 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "606"
@@ -21,6 +20,7 @@ tags:
  - tech
  - imported
 authors:
+ - fa608
  - nm1010
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Passionate and cool: not just another film about boxing...
 date: "2011-02-10 20:48:17 +0000"
-author_id: "jl4310"
 
 # Attributes from Felix Online V1
 id: "784"

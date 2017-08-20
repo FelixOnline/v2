@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Every Time I Die
 date: "2012-02-03 11:26:20 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2132"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gj309
  - sjw209
 highlights:
 

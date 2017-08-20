@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Smith conducts an in-depth investigation of the Workfare scandal. Is it really forced labour? Who is benefitting from it? And what is our government doing in our name?
 date: "2012-02-23 23:58:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2268"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
  - longread

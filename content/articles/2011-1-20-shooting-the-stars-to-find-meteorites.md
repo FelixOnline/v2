@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New meteorite in Western Australia’s Nullarbor Desert
 date: "2011-01-20 19:20:31 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "603"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - mtm10
 highlights:
 
 # Homepage control params

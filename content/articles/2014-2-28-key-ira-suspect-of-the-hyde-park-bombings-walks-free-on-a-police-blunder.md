@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Downey, 62, was a main suspect for the murder of four soldiers by the IRA (Provisional Irish Republican Army) and has now been let free due to a police error that gave him effective immunity.
 date: "2014-02-28 07:12:41 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4442"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ar3310
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following on from the success of their recent Metric Night, Raincatcher is busy obtaining sponsorship for the ambitious Water Carry Walk
 date: "2012-03-08 21:15:26 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2323"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - pd111
 highlights:
 
 # Homepage control params

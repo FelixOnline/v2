@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix reports from the mystery talk
 date: "2017-02-03 14:59:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6706"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
  - longread

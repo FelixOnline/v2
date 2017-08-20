@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How hard can it be...right? Follow the flowchart to find out
 date: "2015-02-09 18:56:01 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5214"

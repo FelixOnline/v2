@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Like Legolas, but without the pointy ears
 date: "2012-02-23 21:28:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2254"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sjw108
 highlights:
 
 # Homepage control params

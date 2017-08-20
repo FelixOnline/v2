@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology
 date: "2010-11-04 18:48:39 +0000"
-author_id: "lorddavidalton"
 
 # Attributes from Felix Online V1
 id: "314"

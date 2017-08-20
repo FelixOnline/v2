@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Delay comes amidst ongoing protest against BBC campus redevelopment
 date: "2012-06-08 08:26:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2540"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - pk1811
 highlights:
  - comment
 

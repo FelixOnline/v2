@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly takes a look at 700 years of Finance
 date: "2014-05-23 13:50:56 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4620"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ck2513
  - jal08
 highlights:
  - comment

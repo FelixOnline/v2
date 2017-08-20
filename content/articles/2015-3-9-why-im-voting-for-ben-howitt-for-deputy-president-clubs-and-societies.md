@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman talks us through why she thinks Ben Howitt should be DPCS next year
 date: "2015-03-09 14:15:32 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5367"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ygr12
 highlights:
  - comment
 

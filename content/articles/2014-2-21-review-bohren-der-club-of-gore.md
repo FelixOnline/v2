@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi looks at the German band’s new effort - Piano Nights
 date: "2014-02-21 03:31:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4432"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

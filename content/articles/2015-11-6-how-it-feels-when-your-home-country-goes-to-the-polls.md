@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Watching events in your country unfold from across the border isn't easy
 date: "2015-11-06 13:56:02 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5702"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - icanon
  - ygr12
 highlights:
  - comment

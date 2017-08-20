@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Here’s a guide of what’s good in London
 date: "2016-10-03 19:16:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6307"

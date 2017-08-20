@@ -4,7 +4,6 @@ title: >
 subtitle: >
   adsfasdfasdfad
 date: "2011-06-09 18:36:33 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1333"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - cr308
 highlights:
  - longread
  - photos

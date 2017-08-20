@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Curiousity may have killed the cat, but without it we all risk a far worse fate, says Anum Farooq
 date: "2013-03-07 20:51:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3419"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
 

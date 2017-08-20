@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles reviews Sarah Lucas' recent offerings
 date: "2013-11-15 02:31:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4074"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ff712
 highlights:
  - photos
 

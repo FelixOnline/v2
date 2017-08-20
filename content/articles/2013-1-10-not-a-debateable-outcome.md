@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Niall Jeffrey gets arguing with everyone in sight at the World Universities Debating Championships
 date: "2013-01-10 22:03:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3077"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nj1211
  - tna08
 highlights:
  - photos

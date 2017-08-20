@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science is the spark that aid needs in the world
 date: "2011-12-01 21:35:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1897"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - rtf08
 highlights:
  - comment
 

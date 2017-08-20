@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Feminist Society and why it might not be what you think it is
 date: "2012-10-11 21:25:49 +0100"
-author_id: "ar3310"
 
 # Attributes from Felix Online V1
 id: "2676"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - ar3310
+ - AR3310
+ - fcomment
 highlights:
  - comment
 

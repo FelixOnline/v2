@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah scouts out Fulham’s newest kid on the (pub) block
 date: "2013-01-31 23:52:19 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "3216"

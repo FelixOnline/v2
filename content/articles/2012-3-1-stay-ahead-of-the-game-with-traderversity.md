@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An exciting virtual trading game for university students
 date: "2012-03-01 22:46:41 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2291"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - cg1609
 highlights:
  - comment
 

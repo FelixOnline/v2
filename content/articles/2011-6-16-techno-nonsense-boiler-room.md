@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week Simon Hunter looks at the rising star of London's underground music scene
 date: "2011-06-16 20:56:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1400"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sh1207
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Design Collective talk to you about talks....
 date: "2012-11-01 22:26:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2782"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

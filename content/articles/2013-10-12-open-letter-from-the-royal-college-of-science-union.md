@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RCSU President Plabon Saha welcomes you to another year with the RCSU
 date: "2013-10-12 12:15:53 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3845"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ps3411
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Emden looks at the implications of the US-China emissions deal
 date: "2014-12-11 20:39:37 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5029"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jfe14
 highlights:
 
 # Homepage control params

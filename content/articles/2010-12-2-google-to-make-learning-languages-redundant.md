@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google to make learning languages redundant?
 date: "2010-12-02 19:59:06 +0000"
-author_id: "kl208"
 
 # Attributes from Felix Online V1
 id: "456"

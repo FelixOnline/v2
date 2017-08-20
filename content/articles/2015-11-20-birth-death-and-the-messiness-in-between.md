@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Morgen und Abend throws us into a man’s existence and beyond with mixed results
 date: "2015-11-20 09:39:01 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5760"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ed812
  - ygr12
 highlights:
 

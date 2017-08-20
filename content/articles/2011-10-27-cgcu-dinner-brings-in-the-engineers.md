@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students turn out in force to celebrate start of term at Café de Paris
 date: "2011-10-27 20:12:33 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1608"

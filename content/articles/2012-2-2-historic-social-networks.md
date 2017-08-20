@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The concept of social networking is not as modern as you may think.
 date: "2012-02-02 19:23:17 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2087"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - slb210
 highlights:
 
 # Homepage control params

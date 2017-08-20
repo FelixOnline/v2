@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The mainstream media is not respecting the enlightenment of society
 date: "2015-01-23 01:35:38 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5130"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - tjm112
 highlights:
  - comment
 

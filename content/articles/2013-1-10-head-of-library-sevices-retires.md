@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Debby Shorley retires, but will no doubt still be working hard
 date: "2013-01-10 22:16:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3082"

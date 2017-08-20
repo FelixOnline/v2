@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on sleep (well, written on very little sleep), Garden Hall, and Elections
 date: "2013-03-07 23:33:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3442"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

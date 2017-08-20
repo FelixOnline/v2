@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Book Club transformed into a venue exploring the links between our senses and the recipe for true love
 date: "2016-02-12 11:33:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5905"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nk1515
 highlights:
 
 # Homepage control params

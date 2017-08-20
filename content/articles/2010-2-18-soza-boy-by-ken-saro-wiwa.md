@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Edoardo Borgomeo explores the tragic themes of Soza Boy and Its Even More Tragic Backstory
 date: "2010-02-18 16:53:16 +0000"
-author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "94"

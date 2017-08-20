@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix goes on a French adventure to Casse-Croûte, Bermondsey, and manages to successfully order delicious food without really understanding the menu.
 date: "2016-10-10 12:11:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6319"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - yyl114
 highlights:
  - photos
 

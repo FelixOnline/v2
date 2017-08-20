@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland explores what remains after Iraq and Afghanistan
 date: "2014-11-14 20:53:38 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4879"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - km2612
  - ps3110
 highlights:
 

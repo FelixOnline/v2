@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICU Riding and Polo celebrate victory at the Arena Polo Nationals
 date: "2013-05-29 15:44:17 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3633"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as906
  - tna08
 highlights:
  - longread

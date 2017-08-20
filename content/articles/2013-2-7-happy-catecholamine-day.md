@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking forward to your hot date? Philippa Skett explains why
 date: "2013-02-07 23:28:13 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3261"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - ps3110
 highlights:
  - comment
  - longread

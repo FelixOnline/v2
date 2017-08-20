@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Margot Pikovsky gets her alliteration on
 date: "2012-11-15 22:20:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2914"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mp1710
  - tna08
 highlights:
 

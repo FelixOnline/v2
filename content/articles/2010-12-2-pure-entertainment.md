@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Robert Rodriguez pulls off an absurdly entertaining action film
 date: "2010-12-02 20:14:16 +0000"
-author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "462"

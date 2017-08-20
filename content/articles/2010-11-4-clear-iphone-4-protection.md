@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Gibbs reviews the latest case for the iPhone 4
 date: "2010-11-04 18:46:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "311"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - srg03
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The only opposition to American-style Grade Point Averages is because of fear, argues Richard Oberdieck
 date: "2011-10-28 00:12:50 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1627"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ro611
  - sjw209
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In short: upgrade your Wordpress plz. kthnxbai.
 date: "2012-11-29 21:55:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2983"

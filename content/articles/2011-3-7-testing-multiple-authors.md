@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Testing multiple authors
 date: "2011-03-07 22:46:26 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "1047"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - jk708
 highlights:
 

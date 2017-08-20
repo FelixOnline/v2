@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Thursday’s LGBT drama bonanza
 date: "2015-02-09 19:36:27 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5225"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gg2110
  - ps3110
 highlights:
 

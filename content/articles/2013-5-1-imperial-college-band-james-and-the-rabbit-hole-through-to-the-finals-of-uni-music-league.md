@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another league table that we dominate at.
 date: "2013-05-01 14:27:33 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3514"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fmusic
  - tna08
 highlights:
  - comment

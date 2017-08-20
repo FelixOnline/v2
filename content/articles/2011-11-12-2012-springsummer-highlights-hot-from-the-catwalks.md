@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Winter may have just begun, but the Fashion World already cannot wait for sunnier days. Saskia Verhagen and Alice Yang bring you the best from September’s catwalks
 date: "2011-11-12 17:25:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1753"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - felix
+ - stv07
 highlights:
  - longread
 

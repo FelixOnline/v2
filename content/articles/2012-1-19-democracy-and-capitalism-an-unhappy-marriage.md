@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Zuehlsdorff discusses solutions to the apparent conflict between a free financial market and a stable economy
 date: "2012-01-19 20:05:30 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2004"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - tjz07
 highlights:
 
 # Homepage control params

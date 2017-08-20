@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Frisbee is taking over felix
 date: "2016-11-18 17:04:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6486"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ajf14
 highlights:
 
 # Homepage control params

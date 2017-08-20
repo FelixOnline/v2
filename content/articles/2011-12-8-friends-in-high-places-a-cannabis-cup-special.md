@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Travel competition winners Charlie, Mandy and Bobby Brown re-live whatever they can remember of this year’s High Times Cannabis Cup
 date: "2011-12-08 22:14:30 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1952"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - ftravel
 highlights:
  - longread
  - photos

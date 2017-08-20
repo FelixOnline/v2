@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This article includes a burn to the Vaccines.
 date: "2012-12-07 03:42:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3069"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - phc11
  - tna08
 highlights:
 

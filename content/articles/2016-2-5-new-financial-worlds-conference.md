@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Those who impress may even secure internships
 date: "2016-02-05 12:53:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5888"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ze12
 highlights:
  - comment
 

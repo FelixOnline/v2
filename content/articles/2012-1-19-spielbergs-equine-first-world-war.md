@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Much anticipated fim War Horse gets Lucy Wiles' approval
 date: "2012-01-19 20:29:30 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2014"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lw408
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigation reveals “clear failings” during Varsity, Philippa Skett reports
 date: "2015-05-08 00:29:59 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5503"

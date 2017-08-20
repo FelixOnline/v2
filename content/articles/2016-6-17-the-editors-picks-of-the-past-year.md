@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...and our picks for the summer!
 date: "2016-06-17 09:29:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6282"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
+ - mff113
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film runs down the biggest successes to ever hit the screens
 date: "2013-05-23 21:43:39 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3604"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park's end of year favourites
 date: "2014-12-11 21:03:19 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5033"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jgp09
 highlights:
 
 # Homepage control params

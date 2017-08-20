@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The medics won the Ladies' 1s though
 date: "2016-03-04 11:27:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5997"

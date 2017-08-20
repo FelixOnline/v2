@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes a glance at the new MIRRORCITY exhibition
 date: "2014-12-18 15:41:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5058"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
  - longread

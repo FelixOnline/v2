@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Falling in love all over again with Canada’s finest
 date: "2012-05-03 17:56:43 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2408"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - dmm04
 highlights:
 
 # Homepage control params

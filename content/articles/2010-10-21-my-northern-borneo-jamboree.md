@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wonderful wildlife, treacherous trekking and a monstrous mountain
 date: "2010-10-21 18:53:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "224"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cannabis legalisation is slowly happening around the world. The game is more political than anything else. How do we compare with the US?
 date: "2016-11-04 15:52:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6401"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - agnese.abrusci16
+ - christopher.haig
  - felix
+ - felixteam
 highlights:
 
 # Homepage control params

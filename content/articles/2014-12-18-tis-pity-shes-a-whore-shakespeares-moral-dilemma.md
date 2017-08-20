@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng raves about the Globe's new production of a classic
 date: "2014-12-18 15:51:21 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5062"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - jc7413
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New hypothesis suggests composer Frederic Chopin suffered from temporal lobe epilepsy
 date: "2011-02-10 20:19:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "769"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pab10
 highlights:
  - photos
 

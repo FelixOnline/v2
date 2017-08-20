@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As 2011 draws to a close Philip Kent summarises the big events of the year – gaming related, of course
 date: "2011-12-08 21:41:14 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1942"

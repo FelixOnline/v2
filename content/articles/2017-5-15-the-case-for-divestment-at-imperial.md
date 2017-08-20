@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Barfield Marks makes a case for talking about why we should be divesting
 date: "2017-05-15 16:00:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6949"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sarahbarfieldmar
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters doesn't care about Trump, but does care about Eurovision
 date: "2017-01-27 16:23:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6688"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jm5014
 highlights:
  - comment
 

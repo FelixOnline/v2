@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson reports on the amazing fundraising achievement that has been accomplished in tragic circumstances
 date: "2015-03-19 23:39:31 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5404"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin on the past and future of the internet sensation
 date: "2014-11-06 20:42:58 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4791"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - snb11
+ - tr511
 highlights:
 
 # Homepage control params

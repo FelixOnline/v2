@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The comedy is disarming and charming, but still manages to maintain a wry edge. It very much has the feel of a coming of age comedy
 date: "2016-12-02 15:06:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6540"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

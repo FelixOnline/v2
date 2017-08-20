@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes us through the work of his favourite writer
 date: "2015-03-06 13:10:05 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5349"

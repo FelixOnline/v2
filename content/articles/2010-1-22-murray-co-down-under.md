@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sports Editor Indy Leclerq's thoughts on Andy Murray's chances in Oz
 date: "2010-01-22 13:21:11 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "48"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - ial08
  - jk708
 highlights:
 

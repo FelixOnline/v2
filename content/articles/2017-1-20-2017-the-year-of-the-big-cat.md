@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Eden discusses the UAE's new ban on exotic pets and Ipswich's new hedgehog officer
 date: "2017-01-20 15:02:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6660"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - je615
 highlights:
 
 # Homepage control params

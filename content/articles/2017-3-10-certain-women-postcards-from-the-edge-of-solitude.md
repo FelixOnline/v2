@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Reichardt fashions a beautifully-intimate portrait of four women, in her sixth feature film, Certain Women, which details our relationships with the natural world, other individuals, and our own loneliness
 date: "2017-03-10 13:37:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6871"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

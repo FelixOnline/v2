@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy McGregor think things were better when she was younger. Herumph.
 date: "2013-02-13 14:43:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3304"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lem08
  - tna08
 highlights:
  - photos

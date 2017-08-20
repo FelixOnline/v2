@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You are a terrible waste of money, goodbye
 date: "2015-12-04 15:11:52 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5791"

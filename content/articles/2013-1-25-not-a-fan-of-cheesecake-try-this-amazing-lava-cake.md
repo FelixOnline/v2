@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For all you cheese haters out there...
 date: "2013-01-25 01:34:41 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3181"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1310
 highlights:
 
 # Homepage control params

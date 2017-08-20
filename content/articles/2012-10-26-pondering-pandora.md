@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Barclay wants to talk about his love for wub wub
 date: "2012-10-26 02:42:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2753"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mb1111
  - tna08
 highlights:
 

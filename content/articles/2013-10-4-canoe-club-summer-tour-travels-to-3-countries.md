@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President Reece Blunt reveals all
 date: "2013-10-04 02:21:36 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3813"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rb1311
 highlights:
 
 # Homepage control params

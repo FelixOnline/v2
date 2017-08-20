@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tickets now on sale, greater emphasis on managing risk
 date: "2012-03-16 01:50:40 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2402"

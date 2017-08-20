@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No one got booed off the stage
 date: "2017-06-02 13:50:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6998"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
+ - jmw216
 highlights:
  - longread
 

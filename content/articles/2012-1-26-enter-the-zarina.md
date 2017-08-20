@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emotions run high at film artist and photographer Zarina Bhimji’s retrospective at Whitechapel
 date: "2012-01-26 22:19:28 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2059"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - as1911
 highlights:
  - photos
 

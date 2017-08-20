@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists try and fail squishing bug
 date: "2016-02-19 11:17:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5928"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

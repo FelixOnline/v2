@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emma King reports back from the British Shorinji Kempo Fedoration camp
 date: "2013-10-12 20:21:53 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3868"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ek910
  - jal08
 highlights:
  - comment

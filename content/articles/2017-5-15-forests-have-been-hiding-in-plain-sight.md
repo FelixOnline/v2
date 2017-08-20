@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andrada Balmez explains how we’ve only just discovered 467 million hectares of forest
 date: "2017-05-15 17:33:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6965"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
  - photos
 

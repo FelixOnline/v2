@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Hartley finds it difficult to ignore a golden opportunity for puns
 date: "2013-11-01 09:45:20 +0000"
-author_id: "frh10"
 
 # Attributes from Felix Online V1
 id: "3975"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Something to buy or sell? Contact felix@imperial.ac.uk
 date: "2012-07-25 13:32:58 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2587"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - mc4509
 highlights:
  - comment

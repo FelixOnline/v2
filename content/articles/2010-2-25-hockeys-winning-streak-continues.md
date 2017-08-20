@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Women's 2nd XI 14 - 0 St Bart's Womens 2nd XI
 date: "2010-02-25 18:37:28 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "102"

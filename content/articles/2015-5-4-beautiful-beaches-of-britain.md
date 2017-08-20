@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The beaches that are making waves in television
 date: "2015-05-04 17:01:21 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5493"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gg2110
  - ps3110
 highlights:
  - comment

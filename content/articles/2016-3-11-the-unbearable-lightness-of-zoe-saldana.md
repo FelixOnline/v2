@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Race, colourism and the estate of Nina Simone
 date: "2016-03-11 11:57:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6039"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
 

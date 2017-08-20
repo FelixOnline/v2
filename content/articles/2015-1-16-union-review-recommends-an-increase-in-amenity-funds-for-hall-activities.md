@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Recommendation for increase from £1.50 to £2.00 per person per week
 date: "2015-01-16 12:59:54 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5092"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Worthington chats to Imperial alumni James Fairbairn about the gaming industry
 date: "2011-05-27 13:36:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1271"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sjw209
 highlights:
  - longread
 

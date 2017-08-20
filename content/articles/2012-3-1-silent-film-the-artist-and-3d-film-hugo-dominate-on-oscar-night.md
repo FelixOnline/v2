@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This Sunday witnessed the 84th Academy Awards
 date: "2012-03-01 22:32:54 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2287"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ffilm
 highlights:
 
 # Homepage control params

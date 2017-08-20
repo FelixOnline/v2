@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new society launches
 date: "2013-02-08 00:36:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3276"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

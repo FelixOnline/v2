@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial opens yet another robotic lab, making it only a matter of time before we are overrun in a scene similar to that of I, Robot.
 date: "2014-11-13 14:25:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4857"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   East Meets West 2015 presents Highway
 date: "2015-02-20 00:25:44 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5286"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ss7813
 highlights:
 
 # Homepage control params

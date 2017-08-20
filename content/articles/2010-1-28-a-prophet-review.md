@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stefan Zeeman takes a plunge into the seedy world of French prison-life.
 date: "2010-01-28 15:52:46 +0000"
-author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "57"

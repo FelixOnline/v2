@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sex dreams would totally be on repeat. AMMIRITE?
 date: "2012-10-26 02:31:35 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2746"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - fsci
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Housemaid is a rollercoaster ride of suspense and sensuality
 date: "2010-11-18 20:48:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "394"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

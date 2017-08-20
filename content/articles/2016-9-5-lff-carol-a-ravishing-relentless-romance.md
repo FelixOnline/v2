@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Todd Haynes excels, as Rooney Mara and Cate Blanchett blow us away with nuanced performances
 date: "2016-09-05 20:31:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6294"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - photos
 

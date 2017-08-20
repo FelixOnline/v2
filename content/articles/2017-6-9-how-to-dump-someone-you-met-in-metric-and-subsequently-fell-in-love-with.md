@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everyone knows breaking up is horrible. We’re here to make the process better for you (although probably worse for the other person)
 date: "2017-06-09 16:16:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7023"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
+ - tad08
 highlights:
  - longread
 

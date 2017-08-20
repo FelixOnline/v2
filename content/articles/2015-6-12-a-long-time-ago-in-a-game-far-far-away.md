@@ -4,7 +4,6 @@ title: >
 subtitle: >
   CHOO CHOO! Max Eggl welcomes you to the Star Wars hype train!
 date: "2015-06-12 12:38:09 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5619"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - me1711
 highlights:
  - comment
 

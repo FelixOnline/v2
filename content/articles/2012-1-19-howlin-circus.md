@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto shares liquid bread while chatting house fires and the blues ahead of THROB
 date: "2012-01-19 20:46:02 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2021"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - im808
 highlights:
 
 # Homepage control params

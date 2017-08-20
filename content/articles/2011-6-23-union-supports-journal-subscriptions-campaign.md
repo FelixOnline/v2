@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Council passes policy demanding publishing companies reduce their costs
 date: "2011-06-23 19:19:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1414"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

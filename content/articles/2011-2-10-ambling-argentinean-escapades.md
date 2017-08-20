@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest antics from Priya Garg, who tosses away her inhibitions and embraces the manic culture of Argentina’s booming capital
 date: "2011-02-10 20:02:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "762"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pg405
 highlights:
  - longread
 

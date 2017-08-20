@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sophie Kirk and Eoghan J Totten on the muddy running
 date: "2013-02-08 00:30:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3273"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
+ - srk210
  - tna08
 highlights:
  - photos

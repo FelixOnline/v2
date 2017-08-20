@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Moving onwards from our last issue
 date: "2012-02-16 22:06:03 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2208"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - sjw209
 highlights:
  - comment

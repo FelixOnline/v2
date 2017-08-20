@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zara Shubber looks at scientists’ warnings that high fructose diets may be detrimental to memory
 date: "2012-06-01 13:27:31 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2515"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - zs1611
 highlights:
 
 # Homepage control params

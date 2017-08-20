@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chair Baroness Manningham-Buller will step down later this year, reports Cecily Johnson
 date: "2015-03-13 01:24:37 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5393"

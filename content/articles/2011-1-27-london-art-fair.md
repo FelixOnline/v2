@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The huge art sale is still a good show
 date: "2011-01-27 19:44:35 +0000"
-author_id: "jj1909"
 
 # Attributes from Felix Online V1
 id: "675"

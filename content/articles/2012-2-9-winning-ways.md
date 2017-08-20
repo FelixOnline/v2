@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hockey Women’s 1s post another win to remain undefeated and go top of BUCS league
 date: "2012-02-09 23:02:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2168"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klh110
  - pk1811
 highlights:
 

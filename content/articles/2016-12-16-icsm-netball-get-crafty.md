@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICSM Netball show that their team fun isn’t just restricted to the Netball Court by taking part in an afternoon of crafts in aid of Imperial College Healthcare Charity
 date: "2016-12-16 16:23:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6625"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ifrahhussain
 highlights:
 
 # Homepage control params

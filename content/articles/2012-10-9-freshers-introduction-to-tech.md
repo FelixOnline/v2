@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Technically speaking: Fresher tech guide
 date: "2012-10-09 10:21:31 +0100"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2637"

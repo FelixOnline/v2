@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From music to films; choir to books, there was something for everyone at ArtsFest
 date: "2015-02-27 00:14:53 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5310"

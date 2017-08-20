@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ivan Ho reviews Monster Hunter International – the ultimate antidote to Twilight
 date: "2012-05-18 16:21:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2474"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ich10
 highlights:
 
 # Homepage control params

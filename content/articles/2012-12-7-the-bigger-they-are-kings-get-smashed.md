@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a massive dick move by Kings, they get conquered
 date: "2012-12-07 03:05:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3059"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jlc08
  - tna08
 highlights:
  - longread

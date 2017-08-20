@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will Stocker interviews the American songstress
 date: "2012-06-22 16:45:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2581"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wws10
 highlights:
 
 # Homepage control params

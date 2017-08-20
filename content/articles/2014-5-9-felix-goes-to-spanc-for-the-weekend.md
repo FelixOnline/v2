@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence de Lussy Kubisa reminisces about the Student Publication Association National Conference
 date: "2014-05-09 02:03:50 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4570"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ld710
 highlights:
 
 # Homepage control params

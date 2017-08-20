@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's on iPlayer. Quick, go watch it!
 date: "2010-11-11 21:06:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "353"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jeg07
 highlights:
 
 # Homepage control params

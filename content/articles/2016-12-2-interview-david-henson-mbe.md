@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Military veteran, bronze medallist PhD student
 date: "2016-12-02 16:40:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6549"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ss11814
 highlights:
  - longread
  - photos

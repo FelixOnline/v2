@@ -4,7 +4,6 @@ title: >
 subtitle: >
   His talk wasn't attended by "plebs"
 date: "2015-01-23 01:16:28 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "5119"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - jb3112
 highlights:
 
 # Homepage control params

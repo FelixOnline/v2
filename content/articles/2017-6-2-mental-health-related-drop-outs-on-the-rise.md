@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s easier to drop out than find support
 date: "2017-06-02 12:23:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6981"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

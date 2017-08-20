@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I must have manifestos on the brain because after three weeks writing about a certain famous Communist one, I turn to our own election manifestos. Voting has occasioned the re-emergence of some long dormant reflections, recounted here.
 date: "2014-04-07 13:02:11 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4529"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - jal08
 highlights:
 

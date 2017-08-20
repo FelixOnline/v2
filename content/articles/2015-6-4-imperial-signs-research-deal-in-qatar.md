@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports on the recent agreement between Imperial College London, Qatar University and Qatar Shell Research and Technology Centre
 date: "2015-06-04 23:14:32 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5595"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - kmw13
 highlights:
  - comment
 

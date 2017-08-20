@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Lucas et al
 date: "2012-11-22 23:18:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2944"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - arc111
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The most distant example of a gravitational lens has been discovered by scientists in Germany.
 date: "2013-10-24 23:51:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3915"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jb3112
 highlights:
  - photos
 

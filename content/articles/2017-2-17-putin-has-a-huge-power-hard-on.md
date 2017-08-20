@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Titmuss explains why Putin is probably ecstatic right now
 date: "2017-02-17 14:46:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6787"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - charlestitmuss
 highlights:
  - comment
  - photos

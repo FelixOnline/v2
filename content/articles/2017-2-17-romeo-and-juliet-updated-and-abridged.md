@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Romeo and Juliet is on at the National Theatre until 24th February
 date: "2017-02-17 15:15:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6793"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - helenmoneykyrle
 highlights:
 
 # Homepage control params

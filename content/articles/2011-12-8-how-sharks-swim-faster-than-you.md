@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Non-symmetrical tails leads on to speedy swimming
 date: "2011-12-08 20:35:42 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1915"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - sk9011
 highlights:
 
 # Homepage control params

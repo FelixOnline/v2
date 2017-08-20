@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Iron Lady: Stunning portrayals, half-hearted direction
 date: "2012-01-12 22:34:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1986"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

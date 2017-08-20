@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Council and letters
 date: "2013-02-14 21:16:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3334"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

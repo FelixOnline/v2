@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I know this says that this is about Metric, but really it could apply to any place, at any time, with any person.
 date: "2016-12-09 16:14:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6591"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
  - photos
 

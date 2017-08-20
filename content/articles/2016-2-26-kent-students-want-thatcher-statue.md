@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a story straight out of Hangman, Kent Union’s Tory Society are campaigning for a 76m tall iron statue of the Iron Lady
 date: "2016-02-26 11:25:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5956"

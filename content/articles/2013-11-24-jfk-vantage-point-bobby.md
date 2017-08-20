@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are far better movies out there that are based on the assassination of American President John F. Kennedy.
 date: "2013-11-24 16:28:33 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4122"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

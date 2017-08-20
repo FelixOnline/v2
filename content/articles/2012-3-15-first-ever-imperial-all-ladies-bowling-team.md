@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brand new team strikes gold in latest competition
 date: "2012-03-15 22:19:26 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2397"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - pk1811
 highlights:
 

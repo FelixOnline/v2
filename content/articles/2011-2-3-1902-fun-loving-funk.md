@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix and funk at the Felix music night on 19.02
 date: "2011-02-03 19:20:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "713"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
  - longread
 

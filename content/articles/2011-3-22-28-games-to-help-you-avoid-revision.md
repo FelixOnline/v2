@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For the past two terms, Games Editor Simon Worthington has been exploring the untamed world of online gaming and bringing back the best for your enjoyment. We've brought them all together here but be warned, they are extremely fun, addictive and time-consuming. Happy procrastination Imperial!
 date: "2011-03-22 16:33:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1126"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sjw209
 highlights:
  - comment
  - longread

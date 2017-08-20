@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's finally come. Have you?
 date: "2016-06-17 09:01:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6275"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
  - longread
  - photos

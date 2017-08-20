@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London’s nightlife is constantly evolving. A prescriptive list of clubs would be futile
 date: "2010-10-02 07:17:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "169"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dww07
  - felix
 highlights:
  - comment

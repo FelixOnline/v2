@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix nominated for four student journalism awards
 date: "2017-05-12 16:28:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6939"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
+ - mjj15
 highlights:
 
 # Homepage control params

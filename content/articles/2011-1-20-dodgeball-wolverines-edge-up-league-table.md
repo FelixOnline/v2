@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The drastic impact of the Wolverines on the league tables
 date: "2011-01-20 19:43:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "612"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as3509
  - felix
 highlights:
 

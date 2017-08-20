@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Lamb bemoans “the mess which over-zealous multiculturalism has got Britain into”
 date: "2016-01-13 14:45:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5825"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - feli
  - felix
+ - ygr12
 highlights:
  - comment
 

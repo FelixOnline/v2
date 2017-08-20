@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Beaumont takes a look at a typical Friday night down at the Apollo
 date: "2011-11-24 22:32:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1836"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pjb09
 highlights:
 
 # Homepage control params

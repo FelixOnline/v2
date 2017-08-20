@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get bag on trend with this selection of carrying paraphernalia
 date: "2012-07-16 12:03:13 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2586"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ay310
  - mc4509
 highlights:
  - comment

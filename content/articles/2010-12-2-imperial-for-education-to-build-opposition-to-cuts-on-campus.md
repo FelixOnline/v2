@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students grill President Alex Kendall about what they see as a lack of representation in the Union
 date: "2010-12-02 22:06:33 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "504"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ks607
  - nm1010
 highlights:
 

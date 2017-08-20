@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student focused company accelerator hits the mark
 date: "2012-03-15 19:52:27 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2351"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - ps6110
 highlights:
 
 # Homepage control params

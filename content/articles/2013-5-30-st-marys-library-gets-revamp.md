@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £3 million renovation is completed
 date: "2013-05-30 12:11:48 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3642"

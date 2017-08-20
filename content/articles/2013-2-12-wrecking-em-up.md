@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wreck-it Ralph review
 date: "2013-02-12 20:24:08 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3294"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
 

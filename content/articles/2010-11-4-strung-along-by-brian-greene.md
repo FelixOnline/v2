@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brian Greene and the controversies surrounding string theory
 date: "2010-11-04 18:41:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "306"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - kv07
 highlights:
 
 # Homepage control params

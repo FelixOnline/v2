@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Disabilities Officer role just doesn't cut it
 date: "2017-01-27 14:13:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6682"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles finds common ground between two very different shows
 date: "2015-05-13 14:23:09 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5516"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Welcome to Scotland: where we are greeted by Bruce Robertson (McAvoy), a coke-snorting, alcohol-addicted, sex-loving detective who’s gunning for a promotion to the position of detective inspector.
 date: "2013-10-12 19:12:53 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3849"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following government funding, the unique material may be reaching its full potential
 date: "2011-10-20 21:13:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1561"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

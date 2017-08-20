@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix reads it so you don’t have to (you’re welcome)
 date: "2016-11-18 14:25:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6454"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Petition to save Unit gets over 4,700 signatures in just one week Members of staff now unsure of their future
 date: "2013-01-25 01:04:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3173"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

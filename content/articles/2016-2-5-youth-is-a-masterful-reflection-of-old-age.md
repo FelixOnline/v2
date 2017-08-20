@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paolo Sorrentino’s touching tragicomedy deserves more praise than it has recieved
 date: "2016-02-05 12:25:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5875"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - im1214
 highlights:
  - comment
 

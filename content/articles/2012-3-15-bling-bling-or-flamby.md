@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Isaid Benitez-Cabral takes a look at the choices facing the French people at the Presidential Elections
 date: "2012-03-15 19:49:29 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2350"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - irb10
 highlights:
  - photos
 

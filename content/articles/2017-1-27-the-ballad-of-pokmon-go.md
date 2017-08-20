@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saad Ahmed gives the dirt on why Pokémon GO isn’t fun and was doomed to fail
 date: "2017-01-27 17:34:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6702"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

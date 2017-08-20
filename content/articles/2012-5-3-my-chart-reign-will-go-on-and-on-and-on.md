@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An old classic re-released
 date: "2012-05-03 18:29:36 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2413"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - lw408
 highlights:
 
 # Homepage control params

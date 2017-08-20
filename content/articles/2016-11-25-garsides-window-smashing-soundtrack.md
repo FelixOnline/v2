@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Punk music, and its offshoots, has always retained a continuing theme of protest against society’s wrongs. Here are some of my favourites.
 date: "2016-11-25 14:06:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6507"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rg2112
 highlights:
  - photos
 

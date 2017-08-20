@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongsatayanont on coping with mental illnesses
 date: "2014-11-17 18:21:04 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4905"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cw3414
  - ps3110
 highlights:
 

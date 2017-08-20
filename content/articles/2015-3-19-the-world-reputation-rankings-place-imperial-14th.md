@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah examines the table, which is compiled from an invitation-only survey
 date: "2015-03-19 23:36:46 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5402"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - ca
+ - cac111
  - cj914
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What tau proteins can tell us
 date: "2012-02-23 20:58:40 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2249"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - mtm10
 highlights:
 
 # Homepage control params

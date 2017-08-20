@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC jiu Jitsu brings home seven medals
 date: "2017-03-03 16:19:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6859"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cloefradin
 highlights:
  - comment
 

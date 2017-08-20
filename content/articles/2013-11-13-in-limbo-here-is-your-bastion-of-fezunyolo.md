@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you haven’t heard of Humble Bundle you should really check it out!
 date: "2013-11-13 23:02:14 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4056"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

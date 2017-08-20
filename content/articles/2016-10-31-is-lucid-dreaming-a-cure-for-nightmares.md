@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A study investigating the psychological effects of lucid dreaming on patients suffering from nightmare disorders may offer an insight into treatments, and provide insight into how the sleeping brain works
 date: "2016-10-31 16:02:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6365"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - amy.thomas16
 highlights:
 
 # Homepage control params

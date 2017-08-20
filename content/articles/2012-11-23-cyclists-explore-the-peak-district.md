@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Barnett gets on his saddle
 date: "2012-11-23 00:12:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2963"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gb610
  - tna08
 highlights:
  - longread

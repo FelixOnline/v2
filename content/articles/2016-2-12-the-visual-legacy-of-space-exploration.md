@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Benson’s photographic journey of the solar system shines at the NHM
 date: "2016-02-12 11:37:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5907"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - av3514
 highlights:
  - photos
 

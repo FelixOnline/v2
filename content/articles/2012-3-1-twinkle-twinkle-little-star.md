@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks on why we need sleep – and why eight hours might be too much
 date: "2012-03-01 21:26:38 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2274"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mh3210
 highlights:
 
 # Homepage control params

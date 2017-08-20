@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What killed the dinosaurs... the ice age!
 date: "2013-03-07 22:05:17 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3438"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - thr07
 highlights:
 
 # Homepage control params

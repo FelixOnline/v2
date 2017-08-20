@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union hopes for record turnout
 date: "2012-03-16 01:41:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2401"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National’s unpredictable triumph is revived in style at the Wyndham’s Theatre
 date: "2016-05-06 10:15:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6133"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
 highlights:
  - comment
 

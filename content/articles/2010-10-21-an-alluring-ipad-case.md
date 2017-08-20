@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This zippered slipcase offers good protection from the bumps and knocks your iPad might encounter in day to day life
 date: "2010-10-21 18:57:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "229"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - srg03
 highlights:
 
 # Homepage control params

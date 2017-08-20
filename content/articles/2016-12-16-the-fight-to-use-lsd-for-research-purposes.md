@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ending the prejudice surrounding psychedelic drugs could prove beneificial to millions of people, especially those who have failed to respond to conventional treatment
 date: "2016-12-16 16:08:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6623"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
 
 # Homepage control params

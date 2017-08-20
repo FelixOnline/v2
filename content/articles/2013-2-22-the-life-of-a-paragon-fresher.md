@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous fresher gives their experiences living in Paragon
 date: "2013-02-22 01:12:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3356"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - fcomment
  - tna08
 highlights:
 

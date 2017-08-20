@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Hooftman looks back at Interpol’s sophomore album
 date: "2012-10-26 03:16:07 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2772"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - fmusic
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Immortals play hard ball
 date: "2016-12-02 16:48:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6553"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

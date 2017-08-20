@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another year at the Veolia photography competition, and the entries are wilder and more captivating than ever
 date: "2010-11-04 18:11:17 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "291"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hem07
  - jk708
 highlights:
  - photos

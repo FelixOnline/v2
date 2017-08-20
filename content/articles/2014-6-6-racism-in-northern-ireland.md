@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets.
 date: "2014-06-06 02:40:46 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4658"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rtf08
 highlights:
 
 # Homepage control params

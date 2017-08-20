@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Krestas reviews Betty Blythe
 date: "2011-10-21 12:06:10 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1605"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - mk4410
 highlights:
  - comment
 

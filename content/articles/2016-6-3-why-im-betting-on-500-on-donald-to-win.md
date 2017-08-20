@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hillary's campaign isn't enough to save us from The Trump
 date: "2016-06-03 08:58:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6229"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - jf1915
 highlights:
  - comment
 

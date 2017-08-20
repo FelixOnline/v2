@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Patricia Poths explains popular science books
 date: "2014-11-06 19:44:20 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4782"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pp2814
  - snb11
 highlights:
 

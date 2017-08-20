@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg interviews Vampire Diaries’ Michael Malarkey, as he releases his debut EP
 date: "2015-01-23 18:50:04 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5147"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - mff113
 highlights:
  - comment
 

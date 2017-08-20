@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At least it's warm somewhere
 date: "2013-01-31 23:34:08 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3210"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - lap08
+ - pd111
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cruelty Free International aren’t buying it
 date: "2017-01-13 13:54:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6630"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4812
 highlights:
 
 # Homepage control params

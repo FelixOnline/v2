@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher discusses how to determine the value of education
 date: "2014-11-28 00:46:24 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4965"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - ps3110
 highlights:
  - comment

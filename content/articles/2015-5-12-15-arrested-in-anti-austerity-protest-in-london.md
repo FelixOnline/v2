@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority.
 date: "2015-05-12 15:59:28 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5512"

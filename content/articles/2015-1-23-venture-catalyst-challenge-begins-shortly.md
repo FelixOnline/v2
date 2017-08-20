@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get your thinking caps on
 date: "2015-01-23 01:35:17 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5129"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - snb11
 highlights:
  - comment
 

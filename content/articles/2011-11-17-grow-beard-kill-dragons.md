@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven on The Elder Scrolls V: Skyrim and incredible manliness
 date: "2011-11-17 20:44:35 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1764"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - pk1811
 highlights:
 

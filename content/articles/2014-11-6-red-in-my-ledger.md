@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol talks about her food memories
 date: "2014-11-06 21:05:07 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4795"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - snb11
 highlights:
  - comment

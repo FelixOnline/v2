@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the Human Connectome Project
 date: "2013-02-28 17:55:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3382"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3110
  - tna08
 highlights:
 

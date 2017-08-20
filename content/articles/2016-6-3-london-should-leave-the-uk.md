@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is the referendum we ought to be having
 date: "2016-06-03 08:56:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6228"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ap4913
 highlights:
 
 # Homepage control params

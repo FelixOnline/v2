@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola takes us through the life of Giordano Bruno
 date: "2015-03-25 12:39:11 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5433"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cfc111
  - ff712
 highlights:
  - comment

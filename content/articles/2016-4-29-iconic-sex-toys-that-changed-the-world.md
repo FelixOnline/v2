@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tested for your pleasure
 date: "2016-04-29 10:43:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6102"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
  - longread

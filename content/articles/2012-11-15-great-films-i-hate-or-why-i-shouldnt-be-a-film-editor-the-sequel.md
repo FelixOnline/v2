@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katy Bettany's pick of the widely regarded films that she thinks are awful
 date: "2012-11-15 21:42:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2902"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klb09
  - tna08
 highlights:
  - longread

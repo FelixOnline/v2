@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two of the most sinister threats that we face today
 date: "2011-11-17 21:48:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1786"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
  - photos
 

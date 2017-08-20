@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Humorous application includes making vodka stronger
 date: "2012-02-09 22:36:47 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2156"

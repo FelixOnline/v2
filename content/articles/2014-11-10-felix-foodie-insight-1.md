@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michelle Tan talks curry & being a Third Culture Kid
 date: "2014-11-10 22:21:04 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4843"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mwt12
  - ps3110
 highlights:
 

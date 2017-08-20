@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Leeds leads library fine table
 date: "2012-01-19 22:59:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2035"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

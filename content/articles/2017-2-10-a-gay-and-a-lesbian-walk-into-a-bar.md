@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ... and proceed to shatter any and all illusions you might have about gay sex
 date: "2017-02-10 14:16:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6755"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bcmaile
 highlights:
  - comment
 

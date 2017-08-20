@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ned Yoxall does Ironman for charity: part 2
 date: "2012-10-18 21:03:29 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2688"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - eoy05
  - tna08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For possibly the first time, all three of our drama societies are staging shows written by Imperial students. We meet the playwrights to talk about their productions
 date: "2010-11-25 20:20:43 +0000"
-author_id: "rm1509"
 
 # Attributes from Felix Online V1
 id: "428"

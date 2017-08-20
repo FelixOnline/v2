@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial professor chief organiser of campaign
 date: "2012-05-24 22:57:50 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2484"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - skd09
 highlights:
 
 # Homepage control params

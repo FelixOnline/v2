@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Hey kids! I’m Professor Dawkins! I really, really do not like religion!”
 date: "2010-10-21 19:00:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "230"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak2008
  - felix
 highlights:
  - comment

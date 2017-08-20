@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hint: we're talking underwater hockey
 date: "2016-12-02 16:51:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6554"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - esmehostonmoore
  - felix
+ - sammaser
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How you can have a good business model with great marketing
 date: "2012-10-11 20:40:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2649"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ms7210
 highlights:
 
 # Homepage control params

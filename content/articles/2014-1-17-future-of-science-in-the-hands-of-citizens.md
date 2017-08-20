@@ -4,7 +4,6 @@ title: >
 subtitle: >
   San Chun Yin, Imperial Hub Vice-President on citizen science
 date: "2014-01-17 03:24:54 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4231"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

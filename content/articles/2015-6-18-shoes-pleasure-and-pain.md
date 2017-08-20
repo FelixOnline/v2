@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5635"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - czb11
  - jyg11
 highlights:
  - comment

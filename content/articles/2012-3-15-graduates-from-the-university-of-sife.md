@@ -4,7 +4,6 @@ title: >
 subtitle: >
   SIFE’s Insight Into Business Program aims to teach kids through hands-on experience writes Michael Xiao
 date: "2012-03-15 19:46:43 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2349"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - xc1110
 highlights:
 
 # Homepage control params

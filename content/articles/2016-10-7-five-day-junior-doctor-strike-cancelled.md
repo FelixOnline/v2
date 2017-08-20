@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And everyone has mixed feelings
 date: "2016-10-07 16:55:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6311"

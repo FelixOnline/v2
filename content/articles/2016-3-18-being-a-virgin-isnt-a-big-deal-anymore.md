@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does it even matter?
 date: "2016-03-18 11:47:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6058"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

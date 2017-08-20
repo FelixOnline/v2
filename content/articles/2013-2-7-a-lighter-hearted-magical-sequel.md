@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Doesn't stray out of the zones of interestingness
 date: "2013-02-07 22:40:52 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3244"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cw1509
  - tna08
 highlights:
 

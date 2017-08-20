@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unsigned Imperial student Todd Kuffner unveils first body of work
 date: "2010-11-04 18:28:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "298"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mr3209
 highlights:
 
 # Homepage control params

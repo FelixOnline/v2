@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vibrant culture, endless activities and unrivalled coastline: Chris Richardson provides a breakdown on this perfect post-exam getaway
 date: "2011-11-03 20:18:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1663"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
  - longread

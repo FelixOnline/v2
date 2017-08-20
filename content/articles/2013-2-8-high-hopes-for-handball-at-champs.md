@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Red Elmadi hands us the news
 date: "2013-02-08 00:23:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3270"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
 

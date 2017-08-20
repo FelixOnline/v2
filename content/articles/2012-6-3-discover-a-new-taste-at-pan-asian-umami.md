@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Outside of Imperial lies a Thai paradise
 date: "2012-06-03 16:08:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2520"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - felix
+ - mk4410
 highlights:
 
 # Homepage control params

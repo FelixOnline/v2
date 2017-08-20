@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Murdoch wants to take you on a musical adventure with God Help The Girl
 date: "2012-01-19 20:43:45 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2020"

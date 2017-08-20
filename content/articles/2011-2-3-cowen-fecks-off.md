@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cameron could learn from Irish PM’s collapsed coalition
 date: "2011-02-03 20:15:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "740"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - hm1010
 highlights:
  - longread
  - photos

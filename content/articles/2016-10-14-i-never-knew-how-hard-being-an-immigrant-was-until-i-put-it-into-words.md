@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lef Apostolakis shares the reality of post-Brexit life for an immigrant
 date: "2016-10-14 10:08:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6332"

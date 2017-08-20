@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mahima Razdan writes about the perks of mingling abroad
 date: "2015-01-23 01:23:00 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5122"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mr3214
  - ps3110
 highlights:
  - comment

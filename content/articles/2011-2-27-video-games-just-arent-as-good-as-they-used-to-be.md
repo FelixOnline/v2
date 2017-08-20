@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They don't reward the player enough to sustain his/her attention
 date: "2011-02-27 12:36:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "901"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

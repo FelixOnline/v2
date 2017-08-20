@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring London knife crime on stage
 date: "2011-06-02 19:37:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1309"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

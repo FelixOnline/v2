@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In recent times I have become quite disillusioned with Apple. The keynotes were kinda boring, and there was nothing really interesting. I usually tuned in to the keynotes just because I felt that I should. In fact, it got to the point that this time around, I almost missed the keynote. When I did op
 date: "2014-06-11 21:33:26 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4669"

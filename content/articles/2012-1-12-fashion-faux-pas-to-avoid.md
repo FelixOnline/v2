@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kicking off a new year, Alice Yang shows us the style resolutions to adopt for life, not just for novelty
 date: "2012-01-12 19:54:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1963"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ay310
  - felix
 highlights:
  - comment

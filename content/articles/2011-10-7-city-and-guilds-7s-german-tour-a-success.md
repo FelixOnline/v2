@@ -4,7 +4,6 @@ title: >
 subtitle: >
   City & Guilds 7s tour Berlin
 date: "2011-10-07 01:14:08 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1473"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - sjw209
+ - ts2709
 highlights:
  - longread
 

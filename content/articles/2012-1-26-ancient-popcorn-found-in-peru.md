@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Research suggests ancient Peruvians were eating popcorn 2000 years earlier than previously estimated
 date: "2012-01-26 22:24:35 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2062"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - as1911
 highlights:
 
 # Homepage control params

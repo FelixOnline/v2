@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly examines whether poppies are an appropriate symbol of remembrance
 date: "2014-11-06 18:32:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4764"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ck2513
  - ps3110
 highlights:
  - comment

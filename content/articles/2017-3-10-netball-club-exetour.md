@@ -4,7 +4,6 @@ title: >
 subtitle: >
   15 of Imperial Netball Club’s finest take Devon (and also play some Netball)
 date: "2017-03-10 14:40:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6886"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
 
 # Homepage control params

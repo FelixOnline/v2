@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four molecular motors come together to make molecular car
 date: "2011-11-17 20:18:34 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1755"

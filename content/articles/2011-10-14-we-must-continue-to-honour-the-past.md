@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A move to a new system would raise immediate problems for students
 date: "2011-10-14 00:26:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1536"

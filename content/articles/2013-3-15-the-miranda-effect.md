@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Miranda is a good show, no matter what the critics say
 date: "2013-03-15 01:21:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3473"
@@ -21,6 +20,7 @@ tags:
  - tv
  - imported
 authors:
+ - gg2110
  - tna08
 highlights:
 

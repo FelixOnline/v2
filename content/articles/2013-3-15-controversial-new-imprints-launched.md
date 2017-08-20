@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Random House gets more Random
 date: "2013-03-15 01:32:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3477"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

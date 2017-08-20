@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber and Jamie Fraser interview Yeasayer
 date: "2010-01-14 14:26:34 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "26"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Your guide to the summer's literary festivals
 date: "2011-05-27 14:08:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1277"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

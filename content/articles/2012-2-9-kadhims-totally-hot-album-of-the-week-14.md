@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Django Django Django Django Because Music 2012
 date: "2012-02-09 22:23:05 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2148"

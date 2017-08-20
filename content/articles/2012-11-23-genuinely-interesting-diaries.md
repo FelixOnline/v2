@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despoina Paschou is glad to have finally watched the Che Guevara documentary
 date: "2012-11-23 00:37:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2975"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dp1710
  - tna08
 highlights:
 

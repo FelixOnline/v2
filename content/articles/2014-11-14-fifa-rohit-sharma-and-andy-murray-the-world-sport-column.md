@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle tells you what you may have missed out on during a busy week of sport around the globe
 date: "2014-11-14 21:13:46 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4891"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

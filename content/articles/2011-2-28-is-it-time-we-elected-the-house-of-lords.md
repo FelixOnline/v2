@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the House of Lords blocks electoral reform recovers from the expenses scandal, is it time to look again at an elected upper house?
 date: "2011-02-28 20:40:33 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "932"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - mjp109
+ - tn509
 highlights:
  - comment
  - longread

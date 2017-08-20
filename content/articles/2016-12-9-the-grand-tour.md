@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite its flaws, The Grand Tour is an amicable successor to the Top Gear of old
 date: "2016-12-09 15:44:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6579"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

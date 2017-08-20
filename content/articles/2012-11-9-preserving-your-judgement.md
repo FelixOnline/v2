@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell avoids sticking a knife in his eye at the Jam Cupboard
 date: "2012-11-09 12:34:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2848"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as906
  - tna08
 highlights:
  - longread

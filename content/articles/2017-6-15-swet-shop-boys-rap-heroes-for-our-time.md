@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Political, witty and earnest, Riz MC and Heems are the transatlantic duo lending disenfranchised South-Asian kids a voice
 date: "2017-06-15 17:13:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7027"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
 

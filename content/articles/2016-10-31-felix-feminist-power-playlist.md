@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Music is an amazingly powerful way to impact a message to an audience, a community or even a generation. Women have traditionally been a marginalized and oppressed social group and in our modern society, we still face prejudices unknown to our male counterparts. In the spirit of ‘Imperial Girls Can
 date: "2016-10-31 23:48:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6374"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - abigaelbamgboye
  - felix
+ - sk2214
 highlights:
 
 # Homepage control params

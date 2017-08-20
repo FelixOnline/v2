@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This match report was thrust on to me, in the literal sense, by Captain Robinson in the late hours of Monday night who had more important things to do. I had planned a quiet night in with the other half after training, but duty called and I rose to the occasion...
 date: "2013-12-11 00:33:21 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4198"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - pjn11
 highlights:
  - longread
  - photos

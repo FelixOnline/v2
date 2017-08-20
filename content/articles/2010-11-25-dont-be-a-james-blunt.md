@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don’t be a James Blunt...
 date: "2010-11-25 21:38:43 +0000"
-author_id: "rjc409"
 
 # Attributes from Felix Online V1
 id: "442"

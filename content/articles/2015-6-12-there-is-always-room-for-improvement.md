@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher takes a look back on his time at Imperial
 date: "2015-06-12 12:36:31 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5618"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - gb1311
 highlights:
  - comment
 

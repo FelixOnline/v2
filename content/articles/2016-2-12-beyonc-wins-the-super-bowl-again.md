@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Politically charged and gloriously celebratory
 date: "2016-02-12 11:53:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5913"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - im1413
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Debating Society brings together two cunning linguists in a furious head-to-head
 date: "2011-10-14 00:26:54 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1537"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - em208
+ - jrc309
  - sjw209
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cross Country take on Batavierenrace and come fourth
 date: "2016-04-29 11:00:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6110"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aw915
 highlights:
 
 # Homepage control params

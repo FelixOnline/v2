@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Chaudhri talks (not preaches) about why he decided to ditch animal products
 date: "2017-02-03 15:55:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6714"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - alexchaundri
  - felix
 highlights:
  - comment

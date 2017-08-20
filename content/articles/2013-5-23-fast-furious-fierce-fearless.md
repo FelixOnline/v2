@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fast & Furious 6 is furiously fun
 date: "2013-05-23 21:39:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3603"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports on the loss of CGCU’s mascot
 date: "2015-02-13 15:10:50 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5256"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - ps3110
 highlights:
 
 # Homepage control params

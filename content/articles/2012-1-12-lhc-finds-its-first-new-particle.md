@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chi_b particle helps researchers better understand the nuclear strong force
 date: "2012-01-12 22:23:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1982"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - felix
 highlights:
 

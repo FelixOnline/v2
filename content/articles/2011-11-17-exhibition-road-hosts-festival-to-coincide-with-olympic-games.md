@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Event to be similar to the 1851 Great Exhibition
 date: "2011-11-17 21:06:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1769"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nn1209
 highlights:
 
 # Homepage control params

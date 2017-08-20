@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang discusses whether fast fashion is killing luxury brands
 date: "2012-12-07 01:45:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3042"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - tna08
 highlights:
  - longread

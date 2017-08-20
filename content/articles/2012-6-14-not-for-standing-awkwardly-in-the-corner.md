@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comedy for nerds of any experience
 date: "2012-06-14 19:12:56 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2545"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - wsp10
 highlights:
 
 # Homepage control params

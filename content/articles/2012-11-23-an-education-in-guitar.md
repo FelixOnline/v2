@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi dissects Chris Forsyth’s latest album
 date: "2012-11-23 00:19:09 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2968"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ra2410
  - tna08
 highlights:
 

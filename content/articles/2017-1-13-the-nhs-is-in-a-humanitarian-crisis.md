@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Naulles discusses the government’s inability to recognise the current crisis at the NHS.
 date: "2017-01-13 14:02:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6637"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - stephennaulls
 highlights:
  - photos
 

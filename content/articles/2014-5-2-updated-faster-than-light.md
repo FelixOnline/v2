@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This game is one of the indie scene’s big success stories. Back in 2012 it was one of the most successful Kickstarter campaigns, achieving over 20 times the goal that the developers had asked for.
 date: "2014-05-02 02:00:14 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4560"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - me1711
 highlights:
 
 # Homepage control params

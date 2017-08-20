@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Expensive-ass flat yo.
 date: "2014-11-06 19:00:31 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4772"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pk1811
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All about Silwood – improvement and evolution
 date: "2012-06-01 12:38:12 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2511"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - fbs03
 highlights:
 
 # Homepage control params

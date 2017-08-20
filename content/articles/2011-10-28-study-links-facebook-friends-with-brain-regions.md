@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grey matter linked with number of friends on the social network
 date: "2011-10-28 00:16:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1628"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

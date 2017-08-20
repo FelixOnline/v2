@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four games you have to play before 2016
 date: "2015-12-12 16:02:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5816"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
  - photos

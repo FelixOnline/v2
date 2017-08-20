@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madeline and Vin present a guide to the terminology of sexual and gender identity
 date: "2015-06-04 23:48:03 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5604"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - vws11
 highlights:
  - comment
  - longread

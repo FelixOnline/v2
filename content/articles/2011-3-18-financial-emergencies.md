@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How the College can help you if you’re facing financial trouble
 date: "2011-03-18 08:58:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1116"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's happening, people.
 date: "2016-05-06 10:09:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6128"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jmt13
 highlights:
  - comment
  - longread

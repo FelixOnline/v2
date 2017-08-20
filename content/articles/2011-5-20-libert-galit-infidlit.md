@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IMF chief arrest leaves French politics in turmoil
 date: "2011-05-20 06:00:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1236"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nnk09
 highlights:
  - photos
 

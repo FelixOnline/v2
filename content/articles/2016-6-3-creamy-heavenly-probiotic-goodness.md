@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We talk yoghurt in our weekly nutrition column
 date: "2016-06-03 09:11:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6234"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

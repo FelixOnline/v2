@@ -4,7 +4,6 @@ title: >
 subtitle: >
   BBOXX, a spinout company from Imperial, brings solar energy products to developing countries has been given investment backing from a Silicon Valley venture capital company.
 date: "2013-11-24 15:39:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4097"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

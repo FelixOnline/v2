@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A ballet from the wings and a strong triple bill made for two very special evenings at Covent Garden. Dance in Britain is going strong
 date: "2011-10-16 14:27:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1546"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
 highlights:
 

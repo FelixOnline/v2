@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A quick guide to travelling around London.
 date: "2013-09-27 23:20:58 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3763"

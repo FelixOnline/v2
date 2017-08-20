@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Humans are unmistakably tied to our ape origins, says Jane Courtnell
 date: "2015-03-13 00:42:20 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5386"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jc5412
 highlights:
 
 # Homepage control params

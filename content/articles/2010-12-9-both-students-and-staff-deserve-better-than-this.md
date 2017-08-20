@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Both students and staff deserve better than this
 date: "2010-12-09 21:17:09 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "531"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ac1507
+ - felix
 highlights:
  - comment
 

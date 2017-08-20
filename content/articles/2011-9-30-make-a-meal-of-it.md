@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts wrestles with existential angst as he attempts to review restaurant chain Giraffe
 date: "2011-09-30 12:21:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1461"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
 

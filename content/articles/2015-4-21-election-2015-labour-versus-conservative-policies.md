@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken gives a break down of the policy platforms for the United Kingdom's two biggest parties
 date: "2015-04-21 13:49:49 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5467"

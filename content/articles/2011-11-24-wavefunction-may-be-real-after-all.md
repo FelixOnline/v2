@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Theorem by Imperial scientists could change our understanding of the wavefunction
 date: "2011-11-24 20:37:03 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1806"

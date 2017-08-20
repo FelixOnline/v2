@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College confirm that they have not yet discussed switching
 date: "2013-06-13 23:07:38 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3689"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

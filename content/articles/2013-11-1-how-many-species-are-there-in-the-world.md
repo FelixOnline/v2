@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett discusses the difficulties associated with determining biodiversity
 date: "2013-11-01 09:34:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3972"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ps3110
 highlights:
  - comment
 

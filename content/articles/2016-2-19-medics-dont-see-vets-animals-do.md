@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The score was 34-15 to IC Rugby 1s in their match against the King’s Medics
 date: "2016-02-19 12:29:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5947"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aja215
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It turns out that time waits for no man, or Fresher
 date: "2011-09-30 10:16:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1456"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

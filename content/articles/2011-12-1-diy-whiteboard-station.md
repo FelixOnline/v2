@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Navid Nabijou helps you to experience the fun of lectures in your own home
 date: "2011-12-01 20:41:12 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1874"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - nn1209
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Revitalized cinema prepare for 'All-Nighter'
 date: "2010-12-02 20:22:24 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "468"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jh308
  - ks607
 highlights:
 

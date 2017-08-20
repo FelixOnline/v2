@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A TV series which looks at the everyday life of your typical family
 date: "2011-12-01 20:36:11 +0000"
-author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "1873"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - js2310
+ - mh3210
 highlights:
  - comment
  - photos

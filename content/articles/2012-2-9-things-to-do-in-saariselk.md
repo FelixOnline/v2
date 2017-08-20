@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Veli Akiner ventures to northern Finland in search of snow, and finds braised reindeer, dubiously advertised toys, and long nights along the way
 date: "2012-02-09 22:47:54 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2162"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - sjw209
+ - va208
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Huge gap between offers and applicants from black and disadvantaged backgrounds even when they’re predicted the same grades
 date: "2016-06-17 08:50:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6269"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about losing touch as you age.
 date: "2012-11-29 21:42:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2979"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

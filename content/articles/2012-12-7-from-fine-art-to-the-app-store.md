@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ausrine Kersanskaite discuss a lucky break with YPlan
 date: "2012-12-07 02:04:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3044"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak8711
  - tna08
 highlights:
  - longread

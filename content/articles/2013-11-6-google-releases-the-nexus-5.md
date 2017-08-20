@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After many weeks of speculations, leaks, and overwhelming anticipation, Google has finally taken the wraps off their new flagship phone, the Nexus 5.
 date: "2013-11-06 17:22:21 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4018"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - ywc110
 highlights:
 
 # Homepage control params

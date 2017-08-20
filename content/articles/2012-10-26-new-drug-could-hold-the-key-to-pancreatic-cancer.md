@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The deadly disease is usually fatal, but a new drug may hold the key
 date: "2012-10-26 02:29:18 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2744"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - slb210
  - tna08
 highlights:
 

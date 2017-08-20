@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Frieze Fair is the glitzy international cattle market of contemporary art, but what if you’re not spending?
 date: "2010-10-21 18:45:57 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "221"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - crc08
  - jk708
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Russell Hills introduces you to Section 28 and LGBT issues
 date: "2013-01-31 23:16:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3206"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rh2009
  - tna08
 highlights:
  - photos

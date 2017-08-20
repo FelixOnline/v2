@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yiango Mavrocostanti shows you how to make a chocolate treat
 date: "2012-11-01 22:35:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2786"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - tna08
+ - ym1310
 highlights:
 
 # Homepage control params

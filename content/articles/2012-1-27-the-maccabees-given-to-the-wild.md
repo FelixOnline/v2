@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's a lot to like about the band's third album
 date: "2012-01-27 12:18:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2083"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lwl09
 highlights:
 
 # Homepage control params

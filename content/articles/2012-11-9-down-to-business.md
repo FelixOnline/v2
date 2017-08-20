@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nida Mahmud probes the latest ranking of the Business School
 date: "2012-11-09 00:25:59 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2837"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
  - photos

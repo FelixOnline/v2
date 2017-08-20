@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clubs and Societies Board decision leads to question of legitimacy
 date: "2012-05-04 00:47:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2423"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ann09
  - felix
 highlights:
  - comment

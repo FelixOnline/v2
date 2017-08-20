@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) launches a call for everyone, lecturers and students, to share their experiences of sexism
 date: "2012-11-09 00:11:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2832"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - rl1209
  - tna08
 highlights:
  - comment

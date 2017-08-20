@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Universities hit by huge reductions in 2011/12, plus additional cuts this year
 date: "2011-02-10 20:11:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "766"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

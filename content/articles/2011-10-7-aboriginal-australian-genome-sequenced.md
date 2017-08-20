@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Secrets of early humans' journey to Australia unlocked
 date: "2011-10-07 09:54:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1481"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ko407
 highlights:
 
 # Homepage control params

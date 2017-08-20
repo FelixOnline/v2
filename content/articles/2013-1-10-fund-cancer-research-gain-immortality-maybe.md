@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope on how you can get a cancer drug renamed — after you
 date: "2013-01-10 22:15:50 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3081"

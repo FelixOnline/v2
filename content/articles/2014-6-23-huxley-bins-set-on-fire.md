@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is reported that at some point last week there was a fire in the Huxley building, which is home to both the Mathematics and Computing departments.
 date: "2014-06-23 11:25:15 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4703"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - kmw13
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Whistleblower is truly an on-screen gem - shame it missed out on a box office run
 date: "2012-01-12 22:38:38 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1987"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - jgp09
 highlights:
  - comment
 

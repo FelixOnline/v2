@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Poetry Café's Poetry Unplugged night is a nice idea, but ultimately a bit shit
 date: "2010-11-11 20:24:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "333"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - er310
  - felix
 highlights:
  - comment

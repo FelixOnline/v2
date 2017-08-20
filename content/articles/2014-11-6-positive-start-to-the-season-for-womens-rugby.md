@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charlie Stephens reports on games against RVC and rivals UCL
 date: "2014-11-06 19:52:22 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4784"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ces109
  - cj914
 highlights:
  - comment

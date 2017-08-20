@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman reports back from Hollywood
 date: "2015-01-23 17:29:18 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5134"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - js5913
  - jyg11
 highlights:
  - comment

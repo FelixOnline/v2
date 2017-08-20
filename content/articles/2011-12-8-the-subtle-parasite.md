@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maya Kaushik explains the link between slow reactions and suicidal rats
 date: "2011-12-08 20:45:53 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1920"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mk6809
  - pk1811
 highlights:
 

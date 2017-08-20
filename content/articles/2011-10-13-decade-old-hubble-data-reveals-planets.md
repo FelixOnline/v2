@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Extrasolar bodies discovered using ground-based telescopes, reports Arianna Sorba
 date: "2011-10-13 22:03:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1512"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
  - photos
 

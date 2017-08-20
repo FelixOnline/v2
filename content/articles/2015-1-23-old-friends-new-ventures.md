@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Food is always the best way to catch-up
 date: "2015-01-23 18:37:09 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5144"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - jyg11
 highlights:
  - comment

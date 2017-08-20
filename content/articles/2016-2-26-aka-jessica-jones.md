@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Krysten Ritter gives an outstanding performance as the broken but determined Jessica Jones
 date: "2016-02-26 11:54:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5974"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

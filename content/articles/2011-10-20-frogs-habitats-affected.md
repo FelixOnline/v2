@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Antonio Torrisi discusses new survival guidelines as frogs migrate due to climate change
 date: "2011-10-20 20:47:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1558"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

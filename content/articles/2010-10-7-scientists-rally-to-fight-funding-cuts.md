@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Government’s Spending Review looms ever closer, and UK science research is in peril
 date: "2010-10-07 22:31:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "178"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gda07
 highlights:
  - comment
  - longread

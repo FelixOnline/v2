@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nida Mahmud wants you to stay on top of this hot button issue
 date: "2013-02-08 01:20:22 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3288"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

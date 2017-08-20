@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look into the intriguing Blythe gallery display from LeoSoc and PhotoSoc
 date: "2017-02-24 15:34:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6832"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tommutimer
 highlights:
  - photos
 

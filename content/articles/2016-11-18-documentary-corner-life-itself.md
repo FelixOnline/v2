@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Assembling the definitive life story of the world’s most famous film critic is certainly not an easy task
 date: "2016-11-18 15:36:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6480"
@@ -21,7 +20,7 @@ tags:
  - film
  - imported
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guildhall's final-year actors take on Frank Wedekind's wild classic
 date: "2015-12-02 17:08:09 +0000"
-author_id: "mff113"
 
 # Attributes from Felix Online V1
 id: "5789"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mff113
+ - sdl15
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yet more league table conundrums
 date: "2012-05-24 23:45:41 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2491"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - mc4509
 highlights:
  - comment

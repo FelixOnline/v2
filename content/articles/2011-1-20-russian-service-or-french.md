@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I prefer English service over both of them
 date: "2011-01-20 20:24:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "624"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sf305
 highlights:
  - comment
  - longread

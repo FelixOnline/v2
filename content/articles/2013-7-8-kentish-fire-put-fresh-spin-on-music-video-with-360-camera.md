@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial student's band making an ambitious music video
 date: "2013-07-08 11:39:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3743"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
 

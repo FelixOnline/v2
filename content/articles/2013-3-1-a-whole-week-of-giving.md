@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the committee and volunteers get back into the swing of work, RAG Chair David Goldsmith reflects on the week
 date: "2013-03-01 00:11:40 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3401"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmg11
  - tna08
 highlights:
  - photos

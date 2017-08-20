@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring the idea of a be-all-end-all being
 date: "2012-01-19 20:49:24 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2022"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - jhr08
 highlights:
  - comment
 

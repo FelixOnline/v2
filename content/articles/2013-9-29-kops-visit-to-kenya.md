@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kenyan Orphan Project share some amazing experiences working in Kenya
 date: "2013-09-29 16:18:19 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3788"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
  - longread

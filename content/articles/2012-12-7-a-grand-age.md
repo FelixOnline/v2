@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A cheap ticket to plays with many big names
 date: "2012-12-07 02:27:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3048"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - eb1408
  - tna08
 highlights:
  - comment

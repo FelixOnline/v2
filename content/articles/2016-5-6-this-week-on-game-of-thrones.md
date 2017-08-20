@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's series 6, episode 2!
 date: "2016-05-06 10:17:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6135"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

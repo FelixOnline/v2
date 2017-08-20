@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The device that rule them all, Motorola Atrix
 date: "2011-01-20 19:16:51 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "602"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cf308
  - nm1010
 highlights:
 

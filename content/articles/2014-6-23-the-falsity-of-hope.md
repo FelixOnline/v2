@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hope is a last resort, an admission of defeat. You hope when there is nothing left to do, nothing you can do: you can’t act, repair, work, correct or strive anymore, so you wish that things could go your way.
 date: "2014-06-23 13:14:13 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4710"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - pa07
 highlights:
 
 # Homepage control params

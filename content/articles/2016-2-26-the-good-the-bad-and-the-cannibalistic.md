@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bridging the gap between modern Westerns, Bone Tomahawk shines through
 date: "2016-02-26 11:42:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5969"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - photos
 

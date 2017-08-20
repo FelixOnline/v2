@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All this Royal Wedding tosh has got me reminiscing
 date: "2010-11-25 22:02:48 +0000"
-author_id: "ann09"
 
 # Attributes from Felix Online V1
 id: "446"

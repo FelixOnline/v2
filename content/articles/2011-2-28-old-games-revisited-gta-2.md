@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let's travel back in time to when the Grand Theft Auto series was actually good and take a look at GTA2.
 date: "2011-02-28 20:52:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "936"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
 
 # Homepage control params

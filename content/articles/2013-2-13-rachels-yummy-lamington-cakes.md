@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Australia Day has never been so tasty
 date: "2013-02-13 14:00:09 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3300"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rh1311
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Finance Society successfully hosts the Conference for its 5th year
 date: "2016-02-26 12:09:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5987"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

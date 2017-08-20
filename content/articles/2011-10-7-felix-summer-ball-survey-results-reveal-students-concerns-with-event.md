@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Common complaints centre around format change, though funfair is praised
 date: "2011-10-07 00:30:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1470"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dr710
  - felix
 highlights:
  - comment

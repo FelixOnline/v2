@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's new global MBA course launched, which will make its teaching available to the world.
 date: "2014-02-07 04:57:14 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4352"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

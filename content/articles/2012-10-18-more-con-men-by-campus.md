@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student was approached by Queen’s Gate by men selling “cheap designer clothing”
 date: "2012-10-18 21:45:26 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2721"

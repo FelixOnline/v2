@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rugby team at its best
 date: "2011-02-17 20:45:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "850"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - dmw08
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But Jack Steadman suggests otherwise (this time, anyway)
 date: "2015-06-18 21:15:46 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5637"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - jyg11
 highlights:
 

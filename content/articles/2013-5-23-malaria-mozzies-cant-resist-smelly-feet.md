@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yum yum.
 date: "2013-05-23 22:05:55 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3607"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - njk12
  - tna08
 highlights:
  - comment

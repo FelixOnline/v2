@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson finds out how much you remember from sex ed class
 date: "2015-06-04 23:39:18 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5603"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   She might be the illest doing it right now
 date: "2017-02-24 14:45:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6822"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sk2214
 highlights:
 
 # Homepage control params

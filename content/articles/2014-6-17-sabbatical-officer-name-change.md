@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week, Council agreed to change the name of the Deputy President (Clubs & Societies) and Deputy President (Finance & Services) roles to Deputy Presidents (Activities & Development) and (Activities & Finance) respectively.
 date: "2014-06-17 14:35:26 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4693"

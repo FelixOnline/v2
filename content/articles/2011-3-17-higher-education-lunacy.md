@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government's higher education 'policy' is wrecking the sector
 date: "2011-03-17 21:40:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1104"

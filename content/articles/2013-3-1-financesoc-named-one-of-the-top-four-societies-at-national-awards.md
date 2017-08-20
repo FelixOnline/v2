@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bang for your buck it seems
 date: "2013-03-01 00:39:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3406"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

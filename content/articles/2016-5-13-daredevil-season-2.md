@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let's talk about it
 date: "2016-05-13 09:26:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6162"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - hmw15
 highlights:
 
 # Homepage control params

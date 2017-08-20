@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tate Modern's exhibition explores the age-old relationship between photography and performance
 date: "2016-04-15 18:08:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6084"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - et1214
 highlights:
  - comment
  - photos

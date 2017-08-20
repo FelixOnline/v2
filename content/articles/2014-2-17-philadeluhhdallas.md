@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael S. Martin & Jack Steadman take turns to review Dallas Buyers Club
 date: "2014-02-17 19:29:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4399"
@@ -22,6 +21,8 @@ tags:
  - imported
 authors:
  - felix
+ - js5913
+ - mcm12
 highlights:
  - longread
 

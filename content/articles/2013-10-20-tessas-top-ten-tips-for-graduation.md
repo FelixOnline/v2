@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comment Editor Tessa Davey gives tips on how to survive Commemoration Day!
 date: "2013-10-20 02:38:45 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3906"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - tad08
 highlights:
  - longread
 

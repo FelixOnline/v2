@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What is the best eggy soldier of them all?
 date: "2011-11-24 21:33:37 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1823"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - pk1811
 highlights:
 

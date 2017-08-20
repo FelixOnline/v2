@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Government’s visa proposals risk catasrophe argues Ksenia Rostislavleva
 date: "2011-02-10 20:07:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "764"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kr309
 highlights:
  - photos
 

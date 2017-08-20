@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily White explains how we can easily make a change with four simple actions
 date: "2014-05-16 01:52:52 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4601"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ew510
  - jal08
 highlights:
  - longread

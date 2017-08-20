@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More than just an homage to early Spielberg films, J.J. Abram’s 2011 sci-fi adventure film Super 8 explores the relationships between families, and the tricky navigation teenagers must face as they start to leave childhood behind
 date: "2017-05-15 17:24:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6964"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mhz15
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Heath also outlines plan to introduce Postgraduate Sabbatical Officer
 date: "2012-05-04 01:22:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2427"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

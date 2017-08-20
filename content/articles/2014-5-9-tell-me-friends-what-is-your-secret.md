@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton reveals (almost) all with a look at the hot new “Secret” app.
 date: "2014-05-09 02:01:22 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4569"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - rtf08
 highlights:
  - comment
  - longread

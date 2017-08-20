@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mozart’s famous opera Die Zauberflöte was produced last week on Gloucester Road with London Youth Opera and Imperial’s own choir
 date: "2011-03-18 08:31:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1113"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ko409
 highlights:
  - comment
 

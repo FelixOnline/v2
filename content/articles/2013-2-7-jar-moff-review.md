@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Commercial Mouth
 date: "2013-02-07 22:50:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3246"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mde11
  - tna08
 highlights:
  - comment

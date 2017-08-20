@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Archbishop “hides behind banner of preserving tradition” over gay marriage statement
 date: "2012-02-23 23:04:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2262"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cc3710
  - felix
 highlights:
 

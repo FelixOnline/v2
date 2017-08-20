@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reduced funding means this year's Science Challenge is a distinctly sober affair
 date: "2011-05-05 23:35:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1147"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

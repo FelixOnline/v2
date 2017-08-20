@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Going Big, or Going Home for the candidates, as it's the last chance to gain votes.
 date: "2013-03-15 00:30:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3461"

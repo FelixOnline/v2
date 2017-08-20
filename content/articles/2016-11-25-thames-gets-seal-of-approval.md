@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emma Parkin talks seal sightings and how the Thames has cleaned up its act
 date: "2016-11-25 13:39:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6502"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - emmaparkin
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rachel Gregory describes the action
 date: "2014-01-17 04:44:31 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4264"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - rg2010
 highlights:
 
 # Homepage control params

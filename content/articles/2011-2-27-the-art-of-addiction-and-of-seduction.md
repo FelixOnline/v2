@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why have so many of Art’s greats been addicted?
 date: "2011-02-27 19:15:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "909"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - aj1008
  - felix
 highlights:
  - comment

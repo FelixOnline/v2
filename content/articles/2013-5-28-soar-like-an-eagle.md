@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lilly Le examines the intricacies of Laura Marling’s latest effort
 date: "2013-05-28 14:04:31 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3625"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little discusses why the gaming community needs to buck up its ideas if it ever wants to be taken seriously
 date: "2012-03-08 22:20:43 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2332"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - kw911
 highlights:
  - longread
  - photos

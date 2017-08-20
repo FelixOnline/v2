@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Karapetian discusses the implication of the recent hacking events
 date: "2012-01-26 22:57:20 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2071"

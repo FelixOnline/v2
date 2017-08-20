@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Toni Semmence, last year's netball captain, discusses the sanctions held against the Rubgy players
 date: "2014-11-14 21:27:17 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4896"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ts3610
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As Candy Bar, London’s award winning Lesbian bar announces that it will be closing its doors for the last time in January, this is a question that many gay and bisexual women have been asking. Candy is the latest in a long list of lesbian bars and clubs who have lost their homes in recent years...
 date: "2013-11-15 02:27:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4069"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cnm08
  - felix
 highlights:
  - comment

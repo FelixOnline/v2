@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pushing for cheaper food and drink in pubs and restaurants!
 date: "2013-10-04 00:25:24 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3797"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jt2010
 highlights:
 
 # Homepage control params

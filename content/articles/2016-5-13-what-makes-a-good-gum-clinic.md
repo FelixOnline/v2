@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Getting tested can be a fun day out
 date: "2016-05-13 09:01:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6152"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

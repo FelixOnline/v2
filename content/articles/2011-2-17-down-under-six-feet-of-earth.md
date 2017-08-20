@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s an absolutely phenomenal crime drama that is surely in league with similar themed films.
 date: "2011-02-17 19:31:48 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "818"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - nm1010
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett sips a Starbucks whilst writing about how bees get their own daily fix
 date: "2013-03-15 01:00:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3466"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

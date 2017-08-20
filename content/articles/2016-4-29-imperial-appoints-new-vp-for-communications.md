@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ex-journalist, Luke Blair, will be in charge of the college’s PR machine
 date: "2016-04-29 10:06:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6090"

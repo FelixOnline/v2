@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A personal account on the more neglected side effects of the disease: Irritable Bowel Syndrome
 date: "2016-02-26 12:02:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5982"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ec2212
 highlights:
  - comment
 

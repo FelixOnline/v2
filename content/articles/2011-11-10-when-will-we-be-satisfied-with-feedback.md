@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rector talks the talk on feedback, but will we see any improvement?
 date: "2011-11-10 20:30:02 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1713"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - pk1811
 highlights:
 

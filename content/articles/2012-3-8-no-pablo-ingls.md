@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tate Britain examines the relationship between modern British art and Picasso
 date: "2012-03-08 20:33:25 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2317"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - sc805
 highlights:
 
 # Homepage control params

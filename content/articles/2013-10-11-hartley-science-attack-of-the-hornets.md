@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona’s science corner: Attack of the hornets!
 date: "2013-10-11 23:24:37 +0100"
-author_id: "frh10"
 
 # Attributes from Felix Online V1
 id: "3827"

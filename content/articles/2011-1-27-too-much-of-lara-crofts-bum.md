@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Omar Hafeez-Bore wasn’t trying to get a better view... honest!
 date: "2011-01-27 20:27:27 +0000"
-author_id: "oh106"
 
 # Attributes from Felix Online V1
 id: "694"

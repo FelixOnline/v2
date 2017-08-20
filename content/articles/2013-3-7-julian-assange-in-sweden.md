@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christopher Reynolds reviews a biased and inaccurate account of the WikiLeaks founder’s troubles with the law
 date: "2013-03-07 23:56:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3449"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr308
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl gives you the low-down on Windows 8, RT & Pro in a title that only works on one day...
 date: "2012-10-26 02:24:14 +0100"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2741"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jp1409
+ - me1711
 highlights:
 
 # Homepage control params

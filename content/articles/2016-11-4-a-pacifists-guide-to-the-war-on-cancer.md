@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Pacifist’s Guide to the War on Cancer is on at the National Theatre until 29 November.
 date: "2016-11-04 14:25:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6392"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - ezra.kitson14
 highlights:
 
 # Homepage control params

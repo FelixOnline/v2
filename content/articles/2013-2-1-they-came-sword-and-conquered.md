@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eppeic fencing from Imperial
 date: "2013-02-01 00:31:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3230"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cl3510
  - tna08
 highlights:
 

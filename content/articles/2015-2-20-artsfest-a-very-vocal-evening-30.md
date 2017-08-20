@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Cappella and Musical Theatre came together for the midweek ArtsFest showcase
 date: "2015-02-20 00:19:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5284"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - ps3110
 highlights:
 

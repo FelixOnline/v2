@@ -4,7 +4,6 @@ title: >
 subtitle: >
   SACAs, President’s Awards and NSS scores all say the same thing
 date: "2017-06-02 12:44:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6984"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

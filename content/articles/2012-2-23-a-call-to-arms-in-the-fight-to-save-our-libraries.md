@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You! Yes you there! Considering closing libraries down?
 date: "2012-02-23 20:34:54 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2236"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - mtm10
 highlights:
 
 # Homepage control params

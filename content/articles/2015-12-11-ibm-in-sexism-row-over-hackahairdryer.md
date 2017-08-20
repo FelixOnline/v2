@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Female scientists wondered whether men would be asked to hack a beard trimmer
 date: "2015-12-11 15:27:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5812"

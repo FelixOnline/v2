@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nefeli Maria Skoufu-Papoutsaki explains new research into this potential renewable energy source
 date: "2014-12-11 20:29:47 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5027"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - fsci
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Jury has to be out” about cost-effectiveness of funding says CEO
 date: "2013-02-22 00:01:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3352"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

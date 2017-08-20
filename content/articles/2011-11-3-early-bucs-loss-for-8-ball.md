@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pool team suffer “absolute shocker” at BUCS 8-ball Championships
 date: "2011-11-03 22:03:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1697"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ec209
  - felix
 highlights:
 

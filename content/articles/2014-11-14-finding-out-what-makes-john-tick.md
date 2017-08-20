@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mario Lapore reviews JOHN, a contemporary dance show
 date: "2014-11-14 20:52:00 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4878"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ml2510
  - ps3110
 highlights:
 

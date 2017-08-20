@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A breakdown on the first Union Council session for the year.
 date: "2013-10-18 20:41:43 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3884"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mtm10
 highlights:
  - comment
 

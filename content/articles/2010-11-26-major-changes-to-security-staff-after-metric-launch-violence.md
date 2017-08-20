@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trouble at Metric launch forces security re-think at Union
 date: "2010-11-26 07:22:56 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "450"

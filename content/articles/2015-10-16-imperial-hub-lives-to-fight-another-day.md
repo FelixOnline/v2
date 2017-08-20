@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A quick Hub-date
 date: "2015-10-16 14:32:16 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5657"

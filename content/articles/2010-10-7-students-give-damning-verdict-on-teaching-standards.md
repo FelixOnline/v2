@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The College makes coursework feedback and marking a priority as Rector tells staff he is “extremely disappointed” by the National Student Survey results
 date: "2010-10-07 22:12:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "174"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

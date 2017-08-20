@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An amazing and tucked away cinema just down the road
 date: "2013-02-01 01:03:03 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3238"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as906
  - tna08
 highlights:
  - photos

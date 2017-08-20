@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Committee to look at timetable changes
 date: "2011-01-13 21:42:00 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "594"

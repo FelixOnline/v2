@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students angrily denounce College plans for halls in North Acton. Union sets out five requests of College. Distance and price highlighted as main problems with the halls. Likely to be replacement to Evelyn Gardens. Probable closure of Garden hall.
 date: "2013-02-21 23:17:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3347"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

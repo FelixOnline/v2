@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We need to end the trope that women make love, and accept that they like sex
 date: "2016-04-29 10:45:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6103"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

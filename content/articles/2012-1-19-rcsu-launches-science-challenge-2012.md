@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Overall winner to receive tour of CERN, House of Lords reception and £2,000
 date: "2012-01-19 22:41:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2034"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

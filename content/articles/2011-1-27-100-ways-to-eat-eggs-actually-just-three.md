@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ultimate fast food: Eggs!
 date: "2011-01-27 20:33:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "697"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gm1509
 highlights:
 
 # Homepage control params

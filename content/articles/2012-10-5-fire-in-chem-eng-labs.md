@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Entire Prince Consort Road closed during night
 date: "2012-10-05 16:00:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2634"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

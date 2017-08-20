@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You haven’t come to uni to be ‘re-born’; just have fun
 date: "2010-10-01 22:34:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "164"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

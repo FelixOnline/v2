@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cross country take on the Salisbury 10
 date: "2016-03-18 12:08:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6078"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aw915
+ - cdt12
 highlights:
  - comment
 

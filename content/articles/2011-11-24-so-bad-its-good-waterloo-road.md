@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Far-fetched state-school drama tops National TV Awards
 date: "2011-11-24 21:20:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1819"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National Gallery highlights the old masters’ influence on Impressionists
 date: "2016-02-26 11:58:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5978"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - et1214
 highlights:
  - comment
 

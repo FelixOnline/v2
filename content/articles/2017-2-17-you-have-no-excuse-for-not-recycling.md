@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Costa gives top tips on how to be a better human being
 date: "2017-02-17 14:36:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6782"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - giuliacosta
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don't find yourself stuck in No-Man's Land
 date: "2011-10-07 10:11:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1484"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sph109
 highlights:
 
 # Homepage control params

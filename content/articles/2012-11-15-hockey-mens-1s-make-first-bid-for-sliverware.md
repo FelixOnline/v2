@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anthony Vaquero on Men's 1sts going for gold. Well, silver...
 date: "2012-11-15 22:24:36 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2917"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - av809
  - tna08
 highlights:
 

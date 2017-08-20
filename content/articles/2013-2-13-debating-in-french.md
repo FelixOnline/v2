@@ -4,7 +4,6 @@ title: >
 subtitle: >
   French Society want you for some light reparté
 date: "2013-02-13 15:40:11 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3307"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

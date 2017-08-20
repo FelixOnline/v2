@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bombay Bicycle Club command the stage
 date: "2012-05-10 20:06:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2441"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - me1409
 highlights:
 
 # Homepage control params

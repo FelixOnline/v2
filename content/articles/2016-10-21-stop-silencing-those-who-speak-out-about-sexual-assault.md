@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anonymous explains why we need to treat sexual assault survivors with empathy, not suspicion
 date: "2016-10-21 12:51:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6347"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
  - photos
 

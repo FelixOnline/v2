@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s comedy season again, and things are kicking off in the most family-unfriendly way possible (in both a literal ‘this is a crude comedy’ and ‘this is a comedy where unfriendly acts are committed against a family’ sense)
 date: "2014-05-19 13:59:08 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4614"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

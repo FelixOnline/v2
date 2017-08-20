@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You know you want to
 date: "2016-03-18 11:33:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6053"

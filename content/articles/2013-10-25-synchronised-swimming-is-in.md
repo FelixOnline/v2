@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Welcome to IC Synchronised Swimming!
 date: "2013-10-25 01:20:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3954"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mmg110
 highlights:
 
 # Homepage control params

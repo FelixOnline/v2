@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Has political correctness become more important than free speech?
 date: "2016-01-29 08:56:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5840"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - jf1915
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cécile Borkhataria on the race to develop a drug for the deadly disease
 date: "2014-11-10 22:52:21 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4850"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - czb11
  - ps3110
 highlights:
 

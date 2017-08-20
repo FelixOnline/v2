@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ashton Carter spends his one day in the UK wondering round ICL
 date: "2015-10-16 14:21:59 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5655"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cj914
  - ygr12
 highlights:
  - comment

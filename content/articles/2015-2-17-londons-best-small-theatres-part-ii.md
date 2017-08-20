@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg returns for the second part of his theatre guide
 date: "2015-02-17 16:48:58 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5267"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mff113
  - ps3110
 highlights:
 

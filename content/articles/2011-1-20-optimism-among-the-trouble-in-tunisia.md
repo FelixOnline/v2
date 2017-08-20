@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Arab world's first popular revolution
 date: "2011-01-20 20:37:06 +0000"
-author_id: "ap1509"
 
 # Attributes from Felix Online V1
 id: "629"

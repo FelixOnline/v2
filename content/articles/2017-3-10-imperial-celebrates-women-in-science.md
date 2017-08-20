@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gender equality comes to the forefront
 date: "2017-03-10 13:16:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6865"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4812
 highlights:
 
 # Homepage control params

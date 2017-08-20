@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Henderson talks about the popular Picocon 31 guest
 date: "2014-02-21 03:20:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4424"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jh3211
 highlights:
  - longread
 

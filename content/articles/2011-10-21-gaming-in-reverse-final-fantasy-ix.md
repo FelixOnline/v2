@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Because old gold is the best gold
 date: "2011-10-21 10:26:55 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1589"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - oh106
  - sjw209
 highlights:
 

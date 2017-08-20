@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's Ultimate Frisbee makes Imperial proud in Brighton
 date: "2016-10-28 15:46:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6355"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - xinjin.ho15
 highlights:
 
 # Homepage control params

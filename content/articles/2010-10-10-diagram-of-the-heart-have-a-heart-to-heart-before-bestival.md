@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At the heart of Imperial on the weekend, all diagrams were out of mind save the endlessly energetic Diagram of the Heart. They shared their love of ginger-nut biscuits before playing Bestival this summer
 date: "2010-10-10 15:27:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "189"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lht09
 highlights:
 
 # Homepage control params

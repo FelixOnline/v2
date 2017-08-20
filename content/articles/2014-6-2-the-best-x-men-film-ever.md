@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The X-Men series has had its fair share of ups and downs over the years. The first two entries helped revive the comic book film industry (with X-2 being considered arguably the best of the genre pre-The Dark Knight), but the third film and the first spin-off received mixed reactions.
 date: "2014-06-02 13:09:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4648"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - js5913
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Give (chick)peas a chance...
 date: "2010-11-25 20:31:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "431"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - chy09
  - felix
 highlights:
 

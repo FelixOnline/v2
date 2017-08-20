@@ -4,7 +4,6 @@ title: >
 subtitle: >
   North West London hospitals and institutions set to improve local healthcare
 date: "2011-12-01 22:17:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1901"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

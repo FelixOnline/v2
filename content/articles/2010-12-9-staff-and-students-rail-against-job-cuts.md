@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Critics say teaching will be hit hardest as Life Sciences promise teaching review in January
 date: "2010-12-09 21:12:19 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "530"

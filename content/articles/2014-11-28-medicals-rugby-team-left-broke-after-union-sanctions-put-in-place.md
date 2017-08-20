@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett investigates the financial state of the team after the punishments received for smashed coach window on tour
 date: "2014-11-28 00:42:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4962"

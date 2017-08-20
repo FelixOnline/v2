@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The winning recipes are announced as Felix Food crowns its first Imperial MasterChef
 date: "2011-10-28 14:02:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1644"
@@ -21,7 +20,9 @@ tags:
  - food
  - imported
 authors:
+ - ae1409
  - felix
+ - mk4410
 highlights:
  - longread
  - photos

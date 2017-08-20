@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tired of the same old songs, or just like listening to live music? The new music scene in London is vibrant and flourishing, beginning with the Roundhouse Rising Festival next week.
 date: "2017-02-10 15:23:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6762"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - theo.farah13
 highlights:
  - comment
 

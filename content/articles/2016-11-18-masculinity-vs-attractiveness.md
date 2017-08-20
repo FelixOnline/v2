@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how nature has shaped our taste in men
 date: "2016-11-18 14:52:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6465"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sophieprotheroe
 highlights:
 
 # Homepage control params

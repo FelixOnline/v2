@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oxford follows Cambridge and Imperial and announces rise in fees
 date: "2011-03-17 20:59:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1098"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

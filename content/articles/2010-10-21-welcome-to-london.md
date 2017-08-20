@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The most irritating of London’s fashion stereotypes: boys in tight trousers and army boots, girls in Uggs and gilets beware!
 date: "2010-10-21 19:09:36 +0100"
-author_id: "stv07"
 
 # Attributes from Felix Online V1
 id: "233"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson introduces the College’s newest Vice President
 date: "2015-05-08 00:26:17 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5502"

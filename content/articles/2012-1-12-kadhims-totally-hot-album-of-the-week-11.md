@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oneohtrix Point Never – Replica – Software – 2011
 date: "2012-01-12 22:44:32 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1990"

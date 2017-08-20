@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's letters page
 date: "2016-05-20 08:52:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6175"

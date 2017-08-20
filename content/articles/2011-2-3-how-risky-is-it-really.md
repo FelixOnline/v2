@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of David Ropeik's book on fear perception
 date: "2011-02-03 20:03:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "733"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - kv07
 highlights:
 
 # Homepage control params

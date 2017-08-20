@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Record turnout as Union innovates with live voting stats
 date: "2011-03-17 20:18:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1090"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
+ - mtm10
 highlights:
  - comment
 

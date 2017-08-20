@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Should freedom of speech be given when it threatens social peace?
 date: "2015-01-16 13:22:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5097"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - smn10
 highlights:
  - comment
 

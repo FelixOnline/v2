@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Five teams through to BP's Ultimate Field Trip Challenge
 date: "2010-02-07 03:27:24 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "80"

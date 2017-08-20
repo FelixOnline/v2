@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Research suggest that methane increases are natural, not man-made
 date: "2011-02-10 20:21:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "770"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Nevola Clark finds Product’s humour dated
 date: "2015-05-15 12:56:32 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5540"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cfc111
  - cj914
 highlights:
 

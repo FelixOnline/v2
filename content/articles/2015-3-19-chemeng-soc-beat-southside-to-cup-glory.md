@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Manager Will Batchelor reports as ChemEng Soc see all their life's ambitions realised
 date: "2015-03-19 23:55:27 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5413"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - kmw13
+ - wb1312
 highlights:
 
 # Homepage control params

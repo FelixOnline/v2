@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s season six, episode eight!
 date: "2016-06-17 09:33:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6284"
@@ -21,7 +20,7 @@ tags:
  - tv
  - imported
 authors:
- - felix
+ - hjw13
 highlights:
 
 # Homepage control params

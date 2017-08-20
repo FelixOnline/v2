@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson on the stories behind your relationship statuses
 date: "2015-06-04 23:33:48 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5600"

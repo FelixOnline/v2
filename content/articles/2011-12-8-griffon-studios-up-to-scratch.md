@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A term of initial occupancy issues for new postgraduate accommodation
 date: "2011-12-08 19:59:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1905"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cc3710
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Children is on at the Jerwood Theatre (Royal Court Theatre) until 14th February 2017
 date: "2016-12-02 14:57:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6534"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - adam.gellatly14
 highlights:
 
 # Homepage control params

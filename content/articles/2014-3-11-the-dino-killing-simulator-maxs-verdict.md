@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Orion: Dino Horde is a multiplayer FPS currently available on Steam for £11.99. The game’s main aim is to co-operate with your team mates while you fend off hordes of vicious dinosaurs. While the low score of 36 on Metacritic, which was actually for Dino Beatdown (the previous iteration of this game
 date: "2014-03-11 18:11:54 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4479"

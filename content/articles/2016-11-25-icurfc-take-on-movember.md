@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No moustaches were hurt during the writing of this piece
 date: "2016-11-25 15:02:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6520"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aoz15
 highlights:
 
 # Homepage control params

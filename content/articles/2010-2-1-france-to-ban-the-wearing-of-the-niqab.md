@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James lees tell us how France is to ban the wearing of the niqab
 date: "2010-02-01 17:30:54 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "67"

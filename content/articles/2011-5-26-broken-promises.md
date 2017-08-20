@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Council haven’t delivered on the teaching review
 date: "2011-05-26 19:27:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1261"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - apk06
  - felix
 highlights:
  - comment

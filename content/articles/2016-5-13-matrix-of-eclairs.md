@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX reviews Maitre Choux, a snazzy patisserie in South Kensington
 date: "2016-05-13 09:34:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6165"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
 
 # Homepage control params

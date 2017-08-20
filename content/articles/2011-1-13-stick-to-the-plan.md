@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You have sworn on your grandma’s life you’ll travel more in 2011 – now keep that promise. Dylan Lowe offers tips on staying faithful to your travel plans
 date: "2011-01-13 20:46:58 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "585"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ks607
+ - yll08
 highlights:
 
 # Homepage control params

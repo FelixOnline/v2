@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lef Apostolakis joins the protesters and asks them whether recent developments have given British politics a second wind
 date: "2017-02-03 15:12:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6709"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
  - longread
  - photos

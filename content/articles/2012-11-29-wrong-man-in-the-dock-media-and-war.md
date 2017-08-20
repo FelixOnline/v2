@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A weekend of Stop the War activities, discussed by Kelly Ameneshoa
 date: "2012-11-29 22:46:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2989"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ka207
  - tna08
 highlights:
  - longread

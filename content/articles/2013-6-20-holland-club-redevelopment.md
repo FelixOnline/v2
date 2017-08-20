@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year the Holland Club was closed, much to the annoyance of many staff and postgraduates. I take a tour of the redevelopment
 date: "2013-06-20 23:47:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3727"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
  - longread

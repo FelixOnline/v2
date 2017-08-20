@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The organisers give you the low down...
 date: "2013-01-25 02:17:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3194"
@@ -22,7 +21,13 @@ tags:
  - imported
  - image
 authors:
+ - am10810
+ - dc1611
+ - ll708
+ - mk2008
+ - rk610
  - tna08
+ - uk310
 highlights:
  - longread
  - photos

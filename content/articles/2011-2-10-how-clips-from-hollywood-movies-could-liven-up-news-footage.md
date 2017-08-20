@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What other situations could be covered with blockbuster film footage?
 date: "2011-02-10 21:12:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "796"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjc409
 highlights:
 
 # Homepage control params

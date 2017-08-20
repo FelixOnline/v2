@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt investigates the daily life of the student newspaper.
 date: "2015-02-02 14:25:33 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5177"

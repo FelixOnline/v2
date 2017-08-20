@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New pilot scheme aims to put degrees in a 'broader context'
 date: "2012-01-12 22:09:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1980"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

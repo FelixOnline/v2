@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Angels in America is on at the National Theatre. Normal tickets are sold out but hundred of £20 tickets are being released by ballot. NT Live will begin streaming performances from the 20th of July.
 date: "2017-05-15 17:10:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6958"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

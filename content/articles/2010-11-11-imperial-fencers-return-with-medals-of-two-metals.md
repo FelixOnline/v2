@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charlotte Levin reports on London Team Trophy success
 date: "2010-11-11 20:52:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "346"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cl3510
  - felix
 highlights:
 

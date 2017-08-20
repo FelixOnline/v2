@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week’s tour guide is Sanchit Sharma. Feel free to ask him any questions
 date: "2013-06-13 22:37:03 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3680"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ss9011
  - tna08
 highlights:
  - longread

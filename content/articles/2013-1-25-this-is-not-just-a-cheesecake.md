@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a Yiango Mavrocostanti cheesecake...
 date: "2013-01-25 01:33:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3180"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1310
 highlights:
  - photos
 

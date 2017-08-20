@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizabeth Richards reports on the winning performances of the Boat Club so far
 date: "2011-12-08 20:37:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1916"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er208
  - felix
 highlights:
 

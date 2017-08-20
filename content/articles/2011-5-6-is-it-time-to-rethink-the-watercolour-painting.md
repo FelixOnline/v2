@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New Tate Britain exhibition challenges preconceptions about watercolour as a medium
 date: "2011-05-06 08:54:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1164"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rm2410
 highlights:
  - comment
 

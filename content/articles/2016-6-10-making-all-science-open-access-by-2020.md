@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Should all scientific papers be openly available to anyone?
 date: "2016-06-10 08:24:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6254"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - wd1515
 highlights:
 
 # Homepage control params

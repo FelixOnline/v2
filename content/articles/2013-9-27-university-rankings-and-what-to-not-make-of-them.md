@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shiladitya Ghosh briefs you on College's ranking prowess...
 date: "2013-09-27 23:40:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3765"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - sg4812
 highlights:
  - comment
  - longread

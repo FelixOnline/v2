@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New comedy series has more sex than Imperial, dammit
 date: "2011-10-13 22:46:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1517"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

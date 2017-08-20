@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meredith Thomas interviews Jennifer Louise Martin on the male gaze
 date: "2013-06-05 19:00:43 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3661"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - tna08
 highlights:
  - longread

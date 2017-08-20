@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We head down to the opening night of the ICA’s Buñuel retrospective, where a selection of his key films – Un Chien Andalou, Eating Sea Urchins, and L’Age D’Or – display his mastery of the surreal.
 date: "2015-11-20 09:23:35 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5754"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ma7512
  - ygr12
 highlights:
  - comment

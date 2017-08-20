@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Famer explores Imperial's sordid history
 date: "2014-11-06 18:42:25 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4766"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nf311
  - ps3110
 highlights:
  - comment

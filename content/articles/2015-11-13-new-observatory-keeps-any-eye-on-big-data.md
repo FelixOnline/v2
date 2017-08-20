@@ -4,7 +4,6 @@ title: >
 subtitle: >
   KPMG are sponsoring a big data suite that will visualise data for businesses, scientists and students
 date: "2015-11-13 14:21:41 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5720"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pnk14
  - ygr12
 highlights:
  - comment

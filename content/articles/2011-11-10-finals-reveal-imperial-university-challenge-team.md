@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cross-College team members set their sights on Paxman
 date: "2011-11-10 19:48:42 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1706"

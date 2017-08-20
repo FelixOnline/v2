@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The 'secret' Tie Clubs are the target of a new Council paper
 date: "2017-03-17 13:06:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6898"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

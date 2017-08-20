@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Osama Awara discusses the modern weaponisation of hacking
 date: "2015-01-23 18:09:50 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5139"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - oa1612
 highlights:
  - comment
 

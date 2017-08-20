@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam reviews Livescribe’s new infrared superpen
 date: "2011-10-13 23:07:42 +0100"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1520"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Temperatures rise at BUCS Sprint Triathlon
 date: "2013-05-16 17:54:48 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3575"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - eh508
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports on Council’s damning motion
 date: "2014-11-14 20:03:22 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4865"

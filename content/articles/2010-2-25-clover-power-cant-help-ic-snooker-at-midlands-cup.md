@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hard luck for IC in tournament
 date: "2010-02-25 18:41:51 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "104"

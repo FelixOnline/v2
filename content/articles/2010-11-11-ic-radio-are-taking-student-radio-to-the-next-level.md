@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's student radio station is undergoing a revival says Dan Fowler
 date: "2010-11-11 21:22:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "360"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - df106
  - felix
 highlights:
 

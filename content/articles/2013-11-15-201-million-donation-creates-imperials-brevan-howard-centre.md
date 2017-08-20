@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brevan Howard - the third largest hedgefund in the world, has made a historic £20.1 million donation towards the set up of ‘The Brevan Howard Centre’ at Imperial College London
 date: "2013-11-15 02:16:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4059"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - zr313
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More money raised for RAG
 date: "2012-03-15 21:20:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2378"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jph210
  - pk1811
 highlights:
  - comment

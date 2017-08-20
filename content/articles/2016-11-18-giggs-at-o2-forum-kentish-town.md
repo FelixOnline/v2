@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The impressive set of an impressive performer
 date: "2016-11-18 15:43:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6484"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sk2214
 highlights:
 
 # Homepage control params

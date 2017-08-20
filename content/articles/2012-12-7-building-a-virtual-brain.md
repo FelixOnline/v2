@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A step closer to an artificial human brain? Pavitar Devgon discusses
 date: "2012-12-07 01:39:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3039"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pd111
  - tna08
 highlights:
  - photos

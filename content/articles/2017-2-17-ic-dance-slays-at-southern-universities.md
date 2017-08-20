@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dat pelvic arch most certainly does not spout inaccuracies
 date: "2017-02-17 16:27:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6805"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - scc114
 highlights:
  - comment
 

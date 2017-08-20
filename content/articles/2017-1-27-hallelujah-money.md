@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They're back
 date: "2017-01-27 16:48:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6697"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - samwood
 highlights:
  - photos
 

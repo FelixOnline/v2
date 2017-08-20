@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia reviews the new Life Story series
 date: "2014-11-24 20:42:50 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4958"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gg2110
  - ps3110
 highlights:
  - comment

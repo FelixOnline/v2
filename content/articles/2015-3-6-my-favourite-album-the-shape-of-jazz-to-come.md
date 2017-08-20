@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland shows us the power and beauty of Ornette Coleman's masterpiece
 date: "2015-03-06 13:18:48 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5350"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
 

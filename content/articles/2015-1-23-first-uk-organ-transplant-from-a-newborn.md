@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer on the new procedure performed at Imperial
 date: "2015-01-23 17:46:30 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5135"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jb3112
  - jyg11
 highlights:
  - comment

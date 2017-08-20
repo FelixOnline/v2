@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First female Vice-Chancellor
 date: "2012-01-12 21:54:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1975"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - felix
 highlights:
 

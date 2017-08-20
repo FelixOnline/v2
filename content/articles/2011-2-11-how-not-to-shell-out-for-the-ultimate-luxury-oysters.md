@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aki Matsushima shows you how to impress and indulge your date on the cheap
 date: "2011-02-11 06:56:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "803"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - am709
  - felix
 highlights:
 

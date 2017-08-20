@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shock and horror. JK
 date: "2017-05-12 16:13:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6934"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

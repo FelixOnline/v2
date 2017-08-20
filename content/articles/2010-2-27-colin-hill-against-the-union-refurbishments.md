@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Colin Hill against the union refurbishments
 date: "2010-02-27 17:09:41 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "112"

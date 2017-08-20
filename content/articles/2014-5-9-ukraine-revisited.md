@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly offers useful insight on the politics behind the current situation in Ukraine
 date: "2014-05-09 02:10:53 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4575"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - jal08
 highlights:
 

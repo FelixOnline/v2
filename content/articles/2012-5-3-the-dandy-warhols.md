@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aditya Narayanan starts a mosh pit in Kentish Town
 date: "2012-05-03 17:52:14 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2407"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - an406
 highlights:
 
 # Homepage control params

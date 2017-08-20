@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Council votes against declaring all mascots inviolate
 date: "2016-12-09 11:57:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6561"

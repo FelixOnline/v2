@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah revisits Malaysian Night - now as a non-performing/producing outsider
 date: "2014-03-10 10:06:37 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "4474"

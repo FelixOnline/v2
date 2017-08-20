@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Richard Keller on a relaxing sojourn in Zurich
 date: "2011-06-02 20:19:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1321"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rk09
 highlights:
  - comment
 

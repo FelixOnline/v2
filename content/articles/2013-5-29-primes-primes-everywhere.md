@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mathematicians get closer to solving one of the greatest problems in number theory.
 date: "2013-05-29 17:29:01 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3637"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - agr06
  - tna08
 highlights:
 

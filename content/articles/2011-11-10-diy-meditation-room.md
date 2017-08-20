@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Navid Nabijou embarks on a spirituo-materialistic journey
 date: "2011-11-10 22:21:00 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1746"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nn1209
  - pk1811
 highlights:
  - photos

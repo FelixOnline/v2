@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RCSU initiative is now in its 9th year
 date: "2015-12-11 15:23:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5811"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - aa15712
 highlights:
 
 # Homepage control params

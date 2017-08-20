@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Research from the 60s vindicated by new developments
 date: "2012-01-19 20:05:35 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2005"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - mtm10
  - pk1811
 highlights:
 

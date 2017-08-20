@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi on Supersonic’s 10th year
 date: "2012-10-26 03:14:22 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2770"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ra2410
  - tna08
 highlights:
  - longread

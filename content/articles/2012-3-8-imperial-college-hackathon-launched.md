@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Applications abound as students take to their screens, writes Sangjin Lee
 date: "2012-03-08 21:01:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2321"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sl3810
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The most pant-wettingly scary Halloween ever
 date: "2010-10-28 19:17:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "257"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jj1909
 highlights:
 
 # Homepage control params

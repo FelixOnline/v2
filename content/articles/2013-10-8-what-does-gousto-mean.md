@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah got the answer through the post
 date: "2013-10-08 03:17:59 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3818"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - jal08
 highlights:
  - longread

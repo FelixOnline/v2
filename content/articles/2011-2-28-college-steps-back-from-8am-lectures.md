@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reduced lunch hour still on the cards
 date: "2011-02-28 21:21:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "945"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dr710
  - felix
 highlights:
  - comment

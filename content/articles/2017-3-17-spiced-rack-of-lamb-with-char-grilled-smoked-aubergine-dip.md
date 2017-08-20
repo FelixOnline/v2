@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lamb season will be starting in a couple weeks and this means only one thing – you are allowed to enjoy a fancy meat you normally ignore for the easier to cook beef or pork. Get ready to salivate with this easy to make lamb delicacy.
 date: "2017-03-17 17:26:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6915"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aib116
 highlights:
  - comment
 

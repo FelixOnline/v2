@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I’m thankful that I’m not from a country whose culture relies on such awful drinks
 date: "2016-04-29 10:31:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6096"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - pa07
 highlights:
  - comment
 

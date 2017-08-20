@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But he’ll never face true justice at the Hague argues Naida Dzigal
 date: "2011-06-02 19:09:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1303"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nd507
 highlights:
  - comment
  - longread

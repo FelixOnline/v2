@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Side Effects gets four stars
 date: "2013-03-15 02:18:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3488"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

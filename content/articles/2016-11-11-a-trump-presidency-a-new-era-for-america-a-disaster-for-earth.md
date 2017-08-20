@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lara Bailey discusses how US politics will affect the future of our planet
 date: "2016-11-11 15:53:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6427"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - le14
 highlights:
 
 # Homepage control params

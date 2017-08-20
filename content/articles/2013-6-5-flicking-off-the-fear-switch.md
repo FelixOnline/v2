@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Some people are afraid of nothing. They should try a thermodynamics exam. That would scare them.
 date: "2013-06-05 16:10:57 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3655"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lap08
  - tna08
 highlights:
  - photos

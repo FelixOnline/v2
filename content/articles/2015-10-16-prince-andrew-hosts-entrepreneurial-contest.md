@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sixth in line to the throne visits Imperial
 date: "2015-10-16 14:05:12 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5654"

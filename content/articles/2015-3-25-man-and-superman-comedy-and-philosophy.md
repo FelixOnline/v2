@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emiel de Lange revels in life’s big questions at the National’s new production
 date: "2015-03-25 13:19:38 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5448"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ed812
  - ff712
 highlights:
  - comment

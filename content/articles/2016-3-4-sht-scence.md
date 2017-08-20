@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists left hanging over left handed fish conundrum
 date: "2016-03-04 11:40:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6004"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

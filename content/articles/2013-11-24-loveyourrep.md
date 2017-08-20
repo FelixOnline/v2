@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rep Week is starting on Monday and provides a platform to celebrate the great changes that have taken place with the help of your Academic Representation Network. Just last month a record number of students voted in our Your Rep Elections and there are now over 430 Academic Reps working...
 date: "2013-11-24 15:48:52 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4098"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nk609
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £732,571 was made in total internationally
 date: "2014-12-09 13:49:03 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5018"

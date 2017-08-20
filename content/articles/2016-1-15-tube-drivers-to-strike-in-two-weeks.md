@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London Underground drivers are set to strike this month, and twice in February, after a union ballot on Monday
 date: "2016-01-15 11:21:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5827"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

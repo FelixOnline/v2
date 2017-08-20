@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mario Lapore takes a look at the National Theatre's new, dynamic production
 date: "2014-12-18 15:53:48 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5063"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - extuser0
  - ff712
 highlights:
 

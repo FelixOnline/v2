@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Beaumont makes the case for altering the Union Constituion
 date: "2012-10-18 21:14:31 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2695"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pres
  - tna08
 highlights:
  - comment

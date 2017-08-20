@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It all started as friends in halls. The Christmas tradition started in 2008, and by 2009 we’d first discovered gingerbread together. Since then, it’s escalated, trying to be bigger and better each year. In a true Imperial spirit, we’ve taken a scientific, competitive approach.
 date: "2016-12-16 16:06:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6622"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - tad08
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Excessive drinking clampdown enforced at Reynolds bar
 date: "2011-01-13 21:38:32 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "593"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - klb09
 highlights:
  - comment
 

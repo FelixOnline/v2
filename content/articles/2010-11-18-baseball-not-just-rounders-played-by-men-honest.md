@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An introduction to the Imperial baseball team. By Hugh McDowell
 date: "2010-11-18 21:19:11 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "405"

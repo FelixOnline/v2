@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over 400 postgraduates will join seven Imperial doctoral training centres in the next five years.
 date: "2013-12-02 12:27:03 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4144"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - nm708
 highlights:
  - comment
 

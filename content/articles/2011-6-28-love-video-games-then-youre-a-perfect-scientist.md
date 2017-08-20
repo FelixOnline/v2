@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Robertson explains how gamers explore and learn just like scientists
 date: "2011-06-28 10:52:59 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1437"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dr1010
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ....a bit
 date: "2017-06-02 12:48:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6988"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

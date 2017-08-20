@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Just the results, and a link or two...
 date: "2013-03-19 13:17:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3496"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

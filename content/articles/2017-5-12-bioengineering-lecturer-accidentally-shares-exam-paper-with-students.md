@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oops
 date: "2017-05-12 16:51:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6942"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

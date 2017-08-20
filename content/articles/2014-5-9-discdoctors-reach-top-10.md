@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Parker reports from Manchester
 date: "2014-05-09 15:53:46 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4590"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - epp11
  - jal08
 highlights:
 

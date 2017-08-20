@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Angry Gamer gets all angry
 date: "2012-11-29 22:53:15 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2991"
@@ -21,6 +20,7 @@ tags:
  - games
  - imported
 authors:
+ - fgames
  - tna08
 highlights:
 

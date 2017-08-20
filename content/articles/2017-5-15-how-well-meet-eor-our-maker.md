@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Riach discusses the subtleties of a meteor apocalypse
 date: "2017-05-15 17:37:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6966"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

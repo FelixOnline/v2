@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One Imperial student discusses their time at uni, wishing things would “get better” faster
 date: "2017-02-10 14:35:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6757"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
  - longread

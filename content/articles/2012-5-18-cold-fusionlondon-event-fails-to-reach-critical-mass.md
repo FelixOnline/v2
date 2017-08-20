@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fallout as event loses over £15,000
 date: "2012-05-18 06:14:07 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2458"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - rsp07
+ - tna08
 highlights:
  - comment
  - longread

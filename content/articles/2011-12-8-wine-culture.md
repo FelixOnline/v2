@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Five things to know about red and white wines
 date: "2011-12-08 21:43:37 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1943"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - pk1811
 highlights:
  - comment

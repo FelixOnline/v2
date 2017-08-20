@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Pratt speaks to Adam KAy about music, Imperial and medicine: The deadly combination.
 date: "2013-12-06 03:52:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4181"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jp1910
 highlights:
  - longread
 

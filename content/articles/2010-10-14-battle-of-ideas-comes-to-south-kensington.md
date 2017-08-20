@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gilead Amit interviews Claire Fox, Director of the Institute of Ideas, ahead of its weekend of debates at the Royal College of Art
 date: "2010-10-14 19:13:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "199"
@@ -28,6 +27,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gda07
 highlights:
  - comment
  - longread

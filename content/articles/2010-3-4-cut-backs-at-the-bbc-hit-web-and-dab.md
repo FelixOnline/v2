@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The BBC pre-Tory cut backs mean the loss of BBC 6 Music and Asian network plus 25% cut from BBC online
 date: "2010-03-04 13:14:08 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "120"

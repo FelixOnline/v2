@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LA Philharmonic's performance is a tour through favourites old and new.
 date: "2016-03-23 14:50:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6080"
@@ -24,7 +23,8 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - jc7413
+ - jtm14
 highlights:
  - comment
 

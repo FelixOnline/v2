@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Online petition aims to bring matter to Parliament debate
 date: "2011-10-13 21:14:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1506"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
+ - nn1209
 highlights:
  - comment
 

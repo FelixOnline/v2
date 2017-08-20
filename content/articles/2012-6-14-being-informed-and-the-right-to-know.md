@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whether imposing further diagnostics as a mandatory procedure expands or limits a patient's rights is a question worth considering
 date: "2012-06-14 19:37:10 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2548"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ann09
 highlights:
  - photos
 

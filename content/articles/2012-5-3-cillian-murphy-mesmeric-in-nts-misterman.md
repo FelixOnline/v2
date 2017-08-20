@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A surreal and messy depiction of reality where the sublime is twisted up with the violent and a young person lives in squalor and his own inner world
 date: "2012-05-03 17:38:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2404"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ck806
  - felix
 highlights:
 

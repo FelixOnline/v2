@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Female rappers rarely talk about sex from any position of power
 date: "2016-05-06 09:59:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6127"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

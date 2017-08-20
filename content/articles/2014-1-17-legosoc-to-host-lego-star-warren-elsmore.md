@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you ever wondered how giant LEGO models are made, Warren Elsmore’s book Brick City shows you how!
 date: "2014-01-17 03:13:07 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4228"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dh611
  - jal08
 highlights:
 

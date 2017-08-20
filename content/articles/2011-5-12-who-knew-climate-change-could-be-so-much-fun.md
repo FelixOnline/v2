@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Bowers becomes a global dictator while reviewing Fate of the World
 date: "2011-05-12 18:41:25 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1197"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb908
  - sjw209
 highlights:
  - comment

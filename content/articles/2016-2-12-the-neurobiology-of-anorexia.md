@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A glimpse into the calorie counting culture promoted by fitness apps
 date: "2016-02-12 11:26:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5901"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

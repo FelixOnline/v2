@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Old people have always had it in for BBC3. Unlike the sleepy old BBC4, home of gentle documentaries presented by the lovely Lucy Worsley, BBC3 is an overactive puppy, full of rebellion and naïve excitement that spends most of its spare time engaged in an act of passion with the living room furniture
 date: "2014-03-26 13:23:44 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4499"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jb3112
 highlights:
 
 # Homepage control params

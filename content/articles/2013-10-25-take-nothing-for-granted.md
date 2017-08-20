@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “In the world according to Garp, we are all terminal cases. “
 date: "2013-10-25 00:14:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3925"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ie411
 highlights:
 
 # Homepage control params

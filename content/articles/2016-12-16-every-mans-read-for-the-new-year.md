@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Roth's profoud novel tests our values
 date: "2016-12-16 15:03:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6611"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jc7413
 highlights:
  - photos
 

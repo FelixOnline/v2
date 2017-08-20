@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George gives his thoughts on the latest mental health survey
 date: "2015-05-29 01:00:26 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5577"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - ps3110
 highlights:
  - comment

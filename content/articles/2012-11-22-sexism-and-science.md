@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sexism is everywhere: it’s about time we grew up and realised this
 date: "2012-11-22 23:57:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2952"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mrangry
  - tna08
 highlights:
  - comment

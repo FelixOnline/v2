@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Martin Asprusten writes a poem about his exam woe to the tune of The Raven by Edgar Allan Poe
 date: "2013-05-16 17:44:13 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3571"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mla09
  - tna08
 highlights:
 

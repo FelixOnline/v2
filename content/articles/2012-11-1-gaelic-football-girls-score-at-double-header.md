@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The hype, pure shock and amazement created by this move by Woman of the Match Ami provided the catalyst for a vigorous, heartfelt and inspiring comeback from Imperial....
 date: "2012-11-01 23:07:40 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2811"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - fsport
 highlights:
 
 # Homepage control params

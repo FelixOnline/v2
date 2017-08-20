@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's 7s football report
 date: "2011-05-20 02:51:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1212"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - acj06
  - felix
 highlights:
 

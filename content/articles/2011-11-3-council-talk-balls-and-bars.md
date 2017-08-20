@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Independent Summer Ball investigation to be launched
 date: "2011-11-03 19:36:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1653"
@@ -25,7 +24,10 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
+ - mtm10
+ - nn1209
 highlights:
  - comment
  - longread

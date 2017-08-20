@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland examines the Royal Court’s new piece of Palestinian theatre
 date: "2015-03-03 14:11:56 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5320"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - km2612
  - ps3110
 highlights:
  - comment

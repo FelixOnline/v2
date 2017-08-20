@@ -4,7 +4,6 @@ title: >
 subtitle: >
   City and Guilds Rugby prepare for international Sevens tournament in Berlin. Max Joachim reports
 date: "2011-06-12 16:27:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1370"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mj107
 highlights:
 
 # Homepage control params

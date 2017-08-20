@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last up we have Nintendo and like last year they’re opting for a “Digital event” instead a press conference like the other big two.
 date: "2014-06-11 21:43:39 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4673"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mb1111
  - me1711
 highlights:
 

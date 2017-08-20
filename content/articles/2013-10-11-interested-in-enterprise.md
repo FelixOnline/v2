@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Hub Project: Become a mentor for school businesses
 date: "2013-10-11 23:08:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3824"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - lwl09
 highlights:
 
 # Homepage control params

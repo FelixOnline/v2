@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union plans all day festival and moves away from formal dinner setup
 date: "2011-02-17 19:21:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "815"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
 highlights:
  - comment

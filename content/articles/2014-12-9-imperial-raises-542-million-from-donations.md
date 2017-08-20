@@ -4,7 +4,6 @@ title: >
 subtitle: >
   5,403 donors contributed to the £54 million raised
 date: "2014-12-09 13:47:15 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5017"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - czb11
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spoiler Alert: If you haven’t seem The Hobbit yet, stop reading
 date: "2014-01-24 09:54:21 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4284"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - pa07
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mindlessly erotic - Elizaveta looks at Egon Schiele's works
 date: "2014-11-06 21:49:04 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4809"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - et1214
  - snb11
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sometimes saying no doesn’t get you out of demonstrating
 date: "2014-01-24 09:54:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4285"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - gta
  - jal08
 highlights:
 

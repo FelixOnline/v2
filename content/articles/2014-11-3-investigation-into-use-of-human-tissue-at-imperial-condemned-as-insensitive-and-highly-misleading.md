@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Royal British Legion and Imperial College London hit back at accusations made by the Mail On Sunday
 date: "2014-11-03 11:24:57 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4756"

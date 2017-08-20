@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can you imagine getting chucked out of university because of your personal life?
 date: "2010-10-28 19:48:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "278"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - blacksheep
  - felix
 highlights:
  - comment

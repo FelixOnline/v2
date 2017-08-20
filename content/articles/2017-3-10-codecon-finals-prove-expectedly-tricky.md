@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Firefighter Tim” posed particular difficulties
 date: "2017-03-10 13:08:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6862"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mattrego
 highlights:
 
 # Homepage control params

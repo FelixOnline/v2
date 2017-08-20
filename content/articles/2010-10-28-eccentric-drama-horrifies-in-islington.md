@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Insti2ute is half theatre and half 'House of Horrors'
 date: "2010-10-28 19:15:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "256"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

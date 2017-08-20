@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whether it’s extreme violence, naked ladies, or weird psychos, there are films that are simply big no-nos
 date: "2012-02-16 21:10:03 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2185"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ffilm
  - pk1811
 highlights:
  - comment

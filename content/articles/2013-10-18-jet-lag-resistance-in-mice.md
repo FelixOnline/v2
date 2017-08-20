@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They don’t suffer like you after a long flight, Fiona Hartley explains
 date: "2013-10-18 21:16:47 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3890"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - frh10
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A shameless plug by IC Atheists, Secularists and Humanists
 date: "2013-02-07 23:09:33 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3253"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jjp10
  - tna08
 highlights:
 

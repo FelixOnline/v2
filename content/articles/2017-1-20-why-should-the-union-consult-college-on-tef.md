@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deputy President Education gives us his side
 date: "2017-01-20 14:51:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6654"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - lm2912
 highlights:
 
 # Homepage control params

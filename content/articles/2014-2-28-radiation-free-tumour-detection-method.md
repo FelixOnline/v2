@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body.
 date: "2014-02-28 07:20:24 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4447"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jb3112
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A different set of highlights from Sunday's events
 date: "2012-03-01 22:36:20 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2288"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ffilm
 highlights:
 
 # Homepage control params

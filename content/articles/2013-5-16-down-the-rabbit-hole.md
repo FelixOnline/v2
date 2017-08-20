@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James and the Rabbit Hole at the Uni Music League
 date: "2013-05-16 15:13:26 +0100"
-author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "3568"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jms411
  - js2310
 highlights:
 

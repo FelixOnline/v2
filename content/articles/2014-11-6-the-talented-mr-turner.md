@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park's Ramblings about Mr Turner
 date: "2014-11-06 19:22:26 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4777"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - snb11
 highlights:
  - comment

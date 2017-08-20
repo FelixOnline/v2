@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The company more famous for boycotts has £6.5 million deal with college
 date: "2016-06-03 08:32:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6223"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

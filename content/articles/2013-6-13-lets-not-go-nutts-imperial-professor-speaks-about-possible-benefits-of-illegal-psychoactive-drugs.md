@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But is the government suppressing research? Philippa Skett takes a look at Nutt’s latest paper
 date: "2013-06-13 22:44:19 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3681"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

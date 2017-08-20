@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELA! is a shocking window into 70s Nigeria
 date: "2010-12-12 17:10:45 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "556"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ck806
  - ks607
 highlights:
 

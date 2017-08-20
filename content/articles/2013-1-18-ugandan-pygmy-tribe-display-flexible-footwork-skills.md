@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ankles indicated to give them their extraordinary climbing ability
 date: "2013-01-18 00:19:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3129"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - njk12
  - tna08
 highlights:
  - comment

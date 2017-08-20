@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Amna Samar Askari discusses her thoughts on a changing genre
 date: "2014-11-10 21:52:25 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4829"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - asa713
  - ps3110
 highlights:
  - comment

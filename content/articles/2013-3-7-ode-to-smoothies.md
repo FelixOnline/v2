@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How to get your 5 a day whilst still downing pints
 date: "2013-03-07 21:50:57 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "3431"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - aeg09
+ - jb408
  - sjw209
 highlights:
 

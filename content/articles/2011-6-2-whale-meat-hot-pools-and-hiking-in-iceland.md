@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guo Heng Chin spends two weeks in the great Icelandic outdoors
 date: "2011-06-02 20:15:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1319"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
  - longread
 

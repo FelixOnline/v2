@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports as Business Economics module is investigated
 date: "2015-01-29 23:36:31 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5153"

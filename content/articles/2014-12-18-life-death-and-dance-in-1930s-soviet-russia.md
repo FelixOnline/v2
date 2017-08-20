@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is impressed by GRAD's exploration of USSR ballet The Bolt
 date: "2014-12-18 16:21:15 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5075"

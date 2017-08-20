@@ -4,7 +4,6 @@ title: >
 subtitle: >
    you've won again
 date: "2010-01-10 01:29:25 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "21"

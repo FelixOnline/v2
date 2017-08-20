@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If FemSoc say it wasn’t sexist, were the union’s actions justified?
 date: "2016-02-12 11:24:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5900"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bdw14
 highlights:
  - comment
  - photos

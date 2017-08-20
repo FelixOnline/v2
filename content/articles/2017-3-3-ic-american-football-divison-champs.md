@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 1s are smashing the competition
 date: "2017-03-03 16:18:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6858"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gatisogle
 highlights:
 
 # Homepage control params

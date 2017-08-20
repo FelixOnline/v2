@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More ICT trouble as students and staff lose access to files
 date: "2011-02-28 21:19:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "944"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - felix
 highlights:
 

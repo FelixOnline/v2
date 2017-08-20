@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To celebrate the release of Carol, we take a look over some of the best sapphic power-couples on the silver screen
 date: "2015-12-06 14:53:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5809"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
  - longread

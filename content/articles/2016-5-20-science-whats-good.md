@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our weekly science round-up
 date: "2016-05-20 09:04:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6180"
@@ -21,7 +20,7 @@ tags:
  - science
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

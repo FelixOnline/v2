@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Around one billion euros worth of art has been discovered in the home of an 80 year old man in Munich.
 date: "2013-11-08 09:44:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4034"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - as1911
  - felix
 highlights:
  - comment

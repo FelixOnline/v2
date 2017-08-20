@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Petition to protect popular cultural and social venue attracts support
 date: "2012-05-18 06:04:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2456"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

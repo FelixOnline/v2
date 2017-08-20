@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why Liberty and Democracy don’t mix
 date: "2011-12-01 21:20:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1888"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sph109
 highlights:
  - comment
 

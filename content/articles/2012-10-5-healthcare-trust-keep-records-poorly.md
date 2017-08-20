@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Systematic errors found. Cancer patients details lost. Councils send letter to Trust Chair.
 date: "2012-10-05 15:50:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2631"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

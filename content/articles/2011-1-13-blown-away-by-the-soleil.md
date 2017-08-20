@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Think Pocahontas, but on adrenaline
 date: "2011-01-13 19:22:57 +0000"
-author_id: "dhl106"
 
 # Attributes from Felix Online V1
 id: "564"

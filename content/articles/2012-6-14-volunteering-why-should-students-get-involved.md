@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the upcoming launch of the Imperial Hub next week, Caroline Wood discusses volunteering opportunities at university
 date: "2012-06-14 19:58:25 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2554"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - csw09
  - mc4509
 highlights:
  - longread

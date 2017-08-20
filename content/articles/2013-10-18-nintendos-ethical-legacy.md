@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Nintendo's positive influence on the younger generation
 date: "2013-10-18 21:26:31 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3891"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - jal08
 highlights:
  - longread

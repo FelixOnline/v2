@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Research could aid global fight against parasitic infections. By Camilla Ruz
 date: "2011-05-12 16:27:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1188"

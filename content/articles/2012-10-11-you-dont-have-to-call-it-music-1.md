@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 1 Contemporary classical
 date: "2012-10-11 21:25:28 +0100"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2675"

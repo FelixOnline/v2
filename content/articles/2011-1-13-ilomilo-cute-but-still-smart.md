@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Worthington reviews new puzzle game ilomilo, on Xbox Live Arcade or Windows Phone
 date: "2011-01-13 19:54:40 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "571"

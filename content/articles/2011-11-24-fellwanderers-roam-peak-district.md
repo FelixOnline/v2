@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Walking around in Derbyshire is all in a day's work for the fellwanderers
 date: "2011-11-24 22:58:22 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1845"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr1411
  - pk1811
 highlights:
 

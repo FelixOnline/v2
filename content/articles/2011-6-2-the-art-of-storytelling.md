@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guo Heng Chin guides us through the nuts and bolts of a good story
 date: "2011-06-02 20:10:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1318"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
  - longread
  - photos

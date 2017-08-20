@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey explores what it is about coach travel that makes people so inconsiderate.
 date: "2016-12-09 15:39:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6575"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICSM Boat Club cycle nearly 300km to Paris for RAG
 date: "2016-03-04 11:55:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6013"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - js5311
+ - lir14
 highlights:
  - comment
 

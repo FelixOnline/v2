@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New hall in Waterloo takes its place
 date: "2012-05-10 19:17:11 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2432"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mc4509
  - pk1811
 highlights:
  - comment

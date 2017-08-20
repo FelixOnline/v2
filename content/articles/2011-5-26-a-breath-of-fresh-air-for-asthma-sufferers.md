@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Possible alternative to steroid-based inhaler treatments
 date: "2011-05-26 19:20:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1258"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jp1010
 highlights:
 
 # Homepage control params

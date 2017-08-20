@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Crouch and Anna Perman remember Martin Milligan and look deeper into the problem of homelessness in the UK
 date: "2011-02-17 19:48:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "826"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - ap1310
+ - ec610
  - felix
 highlights:
 

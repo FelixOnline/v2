@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discovery of asbestos pushes back launch date even further
 date: "2010-10-21 19:49:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "251"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

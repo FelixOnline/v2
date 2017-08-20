@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Winters on how the music scene at Imperial could be much improved
 date: "2012-06-07 20:01:16 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2536"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jbw108
  - mc4509
 highlights:
  - comment

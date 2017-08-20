@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto talks death and dubstep with lead guitarist Will Jones, ahead of the Felix Music Night
 date: "2012-01-27 12:38:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2085"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - im808
 highlights:
  - longread
 

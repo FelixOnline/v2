@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No unlimited tuition fees after all
 date: "2010-11-04 19:07:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "325"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - za710
 highlights:
 
 # Homepage control params

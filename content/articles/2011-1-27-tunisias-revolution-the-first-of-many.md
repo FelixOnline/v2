@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The overthown Tunisian Government as people come to streets.
 date: "2011-01-27 19:19:14 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "666"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mma09
  - nm1010
 highlights:
  - comment

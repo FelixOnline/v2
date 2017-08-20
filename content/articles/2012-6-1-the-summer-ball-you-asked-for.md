@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new format, but where's the enthusiasm?
 date: "2012-06-01 12:31:20 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2510"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - mc4509
 highlights:
  - comment

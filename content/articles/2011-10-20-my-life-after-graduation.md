@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anum Farooq on how getting your degree is just the beginning
 date: "2011-10-20 23:20:37 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1580"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - sjw209
 highlights:
  - comment

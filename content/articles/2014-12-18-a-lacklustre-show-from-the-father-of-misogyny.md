@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The long-awaited Allen Jones Retrospective is panned by Fred Fyles
 date: "2014-12-18 16:05:18 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5066"

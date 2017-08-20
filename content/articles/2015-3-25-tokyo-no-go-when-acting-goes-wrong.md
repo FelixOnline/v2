@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Arianna Sorba finds bad acting deflates Harajuku Girl’s fine script
 date: "2015-03-25 13:02:42 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5443"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as1911
  - ff712
 highlights:
  - comment

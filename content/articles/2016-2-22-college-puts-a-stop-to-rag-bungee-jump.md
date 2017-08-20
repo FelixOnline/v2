@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite knowing about it since November, college officials have decided to stop the charity event just three days beforehand
 date: "2016-02-22 18:53:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5952"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

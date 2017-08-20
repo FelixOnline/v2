@@ -4,7 +4,6 @@ title: >
 subtitle: >
   That's right, fear of being without your mobile
 date: "2012-05-18 06:34:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2463"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - en08
  - felix
 highlights:
  - comment

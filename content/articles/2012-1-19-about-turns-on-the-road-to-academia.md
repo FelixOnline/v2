@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With Nature citing the number of PhDs as “growing like mushrooms”, is the doctorate in need of reform?
 date: "2012-01-19 19:47:22 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2000"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - bg310
 highlights:
 
 # Homepage control params

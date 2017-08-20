@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews the latest film about Martin Luther King
 date: "2015-02-09 19:04:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5217"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - ps3110
 highlights:
  - photos

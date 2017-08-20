@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We need to talk about Lemonade
 date: "2016-04-29 10:36:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6098"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - im1413
 highlights:
  - comment
  - longread

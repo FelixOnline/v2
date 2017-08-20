@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A retrospective of everyone's favorite colorado based satirical cartoon
 date: "2016-10-10 12:42:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6322"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ad4013
  - felix
 highlights:
 

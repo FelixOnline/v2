@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson on the recent speech by Jo Johnson concerning international students
 date: "2015-06-04 23:18:14 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5597"

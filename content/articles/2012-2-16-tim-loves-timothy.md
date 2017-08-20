@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah discusses the five-decade-spanning James Bond series
 date: "2012-02-16 20:59:48 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2180"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - tna08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Woody Allen’s confusing and highly questionable private life has once again been thrust into the open with Dylan Farrow’s accusation of being molested by him when she was seven.
 date: "2014-02-17 17:22:47 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4390"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - extuser0
  - jal08
 highlights:
 

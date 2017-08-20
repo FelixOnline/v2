@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a colleague reported his social media updates, he found himself demoted from his management position
 date: "2015-11-19 22:28:24 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5743"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - toc15
  - ygr12
 highlights:
 

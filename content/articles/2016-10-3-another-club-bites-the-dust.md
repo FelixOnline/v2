@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One less place to tick off in freshers’ week
 date: "2016-10-03 17:04:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6302"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mjj15
 highlights:
  - comment
 

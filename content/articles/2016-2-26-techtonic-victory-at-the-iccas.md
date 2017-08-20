@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The all-male A Cappella group is officially off to New York for the finals in April
 date: "2016-02-26 12:07:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5985"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - rjp114
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park awards just two stars to The Face of Love
 date: "2014-12-04 19:45:17 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5004"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jgp09
 highlights:
 
 # Homepage control params

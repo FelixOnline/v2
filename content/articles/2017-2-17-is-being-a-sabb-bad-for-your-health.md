@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer worries that the Union is not doing enough for its sabbatical officers
 date: "2017-02-17 14:30:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6780"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

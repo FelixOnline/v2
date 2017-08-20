@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A group of academics at Imperial have created a tool that is able to rank the most influential speakers on any topic.
 date: "2013-11-08 03:38:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4020"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nm708
 highlights:
  - comment
 

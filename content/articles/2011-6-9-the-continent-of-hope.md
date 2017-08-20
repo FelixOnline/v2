@@ -4,7 +4,6 @@ title: >
 subtitle: >
   asfgadfasdfad
 date: "2011-06-09 20:21:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1340"
@@ -21,6 +20,7 @@ tags:
  - phoenix
  - imported
 authors:
+ - dyo10
  - felix
 highlights:
 

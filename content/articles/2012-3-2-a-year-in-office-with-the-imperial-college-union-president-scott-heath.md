@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix interviews Union President Scott Heath about another year of significant changes: to higher education and to Imperial College itself
 date: "2012-03-02 01:26:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2304"

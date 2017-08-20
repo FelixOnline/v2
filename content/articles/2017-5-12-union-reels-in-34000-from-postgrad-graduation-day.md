@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ka-ching!
 date: "2017-05-12 16:48:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6941"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

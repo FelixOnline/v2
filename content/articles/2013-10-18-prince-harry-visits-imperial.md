@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Royal visits the Royal British Legion Centre for Blast Injury Studies on the South Kensington Campus
 date: "2013-10-18 20:34:51 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3883"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - jal08
 highlights:
  - comment

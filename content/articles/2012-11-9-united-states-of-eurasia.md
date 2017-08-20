@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The college’s Europe-centric approach to overseas study is something we should change.
 date: "2012-11-09 12:07:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2844"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dh08
  - tna08
 highlights:
  - comment

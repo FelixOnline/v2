@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s the first of December tomorrow, so this is like, OK and that. Luke Baldwin on what Christmas is all about.
 date: "2012-11-29 23:09:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3005"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lb1411
  - tna08
 highlights:
  - comment

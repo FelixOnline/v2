@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National Gallery in a way you've never seen before
 date: "2011-10-21 11:25:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1598"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In an email to Chemistry students sent on 19 March, Professor Alan Armstrong has been named as the new head of the Chemistry Department.
 date: "2014-03-24 03:26:25 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4491"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - pk1811
 highlights:
 
 # Homepage control params

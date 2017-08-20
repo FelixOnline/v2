@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Furse takes a critical look at a highly praised feminist work
 date: "2012-03-01 21:35:40 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2277"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - sf305
 highlights:
  - comment
 

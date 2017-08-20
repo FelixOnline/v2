@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fun fun fun
 date: "2017-06-02 12:25:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6982"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

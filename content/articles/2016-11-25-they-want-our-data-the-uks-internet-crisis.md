@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dan Slocombe shares hic concerns about the orwellian future we are headed towards
 date: "2016-11-25 13:34:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6498"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - danslocombe
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster shares his experiences of Eurogamer 2012
 date: "2012-10-05 11:34:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2599"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rw507
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Celebrate ALL the science
 date: "2016-10-07 17:09:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6313"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mer113
 highlights:
  - longread
  - photos

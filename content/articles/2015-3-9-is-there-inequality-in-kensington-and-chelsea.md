@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fatima Iftikhar thinks it’s time that we get involved with our area
 date: "2015-03-09 18:58:05 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5373"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fi412
  - ps3110
 highlights:
  - comment

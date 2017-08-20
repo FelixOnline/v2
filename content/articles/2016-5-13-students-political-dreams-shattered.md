@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He obviously wasn’t going to win standing for Labour in Kensington
 date: "2016-05-13 08:49:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6142"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

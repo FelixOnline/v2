@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jasper Menkus reviews the event
 date: "2014-10-17 15:10:14 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4735"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jsm212
  - kmw13
 highlights:
  - comment

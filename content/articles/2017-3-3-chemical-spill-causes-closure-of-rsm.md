@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four ambulances and two fire engines were called to the site
 date: "2017-03-03 18:46:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6860"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

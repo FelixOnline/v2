@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-20 09:17:56 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5752"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - bsc14
  - ygr12
 highlights:
 

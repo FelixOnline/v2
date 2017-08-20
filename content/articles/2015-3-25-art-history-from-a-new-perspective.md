@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aleksandra Berditchevskaia goes behind the scenes at the all new View Art Festival
 date: "2015-03-25 13:08:12 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5444"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - icanon
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A far-fetched idea but new Union menu is a hit
 date: "2010-10-28 19:44:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "272"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gm1509
 highlights:
 
 # Homepage control params

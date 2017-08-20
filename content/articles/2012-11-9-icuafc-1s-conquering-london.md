@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Henry Garner and Chris Nielsen bring you up to speed on their dominance
 date: "2012-11-09 14:38:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2877"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cn1311
+ - hg1010
  - tna08
 highlights:
  - longread

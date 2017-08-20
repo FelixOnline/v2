@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “I’m sorry, but you have no right to dictate to me what I have to say.”
 date: "2010-12-02 21:10:54 +0000"
-author_id: "hj408"
 
 # Attributes from Felix Online V1
 id: "487"

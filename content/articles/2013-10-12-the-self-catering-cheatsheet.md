@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sage(!) advice on how to shop, cook and eat smart - fresher’s 15 begone!
 date: "2013-10-12 19:55:30 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3860"
@@ -21,7 +20,9 @@ tags:
  - food
  - imported
 authors:
+ - cac111
  - jal08
+ - ykc111
 highlights:
 
 # Homepage control params

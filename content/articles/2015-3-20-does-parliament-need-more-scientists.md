@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer talks to Lord Winston about his experience in politics
 date: "2015-03-20 00:46:46 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5415"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jb3112
 highlights:
  - longread
 

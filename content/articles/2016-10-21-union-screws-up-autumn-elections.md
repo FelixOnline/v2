@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Days without election mistake: 0
 date: "2016-10-21 09:26:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6338"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - so515
 highlights:
 
 # Homepage control params

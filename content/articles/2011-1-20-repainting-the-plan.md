@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What are you supposed to do when you leave Imperial?
 date: "2011-01-20 20:53:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "635"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - smauthoo
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The days of the printed newspaper are numbered, argues Marie-Laure Hicks, as the salad days of social media see a decline in the printing of broadsheets and Berliners
 date: "2011-12-08 20:03:21 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1907"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - mh3210
 highlights:
  - longread
  - photos

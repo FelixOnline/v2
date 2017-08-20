@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not excited for Christmas? Maybe it’s because your parents lied to you
 date: "2015-12-15 12:47:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5820"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - vmh14
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman is less than entranced by Stoppard’s classic drama
 date: "2015-03-25 12:55:02 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5439"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - js5913
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles thinks that the National Theatre's latest production is a snappy, comedic diamond in the rough
 date: "2015-03-30 14:36:07 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5459"

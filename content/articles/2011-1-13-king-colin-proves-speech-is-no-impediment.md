@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As an actor, Firth is given the entire film to show off and takes advantage of every single moment
 date: "2011-01-13 19:39:53 +0000"
-author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "567"

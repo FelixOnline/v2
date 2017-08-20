@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Search begins for replacement
 date: "2011-01-27 18:11:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "650"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

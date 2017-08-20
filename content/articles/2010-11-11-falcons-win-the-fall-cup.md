@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Baseball Club win British University Cup. By Arun Krishnan & Kevin Ling
 date: "2010-11-11 20:49:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "345"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - khl107
 highlights:
 
 # Homepage control params

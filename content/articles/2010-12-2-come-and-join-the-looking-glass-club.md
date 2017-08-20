@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We meet Imperial alumnus Gruff Davies, who launched his sci-fi novel last week in Southside Halls
 date: "2010-12-02 20:01:43 +0000"
-author_id: "lm08"
 
 # Attributes from Felix Online V1
 id: "457"

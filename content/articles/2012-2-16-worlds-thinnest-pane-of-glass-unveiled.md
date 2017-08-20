@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Semi-accidental discovery made during the experimental production of graphene
 date: "2012-02-16 21:51:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2199"

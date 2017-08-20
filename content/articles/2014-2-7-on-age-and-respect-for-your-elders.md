@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Respect your elders” is a mantra that I always felt was redundant.
 date: "2014-02-07 05:07:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4358"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - extuser0
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Poppy Pinnock: IC vs. Essex
 date: "2012-10-18 21:08:53 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2690"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
 

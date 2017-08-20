@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Preview of DramSoc's provocative play
 date: "2011-02-27 18:19:49 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "905"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Being a foetus is fun”: daydreaming begins before birth
 date: "2010-11-04 18:40:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "305"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kt108
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial and King's College singers take the stage
 date: "2011-11-24 22:26:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1834"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - gp1510
+ - io709
 highlights:
 
 # Homepage control params

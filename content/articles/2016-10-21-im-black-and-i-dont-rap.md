@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chimdi Igwe discusses the use of the infamous n-word in rap and how the expansion of the genre beyond the Black community doesn't give you a free pass to use it.
 date: "2016-10-21 10:06:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6340"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cji14
+ - so515
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sailing Club Trip to Wales
 date: "2011-01-13 20:24:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "580"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gm508
 highlights:
  - comment
  - longread

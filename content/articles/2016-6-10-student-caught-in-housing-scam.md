@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Imperial student paid a deposit on house he hadn't seen, before discovering the 'landlord' didn't exist
 date: "2016-06-10 08:16:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6248"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

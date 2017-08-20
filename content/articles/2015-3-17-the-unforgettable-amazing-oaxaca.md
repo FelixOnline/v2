@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lost yourself in paradise alongside Aditya Narayanan in this paradise
 date: "2015-03-17 14:40:55 +0000"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5398"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - an406
  - ync111
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham offers some novel dress-up ideas this year
 date: "2013-10-25 00:58:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3944"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ef510
  - felix
 highlights:
 

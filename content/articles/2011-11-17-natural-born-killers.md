@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon on what makes some people become psychopaths
 date: "2011-11-17 20:27:24 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1758"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pd111
  - sjw209
 highlights:
 

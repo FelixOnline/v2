@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charity fads raise money for animal testing, but should the public should be better informed?
 date: "2014-11-06 18:14:33 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4760"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ma1307
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg delves into on-stage psychosis at the BAC
 date: "2015-02-07 19:17:15 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5207"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mff113
  - ps3110
 highlights:
  - comment

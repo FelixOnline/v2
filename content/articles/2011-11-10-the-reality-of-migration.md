@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New research investigates the environmental links with migration
 date: "2011-11-10 20:58:26 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1722"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kp2209
  - pk1811
 highlights:
 

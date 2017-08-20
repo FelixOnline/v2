@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Richard Thomas is the first lecturer at Imperial to encourage iPhones, Androids, and other smartphones in his lectures. Lizzie Crouch attends her first maths class in over six years to find out more!
 date: "2010-10-28 19:56:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "283"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ec610
  - felix
 highlights:
  - comment

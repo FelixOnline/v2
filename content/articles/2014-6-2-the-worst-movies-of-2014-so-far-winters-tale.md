@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The film’s vomit-inducing tagline, “this is not a true story, this is true love” should give seasoned film viewers a vague idea as to the kind of cheesy territory the film is headed towards. But nothing can possibly prepare you for the kind of bonkers rubbish Winter’s Tale has in store...
 date: "2014-06-02 12:55:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4643"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

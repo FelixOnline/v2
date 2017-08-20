@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Like a good meal, steak as the main and planets on the side
 date: "2013-10-12 19:27:57 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3854"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - me1711
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Battle of Ideas
 date: "2012-10-11 20:42:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2650"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jr1709
 highlights:
 
 # Homepage control params

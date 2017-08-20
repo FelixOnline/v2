@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eye candy – Ian Somerhalder
 date: "2011-01-27 20:06:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "685"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - smg10
 highlights:
  - comment
 

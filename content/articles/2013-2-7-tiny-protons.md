@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are protons all coot and ickle?
 date: "2013-02-07 23:21:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3258"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - tna08
 highlights:
 

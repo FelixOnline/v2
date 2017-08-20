@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I knew we were having problems when we were fighting over bread
 date: "2010-02-12 01:58:55 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "85"

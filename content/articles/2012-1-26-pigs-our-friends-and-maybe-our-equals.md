@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Could our porcine chums be out of the frying pan?
 date: "2012-01-26 23:10:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2074"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rjd08
 highlights:
  - comment
 

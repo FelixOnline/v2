@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How an educational charity is bringing art back to the masses
 date: "2014-01-17 03:47:52 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4241"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - im1413
  - jal08
 highlights:
 

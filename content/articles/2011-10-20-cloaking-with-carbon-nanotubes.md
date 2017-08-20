@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven provides an update on the latest forays into invisibility
 date: "2011-10-20 21:01:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1559"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maija-lisa Han reports on the 4th International Mediterranean Open
 date: "2011-02-17 20:56:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "856"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mh2109
 highlights:
 
 # Homepage control params

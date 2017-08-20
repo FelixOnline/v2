@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can Google’s “cheap” phone stand up to the high-end without killing your budget?
 date: "2013-01-24 21:21:46 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3159"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - ywc110
 highlights:
 
 # Homepage control params

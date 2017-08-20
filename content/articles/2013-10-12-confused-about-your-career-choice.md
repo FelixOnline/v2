@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Careers Service gives you tips on choosing your future career path.
 date: "2013-10-12 20:03:32 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3862"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

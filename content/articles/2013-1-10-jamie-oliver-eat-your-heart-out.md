@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie's 15 minute meals that actually take about 150 minites
 date: "2013-01-10 23:02:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3103"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - srg109
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The due date has already been pushed back two months
 date: "2017-03-17 13:00:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6896"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

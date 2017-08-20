@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman champions Tom Stoppard’s right to the title
 date: "2015-03-25 12:51:56 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5438"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - js5913
 highlights:
  - longread
 

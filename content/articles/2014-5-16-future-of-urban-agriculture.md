@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Food looks where else our lettuce could come from
 date: "2014-05-16 02:11:25 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4604"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ykc111
 highlights:
 
 # Homepage control params

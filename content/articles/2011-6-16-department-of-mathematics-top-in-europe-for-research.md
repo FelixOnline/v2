@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial ranked 13th in world, above any non–US institution overall
 date: "2011-06-16 19:43:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1385"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ak6309
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Film with a fresh approach on the issue of oft-hated investment bankers
 date: "2012-01-12 22:41:21 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1989"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - jgp09
 highlights:
 
 # Homepage control params

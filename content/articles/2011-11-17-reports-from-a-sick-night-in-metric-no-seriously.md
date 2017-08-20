@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1774"

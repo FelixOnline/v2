@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alcohol is a drug and it's time we include it the converastion
 date: "2017-06-09 15:34:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7020"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - theo.farah13
 highlights:
 
 # Homepage control params

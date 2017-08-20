@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following huge success at the University of York, the fashion and dance project hits the London universities
 date: "2011-10-21 11:08:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1595"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - extuser0
  - felix
 highlights:
  - comment

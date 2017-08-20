@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A certain fresher (who shall remain nameless) really showed how well he will fit in with the club!
 date: "2012-11-01 23:15:17 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2819"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - fsport
 highlights:
 
 # Homepage control params

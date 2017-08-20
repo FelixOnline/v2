@@ -4,7 +4,6 @@ title: >
 subtitle: >
   iCU Cinema and MTSoc join forces in a night of high transvestitism
 date: "2011-11-24 22:47:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1842"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

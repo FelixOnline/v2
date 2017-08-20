@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government's proposals are fair
 date: "2010-11-11 21:36:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "364"

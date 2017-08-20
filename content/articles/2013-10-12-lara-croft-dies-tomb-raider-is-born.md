@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tomb Raider 2013 provides the long awaited origin story
 date: "2013-10-12 19:29:29 +0100"
-author_id: "ir112"
 
 # Attributes from Felix Online V1
 id: "3855"

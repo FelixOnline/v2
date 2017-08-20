@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski explores one of the best and most influential graphic novels
 date: "2014-02-07 04:50:45 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4348"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

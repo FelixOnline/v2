@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ahlul Bayt event dispels stereotypes about women in Islam
 date: "2010-10-28 19:11:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "254"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sh1507
 highlights:
  - comment
 

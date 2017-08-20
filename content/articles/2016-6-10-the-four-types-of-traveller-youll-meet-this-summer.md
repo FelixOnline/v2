@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Angry grad is coming to you from Thailand, and this is what she’s found
 date: "2016-06-10 08:20:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6251"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - the angry grad
 highlights:
 
 # Homepage control params

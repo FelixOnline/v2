@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Hartley explores how green a city will actually be. Can the hopes be true? Do we have a trendsetter(/badass) on our hands?
 date: "2012-11-22 23:20:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2946"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - frh10
  - tna08
 highlights:
 

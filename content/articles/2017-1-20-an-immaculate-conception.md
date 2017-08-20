@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Barrafina strikes again, causing two food babies to spring from nowhere with delights such as croquetas, carabineros and milhojas. Confused? Read on.
 date: "2017-01-20 15:39:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6674"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

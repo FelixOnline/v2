@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "M83 managed to get the crowd disgustingly sweaty"
 date: "2012-10-18 21:27:28 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2707"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lwl09
  - tna08
 highlights:
  - comment

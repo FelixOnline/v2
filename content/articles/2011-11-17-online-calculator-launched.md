@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Prospective students to have increased access to financial support information as new package approaches
 date: "2011-11-17 21:04:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1768"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

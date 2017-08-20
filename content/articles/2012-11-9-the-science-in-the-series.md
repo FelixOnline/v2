@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Astrid Armgarth has a nerdy fascination with Bones
 date: "2012-11-09 13:27:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2858"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aa18810
  - tna08
 highlights:
 

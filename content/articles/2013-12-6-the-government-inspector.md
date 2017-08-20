@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DramSoc’s winter play this year is Nikolai Gogol’s satirical comedy The Government Inspector. Banned by the tsarist government of Imperial Russia on its first publication, the play makes a mockery of the stupidity, greed and corruption of the officials of a small provincial town
 date: "2013-12-06 04:14:05 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4193"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felart
  - jal08
 highlights:
  - comment

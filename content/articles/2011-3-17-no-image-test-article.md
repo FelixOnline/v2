@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No image test article
 date: "2011-03-17 20:23:42 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "1091"

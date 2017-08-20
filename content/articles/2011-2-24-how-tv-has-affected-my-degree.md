@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do people actually revise without the TV in the background?
 date: "2011-02-24 19:25:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "861"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb607
  - felix
 highlights:
 

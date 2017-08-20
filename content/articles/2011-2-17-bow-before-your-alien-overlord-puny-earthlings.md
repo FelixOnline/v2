@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An exclusive interview with techno-deity Raath-Mon-Tet
 date: "2011-02-17 20:18:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "838"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gep07
 highlights:
  - comment
 

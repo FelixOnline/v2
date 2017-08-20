@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pro-democracy protests in Syria continue despite violence
 date: "2011-06-09 21:45:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1355"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bc1209
  - felix
 highlights:
  - longread

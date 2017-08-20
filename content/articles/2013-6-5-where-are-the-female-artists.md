@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guerrilla girls going ape
 date: "2013-06-05 18:22:00 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3660"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
  - longread

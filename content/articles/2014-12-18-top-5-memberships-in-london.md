@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Leese looks at the capital's best art memberships
 date: "2014-12-18 15:38:37 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5056"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - extuser0
  - ff712
 highlights:
  - comment

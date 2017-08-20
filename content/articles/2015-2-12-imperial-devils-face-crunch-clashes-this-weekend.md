@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ollie Ford on ice hockey's three crucial games
 date: "2015-02-12 22:40:03 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5242"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ojf13
  - ps3110
 highlights:
 

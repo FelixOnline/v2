@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rick Santorum... more queer than a strangely frothy mixture
 date: "2012-05-10 20:07:48 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2442"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jwk11
  - pk1811
 highlights:
 

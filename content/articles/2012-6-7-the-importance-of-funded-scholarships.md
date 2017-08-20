@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not every student has the luxury of a healthy bank balance
 date: "2012-06-07 19:50:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2534"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - extuser0
  - felix
 highlights:
  - comment

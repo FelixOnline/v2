@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonny Clowes dishes the dirt on Hockey’s latest foreign travels
 date: "2012-10-11 21:32:17 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2681"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - jlc08
 highlights:
  - longread
 

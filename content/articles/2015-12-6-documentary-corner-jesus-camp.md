@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's film is a chilling look at the meeting of right-wing politics and fundamentalism
 date: "2015-12-06 14:42:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5807"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bsc14
 highlights:
  - comment
 

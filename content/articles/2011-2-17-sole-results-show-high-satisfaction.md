@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Results of the 2010 Autumn Student Online Evaluation (SOLE) survey released
 date: "2011-02-17 19:43:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "824"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

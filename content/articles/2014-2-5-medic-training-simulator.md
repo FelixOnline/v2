@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Transplanting the fun back into simulator games
 date: "2014-02-05 10:29:30 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4335"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Royal British Legion provides £5m towards understanding roadside bomb injuries
 date: "2011-12-08 20:03:06 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1906"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - pk1811
+ - skd09
 highlights:
 
 # Homepage control params

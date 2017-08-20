@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven, Abhimanyu Chugh and Simon Worthington tell us what they hope they'll see in the next 50 years.
 date: "2011-11-03 18:25:21 +0000"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1650"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ac1108
  - fa608
+ - sjw209
 highlights:
 
 # Homepage control params

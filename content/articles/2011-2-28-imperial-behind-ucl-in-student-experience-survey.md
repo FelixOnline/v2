@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Loughborough top the poll for the fifth year running
 date: "2011-02-28 21:16:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "943"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ann09
  - felix
 highlights:
 

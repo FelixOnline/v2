@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Congress might be taking things a step too far
 date: "2012-05-24 23:14:21 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2486"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jwk11
  - mc4509
 highlights:
  - comment

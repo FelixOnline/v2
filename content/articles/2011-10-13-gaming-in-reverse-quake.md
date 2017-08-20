@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Omar Hafeez-Bore on why old games get better when you pretend they’re new
 date: "2011-10-13 22:31:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1514"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - oh106
 highlights:
 
 # Homepage control params

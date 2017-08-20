@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Ogbonna shares the many highs and lows of adjusting to London culture
 date: "2016-10-21 10:25:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6341"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - do1114
+ - so515
 highlights:
  - longread
 

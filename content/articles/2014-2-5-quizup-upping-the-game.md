@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The quiz-gaming sensation storming the nation.
 date: "2014-02-05 10:27:15 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4334"

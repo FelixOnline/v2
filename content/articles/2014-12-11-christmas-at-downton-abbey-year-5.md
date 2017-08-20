@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park is looking forward to the Christmas Special
 date: "2014-12-11 21:19:10 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5036"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jgp09
 highlights:
  - comment
 

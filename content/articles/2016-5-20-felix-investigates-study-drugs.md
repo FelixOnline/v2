@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let’s be realistic. Should you take them and are they legal?
 date: "2016-05-20 09:02:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6179"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
  - longread
  - photos

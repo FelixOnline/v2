@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben's second column on volunteering activities around Imperial
 date: "2013-10-12 20:05:24 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3863"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - baf12
  - jal08
 highlights:
 

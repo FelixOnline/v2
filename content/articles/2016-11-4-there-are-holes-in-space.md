@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Holes in space legislation, that is
 date: "2016-11-04 12:53:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6382"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - danel.medelbekov
 highlights:
 
 # Homepage control params

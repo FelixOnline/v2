@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scheme will be put in place next academic year
 date: "2015-05-08 00:10:19 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5499"

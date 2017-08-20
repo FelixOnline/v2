@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl looks at Apple’s latest expected and unexpected products
 date: "2012-11-01 22:40:12 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2788"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - me1711
 highlights:
  - comment
  - longread

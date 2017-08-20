@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Self quizzes Mindy Lee, curator of Imperial’s Blyth Gallery
 date: "2010-10-10 15:21:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "187"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

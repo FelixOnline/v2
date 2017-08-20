@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The clock was fixed students and alumnus
 date: "2015-02-05 23:47:22 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5198"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - snb11
 highlights:
  - comment
 

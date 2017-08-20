@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Ashford on Clapham’s best summer offering
 date: "2011-06-12 15:50:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1364"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aja07
  - felix
 highlights:
 

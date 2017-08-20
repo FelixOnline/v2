@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The classic cooking show : Master Chef
 date: "2011-02-24 19:42:12 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "866"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - dhl106
  - nm1010
 highlights:
 

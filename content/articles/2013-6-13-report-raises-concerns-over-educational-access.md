@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bursary and outreach programmes praised but improved participation needed
 date: "2013-06-13 23:22:13 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3692"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
  - longread

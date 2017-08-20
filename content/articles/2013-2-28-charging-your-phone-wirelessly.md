@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will the lack of Wires (or lack thereof) ever conspire to be desired?
 date: "2013-02-28 17:35:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3380"
@@ -28,6 +27,7 @@ tags:
  - imported_comments
 authors:
  - tna08
+ - ywc110
 highlights:
  - comment
 

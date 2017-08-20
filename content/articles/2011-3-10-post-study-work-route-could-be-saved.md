@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Willetts suggests that government is considering reforming, not scrapping, the post-study work route
 date: "2011-03-10 19:35:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1053"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

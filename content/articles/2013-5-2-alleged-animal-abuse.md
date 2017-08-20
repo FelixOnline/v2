@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Undercover investigation on standard of animal care at Imperial Researchers alleged to not understand terms and abuse animals Allegations to be investigated by Imperial Letter calling for independent inquiry delivered to Home Office
 date: "2013-05-02 14:16:35 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3539"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jal08
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science Editors Alexander Karapetian and Kelly Oakes bring you an inside look into snowflakes
 date: "2011-12-08 20:38:48 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1917"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ko407
 highlights:
  - longread
 

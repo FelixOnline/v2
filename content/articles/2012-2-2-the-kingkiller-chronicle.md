@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Patrick Rothfuss' bestselling fantasy epic
 date: "2012-02-02 20:59:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2100"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - pk1811
 highlights:
  - comment

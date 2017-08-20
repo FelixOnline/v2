@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mike Peacock reports on the crushing of Surrey
 date: "2011-11-10 22:16:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1745"

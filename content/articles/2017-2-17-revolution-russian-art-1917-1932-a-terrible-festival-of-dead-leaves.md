@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Revolution: Russian Art 1917 – 1932 is on at the Royal Academy until 17th April 2017
 date: "2017-02-17 15:13:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6791"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
  - photos
 

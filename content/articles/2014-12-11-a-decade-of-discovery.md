@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Fernando interviews Michele Dougherty FRS, principal investigator on the Cassini spacecraft orbiting Saturn
 date: "2014-12-11 20:32:24 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5028"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - cj914
 highlights:
  - comment

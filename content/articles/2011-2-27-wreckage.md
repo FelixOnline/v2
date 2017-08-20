@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After the success of Untethered, Leosoc reveal a brand-new exhibition on Wednesday
 date: "2011-02-27 19:36:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "917"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rm1509
 highlights:
  - photos
 

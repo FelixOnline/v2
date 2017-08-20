@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial ease back into the Development League
 date: "2011-11-24 23:44:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1852"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sb1307
 highlights:
 
 # Homepage control params

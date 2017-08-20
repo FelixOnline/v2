@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Quand je sens que ma foi dans les forces suprêmes faiblit, je pense toujours au miracle de l’anti-freeze” – by Ninochka Vodanoj
 date: "2011-11-03 21:03:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1680"

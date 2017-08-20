@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little thinks that you should know
 date: "2013-10-25 00:12:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3924"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - kw911
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anastasia Eleftheriou finds even traffic signs can inspire
 date: "2012-03-15 21:12:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2372"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - felix
 highlights:
  - comment

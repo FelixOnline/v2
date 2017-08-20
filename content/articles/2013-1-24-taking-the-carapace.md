@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le metamorphoses at the Lyric
 date: "2013-01-24 23:11:13 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3171"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - mc4509
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get a taste of South American salsa, Ozy Shyne style
 date: "2011-10-07 10:18:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1485"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - felix
 highlights:
 

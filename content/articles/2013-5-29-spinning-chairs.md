@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton voices her opinions on the BBC’s talent show
 date: "2013-05-29 15:30:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3631"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - skw10
  - tna08
 highlights:
 

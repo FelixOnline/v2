@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phillipa Skett writes about the latest findings in HIV research
 date: "2013-10-04 00:36:28 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3800"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ps3110
 highlights:
  - comment
 

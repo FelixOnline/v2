@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews "Captain Phillips" and "All is Lost"
 date: "2013-10-20 13:00:22 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3907"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jgp09
 highlights:
  - longread
 

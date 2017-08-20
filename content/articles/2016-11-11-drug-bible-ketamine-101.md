@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You know what you're doing all day, alone, locked in your room, under the duvet.
 date: "2016-11-11 15:25:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6425"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - catfelix
  - felix
 highlights:
  - photos

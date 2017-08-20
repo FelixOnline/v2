@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Basel Chamali argues that there is no peaceful solution in Syria
 date: "2012-03-08 21:39:28 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2327"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - bc1209
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles finds that The Broken Heart fails to impress
 date: "2015-03-25 13:54:32 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5456"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It may be a surprise that you find me in this pokey newspaper
 date: "2011-01-13 21:17:18 +0000"
-author_id: "dofe"
 
 # Attributes from Felix Online V1
 id: "590"

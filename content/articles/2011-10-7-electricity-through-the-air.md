@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is this the moment for wireless electricity?
 date: "2011-10-07 10:36:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1488"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - felix
 highlights:
 

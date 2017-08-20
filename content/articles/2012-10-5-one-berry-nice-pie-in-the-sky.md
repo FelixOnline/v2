@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In this week's recipe corner is an exquisite berry pie
 date: "2012-10-05 13:19:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2625"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ym1310
 highlights:
 
 # Homepage control params

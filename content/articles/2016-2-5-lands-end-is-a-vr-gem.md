@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The makers of Monument Valley return with the first great VR experience on mobile
 date: "2016-02-05 12:43:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5882"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

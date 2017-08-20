@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park awards four stars to Men Women & Children
 date: "2014-12-04 19:41:34 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5002"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jgp09
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Norrie discusses the main features of what he thinks made the Sims so enjoyable and just plain fun
 date: "2016-11-07 13:12:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6403"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - johnnorrie
 highlights:
 
 # Homepage control params

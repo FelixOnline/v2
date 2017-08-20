@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle recaps some of the major stories from the holiday.
 date: "2015-01-16 15:35:01 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5102"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James White gives his midweek predictions
 date: "2014-01-24 10:04:21 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4291"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jpw12
 highlights:
  - comment
 

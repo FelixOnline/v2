@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As mentioned in last weeks news bubble Apple had a key note last tuesday.
 date: "2013-10-30 15:59:20 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3961"

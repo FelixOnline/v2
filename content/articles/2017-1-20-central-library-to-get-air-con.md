@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is the dream finally coming true?
 date: "2017-01-20 14:54:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6657"

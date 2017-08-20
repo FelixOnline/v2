@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The white crystalline powder that really drives us mad
 date: "2017-02-03 18:13:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6739"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - felixteam
 highlights:
  - comment
 

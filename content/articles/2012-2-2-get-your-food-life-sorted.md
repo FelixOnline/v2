@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anastasia Eleftheriou grills Ben Ebbrell, head chef at online recipe website SORTED, about bringing some banter to the kitchen
 date: "2012-02-02 21:11:54 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2101"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - ams111
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tate's exhibition on Art and the Empire more of the same.
 date: "2016-03-23 14:27:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6079"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jsw115
 highlights:
 
 # Homepage control params

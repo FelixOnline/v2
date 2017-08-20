@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deafheaven - Sunbather
 date: "2013-05-29 12:40:33 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3629"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kw911
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RA launches a surprisingly emotive edition of its trademark summer show
 date: "2017-06-15 15:17:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7024"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
  - photos

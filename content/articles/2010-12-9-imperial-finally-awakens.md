@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Both lecture theatres were packed. Students and staff crowded the aisles and sat on the floor, eager to air their grievances
 date: "2010-12-09 21:45:21 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "541"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - mc4509
 highlights:
  - longread
 

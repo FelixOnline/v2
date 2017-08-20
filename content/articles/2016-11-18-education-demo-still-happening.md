@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...despite the Higher Education and Research Bill ammendments
 date: "2016-11-18 14:30:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6457"

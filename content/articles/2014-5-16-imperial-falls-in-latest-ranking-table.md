@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week the Complete University Guide (CUG) released their latest ranking table for Universities within the United Kingdom.
 date: "2014-05-16 01:38:19 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4595"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - kmw13
 highlights:
  - comment
 

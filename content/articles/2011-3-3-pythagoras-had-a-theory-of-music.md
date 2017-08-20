@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On planet Earth in 500BC the first non-religious, scientific society was formed by Pythagoras
 date: "2011-03-03 20:46:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1015"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lht09
 highlights:
 
 # Homepage control params

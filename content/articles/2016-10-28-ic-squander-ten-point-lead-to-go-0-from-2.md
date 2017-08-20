@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICURF take on Surrey
 date: "2016-10-28 15:51:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6357"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - harry.allingham1
 highlights:
 
 # Homepage control params

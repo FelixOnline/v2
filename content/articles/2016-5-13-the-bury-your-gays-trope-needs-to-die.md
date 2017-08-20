@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LGBT fans deserve, and are demanding better from TV networks and producers
 date: "2016-05-13 08:55:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6148"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4812
 highlights:
  - comment
 

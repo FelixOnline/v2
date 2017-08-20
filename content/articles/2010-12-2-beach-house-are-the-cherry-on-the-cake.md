@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sheperd’s Bush Empire, 23rd November 2010
 date: "2010-12-02 21:01:22 +0000"
-author_id: "tm208"
 
 # Attributes from Felix Online V1
 id: "484"

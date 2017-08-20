@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "It’s this transformation from darling bud to withered flower that forms the spine of Lorca’s tragic play Yerma and whilst her character at the end may be pretty far from anyone you know, the character at the start is very familiar."
 date: "2011-11-17 21:29:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1778"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

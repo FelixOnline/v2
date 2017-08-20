@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film looks back at the past eight decades of cinema, hand-picking the most touching and memorable movies – ideal for a quiet, intimate, romantic night in
 date: "2012-02-16 21:17:09 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2187"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - pk1811
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman rounds up the controversy surrounding Sir Bob’s latest offering
 date: "2014-11-20 21:43:55 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4919"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ygr12
 highlights:
  - comment
 

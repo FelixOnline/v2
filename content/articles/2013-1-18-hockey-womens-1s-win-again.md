@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another victory for the ladies
 date: "2013-01-18 01:01:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3147"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bjh12
  - tna08
 highlights:
  - photos

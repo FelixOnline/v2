@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Güeros is a masterful film, following the lives of three young Mexican boys during the 1999 student protests
 date: "2015-11-29 16:40:49 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5782"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - toc15
 highlights:
  - photos
 

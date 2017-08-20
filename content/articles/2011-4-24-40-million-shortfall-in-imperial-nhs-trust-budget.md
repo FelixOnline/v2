@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mounting financial challenge for Imperial NHS Trust
 date: "2011-04-24 11:04:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1134"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bs2610
  - felix
 highlights:
  - comment

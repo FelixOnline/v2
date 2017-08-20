@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Badminton shuttle towards ultimate domination
 date: "2013-01-24 20:57:39 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3155"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - mc4509
 highlights:
 

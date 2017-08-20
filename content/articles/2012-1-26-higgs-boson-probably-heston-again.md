@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts eventually uncovers the joy of Heston
 date: "2012-01-26 22:51:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2070"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
 

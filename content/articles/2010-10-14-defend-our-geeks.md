@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Protesters descended on the Treasury for the ‘Science is Vital’ rally last Saturday to fight for science funding
 date: "2010-10-14 19:33:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "208"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ap1509
  - felix
 highlights:
  - longread

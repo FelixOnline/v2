@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My Week with Marilyn, as its title may suggest, only explores a brief section of the icon’s life
 date: "2011-12-01 21:02:27 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1879"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - jgp09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Cinema is back to give you some well-needed relaxation time away from central library! This week we’re showing the new remake of the 80s classic RoboCop.
 date: "2014-05-02 01:23:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4549"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - filmsoc
  - jal08
 highlights:
 

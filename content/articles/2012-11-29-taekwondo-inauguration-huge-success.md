@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LiYan Chow on their victories
 date: "2012-11-29 23:15:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3011"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lyc108
  - tna08
 highlights:
  - comment

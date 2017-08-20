@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A beautifully realised piece of historical fiction from David Mitchell
 date: "2011-05-06 13:15:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1171"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ghc07
 highlights:
  - comment
 

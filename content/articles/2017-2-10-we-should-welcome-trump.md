@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shaul Rosten explains why banning Trump from the UK would be counterproductive and hypotricical
 date: "2017-02-10 13:42:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6745"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - shaulrosten
 highlights:
 
 # Homepage control params

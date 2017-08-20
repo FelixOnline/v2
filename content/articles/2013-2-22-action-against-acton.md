@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The College’s plans for undergraduate accommodation in North Acton are ill-thought-out and must be opposed
 date: "2013-02-22 01:37:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3363"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pjb09
  - tna08
 highlights:
  - comment

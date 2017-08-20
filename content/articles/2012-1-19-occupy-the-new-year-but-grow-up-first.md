@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Right motives, wrong methods – Occupy isn't all some claim it to be
 date: "2012-01-19 23:21:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2038"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

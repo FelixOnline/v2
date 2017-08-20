@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Mixed 8 - 5 UCL Mixed
 date: "2011-02-28 21:43:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "953"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tab08
 highlights:
 
 # Homepage control params

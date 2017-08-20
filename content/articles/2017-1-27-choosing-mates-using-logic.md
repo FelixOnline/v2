@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ipsita Herlekar explains how fruit flies have been found to use logical reasoning when choosing partners
 date: "2017-01-27 16:34:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6694"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ -  ipsita.herlekar
 highlights:
 
 # Homepage control params

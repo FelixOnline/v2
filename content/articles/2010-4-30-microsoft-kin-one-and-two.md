@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Microsoft unveils the Kin One and Kin Two messaging phones aimed at 'Generation Upload'
 date: "2010-04-30 11:42:52 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "134"

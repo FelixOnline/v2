@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl on why No Man’s Sky, Star Citizen and Elite are the future
 date: "2015-01-23 18:24:17 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5142"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - me1711
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is the end, beautiful friend
 date: "2016-11-11 11:24:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6414"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

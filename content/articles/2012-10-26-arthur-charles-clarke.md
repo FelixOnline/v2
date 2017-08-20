@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about one of his favourite authors
 date: "2012-10-26 02:44:56 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2755"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

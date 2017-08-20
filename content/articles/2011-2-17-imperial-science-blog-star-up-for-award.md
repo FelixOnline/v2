@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Webby nomination for David Robertson
 date: "2011-02-17 20:47:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "851"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ch1810
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I’ll show you how to transform your cramped vegetable lasagne into a thing of simple beauty
 date: "2011-03-03 19:32:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "998"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

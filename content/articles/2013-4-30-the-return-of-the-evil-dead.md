@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As opposed to those lovely dead people
 date: "2013-04-30 10:29:15 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3499"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - spb11
  - tna08
 highlights:
 

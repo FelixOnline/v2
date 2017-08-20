@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Utsav Radia discusses new research on study drugs, and the problems they pose
 date: "2014-05-09 02:05:50 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4572"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ur13
 highlights:
 
 # Homepage control params

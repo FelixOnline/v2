@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One cold Wednesday afternoon earlier this week, your fantastic Features editor deigned to trespass and snoop around formally check out and report the annual Postgraduate Open Day happening at the South Kensington Campus...
 date: "2013-12-06 03:54:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4182"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sg4812
 highlights:
  - longread
 

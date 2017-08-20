@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Being a Death Grips fan involves grueling masochism
 date: "2016-05-06 09:58:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6126"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - he915
 highlights:
  - comment
 

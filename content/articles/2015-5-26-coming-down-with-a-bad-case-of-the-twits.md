@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman is less than enthused by the Royal Court's latest
 date: "2015-05-26 14:03:18 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5567"

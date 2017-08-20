@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Television Editor John Park reviews three new comedy shows on CBS
 date: "2013-11-08 10:07:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4044"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

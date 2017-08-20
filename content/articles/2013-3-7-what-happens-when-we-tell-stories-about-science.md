@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We were going to examine the relationship between science and narrative, and see science escaping from the lab into the ‘real’ world...
 date: "2013-03-07 21:17:39 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3422"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - slb210
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua summarises the controversy currently plaguing Reddit
 date: "2012-11-01 22:36:50 +0000"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2787"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jp1409
+ - ywc110
 highlights:
  - longread
  - photos

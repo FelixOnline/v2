@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nobody's horsing around
 date: "2012-02-23 21:36:22 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2257"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as906
  - cac111
 highlights:
  - comment

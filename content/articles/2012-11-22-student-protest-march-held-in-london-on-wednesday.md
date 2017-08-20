@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Read the title: sums it up...
 date: "2012-11-22 22:28:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2928"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb610
  - tna08
 highlights:
  - comment

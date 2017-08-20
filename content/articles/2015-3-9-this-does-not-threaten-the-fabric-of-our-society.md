@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Robert Winston talks to James Bezer about the vote to allow ‘three-parent babies’
 date: "2015-03-09 19:16:04 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5379"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jb3112
  - ps3110
 highlights:
  - comment

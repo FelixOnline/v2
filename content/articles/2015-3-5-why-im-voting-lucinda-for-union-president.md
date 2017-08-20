@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hayley Thompson shares her thoughts on why she is voting for Lucinda Sandon-Allum
 date: "2015-03-05 11:54:24 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5336"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ht1212
  - ps3110
 highlights:
  - comment

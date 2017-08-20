@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fire Emblem Heroes is free on Android and iOS
 date: "2017-05-15 16:30:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6956"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

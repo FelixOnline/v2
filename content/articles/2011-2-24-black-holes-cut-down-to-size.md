@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shrinking black holes have come down to 1/10th of their previous size
 date: "2011-02-24 20:12:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "884"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ko407
 highlights:
  - comment
 

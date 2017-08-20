@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another step towards food security
 date: "2011-05-12 16:31:55 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1189"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - aej10
  - cjb07
 highlights:
 

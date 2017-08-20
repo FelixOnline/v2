@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pop off to Hyde Park for winter fun and Austrian food
 date: "2011-12-08 21:53:38 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1949"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh608
  - pk1811
 highlights:
 

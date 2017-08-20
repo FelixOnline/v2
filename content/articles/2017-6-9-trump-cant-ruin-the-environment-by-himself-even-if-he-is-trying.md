@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sara Hamilton thinks the withdrawal of the US from the Paris Agreement is not ideal, but the rest of the world can still try to make a difference
 date: "2017-06-09 14:56:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7010"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sara.hamilton14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A fantastic start for Imperial
 date: "2012-11-09 14:25:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2872"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hr610
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The question of Quantitative Easing. By Rajvinder Virdee
 date: "2011-10-20 22:35:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1570"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   'Unmade' took home the grand prize
 date: "2015-11-06 13:37:09 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5698"

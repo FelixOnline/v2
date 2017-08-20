@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix visits a new home for pancakes from around the world, Where the Pancakes Are, and devours culinary delights such as Dutch Babies, corn fritters, and more.
 date: "2016-12-02 15:20:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6544"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

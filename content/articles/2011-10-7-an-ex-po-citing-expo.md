@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope stops the bad puns and talks Eurogamer ‘11
 date: "2011-10-07 12:19:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1490"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lap08
 highlights:
  - comment
  - photos

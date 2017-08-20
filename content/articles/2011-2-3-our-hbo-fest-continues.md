@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Continuing our series on Sky Atlantic, Vicky Jeyaprakash and Navid Nabijou dice with death with two of the edgiest shows in recent years
 date: "2011-02-03 20:46:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "754"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - nn1209
+ - vj05
 highlights:
 
 # Homepage control params

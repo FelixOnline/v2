@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An original short story by Eoghan Totten
 date: "2013-11-24 16:14:04 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4116"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - ejt11
  - jal08
 highlights:
  - longread

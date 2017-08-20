@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Competition to solve the energy, food and water issues of future!
 date: "2013-11-01 10:36:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3976"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jt2010
 highlights:
 
 # Homepage control params

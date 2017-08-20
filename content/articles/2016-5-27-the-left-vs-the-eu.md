@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A vote to remain in the EU is a vote for right-wing idealogies
 date: "2016-05-27 08:49:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6206"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bs2314
 highlights:
  - comment
 

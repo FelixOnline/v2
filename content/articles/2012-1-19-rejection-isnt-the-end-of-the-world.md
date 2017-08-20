@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial isn't the be all and end all
 date: "2012-01-19 23:16:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2037"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

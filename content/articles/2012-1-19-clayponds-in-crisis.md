@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Residents at postgraduate campus react to potential closure
 date: "2012-01-19 21:57:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2032"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
  - longread

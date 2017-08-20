@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Carnochan kicks about some of his thoughts on Sports Interactive’s latest product, Football Manager 2012
 date: "2011-11-17 20:40:06 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1763"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sc5611
  - sjw209
 highlights:
  - comment

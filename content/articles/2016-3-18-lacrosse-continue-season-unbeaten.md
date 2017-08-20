@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The first team came top of the league
 date: "2016-03-18 12:06:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6077"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sb4213
 highlights:
  - comment
 

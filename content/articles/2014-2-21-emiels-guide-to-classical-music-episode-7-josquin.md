@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode VII - Josquin
 date: "2014-02-21 03:33:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4433"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - ed812
  - felix
 highlights:
 

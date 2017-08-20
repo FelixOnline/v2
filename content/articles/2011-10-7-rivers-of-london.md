@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Aaronovitch's new work brings magic to the police
 date: "2011-10-07 10:25:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1486"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - extuser0
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julie Cunningham & Company's Double Bill was on at the Barbican Centre from 8th – 11th March
 date: "2017-03-17 17:10:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6913"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

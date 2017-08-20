@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dutch Uncles: Out of Touch in the Wild
 date: "2013-01-24 22:21:37 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3165"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - ym1210
 highlights:
  - comment
 

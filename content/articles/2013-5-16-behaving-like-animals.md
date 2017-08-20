@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about how everyone is secretly a bit terrible at their job. Including me. Definitely me. Mostly me.
 date: "2013-05-16 20:42:52 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3591"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's a new funny on the block
 date: "2015-01-23 18:40:58 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5145"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - jyg11
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial and UCL in East London ‘Tech City’ development
 date: "2011-05-22 13:02:31 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1240"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gunning for a game? Have a look at these Crafty reviews which will be the Portal to your fantasy world!
 date: "2013-09-29 16:04:28 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3784"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - tna08
 highlights:
  - comment

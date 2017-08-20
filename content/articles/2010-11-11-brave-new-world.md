@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the music industry bleeds itself to death a new breed of artists emerges online
 date: "2010-11-11 21:19:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "359"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Abhijay Sood tells us all about why he's in love with labour
 date: "2017-06-02 14:16:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7003"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - abhijaysood
  - felix
 highlights:
  - longread

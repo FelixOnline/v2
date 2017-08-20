@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl reviews the final instalment from Green Day
 date: "2013-02-01 00:50:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3235"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
 

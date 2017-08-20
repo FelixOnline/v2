@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The crowd greeted Yannis almost like a messiah
 date: "2015-11-20 09:25:42 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5755"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - al1913
  - ygr12
 highlights:
 

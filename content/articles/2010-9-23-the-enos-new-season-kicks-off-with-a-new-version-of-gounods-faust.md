@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caz Knight is lured by the legendary Faust to the opera for the first time but is disappointed.
 date: "2010-09-23 10:31:31 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "159"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - jk708
 highlights:
 

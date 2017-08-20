@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gareth Campbell says goodbye to a band that is close to his heart
 date: "2011-12-08 21:17:59 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1934"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - glc09
  - pk1811
 highlights:
 

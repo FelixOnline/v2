@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Come along to London's newsest comedy book festival
 date: "2013-11-10 21:29:44 +0000"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "4048"

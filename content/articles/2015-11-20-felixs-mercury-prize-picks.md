@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The results are announced tonight
 date: "2015-11-20 09:35:03 +0000"
-author_id: "cet13"
 
 # Attributes from Felix Online V1
 id: "5758"
@@ -26,6 +25,11 @@ tags:
  - imported_comments
 authors:
  - cet13
+ - ff712
+ - he915
+ - pm1912
+ - rg2112
+ - ygr12
 highlights:
  - comment
  - longread

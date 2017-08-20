@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Esmerine are one of the more loosely-related Godspeed You! Black Emperor side projects.
 date: "2013-12-02 22:13:30 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4168"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

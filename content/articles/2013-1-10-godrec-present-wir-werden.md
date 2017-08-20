@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray explores apocalyptic wastelands through noise
 date: "2013-01-10 22:47:42 +0000"
-author_id: "rbg10"
 
 # Attributes from Felix Online V1
 id: "3094"

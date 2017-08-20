@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland explores one of the world’s leading art fairs
 date: "2013-10-25 00:26:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3928"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - km2612
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Morgan Heycock describes the RAG Dollz adventure to Paris
 date: "2015-02-13 15:16:45 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5257"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - mh2713
 highlights:
  - longread
 

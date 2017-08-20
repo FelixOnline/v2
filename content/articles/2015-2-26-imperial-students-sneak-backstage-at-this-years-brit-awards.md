@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students use fake press pass to bypass tens of security staff
 date: "2015-02-26 00:12:11 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5308"

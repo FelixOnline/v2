@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Maxey looks at the past and present of Zynga
 date: "2012-03-15 19:32:53 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2344"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jm4911
  - pk1811
 highlights:
  - longread

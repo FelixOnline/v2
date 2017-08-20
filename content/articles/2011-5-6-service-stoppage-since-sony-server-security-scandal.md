@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Playstation Network still offline
 date: "2011-05-06 15:00:32 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1174"

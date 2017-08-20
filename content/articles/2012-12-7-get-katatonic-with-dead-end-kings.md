@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jemma Pilcher's favourite Katatonic album is... all of them
 date: "2012-12-07 03:39:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3067"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jlp210
  - tna08
 highlights:
  - photos

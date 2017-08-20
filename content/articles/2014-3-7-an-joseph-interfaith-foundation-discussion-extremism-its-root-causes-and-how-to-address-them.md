@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A recent Interfaith discussion at Imperial College London was organised by the Joseph Interfaith Foundation (JIF) and the Islamic Society at Imperial. Speakers from the Jewish Society (JSoc), the Islamic Society (ISoc) and the Catholic Society (CathSoc) discussed their views on the root causes of ex
 date: "2014-03-07 04:38:11 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4454"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
  - longread
 

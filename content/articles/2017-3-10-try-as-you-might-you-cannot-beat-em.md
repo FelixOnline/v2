@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's rugby that is
 date: "2017-03-10 14:47:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6890"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - beckssimpson
 highlights:
 
 # Homepage control params

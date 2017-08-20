@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie Thomas gives us the lowdown on this year’s favourites
 date: "2015-05-15 12:24:48 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5530"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jmt13
 highlights:
  - comment
 

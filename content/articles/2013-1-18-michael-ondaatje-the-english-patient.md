@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Amanda Diez on the the poem dressed up as prose
 date: "2013-01-18 00:44:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3140"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ad4010
  - tna08
 highlights:
 

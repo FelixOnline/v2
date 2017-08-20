@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The low turnout at the recent PCC elections is a bad sign
 date: "2012-11-23 00:03:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2957"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kw911
  - tna08
 highlights:
  - comment

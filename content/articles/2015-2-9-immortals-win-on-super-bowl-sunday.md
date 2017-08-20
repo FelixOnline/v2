@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our own American Football team smash Brighton Tsunami 12-6
 date: "2015-02-09 19:09:15 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5219"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - sjh213
 highlights:
 
 # Homepage control params

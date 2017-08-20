@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yes, there are other true-story crime dramas out there
 date: "2016-10-10 12:46:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6323"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ts2915
 highlights:
 
 # Homepage control params

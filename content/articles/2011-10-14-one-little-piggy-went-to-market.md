@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton talks about his struggles with free market and government interaction
 date: "2011-10-14 10:19:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1541"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
  - longread

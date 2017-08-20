@@ -4,7 +4,6 @@ title: >
 subtitle: >
   *Dean-dong* There’s a new guy in town
 date: "2017-03-17 13:07:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6899"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

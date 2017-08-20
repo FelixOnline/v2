@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The, fluffy angsty world of Teen TV
 date: "2011-03-01 21:00:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "962"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - vj05
 highlights:
  - photos
 

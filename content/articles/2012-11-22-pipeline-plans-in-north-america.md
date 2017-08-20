@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Spiking asks: In the land of oil and climate change sceptics, does environmentally friendly policy stand a chance?
 date: "2012-11-22 23:19:33 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2945"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5611
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wanted: your thoughts on anything!
 date: "2013-09-29 14:02:56 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3769"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - tna08
 highlights:
  - comment

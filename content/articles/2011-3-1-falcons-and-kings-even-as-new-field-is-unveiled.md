@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 1st 4 - 17 & 7 - 1 Oxford 1st. Double header opens up new Falcons pitch
 date: "2011-03-01 21:26:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "970"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - ak1107
  - felix
+ - gbl07
+ - khl107
 highlights:
  - photos
 

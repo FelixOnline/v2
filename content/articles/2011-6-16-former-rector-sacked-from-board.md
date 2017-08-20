@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sir Richard Sykes ousted in mining company coup
 date: "2011-06-16 19:25:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1383"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ak6309
  - felix
 highlights:
 

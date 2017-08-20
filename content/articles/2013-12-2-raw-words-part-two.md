@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second installment of Eoghan Totten’s short story
 date: "2013-12-02 22:11:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4166"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - ejt11
  - jal08
 highlights:
  - longread

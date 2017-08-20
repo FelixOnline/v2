@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Furse turns his back on four-wheeled transport (except for taxis)
 date: "2011-06-16 21:08:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1402"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
  - longread
 

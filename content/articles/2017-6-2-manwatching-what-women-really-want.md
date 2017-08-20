@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Manwatching was on at the Royal Court Theatre 10th to 20th May
 date: "2017-06-02 13:19:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6992"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

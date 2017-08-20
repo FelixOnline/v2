@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Other guides will teach you about the dreaded Freshers’ Flu and how it can be avoided. What they fail to mention are leopards...
 date: "2010-10-01 22:44:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "166"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rjd08
 highlights:
  - comment
 

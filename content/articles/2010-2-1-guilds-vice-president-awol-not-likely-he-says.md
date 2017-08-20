@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dan Wan with the latest on the CGCU VPFS
 date: "2010-02-01 16:34:52 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "59"

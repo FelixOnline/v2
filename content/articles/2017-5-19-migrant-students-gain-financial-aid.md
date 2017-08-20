@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It doesn't make sense for Imperial College to charge them international fees
 date: "2017-05-19 14:58:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6971"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - jmw216
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There was a forced fumble recovered by Harry ‘I don’t like being called beefy in felix’ Lawrence
 date: "2016-11-14 14:21:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6450"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

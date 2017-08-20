@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial are FINALLY 3rd in a table
 date: "2012-10-26 01:42:21 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2731"

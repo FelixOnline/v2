@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We were robbed of one of the most spectacular, queer inclusive, and diverse shows shows on TV.
 date: "2017-06-09 15:11:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7017"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You really need to make sure that your bedroom door is locked
 date: "2016-05-13 08:58:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6150"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Petition for the government to protect imports of research animals.
 date: "2012-11-29 21:53:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2981"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nj1211
  - tna08
 highlights:
 

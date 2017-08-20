@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With a number of starting players missing things were not looking good
 date: "2016-02-19 12:32:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5949"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jm4513
 highlights:
 
 # Homepage control params

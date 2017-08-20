@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Avirup Banerjee thinks Trident is an expensive accident waiting to happen
 date: "2017-01-27 16:24:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6689"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - avirupbanarjee
 highlights:
  - comment
 

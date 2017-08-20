@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For the people who've always hated History!
 date: "2012-02-09 22:36:52 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2157"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - pk1811
 highlights:
 

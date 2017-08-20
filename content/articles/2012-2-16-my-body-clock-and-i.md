@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Finally, a possible explanation for those self-inflicted Facebook/Youtube-laden all-nighters...
 date: "2012-02-16 22:00:48 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2205"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - tna08
 highlights:
 
 # Homepage control params

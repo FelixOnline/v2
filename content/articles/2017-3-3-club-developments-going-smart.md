@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yacht Club is back and wants you to know
 date: "2017-03-03 16:16:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6856"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bobxu
 highlights:
 
 # Homepage control params

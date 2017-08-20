@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Steve Noble and Ikue Mori’s new album
 date: "2013-06-20 22:59:20 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3715"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mde11
  - tna08
 highlights:
  - photos

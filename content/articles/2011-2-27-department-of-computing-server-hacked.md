@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICT tells computing students to change their passwords
 date: "2011-02-27 11:47:44 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "896"

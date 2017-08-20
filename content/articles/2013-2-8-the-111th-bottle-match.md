@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The return of the yearly RSM vs CSM match
 date: "2013-02-08 00:55:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3279"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lr210
  - tna08
 highlights:
 

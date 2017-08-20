@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Director of the much-acclaimed Ian Curtis biopic Control, is back with a bang
 date: "2010-10-10 15:36:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "191"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ghc07
 highlights:
  - comment
 

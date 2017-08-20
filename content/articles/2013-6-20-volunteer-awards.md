@@ -4,7 +4,6 @@ title: >
 subtitle: >
   High tea in Metric you say?
 date: "2013-06-20 23:38:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3724"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sk6110
  - tna08
 highlights:
 

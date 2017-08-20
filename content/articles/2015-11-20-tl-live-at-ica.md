@@ -4,7 +4,6 @@ title: >
 subtitle: >
   TĀLĀ showed how one woman can dominate a space
 date: "2015-11-20 09:26:31 +0000"
-author_id: "cet13"
 
 # Attributes from Felix Online V1
 id: "5756"

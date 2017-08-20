@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Outside the world top 200 but still inside our hearts
 date: "2016-11-18 17:07:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6488"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jamiesimpson
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Emden discusses the impact of flow-based market coupling
 date: "2015-03-06 17:04:49 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5363"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jfe14
 highlights:
  - comment
  - longread

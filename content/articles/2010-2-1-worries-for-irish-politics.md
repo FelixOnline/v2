@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton worries for Irish politics
 date: "2010-02-01 17:00:48 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "63"

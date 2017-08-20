@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has 5 tips for coping with exam stress
 date: "2014-12-11 21:29:38 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5041"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - cw3414
 highlights:
  - comment
  - longread

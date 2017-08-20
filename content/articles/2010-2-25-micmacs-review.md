@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Film editor Ed Knock finds himself thrown into another fantastic world of Jean Pierre Jeunet
 date: "2010-02-25 15:53:53 +0000"
-author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "101"

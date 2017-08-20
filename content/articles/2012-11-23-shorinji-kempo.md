@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dave Krishna gets his Karate Kid on...
 date: "2012-11-23 00:08:36 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2961"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
 

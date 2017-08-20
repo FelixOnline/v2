@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton shares her travel woes – and makes some worrying predictions for the future
 date: "2012-11-29 23:06:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3003"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - skw10
  - tna08
 highlights:
 

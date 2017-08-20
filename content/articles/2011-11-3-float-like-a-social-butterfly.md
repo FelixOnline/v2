@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How your online presence may relate to your real life presence
 date: "2011-11-03 21:43:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1692"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

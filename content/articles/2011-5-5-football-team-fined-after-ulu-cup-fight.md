@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two football club members have also been banned from sports at Imperial
 date: "2011-05-05 23:32:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1146"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

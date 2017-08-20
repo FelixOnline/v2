@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The first of our 'games that never made it' feature
 date: "2011-02-28 20:48:07 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "935"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dt1209
  - sjw209
 highlights:
  - comment

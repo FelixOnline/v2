@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anish Kapoor's new exhibition turns the world upside down
 date: "2010-10-08 07:02:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "185"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rm1509
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Electron found to be extremely spherical, with implications for matter vs. anti-matter puzzle
 date: "2011-05-26 19:16:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1257"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ko407
 highlights:
 
 # Homepage control params

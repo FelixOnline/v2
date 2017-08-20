@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As well as hurting those caught in the cross-fire, the hatred and fear of refugees is spreading
 date: "2016-02-05 11:59:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5867"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - lms115
 highlights:
  - comment
 

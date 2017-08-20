@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Tsim drives a hard bargain with your moneyz
 date: "2013-09-29 13:35:28 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3767"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jt2010
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 1: What is Art?
 date: "2013-10-25 00:40:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3934"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - ed812
  - felix
 highlights:
 

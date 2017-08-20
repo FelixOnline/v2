@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £3,000 subscription to Campaign for Science and Engineering better spent on ‘core activities’ says College
 date: "2011-06-02 18:02:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1291"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

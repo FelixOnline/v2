@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More and more students are competing for university places
 date: "2011-01-27 18:15:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "651"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - felix
 highlights:
 

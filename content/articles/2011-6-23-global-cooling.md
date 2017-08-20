@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andrew Purcell queries claims that decreasing solar activity will trigger an ‘ice age’
 date: "2011-06-23 20:04:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1420"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ap1509
  - felix
 highlights:
  - longread

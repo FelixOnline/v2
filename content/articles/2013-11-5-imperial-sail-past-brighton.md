@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Cox reports from Harlington
 date: "2013-11-05 10:01:22 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4015"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsport
  - jal08
 highlights:
 

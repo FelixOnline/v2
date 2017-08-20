@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Imperial-led team found blood cancer cells actively move rather than hide in bone marrow
 date: "2016-10-31 15:45:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6363"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nefeli maria sko
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson on the university's reaction to accommodation issues
 date: "2015-06-11 22:12:27 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5610"

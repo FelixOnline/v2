@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Antonio Torrisi reports on a study of attitudes towards geoengineering
 date: "2011-11-03 19:52:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1657"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - pk1811
 highlights:
 

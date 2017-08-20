@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I don't mind getting old, it's just the ageing and dying that annoys me
 date: "2010-12-02 21:48:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "497"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ma1307
 highlights:
  - comment
 

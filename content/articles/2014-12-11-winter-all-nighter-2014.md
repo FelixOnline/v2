@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Cinema invites you to their termly All-Nighter
 date: "2014-12-11 20:59:27 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5032"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ffilm
 highlights:
  - photos
 

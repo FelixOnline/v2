@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kate Turner wants to start a fish fight with you
 date: "2011-02-03 19:01:15 +0000"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "708"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - kwalt
 highlights:
 
 # Homepage control params

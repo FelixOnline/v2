@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The different sought after destinations in Europe
 date: "2011-03-03 19:58:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1000"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - felix
+ - yll08
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson ditches the beaches and heads for the hills
 date: "2015-01-23 19:03:36 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5149"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - jyg11
 highlights:
  - longread

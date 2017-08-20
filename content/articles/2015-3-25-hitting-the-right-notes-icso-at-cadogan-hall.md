@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Symphony Orchestra’s Spring Concert
 date: "2015-03-25 12:37:55 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5432"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
  - longread

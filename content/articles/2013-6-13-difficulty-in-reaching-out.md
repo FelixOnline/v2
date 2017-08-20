@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Outreach and opticians
 date: "2013-06-13 23:04:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3687"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

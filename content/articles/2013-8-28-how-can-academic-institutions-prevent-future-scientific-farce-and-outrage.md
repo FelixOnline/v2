@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After the sentencing of Gary Bolton, the man who had been caught selling fake bomb detectors to governments worldwide, comment editor Eoghan Totten wonders how the world's scientific minds could join to prevent this from occurring again.
 date: "2013-08-28 08:52:02 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3754"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - jal08
 highlights:
  - comment

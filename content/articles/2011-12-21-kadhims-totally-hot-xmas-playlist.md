@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A short little snapshot of last term's totally hot albums
 date: "2011-12-21 01:18:40 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1961"

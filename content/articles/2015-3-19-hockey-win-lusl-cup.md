@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hockey celebrate another success
 date: "2015-03-19 23:58:27 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5414"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - kmw13
+ - rcp12
 highlights:
 
 # Homepage control params

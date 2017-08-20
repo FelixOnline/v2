@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A ‘girly night in’ makes for a great night out
 date: "2011-06-02 19:41:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1310"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

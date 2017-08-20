@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Costume drama trounces MI5 in Sunday night ratings war
 date: "2011-10-07 12:49:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1494"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tvfelix
 highlights:
  - photos
 

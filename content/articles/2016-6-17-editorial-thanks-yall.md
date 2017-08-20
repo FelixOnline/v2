@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is Cate Blanchett a good actress, or is she just tall?
 date: "2016-06-17 09:36:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6287"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

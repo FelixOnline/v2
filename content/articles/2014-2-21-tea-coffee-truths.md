@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A short story by Eoghan Totten
 date: "2014-02-21 03:23:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4426"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - ejt11
  - felix
 highlights:
 

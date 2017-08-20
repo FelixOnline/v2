@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Krestas finds reason to celebrate with the release of Wrecking Ball
 date: "2012-03-11 16:15:17 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2339"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - mk4410
 highlights:
  - photos
 

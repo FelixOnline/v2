@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Coles condemns the current approach to humanitarian aid
 date: "2016-10-28 15:16:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6353"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - catfelix
+ - eva.coles13
 highlights:
  - photos
 

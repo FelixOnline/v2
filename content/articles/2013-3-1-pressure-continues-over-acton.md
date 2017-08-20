@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College say they will answer students’ questions through Felix. To ask: email felix@imperial.ac.uk and the COO and Pro-Rector (Education) will answer you.
 date: "2013-03-01 01:10:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3417"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Malia Bouattia needs to accept that some will disagree with her
 date: "2016-04-29 10:19:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6095"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - gib13
 highlights:
  - comment
 

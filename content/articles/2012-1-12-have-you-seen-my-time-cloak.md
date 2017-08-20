@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon explores how this object that currently only exists in the world of sci-fi could soon become reality
 date: "2012-01-12 22:12:39 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1981"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - pd111
 highlights:
 
 # Homepage control params

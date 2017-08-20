@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week the GTA describes the doom of the non-believer
 date: "2014-02-28 07:14:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4443"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - gta
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mario Lepore visits the latest exhibition in Saatchiʼs gallery
 date: "2013-10-11 23:57:46 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3834"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ml2510
 highlights:
  - comment
 

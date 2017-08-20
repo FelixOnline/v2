@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Frank Berkshires give a Friends of Imperial lecture on mathematics and gambling
 date: "2011-05-11 09:18:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1182"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

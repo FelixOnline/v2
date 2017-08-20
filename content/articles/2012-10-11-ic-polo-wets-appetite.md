@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell, Riding and Polo chair reports
 date: "2012-10-11 21:24:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2674"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as906
  - felix
 highlights:
  - longread

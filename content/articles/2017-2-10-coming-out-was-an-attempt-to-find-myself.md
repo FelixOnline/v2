@@ -4,7 +4,6 @@ title: >
 subtitle: >
   L.C. discusses labels, coming out and falling in love
 date: "2017-02-10 13:44:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6746"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix gets down and dirty with 50 Shades of Grey
 date: "2015-02-20 17:01:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5292"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - ps3110
 highlights:
 

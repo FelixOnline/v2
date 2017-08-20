@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We don’t want politicians who watch X Factor, so stop faking it guys, and get back to running the country
 date: "2011-02-17 19:54:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "827"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

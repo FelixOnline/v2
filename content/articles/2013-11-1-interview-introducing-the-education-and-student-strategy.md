@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix talks shop with the Vice-Provost Education
 date: "2013-11-01 09:16:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3967"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jal08
 highlights:
  - longread
 

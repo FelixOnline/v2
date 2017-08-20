@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The relationship between scientists, the media and the public is fraught with the dangers of miscommunication and exploitation. The question of where the responsibility must lie when a patient becomes a victim is not easily answered. This is particularly true of fertility research, an area that...
 date: "2013-10-11 23:15:10 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3825"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jr1709
 highlights:
  - comment
 

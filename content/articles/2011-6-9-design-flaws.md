@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stpryasfipjadf
 date: "2011-06-09 18:13:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1330"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rjd08
 highlights:
  - comment
  - longread

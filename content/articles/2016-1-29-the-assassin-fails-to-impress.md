@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plot trumps substance in this Taiwanese flick
 date: "2016-01-29 09:29:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5847"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

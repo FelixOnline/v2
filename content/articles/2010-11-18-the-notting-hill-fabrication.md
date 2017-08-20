@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What do you do when your erotic obsession with your teenage son drives you to self-destruction? Let’s see
 date: "2010-11-18 19:54:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "380"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

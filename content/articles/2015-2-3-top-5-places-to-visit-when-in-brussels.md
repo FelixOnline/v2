@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the capital of Belgium
 date: "2015-02-03 14:11:50 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5181"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ync111
 highlights:
 
 # Homepage control params

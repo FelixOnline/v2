@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists conclude Quebeckers are pervs
 date: "2016-03-11 11:41:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6028"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

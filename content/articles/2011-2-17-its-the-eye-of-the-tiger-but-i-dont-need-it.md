@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do you know how Omar Hafeez-Bore got those abs? By playing video games!
 date: "2011-02-17 20:02:44 +0000"
-author_id: "oh106"
 
 # Attributes from Felix Online V1
 id: "831"

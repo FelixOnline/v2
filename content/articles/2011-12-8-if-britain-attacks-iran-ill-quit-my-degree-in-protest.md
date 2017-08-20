@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are preparing for war on the flimsiest of evidence
 date: "2011-12-08 21:29:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1940"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ipsita Herlekar talks food waste and how it’s not just about the food that goes in the bin but also about the food that goes in your tum-tum
 date: "2017-03-10 13:36:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6870"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ -  ipsita.herlekar
 highlights:
 
 # Homepage control params

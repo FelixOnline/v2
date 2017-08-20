@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Food gives some bang(er)-on sausage love this week
 date: "2014-02-17 18:30:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4396"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - felfood
  - felix
 highlights:
 

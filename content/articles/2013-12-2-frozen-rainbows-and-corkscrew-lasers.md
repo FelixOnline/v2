@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Ortwin Hess speaks to Keir Little about his research
 date: "2013-12-02 21:55:23 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4158"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kw911
 highlights:
 
 # Homepage control params

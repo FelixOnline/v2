@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a string of media disapproval, Brett Ratner steps down from his post
 date: "2011-11-17 22:02:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1790"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffilm
 highlights:
 
 # Homepage control params

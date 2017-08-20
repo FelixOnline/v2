@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial down to ninth place but Engineering still in top ten
 date: "2017-03-10 13:11:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6864"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

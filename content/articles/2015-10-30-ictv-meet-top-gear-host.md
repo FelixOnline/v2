@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He shoved his glasses on one Imperial student, shouting: "This is the real Chris Evans interview!"
 date: "2015-10-30 14:48:51 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5691"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will Prince’s Weekend d’Integration
 date: "2012-11-01 22:56:40 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2801"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - wsp10
 highlights:
 
 # Homepage control params

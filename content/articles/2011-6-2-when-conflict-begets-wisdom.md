@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are some who are strong enough to forgive
 date: "2011-06-02 19:33:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1308"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rtf08
 highlights:
 
 # Homepage control params

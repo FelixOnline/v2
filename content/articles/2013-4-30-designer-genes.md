@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le isn't talking about Versace...
 date: "2013-04-30 14:39:35 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3505"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

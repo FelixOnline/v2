@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's 2nd 135-90
 date: "2011-10-21 10:13:24 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1585"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - jrp08
 highlights:
 
 # Homepage control params

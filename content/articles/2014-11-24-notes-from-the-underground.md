@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Darije Custovic reviews Dostoyevsky’s first existentialist novel
 date: "2014-11-24 12:37:32 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4940"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dc1010
  - ps3110
 highlights:
  - comment

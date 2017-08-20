@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union and Committee respond to proposed floor plans – panel to be held next week
 date: "2012-02-09 22:43:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2158"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

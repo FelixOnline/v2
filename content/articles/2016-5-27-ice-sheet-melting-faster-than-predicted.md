@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Any small changes have a big influence globally
 date: "2016-05-27 08:54:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6210"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - le14
 highlights:
 
 # Homepage control params

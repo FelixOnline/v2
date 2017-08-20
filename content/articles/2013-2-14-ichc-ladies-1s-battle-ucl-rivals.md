@@ -4,7 +4,6 @@ title: >
 subtitle: >
   UCL, bitter rivals...
 date: "2013-02-14 19:30:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3327"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - jcp08
  - tna08
 highlights:
 

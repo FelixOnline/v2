@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial research suggests iron uptake through supplement use may damage cells
 date: "2016-02-12 11:27:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5902"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

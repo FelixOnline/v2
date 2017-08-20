@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bossing awards
 date: "2012-10-05 15:53:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2633"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

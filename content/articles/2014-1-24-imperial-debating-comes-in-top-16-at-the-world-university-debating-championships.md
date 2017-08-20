@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Debating saw success at the World University Debating Championships.
 date: "2014-01-24 09:39:37 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4270"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - amc313
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Letts comments on the current state of US Presidential elections
 date: "2012-01-26 22:01:15 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2049"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - jal08
 highlights:
  - longread
 

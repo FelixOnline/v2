@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Better than chocolate cake?
 date: "2012-10-18 21:49:31 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2725"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - ym1310
 highlights:
 
 # Homepage control params

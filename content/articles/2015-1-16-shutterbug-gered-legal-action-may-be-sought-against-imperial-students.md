@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Photobooth damage has angered hiring company
 date: "2015-01-16 12:50:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5088"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

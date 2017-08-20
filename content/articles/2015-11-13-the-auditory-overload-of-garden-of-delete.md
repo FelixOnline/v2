@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Garden of Delete is a complete, concrete, and fleeting treat built from beats and bleeps
 date: "2015-11-13 14:26:07 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5723"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - ygr12
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Microsoft unveil new OS
 date: "2011-06-12 15:48:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1363"
@@ -21,6 +20,7 @@ tags:
  - tech
  - imported
 authors:
+ - fa608
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exchange students reveal their thoughts on Palestine's struggle for recognition.
 date: "2011-11-17 20:28:16 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1759"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - rj408
 highlights:
  - longread
 

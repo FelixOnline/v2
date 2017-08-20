@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sally Archer will be performing at ICU on Friday 16 March
 date: "2012-03-15 21:32:40 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2386"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - pjb108
 highlights:
 
 # Homepage control params

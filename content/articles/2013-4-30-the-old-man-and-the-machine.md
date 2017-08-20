@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Robot and Frank review
 date: "2013-04-30 10:23:37 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3498"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sjp211
  - tna08
 highlights:
 

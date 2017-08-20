@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When two things of immense beauty combine, strange things can happen. In this case, music and majesty create brilliance
 date: "2010-11-18 20:43:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "391"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

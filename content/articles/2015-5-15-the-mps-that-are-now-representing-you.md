@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unsurprisingly, they're mostly conservative reports Philippa Skett
 date: "2015-05-15 12:31:28 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5532"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ps3110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You feeling the post Valentine's blues yet
 date: "2017-02-17 15:59:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6799"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
 

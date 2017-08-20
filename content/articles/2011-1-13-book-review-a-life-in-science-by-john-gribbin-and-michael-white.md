@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This biography portrays the man and his science superbly
 date: "2011-01-13 20:18:43 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "578"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - kv07
 highlights:
 
 # Homepage control params

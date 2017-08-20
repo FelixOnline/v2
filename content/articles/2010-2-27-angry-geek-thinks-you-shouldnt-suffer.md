@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Angry Geek thinks you shouldn't suffer
 date: "2010-02-27 17:07:29 +0000"
-author_id: "mrangry"
 
 # Attributes from Felix Online V1
 id: "111"

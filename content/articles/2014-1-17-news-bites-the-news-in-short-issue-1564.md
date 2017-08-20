@@ -4,7 +4,6 @@ title: >
 subtitle: >
   News Editor Nida bring you the news in short
 date: "2014-01-17 03:11:26 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4227"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

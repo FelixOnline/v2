@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comic Convention 2014
 date: "2014-11-06 19:12:21 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4774"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - snb11
+ - xc3313
 highlights:
  - comment
  - longread

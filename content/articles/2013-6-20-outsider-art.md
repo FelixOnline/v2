@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles examines a new art craze
 date: "2013-06-20 23:13:55 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3718"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
  - longread

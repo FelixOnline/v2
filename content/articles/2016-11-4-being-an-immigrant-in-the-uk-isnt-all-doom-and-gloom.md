@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aayush Singh responds to Lef’s article on immigration
 date: "2016-11-04 14:20:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6390"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aayush.singh13
  - felix
 highlights:
 

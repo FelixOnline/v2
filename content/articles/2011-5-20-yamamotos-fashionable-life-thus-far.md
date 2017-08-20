@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Retrospective fails to bring designer’s work to life
 date: "2011-05-20 05:48:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1227"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

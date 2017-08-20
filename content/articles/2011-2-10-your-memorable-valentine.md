@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It may be a ridiculously overhyped and commercialised, but then again, we’ll take any excuse for a celebration
 date: "2011-02-10 20:58:19 +0000"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "789"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - cmt09
 highlights:
  - photos
 

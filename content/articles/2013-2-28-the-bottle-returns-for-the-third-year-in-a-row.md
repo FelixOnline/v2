@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sorcha Cotter on the Bottle Match. Fortunately, not on the aftermath...
 date: "2013-02-28 23:56:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3397"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sc3610
  - tna08
 highlights:
  - comment

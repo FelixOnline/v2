@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rector’s role to be split into two positions as Imperial announces Provost for 2013
 date: "2012-05-04 00:29:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2422"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ann09
  - felix
 highlights:
  - comment

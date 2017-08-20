@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite recent faults, the Green Party is the lesser of four evils
 date: "2012-06-01 12:43:40 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2512"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - ss10210
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This down to earth outfit talks Glastonbury, being Kylie super-fans, and what’s next after a huge 2016
 date: "2016-11-07 17:37:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6413"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - theo.farah13
 highlights:
 
 # Homepage control params

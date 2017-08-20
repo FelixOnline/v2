@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews the Californian band’s recent Birthday’s gig
 date: "2014-05-02 01:24:39 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4550"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

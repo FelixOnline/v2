@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nature has, once again, provided a solution to a crucial medical problem
 date: "2011-02-10 20:27:57 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "774"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - ks607
 highlights:
 

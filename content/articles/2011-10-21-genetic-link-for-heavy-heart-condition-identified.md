@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven investigates new inroads into tackling a hereditary problem
 date: "2011-10-21 10:13:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1586"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

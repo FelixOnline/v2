@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Silvia Davey asks what UK citizens should consider come referendum time
 date: "2013-02-14 17:02:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3324"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sd2911
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster gives his spoiler-free review of Bioshock: Infinite
 date: "2013-05-01 14:07:42 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3512"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

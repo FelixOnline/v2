@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Omer Mohamed discusses his intersecting identities
 date: "2017-02-17 14:41:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6786"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - omm215
 highlights:
  - comment
 

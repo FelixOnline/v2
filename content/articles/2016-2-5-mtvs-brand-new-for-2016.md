@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bloc Party were not on form
 date: "2016-02-05 12:38:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5879"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al1913
 highlights:
  - longread
 

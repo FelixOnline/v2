@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Secret life of Walter Mitty is a Ben Stiller film based on the short of the same name written by James Thurber for the New Yorker in 1942.
 date: "2014-01-24 10:16:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4302"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

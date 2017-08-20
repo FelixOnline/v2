@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5630"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We interviewed the ICSMU President about ICSM's response to last year's Daily Mail scandal, along with Alcohol Awareness Week
 date: "2012-01-12 21:23:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1969"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - klb09
+ - mg2109
 highlights:
 
 # Homepage control params

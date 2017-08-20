@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An intense film, albeit visually conservative
 date: "2012-02-09 23:24:49 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2176"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - lw408
 highlights:
 
 # Homepage control params

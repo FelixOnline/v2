@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Utsav Radia on a new step to neurodegenerative disease treatment
 date: "2013-10-18 21:12:14 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3888"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ur13
 highlights:
 
 # Homepage control params

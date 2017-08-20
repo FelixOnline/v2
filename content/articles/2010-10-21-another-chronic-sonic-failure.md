@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Colvin and Simon Worthington attempt to enjoy Sonic The Hedgehog 4. They fail...
 date: "2010-10-21 19:35:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "245"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
+ - sjw209
 highlights:
  - comment
  - longread

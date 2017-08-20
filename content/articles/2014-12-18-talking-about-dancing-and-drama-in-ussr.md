@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Interview: Fred Fyles speaks to Bolt curator Alex Chirac
 date: "2014-12-18 16:22:52 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5077"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher wonders whether the Tories learnt anything
 date: "2015-05-14 22:37:05 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5524"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - gb1311
 highlights:
  - comment
 

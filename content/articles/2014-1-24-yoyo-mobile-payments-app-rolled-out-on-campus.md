@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new app, Yoyo, for mobile payment has recently launched at Imperial.
 date: "2014-01-24 09:41:43 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4273"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

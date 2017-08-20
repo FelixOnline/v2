@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Couples can now have two children
 date: "2015-10-30 12:30:42 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5683"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - ygr12
 highlights:
 

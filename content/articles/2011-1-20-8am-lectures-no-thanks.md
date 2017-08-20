@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Extension in college working days
 date: "2011-01-20 20:44:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "631"

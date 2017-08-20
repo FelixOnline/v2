@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guys play girls and girls play guys in comically dark Japanese kidnapping
 date: "2012-02-03 10:36:46 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2126"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This dance show spectacular is not to be missed
 date: "2016-03-11 11:43:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6030"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ckw08
 highlights:
 
 # Homepage control params

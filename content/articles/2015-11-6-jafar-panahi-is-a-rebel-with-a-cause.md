@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taxi Tehran is a defiant, bold work which runs circles around the censors
 date: "2015-11-06 14:15:03 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5709"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ygr12
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Political correctness on trial
 date: "2012-03-01 22:13:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2284"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - felix
 highlights:
 

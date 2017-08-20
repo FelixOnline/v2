@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Riach gives an overview of new robotic technology designed to help keep the heart beating after heart failure
 date: "2017-01-27 16:33:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6693"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

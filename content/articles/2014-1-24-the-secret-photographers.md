@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles gets a glimpse of the works of Warhol, Burroughs and Lynch
 date: "2014-01-24 09:48:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4278"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - jal08
 highlights:
 

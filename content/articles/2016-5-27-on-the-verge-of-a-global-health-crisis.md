@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX finds out what Imperial researchers really think
 date: "2016-05-27 08:55:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6211"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - wd1515
 highlights:
 
 # Homepage control params

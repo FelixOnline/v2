@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students receive emails from Departments about the smoke free areas
 date: "2013-03-01 00:45:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3409"

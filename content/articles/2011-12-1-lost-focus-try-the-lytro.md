@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three lenses make for a smarter picture
 date: "2011-12-01 19:34:40 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1856"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - pk1811
 highlights:
  - photos

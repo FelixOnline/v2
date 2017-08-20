@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer thinks you should stop making this all about you
 date: "2017-06-09 14:57:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7011"
@@ -21,7 +20,7 @@ tags:
  - comment
  - imported
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

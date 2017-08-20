@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe on doom, gloom and the sixth mass-extinction
 date: "2015-01-23 17:57:17 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5137"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - ltr11
 highlights:
  - comment
 

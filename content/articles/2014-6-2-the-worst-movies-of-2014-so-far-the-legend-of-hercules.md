@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second film this year starring Kellan Lutz, trying to launch him as a credible leading man in Hollywood, although so far neither have done him any favours. Both are tanking in terms of making money, as well as failing to attract any kind of praise.
 date: "2014-06-02 12:56:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4644"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

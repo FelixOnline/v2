@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In ten years time a doctor may no longer be prodding around inside you
 date: "2013-05-01 19:16:37 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3520"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - ss6012
  - tna08
 highlights:
  - photos

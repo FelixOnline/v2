@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shocked to see how Christian Bale was a ‘fatman’ in American Hustle? The clearly dedicated actor is back to a healthier looking shape in Scott Cooper’s highly depressing thriller that highlights that not all of America is a land of opportunity. No protagonist here can catch a break in this grim...
 date: "2014-02-07 04:41:34 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4341"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

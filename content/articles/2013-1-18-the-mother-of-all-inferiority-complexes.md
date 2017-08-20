@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial is a world-leading university: we should all stop moaning about Oxbridge, says George Butcher
 date: "2013-01-18 00:29:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3134"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - gb1311
  - tna08
 highlights:
  - comment

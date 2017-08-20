@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Captain Priya Shah reports as Imperial women’s cricket team join forces with Hampstead
 date: "2011-06-02 20:34:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1323"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
  - longread
 

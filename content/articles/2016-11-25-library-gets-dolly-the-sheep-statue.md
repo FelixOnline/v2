@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ewe have to see it to believe it
 date: "2016-11-25 13:21:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6494"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - stebo101
 highlights:
 
 # Homepage control params

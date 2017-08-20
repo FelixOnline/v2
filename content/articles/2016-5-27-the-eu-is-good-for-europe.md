@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But pretty bad for the rest of the world
 date: "2016-05-27 08:47:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6204"
@@ -21,7 +20,7 @@ tags:
  - comment
  - imported
 authors:
- - felix
+ - sg3114
 highlights:
 
 # Homepage control params

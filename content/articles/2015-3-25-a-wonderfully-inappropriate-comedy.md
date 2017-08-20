@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes on Desiree Akhavan’s New York sexual romp
 date: "2015-03-25 11:51:26 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5422"

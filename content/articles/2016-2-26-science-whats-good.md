@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our weekly column on the goings-on in the science world
 date: "2016-02-26 11:32:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5960"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc5412
 highlights:
  - comment
 

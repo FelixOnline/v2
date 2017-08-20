@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oliver Benton reports as students refuse to leave until Phil Power does
 date: "2014-10-24 12:48:01 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4747"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ohb09
  - ps3110
 highlights:
 

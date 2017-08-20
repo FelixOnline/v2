@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Easter eggs are lining the shelves, but watch out
 date: "2013-03-15 01:03:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3468"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lap08
  - tna08
 highlights:
  - comment

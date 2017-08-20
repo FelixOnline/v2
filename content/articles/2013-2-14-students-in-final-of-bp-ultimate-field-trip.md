@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial students storm their way through
 date: "2013-02-14 21:14:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3333"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pr1511
  - tna08
 highlights:
  - comment

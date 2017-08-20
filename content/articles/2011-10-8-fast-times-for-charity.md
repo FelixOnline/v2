@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hamza Shaikh undertakes a unique challenge during Ramadan in order to raise money for Sri Lankan schools
 date: "2011-10-08 18:12:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1500"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - extuser0
  - felix
 highlights:
  - longread

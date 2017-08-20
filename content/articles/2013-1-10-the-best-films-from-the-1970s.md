@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park runs down the best of the 70s
 date: "2013-01-10 23:08:15 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3105"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - mc4509
 highlights:
 

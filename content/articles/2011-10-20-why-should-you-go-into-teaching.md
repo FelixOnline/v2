@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix investigates Imperial’s preconceptions with a profession keen to take on some of the country’s top science graduates
 date: "2011-10-20 19:48:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1556"
@@ -25,7 +24,11 @@ tags:
  - image
  - imported_comments
 authors:
+ - dr710
  - felix
+ - klb09
+ - mc4509
+ - nn1209
 highlights:
  - comment
  - longread

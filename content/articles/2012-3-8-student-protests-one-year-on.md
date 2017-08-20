@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Sheldon asks where the student movement is now, twelve months after it began
 date: "2012-03-08 21:23:30 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2324"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ls411
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Intimacy at Oval Space
 date: "2017-02-03 17:05:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6729"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - philippantonas
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We reveal the recipe for Mexico's most famous cocktail
 date: "2011-10-14 00:04:20 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1532"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - sjw209
 highlights:
  - comment

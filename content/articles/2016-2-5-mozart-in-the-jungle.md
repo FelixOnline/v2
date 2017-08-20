@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The show’s wit is sharp and rarely predictable
 date: "2016-02-05 12:45:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5883"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

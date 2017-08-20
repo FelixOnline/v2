@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Diogo Miguel Geraldes falls in love with Warpaint at Scala
 date: "2010-11-04 18:35:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "302"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmm04
  - felix
 highlights:
 

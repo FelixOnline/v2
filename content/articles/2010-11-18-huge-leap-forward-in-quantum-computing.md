@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial researcher moves closer to realising the dream of the quantum computer
 date: "2010-11-18 20:13:56 +0000"
-author_id: "ko407"
 
 # Attributes from Felix Online V1
 id: "385"

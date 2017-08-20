@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ever since I was little I dreamed about becoming a teacher and taking care of kids within and beyond a classroom. I strongly believed that good teachers were the leaders of tomorrow and that they were a key element to a strong society...
 date: "2013-10-11 23:45:19 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3831"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mm6810
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Glaciers move more slowly than expected – but they're not slowing down either
 date: "2012-05-10 20:37:52 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2452"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - jd2310
 highlights:
 
 # Homepage control params

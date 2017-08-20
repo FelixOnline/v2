@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last week saw the 55th anniversary of the birth of the saviour of modern cinema, Tilda Swinton. To celebrate, we take a look back at her legendary career; choosing what to feature was difficult, but we have managed to narrow down five of her most iconic moments, and what they teach us about life and
 date: "2015-11-13 15:00:33 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5736"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ygr12
 highlights:
  - comment

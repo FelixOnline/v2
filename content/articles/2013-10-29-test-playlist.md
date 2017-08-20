@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a test
 date: "2013-10-29 13:52:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3956"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Letts welcomes you to the Ministry of Magic...
 date: "2011-11-03 20:04:02 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1660"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - jal08
  - pk1811
 highlights:
 

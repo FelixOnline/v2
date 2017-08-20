@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX visits BAO, the hip Taiwanese restaurant in SoHo
 date: "2016-05-27 09:05:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6221"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
 
 # Homepage control params

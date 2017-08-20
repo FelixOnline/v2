@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter reports on the band keeping Bob Marley’s legacy alive
 date: "2013-10-04 02:05:03 +0100"
-author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "3809"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aislinn Hayes tunes in as new Station Manager
 date: "2011-10-14 00:03:01 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1531"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - icr
 highlights:
  - longread
 

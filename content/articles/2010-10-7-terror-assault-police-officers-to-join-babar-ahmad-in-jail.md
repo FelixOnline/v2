@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Police Officers to face prosecution for Babar Ahmad attack
 date: "2010-10-07 22:03:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "173"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   WALK2014 has over 21,000 people take part
 date: "2014-11-14 20:05:44 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4866"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kmw13
  - ps3110
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jiaqi Shi investigates Christie's
 date: "2013-10-18 21:49:13 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3896"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5909
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The dean spoke out on the economic fad dividing the internet in City A.M.
 date: "2016-01-29 08:50:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5838"

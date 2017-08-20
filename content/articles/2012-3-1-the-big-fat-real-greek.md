@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don't let Greece's politico-economic situation put you off its cuisine!
 date: "2012-03-01 21:52:06 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2281"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - ams111
+ - mk4410
 highlights:
  - comment
 

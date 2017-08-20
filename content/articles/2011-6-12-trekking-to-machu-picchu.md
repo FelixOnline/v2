@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Priya Garg takes the ‘Inca Jungle Trail’ route to this iconic site
 date: "2011-06-12 16:16:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1369"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pg405
 highlights:
 
 # Homepage control params

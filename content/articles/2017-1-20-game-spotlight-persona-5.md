@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Qasim Mahmood tells you why you should be excited for the latest entry in the Persona series
 date: "2017-01-20 15:47:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6677"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - qm413
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Hecker's Ravedeath
 date: "2011-10-21 11:27:07 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1599"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ak6309
+ - im808
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial involved in ESA mission to improve our understanding of solar wind
 date: "2015-02-27 00:33:57 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5312"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cj914
  - pk1811
 highlights:
 

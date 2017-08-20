@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eoghan J. Totten arques that a new attitude to climate change is necessary
 date: "2011-11-03 21:56:49 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1695"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - sjw209
 highlights:
 

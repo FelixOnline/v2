@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports after online trolls voted over 2,000 times within the space of 2 hours
 date: "2015-06-19 13:19:35 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5642"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In response to the Israeli Ambassador’s visit
 date: "2017-05-12 16:54:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6943"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

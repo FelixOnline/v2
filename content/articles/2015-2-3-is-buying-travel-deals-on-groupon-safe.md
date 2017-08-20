@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah breaks down the process of booking so you know what to expect
 date: "2015-02-03 14:18:12 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5182"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ync111
 highlights:
  - comment
 

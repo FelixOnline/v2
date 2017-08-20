@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Freeze peach
 date: "2017-05-19 15:00:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6973"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

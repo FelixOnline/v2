@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paavo Schafer is hotly anticipating The Hobbit
 date: "2012-11-01 23:03:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2807"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - longread

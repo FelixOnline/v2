@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigating Imperial’s efforts to support women in the workplace
 date: "2012-01-26 23:29:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2076"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

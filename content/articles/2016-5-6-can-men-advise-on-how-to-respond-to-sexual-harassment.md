@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Come back to me when you’ve had years of practice
 date: "2016-05-06 09:51:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6120"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - vmh14
 highlights:
  - comment
 

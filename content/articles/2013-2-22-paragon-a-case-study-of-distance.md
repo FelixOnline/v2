@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah gives a brief case study on Paragon, in the wake of the new North Acton halls
 date: "2013-02-22 00:15:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3355"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX attends a cocktail launch at Shoryu SoHo
 date: "2016-06-17 09:41:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6291"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A packed crowd criticised plans
 date: "2016-12-02 12:30:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6521"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - stephennaulls
 highlights:
 
 # Homepage control params

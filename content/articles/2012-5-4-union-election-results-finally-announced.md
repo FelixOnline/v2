@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Record turnout for Imperial as controversy and delays hit this year’s campaign trail
 date: "2012-05-04 01:26:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2428"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

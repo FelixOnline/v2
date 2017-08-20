@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Magnetic Man unleash a torrent of bass @ Heaven
 date: "2010-11-18 20:39:40 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "390"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - ks607
 highlights:
  - comment

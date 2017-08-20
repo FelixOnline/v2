@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Beasley reports as medics are soundly defeated
 date: "2011-11-10 22:31:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1750"

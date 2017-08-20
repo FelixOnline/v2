@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hannah and Clare treat themselves to a meal out
 date: "2012-03-01 22:02:28 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2283"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - ams111
+ - cc3710
+ - hc1409
 highlights:
 
 # Homepage control params

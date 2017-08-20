@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 3s 2 - 0 Royal Vet’s – Hockey's season back on track
 date: "2011-02-28 21:38:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "951"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - kvm08
 highlights:
 
 # Homepage control params

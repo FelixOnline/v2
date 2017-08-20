@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Football complete Plate and Cup double after overcoming spirited King’s
 date: "2011-05-20 02:49:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1211"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - hr208
 highlights:
 
 # Homepage control params

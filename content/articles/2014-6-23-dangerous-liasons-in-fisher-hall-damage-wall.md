@@ -4,7 +4,6 @@ title: >
 subtitle: >
   [Tabloid Special] Just how well maintained is Fisher Hall?
 date: "2014-06-23 10:36:31 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4700"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - jal08
 highlights:
  - comment

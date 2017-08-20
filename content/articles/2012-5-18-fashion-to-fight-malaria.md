@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mosquito-repellent bodysuit on no ordinary catwalk
 date: "2012-05-18 11:12:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2466"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - zs1611
 highlights:
 
 # Homepage control params

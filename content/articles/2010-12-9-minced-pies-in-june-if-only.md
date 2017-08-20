@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Why don’t we celebrate Christmas the whole year?”, asks Rhys
 date: "2010-12-09 21:37:43 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "538"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ac1507
+ - rjd08
 highlights:
  - comment
 

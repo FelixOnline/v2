@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Speeches from the Conservative Party Conference
 date: "2012-10-11 21:14:01 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2666"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - phc11
 highlights:
  - photos
 

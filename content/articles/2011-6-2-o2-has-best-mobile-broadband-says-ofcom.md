@@ -4,7 +4,6 @@ title: >
 subtitle: >
   O2 comes out on top in a study of major mobile providers in the UK, loading pages faster than any of 3, Vodafone, Orange or T-Mobile
 date: "2011-06-02 18:47:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1302"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fa608
  - felix
 highlights:
 

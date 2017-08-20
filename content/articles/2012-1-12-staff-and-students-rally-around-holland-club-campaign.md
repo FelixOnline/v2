@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Call to protect staff bar attracts hundreds of members
 date: "2012-01-12 21:40:11 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1972"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ks607
+ - ma1307
 highlights:
  - comment
  - longread

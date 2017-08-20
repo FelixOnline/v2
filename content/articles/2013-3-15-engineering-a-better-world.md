@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chaplaincy brings you an unmissable evening with His Holiness Radhanath Swami
 date: "2013-03-15 02:33:11 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3489"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

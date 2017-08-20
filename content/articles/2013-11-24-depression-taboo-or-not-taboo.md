@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial, welcome to the OpenMinds campaign! Our aim is to increase understanding of mental health conditions and remove some of the stigma with which they are associated.
 date: "2013-11-24 15:51:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4100"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - jal08
 highlights:
 

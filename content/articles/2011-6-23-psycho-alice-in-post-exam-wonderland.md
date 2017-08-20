@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DramSoc’s free re-imagining of the intoxicating tale goes on the rampage on the Queen’s Lawn
 date: "2011-06-23 21:01:05 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1431"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cjb07
+ - slb08
 highlights:
  - comment
 

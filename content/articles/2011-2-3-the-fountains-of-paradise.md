@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of Arthur C. Clarke's latest novel
 date: "2011-02-03 20:11:38 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "738"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ks607
+ - mtm10
 highlights:
  - comment
 

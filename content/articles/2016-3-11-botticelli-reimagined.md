@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A compelling but contrariwise journey through Botticelli’s artistic influence
 date: "2016-03-11 12:01:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6041"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - av3514
 highlights:
  - comment
  - longread

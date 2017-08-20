@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Roocroft is impressed by the Oasis guitarist’s solo debut
 date: "2011-10-28 11:27:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1640"

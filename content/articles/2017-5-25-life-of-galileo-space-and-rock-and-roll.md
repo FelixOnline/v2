@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A story of literal and figurative revolution
 date: "2017-05-25 12:42:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6978"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

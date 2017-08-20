@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Worthington looks at the so called 'secure' Chip-and-PIN verification system and how it might not be as safe as you think
 date: "2010-02-18 14:29:05 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "91"

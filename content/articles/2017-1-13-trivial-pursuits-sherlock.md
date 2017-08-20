@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sherlock’s always hotly anticipated new years debut proved disapointing this year. A lukewarm mytery made for boring watching. So why couldn’t TV’s darling detective find his footing this year?
 date: "2017-01-13 14:43:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6647"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

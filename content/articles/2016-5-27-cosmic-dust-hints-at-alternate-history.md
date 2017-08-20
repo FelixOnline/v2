@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We couldn’t find a micrometeorite, so here is the cosmos instead.
 date: "2016-05-27 08:52:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6209"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nms15
 highlights:
 
 # Homepage control params

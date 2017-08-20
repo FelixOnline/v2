@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Claudia Mihai discusses the recent anti-corruption protests in Romania
 date: "2017-02-10 13:53:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6750"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - claudiamihai
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters finds himself questioning the aims of TV docs
 date: "2015-05-15 12:28:20 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5531"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jm5014
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In this edition of Priya Garg’s tales, we find her off the track in Argentina’s answer to the Lake District, uncovering hidden beauties and inner tranquillity
 date: "2011-02-24 19:20:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "860"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pg405
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton argues that population growth isn’t a priority
 date: "2011-10-27 22:52:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1618"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
 

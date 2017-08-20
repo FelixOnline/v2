@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Firedog is on a mission to revamp the hipster breakfast, causing panic amongst avocado growers worldwide. Enter a morning realm of grilled halloumi, Sujuk and Lor.
 date: "2017-01-27 17:38:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6703"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stefan Grimm emailed colleagues after his death, months after being sent "ultimatum email" to either find more funding or leave Imperial
 date: "2014-12-04 04:05:53 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4984"

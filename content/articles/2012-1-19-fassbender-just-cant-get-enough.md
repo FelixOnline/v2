@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A film full of sex, failure, and relationships; Felix brings you Shame!
 date: "2012-01-19 20:23:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2012"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

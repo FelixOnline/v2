@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Entering the glamorous world of competitive dance at the Royal Albert Hall
 date: "2016-10-31 22:18:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6369"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - scc114
 highlights:
  - longread
  - photos

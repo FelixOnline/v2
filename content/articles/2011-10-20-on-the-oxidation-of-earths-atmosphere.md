@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon delves into the murky past of oxygen
 date: "2011-10-20 21:07:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1560"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

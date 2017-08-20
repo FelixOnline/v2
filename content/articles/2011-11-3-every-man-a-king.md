@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “How can you defend a country where 5% of the people control 95% of the wealth?” postulates Comrade Juggernutx
 date: "2011-11-03 21:11:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1683"

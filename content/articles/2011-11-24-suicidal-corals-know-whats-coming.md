@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Coral can kill its own cells when adverse conditions are coming
 date: "2011-11-24 21:14:41 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1816"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - snc08
 highlights:
 
 # Homepage control params

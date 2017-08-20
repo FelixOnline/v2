@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Festival winner delves into religion and ethics
 date: "2011-11-24 22:34:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1837"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pd111
 highlights:
  - photos
 

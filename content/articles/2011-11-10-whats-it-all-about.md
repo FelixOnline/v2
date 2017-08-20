@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson introduces the Chaplaincy – a welfare service for Imperial students
 date: "2011-11-10 22:03:33 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1740"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - pk1811
 highlights:
  - photos

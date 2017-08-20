@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rachel Gregory reports
 date: "2012-11-29 23:17:23 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3012"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - fsport
 highlights:
 
 # Homepage control params

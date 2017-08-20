@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New emphasis on NSS sees Imperial fall 11 places
 date: "2011-10-06 23:53:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1467"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

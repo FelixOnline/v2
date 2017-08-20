@@ -4,7 +4,6 @@ title: >
 subtitle: >
   avant-garde America
 date: "2012-11-09 14:20:02 +0000"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2870"

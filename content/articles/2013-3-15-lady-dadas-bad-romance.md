@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the Barbican
 date: "2013-03-15 01:28:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3475"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
 

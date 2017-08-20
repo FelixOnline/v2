@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Just imagining eating something can curb your appetite for it
 date: "2011-01-13 20:08:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "575"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
 
 # Homepage control params

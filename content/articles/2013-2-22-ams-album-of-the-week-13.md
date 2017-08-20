@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Veronica Falls: Waiting for Something to Happen
 date: "2013-02-22 01:22:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3359"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sm5810
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Main Attrakionz – 808s & Dark Grapes II – 2011
 date: "2011-11-24 22:23:58 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1833"

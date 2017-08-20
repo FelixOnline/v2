@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah sees what some first years made of the Horizons courses
 date: "2013-05-23 21:49:59 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3606"

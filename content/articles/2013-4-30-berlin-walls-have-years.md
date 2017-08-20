@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ich bin ein Berliner, says Meredith Thomas
 date: "2013-04-30 14:26:00 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3503"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - tna08
 highlights:
 

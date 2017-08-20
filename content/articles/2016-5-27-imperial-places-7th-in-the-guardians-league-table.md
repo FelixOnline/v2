@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We’re up a place, but behind Loughborough and Durham
 date: "2016-05-27 08:38:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6196"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

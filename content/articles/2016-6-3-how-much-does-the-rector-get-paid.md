@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All this plus a parking space, presumably
 date: "2016-06-03 09:06:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6232"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
  - photos
 

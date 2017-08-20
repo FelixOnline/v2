@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports from meeting that brands hall “an inefficient use of space”, but also supports cutting the prices of new halls in North Acton.
 date: "2015-02-12 21:56:48 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5240"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial athletes shine through
 date: "2011-03-03 21:14:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1021"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - afj09
  - felix
 highlights:
  - comment

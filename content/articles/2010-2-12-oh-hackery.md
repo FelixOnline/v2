@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dan Wan hacks away at the new news
 date: "2010-02-12 01:41:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "82"

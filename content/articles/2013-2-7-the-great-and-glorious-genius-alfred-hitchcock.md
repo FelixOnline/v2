@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park likes but is not overawed by this tale
 date: "2013-02-07 22:57:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3249"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - tna08
 highlights:
  - comment

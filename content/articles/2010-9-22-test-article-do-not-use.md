@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Test article - do not use!
 date: "2010-09-22 13:18:32 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "158"

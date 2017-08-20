@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bake some romance!
 date: "2012-02-09 22:34:29 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2154"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - ym1310
 highlights:
 
 # Homepage control params

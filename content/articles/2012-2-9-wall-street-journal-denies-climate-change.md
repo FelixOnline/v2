@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paper goes against Congress, NASA, and Departments of State
 date: "2012-02-09 22:46:28 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2161"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ak6309
+ - cc1109
 highlights:
 
 # Homepage control params

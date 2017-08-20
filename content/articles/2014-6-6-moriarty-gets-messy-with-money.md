@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Birdland is thought-provoking but mainly just confusing, says Chris Witham
 date: "2014-06-06 02:48:26 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4664"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ctw11
  - jal08
 highlights:
 

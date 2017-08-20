@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Letts looks at the future of performance-related pay in the City
 date: "2012-02-09 22:10:33 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2140"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jal08
  - pk1811
 highlights:
  - comment

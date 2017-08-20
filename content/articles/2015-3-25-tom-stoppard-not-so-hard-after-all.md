@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman wraps his head around the playwright’s latest
 date: "2015-03-25 12:56:39 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5440"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - js5913
 highlights:
  - comment
  - photos

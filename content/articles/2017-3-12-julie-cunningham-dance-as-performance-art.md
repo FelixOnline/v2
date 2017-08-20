@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dancer-turned-choreographer Julie Cunningham presents a modern mediation on gender identity
 date: "2017-03-12 21:24:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6893"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - scc114
 highlights:
  - comment
 

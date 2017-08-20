@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Demonstration outside Sherfield as Health minister Andrew Lansley marks launch of new school
 date: "2011-02-17 19:32:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "819"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

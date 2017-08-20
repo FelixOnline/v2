@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have we been here in a past life? Let me save you the trouble; the answer is no
 date: "2011-02-17 20:11:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "835"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jjg09
 highlights:
  - comment
 

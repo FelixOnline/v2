@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The obvious point to be made here is that not only is this yet another sequel, it’s also a sequel to a reboot to a film series that was barely a decade old the first time around. And so it is again, with this reboot sequel coming ten years after the best film in the original trilogy.
 date: "2014-05-02 01:20:48 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4547"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

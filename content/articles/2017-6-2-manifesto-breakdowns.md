@@ -4,7 +4,6 @@ title: >
 subtitle: >
    The policy headlines
 date: "2017-06-02 13:59:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7001"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
+ - mjj15
+ - tad08
 highlights:
  - longread
  - photos

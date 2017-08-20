@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey thinks that millennial entitlement is a good thing
 date: "2017-05-15 15:52:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6946"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - tad08
 highlights:
 
 # Homepage control params

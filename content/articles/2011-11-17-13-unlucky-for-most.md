@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fresh from the successes of Earthquakes in London, Mike Bartlett's new play takes a new angle of government, protest and personal responsibility
 date: "2011-11-17 21:22:36 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1775"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - sjw209
 highlights:
 

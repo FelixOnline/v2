@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The hair’s looking better this season, at least
 date: "2017-01-20 15:17:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6667"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
  - photos

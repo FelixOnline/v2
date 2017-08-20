@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Turgid Trumbo fails to shine, despite the best efforts of Bryan Cranston
 date: "2016-02-12 11:45:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5911"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

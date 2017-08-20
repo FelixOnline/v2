@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union to hire £100,000 per year worth of new support staff
 date: "2012-11-22 22:25:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2927"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
  - photos

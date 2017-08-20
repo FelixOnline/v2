@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie Fraser takes a look at the musician who blends sampler-triggered melodies with more club-ready beats
 date: "2011-02-28 21:34:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "949"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jf107
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist
 date: "2016-05-13 09:30:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6164"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

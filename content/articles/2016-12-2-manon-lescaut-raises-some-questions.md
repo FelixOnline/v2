@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Manon Lescaut is on at the Royal Opera House until 12th December 2016
 date: "2016-12-02 14:59:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6535"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

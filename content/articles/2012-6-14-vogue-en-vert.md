@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The perfect excuse to get yourself to Topshop today!
 date: "2012-06-14 19:50:28 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2552"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - rg1109
 highlights:
 
 # Homepage control params

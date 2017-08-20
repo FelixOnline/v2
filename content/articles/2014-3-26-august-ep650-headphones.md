@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl, on another beautiful encounter with Bluetooth
 date: "2014-03-26 15:40:39 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4511"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - me1711
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Valentine's Day (not really)
 date: "2013-02-07 23:07:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3252"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

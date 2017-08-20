@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Henry Lloyd-Laney reports on the upcoming Namco Bandai Release
 date: "2014-11-10 21:47:26 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4827"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hl5714
  - ps3110
 highlights:
 

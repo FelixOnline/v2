@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Going to a Spanish university for a year makes you realise just how fortunate we are to be at Imperial
 date: "2011-01-27 19:42:18 +0000"
-author_id: "ial08"
 
 # Attributes from Felix Online V1
 id: "674"

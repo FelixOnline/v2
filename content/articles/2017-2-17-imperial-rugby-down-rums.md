@@ -4,7 +4,6 @@ title: >
 subtitle: >
   oop
 date: "2017-02-17 16:22:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6802"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - davidnielsonscot
  - felix
 highlights:
  - comment

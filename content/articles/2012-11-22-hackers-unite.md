@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Wong introduces Imperial’s very own Hackathon
 date: "2012-11-22 23:11:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2941"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sw2309
  - tna08
 highlights:
  - comment

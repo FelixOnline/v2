@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is mightily impressed by the Royal Shakespeare Company's latest tour-de-force, which centres around the creation of the atomic bomb
 date: "2015-04-07 16:34:11 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5462"

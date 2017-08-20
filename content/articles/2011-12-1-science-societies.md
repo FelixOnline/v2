@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Young scientists from several universities across the UK met with guests of honour including HRH The Duke of Kent and Sir Paul Nurse to discuss the future of science
 date: "2011-12-01 19:56:20 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1864"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Proctor compare us to Oxbridge to see who works harder
 date: "2013-01-10 22:37:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3090"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mp1412
  - tna08
 highlights:
  - comment

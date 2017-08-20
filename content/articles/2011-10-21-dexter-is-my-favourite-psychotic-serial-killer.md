@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Barnett turns his pen to a less provocative subject
 date: "2011-10-21 10:42:26 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1593"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - gb610
 highlights:
 
 # Homepage control params

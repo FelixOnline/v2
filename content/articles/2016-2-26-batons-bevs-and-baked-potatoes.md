@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hyde Park Relays 2016 proves yet again that Valentine’s Weekend is better with a hangover
 date: "2016-02-26 12:16:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5992"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - al1214
+ - cdt12
 highlights:
  - comment
 

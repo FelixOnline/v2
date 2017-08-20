@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shappi, queen of Ealing
 date: "2017-02-03 17:01:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6726"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sk2214
 highlights:
 
 # Homepage control params

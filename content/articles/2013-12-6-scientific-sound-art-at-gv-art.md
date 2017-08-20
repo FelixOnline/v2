@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland talks to Mendel Kaelen, an Imperial PhD student whose artwork is on display in the GV Art Gallery in London
 date: "2013-12-06 04:17:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4196"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - km2612
 highlights:
  - longread
 

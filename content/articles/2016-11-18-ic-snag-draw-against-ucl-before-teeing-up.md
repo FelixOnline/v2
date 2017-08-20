@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There was heavy breathing
 date: "2016-11-18 17:06:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6487"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - alexclayton
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You know less about ice than you think
 date: "2017-06-09 15:02:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7014"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aran.shaunak16
 highlights:
 
 # Homepage control params

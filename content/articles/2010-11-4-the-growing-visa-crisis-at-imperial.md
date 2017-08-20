@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government's immigration cap and how it affects Imperial
 date: "2010-11-04 18:55:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "319"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - yw3410
 highlights:
  - longread
 

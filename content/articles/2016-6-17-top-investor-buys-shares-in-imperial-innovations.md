@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Neil Woodford now owns 20% of our research and development arm
 date: "2016-06-17 08:51:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6270"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

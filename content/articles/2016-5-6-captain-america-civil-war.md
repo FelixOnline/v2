@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-05-06 10:13:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6131"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

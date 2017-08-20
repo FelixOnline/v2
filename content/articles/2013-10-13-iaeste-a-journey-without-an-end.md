@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Alumnus Enrico Fantoni talks about his experience as a second year Chemist on an IAESTE placement.
 date: "2013-10-13 00:09:28 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3876"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - jal08
 highlights:
  - comment

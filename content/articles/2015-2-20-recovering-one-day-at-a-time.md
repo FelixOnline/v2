@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Diba Esbati shares some of her day-to-day coping strategies
 date: "2015-02-20 16:37:57 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5290"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ze111
 highlights:
  - comment
 

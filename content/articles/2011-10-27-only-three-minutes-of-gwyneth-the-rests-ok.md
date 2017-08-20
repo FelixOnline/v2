@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Henry Turner-Chambers finds an infectious afternoon's entertainment with Steven Soderbergh's Contagion
 date: "2011-10-27 21:29:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1611"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffilm
 highlights:
 
 # Homepage control params

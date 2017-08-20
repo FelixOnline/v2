@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix sends undercover reporter MC Hämmer on a night out...
 date: "2012-10-11 20:51:03 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2655"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - mc4509
 highlights:
 

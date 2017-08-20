@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Worrying about self improvement is a waste of time, so forget about it, go enjoy yourself, but read this first...
 date: "2011-01-13 20:52:04 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "586"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - mrangry
 highlights:
 
 # Homepage control params

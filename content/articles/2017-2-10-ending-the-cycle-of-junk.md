@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandra Lim looks at the science behind our cravings, and why it’s easier to stop bingeing than we think
 date: "2017-02-10 14:02:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6751"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - al4915
 highlights:
  - comment
 

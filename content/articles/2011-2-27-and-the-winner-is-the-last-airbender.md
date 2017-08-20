@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We all knew it was last year's worst film, but now its got an award to prove it!
 date: "2011-02-27 19:09:30 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "908"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jh308
  - ks607
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There’s plenty more fish in the sea – or are there?
 date: "2012-10-05 11:56:31 +0100"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2606"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lap08
  - nn1209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Government’s treatment of overseas nationals is reprehensible, and is threatening a large number of students at Imperial
 date: "2013-06-13 22:35:27 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3679"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ck1510
  - tna08
 highlights:
  - comment

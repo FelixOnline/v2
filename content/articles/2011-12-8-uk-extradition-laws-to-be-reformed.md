@@ -4,7 +4,6 @@ title: >
 subtitle: >
   MPs call for applied changes to Babar Ahmad case following evidence admissions
 date: "2011-12-08 20:16:53 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1911"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - pk1811
 highlights:
  - comment

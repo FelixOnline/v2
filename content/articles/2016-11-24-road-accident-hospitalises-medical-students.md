@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One remains in critical condition
 date: "2016-11-24 16:44:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6490"

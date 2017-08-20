@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maybe it isn’t good to compare myself to them, but I do
 date: "2015-01-23 01:29:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5125"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pa07
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Callum Hunter welcomes parliament’s involvement in the Brexit process
 date: "2016-11-18 14:46:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6461"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - caluumhunter
  - felix
 highlights:
  - photos

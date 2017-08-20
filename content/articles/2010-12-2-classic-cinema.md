@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Breakfast Club helps you remember what it feels like to go from suicidal confessions, to flailing 80s style dancing in the average time it takes a teenage guy to ‘rock your world’. And that really isn’t long, trust me
 date: "2010-12-02 20:17:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "464"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ap1310
  - felix
 highlights:
 

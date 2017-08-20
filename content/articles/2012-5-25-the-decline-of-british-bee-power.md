@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Oakes reports on a possible cause of falling bee numbers
 date: "2012-05-25 18:42:40 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2500"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ko407
  - mc4509
 highlights:
  - comment

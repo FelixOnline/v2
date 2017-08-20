@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Round-Heeled Woman: as cringeworthy as a Christmas dinner gone wrong
 date: "2011-12-08 21:02:50 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1927"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lj1409
  - pk1811
 highlights:
 

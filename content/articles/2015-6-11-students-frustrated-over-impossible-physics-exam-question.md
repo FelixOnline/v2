@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students have been told they will receive full marks if they had pointed out it could not be solved, reports Philippa Skett
 date: "2015-06-11 22:48:38 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5616"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
  - longread

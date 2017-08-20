@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Publish offensive material if you like, just make it good!
 date: "2015-01-23 01:31:09 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5126"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - ps3110
 highlights:
  - comment

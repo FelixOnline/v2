@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Major delays on the Felix Line due to a signal failure in the Copy Editor area.
 date: "2011-12-01 21:23:55 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1890"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - tna08
 highlights:
  - comment
  - longread

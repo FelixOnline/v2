@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-17 09:38:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6290"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

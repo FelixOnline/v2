@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on how bisexuality and fish porn have come together this week
 date: "2013-01-18 00:23:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3131"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

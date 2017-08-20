@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cave Johnson here folks. Shut up and read.
 date: "2012-01-19 20:23:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2013"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fgames
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles gets punchdrunk in an abandoned sorting office
 date: "2013-10-11 23:53:17 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3833"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - jal08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest obsession in the world of fashion: technology
 date: "2010-11-11 20:33:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "339"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gy107
 highlights:
  - comment
 

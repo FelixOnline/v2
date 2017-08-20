@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...
 date: "2016-12-09 12:32:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6569"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - photos
 

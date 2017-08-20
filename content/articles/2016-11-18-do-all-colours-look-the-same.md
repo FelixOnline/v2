@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Qasim Mahmood examines the science behind seeing colours, and why experiencing them may be visually different for everyone
 date: "2016-11-18 14:53:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6466"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - qm413
 highlights:
  - photos
 

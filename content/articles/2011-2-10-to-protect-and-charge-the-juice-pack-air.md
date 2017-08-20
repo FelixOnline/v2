@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Mophie Air almost doubles the iPod touch’s playback time
 date: "2011-02-10 20:34:53 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "777"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shock horror! There's actually something funnier than Felix in South Kensington!
 date: "2011-11-24 22:35:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1838"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - idb10
 highlights:
 
 # Homepage control params

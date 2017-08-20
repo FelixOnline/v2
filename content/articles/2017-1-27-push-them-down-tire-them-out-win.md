@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We swear it's not porn
 date: "2017-01-27 17:33:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6701"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cloefradin
 highlights:
 
 # Homepage control params

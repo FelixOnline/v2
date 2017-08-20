@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The English bid has been sliding down a slippery slope since May. By David Wilson
 date: "2010-12-02 20:40:10 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "476"

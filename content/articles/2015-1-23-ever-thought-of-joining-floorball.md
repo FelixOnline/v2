@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Raymond Thawani walks you through a day in the life
 date: "2015-01-23 19:19:42 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5151"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - art12
  - jyg11
 highlights:
 

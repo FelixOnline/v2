@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After almost two months of delays, the new club opens its doors to students
 date: "2010-11-18 21:44:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "409"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

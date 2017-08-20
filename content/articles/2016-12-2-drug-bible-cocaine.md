@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Now officially known as the Devil's Persil
 date: "2016-12-02 15:30:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6547"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
  - photos
 

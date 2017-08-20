@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Good Dinosaur, Pixar's latest offering, does not hold up to close scrutiny
 date: "2015-12-06 13:53:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5796"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

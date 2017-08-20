@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray on, predictably, something obscure...
 date: "2013-02-01 00:45:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3232"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rbg10
  - tna08
 highlights:
 

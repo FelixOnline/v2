@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We’re alienating future female scientists, says George Butcher
 date: "2014-11-20 21:00:51 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4913"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - gb1311
 highlights:
  - comment
 

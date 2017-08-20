@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shooting the Bries with Cathedral City’s very own ‘cheese grader’
 date: "2011-12-01 20:43:34 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1875"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - pk1811
 highlights:
 

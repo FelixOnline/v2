@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland explores Pikin Slee, Sassen’s exhibition at the ICA
 date: "2015-02-07 19:12:48 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5205"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - km2612
  - ps3110
 highlights:
  - comment

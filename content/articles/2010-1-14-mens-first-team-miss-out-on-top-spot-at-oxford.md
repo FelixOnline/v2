@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's first team miss out on top spot at Oxford
 date: "2010-01-14 19:29:02 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "38"

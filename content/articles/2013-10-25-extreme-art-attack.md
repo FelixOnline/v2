@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles witnesses the destruction
 date: "2013-10-25 00:17:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3927"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ff712
 highlights:
  - photos
 

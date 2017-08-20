@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Albert Nickelby turns his eyes to Europe in an attempt to explain the seismic pressures of the bond markets.
 date: "2011-12-01 19:46:07 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1861"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fbusines
  - pk1811
 highlights:
  - longread

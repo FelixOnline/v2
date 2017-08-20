@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal on the bibliography of Henry James
 date: "2013-10-12 00:27:01 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3837"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - jal08
 highlights:
 

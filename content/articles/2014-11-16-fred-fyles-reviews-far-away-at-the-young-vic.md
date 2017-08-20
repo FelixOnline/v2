@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “There are all sorts of birds here”
 date: "2014-11-16 00:10:34 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4899"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

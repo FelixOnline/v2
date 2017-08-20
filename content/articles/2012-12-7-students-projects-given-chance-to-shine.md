@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giri Kesavan shares highlights from Imperial’s first ever CSR conference
 date: "2012-12-07 02:16:01 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3045"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gsk10
  - tna08
 highlights:
 

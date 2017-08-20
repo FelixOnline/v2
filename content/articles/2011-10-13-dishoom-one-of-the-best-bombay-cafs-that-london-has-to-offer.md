@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael and Anastasia review Leicester Square Indian restaurant Dishoom
 date: "2011-10-13 23:27:28 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1523"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
+ - mk4410
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of Tennessee Williams' famed play
 date: "2010-12-02 20:14:28 +0000"
-author_id: "cf107"
 
 # Attributes from Felix Online V1
 id: "463"

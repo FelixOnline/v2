@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber talks with the Luxembourger ahead of his appearance at Diggidy Dawg this Saturday
 date: "2012-06-07 22:29:10 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2539"

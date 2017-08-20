@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A long weekend of artistic pleasures and historical delights: the perfect European city getaway
 date: "2011-10-13 23:34:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1525"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - da2309
  - felix
 highlights:
  - comment

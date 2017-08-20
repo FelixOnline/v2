@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial vs. Christchurch Canterbury is a close call
 date: "2014-11-10 22:06:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4836"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb2013
  - ps3110
 highlights:
 

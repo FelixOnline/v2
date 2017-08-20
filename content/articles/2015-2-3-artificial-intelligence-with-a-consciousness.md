@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe on an Imperial professor’s involvement in the film Ex-Machina
 date: "2015-02-03 14:54:39 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5185"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ltr11
  - ps3110
 highlights:
  - comment

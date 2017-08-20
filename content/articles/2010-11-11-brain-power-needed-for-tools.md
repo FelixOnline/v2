@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Question of how Stone Age man evolved to craft increasingly superior stone tools answered
 date: "2010-11-11 21:01:12 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "350"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - pab10
 highlights:
 
 # Homepage control params

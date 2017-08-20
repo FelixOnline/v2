@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are you thinking of buying property in South Kensington?
 date: "2013-12-02 21:48:16 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4155"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jt2010
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's hypocrisy hidden inside us all, but try to keep it in check
 date: "2015-10-23 11:51:58 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5676"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - je615
 highlights:
  - comment
 

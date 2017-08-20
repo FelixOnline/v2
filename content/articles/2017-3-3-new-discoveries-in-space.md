@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new neighbouring solar system brings promise
 date: "2017-03-03 15:12:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6842"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sara.hamilton14
 highlights:
  - comment
 

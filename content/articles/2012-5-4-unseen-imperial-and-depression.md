@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More anonymous accounts of students and their experiences with depression
 date: "2012-05-04 01:17:02 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2426"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - mc4509
 highlights:
  - longread

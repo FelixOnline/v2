@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Did you come to uni pretty au fait with the world of ‘Sex, Drugs and Rock N’ Roll’ or was your life a bit more ‘Sex, Drugs and the Physiochemical Interface Inbetween’? We all know the Government’s abstinence only approach works about as well as the American Government’s sex-ed programme. So let’s ta
 date: "2016-10-14 10:02:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6331"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - htb08
 highlights:
  - photos
 

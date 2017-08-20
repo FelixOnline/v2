@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vithulan Patkunan reviews Donna Tartt’s latest masterpiece
 date: "2014-01-17 03:50:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4243"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - vp1312
 highlights:
  - longread
 

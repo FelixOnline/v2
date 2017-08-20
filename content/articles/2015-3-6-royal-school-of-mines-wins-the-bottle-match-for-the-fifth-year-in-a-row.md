@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Farmer reports from Harlington, where RSM come from behind to retain the bottle
 date: "2015-03-06 14:02:53 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5353"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - kmw13
+ - nf311
 highlights:
  - comment
 

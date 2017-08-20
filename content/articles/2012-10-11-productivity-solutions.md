@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr. Magdalena Bak-Maier responds to students’ queries
 date: "2012-10-11 20:38:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2647"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fbusines
  - felix
 highlights:
  - comment

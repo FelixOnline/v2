@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Replace that Red Stripe with a Venti Cappuccino
 date: "2016-01-29 09:35:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5850"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

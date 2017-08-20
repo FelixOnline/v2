@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial students launch happybirthdaystevejobs.com
 date: "2011-03-01 20:40:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "956"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

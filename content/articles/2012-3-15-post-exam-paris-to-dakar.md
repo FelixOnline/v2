@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Five Imperial students will take to the road this summer in an alternative road trip
 date: "2012-03-15 21:04:48 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2368"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - dth08
 highlights:
  - photos
 

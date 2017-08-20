@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guess which substance killed Amy Winehouse? Have a stab in the dark.
 date: "2014-06-23 14:54:59 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4715"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jp1911
 highlights:
  - photos
 

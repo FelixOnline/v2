@@ -4,7 +4,6 @@ title: >
 subtitle: >
   AHAAAAAAAAA. It's another Alan Partridge reference
 date: "2012-10-26 02:48:48 +0100"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2757"

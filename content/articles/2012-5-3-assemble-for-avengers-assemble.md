@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So I heard you like superheroes
 date: "2012-05-03 18:33:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2414"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

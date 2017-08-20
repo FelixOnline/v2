@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Could this be the ‘Great Gig in the Scala’?
 date: "2010-10-28 19:33:03 +0100"
-author_id: "lht09"
 
 # Attributes from Felix Online V1
 id: "264"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tech Editor Yong Wen Chua on Pokémon X&Y
 date: "2013-10-25 01:02:29 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3946"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ywc110
 highlights:
  - longread
 

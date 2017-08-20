@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Middle class nanny-state blamed for riots
 date: "2012-02-02 19:46:20 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2094"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - rj408
 highlights:
 
 # Homepage control params

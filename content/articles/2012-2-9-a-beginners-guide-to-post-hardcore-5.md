@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lesson 5: The Fall of Troy
 date: "2012-02-09 22:16:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2144"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gj309
 highlights:
 
 # Homepage control params

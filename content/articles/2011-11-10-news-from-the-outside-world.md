@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Letts takes a brief look at the political turmoil taking over the world
 date: "2011-11-10 20:16:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1709"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rj408
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The change.org petition needs your signature
 date: "2016-05-20 08:46:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6171"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

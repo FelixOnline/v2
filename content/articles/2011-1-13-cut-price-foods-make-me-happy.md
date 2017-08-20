@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are there any greater joys of a modern existence than the Reduced Price section of a supermarket?
 date: "2011-01-13 21:09:28 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "588"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - oh106
 highlights:
 
 # Homepage control params

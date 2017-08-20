@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Review by Matt Allinson, Oliver Calderbank, Chris Richardson and Jonathan Messing
 date: "2010-10-28 19:44:08 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "273"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - jk708
+ - ma1307
+ - oc07
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Russell Group uni will be investing the £250 million in student facilities
 date: "2016-02-26 11:26:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5957"

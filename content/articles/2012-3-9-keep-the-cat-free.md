@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On the independence of Felix
 date: "2012-03-09 13:06:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2338"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

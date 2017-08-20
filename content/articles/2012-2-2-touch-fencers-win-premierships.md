@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC confirm reigning champion status at Ethos in weekend tournament
 date: "2012-02-02 23:10:07 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2106"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ial08
  - sjw209
 highlights:
 

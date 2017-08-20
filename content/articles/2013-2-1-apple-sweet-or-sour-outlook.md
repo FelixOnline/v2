@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl dissects the taste of the future for the fruity company
 date: "2013-02-01 01:13:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3241"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A slew of new features for Android revealed at Google I/O 2013!
 date: "2013-06-06 17:47:18 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3666"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - tna08
+ - ywc110
 highlights:
  - comment
 

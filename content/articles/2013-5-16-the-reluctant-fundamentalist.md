@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oh FIIIINE I'll be a fundamentalist then. Maybe more serious than this subtitle makes it seem.
 date: "2013-05-16 18:41:52 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3584"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klb09
  - tna08
 highlights:
 

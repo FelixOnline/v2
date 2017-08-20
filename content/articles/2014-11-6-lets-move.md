@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park explores the health epidemic plaguing the lives of Americans
 date: "2014-11-06 19:25:35 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4778"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - snb11
 highlights:
 

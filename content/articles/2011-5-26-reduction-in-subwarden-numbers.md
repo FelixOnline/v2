@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wardening review recommends rebalancing in favour of counselling and disability services
 date: "2011-05-26 18:39:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1250"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

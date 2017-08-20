@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The highly aticipated modern day musical which draws inspiration from the old classics is as amazing as the hype has made it out to be.
 date: "2017-01-13 14:30:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6642"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
 
 # Homepage control params

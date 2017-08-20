@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column on our favourite animation
 date: "2016-02-05 12:48:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5884"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - hjw13
 highlights:
 
 # Homepage control params

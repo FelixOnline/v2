@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Adam Funnell looks back at a successful ArtsFest
 date: "2013-03-01 00:16:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3402"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - af3309
  - tna08
 highlights:
  - photos

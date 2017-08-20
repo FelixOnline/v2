@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sanchit Sharma invades a country for it's natural resources. Oh, wait, no, to topple an evil regime
 date: "2013-06-20 22:47:32 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3713"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ss9011
  - tna08
 highlights:
  - comment

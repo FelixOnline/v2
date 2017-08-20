@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The youth has gone mad, MAD I TELL YA
 date: "2016-12-02 16:52:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6555"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - di312
 highlights:
 
 # Homepage control params

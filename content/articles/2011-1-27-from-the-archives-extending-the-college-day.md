@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The last time students tried to stop Imperial extending academic hours they had little success, will history repeat itself?
 date: "2011-01-27 17:55:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "648"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dr710
  - felix
 highlights:
 

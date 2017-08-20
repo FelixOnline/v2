@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Adams on the joy of dichotomy
 date: "2013-10-25 00:05:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3919"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - fcomment
  - felix
 highlights:
 

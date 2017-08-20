@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews the alt-country band’s Garage performance
 date: "2014-02-07 04:36:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4337"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

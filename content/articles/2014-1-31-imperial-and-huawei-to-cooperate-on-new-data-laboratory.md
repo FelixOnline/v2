@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A top global ICT solutions company and Imperial will collaborate and invest on a data science lab.
 date: "2014-01-31 17:11:44 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4309"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

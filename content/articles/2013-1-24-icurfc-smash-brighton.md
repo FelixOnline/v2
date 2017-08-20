@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Rugby take on everyone in the hip-hop world of Eastbourne
 date: "2013-01-24 20:52:05 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3154"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - sf2110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Give us your fooookin’ money, says Sir Richard Sykes
 date: "2013-02-14 21:11:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3331"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - tna08
 highlights:
  - comment

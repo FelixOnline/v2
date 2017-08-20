@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LA is the place to go for sun, sand, and anything else you may want, says Natalia Petrou
 date: "2013-02-01 00:06:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3220"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ftravel
  - tna08
 highlights:
  - comment

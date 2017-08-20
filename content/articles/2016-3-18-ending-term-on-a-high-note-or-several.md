@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's officially performance season again for the arts societies at Imperial
 date: "2016-03-18 12:05:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6076"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4812
 highlights:
  - comment
 

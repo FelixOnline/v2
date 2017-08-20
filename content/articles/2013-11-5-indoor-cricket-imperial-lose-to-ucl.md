@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC's fortune takes a turn for the worse as the Indoor Cricket team loses gallantly to UCL
 date: "2013-11-05 09:59:23 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4014"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - zr313
 highlights:
 
 # Homepage control params

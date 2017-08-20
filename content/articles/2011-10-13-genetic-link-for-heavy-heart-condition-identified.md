@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven reports on hereditary faulty genes
 date: "2011-10-13 21:48:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1510"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

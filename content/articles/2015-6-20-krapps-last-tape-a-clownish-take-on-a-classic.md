@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5645"

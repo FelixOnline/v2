@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam and Chris Bowers get you up to scratch
 date: "2011-09-30 12:00:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1460"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb908
+ - fa608
  - felix
 highlights:
  - comment

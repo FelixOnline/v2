@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Margot Pikovsky despairs at the College’s apathy
 date: "2012-11-09 11:54:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2843"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mp1710
  - tna08
 highlights:
  - comment

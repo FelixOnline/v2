@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhys Davies has finally left (or returned to?) the Stone Age
 date: "2012-02-23 19:51:07 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2227"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - rjd08
 highlights:
  - comment
 

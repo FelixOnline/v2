@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second reading of the Immigration Bill took place in the House of Lords last Monday. The reading stretched over a seven-hour period during which the Peers discussed several aspects of the bill, including a lengthy discussion about the prospective problems facing overseas students due to the bill
 date: "2014-02-21 02:52:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4410"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jal08
 highlights:
 
 # Homepage control params

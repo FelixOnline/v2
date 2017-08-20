@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Machete in hand, Andrew Purcell sets off to explore our urban jungle...
 date: "2011-03-18 06:56:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1111"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ap1509
  - felix
 highlights:
  - longread

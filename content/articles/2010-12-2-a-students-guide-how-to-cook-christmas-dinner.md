@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get together before term ends with yet more wine and a huge bird. By Nadia Paes
 date: "2010-12-02 20:18:29 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "465"

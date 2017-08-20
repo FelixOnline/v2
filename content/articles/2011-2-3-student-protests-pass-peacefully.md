@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Violence of previous protests avoided
 date: "2011-02-03 19:52:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "728"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ua108
 highlights:
  - comment
 

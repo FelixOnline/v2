@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Johnny Depp and co put on a good performance, but Black Mass fails to truly impress
 date: "2016-09-05 20:35:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6295"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
 
 # Homepage control params

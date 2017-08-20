@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reviewing the next installment of Battlefield, as well as gushing about counterknifing!
 date: "2014-01-22 14:15:57 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4266"

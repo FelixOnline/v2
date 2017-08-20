@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new centre that collaborates with Dyson will be launching at Imperial in the Department of Computing, this will be the Dyson Robotics Laboratory.
 date: "2014-02-14 04:30:09 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4376"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - nm708
  - snb11
 highlights:
 

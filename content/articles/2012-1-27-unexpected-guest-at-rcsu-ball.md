@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cricketer commotion as students raise money for RAG
 date: "2012-01-27 00:27:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2081"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - pjb09
 highlights:
 
 # Homepage control params

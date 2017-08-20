@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column
 date: "2016-02-26 11:54:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5975"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
 

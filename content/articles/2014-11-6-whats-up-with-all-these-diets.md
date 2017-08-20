@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michelle Tan explores both the longstanding and the faddy
 date: "2014-11-06 21:08:22 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4796"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mwt12
  - snb11
 highlights:
  - comment

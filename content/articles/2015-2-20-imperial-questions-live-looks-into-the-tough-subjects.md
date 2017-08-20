@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent reports on ICTV’s exciting new show
 date: "2015-02-20 00:04:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5281"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - txl11
 highlights:
  - comment
  - longread

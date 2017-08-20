@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the final game of the season, Imperial needed a win against Kingston to successfully defend their LUSL title. The weather and train engineering works did not seem to be in the team’s favour but once on the pitch, little could stop Imperial continuing to play some magnificent rugby.
 date: "2014-05-02 02:04:34 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4562"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - kf409
 highlights:
 
 # Homepage control params

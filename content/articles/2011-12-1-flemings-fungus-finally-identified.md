@@ -4,7 +4,6 @@ title: >
 subtitle: >
   While previously assumed to have been P. chrysogenum, the fungus that led Fleming to his discovery of penicillin may in fact have been up to four separate species
 date: "2011-12-01 19:40:55 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1859"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - slb210
 highlights:
 
 # Homepage control params

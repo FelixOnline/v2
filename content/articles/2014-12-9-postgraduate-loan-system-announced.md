@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students can now get funding for taught and research masters courses
 date: "2014-12-09 13:45:25 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5016"

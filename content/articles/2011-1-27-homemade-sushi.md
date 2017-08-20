@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Source, prepare and make your own sushi, made easy.
 date: "2011-01-27 20:31:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "696"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dhl106
  - felix
 highlights:
  - comment

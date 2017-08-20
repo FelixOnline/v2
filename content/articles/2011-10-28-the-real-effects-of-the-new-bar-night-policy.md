@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RSMU President explains how new Union policy has effectively killed bar nights
 date: "2011-10-28 00:17:43 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1629"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - rms07
 highlights:
 
 # Homepage control params

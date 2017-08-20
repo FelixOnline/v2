@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5048"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

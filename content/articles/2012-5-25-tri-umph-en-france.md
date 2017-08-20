@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Synchronised Swimming take third place out of all French university teams, reports Delphine Rolando
 date: "2012-05-25 17:45:21 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2495"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dmr210
  - mc4509
 highlights:
  - comment

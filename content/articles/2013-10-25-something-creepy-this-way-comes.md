@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sleepy Hollow is the latest apocalyptic show to take the US by storm
 date: "2013-10-25 00:55:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3943"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ef510
  - felix
 highlights:
 

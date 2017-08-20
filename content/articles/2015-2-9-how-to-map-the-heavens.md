@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Astrophysicist Professor Alan Heavens talks to Ben Fernando about how we measure distances in the universe
 date: "2015-02-09 19:27:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5221"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - baf12
  - ps3110
 highlights:
 

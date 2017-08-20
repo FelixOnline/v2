@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Microsoft has selected the Business School for support
 date: "2010-02-28 16:07:59 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "116"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Manchester and Sussex students stage sit-ins to protest cuts to higher education
 date: "2010-11-18 21:52:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "413"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

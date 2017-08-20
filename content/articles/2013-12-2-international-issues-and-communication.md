@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is the penultimate issue of the term, we’ve only got one more until we break up for the Christmas holidays! Hurrah!
 date: "2013-12-02 21:47:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4154"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

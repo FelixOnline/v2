@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Björk: bastards
 date: "2012-11-23 00:21:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2971"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1210
 highlights:
 
 # Homepage control params

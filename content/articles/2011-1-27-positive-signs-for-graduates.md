@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Report suggests that the graduate market is overcoming the impact of the recession”
 date: "2011-01-27 18:26:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "653"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

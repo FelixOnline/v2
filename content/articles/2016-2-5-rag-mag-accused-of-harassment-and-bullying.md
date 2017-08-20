@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The handout will no longer be distributed after union tells RAG it's "an unacceptable personal attack"
 date: "2016-02-05 11:43:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5860"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

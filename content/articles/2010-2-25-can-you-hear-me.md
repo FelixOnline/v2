@@ -4,7 +4,6 @@ title: >
 subtitle: >
    A look at how mobile phones have brought private conversations into the public space to the annoyance of everyone
 date: "2010-02-25 13:08:26 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "97"

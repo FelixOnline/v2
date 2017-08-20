@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Most distant galaxy ever detected
 date: "2011-02-03 19:59:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "732"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ko407
 highlights:
  - photos
 

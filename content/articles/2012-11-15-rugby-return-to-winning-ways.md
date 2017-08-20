@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rob Kyle talks of rugby's reclaiming of their rightful place: a team that wins
 date: "2012-11-15 22:28:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2919"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rk1410
  - tna08
 highlights:
  - photos

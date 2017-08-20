@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is as much dignity in being honest as in staying silent
 date: "2016-04-29 10:11:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6094"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
  - photos

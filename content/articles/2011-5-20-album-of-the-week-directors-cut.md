@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kate Bush's first album in six years
 date: "2011-05-20 05:39:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1223"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ss10210
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cave Johnson advises on how to get the best possible start as an evil scientist
 date: "2012-03-01 22:55:23 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2294"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - fgames
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An opera that speaks to the heart
 date: "2017-02-03 17:02:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6727"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
  - longread
 

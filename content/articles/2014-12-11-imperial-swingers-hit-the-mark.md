@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt on Imperial’s first Dance Open Day
 date: "2014-12-11 21:22:02 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5037"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - cj914
 highlights:
 

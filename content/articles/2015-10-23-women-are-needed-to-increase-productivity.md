@@ -4,7 +4,6 @@ title: >
 subtitle: >
   UN goal to seek greater female presence in science
 date: "2015-10-23 11:35:36 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5666"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - mw4414
 highlights:
 
 # Homepage control params

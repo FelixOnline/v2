@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three excellent albums reviewed in less time than it takes to boil an egg
 date: "2012-02-23 21:12:10 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2252"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - ar707
+ - im808
  - pk1811
+ - sh1207
 highlights:
  - photos
 

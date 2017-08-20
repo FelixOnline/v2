@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gizmodo ends up with an iPhone prototype lost in a bar and spills the details
 date: "2010-04-30 11:23:29 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "132"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - srg03
 highlights:
 
 # Homepage control params

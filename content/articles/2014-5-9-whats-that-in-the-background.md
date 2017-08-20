@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What are paintings all about anyway?
 date: "2014-05-09 02:17:19 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4580"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cfc111
  - jal08
 highlights:
  - photos

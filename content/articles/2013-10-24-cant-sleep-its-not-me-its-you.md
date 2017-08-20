@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Amrita Ghosh and Arya Mehta explore solutions to sleep deprivation
 date: "2013-10-24 23:55:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3916"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - ag4611
+ - am7911
  - felix
 highlights:
 

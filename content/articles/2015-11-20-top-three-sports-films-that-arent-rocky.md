@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We continue our selection of unappreciated gems with three alternative sports films
 date: "2015-11-20 14:01:48 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5766"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bsc14
  - ff712
 highlights:
  - comment

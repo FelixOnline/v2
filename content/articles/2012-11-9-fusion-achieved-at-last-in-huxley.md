@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An interview with Physics’ artist in residence
 date: "2012-11-09 13:13:59 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2855"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - tna08
 highlights:
  - longread

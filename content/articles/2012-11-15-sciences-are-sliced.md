@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A real term decrease to science spending
 date: "2012-11-15 20:45:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2883"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
  - photos

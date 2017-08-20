@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland explores what inspires us to seek out adventure
 date: "2015-06-20 17:30:55 +0100"
-author_id: "km2612"
 
 # Attributes from Felix Online V1
 id: "5647"

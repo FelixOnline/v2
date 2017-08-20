@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new night aims to bring back the feel of the 'Roaring Twenties'
 date: "2010-11-04 18:36:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "304"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dhl106
  - felix
 highlights:
 

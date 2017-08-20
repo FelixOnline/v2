@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College offers support to any students feeling affected
 date: "2016-12-09 11:58:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6562"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - stebo101
 highlights:
 
 # Homepage control params

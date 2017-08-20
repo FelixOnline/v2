@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A report from right inside San Francisco
 date: "2012-11-09 12:26:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2846"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aet209
  - tna08
 highlights:
  - longread

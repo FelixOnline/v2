@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Re-live Ruby Ramjan’s experience of last year’s Global Brigades
 date: "2012-01-26 22:06:28 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2052"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - rr1209
 highlights:
  - photos
 

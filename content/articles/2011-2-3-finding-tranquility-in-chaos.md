@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following a somewhat manic debut in Brazil, Priya Garg finds time to unwind and uncovers some of Rio de Janeiro’s hidden treasures.
 date: "2011-02-03 18:43:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "704"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pg405
 highlights:
 
 # Homepage control params

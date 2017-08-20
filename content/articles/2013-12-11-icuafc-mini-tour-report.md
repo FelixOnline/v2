@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At 2pm on Friday 22nd November the first impatient members of mini-tour arrived in the Union, for a live #AskMattCann. Like moths to a flame the remaining 34 touring rangers arrived to finally set eyes on the fabled tour tops...
 date: "2013-12-11 00:37:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4199"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mc4609
 highlights:
  - photos
 

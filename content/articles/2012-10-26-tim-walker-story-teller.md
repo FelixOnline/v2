@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang enters the magical world of fashion photography
 date: "2012-10-26 02:18:47 +0100"
-author_id: "ay310"
 
 # Attributes from Felix Online V1
 id: "2739"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - AY310
  - ay310
 highlights:
 

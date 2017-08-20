@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Learn more about IC’s premier broadcasters
 date: "2012-11-15 21:35:10 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2899"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
  - photos

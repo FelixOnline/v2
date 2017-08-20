@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medics Union renovates bar
 date: "2010-10-07 22:22:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "176"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

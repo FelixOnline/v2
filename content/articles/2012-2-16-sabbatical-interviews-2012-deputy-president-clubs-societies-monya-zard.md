@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The DPCS speaks on Freshers' Fair and the challenges of having responsibility for over 300 Clubs, Societies & Projects
 date: "2012-02-16 23:08:48 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2218"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mc4509
  - sjw209
 highlights:
  - comment

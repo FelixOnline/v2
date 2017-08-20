@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All of you spend a significant amount of your life on youtube, be it watching handy tutorial videos, lets-plays, music videos and/or videos of cute-ass kittens (the last being the most time intensive).
 date: "2013-10-16 13:56:28 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3878"

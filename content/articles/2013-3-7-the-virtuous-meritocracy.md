@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A pondering on a fair system
 date: "2013-03-07 23:41:41 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3444"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ejt11
  - tna08
 highlights:
 

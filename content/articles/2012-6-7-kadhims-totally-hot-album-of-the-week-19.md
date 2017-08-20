@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kindness – World, You Need A Change of Mind – Polydor – 2012
 date: "2012-06-07 22:18:48 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2537"

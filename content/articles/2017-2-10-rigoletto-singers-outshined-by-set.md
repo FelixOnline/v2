@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s never a good sign when the set outshines the main cast
 date: "2017-02-10 15:52:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6765"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

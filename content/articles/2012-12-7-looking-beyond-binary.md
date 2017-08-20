@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Hartley explores a refreshingly different anthology
 date: "2012-12-07 01:26:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3035"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - frh10
  - tna08
 highlights:
  - photos

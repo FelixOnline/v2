@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Essential info: Alan Soltani, 20, Physics 3rd year. 1m83, 76kg, throws with right arm. 3 years’ dodgeball experience. Likes: toe-snapping shots, wrenches. Dislikes: Minotaur dodgeball, wrenches.
 date: "2011-12-01 21:17:27 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1886"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ial08
 highlights:
 
 # Homepage control params

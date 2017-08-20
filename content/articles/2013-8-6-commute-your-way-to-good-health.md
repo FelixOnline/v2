@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A little exercise really does go a long way: Laurence Pope discusses new research on the effects commuting has on the prevention of diabetes.
 date: "2013-08-06 09:36:49 +0100"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3747"

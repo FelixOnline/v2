@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The British Museum displays its rare collection of Picasso prints, never before seen in Britain
 date: "2012-05-10 20:25:40 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2447"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - sd2911
 highlights:
  - photos
 

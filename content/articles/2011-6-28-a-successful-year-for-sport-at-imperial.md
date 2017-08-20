@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look back at a year of sport
 date: "2011-06-28 12:10:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1447"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - maf07
 highlights:
 
 # Homepage control params

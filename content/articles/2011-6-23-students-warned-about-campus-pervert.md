@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student photographed in Central Library bathrooms
 date: "2011-06-23 18:55:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1409"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
 highlights:
  - comment

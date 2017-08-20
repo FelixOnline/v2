@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do we take NHS for granted?
 date: "2011-02-03 20:10:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "737"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mg1508
 highlights:
 
 # Homepage control params

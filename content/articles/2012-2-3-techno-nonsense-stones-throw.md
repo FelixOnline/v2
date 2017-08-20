@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter on the beat scene groundbreakers
 date: "2012-02-03 11:13:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2129"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sh1207
 highlights:
  - comment
 

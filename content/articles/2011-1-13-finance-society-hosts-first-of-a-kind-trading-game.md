@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Young traders from across the country gather at Imperial
 date: "2011-01-13 19:28:17 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "565"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ac1507
  - ks607
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kieran Ryan takes the pilgrimage to Margate to see Turner and Frankenthaler
 date: "2014-04-07 12:52:12 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4523"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - kr812
 highlights:
 
 # Homepage control params

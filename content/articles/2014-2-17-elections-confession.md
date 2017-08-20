@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So, the elections are around the corner. I remember this time last year, I was having to make the decision about running for the Big Elections...
 date: "2014-02-17 17:26:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4395"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yes, that's the real title. No, that's not a misprint.
 date: "2015-05-15 12:10:26 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5528"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - js5913
 highlights:
  - comment
 

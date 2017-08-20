@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As World Diabetes Day approaches, what can be done?
 date: "2010-11-11 21:06:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "352"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jw4410
 highlights:
 
 # Homepage control params

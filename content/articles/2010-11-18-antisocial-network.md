@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Little opinion-laden buggers are everywhere
 date: "2010-11-18 22:11:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "418"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New genome sequencing methods are put into use
 date: "2012-01-26 22:27:38 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2063"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ps3110
 highlights:
 
 # Homepage control params

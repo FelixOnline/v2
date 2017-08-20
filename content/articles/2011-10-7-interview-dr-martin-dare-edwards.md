@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang bring us the first in a series of monthly interviews with some of the UKs premier industry leaders
 date: "2011-10-07 13:18:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1498"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - felix
 highlights:
  - longread

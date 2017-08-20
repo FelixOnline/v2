@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are we supporting suffering by allying ourselves academically?
 date: "2015-10-23 11:58:00 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5679"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - sk2214
 highlights:
  - comment
 

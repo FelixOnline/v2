@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Heather Jones on how public behaviour by a few individuals can negatively influence a whole range of unrelated social interactions
 date: "2012-06-14 19:28:44 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2547"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - hj307
 highlights:
  - comment
 

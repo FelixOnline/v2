@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rough Trade 2009, review by Greg Power
 date: "2010-02-05 10:50:39 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "74"

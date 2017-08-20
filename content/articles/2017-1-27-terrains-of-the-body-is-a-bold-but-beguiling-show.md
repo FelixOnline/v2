@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Terrains of the Body is on at the Whitechapel Gallery until 16th April 2017 Free entry
 date: "2017-01-27 17:01:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6699"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
+ - im1413
 highlights:
  - photos
 

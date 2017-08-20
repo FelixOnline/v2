@@ -4,7 +4,6 @@ title: >
 subtitle: >
   erial-dating lawyer Carly (Cameron Diaz) finally finds someone who could potentially be “the one”. This is until she figures out that he’s a married man. Game of Thrones’ Jaime Lannister, Nikolaj Coster-Waldau, has been a busy man no doubt. His wife Kate (Leslie Mann) is devastated and heart-broken.
 date: "2014-05-09 15:17:24 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4584"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

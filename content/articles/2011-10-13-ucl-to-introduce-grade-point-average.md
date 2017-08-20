@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the honours system is scrapped, Felix asks whether Imperial could follow suit
 date: "2011-10-13 20:33:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1503"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
  - longread

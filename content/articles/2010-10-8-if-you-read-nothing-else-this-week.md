@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gilead Amit, Deputy Editor, kicks off our new feature with his favourite work of literature: De Profundis
 date: "2010-10-08 06:33:54 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "184"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gda07
  - jk708
 highlights:
 

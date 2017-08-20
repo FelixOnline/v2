@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular nutrition column
 date: "2016-05-06 09:56:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6125"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - al4915
 highlights:
  - comment
 

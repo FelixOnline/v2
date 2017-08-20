@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Destroyed critically, but is it really so bad?
 date: "2014-06-11 22:00:08 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4675"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - me1711
 highlights:
 

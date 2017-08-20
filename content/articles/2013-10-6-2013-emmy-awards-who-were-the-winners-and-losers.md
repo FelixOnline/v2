@@ -4,7 +4,6 @@ title: >
 subtitle: >
   2013 Emmy Awards: Who were the winners and losers?
 date: "2013-10-06 09:23:26 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3815"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

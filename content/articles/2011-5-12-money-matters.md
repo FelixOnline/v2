@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If the rich get to pay their way into university, I’m emigrating
 date: "2011-05-12 19:17:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1205"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

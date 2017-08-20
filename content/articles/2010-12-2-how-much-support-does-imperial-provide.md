@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are many places to get help at Imperial
 date: "2010-12-02 21:40:24 +0000"
-author_id: "ec610"
 
 # Attributes from Felix Online V1
 id: "494"

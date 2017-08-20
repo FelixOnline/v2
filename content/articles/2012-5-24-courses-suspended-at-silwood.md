@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Staff depart natural science campus as select courses are suspended
 date: "2012-05-24 22:36:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2481"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

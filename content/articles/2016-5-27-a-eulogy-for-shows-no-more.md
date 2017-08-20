@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why do anything if it doesn’t earn you a good chunk of money?
 date: "2016-05-27 09:03:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6219"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - hmw15
 highlights:
 
 # Homepage control params

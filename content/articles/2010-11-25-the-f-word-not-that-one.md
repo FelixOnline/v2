@@ -4,7 +4,6 @@ title: >
 subtitle: >
    The F-word. Not that one
 date: "2010-11-25 21:58:48 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "445"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - nm1010
+ - rjd08
 highlights:
  - comment
 

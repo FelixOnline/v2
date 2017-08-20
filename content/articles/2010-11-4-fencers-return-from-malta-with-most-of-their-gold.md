@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Summer tour to Malta sees a haul of medals
 date: "2010-11-04 18:47:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "313"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jrp08
 highlights:
 
 # Homepage control params

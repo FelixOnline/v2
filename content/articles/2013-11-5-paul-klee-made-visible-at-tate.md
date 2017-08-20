@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Making visible: what an unimaginative name for an art exhibition! – This was my first thought, but the Paul Klee exhibition in the Tate Modern surprisingly deserves that name. Through a collection of pictures it conveys a lot more than “just” art...
 date: "2013-11-05 09:31:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3988"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jz2710
 highlights:
 
 # Homepage control params

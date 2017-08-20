@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Karapetian on computing and important mathematical problems
 date: "2012-02-03 11:01:45 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2128"

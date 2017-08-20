@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Scott Lynch’s debut series
 date: "2012-10-18 21:10:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2693"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

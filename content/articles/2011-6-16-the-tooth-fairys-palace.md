@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Sara Rankin is asking school children around the UK to donate their baby teeth. But why?
 date: "2011-06-16 19:36:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1384"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
  - photos
 

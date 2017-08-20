@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite pleas by students College transfers Translation Studies Unit
 date: "2013-10-03 23:00:32 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3794"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

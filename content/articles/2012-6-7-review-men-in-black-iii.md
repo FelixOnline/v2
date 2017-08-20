@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mr Smith and Mr Jones (and Mr Brolin) return for this enjoyable adventure
 date: "2012-06-07 19:14:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2529"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

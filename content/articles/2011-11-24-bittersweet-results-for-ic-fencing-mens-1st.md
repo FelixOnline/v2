@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A real clash of the titans as Imperial journey to Oxford
 date: "2011-11-24 23:40:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1851"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

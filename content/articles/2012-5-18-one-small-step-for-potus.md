@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Obama's evolution of thought on same-sex marriage
 date: "2012-05-18 11:23:37 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2471"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jal08
  - mc4509
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To be honest, we don't really know what we're talking about
 date: "2016-06-03 09:02:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6230"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

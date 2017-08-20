@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Utsav Radia reports on Imperial’s research into getting a good nights sleep
 date: "2014-11-28 01:01:09 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4973"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ur13
 highlights:
  - comment
 

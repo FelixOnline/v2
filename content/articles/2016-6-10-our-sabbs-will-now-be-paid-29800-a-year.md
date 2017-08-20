@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Their pay now matches the average Imperial graduate's wage
 date: "2016-06-10 08:11:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6244"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

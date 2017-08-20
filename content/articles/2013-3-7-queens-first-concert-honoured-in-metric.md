@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brian May returns to his home...
 date: "2013-03-07 23:37:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3443"

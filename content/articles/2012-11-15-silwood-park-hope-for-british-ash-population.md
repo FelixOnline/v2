@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Byrne on Silwood Park tackling the headline issues
 date: "2012-11-15 21:02:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2889"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - slb210
  - tna08
 highlights:
 

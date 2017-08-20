@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix reports on the extraordinary Council meeting
 date: "2017-01-20 14:49:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6653"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - alexandreadler
 highlights:
 
 # Homepage control params

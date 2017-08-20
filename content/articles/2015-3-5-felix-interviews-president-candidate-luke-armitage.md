@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:25:56 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5338"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - bwh12
+ - felixteam
 highlights:
  - comment
 

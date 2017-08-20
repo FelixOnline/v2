@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tommy Allieri photographs London's student uprising
 date: "2011-11-10 19:54:13 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1708"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - pk1811
 highlights:
 

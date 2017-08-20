@@ -4,7 +4,6 @@ title: >
 subtitle: >
   News from around the world
 date: "2011-01-27 19:27:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "669"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - khl208
 highlights:
  - comment
 

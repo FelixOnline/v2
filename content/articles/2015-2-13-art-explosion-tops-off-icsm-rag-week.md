@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt reports on a successful five days of fundraising
 date: "2015-02-13 14:52:13 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5254"

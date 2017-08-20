@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The disgruntled left's great fight back
 date: "2011-10-07 10:02:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1482"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ss10210
 highlights:
 
 # Homepage control params

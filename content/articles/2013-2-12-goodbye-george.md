@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park finds A Place in the Sun
 date: "2013-02-12 18:23:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3290"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett investigates the fallout after the revelation that College wants to shut down Weeks Hall
 date: "2015-02-19 23:51:05 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5275"

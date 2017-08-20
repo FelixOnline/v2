@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham takes a nostalgic look back at the Bartlet administration
 date: "2014-04-07 12:39:33 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4519"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ef510
  - jal08
 highlights:
  - longread

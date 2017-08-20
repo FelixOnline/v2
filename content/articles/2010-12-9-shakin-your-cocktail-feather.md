@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Letting your hair down, sippin’ on cocktails. By Peter Quicke and Jamie Rickman
 date: "2010-12-09 19:53:54 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "511"

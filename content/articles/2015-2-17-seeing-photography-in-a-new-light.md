@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng examines how Drawn by Light reimagines photography
 date: "2015-02-17 16:37:29 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5265"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jc7413
  - ps3110
 highlights:
  - comment

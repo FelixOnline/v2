@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RAG Week 2014 is coming! RAG gives you a unique opportunity to have the time of your life, while doing something good for the world.
 date: "2014-02-21 03:08:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4417"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mg2411
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is in the eye itself
 date: "2011-05-06 08:09:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1152"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch1810
  - felix
 highlights:
 

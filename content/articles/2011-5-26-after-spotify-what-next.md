@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will the end of free music on Spotify see it eclipsed by rivals?
 date: "2011-05-26 19:08:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1254"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fa608
  - felix
 highlights:
  - comment

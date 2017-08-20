@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Harrogate is touring the country until November 16, passing through Oxford, Cantebury, Norwich, and Cambridge, among others.
 date: "2016-11-04 14:33:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6393"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - adam.gellatly14
+ - aib116
 highlights:
 
 # Homepage control params

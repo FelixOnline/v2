@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Major personnel changes in Engineering and Medicine
 date: "2010-11-18 21:47:22 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "410"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - jk708
 highlights:
 

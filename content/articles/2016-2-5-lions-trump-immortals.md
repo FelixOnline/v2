@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The defense started out solidly
 date: "2016-02-05 12:55:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5889"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - pt1114
 highlights:
 
 # Homepage control params

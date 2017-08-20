@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emilie Beauchamp gives the account of the latest goings on in the US Presidential Election
 date: "2012-10-26 02:17:18 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2738"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

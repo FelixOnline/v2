@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Blanca Li's show mixes human dancers with robot androids, but its message seems unclear
 date: "2017-02-24 17:25:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6833"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - scc114
 highlights:
  - comment
 

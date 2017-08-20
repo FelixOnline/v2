@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The College’s current tirade against smokers is stupid and unfair – smokers should be proud of what they do, says Meredith Thomas
 date: "2013-03-01 00:48:03 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3410"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cmt09
  - tna08
 highlights:
  - comment

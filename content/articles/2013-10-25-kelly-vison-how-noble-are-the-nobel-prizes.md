@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly on the Nobel Prizes
 date: "2013-10-25 00:08:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3921"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - felix
 highlights:
 

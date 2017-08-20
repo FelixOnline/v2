@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julia Spindel introduces four great new talents
 date: "2013-03-07 22:02:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3436"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - jms411
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Social Network is a contemporary tale of friendship, jealousy, betrayal and – above all – ambition
 date: "2010-10-14 19:58:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "216"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

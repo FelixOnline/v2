@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Oppenheimer kicks off the Felix Summer Festival Guide with a preview of Croatia’s Outlook
 date: "2011-05-20 05:41:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1224"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dyo10
  - felix
 highlights:
 

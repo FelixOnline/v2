@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Franzen is an arse, but damn, he's a good writer
 date: "2012-10-11 20:30:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2645"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

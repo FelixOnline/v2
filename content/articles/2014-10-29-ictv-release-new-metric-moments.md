@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Kaye makes an appearance, suitably inebriated
 date: "2014-10-29 23:08:00 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4754"

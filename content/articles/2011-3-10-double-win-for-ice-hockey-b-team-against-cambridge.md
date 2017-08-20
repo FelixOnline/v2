@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 5 – 3 & 6 – 1 Cambridge
 date: "2011-03-10 21:15:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1081"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - wm207
 highlights:
 
 # Homepage control params

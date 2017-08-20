@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rounding off a successful season for the ladies
 date: "2012-03-02 17:42:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2309"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ial08
 highlights:
  - comment
  - photos

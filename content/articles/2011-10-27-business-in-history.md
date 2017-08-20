@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Cautionary Tale of King Phillip II, the ‘Paper King’ of Spain
 date: "2011-10-27 22:29:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1616"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bg310
  - felix
 highlights:
  - longread

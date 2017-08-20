@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Immortals lose 22-12, but against the second best defence in the country
 date: "2014-11-24 20:11:46 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4950"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - sjh213
 highlights:
 
 # Homepage control params

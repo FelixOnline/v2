@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le gets her dictionary out. Or should I say... goes to Google... słownik. I don't know, maybe I should.
 date: "2013-05-07 19:30:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3542"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

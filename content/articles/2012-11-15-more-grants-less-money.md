@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Finally, A Biggie reference in a title...
 date: "2012-11-15 20:56:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2886"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - tna08
 highlights:
 

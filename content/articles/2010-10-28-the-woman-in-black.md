@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We braved London’s darkest streets to search out this most terrifying production
 date: "2010-10-28 19:25:34 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "261"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb307
  - jk708
 highlights:
  - photos

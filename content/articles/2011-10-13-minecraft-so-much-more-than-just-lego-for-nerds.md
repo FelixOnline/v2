@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope goes digging for gold as he tries to explain all those cubes
 date: "2011-10-13 22:41:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1516"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
 
 # Homepage control params

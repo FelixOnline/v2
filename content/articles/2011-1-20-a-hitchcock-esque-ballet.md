@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Very stressful, deeply disturbing and utterly engrossing
 date: "2011-01-20 19:51:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "616"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jp1010
 highlights:
  - comment
 

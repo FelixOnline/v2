@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest Pegg and Frost genre-hopping tribute lacks originality
 date: "2011-02-27 19:05:58 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "907"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jl4310
  - ks607
 highlights:
  - comment

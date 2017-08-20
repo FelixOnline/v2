@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Cook can’t draw pictures or compose music, but he can still make games
 date: "2011-03-01 21:07:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "965"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtc06
 highlights:
 
 # Homepage control params

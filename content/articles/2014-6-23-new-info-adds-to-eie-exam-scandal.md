@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course.
 date: "2014-06-23 10:58:06 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4701"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - kmw13
 highlights:
 
 # Homepage control params

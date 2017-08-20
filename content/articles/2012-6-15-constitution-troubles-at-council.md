@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Final Union Council of the year sees Union Court question proposed constitution changes
 date: "2012-06-15 07:32:58 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2576"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s handball team started with four defeats, but were able to provide beginners with their first experience in the sport
 date: "2015-10-30 15:08:43 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5692"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mak210
  - ygr12
 highlights:
 

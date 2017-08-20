@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University Challenge star is running to become a councillor
 date: "2016-04-29 10:00:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6086"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

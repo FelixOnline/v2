@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Maria Fernanda Jimenez Solomon was awarded the prize; which is awarded to excellent PhD students who are doing research that helps solve industrial problems.
 date: "2014-03-24 03:29:38 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4493"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

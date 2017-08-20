@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cafe Oto, Dalston Kingsland Wednesday 9, November
 date: "2011-11-03 20:43:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1672"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - im808
 highlights:
 
 # Homepage control params

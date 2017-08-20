@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Knock laments the rise and rise of the comic book genre
 date: "2011-05-12 18:43:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1198"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - felix
 highlights:
  - photos

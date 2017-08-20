@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey, professional flake and now officially a doctor, encourages you to follow your heart and be the best flake you can be
 date: "2017-06-02 13:25:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6995"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - tad08
 highlights:
 
 # Homepage control params

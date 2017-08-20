@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cave Johnson details his plans for first contact
 date: "2012-03-15 20:24:54 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2360"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fgames
  - ig711
 highlights:
  - photos

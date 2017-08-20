@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Peter Sarvari heads along to the Yard Theatre, where treacle meets tragedy
 date: "2014-12-18 16:09:34 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5069"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ff712
+ - ps5714
 highlights:
 
 # Homepage control params

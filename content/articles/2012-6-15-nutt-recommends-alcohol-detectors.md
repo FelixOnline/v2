@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Professor aims to curb drink driving with new suggestion
 date: "2012-06-15 07:41:12 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2577"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - tna08
 highlights:
 
 # Homepage control params

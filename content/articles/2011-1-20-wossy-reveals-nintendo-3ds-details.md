@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Ross hosts latest press conference on the Nintendo 3DS
 date: "2011-01-20 20:04:37 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "623"

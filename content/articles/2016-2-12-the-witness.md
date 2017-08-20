@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Blow delivers his second masterpiece, a game about mazes
 date: "2016-02-12 11:41:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5909"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jra12
 highlights:
  - comment
 

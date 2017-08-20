@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer on the giant virus that is still infectious despite its age
 date: "2014-04-07 12:57:37 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4526"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jb3112
 highlights:
 
 # Homepage control params

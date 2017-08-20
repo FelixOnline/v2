@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chromaroma hits the London transport network
 date: "2011-06-09 21:42:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1354"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jl4310
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College engineering graduate Nicholas Church takes part in "Tough Young Teachers" on BBC3.
 date: "2014-01-09 17:50:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4203"

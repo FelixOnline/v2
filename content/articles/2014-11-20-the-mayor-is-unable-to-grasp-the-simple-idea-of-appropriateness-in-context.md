@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's a time and a place for sexual imagery, and it's not the press conference of a major achievement in science
 date: "2014-11-20 21:17:49 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4914"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - kw911
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the last five years seeing multiple YA dystopia series, we explore what makes them a continued attraction to teens
 date: "2015-11-29 17:13:24 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5787"

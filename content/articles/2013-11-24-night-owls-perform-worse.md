@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Amrita Ghosh & Arya Mehta explain why all-nighters aren’t wise
 date: "2013-11-24 16:02:59 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4107"
@@ -21,6 +20,8 @@ tags:
  - science
  - imported
 authors:
+ - ag4611
+ - am7911
  - jal08
 highlights:
 

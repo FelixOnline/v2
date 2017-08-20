@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aditya Narayanan discuss the arts and footballs in this dynamic capital as a new home
 date: "2015-02-17 19:15:23 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5270"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - an406
  - ps3110
 highlights:
  - longread

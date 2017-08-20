@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a week of controversy, Abigail Sawyer looks into the chemistry of cryogenics
 date: "2016-11-25 13:35:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6499"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - abigailsawyer
  - felix
 highlights:
 

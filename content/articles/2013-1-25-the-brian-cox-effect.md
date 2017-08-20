@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dreamy science professor turning students on... to science
 date: "2013-01-25 01:25:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3177"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nj1211
  - tna08
 highlights:
  - comment

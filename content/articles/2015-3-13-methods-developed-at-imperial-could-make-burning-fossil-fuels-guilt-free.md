@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe on converting waste carbon dioxide into useful materials
 date: "2015-03-13 00:39:34 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5385"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ltr11
 highlights:
  - comment
 

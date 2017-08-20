@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hollywood superstar visits sports centre and trains with members of Team GB
 date: "2012-05-18 06:07:29 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2457"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tackling all those little bugs is the most important step
 date: "2011-03-03 21:16:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1022"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtc06
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICU Debating Society discuss
 date: "2015-03-03 20:32:00 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5331"
@@ -24,6 +23,8 @@ tags:
  - imported
  - imported_comments
 authors:
+ - amc313
+ - nj1211
  - pk1811
 highlights:
  - comment

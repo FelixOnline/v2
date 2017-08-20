@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reality TV fan? Edward Bals on the potential Mars One TV show
 date: "2013-01-10 22:13:07 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3080"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - eb1710
 highlights:
 
 # Homepage control params

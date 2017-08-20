@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett recaps the Rosetta mission and the future of Philae
 date: "2014-11-20 20:42:41 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4909"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
 

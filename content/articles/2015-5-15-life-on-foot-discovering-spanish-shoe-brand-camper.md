@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the exhibition at London’s Design Museum, discovering a unique shoe brand which prioritizes comfort first
 date: "2015-05-15 12:54:45 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5539"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - czb11
 highlights:
  - comment
  - longread

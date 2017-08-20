@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It was a term to remember for the Imperial mints, as membership rocketed and records tumbled, in what was a fantastic ending to a difficult year.
 date: "2014-01-17 04:37:10 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4260"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - rjh11
 highlights:
 
 # Homepage control params

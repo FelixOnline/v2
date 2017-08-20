@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Money will go to St Mary’s Hospital Paediatric Department
 date: "2011-02-27 12:07:10 +0000"
-author_id: "klb09"
 
 # Attributes from Felix Online V1
 id: "898"

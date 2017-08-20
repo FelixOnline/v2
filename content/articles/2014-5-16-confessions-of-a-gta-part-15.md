@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One thing you need to know about GTAs: awkward is our speciality
 date: "2014-05-16 01:58:09 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4602"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gta
  - jal08
 highlights:
 

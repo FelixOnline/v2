@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on halls, the new campus, BUCS, elections, and a quick good luck for exams...
 date: "2013-03-14 23:57:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3455"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

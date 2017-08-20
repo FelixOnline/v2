@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is the sky the limit, or will it never take off? Plane crazy or runway success?
 date: "2012-03-08 20:52:51 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2320"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - gch10
 highlights:
 
 # Homepage control params

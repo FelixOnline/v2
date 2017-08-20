@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Exploration of the History of the Relationship Between Fine Art, Fashion, and Commerce by Fred Fyles
 date: "2014-11-06 21:34:01 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4804"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - snb11
 highlights:
  - comment

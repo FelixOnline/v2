@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plans for its demolition are to be put to the public
 date: "2016-11-18 14:28:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6456"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - stephennaulls
 highlights:
  - photos
 

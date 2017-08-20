@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam picks out the top tech debuting this summer
 date: "2011-06-23 20:35:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1424"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fa608
  - felix
 highlights:
 

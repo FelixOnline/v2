@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An evening of awards and discussion on the challenge of communication science
 date: "2010-11-26 07:20:23 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "449"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ec610
  - ks607
 highlights:
  - longread

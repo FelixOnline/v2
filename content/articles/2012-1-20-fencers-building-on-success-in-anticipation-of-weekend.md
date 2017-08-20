@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women’s 2nds dispatch Portsmouth 1sts with ease
 date: "2012-01-20 12:06:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2040"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - hgp08
 highlights:
 
 # Homepage control params

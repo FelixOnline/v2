@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The science behind the iGem team’s successful project
 date: "2010-11-25 20:03:45 +0000"
-author_id: "vbb08"
 
 # Attributes from Felix Online V1
 id: "424"

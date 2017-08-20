@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox on why animals are safe for a month thanks to the MS Trust
 date: "2012-02-09 22:51:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2165"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - cc3710
  - felix
+ - hc1409
 highlights:
 
 # Homepage control params

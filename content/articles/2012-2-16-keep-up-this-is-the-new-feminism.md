@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Veronica Gouvea comments on what feminism really means
 date: "2012-02-16 22:03:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2207"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - vg509
 highlights:
  - comment
  - longread

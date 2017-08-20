@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Once more Valentine’s Day rolls around, and once more my evening date is a bottle of vodka and video games. The result? Tongue-in-cheek dating profiles for video game females. I may need to kick the habit
 date: "2012-02-16 21:29:46 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2190"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lap08
  - pk1811
 highlights:
  - comment

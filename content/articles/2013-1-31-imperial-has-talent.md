@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yup, we really do
 date: "2013-01-31 22:55:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3201"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aan11
  - tna08
 highlights:
  - photos

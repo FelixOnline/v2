@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Any more punny headlines and I'll be forced to hand myself in...
 date: "2011-10-28 13:32:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1643"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tna08
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah doesn’t want a spray on condom
 date: "2013-02-14 11:42:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3319"

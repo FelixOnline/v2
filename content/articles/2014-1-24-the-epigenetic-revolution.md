@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little on research that redefines our knowledge of inheritance
 date: "2014-01-24 09:57:27 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4287"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - kw911
 highlights:
  - comment
 

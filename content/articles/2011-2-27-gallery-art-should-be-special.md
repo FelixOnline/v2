@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Modern art frankly isn’t, argues Charles Betts
 date: "2011-02-27 19:22:11 +0000"
-author_id: "cb403"
 
 # Attributes from Felix Online V1
 id: "911"

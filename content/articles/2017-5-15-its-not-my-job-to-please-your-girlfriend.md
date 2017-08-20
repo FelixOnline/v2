@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There’s nothing wrong with being the other woman
 date: "2017-05-15 16:31:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6957"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

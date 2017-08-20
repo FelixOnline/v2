@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a classic of the SF genre
 date: "2013-06-13 22:32:31 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3677"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

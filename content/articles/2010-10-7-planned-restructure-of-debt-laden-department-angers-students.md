@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The future of Plant Sciences at Imperial is under threat as Life Sciences department seeks to plug £1.5m hole in finances
 date: "2010-10-07 21:51:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "171"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
  - longread

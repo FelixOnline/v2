@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alcest – Shelter
 date: "2014-01-24 10:09:11 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4296"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - rnt11
 highlights:
 
 # Homepage control params

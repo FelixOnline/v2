@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indy Leclercq grills Charlie Esberger following the start of the season
 date: "2011-11-10 22:28:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1748"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ial08
 highlights:
  - comment
 

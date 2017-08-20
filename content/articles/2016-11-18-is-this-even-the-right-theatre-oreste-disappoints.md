@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oreste is on at the Royal Opera House until 19th November 2017
 date: "2016-11-18 15:11:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6472"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

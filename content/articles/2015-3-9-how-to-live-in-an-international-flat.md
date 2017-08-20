@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongsatayanont offers advice on peaceful coexistence
 date: "2015-03-09 19:29:55 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5384"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cw3414
  - ps3110
 highlights:
  - longread

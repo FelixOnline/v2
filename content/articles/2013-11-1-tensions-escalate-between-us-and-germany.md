@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kartikeya Rana analyses the implications of US foreign policy
 date: "2013-11-01 09:29:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3970"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - kr1512
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trying to define this art movement is Indy Leclercq's greatest challenge yet
 date: "2011-10-20 22:27:23 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1569"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ial08
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tensions develop between famous Chelsea hospitals
 date: "2014-05-16 01:40:55 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4597"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

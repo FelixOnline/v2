@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park moves his on-going feature towards nearly being in colour...
 date: "2012-10-18 21:30:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2709"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

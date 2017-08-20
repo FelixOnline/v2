@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Artists have new studio at Imperial
 date: "2012-10-18 21:49:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2724"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - felix
 highlights:
 

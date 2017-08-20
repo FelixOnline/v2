@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stock market floatation raises millions for research
 date: "2010-12-09 21:38:50 +0000"
-author_id: "za710"
 
 # Attributes from Felix Online V1
 id: "539"

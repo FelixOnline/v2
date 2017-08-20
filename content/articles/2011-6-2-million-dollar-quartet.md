@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fast and fun, but this musical is a tad light on plot
 date: "2011-06-02 19:43:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1311"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ts3110
 highlights:
 
 # Homepage control params

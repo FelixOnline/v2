@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are they actually a big deal?
 date: "2010-12-12 13:45:46 +0000"
-author_id: "mjp109"
 
 # Attributes from Felix Online V1
 id: "548"

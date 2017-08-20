@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Junior Doctors storm back with an Imperial twist
 date: "2012-02-02 22:49:19 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2103"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh3210
  - sjw209
 highlights:
 

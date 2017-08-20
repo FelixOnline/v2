@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a truely innovative webcomic
 date: "2013-06-05 11:23:03 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3649"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

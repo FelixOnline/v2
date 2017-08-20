@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ocean acidifcation tests the limits of our seas, bringing them to an irreversible breaking point
 date: "2015-11-20 09:11:37 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5749"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sdl15
  - ygr12
 highlights:
  - comment

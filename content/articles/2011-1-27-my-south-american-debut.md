@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Priya Garg begins her meandering journey in Rio de Janeiro, learning the importance of soccer and discovering how to embrace Latin passion
 date: "2011-01-27 20:20:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "689"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - pg405
 highlights:
  - comment
 

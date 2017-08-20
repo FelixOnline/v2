@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. II – Shellac
 date: "2012-05-10 20:13:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2444"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

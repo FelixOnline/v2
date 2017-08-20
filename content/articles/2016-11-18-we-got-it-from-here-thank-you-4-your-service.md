@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A cutting backlash to the uprising of hate in America that accompanied Trump’s success
 date: "2016-11-18 15:39:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6482"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rubyfreeman
 highlights:
 
 # Homepage control params

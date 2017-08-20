@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Inigo Martinez de Rituerto discusses the current political unrest in Turkey
 date: "2013-06-07 13:58:14 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3673"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - im808
  - tna08
 highlights:
  - comment

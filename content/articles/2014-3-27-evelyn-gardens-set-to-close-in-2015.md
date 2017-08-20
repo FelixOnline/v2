@@ -4,7 +4,6 @@ title: >
 subtitle: >
   According to recent information the halls are set to close in 2015, either for refurbishment or permanently.
 date: "2014-03-27 11:49:49 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4513"

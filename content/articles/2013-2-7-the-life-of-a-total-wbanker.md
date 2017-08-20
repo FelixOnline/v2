@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The City life ain’t all it’s cracked up to be, warns Adam Billing
 date: "2013-02-07 23:11:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3255"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charlie Owen discusses why one class of creature shuns sex
 date: "2012-11-22 23:28:48 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "2950"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch3211
  - lap08
 highlights:
 

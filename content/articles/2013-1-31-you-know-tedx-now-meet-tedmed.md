@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new TED in town
 date: "2013-01-31 23:06:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3203"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jm4911
  - tna08
 highlights:
  - photos

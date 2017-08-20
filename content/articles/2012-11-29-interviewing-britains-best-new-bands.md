@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Music interviews them, with Mo Mizra firing questions.
 date: "2012-11-29 23:04:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3000"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - mum09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Honestly, you couldn't make this stuff up.
 date: "2015-05-11 17:50:32 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5510"

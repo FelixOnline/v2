@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sleigh Bells - Bitter Rivals
 date: "2013-10-25 00:37:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3932"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sm5810
 highlights:
 
 # Homepage control params

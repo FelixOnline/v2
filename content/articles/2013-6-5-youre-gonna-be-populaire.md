@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Speed typing, the sport of champions...
 date: "2013-06-05 12:20:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3651"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - tna08
 highlights:
  - comment

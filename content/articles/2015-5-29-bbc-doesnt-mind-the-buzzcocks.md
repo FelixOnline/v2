@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman breaks down the BBC's axing of the beloved panel show.
 date: "2015-05-29 10:59:07 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5585"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deputy President of Welfare, Jennie Watson, explains why the medics are taking a stand.
 date: "2015-09-27 18:28:01 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5653"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - jw
+ - jw3510
  - ygr12
 highlights:
  - comment

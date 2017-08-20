@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster is looking for friendlies in Cherno
 date: "2012-10-12 10:57:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2682"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rw507
 highlights:
 
 # Homepage control params

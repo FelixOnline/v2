@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shanzeh embarks on an Indonesian food trip for an amazing price and, on top of that near college, not eating but rather experiencing a whole spectrum of flavours and making memories
 date: "2017-02-10 16:10:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6771"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - shanzehkhurshid
 highlights:
  - comment
  - photos

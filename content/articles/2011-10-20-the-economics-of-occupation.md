@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton and Kadhim Shubber have some advice for the London protestors
 date: "2011-10-20 21:43:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1565"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
+ - rtf08
 highlights:
  - comment
  - longread

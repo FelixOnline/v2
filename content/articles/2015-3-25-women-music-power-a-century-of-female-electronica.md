@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes us on a tour through the history of the early pioneers of electronic music
 date: "2015-03-25 12:35:47 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5431"

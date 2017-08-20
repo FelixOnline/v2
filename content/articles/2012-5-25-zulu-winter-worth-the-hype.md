@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England travels to the Boston Arms to find a band guaranteed to soundtrack future O2 adverts
 date: "2012-05-25 19:09:55 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2505"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - me1409
 highlights:
 
 # Homepage control params

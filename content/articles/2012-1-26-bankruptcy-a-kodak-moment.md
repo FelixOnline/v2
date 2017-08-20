@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paolo Strampelli of the Imperial Entrepreneurs charts the history of a company that has struggled to keep apace with the times
 date: "2012-01-26 21:57:38 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2048"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - ps6110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Metric turns on Pole Soc for a dramatic end to their Summer Showcase
 date: "2013-06-21 01:25:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3740"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - eb710
  - tna08
 highlights:
  - photos

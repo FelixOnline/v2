@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster thinks his mind should be supervised at all times
 date: "2012-11-22 23:09:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2940"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
  - photos

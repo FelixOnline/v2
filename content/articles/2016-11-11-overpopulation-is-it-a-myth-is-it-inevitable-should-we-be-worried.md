@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jawaad Farooq muses on what the possible solutions to an overcrowded world may be, what the future may have in store, and why we should care
 date: "2016-11-11 16:06:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6431"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jf413
 highlights:
  - longread
  - photos

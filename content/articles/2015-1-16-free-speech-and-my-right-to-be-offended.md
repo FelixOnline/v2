@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Should my reaction depend on whether others find it funny?
 date: "2015-01-16 13:24:41 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5098"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - us910
 highlights:
  - photos
 

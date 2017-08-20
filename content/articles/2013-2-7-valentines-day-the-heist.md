@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster keeps his money under his mattress
 date: "2013-02-07 23:35:58 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3264"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
  - photos

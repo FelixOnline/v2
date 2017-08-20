@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New exhibitions at the National Gallery and Royal Academy of Arts joins with the Felix Music Night in the capital's latest cultural expeditions.
 date: "2011-11-10 21:39:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1734"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

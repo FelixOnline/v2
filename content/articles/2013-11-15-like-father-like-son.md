@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What do you do when the child you have looked after for the last 6 years turns out to be someone else’s?
 date: "2013-11-15 11:36:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4084"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - ff712
  - jal08
 highlights:
 

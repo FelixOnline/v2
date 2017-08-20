@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz reviews Palms
 date: "2013-06-06 19:48:15 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3670"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ra2410
  - tna08
 highlights:
 

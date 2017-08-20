@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous letter about the smell in the Mech Eng lifts
 date: "2011-12-09 15:13:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "1957"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - fcomment
  - tna08
 highlights:
 

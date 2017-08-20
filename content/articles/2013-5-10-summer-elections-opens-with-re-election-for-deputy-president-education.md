@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Officer positions up for grabs, along with the chance of a full time Sabb
 date: "2013-05-10 17:47:26 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3564"

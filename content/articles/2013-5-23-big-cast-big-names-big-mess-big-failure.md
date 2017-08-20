@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Big Wedding is a Big piece of shit.
 date: "2013-05-23 21:37:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3602"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

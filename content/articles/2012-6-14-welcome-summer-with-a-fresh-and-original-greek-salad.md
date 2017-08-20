@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Just because there's goat's cheese in it doesn't mean you get to call it Greek
 date: "2012-06-14 20:28:16 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2565"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mk4410
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are even closer to seeing Britain become the first country in the world to allow a three person baby to be born through IVF, as draft rules were announced last week to regulate the process.
 date: "2014-03-28 11:44:15 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4516"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - njf12
 highlights:
 
 # Homepage control params

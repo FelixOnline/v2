@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union’s campaign to stop international students being charged for NHS services under the Government’s Immigration Bill received a strong boost late last month when Ed Balls, the Shadow Chancellor, agreed to look into an amendment to the bill that would exempt students from the charge.
 date: "2014-01-17 03:22:24 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4230"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - baf12
  - jal08
 highlights:
 

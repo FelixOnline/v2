@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Referendum on the alternative vote system held up in the Lords
 date: "2011-01-20 19:53:17 +0000"
-author_id: "jl807"
 
 # Attributes from Felix Online V1
 id: "619"

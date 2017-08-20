@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson on the controversy that has taken place over the last week
 date: "2015-06-11 22:23:29 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5615"

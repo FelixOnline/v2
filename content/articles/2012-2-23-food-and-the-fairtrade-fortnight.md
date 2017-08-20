@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Buying fairtrade helps others, so you should really try it out
 date: "2012-02-23 20:44:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2241"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - ost09
  - pk1811
 highlights:
 

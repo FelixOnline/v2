@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman looks back at this week’s news
 date: "2015-06-12 12:42:08 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5621"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - js5913
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new centre for is for innovative surgery
 date: "2015-01-30 00:00:57 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5160"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - ps3110
 highlights:
 

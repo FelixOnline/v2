@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Cronshaw talks to Formula 1 engineer Dirk DeBeer about all things motorsport
 date: "2011-10-27 23:39:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1622"

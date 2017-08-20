@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Basically synesthesia, but with less LSD involved
 date: "2013-02-07 23:34:40 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3263"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lg1310
  - tna08
 highlights:
 

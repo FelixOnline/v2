@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Its got nothing on the Daily Felix...
 date: "2011-02-10 20:31:24 +0000"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "776"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Techtonics experience a Bieber fever-esque reception in the USA
 date: "2012-11-01 22:24:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2781"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
  - longread

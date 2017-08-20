@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Becks to remain at £2 per pint but other drinks see price hikes as Government introduces controversial 2.5% VAT increase
 date: "2011-01-13 21:35:20 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "592"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - nn1209
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus inst
 date: "2013-10-04 02:17:57 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3811"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ih412
  - jal08
 highlights:
  - comment

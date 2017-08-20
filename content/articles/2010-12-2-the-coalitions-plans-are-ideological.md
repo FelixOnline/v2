@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's time for us all to make it clear to the Union and College we oppose the changes and introduction of higher fees
 date: "2010-12-02 21:12:54 +0000"
-author_id: "rlg107"
 
 # Attributes from Felix Online V1
 id: "488"

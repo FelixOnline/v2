@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A delightful book by Chad Orzel
 date: "2011-01-27 18:55:07 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "659"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - kv07
 highlights:
 
 # Homepage control params

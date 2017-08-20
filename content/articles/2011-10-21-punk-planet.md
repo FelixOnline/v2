@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven checks out Refused
 date: "2011-10-21 11:30:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1600"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - extuser0
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Interaction Designers - Simon Bond & Tom Sidall
 date: "2012-06-14 20:16:07 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2561"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - pk1811
 highlights:
  - longread

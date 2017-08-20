@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The British Library’s intrepid new exhibition
 date: "2011-05-27 14:14:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1278"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - felix
 highlights:
  - photos

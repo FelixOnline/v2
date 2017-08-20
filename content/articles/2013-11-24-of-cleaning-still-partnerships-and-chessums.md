@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The recent cleaning response from Campus Services (see front page) indicates that some progress is being made in the ‘cleaning situation’.
 date: "2013-11-24 16:10:04 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4113"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

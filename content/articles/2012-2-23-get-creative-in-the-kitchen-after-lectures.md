@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cooking is fun, so why not try it out?
 date: "2012-02-23 20:40:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2240"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - pk1811
 highlights:
 

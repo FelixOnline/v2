@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber on the festival that rounds off the summer with a bang
 date: "2012-02-16 21:47:22 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2196"

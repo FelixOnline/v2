@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An expat’s secret food indulgences unveiled courtesy of Aki Matsushima
 date: "2011-03-03 06:30:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "991"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - am709
  - felix
 highlights:
  - longread

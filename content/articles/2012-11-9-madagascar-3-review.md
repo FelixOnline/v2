@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Wiles lets her inner child out as she unashamedly watches Madagascar 3
 date: "2012-11-09 13:30:36 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2859"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lw408
  - tna08
 highlights:
 

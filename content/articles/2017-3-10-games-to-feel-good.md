@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saad Ahmed gives his recommendations on which games to play if you just want to relax, enjoy yourself and not drive yourself crazy because of bullshit random number generators
 date: "2017-03-10 13:56:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6878"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
  - photos
 

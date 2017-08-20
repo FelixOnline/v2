@@ -4,7 +4,6 @@ title: >
 subtitle: >
   150 posts also said to go this year as Trust makes £44 million saving in pay expenditure
 date: "2011-05-12 16:14:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1186"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cjl10
  - felix
 highlights:
  - comment

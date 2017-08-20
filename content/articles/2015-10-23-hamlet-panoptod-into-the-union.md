@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial students enjoy Cumberbatch’s performance without leaving campus
 date: "2015-10-23 11:46:29 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5672"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pm1912
  - ygr12
 highlights:
  - comment

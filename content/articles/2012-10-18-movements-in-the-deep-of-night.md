@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Dark ambient, glitch, dub and techno
 date: "2012-10-18 21:30:55 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2710"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - rbg10
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New cash machine installed in Union building
 date: "2012-03-02 01:11:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2303"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

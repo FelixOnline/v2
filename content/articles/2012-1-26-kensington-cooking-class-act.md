@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yiango Mavrocostanti attended a free cooking session at the Whole Foods Market
 date: "2012-01-26 21:53:27 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2046"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ym1310
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First non-Russell Group university to aim for highest rate
 date: "2011-03-03 20:09:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1002"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - dr710
  - felix
 highlights:
 

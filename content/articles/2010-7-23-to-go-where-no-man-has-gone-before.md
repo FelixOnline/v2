@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Arts editor Caz Knight is taken on an cosmic journey through space, to the edge of black holes and 10,000 years into the future
 date: "2010-07-23 10:24:00 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "152"

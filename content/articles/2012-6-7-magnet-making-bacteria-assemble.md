@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A step towards more environmentally friendly electronics is found in nature
 date: "2012-06-07 18:46:23 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2523"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jr1311
  - pk1811
 highlights:
 

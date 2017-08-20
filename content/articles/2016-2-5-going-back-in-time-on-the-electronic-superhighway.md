@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The landmark exhibition brings together 50 years of art and technology co-evolution
 date: "2016-02-05 12:14:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5873"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - longread
 

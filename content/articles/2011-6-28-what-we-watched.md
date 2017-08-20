@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Simpson tries to forget the horrors of lolshock.com
 date: "2011-06-28 11:36:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1444"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tvfelix
 highlights:
 
 # Homepage control params

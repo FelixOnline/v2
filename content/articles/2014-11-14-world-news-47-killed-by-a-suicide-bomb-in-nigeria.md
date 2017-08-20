@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Explosion was detonated by a female suicide bomber
 date: "2014-11-14 20:08:14 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4868"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - czb11
  - ps3110
 highlights:
 

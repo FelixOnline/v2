@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Diana Lucaci and Alexander Morton talk to Lord Dobbs, creator of the House of Cards series
 date: "2014-03-24 03:36:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4495"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - adm10
+ - dl1910
  - jal08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aemun Reza looks at The Times’ league tables to see our place
 date: "2012-10-18 21:53:40 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2727"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ar3310
  - tna08
 highlights:
 

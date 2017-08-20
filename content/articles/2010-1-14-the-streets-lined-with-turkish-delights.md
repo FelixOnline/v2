@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Sim found that there probably wasn&8217;t enough room in the belly department for all that Istanbul had to offer.
 date: "2010-01-14 16:27:07 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "31"

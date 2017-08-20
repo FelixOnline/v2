@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg McGillivray reviews a new one-woman play about Syrian refugees at the Young Vic
 date: "2014-05-09 02:14:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4578"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mff113
 highlights:
 
 # Homepage control params

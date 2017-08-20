@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster gives his opinion on the Xbox One
 date: "2013-05-29 16:23:49 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3635"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

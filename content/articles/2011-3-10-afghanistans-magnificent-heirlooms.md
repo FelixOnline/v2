@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is the bling of three of Afghanistan’s ancient nomad rulers
 date: "2011-03-10 20:13:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1065"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cf107
  - felix
 highlights:
  - comment

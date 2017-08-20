@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The world of journalism has been shaken to its core, Felix investigates.
 date: "2011-08-05 13:29:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1453"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - gda07
+ - ma1307
 highlights:
 
 # Homepage control params

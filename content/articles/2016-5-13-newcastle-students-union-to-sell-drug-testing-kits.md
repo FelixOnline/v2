@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The kits will tell you if your drugs are safe
 date: "2016-05-13 08:52:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6146"

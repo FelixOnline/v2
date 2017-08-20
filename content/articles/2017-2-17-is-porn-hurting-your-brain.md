@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everyone, even your mum, watches porn. Would stopping make your life better?
 date: "2017-02-17 15:54:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6798"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - felixteam
 highlights:
  - comment
  - photos

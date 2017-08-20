@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Knock examines what the Academy really looks for
 date: "2011-03-03 20:26:59 +0000"
-author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "1009"

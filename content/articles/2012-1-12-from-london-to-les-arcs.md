@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caffeine addiction, bizarre haircuts and onesies. Snowsports report on their biggest ski trip in recent memory
 date: "2012-01-12 23:02:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1997"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - erb09
  - felix
 highlights:
  - longread

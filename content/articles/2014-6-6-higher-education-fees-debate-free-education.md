@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The debate about higher education funding is not about what the country can or cannot afford. The current forecasts suggest that 45% of student loan income will be written off.
 date: "2014-06-06 02:44:26 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4661"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - at1913
  - jal08
 highlights:
  - comment

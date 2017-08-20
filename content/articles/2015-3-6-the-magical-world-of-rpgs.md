@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The expert himself, Sanchit Sharma, introducing you to a world that you definitely want to join
 date: "2015-03-06 16:46:17 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5358"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ss9011
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Film classic returns to its roots, with Jones in driving seat
 date: "2011-10-16 14:24:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1545"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

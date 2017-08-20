@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...and how to duplicate them, thanks to Elizabeth Crow
 date: "2013-06-20 23:24:01 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3720"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - elizabeth crow
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sophie Middleton on how good vegetarian food can really be
 date: "2013-02-22 03:01:14 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3377"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felfood
  - tna08
 highlights:
 

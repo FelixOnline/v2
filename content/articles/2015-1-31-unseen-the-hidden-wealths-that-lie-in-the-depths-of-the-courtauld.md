@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg checks out the Courtauld's collection of little-seen pictures
 date: "2015-01-31 19:19:53 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5173"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - mff113
 highlights:
  - comment
  - photos

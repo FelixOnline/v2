@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You might envy the food bloggers of the instagram world - all those lovely free meals, cocktails and socialising with the hip and trendy from across the culinary scene. An insiders view shows that it’s sometimes a bit more superficial, but you’ll still probably be jealous at the end, sorry.
 date: "2017-03-03 15:56:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6852"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - yyl114
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer asks whether they’ve achieved their lofty goals
 date: "2014-11-14 21:06:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4886"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jb3112
  - ps3110
 highlights:
  - comment

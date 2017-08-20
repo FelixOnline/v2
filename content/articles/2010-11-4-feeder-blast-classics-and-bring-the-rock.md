@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They came, they played, and everyone had a really good time. Can you really ask for more?
 date: "2010-11-04 18:32:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "300"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - osw09
 highlights:
 
 # Homepage control params

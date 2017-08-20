@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nicolas Cage gets mad in Drive Angry 3D, what else did you expect from him?
 date: "2011-03-01 21:03:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "963"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - jh308
+ - mab108
 highlights:
 
 # Homepage control params

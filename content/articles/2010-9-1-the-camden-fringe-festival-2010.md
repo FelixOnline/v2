@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caz Knight goes to her first Fringe Festival and finds out what happens when women wee and how to achieve enlightenment in 8 steps
 date: "2010-09-01 16:08:28 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "155"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or why the size of your laser doesn’t determine the quality of your university experience
 date: "2011-02-03 20:21:10 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "743"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - mc4509
 highlights:
 
 # Homepage control params

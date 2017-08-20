@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport catches up with Imperial’s most successful ski trip yet
 date: "2013-01-18 01:04:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3148"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgm10
  - tna08
 highlights:
  - photos

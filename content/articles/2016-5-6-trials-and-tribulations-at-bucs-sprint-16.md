@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Missing athletes, lost bikes and misdirection from marshalls
 date: "2016-05-06 10:24:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6139"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mlw10
 highlights:
  - comment
  - longread

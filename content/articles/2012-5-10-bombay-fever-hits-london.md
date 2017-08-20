@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England catches up with Bombay Bicycle Club
 date: "2012-05-10 19:59:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2438"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - me1409
 highlights:
  - comment
 

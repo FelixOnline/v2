@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Campaigners gather in South Kensington
 date: "2017-01-20 14:52:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6656"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sk2214
 highlights:
 
 # Homepage control params

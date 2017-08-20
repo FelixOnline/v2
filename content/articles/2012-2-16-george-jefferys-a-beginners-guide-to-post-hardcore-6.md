@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lesson 6: Reuben
 date: "2012-02-16 22:01:50 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2206"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gj309
  - pk1811
 highlights:
 

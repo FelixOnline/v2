@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucille Calmon tells us all about FemSoc's plans to put on The Vagina Monologues, Eve Ensler's powerful exploration of the role the snatch plays in society
 date: "2017-01-20 15:30:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6673"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lucillecalmon
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   US Presidential Elections 2012
 date: "2012-10-18 21:22:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2703"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh3210
  - tna08
 highlights:
 

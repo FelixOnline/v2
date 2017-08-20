@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson reports as researchers are elected to the Fellowship of the Academy of Medical Sciences
 date: "2015-05-21 20:00:54 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5545"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cj914
  - kmw13
 highlights:
  - comment

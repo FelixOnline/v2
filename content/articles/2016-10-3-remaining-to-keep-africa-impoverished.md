@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Eden explains why Brexit isn’t necessarily the disaster you think it is –especially for Africa
 date: "2016-10-03 18:54:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6306"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - je615
 highlights:
  - comment
 

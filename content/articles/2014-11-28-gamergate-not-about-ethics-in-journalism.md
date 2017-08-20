@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Social Justice Wizard Tom Rivlin gazes into the internet abyss
 date: "2014-11-28 01:07:27 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4975"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - tr511
 highlights:
  - comment
  - longread

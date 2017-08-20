@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meredith Thomas walks through a baroque sci-fi future
 date: "2013-02-28 23:40:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3392"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - tna08
 highlights:
 

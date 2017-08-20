@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Amusing, startling, moving: Krapp's Last Tape at the Duchess Theatre
 date: "2010-10-02 12:22:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "170"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - felix
 highlights:
 

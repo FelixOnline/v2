@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Studying is important, but so is taking a break. Here I take a break in style!
 date: "2014-05-28 21:37:52 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4633"

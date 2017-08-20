@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marianne Teoh gives us the Fashion low-down from Benicàssim
 date: "2012-10-05 12:03:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2610"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffashion
 highlights:
  - longread
  - photos

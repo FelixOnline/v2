@@ -4,7 +4,6 @@ title: >
 subtitle: >
   HBO’s new show, Game of Thrones, has more epic beards than level 5 of the library
 date: "2011-05-06 13:00:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1169"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
  - longread
 

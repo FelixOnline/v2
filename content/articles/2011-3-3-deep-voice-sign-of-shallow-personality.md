@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men with deep and manly voices are more likely to be judged as unfaithful by woman says research
 date: "2011-03-03 20:33:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1011"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch1810
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The result of over 7 years work, Jim Jarmusch’s latest film takes a bold new look at the gothic classic of vampires.
 date: "2014-04-07 12:48:49 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4522"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mff113
 highlights:
  - photos
 

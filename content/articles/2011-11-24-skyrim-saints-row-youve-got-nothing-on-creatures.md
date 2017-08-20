@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent puts aside the big releases of this season and talks about one of video gaming’s grandaddies, Creatures
 date: "2011-11-24 21:11:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1815"

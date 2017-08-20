@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Bowers tells of his predictions for fifty years’ time
 date: "2011-11-03 18:09:53 +0000"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1647"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb908
  - fa608
 highlights:
  - comment

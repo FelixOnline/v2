@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Nugent gives the juicy details
 date: "2013-11-25 00:00:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4138"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - pjn11
 highlights:
 
 # Homepage control params

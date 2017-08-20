@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Summer Lightning
 date: "2012-06-14 20:52:22 +0100"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2571"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - jlp210
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists ask if children are werewolves, conclude they’re not
 date: "2016-05-13 09:02:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6153"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A step-by-step guide to creating a successful iPhone app
 date: "2011-01-27 19:24:52 +0000"
-author_id: "jl4310"
 
 # Attributes from Felix Online V1
 id: "668"

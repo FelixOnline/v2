@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With some major albums about to drop, could we soon be seeing an indie resurgence?
 date: "2017-03-17 17:06:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6910"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - joeoconnelldanne
 highlights:
  - comment
 

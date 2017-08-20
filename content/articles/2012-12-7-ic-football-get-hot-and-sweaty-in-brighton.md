@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spencer Bennett on the airborne rangers...
 date: "2012-12-07 02:57:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3057"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sb3610
  - tna08
 highlights:
  - longread

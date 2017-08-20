@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's pretty black and white as to what ones of these he likes...
 date: "2012-10-05 12:26:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2614"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
  - longread
 

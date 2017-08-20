@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second Imperial Food Awards have ended – Anastasia Eleftheriou and Michael Krestas sift through the entries in search of Imperial’s best cookery maestros
 date: "2012-03-08 22:14:29 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2331"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - ams111
+ - mk4410
 highlights:
  - longread
 

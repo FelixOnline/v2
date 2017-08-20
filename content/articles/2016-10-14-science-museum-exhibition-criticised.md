@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They’ve landed themselves in hot, oily water
 date: "2016-10-14 09:30:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6328"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - felix
 highlights:
  - comment

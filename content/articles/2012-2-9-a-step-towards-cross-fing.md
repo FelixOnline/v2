@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC joined forces with the RCA to create art inspired by science; Artifact is happening again this year
 date: "2012-02-09 22:08:20 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2139"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - cmt09
 highlights:
  - photos
 

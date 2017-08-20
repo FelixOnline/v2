@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We've come second in the Thomson Reuters innovation list
 date: "2016-06-17 08:52:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6271"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

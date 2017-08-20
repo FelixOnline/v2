@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Royal Academy succeeds with an exhibition on bronze sculpture throughout history
 date: "2012-10-18 20:56:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2684"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jlp210
 highlights:
  - comment
  - photos

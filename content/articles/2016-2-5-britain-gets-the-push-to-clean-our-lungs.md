@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will £600 million be enough to help the UK keep any of its COP21 promises?
 date: "2016-02-05 12:03:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5868"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rs3114
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood says: the hottest student debate is coming to London
 date: "2012-10-26 02:07:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2734"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - csw09
  - tna08
 highlights:
  - comment

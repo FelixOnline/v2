@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Sound of Music is without doubt one of the most beloved films of all time whether you like it or not. There isn’t a Christmas that goes by without Julie Andrews running on top of a hill singing at the top of her lungs...
 date: "2014-03-07 05:54:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4468"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

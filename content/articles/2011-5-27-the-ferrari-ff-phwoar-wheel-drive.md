@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts and his love for the new do-it-all Ferrari
 date: "2011-05-27 15:30:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1281"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
 

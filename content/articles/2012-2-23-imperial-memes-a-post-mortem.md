@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Veli Akiner fails to mourn a very dead phenomenon
 date: "2012-02-23 20:02:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2228"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - va208
 highlights:
  - comment
 

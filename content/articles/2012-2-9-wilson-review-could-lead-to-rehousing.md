@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Temporary halls in Elephant & Castle and Waterloo considered
 date: "2012-02-09 22:31:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2152"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
 highlights:
 

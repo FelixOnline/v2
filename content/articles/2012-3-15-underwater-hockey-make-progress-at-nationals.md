@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Underwater hockey - a fast paced sport invented in the 50s
 date: "2012-03-15 21:23:30 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2381"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - rd1810
 highlights:
 
 # Homepage control params

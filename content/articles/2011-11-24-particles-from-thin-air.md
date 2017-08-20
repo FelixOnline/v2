@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Photons pulled out of vacuum thanks to quantum mechanics
 date: "2011-11-24 20:51:09 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1808"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - pd111
  - pk1811
 highlights:
 

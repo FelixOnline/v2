@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A day well spent
 date: "2012-06-14 19:19:06 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2546"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - skw10
 highlights:
 
 # Homepage control params

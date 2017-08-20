@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's team comfortably defeat the University of West London
 date: "2012-02-09 23:09:12 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2170"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fk208
  - pk1811
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is the Maths Department asking too much?
 date: "2010-11-18 21:57:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "416"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - za710
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Royal Institute selects former Imperial Rector as new Chair of its Council
 date: "2010-10-07 22:41:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "179"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rf1509
 highlights:
 
 # Homepage control params

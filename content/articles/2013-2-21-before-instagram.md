@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles tells us about the exhibition of portraits by Man Ray
 date: "2013-02-21 20:59:36 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3345"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
  - photos

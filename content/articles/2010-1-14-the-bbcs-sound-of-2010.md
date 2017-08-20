@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hugh Crail and Greg Power rant about the BBC's Sound of 2010
 date: "2010-01-14 14:41:18 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "28"

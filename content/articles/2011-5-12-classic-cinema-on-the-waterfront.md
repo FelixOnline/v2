@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A turning point for American cinema
 date: "2011-05-12 18:52:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1199"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We sent a lot of Snapchats
 date: "2016-03-15 09:45:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6049"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ic
+ - icanon
 highlights:
  - comment
 

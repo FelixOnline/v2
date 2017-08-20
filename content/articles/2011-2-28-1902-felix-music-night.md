@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Saturday 19th February 2011, Felix hosted its first Music Night at Metric. It was a glorious event
 date: "2011-02-28 21:25:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "946"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

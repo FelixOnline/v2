@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But Chris Bowers examines whether it is all that it is cracked up to be
 date: "2011-06-23 20:25:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1422"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb908
  - felix
 highlights:
  - comment

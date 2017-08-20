@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Wells’ debut venture as a film director is an astute and absorbing drama
 date: "2011-02-28 20:42:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "933"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

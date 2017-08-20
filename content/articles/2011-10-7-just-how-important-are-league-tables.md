@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Action must always be taken, yet the university ranking system is not perfect
 date: "2011-10-07 10:06:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1483"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or how a bunch of teenagers are taking over the world
 date: "2011-03-10 20:24:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1069"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gep07
 highlights:
  - comment
 

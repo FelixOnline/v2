@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eliot Barford on the small things that could add up to getting rid of malaria for good
 date: "2012-02-16 21:57:11 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2202"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - erb08
 highlights:
 
 # Homepage control params

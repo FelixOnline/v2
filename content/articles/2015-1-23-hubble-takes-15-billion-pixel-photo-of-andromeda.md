@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They too a photo in a galaxy far, far away...
 date: "2015-01-23 17:54:37 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5136"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jb3112
  - jyg11
 highlights:
  - comment

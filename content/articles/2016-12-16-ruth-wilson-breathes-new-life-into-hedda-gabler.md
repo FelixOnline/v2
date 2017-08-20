@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hedda Gabler is on at the Lyttelton Theatre until the 21st of March, 2017
 date: "2016-12-16 15:05:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6613"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gongs abound this year
 date: "2013-06-13 23:06:22 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3688"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - tna08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trust responds to news reports
 date: "2011-11-17 21:09:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1770"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
+ - mtm10
 highlights:
  - comment
 

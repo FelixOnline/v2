@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tanguy Racine explores the depths of Migovec, Slovenia
 date: "2015-02-13 15:26:08 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5259"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - tr1813
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking at the Kepler Telescope's newest discovery
 date: "2013-11-01 09:38:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3973"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pd111
 highlights:
 
 # Homepage control params

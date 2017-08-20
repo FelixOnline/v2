@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Times Higher Education findings
 date: "2015-06-11 22:10:39 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5609"

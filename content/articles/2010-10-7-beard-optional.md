@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...but dedication is compulsory for a career in science. We’re not here to be valued, we’re here to work shit out
 date: "2010-10-07 22:55:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "181"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhys Davies voives his opinions on Global Warming
 date: "2010-01-14 12:51:23 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "24"

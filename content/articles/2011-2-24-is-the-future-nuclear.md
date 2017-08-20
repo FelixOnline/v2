@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three of the UK’s leading experts on nuclear power debate the future of nuclear power
 date: "2011-02-24 20:00:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "875"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rtf08
 highlights:
 
 # Homepage control params

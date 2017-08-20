@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Foxing released an EP last year called Old Songs. I did not care for it.
 date: "2013-11-15 18:08:22 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4080"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

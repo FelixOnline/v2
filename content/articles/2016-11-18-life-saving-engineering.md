@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sara Hamilton reviews how ‘Massive Small Change’ speaker Joanna Beale inspires others to make a difference by improving sanitation in Mozambique
 date: "2016-11-18 14:55:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6468"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sara.hamilton14
 highlights:
 
 # Homepage control params

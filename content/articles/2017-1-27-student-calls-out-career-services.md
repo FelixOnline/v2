@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union pushes for resolving funding and staffing issues
 date: "2017-01-27 14:11:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6681"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

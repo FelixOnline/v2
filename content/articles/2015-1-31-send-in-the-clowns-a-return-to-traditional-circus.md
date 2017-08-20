@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt reviews Cirque du Soleil’s Kooza at the Royal Albert Hall
 date: "2015-01-31 19:18:11 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5172"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - ff712
 highlights:
  - longread

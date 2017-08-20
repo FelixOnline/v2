@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I began to see galaxies and orbiting planets in my eyes. By Rosie Milton
 date: "2010-12-09 21:32:07 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "536"

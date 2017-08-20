@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discontent with the restricted views offered by India’s tuk-tuks, Chris Richardson takes to the skies to catch a bird’s eye view of India’s Golden Triangle
 date: "2011-11-24 20:15:47 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1802"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - pk1811
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports as Republicans are voted into control of the Senate
 date: "2014-11-06 18:56:54 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4770"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - kmw13
 highlights:
 
 # Homepage control params

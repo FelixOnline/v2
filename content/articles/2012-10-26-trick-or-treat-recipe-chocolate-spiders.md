@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rosemary Peters hopes you like creepy crawlers
 date: "2012-10-26 02:52:24 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2759"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felfood
  - tna08
 highlights:
  - comment

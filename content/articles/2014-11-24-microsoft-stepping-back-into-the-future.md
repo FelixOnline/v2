@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chrysostomos Meli inspects just what has gone wrong with Windows over the years
 date: "2014-11-24 13:00:09 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4948"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cm5314
  - ps3110
 highlights:
 

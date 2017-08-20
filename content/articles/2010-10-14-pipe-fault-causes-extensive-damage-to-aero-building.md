@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A PhD student is rumoured to have bungled, resulting in damage to labs and lecture theatres
 date: "2010-10-14 19:04:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "197"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - cb403
  - felix
 highlights:
 

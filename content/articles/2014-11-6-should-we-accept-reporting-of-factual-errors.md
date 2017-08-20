@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you’ve been reading the news recently, you’ll surely be aware of the impending apocalypse sweeping Western Africa.
 date: "2014-11-06 18:23:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4762"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ng611
  - ps3110
 highlights:
  - comment

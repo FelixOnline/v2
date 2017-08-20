@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The pros and cons of playing a Limosuine driver
 date: "2014-11-10 21:51:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4828"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jdd11
  - ps3110
 highlights:
  - comment

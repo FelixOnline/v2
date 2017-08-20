@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles gives us the run down of his top films of the year
 date: "2014-12-11 21:05:54 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5034"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ff712
 highlights:
  - comment
 

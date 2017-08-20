@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Immortals lacked fresh faces on the field and were unable to make big differences in the second quarter
 date: "2015-11-06 14:24:47 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5714"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - pt1114
  - ygr12
 highlights:
 

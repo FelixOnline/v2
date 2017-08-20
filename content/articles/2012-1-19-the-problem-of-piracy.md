@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Online piracy is a growing problem, but planned, potentially disastrous US legislation is not the way to tackle it. Laurence Pope discusses
 date: "2012-01-19 20:33:39 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2016"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - lap08
 highlights:
  - longread
  - photos

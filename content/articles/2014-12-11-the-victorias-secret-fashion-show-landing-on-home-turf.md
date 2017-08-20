@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the sexiest outfits and angels of last week’s runway show at Earl’s Court Exhibition Centre
 date: "2014-12-11 21:33:38 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5042"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - czb11
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Peacock fills you in on the smorgasbord of touristy things to do in Munich
 date: "2012-10-18 21:14:39 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2696"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jp1911
  - tna08
 highlights:
  - longread

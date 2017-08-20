@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's Team Plasticity on Genetic Engineering
 date: "2013-10-24 23:43:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3912"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - idb10
 highlights:
 
 # Homepage control params

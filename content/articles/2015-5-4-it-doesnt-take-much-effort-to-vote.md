@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Lim asks why students don’t care about the election
 date: "2015-05-04 16:14:52 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5486"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - txl11
 highlights:
  - comment
 

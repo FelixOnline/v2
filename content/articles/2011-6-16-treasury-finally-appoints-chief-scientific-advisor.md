@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Richardson becomes first to hold position at Treasury
 date: "2011-06-16 19:11:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1382"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ann09
  - felix
 highlights:
 

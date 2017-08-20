@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We can do anything we want, and that’s not usually helping people for the greater good
 date: "2017-01-13 15:05:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6652"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - gib13
 highlights:
 
 # Homepage control params

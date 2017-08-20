@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a shocking defeat for UEL, Imperial’s 2nd XV return triumphant with a 65-0
 date: "2015-11-13 15:06:14 +0000"
-author_id: "cet13"
 
 # Attributes from Felix Online V1
 id: "5737"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cet13
+ - mrh15
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle explains his fears after last week’s final that wasn’t
 date: "2014-11-20 21:35:48 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4916"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - kmw13
 highlights:
  - comment
 

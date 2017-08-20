@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam on the interdependence of man and machine
 date: "2011-11-03 18:17:36 +0000"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1648"

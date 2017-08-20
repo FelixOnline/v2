@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Proposals to determine viability of new ventures include test events
 date: "2012-02-16 22:45:10 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2215"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - sjw209
+ - skd09
 highlights:
 
 # Homepage control params

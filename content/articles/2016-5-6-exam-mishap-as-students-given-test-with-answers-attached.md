@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First year geophysics students surprised to open file that included solutions
 date: "2016-05-06 09:40:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6112"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

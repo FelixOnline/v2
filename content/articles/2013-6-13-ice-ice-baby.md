@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Iceman review
 date: "2013-06-13 23:32:13 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3693"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

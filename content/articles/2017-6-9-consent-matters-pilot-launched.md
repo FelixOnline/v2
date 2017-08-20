@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Consent training could become mandatory from October onwards
 date: "2017-06-09 14:49:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7007"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

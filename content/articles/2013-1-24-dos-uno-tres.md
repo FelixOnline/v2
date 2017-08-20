@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl reviews the second installment from Green Day
 date: "2013-01-24 22:10:43 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3164"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - me1711
 highlights:
 
 # Homepage control params

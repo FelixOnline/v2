@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Crown takes a rare look at the formative years of Queen Elizabeth, and chronicles the royal family’s escapades through the 20th century. Does it stack up well? Or is is just aimless royalty-porn?
 date: "2016-12-16 15:14:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6617"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ad4013
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union welcomes recommendations as helpful and sensitive to complex issues
 date: "2011-02-28 21:13:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "941"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles mulls on the radical British politics on display at the National Theatre's latest offering
 date: "2015-04-27 10:57:04 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5471"

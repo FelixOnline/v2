@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hyde Park on Hudson
 date: "2013-02-01 01:05:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3239"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klb09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jessica Cheng
 date: "2012-06-14 20:09:20 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2558"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - tna08
 highlights:
 
 # Homepage control params

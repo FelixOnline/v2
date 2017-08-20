@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Back this week from fighting the patriarchy, Angry Grad asks why we aren’t all embracing equal rights
 date: "2015-11-13 14:25:24 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5722"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - the angry grad
  - ygr12
 highlights:
  - comment

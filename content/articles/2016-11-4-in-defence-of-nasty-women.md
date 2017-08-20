@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the American election looms, the discourse has gotten more and more sordid. ‘What do we mean when we call someone a “nasty woman”?’ asks Fred Fyles, who turns to the silver screen for answers, looking at the archetypical ‘nasty women’ of cinema
 date: "2016-11-04 14:19:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6389"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - ff712
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year's theme is early intervention
 date: "2017-02-24 13:45:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6811"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

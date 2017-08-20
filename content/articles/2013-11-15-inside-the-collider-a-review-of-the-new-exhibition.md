@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You’re very lucky to see this,” a professor with a bright orange waistcoat and bow tie tells us. “Usually, only scientists are allowed at internal meetings.”
 date: "2013-11-15 02:19:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4062"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - kw911
 highlights:
  - photos
 

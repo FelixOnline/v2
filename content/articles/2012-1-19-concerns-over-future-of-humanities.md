@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lecturer speaks out against "departmental cuts"
 date: "2012-01-19 22:20:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2033"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

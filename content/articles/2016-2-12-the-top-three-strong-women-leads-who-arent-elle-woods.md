@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Legally Blonde isn't intersectional
 date: "2016-02-12 11:48:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5912"
@@ -21,7 +20,7 @@ tags:
  - film
  - imported
 authors:
- - felix
+ - bsc14
 highlights:
  - photos
 

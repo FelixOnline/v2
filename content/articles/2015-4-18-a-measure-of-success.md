@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles applauds the physicality of this Russian production of Measure for Measure
 date: "2015-04-18 08:06:03 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5466"

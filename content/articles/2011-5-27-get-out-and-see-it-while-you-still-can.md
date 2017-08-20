@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tourists are set to be banned from Nazareth in the Amazon
 date: "2011-05-27 15:29:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1280"
@@ -21,6 +20,7 @@ tags:
  - travel
  - imported
 authors:
+ - cr709
  - felix
 highlights:
 

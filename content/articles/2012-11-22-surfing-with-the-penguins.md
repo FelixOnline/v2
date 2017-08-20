@@ -4,7 +4,6 @@ title: >
 subtitle: >
   SurfSoc catch some cold, cold waves. Why do they like it again?
 date: "2012-11-22 22:56:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2936"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ld709
  - tna08
 highlights:
 

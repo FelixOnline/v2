@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No concrete long-term strategy in place says Union
 date: "2011-06-16 18:45:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1375"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - bs2610
  - felix
+ - ks607
 highlights:
  - comment
 

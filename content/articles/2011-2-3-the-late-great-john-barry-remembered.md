@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reminiscence of the legend- John Barry.
 date: "2011-02-03 19:58:25 +0000"
-author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "731"

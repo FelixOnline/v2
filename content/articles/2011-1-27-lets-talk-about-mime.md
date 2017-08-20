@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London’s annual International mime festival lands once again, showcasing physical theatre from all over the world. We tried just a couple to get a taste of what’s been going on
 date: "2011-01-27 19:50:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "678"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - hb308
 highlights:
 
 # Homepage control params

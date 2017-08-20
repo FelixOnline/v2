@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking back at IC.HACK, the developer argues in favour of gamers making their own games
 date: "2011-03-10 20:36:00 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1073"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtc06
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You don't have to be a philanthropist to want to donate your organs
 date: "2012-06-14 19:42:17 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2549"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - skw10
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt investigates
 date: "2014-10-17 15:00:16 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4733"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - kmw13
 highlights:
 

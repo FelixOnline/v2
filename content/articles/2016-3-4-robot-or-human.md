@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When machines can do all the things you can do, then what’s the point of us?
 date: "2016-03-04 11:42:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6006"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
 

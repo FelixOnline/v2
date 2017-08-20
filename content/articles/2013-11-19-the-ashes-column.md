@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On the eve of the Ashes, in our new column we preview the series.
 date: "2013-11-19 18:31:04 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4093"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Greenland: Another play about global warming, can the National make it exciting?
 date: "2011-02-27 19:32:22 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "915"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - wsp10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Boris Johnson
 date: "2013-10-25 00:02:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3918"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Space to be replaced by study area
 date: "2017-06-02 12:45:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6985"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meredith Thomas ventures into the weird land of the cyborgs at the Wellcome Collection
 date: "2012-10-11 20:28:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2643"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - felix
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No more White Stripes disheartens fans across the world
 date: "2011-02-03 19:12:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "711"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

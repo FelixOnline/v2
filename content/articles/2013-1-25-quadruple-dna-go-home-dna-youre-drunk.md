@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett thinks DNA are now causing a scene and need to be sent home in a taxi
 date: "2013-01-25 01:54:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3188"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3110
  - tna08
 highlights:
  - photos

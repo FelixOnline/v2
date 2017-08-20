@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Physicists perform direct measurement of photon wavefunction
 date: "2011-06-16 19:49:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1386"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mjl07
 highlights:
 
 # Homepage control params

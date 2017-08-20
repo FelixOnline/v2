@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little on why they may be successful, but never mention that they were also lucky
 date: "2011-11-10 20:27:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1712"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - kw911
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London Underground and the Mayor of London announced new changes that will have a large impact on London’s tube system.
 date: "2013-11-22 03:31:42 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4095"

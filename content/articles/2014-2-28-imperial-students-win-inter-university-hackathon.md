@@ -4,7 +4,6 @@ title: >
 subtitle: >
   4 Imperial students smash the competitions @ HackKings
 date: "2014-02-28 07:10:16 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4440"

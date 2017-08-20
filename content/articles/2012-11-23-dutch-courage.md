@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Holland based pun for an editorial suggesting a solution to the Holland Club issue
 date: "2012-11-23 12:22:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2978"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

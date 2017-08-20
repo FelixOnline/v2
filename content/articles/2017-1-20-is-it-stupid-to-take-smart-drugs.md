@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anjeline Joegi looks at the pros and cons to taking the most widely used study drug
 date: "2017-01-20 15:08:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6662"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - anjelinejoegi
  - felix
 highlights:
  - photos

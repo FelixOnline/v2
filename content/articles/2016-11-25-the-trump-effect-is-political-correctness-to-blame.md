@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jawaad Farooq offers his verdict on the reason for Donald’s rise to power
 date: "2016-11-25 13:30:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6496"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jf413
 highlights:
 
 # Homepage control params

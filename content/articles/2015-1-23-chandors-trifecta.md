@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park's two cents on J. C. Chandor's new film
 date: "2015-01-23 16:56:45 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5132"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - jyg11
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The commercial bomb is dropped on the latest and greatest in contemporary art
 date: "2015-10-23 11:43:58 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5671"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mff113
  - ygr12
 highlights:
 

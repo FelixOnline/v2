@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wandering through the misty morass: India's Western Ghats
 date: "2012-02-16 21:11:18 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2186"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - cr709
 highlights:
  - comment
 

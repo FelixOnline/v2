@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After his party address and mastering of the skill of repetition (“One Nation” - 46 times), the Labour leader is hoping to boost his election chances. Matthew Proctor looks into them.
 date: "2012-10-11 21:02:28 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2661"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - felix
 highlights:
 
 # Homepage control params

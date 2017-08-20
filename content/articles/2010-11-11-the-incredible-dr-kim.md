@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From death row to founder of North Korea’s first independent university, Dr James Kim’s story is told by Lord David Alton, in the second part of this exclusive series
 date: "2010-11-11 21:15:01 +0000"
-author_id: "lorddavidalton"
 
 # Attributes from Felix Online V1
 id: "356"

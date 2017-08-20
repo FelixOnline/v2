@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Because sometimes what Chris Richardson needs is a holiday from his holiday
 date: "2015-05-04 16:35:22 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5490"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - ps3110
 highlights:
  - comment

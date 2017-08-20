@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union and College need to keep working together for the future
 date: "2015-03-09 18:19:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5372"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - ps3110
 highlights:
  - comment

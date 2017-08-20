@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe interviews Imperial researcher and learns how and why LSD could be used to treat depression and addictions
 date: "2014-11-28 00:57:13 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4971"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ltr11
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nils Hanwahr examines Obama’s plan for the future of science in the United States
 date: "2011-03-01 21:40:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "975"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nch09
 highlights:
  - comment
  - longread

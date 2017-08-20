@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hammersmith-based research facility opened by Chancellor
 date: "2012-06-01 11:59:12 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2506"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - mc4509
 highlights:
 
 # Homepage control params

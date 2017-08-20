@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman joins the rebellion
 date: "2014-11-24 12:40:51 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4942"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - ps3110
 highlights:
  - photos

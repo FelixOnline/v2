@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews a host of new films
 date: "2013-06-21 00:25:00 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3732"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - longread

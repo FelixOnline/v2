@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The object not the people
 date: "2017-03-10 14:43:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6888"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bjt15
 highlights:
  - comment
  - photos

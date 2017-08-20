@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Circle Line changes will see drinking swapped for good deeds
 date: "2016-02-05 11:45:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5861"

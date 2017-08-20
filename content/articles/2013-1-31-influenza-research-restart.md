@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the H5N1 moratorium and why caution isn’t bad
 date: "2013-01-31 23:31:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3209"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

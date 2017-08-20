@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Union's Deputy President of Welfare discusses the debate on feminist issues that has arisen recently
 date: "2012-02-23 19:43:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2225"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nm406
 highlights:
  - comment
 

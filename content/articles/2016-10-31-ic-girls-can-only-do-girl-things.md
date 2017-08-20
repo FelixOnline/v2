@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Celebrate women’s sport by “jumping away the calories”
 date: "2016-10-31 13:36:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6359"

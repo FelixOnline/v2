@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Harley Quinn's first live-action moments on screen
 date: "2015-05-08 12:50:21 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5507"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - js5913
  - jyg11
 highlights:
  - comment

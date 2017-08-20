@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emiel De Lange is unimpressed by the ENO’s theatrical wizardry
 date: "2013-11-15 02:32:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4075"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ed812
  - felix
 highlights:
 

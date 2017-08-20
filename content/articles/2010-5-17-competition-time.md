@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Win 2x tickets to see Yeasayer &amp; Silver Columns playing on the 19th May (venue to be announced)
 date: "2010-05-17 17:17:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "138"

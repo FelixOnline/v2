@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Nest is on at the Young Vic until 26 November 2016.
 date: "2016-11-14 14:18:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6447"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ezra.kitson14
 highlights:
 
 # Homepage control params

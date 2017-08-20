@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tate Modern has us turning Japanese and just a little mad
 date: "2012-03-01 21:50:30 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2280"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - lj1409
 highlights:
  - photos
 

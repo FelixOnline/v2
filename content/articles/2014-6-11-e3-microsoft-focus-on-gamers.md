@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft.
 date: "2014-06-11 21:40:19 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4671"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mb1111
  - me1711
 highlights:
 

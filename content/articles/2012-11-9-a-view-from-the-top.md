@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang interivews Amanda Brumpton, CSC UK&IR, VP Sales
 date: "2012-11-09 11:46:28 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2840"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - tna08
 highlights:
  - longread

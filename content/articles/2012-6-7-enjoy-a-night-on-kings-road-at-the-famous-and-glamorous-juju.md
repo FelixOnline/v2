@@ -4,7 +4,6 @@ title: >
 subtitle: >
   'A cocktail bar that does food' – that must be the most beautiful sentence in the English language.
 date: "2012-06-07 18:57:16 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2527"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - ams111
+ - mk4410
 highlights:
  - photos
 

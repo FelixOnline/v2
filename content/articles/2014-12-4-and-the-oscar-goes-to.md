@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park sets the scene for this year's Oscar Race
 date: "2014-12-04 19:39:37 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5001"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jgp09
 highlights:
  - comment
 

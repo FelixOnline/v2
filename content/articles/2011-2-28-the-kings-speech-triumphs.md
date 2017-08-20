@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Knock passes his critical eye over the Academy Award Winners
 date: "2011-02-28 20:40:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "931"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - felix
 highlights:
 

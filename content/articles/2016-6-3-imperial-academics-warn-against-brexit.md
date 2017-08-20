@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Academics from the School of Public Health say voting Remain is the “logical” option
 date: "2016-06-03 08:38:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6226"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

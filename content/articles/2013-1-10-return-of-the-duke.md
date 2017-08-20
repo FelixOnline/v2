@@ -4,7 +4,6 @@ title: >
 subtitle: >
   By Tuesday morning Bowie’s ‘comeback’ was plastered all over the press and blaring out of radios
 date: "2013-01-10 22:51:36 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3096"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - sh1207
 highlights:
 
 # Homepage control params

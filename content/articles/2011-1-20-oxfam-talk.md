@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Talk on the latest Oxfam global campaign at Imperial hosted by Engineers without Borders
 date: "2011-01-20 20:47:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "632"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jkh08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking at Marcus du Sautoy and Victoria Gould's "X & Y"
 date: "2013-10-18 21:53:13 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3897"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - enl11
  - jal08
 highlights:
 

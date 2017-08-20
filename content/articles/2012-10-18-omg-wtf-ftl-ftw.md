@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mainstream gaming
 date: "2012-10-18 21:38:35 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2717"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - mb1111
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent caught up with the winners on results night
 date: "2015-03-19 23:44:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5408"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last survey was conducted two years ago
 date: "2017-06-02 12:46:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6986"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ANOHNI’s solo debut album is an unhinged attack on the status quo
 date: "2016-05-13 09:05:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6156"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

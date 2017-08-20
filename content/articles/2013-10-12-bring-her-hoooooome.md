@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park on "Prisoners"
 date: "2013-10-12 00:48:01 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3841"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jgp09
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Rafael Palacios giving us a little demo of his modelling.
 date: "2016-03-04 11:41:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6005"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nk1515
 highlights:
 
 # Homepage control params

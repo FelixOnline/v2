@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence de Lussy Kubisa risks online censoring and defends Transport for London
 date: "2012-02-02 23:35:55 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2112"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ld710
  - sjw209
 highlights:
 

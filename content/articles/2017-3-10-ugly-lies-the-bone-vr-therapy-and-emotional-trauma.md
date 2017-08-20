@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Ugly Lies the Bone is on at the National Theatre until 6th June. Tickets from £15
 date: "2017-03-10 13:43:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6875"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - vaishnavignanana
 highlights:
  - comment
 

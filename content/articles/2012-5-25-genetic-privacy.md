@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Geneticists have a run-in with the law
 date: "2012-05-25 18:44:21 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2501"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - mc4509
+ - ps3110
 highlights:
 
 # Homepage control params

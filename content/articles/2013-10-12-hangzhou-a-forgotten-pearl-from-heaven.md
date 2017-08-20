@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get the lowdown on a fresh UNESCO site in the heart of China’s Zhejiang Province
 date: "2013-10-12 19:45:41 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3859"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - jal08
+ - sw2711
+ - zs1210
 highlights:
 
 # Homepage control params

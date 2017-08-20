@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Business School is now in the top 1%
 date: "2012-12-07 00:12:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3022"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

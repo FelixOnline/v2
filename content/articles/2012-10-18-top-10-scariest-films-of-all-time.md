@@ -4,7 +4,6 @@ title: >
 subtitle: >
   (spoilers rife!)
 date: "2012-10-18 21:36:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2714"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jgp09
 highlights:
  - comment
  - longread

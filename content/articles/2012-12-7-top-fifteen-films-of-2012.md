@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film takes you on a tour of the best films this year
 date: "2012-12-07 14:53:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3073"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at dresses from 1775 onwards
 date: "2014-11-06 20:59:50 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4793"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - czb11
  - snb11
 highlights:
  - comment

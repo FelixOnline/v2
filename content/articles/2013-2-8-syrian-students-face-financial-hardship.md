@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Government urged to help those who face deportation to Syria if removed from courses
 date: "2013-02-08 01:19:08 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3287"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

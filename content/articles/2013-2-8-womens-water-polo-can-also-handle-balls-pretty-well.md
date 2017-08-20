@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Adina de Wit kisses and tells...
 date: "2013-02-08 00:27:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3272"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
 

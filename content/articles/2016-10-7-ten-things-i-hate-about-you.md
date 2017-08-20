@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hint: It's your STIs
 date: "2016-10-07 17:32:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6314"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - icanon
+ - tad08
 highlights:
  - longread
  - photos

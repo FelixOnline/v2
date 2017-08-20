@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Extreme Light Infrastructure laser to produce Sun-like intensities
 date: "2011-11-10 21:06:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1725"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - pk1811
 highlights:
 

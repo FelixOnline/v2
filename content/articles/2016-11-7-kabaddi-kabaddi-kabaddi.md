@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix tries a sport. Oh yeah
 date: "2016-11-07 13:15:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6404"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - samsmith
+ - ss11814
 highlights:
 
 # Homepage control params

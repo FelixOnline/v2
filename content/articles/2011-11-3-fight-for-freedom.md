@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mr Poppadom discusses a land of opportunity, “where people can think and act and worship any way they want”
 date: "2011-11-03 21:01:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1679"

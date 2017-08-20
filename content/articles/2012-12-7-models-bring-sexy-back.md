@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maya Kaushik interviews Anita from Britain and Ireland’s Next Top Model
 date: "2012-12-07 02:41:15 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3053"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mk6809
  - tna08
 highlights:
 

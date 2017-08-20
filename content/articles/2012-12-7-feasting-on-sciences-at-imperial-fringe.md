@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After coming close to the bone. Puns away...
 date: "2012-12-07 00:17:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3023"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - yn711
 highlights:
 
 # Homepage control params

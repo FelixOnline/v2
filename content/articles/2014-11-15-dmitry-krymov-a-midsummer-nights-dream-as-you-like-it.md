@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles reviews the latest piece at the Barbican Theatre
 date: "2014-11-15 01:18:07 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4897"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

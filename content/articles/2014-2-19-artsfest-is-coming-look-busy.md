@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yes the biggest event of the union calendar has arrived. And I don’t mean the Big Elections. ArtsFest sees our scientists’ paradise turned over to our Artistic under culture for a week of something different.
 date: "2014-02-19 17:25:16 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4403"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - as906
  - jal08
 highlights:
 

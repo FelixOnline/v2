@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anxious wait for the final years
 date: "2013-03-01 01:22:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3418"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - tna08
 highlights:
 

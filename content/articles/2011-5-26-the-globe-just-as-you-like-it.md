@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Throughout the summer, masses of Shakespeare will be performed at the open air theatre on the Southbank. Just one of those plays will be the touring As You Like It
 date: "2011-05-26 23:48:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1269"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - felix
 highlights:
 

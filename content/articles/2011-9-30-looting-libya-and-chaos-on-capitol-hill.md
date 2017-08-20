@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We gear up for another year of politics by rounding up the events of the summer
 date: "2011-09-30 11:35:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1459"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jal08
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews two highly-anticipated Christmas specials
 date: "2014-01-17 04:17:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4254"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mtm10
 highlights:
  - longread
 

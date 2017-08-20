@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jezebel does Imperial proud
 date: "2013-05-09 12:08:52 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3559"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pk1811
  - tna08
 highlights:
  - comment

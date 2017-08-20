@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Director Tom Fisher mines a rich personal seam for his heart-wrenching debut feature
 date: "2015-12-06 14:23:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5803"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
 

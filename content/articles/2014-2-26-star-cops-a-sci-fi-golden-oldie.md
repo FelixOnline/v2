@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First let me say – no, it’s not as bad as its name suggests. In fact it’s nothing like its name suggest. The show itself jokes about how bad a name it is in its very first episode.
 date: "2014-02-26 12:59:12 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4438"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

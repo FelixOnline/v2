@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Talks about Hawking Radiation. Pfft, show off
 date: "2016-10-21 09:39:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6339"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
+ - so515
 highlights:
 
 # Homepage control params

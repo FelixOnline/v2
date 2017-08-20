@@ -4,7 +4,6 @@ title: >
 subtitle: >
   State of the union address the Obama way!
 date: "2011-01-27 19:23:58 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "667"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - nm1010
 highlights:
 

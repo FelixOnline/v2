@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Melancholia
 date: "2011-11-10 21:44:15 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1735"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cdd09
  - pk1811
 highlights:
 

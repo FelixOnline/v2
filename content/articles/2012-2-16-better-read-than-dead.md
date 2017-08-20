@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Games editor Laurence Pope reviews Yahtzee Croshaw’s epic MMORPG parody
 date: "2012-02-16 21:04:13 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2183"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lap08
  - pk1811
 highlights:
 

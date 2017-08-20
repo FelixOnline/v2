@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A$AP Rooky LiveLove A$AP Tri Angle 2011
 date: "2011-11-17 21:24:13 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1776"

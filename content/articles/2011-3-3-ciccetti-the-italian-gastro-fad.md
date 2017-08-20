@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Has Italian tapas' time come?
 date: "2011-03-03 19:39:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "999"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dhl106
  - felix
 highlights:
  - comment

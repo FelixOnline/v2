@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Apple launched the iPad whilst you were out
 date: "2010-04-30 10:47:38 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "130"

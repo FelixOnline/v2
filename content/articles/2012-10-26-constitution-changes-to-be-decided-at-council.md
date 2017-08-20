@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Court and President argue, but on Tuesday 30 October Council will decide if the proposals will become the Constitution
 date: "2012-10-26 01:40:46 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2730"

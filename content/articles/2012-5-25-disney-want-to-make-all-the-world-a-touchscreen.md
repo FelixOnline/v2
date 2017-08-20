@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's a flat world after all
 date: "2012-05-25 14:20:12 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2492"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - sc2911
 highlights:
 
 # Homepage control params

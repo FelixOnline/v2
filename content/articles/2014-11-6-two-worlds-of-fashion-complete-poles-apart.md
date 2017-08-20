@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles visits The Photographer’s Gallery to see what’s trendy
 date: "2014-11-06 21:28:26 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4802"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - snb11
 highlights:
 

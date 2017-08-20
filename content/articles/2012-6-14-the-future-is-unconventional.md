@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Helen Wilkes takes a look at computing inspired by biology
 date: "2012-06-14 20:09:00 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2557"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - hrw11
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pipe connection failure sends water gushing down through Biochemistry building
 date: "2011-02-03 19:37:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "719"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
+ - mc4509
 highlights:
  - comment
 

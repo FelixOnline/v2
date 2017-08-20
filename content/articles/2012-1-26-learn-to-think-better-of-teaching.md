@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Individuals need to band together to help solve teaching
 date: "2012-01-26 23:05:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "2073"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jm3309
 highlights:
 
 # Homepage control params

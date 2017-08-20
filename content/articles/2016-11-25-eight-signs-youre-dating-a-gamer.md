@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They’ve probably spent more time on their PC than they have on you
 date: "2016-11-25 14:33:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6512"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

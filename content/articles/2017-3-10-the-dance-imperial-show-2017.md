@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There will be dance, there will be scantily clad dancers.
 date: "2017-03-10 14:41:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6887"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aaa208
 highlights:
  - comment
 

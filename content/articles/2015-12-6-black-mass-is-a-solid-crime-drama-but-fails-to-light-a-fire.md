@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Johnny Depp and co all perform well in this Boston-set thriller, but it fails to reach true heights
 date: "2015-12-06 14:11:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5799"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
 
 # Homepage control params

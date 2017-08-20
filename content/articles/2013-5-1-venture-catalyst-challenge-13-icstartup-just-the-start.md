@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood and Pedro Silva Pereira on Imperial’s start-up scene
 date: "2013-05-01 21:02:48 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3524"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - csw09
  - pk1811
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Columbian food is something not usually encountered in London
 date: "2011-02-27 19:46:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "919"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lj810
 highlights:
 
 # Homepage control params

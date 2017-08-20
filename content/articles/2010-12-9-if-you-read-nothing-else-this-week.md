@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber spills the beans on his favourite book of all time
 date: "2010-12-09 21:28:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "535"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Oppeheimer is critical of the Secret Garden Party
 date: "2011-10-21 11:31:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1601"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dyo10
  - felix
 highlights:
 

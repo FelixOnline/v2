@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola is taken on a journey to the fun side of the ROH
 date: "2015-05-06 16:34:38 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5496"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cfc111
  - ps3110
 highlights:
  - comment

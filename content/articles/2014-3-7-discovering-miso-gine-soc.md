@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix finds evidence implicating the Men’s Hockey XI 2’s team in misogynistic behaviour online
 date: "2014-03-07 04:28:58 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4450"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jal08
  - ps3110
 highlights:
  - comment

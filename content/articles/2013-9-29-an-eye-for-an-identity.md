@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles investigates the new Designers in Residence
 date: "2013-09-29 14:33:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3774"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
  - longread

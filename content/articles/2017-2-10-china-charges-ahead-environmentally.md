@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sara Hamilton reports on China’s new approach towards environmental legislation
 date: "2017-02-10 14:04:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6753"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sara.hamilton14
 highlights:
  - photos
 

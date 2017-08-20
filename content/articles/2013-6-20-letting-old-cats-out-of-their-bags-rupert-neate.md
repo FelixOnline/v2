@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 3 of 3)
 date: "2013-06-20 16:57:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3706"

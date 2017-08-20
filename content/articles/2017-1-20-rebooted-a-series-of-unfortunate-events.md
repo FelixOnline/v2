@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Once again, Netflix rushes into rescue and, in this case, reboot a much loved property that had been poorly adapted. So, is the series any good, or does it become an all too literal rendition of its title?
 date: "2017-01-20 15:18:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6668"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
  - photos
 

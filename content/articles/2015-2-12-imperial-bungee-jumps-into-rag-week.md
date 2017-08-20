@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports on this year's charity extravaganza, which included walking on fire, jumping from cranes, and tunnelling
 date: "2015-02-12 21:36:57 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5239"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - ps3110
 highlights:
  - comment
  - longread

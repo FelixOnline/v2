@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman gets ready for the next batch of blockbusters
 date: "2015-06-18 20:28:14 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5633"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - js5913
  - jyg11
 highlights:
  - comment

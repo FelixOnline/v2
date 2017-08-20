@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One-sidedness of the event down to miscommunication
 date: "2017-02-10 13:36:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6742"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

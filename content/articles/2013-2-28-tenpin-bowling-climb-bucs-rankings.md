@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tsz Ki Chiu is bowled over with their success
 date: "2013-02-28 23:48:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3395"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - tsz ki chiu
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Nabihah Iqba's latest EP is a hazy blur of sharp light and colour
 date: "2016-03-08 16:51:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6014"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
+ - jp2512
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco looks at a promising debut novel
 date: "2013-06-20 15:46:33 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3701"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - at3209
  - tna08
 highlights:
 

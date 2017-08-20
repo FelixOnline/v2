@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Jeffery on golfing pros, bitches and hoes
 date: "2011-11-17 21:27:45 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1777"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gj309
  - sjw209
 highlights:
  - comment

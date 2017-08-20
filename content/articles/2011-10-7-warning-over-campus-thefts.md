@@ -4,7 +4,6 @@ title: >
 subtitle: >
   PC Nigel Lewis reports on college security concerns
 date: "2011-10-07 00:19:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1469"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken considers the pros and cons of changing our voting system
 date: "2015-05-30 09:43:43 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5592"

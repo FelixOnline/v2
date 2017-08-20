@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Take your short-range flamethrower to set nearby enemies on fire or be more strategic and beset pirates by setting a whole cove on fire.
 date: "2013-10-16 14:13:31 +0100"
-author_id: "ir112"
 
 # Attributes from Felix Online V1
 id: "3882"

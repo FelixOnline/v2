@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week's Foodie editorial
 date: "2014-11-24 20:38:39 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4956"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

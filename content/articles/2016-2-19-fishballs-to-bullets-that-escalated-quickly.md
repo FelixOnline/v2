@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hong Kong is going through a tumultuous period of civil unrest, but what were the real reasons behind the latest outbreaks of violence?
 date: "2016-02-19 11:11:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5926"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - dym14
 highlights:
  - comment
 

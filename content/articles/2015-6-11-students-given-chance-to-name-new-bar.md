@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports as voting opens for new Woodward bar
 date: "2015-06-11 22:17:15 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5613"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
 

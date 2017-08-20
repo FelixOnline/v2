@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX explores the secret eats in this charming neighbourhood
 date: "2016-06-10 08:37:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6267"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
 
 # Homepage control params

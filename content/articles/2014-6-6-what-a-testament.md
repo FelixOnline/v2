@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is blown away at the Barbican
 date: "2014-06-06 02:45:18 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4662"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - jal08
 highlights:
  - photos

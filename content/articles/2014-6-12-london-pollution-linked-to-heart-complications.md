@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mimi Li on the dangers of living in a polluted city.
 date: "2014-06-12 17:00:43 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4686"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - mml110
 highlights:
 
 # Homepage control params

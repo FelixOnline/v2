@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Being a member of the LGBTQ+ community shouldn't have to be a big deal, but it is
 date: "2016-06-17 08:54:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6272"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RSM throw a spanner in the works
 date: "2010-10-28 19:57:44 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "284"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fm1810
  - jk708
 highlights:
  - comment

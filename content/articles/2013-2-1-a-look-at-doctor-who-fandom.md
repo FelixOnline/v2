@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Time may be unravelled, but the plot is not tightly strung
 date: "2013-02-01 00:18:03 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3225"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In 1848, democrats offered their lives for freedom. Today’s liberals can scarcely be bothered to lift their pens. By Alessandro Guazzi
 date: "2011-05-06 08:44:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1160"

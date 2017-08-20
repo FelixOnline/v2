@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week sees the start of a retrospective of Luis Buñuel, the radical Spanish filmmaker, at London’s ICA. We take a look at the director’s life and work, identifying the key themes at play in his films: sexuality, satire, and surrealism.
 date: "2015-11-20 09:16:21 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5751"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - daa112
  - ygr12
 highlights:
  - comment

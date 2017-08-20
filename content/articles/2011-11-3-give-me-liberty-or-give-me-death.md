@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The French teach us lessons in democracy, according to Bernhardt Kreuzweg-Burgheim
 date: "2011-11-03 21:05:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1681"

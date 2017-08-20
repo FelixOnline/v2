@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi looks ahead at Britain’s best experimental festival
 date: "2014-06-02 12:49:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4641"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

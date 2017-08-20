@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the statistically most depressing day of the year nears, Channel 4 is prepared with a little treat
 date: "2012-01-12 22:57:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1996"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mh3210
 highlights:
 
 # Homepage control params

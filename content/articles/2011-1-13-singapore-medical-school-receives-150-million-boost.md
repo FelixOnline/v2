@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s venture with Nanyang Technological University receives sizeable gift from the Lee Foundation
 date: "2011-01-13 21:53:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "598"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - klb09
 highlights:
 
 # Homepage control params

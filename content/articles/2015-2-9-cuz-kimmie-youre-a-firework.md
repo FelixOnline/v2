@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park interviews the film North Korea didn't want you to see
 date: "2015-02-09 19:06:26 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5218"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - ps3110
 highlights:
  - photos

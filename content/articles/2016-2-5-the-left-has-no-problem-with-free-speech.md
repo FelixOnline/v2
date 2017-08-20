@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We aren’t living in the Orwellian police state as some would have you believe
 date: "2016-02-05 11:57:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5866"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jr1815
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman enjoys this debauched puppet musical far too much. Twice.
 date: "2015-05-26 13:52:39 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5566"

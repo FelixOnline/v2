@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new film by the French-Canadian auteuer at the top of his game arrives at cinemas next Friday
 date: "2016-11-04 14:10:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6386"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
  - longread
 

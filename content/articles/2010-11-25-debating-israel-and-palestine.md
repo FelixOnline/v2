@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Debating Israel and Palestine
 date: "2010-11-25 21:24:16 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "439"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - nm1010
+ - nn1209
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts snubs George Clooney’s Nespresso for coffee at the EEE café
 date: "2010-10-28 19:38:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "269"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - cb403
  - felix
 highlights:
 

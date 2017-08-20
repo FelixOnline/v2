@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Barnett evaluates Top Gear's recent entertainment value
 date: "2012-02-23 20:56:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2247"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gb610
 highlights:
  - comment
 

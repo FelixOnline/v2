@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The concrete colossus captures the optimism of the architechural era
 date: "2016-05-13 08:53:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6147"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - haljabir
 highlights:
  - photos
 

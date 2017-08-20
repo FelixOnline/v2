@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ernest Lo reports as Imperial A team grab silver
 date: "2015-03-06 14:09:35 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5356"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - el1311
  - kmw13
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco discovers Peter Handke’s great novel
 date: "2012-11-01 23:02:00 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2806"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - felart
 highlights:
 
 # Homepage control params

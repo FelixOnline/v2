@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Leaving the EU will detriment the UK, Europe, and the world
 date: "2016-05-27 08:48:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6205"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - pa07
 highlights:
 
 # Homepage control params

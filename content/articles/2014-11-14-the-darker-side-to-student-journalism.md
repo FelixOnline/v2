@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Lim discusses Union censorship of student papers
 date: "2014-11-14 20:29:55 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4869"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - txl11
 highlights:
  - comment
  - photos

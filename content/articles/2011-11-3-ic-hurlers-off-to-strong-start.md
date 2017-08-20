@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial and St Mary's team up in Greenford
 date: "2011-11-03 22:10:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1699"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

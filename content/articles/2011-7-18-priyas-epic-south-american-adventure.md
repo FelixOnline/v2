@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Priya's Epic South American Adventure
 date: "2011-07-18 12:45:22 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1451"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ks607
+ - pg405
 highlights:
 
 # Homepage control params

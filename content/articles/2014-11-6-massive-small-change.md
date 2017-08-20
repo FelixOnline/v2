@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shiladitya Ghosh & Marcus Bishop on opportunities with EWB
 date: "2014-11-06 20:58:35 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4792"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - cj914
+ - msb212
+ - sg4812
 highlights:
 
 # Homepage control params

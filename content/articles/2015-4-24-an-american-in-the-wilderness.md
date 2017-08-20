@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles feels that the balance is slightly off in the Young Vic's production of Ah, Wilderness!
 date: "2015-04-24 13:49:14 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5469"

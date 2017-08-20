@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If Mickey Mouse comes anywhere near me...kill him I will
 date: "2012-11-09 13:32:10 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2860"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lw408
  - tna08
 highlights:
 

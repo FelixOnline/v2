@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A lemon pie recipe
 date: "2012-06-14 20:29:38 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2566"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - ym1310
 highlights:
  - comment
 

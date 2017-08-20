@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX presents your guide to the best doughnuts in London
 date: "2016-05-20 09:22:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6191"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - longread
  - photos

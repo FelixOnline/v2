@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson decrypts Cumberbatch’s The Imitation Game
 date: "2014-11-24 12:39:05 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4941"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - em2512
  - ps3110
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rachel Gillespie discusses the potential applications of psychedelic drugs for treating anxiety and depression
 date: "2017-01-13 14:15:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6641"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rachelgillespie
 highlights:
  - photos
 

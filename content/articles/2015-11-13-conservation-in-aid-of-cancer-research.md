@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cutting corners in conservation may cost us the cure
 date: "2015-11-13 14:42:31 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5731"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sdl15
  - ygr12
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simone Buitendijk calls first ‘Town Hall’ meeting
 date: "2016-11-25 13:17:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6491"

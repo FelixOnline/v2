@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang talks to the Director of Physical Sciences at Diamond Light Source
 date: "2011-12-08 20:26:54 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1912"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ay310
  - pk1811
 highlights:
  - comment

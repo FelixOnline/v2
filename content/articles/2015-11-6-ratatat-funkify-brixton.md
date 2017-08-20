@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mast and Stroud have their hands full on stage in a constant frenzy of gnarly jams
 date: "2015-11-06 14:18:05 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5710"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - he915
  - ygr12
 highlights:
 

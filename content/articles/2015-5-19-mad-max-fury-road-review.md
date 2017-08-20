@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Has the world fell? Each of us in our own way was broken. It was hard to know who was more crazy; me, or everyone else.” - Max Rockatansky
 date: "2015-05-19 21:22:27 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5543"

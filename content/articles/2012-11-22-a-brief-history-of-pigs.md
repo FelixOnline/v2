@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The whole crossed out headline thing totally doesn't work online.
 date: "2012-11-22 23:30:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2951"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - njk12
  - tna08
 highlights:
 

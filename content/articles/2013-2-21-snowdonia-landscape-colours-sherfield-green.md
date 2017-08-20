@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Photographic Society and Leonardo Fine Arts Society come together to host the Artsfest annual exhibition.
 date: "2013-02-21 20:55:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3344"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lord Winston wants other human values as well as a first
 date: "2013-05-09 12:11:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3560"

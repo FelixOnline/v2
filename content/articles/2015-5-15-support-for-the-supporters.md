@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has tips to make helping friends easier
 date: "2015-05-15 12:52:12 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5538"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - cw3414
 highlights:
  - comment
  - longread

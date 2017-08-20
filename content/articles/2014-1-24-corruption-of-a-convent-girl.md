@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Manon premiered in 1884, at the height of the Belle Époque.
 date: "2014-01-24 09:49:04 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4279"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ed812
  - jal08
 highlights:
 

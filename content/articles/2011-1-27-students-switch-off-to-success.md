@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students in halls saving energy
 date: "2011-01-27 18:31:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "654"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

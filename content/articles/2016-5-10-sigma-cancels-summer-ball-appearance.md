@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The headliner will now be DJ Fresh
 date: "2016-05-10 13:11:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6140"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ygr12
 highlights:
 
 # Homepage control params

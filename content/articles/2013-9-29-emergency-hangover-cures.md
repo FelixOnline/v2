@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Been out last night and not exactly feeling the best for your Maths test this morning? Fear not! Felix Food is here to help you feel better!
 date: "2013-09-29 15:39:40 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3781"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - felfood
  - tna08
+ - ykc111
 highlights:
  - photos
 

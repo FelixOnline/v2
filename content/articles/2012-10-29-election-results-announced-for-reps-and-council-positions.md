@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The results for this year’s Council and rep elections, with some posts remaining unfilled
 date: "2012-10-29 18:04:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2774"

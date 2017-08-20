@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A poem by John Hilliard
 date: "2011-12-06 11:34:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1903"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - extuser0
  - felix
 highlights:
 

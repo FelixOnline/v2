@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What happens now?
 date: "2016-07-04 09:55:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6292"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After the initial blinding from the blonde hair and the fake tans, we collected as a team.
 date: "2014-02-07 04:52:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4349"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - ek2410
  - jal08
 highlights:
 

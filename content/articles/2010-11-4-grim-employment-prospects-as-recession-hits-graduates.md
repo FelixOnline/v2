@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduate unemployment at 8.9%
 date: "2010-11-04 19:12:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "330"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Spiking looks back on the life of JD Salinger
 date: "2012-01-26 22:28:07 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2064"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - js5611
  - pk1811
 highlights:
  - comment

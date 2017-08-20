@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Fukushima disaster has resulted in a wider spread of radioactive material than anticipated
 date: "2012-03-15 20:01:43 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2356"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - edh11
 highlights:
 
 # Homepage control params

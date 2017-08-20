@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Iron Man 3 Return
 date: "2013-04-30 10:46:21 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3502"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - tna08
 highlights:
  - comment

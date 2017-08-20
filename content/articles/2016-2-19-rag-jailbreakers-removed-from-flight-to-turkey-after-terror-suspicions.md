@@ -4,7 +4,6 @@ title: >
 subtitle: >
   'Hand in Hand for Syria' charity caused confusion
 date: "2016-02-19 11:05:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5922"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - photos

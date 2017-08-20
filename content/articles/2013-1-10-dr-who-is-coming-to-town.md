@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "I believe the show’s episodes can be split up into three categories – a third of them are brilliant, a third are just plain disappointing while a third are so bad that they’re good"
 date: "2013-01-10 22:59:10 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3101"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - mtm10
 highlights:
 
 # Homepage control params

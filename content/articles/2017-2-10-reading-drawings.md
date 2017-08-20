@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite its efforts at making ancient scribbles interesting, Reading Drawings remains slightly too academic for the general public
 date: "2017-02-10 15:53:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6766"
@@ -21,7 +20,7 @@ tags:
  - arts
  - imported
 authors:
- - felix
+ - scc114
 highlights:
  - photos
 

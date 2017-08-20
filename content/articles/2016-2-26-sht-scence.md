@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thin penguins waddle, but fat penguins wobble
 date: "2016-02-26 11:36:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5964"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

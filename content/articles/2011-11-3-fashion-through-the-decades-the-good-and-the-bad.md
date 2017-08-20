@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saskia Verhagen and Alice Yang take a look back through fashion history as they recap the looks and icons of the past 62 years
 date: "2011-11-03 21:17:31 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1684"
@@ -24,7 +23,9 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ay310
  - pk1811
+ - stv07
 highlights:
  - comment
  - longread

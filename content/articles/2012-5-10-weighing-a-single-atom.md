@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Improvements on previous nanotechnology research reach new levels
 date: "2012-05-10 20:39:45 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2453"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - pk1811
 highlights:
 
 # Homepage control params

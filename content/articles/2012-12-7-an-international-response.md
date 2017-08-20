@@ -4,7 +4,6 @@ title: >
 subtitle: >
   International students reply to the fees
 date: "2012-12-07 00:03:28 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "3021"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - mtm10
 highlights:
  - comment
 

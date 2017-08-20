@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michelle Tan looks at some teas from further, er, afield
 date: "2014-12-04 19:12:43 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4993"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - mwt12
 highlights:
  - comment
 

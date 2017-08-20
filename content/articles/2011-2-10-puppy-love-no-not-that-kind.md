@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My name came up and in a matter of seconds I was holding the biggest heart-shaped card
 date: "2011-02-10 21:04:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "793"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - nd507
 highlights:
 
 # Homepage control params

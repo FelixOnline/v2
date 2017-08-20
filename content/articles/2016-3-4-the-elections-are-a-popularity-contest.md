@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s the university equivalent of a beauty paegant
 date: "2016-03-04 11:32:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6000"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
 

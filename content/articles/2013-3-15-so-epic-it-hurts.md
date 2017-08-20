@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England gets it, they are epic.
 date: "2013-03-15 02:54:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3494"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
 

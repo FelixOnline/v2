@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett investigates as ICSM survey says that 97% final year students are in the red
 date: "2015-01-29 23:46:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5156"

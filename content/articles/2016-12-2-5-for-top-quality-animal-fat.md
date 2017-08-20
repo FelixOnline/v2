@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Sharpless discusses the latest controversy surrounding the new £5 note
 date: "2016-12-02 14:00:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6527"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bensharpless
  - felix
 highlights:
 

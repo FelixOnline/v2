@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I suppose I’m just a traditionalist. Where the tradition is dying young and leaving a bloated corpse
 date: "2010-10-21 18:55:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "226"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

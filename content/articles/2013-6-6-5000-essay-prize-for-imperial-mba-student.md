@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mike Follett wins with his essay about social good as well as profitability
 date: "2013-06-06 15:26:01 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3664"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

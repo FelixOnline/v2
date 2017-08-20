@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another editorial!
 date: "2013-11-09 12:47:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4046"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

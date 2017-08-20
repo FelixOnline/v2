@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg is emotionally blown apart at Wyndham’s
 date: "2015-02-22 17:44:28 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5305"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mff113
  - ps3110
 highlights:
  - comment

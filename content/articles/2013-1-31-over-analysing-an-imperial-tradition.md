@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anum Farooq takes a positive view of life
 date: "2013-01-31 23:37:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3212"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
 

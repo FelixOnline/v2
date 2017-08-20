@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray on sonic brutality
 date: "2013-01-18 00:53:31 +0000"
-author_id: "rbg10"
 
 # Attributes from Felix Online V1
 id: "3145"

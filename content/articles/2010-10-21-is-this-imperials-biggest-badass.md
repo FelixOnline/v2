@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial student James Fletcher made headlines across the globe when he stole famous author Jonathan Franzen’s glasses from his face. Now he retells his incredible story
 date: "2010-10-21 19:45:06 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "250"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jf2410
  - jk708
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts on Jamie Oliver's attempt to encourage healthy eating in the US
 date: "2010-10-21 19:30:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "241"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - cb403
  - felix
 highlights:
 

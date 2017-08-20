@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wooden acting, clunky dialogue, and childish themes mean Love fails to light a fire
 date: "2015-11-29 16:33:49 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5780"

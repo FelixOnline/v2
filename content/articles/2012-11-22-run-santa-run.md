@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rishi Mistry and KOP/RAG’s army of Santas want you to join them
 date: "2012-11-22 22:49:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2933"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rm1709
  - tna08
 highlights:
 

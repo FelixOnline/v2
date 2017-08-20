@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ales are heavenly elixirs that don’t need to be cold and fizzy to taste wonderful
 date: "2016-05-06 09:48:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6118"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jlc14
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Responding to fears regarding accidental release and bioterrorism, researches studying a mutant strain of influenza A have paused their work.
 date: "2012-02-02 19:40:20 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2093"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - lap08
 highlights:
 
 # Homepage control params

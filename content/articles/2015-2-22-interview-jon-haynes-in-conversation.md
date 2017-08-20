@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The co-artistic director of renowned theatre company Ridiculusmus speaks to Max Falkenberg about schizophrenia, the creative process, the brutality of arts funding and throwing tomatoes at comedians.
 date: "2015-02-22 17:35:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5302"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mff113
  - ps3110
 highlights:
  - comment

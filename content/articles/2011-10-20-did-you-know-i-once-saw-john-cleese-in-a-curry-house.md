@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are celebrities a scourge on society?
 date: "2011-10-20 23:12:54 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1579"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - rjd08
  - sjw209
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tru Thoughts Label Showcase – Koko (Saturday 19 November)
 date: "2011-11-10 20:39:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1716"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The best (roti) tissue you’ll find in London
 date: "2010-12-02 20:58:48 +0000"
-author_id: "dhl106"
 
 # Attributes from Felix Online V1
 id: "482"

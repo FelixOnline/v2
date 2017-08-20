@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Previously on Once Upon a Time; characters from the most beloved fairytale stories were brainwashed, ripped away from their home the Enchanted Forest, and forced into a modern-day hellish locked down town called Storybrooke run by the evil witch queen and self-appointed mayor Regina...
 date: "2013-10-12 19:24:42 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3853"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

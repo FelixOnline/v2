@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Protestors give police the runaround in London
 date: "2010-12-02 21:56:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "500"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mr3209
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Singapore Society's Major Event is coming soon
 date: "2013-01-25 02:11:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3193"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

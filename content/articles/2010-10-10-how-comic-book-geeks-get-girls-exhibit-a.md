@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scott Pilgrim vs. The World
 date: "2010-10-10 15:38:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "192"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - an406
  - felix
 highlights:
  - photos

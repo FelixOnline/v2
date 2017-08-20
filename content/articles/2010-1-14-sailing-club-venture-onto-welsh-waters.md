@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sailors sail near Swansea and probably away again. It is Swansea, after all
 date: "2010-01-14 22:27:49 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "39"

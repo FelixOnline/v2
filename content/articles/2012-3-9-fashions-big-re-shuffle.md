@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jacobs, Pilati, Sander, Simons and Slimane; Alice Yang brings you the latest amid a designer overhaul
 date: "2012-03-09 00:54:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2333"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - felix
 highlights:
  - longread

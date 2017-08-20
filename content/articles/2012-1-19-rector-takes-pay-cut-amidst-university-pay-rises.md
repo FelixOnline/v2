@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Average pay rise of £10,000 for university leaders
 date: "2012-01-19 23:03:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2036"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

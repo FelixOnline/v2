@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of the films on show
 date: "2012-10-11 21:16:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2669"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

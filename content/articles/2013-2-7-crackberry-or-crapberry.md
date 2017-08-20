@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl looks at the fortunes of a different fruity company
 date: "2013-02-07 23:47:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3267"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - tna08
 highlights:
  - comment

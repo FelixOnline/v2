@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters explores the merits of Science Fiction
 date: "2015-02-20 16:40:20 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5291"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jm5014
  - ps3110
 highlights:
  - comment

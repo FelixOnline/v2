@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New research reveals new information about the composition of the Earth's core
 date: "2011-12-01 19:44:50 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1860"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ng411
 highlights:
  - photos
 

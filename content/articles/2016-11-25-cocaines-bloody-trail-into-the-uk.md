@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Eden criticises the West’s obsession with nose clams
 date: "2016-11-25 13:32:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6497"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - je615
 highlights:
 
 # Homepage control params

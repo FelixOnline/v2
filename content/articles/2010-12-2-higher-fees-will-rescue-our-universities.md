@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Every other sector faces wage-freezes, mass redundancies or unemployment
 date: "2010-12-02 21:39:27 +0000"
-author_id: "lmh07"
 
 # Attributes from Felix Online V1
 id: "493"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   160 students turn out in the rain to lobby Imperial College Senate to protect teaching in the Life Sciences department to no avail
 date: "2010-12-15 17:35:35 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "557"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - ks607
 highlights:
  - comment
  - longread

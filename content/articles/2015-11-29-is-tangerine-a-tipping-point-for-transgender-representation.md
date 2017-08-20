@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As transgender rights become more prominent in popular culture, we are seeing an increasing momentum for films that break the binary
 date: "2015-11-29 17:00:32 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5786"

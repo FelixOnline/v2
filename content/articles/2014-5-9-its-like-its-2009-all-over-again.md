@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews the recent albums by three of his old favourites
 date: "2014-05-09 14:58:10 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4581"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - sm5810
 highlights:
  - longread
 

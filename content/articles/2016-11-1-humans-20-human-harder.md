@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Humans made a big splash when it launched last year. Its compelling performances and intriguing premise made it a must-watch. Ahead of the launch of the second season this Sunday, felix lets you know if it retains the quality of the first.
 date: "2016-11-01 00:09:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6377"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
  - photos
 

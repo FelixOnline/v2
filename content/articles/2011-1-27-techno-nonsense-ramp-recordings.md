@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week Simon Hunter reports on the trailblazing label that is platforming some of London’s most exciting underground music
 date: "2011-01-27 20:43:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "701"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sh1207
 highlights:
 
 # Homepage control params

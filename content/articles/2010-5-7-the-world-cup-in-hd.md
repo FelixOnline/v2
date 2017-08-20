@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's only 34 days left till kick off. Are you and your TV ready?
 date: "2010-05-07 11:50:20 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "136"

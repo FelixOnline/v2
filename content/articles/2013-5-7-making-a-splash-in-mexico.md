@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton visits an exotic paradise, while you're in the Library eating a j pot. Damn.
 date: "2013-05-07 19:37:17 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3544"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - skw10
  - tna08
 highlights:
  - comment

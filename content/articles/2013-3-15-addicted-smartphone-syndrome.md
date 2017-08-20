@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are you a victim of the global smartphone dictatorship?
 date: "2013-03-15 01:16:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3471"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - tna08
 highlights:
  - comment

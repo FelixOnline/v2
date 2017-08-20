@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I can’t talk about Final Fantasy XIV without first talking about its predecessor: Final Fantasy XI, Square Enix’s first MMORPG. Released way back in 2002, FFXI was an amazing and beautifully flawed game.
 date: "2014-05-02 01:59:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4559"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mb1111
 highlights:
 
 # Homepage control params

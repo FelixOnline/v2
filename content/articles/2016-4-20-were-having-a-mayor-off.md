@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Who should be in control of London’s £16 billion budget?
 date: "2016-04-20 14:54:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6085"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - longread

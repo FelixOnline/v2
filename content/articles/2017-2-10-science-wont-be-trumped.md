@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The world cannot afford to let science be repressed again
 date: "2017-02-10 14:09:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6754"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - agnesdonnelly
  - felix
 highlights:
 

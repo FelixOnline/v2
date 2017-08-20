@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A budding new rivalry?
 date: "2017-01-20 14:51:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6655"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Television sneaks under-cover reporter "Captain Reynolds" into the BBC Head Of Programming office to record this secret conversation about the commissioning of their new Saturday night show.
 date: "2011-04-28 13:43:55 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "1145"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - mc4509
 highlights:
 

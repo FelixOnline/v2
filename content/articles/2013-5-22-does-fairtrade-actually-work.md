@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The battle lines are set, does Fairtrade actually help anyone? Or is it just a funny cartoon of a person holding a stick or something...
 date: "2013-05-22 14:27:15 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3596"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jh3609
  - tna08
 highlights:
 

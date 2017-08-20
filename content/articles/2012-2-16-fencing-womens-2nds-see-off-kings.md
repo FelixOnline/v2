@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Straight to the point for the eight BUCS league match of the season
 date: "2012-02-16 23:43:38 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2223"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - hgp08
  - sjw209
 highlights:
 

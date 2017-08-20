@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Latest adaptation of Dracula has yet to impress
 date: "2013-11-24 16:33:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4127"
@@ -21,6 +20,7 @@ tags:
  - tv
  - imported
 authors:
+ - ef510
  - jal08
 highlights:
 

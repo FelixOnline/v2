@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I can only hope the Olympic organisers actually get people into the venue
 date: "2011-02-17 19:58:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "829"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

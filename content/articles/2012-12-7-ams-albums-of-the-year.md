@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The best of alternative music, from AMS
 date: "2012-12-07 14:29:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3070"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fmusic
  - tna08
 highlights:
  - comment

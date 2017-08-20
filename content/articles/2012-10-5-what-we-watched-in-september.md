@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Title says it all really. Here are the summer flicks, as watched by Felix Film
 date: "2012-10-05 12:15:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2612"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffilm
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hollywood star Michael J Fox launches global Parkinson's initiative
 date: "2011-01-20 19:27:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "607"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
 
 # Homepage control params

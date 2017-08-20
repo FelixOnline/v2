@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Were they fielding a D team?
 date: "2013-06-20 22:40:30 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3711"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nbn10
  - tna08
 highlights:
  - photos

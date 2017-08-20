@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's Hockey team in action
 date: "2011-01-27 20:27:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "693"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - el508
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alok Prasad is tired of our lackadaisical attitude
 date: "2013-01-10 22:58:02 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3100"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - arp111
  - mc4509
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Royal School of Mines girls thrashed their Camborne counterparts
 date: "2011-02-27 19:56:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "923"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - bc08
  - felix
 highlights:
 

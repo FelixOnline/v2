@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandra Lim describes her thoughts, after watching a documentary on why clean eating is not as healthy as we think
 date: "2017-01-27 16:30:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6691"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

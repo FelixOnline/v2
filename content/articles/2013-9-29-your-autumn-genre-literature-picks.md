@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The best of the bunch from Sci Fi society
 date: "2013-09-29 15:18:44 +0100"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3779"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - mtm10
 highlights:
  - longread

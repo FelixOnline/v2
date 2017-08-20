@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Noted author dies of cancer
 date: "2013-06-13 22:33:33 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3678"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

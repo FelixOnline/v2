@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three strikers explain what has caused their outrage
 date: "2011-11-24 21:39:02 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1826"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ls411
  - pk1811
 highlights:
 

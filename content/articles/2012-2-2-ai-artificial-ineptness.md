@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cave Johnson discusses artificial intelligence, so listen up. Just watch out for the velociraptors.
 date: "2012-02-02 20:49:16 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2099"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - fgames
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riordan report says it will benefit students
 date: "2012-11-09 00:13:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2834"

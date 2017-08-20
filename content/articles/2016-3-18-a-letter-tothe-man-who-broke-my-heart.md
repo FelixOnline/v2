@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I thought it should end the way it started, with an inappropriate article in FELIX
 date: "2016-03-18 11:42:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6056"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
 

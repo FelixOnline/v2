@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At the beginning of term, the Rector called for action to improve coursework assessment and marking, so...
 date: "2010-11-18 21:48:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "411"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

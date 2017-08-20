@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Balam Acab – Wander/Wonder (2011)
 date: "2011-11-03 20:41:53 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1671"

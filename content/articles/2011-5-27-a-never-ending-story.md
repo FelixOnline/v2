@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series
 date: "2011-05-27 13:51:58 +0100"
-author_id: "ma1307"
 
 # Attributes from Felix Online V1
 id: "1273"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ma1307
+ - mtm10
 highlights:
  - comment
  - longread

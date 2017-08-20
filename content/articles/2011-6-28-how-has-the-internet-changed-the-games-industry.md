@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why broadband, MMORPGs, and downloadable content changed games forever
 date: "2011-06-28 11:02:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1438"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - felix
 highlights:
  - longread

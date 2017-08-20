@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keeping us glued to our screens, and how to monetize it.
 date: "2014-02-19 21:18:16 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4405"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - oa1612
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   2012 is almost upon us, and one must ask themselves: what were the best games of 2011?
 date: "2011-12-08 21:22:14 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1936"
@@ -21,6 +20,8 @@ tags:
  - games
  - imported
 authors:
+ - lap08
+ - mtc06
  - pk1811
 highlights:
 

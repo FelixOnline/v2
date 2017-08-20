@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rufus Norris ushers in his tenure at the National Theatre with this updated morality play, featuring a powerhouse performance by Chiwetel Ejiofor
 date: "2015-05-07 09:52:48 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5497"

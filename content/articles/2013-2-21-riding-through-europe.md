@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Would you like some horse with your burger?
 date: "2013-02-21 13:52:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3340"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh3210
  - tna08
 highlights:
 

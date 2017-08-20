@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The incident happened on Cornwall Gardens
 date: "2016-03-04 11:23:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5994"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

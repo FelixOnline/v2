@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This version of Hitchcock’s classic 'Dial M for Murder' seemed to be more of a technical run through than an opening night
 date: "2011-03-10 20:16:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1066"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ko409
 highlights:
 
 # Homepage control params

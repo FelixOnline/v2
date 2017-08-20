@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial with all too many fee puns...
 date: "2012-11-09 00:28:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2838"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
  - photos

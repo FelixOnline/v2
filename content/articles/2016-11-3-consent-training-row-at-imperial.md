@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RCSU president questions funding of Consent Matters software
 date: "2016-11-03 23:06:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6378"

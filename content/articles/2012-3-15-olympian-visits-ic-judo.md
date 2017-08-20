@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gold medallist makes unexpected visit at judo training
 date: "2012-03-15 22:17:30 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2396"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cy1109
  - pk1811
 highlights:
 

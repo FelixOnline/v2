@@ -4,7 +4,6 @@ title: >
 subtitle: >
   While the rest of the country waited for flights at Heathrow, the Fellwanderers headed for the Lake District
 date: "2011-01-13 19:32:15 +0000"
-author_id: "tp407"
 
 # Attributes from Felix Online V1
 id: "566"

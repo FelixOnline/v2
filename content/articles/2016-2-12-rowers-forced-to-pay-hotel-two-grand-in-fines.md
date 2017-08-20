@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The boat club had their annual party there last month
 date: "2016-02-12 11:10:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5895"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

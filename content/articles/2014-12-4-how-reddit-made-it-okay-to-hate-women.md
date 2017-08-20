@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin looks into what's lurking behind the front page of the internet
 date: "2014-12-04 18:26:52 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4985"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - tr511
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton puts herself in the firing line
 date: "2012-10-05 12:50:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2618"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - skw10
 highlights:
 
 # Homepage control params

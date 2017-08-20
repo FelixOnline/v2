@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews the new Pro-Rector (Education) Debra Humphris
 date: "2013-01-18 00:06:09 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3126"

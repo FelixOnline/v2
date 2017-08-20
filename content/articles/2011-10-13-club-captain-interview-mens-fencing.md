@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indy Leclercq interviews Didier Nohlmans
 date: "2011-10-13 22:59:22 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1518"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ial08
 highlights:
 
 # Homepage control params

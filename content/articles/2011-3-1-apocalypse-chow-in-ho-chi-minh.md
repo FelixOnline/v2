@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Peter Quicke and Jamie Rickman share their Vietnamese food know-how
 date: "2011-03-01 21:19:05 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "968"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - jal08
+ - jr1709
+ - peq10
 highlights:
 
 # Homepage control params

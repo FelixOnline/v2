@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Goldsmith wants your feedback on how College can best consult students about changes that affect you
 date: "2014-03-07 04:39:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4455"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - dmg11
  - jal08
 highlights:
 

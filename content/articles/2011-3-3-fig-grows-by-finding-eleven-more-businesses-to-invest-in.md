@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The finale to Sina Ataherian’s two-part interview with James King, CEO of FIG
 date: "2011-03-03 20:36:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1013"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sa1908
 highlights:
  - comment
  - longread

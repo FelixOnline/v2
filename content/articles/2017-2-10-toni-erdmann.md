@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sight&Sound’s Best Film of 2016, Toni Erdmann follows the attempts of a father attempting to reconnect with his estranged daugher, with a perfect mixture of hilarity and sincerity
 date: "2017-02-10 15:19:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6760"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ma7512
 highlights:
  - comment
 

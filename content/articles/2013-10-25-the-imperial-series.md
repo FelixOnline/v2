@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Introducing the Imperial Series
 date: "2013-10-25 01:09:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3949"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - hj1712
 highlights:
 
 # Homepage control params

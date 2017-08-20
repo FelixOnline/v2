@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken describes the current political landscape with a view to this May’s general election
 date: "2015-02-19 23:58:41 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5277"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google execs face jail time over a 2006 Italian case of objectionable content on Google Video
 date: "2010-03-04 12:41:12 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "118"

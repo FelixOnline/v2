@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl compares three games you might find space-ial
 date: "2015-02-03 14:58:39 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5187"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - ps3110
 highlights:
  - comment

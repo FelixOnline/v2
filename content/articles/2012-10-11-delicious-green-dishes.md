@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of the food on offer in SAF
 date: "2012-10-11 21:21:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2672"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ym1310
 highlights:
 
 # Homepage control params

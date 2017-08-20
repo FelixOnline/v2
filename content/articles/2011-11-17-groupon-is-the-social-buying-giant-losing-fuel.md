@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Entrepreneurs investigates whether there is a future in Groupon
 date: "2011-11-17 20:58:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1766"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - pk1811
 highlights:
  - longread

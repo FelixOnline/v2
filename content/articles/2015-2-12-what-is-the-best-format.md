@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ICC has been searching for the perfect World Cup format for years
 date: "2015-02-12 22:52:59 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5244"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - kmw13
 highlights:
 
 # Homepage control params

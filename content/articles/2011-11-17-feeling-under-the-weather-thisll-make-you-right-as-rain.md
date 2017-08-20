@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are joys to be had in the good old weather report
 date: "2011-11-17 21:50:25 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1788"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gb610
  - pk1811
 highlights:
 

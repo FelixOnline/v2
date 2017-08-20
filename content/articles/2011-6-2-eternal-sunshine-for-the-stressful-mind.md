@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New research could lead to new treatments for post traumatic stress
 date: "2011-06-02 18:31:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1296"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - asn210
  - felix
 highlights:
 

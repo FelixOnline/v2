@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy is dismissive of Saturday's protests
 date: "2017-01-27 16:22:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6687"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - gib13
 highlights:
  - comment
 

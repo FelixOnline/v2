@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Seriously, what television were they watching?
 date: "2011-02-03 20:29:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "747"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - vj05
 highlights:
 
 # Homepage control params

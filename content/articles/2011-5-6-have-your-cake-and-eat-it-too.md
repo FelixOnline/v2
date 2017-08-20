@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The perfect mix of tablet and laptop
 date: "2011-05-06 08:21:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1155"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fa608
  - felix
 highlights:
 

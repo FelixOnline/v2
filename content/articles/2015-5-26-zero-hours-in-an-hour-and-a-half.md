@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman is nowhere near beyond caring at the National's Temporary Theatre.
 date: "2015-05-26 14:10:33 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5568"

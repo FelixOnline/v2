@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Baseball team comes from behind twice to snatch double header
 date: "2014-11-20 21:37:49 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4917"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cjc211
  - ps3110
 highlights:
  - comment

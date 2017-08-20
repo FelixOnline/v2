@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Arianna Sorba reviews the new scientifically slanted Radio 4 series
 date: "2011-10-28 00:22:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1630"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

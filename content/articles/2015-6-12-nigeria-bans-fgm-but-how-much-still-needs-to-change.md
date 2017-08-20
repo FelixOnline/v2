@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey takes a look at female genital mutilation in Africa and closer to home
 date: "2015-06-12 12:35:20 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5617"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - tad08
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Holland Club set to be saved in College U-Turn
 date: "2012-05-10 19:10:14 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2431"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mc4509
  - pk1811
 highlights:
  - comment

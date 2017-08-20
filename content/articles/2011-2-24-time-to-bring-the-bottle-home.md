@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Moorhouse previews the 2011 Bottle Match
 date: "2011-02-24 20:34:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "893"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bm05
  - felix
 highlights:
 

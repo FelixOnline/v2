@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Judges announce the questions for the essay and video competitions
 date: "2014-12-09 14:00:04 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5019"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Waterpolo make a splash at national championships
 date: "2013-05-23 21:30:52 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3600"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as7511
  - tna08
 highlights:
  - photos

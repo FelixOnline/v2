@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng takes to the ocean in the ROH’s opera
 date: "2015-03-03 14:09:35 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5318"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jc7413
  - ps3110
 highlights:
  - comment

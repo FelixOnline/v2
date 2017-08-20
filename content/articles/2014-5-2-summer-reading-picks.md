@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an eclectic selection of five great books to help you help you relax during the busy revision period
 date: "2014-05-02 01:43:02 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4554"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

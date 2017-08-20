@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix talks to Imperial Professor Sanjeev Gupta on his role in the Mars mission
 date: "2014-12-12 12:59:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5049"

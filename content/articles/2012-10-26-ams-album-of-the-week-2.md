@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Egyptian Hip Hop: Good Don’t Sleep
 date: "2012-10-26 03:17:26 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2773"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - fmusic
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial cricketers reach second leg of indoor tournament
 date: "2010-11-11 20:45:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "343"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ai408
  - felix
 highlights:
 

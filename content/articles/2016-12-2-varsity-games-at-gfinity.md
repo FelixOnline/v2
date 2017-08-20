@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saad Ahmed gives the coverage on Varsity Games’ action packed, interuniversity DOTA tournament
 date: "2016-12-02 15:18:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6543"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

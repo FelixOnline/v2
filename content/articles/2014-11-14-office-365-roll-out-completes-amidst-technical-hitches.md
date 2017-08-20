@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Lim on the email move that's been causing a few headaches, but bigger and better mailboxes are now in the hands of the masses.
 date: "2014-11-14 19:58:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4861"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - txl11
 highlights:
  - comment
 

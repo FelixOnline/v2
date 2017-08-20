@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Survey collects results from over one thousand Imperial students about mental wellbeing
 date: "2015-05-29 00:27:43 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5572"

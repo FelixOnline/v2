@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nida Mahmud on this Sunday’s ladies only event
 date: "2013-11-05 09:47:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4005"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

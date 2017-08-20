@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lindsay Hennah plays David to Brighton's goliath
 date: "2013-02-14 19:29:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3326"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lh408
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alasdair Wynn and Matt O’Neill explore an untapped resource
 date: "2012-11-15 21:08:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2893"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - apw109
+ - fsci
  - tna08
 highlights:
 

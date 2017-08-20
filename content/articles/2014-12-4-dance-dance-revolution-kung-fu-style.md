@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sanchit Sharma finally hooks up a XBox controller
 date: "2014-12-04 19:34:03 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5000"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ss9011
 highlights:
  - comment
 

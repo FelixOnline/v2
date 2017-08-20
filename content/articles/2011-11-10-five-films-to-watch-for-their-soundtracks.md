@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Twilight may be annoying, but it does actually have decent music
 date: "2011-11-10 21:48:56 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1736"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - felix
  - pk1811
 highlights:
 

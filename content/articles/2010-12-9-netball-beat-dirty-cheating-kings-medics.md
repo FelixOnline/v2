@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Netball trumps GKT. By Bernice Marie Cutler
 date: "2010-12-09 20:15:32 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "519"

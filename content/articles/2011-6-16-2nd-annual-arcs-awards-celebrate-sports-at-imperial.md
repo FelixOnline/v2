@@ -4,7 +4,6 @@ title: >
 subtitle: >
   England Rugby Union 7’s Head Coach, Ben Ryan, attends ceremony
 date: "2011-06-16 21:21:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1403"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dmw08
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   King's College London criticised for making cuts
 date: "2010-02-07 03:37:55 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "81"

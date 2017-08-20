@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fuck TIDAL
 date: "2016-05-20 09:14:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6187"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

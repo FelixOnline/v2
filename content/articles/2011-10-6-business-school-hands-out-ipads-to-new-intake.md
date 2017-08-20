@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New scheme aims to harness latest technology
 date: "2011-10-06 22:55:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1464"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

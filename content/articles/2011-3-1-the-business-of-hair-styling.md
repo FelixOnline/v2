@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Afonso Campos talks shop to Drew Foster, one half of the duo behind Foster London
 date: "2011-03-01 20:49:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "958"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ac1507
  - felix
 highlights:
  - comment

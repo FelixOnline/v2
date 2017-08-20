@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Banning an activity will never stop its practice, merely move its location.
 date: "2010-02-12 02:03:02 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "86"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A serious review by Maximilian Eggl on the latest Battlefield game beta
 date: "2014-06-19 18:37:25 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4694"

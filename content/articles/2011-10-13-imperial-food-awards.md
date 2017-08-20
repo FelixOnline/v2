@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Who is going to be the next Imperial MasterChef?
 date: "2011-10-13 23:52:58 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1529"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ae1409
  - sjw209
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Union previously campaigned against charge
 date: "2015-02-27 00:38:35 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5313"

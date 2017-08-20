@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union’s ‘Pay for entry’ arrangement causes over £90 in losses for society
 date: "2012-02-23 23:16:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2264"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pk1811
 highlights:
 
 # Homepage control params

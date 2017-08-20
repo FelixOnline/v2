@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union calls move “overblown” as Rector apologises
 date: "2011-02-24 19:37:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "863"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

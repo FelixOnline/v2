@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you like something a little different...
 date: "2012-03-15 20:01:01 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2355"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - ig711
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Smith is clearly a fisherman... and he’s after the Marlin!
 date: "2011-02-10 20:22:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "771"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ss10210
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Remember that breaking the rule, once you’ve learnt it, can result in some striking shots too”
 date: "2010-11-25 20:23:08 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "429"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - photosoc
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The original Girl with the Dragon Tattoo's role in the new Sherlock Holmes film could've used some beefing up - nevertheless, the film is still an enjoyable watch
 date: "2012-01-12 22:51:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1993"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

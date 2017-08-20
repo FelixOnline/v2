@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Workload woes for College students while Dundee leads latest list
 date: "2012-05-04 01:02:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2425"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

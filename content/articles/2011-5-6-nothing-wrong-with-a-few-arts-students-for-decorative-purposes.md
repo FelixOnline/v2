@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The bluster about the Summer Ball is far greater than the actual harm
 date: "2011-05-06 08:46:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1161"

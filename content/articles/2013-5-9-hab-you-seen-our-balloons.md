@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICSEDS launch their rockets
 date: "2013-05-09 11:56:34 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3556"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - zv08
 highlights:
  - photos
 

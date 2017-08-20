@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The stunningly festive bar and restaurant Spiegel Saloon returns to Hyde Park’s Winter Wonderland
 date: "2011-11-24 21:35:13 +0000"
-author_id: "mk4410"
 
 # Attributes from Felix Online V1
 id: "1824"

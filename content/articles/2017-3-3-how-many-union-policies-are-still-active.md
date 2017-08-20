@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Less than half according to the website but is that true?
 date: "2017-03-03 14:16:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6835"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

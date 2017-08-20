@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Success story of an Imperial miser finding happiness on the islands of manta rays, volcanoes, surfs and opposite-sex attention
 date: "2011-01-20 19:15:06 +0000"
-author_id: "cb403"
 
 # Attributes from Felix Online V1
 id: "601"

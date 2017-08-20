@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher gives us his plebian verdict
 date: "2012-10-26 02:35:20 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2749"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
 

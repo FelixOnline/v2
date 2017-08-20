@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aislinn Hayes, IC Radio Station Manager, gives you the lo-down.
 date: "2013-05-02 13:37:18 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3531"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ah4010
  - tna08
 highlights:
 

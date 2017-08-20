@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The LE Rush could be the protective laptop bag for you
 date: "2011-01-27 19:15:45 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "664"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - srg03
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anxious Romans pack their bags ahead of Raffaele Bendandi's 1915 prediction for an earthquake on 11th May
 date: "2011-05-12 16:35:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1190"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
 
 # Homepage control params

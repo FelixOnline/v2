@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Though we’re often led to believe that having a disability automatically leads to a sexless existence this couldn’t be further away from the truth. Through the veil of complexities and social awkwardness what often awaits is just another sexual being.
 date: "2016-12-02 15:33:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6548"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
 
 # Homepage control params

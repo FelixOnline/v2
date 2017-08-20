@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lara Bailey looks at the useful applications of marijuana
 date: "2017-01-20 15:09:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6664"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - le14
 highlights:
 
 # Homepage control params

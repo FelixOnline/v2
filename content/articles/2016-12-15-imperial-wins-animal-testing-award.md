@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is despite past criticism
 date: "2016-12-15 23:59:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6598"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4812
 highlights:
  - photos
 

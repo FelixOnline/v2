@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Valerie Wischott thinks we should all hold ourselves accountable for our unsustainable lifestyles
 date: "2017-02-17 14:40:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6785"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - valeriewischott
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bobla Gnay explains how it’s done
 date: "2011-02-11 06:51:44 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "802"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - ks607
 highlights:
  - comment

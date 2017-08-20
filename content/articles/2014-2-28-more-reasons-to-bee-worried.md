@@ -4,7 +4,6 @@ title: >
 subtitle: >
   William Hunter tells us how the honeybee is bringing the bumblebee down too
 date: "2014-02-28 07:18:59 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4446"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - wh1013
 highlights:
 
 # Homepage control params

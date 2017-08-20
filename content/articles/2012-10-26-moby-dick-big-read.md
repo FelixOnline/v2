@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A great way to hear Moby Dick
 date: "2012-10-26 02:45:35 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2756"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - mtm10
  - tna08
 highlights:
  - photos

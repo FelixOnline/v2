@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We have an obsession with cars – it needs to stop
 date: "2011-11-17 21:37:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1781"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ls411
 highlights:
  - comment
 

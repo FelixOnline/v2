@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National Videogame Arcade is to open in March 2015
 date: "2014-11-10 21:13:48 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4815"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
 

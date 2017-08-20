@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Former ICU President Alexander Kendall on the affordability of Imperial's postgraduate degrees - are the new price hikes justified?
 date: "2012-01-12 21:35:55 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1971"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - apk06
  - cac111
 highlights:
 

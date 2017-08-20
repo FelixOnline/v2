@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science Studies Committee satisfied that department addressed their concerns
 date: "2011-05-26 18:17:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1246"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

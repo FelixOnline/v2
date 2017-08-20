@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sport Imperial employee allegedly said “I don’t care how those fat girls get home”
 date: "2015-03-19 23:42:37 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5406"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Full list of Union accolades
 date: "2011-06-16 18:49:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1376"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

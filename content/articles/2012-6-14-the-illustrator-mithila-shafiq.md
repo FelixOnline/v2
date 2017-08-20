@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Illustrator - Mithila Shafiq
 date: "2012-06-14 20:33:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "2567"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - jal08
 highlights:
  - photos

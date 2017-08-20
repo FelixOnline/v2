@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phase 2 continues apace. The third Iron Man started things off in a typically Shane Black fashion of quips and action, the second Thor trod a darker path while beginning to introduce the elements that will come together in an inevitably glorious fashion...
 date: "2014-05-02 01:07:47 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4541"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

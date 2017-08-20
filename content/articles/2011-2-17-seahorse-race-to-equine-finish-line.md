@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mathemetical model demonstrates an upright advantage
 date: "2011-02-17 20:33:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "846"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
 
 # Homepage control params

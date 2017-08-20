@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This growing library of originals will be vital to their success
 date: "2016-03-18 12:01:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6073"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - hjw13
 highlights:
  - comment
 

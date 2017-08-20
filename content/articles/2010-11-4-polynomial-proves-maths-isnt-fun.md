@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Far from being just a mathematical expression, Polynomial is a (dull) 3D music action game
 date: "2010-11-04 18:27:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "297"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
 
 # Homepage control params

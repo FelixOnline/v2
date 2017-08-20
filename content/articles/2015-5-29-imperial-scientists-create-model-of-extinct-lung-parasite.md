@@ -4,7 +4,6 @@ title: >
 subtitle: >
   3D model created by Dr Mark Sutton of Earth Science and Engineering
 date: "2015-05-29 01:16:37 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5582"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - snb11
 highlights:
  - comment
 

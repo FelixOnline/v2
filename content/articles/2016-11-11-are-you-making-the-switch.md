@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Wii U was, to be frank, not that successful and probably dented Nintendo’s position. Now they’ve introduced the Switch with a load of new features. Question is, will it be enough?
 date: "2016-11-11 17:01:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6432"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - qm413
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Karapetian discusses issues regarding the NSS's reliability
 date: "2012-02-16 21:59:13 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2203"

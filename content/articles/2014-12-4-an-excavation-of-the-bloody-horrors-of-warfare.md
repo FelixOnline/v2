@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles explores brutal photographs of wars gone by at the Tate Modern
 date: "2014-12-04 19:58:05 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5006"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ff712
 highlights:
  - longread
  - photos

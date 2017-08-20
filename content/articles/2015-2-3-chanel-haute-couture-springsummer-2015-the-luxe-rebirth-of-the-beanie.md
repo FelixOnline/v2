@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5179"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - czb11
  - ps3110
 highlights:
  - comment

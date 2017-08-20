@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Survey show majority of Imperial students would be discouraged from university by £10,000 tuition fees
 date: "2010-11-26 07:13:21 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "447"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - pk1810
 highlights:
  - comment
 

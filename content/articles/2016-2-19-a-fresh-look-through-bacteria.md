@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Synechocystis have eyes
 date: "2016-02-19 11:28:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5932"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mas14
 highlights:
 
 # Homepage control params

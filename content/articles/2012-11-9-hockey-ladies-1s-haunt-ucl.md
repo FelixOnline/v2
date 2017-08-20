@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Frightfully good performance by Imperial destroys UCL
 date: "2012-11-09 14:30:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2874"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - hs3810
  - tna08
 highlights:
  - comment

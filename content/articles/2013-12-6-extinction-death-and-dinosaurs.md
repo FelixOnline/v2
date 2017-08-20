@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rosamund Pearce writes for I, Science on resurrecting the extinct
 date: "2013-12-06 04:01:15 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4185"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rp1313
 highlights:
  - longread
 

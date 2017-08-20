@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Second anniversary of disaster sees new report criticise scientific models used
 date: "2012-06-01 13:56:07 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2518"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fm810
  - mc4509
 highlights:
 

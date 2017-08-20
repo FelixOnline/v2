@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One of the most notable food writers and critics of the 21st century, AA Gill passed away last week following a battle with cancer. Here are some thoughts from a fan.
 date: "2016-12-16 15:55:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6620"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

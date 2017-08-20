@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Strongest Imperial team in years
 date: "2016-11-07 13:22:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6409"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - harry.allingham1
 highlights:
 
 # Homepage control params

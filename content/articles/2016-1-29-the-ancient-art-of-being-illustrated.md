@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5852"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - im1413
 highlights:
  - comment
 

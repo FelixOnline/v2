@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists have observed radiation stemming from the consumption of a star by a black hole
 date: "2012-05-10 20:02:17 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2439"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - at2211
 highlights:
 
 # Homepage control params

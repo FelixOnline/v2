@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But do they smell like one?
 date: "2017-03-10 14:48:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6891"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - pun.cheuk-nga-ja
 highlights:
 
 # Homepage control params

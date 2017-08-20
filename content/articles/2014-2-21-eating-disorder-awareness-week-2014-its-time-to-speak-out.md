@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Numbers. To the average Imperial student, they are part of everyday academia, to others they are enthralling and engaging, but for some of us they represent a punitive regime by which we live.
 date: "2014-02-21 03:29:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4430"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

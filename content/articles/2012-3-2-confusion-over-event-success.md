@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clarification sought over joint university venture
 date: "2012-03-02 01:03:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2301"
@@ -25,6 +24,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rsp07
+ - tna08
 highlights:
  - comment
  - longread

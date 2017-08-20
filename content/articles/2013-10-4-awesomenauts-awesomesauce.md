@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This side-scolling sci-fi adventure shooter is amazeballs!
 date: "2013-10-04 13:47:42 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3814"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - jal08
 highlights:
 

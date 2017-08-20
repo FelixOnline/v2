@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Buy the ticket – take the ride
 date: "2013-11-15 02:30:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4073"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Bodansky asks how our economy affects the individual
 date: "2014-12-04 18:33:25 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4987"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - sib114
 highlights:
  - comment
 

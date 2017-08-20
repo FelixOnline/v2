@@ -4,7 +4,6 @@ title: >
 subtitle: >
   if you can’t love yourself how in the hell you gonna love somebody else
 date: "2017-03-10 14:16:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6883"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bcmaile
 highlights:
 
 # Homepage control params

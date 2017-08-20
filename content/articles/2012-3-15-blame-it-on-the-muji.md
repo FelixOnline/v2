@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Step into the world of Japan with MUJI
 date: "2012-03-15 20:13:39 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2357"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ebl110
  - ig711
 highlights:
 

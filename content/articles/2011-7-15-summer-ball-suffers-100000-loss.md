@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union accepts that loss is unacceptable and promises that lessons will be learnt
 date: "2011-07-15 16:49:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1450"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
+ - mc4509
 highlights:
  - comment
 

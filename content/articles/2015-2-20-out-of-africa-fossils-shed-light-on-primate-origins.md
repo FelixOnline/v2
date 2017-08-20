@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson on the discovery of the oldest New World monkey species
 date: "2015-02-20 00:02:01 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5278"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent reports on the findings from the Royal British Centre for Blast Injury Studies
 date: "2015-06-11 22:13:54 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5611"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - pk1811
 highlights:
  - comment
 

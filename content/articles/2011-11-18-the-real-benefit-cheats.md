@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new breed of too-rich-to-pay-tax freeloaders is hollowing out our tax base
 date: "2011-11-18 00:55:44 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "1800"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jm3309
 highlights:
 
 # Homepage control params

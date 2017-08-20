@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Third win in a row sees 1sts go top of their league
 date: "2011-11-17 22:29:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1794"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmw08
  - felix
 highlights:
 

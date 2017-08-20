@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No, I’m not describing one of your sexcapades – that would lose me my job. Here’s a simple weeknight recipe for something you can really call home cooking.
 date: "2016-11-11 17:05:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6433"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
 highlights:
  - photos
 

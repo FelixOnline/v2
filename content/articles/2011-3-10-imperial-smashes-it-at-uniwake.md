@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A mixed bag of results as Imperial's wakeboarders compete at Liquid Leisure
 date: "2011-03-10 21:19:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1083"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - erb09
  - felix
 highlights:
  - comment

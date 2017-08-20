@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student loses £70 to a man near campus
 date: "2012-10-11 20:20:48 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2639"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - tna08
 highlights:
  - comment
 

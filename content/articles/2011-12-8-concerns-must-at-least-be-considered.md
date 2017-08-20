@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We cannot dismiss the claims of academics, but equally we must be cautious
 date: "2011-12-08 21:33:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1941"

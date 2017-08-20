@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Kim discusses the election site’s technologies
 date: "2012-03-08 21:36:28 +0000"
-author_id: "cb908"
 
 # Attributes from Felix Online V1
 id: "2326"

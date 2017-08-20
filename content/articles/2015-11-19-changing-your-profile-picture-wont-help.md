@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Would you do more to help than click a button?
 date: "2015-11-19 22:40:44 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5745"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - jm5014
  - ygr12
 highlights:
  - comment

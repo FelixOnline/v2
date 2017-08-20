@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Search for a non-invasive technique progresses
 date: "2011-10-13 21:43:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1509"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ng411
 highlights:
 
 # Homepage control params

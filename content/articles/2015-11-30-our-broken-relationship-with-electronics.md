@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When your phone breaks, what do you do with it?
 date: "2015-11-30 12:03:51 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5788"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gr211
  - ygr12
 highlights:
  - comment

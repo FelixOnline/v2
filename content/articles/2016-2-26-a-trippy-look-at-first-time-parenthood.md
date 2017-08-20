@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the Night Time at the Gate Theatre.
 date: "2016-02-26 11:59:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5979"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bdw14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A true testament to the very un-Hollywood idea that money cannot buy horror
 date: "2010-12-09 19:29:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "506"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jgp09
 highlights:
  - comment
 

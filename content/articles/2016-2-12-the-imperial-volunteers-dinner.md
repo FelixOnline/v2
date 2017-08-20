@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Volunteering societies come together
 date: "2016-02-12 12:04:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5919"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jhy12
 highlights:
  - comment
  - photos

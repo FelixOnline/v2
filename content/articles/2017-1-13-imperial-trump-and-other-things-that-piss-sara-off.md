@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sara Hamilton is angry about the environment. Again.
 date: "2017-01-13 14:02:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6636"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sara.hamilton14
 highlights:
 
 # Homepage control params

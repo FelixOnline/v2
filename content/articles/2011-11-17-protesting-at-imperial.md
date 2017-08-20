@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Osborne on why she feels the need to protest
 date: "2011-11-17 21:13:49 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1772"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ko409
  - pk1811
 highlights:
  - comment

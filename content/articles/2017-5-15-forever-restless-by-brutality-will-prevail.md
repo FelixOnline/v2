@@ -4,7 +4,6 @@ title: >
 subtitle: >
   BWP have really pulled it out of the bag with this sludge influenced hardcore album
 date: "2017-05-15 17:17:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6960"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rg2112
 highlights:
 
 # Homepage control params

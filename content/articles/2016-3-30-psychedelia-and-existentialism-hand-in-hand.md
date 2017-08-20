@@ -4,7 +4,6 @@ title: >
 subtitle: >
   NT's re-run of Duncan Macmillan's play about addiction is not to be missed.
 date: "2016-03-30 18:43:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6083"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
 highlights:
  - comment
 

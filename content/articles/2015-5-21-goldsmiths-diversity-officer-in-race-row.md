@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters is on the case as officer lands herself in hot water
 date: "2015-05-21 20:06:28 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5547"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jm5014
  - kmw13
 highlights:
  - comment

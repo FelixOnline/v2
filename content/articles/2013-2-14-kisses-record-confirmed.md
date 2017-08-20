@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Greasley now holds the world record
 date: "2013-02-14 13:14:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3322"

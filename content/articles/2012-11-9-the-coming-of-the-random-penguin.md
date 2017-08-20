@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Spiking brings you the news of a major merger
 date: "2012-11-09 13:22:14 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2857"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5611
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England on the coolest, baldest, and beardiest man in town
 date: "2012-02-16 21:55:45 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2201"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It captures beauftiful interactions between characters
 date: "2011-02-17 19:34:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "820"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - smg10
 highlights:
  - comment
 

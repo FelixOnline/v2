@@ -4,7 +4,6 @@ title: >
 subtitle: >
    On Monday the Tour de France returned to London after a seven year absence as German Marcel Kittel won his second stage in three days in a sprint finish on the Mall.
 date: "2014-07-08 11:07:23 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4721"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - kmw13
 highlights:
 
 # Homepage control params

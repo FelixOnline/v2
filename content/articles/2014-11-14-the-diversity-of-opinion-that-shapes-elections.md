@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the issues in the 2015 elections
 date: "2014-11-14 20:31:03 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4870"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - sib114
 highlights:
  - comment
 

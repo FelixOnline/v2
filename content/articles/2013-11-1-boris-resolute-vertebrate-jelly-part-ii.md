@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eoghan should probably have a chat to Boris next week...
 date: "2013-11-01 10:54:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3979"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - felix
 highlights:
  - comment

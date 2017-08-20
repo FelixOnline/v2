@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 8 - From North to South
 date: "2014-03-07 05:48:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4466"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - ed812
  - jal08
 highlights:
 

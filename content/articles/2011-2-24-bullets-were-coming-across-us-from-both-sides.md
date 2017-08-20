@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton's first hand experience of police violence in Kenya
 date: "2011-02-24 20:19:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "886"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
 

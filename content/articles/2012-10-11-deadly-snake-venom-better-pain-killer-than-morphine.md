@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Black mamba venom proves to be more useful than meets the eye
 date: "2012-10-11 20:46:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2652"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - njk12
  - tna08
 highlights:
 

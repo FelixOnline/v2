@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you stop and think about it, a completely faithful adaptation ran the risk of being stale
 date: "2017-03-03 15:40:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6850"
@@ -27,7 +26,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4013
 highlights:
  - comment
  - photos

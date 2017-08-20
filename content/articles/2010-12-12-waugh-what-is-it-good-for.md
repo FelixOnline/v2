@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Even the Old Red Lion couldn't save Decline & Fall
 date: "2010-12-12 17:07:29 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "555"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - wsp10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the year comes to a close we hear from the Felix Editor and his successor.
 date: "2014-06-23 14:34:50 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4711"
@@ -21,7 +20,9 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
+ - ps3110
 highlights:
 
 # Homepage control params

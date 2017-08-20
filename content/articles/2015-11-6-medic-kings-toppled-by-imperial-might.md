@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The team wept, but through their tears they could see victory on the horizon.
 date: "2015-11-06 14:26:15 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5715"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - drn13
  - ygr12
 highlights:
  - comment

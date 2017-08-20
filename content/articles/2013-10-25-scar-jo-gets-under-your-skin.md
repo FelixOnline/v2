@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles on Scarlett Johansson's latest film
 date: "2013-10-25 00:42:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3935"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ff712
 highlights:
 
 # Homepage control params

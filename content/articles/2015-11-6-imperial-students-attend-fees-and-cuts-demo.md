@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They joined 10,000 others protesting against cuts to maintenance grants
 date: "2015-11-06 13:32:53 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5696"

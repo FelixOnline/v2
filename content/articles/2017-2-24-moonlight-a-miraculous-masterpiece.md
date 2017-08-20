@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Barry Jenkins’ tale of the coming-of-age of a gay black man is just as good as you’ve heard: Moonlight is a miraculous piece of cinema, one that tells the stories so often untold by Hollywood
 date: "2017-02-24 14:14:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6817"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - longread
 

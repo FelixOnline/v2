@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah considers on being too much of a coward for laser eye surgery
 date: "2011-10-20 22:36:25 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1571"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - sjw209
+ - tna08
 highlights:
  - comment
 

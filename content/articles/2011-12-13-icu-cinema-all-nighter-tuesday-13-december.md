@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The All-Nighter returns
 date: "2011-12-13 14:27:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1958"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jh308
 highlights:
 
 # Homepage control params

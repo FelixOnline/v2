@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl is weary of what the wearable future will hold
 date: "2013-02-22 01:24:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3360"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
  - photos

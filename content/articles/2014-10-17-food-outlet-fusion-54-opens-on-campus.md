@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Lim visits the newest eatery in College
 date: "2014-10-17 14:44:34 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4729"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - txl11
 highlights:
  - comment
 

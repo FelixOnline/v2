@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's website will be redesigned for the first time since 2007
 date: "2013-02-08 01:16:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3286"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nj1211
  - tna08
 highlights:
 

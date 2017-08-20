@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope delves into the world of schizophrenia and iPhone apps
 date: "2013-06-13 22:50:35 +0100"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3683"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Sheldon reports on the link between solar cycles and severe winters
 date: "2011-10-20 21:16:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1562"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski on the best evidence yet for water just below the surface
 date: "2011-11-24 20:58:49 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1811"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - pk1811
 highlights:
 

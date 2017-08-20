@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What are you saying by wearing a poppy?
 date: "2015-11-06 13:45:19 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5701"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - sk2214
  - ygr12
 highlights:
  - comment

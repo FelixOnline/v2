@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers have found the hobbit is not human
 date: "2016-02-26 11:33:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5962"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
  - photos
 

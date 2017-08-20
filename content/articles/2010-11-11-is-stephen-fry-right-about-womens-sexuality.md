@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Fry’s claim, that women don’t cruise because they are uninterested in sex, outraged feminist groups
 date: "2010-11-11 21:41:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "366"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ap1310
  - felix
 highlights:
  - comment

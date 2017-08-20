@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nathaniel Gallop thinks respect for beliefs must be given to be received
 date: "2015-02-09 19:52:19 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5230"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ng611
  - ps3110
 highlights:
  - longread

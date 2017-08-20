@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All aboard the Good Ship Aardman!
 date: "2012-05-10 20:26:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2448"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

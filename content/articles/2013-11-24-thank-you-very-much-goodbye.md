@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Thursday 16th November 1989, a sixteen-year-old took guard in his first innings for India and faced one of the most feared bowling attacks in the world. He was dismissed by fellow debutant Waqar Younis for 15, but everyone knew that there was something special about this schoolboy – the...
 date: "2013-11-24 23:59:08 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4136"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kmw13
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At the mere mention of the place certain thoughts spring to mind. Felix decided it would be the perfect Christmas revision getaway
 date: "2011-01-13 20:43:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "584"
@@ -21,6 +20,7 @@ tags:
  - travel
  - imported
 authors:
+ - extuser0
  - felix
 highlights:
  - longread

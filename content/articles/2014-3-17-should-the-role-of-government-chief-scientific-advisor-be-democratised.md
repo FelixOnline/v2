@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What would happen if the next UK Government Chief Scientific Adviser (GCSA) was elected through a public vote? That’s exactly what a group of us from the science communication masters are attempting to find out.
 date: "2014-03-17 17:22:27 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4484"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - amm113
  - jal08
 highlights:
 

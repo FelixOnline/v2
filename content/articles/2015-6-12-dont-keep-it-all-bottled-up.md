@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongsatayanont explains why seeking help for mental illness can be tough
 date: "2015-06-12 12:43:51 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5622"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - cw3414
 highlights:
  - comment
 

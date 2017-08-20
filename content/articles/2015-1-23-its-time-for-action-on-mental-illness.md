@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why are university students still so afraid to admit they need help?
 date: "2015-01-23 01:33:53 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5128"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - yw2113
 highlights:
  - comment
 

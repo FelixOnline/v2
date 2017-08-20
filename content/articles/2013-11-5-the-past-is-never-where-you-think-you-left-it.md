@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Past Director: Asghar Farhadi Writers: Asghar Farhadi, Massoumeh Lahidji (adaptation) Starring: Bérénice Bejo, Tahar Rahim, Ali Mosaffa Runtime: 130 minutes
 date: "2013-11-05 09:42:13 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3999"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - ff712
  - jal08
 highlights:
 

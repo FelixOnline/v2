@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yoyo, the mobile payment app that launched last year, has managed to secure seed funding for $5m (nearly £3m), in what is considered to be one of the biggest funding deals in Europe so far this year.
 date: "2014-06-02 12:37:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4634"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - kmw13
 highlights:
 
 # Homepage control params

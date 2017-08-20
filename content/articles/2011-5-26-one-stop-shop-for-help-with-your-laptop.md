@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ICT Service Desk on Sherfield Level Four is there for all your laptop needs
 date: "2011-05-26 19:10:38 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1255"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - amills
  - cjb07
 highlights:
  - comment

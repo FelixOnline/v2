@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Language may just have more of an effect on how you behave than you originally thought
 date: "2011-10-28 00:09:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1626"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rtf08
 highlights:
  - photos
 

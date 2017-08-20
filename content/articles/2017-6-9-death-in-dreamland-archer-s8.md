@@ -4,7 +4,6 @@ title: >
 subtitle: >
   a story about a Private Dick in every sense of the word
 date: "2017-06-09 15:08:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7016"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

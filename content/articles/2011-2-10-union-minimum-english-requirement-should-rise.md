@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union’s response to the visa consultation in detail
 date: "2011-02-10 20:14:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "768"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It is time for London to elect a mayor
 date: "2012-03-15 22:24:22 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2398"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - phc11
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Radical Liberals look set to be incumbent's kingmaker
 date: "2011-10-14 10:24:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1542"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - pdf08
+ - rj408
 highlights:
 
 # Homepage control params

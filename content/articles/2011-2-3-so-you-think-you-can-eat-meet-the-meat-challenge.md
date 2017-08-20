@@ -4,7 +4,6 @@ title: >
 subtitle: >
    The sheer drama of waving around metal stakes is thrilling...
 date: "2011-02-03 18:52:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "706"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - vj05
 highlights:
  - comment
 

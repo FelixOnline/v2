@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports as thousands march into Parliament Square
 date: "2014-11-21 13:17:33 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4926"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kmw13
  - ps3110
 highlights:
 

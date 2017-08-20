@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Challenging task ahead for Brad Amos
 date: "2012-05-18 11:10:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2465"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jc211
 highlights:
  - photos
 

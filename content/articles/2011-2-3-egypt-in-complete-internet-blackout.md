@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Life without Internet: Egypt Diaries
 date: "2011-02-03 20:24:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "744"
@@ -21,6 +20,7 @@ tags:
  - tech
  - imported
 authors:
+ - fa608
  - felix
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles gets a look at Basil Twist's Japanese-inspired production of Dogugaeshi at the Barbican Centre
 date: "2015-01-31 17:25:44 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5163"

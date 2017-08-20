@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our Clubs & Societies make Imperial truly worth the while
 date: "2011-01-27 19:49:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "677"

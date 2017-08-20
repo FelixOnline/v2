@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix’s film section picks movies for the Trump-era
 date: "2017-02-03 16:55:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6723"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - photos
 

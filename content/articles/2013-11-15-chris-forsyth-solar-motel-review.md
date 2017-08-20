@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Forsyth is an American psych rock guitarist much admired by myself for his dabblings in drone and general guitar badass-ery.
 date: "2013-11-15 18:07:10 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4079"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ra2410
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5120"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - czb11
  - ps3110
 highlights:
  - comment

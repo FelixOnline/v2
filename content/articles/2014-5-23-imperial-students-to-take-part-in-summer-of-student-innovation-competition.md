@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two Imperial teams have entered the Summer of Student Innovation competition. This is a competition to fund ideas that use technology that can improve research and education.
 date: "2014-05-23 14:23:50 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4628"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

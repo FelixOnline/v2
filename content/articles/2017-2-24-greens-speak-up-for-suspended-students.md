@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix talks to Siân Berry
 date: "2017-02-24 13:42:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6809"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jmw216
 highlights:
 
 # Homepage control params

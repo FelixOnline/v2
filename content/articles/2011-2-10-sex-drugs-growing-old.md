@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mean Girls, but with a west country accent
 date: "2011-02-10 20:07:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "765"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb607
  - felix
 highlights:
  - comment

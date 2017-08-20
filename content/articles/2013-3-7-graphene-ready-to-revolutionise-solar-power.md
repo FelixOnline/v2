@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graphene has astonished scientists around the world with its fantastic electrical conductivity and mechanical properties
 date: "2013-03-07 21:22:31 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3424"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ad4010
  - jal08
 highlights:
 

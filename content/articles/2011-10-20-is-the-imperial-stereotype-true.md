@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Free advice for Freshers freaking out, from Faye Hemsley
 date: "2011-10-20 23:25:56 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1581"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - feh09
  - sjw209
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The worlds of mathematics and art collide at a not-so-novel Parisian exhibition
 date: "2011-10-07 10:31:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1487"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
  - photos
 

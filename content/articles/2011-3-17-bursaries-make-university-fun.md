@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I think the bursary should continue to be given to students cash in hand
 date: "2011-03-17 21:44:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1105"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mjl07
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They’re like vultures with high-vis jackets
 date: "2010-12-02 21:46:59 +0000"
-author_id: "rjd08"
 
 # Attributes from Felix Online V1
 id: "496"

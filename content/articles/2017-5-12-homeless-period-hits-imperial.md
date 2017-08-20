@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial hits back
 date: "2017-05-12 16:23:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6937"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

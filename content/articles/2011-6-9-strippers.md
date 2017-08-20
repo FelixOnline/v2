@@ -4,7 +4,6 @@ title: >
 subtitle: >
   asadsfadf
 date: "2011-06-09 19:21:05 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1336"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cjb07
+ - zvarga
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katy Sayer discusses why Council need to change their mind about campaigning against closing Weeks
 date: "2015-02-19 23:49:44 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5274"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kis12
  - ps3110
 highlights:
  - comment

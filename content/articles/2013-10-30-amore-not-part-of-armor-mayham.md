@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Armor Mayhem is a Halo and Unreal Tournament inspired game set in the future when our planet Earth has run out of energy.
 date: "2013-10-30 15:54:38 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3960"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ir112
  - me1711
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell looks at the final Greg Mandell novel
 date: "2013-02-13 14:38:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3303"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as906
  - tna08
 highlights:
  - photos

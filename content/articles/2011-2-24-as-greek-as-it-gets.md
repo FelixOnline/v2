@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anastasia Eleftheriou reckons this is the real Greek deal
 date: "2011-02-24 19:34:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "862"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews the Godspeed side project’s latest album
 date: "2014-01-17 03:52:57 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4244"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giving wants to give credit to where its due
 date: "2014-01-13 12:47:34 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4206"

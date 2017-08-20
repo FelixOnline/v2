@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film take the plunge into romantic vomfests
 date: "2013-02-28 23:25:11 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3386"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cough up, who’s been complaining to College?
 date: "2016-10-03 11:08:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6298"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
+ - mjj15
 highlights:
 
 # Homepage control params

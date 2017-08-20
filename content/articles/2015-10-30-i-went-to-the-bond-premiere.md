@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I spent my time on the red carpet taking selfies
 date: "2015-10-30 14:45:46 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5690"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - jw3510
  - ygr12
 highlights:
  - comment

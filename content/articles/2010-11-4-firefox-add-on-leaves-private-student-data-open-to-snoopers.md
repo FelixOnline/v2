@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unsecured Department of Computing network at hijacking app FireSheep’s mercy
 date: "2010-11-04 19:00:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "322"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

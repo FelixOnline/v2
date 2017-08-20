@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy tries to go out of her comfort zone and goes to a new place with a dress-code that serves the fanciest waffles in town, no matter if they are sweet or not, even if they do not reach up her high expectations.
 date: "2017-02-10 16:21:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6773"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

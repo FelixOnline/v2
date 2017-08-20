@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hasaan Choudry discovers that the President has lost his mojo
 date: "2012-11-01 23:13:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2818"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
  - longread

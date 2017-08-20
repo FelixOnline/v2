@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Experiment between staff and PhD students breaks down
 date: "2011-10-27 20:22:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1610"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on one of the survey’s sadder revelations
 date: "2015-06-04 23:37:12 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5602"

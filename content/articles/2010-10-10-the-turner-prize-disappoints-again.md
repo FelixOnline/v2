@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s hard to avoid the feeling that it’s all a bit... underwhelming
 date: "2010-10-10 15:24:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "188"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jj1909
 highlights:
  - photos
 

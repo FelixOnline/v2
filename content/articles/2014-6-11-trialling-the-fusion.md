@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Games reviewing the newest the entry in the trial series.
 date: "2014-06-11 21:46:40 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4674"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

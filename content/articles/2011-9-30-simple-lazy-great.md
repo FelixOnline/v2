@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Immature Critic is won over by the biggest comedy of the summer
 date: "2011-09-30 12:40:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1462"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - felix
 highlights:
 

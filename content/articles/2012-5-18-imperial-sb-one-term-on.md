@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bart Andrews reports on Skateboarding and BMX highlights from the term gone by
 date: "2012-05-18 16:28:31 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2476"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ba410
  - mc4509
 highlights:
  - comment

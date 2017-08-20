@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caz Knight reviews Jerusalem- a baudy satire about Binge Drinking and Morris Dancing
 date: "2010-02-18 16:50:10 +0000"
-author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "93"

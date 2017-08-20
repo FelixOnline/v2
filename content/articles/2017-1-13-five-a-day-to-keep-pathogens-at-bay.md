@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Five-a-day to keep pathogens at bay
 date: "2017-01-13 14:11:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6638"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - rachelgillespie
 highlights:
 
 # Homepage control params

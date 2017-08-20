@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madeleine Maxwell let’s you know what it’s all about, and why you should care
 date: "2013-02-08 00:51:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3278"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mm4711
  - tna08
 highlights:
  - longread

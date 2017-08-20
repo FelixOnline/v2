@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles always looks on the bright side of death
 date: "2012-11-29 22:04:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2985"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
 

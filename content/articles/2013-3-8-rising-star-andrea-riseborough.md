@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Welcome to the Punch
 date: "2013-03-08 00:02:40 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3452"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

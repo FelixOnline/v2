@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rifts reappear less than a fortnight after G-20 pact
 date: "2010-11-25 20:26:43 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "430"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lh1009
  - nm1010
 highlights:
 

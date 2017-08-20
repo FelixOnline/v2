@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You can forget about elections for the rest of the year
 date: "2017-03-17 13:03:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6897"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jmw216
 highlights:
  - comment
 

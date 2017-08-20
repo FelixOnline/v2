@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Skene proves he has bigger balls than the rest of the games team
 date: "2015-02-09 19:35:17 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5224"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - ps3110
 highlights:
 

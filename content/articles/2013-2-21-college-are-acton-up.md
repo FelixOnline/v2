@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on the recent North Acton announcement. Unfortunately space meant some points had to be stressed rather than touching on all the issues. There are more problems than those mentioned here.
 date: "2013-02-21 23:15:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3346"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
  - longread

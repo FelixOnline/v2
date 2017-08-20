@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl reviews the first of a trilogy of new Green Day albums
 date: "2013-01-18 00:50:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3143"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
 

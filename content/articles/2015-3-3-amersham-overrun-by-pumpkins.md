@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellie Johnstone on this year’s silliest orienteering competition
 date: "2015-03-03 14:47:07 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5324"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ecj13
  - ps3110
 highlights:
 

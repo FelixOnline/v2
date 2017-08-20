@@ -4,7 +4,6 @@ title: >
 subtitle: >
   efjefkjdn fjkdfg dfdf ddfd
 date: "2015-02-18 15:49:35 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5271"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jr2514
  - ps3110
 highlights:
 

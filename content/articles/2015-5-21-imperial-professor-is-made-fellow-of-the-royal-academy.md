@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson reports as a Professor of Electronic and Electrical Engineering is recognised for work in modelling computer systems
 date: "2015-05-21 20:02:48 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5546"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cj914
  - ps3110
 highlights:
  - comment

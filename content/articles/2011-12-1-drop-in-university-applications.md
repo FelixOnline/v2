@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Latest figures reveal further lack of interest in UK university applications
 date: "2011-12-01 21:16:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1885"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

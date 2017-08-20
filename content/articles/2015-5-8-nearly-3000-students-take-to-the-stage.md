@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the Royal Albert Hall graduation ceremony
 date: "2015-05-08 00:07:57 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5498"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Proposals could see care homes on Evelyn Gardens
 date: "2012-01-12 22:24:41 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1983"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - ks607
 highlights:
  - comment

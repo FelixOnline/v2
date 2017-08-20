@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s Ultimate team ends the season on a high in Nottingham
 date: "2013-05-02 12:17:51 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3527"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - epp11
  - tna08
 highlights:
  - comment

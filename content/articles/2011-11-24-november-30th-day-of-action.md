@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Izzy Koksal and Luke Sheldon on why students should care about Wednesday’s strikes
 date: "2011-11-24 21:38:15 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1825"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ls411
  - pk1811
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Final episode has more holes than dutch cheese, says Maciej Matuszewski
 date: "2012-01-19 19:47:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1999"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

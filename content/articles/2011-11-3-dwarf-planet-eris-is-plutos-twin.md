@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Further details on recently-discovered planet leads to familiar results
 date: "2011-11-03 19:47:50 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1655"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ng411
  - pk1811
 highlights:
 

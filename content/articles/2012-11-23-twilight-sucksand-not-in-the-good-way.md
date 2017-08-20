@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katy Bettany is not impressed with this long and boring end to the saga
 date: "2012-11-23 00:38:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2976"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - klb09
  - tna08
 highlights:
  - comment

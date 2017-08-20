@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Robert Wright reports back from their latest contstruction project
 date: "2013-09-29 16:23:31 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3789"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rjw07
  - tna08
 highlights:
 

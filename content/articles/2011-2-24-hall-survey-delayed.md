@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President attacked for amenities fund comments
 date: "2011-02-24 19:42:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "867"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mg2109
 highlights:
 
 # Homepage control params

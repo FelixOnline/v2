@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Concerns raised about impact on international students
 date: "2011-02-24 19:40:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "865"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - felix
 highlights:
 

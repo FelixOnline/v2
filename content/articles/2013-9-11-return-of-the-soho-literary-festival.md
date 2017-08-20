@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The small and eclectic festival returns at the end of the end of September.
 date: "2013-09-11 10:55:14 +0100"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3759"

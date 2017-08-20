@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My position works bcause I don’t differentiate; I simply hate everyone
 date: "2011-02-17 19:56:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "828"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
  - photos
 

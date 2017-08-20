@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster asks “Will you be my player 2?”
 date: "2013-02-07 23:37:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3265"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

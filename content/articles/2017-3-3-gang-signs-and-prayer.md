@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The pressure was on, and at the tail-end of 2016, Stormzy went AWOL
 date: "2017-03-03 15:24:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6847"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - andydjaba
 highlights:
  - comment
  - longread

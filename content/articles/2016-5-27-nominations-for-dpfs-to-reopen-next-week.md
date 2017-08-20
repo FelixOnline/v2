@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The fifth sabb will return next year
 date: "2016-05-27 08:40:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6199"

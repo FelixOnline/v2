@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A call to arms from the LSFP. Shape science policy, shape the world
 date: "2015-11-13 14:39:45 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5730"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jsw115
  - ygr12
 highlights:
 

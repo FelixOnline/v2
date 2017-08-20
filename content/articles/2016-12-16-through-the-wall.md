@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking for Love...
 date: "2016-12-16 14:50:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6606"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lawrencegood
 highlights:
 
 # Homepage control params

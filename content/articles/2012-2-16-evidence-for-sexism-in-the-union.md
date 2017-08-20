@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Osborne and Marissa Lewis discuss the Union's refusal to approve a proposed Gender Equality Society
 date: "2012-02-16 22:25:16 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2213"
@@ -24,6 +23,8 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ko409
+ - ml2909
  - sjw209
 highlights:
  - comment

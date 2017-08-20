@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unknown Mortal Orchestra: II
 date: "2013-02-07 22:52:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3247"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - tna08
+ - ym1210
 highlights:
 
 # Homepage control params

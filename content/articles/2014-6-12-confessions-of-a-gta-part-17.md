@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Invigilation is no more than being paid to watch others suffer
 date: "2014-06-12 16:44:05 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4684"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gta
  - me1711
 highlights:
 

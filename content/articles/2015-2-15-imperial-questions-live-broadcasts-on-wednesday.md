@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Union Media Group launches its first live broadcast of the year with a bang (well, a live audience and five panellists).
 date: "2015-02-15 23:45:08 +0000"
-author_id: "txl11"
 
 # Attributes from Felix Online V1
 id: "5261"

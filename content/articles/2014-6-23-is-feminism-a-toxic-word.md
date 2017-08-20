@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer gives their opinion
 date: "2014-06-23 13:12:27 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4708"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - extuser0
  - jal08
 highlights:
  - comment

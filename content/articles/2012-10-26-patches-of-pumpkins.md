@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sophia Goldberg on how to bring out your pumpkins’ inner ghouls
 date: "2012-10-26 02:54:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2760"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - srg109
  - tna08
 highlights:
  - photos

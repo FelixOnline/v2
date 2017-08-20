@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A whistle-stop tour through the sights of the famous Indian city
 date: "2012-02-23 20:45:27 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2242"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - vkk09
 highlights:
  - photos
 

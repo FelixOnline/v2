@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Romylos Jackson reports on the exploits of Imperial in Europe
 date: "2012-11-15 22:26:04 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2918"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rj508
  - tna08
 highlights:
 

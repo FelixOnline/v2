@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Opposition against travellers isn't about planning permission or justice, it's just racism
 date: "2011-10-27 23:46:03 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1623"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ls411
  - sjw209
 highlights:
  - comment

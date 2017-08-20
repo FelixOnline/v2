@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marcus du Sautoy provides us with an irresistible combination of anecdotes, mathematical mysteries and history in this whirlwind
 date: "2010-12-02 20:30:51 +0000"
-author_id: "kv07"
 
 # Attributes from Felix Online V1
 id: "472"

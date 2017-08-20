@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonney Clowes on Imperial's victory
 date: "2012-11-29 23:20:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3014"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - jlc08
  - tna08
 highlights:
  - comment

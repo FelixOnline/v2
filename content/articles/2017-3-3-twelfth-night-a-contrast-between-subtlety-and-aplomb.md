@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Twelfth Night is on at the National Theatre until 13th May
 date: "2017-03-03 15:16:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6845"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - wbe15
 highlights:
  - comment
  - longread

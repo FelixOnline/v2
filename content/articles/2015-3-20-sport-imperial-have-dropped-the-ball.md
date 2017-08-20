@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editorial: Why I am so pissed off with what happened at Varsity
 date: "2015-03-20 14:18:24 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5419"

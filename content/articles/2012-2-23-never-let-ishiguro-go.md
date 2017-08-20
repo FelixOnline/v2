@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kazuo Ishiguro applies his unique writing style to the realm of science fiction
 date: "2012-02-23 20:26:34 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2233"

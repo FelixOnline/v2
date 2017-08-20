@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reasonable food in a fantastic atmosphere to be found in Soho
 date: "2011-11-10 21:58:23 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1738"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh3210
  - pk1811
 highlights:
 

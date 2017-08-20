@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Bowers asks if Google may be losing its innovative edge
 date: "2011-05-26 19:02:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1253"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb908
  - felix
 highlights:
  - comment

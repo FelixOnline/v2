@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yorgos Lanthimos’ latest gem is a postmodern love story with deadly claws
 date: "2015-10-16 15:09:17 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5661"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ygr12
 highlights:
  - comment

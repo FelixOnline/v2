@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christopher Nichols on why we should save the badgers from culling
 date: "2012-02-02 19:29:32 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2089"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - cn211
 highlights:
 
 # Homepage control params

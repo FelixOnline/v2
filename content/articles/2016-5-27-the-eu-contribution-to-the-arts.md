@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why only a Remain vote on June 23rd will benefit the future of British art
 date: "2016-05-27 09:01:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6217"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mff113
 highlights:
  - longread
 

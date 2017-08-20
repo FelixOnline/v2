@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With countless rap and R&B projects dropping this year, 2016 has been an incredible year for hip-hop and urban culture. There’s been an unprecedented wave of new music from giants in the modern rap game, like Drake, Kendrick Lamar and Kanye West, to exciting debut albums from the budding stars, such
 date: "2016-12-16 14:57:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6607"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - andydjaba
  - felix
 highlights:
  - comment

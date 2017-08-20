@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In September, five students summited three unconquered Himalayan mountains. Here’s their first-hand account
 date: "2010-11-18 21:42:10 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "408"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - nm1010
 highlights:
  - comment

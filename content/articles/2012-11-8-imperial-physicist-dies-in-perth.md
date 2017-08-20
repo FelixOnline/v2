@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Barrett was killed in a car accident, when a stolen car crashed into the taxi he was in
 date: "2012-11-08 23:50:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2829"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

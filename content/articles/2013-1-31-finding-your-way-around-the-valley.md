@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Entrepreneurs unveil the latest International Insight Series
 date: "2013-01-31 23:57:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3218"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fbusines
  - tna08
 highlights:
  - comment

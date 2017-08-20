@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhys Davies finally gets down to reading a dated classic of SF literature
 date: "2012-05-03 18:39:07 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2415"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - rjd08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial takes on 15 of the best university ultimate frisbee teams
 date: "2012-01-12 20:36:24 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1965"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - ial08
 highlights:
 
 # Homepage control params

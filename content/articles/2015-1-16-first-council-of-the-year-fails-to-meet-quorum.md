@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Members to vote on papers via email instead
 date: "2015-01-16 13:02:05 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5093"

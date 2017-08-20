@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey details her thrilling and dangerous adventures of playing Pokémon Go while biking through London
 date: "2017-02-24 15:17:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6827"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
 

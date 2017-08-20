@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s good to see more and more gorillas finding employment as club bouncers
 date: "2011-06-23 20:51:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1428"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

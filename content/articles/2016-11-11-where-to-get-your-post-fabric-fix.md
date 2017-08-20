@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After fabric’s tragic closure at the end of October, many of us are left frantically searching for a substitute to tide us over until the appeal on 28th November. Fear not, felix has you covered! Take a look at these great venues...
 date: "2016-11-11 18:36:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6444"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - theo.farah13
 highlights:
  - photos
 

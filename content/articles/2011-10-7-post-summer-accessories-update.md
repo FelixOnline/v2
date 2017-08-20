@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new term starts a new season, and what better way to break into your student loan than by updating your look with a few accessories. Alice Yang gives you this season’s best, and remember – detail is everything
 date: "2011-10-07 12:26:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1491"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - felix
 highlights:
 

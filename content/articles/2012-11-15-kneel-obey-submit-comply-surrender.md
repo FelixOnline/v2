@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Master is good, by no Masterpiece
 date: "2012-11-15 21:51:52 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2904"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - tna08
 highlights:
  - comment

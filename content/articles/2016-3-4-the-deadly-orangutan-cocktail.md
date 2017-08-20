@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Interbreeding between Orangutan sub-species could lead to thier extinction
 date: "2016-03-04 11:35:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6002"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It has its faults but Marvel’s Thor descends from the heavens to wreak havok amongst us mere mortals
 date: "2011-05-06 12:53:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1168"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The British Museum is one of London’s top attractions – a stiff-upper-lip monument to theft
 date: "2010-10-21 18:57:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "228"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is that a baton in your pocket are you pleased to see this review?
 date: "2013-03-07 22:04:07 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "3437"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - sjw209
 highlights:
 

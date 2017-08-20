@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President Assad’s adversaries meet in the wake of ending the Syrian Crisis
 date: "2013-12-02 21:56:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4159"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jr1911
 highlights:
 
 # Homepage control params

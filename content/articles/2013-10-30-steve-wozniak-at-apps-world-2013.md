@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steve Wozniak, known by many as Woz was the keynote speaker of Apps-World 2013 at Earls Court, London.
 date: "2013-10-30 16:10:51 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3963"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - wfd13
 highlights:
 
 # Homepage control params

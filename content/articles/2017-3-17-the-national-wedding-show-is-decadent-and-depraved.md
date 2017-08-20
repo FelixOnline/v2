@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Has voracious commercialism taken over a traditional expression of property rights? Theo Farah ventures into the heart of matrimonial hype to learn more about creating the perfect day.
 date: "2017-03-17 17:23:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6914"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - theo.farah13
 highlights:
  - comment
  - photos

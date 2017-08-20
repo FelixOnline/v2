@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport catches up with Riding and Polo on just what makes them love their sport so much
 date: "2013-01-10 23:14:19 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3108"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - rg2010
 highlights:
  - comment
 

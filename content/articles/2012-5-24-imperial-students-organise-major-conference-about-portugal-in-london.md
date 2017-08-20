@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LUSO 2012 to go ahead as speakers are confirmed
 date: "2012-05-24 23:04:54 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2485"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jmoscoso
  - mc4509
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medics and Imperial gear up for their yearly showdown, now at The Stoop
 date: "2011-03-03 20:21:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1007"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - hblandfo
 highlights:
 
 # Homepage control params

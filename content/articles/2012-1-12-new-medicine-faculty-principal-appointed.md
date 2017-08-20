@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Immune response pioneer arrives from Trinity College Dublin
 date: "2012-01-12 22:38:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1988"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
 highlights:
 

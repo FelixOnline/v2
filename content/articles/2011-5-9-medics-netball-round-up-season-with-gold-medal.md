@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Most successful season yet for Medics Netball
 date: "2011-05-09 09:58:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1181"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - lh408
 highlights:
 
 # Homepage control params

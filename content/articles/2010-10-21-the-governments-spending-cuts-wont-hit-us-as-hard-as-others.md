@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But don’t let that fool you supposing that they are insignificant
 date: "2010-10-21 19:11:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "234"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Business Editors Benat Gurrutxaga-Lerma and Nina Kearsey talk to Clive Cookson, Science Editor at the Financial Times, about the argument for business involvement in science, and about the challenges and changes facing science journalism
 date: "2012-02-09 22:17:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2146"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - bg310
  - felix
+ - nk506
 highlights:
  - longread
 

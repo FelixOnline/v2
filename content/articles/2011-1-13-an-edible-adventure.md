@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Furse rediscovers the pleasures of food
 date: "2011-01-13 19:49:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "570"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

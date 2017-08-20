@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Fellwanderers walk about in the cold and the rain... mad...
 date: "2013-01-18 01:07:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3149"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mab108
  - tna08
 highlights:
  - longread

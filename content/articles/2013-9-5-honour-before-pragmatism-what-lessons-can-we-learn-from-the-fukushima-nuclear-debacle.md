@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten presents a stimulating article on the problems surrounding the nuclear reactor in Fukushima
 date: "2013-09-05 18:40:37 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3757"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - jal08
 highlights:
  - comment

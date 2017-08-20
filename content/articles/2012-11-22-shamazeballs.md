@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucia Podhorska thinks it was more of a shambles
 date: "2012-11-22 23:02:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2938"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lp707
  - tna08
 highlights:
  - longread

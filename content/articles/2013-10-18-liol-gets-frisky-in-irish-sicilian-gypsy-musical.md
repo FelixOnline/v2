@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First, a disclaimer: for those with a strong aversion to musicals avoid this play at all costs. :)
 date: "2013-10-18 22:05:08 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3899"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - lwl09
 highlights:
 
 # Homepage control params

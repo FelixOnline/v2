@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over £7000 raised for RAG from bargain bikes
 date: "2011-11-03 19:29:24 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1652"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ial08
  - pk1811
 highlights:
 

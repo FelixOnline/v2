@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Here's your starter for ten
 date: "2013-01-17 23:51:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3122"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pa07
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Sharm-el shaken, not stirred”
 date: "2012-11-01 23:04:56 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2809"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - fsport
 highlights:
 
 # Homepage control params

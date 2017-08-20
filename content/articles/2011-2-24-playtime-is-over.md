@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The social events provided by the amenities fund is the best part of hall life. Why take it out of students’ hands?
 date: "2011-02-24 20:21:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "888"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dr1010
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli looks at the Nation’s new addiction to Poldark
 date: "2015-05-04 16:58:10 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5492"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gg2110
  - ps3110
 highlights:
  - comment

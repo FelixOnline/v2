@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nonsense, much like Christmas, is all around
 date: "2011-12-08 21:18:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1935"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gb610
 highlights:
  - comment
 

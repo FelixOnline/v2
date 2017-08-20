@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oli Benton investigates the inner workings of the College and the Union, and what people do and don’t know about how they are run
 date: "2013-06-20 23:49:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3728"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ohb09
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Polls support ban on performing animals
 date: "2011-06-23 19:56:13 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1417"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - kah09
 highlights:
 
 # Homepage control params

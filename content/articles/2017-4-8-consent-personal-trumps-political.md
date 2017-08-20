@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National Theatre production teases wider themes of treatment of rape survivors by the criminal justice system
 date: "2017-04-08 21:02:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6924"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - vaishnavignanana
 highlights:
 
 # Homepage control params

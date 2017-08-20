@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history.
 date: "2014-05-09 15:43:12 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4589"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ykc111
 highlights:
 
 # Homepage control params

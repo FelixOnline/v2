@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The accomodation rent hikes are extortion, plain and simple
 date: "2015-11-13 14:31:30 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5725"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - pnk14
  - ygr12
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Racist pseudoscientific tweets cause KCLSU complaint
 date: "2017-02-02 23:30:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6705"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
  - photos

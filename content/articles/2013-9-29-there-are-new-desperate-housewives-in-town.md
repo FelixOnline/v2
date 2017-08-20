@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Television Editor John Park reviews Devious Maids and Mistresses
 date: "2013-09-29 15:06:08 +0100"
-author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "3778"

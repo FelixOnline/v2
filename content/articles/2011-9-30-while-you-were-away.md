@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As term begins, we sift through Imperial's science headlines to bring you the latest news
 date: "2011-09-30 11:02:39 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1458"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ko407
 highlights:
  - longread
 

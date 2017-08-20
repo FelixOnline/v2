@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new Harry Potter film proves controversial.
 date: "2010-11-25 19:52:56 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "422"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - nm1010
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Hagger teaches us about the birds, the bees and the pill with some biology thrown in
 date: "2013-01-31 23:28:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3208"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lh2010
  - tna08
 highlights:
  - comment

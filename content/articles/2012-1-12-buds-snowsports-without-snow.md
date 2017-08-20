@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial takes on the British University Dryslope Championship
 date: "2012-01-12 20:46:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1966"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gh209
 highlights:
  - photos
 

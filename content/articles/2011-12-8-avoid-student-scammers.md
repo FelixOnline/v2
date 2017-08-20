@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stay safe when out in London
 date: "2011-12-08 20:09:17 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1909"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm406
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial and Oxford team up to tackle white blood cells
 date: "2011-10-07 09:39:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1479"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - felix
 highlights:
  - photos

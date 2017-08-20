@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The female reproductive system may contain a mechanism continuously producing egg cells
 date: "2012-03-08 20:07:45 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2311"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - slb210
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "It often requires a lot of patience and being able to multi-task is pretty useful. That said, it’s amazingly rewarding and challenging"
 date: "2011-02-10 20:01:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "761"

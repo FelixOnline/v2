@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli on the Erasmus experience
 date: "2013-10-11 23:00:21 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3823"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gg2110
  - jal08
 highlights:
  - longread

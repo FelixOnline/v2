@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cora Xydas and Rebecca Stenning gently play you through a quick guide to what they got up to in their break from work
 date: "2012-10-11 20:45:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2651"

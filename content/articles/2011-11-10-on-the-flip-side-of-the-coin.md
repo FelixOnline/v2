@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Muslim perspective on the afterlife and religion in society
 date: "2011-11-10 20:41:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1718"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ua108
 highlights:
  - comment
 

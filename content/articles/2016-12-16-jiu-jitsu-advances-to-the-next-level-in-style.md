@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yes, Jiu Jitsu is a sport and completely unrelated to the jewish people
 date: "2016-12-16 16:26:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6627"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cloefradin
  - felix
 highlights:
 

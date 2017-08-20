@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This was an amazing start to the season, lets hope they can keep it going!
 date: "2012-11-01 23:13:37 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2817"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - fsport
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers conclude that coffee first thing in the morning might not be as effective as you thought
 date: "2013-11-15 11:41:45 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4086"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ykc111
 highlights:
 
 # Homepage control params

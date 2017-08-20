@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi examines a few new(ish) releases
 date: "2013-11-08 09:57:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4038"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

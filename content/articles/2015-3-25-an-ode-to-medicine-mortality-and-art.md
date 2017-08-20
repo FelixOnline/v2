@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5434"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - jc7413
 highlights:
  - comment
  - longread

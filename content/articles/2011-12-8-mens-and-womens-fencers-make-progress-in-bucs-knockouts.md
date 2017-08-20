@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Epic and not-so-epic journeys lead to good fortune
 date: "2011-12-08 21:04:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1928"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

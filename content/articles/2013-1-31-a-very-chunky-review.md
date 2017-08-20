@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood try them for you...
 date: "2013-01-31 23:46:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3215"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - csw09
  - tna08
 highlights:
  - photos

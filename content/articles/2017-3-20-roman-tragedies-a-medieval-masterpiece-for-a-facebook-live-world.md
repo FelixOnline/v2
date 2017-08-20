@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Barbican's staging of Ivo van Hove's epic Shakespeare adaptation is bold and daring
 date: "2017-03-20 21:36:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6920"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - adam.gellatly14
 highlights:
  - comment
  - longread

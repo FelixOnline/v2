@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl rewrites the history of the Emerald Isle in Crusader Kings II
 date: "2012-11-15 21:55:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2906"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
  - longread

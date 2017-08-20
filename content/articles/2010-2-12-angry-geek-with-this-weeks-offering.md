@@ -4,7 +4,6 @@ title: >
 subtitle: >
   you've assembled the Special Needs X-Men. ...Now it's time to start work!
 date: "2010-02-12 02:13:20 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "88"

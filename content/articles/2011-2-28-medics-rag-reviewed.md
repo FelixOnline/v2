@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shock! Horror! Buckets used for raising money, not vomit... By Catherine Lu and Genevieve Pugh
 date: "2011-02-28 21:15:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "942"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cjl10
  - felix
 highlights:
 

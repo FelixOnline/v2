@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shamini Bundell Sneaks into the dress rehearsal for Noises Off and gets totally confused.
 date: "2010-03-17 16:04:06 +0000"
-author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "124"

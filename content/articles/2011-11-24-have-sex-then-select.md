@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maya Kaushik on selection after copulation and ‘cryptic female choice’
 date: "2011-11-24 20:33:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1805"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mk6809
  - pk1811
 highlights:
  - comment

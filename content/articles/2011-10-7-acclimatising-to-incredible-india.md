@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Follow the adventures of a backpacker across the mighty subcontinent, beginning with some sightseeing in the country’s brilliant capital city
 date: "2011-10-07 13:10:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1497"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
 

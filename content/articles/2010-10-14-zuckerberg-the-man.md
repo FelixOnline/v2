@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An examination of the man who created Facebook
 date: "2010-10-14 19:48:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "213"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
  - photos
 

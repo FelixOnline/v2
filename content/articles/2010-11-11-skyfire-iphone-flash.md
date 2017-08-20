@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Want to watch Flash video on your iPhone even though Jobs doesn’t want you to? Get yourself SkyFire browser
 date: "2010-11-11 20:30:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "336"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cf308
  - felix
 highlights:
  - comment

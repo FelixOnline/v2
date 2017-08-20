@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The results of the polls to rename the Union bars are in, but the Union have taken the decision to hold off on a final name for the new Da Vinci&8217;s. Rox Middleton reports on the latest decisions made this week
 date: "2010-02-27 17:40:05 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "114"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Demand for science study steady in comparison
 date: "2011-10-27 19:58:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1607"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

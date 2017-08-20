@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A week after Manchester City won their second title in three seasons Kunal Wagle, Jonny Pratt and Football Columnist James White take a look at a Premier League season that really did have it all.
 date: "2014-05-19 13:28:47 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4608"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - jal08
+ - jp1910
+ - kmw13
 highlights:
  - photos
 

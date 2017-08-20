@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4773"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pa07
  - snb11
 highlights:
  - comment

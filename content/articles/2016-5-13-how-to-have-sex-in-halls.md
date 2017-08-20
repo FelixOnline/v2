@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We’re all jealous of our friends who don't have roommates
 date: "2016-05-13 09:00:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6151"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

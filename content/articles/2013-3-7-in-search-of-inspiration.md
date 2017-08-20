@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Most people work so that they can live, but a lucky few live so that they can work. All you need is inspiration, says Saskia Verhagen
 date: "2013-03-07 20:56:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3420"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - stv07
  - tna08
 highlights:
  - comment

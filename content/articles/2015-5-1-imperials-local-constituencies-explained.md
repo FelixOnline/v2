@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What is going on where you live?
 date: "2015-05-01 00:24:42 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5479"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - ps3110
 highlights:
 

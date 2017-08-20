@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Theo Pavlakou on the enlightening covers of the lastest viral outfit
 date: "2012-01-19 20:55:10 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2023"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - tp710
 highlights:
 
 # Homepage control params

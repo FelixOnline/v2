@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl details his discoveries at the Gadget Show Live!
 date: "2012-12-07 02:39:14 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3052"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
  - longread

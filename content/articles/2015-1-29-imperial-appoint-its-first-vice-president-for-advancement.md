@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Role will look to address and improve alumni relations
 date: "2015-01-29 23:38:48 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5154"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

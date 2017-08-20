@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Winning a new perspective on the position, Imperial, and comfort zones
 date: "2016-03-18 11:38:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6055"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jxz12
 highlights:
  - comment
 

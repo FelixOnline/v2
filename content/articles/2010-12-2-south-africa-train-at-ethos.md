@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The South African rugby team spends some time training at the Imperial gym
 date: "2010-12-02 20:47:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "478"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jn104
 highlights:
 
 # Homepage control params

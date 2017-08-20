@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does science fiction stand in the way of progress?
 date: "2011-10-14 00:34:42 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "1539"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - fcomment
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland assesses the contrived controversy of this year's prize
 date: "2014-12-18 15:40:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5057"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - km2612
  - ps3110
 highlights:
  - comment

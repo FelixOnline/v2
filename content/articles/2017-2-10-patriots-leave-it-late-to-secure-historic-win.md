@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Winning isn’t everything, it’s the only thing
 date: "2017-02-10 16:49:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6776"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - imrajsingh
 highlights:
  - longread
 

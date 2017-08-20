@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new use for therapeutic nanoparticles in diabetes treatment
 date: "2012-05-10 20:14:53 +0100"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "2445"

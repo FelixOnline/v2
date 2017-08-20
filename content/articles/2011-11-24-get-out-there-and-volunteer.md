@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andy Yu tells you to get out there and help. Now.
 date: "2011-11-24 23:02:06 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1847"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - felix
  - pk1811
 highlights:
 

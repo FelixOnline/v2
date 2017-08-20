@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Review's recommendations are the most viable path forward
 date: "2010-10-14 19:59:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "217"

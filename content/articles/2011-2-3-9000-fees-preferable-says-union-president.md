@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Higher rate tuition fees would protect bursaries for poorer students argues Alex Kendall
 date: "2011-02-03 19:33:34 +0000"
-author_id: "skd09"
 
 # Attributes from Felix Online V1
 id: "717"

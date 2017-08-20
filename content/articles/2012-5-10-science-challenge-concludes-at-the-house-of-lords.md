@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cash prize and tour of CERN awarded at Grand Final
 date: "2012-05-10 19:34:51 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2434"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - pk1811
 highlights:
 

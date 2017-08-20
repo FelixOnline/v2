@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigating groups that oppose democracy
 date: "2011-10-27 22:57:30 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "1619"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jm3309
 highlights:
  - comment
 

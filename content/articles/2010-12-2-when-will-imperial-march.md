@@ -4,7 +4,6 @@ title: >
 subtitle: >
   While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why
 date: "2010-12-02 21:50:19 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "499"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - mtm10
 highlights:
  - comment
  - longread

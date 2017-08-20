@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Several leading institutions withdraw
 date: "2013-03-01 00:42:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3407"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - nj1211
  - tna08
 highlights:
  - comment

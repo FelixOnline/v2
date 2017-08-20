@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Vek – Leisure Seizure – Island – 2011
 date: "2012-06-15 07:50:01 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2578"

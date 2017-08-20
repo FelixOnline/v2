@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rugby 1st XV were victorious against Medway in their last game of 2015
 date: "2016-02-19 12:30:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5948"
@@ -21,7 +20,7 @@ tags:
  - sport
  - imported
 authors:
- - felix
+ - jlo13
 highlights:
 
 # Homepage control params

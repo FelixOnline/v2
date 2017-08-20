@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey explains why PhDs are near-impossible to finance without family help
 date: "2017-02-17 14:37:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6783"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
  - longread

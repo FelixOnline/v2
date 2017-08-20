@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Give our country a voting system that allows us to express our true preferences and ends tactical voting, bickering and flip-flopping policies
 date: "2011-04-24 11:26:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1136"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - awb01
  - felix
 highlights:
  - comment

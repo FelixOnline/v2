@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We review the most detailed mass transit simulator yet
 date: "2011-02-24 20:09:55 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "882"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb908
  - sjw209
 highlights:
  - comment

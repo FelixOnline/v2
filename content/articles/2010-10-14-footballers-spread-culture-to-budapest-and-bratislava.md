@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's finest report on their annual tour
 date: "2010-10-14 19:41:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "210"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sk707
 highlights:
  - comment
  - longread

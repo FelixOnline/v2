@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg explores Anslem Kiefer's enduring influence
 date: "2014-12-18 15:34:38 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5055"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mff113
  - ps3110
 highlights:
  - photos

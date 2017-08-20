@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix investigates as to why the funds for halls have been slashed
 date: "2014-10-17 14:28:12 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4728"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - kmw13
  - pk1811
+ - ps3110
+ - txl11
 highlights:
  - longread
 

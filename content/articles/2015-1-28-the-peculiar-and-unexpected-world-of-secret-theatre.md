@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola heads down to Kilburn to check out a very secret show
 date: "2015-01-28 18:37:24 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5152"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cfc111
  - ps3110
 highlights:
 

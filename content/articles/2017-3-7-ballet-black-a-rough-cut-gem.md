@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ballet Black's triple bill has a strong message of diversity
 date: "2017-03-07 15:33:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6861"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ezra.kitson14
 highlights:
 
 # Homepage control params

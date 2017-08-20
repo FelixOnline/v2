@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students angered at auction by Westminster School for a one-week internship at Imperial College's Institute of Biomedical Engineering, set up without College's approval
 date: "2013-05-14 10:28:07 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3565"

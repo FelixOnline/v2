@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the first of a series of articles on the privatisation of our universities, Stephen Smith discusses the Government’s latest assault on academic freedom, through the Research Councils
 date: "2012-06-01 12:20:48 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2509"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - ss10210
 highlights:
  - comment
  - longread

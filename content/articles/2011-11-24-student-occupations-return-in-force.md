@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Further protests begin with sit-in protest at Cambridge
 date: "2011-11-24 22:08:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1828"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
  - photos

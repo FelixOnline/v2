@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzy Griffiths heads for the slopes
 date: "2013-05-01 10:21:35 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3508"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - eag09
  - tna08
 highlights:
  - comment

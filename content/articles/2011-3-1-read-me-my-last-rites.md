@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Rite has got me dying of boredom
 date: "2011-03-01 21:04:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "964"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - felix
 highlights:
 

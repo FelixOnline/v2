@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Say goodbye to those foreign flings
 date: "2016-10-03 16:00:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6299"

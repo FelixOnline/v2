@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This year’s Imperial College Union elections include Faculty Union Presidents in the line-up for the first time. Felix speaks to the outgoing officers
 date: "2012-03-02 01:33:36 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2305"

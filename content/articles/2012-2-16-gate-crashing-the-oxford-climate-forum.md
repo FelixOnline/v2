@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood escapes London for a sustainable future
 date: "2012-02-16 23:12:40 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2219"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - csw09
  - sjw209
 highlights:
  - longread

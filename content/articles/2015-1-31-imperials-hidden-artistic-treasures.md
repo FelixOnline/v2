@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng gets a behind the scenes look at 170 Queen’s Gate
 date: "2015-01-31 18:34:00 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5164"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - jc7413
 highlights:
  - comment
 

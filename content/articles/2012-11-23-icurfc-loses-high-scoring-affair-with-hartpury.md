@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Olisa Ufodiama laments a loss, but appreciates the high score
 date: "2012-11-23 00:13:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2964"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - otu111
  - tna08
 highlights:
  - photos

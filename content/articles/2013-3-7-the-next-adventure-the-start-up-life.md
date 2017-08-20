@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Natasha Hodgson presents the benefits of an alternative career path
 date: "2013-03-07 21:08:01 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3421"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fbusines
  - jal08
 highlights:
 

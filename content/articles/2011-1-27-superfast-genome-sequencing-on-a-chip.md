@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Affordable genome sequencing comes one step closer
 date: "2011-01-27 18:50:40 +0000"
-author_id: "ko407"
 
 # Attributes from Felix Online V1
 id: "658"

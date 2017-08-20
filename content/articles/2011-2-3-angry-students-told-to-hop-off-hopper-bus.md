@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No prior warning given, says Medic President
 date: "2011-02-03 19:19:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "712"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - klb09
 highlights:
  - comment
 

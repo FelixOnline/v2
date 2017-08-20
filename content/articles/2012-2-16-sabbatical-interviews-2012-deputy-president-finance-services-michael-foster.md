@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The current DPFS speaks on his time in office
 date: "2012-02-16 22:58:31 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2217"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mc4509
  - sjw209
 highlights:
 

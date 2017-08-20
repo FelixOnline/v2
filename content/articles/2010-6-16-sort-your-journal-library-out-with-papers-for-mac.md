@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking at the iTunes of journal articles, Papers for Mac and iPhone/iPad
 date: "2010-06-16 19:44:28 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "146"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - srg03
 highlights:
  - comment
 

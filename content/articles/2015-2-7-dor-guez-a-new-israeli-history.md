@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland checks out one of the new shows at the ICA
 date: "2015-02-07 19:15:22 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5206"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - km2612
  - ps3110
 highlights:
 

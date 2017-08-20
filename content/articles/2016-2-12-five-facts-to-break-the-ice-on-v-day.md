@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A journey through the wonderful and horifying world of animal sex
 date: "2016-02-12 11:31:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5904"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - as8315
 highlights:
 
 # Homepage control params

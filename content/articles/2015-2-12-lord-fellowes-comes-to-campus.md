@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The creators of Downton Abby visit Imperial
 date: "2015-02-12 20:44:27 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5232"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - snb11
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Funding for equipment costing between £10,000 and £121,000 will see a 50% cut
 date: "2011-06-02 18:14:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1293"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

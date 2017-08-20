@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Time to vote! The Student Rep and Union Council elections have begun!
 date: "2013-10-18 20:43:51 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3885"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

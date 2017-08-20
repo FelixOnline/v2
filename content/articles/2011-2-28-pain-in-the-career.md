@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This recession malarky has got everyone worried about their career prospects. Apart from Matt. And Danny Dyer
 date: "2011-02-28 20:30:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "928"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

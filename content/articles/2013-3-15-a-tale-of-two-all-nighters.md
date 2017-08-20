@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICU Cinema get the Red Bull at the ready
 date: "2013-03-15 02:10:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3486"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - longread

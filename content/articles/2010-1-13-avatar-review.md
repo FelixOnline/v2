@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A thrilling adventure into the wonderful world of Pandora
 date: "2010-01-13 20:55:25 +0000"
-author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "22"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous student thinks that there needs to be significant change to the services that the college provides for severe mental health problems
 date: "2017-05-19 15:05:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6975"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
  - photos
 

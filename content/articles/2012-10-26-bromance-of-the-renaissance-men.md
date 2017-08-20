@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tate Britian honours Pre-Raphaelite rebels
 date: "2012-10-26 03:05:58 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2765"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mp1710
  - tna08
 highlights:
 

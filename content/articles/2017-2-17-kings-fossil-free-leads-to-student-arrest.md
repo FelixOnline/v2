@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A student painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s
 date: "2017-02-17 14:24:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6778"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4812
 highlights:
  - comment
 

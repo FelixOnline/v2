@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Winter Olympics have come to our television screens again, and Gilead Amit shares the view from his couch.
 date: "2010-02-27 17:13:41 +0000"
-author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "113"

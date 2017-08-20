@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cedric Colle comments on what has been a very impressive start to the season for all Basketball teams
 date: "2014-12-04 20:33:45 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5012"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cc7912
  - cj914
 highlights:
 

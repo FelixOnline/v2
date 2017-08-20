@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski is drawn back into the boardroom
 date: "2011-10-28 13:23:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1642"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
  - longread
 

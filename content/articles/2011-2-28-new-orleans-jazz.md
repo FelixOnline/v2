@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts on the addictive music of Harry Connick Jr.
 date: "2011-02-28 21:31:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "948"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two seriously groat games you should go for!
 date: "2014-06-06 02:53:14 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4668"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - jal08
 highlights:
 

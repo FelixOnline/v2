@@ -4,7 +4,6 @@ title: >
 subtitle: >
   3D TV's back but what does it mean for you?
 date: "2010-06-16 18:30:14 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "145"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sjw209
  - srg03
 highlights:
  - longread

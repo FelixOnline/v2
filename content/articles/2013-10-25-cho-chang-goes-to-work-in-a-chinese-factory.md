@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness?
 date: "2013-10-25 00:28:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3929"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lwl09
 highlights:
 
 # Homepage control params

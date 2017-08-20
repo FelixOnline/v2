@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two wins, three losses and a draw: pre-season matches offer some insight into the teams ahead of a new season
 date: "2011-10-21 10:08:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1584"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jzy08
 highlights:
 
 # Homepage control params

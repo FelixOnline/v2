@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oliver Benton makes the trip down to the new grounds
 date: "2014-10-17 15:12:36 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4736"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - kmw13
+ - ohb09
 highlights:
  - comment
 

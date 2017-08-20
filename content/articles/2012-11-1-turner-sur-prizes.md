@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ever controversial prize succeeds this year with evocative and thought provoking nominees
 date: "2012-11-01 22:49:59 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2795"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - mc4509
 highlights:
  - photos

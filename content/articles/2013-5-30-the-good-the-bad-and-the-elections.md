@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on the bad news, the good news, and the Election news
 date: "2013-05-30 16:05:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3648"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

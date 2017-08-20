@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kate Pumphrey wants you to remember cancer awareness day
 date: "2013-01-31 23:12:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3205"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kep12
  - tna08
 highlights:
 

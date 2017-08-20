@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Optimus Prime would be proud
 date: "2012-02-09 22:16:55 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2145"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - pk1811
 highlights:
 

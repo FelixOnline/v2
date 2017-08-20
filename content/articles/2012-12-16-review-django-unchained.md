@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tarantino works his magic with this tale of revenge in the Deep South
 date: "2012-12-16 15:23:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3075"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mc4509
  - tna08
 highlights:
 

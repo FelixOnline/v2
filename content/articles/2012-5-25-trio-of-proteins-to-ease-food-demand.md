@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Demand for food and fuels could be reduced
 date: "2012-05-25 14:29:14 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2494"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - ng411
 highlights:
 
 # Homepage control params

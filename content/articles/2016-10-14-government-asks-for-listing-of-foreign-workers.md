@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stop press: our editor is Greek
 date: "2016-10-14 09:22:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6327"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mjj15
 highlights:
  - photos
 

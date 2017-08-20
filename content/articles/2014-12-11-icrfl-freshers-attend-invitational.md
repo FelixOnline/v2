@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A nice trip to Cambridge for Imperial College Rugby League
 date: "2014-12-11 23:37:31 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5043"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aer11
  - cj914
 highlights:
 

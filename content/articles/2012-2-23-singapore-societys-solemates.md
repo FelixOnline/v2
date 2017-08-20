@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah goes to the Great Hall for something that isn’t an exam
 date: "2012-02-23 21:38:50 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2259"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - tna08
 highlights:
 
 # Homepage control params

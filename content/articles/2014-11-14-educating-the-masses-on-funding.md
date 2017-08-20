@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell and Andrew Tranter explain Higher Education Funding and how you can help in shaping its future
 date: "2014-11-14 20:36:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4871"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - as906
+ - at1913
  - ps3110
 highlights:
  - longread

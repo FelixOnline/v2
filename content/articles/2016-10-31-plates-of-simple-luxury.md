@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix visits the refined Camino for a relaxed brunch of spanish delights, with crisp Patatas Bravas, inky Arroz Negor and Baby squid. Oh, and a bottle of cava for good measure.
 date: "2016-10-31 23:18:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6373"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - yyl114
 highlights:
  - photos
 

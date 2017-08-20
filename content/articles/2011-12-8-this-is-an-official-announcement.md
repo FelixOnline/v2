@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski likes the latest from Charlie Brooker
 date: "2011-12-08 21:14:29 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1933"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - mtm10
 highlights:
  - photos
 

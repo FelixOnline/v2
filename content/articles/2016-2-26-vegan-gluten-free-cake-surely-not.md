@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX presents the birthday cake for your “friends” with challenging needs
 date: "2016-02-26 12:05:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5984"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sb6213
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In May, Union Council voted to denounce the right wing group called Student Rights and condemn Islamophobia.
 date: "2014-06-17 14:20:21 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4691"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - depfelix
  - jal08
 highlights:
  - comment

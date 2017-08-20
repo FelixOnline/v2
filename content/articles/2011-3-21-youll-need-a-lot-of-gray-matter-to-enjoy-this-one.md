@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Great story, but nothing new
 date: "2011-03-21 11:55:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1121"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skh10
 highlights:
  - comment
 

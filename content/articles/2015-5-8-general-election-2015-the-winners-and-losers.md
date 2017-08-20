@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote.
 date: "2015-05-08 17:58:15 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5509"

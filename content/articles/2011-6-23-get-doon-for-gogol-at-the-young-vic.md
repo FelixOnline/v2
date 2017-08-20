@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julian Barratt takes the lead in the Russian classic, Government Inspector
 date: "2011-06-23 21:05:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1432"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

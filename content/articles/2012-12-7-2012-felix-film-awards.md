@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The best of the year in cinema
 date: "2012-12-07 14:48:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3072"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - ffilm
  - tna08
 highlights:
  - photos

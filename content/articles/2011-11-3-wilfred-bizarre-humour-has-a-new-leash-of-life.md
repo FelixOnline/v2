@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Human-like dogs and more in one of the BBC's latest comedies
 date: "2011-11-03 20:24:33 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1665"
@@ -21,6 +20,7 @@ tags:
  - tv
  - imported
 authors:
+ - gb610
  - pk1811
 highlights:
 

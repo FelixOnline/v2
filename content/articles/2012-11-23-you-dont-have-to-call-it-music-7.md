@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 7 noise
 date: "2012-11-23 00:22:52 +0000"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2972"

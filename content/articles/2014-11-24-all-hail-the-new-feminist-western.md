@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews this modern take on a classic film genre
 date: "2014-11-24 12:49:22 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4945"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - ps3110
 highlights:
  - comment

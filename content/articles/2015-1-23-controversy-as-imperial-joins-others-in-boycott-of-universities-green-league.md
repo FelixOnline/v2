@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The College has risen one place to 112th
 date: "2015-01-23 01:32:13 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5127"

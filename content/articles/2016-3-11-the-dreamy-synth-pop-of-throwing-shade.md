@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A hazy blur of sharp light and colour
 date: "2016-03-11 11:49:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6033"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jp2512
 highlights:
  - comment
  - photos

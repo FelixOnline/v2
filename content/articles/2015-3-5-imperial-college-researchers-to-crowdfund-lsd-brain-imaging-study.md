@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers hope to produce the world's first scans of a human brain on LSD
 date: "2015-03-05 20:07:00 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5337"

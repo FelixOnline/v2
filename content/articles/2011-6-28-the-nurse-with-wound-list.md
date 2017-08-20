@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto walks you through the influences of the weirdest band ever
 date: "2011-06-28 11:29:13 +0100"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "1442"

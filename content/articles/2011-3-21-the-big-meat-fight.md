@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aki Matsushima compares the giants of the meat world
 date: "2011-03-21 10:49:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1118"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - am709
  - felix
 highlights:
 

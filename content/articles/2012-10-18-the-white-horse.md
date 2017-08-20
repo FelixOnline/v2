@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizabeth Crow on "a very posh pub, darling"
 date: "2012-10-18 21:44:19 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2719"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - felfood
 highlights:
 
 # Homepage control params

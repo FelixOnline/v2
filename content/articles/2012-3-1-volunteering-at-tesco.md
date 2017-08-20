@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Sheldon attacks the Government’s new scheme as enforced labour that only benefits big companies
 date: "2012-03-01 21:08:08 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2270"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - ls411
 highlights:
  - longread
 

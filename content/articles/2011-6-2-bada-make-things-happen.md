@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Develop with Samsung to make those app ideas a reality
 date: "2011-06-02 18:38:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1300"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - felix
 highlights:
  - comment

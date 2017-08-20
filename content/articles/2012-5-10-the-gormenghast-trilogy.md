@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski looks back at Mervyn Peake’s gothic masterpiece
 date: "2012-05-10 19:46:15 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2435"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mtm10
 highlights:
 
 # Homepage control params

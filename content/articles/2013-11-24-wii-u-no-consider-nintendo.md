@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention...
 date: "2013-11-24 16:36:27 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4129"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - css11
  - jal08
 highlights:
  - comment

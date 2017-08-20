@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jean-Claude Besse on the runaway success this year
 date: "2013-02-22 02:00:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3370"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb3712
  - tna08
 highlights:
  - photos

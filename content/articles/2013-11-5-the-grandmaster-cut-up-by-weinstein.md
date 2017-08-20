@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Grandmaster Director: Kar Wai Wong Writers: Kar Wai Wong, Jingzhi Zou, Haofeng Xu Starring: Tony Leung Chiu Wai, Zhang Ziyi Runtime: 108 minutes Certification: PG-13 (USA)
 date: "2013-11-05 09:43:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4000"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - ff712
  - jal08
 highlights:
 

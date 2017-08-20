@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medics make substantial donation to local Hammersmith food bank
 date: "2015-01-16 13:08:49 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5096"

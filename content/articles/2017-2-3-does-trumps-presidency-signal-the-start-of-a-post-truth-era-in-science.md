@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you're looking for alternative facts please go away
 date: "2017-02-03 16:36:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6716"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sara.hamilton14
 highlights:
  - comment
 

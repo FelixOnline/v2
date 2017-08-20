@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Vatican has a lot of serious questions to answer
 date: "2011-06-11 17:23:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1357"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sph109
 highlights:
  - comment
 

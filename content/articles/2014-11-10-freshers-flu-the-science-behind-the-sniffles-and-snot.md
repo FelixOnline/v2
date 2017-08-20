@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Coming to a leacture theatre near you
 date: "2014-11-10 22:55:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4851"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ltr11
  - ps3110
 highlights:
  - comment

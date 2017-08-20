@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland takes us on a journey through his favourite V&A gallery
 date: "2014-12-18 15:28:35 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5053"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - km2612
  - ps3110
 highlights:
  - comment

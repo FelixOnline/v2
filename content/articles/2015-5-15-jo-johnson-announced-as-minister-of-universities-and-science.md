@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters reports on the new minister, who is the brother of London Mayor Boris Johnson
 date: "2015-05-15 12:34:57 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5533"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jm5014
 highlights:
  - comment
 

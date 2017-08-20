@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Ed is as ineffective as a Facebook status update”
 date: "2010-12-12 14:32:27 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "554"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - ks607
 highlights:
 

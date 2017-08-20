@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marcus Bishop reviews the key themes and outcomes of the London International Development Conference
 date: "2015-03-03 14:31:11 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5323"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - msb212
  - ps3110
 highlights:
  - comment

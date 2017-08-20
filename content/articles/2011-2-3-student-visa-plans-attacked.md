@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Government’s visa proposals like “using a slegehammer to crack a nut”
 date: "2011-02-03 19:29:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "715"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - yw3410
 highlights:
  - comment
 

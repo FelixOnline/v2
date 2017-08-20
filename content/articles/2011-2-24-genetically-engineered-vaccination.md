@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One bacteria derived vaccine for many infectious diseased
 date: "2011-02-24 20:17:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "885"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ch1810
  - felix
 highlights:
  - comment

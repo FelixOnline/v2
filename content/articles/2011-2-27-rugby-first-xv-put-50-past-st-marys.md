@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 1st 53-7 St. Mary’s 2nd. By David Wilson
 date: "2011-02-27 20:01:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "926"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - dmw08
  - felix
 highlights:
  - comment

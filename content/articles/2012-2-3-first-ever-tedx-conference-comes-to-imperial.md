@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Live lectures and online videos to explore science, design and innovation
 date: "2012-02-03 00:23:17 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2120"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ks607
+ - kw911
 highlights:
  - comment
 

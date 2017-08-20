@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little talks about Harry Potter, US Defense research and the creation of a new frontier of science with Professor Sir John Pendry
 date: "2013-12-02 21:50:13 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4156"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kw911
 highlights:
  - longread
 

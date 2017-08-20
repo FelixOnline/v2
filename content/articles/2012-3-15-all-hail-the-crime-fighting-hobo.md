@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So bad it's awesome
 date: "2012-03-15 20:25:34 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2361"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - rjd08
 highlights:
 
 # Homepage control params

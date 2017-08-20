@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Choose your own adventure: sexy edition!
 date: "2013-02-07 23:10:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3254"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

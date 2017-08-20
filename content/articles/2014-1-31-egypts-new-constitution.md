@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The metamorphosis of an Arab state from autocracy to anarchy
 date: "2014-01-31 17:56:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4326"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jr1911
 highlights:
 
 # Homepage control params

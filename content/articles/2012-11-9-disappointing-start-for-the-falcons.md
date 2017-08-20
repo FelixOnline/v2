@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They don't get their talons into the opposition
 date: "2012-11-09 14:33:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2876"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - bs2010
  - tna08
 highlights:
 

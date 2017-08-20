@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Assured defiance from Savages' second album
 date: "2016-01-29 09:37:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5851"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

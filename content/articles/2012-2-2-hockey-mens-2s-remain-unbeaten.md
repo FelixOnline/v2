@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's 2nd – 1 / Roehampton – 0
 date: "2012-02-02 23:05:16 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2105"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jzy08
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out the ROH’s classic opera
 date: "2015-03-25 13:25:43 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5450"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cfc111
  - ff712
 highlights:
  - comment

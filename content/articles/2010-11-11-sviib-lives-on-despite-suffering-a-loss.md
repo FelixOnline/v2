@@ -4,7 +4,6 @@ title: >
 subtitle: >
   School of Seven Bells at Heaven
 date: "2010-11-11 21:17:48 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "357"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cdd09
  - ks607
 highlights:
 

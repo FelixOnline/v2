@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Karapetian takes to Malaysian Night 2012
 date: "2012-03-01 21:31:15 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2275"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - cac111
 highlights:
 

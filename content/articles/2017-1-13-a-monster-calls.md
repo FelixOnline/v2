@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Monster Calls breaks promise leaving audiences disappointed.
 date: "2017-01-13 14:32:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6643"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ff712
 highlights:
 
 # Homepage control params

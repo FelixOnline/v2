@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plabon Saha tells of his encounter with Johnny Rotten
 date: "2012-05-10 20:22:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2446"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ps3411
 highlights:
  - comment
  - longread

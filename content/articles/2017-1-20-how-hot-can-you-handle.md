@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Riach looks at a study claiming that ‘spicing up your life’, could actually prolong it
 date: "2017-01-20 15:12:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6665"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

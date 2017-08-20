@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union seeks better dissemination of information
 date: "2013-01-17 23:38:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3115"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - tna08
 highlights:
  - comment

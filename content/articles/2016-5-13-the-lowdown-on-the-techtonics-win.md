@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Cappella catch us up on their victory in New York
 date: "2016-05-13 09:39:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6167"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - wno13
 highlights:
 
 # Homepage control params

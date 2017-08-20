@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Government alters visa restrictions to favour researchers
 date: "2011-03-01 20:32:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "954"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - yw3410
 highlights:
 
 # Homepage control params

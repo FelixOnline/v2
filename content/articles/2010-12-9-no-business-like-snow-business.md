@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lisa Ashari's joyous first experience of snow
 date: "2010-12-09 20:31:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "525"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - la710
 highlights:
  - comment
 

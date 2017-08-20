@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Smackdown Vs. Raw 2011 review
 date: "2010-11-15 18:24:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "378"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sjw209
 highlights:
 
 # Homepage control params

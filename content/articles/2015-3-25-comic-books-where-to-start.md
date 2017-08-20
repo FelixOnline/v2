@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A fan of comic books, but not sure which ones to go for next? Never fear! Cale Tilford is here to take us on a journey through five of his current favourite comic series, perfect for those unacquainted with the art form
 date: "2015-03-25 13:39:28 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5455"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cet13
  - ff712
 highlights:
  - longread

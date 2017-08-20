@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandra Lim explains why the Mediterranean diet may be the best there is...
 date: "2017-01-20 15:13:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6666"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

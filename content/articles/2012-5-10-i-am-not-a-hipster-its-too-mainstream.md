@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Being a hipster is not a black and white situation
 date: "2012-05-10 20:10:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2443"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rjd08
 highlights:
  - comment
 

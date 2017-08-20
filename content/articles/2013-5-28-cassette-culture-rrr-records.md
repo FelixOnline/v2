@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi talks to Ron Lessard, head of seminal noise label RRR
 date: "2013-05-28 14:42:50 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3626"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ra2410
  - tna08
 highlights:
  - comment

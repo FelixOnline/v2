@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle discusses the two nights of protests in the St Louis suburb in Missouri
 date: "2014-11-28 00:51:03 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4968"

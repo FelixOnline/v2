@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Owen Leech on why we should all hit hot metal with hammers
 date: "2014-12-11 21:26:35 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5040"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ol913
 highlights:
 
 # Homepage control params

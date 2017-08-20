@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It has been revealed that students in second year and beyond may be able to apply for halls that were due to be shut down this year
 date: "2016-01-15 11:23:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5829"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

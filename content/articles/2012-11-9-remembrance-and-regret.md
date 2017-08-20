@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Remembrance day is increasingly going against its original meaning, argues Angry Geek
 date: "2012-11-09 11:50:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2841"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mrangry
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clemy Walker reports on the Welsh rockers
 date: "2013-12-02 22:12:45 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4167"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cdw06
  - jal08
 highlights:
  - comment

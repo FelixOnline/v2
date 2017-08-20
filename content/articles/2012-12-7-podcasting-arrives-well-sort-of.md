@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Some have it, some don't
 date: "2012-12-07 00:53:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3027"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

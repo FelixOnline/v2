@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Woo, volunteering!
 date: "2016-03-11 11:47:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6032"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4812
 highlights:
  - comment
 

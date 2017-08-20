@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Its grand opening happened on Friday
 date: "2016-05-13 08:50:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6144"

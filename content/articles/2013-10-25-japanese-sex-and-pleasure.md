@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So the British Museum is putting on an exhibition on Japanese pornography? Is that even allowed?! Cast away your narrow western minds and think again. For that’s what this exhibition will do — make you think again.
 date: "2013-10-25 00:15:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3926"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cfc111
  - felix
 highlights:
 

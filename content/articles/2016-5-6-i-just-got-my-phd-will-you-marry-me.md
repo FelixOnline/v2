@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student proposes onstage at graduation
 date: "2016-05-06 09:42:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6114"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - photos

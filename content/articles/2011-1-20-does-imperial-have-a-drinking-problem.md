@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix gauges student opinion after Daily Mail medic article
 date: "2011-01-20 21:11:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "643"
@@ -25,7 +24,10 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
+ - ks607
+ - mc4509
 highlights:
  - comment
  - longread

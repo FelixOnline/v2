@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg asks if this play glosses over an important issue
 date: "2014-11-06 21:44:52 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4808"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mff113
  - snb11
 highlights:
  - comment

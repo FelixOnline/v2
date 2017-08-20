@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oh My God So Many Jar Jars – Number 7 Will Blow Your Mind
 date: "2015-12-16 18:40:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5824"
@@ -25,7 +24,11 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - felix
+ - tad0
+ - tad08
+ - ygr12
 highlights:
  - comment
  - photos

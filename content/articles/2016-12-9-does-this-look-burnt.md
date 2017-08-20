@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandra Lim questions whether eating burnt food poses a risk to health, and how these could be avoided
 date: "2016-12-09 12:08:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6566"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - al4915
 highlights:
  - photos
 

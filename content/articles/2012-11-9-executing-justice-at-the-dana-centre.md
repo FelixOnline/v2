@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lethal injection can be more painful than intended
 date: "2012-11-09 12:46:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2852"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - lwl09
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To alleviate the panic this year, I will be attempting to go abroad with Mrs Geek
 date: "2011-02-10 21:15:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "797"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

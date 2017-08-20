@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Forrest Seiwald and Stuart Masson report back on a very mixed bill
 date: "2014-01-24 10:07:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4293"
@@ -24,7 +23,9 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fs1910
  - jal08
+ - sm5810
 highlights:
  - comment
 

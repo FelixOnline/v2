@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Titmuss thinks that in order to combat terrorism, we must first understand its root causes
 date: "2017-06-09 14:53:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7009"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - charlestitmuss
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Smug skeptics and rationalists get on my tits. We’re not going to change public perceptions by feeling superior
 date: "2011-03-03 06:06:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "983"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

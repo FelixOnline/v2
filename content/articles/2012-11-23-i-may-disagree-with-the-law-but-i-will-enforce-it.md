@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park patrols the cinema, and finds a gem in End of Watch
 date: "2012-11-23 00:35:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2974"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

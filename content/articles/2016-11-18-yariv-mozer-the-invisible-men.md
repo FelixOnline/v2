@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yariv Mozer visits Imperial
 date: "2016-11-18 15:35:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6479"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ma7512
 highlights:
 
 # Homepage control params

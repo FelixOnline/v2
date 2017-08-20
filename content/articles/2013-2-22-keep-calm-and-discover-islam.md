@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Islam Society warmly invite you to their week of events
 date: "2013-02-22 01:17:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3357"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - tna08
+ - zh709
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yes. We fucked fruit for you.
 date: "2016-12-16 16:21:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6624"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
  - longread
  - photos

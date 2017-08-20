@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken reviews Whiplash
 date: "2015-04-15 22:43:58 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5465"

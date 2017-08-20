@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli on why The Mindy Project deserves to be taken seriously
 date: "2014-11-17 18:18:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4903"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gg2110
  - ps3110
 highlights:
  - comment

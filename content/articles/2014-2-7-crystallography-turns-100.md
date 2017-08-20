@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer on the triumphs of one of the most influential scientific techniques
 date: "2014-02-07 05:13:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4364"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jb3112
 highlights:
  - photos
 

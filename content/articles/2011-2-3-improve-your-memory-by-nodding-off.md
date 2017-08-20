@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The replaying of memories when awake can distort them
 date: "2011-02-03 20:05:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "735"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nmw10
 highlights:
 
 # Homepage control params

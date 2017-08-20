@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Politicians have legal immunity for a reason. We should call them out when they abuse it
 date: "2012-11-09 11:51:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2842"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - arc111
  - tna08
 highlights:
  - comment

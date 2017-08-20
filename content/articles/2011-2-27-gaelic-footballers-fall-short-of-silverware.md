@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Teeside 0:03 – 0:02 Imperial
 date: "2011-02-27 19:59:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "924"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - eaf09
  - felix
 highlights:
 

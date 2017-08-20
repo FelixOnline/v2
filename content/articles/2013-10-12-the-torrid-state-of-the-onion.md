@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little on the shutdown of the web’s biggest drug dealership
 date: "2013-10-12 19:32:54 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3857"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - kw911
 highlights:
 
 # Homepage control params

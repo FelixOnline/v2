@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Data could be readily skewed in Imperial's favour
 date: "2012-02-16 22:19:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2212"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fifteen minute funny bits
 date: "2016-01-29 09:43:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5853"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bdw14
 highlights:
 
 # Homepage control params

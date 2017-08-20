@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Physicists at Imperial College London are ready to turn light into matter within a year, according to new research published in the journal Nature Photonics.
 date: "2014-05-23 14:25:25 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4630"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - amm113
  - jal08
 highlights:
 

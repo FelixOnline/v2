@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The lockers on Sherfield Walkway will be available later in the term
 date: "2015-05-14 22:21:20 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5520"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
 

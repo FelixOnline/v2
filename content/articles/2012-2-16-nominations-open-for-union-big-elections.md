@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students stand for departmental and sabbatical positions
 date: "2012-02-16 22:51:17 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2216"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
+ - pk1811
  - sjw209
 highlights:
 

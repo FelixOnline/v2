@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark Frederick gives you some tips on how to decide what you want to do post Imperial
 date: "2013-05-16 18:49:05 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3586"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

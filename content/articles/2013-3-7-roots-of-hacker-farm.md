@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi harvests info ahead of an IC Radio exclusive
 date: "2013-03-07 21:38:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3427"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ra2410
  - tna08
 highlights:
  - comment

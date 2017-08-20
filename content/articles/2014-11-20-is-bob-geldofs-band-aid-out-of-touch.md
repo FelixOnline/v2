@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The single might be topping the charts but does it perpetuate damaging stereotypes about Africa?
 date: "2014-11-20 21:23:23 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4915"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - tad08
 highlights:
  - comment
  - longread

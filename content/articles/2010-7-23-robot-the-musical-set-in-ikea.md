@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caz Knight gets her first taste of Improv, hidden in tunnels beneath Waterloo station
 date: "2010-07-23 10:47:50 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "153"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman has never seen Carmen, but that doesn't matter in Simon Stephens' new take on the classic opera.
 date: "2015-05-26 13:30:10 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5564"

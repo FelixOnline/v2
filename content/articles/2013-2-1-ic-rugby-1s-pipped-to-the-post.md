@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One point in it. MUST TRY HARDER.
 date: "2013-02-01 00:26:14 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3227"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ohb09
  - tna08
 highlights:
 

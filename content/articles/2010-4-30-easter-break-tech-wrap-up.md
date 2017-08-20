@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All the best tech news you missed during the Easter break
 date: "2010-04-30 10:40:22 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "129"

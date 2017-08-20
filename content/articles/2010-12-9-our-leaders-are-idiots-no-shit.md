@@ -4,7 +4,6 @@ title: >
 subtitle: >
   China secretly slaps it’s knees whenever Kim Jong Il makes a weird speech
 date: "2010-12-09 20:34:54 +0000"
-author_id: "mrangry"
 
 # Attributes from Felix Online V1
 id: "528"

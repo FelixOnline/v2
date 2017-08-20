@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Hill recaps the most recent game of American Football
 date: "2015-02-12 23:03:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5247"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - sjh213
 highlights:
 
 # Homepage control params

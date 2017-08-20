@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Demands are made as medics let down their guard
 date: "2011-10-07 00:08:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1468"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

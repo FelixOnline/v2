@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alleged animal cruelty during the filming of the Tolkien stories’ film franchise
 date: "2012-11-29 23:09:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3006"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - lw408
  - tna08
 highlights:
 

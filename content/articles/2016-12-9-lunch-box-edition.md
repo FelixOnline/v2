@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Follow Andrada as she makes egg-stuffed mushroom, pan fried chicken breast and a simple salad for lunch
 date: "2016-12-09 11:50:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6558"
@@ -21,7 +20,7 @@ tags:
  - food
  - imported
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport visits the UK & Ireland Pokémon Nationals in Old Trafford (no, not that one)
 date: "2014-06-02 13:29:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4651"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jp1910
 highlights:
  - longread
 

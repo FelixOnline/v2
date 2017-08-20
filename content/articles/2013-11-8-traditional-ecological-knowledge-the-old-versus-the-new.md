@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nika Levikov on just how old customs can bring us up to speed for the future
 date: "2013-11-08 09:41:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4030"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - nl1913
 highlights:
 
 # Homepage control params

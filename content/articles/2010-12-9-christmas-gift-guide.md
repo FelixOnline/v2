@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tech gift ideas to suit almost any budget
 date: "2010-12-09 20:02:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "514"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - srg03
 highlights:
 
 # Homepage control params

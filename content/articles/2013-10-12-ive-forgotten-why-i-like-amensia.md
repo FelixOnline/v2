@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This world is a Machine. A Machine for Pigs. Fit only for the slaughtering of Pigs.
 date: "2013-10-12 23:46:03 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3870"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - jal08
 highlights:
 

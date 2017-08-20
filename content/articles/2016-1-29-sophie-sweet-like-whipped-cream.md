@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX gets that fizzy feeling
 date: "2016-01-29 09:33:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5849"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

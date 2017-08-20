@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Celestial objects outdo students in terms of alcohol abuse. Comet named ‘Lovejoy’ has an atmosphere that cooks up a unique cocktail
 date: "2015-11-06 14:01:06 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5704"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mw4414
  - ygr12
 highlights:
  - comment

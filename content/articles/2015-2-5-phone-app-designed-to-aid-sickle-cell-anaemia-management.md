@@ -4,7 +4,6 @@ title: >
 subtitle: >
   App is designed by Imperial researchers
 date: "2015-02-05 23:39:21 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5194"

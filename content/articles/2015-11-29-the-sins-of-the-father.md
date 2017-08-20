@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An intriguing documentary, My Nazi Legacy takes a look at how evil can change a family
 date: "2015-11-29 16:42:55 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5783"

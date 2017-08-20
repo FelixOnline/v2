@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A treatise on gaming and life
 date: "2010-12-02 20:22:38 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "469"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ac1507
+ - oh106
 highlights:
  - comment
 

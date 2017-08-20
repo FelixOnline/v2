@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A sequel to the Channel 4 documentary
 date: "2012-03-13 15:44:16 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "2342"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - icanon
  - ygr12
 highlights:
  - comment

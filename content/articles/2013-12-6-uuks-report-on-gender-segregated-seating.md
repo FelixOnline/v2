@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last week, Universities UUK, the UK’s universities representative organisation issued guidance on helping universities manage external speakers.
 date: "2013-12-06 03:43:24 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4176"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

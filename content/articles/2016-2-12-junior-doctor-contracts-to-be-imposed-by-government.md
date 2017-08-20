@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hours after the announcement a protest was held outside the Department of Health
 date: "2016-02-12 11:09:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5894"

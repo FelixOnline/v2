@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The quest to find the next Hunger Games finds it next entrant in Veronica Roth’s series of YA novels, and this time (after a few misfires that will go un-named, and an excellent second Hunger Games film) it looks like the studios might just have found what they’re looking for.
 date: "2014-05-02 01:15:17 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4544"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

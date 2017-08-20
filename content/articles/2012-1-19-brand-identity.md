@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs explain the impact of branding
 date: "2012-01-19 19:57:45 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2002"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ap7110
 highlights:
  - photos
 

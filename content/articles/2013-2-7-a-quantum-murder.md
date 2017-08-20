@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell gives part two of the Peter F. Hamilton SF detective series the pre-Picocon treatment
 date: "2013-02-07 22:39:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3243"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as906
  - tna08
 highlights:
 

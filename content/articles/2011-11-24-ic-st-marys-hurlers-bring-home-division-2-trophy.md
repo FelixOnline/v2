@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London squad take the advantage in second half
 date: "2011-11-24 23:47:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1853"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgm10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With twice as many respondents as the year before, Felix brings you another snapshot of the sexual lives of Imperial students – now with more statistical relevance
 date: "2012-03-01 22:17:01 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2285"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - ma1307
+ - pk1811
 highlights:
  - comment
  - photos

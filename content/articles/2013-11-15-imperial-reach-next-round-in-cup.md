@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dom Wood reports as Imperial mercilessly stomp on RUMS
 date: "2013-11-15 11:53:34 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4092"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsport
  - jal08
 highlights:
 

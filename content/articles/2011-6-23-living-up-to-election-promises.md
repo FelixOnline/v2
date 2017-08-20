@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The question I’m asking is – did they make the difference that they promised?
 date: "2011-06-23 20:54:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1429"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sjw209
 highlights:
  - comment
 

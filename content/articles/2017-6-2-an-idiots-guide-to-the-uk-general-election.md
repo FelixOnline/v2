@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Here we go again...
 date: "2017-06-02 13:57:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7000"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
  - longread
  - photos

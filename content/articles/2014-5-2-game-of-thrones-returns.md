@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham reviews the highlights and lowlights of the series so far
 date: "2014-05-02 01:58:20 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4558"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ef510
  - jal08
 highlights:
  - longread

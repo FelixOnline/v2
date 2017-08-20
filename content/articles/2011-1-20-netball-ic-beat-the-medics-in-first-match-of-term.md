@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The IC beat the medics at the start of the term
 date: "2011-01-20 19:36:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "609"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - lch08
 highlights:
 
 # Homepage control params

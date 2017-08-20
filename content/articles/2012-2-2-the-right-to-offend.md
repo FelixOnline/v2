@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tagore Nakornchai thinks religious groups should face their critics head on
 date: "2012-02-02 23:32:44 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2111"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - sjw209
+ - tn509
 highlights:
  - comment
  - longread

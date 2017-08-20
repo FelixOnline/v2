@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Men's 1sts come back from behind twice against Medics
 date: "2011-03-17 21:59:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1109"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kvm08
 highlights:
 
 # Homepage control params

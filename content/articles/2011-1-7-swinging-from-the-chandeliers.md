@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Moved by the Hayward Gallery’s latest immersive offering
 date: "2011-01-07 09:46:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "562"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - felix
 highlights:
 

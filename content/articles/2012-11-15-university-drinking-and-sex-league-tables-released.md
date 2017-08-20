@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Slightly dodgy surveying leads to yearly table
 date: "2012-11-15 20:54:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2885"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - nj1211
  - tna08
 highlights:
 

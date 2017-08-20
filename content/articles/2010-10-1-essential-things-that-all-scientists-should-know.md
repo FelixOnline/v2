@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How did you ever survive without this 'indispensable' knowledge?
 date: "2010-10-01 21:38:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "161"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kv07
 highlights:
 
 # Homepage control params

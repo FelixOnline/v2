@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah goes all Sherlock Holmes on the scriptwriting of the BBC hit
 date: "2012-01-19 19:44:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1998"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
  - photos

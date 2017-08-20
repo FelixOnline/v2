@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you are looking for an internship for next summer, it pays to start thinking about it as early as possible
 date: "2010-10-07 23:03:32 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "183"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ac1507
  - jk708
 highlights:
  - comment

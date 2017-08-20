@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men's and women's first team achieve wins in first round of BUCS Fencing Championship
 date: "2015-02-20 00:32:07 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5288"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cj914
+ - jps112
 highlights:
 
 # Homepage control params

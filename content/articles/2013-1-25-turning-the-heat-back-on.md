@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shiladitya Ghosh guides you through a novel way to manipulate heat
 date: "2013-01-25 01:49:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3185"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sg4812
  - tna08
 highlights:
 

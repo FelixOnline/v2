@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco on a profoundly excellent read
 date: "2013-04-30 14:49:06 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3506"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - at3209
  - tna08
 highlights:
 

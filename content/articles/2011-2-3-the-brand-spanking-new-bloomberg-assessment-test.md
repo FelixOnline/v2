@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A complete rip-off or a shortcut to your dream job?
 date: "2011-02-03 20:30:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "748"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lj810
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zoltan Vargas
 date: "2011-06-09 18:49:04 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1334"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cjb07
+ - zvarga
 highlights:
  - photos
 

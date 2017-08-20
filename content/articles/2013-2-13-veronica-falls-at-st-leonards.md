@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England goes to church on a Friday night, and enjoys it...
 date: "2013-02-13 12:57:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3297"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
  - photos

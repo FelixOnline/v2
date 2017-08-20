@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an electic list of some of his favourite authors for you to check out
 date: "2014-06-12 13:27:19 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4680"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - me1711
+ - mtm10
 highlights:
 
 # Homepage control params

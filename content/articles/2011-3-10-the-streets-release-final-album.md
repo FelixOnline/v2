@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Computers and Blues is a hell of an album to bow out on
 date: "2011-03-10 20:28:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1071"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lht09
 highlights:
  - comment
 

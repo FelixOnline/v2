@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter gives Chilly Gonzales a thumbs up. Or at least he would, if he weren't too cool to do such actions
 date: "2012-11-01 23:15:46 +0000"
-author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2820"

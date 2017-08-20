@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oh no they didn't! (Oh yes they did)
 date: "2017-02-10 16:41:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6774"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

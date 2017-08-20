@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The follow up to the action packed Taken is disappointing
 date: "2012-11-09 13:33:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2861"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klb09
  - tna08
 highlights:
 

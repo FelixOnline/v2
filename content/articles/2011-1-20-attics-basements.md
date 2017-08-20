@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We continue Charlotte Ridler’s chronicles of gigging off the beaten track with three kick-ass music venues
 date: "2011-01-20 20:24:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "625"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cer08
  - felix
 highlights:
 

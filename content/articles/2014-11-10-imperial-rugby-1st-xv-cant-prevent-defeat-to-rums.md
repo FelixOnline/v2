@@ -4,7 +4,6 @@ title: >
 subtitle: >
   UCL vs ICURFC doesn't end too well for our boys
 date: "2014-11-10 22:04:29 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4835"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb2013
  - ps3110
 highlights:
 

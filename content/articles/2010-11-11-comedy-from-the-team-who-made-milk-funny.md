@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A Town Called Panic is (almost) indescribably good
 date: "2010-11-11 20:55:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "347"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

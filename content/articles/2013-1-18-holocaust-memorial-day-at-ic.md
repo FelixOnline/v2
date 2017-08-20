@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Listen to an account. Step into his shoes, walk around in them. Don’t forget.
 date: "2013-01-18 00:03:22 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3125"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - al3110
  - tna08
 highlights:
  - photos

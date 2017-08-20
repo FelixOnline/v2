@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski kicks off our week long look at the highlights of our favourite genres
 date: "2011-02-28 20:35:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "930"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
  - longread
 

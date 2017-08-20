@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The final score was 12-20 to the Cougars
 date: "2016-02-12 12:09:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5921"
@@ -21,7 +20,7 @@ tags:
  - sport
  - imported
 authors:
- - felix
+ - pt1114
 highlights:
 
 # Homepage control params

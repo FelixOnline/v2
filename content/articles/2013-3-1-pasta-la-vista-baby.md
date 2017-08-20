@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizabeth Crow on jazzing up Mondays and THE de-facto student dish
 date: "2013-03-01 00:03:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3398"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - elizabeth crow
  - tna08
 highlights:
  - comment

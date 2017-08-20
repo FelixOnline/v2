@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Cook is doing just that this week, and he’ll tell you how you can too
 date: "2011-02-27 12:58:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "903"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtc06
 highlights:
  - comment
 

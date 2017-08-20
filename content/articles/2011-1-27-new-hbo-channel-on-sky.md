@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The most respected network in the US launches this week in the UK as Sky Atlantic. To celebrate, over the next couple of issues we will take a look at some of HBO’s greats
 date: "2011-01-27 20:13:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "688"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lp707
+ - ma1307
 highlights:
  - comment
  - longread

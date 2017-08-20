@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Takes so hot they are literally hell
 date: "2016-02-19 12:21:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5943"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

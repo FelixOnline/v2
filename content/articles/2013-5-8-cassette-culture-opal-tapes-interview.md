@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray discusses the electronic cassette label with Stephen Bishop
 date: "2013-05-08 20:31:01 +0100"
-author_id: "rbg10"
 
 # Attributes from Felix Online V1
 id: "3554"

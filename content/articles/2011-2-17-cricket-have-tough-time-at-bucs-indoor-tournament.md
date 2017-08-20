@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hopes of reaching BUCS Final dashed
 date: "2011-02-17 20:52:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "853"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jm5109
 highlights:
 
 # Homepage control params

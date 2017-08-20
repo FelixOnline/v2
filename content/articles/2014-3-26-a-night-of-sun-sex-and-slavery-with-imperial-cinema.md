@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s amazing how things happen and time passes without you realising it. For some of you reading this, the upcoming Spring All-Nighter could very well be your last. This could be your final chance to sit in a crowded room and spend an evening, a night and part of a morning watching some of the...
 date: "2014-03-26 13:50:56 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4505"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - em2512
  - jal08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graphene based printers could print transistors
 date: "2011-12-08 20:44:47 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1919"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - mtm10
  - pk1811
 highlights:
 

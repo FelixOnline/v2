@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guillaume Valla on IC’s hidden group of designers
 date: "2013-10-12 20:10:42 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3865"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gv609
  - jal08
 highlights:
 

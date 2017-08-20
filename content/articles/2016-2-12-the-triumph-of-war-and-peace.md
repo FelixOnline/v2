@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tolstoy himself would be quite pleased with this distillation of his tonic against doom
 date: "2016-02-12 11:58:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5916"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4013
 highlights:
  - comment
 

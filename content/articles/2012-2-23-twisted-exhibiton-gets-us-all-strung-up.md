@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Head over to the Sherfield building for a fantastic exhibition
 date: "2012-02-23 19:50:32 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2226"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - tna08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster on UCL's cowardice
 date: "2012-11-29 22:54:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2993"
@@ -21,6 +20,7 @@ tags:
  - games
  - imported
 authors:
+ - rw507
  - tna08
 highlights:
 

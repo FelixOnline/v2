@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A flock of origami birds set loose in the Blyth Gallery
 date: "2011-02-27 19:24:47 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "912"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cf107
  - jk708
 highlights:
 

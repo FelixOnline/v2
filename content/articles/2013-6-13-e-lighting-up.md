@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two smokers give the new E-Lites a test to see what they’re like
 date: "2013-06-13 23:41:34 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3698"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
+ - fm609
  - tna08
 highlights:
 

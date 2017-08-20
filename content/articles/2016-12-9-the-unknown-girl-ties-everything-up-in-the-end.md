@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Dardenne brothers tie together multiple plot lines like a beautiful bow on a Christmas present
 date: "2016-12-09 15:53:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6585"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - stebo101
 highlights:
 
 # Homepage control params

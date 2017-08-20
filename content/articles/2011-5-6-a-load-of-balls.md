@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wear whatever you want to the Summer Ball – I will
 date: "2011-05-06 08:32:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1158"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

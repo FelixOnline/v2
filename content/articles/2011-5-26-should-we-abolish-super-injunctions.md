@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the identities of those with superinjunctions all over Twitter, mentioned in Parliament, and published in the Scottish papers, is it time to rid ourselves of the super injunction?
 date: "2011-05-26 23:43:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1266"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mrangry
 highlights:
  - longread
 

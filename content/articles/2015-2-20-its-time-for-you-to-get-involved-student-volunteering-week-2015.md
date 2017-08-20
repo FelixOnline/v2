@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Chung digs into the myriad ways to volunteer while you’re studying
 date: "2015-02-20 00:29:03 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5287"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ykc111
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Love it or hate it, Like Crazy commands outstanding performances
 date: "2012-02-04 17:37:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2137"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - hs2811
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s André Neves wins mathematics award at star studded Breakthrough Prizes
 date: "2015-11-13 14:37:23 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5729"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nms15
  - ygr12
 highlights:
  - comment

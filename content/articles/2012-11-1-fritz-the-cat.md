@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christian Franke talks way too deeply to a stranger about a classic
 date: "2012-11-01 23:01:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2805"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - cif110
  - tna08
 highlights:
 

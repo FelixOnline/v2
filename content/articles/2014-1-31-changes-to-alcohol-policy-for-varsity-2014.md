@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s Sports Partnership has recently sent an email to stakeholder of the annual Varsity match outlining changes to the acceptance of alcohol during the event.
 date: "2014-01-31 17:13:24 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4312"

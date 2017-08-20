@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A series of mini-reviews
 date: "2012-05-03 18:25:58 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2412"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ffilm
 highlights:
  - longread
  - photos

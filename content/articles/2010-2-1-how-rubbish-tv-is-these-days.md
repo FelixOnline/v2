@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ken Wu on how rubbish TV is these days...
 date: "2010-02-01 17:05:23 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "64"

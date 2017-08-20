@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Blogger sued by restaurant for bad review
 date: "2010-11-04 18:22:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "295"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - chy09
  - felix
 highlights:
 

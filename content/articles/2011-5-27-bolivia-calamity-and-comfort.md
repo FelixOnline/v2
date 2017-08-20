@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The next leg of Priya Garg's epic South American adventure
 date: "2011-05-27 15:27:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1279"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pg405
 highlights:
 
 # Homepage control params

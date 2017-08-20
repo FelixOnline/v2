@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs tell us the story of a new kind of ‘gang warfare’ within the Social Media, and how it is bettering the work of young entrepreneurs
 date: "2011-12-08 20:32:43 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1914"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - sv407
 highlights:
  - longread
  - photos

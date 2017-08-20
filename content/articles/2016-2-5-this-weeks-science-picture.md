@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A plume of smoke wafting from a forest fire in western Colorado, taken by astronauts aboard the ISS.
 date: "2016-02-05 12:10:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5871"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nk1515
 highlights:
 
 # Homepage control params

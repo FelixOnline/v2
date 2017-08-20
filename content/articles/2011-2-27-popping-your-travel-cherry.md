@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dylan Lowe and Christopher Richardson offer nuggets of advice to would-be travellers
 date: "2011-02-27 19:43:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "918"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
+ - yll08
 highlights:
  - longread
 

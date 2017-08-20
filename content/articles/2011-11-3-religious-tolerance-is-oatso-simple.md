@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Using the analogy of cereals, you can see why we should all just live and let live
 date: "2011-11-03 21:27:18 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1686"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mrangry
  - sjw209
 highlights:
  - comment

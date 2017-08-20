@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon discusses Brownian motion
 date: "2011-10-13 21:56:31 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1511"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - fsci
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Victoria line on Thursday 23 January was partly suspended with severe delays for several hours due to fast-setting concrete. Trains were not running between Warren Street and Brixton.
 date: "2014-01-24 09:44:54 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4276"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

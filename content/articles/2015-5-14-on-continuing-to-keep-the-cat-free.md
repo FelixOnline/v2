@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson doesn’t want to set a precedent for the censorship of student media
 date: "2015-05-14 22:41:41 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5525"

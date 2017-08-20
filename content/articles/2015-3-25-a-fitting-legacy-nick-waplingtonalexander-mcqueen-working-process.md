@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the Tate Britain’s new photography exhibition, showcasing McQueen’s final collection
 date: "2015-03-25 13:34:23 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5454"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - czb11
  - ff712
 highlights:
  - comment

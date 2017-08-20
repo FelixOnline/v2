@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He had the audience positively howling at times
 date: "2011-02-11 06:46:14 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "801"

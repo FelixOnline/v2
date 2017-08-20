@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pandco Ltd. wanted to change the world of gaming. And after that idea turned out to be insane, they decided to try and make a pretty good iPhone game instead
 date: "2011-03-10 20:38:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1074"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jmm09
 highlights:
 
 # Homepage control params

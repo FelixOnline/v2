@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You must have seen it around these days, the proliferation of pink flyers littering imperial’s walkways. Flyers that seem to have the word yolo written on them. No these flyers actually say yoyo on them, and what they talk about is actually quite intriguing.
 date: "2014-01-29 16:19:28 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4304"

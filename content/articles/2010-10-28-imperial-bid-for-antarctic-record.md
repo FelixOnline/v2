@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pioneering new vehicle set to beat the record for fastest journey to South Pole
 date: "2010-10-28 19:14:15 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "255"

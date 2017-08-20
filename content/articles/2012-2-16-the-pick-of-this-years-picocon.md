@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at some of the books by the Guests of Honour at Imperial’s Sci-Fi convention
 date: "2012-02-16 21:24:26 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2188"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - as906
+ - mtm10
  - pk1811
 highlights:
  - longread

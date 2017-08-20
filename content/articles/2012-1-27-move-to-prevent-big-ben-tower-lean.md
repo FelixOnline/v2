@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial professor advises the Government on subsidence
 date: "2012-01-27 00:07:57 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2078"

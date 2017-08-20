@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Amnesia: The Dark Descent will give you the willies
 date: "2010-10-21 19:33:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "244"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
  - longread
 

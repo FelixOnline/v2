@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Company You Keep review
 date: "2013-06-13 23:37:23 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3696"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

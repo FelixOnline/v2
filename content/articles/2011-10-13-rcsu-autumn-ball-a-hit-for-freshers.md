@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Organisers praised as students are drawn to Embankment by 'fantastic' drinks deal
 date: "2011-10-13 20:09:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1501"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

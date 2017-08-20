@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Who's blogging at Imperial?
 date: "2011-02-17 20:53:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "854"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ko407
 highlights:
 
 # Homepage control params

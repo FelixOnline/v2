@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Theo Pavlakou on selling out to bring home the bacon
 date: "2012-01-12 22:49:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1992"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tp710
 highlights:
 
 # Homepage control params

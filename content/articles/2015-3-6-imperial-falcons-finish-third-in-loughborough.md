@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ashley Ng reports on the first ever M1 series tournament
 date: "2015-03-06 14:06:14 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5355"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - an1910
  - kmw13
 highlights:
  - longread

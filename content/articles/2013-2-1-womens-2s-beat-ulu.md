@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Helen Pennington foils ULU's plans
 date: "2013-02-01 00:29:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3229"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hgp08
  - tna08
 highlights:
 

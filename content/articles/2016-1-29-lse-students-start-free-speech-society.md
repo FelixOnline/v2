@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Their union recently said it would ban “something like a colour” if it offended students
 date: "2016-01-29 08:46:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5835"

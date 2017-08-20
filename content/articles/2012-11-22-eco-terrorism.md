@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the rise of a new threat
 date: "2012-11-22 23:22:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2948"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - mh3210
  - tna08
 highlights:
 

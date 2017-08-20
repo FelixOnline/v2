@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Controversial Head of Life Sciences Department leaving to become Director of Science at Natural History Museum
 date: "2011-06-09 21:01:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1346"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giacomo Bosaini-Gilroy examines Corbyn’s latest boring opinion
 date: "2017-01-13 14:00:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6633"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - gib13
 highlights:
 
 # Homepage control params

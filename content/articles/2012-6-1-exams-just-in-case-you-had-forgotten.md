@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So I heard this 'revision' thing was all the rage right now
 date: "2012-06-01 12:48:42 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2513"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - mc4509
+ - tna08
 highlights:
 
 # Homepage control params

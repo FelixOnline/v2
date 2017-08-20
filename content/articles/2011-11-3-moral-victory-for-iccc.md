@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Cricket hold their heads high following losses in Hertfordshire
 date: "2011-11-03 22:16:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1701"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ns08
 highlights:
 
 # Homepage control params

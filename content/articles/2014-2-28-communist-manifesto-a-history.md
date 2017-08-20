@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Part two of Christy Kelly's history of the Communist Manifesto
 date: "2014-02-28 07:16:25 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4445"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - jal08
 highlights:
  - longread

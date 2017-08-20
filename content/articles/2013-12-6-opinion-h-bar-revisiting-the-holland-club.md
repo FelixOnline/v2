@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Holland Club was so popular because it was a unique facility within the College offering a traditional ‘local’ pub ambience for staff and postgraduates to relax and socialise in...
 date: "2013-12-06 03:47:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4179"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - extuser0
  - jal08
 highlights:
  - comment

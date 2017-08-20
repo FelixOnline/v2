@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli on the next generation of charming TV presenters
 date: "2014-12-04 19:19:05 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4995"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - gg2110
 highlights:
  - comment
 

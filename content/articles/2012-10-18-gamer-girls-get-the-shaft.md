@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Barclay ponders the roles of women in gaming culture
 date: "2012-10-18 21:39:54 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2718"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - mb1111
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cohen’s last album marks the end of a legendary career. Filled with mellifluous lyrics and soul-stirring music, it has been received with critical acclaim. Sadly 2016 has stolen another great, but can an artist like Cohen ever really leave us behind?
 date: "2016-11-18 15:39:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6481"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - adam.gellatly14
 highlights:
  - longread
  - photos

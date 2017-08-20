@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Music Editor Riaz Agahi explores the intricate stylings of Chalk White Nights, a collaborative album by Stranger By Starlight
 date: "2013-08-21 07:05:10 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3753"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ra2410
 highlights:
 
 # Homepage control params

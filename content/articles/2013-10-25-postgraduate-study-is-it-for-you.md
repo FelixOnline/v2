@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Careers Service is back with tips on how to bag yourself a Postgrad position.
 date: "2013-10-25 01:11:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3950"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Farmer checks in at Debating Society’s public debate
 date: "2015-05-14 22:00:23 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5518"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - nf311
 highlights:
  - comment
 

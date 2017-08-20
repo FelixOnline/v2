@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In recognition of the annual Ashura Awareness Week, Ahlul-Bayt Society provide a story of sacrifice
 date: "2011-12-08 21:52:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1948"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Life of Paul.
 date: "2016-02-26 12:08:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5986"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - np1213
 highlights:
  - comment
 

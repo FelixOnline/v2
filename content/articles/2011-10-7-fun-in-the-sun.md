@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reflections on an annual form of torture...
 date: "2011-10-07 01:43:47 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1475"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - rjd08
  - sjw209
 highlights:
 

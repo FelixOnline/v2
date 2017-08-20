@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aditya Narayanan is definitely more than just Fairly pleased at how the week went
 date: "2013-03-07 21:33:59 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3425"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - an406
  - jal08
 highlights:
  - longread

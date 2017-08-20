@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles heads down to the Whitechapel Gallery as they take an abstract adventure through the ages
 date: "2015-01-21 20:30:16 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5108"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
  - longread

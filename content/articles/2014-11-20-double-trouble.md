@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As Rosberg and Hamilton go head to head one last time, Felix asks whether the awarding of double points in the final race is a good thing.
 date: "2014-11-20 21:41:01 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4918"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cj914
+ - hdl14
 highlights:
  - longread
 

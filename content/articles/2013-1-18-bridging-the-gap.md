@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bridge builder is definitely so uncool it's cool
 date: "2013-01-18 00:46:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3141"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

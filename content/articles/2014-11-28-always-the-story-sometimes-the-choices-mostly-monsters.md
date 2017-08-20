@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sanchit Sharma reviews a humble bundle purchase he actually plays
 date: "2014-11-28 01:08:34 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4977"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ss9011
 highlights:
  - comment
 

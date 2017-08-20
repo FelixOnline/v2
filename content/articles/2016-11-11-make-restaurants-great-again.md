@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix discusses what really makes a restaurant shine, with a trip to Popolo – one of Shoreditch’s many new trendy eateries that for once isn’t just overblown hype.
 date: "2016-11-11 17:45:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6435"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

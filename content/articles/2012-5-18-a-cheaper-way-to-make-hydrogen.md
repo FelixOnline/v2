@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A faster way to fill up on the horizon
 date: "2012-05-18 11:13:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2467"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pk1811
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ever wanted yummy and ethical food? Look no further
 date: "2013-05-01 18:21:38 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3518"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - txl11
 highlights:
 
 # Homepage control params

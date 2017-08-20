@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You could find the next Star Wars planet... Chris Yates introduces you to the planet hunters
 date: "2012-11-01 22:46:33 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2792"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsci
  - tna08
 highlights:
  - photos

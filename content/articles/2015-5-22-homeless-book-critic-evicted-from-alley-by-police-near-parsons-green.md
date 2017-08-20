@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports as student who prints his reviews leads protests
 date: "2015-05-22 11:08:00 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5559"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
 

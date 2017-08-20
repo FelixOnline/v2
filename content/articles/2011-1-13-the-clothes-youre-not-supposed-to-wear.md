@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Royal Academy springs an esoteric jumble to get you thinking, until the end of January
 date: "2011-01-13 19:19:18 +0000"
-author_id: "rm1509"
 
 # Attributes from Felix Online V1
 id: "563"

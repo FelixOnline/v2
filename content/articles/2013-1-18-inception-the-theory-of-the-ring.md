@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An analysis of the real story told by Nolan’s movie and a different vision of the ending
 date: "2013-01-18 01:12:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3151"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ld709
  - tna08
 highlights:
  - comment

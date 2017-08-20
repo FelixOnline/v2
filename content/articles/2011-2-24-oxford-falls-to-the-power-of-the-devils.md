@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another victory for Imperial Devils A team
 date: "2011-02-24 20:20:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "887"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wm207
 highlights:
 
 # Homepage control params

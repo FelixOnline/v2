@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming.
 date: "2013-10-30 15:42:39 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3958"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ab4211
  - me1711
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can fashion be a force for liberation? Fred Fyles investigates
 date: "2014-11-06 21:30:39 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4803"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - snb11
 highlights:
  - longread

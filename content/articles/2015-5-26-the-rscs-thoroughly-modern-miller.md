@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman can't stop thinking about the RSC's powerful production of Death of a Salesman.
 date: "2015-05-26 12:47:27 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5562"

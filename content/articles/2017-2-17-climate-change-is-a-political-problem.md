@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhidian Thomas believes that to mitigate Climate Change we need to first embrace political change
 date: "2017-02-17 14:32:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6781"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rhidianthomas
 highlights:
  - comment
 

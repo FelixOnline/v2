@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX recieves a response to last week’s article from a morally minded vegetarian
 date: "2016-05-06 10:20:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6137"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sk5814
 highlights:
  - longread
 

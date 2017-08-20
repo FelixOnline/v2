@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But will it succeed where the last one failed?
 date: "2017-03-17 12:59:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6895"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - rhidianthomas
 highlights:
  - comment
 

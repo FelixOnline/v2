@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Clarke reports on the Kenyan Orphan Project
 date: "2011-10-13 23:23:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1522"

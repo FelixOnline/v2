@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two of London’s universities go head to head in an all-day battle for glory on the small screens
 date: "2017-03-17 17:29:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6917"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
 

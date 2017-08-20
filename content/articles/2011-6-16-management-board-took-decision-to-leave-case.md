@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial has made savings of over £70,000 in the past two years due to ceased subscriptions
 date: "2011-06-16 19:08:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1380"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

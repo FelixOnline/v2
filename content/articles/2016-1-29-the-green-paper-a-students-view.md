@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are we about to witness the sculpting of a new higher educational landscape?
 date: "2016-01-29 09:52:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5855"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - lm2912
 highlights:
  - comment
 

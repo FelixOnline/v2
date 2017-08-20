@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kin-Hing Lo puts the Galaxy Tab through its paces
 date: "2010-11-25 20:12:59 +0000"
-author_id: "kl208"
 
 # Attributes from Felix Online V1
 id: "427"

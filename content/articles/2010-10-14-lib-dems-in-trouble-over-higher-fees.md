@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The reality of power for the first time in over a century is quickly turning into a nightmare
 date: "2010-10-14 19:20:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "202"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - rj408
+ - rtf08
 highlights:
 
 # Homepage control params

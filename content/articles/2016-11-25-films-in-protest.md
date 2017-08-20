@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do films have the capacity to influence and further change in our society and worldwide? From films like Cowspiracy to the infamous Triumph of the Will, history answers the question with a resounding, ‘yes’.
 date: "2016-11-25 13:52:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6504"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ma7512
 highlights:
 
 # Homepage control params

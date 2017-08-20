@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Behind the Candelabra review
 date: "2013-06-13 23:33:59 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3694"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

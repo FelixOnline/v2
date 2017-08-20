@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There’s sentimentality, for sure, but nothing is forced
 date: "2016-03-04 11:51:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6011"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bsc14
 highlights:
  - comment
 

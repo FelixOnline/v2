@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column on classic academy snubs you might have missed
 date: "2016-01-29 09:13:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5843"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

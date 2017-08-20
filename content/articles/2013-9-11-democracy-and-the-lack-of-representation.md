@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Politics Editor Kartikeya Rana takes an in depth look at the effectiveness of representation in world governments.
 date: "2013-09-11 00:47:14 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3758"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - kr1512
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch.
 date: "2014-05-02 01:48:20 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4556"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cmm13
  - jal08
 highlights:
  - comment

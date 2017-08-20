@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rector Sir Keith O'Nions gets pied for charity
 date: "2011-02-24 19:52:16 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "872"

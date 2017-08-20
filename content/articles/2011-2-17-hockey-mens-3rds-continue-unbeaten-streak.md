@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The unbeaten Hockey Men defeat Kings
 date: "2011-02-17 20:40:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "848"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - jlc08
+ - kvm08
 highlights:
 
 # Homepage control params

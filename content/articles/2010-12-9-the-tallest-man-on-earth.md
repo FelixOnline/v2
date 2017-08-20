@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He’s probably lying about his height – The Tallest Man On Earth fills a corner of Camden with an evening of folk and poetry
 date: "2010-12-09 20:38:38 +0000"
-author_id: "dmm04"
 
 # Attributes from Felix Online V1
 id: "529"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas mince along to the Michael Grandage Company’s opening show
 date: "2013-02-01 00:11:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3222"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
+ - er310
  - tna08
 highlights:
  - longread

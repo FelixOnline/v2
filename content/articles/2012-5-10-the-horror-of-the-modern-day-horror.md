@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or, the merits of Pyramid Head over generic space monster battles
 date: "2012-05-10 19:31:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2433"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
 
 # Homepage control params

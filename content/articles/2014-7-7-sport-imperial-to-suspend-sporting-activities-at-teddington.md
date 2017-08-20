@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What does the future hold for both Teddington and the future of medical sports participation?
 date: "2014-07-07 11:12:38 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4720"

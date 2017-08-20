@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “On a field trip a GTA is the best person to be”
 date: "2013-11-04 11:03:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3980"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gta
 highlights:
 
 # Homepage control params

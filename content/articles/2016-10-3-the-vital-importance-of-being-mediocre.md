@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vivien Hadlow advocates a more realistic approach to life, Imperial and everything.
 date: "2016-10-03 18:39:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6304"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - cet13
  - felix
+ - vmh14
 highlights:
 
 # Homepage control params

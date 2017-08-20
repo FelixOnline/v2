@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Many of the Zelda games strived to be like Ocarina of Time and merely couldn’t achieve the same results
 date: "2011-02-27 13:04:53 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "904"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - skh10
 highlights:
  - comment
 

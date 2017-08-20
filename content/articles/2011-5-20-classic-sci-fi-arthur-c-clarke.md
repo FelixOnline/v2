@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A flawed piece from the science fiction master?
 date: "2011-05-20 05:35:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1221"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

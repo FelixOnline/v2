@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phoebe Tickell talks about her involvement with Fossil Free Imperial
 date: "2015-02-09 19:44:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5227"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - tickell
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix explores the effect that raising the tuition fee cap will have on international students
 date: "2010-11-18 21:41:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "407"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - yw3410
 highlights:
  - comment
 

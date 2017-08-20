@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rowers take on Nottingham
 date: "2012-05-18 16:46:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2478"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er208
  - felix
 highlights:
  - longread

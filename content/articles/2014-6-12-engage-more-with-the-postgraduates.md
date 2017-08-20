@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Winters on undergrads, postgrads and union engagement
 date: "2014-06-12 16:38:45 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4683"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - jbw108
  - me1711
 highlights:
 

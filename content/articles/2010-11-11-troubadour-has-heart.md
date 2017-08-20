@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie Williams and Hannah Tullett visit Earl’s Court coffee house and music venue
 date: "2010-11-11 21:17:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "358"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

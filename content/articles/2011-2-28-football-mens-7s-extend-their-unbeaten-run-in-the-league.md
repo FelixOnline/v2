@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 7s 3 - 1 St Bart’s 4s
 date: "2011-02-28 21:41:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "952"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jag07
 highlights:
  - comment
 

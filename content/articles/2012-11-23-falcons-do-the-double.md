@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Carter plays basketball right? Right? Oh, ooops...
 date: "2012-11-23 00:07:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2960"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - clc06
  - tna08
 highlights:
  - comment

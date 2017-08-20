@@ -4,7 +4,6 @@ title: >
 subtitle: >
   French gourmet named UN heritage
 date: "2010-12-02 21:00:06 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "483"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - cb403
  - nm1010
 highlights:
 

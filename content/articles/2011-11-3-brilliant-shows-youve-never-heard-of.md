@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah reviews a number of less well-known shows
 date: "2011-11-03 20:27:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1666"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
  - photos

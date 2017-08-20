@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park takes us through the London festival
 date: "2012-10-05 12:18:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2613"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

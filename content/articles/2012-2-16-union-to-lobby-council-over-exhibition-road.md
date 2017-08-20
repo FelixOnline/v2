@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unclear roundabout highlighted as potential risk
 date: "2012-02-16 22:25:26 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2214"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - sjw209
+ - tna08
 highlights:
  - comment
 

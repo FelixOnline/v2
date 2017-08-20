@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking at nativity from a whole other perspective
 date: "2010-12-09 21:23:25 +0000"
-author_id: "ann09"
 
 # Attributes from Felix Online V1
 id: "532"

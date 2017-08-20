@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Osama Awara reviews the newest member of the Surface family
 date: "2014-11-10 22:12:47 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4840"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - oa1612
  - ps3110
 highlights:
  - comment

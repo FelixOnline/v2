@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A step forward in the fight against autism
 date: "2012-02-23 20:48:52 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2245"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - mh3210
 highlights:
 
 # Homepage control params

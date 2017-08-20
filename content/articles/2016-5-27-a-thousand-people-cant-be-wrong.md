@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Air conditioning in central library must be a top priority for the sabbaticals
 date: "2016-05-27 08:46:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6203"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - pnk14
 highlights:
  - comment
 

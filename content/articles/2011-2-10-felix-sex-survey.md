@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A small, X-rated snapshot of the sexual lives of Imperial students.
 date: "2011-02-10 21:02:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "791"

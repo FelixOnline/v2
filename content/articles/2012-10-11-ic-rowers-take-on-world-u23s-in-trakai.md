@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Smith on the road to Trakai...
 date: "2012-10-11 21:28:02 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2678"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - fsport
 highlights:
 
 # Homepage control params

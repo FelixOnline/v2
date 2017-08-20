@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The return of the All Nighter
 date: "2012-12-07 01:22:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3033"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jason Parmar looks at Google’s venture into the digital music market
 date: "2012-11-30 11:25:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3016"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jp1409
  - tna08
 highlights:
  - comment

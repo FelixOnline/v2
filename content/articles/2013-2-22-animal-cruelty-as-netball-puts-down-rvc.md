@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Poppy Pinnock swears that RVC are on a farm...
 date: "2013-02-22 02:12:01 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3374"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - pp1510
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix takes a tour of the nearly completed labs
 date: "2011-05-26 18:29:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1248"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
  - longread

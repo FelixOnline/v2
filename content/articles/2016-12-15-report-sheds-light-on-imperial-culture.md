@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And the picture ain’t pretty
 date: "2016-12-15 23:46:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6597"

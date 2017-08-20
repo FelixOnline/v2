@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get your skates on every week
 date: "2011-12-08 20:48:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1922"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dth08
  - felix
 highlights:
 

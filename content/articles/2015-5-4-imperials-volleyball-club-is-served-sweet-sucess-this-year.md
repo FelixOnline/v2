@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICVC sees their mens team becoming BUCS Trophy Champions
 date: "2015-05-04 16:51:37 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5491"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - icvc
  - ps3110
 highlights:
 

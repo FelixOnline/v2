@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Should we have universal benefits?
 date: "2010-10-21 19:06:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "232"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rj408
 highlights:
 
 # Homepage control params

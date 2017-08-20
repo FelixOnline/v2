@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix praises the work of Baroness Manningham-Buller
 date: "2011-11-24 22:40:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1839"

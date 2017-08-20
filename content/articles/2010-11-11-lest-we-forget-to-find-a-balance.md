@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whilst recognising the importance of reminiscence, Chris Richardson examines the brighter side of some of the world’s top remembrance destinations
 date: "2010-11-11 20:27:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "334"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
  - longread

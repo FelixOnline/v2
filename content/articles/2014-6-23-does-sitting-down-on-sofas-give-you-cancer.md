@@ -4,7 +4,6 @@ title: >
 subtitle: >
   People who spend more time sitting are more at risk of getting cancer than people who don’t, a new study reveals.
 date: "2014-06-23 14:49:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4713"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - frh10
  - jal08
 highlights:
 

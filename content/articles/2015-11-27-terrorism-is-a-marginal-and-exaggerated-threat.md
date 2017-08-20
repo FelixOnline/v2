@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When we’re surrounded by so much fear, we forget that we still have freedom
 date: "2015-11-27 14:27:27 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5778"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sg3114
  - ygr12
 highlights:
  - comment

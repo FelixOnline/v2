@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the run up to elections Union President Paul Beaumont looks at what he has and hasn’t done this year...
 date: "2013-01-17 23:59:28 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3124"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pjb09
  - tna08
 highlights:
  - longread

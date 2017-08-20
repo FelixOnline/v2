@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ernest Gonzales - Natural Traits - Friends of Friends - 2012
 date: "2012-01-19 20:40:17 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2018"

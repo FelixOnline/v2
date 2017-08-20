@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As we near the end of another exhausting term at our favourite university, the return of the hallowed Imperial cinema All-Nighter also rapidly approaches. In a year of unusually high caliber for Oscar nominated films, we’ve selected the crème de la crème of the Oscar crop just for you.
 date: "2014-04-07 12:47:32 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4521"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - ffilm
  - jal08
 highlights:
 

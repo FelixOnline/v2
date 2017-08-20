@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I bet you won’t even read this, you undemocratic filth
 date: "2016-10-28 14:40:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6348"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   49 students out of the required 200 attended the meeting on Monday
 date: "2014-12-03 00:53:53 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4983"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - ps3110
 highlights:
 
 # Homepage control params

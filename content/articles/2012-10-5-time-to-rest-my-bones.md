@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This summer, Kadhim Shubber raised £3,000 for Imperial scholarships by cycling from John O’Groats to Land’s End on a tandem... with a skeleton
 date: "2012-10-05 11:51:56 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2604"

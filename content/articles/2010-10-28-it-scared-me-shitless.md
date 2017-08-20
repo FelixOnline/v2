@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How far will the tourism industry go to empty our bowels and our coffers?
 date: "2010-10-28 19:39:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "270"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - yll08
 highlights:
  - comment
 

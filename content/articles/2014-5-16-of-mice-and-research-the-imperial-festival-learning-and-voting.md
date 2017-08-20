@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week College took another step in the right direction on the journey of animal research by signing the Concordat on Animal Research, a document that promises transparency and openness about animal experimentation.
 date: "2014-05-16 02:09:28 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4603"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

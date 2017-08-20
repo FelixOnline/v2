@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Judo win trophy for the first time in four years
 date: "2010-02-25 18:55:55 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "107"

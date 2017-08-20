@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman asks: glorified sleeve notes or art in their own right?
 date: "2015-05-29 12:11:08 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5586"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - js5913
+ - ygr12
 highlights:
 
 # Homepage control params

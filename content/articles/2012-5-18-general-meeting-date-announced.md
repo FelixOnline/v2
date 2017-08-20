@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union President seeks discussion on future changes to the College environment
 date: "2012-05-18 06:01:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2455"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ar3310
  - felix
 highlights:
 

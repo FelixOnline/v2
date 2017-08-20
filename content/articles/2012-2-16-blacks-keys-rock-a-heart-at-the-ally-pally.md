@@ -4,7 +4,6 @@ title: >
 subtitle: >
   That's the Alexandra Palace to you and me...
 date: "2012-02-16 21:50:01 +0000"
-author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2198"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Richard Murphy on the Corporate Tax Scandal: Thinking with Portals. Now Yaqub Chaudhary lets you know what they have coming up this term
 date: "2013-01-31 22:58:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3202"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - myc304
  - tna08
 highlights:
 

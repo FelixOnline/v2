@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students are advised to allow extra time for travelling to and from university.
 date: "2015-02-04 13:32:25 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5191"

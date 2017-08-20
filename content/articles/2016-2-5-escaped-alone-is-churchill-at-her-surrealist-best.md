@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The veteran playwright packs a punch with a powerful and lyrical indictment of modernity
 date: "2016-02-05 12:12:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5872"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
 

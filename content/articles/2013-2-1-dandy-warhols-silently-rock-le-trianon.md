@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bohemian Like Them
 date: "2013-02-01 00:42:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3231"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - eb1710
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett talks to the team on their synthetic biology triumph
 date: "2014-11-06 19:18:23 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4776"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
 

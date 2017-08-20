@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nothing says style like a tight speedo
 date: "2017-03-03 16:17:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6857"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - esmehostonmoore
 highlights:
 
 # Homepage control params

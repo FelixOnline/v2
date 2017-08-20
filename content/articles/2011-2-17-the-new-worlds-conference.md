@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marco Aliprandi and Henri Sartorius share with Felix an attendant’s first-hand view of the Finance Society’s conference and flagship event of the year.
 date: "2011-02-17 19:07:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "813"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - hgs07
+ - ma1007
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nam Cheah reviews the exhibition showcasing gowns worn by royals
 date: "2014-11-10 21:40:03 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4823"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ync111
 highlights:
 
 # Homepage control params

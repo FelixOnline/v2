@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Hoskin discusses advancements in finding a vaccine for Malaria
 date: "2013-10-18 21:15:10 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3889"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - lh513
 highlights:
 
 # Homepage control params

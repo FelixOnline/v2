@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszeski reviews Ray Monk’s Oppenheimer biography
 date: "2013-01-18 00:43:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3139"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

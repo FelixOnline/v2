@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matthew Colvin reports on what prevents students from taking to the streets
 date: "2011-11-17 21:12:18 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1771"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - pk1811
 highlights:
  - comment

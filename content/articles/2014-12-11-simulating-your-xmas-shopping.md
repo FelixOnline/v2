@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl tries not to be a Grinch about GAME's new game
 date: "2014-12-11 20:48:11 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5031"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - me1711
 highlights:
  - comment
 

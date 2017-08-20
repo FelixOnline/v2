@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Look backing at last year's films and looking forward to an exciting 2011
 date: "2011-01-13 19:42:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "568"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - an406
  - felix
+ - ghc07
+ - jl4310
 highlights:
 
 # Homepage control params

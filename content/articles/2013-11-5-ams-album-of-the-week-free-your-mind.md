@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cut Copy's Free Your Mind
 date: "2013-11-05 09:38:04 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3996"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ls2209
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Ursula Le Guin’s masterpiece
 date: "2012-11-09 13:20:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2856"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

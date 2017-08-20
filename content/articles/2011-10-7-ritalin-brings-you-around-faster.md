@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Drug could help to bring patients out of anaesthesia almost immediately
 date: "2011-10-07 09:37:27 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1478"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - sjw209
+ - twp07
 highlights:
 
 # Homepage control params

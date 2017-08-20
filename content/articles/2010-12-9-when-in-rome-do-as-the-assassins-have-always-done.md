@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Which means, kick a whole lot of ass in Assassins Creed: Brotherhood
 date: "2010-12-09 19:49:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "510"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skh10
 highlights:
  - longread
 

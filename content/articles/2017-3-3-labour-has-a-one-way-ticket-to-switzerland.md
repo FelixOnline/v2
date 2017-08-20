@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Titmuss explains why Labour is doomed – and it's not all Jeremy Corbyn's fault
 date: "2017-03-03 14:40:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6837"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - charlestitmuss
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Eden condemns the West’s lack of attention to post-war effects.
 date: "2016-10-07 18:02:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6315"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - je615
 highlights:
  - photos
 

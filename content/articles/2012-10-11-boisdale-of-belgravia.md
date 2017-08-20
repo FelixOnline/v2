@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The food review
 date: "2012-10-11 21:23:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2673"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
 

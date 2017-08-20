@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-13 09:06:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6157"
@@ -21,7 +20,7 @@ tags:
  - film
  - imported
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the theory behing political economic modelling
 date: "2014-11-06 18:46:35 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4768"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sib114
  - snb11
 highlights:
  - comment

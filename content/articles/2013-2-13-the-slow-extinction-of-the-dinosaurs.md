@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The recent equal marriage vote is indicative of a wider trend
 date: "2013-02-13 16:08:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3310"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - adm10
  - tna08
 highlights:
 

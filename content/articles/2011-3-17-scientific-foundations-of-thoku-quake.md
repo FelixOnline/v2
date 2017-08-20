@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How Japan’s buildings coped in the face of one of the worst quakes in recent history, and the struggle to secure the Fukushima nuclear power plant
 date: "2011-03-17 20:55:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1097"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - ch1810
  - felix
+ - ko407
+ - tbc09
 highlights:
  - longread
 

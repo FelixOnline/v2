@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students get 18 days to prepare for a resit
 date: "2017-05-19 14:59:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6972"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

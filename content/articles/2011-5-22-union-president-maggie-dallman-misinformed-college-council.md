@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Head of Natural Sciences Faculty 'directly lied' to former Union President and 'misinformed' College Council says Alex Kendall
 date: "2011-05-22 13:08:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1242"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

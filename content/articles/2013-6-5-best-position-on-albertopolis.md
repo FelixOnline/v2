@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to ex-Imperial student and TEDx organiser Kadhim Shubber about organising TEDxAlbertopolis
 date: "2013-06-05 17:56:49 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3659"

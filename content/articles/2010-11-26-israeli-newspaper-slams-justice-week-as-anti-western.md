@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Concerns voiced about choice of speakers at Islamic Society events
 date: "2010-11-26 07:16:31 +0000"
-author_id: "bs2610"
 
 # Attributes from Felix Online V1
 id: "448"

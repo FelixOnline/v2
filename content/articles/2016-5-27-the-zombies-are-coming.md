@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Time to Fear the Walking Dead
 date: "2016-05-27 09:03:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6218"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Universities are an important source of intellectual property, with only 2% of patents now owned by individuals
 date: "2011-03-03 20:25:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1008"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bs2610
  - felix
 highlights:
  - comment

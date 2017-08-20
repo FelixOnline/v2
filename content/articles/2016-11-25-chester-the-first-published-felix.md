@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If a cat can do it, you can too
 date: "2016-11-25 13:37:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6501"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aran.shaunak16
 highlights:
 
 # Homepage control params

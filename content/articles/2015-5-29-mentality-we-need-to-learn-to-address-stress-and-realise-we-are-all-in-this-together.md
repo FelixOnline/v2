@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Beth shares her thoughts on the survey results
 date: "2015-05-29 00:58:24 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5576"

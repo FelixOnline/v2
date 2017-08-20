@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marc Warren leads a watchable Cool Hand Luke
 date: "2011-11-03 21:51:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1694"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In honour of International Women’s Day we celebrate the female artists who inspire us
 date: "2016-03-11 12:04:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6042"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - im1413
+ - jc7413
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the German capital
 date: "2014-11-06 20:30:10 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4789"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ync111
 highlights:
  - longread
 

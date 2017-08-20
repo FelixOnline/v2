@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First XI reach ULU Cup final for fourth time in five years
 date: "2011-02-28 20:54:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "937"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tf08
 highlights:
 
 # Homepage control params

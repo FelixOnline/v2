@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Seriously freakin' awesome fun on the Isle of Wight!
 date: "2010-10-14 19:25:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "205"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lht09
 highlights:
 
 # Homepage control params

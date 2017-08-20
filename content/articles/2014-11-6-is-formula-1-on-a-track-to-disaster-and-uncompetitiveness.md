@@ -4,7 +4,6 @@ title: >
 subtitle: >
   People drive cars repeatedly in circles; Henry Lambley investigates
 date: "2014-11-06 19:39:07 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4780"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - hdl14
 highlights:
  - comment
 

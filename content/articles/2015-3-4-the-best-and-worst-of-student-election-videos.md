@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We've scoured the web so you don't have to
 date: "2015-03-04 18:30:40 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5334"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - icanon
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about the the groundbreaking debut science fiction novel by Ann Leckie
 date: "2014-03-07 05:51:57 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4467"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

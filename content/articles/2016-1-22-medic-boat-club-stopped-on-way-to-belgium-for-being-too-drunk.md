@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The annual trip to Leuven ended abruptly at Dover when students were sent home
 date: "2016-01-22 12:42:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5830"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - photos

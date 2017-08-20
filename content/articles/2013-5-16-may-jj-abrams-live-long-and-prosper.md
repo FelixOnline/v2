@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Star Trek: Into Darkness review
 date: "2013-05-16 18:21:13 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3583"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - tna08
 highlights:
  - comment

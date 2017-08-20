@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The long awaited revival of Jez Butterworth’s play Mojo opened on the 13th November, and saw Rupert Grint making his professional theatre debut. Premiering in the Royal Court Theatre in 1995, Mojo was the recipient of the 1996 Laurence Olivier Award for Best New Comedy, with a film adaptation...
 date: "2013-11-24 16:11:22 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4114"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ml2510
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joe Brown reports on the disappointing performance of the 1st XV against Tokyo University
 date: "2010-07-08 04:06:33 +0100"
-author_id: "jb306"
 
 # Attributes from Felix Online V1
 id: "151"

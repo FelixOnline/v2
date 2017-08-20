@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cloud Atlas is a masterpiece, says John Park
 date: "2013-02-22 01:32:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3362"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

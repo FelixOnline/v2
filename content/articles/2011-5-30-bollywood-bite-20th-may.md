@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Catching up with the Indian film industry with Aamir Shamsi
 date: "2011-05-30 12:08:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1285"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - as1708
  - felix
 highlights:
  - comment

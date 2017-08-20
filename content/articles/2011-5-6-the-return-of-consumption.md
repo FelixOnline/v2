@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As consumption, or tuberculosis, continues to spread, scientists are racing to find a new vaccine
 date: "2011-05-06 08:07:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1151"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as2710
  - felix
 highlights:
 

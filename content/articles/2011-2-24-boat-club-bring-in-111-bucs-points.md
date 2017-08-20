@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Boat Club score big at muddy Peterborough
 date: "2011-02-24 20:06:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "878"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - er208
  - felix
 highlights:
  - comment

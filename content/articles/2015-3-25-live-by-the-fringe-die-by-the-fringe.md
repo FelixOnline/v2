@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman takes us through the five best bangs in pop music
 date: "2015-03-25 12:32:15 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5430"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ff712
+ - ygr12
 highlights:
  - photos
 

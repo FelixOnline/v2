@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nathaniel Gallop isn’t as impressed with Nolan’s science fiction epic
 date: "2014-11-17 18:14:12 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4901"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ng611
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You will meet a disappointing film in Woody Allen’s fortieth feature length rom-com
 date: "2011-03-03 06:15:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "986"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

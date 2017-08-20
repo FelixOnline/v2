@@ -4,7 +4,6 @@ title: >
 subtitle: >
   OnLive extends service to your front room with the launch of the new MicroConsole
 date: "2010-11-26 14:58:37 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "455"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - lap08
 highlights:
 
 # Homepage control params

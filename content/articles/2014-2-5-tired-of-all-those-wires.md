@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tips on how to avoid the mess!
 date: "2014-02-05 10:22:51 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4333"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - ywc110
 highlights:
 
 # Homepage control params

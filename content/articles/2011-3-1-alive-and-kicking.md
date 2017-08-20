@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medicine can become a routine of life stories, lectures and feet. But sometimes, a patient can surprise you
 date: "2011-03-01 20:57:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "961"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

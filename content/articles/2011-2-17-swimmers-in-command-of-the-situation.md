@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The IC swimming team, a formidable force
 date: "2011-02-17 20:48:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "852"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tiw06
 highlights:
 
 # Homepage control params

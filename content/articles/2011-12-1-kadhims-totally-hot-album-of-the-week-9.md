@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Youth Lagoon – The Year of Hibernation – 2011
 date: "2011-12-01 21:04:34 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1880"

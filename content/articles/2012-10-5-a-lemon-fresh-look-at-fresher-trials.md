@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport Brings you a rough and incomplete guide to some of the fresher trial events
 date: "2012-10-05 13:34:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2630"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fsport
 highlights:
  - longread
 

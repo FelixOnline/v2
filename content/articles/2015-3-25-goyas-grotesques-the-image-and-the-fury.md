@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is horrified and awed by this display of Goya’s lost album
 date: "2015-03-25 13:11:28 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5445"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   sasfsadfasd af
 date: "2011-06-09 17:41:31 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1326"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - lmodenes
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial sells off last shares of life sciences start-up
 date: "2016-06-03 08:35:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6224"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

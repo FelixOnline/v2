@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Avoids clashing with the iPad by packing more of a punch
 date: "2011-05-06 08:25:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1156"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cb908
  - felix
 highlights:
  - comment

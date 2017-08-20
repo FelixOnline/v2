@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix takes a bite out of Aniston's new film
 date: "2015-02-20 17:02:39 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5293"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles on photography from the Middle East
 date: "2013-02-01 00:08:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3221"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - tna08
 highlights:
  - photos

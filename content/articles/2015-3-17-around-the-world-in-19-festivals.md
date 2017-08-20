@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah brings you the best festivals in the world
 date: "2015-03-17 18:14:38 +0000"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5400"

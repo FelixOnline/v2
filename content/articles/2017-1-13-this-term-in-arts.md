@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik gives her tips for a term full of culture
 date: "2017-01-13 14:42:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6646"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - photos
 

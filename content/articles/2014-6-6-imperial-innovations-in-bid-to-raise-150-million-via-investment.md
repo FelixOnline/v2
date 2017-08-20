@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Innovations, a company based at Imperial College, is planning to issue new shares on the stock market in a bid to raise up to £150 million.
 date: "2014-06-06 02:38:41 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4655"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kmw13
 highlights:
 
 # Homepage control params

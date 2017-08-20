@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Though it’s not weak to ask for help, people often perceive this to be the case
 date: "2011-02-17 20:05:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "832"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sh907
 highlights:
 
 # Homepage control params

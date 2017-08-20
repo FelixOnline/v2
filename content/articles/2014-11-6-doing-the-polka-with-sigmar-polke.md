@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kieran Ryan wonders about intense dotted portraits
 date: "2014-11-06 21:40:35 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4807"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - kr812
  - snb11
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jian Li Chew discusses decolonisation,philosophy, and special snowflakes.
 date: "2017-01-13 14:01:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6635"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jlc14
 highlights:
  - comment
 

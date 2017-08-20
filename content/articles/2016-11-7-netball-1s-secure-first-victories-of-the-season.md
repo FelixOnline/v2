@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Post-match pizza isn’t only reserved for Leicester City Football Club
 date: "2016-11-07 13:18:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6407"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
 
 # Homepage control params

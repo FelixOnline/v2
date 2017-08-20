@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A tale of deceit and desire
 date: "2017-05-15 17:23:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6963"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - lawrencegood
 highlights:
 
 # Homepage control params

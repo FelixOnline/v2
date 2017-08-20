@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Humans have the ability to perform automated tasks whilst subconscious
 date: "2014-11-10 22:50:54 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4849"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ur13
 highlights:
  - comment
 

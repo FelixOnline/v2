@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three comment pieces is enough for Padraic Calpin's seal of approval
 date: "2011-12-01 21:27:07 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1892"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - phc11
  - pk1811
 highlights:
  - comment

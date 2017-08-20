@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spoiler warning: DPE for next year is RON. Nah, just kidding, it's...
 date: "2013-06-06 10:53:19 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3662"

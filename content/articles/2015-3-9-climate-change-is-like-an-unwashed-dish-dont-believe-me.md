@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe gets you up-to-date and busts some common myths surrounding this global conundrum
 date: "2015-03-09 19:13:46 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5378"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ltr11
  - ps3110
 highlights:
  - comment

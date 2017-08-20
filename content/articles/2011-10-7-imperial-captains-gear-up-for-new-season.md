@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New season, new ambitions, new kit for IC sports clubs
 date: "2011-10-07 00:57:05 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1471"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ial08
  - sjw209
 highlights:
  - comment

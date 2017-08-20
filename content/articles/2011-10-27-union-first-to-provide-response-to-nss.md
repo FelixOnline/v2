@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Report unveils move towards better teaching and automated feedback
 date: "2011-10-27 19:38:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1606"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

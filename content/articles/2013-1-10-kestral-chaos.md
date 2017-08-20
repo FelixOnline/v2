@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shot or just attacked by other birds? The murder mystery of the year.
 date: "2013-01-10 22:07:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3078"

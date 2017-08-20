@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union say College have been involved from the outset and that the company chosen had a good record of animal safety and welfare
 date: "2013-05-16 20:46:01 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3592"

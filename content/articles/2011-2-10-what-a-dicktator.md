@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mubarak clinging to power has become pathetic. It’s time he got a life. Even Ban Ki–Moon is getting pissed off...
 date: "2011-02-10 21:03:08 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "792"

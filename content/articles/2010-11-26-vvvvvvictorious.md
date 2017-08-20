@@ -4,7 +4,6 @@ title: >
 subtitle: >
   VVVVVV almost defeats Omar Hafeez-Bore. Almost...
 date: "2010-11-26 14:56:21 +0000"
-author_id: "oh106"
 
 # Attributes from Felix Online V1
 id: "454"

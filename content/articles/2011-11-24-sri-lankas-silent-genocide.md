@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oppression in Sri Lanka may lead on to more uprisings
 date: "2011-11-24 22:43:42 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "1840"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - icanon
  - ygr12
 highlights:
  - comment

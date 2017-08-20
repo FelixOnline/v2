@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Details about the teaching review finally emerge but the review panel is criticised for not allowing enough time for staff and student questionnaire responses
 date: "2011-01-27 18:06:47 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "649"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - mc4509
 highlights:
 
 # Homepage control params

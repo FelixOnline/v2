@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Death Grips – Government Plates
 date: "2013-12-02 22:14:22 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4169"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Hundreds of male MPs vote to continue charging women for having vaginas
 date: "2015-10-30 12:42:21 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5685"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - vmh14
  - ygr12
 highlights:
  - comment

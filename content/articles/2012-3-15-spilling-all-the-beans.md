@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We speak to studentbeans.com founder James Eder, who takes the time out to teach us a short lesson in business.
 date: "2012-03-15 19:41:10 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2346"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - wsp10
 highlights:
  - photos
 

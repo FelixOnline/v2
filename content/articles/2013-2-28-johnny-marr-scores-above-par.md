@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plabon Saha on the first solo album of Johnny Marr
 date: "2013-02-28 23:29:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3388"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3411
  - tna08
 highlights:
 

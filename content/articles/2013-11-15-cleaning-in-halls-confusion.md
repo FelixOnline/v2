@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Freshers suffer after Campus Services changes halls’ cleaning contract
 date: "2013-11-15 02:15:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4058"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jal08
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Panic! At the Disco – Too Weird to Live, Too Rare to Die!
 date: "2013-11-24 16:25:13 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4120"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - gs1409
  - jal08
 highlights:
 

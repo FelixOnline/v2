@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Abi de Bruin speaks to Bernadett Tildy about Teddington, clubbing and the president’s survival skills
 date: "2014-11-10 23:51:55 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4856"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bet12
  - ps3110
 highlights:
  - longread

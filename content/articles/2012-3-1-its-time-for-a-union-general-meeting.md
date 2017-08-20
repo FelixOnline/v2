@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scott Heath calls for an event which hasn't occurred at Imperial for 5 years
 date: "2012-03-01 22:50:16 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2292"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - sh907
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Impress, intimidate, then lose your friends (and get some better ones), by being a total git about The Arts (capitalised, don’t you know?)
 date: "2010-10-01 21:17:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "160"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rm1509
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Project should have been LEFT 4 DEAD. Get it?
 date: "2013-01-10 23:24:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3114"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

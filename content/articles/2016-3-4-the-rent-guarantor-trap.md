@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College ignores the fact that many students struggle to afford rented accommodation
 date: "2016-03-04 11:33:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6001"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - pm
+ - pm1912
 highlights:
  - comment
 

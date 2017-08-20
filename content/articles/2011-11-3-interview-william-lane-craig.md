@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Horti talks to the renowned Christian philosopher about his work
 date: "2011-11-03 21:41:50 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1691"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - sjw209
+ - sph109
 highlights:
  - comment
  - longread

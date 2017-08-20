@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The art of being screwed over by restaurants today
 date: "2011-01-27 20:21:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "690"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

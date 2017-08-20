@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So what is aid? Aid can come in many forms – such as military aid to help a country fight terrorists, or budgetary aid sent with no strings attached to bolster a government’s finances, or the cancelling of historic debts.
 date: "2013-12-02 13:11:22 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4147"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rtf08
 highlights:
  - longread
 

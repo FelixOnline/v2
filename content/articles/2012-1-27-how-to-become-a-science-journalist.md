@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang talks to Dr. Toby Murcott about his not so straightforward career path
 date: "2012-01-27 00:22:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2080"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - felix
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Citizens UK charge £5000 a year for campaigns training for sabbs and volunteers
 date: "2016-04-29 10:09:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6092"

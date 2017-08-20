@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews the new Channel 4 show
 date: "2015-03-03 14:56:21 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5328"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gg2110
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Universities minister David Willetts suggests that extra more expensive university places could be created outside of the loans system
 date: "2011-05-12 15:50:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1184"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gp1510
 highlights:
 
 # Homepage control params

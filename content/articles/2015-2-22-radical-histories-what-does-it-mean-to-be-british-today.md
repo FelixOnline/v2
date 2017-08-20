@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes in a century of the country’s artistic history at the Hayward Gallery
 date: "2015-02-22 17:42:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5304"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

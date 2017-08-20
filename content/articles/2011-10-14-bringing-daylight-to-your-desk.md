@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shedding light on a desktop lamp
 date: "2011-10-14 11:52:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1544"

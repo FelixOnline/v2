@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe looks at some great tats
 date: "2013-02-28 23:42:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3393"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ltr11
  - tna08
 highlights:
  - photos

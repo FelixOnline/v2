@@ -4,7 +4,6 @@ title: >
 subtitle: >
   007 comes to Imperial
 date: "2012-10-26 01:38:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2729"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

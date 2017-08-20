@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland takes in the Sam Wanamaker Playhouse’s atmosphere
 date: "2015-03-25 13:00:42 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5442"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
  - longread

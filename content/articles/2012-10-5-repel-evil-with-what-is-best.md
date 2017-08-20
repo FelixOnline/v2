@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Umar Nasser talks about the controversy over "that" film over summer
 date: "2012-10-05 12:57:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2619"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

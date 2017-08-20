@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Issue 16 of I, Science magazine, ‘Unseen Science’, is out on Friday 11th March.
 date: "2011-03-01 20:55:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "960"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ap1509
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student Accommodation Awards refuse to choose winner
 date: "2016-10-31 13:35:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6358"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ad4812
  - felix
 highlights:
 

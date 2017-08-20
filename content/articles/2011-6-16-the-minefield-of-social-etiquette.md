@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why do I worry about what to say to someone when they apologise to me?
 date: "2011-06-16 20:29:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1393"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

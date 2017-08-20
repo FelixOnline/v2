@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I will confess now that I have never really understood the appeal of role models. It has always seemed slightly ridiculous to treat someone as if they were an exemplary figure, and with a little maturity I also came to recognise the symbolic violence in raising that someone above...
 date: "2014-01-24 09:53:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4283"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - jal08
 highlights:
  - longread

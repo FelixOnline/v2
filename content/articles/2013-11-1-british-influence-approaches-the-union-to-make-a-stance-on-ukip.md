@@ -4,7 +4,6 @@ title: >
 subtitle: >
   External organisation seeks to influence student votes
 date: "2013-11-01 09:07:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3964"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

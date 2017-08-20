@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The newly discovered dwarf planet 2012 VP113 was discovered by astronomers at the Carnegie Institution of Science, Washington last week.
 date: "2014-04-02 11:14:20 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4518"

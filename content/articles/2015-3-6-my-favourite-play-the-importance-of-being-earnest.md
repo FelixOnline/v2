@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman tells us why Wilde's wit is the best around
 date: "2015-03-06 14:05:53 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5354"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - js5913
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A hold is exposed again, or, re-exposed
 date: "2013-02-14 21:17:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3335"

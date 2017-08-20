@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Belt-tightening continues with Outreach and Volunteer Centre the latest victims
 date: "2010-11-11 22:01:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "371"
@@ -22,6 +21,8 @@ tags:
  - imported
 authors:
  - felix
+ - klb09
+ - yw3410
 highlights:
  - longread
 

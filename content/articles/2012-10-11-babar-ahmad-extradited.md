@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Former Imperial employee now in USA. High Court refused last minute application
 date: "2012-10-11 20:19:43 +0100"
-author_id: "ar3310"
 
 # Attributes from Felix Online V1
 id: "2638"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - AR3310
  - ar3310
 highlights:
  - comment

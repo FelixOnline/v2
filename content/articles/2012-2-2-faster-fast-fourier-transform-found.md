@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A group of MIT researchers recently presented their findings regarding an improved algorithm for Fast Fourier Transforms.
 date: "2012-02-02 19:37:09 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2092"

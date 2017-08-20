@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial professor becomes member of the Institute of Medicine
 date: "2013-11-01 09:11:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3966"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nm708
 highlights:
  - comment
 

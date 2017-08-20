@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Perfume Genius - Put Your Back N 2 It - Matador - 2012
 date: "2012-03-01 23:05:16 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2296"

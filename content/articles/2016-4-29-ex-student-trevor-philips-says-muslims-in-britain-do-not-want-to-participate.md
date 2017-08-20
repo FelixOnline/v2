@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He was ICU President, was awarded honorary fellowship by college, and now he’s made a controversial program claiming to show “what Muslims really think”
 date: "2016-04-29 10:03:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6088"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

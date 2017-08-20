@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Perhaps it’s time to renationalise our railways and combat unacceptable service
 date: "2015-12-11 15:32:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5815"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sdl15
 highlights:
 
 # Homepage control params

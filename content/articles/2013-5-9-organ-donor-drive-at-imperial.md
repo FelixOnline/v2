@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rebekah Judge tries to convince you to confront your own mortality and become an organ donor
 date: "2013-05-09 22:03:21 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3563"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - rgj12
  - tna08
 highlights:
  - comment

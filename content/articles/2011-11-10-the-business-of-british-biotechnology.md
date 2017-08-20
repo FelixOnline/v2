@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on some of the opportunities and threats facing one of the UK’s most promising industries
 date: "2011-11-10 21:26:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1730"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cm1410
  - felix
 highlights:
 

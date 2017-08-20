@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Science goes along to the launch of the Science Museum’s new exhibition
 date: "2013-11-15 02:18:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4061"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

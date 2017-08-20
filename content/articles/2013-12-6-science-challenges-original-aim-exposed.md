@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Sanderson, former President of the Royal College of Science Association (RCSA) on the origins of the Science Challenge
 date: "2013-12-06 03:50:21 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4180"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - extuser0
  - jal08
 highlights:
 

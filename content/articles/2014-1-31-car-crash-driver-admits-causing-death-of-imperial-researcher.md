@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Australian man has admitted causing the death of two men, one of whom was the Imperial College researcher Dr Sean Barrett, by dangerous driving.
 date: "2014-01-31 17:12:20 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4310"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

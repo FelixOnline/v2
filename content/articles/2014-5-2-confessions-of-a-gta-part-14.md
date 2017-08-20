@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are GTAs working hard or hardly working?
 date: "2014-05-02 01:02:00 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4538"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gta
  - jal08
 highlights:
 

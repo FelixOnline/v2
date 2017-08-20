@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A quick word on the GPA. All too quick, unfortunately.
 date: "2013-06-06 18:07:44 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3667"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a controversial redevelopment of the union offices, thousands of pounds were spent on stickers, a light-up reception desk and a glass wall
 date: "2015-11-27 11:52:12 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5773"

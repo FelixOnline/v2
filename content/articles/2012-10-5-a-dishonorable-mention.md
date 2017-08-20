@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Worthington is NOT a lame guy, contrary to the not-so-serious position credit he was given
 date: "2012-10-05 11:38:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2601"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sjw209
 highlights:
  - comment
 

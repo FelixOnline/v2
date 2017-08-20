@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Rebel is the punctuation mark to 19th and early 20th century philosophy
 date: "2016-11-25 14:21:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6510"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
  - photos
 

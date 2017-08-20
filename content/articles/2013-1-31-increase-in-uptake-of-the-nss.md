@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We're going harder... on filling out the NSS
 date: "2013-01-31 22:25:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3195"

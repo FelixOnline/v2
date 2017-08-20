@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Central library is a great spot for binge watching. Just make sure you remember to control yourself
 date: "2017-06-02 13:22:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6994"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

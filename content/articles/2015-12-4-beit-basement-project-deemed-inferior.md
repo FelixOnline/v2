@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Multimillion pound redevelopment “significantly worsened” student facilities
 date: "2015-12-04 15:07:37 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5790"

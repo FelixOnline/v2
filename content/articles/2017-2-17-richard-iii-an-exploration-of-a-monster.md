@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Schaübuhne Berlin production of Shakespeare's Richard III adds in dark German absurdity
 date: "2017-02-17 22:00:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6807"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ezra.kitson14
 highlights:
 
 # Homepage control params

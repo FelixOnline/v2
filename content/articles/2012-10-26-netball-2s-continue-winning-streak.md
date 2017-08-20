@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Toni Semmence gently boasts about Netball 2s dominance
 date: "2012-10-26 03:04:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2764"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsport
  - tna08
 highlights:
 

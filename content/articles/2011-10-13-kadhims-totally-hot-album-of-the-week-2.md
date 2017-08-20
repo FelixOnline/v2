@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A supremely (un)knowledgeable column about music
 date: "2011-10-13 23:40:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1526"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

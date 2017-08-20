@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saturn just keeps giving us the retro gaming gold
 date: "2012-12-07 01:29:26 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3036"

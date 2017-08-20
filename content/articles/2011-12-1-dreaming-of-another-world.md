@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Oakes on what to do if you need to take the edge off painful memories
 date: "2011-12-01 19:35:19 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1857"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ko407
 highlights:
  - photos
 

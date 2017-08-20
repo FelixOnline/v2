@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Untitled Poem
 date: "2011-06-09 18:05:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1329"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

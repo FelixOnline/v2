@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “This is a fight to the death. For each side the only acceptable outcome is the complete elimination of the other”
 date: "2012-02-09 22:33:47 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2153"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - lap08
 highlights:
  - comment
 

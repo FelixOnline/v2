@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In praise of the blue scheme
 date: "2012-05-18 06:29:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2462"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skw10
 highlights:
  - comment
 

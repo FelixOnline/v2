@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Natalia Petrou introduces you to a beautiful world of sun, sea, beaches, parties... sigh
 date: "2013-05-07 19:32:30 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3543"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - knp12
  - tna08
 highlights:
  - comment

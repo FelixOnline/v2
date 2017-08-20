@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Lib Dems put their country before party politics
 date: "2010-10-28 19:06:37 +0100"
-author_id: "hj408"
 
 # Attributes from Felix Online V1
 id: "252"

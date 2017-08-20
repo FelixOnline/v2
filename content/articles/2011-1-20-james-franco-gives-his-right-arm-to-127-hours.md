@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A noteworthy cinematic achievement but will probably miss out on an Oscar
 date: "2011-01-20 19:48:46 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "614"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ghc07
  - ks607
 highlights:
 

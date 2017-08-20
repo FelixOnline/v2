@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daquise Restaurant: A South Kensington gem
 date: "2011-02-24 19:39:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "864"
@@ -26,6 +25,9 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sl407
+ - tzk07
+ - whk107
 highlights:
  - comment
 

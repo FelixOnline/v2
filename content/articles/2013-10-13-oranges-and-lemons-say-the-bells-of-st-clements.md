@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University of London Society of Change Ringers, ring a bell?
 date: "2013-10-13 00:05:50 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3875"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm1208
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A prescient commentary on the problems of promoting stereotypes and how they are often wrong
 date: "2011-03-03 20:14:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1005"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - an406
  - felix
 highlights:
  - comment

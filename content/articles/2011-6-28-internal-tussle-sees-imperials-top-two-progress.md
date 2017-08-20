@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICU Snooker's 'Internal League' competition. By James Carver
 date: "2011-06-28 12:16:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1448"

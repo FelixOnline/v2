@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Victoria Druce takes a deeper look at the recent controversies involving online student content
 date: "2011-03-03 20:17:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1006"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - vd207
 highlights:
  - longread
 

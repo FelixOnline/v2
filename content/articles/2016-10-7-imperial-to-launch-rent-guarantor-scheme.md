@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union does thing – student body in awe
 date: "2016-10-07 16:54:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6310"

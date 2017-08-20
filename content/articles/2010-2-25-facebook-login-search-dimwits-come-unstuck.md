@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook numpties fooled by Blog post and good SEO
 date: "2010-02-25 13:23:05 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "98"

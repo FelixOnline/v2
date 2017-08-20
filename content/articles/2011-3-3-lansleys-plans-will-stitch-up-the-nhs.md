@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With cost the driving factor, quality of care will suffer
 date: "2011-03-03 21:06:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1020"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tn509
 highlights:
  - comment
 

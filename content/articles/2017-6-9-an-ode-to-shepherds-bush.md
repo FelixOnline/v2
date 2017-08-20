@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey really, really loves Shepherd's Bush, and she wants you to know why
 date: "2017-06-09 14:59:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7012"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - tad08
 highlights:
 
 # Homepage control params

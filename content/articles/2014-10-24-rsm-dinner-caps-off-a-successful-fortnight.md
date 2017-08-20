@@ -4,7 +4,6 @@ title: >
 subtitle: >
   178 people attended the Annual Dinner at The Rembrandt Hotel, 91 of them freshers from the Materials and Earth Science departments; this reflects the high demand for the social events that the RSM provides for its members.
 date: "2014-10-24 12:41:48 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4746"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - mwp1
+ - mwp11
  - ps3110
 highlights:
  - comment

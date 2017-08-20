@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New Zealand Rugby team use Sports Imperial facilities
 date: "2010-11-04 18:42:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "307"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jn104
 highlights:
 
 # Homepage control params

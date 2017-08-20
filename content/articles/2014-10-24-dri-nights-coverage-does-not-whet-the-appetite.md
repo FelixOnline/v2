@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Farmer responds to Felix's article about the Union's inaugural non-alcoholic night
 date: "2014-10-24 13:43:03 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4752"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nf311
  - ps3110
 highlights:
  - comment

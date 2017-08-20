@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Next stop The X Factor?
 date: "2013-05-09 12:01:17 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3557"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - skw10
  - tna08
 highlights:
 

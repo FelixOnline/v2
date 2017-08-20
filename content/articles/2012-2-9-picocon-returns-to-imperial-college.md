@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Annual Science Fiction convention celebrates 2012 with apocalypse theme
 date: "2012-02-09 22:01:45 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2138"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mtm10
 highlights:
 
 # Homepage control params

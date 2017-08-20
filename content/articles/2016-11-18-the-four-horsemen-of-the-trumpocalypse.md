@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Avirup Banerjee points the finger of blame for the Trump presidency
 date: "2016-11-18 14:40:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6460"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - avirupbanarjee
  - felix
 highlights:
  - longread

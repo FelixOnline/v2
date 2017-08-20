@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fen kicks off a showcase of female playwrights in Fulham
 date: "2011-03-18 08:28:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1112"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cf107
  - felix
 highlights:
  - comment

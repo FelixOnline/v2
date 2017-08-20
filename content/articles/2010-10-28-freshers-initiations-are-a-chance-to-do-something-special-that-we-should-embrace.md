@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Initiations aren't all bad
 date: "2010-10-28 19:51:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "280"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sf305
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles asks the theatre industry where the women playwrights are
 date: "2014-12-04 20:15:19 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5008"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ff712
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are hijab wearing women facing unjust discrimination?
 date: "2017-03-17 16:51:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6905"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - felixteam
 highlights:
  - comment
  - photos

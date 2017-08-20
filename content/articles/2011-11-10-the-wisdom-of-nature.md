@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Going organic with the latest natural foods
 date: "2011-11-10 21:56:15 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1737"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A revolting logo, a nauseating sponsorship deal, and a peculiar ticketing system all leave me with a feeling that it is not quite cricket
 date: "2011-05-06 08:49:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1162"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

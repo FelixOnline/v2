@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I love Justin Bieber. There, I said it, I outed myself as a Belieber.
 date: "2014-01-31 17:50:29 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4321"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - tad08
 highlights:
 
 # Homepage control params

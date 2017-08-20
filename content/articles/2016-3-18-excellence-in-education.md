@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The President of Imperial speaks
 date: "2016-03-18 11:37:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6054"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - agast
 highlights:
  - comment
 

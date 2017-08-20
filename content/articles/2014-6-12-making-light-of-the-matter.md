@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett talks to the researchers behind turning light into electrons
 date: "2014-06-12 16:57:20 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4685"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - ps3110
 highlights:
 
 # Homepage control params

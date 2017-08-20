@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Joyce lets us sink into those delicate in-between emotions of melancholy.
 date: "2016-11-18 15:13:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6473"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - av3514
 highlights:
 
 # Homepage control params

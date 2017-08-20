@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson finds out how students are relaxing during the exam period
 date: "2015-05-21 20:38:11 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5551"

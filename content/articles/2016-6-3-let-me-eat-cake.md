@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX visits WA café, a Japanese pâtissierie in Ealing Broadway
 date: "2016-06-03 09:32:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6243"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - longread
 

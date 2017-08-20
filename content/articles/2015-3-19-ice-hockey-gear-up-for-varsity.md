@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tonight the Imperial Devils face the UCL Yetis
 date: "2015-03-19 23:47:08 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5410"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - kmw13
+ - sjb113
 highlights:
  - comment
 

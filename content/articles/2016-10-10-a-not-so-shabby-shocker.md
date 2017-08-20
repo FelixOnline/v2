@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reviewing Puccini's Tosca at the London Coliseum
 date: "2016-10-10 14:40:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6325"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - felart
  - felix
+ - scc114
 highlights:
 
 # Homepage control params

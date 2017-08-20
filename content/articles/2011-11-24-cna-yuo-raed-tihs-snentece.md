@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thier sceince mya suprirse yuo!
 date: "2011-11-24 21:04:17 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1813"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ak6309
+ - mg2109
 highlights:
 
 # Homepage control params

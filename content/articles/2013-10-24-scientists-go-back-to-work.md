@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie Rickman on the impact of the US shutdown
 date: "2013-10-24 23:50:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3914"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jr1709
 highlights:
  - comment
 

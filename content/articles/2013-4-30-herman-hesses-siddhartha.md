@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Life affirming, if a bit pretentious.
 date: "2013-04-30 14:59:57 +0100"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3507"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ma1307
  - mtm10
 highlights:
 

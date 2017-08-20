@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Public bodies will no longer be able to opt out of buying products made on the West Bank
 date: "2016-02-19 11:07:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5924"

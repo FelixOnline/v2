@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RCSU UROP bursary has been awarded to an undergraduate student from the Department of Chemistry. This is a new initiative where the funding will be from the RCSU for students from lower income backgrounds.
 date: "2014-06-06 02:38:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4654"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - nm708
 highlights:
  - comment
 

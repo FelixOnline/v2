@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4783"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jb3112
  - snb11
 highlights:
  - comment

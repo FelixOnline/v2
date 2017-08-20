@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mo Mirza finds a treat at Bush Hall
 date: "2012-11-23 00:19:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2969"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mum09
  - tna08
 highlights:
  - comment

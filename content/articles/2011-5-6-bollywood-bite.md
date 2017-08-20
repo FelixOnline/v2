@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A monthly column dedicated to the Indian film industry
 date: "2011-05-06 12:39:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1167"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as1708
  - felix
 highlights:
  - comment

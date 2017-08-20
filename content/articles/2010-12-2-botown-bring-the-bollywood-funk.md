@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Jazz Café, 5th November 2010
 date: "2010-12-02 21:04:47 +0000"
-author_id: "rm1709"
 
 # Attributes from Felix Online V1
 id: "485"

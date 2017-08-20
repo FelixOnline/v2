@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week it's The Cove
 date: "2015-11-20 09:21:19 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5753"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - bsc14
  - ygr12
 highlights:
 

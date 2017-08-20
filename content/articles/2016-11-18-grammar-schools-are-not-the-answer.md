@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Husain Al-Jabir gives his first-hand opinion of Grammar schools
 date: "2016-11-18 14:32:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6458"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - haljabir
+ - husainaljabir
 highlights:
  - photos
 

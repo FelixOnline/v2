@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dance newbies: this is not frilly dresses and satin shoes. You will be exposed to raw power, unsettling emotions and unsettling scenes.
 date: "2014-01-17 03:47:05 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4240"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cfc111
  - jal08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the NSS in full swing this year, Yulia Negreskul sees where progress was made and not made on last year’s suggestions
 date: "2013-02-08 01:15:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3285"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - yn711
 highlights:
  - longread
 

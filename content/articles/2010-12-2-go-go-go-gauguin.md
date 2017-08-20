@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gauguin Uncovered at the Tate Modern until 16th January
 date: "2010-12-02 20:11:26 +0000"
-author_id: "cg708"
 
 # Attributes from Felix Online V1
 id: "461"

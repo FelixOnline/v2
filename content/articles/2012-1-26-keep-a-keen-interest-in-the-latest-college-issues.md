@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have your say and make a difference at Imperial
 date: "2012-01-26 23:16:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2075"

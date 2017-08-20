@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Film Editor John Park introduces the 57th BFI London Film Festival
 date: "2013-09-29 15:41:46 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3782"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jgp09
 highlights:
  - comment
 

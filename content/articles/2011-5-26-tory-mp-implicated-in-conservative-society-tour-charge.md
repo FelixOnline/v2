@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Greg Hands denies claims by left-wing political blog
 date: "2011-05-26 18:53:44 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1252"

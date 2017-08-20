@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union President Paul Beaumont gives his opinion on the NUS
 date: "2013-01-10 22:35:10 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3089"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - pjb09
  - tna08
 highlights:
  - comment

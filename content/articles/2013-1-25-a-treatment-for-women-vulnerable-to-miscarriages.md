@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial and Warwick research may hold the key
 date: "2013-01-25 01:52:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3187"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kw911
  - tna08
 highlights:
 

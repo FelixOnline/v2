@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Food tells you all about the crispy potatoes pieces
 date: "2014-02-21 03:34:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4434"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ykc111
 highlights:
 
 # Homepage control params

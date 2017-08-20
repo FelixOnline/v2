@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park looks at the top film nominations in each category at the London Film Festival
 date: "2013-09-29 15:55:06 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3783"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jgp09
 highlights:
  - comment
  - longread

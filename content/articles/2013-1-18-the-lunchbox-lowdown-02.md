@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah with more NY Resolution-friendly healthy grub
 date: "2013-01-18 01:20:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3152"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - tna08
 highlights:
  - comment

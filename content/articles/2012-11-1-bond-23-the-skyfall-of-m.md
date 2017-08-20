@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bond is most definitely back
 date: "2012-11-01 23:00:33 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2804"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lw408
  - mc4509
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Department failed to tell students their bursary was being reduced
 date: "2011-01-27 18:24:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "652"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

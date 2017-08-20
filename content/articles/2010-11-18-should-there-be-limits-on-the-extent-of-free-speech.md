@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A range of opinions on the ever important issue of freedom of speech
 date: "2010-11-18 20:24:40 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "387"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jl807
  - ks607
 highlights:
  - longread

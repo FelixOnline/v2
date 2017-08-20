@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dwarf Fortress: challenging, captivating, and almost completely unheard of. Keir Little sheds some light on this hidden gem
 date: "2011-11-24 20:59:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1812"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kw911
 highlights:
  - longread
  - photos

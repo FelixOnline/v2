@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Grant interviews science writer Simon Singh.
 date: "2013-10-20 01:30:06 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3901"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cjg111
  - jal08
 highlights:
  - comment

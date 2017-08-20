@@ -4,7 +4,6 @@ title: >
 subtitle: >
   French female electro-pop artist hits the stage in Lyon
 date: "2011-10-28 10:47:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1638"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lwl09
 highlights:
  - comment
 

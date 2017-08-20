@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Crowd (get it?) power to the top 3
 date: "2012-11-29 21:43:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2980"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - tna08
 highlights:
  - photos

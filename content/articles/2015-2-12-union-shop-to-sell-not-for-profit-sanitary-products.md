@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Kaye, Deputy President (Welfare) passed paper in Council on Tuesday
 date: "2015-02-12 20:54:55 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5235"

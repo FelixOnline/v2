@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6808"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

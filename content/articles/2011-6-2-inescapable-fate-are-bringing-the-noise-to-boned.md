@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...in a big way
 date: "2011-06-02 19:51:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1313"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

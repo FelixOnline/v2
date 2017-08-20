@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Take a look at the stranger side of research at a new monthly event
 date: "2012-10-05 12:02:12 +0100"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2609"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - nn1209
+ - pk1811
 highlights:
 
 # Homepage control params

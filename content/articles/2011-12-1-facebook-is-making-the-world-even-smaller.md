@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A study examining 69 billion friendships on Facebook shows the average degrees of separation between two randomly chosen users to be 3.74
 date: "2011-12-01 19:49:05 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1862"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - ak6309
  - ams111
 highlights:
 

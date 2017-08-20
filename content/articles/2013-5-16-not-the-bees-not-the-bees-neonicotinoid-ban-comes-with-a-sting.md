@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laura Kor finds the link between bees, pesticides, and people waving dusters at trees
 date: "2013-05-16 18:09:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3578"
@@ -27,6 +26,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lbk10
  - tna08
 highlights:
  - comment

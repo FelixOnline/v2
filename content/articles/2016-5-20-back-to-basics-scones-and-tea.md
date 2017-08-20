@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX visits The Muffin Man Tea Shop for afternoon tea.
 date: "2016-05-20 09:18:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6190"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
+ - yyl114
 highlights:
 
 # Homepage control params

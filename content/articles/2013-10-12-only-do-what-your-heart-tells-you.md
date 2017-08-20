@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park on "Diana"
 date: "2013-10-12 00:51:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3842"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

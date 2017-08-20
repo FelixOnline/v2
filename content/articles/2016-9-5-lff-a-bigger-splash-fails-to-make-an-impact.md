@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite the best efforts of Swinton and co, Luca Guadagnino's latest dissapoints
 date: "2016-09-05 20:25:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6293"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Since his 2011 arrest, Iranian director Jafar Panahi’s fimmaking has become a cause célèbre in the cinema world. We take a look at his life, his work, and the events leading up to his ban on producing films.
 date: "2015-11-06 14:07:05 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5706"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ma7512
  - ygr12
 highlights:
  - comment

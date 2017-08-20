@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson finds out what the new Budget has to offer
 date: "2015-03-19 23:33:38 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5401"

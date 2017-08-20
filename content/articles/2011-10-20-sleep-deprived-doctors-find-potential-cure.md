@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Farhan Abdullah investigates whether certain drugs can bring about fatigued doctors
 date: "2011-10-20 20:42:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1557"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

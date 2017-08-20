@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Iacopo Russo discusses the benefits of taking part in the Engineers Without Borders Challenge where he solved a real life problem
 date: "2013-05-30 12:26:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3643"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - imr12
  - tna08
 highlights:
 

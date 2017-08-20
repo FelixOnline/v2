@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Last Exorcism? Probably not.
 date: "2013-06-05 12:18:38 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3650"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - mc4509
 highlights:
  - photos

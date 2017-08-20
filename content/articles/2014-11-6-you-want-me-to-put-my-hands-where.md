@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alisha Wong tries out the newest circus class to hit Imperial
 date: "2014-11-06 21:15:13 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4798"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aw3312
  - cj914
 highlights:
 

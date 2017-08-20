@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What’s in store for the rest of the scientific world?
 date: "2016-11-11 15:54:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6428"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sara.hamilton14
 highlights:
 
 # Homepage control params

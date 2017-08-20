@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Welcome back to the Kingdom of Albion! Fable is back!
 date: "2010-11-04 18:25:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "296"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skh10
 highlights:
 
 # Homepage control params

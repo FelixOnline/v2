@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Underwater Club takes a dive.
 date: "2014-11-06 21:11:42 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4797"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - mk3809
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stabbing took place last Monday
 date: "2015-01-29 23:40:19 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5155"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

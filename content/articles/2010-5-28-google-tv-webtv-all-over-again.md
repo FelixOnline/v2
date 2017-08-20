@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google's launched it's attempt to shoehorn the web into the living room, but will it succeed?
 date: "2010-05-28 10:48:44 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "141"

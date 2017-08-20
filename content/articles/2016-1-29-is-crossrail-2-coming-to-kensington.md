@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Local bosses publicly back plans to bring new rail link to the King’s Road
 date: "2016-01-29 08:44:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5834"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - pnk14
 highlights:
  - comment
  - photos

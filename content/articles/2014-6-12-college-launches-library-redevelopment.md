@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The College has announced plans for a major redevelopment of the Central Library. The project is scheduled to begin in a few weeks and is set to finish in late 2015, with work taking place mainly this summer and next summer to minimise disruption to students.
 date: "2014-06-12 17:59:34 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4689"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - me1711
+ - mtm10
 highlights:
  - comment
 

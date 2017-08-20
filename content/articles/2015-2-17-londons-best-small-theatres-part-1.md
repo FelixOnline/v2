@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg kicks off our guide to overlooked city venues
 date: "2015-02-17 16:55:18 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5268"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mff113
  - ps3110
 highlights:
  - comment

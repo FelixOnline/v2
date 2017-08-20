@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kurukgy looks into the research that earned them the recognition
 date: "2015-05-21 20:15:38 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5549"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - kmw13
+ - pnk14
 highlights:
  - comment
 

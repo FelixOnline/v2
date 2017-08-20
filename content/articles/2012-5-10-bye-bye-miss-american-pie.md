@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The gang get back together for another slice
 date: "2012-05-10 20:32:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2450"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's a way to go in the fight against discrimination, writes Stephen Smith
 date: "2012-02-09 23:01:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2167"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
  - longread

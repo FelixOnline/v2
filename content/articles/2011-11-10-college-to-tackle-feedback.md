@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Away Day yields recommendations for departments
 date: "2011-11-10 19:50:09 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1707"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ann09
 highlights:
 
 # Homepage control params

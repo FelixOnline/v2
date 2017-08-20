@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dell leaks details of five new mobile devices and new information about two already known
 date: "2010-04-30 11:39:05 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "133"

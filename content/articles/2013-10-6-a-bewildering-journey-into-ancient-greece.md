@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham reviews the latest fantasy offering from the BBC
 date: "2013-10-06 10:15:34 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3816"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ef510
  - jal08
 highlights:
  - comment

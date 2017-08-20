@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Titmuss defends the UK's renewal of (necessarily) scary nuclear weapons
 date: "2017-02-03 15:54:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6713"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - charlestitmuss
  - felix
 highlights:
 

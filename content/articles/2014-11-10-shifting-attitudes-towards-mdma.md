@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the medical side of the popular clubbing drug
 date: "2014-11-10 21:28:48 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4820"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ltr11
  - ps3110
 highlights:
  - comment

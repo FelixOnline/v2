@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Boris Johnson takes on the people in the Great Hall
 date: "2013-11-08 03:42:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4023"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ps3110
 highlights:
  - longread
 

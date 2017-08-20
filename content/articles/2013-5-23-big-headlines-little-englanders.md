@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Padraic Calpin gives you an update on recent happenings in British politics.
 date: "2013-05-23 22:11:14 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3610"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - phc11
  - tna08
 highlights:
  - comment

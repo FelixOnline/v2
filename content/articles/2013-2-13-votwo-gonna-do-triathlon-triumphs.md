@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hugh Mackenzie can't read a course map, but can run and cycle pretty well
 date: "2013-02-13 15:52:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3308"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - hm101
  - tna08
 highlights:
  - photos

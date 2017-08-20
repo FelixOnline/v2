@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John McDonnell was on campus last week
 date: "2015-11-27 11:49:29 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5771"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pnk14
  - ygr12
 highlights:
 

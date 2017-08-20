@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Comment sections across a broad variety of newspapers all share a common thread. The bulk of their published material will prove emotive for a sizeable portion of its readership...
 date: "2013-11-24 16:06:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4109"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ejt11
  - jal08
 highlights:
 

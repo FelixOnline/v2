@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our hero is so strong that all his battles end with one punch
 date: "2016-02-12 11:57:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5915"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

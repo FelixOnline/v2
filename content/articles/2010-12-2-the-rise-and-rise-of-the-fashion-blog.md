@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A select group of fashion obsessives are bringing fashion to the masses: Fashion Editor Saskia Verhagen explores the burgeoning online world of fashion blogging
 date: "2010-12-02 20:10:32 +0000"
-author_id: "stv07"
 
 # Attributes from Felix Online V1
 id: "460"

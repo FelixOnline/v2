@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The right to protest is being violated by those whose job it is to defend it
 date: "2012-11-22 23:58:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2953"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ls411
  - tna08
 highlights:
 

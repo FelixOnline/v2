@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik analyses the divide between the have and have-nots, and Britain’s arts class war
 date: "2015-01-31 18:37:40 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5165"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - im1413
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three dates set for 48-hour strikes
 date: "2016-02-26 11:20:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5954"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mjj15
 highlights:
  - comment
 

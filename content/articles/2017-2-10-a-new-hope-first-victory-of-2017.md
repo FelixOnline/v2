@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Excellent scramble defence kept Surrey just short of the line
 date: "2017-02-10 16:43:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6775"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jlo13
 highlights:
 
 # Homepage control params

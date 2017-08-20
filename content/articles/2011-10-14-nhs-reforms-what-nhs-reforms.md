@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fingers crossed for a vote against
 date: "2011-10-14 00:20:56 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1534"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - sjw209
+ - ss10210
 highlights:
  - comment
 

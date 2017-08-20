@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland reviews Peter Sellars’ contemporary take on a classic
 date: "2015-03-25 13:12:51 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5446"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
  - longread

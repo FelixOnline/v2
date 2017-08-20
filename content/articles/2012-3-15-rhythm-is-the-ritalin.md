@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on the intimate relationship between rhythm and sound
 date: "2012-03-15 21:26:36 +0000"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2382"

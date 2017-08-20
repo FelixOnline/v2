@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood on The Good, The Bad and The Ugly of studying
 date: "2013-01-10 22:32:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3087"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - csw09
  - tna08
 highlights:
  - photos

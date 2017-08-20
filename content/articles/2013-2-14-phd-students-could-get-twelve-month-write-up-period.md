@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College already on board
 date: "2013-02-14 13:13:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3320"

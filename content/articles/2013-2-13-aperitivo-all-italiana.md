@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yiango Mavrocostanti has some yummy Italian food at the Italian societies first event.
 date: "2013-02-13 14:12:01 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3301"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1310
 highlights:
 
 # Homepage control params

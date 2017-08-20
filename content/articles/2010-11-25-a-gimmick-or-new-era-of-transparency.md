@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hassan Joudi assesses the coalition’s new openness website
 date: "2010-11-25 21:18:15 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "438"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - hj408
  - nm1010
 highlights:
 

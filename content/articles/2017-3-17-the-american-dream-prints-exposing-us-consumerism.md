@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The American Dream: pop to the present is on at the British Museum until 18th June
 date: "2017-03-17 17:09:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6912"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - et1214
 highlights:
 
 # Homepage control params

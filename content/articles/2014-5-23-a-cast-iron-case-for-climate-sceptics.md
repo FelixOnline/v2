@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the ice caps leaking iron into the ocean
 date: "2014-05-23 13:46:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4618"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ps3110
 highlights:
  - comment
 

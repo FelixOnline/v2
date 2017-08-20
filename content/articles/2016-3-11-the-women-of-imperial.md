@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We take an uncensored look at female staff, graduate, and fresher experiences around college
 date: "2016-03-11 11:34:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6024"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - longread

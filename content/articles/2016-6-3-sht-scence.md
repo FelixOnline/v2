@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reminiscent geeks confirm: Super Mario Bros is hard
 date: "2016-06-03 09:18:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6237"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

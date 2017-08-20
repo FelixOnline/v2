@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Real G's wear white T's
 date: "2013-05-16 15:22:26 +0100"
-author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "3569"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - js2310
+ - me1409
 highlights:
  - photos
 

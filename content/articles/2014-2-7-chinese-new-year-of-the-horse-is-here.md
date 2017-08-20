@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don’t worry - no horse meat involved in the production of this issue...
 date: "2014-02-07 04:47:24 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4345"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ykc111
 highlights:
 
 # Homepage control params

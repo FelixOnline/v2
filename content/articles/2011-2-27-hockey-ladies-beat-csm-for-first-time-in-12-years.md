@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But the men have to wait another year to regain the Sharpley Cup
 date: "2011-02-27 19:54:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "922"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mp704
 highlights:
  - comment
 

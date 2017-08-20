@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plumbing the depths of society and swimming
 date: "2012-02-02 23:54:50 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2116"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - eoy05
  - sjw209
 highlights:
  - comment

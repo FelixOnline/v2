@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 2: In the beginning...
 date: "2013-11-05 09:38:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3997"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - ed812
  - jal08
 highlights:
 

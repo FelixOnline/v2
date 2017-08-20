@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at some of the best and worst dressed celebrities attending the prestigious event in Los Angeles
 date: "2015-02-12 23:50:18 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5250"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - czb11
  - jyg11
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Martin Parr brings together pictures of Britain as seen through the outsider's lens
 date: "2016-03-30 15:50:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6082"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
 highlights:
  - comment
 

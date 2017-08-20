@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The President of IC Wing Chun about misplaced chivalry in martial arts.
 date: "2013-11-15 02:23:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4066"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sm1712
 highlights:
  - comment
 

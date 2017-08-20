@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Byrne explores the wonders on offer
 date: "2013-06-13 22:47:21 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3682"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - slb210
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bottle match done
 date: "2017-03-03 16:14:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6855"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mb5313
 highlights:
 
 # Homepage control params

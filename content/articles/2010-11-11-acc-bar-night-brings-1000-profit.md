@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FiveSixEight passes ACC Bar Night test
 date: "2010-11-11 22:10:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "375"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

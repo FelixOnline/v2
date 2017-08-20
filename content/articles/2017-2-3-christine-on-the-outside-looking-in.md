@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rebecca Hall astonishes in this biopic of Christine Chubbuck, a Florida news reporter who killed herself live on air, which powerfully explores the events leading to her death in an anxiety-ridden tour de force
 date: "2017-02-03 16:48:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6720"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
  - longread

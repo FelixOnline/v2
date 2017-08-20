@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matthew Colvin is not convinced by the latest Hollywood invention
 date: "2012-02-09 23:11:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2171"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
  - photos
 

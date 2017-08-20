@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s time to start thinking about a post-work society
 date: "2015-11-27 14:20:35 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5776"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - ygr12
 highlights:
  - comment

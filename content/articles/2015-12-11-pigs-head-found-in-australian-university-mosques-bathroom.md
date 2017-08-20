@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student makes gruesome discovery before prayers last Sunday
 date: "2015-12-11 15:22:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5810"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Cook suggests something new for us all to try this 2012 - fret not, coding's actually easier to pick up than you think!
 date: "2012-01-19 20:16:13 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2011"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - mtc06
 highlights:
  - comment
 

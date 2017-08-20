@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious
 date: "2010-10-01 22:56:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "167"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
  - longread
 

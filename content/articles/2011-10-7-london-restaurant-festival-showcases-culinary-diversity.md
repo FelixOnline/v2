@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taking a look at some of the most exciting events of this two-week event
 date: "2011-10-07 13:08:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1496"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felfood
  - felix
 highlights:
 

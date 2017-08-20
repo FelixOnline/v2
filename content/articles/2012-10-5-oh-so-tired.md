@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on tiredness, phones and their tenuous link to commentary, and the Imperial College Healthcare Trust
 date: "2012-10-05 18:05:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2636"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chi-Raq marks a return to form for Spike Lee, and its breathless anger is urgently needed in these troubled times.
 date: "2016-12-09 15:47:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6581"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

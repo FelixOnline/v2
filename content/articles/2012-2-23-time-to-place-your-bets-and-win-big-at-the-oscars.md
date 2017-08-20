@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film gazes into the future and predicts the winners for this year’s Oscars – read at your own risk
 date: "2012-02-23 20:03:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2229"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffilm
 highlights:
  - photos
 

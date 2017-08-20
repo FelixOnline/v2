@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Complaints after high demand brings down registration system
 date: "2011-06-23 19:13:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1412"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - felix
 highlights:
 

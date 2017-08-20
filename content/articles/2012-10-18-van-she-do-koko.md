@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Van She supported by Sans Cisco take to the state in Camden
 date: "2012-10-18 21:33:46 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2712"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
 

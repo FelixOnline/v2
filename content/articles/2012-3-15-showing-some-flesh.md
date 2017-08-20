@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National Portrait Gallery Freudian slips into something more...
 date: "2012-03-15 19:58:03 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2353"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - rm2410
 highlights:
 
 # Homepage control params

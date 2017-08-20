@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park scrutinizes a film with one to many Ms
 date: "2012-01-26 22:10:47 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2054"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - jgp09
 highlights:
 
 # Homepage control params

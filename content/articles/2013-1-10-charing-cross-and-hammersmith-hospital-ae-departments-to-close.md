@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medical School may have to move, and all could happen in three years
 date: "2013-01-10 22:50:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3095"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

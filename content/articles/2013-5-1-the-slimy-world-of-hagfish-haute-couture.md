@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Hagger goes all haute couture
 date: "2013-05-01 19:20:04 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3521"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lh2010
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigation launched after £3 million exhaust system is built with wrong type of steel
 date: "2011-05-05 23:40:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1148"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

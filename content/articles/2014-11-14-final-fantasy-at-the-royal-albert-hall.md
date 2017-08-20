@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eamonn Postlethwaite attends the live performance of Final Fantasy music
 date: "2014-11-14 21:12:16 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4890"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ep1212
  - ps3110
 highlights:
  - comment

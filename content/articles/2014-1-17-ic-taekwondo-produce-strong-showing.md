@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last weekend saw Ethos sports centre nearly full to capacity as over one hundred and sixty competitors descended on Imperial College to take part in the Imperial College Open.
 date: "2014-01-17 04:45:41 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4265"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ng611
 highlights:
 
 # Homepage control params

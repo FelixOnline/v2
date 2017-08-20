@@ -4,7 +4,6 @@ title: >
 subtitle: >
   SurfSoc's 'frivolous' weekend in Devon
 date: "2010-11-18 21:22:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "406"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Full changes to be circulated by Monday. Agreed to in principle by Council. Changes to structure of some Boards
 date: "2012-10-11 20:23:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2641"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

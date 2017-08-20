@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We all know about the infamous ‘ratio’ at Imperial. Is it about the STEM subjects, just Imperial, or a worldwide issue? Matt Proctor and Eoghan J Totten investigate
 date: "2013-01-31 22:43:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3199"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
+ - mp1412
  - tna08
 highlights:
  - comment

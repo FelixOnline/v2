@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Obviously, the headline joke is rendered inaccurate when faced with the limitless storage space of the Felix servers
 date: "2011-11-18 00:42:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1799"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

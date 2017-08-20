@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Someone told me today that you shouldn’t write reviews of your own events. I obviously didn’t listen to their advice; after all, who can know better what went down at the RCSU events than people within the RCSU?! My sincerest apologies to the other constituent unions who are obviously lagging behind
 date: "2013-10-12 12:12:56 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3844"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ps3411
 highlights:
  - photos
 

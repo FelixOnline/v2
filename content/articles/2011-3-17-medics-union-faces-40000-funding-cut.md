@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Healthcare Charity to reduce support for Medic Union
 date: "2011-03-17 19:20:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1087"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
 highlights:
 

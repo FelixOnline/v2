@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Classic cinema of the week.
 date: "2011-02-03 19:48:48 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "726"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - nm1010
 highlights:
 

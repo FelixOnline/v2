@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We’ll do all the cool militant wing stuff like pixelate our faces when we go on the news, and claim responsibility for any errors found in exams, that sort of thing
 date: "2011-06-11 17:31:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1360"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

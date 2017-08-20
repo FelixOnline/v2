@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Summer lovin’, happened so fast
 date: "2016-10-03 16:53:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6300"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mjj15
 highlights:
  - longread
  - photos

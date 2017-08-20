@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster takes a tour through the island of Android bundle 5
 date: "2013-03-15 01:43:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3479"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
  - longread

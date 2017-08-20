@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An introduction to the world of Sharia-compliant finance
 date: "2010-12-09 19:29:02 +0000"
-author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "505"

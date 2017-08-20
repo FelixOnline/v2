@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the war between developers and consumers continues, Apple continues to dominate the applications market
 date: "2011-10-27 22:19:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1615"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sjc108
 highlights:
 
 # Homepage control params

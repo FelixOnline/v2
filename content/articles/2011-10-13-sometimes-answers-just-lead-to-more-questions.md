@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucia Podhorska takes a retrospective look at LOST
 date: "2011-10-13 23:06:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1519"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lp707
 highlights:
 
 # Homepage control params

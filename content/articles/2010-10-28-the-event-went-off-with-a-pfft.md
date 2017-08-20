@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This genre of television is so vague you dream up the missing narrative so the writers don’t have to
 date: "2010-10-28 19:49:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "279"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

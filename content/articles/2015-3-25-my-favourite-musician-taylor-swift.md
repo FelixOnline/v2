@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey takes us through the multitude of joys that is TayTay
 date: "2015-03-25 11:49:45 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5421"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - tad08
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Baroness Eliza Manningham-Buller questions current status of UK cannabis legalisation
 date: "2011-11-24 22:15:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1829"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
  - photos
 

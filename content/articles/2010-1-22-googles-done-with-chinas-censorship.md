@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Worthington takes a look at the story that has the technology press going crazy over censorship
 date: "2010-01-22 19:04:37 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "56"

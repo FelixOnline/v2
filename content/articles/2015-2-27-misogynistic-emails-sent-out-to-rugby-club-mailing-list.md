@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Social Secretary, who sent emails, now banned from mailing list
 date: "2015-02-27 00:07:40 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5309"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - ps3110
 highlights:
  - comment
 

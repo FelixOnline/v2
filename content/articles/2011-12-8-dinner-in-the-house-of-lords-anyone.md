@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two tickets up to grab at the RCSU Science Challenge launch
 date: "2011-12-08 20:07:14 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1908"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - pjb09
  - pk1811
 highlights:
 

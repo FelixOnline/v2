@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Editor Joe Letts gives a hurried welcome while putting together the Freshers' issue...
 date: "2013-09-28 00:03:32 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3766"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - jal08
 highlights:
  - comment

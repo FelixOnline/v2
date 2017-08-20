@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park enters FX’s American Horror Story: Freak Show
 date: "2014-11-10 22:09:17 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4838"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - ps3110
 highlights:
  - photos

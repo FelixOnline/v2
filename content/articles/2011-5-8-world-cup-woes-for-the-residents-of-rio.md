@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The effects will be devastating for hundreds of thousands across the country
 date: "2011-05-08 13:28:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1179"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - felix
 highlights:
  - comment

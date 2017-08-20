@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is hip-hop finally casting the spotlight on mental health issues, violence and gender identity?
 date: "2016-11-18 15:42:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6483"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mazenalmaskati
 highlights:
  - longread
  - photos

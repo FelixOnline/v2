@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Malaysian Society introduce this year’s event
 date: "2013-03-01 00:07:15 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3400"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - tna08
 highlights:
  - photos

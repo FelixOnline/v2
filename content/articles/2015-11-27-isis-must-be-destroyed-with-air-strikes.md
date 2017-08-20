@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a clash between civilisation and barbarism – and civilisation must triumph
 date: "2015-11-27 14:19:37 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5775"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cw3413
  - ygr12
 highlights:
  - comment

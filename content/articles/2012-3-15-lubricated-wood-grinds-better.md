@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists at Imperial College have improved the process of converting pine wood into biofuels
 date: "2012-03-15 19:39:17 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2345"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - kw911
 highlights:
 
 # Homepage control params

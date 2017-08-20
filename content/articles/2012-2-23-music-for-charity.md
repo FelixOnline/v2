@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Raincatcher Imperial hosts a night at Metric in the name of charity
 date: "2012-02-23 21:42:23 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2260"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mim11
  - pk1811
 highlights:
 

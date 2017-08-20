@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Traits humans share – teaching, communication, imitation, helping others – may be the cause of our ability for cumulative culture
 date: "2012-03-08 20:16:11 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2313"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - skd09
 highlights:
 
 # Homepage control params

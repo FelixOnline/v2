@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game.
 date: "2014-03-11 18:18:00 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4482"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jch111
  - me1711
 highlights:
 

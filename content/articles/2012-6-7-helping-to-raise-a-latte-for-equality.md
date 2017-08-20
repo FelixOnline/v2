@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Starbucks is more than just a coffee house
 date: "2012-06-07 19:53:00 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2535"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - rjd08
 highlights:
 
 # Homepage control params

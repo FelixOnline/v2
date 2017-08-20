@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gilead Amit and the abuse of sympathy
 date: "2010-02-01 17:09:39 +0000"
-author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "65"

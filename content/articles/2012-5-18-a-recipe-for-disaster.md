@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett weighs up the pros and cons of publishing research on H5N1
 date: "2012-05-18 11:16:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2468"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ps3110
 highlights:
  - comment
 

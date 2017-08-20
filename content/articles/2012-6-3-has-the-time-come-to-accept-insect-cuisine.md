@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meat and fish? It may well be all about insects
 date: "2012-06-03 16:10:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2521"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lap08
 highlights:
  - comment
 

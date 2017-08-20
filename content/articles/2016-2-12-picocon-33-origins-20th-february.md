@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The annual convention returns
 date: "2016-02-12 12:01:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5918"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - nm2713
 highlights:
  - comment
 

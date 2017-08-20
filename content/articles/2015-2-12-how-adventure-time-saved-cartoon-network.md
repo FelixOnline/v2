@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin reviews the highlights of an absolutely crazy cartoon
 date: "2015-02-12 23:19:04 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5248"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - tr511
 highlights:
 
 # Homepage control params

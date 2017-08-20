@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whatever happened to Morphy Day, more to the point, what is Morphy Day? Jovan Nedi&#263; looks back at the forgotten inter-faculty sporting events of Imperial&8217;s illustrious past
 date: "2010-02-05 17:27:39 +0000"
-author_id: "jn104"
 
 # Attributes from Felix Online V1
 id: "78"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jn104
+ - rsp07
 highlights:
  - comment
  - longread

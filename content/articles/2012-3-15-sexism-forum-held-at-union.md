@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discussion follows rejection of feminist society by the New Clubs Committee
 date: "2012-03-15 21:36:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2388"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - kw911
  - pk1811
 highlights:
  - comment

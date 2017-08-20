@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The director tells us about their very unusual interpretation of a seasonal favourite
 date: "2010-10-14 19:20:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "203"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - oh106
 highlights:
 
 # Homepage control params

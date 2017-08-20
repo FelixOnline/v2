@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Disney made a doc!
 date: "2016-02-05 12:34:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5878"
@@ -21,7 +20,7 @@ tags:
  - film
  - imported
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

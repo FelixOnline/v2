@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly talks about Equality in the Media
 date: "2014-11-06 18:26:59 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4763"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ck2513
  - snb11
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week five Imperial chemists were rewarded for their contributions to chemical sciences with prizes from the Royal Society of Chemistry.
 date: "2014-05-16 01:36:51 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4593"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kmw13
 highlights:
 
 # Homepage control params

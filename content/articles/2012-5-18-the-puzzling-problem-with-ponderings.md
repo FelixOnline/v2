@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Something to mull over
 date: "2012-05-18 06:36:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2464"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

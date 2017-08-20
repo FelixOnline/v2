@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Fernando interviews Tom Welton, the new Dean of Natural Sciences from January 2015.
 date: "2014-11-10 22:46:29 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4847"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - ps3110
 highlights:
  - comment

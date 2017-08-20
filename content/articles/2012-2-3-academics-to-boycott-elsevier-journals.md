@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thousands to refuse work related to publisher over profit-making tactics
 date: "2012-02-03 00:14:09 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2118"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - pk1811
 highlights:
  - longread

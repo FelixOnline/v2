@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cross-departmental timetabling could be introduced by October 2012
 date: "2011-06-23 19:10:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1411"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

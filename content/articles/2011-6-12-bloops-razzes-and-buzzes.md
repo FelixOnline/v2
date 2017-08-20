@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DJ Niceberg on his neo-rave madness
 date: "2011-06-12 16:06:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1366"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - wab108
 highlights:
 
 # Homepage control params

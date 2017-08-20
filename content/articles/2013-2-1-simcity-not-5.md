@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Josh Price gives us his thoughts on last weekend’s SimCity beta
 date: "2013-02-01 00:00:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3219"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jjp10
  - tna08
 highlights:
  - longread

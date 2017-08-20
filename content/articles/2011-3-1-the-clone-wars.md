@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The science behind Never Let Me Go
 date: "2011-03-01 21:45:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "977"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tbc09
 highlights:
  - longread
 

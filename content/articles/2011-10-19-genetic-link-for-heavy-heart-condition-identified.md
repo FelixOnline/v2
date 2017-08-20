@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven investigates the latest hereditary discoveries surrounding the heart
 date: "2011-10-19 11:09:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1552"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - fsci
 highlights:
 
 # Homepage control params

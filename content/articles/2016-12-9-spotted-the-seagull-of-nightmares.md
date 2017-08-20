@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Coles tells the story of a vicious murder she witnessed whilst in search of a quiet cuppa
 date: "2016-12-09 12:07:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6565"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - eva.coles13
 highlights:
 
 # Homepage control params

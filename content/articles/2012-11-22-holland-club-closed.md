@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Commercial services to run Level 0 pub. Holland Club set to close on 21 December 2012. No current offer of alternate premises. Campaign to save the club didn’t work
 date: "2012-11-22 22:38:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2931"

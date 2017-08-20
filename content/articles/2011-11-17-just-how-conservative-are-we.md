@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton on Imperial’s political viewpoint
 date: "2011-11-17 21:16:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1773"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
 

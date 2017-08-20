@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Poking action
 date: "2016-11-25 14:53:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6518"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jps112
 highlights:
 
 # Homepage control params

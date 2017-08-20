@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Silwood Park music festival hailed as a 'massive success' by organisers
 date: "2011-10-06 23:26:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1466"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

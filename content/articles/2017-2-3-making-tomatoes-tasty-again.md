@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ipsita Herlekar explains how taste and flavour can be brought back in tomatoes
 date: "2017-02-03 16:37:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6718"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ -  ipsita.herlekar
 highlights:
  - comment
 

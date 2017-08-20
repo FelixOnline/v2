@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If things eventually go tits-up, people will invariably come to you for answers
 date: "2011-06-02 19:27:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1307"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

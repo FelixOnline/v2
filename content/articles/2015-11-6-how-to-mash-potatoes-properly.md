@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Smash might be easy, but it won’t impress your housemates like this will
 date: "2015-11-06 14:04:00 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5705"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - sb6213
  - ygr12
 highlights:
  - comment

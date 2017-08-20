@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don't judge a place by its handle
 date: "2012-01-19 21:03:54 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2025"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - sh1207
 highlights:
 
 # Homepage control params

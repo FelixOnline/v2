@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the RCSU Summer Ball just around the corner, James Tsim, RCSU President, talks about the year that has just gone by
 date: "2013-06-13 23:42:58 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3699"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jt2010
  - tna08
 highlights:
 

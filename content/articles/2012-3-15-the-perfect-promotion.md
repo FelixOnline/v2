@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Rugby 1sts promoted to South Premier B after battle with St Mary’s - Chris McGeough reports
 date: "2012-03-15 22:13:31 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2395"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cm708
  - pk1811
 highlights:
 

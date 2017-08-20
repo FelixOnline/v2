@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “It makes me want to throw up, it really does. It’s sick-making"
 date: "2012-11-29 23:08:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3004"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - lw408
  - tna08
 highlights:
 

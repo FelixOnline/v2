@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the search for respectful business, respect the community
 date: "2012-02-09 23:07:54 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2169"

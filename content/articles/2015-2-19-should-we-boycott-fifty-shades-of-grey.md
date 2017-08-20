@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey thinks that it’s time to talk about domestic violence
 date: "2015-02-19 23:52:10 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5276"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - tad08
 highlights:
  - comment
  - longread

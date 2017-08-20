@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Corrie Berry tries to find the magic in the new season
 date: "2012-10-26 02:39:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2751"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb607
  - tna08
 highlights:
 

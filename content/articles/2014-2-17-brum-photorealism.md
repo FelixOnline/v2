@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You’d be forgiven for thinking that London is the place to be for everything arts related...
 date: "2014-02-17 19:36:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4402"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - lwl09
 highlights:
  - photos
 

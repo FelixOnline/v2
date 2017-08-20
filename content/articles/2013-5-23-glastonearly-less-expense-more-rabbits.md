@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lara Meade introduces the festival put on at Imperial
 date: "2013-05-23 22:33:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3621"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lm3712
  - tna08
 highlights:
 

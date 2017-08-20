@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The future is here and you’ll look like a fool wearing it
 date: "2016-02-05 12:42:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5881"
@@ -25,7 +24,12 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
+ - ea3211
  - felix
+ - ff712
+ - im1413
+ - sa8713
 highlights:
  - comment
 

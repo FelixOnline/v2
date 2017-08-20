@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Victoria Charlton on a surprising discovery and a resisitor that remembers
 date: "2012-06-07 18:51:25 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2525"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - vc11
 highlights:
 
 # Homepage control params

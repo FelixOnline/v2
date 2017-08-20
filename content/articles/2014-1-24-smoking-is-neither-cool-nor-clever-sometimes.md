@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anand Jagatia discovers that one beast breathes nicotine, not fire
 date: "2014-01-24 09:58:34 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4288"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - arj212
  - jal08
 highlights:
 

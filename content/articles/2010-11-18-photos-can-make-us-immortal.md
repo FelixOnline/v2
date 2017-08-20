@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What I’m saying is that photos should be our biographies. And unlike written ones, they’re easy to make
 date: "2010-11-18 22:13:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "419"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

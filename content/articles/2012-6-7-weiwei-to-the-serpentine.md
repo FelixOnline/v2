@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The perfect summer hangout spot is ten minutes from Imperial
 date: "2012-06-07 18:47:55 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2524"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - lj1409
 highlights:
  - photos
 

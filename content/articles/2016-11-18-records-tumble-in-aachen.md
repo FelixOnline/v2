@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They're all dabbing...
 date: "2016-11-18 17:08:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6489"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - dm4114
 highlights:
 
 # Homepage control params

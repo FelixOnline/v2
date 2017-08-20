@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If your costume is culturally insensitive I hope you don’t get laid at ACC
 date: "2015-10-30 12:49:53 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5687"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - the angry grad
  - ygr12
 highlights:
  - comment

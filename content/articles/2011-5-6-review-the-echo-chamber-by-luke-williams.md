@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A beautifully woven reflection on a life of regret and unresolved identity
 date: "2011-05-06 08:52:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1163"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ht910
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers at Imperial have been part of a global team whose latest research is giving greater insight into what caused tens of thousands of fatalities during last year’s H1N1 pandemic
 date: "2010-11-04 18:45:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "310"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ec610
  - felix
 highlights:
 

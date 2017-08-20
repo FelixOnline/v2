@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kings Park Capital founder Jason Katz talks to Imperial Investors Club, Deepka Rana reports
 date: "2012-03-01 22:43:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2289"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dr710
  - felix
 highlights:
  - comment

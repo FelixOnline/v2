@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX takes a look at their second offering of the year
 date: "2015-10-23 11:51:43 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5675"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cet13
  - ygr12
 highlights:
 

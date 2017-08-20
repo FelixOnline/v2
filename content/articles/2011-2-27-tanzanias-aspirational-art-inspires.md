@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The TEKUA Education Centre gathers funding by selling the art of its students
 date: "2011-02-27 19:18:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "910"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ts3110
 highlights:
  - comment
 

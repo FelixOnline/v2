@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charlotte Levin takes us to the strange party that is Nintendisco: a celebration of games, music and geekery
 date: "2011-03-18 08:48:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1115"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cl3510
  - felix
 highlights:
  - comment

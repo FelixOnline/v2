@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new clinical trial from joint research with Imperial College and King’s College could bring an end to the summer sneezing
 date: "2012-10-22 12:18:16 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2728"
@@ -22,7 +21,12 @@ tags:
  - imported
  - image
 authors:
+ - ams111
+ - jcw108
+ - mml110
+ - mtm10
  - pk1811
+ - ps3110
 highlights:
  - longread
  - photos

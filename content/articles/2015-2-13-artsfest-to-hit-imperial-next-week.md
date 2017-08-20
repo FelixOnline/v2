@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan McNaught on the biggest Arts Event on the Union's calendar.
 date: "2015-02-13 14:36:54 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5252"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - jdm11
 highlights:
 
 # Homepage control params

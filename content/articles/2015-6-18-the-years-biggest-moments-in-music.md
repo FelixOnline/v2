@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman reflects on the events of a year that hasn’t really ended
 date: "2015-06-18 19:56:51 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5631"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - ygr12
 highlights:
  - longread
 

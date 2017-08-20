@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But where did all the measurables go?
 date: "2017-01-27 14:17:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6683"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
  - photos

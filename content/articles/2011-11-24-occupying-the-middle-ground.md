@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When it comes to political ideology, it might be a good idea to be a little open-minded
 date: "2011-11-24 23:13:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1848"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

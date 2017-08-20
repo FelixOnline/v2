@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steve Bohnel reflects on the results of Wednesday’s election
 date: "2016-11-11 13:56:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6421"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - stebo101
 highlights:
  - photos
 

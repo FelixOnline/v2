@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hope for Choroideremia patients with clinical trial
 date: "2011-11-03 19:56:52 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1659"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - felix
 highlights:
 
 # Homepage control params

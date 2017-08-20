@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At The Drive-In
 date: "2012-01-12 22:52:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1994"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gj309
 highlights:
 
 # Homepage control params

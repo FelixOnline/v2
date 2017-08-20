@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A stragetic and minimalist first-person shooter where time moves with you
 date: "2016-03-18 11:55:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6065"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - me1711
 highlights:
 
 # Homepage control params

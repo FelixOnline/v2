@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial computing student organises memorial
 date: "2016-10-31 13:41:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6361"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
  - photos
 

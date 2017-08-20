@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Victory to be had in the Midlands
 date: "2012-02-09 23:13:18 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2172"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - ec209
  - pk1811
 highlights:
 

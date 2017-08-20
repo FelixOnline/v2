@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Canadian duo played the Roundhouse
 date: "2015-11-06 14:21:22 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5712"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - sla112
  - ygr12
 highlights:
 

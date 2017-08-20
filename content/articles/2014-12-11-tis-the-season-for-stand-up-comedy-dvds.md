@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How many of these will be under YOUR Christmas tree in a few weeks time?
 date: "2014-12-11 21:16:27 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5035"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - gg2110
 highlights:
  - comment
 

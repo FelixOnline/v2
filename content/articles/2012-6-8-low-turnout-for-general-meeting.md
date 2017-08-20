@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Idea proposed of changing Sabbatical roles
 date: "2012-06-08 08:35:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2542"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
+ - tna08
 highlights:
  - comment
  - photos

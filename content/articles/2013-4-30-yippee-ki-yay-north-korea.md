@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Olympus Has Fallen review
 date: "2013-04-30 10:40:06 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3501"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

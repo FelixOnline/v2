@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After having been woken up by bright lights and house music at three o’clock in the morning, it’s safe to say that I was barely awake when me, Siân, Will and Sophie got into Sophie’s car at 05.45...
 date: "2014-05-23 14:19:06 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4625"
@@ -21,7 +20,12 @@ tags:
  - sport
  - imported
 authors:
+ - ae307
+ - ah1011
  - jal08
+ - lmf12
+ - sm4209
+ - wlj05
 highlights:
  - longread
 

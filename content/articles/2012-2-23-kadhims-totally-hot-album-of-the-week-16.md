@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sleigh Bells - Reign of Terror - Mom & Pop - 2012
 date: "2012-02-23 20:57:44 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2248"

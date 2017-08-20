@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oluwatosin Ajayi reviews DramSoc’s Earthquakes in London
 date: "2012-11-29 22:06:01 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2986"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ooa110
  - sjw209
 highlights:
 

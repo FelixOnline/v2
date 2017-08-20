@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alumni help to create funded degrees
 date: "2013-03-01 00:43:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3408"

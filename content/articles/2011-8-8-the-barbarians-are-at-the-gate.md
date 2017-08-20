@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As Morrisons begins to stock truffles on its shelves, Sam Furse dives headfirst into the world of supermarkets to find out why
 date: "2011-08-08 13:52:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1454"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sf305
 highlights:
  - comment
 

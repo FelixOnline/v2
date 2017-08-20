@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik asks: where do revolution and artistic expression collide?
 date: "2014-12-18 16:20:20 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5074"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ff712
+ - im1413
 highlights:
  - longread
  - photos

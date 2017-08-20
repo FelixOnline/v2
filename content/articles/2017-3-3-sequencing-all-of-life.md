@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Riach discusses plans to create a full genetic map of all life on Earth
 date: "2017-03-03 15:11:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6841"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

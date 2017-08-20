@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Millenials lack the sense of collective purpose that defined previous generations
 date: "2016-04-29 11:05:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6111"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ap4913
 highlights:
  - comment
 

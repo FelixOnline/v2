@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle thinks that a gesture is due to those of us who care
 date: "2015-03-09 19:01:11 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5374"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

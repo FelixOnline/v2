@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl is dismayed after the Apple’s offering at the latest keynote
 date: "2013-09-29 16:36:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3793"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - me1711
 highlights:
 
 # Homepage control params

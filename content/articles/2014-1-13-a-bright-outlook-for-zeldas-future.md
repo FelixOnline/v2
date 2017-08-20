@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Linking ages past and present
 date: "2014-01-13 12:42:59 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4205"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Irreversible closure announced in Tom Wheeler's latest council report
 date: "2015-04-30 23:06:23 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5474"

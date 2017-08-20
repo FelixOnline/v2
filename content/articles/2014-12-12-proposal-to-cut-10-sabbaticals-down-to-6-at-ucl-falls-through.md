@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Campaigners for huge cuts in number of sabbs vow they "will be back".
 date: "2014-12-12 12:47:06 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5047"

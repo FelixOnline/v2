@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In-keeping with the shearling trend for winter, Felix checks out Ugg’s competition, which comes in the unusual form of CAT’s uber-functional and furry footwear. By: Jennifer Smith
 date: "2010-11-11 20:37:30 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "341"

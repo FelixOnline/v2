@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government’s white paper on higher education is out and it’s official, fees won’t stay at nine grand
 date: "2016-05-20 08:48:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6173"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

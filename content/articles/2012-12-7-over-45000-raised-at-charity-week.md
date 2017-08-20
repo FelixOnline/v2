@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An incredible success and a large amount raised for charity after some expensive cakes
 date: "2012-12-07 01:02:07 +0000"
-author_id: "ar3310"
 
 # Attributes from Felix Online V1
 id: "3029"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - ar3310
+ - AR3310
+ - he110
 highlights:
  - photos
 

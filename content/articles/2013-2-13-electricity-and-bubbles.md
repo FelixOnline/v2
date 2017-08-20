@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Devgon asks what ever could go wrong...
 date: "2013-02-13 20:04:04 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3315"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pd111
  - tna08
 highlights:
 

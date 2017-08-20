@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Football win, but it's not as big a victory as the title may suggest
 date: "2013-03-15 02:01:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3482"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - sd3510
  - tna08
+ - ww709
 highlights:
  - photos
 

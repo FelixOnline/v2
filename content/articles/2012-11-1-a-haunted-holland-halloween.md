@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gaming at the Holland Club
 date: "2012-11-01 22:57:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2802"
@@ -21,6 +20,7 @@ tags:
  - games
  - imported
 authors:
+ - rw507
  - tna08
 highlights:
 

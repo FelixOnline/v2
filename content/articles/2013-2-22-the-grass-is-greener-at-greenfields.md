@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Witham reviews the independent café Greenfields
 date: "2013-02-22 03:02:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3378"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ctw11
  - tna08
 highlights:
 

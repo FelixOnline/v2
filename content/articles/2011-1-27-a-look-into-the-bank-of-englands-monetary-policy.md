@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shiang Jin Chin argues that the central bank’s critics on the right are wrong to advocate fiscal tightening in the midst of a weak economy and high unemployment
 date: "2011-01-27 19:30:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "670"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sjc108
 highlights:
 
 # Homepage control params

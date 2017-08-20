@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lesson 8: Blakfish
 date: "2012-03-01 23:16:46 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2298"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - gj309
 highlights:
 
 # Homepage control params

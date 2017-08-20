@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster is ready for the probing
 date: "2013-01-24 21:07:03 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3156"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - rw507
 highlights:
 
 # Homepage control params

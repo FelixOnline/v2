@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Conmen drove the student to a cash point after meeting him near Beit
 date: "2016-05-20 08:49:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6174"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

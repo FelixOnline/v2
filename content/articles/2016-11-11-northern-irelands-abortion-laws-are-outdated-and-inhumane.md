@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Purdy discusses the archaic abortion laws of Northern Ireland and the obstacles in getting them changed
 date: "2016-11-11 13:57:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6422"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - michael.purdy14
 highlights:
  - photos
 

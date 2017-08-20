@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They played with a youthful exuberance
 date: "2016-02-26 11:50:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5971"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Intrinsically manly, some might argue. felix investigates the rise of sous-vide technology, and how it can turn the most manly of dishes into something more refined.
 date: "2016-11-18 15:24:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6477"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
 highlights:
 
 # Homepage control params

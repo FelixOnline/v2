@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Weekend win on the cards
 date: "2012-01-20 12:09:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2041"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

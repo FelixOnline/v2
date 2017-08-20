@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial suffers 0.1% decrease from 2011 to 2012
 date: "2012-02-02 23:58:42 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2117"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ann09
  - sjw209
 highlights:
 

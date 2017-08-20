@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial seals the deal in the dying seconds
 date: "2011-02-24 20:11:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "883"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - fk208
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Experiment reveals accuracy of new solar neutrino data
 date: "2011-10-13 21:36:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1508"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

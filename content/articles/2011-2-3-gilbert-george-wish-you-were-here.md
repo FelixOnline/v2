@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The postcard display at the White Cube gallery until 19th Feb .
 date: "2011-02-03 19:39:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "720"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
 highlights:
 

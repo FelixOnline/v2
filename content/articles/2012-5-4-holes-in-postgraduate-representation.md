@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Falling through the net as a Masters student
 date: "2012-05-04 00:17:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2419"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - vh108
 highlights:
  - comment
 

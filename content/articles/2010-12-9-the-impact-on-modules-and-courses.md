@@ -4,7 +4,6 @@ title: >
 subtitle: >
   cuts to staff will not affect teaching
 date: "2010-12-09 21:27:40 +0000"
-author_id: "dr910"
 
 # Attributes from Felix Online V1
 id: "534"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - dr910
+ - mc4509
 highlights:
 
 # Homepage control params

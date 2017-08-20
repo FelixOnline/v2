@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Flynn gives us the lowdown from Ponyville, and proof that anything we get sent does actually get printed
 date: "2012-02-02 22:43:14 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2102"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sff10
  - sjw209
 highlights:
  - comment

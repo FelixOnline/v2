@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Technology Editor: Yong Wen Chua reveals a bunch of tech secrets for y’all!
 date: "2013-09-29 16:30:57 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3792"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ywc110
 highlights:
  - longread
 

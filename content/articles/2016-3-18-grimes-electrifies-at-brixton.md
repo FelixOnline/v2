@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ribbon ninjas!
 date: "2016-03-18 12:00:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6072"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - longread
 

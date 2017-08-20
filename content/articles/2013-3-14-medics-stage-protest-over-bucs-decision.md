@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICSM President thinks it's BUCing awful
 date: "2013-03-14 23:58:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3456"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

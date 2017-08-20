@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The French are experiencing a renewed involvement in world affairs
 date: "2013-01-18 00:28:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3133"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as9810
  - tna08
 highlights:
  - comment

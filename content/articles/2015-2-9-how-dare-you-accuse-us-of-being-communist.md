@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt meets the Socratic Society’s committee
 date: "2015-02-09 18:04:34 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5213"

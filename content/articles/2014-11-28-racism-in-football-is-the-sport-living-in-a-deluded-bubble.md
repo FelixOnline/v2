@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl asks the question we are all considering at the moment.
 date: "2014-11-28 01:05:25 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4974"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - kmw13
+ - me1711
 highlights:
 
 # Homepage control params

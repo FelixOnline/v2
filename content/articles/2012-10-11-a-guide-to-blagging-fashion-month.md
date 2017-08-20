@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If one more person asks me what ‘actually happens’ during fashion week I will stub you with my Manolo
 date: "2012-10-11 20:54:05 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2658"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - stv07
  - tna08
 highlights:
 

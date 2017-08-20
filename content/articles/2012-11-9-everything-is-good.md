@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England may seem a bit too content by that title, but it's about a band...
 date: "2012-11-09 14:03:08 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2866"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
 

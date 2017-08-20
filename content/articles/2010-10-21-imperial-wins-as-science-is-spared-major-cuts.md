@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Budget announcements met with tentative positivity across the scientific spectrum
 date: "2010-10-21 19:30:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "242"
@@ -23,6 +22,9 @@ tags:
  - image
 authors:
  - felix
+ - klb09
+ - mc4509
+ - skd09
 highlights:
  - longread
 

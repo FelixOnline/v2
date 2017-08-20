@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is a six year queue worth it for 25% off? Jamie Dutton investigates
 date: "2014-12-04 19:29:15 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4998"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jdd11
 highlights:
  - comment
 

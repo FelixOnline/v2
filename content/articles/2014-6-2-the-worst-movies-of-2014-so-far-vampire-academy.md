@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As if the vampire world was not crowded enough as it is, we get another young-adult literary adaptation that makes the Twilight franchise look appealing.
 date: "2014-06-02 12:58:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4645"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

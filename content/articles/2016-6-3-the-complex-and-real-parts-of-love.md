@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Netflix’s new rom-com series does not disappoint
 date: "2016-06-03 09:25:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6240"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

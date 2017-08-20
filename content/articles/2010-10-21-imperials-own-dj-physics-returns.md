@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gregory Power interviews Imperial Physics graduate Martin Archer
 date: "2010-10-21 19:38:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "247"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stars to return for sequel?
 date: "2013-05-16 18:17:08 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3582"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lw408
  - tna08
 highlights:
  - photos

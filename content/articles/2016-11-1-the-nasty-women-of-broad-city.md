@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They're not likable, they're not strong and independent, they're real
 date: "2016-11-01 00:02:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6375"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

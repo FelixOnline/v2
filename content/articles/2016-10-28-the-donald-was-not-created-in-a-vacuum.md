@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shaul Rosten explains why Donald Trump’s candidacy isn’t much of a surprise after all
 date: "2016-10-28 14:59:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6350"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - shaul.simmonds--
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mo Mirza hits the Spector show to find the future of guitar pop
 date: "2012-11-29 22:59:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2997"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mum09
  - tna08
 highlights:
  - comment

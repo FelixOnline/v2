@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews some of this year’s highlights that we didn’t cover at the time (sorry)
 date: "2014-05-02 01:28:27 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4551"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

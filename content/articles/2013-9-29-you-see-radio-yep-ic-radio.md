@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher introduces IC Radio
 date: "2013-09-29 16:14:32 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3787"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gb1311
  - tna08
 highlights:
 

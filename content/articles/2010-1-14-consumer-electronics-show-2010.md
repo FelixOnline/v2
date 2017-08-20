@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our highlights and picks from the year's biggest gadget exhibition straight out of the City of Sin
 date: "2010-01-14 16:18:30 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "30"

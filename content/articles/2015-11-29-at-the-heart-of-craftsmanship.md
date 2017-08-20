@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hand Gestures has an interesting premise, and is done skilfully, but fails to excite
 date: "2015-11-29 16:45:48 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5784"

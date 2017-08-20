@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the biggest names playing every week, it’s no wonder people choose to return to Fabric again and again
 date: "2011-01-27 20:40:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "700"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - egk08
  - felix
 highlights:
 

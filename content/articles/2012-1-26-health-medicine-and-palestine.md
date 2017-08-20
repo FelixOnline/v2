@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Palestinian Society report on a talk by Gaza volunteer Dr. Mads Gilbert
 date: "2012-01-26 22:24:13 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2061"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nh1209
  - pk1811
 highlights:
  - photos

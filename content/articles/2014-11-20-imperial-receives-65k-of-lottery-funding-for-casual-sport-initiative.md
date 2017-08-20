@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt reports on Sport Imperial’s new programme, Impetus
 date: "2014-11-20 22:05:16 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4922"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bwh12
  - cj914
 highlights:
  - comment

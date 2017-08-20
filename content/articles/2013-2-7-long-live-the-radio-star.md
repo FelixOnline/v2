@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter on why radio is still as relevant as ever
 date: "2013-02-07 22:47:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3245"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sh1207
  - tna08
 highlights:
  - comment

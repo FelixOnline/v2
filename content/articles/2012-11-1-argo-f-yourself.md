@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Affleck's lastest outing as a director is a masterclass in dark comedy and political satire
 date: "2012-11-01 23:04:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2808"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klb09
  - tna08
 highlights:
 

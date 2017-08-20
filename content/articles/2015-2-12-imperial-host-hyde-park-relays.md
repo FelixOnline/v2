@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Cross Country places 3rd in the women's race and 4th in men's.
 date: "2015-02-12 22:34:17 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5241"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - md2610
 highlights:
  - comment
 

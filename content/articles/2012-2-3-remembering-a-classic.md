@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Guy Needham reviews The English Patient, a handsome, well-acted, and Oscar-winning picture that retains timeless appeal
 date: "2012-02-03 17:05:35 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2134"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gln09
  - sjw209
 highlights:
 

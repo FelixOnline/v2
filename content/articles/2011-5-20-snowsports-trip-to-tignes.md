@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Playing the claim game
 date: "2011-05-20 03:09:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1214"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gh209
 highlights:
  - comment
  - photos

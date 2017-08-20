@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Carr talks to James Bezer on his role in the Rosetta expedition and just how hard it is to do science in space
 date: "2014-11-21 13:34:21 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4932"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb3112
  - ps3110
 highlights:
  - longread

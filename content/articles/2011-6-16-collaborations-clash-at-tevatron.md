@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Conflicting evidence over particle 'discovered' by Collider Detector at Fermilab
 date: "2011-06-16 20:04:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1388"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ko407
 highlights:
 
 # Homepage control params

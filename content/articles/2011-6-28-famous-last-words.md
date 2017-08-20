@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gregory Power wishes you a fond farewell
 date: "2011-06-28 11:21:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1441"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

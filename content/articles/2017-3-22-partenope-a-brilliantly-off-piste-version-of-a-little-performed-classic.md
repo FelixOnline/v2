@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In Partenope, Claire Chan finds the most entertaining opera she has seen this year
 date: "2017-03-22 17:09:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6921"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
  - photos
 

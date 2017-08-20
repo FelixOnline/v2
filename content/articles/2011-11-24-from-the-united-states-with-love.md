@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton looks back at the Special Relationship
 date: "2011-11-24 21:28:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1821"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rtf08
 highlights:
 
 # Homepage control params

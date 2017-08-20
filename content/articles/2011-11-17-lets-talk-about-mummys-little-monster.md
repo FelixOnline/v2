@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A trippy, synaesthetic nightmare, says Henry Turner-Chambers
 date: "2011-11-17 22:21:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1793"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ffilm
 highlights:
 
 # Homepage control params

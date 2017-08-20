@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's Sir Francis Bacon's birthday!
 date: "2011-01-20 19:37:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "610"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jp1010
 highlights:
  - comment
 

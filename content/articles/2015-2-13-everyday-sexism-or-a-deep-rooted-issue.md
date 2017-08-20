@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Femsoc introduce their new campaign, ICSexism
 date: "2015-02-13 14:56:44 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5255"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - nk2914
 highlights:
 
 # Homepage control params

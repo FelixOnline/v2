@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Careers Service gives advice to graduands about the job search after Imperial.
 date: "2013-10-20 02:00:08 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3905"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - jal08
 highlights:
 

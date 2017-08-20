@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ainsley Harriot discusses his life, work and recipes in conversation with Anastasia Eleftheriou
 date: "2011-11-03 21:33:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1688"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - felix
 highlights:
  - comment

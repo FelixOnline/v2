@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi reviews Nordic trumpetist Arve Henriksen’s latest effort
 date: "2014-03-26 16:49:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4512"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ra2410
 highlights:
 
 # Homepage control params

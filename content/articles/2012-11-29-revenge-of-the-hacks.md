@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union must be hacked off by all the hacking puns.
 date: "2012-11-29 21:54:18 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2982"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jal08
  - sjw209
 highlights:
  - comment

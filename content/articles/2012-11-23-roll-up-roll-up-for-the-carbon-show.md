@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Antonia Weitzer on the annual conference in London
 date: "2012-11-23 00:33:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2973"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aw1612
  - tna08
 highlights:
  - photos

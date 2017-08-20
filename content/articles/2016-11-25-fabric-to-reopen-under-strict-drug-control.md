@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Because who doesn’t love soberly flailing about to techno?
 date: "2016-11-25 13:19:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6492"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - theo.farah13
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Becky Lane tells of the issues with ephemeral initiatives
 date: "2012-10-26 02:33:50 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2748"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - rl1209
  - tna08
 highlights:
  - comment

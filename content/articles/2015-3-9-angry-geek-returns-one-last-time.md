@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The infamous A. Geek on what has changed at Imperial over the years
 date: "2015-03-09 19:06:00 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5375"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mrangry
  - ps3110
 highlights:
  - comment

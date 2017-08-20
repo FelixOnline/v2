@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICUWRFC finish off their incredible season in style
 date: "2013-05-16 17:52:15 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3574"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch2010
  - tna08
 highlights:
  - photos

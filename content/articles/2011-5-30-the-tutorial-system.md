@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A short guide to academic support at Imperial
 date: "2011-05-30 14:18:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1287"
@@ -21,6 +20,8 @@ tags:
  - news
  - imported
 authors:
+ - ci107
+ - dpe
  - felix
 highlights:
 

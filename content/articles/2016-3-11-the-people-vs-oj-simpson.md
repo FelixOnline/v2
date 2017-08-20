@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If ever a piece was fitting of the descriptor ‘ensemble cast’, this would be it
 date: "2016-03-11 12:06:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6044"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4013
 highlights:
  - comment
 

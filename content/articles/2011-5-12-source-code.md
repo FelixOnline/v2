@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski turns his eye to Hollywood's latest sci-fi offering
 date: "2011-05-12 16:38:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1191"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

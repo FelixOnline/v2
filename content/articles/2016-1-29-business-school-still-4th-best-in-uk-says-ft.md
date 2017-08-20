@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s full time MBA slipped one place internationally, making it 35th in the world
 date: "2016-01-29 08:47:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5836"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

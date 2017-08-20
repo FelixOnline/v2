@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Edward Bals takes us back to the 90s with Twin Peaks
 date: "2013-01-24 21:53:49 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3162"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - eb1710
  - mc4509
 highlights:
 

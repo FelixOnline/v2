@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial, Oxford, and Cambridge join forces against Government policy
 date: "2011-12-08 20:12:06 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1910"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ann09
  - pk1811
 highlights:
 

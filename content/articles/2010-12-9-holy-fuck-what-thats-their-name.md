@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chaos and noise, as Holy Fuck dominate the Electric Ballroom
 date: "2010-12-09 20:26:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "522"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

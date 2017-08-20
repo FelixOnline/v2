@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What to look out for after exams
 date: "2013-01-10 23:14:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3109"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - ffilm
  - tna08
 highlights:
  - longread

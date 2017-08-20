@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wooh!
 date: "2017-03-10 14:39:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6885"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - do1114
 highlights:
 
 # Homepage control params

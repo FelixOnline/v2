@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The course will also help students with UCAS and Medical school applications
 date: "2015-06-19 13:17:22 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5641"

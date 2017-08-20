@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 1 – Slint
 date: "2012-05-03 17:47:48 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2406"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - ra2410
 highlights:
 
 # Homepage control params

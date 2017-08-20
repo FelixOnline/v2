@@ -4,7 +4,6 @@ title: >
 subtitle: >
   (tho how can you not like waking people with a big stick?)
 date: "2017-03-10 14:46:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6889"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gabrielng
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   AMS’ album of the week
 date: "2012-10-11 21:29:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2680"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fmusic
 highlights:
 
 # Homepage control params

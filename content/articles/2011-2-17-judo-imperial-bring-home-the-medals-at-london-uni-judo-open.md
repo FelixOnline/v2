@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Judo club in nine medal haul
 date: "2011-02-17 20:54:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "855"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jw508
 highlights:
 
 # Homepage control params

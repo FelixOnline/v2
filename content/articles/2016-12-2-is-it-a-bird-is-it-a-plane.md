@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yeah, it’s a plane
 date: "2016-12-02 16:45:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6550"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - amywhistlecroft
  - felix
 highlights:
  - photos

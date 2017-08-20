@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola takes on the ENO's gospel interpretation
 date: "2014-12-18 16:07:12 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5067"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - ff712
 highlights:
  - photos

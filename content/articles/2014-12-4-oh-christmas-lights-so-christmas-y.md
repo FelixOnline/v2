@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discover the local spotlights of London’s Christmas suit with Yung Nam Cheah
 date: "2014-12-04 19:05:19 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4992"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ync111
 highlights:
 
 # Homepage control params

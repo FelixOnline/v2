@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nick Farmer doesn’t think that there’s any rationale in being Green
 date: "2015-02-09 19:48:17 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5228"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nf311
  - ps3110
 highlights:
 

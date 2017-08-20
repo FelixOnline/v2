@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher argues that the BBC are alright, what other organisation would publicly grill its boss?
 date: "2012-11-16 17:17:58 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2920"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - tna08
 highlights:
  - comment

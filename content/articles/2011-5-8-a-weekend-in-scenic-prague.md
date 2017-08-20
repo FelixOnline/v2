@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nazi plots, fine beer, and gorgeous architecture
 date: "2011-05-08 13:26:55 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1178"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - mm7109
 highlights:
 
 # Homepage control params

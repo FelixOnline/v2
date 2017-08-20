@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imran Reviews: Games of the Century
 date: "2014-01-15 16:09:56 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4207"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ir112
  - me1711
 highlights:
 

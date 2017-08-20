@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stay with us for the latest developments as Alex Bellotti comments on Aaron Sorkin's return to the small screen
 date: "2012-07-10 11:43:58 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2584"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - tvfelix
 highlights:
  - comment
  - longread

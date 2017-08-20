@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look back at Ender’s Game – Orson Scott Card’s first great masterpiece
 date: "2012-03-01 21:40:02 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2278"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - mtm10
 highlights:
 
 # Homepage control params

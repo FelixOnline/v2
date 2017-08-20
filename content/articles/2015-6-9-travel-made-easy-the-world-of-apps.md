@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah shares some useful mobile apps for your travel
 date: "2015-06-09 15:10:47 +0100"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5607"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brief History of P h o e n i x
 date: "2012-06-14 21:05:00 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2575"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - pk1811
 highlights:
 

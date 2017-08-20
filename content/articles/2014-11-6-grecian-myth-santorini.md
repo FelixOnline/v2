@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emmilyn Yeoh tells us the ups and downs of this popular island
 date: "2014-11-06 20:42:43 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4790"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ey112
 highlights:
 
 # Homepage control params

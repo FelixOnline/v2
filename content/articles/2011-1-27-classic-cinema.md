@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The film of an 'era': Jurassic Park
 date: "2011-01-27 20:03:48 +0000"
-author_id: "jh308"
 
 # Attributes from Felix Online V1
 id: "684"

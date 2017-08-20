@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fellwanderers are up to their usual antics including experiencing some of Europe’s most stunning scenery
 date: "2010-10-14 19:41:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "211"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - scm106
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yiango shares her latest recipe. This time, strawberry cupcakes for the perfect treat.
 date: "2012-11-09 12:36:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2849"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1310
 highlights:
 
 # Homepage control params

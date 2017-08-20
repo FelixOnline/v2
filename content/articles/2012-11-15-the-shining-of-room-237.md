@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The creepy masterpiece is back on the big screens
 date: "2012-11-15 21:49:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2903"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
  - photos

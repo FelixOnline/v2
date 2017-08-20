@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our first fixture, last week, saw us pitted against UCL’s 2nd team, a team we were initially quietly confident we would beat with ease.
 date: "2013-11-05 09:56:20 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4012"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - as7511
  - jal08
 highlights:
 

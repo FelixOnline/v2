@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Adkins gives a short guide to the great South American continent
 date: "2011-02-28 20:59:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "938"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - la410
 highlights:
  - longread
 

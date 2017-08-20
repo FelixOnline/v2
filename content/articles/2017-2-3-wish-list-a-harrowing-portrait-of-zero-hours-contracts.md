@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Quinn and Erin Doherty as Dean and Tamsin will enchant you
 date: "2017-02-03 17:00:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6725"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - wbe15
 highlights:
 
 # Homepage control params

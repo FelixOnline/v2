@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Some pure beauty from last year
 date: "2013-02-01 00:48:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3233"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I do not want to be competing against an 140 year old for jobs
 date: "2010-12-02 21:50:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "498"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - dww07
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students visit Liverpool and Manchester for a fun weekend away from London
 date: "2015-02-20 00:34:34 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5289"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jms411
  - ps3110
 highlights:
 

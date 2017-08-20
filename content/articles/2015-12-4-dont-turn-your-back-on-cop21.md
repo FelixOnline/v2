@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are all responsible for demanding action on climate change
 date: "2015-12-04 15:19:06 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5795"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jk2413
  - ygr12
 highlights:
  - comment

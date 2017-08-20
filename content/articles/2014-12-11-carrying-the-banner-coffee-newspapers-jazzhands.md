@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt reports on the caffeine-fuelled epic that was MTSoc’s Autumn season
 date: "2014-12-11 21:23:24 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5038"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - cj914
 highlights:
 

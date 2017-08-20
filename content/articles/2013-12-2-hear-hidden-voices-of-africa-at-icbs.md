@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two local men, Chris and Ally, saw the plight of teenagers and decided to set up a centre where young people can learn basic skills. Together, through much personal sacrifice, they purchased a building in Usa River, about twelve miles outside Arusha.
 date: "2013-12-02 13:13:04 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4148"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - fcomment
  - jal08
 highlights:
 

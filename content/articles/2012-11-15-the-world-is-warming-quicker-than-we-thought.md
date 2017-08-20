@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Sheldon discusses a new study assessing climate models against observations, which provides worrying results
 date: "2012-11-15 21:01:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2888"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ls411
  - tna08
 highlights:
  - comment

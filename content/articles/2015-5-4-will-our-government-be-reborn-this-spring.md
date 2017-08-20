@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Resurrections in politics are not always a good thing
 date: "2015-05-04 16:17:07 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5487"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck2513
  - ps3110
 highlights:
 

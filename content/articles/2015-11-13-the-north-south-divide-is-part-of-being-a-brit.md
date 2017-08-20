@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why can’t we stop making fun of each other’s accents and get along?
 date: "2015-11-13 14:33:23 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5726"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - je615
  - ygr12
 highlights:
  - comment

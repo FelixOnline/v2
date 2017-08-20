@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on a trail revealing the most effective pre-natal monitoring technique
 date: "2015-03-20 00:48:13 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5416"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - ltr11
 highlights:
 
 # Homepage control params

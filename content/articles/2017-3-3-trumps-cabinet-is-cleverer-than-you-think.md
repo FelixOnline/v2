@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Luisi compares the language used by Trump's administration and the Party in Orwell's 1984
 date: "2017-03-03 14:41:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6838"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - alexanderluisi
  - felix
 highlights:
  - comment

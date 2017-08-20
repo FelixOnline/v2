@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Council votes to let Hobson live to play another day
 date: "2014-12-10 15:15:07 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5023"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A game based on a movie based on a game
 date: "2016-05-20 09:17:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6189"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

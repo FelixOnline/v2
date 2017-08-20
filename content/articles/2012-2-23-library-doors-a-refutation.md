@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new library doors are "a menace", says Ned Yoxall
 date: "2012-02-23 20:40:54 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2239"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - eoy05
 highlights:
 
 # Homepage control params

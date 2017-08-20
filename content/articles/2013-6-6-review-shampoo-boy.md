@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray explores Peter Rehberg’s dark new collaboration
 date: "2013-06-06 19:47:23 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3669"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - rbg10
  - tna08
 highlights:
  - comment

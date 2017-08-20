@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Young was more than just a physicist, he also made fortunes in insurance
 date: "2011-11-17 21:02:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1767"

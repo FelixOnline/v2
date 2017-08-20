@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Beating off burglars with his tennis racket?
 date: "2011-06-23 20:57:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1430"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
 highlights:
 

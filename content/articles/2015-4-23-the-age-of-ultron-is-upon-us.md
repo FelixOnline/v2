@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s time for the final entry in Marvel’s ‘Phase Two’, as the Avengers come together once more to face their greatest foe
 date: "2015-04-23 14:15:31 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5468"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - js5913
  - ps3110
 highlights:
  - comment

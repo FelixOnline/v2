@@ -4,7 +4,6 @@ title: >
 subtitle: >
   UK “difficult and unattractive” for overseas students
 date: "2016-03-18 11:32:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6052"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

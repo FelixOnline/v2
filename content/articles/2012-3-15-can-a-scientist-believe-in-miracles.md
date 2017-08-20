@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Faux discusses the apparent conflict between science and religion
 date: "2012-03-15 21:37:50 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2389"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - jf1210
 highlights:
  - comment
 

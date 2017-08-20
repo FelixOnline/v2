@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nina Freeman’s Cibele is a deeply personal vignette exploring the awkward sensuality of online relationships in your teens
 date: "2015-11-13 14:52:11 +0000"
-author_id: "cet13"
 
 # Attributes from Felix Online V1
 id: "5734"

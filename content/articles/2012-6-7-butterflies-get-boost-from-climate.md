@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Global warming is not bad for everything, it turns out
 date: "2012-06-07 18:56:34 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2526"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hrw11
  - pk1811
 highlights:
 

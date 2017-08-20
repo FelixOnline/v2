@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The club has been placed on hiatus pending investigation
 date: "2015-01-22 19:42:20 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5104"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - ps3110
 highlights:
  - comment
 

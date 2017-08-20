@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar"
 date: "2012-11-29 23:15:20 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3010"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - eh508
 highlights:
  - longread
 

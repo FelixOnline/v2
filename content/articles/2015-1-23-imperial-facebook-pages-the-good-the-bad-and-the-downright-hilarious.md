@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A general overview of the stuff populating our feeds
 date: "2015-01-23 01:21:34 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "5121"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - ps3110
 highlights:
  - comment
  - photos

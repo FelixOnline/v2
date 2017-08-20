@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Masiej Matuszewski attends the BAFTA preview of Sky One’s latest comedy series of all-star Christmas specials
 date: "2010-11-18 20:46:19 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "392"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - nm1010
 highlights:
 

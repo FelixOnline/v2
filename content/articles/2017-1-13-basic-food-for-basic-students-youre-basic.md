@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix has your back just in case you can’t find a space in the library to study and you’re forced to stay home a.k.a no more library cafe food for you
 date: "2017-01-13 14:58:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6650"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
  - longread
 

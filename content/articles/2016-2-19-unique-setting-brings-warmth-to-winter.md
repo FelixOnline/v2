@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Globe’s The Winter’s Tale is striking in its clever use of an intimate atmosphere
 date: "2016-02-19 12:17:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5941"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mj1611
 highlights:
 
 # Homepage control params

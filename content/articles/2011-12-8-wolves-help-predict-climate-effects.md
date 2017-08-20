@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Evolution linked to climate change, say Imperial
 date: "2011-12-08 20:31:46 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1913"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - sb1911
 highlights:
 
 # Homepage control params

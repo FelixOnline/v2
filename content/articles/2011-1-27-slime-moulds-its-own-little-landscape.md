@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new study shows that some amoeba exhibit a primitive form of agriculture
 date: "2011-01-27 18:57:52 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "660"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - mjl07
 highlights:
 
 # Homepage control params

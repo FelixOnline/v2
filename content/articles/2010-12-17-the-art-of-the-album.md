@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Celebrating the 30th anniversary of Peter Gabriel’s career as a musician and songwriter
 date: "2010-12-17 11:32:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "559"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - felix
 highlights:
  - photos

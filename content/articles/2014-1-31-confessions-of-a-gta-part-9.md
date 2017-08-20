@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Here, let me Google that for you... Actually, that’s not our job
 date: "2014-01-31 17:52:45 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4324"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - gta
  - jal08
 highlights:
 

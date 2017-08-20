@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We're back for round two
 date: "2017-01-20 15:21:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6669"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4013
 highlights:
  - comment
  - photos

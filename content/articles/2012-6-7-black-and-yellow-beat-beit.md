@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Southwell and Bernard Sunley Hornets FC conquer Beit FC to lift the Interhall Football Championship trophy. Rob Hollinshead and Mateusz Zarucki report on a Harlington showdown
 date: "2012-06-07 19:23:40 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2531"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - mz1309
  - pk1811
+ - reh11
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   GTAs are helpful only when asked nicely
 date: "2013-11-15 02:28:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4070"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - gta
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   War is waged on the astroturf and scores are settled by the stick
 date: "2012-02-16 23:32:15 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2221"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jzy08
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Osama Awara discusses the challenges behind the high speed transport system
 date: "2015-02-03 14:53:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5184"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - oa1612
  - ps3110
 highlights:
  - comment

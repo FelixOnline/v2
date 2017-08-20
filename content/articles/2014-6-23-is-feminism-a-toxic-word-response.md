@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A response from members of the Feminist Society...
 date: "2014-06-23 13:13:25 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4709"
@@ -22,6 +21,8 @@ tags:
  - imported
 authors:
  - jal08
+ - klh110
+ - ml2909
 highlights:
 
 # Homepage control params

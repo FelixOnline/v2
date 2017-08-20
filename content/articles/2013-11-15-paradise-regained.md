@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Heaven catches Paradise Lost’s 25th anniversary show
 date: "2013-11-15 18:05:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4078"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - th2212
 highlights:
 
 # Homepage control params

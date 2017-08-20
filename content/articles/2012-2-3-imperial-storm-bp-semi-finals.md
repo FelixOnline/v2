@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nine students take leading positions
 date: "2012-02-03 00:34:29 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2122"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - sjw209
 highlights:
  - comment

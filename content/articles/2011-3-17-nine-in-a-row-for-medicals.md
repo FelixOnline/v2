@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medics dominate second half to win JPR Williams Cup
 date: "2011-03-17 21:52:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1107"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jn104
 highlights:
 
 # Homepage control params

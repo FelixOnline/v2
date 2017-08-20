@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eoghan Totten analyses students' complaints
 date: "2013-06-20 16:30:58 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3704"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ejt11
  - tna08
 highlights:
  - comment

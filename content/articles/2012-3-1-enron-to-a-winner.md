@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DramSoc take on big business
 date: "2012-03-01 22:00:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2282"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
  - photos
 

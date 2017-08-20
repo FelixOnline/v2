@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on Acton, and a bit on the Translation Studies Unit – the line from College is rather vague at the moment
 date: "2013-03-01 00:58:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3413"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson summarises your sexual satisfaction
 date: "2015-06-04 23:32:36 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5599"

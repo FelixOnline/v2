@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduate studies in the USA
 date: "2011-06-23 19:17:05 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1413"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - tfn08
 highlights:
 
 # Homepage control params

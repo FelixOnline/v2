@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science and art collide in a no-holds barred battle for the ages
 date: "2013-01-24 23:07:25 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3170"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - mc4509
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber meets CaSE director and Imperial alumnus Imran Khan
 date: "2011-06-09 21:07:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1347"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about London’s first comedy book festival
 date: "2013-12-02 22:10:54 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4165"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

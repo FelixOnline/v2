@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonah Beaudin discusses the internet’s propensity for turning tragedies into jokes
 date: "2016-10-21 12:38:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6345"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jgb215
 highlights:
 
 # Homepage control params

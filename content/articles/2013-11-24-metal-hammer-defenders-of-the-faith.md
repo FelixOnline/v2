@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Heaven watches some of metal’s biggest bands
 date: "2013-11-24 16:24:21 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4119"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - th2212
 highlights:
  - photos
 

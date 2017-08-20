@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With a highly anticipated third album on its way, Lily Le explains the history of this five man band
 date: "2011-11-24 22:17:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1830"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lwl09
 highlights:
 
 # Homepage control params

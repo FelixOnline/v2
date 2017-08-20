@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's Grantham Institute says that more needs to be done to stop climate change
 date: "2010-10-21 19:03:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "231"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - pab10
 highlights:
  - comment
 

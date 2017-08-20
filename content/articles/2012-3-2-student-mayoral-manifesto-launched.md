@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mayoral debate planned for Imperial
 date: "2012-03-02 01:06:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2302"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kw911
 highlights:
 
 # Homepage control params

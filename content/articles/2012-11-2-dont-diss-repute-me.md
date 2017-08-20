@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editorial on what matters, what could matter, what doesn't matter, and my glasses
 date: "2012-11-02 11:23:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2827"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

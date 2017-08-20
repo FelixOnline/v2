@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The team's project 'Ecolibrium' not only landed them the Gold Medal but five other major prizes.
 date: "2016-11-11 11:50:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6415"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

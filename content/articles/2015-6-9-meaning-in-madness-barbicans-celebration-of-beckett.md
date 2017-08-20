@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles heads to the Barbican, where they are currently celebrating the work of Samuel Beckett, to watch Lessness and Waiting for Godot
 date: "2015-06-09 11:59:52 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5605"

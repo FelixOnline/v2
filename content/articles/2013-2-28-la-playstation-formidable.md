@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster ponders the alpha of the next-gen pack
 date: "2013-02-28 17:48:10 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3381"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Joseph savours the curry delights and tries to decipher their origin
 date: "2010-11-18 21:13:34 +0000"
-author_id: "aj710"
 
 # Attributes from Felix Online V1
 id: "403"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - AJ710
  - aj710
 highlights:
 

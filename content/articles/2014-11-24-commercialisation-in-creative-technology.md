@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Xuan Chen discusses his disappointing trip to the UK Apps Conference
 date: "2014-11-24 12:58:42 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4947"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - xc3313
 highlights:
 
 # Homepage control params

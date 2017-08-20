@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week 2,700 students graduated from various postgraduate course in the Royal Albert Hall.
 date: "2014-05-09 01:58:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4567"

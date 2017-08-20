@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sanchit Sharma on why ‘Free’ is more than you expect
 date: "2011-11-17 21:38:11 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1782"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - ss9011
 highlights:
 
 # Homepage control params

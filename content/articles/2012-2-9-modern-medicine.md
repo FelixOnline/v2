@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The latest Friends of Imperial College talks takes a look into recent work from the Human Genome Project
 date: "2012-02-09 22:54:33 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2166"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - lap08
  - pk1811
 highlights:
 

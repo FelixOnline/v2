@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Fashion Designer - Emma Amoafo
 date: "2012-06-14 20:44:25 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2569"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - pk1811
 highlights:
  - photos

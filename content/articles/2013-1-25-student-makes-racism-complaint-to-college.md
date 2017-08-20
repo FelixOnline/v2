@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student angered by being stopped and asked for ID
 date: "2013-01-25 01:16:33 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3175"

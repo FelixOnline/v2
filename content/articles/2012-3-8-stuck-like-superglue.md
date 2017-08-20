@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists have developed a promising new method of fixing biological molecules to each other
 date: "2012-03-08 19:20:50 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2310"

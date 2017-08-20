@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber interviews Hot Chip
 date: "2010-01-14 14:34:14 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "27"

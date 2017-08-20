@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sabbatical elections get under way
 date: "2011-03-01 20:46:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "957"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

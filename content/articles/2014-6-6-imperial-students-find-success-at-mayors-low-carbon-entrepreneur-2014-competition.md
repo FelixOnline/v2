@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Wednesday, Imperial students James Winfield and Dominic Jacobson won the Mayor of London’s Low Carbon Entrepreneur 2014 award.
 date: "2014-06-06 02:14:02 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4652"

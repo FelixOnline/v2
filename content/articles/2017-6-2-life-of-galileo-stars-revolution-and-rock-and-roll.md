@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Boyega impresses in an otherwise lacklustre adapation of George Büchner's unfinished play. Woyzeck is on at the Old Vic until 24th June
 date: "2017-06-02 13:17:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6991"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

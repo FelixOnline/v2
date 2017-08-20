@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saad Ahmed fanboys about why the Nintendo 3DS is the greatest handheld console to date
 date: "2017-06-09 15:25:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7018"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
  - longread
  - photos

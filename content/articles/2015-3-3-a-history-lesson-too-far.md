@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred reviews the Tate Britain's exhibition on salt prints
 date: "2015-03-03 14:14:56 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5322"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
  - photos

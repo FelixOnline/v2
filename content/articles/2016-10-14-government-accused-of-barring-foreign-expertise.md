@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calling it a misunderstanding doesn’t make it better
 date: "2016-10-14 09:56:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6330"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - so515
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Poem by Kadhim
 date: "2011-06-09 17:53:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1327"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

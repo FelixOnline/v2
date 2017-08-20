@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will a mega-merger in the brewing industry save big beer?
 date: "2015-10-23 11:15:09 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5664"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ah1514
  - ygr12
 highlights:
  - comment

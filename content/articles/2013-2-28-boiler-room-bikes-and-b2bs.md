@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray gets a taste of the Red Stripe Make Session series
 date: "2013-02-28 23:28:10 +0000"
-author_id: "rbg10"
 
 # Attributes from Felix Online V1
 id: "3387"

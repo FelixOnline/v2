@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Les Misérables gets five stars from John Park
 date: "2013-01-18 01:10:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3150"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - longread

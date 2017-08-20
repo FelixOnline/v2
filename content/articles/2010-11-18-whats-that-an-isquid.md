@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Incipio Dotties iPhone 3GS case reviewed by Andrew McDonagh
 date: "2010-11-18 20:05:34 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "382"

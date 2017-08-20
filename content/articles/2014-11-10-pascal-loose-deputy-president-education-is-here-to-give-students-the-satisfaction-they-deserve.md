@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bernadett Tildy interviews Felix’s favourite DPE
 date: "2014-11-10 23:29:11 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4852"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bet12
  - ps3110
 highlights:
  - longread

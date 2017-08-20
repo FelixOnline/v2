@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey on the global conspiracy to keep her away from Prince Harry
 date: "2013-10-18 21:39:49 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3894"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - tad08
 highlights:
 
 # Homepage control params

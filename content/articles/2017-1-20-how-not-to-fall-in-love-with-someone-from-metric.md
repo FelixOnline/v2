@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Remember that one night stand in Metric? Time to deal with the fallout.
 date: "2017-01-20 15:58:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6679"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
+ - tad08
 highlights:
  - longread
  - photos

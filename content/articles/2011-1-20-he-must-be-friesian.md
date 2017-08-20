@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ski Trip spots Super Cow shredding up the slopes!
 date: "2011-01-20 20:50:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "634"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - erb09
  - felix
 highlights:
  - comment

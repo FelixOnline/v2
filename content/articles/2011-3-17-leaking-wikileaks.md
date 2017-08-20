@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Domscheit-Berg compares the cult-like organization of Wikileaks to that of the Church of Scientology
 date: "2011-03-17 21:30:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1102"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anywhere else, there would be wild uproar, but Imperial has a different demographic
 date: "2015-12-04 15:15:08 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5794"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - ygr12
 highlights:
  - comment

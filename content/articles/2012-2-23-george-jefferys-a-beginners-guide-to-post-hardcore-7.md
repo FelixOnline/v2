@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lesson 7: Meet Me In St. Louis
 date: "2012-02-23 21:37:10 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2258"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - gj309
 highlights:
 
 # Homepage control params

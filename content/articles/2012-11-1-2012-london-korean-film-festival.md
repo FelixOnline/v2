@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park checks out the latest offerings from Korea
 date: "2012-11-01 23:07:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2810"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - longread

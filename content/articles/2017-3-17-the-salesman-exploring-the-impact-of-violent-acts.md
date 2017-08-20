@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Asghar Farhadi’s Academy Award-winning film examines how single incidents spiral out, affecting all aspects of our lives, as a couple deal with the fallout from an assault committed in their own home.
 date: "2017-03-17 17:07:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6911"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - lawrencegood
 highlights:
 
 # Homepage control params

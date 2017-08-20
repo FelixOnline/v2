@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three Imperial teams through to the final of the Engineers Without Borders Challenge Finals
 date: "2013-05-30 12:26:51 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3644"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - tna08
 highlights:
  - photos

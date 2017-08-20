@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A controversial theme gives way to a resolutely feel-good film
 date: "2011-10-27 21:42:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1613"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jgp09
 highlights:
  - comment
 

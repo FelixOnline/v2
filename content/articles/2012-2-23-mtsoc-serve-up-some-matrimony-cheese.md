@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Wedding Singer is an excellent watch for the end of the month
 date: "2012-02-23 19:42:06 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2224"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ep1410
  - pk1811
 highlights:
  - comment

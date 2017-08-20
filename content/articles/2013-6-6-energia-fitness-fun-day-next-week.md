@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Free classes on Wednesday 19 June for all students
 date: "2013-06-06 12:57:34 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3663"

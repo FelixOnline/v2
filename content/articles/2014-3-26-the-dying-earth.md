@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Jack Vance’s highly influencial series set far in the future on a dying planet Earth
 date: "2014-03-26 13:28:01 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4500"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Key Stories from the Holiday Season
 date: "2013-01-10 22:21:55 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3085"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - phc11
 highlights:
 
 # Homepage control params

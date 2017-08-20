@@ -4,7 +4,6 @@ title: >
 subtitle: >
   2010 was a turning point for the euro
 date: "2011-01-13 20:04:13 +0000"
-author_id: "tm1510"
 
 # Attributes from Felix Online V1
 id: "574"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - TM1510
  - tm1510
 highlights:
  - comment

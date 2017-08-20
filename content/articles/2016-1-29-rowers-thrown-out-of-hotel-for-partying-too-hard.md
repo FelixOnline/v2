@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Venue bars non-medic boat club after accusations of damage and disorder
 date: "2016-01-29 08:43:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5833"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

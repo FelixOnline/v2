@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-03 09:30:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6242"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

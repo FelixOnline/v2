@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Balaji looks at the Moto 360 which the US firm hopes will turn heads this Christmas
 date: "2014-11-24 12:56:51 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4946"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pmb14
  - ps3110
 highlights:
  - comment

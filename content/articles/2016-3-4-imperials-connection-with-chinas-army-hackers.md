@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cybersecurity firm found university that will open centre at White City was recruitment hotbed
 date: "2016-03-04 11:19:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5993"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bdw14
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Waving goodbye to the Space Shuttle and saying hello to the private sector
 date: "2011-05-12 19:42:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1209"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ap1509
  - felix
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elke Wynberg on hockey destroying UCL.
 date: "2012-11-29 23:14:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3009"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ew509
  - tna08
 highlights:
 

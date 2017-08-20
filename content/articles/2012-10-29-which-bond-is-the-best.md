@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film rates the Bonds to see who we think is the best. Let the arguments start...
 date: "2012-10-29 18:15:03 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2775"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No matter what we say, or do, we seem stuck in a whirlpool of superficiality
 date: "2010-11-18 22:15:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "421"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - blacksheep
  - felix
 highlights:
  - comment

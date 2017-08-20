@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Local Natives: Hummingbird
 date: "2013-02-01 00:57:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3237"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sm5810
  - tna08
 highlights:
 

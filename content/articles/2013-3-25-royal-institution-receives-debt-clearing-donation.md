@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anonymous donation announced at special general meeting could save historic Albermarle Street premises
 date: "2013-03-25 18:08:54 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3497"

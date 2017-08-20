@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lonely fishkeepers vidicated: fish can tell when you’re being a dick
 date: "2016-06-10 08:26:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6256"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

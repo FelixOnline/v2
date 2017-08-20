@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Controversy over drop from 10th to 13th in latest Guardian tables
 date: "2012-05-24 22:44:38 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2482"

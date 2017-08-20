@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi goes deep on three of this year’s offerings
 date: "2012-05-25 18:59:33 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2504"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - ra2410
 highlights:
 
 # Homepage control params

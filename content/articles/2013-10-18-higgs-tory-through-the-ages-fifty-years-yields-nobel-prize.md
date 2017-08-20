@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett gives us an exciting history lesson about the Higgs boson and how its existence was finally confirmed last year
 date: "2013-10-18 20:57:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3887"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ps3110
 highlights:
  - comment
  - longread

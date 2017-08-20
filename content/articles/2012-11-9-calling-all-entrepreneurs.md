@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pranav Tulsian presents the latest business event at Imperial
 date: "2012-11-09 12:53:08 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2854"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pt1910
  - tna08
 highlights:
  - photos

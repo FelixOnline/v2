@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Stopyra explores the gender imbalance in physics
 date: "2013-03-01 00:22:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3404"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ss7809
  - tna08
 highlights:
  - comment

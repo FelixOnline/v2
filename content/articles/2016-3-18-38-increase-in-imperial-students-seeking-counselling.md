@@ -4,7 +4,6 @@ title: >
 subtitle: >
   5% increase in students over same period
 date: "2016-03-18 11:29:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6050"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

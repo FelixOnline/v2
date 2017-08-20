@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Following an email from the Rector to staff this morning it has been revealed that parts of the Chemistry department will be moved to the Imperial West campus.
 date: "2014-01-24 11:57:16 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4303"

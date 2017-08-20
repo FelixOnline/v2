@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A disappointing scoreline ahead of their final game of the season next Sunday 22nd February
 date: "2015-02-20 00:20:15 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5285"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cj914
+ - sjh213
 highlights:
 
 # Homepage control params

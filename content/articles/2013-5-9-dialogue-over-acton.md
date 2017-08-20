@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College stress they will continue to look for cheap, close accommodation Structural inspection of Evelyn Gardens and Garden Hall Garden removed from website with Paragon and Xenia remaining Working group of staff and students set up for Acton development
 date: "2013-05-09 12:18:57 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3561"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - tna08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Good news for Woodward – it’ll only take 45 minutes to get home on a Friday night
 date: "2016-03-04 11:24:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5995"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

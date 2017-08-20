@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luck isn't on the menu for L.A. Cop "Date Rape"
 date: "2012-02-23 20:11:16 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2230"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - pk1811
 highlights:
 

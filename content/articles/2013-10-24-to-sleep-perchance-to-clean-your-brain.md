@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After hundreds of years of hypothesis, the primary function for sleep may now have been discovered.
 date: "2013-10-24 23:58:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3917"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ecw12
  - felix
 highlights:
 

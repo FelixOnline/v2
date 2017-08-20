@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Art Section Editors Introduce Style
 date: "2014-11-06 21:27:06 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4801"
@@ -21,6 +20,8 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
+ - km2612
  - snb11
 highlights:
 

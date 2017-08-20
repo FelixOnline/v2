@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Macbeth was on at the National Theatre from the 6th – 20th February
 date: "2017-02-24 14:33:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6820"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - wbe15
 highlights:
 
 # Homepage control params

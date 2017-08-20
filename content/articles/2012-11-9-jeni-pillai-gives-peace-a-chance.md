@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trying to be too cool for school, or actually a good band?
 date: "2012-11-09 14:09:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2868"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jp2512
  - tna08
 highlights:
  - comment

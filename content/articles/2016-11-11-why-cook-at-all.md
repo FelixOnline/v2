@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the age of Deliveroo and convenience foods, why should you cook at all? felix finds how the easiest way to connect with people isn’t in Metric or Nandos – it’s over your stovetop (wine helps too).
 date: "2016-11-11 17:06:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6434"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

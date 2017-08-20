@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Luke Sheldon on how sometimes not being strongly opinionated yields a better group consensus
 date: "2012-01-12 22:02:27 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1978"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - ls411
 highlights:
 
 # Homepage control params

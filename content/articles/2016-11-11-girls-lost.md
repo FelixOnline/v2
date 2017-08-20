@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Capturing the wonder of youth
 date: "2016-11-11 18:05:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6439"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

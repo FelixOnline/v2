@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Handball: Eagles 25-25 Danes
 date: "2012-01-12 20:50:07 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1967"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - ial08
 highlights:
  - comment
 

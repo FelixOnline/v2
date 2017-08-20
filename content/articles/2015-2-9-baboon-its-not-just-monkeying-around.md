@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum reviews the latest game from indie developers Relevo
 date: "2015-02-09 15:12:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5212"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - ps3110
 highlights:
 

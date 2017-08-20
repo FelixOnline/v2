@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX asks the scientists on each side of the fence so you don't have to
 date: "2016-06-10 08:25:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6255"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - smw315
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The last fairtytale animated film from Disney
 date: "2011-01-27 20:01:28 +0000"
-author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "683"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To reform and beyond: an interview with the Right Honourable Professor Lord Norton of Louth
 date: "2012-07-16 11:36:46 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2585"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - adm10
  - mc4509
 highlights:
  - comment

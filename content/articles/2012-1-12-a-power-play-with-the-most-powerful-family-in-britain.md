@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plabon Saha uses his powers of deduction on the new series of Sherlock
 date: "2012-01-12 22:55:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1995"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ps3411
 highlights:
 
 # Homepage control params

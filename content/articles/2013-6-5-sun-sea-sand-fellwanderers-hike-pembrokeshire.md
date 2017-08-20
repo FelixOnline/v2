@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jessi Wunder walks in Wales over the holiday
 date: "2013-06-05 16:56:49 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3658"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
  - photos

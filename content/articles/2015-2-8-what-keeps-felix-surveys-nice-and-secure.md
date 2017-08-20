@@ -4,7 +4,6 @@ title: >
 subtitle: >
   People ask what keeps our surveys, such as the Felix Sex Survey, secure and private. The Felix Team behind the surveys explain how the magic works.
 date: "2015-02-08 21:55:20 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5211"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - ps3110
 highlights:
 

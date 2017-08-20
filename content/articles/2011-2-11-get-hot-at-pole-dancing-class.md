@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Beware, this is serious exercise people
 date: "2011-02-11 06:43:35 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "800"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cf107
  - ks607
 highlights:
 

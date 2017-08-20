@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts and Matt Allinson duke it out over the impact of watching TV
 date: "2011-02-03 20:28:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "746"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
+ - ma1307
 highlights:
  - comment
 

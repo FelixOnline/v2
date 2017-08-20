@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco talks to the author of King of the Jungle
 date: "2013-06-26 17:32:33 +0100"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3741"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - at3209
  - mtm10
 highlights:
 

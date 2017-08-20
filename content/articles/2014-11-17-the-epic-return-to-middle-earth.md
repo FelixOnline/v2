@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl reviews the latest addition to this titanic franchise
 date: "2014-11-17 18:16:28 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4902"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - ps3110
 highlights:
  - longread

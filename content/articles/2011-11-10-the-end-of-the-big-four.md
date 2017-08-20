@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let’s hope not, argues Rajvinder Virdee in this debate
 date: "2011-11-10 21:22:29 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1728"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - rv108
 highlights:
  - comment
  - longread

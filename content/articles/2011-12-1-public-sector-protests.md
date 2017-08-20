@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Workers took to the streets on Wednesday over Government pension plans
 date: "2011-12-01 21:57:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1899"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nn1209
 highlights:
 
 # Homepage control params

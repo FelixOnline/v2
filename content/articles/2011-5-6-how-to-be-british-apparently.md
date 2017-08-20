@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is loving the Royal Family a prerequisite for being British?
 date: "2011-05-06 08:39:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1159"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

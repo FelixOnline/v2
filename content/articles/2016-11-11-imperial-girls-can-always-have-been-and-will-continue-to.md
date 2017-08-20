@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are men really that intimidating? I certainly don’t feel it when doing the dishes in a fetching apron
 date: "2016-11-11 18:25:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6441"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - samsmith
+ - ss11814
 highlights:
  - comment
 

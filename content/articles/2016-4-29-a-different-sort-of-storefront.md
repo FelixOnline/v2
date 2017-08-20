@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Itch.io is paving the way for the post-capitalist indie gaming future
 date: "2016-04-29 10:56:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6106"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

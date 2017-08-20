@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX asks Gate Theatre’s new director Ben Kidd about directing and his latest work
 date: "2016-02-19 12:15:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5940"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bdw14
 highlights:
  - comment
  - longread

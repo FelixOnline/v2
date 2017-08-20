@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Your academic success could be down to your genes
 date: "2012-02-02 19:34:47 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2091"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ps3110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jude Law excels in Ivo van Hove's adaptation of Visconti's original film
 date: "2017-04-27 19:00:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6927"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - agnese.abrusci16
 highlights:
 
 # Homepage control params

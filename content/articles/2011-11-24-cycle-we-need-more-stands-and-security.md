@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Current locking accommodation is not good enough
 date: "2011-11-24 22:55:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1844"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - sp1007
 highlights:
  - photos
 

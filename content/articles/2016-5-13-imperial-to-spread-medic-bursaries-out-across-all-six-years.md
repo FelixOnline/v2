@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This comes a year after the survey that said 97% of final year students were in the red
 date: "2016-05-13 08:48:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6141"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

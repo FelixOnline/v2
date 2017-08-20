@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A short guide to the events taking place next week.
 date: "2015-02-13 14:41:55 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5253"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - bwh12
+ - jdm11
+ - scq11
 highlights:
 
 # Homepage control params

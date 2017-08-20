@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eat Pray Love boils down to nothing but a shallow travelogue
 date: "2010-10-21 19:21:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "239"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

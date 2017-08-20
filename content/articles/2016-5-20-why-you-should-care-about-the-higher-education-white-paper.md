@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's not good news
 date: "2016-05-20 08:56:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6177"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jw1606
 highlights:
 
 # Homepage control params

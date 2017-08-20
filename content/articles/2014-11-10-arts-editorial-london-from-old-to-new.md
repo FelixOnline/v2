@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London: the cultural centre
 date: "2014-11-10 21:20:53 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4818"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - ff712
+ - km2612
  - ps3110
 highlights:
 

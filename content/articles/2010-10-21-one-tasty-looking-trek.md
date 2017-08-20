@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two Imperial graduates talk to Felix about plans to walk the entire length of New Zealand, on the Te Araroa trail
 date: "2010-10-21 18:49:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "223"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - yll08
 highlights:
  - comment
  - longread

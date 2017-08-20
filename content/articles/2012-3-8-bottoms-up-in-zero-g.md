@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A device to allow drinking from a cup in the absence of gravity has been developed
 date: "2012-03-08 20:19:51 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2314"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - edh11
 highlights:
 
 # Homepage control params

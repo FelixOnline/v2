@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Gates urges Imperial students to do the unthinkable and have fun over summer...
 date: "2013-07-05 15:09:21 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3742"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sg808
  - tna08
 highlights:
  - comment

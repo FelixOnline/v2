@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Visit includes meeting with researchers connected to China
 date: "2012-01-27 00:03:06 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2077"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - cac111
 highlights:
 

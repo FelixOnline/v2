@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sir David Attenborough strikes back, showcasing life at the poles
 date: "2011-11-10 21:59:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1739"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gch10
 highlights:
 
 # Homepage control params

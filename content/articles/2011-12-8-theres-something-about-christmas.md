@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If there's a reason for its existence, it's down to each and every one of us
 date: "2011-12-08 22:23:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1956"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

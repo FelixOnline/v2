@@ -4,7 +4,6 @@ title: >
 subtitle: >
   United Nations gave him an award, and he got fired...
 date: "2012-11-09 14:06:31 +0000"
-author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2867"

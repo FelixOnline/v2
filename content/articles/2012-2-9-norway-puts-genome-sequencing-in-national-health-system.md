@@ -4,7 +4,6 @@ title: >
 subtitle: >
   By Jula Humphries
 date: "2012-02-09 22:34:40 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2155"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - fsci
  - pk1811
 highlights:
 

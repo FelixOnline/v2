@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski takes aim at the gaping plot holes in the acclaimed film 'Moon'
 date: "2010-12-17 10:52:46 +0000"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "558"

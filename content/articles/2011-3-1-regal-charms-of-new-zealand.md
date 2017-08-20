@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dylan Lowe on the delights of a country which is both naturally beautiful and an adrenalin junkie's paradise
 date: "2011-03-01 21:15:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "967"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - yll08
 highlights:
  - comment
  - longread

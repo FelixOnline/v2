@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College is set to open its first teaching institution abroad
 date: "2010-10-07 22:25:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "177"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ah2208
  - felix
 highlights:
  - comment

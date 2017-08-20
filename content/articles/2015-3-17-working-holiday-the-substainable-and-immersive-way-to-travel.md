@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah discusses the ups and downs of getting your hands dirty abroad.
 date: "2015-03-17 14:45:32 +0000"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5399"

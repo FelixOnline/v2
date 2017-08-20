@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The entirety of Shakespeare’s works in two hours in a low budget pub setting? Count us in!
 date: "2011-05-26 23:49:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1270"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rm1509
 highlights:
 
 # Homepage control params

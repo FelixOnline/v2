@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another setback for the quest of finding a reliable male contraceptive, with reports of side effects in clinical trials causing concern
 date: "2016-11-04 12:57:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6384"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

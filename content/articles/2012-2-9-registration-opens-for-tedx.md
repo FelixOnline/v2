@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google announced as main event sponsor
 date: "2012-02-09 22:44:23 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2159"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ks607
+ - mc4509
 highlights:
 
 # Homepage control params

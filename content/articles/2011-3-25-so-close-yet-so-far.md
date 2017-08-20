@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men’s Lacrosse narrowly miss out on first silverware
 date: "2011-03-25 15:05:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1128"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jn104
 highlights:
  - comment
 

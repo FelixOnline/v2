@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle voices his frustrations at the England Cricket Board
 date: "2015-05-21 20:25:28 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5550"

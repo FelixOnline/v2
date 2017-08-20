@@ -4,7 +4,6 @@ title: >
 subtitle: >
   watched and reviewed by our beloved section editors
 date: "2010-10-28 20:00:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "287"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

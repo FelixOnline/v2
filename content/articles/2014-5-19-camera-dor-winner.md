@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ilo Ilo, Anthony Chen’s touching, naturalistic portrayal of family life in 1990s Singapore, has finally touched down in the UK, nearly a whole year after winning critical acclaim at the Cannes Film Festival.
 date: "2014-05-19 13:56:30 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4612"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - jal08
 highlights:
  - photos

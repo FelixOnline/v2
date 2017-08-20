@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One Truvada pill a day keeps the doctor away
 date: "2017-02-10 14:18:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6756"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

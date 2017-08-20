@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When Marc Jacobs said that clothes mean nothing until someone lives in them, he probably wasn’t thinking of all the clothes that end up in the Great Pacific garbage patch or the carbon emissions the industry is responsible for. Eloise Hunt talks about the need for sustainability and discusses ways t
 date: "2017-02-17 15:47:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6796"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - eloisehunt
  - felix
 highlights:
  - comment

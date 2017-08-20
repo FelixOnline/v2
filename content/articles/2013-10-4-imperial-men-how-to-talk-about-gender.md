@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton on gender at Imperial College
 date: "2013-10-04 01:03:18 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3805"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - rtf08
 highlights:
  - comment
 

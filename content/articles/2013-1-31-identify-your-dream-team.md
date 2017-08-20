@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nitin Nihalani tells you the vital people you'll need for a successful startup
 date: "2013-01-31 23:53:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3217"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nbn10
  - tna08
 highlights:
 

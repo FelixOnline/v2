@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah welcomes you to Tally Hall...
 date: "2011-10-21 11:20:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1596"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

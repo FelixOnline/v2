@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland examines the role of the Tower of London installation
 date: "2014-11-14 20:54:34 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4880"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - km2612
  - ps3110
 highlights:
  - photos

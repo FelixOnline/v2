@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Today we review the little ball that wants to rock your iPod
 date: "2010-05-14 11:52:43 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "137"

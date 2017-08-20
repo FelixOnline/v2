@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It was written by an Imperial Alumnus, but is it any good?
 date: "2010-12-02 20:06:49 +0000"
-author_id: "lm08"
 
 # Attributes from Felix Online V1
 id: "458"

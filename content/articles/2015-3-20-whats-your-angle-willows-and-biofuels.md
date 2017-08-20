@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jane Courtnell reports on research into alternative energy sources
 date: "2015-03-20 00:49:38 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5417"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jc5412
 highlights:
  - comment
 

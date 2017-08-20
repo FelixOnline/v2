@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Some feel good reading for the weekend
 date: "2017-06-02 14:25:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7004"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - danfaehndrich
  - felix
 highlights:
 

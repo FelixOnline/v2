@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s Ultimate Frisbee team will head to the Wolverhampton Nationals to defend their title
 date: "2010-11-18 21:06:51 +0000"
-author_id: "prs09"
 
 # Attributes from Felix Online V1
 id: "401"

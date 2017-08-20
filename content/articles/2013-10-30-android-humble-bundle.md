@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Humble Bundle with Android #7 is currently on sale. For those of you who don’t know what this is, the Humble Bundle is a sale in which a set of games are available for whatever price you choose.
 date: "2013-10-30 15:37:26 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3957"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - ss9011
 highlights:
 
 # Homepage control params

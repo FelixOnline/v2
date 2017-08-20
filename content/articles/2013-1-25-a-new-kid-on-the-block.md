@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Allinson on the new online newspaper at Imperial
 date: "2013-01-25 01:56:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3189"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ma1307
  - tna08
 highlights:
 

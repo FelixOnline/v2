@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Look out for the real thing on Friday!
 date: "2011-06-14 15:05:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1374"
@@ -21,7 +20,11 @@ tags:
  - arts
  - imported
 authors:
+ - cjw107
  - felix
+ - jk708
+ - ks607
+ - sr1304
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They were on point
 date: "2016-11-14 14:22:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6451"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jps112
 highlights:
 
 # Homepage control params

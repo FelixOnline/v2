@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not just a new device, but a whole new way of gaming
 date: "2011-02-10 20:41:02 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "781"

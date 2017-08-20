@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Artificial Intelligence won't overtake us
 date: "2011-03-10 18:59:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1048"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

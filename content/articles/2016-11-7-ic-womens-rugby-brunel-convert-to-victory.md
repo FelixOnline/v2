@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ball went back and forth so much you would’ve thought it was a Brexit campaigner
 date: "2016-11-07 13:17:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6406"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - beckssimpson
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng finds this 1920s play as relevant as ever
 date: "2015-02-11 22:23:15 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5231"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jc7413
  - ps3110
 highlights:
 

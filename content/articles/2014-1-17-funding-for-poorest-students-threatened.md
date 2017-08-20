@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Government refuses to rule out cuts to the Student Opportunity Allocation fund
 date: "2014-01-17 03:04:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4224"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sean Baker retells the dominance of IC Rugby
 date: "2012-10-05 13:27:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2627"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fsport
 highlights:
 
 # Homepage control params

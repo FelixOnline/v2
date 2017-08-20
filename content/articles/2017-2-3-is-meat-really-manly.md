@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Man want meat | Is society killing men?
 date: "2017-02-03 16:45:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6719"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

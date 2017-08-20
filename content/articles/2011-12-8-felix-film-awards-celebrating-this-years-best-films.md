@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We take a look at the bold and the beautiful behind the year's top flicks
 date: "2011-12-08 21:27:43 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1938"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - ffilm
 highlights:
  - comment
  - longread

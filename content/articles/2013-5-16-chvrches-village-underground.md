@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas Leeman reviews Chvrches
 date: "2013-05-16 15:46:30 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3570"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fmusic
  - tna08
 highlights:
  - comment

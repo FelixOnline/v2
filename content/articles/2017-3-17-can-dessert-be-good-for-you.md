@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandra Lim talks about the hidden benefits of fruit based puddings.
 date: "2017-03-17 14:54:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6901"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

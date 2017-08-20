@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite dubious musical choices, they seem to be hitting the big times
 date: "2013-03-15 02:05:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3484"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - hg1010
  - tna08
 highlights:
  - comment

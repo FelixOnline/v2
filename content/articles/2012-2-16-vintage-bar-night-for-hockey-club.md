@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Hockey Club serve up free shots and more!
 date: "2012-02-16 21:32:26 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2191"

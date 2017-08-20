@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-27 08:51:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6208"
@@ -21,7 +20,7 @@ tags:
  - science
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
  - photos
 

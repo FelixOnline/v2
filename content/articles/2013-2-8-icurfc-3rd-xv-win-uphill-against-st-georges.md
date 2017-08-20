@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICURFC 3rd XV going uphill against St. George’s
 date: "2013-02-08 00:16:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3269"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lm2010
  - tna08
 highlights:
 

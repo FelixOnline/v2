@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Mason shows you how it’s done
 date: "2012-11-01 22:33:17 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2785"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jhm210
  - mc4509
 highlights:
 

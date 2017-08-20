@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Talking to MSc students can be highly disconcerting
 date: "2014-02-07 05:10:00 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4361"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gta
  - jal08
 highlights:
 

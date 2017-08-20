@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Federica Amato and Saskia Verhagen discuss the curse of the designer handbag
 date: "2011-10-21 10:22:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1587"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - fma09
+ - stv07
 highlights:
 
 # Homepage control params

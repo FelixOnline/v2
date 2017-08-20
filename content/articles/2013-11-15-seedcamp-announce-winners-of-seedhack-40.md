@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Last weekend was Seedhack 4.0, with the theme of ‘remixing content’.
 date: "2013-11-15 02:16:57 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4060"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - txl11
 highlights:
  - comment
  - photos

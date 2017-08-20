@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From New York to London, Milan to Paris; Saskia Verhagen and Alice Yang bring you the best bits from last month’s catwalks
 date: "2012-03-15 20:55:31 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2365"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - pk1811
+ - stv07
 highlights:
  - longread
  - photos

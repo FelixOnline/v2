@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Harry Brainch, ICE - The way forward?
 date: "2010-01-22 14:16:59 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "53"

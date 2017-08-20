@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RCSU President boycotts event
 date: "2017-06-09 14:51:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7008"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken gives his two cents on the new Breaking Bad spin-off series, Better Call Saul
 date: "2015-02-20 17:10:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5295"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr2514
  - ps3110
 highlights:
  - comment

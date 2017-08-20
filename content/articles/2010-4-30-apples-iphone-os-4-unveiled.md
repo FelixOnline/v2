@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Apple show's the world the next iteration of the iPhone OS powering the iPhone, iPod touch and the iPad
 date: "2010-04-30 11:03:34 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "131"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whip out your scalpel and forceps in Surgery Simulator
 date: "2011-03-21 11:58:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1122"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - felix
 highlights:
 

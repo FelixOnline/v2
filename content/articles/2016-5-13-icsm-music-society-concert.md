@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What a night
 date: "2016-05-13 09:40:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6168"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4812
 highlights:
 
 # Homepage control params

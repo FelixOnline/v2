@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Next Murderer in our series: finding the ultimate Culprit
 date: "2013-11-13 22:53:26 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4051"

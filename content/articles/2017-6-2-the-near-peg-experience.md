@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ultimate feminist sexual act and a culture’s fear and obsession with butt stuff
 date: "2017-06-02 13:53:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6999"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

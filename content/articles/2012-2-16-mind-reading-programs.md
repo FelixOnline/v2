@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New insight into the language-processing functions of the brain
 date: "2012-02-16 21:43:57 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2195"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - cac111
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives!
 date: "2013-11-15 11:46:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4088"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

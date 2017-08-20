@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Standing tall but crumbling inside
 date: "2010-11-25 21:08:53 +0000"
-author_id: "lorddavidalton"
 
 # Attributes from Felix Online V1
 id: "437"

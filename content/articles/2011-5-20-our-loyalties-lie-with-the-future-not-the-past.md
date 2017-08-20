@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On our architectural legacy
 date: "2011-05-20 05:56:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1233"

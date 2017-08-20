@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Skene, chopping and mining for survival as he is bound for the stars
 date: "2014-03-07 06:00:14 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4472"
@@ -21,6 +20,7 @@ tags:
  - games
  - imported
 authors:
+ - css11
  - jal08
 highlights:
 

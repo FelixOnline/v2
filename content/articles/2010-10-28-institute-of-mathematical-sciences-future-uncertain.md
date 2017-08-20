@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Institute forced out of 53 Prince’s Gardens after review
 date: "2010-10-28 20:06:16 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "289"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - jk708
+ - mc4509
+ - nn1209
 highlights:
 
 # Homepage control params

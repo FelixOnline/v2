@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The zeitgeist has changed irrevocably. University libraries have understood this; it is essential that researchers and publishers do the same.
 date: "2011-02-17 20:15:50 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "836"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - ks607
 highlights:
  - comment

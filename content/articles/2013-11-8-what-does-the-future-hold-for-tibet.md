@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At least 120 Tibetans have set themselves alight in protest against Chinese rule since 2009. It’s the only peaceful way they’ve been able to broadcast their recurrent message: Save Tibet. It seems that their message has fallen on deaf ears...
 date: "2013-11-08 03:48:00 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4027"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - smpotter-1
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   YouTube sensation plays London
 date: "2011-10-21 11:39:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1602"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mml110
 highlights:
  - comment
 

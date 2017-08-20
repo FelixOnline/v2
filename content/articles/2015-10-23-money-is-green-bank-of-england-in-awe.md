@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why the public must put pressure on governments to invest in renewable energies
 date: "2015-10-23 11:40:04 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5669"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jc5412
 highlights:
 
 # Homepage control params

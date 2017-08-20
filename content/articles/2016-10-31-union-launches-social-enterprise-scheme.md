@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You can make bags of cash and be a good person
 date: "2016-10-31 13:40:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6360"

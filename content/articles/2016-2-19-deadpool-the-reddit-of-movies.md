@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ????????L
 date: "2016-02-19 12:01:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5936"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

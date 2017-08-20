@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A round-up on some of the world’s foodie vices under threat - some luxurious, some less so
 date: "2013-11-08 11:03:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4045"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - cac111
  - felix
 highlights:
 

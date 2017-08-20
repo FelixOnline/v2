@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Colvin tries the new Bond title 007 Blood Stone while Jamie Gollings and Alex Gray review GoldenEye 007
 date: "2010-11-18 20:57:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "397"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - aeg09
  - felix
+ - jtg09
+ - mc4509
 highlights:
  - longread
 

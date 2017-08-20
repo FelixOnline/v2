@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should move to new cities that are designed to be green
 date: "2011-01-13 20:10:48 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "576"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - ks607
 highlights:
 

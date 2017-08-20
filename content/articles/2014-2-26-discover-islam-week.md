@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Free dinner? Free cake? Islam? If you found yourself saying yes to one or more of the aforementioned, then carry on reading!
 date: "2014-02-26 12:52:09 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4436"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jf413
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Ball and Ben Fernando see the new rooms at One Victoria road
 date: "2014-11-21 13:14:20 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4924"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - ps3110
+ - snb11
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katy Bettany and Anna Perman on why you should donate
 date: "2011-01-27 18:41:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "657"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ap1310
  - felix
+ - klb09
 highlights:
  - longread
 

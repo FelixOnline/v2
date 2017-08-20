@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Selkirk students annoyed at new rules
 date: "2011-02-03 19:45:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "724"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
 highlights:
  - comment

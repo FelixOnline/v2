@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The horror of the Holocaust is brought to life in László Nemes’ astonishing debut
 date: "2016-05-06 10:11:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6129"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jm5014
 highlights:
  - comment
  - photos

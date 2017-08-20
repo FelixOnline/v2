@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Juan Casasbuenas discusses the latest flare-up in the now age-old debate
 date: "2012-05-10 20:31:33 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2449"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - jdc04
 highlights:
 
 # Homepage control params

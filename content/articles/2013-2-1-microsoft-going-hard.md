@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jason Parmar looks at Microsoft’s new philosophy: go hard and soft
 date: "2013-02-01 01:07:47 +0000"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "3240"

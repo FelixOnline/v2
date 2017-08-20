@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter finally gets to grips with a warm piece of potato. Oh, or maybe he meant the band...
 date: "2012-10-26 03:12:42 +0100"
-author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2769"

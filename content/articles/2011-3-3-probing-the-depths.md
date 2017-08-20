@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ever since man has been able to think of clichés, he has dreamed of heading to the stars
 date: "2011-03-03 16:23:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "996"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - ch1810
  - felix
+ - ko407
 highlights:
  - comment
  - longread

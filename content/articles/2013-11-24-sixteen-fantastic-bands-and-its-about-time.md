@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson & Forrest Seiwald report back on About Time festival
 date: "2013-11-24 16:21:26 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4117"
@@ -21,7 +20,9 @@ tags:
  - music
  - imported
 authors:
+ - fs1910
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

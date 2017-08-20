@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Josh Price sees the Schrodinger in a game? Oh dear, quantum mechanics is taking over...
 date: "2012-11-09 16:33:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2879"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jjp10
  - tna08
 highlights:
 

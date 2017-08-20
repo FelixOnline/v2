@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London reacts to trump
 date: "2016-11-11 13:30:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6418"

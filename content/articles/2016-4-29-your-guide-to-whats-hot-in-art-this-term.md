@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exam season is just another excuse to get out and de-stress with the great shows on offer this term
 date: "2016-04-29 10:54:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6105"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
 highlights:
  - comment
  - longread

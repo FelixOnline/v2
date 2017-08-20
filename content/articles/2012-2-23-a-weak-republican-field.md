@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah comments on the state of US elections
 date: "2012-02-23 20:32:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2235"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

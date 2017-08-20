@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Uncharacteristic result for Imperial but team put on a good show
 date: "2011-02-28 21:08:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "940"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - amm108
  - felix
 highlights:
  - comment

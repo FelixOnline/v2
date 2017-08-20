@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Criticisms made in letter hand-delivered to the Felix office
 date: "2011-06-09 21:14:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1348"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

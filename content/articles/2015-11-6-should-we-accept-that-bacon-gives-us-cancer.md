@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The writing is on the wall when it comes to the benefits of vegetarianism
 date: "2015-11-06 13:58:21 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5703"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - bs2314
  - ygr12
 highlights:
 

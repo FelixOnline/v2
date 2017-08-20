@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Channel 4 mix science and not in a delicious documentary
 date: "2011-11-03 20:30:51 +0000"
-author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "1668"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hrw11
  - js2310
 highlights:
 

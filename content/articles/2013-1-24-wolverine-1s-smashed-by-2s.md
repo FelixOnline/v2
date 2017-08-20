@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport learns of the strange goings on at IC Dodgeball...
 date: "2013-01-24 20:38:52 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3153"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - smn110
 highlights:
  - comment
 

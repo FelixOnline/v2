@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett investigates the recent “Anti-Robin Hood” bursary change
 date: "2014-11-21 13:11:07 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4923"

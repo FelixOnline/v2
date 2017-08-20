@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at Tastes like Human: the latest book of humorous lists by ‘The Shark Guys’
 date: "2012-03-15 21:09:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2371"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - pk1811
 highlights:
 

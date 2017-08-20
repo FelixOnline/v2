@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jian Chew goes to great efforts to free himself from Western colonisation
 date: "2016-10-28 15:02:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6351"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jlc14
 highlights:
  - photos
 

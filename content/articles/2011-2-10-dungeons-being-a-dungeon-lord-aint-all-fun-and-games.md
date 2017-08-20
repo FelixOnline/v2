@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sean Harbison unleashes his wrath in Dungeons
 date: "2011-02-10 20:38:17 +0000"
-author_id: "skh10"
 
 # Attributes from Felix Online V1
 id: "779"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saw creator goes back to his roots to create a genuinely creepy but not too original horror film
 date: "2011-05-20 04:38:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1220"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

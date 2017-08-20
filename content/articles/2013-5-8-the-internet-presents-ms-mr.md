@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le drops everything to find out who a band are while listening to the radio... NO IT'S NOT THAT DAFT PUNK SONG THAT IS ALWAYS ON
 date: "2013-05-08 20:15:20 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3552"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
 

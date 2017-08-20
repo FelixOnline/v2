@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another academic weighs in on the legalisation argument
 date: "2011-11-24 22:22:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1832"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - pk1811
 highlights:
 

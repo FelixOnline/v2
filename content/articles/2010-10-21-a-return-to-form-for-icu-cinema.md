@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Union's Cinema is reborn!
 date: "2010-10-21 19:18:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "237"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jh308
 highlights:
 
 # Homepage control params

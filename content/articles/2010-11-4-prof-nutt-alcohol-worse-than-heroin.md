@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial professor and former government adviser David Nutt has pitted himself against current drugs classification once again
 date: "2010-11-04 19:06:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "324"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

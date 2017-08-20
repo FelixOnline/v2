@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A round up of all the important stories. Now you can look all knowledgeable to all the fitties you meet.
 date: "2013-09-29 14:13:31 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3771"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kr1512
  - tna08
 highlights:
  - longread

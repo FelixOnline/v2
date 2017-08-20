@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduation and Hackery, very hastily discussed at 1am...
 date: "2012-10-26 01:43:51 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2732"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

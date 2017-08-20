@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sherfield branch closes its doors for last time
 date: "2011-05-12 16:08:25 +0100"
-author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "1185"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - gda07
+ - mtm10
 highlights:
  - comment
 

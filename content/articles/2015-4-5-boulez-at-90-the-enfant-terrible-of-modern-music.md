@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th century’s most controversial composers
 date: "2015-04-05 13:00:38 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5461"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ed812
  - ff712
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Perkins tweets public apology following felix investigation
 date: "2017-02-07 15:15:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6741"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists create generator to make use of waste heat
 date: "2011-05-12 16:25:39 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1187"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - jmp210
 highlights:
 
 # Homepage control params

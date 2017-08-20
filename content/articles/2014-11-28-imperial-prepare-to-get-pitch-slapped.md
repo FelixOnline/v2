@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt on the International singing competition to be hosted at Imperial
 date: "2014-11-28 00:46:24 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4964"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bwh12
  - kmw13
 highlights:
  - comment

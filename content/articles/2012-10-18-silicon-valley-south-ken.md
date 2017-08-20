@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Serge Vasylechko explores the startup ecosystem at Imperial
 date: "2012-10-18 21:12:33 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2694"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - sv407
 highlights:
  - comment
 

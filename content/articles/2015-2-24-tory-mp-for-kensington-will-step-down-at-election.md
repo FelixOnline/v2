@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sir Malcolm Rifkind also resigns immediately from post of Chairman of the Intelligence and Security Committee
 date: "2015-02-24 16:42:50 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5307"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - jr2514
  - ps3110
 highlights:
 

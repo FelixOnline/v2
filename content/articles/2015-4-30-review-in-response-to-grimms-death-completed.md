@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Results criticised by external academics: “Imperial doesn’t get it.”
 date: "2015-04-30 23:09:03 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5475"

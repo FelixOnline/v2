@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are two proposals in the Immigration Bill in particular which affect international students...
 date: "2013-12-02 12:24:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4143"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ml2909
 highlights:
  - comment
 

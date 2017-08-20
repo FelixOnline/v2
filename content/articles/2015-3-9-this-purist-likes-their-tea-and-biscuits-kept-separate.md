@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is it time to stop dunking?
 date: "2015-03-09 19:08:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5377"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - icanon
  - ps3110
 highlights:
  - comment

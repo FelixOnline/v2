@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher investigates what you can do if you need help
 date: "2015-03-20 14:58:41 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5420"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - ps3110
 highlights:
  - comment

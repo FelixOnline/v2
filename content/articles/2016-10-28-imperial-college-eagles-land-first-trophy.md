@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Handball secures first place at Fresher's Tournament
 date: "2016-10-28 15:43:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6354"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
+ - aleksandar.kiril
 highlights:
 
 # Homepage control params

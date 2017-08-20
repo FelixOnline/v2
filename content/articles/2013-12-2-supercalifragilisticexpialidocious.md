@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If the single word that makes up this article’s title is the one thing you took away from watching Mary Poppins then you may be surprised to know that the jolly word would have most likely induced a deep frown of disapproval from the author of the book itself, P. L. Travers (Emma Thompson).
 date: "2013-12-02 22:18:56 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4171"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - extuser0
  - jal08
 highlights:
 

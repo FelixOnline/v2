@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anastasia Eleftheriou discusses this seemingly esoteric foodstuff
 date: "2012-02-16 21:48:30 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2197"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - ams111
 highlights:
 

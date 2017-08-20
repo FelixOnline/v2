@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ending years of speculation, Mrs. Clinton announced on Sunday that she will seek the Democratic nomination for the U.S. presidency
 date: "2015-04-12 22:32:08 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5464"

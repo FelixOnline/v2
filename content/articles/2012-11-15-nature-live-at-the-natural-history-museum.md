@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett goes next door
 date: "2012-11-15 21:04:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2891"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3110
  - tna08
 highlights:
 

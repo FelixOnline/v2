@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London awoke to a shock on Tuesday morning with the news that Bob Crow, the leader of Rail, Maritime and Transport (RMT) union had died at the age of 52.
 date: "2014-03-17 17:19:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4483"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - baf12
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is underwhelmed by this new exhibition of Wellington portraits
 date: "2015-03-25 13:31:35 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5453"

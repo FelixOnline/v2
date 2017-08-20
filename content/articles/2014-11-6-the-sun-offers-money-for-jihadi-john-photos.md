@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah on the paper offering money for bad taste costume photos
 date: "2014-11-06 18:43:32 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4767"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - cj914
 highlights:
  - comment

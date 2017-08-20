@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gaddafi has once again demonstrated that he's a massive nutcase
 date: "2011-03-17 21:33:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1103"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tna08
 highlights:
  - comment
 

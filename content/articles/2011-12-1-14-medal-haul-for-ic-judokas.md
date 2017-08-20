@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Total competition hoard: 4 gold, 2 silver and 8 bronze medals and one massive shiny team championship trophy. Roll on BUCS.
 date: "2011-12-01 21:07:46 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1881"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - jw508
 highlights:
 
 # Homepage control params

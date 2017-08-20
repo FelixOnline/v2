@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Since they move freely in time, one moment is as good as the next to them
 date: "2011-05-26 23:44:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1267"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

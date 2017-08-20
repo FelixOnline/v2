@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grand Theft Auto online finally enables you to play Grand Theft Auto how you want.
 date: "2014-02-12 11:34:54 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4368"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

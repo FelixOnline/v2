@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This team isn't having a mare
 date: "2013-03-07 21:59:34 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3435"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - rg2010
 highlights:
 
 # Homepage control params

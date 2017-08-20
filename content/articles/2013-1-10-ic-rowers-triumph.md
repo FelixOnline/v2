@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Scullers Head of the River is traditionally an Imperial College dominated event, with multiple pennant and overall winners dotted around current and past IC members...
 date: "2013-01-10 23:16:39 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3110"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - rs1209
 highlights:
 
 # Homepage control params

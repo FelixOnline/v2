@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reviewing the RA's latest exhibition
 date: "2016-10-10 14:57:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6326"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - et1214
  - felix
 highlights:
 

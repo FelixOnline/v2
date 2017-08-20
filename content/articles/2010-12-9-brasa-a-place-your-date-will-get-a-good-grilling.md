@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A mixed experience at Fulham's Mediterranean-style sharing restaurant
 date: "2010-12-09 19:37:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "508"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lj810
 highlights:
  - photos
 

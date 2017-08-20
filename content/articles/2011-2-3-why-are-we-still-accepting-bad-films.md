@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hollywood’s extortionate spending on last year’s worst films.
 date: "2011-02-03 19:52:50 +0000"
-author_id: "jh308"
 
 # Attributes from Felix Online V1
 id: "729"

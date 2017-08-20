@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the academic year draws to a close, Felix takes a look back at the biggest headlines of the past year
 date: "2015-06-19 13:26:15 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5643"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - pk1811
  - ps3110
+ - ygr12
 highlights:
  - comment
  - longread

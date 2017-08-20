@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Signs of wear and tear after refurbishment
 date: "2010-10-28 19:55:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "282"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nn1209
 highlights:
  - comment
 

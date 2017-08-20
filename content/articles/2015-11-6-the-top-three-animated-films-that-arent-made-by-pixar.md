@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-06 14:11:25 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5707"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - bsc14
  - ygr12
 highlights:
  - comment

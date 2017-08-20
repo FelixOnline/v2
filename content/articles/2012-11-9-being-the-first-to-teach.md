@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah gets schooled in the aims of TeachFirst
 date: "2012-11-09 00:37:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2839"

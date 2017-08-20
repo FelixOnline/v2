@@ -4,7 +4,6 @@ title: >
 subtitle: >
   News about Clayponds and the Holland Club highlight inadequacies in Imperial's view of postgraduate students
 date: "2012-01-26 22:35:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2067"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - twp07
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Transiting planets reveal dust in far away planetary systems
 date: "2011-10-07 09:31:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1477"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ko407
 highlights:
 
 # Homepage control params

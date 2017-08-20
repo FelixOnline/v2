@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A political and philosophical alternate history thriller
 date: "2012-03-08 20:40:24 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2318"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - mtm10
 highlights:
  - comment
 

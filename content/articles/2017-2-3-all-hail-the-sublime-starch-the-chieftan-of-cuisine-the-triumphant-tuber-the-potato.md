@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As it’s the food edition, we thought we’d focus on the fanciest, most elegant ingredient that most of us will ever have grace our plates: the potato. We present to you five excellent ways to prepare this sublime ingredient, as well as a comprehensive breakdown of why it is notably superior to all ot
 date: "2017-02-03 17:45:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6735"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aib116
+ - sb6213
 highlights:
  - comment
  - longread

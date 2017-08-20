@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The shortlist of BAFTA nominees for Best British Short Film and Animation are daring in their scope, but the quality of some leaves a little to be desired
 date: "2017-02-10 15:21:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6761"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Angus James Morrison finds The Virtues of Things to be a mixed bag
 date: "2015-05-13 14:19:43 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5515"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ajm612
  - ps3110
 highlights:
  - comment

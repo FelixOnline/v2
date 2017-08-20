@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Cross Country go running in Brighton
 date: "2014-11-24 20:16:32 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4951"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - acm214
  - ps3110
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I remember going back a year after the war ended
 date: "2011-01-27 19:38:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "672"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - nd507
 highlights:
 
 # Homepage control params

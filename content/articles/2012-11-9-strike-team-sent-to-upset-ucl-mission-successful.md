@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gaming Society go to UCL... Tl;dr: Imperial possibly beat UCL at a bunch of video games, with a score of 2-1 or 3-2. Or maybe we drew with 2-2 - I don’t know. Just read the article.
 date: "2012-11-09 16:35:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2880"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fgames
  - tna08
 highlights:
  - comment

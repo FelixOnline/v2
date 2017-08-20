@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua, on the dangers of trusting an online currency
 date: "2014-03-07 06:03:25 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4473"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ywc110
 highlights:
 
 # Homepage control params

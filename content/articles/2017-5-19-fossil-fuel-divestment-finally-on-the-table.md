@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fossil fuel funding may soon be withdrawn
 date: "2017-05-19 14:57:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6970"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - jmw216
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Slow Club - Paradise (2011)
 date: "2011-10-21 11:23:55 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1597"

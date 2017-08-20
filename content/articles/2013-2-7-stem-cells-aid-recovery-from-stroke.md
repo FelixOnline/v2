@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Byrne investigates a new, fat-derived stem cell therapy
 date: "2013-02-07 23:26:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3260"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - slb210
  - tna08
 highlights:
  - comment

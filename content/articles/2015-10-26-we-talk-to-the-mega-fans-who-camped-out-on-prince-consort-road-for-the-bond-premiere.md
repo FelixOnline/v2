@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They’ve been here since Saturday
 date: "2015-10-26 13:10:35 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5680"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pnk14
  - ygr12
 highlights:
  - comment

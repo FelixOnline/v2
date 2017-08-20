@@ -4,7 +4,6 @@ title: >
 subtitle: >
   BARBICAN
 date: "2011-06-09 18:22:05 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1331"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - htb08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray on Nicolas Jaar at the Roundhouse
 date: "2012-02-09 22:11:11 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2141"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - rbg10
 highlights:
 
 # Homepage control params

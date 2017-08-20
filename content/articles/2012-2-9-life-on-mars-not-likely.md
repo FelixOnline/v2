@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Annina Sartor explains how an analysis of Martian soil shows it is not suitable for life
 date: "2012-02-09 22:50:33 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2164"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ams111
  - pk1811
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mike Mills’ love letter to the women that raised him has its flaws, but its uncanny evocation of shared nostalgia, and exceptional acting talent, make it a heartfelt piece of emotional cinematic drama
 date: "2017-02-17 15:11:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6790"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - photos
 

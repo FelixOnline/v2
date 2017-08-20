@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look into the drug taking habits of students
 date: "2013-05-16 19:08:48 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3588"
@@ -25,6 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - pk1811
+ - ps3110
+ - rbg10
  - tna08
 highlights:
  - comment

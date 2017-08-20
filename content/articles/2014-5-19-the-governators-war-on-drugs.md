@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The director of End of Watch (an interesting take on police films that didn’t quite succeed) combining with one of two classic 80s action heroes suffering a string of mediocre...
 date: "2014-05-19 14:01:02 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4616"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

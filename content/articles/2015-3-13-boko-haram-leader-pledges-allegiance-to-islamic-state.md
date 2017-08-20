@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken reports on the developments in the jihadist campaign
 date: "2015-03-13 01:25:37 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5394"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jr2514
 highlights:
  - comment
 

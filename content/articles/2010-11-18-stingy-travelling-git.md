@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What really is budget travelling? Dylan Lowe discovers more to it than counting pennies and baked-bean meals
 date: "2010-11-18 20:47:32 +0000"
-author_id: "yll08"
 
 # Attributes from Felix Online V1
 id: "393"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham reviews a better Sex and the City?
 date: "2013-03-15 01:18:28 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3472"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ef510
  - tna08
 highlights:
 

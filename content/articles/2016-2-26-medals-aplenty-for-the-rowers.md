@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Newcastle’s BUCS Head up proves a successful trip for the team
 date: "2016-02-26 12:13:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5990"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - th1114
 highlights:
  - comment
 

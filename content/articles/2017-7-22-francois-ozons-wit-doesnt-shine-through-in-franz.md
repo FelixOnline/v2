@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This was not an enjoyable film
 date: "2017-07-22 19:45:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7028"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

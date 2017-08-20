@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Genetic component of brain development uncovered
 date: "2012-05-18 11:18:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2469"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - frh10
 highlights:
 
 # Homepage control params

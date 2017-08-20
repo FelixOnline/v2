@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on in the world of sport this week
 date: "2014-11-10 21:55:51 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4831"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kmw13
  - ps3110
 highlights:
 

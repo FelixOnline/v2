@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Grantham Institute spills the beans
 date: "2017-06-09 14:48:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7006"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles explains how Young Vic’s Bull misses the target in places
 date: "2015-01-31 19:24:04 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5175"

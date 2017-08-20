@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students from all over London come together to bring Fusion, York University’s hugely successful music, fashion, and dance show, to the capital
 date: "2011-05-12 18:23:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1194"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

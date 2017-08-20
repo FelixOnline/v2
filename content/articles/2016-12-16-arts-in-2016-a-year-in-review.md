@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three of our writers look back on their favourite productions and exhibitions from this year.
 date: "2016-12-16 15:06:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6614"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felart
 highlights:
 
 # Homepage control params

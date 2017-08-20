@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Karolina Mazan recalls her treasured memories of aimlessly hopping from car to car across mainland Europe, armed with nothing but a tiny backpack and a loyal sidekick to keep her thoroughly entertained.
 date: "2010-11-04 18:34:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "301"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - km3110
 highlights:
 
 # Homepage control params

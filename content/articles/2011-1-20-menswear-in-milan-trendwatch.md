@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair
 date: "2011-01-20 19:46:05 +0000"
-author_id: "stv07"
 
 # Attributes from Felix Online V1
 id: "613"

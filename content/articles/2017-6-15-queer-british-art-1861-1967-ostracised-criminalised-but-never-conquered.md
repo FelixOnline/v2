@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tate Britain launches London Pride 2017 with a moving tribute to the LGBTQ artists who would not be silenced
 date: "2017-06-15 15:59:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7026"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
 

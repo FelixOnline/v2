@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kramer vs. Kramer: A milestone of a film
 date: "2011-02-10 20:50:59 +0000"
-author_id: "jh308"
 
 # Attributes from Felix Online V1
 id: "786"

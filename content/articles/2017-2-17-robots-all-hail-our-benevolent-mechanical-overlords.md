@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Robots is on at the Science Museum until 3rd September
 date: "2017-02-17 15:17:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6794"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - agnese.abrusci16
 highlights:
  - comment
  - photos

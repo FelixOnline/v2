@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England ponders the question on everybody’s lips
 date: "2012-02-23 21:06:34 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2250"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - pk1811
 highlights:
 

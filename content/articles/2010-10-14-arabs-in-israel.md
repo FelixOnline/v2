@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix interviews MK Haneen Zoabi
 date: "2010-10-14 19:28:37 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "207"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - icanon
  - pk1811
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Come the Revolution, I’ll be using you as the wall against which I’ll shoot the people I dislike slightly less than you
 date: "2010-10-14 20:00:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "218"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

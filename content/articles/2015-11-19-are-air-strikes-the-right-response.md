@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Delivering ‘death from above’ won’t weaken ISIS’ battle for hearts and minds
 date: "2015-11-19 22:42:12 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5746"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - ygr12
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You will be terminated
 date: "2013-05-22 14:29:09 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3597"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jh3609
  - tna08
 highlights:
 

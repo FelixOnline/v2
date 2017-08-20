@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's LGBT Officer, Kyle Hellemans wants to know about your experience in sport
 date: "2015-01-21 11:54:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5105"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kh2011
  - ps3110
 highlights:
  - comment

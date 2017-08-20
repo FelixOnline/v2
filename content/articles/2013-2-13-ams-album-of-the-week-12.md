@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My Bloody Valentine: m b v
 date: "2013-02-13 13:00:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3298"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - phc11
  - tna08
 highlights:
 

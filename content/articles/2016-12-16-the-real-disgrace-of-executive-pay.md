@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shaul Rosten discusses executive pay and whether or not the government should have any influence.
 date: "2016-12-16 14:31:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6600"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - shaulrosten
 highlights:
 
 # Homepage control params

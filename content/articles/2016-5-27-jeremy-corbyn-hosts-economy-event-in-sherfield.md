@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Corbyn, McCluskey and McDonnell were all at Imperial
 date: "2016-05-27 08:39:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6197"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or at least, he tries to be! Kamil McClelland discusses *THAT* lifestyle choice
 date: "2014-11-24 20:34:58 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4954"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - km2612
  - ps3110
 highlights:
  - longread

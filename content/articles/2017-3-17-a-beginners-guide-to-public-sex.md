@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let's talk dogging
 date: "2017-03-17 17:28:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6916"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bcmaile
 highlights:
  - comment
 

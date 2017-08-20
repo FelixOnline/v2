@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College Design Collective talk about their sessions on creativity
 date: "2012-10-11 20:46:59 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2653"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Photosoc and ArtSoc are giving away tickets to Wicked if you can snap a picture on this theme
 date: "2016-02-05 12:52:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5887"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mc4113
 highlights:
 
 # Homepage control params

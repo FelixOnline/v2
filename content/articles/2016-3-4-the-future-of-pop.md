@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charli XCX’s Vroom Vroom Recordings aims to leave a mark on the pop music world
 date: "2016-03-04 11:44:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6007"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

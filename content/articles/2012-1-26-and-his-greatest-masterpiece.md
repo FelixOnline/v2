@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Catcher in the Rye – the archetypical story of teenage disillusionment, confusion and rebellion
 date: "2012-01-26 22:33:03 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2066"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr308
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Funkology dancing to the finish line
 date: "2013-03-07 21:53:24 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3432"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ckw08
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phil Kent reports
 date: "2014-10-17 15:19:30 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4739"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - kmw13
+ - pk1811
 highlights:
 
 # Homepage control params

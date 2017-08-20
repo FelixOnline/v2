@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Hockney mixes traditional and modern mediums to recreate Yorkshire landscapes of dazzling colour
 date: "2012-01-26 22:10:10 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2053"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - er310
 highlights:
  - photos
 

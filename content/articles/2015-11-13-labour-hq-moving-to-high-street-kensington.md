@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Corbyn’s team will be fighting inequality from Kensington and Chelsea
 date: "2015-11-13 14:23:15 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5721"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jm5014
  - ygr12
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Xuan Chen visits HYPER JAPAN and meets some of the stars behind the convention
 date: "2014-11-28 00:54:56 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4969"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - xc3313
 highlights:
  - comment
  - longread

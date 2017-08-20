@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The controversy behind this bureaucratic corrupt organisation.
 date: "2014-06-12 14:27:40 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4682"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - kmw13
  - me1711
 highlights:
 

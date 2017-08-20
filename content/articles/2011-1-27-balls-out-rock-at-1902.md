@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Greg Power spoke to alt-rockers The Vetoes, headliners of the first Felix Music Night who promise to bring the balls back to rock
 date: "2011-01-27 20:38:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "698"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

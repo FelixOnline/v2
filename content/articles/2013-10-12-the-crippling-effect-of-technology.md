@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl ruminates on the repercussion of our device addiction
 date: "2013-10-12 23:50:07 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3872"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - me1711
 highlights:
  - comment
 

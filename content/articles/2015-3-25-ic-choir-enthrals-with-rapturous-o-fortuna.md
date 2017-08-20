@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland heads over to the IC Choir's Spring Concert
 date: "2015-03-25 13:21:15 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5449"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
 

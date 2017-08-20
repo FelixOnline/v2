@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He's beloved by the public, he's very prolific, but do his paintings stand up to scrutiny?
 date: "2016-06-10 08:34:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6264"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking back on twenty years at the forefront of fashion
 date: "2012-01-19 21:18:12 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2029"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dr710
  - pk1811
 highlights:
  - photos

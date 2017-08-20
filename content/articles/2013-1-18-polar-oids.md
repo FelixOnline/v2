@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le lets the inner biologist out and checks out the Wildlife Photographer of the Year
 date: "2013-01-18 00:41:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3138"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Cameron is still feeling blue about events on the continent
 date: "2011-11-03 20:07:10 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1662"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - rj408
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Giulia Gabrielli reads (well, listens) to the best of the celebrity autobiographys
 date: "2013-02-01 00:16:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3224"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gg2110
  - tna08
 highlights:
  - longread

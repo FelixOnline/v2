@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yasser Mahmoud on the recent conflict in Gaza
 date: "2012-11-29 23:12:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3007"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - tna08
+ - ykm09
 highlights:
  - comment
 

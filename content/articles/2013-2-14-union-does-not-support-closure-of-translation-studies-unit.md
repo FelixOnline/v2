@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clarification sought on reason for closure. Union wants to know how students will be supported through their degrees. Union Council vote to oppose closure wins despite no sabbatical voting for it.
 date: "2013-02-14 21:22:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3337"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trump’s already controversial presidency has been vehemently opposed by many from its inception. Most recently the Muslim ban has stirred a backlash from musicians across the globe.
 date: "2017-02-03 17:04:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6728"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - theo.farah13
 highlights:
 
 # Homepage control params

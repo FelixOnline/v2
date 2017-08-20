@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jiaqi Shi is entranced by the Royal Opera House's triple bill of dancing delights
 date: "2014-12-18 15:54:59 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5064"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ff712
+ - js5909
 highlights:
  - photos
 

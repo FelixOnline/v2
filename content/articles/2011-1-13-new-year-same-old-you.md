@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I’m not here to give advice about weight-loss. I’m here to tell you to man up!
 date: "2011-01-13 21:14:59 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "589"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ann09
  - ks607
 highlights:
  - comment

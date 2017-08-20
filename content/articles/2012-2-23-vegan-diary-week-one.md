@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox have survived the first five days of their quest in veganism
 date: "2012-02-23 20:36:53 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2238"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - cc3710
+ - hc1409
  - pk1811
 highlights:
  - comment

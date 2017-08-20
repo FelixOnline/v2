@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kurukgy tells us how the Tories won him over
 date: "2017-06-02 14:14:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7002"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - pnk14
 highlights:
  - comment
 

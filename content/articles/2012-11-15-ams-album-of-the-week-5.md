@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Crystal Castles: (III)
 date: "2012-11-15 21:36:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2900"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mp1412
  - tna08
 highlights:
 

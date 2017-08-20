@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zain Rizvi describes the action from a rain-sodden Harlington pitch as Imperial fail to defend 79
 date: "2014-05-19 13:21:32 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4606"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - zr313
 highlights:
 
 # Homepage control params

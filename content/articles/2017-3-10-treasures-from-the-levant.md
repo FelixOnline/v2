@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix visits Ceru, a new addition to the South Ken restaurant scene that oozes middle eastern comfort, from the warm, welcoming interior to the sumptuous yet refined food. So that you too can treat yourselves to an excellent meal out, we’ve arranged an exclusive Imperial discount.
 date: "2017-03-10 14:02:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6880"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There's more to be positive about regarding this year's end of year celebrations
 date: "2012-02-23 23:33:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2267"

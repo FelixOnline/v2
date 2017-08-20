@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A report on the ongoing London protests, by Luke Seldon
 date: "2011-10-20 21:52:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1566"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - extuser0
  - felix
 highlights:
  - comment

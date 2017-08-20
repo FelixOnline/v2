@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union lobby EEE department to ensure that PhD students get fair deal
 date: "2010-11-11 22:09:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "374"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

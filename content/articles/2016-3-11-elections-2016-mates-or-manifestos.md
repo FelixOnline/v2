@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There have been few opportunities for candidates to show what they really stand for
 date: "2016-03-11 11:29:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6022"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - rg2112
 highlights:
  - comment
 

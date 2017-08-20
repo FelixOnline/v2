@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICSMSU Muslim Medics host another successful evening of academic prowess
 date: "2011-01-20 20:56:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "636"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as1708
  - felix
 highlights:
 

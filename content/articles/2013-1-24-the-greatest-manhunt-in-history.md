@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Osama Bin Filmed
 date: "2013-01-24 21:33:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3160"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - tna08
 highlights:
  - comment

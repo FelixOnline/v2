@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Towards engineering smart and safe bacteria to fight worldwide soil erosion
 date: "2011-11-17 20:21:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1756"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cmc111
+ - es3311
  - felix
 highlights:
 

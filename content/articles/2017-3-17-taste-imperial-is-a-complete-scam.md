@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don Ma despairs at Taste Imperial's blatant disregard for appropriate raisin-yoghurt ratios
 date: "2017-03-17 16:53:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6906"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - dym14
 highlights:
  - comment
 

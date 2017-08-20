@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Furse explores why we dump our dosh in Greggs
 date: "2011-05-06 15:03:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1175"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sf305
 highlights:
  - comment
 

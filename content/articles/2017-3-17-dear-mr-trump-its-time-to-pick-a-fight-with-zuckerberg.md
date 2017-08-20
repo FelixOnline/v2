@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook being Facebook, with its monopoly of a network of two billion people, is arguably the most powerful company in the world
 date: "2017-03-17 15:12:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6904"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ap4913
 highlights:
  - comment
 

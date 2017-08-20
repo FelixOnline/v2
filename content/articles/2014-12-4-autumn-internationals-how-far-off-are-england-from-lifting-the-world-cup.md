@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After mixed performances in the Autumn internationals, Henry Lambley examines whether winning the world cup next year is a realistic dream
 date: "2014-12-04 20:23:07 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5010"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - hdl14
 highlights:
 
 # Homepage control params

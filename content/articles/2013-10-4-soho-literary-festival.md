@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an entertaining and interesting event
 date: "2013-10-04 02:03:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3808"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mtm10
 highlights:
  - comment
 

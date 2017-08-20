@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her secret tips learned through experience
 date: "2015-06-09 15:03:47 +0100"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5606"

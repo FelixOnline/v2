@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken interviews Brandon Brown about his new book and the state of science communication around the world
 date: "2015-06-17 22:44:55 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5626"

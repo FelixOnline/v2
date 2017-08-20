@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Musical mash-up brings in comedians
 date: "2011-10-21 11:47:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1603"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - wsp10
 highlights:
  - comment
 

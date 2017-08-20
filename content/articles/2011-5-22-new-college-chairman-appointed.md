@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Former MI5 head to become first woman Chairman of Imperial
 date: "2011-05-22 13:04:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1241"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

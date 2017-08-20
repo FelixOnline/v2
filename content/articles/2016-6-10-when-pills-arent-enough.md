@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Wellcome Book Prize celebrates the interdependency of literature and medicine
 date: "2016-06-10 08:33:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6263"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jc7413
 highlights:
 
 # Homepage control params

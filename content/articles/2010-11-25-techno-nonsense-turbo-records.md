@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week Simon Hunter takes on the electro & techno gods of Turbo Records
 date: "2010-11-25 20:45:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "434"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sh1207
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 21:01:17 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1678"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - mtc06
+ - oh106
  - sjw209
 highlights:
  - longread

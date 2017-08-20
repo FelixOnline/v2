@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Staff left in limbo as they await the decision
 date: "2013-03-01 01:06:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3416"

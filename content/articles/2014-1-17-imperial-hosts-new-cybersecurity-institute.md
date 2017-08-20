@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial is to host a new centre focussed on preventing cyber attacks against UK industry and infrastructure.
 date: "2014-01-17 03:03:14 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4222"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - rtf08
 highlights:
 
 # Homepage control params

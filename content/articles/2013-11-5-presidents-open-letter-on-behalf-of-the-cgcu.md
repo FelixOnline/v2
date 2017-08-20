@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The CGCU President Lejon Chua writes an open letter to engineers
 date: "2013-11-05 09:50:57 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "4008"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - lc3310
 highlights:
 
 # Homepage control params

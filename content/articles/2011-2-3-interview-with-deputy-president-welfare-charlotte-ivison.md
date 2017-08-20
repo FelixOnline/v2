@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Make sure that you actually care about student welfare or you’ll end up being bored"
 date: "2011-02-03 19:42:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "723"

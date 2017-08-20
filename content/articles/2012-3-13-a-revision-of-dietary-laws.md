@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chewing over dietary restrictions
 date: "2012-03-13 14:19:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2340"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - va208
 highlights:
 
 # Homepage control params

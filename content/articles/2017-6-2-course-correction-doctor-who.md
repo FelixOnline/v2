@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So far so good
 date: "2017-06-02 13:21:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6993"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

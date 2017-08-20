@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Highly inflammable substance causes explosion risk in spray-on fabric lab
 date: "2010-12-09 22:04:27 +0000"
-author_id: "cb403"
 
 # Attributes from Felix Online V1
 id: "545"

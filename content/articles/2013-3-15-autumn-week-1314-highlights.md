@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang walks through her AW13/14 fashion highlights
 date: "2013-03-15 01:51:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3480"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - tna08
 highlights:
  - photos

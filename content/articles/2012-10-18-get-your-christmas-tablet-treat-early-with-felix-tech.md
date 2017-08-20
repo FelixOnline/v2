@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl compares four of the latest student friendly tablets to buy before the Christmas rush: pre-order before Halloween!
 date: "2012-10-18 20:59:14 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2686"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - jp1409
+ - me1711
  - pk1811
 highlights:
  - comment

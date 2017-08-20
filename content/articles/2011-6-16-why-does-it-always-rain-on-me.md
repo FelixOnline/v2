@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s not because you lied when you were seventeen. Sam Furse discusses Britain’s recent drought, floods and the plight of the blue whale
 date: "2011-06-16 20:10:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1389"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

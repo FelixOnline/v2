@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new threat emerges in the battle against malaria
 date: "2010-10-28 19:22:19 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "259"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bjg10
  - felix
 highlights:
 

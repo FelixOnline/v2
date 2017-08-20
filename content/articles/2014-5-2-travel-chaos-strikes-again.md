@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London was plunged into travel chaos again this week: another tube strike left commuters stranded as parts of the city ground to a standstill.
 date: "2014-05-02 00:51:26 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4535"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - baf12
  - jal08
 highlights:
 

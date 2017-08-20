@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Referendum fever is yet to take hold
 date: "2016-06-10 08:14:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6247"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Off his tits on politics, Joshua Renken tackles the issue of low voter turnout amongst the millennial generation.
 date: "2015-03-06 16:49:11 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5359"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jr2514
 highlights:
  - comment
  - longread

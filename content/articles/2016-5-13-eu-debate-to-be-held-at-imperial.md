@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Advocates for both leave and remain campaigns will be represented
 date: "2016-05-13 08:51:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6145"

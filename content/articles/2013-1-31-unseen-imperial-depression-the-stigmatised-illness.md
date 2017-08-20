@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan London on depression
 date: "2013-01-31 23:24:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3207"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

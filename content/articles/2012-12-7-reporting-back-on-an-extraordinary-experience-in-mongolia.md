@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phillip Rodriguez, an English teacher, writes about his summer spent in Mongolia Summer Camp 2011
 date: "2012-12-07 01:18:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3032"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
  - longread

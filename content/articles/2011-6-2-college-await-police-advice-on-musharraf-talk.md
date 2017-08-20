@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pakistan Society say that visit would "add to the reputation of the College"
 date: "2011-06-02 18:21:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1294"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

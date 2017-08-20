@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Continuing our series on student enterprise, Paolo Strampelli talks business plans
 date: "2011-06-02 19:12:23 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1304"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - ps6110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In this IC Debating Society head-to-head, James Clough and Ed Middleton argue over the implications of mass public sector protest
 date: "2011-10-28 00:44:47 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1633"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - em208
+ - jrc309
  - sjw209
 highlights:
  - longread

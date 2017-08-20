@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you're a fan of the letter D you're gonna love this article
 date: "2016-12-02 16:54:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6556"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - maykyaw
 highlights:
 
 # Homepage control params

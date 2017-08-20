@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at our campus as it once was
 date: "2011-05-22 12:23:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1239"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gda07
+ - ks607
 highlights:
  - comment
  - photos

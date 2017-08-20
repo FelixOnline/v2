@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We sit down to chat with singer-songwriter/actor Michael Malarkey, following his performance in London this week
 date: "2015-01-11 11:55:38 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5087"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

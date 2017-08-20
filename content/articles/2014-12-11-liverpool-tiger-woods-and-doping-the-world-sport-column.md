@@ -4,7 +4,6 @@ title: >
 subtitle: >
   For the last time in 2014, Kunal Wagle rounds up the week's sport news
 date: "2014-12-11 23:41:50 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5045"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - kmw13
 highlights:
 
 # Homepage control params

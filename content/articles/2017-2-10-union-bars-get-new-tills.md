@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student body remains unimpressed
 date: "2017-02-10 13:37:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6743"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

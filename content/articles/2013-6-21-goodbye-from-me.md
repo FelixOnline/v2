@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on this year. My last as Felix Editor!
 date: "2013-06-21 00:05:31 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3729"
@@ -24,7 +23,9 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - jal08
+ - tna08
 highlights:
  - comment
  - longread

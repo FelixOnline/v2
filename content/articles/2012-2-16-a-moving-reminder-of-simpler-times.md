@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece
 date: "2012-02-16 21:07:56 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2184"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - mtm10
  - pk1811
 highlights:
 

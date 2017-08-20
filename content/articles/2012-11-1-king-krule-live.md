@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Padraic and Polona go to a show. Not exciting when said like that...
 date: "2012-11-01 23:09:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2812"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - icanon
+ - phc11
  - pk1811
 highlights:
  - comment

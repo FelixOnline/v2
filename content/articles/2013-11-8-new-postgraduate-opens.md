@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Friday sees the opening of the new h-bar for postgraduates and staff
 date: "2013-11-08 03:37:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4019"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ma1307
 highlights:
  - comment
 

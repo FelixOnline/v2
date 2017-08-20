@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Synchronised Swimming jump out of the pool and into a chat with our tireless Sport Editor
 date: "2011-11-24 23:56:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1854"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

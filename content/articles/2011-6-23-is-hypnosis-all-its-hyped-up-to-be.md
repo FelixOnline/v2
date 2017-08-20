@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Royal Society Medicine backs use of hypnosis in the NHS
 date: "2011-06-23 19:48:47 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1416"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - cr610
 highlights:
 
 # Homepage control params

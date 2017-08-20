@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto finds a passage to 1930s Paris down Battersea High Street
 date: "2012-06-03 15:53:55 +0100"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2519"

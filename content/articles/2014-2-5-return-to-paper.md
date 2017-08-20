@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First thoughts on Facebook's new app
 date: "2014-02-05 10:20:15 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4332"

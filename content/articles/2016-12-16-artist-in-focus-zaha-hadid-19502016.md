@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zaha Hadid left behind a monumental legacy
 date: "2016-12-16 15:01:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6610"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

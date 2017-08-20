@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Harrold finally gets to see a new show after a long theatre drought and luckily it's a rather awesome choice
 date: "2010-02-01 18:04:05 +0000"
-author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "68"

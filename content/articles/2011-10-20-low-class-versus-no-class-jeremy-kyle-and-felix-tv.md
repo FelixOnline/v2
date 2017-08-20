@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Offended by last week's Felix? So was this guy.
 date: "2011-10-20 22:42:10 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1572"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mrangry
  - sjw209
 highlights:
  - comment

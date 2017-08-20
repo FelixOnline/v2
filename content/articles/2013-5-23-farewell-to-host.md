@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Magda Czigány, Librarian from 1986-2000, says goodby to HOST.
 date: "2013-05-23 22:17:19 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3613"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark hits the casinos in the remake of one of James Caan's favourite films
 date: "2015-01-23 17:16:32 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5133"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - jyg11
 highlights:
  - comment

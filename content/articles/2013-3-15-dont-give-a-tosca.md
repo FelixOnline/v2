@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rocio Molina thinks you should
 date: "2013-03-15 01:29:41 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3476"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rm2410
  - tna08
 highlights:
 

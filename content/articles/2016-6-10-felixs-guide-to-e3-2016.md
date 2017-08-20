@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As console sales slow, the big three will be betting on E3 to give them a boost
 date: "2016-06-10 08:36:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6266"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

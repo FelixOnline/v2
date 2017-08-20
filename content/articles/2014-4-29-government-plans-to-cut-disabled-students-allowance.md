@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Willetts, Universities Minister recently announced plans to "modernise" the Disabled Students' Allowance, to the detriment of students nationwide.
 date: "2014-04-29 12:46:31 +0100"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4534"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jal08
  - snb11
 highlights:
 

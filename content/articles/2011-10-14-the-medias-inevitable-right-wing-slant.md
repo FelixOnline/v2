@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jakov Marelic provides his view on media politics in the modern world
 date: "2011-10-14 10:35:57 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "1543"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jm3309
 highlights:
  - comment
 

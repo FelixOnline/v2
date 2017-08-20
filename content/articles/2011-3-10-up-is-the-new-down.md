@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s easy to keep your head down and get lost in your own world. Maybe we should all get a new perspective
 date: "2011-03-10 20:06:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1062"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rjd08
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What is a hot take?
 date: "2016-02-12 11:55:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5914"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
  - photos
 

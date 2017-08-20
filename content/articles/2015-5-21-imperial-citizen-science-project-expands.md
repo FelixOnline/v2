@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle on what's next for the Open Air Laboratories
 date: "2015-05-21 19:57:48 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5544"

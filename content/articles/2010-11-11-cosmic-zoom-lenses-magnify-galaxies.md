@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What exactly are gravitational lenses and how do they work?
 date: "2010-11-11 20:58:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "348"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mjl07
 highlights:
  - photos
 

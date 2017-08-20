@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Miliband says we should talk more about mental health issues
 date: "2012-11-09 12:30:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2847"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - klh110
  - tna08
 highlights:
 

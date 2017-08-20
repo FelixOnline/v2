@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Engineers defeat Miners for first time in 17 years. By Ed Labinski
 date: "2010-11-18 21:10:08 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "402"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven discusses Uzeda
 date: "2011-10-16 15:11:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1551"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - felix
 highlights:
 

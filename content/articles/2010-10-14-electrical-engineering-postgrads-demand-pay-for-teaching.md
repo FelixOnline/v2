@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Department of Electrical and Electronic Engineering deny foul play and points to confusion over departmental bursary
 date: "2010-10-14 19:16:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "200"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

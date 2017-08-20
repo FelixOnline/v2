@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pippa Smith introduces the London Climate Forum 2014
 date: "2014-11-14 20:40:39 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4872"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - psmith3
 highlights:
  - comment
 

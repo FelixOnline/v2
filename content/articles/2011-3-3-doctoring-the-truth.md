@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The German secretary of defense has finally stepped down after his PhD was exposed as plagiarised
 date: "2011-03-03 20:52:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1016"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - nch09
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The transformation from stage to big screen.
 date: "2014-06-11 22:13:01 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4676"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - me1711
 highlights:
  - longread

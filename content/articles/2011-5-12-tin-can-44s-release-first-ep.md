@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An extremely solid debut, and a pleasure on the ears of anyone with a taste for bluesy folk
 date: "2011-05-12 19:03:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1201"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

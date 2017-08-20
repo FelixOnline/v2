@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michelin-starred dining in Fulham
 date: "2011-05-27 13:53:43 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1274"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - am709
  - felix
 highlights:
 

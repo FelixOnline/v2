@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The universal charger is here.
 date: "2011-02-17 20:19:20 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "840"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jl4310
  - nm1010
 highlights:
 

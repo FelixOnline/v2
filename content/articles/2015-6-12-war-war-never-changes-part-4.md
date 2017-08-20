@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl can't wait to unpack his vault boy and explore Fallout 4
 date: "2015-06-12 12:40:00 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5620"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - me1711
 highlights:
 
 # Homepage control params

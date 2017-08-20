@@ -4,7 +4,6 @@ title: >
 subtitle: >
   South Kensington campus to start looking a bit different...
 date: "2012-12-07 00:57:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3028"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
  - photos

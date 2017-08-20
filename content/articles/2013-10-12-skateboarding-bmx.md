@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bart Andrews provides an SB & BMX update
 date: "2013-10-12 20:08:40 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3864"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ba410
  - jal08
 highlights:
 

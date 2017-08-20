@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Film ranks the Bond films to decide which is the best
 date: "2012-10-29 18:33:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2776"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
  - longread

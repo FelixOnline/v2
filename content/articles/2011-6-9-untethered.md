@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ;ouigiguui
 date: "2011-06-09 20:20:28 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1343"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - mrc09
 highlights:
 
 # Homepage control params

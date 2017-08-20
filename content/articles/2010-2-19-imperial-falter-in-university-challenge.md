@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rox Middleton reports as Imperial lose out to Emmanuel College on UC quarter-final
 date: "2010-02-19 12:31:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "96"

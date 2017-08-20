@@ -4,7 +4,6 @@ title: >
 subtitle: >
   While Junior Doctors picketed hospitals on Tuesday, students garnered support form the public
 date: "2016-01-15 11:20:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5826"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

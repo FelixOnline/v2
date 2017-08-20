@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The ABCs of Death showcases 26 short, disturbing films
 date: "2013-02-12 18:28:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3291"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - spb11
  - tna08
 highlights:
  - photos

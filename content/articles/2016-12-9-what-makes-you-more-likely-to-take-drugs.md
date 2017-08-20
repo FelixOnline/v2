@@ -4,7 +4,6 @@ title: >
 subtitle: >
    If you’re one of those stereotypical Imperial students who’s allergic to Ministry of Sound then you’re less likely to enjoy some good coke on a Tuesday evening
 date: "2016-12-09 16:15:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6592"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
 
 # Homepage control params

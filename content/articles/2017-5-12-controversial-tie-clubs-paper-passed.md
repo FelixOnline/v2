@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But not without drama (and extensive amendments)
 date: "2017-05-12 15:29:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6930"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

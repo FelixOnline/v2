@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A spontaneous, mid-lecture decision to try something new pays off majestically
 date: "2011-02-27 19:29:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "914"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - oft10
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Unravelling a cooking conundrum
 date: "2011-11-04 16:59:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1704"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

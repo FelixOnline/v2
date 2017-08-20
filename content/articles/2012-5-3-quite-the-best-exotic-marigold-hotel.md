@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An uplifting tale of a group of people that discover a different culture and develop a new outlook on life
 date: "2012-05-03 18:16:08 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2410"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - czb11
 highlights:
 
 # Homepage control params

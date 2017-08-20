@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jade Hoffman names and shames some of the worst, long-awaited sequels
 date: "2011-03-03 20:10:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1003"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jh308
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nelson Mandela, the last great national liberator of the past century, died yesterday at his home in Johannesburg following a 12 year battle with prostate cancer.
 date: "2013-12-06 03:41:56 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4175"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - rtf08
 highlights:
  - comment
 

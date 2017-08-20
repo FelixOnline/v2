@@ -4,7 +4,6 @@ title: >
 subtitle: >
   from 16th – 19th February
 date: "2017-02-24 14:33:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6821"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ezra.kitson14
 highlights:
  - comment
 

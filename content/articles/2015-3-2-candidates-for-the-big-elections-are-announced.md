@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three students are running for President this year, although several big roles remain uncontested
 date: "2015-03-02 17:24:25 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5316"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Juliette Binoche impresses Fred Fyles, in this measured, unique production of Sophocles' Antigone
 date: "2015-03-08 16:48:22 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5365"

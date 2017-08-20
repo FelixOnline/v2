@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £350,000 worth of goods stolen by masked men
 date: "2011-11-10 22:28:59 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1749"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lap08
  - pk1811
 highlights:
 

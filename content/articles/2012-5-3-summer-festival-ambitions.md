@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why Benicassim should be the top of your list for 2012
 date: "2012-05-03 18:50:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2418"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
 

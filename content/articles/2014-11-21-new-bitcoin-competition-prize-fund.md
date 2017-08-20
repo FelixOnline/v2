@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Competition launched by Business school for blockchain technology development
 date: "2014-11-21 13:22:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4929"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - ps3110
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Welcome to Felix’s new, unimaginatively-titled, Science Fiction Column
 date: "2010-12-02 20:33:38 +0000"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "473"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Art students protest against cuts to teaching budgets
 date: "2010-11-26 11:41:22 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "453"

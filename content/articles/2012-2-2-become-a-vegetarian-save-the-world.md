@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Wood on her vegetarian experiences
 date: "2012-02-02 23:50:00 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2115"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - csw09
  - sjw209
 highlights:
 

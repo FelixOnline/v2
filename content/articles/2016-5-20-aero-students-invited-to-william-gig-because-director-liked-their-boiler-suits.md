@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They were taking their class picture outside the Royal Albert Hall when they were ‘discovered’
 date: "2016-05-20 08:45:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6170"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
  - photos
 

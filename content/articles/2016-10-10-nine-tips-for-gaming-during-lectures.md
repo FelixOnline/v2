@@ -4,7 +4,6 @@ title: >
 subtitle: >
   'cause ten is just taking it too far
 date: "2016-10-10 12:21:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6321"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sa8713
 highlights:
 
 # Homepage control params

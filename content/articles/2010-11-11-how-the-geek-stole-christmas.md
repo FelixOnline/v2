@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I don't mind all the early Christmas celebrations, it's just that I feel like someone's thrown a kettle of boiling water in my face...
 date: "2010-11-11 21:46:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "367"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

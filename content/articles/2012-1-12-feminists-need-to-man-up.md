@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the mis-portrayal of today's "feminists"
 date: "2012-01-12 21:44:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1974"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mh3210
 highlights:
  - comment
  - photos

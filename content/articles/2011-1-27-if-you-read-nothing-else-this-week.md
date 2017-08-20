@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zainab Ali puts the case for this collection of poems and short stories by a darkly original author
 date: "2011-01-27 19:52:55 +0000"
-author_id: "za710"
 
 # Attributes from Felix Online V1
 id: "680"

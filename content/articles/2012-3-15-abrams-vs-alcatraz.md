@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucia Podhorska breaks out a review of Alcatraz
 date: "2012-03-15 20:19:51 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2359"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lp707
  - pk1811
 highlights:
 

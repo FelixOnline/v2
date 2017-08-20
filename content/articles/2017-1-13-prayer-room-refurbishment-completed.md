@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And it took less than a decade!
 date: "2017-01-13 13:55:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6631"

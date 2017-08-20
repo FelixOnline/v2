@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Utsav Radia on the new antenatal blood test and its potential to detect the genetic disorder before birth
 date: "2013-11-08 09:36:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4028"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ur13
 highlights:
  - comment
 

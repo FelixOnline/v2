@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As MTSoc put their finishing touches to the Spring performance, the Producers, they invited this intrepid reporter along to see how things were shaping up in the dress rehearsal.
 date: "2014-03-19 02:46:02 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4489"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - em2512
  - jal08
 highlights:
 

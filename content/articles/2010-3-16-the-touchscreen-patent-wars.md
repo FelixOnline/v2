@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at the broken world of international patent law as Apple and HTC fight over Google&8217;s Android operating system and it&8217;s use of a touch screen interface
 date: "2010-03-16 15:10:46 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "122"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sjw209
  - srg03
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal Mena discovers if beauty brings real happiness with the IC Drama Society.
 date: "2010-10-14 19:16:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "201"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - er310
  - felix
 highlights:
 

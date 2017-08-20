@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over £750,000 was raised internationally
 date: "2015-12-04 15:13:48 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5793"

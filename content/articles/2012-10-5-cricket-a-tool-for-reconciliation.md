@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Praveen Gnanasambanthan why sport and politics cannot be separated
 date: "2012-10-05 13:00:30 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2620"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - pdg08
 highlights:
  - comment
  - longread

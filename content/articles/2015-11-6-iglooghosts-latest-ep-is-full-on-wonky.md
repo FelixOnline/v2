@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Like the worm in a witch hat on its cover, Chinese Nü Yr will wiggle its way into your heart
 date: "2015-11-06 14:19:41 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5711"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cet13
  - ygr12
 highlights:
 

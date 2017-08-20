@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles chats with Jeff James about theatre, traditions, and treacle
 date: "2014-12-18 16:08:13 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5068"

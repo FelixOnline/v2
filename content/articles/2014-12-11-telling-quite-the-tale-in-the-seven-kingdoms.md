@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Dutton reviews the latest Game of Thrones game – SPOILER ALERT
 date: "2014-12-11 20:42:54 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5030"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jdd11
 highlights:
  - comment
 

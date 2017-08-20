@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £5000 or more to be paid for repairs to a Coach after Rugby player smashes a window whilst on Tour
 date: "2014-11-06 22:12:45 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4812"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - snb11
 highlights:
  - comment

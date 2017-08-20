@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Poorly timed and expensive refurbishment may just have made it all pretty for the next owner
 date: "2013-01-25 01:51:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3186"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as1911
  - tna08
 highlights:
 

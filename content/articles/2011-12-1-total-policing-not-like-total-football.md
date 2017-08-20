@@ -4,7 +4,6 @@ title: >
 subtitle: >
   12 hours of protesting has simply dissolved "the idea of protesters as lazy hippies"
 date: "2011-12-01 21:33:49 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1895"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ls411
  - pk1811
 highlights:
 

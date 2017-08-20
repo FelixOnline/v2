@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sorcha Cotter retells two weeks of free/gruelling sessions
 date: "2012-10-05 13:32:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2629"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sc3610
 highlights:
 
 # Homepage control params

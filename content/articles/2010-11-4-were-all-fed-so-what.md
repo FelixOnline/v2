@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does John Terry’s personal life have any bearing on his skills as a footballer? No. He just happens to be shit at both
 date: "2010-11-04 18:56:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "320"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

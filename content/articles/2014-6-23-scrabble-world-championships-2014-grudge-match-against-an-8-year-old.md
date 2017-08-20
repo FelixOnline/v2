@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins.
 date: "2014-06-23 13:05:14 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4705"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - wsp10
 highlights:
  - longread
 

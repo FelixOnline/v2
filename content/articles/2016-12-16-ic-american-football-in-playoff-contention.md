@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don't hate them cause they're well protected
 date: "2016-12-16 16:25:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6626"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial psychiatrist talks to FELIX about the difficulties of psychedelic research
 date: "2016-05-27 08:49:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6207"
@@ -21,7 +20,7 @@ tags:
  - science
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

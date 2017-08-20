@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But Union Court quashes decision due to unconstitutional voting procedure
 date: "2011-06-16 18:54:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1378"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

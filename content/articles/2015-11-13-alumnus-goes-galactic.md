@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathon Firth used to go to Imperial, now he’s busy building Richard Branson’s commercial space travel business
 date: "2015-11-13 14:35:18 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5727"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
+ - ps2612
  - ygr12
 highlights:
  - comment

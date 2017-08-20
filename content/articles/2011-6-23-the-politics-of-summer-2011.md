@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Who will come, who will see, who will conquer?
 date: "2011-06-23 20:14:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1421"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rj408
 highlights:
  - longread
  - photos

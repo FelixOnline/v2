@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How do retroviruses insert their genome into host DNA?
 date: "2010-11-18 20:15:42 +0000"
-author_id: "vbb08"
 
 # Attributes from Felix Online V1
 id: "386"

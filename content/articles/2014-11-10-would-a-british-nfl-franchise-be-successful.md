@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phoebe Hunter discusses of the possibility of a permanent team at Wembley
 date: "2014-11-10 21:58:35 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4833"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ph1414
  - ps3110
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   That most crucial of decisions: where should you get your boots from?
 date: "2011-12-08 21:49:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1945"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

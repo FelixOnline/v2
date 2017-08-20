@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After checking everyone had brought all the food and tents that they had been given a few days previously, (they had, apart from a couple of tins of sweet corn) we checked in and sat down for our last English breakfast for 10 days.
 date: "2013-11-05 09:55:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4011"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jwr10
 highlights:
 
 # Homepage control params

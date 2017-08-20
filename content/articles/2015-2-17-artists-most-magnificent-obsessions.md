@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is impressed by the Barbican’s display of unseen collections
 date: "2015-02-17 16:39:50 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5266"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - ps3110
 highlights:
  - longread

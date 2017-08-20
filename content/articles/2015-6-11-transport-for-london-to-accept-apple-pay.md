@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent on the move which makes TfL the first public transport operator to accept the payment technology
 date: "2015-06-11 22:16:19 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5612"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - pk1811
 highlights:
  - comment
 

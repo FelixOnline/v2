@@ -4,7 +4,6 @@ title: >
 subtitle: >
   SSAGO is back after a decade-long hiatus
 date: "2011-11-10 22:10:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1744"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jw1606
 highlights:
 
 # Homepage control params

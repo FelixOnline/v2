@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Whirring and beeping in Battersea
 date: "2012-05-25 18:26:35 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2498"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - idb10
  - mc4509
 highlights:
  - comment

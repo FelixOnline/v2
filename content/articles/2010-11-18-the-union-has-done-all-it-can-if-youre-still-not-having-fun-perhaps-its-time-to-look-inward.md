@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There are many fewer reasons for Imperial students to complain than there were just a year ago
 date: "2010-11-18 22:14:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "420"

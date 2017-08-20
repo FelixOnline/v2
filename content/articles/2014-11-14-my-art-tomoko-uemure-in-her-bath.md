@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-14 20:48:51 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4876"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our out-dated attitude to drugs is doing more harm than good. Legalising them is the most sensible solution.
 date: "2010-11-04 18:52:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "317"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - blacksheep
  - felix
 highlights:
  - comment

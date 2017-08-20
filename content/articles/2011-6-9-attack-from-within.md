@@ -4,7 +4,6 @@ title: >
 subtitle: >
   aaedfaefadf
 date: "2011-06-09 20:31:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1342"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch1810
  - felix
 highlights:
  - longread

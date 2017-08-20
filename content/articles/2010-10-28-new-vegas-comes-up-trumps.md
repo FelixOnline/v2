@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fresh out of his Vault, Sean Harbinson is bowled over by Fallout: New Vegas
 date: "2010-10-28 19:26:46 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "262"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - skh10
 highlights:
  - longread
 

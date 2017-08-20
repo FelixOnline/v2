@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Yates on the potential of the technique that made cute custom monkeys
 date: "2014-02-07 05:15:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4366"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cy1211
  - jal08
 highlights:
  - comment

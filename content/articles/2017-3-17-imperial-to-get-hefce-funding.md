@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College and the Union will be reportedly matching the funds their proposal receives
 date: "2017-03-17 13:11:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6900"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ad4812
  - felix
 highlights:
  - comment

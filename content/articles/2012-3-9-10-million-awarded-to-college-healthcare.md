@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trust receives money to aid new Clinical Research Facility
 date: "2012-03-09 01:05:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2334"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

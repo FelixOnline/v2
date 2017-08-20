@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steak, football and beer - a student’s every need fulfilled
 date: "2010-11-11 21:10:38 +0000"
-author_id: "lj810"
 
 # Attributes from Felix Online V1
 id: "354"

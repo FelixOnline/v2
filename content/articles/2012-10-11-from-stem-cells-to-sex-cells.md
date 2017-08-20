@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stem cell research receives another vital boost. Fiona Hartley reports
 date: "2012-10-11 20:51:48 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2656"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - frh10
 highlights:
 
 # Homepage control params

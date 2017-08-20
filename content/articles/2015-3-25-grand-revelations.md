@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Science Museum's latest show of scientific photography is an incredible triumph
 date: "2015-03-25 14:00:15 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5457"

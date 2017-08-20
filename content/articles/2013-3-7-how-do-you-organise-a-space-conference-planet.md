@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Dudley shoots for the stars
 date: "2013-03-07 21:48:39 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3430"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jd3212
 highlights:
 
 # Homepage control params

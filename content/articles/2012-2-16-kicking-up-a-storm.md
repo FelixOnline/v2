@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Taekwondo in medal haul at the WTF London International open
 date: "2012-02-16 23:26:48 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2220"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - sjw209
+ - st405
 highlights:
  - comment
 

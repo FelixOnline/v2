@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A combination of inspiring biopic and politics in Fair Game
 date: "2011-02-24 19:54:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "873"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jgp09
 highlights:
  - comment
 

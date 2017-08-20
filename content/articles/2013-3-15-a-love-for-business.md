@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to Colin Love about the Business School’s plans
 date: "2013-03-15 02:37:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3491"

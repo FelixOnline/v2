@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philomena Director: Stephen Frears Writers: Stephen Frears, Jeff Pope, Martin Sixsmith (novel) Starring: Judi Dench, Steve Coogan Runtime: 98 minutes Certificate: 12A
 date: "2013-11-08 10:02:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4042"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

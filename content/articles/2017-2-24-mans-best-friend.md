@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hint: It's me Dog
 date: "2017-02-24 13:56:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6816"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aran.shaunak16
 highlights:
  - comment
 

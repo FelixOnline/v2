@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster tries out Trucks and Trailers and... likes it?
 date: "2013-02-07 23:31:21 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3262"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

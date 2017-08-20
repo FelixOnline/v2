@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fire alarm in halls leads to stolen cash and jewellery
 date: "2012-03-09 01:15:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2336"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
+ - ar3310
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Jacobs is let down at the National Theatre’s new production
 date: "2015-03-25 12:58:53 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5441"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - jlj13
 highlights:
 
 # Homepage control params

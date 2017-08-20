@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt lets us know why he loves mental health musical Next To Normal
 date: "2015-03-06 13:27:59 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5351"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - ff712
 highlights:
 

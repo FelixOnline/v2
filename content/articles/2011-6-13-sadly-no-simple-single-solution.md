@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In September 2010 members of the IC Palestinian Society travelled in the West Bank and took part in voluntary programs at Al-Najah University and Askar refugee camp.
 date: "2011-06-13 13:28:57 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1372"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - icanon
  - pk1811
 highlights:
  - comment

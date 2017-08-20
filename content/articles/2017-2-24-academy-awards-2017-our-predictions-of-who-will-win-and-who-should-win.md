@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Heading to an Oscars party and unsure of who to root for? Not seen Fences, but want to pretend you have? Just want to seem like someone who has an opinion? Then read on, as our Culture Editor Fred Fyles takes you through all the top prizes, letting you know what’s coming out on top, who’s coming hom
 date: "2017-02-24 14:21:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6819"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
 

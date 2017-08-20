@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cambridge University commences initiative to digitise original scientific papers
 date: "2011-12-24 22:48:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1962"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - felix
 highlights:
 

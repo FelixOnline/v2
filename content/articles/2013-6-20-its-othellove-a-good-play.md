@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ....and it's not yo gramma's Shakespeare, according to Kate Pumphrey
 date: "2013-06-20 20:52:24 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3709"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kep12
  - tna08
 highlights:
 

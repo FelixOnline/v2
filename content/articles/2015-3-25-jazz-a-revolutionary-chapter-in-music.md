@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Bhanot explores what the term ‘jazz’ really means to us today
 date: "2015-03-25 12:26:08 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5429"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - kb912
 highlights:
  - comment
  - longread

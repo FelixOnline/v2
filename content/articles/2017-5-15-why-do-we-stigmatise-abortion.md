@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One in three women will have an abortion. So where are they?
 date: "2017-05-15 17:42:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6968"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - tad08
 highlights:
  - comment
 

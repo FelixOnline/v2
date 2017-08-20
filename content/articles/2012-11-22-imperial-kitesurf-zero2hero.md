@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The beginners’ weekend, as reported by Leon Vanstone
 date: "2012-11-22 22:47:20 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2932"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lv105
  - tna08
 highlights:
 

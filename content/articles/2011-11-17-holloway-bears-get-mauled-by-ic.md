@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mike Peacock reports on the latest American Football results
 date: "2011-11-17 23:01:15 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1796"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mp4310
  - sjw209
 highlights:
 

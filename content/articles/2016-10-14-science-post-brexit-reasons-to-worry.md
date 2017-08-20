@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With less opportunities to work with neighbouring countries and the significant issue that is the loss of EU funding, scientists all over the UK are wondering what other ramifications are yet to come.
 date: "2016-10-14 10:12:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6333"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - so515
 highlights:
 
 # Homepage control params

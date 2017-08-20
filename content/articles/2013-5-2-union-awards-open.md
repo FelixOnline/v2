@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nominate people for recognition
 date: "2013-05-02 13:40:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3533"

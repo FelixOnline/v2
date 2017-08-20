@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reign: Season 1
 date: "2014-06-06 02:49:55 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4665"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
  - longread
 

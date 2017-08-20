@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How I despair at Boris’ slightly annoying antics
 date: "2012-10-05 12:44:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2617"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jph210
 highlights:
  - comment
 

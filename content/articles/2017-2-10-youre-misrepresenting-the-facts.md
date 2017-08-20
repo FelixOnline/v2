@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saul Coleman doesn't think the Israeli ambassador's talk was covered appropriately
 date: "2017-02-10 13:46:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6747"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - saulcoleman
 highlights:
  - comment
 

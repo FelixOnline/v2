@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dushi Arumuganesan’s guide to London’s most festive frolics this winter
 date: "2011-12-08 22:01:56 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1950"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - da2309
  - pk1811
 highlights:
  - photos

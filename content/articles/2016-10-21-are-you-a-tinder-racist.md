@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From the blatant rejection of some races to the fetishisation of others, OkCupid shows us that you probably are.
 date: "2016-10-21 12:49:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6346"

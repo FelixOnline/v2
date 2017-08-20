@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Boards give an underwhelming response to new rulings on how to run events
 date: "2011-10-20 19:30:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1555"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

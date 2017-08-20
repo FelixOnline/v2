@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A refreshing antidote to all that pop nonsense
 date: "2011-05-06 08:59:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1165"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - felix
 highlights:
  - comment

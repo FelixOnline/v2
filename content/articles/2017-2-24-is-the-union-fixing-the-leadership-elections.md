@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer discusses the Union's interference in the democratic process
 date: "2017-02-24 13:50:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6814"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

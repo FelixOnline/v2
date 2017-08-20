@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Salaries revealed. Sort of.
 date: "2013-03-15 00:34:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3462"

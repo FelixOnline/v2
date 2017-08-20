@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Afonso Campos extoles the virtues of one of America’s finest pieces of modern literature, Midnight in the Garden of Good and Evil
 date: "2011-02-03 19:42:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "721"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ac1507
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Morton interviews constitutional expert Lord Norton about constitutional reform
 date: "2012-12-07 01:12:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3031"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - adm10
  - tna08
 highlights:
  - comment

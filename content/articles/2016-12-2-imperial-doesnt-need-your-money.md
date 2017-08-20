@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandre Adler explains why we should fight tuition fees at Imperial
 date: "2016-12-02 13:56:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6525"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - alexandreadler
  - felix
 highlights:
 

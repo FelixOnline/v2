@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No, for real this time! Promise!
 date: "2016-10-03 17:02:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6301"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mjj15
 highlights:
  - comment
 

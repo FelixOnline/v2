@@ -4,7 +4,6 @@ title: >
 subtitle: >
   So, is it worth it? Should you keep in touch with that girl you’re going to meet this summer?
 date: "2011-02-13 13:10:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "804"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ial08
 highlights:
  - comment
 

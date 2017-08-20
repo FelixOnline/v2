@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The festival turns 30, and this year it’s two whole days!
 date: "2013-02-08 00:33:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3274"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

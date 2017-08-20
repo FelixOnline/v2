@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or , a strong argument for cooking your own food. felix investigates the what really goes on in many kitchens and why some of the practices might turn you away.
 date: "2016-12-02 15:21:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6545"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
 highlights:
 
 # Homepage control params

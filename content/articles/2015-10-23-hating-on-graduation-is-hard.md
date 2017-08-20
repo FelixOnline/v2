@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduation only disappoints by being difficult to find its flaws
 date: "2015-10-23 11:43:40 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5670"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - the angry grad
 highlights:
  - comment
 

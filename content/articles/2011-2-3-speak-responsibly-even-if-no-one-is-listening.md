@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Banter" that is appropriate in the pub is less appropriate elsewhere
 date: "2011-02-03 20:24:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "745"

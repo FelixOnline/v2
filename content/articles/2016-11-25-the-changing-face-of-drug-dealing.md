@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shopping for drugs on the Dark Web
 date: "2016-11-25 14:42:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6515"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
 
 # Homepage control params

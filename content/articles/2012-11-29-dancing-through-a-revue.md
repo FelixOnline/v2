@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of Dancing Through Life
 date: "2012-11-29 22:31:22 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2988"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - glc09
  - tna08
 highlights:
 

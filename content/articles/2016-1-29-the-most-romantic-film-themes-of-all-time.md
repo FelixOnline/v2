@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And none of them are from Love Actually
 date: "2016-01-29 09:17:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5845"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - im1214
 highlights:
  - comment
 

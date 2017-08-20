@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at the re-issue of one of the 90’s greatest albums
 date: "2010-12-02 20:51:08 +0000"
-author_id: "cdd09"
 
 # Attributes from Felix Online V1
 id: "479"

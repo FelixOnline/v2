@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discovering how dogs were domesticated
 date: "2011-02-03 20:07:36 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "736"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - vbb08
 highlights:
 
 # Homepage control params

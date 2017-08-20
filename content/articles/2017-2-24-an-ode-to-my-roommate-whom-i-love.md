@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer shares their love letter to their room- (and soul-) mate
 date: "2017-02-24 13:49:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6813"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

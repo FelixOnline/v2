@@ -4,7 +4,6 @@ title: >
 subtitle: >
   woop woop
 date: "2017-03-10 13:18:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6866"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

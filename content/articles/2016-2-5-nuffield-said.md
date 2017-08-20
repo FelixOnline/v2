@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial triumphs in University Challenge quarter-finals
 date: "2016-02-05 11:47:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5862"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

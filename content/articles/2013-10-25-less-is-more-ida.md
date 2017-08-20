@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fyles on Ida
 date: "2013-10-25 00:50:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3939"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ff712
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A guide to cinematic experiences during the five-week holiday
 date: "2012-03-08 21:47:33 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2328"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
+ - lw408
  - mc4509
 highlights:
  - longread

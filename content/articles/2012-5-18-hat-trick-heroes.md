@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Third consecutive gold for Imperial College Snooker
 date: "2012-05-18 16:43:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2477"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ec209
  - felix
 highlights:
 

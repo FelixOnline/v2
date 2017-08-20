@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray is not talking about Bullet For My Valentine
 date: "2013-02-01 00:52:27 +0000"
-author_id: "rbg10"
 
 # Attributes from Felix Online V1
 id: "3236"

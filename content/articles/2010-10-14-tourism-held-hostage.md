@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To travel, or not to travel – amidst travel alerts and predictions of terrorist activities, is submitting to the warnings and fears a safe choice?
 date: "2010-10-14 19:56:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "215"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - yll08
 highlights:
 
 # Homepage control params

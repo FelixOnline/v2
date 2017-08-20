@@ -4,7 +4,6 @@ title: >
 subtitle: >
    London Student investigation found Imperial College London has the most invested in the arms industry. Compared with ten other London universities, Imperial’s holdings in defence companies comes out on top with investments totalling £3.9m.
 date: "2014-02-07 05:03:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4357"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - amm113
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elisabeth Robinson offers nuggets of wisdom from the perspective of a hardened 4th year.
 date: "2016-10-03 18:08:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6303"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejr13
  - felix
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jaco Van Dormael and Michéle Anne De Mey's short piece shows off choreography, cinematography, and lighting to dazzling effect
 date: "2017-02-06 16:15:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6740"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
 

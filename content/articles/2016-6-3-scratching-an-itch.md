@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Into and One Night Stand, two short narrative experiments, tell interactive stories in profound new ways
 date: "2016-06-03 09:26:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6241"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

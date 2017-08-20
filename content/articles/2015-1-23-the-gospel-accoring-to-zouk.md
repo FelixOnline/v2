@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson catches some house and techno heavyweights along Singapore’s coastline
 date: "2015-01-23 18:53:13 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5148"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - jyg11
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the new gene-editing technique that gives HIV resistance
 date: "2014-03-07 04:48:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4457"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ps3110
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new concept store in Shoreditch is causing a sensation: 123 offers patrons the very best of British – that means locally-sourced fashion, accessories, homeware and cake!
 date: "2011-01-27 19:33:57 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "671"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - stv07
 highlights:
 
 # Homepage control params

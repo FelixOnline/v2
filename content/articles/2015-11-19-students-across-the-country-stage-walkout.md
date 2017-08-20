@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Neighbouring RCA protested outside the Daily Mail
 date: "2015-11-19 22:23:37 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5741"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cj914
  - ygr12
 highlights:
  - comment

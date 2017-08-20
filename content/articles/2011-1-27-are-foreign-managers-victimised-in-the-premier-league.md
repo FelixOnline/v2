@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clash between certain premier league managers
 date: "2011-01-27 20:39:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "699"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

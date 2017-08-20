@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl and the Felix Tech team play around on some of the latest tech
 date: "2012-12-07 02:52:24 +0000"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "3055"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - jp1409
+ - me1711
+ - tecfelix
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix’s own nutrition enthusiast, Alexandra Lim, takes us through the DOs and DON’Ts of cooking with oil.
 date: "2016-10-14 11:25:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6336"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
+ - so515
 highlights:
  - photos
 

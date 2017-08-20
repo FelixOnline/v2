@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Knightley unleashes a brilliantly articulate hurricane ending
 date: "2011-02-27 19:34:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "916"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ci107
  - felix
 highlights:
 

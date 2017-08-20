@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This isn't 50 Shades of Grey
 date: "2017-03-03 16:11:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6854"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bcmaile
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New party drug currently being developed by Nutt's team could stop binge drinking but still deliver a high
 date: "2015-01-16 13:03:56 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5094"

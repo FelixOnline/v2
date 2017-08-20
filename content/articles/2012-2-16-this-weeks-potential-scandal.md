@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Musings about last week's storm in a teacup
 date: "2012-02-16 22:18:23 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2211"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - mrangry
 highlights:
  - comment
 

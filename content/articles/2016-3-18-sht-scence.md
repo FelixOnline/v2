@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists shocked to discover booze and pot make students horny
 date: "2016-03-18 11:49:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6061"
@@ -21,7 +20,7 @@ tags:
  - science
  - imported
 authors:
- - felix
+ - mguenot
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking back at the 2010 F1 season
 date: "2010-11-18 21:04:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "399"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

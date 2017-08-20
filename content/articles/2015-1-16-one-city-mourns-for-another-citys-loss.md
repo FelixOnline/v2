@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett recaps the tragedy that has captured the world’s attention, and how it has resonated through the capital
 date: "2015-01-16 12:55:17 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5090"

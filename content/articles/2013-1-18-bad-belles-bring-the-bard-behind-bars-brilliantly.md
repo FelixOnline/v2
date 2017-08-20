@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva goes to an all female production of Julius Caesar set in a jail
 date: "2013-01-18 00:37:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3137"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - er310
  - tna08
 highlights:
  - comment

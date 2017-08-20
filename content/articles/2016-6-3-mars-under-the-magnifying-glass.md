@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How new super resolution imaging technology can help mankind reach for the stars
 date: "2016-06-03 09:17:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6235"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
  - photos
 

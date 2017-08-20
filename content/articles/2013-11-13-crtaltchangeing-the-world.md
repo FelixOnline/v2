@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fostering social change through technology
 date: "2013-11-13 22:49:33 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4050"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - whn10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Celebrating the birth of the space age
 date: "2015-12-15 13:11:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5823"
@@ -21,7 +20,7 @@ tags:
  - science
  - imported
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

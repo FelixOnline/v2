@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster works in a quarry
 date: "2012-11-01 22:56:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2800"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
  - photos

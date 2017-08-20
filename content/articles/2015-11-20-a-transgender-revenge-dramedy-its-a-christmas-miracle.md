@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tangerine may be bombastic in its approach, but there is real warmth and joy within the film
 date: "2015-11-20 14:08:28 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5768"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - ts2915
 highlights:
  - comment
 

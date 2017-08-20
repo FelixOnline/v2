@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson reviews Mountain Goats at the Union Chapel
 date: "2013-10-20 01:50:36 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3903"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

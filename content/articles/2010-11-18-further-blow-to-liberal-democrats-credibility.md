@@ -4,7 +4,6 @@ title: >
 subtitle: >
   N.U.S. threaten ‘Right to Recall’ as revelations question sincerity of Lib Dem pre-election pledge
 date: "2010-11-18 21:54:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "415"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

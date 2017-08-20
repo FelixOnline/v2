@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With a motto like ‘I waffle therefore I am’, what’s not to love?
 date: "2011-01-13 19:47:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "569"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dhl106
  - felix
 highlights:
  - comment

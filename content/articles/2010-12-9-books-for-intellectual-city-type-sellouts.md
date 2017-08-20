@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of some classic and pertinent finance titles
 date: "2010-12-09 19:32:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "507"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

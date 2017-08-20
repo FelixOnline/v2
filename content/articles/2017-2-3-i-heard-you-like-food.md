@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We get down and dirty to get you the messy details in ‘Wet and Messy’
 date: "2017-02-03 18:11:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6738"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bcmaile
  - felix
 highlights:
 

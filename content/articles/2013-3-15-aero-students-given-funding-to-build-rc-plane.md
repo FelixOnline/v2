@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Edward Kardouss leads the 35 strong team in their aim to build an RC plane. Gheez, and I thought freshers just cared about booze and sex.
 date: "2013-03-15 00:06:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3457"

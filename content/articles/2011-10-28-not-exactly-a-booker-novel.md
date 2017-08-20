@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Carr on the shortcomings of this year's Man Booker prize winner
 date: "2011-10-28 09:33:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1634"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - drc107
  - felix
 highlights:
 

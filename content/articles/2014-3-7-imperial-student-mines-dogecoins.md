@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An Imperial student used College computers to mine 30,000 Dogecoins.
 date: "2014-03-07 04:32:15 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4451"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mtm10
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   On Tuesday the RCSU (Royal College of Science Union) celebrated the introduction to the next RCSU Science Challenge Competition with a launch event in the Sir Alexander Fleming Building.
 date: "2013-12-06 03:45:17 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4178"

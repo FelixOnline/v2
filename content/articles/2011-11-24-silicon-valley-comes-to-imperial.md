@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on a recent boost to the College’s entrepreneurial stature
 date: "2011-11-24 20:24:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1804"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nbn10
  - pk1811
 highlights:
  - photos

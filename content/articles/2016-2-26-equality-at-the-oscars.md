@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ahead of the Academy Awards this weekend, we ask whether or not it’s time to pull the plug on gender-segregated acting awards, in favour of a gender-neutral accolade
 date: "2016-02-26 11:39:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5967"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
  - photos

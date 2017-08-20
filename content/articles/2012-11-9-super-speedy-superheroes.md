@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everyone accidentally dresses up as The Flash. Not flash in the good way though...
 date: "2012-11-09 14:27:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2873"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - srk210
  - tna08
 highlights:
 

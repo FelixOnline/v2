@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The questions it poses are broader beyond even the breadth of the works it displays
 date: "2011-02-27 19:26:48 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "913"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ks607
+ - wsp10
 highlights:
  - comment
 

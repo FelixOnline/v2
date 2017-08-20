@@ -4,7 +4,6 @@ title: >
 subtitle: >
   His lack of professionalism is remarkable
 date: "2011-01-27 19:44:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "676"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mrangry
 highlights:
 
 # Homepage control params

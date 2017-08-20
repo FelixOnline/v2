@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men’s Hockey: Imperial 3s 4 - 0 St. Barts
 date: "2011-03-03 21:34:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1029"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jlc08
 highlights:
 
 # Homepage control params

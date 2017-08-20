@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution
 date: "2012-03-01 22:45:01 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2290"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - jwk11
 highlights:
  - longread
 

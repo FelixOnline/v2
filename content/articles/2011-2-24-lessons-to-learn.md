@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A better and clearer understanding of the complaints procedure, guidelines for removal of content and process for appeal needs to be built between Clubs & Societies, the Union and the College
 date: "2011-02-24 20:24:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "889"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The cheats behind a basic but beautiful curry
 date: "2014-11-10 22:23:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4845"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - mwt12
  - ps3110
 highlights:
 

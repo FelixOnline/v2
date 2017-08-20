@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto is quiet for 4 minutes and 33 seconds.
 date: "2012-11-09 14:01:04 +0000"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2865"

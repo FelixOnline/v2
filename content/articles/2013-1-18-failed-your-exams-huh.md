@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Sokol gives his advice on writing appeals for those with legitimate grounds
 date: "2013-01-18 00:35:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3136"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
 

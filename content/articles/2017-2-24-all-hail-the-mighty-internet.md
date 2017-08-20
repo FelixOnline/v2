@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do you remember the days when you had to actually chat to your friends or neighbours or call your mom to find out how to cook something new? Well, neither do I, because we’re all used to using the almighty godly internet instead.
 date: "2017-02-24 15:21:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6828"
@@ -21,7 +20,7 @@ tags:
  - food
  - imported
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

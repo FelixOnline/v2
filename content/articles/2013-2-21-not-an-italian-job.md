@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look into an exhibition on the Renaissance and its origins
 date: "2013-02-21 20:52:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3343"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jlp210
  - tna08
 highlights:
  - photos

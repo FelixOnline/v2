@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park awards three stars to St. Vincent
 date: "2014-12-04 19:43:21 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5003"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jgp09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Sandberg's debut feature relies too much on jump scares, but attempts to tackle heavy topics
 date: "2016-09-10 16:58:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6297"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mhz15
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Researchers studied tiny grains of rock to determine their hydrothermal origins at the core of the icy moon
 date: "2015-03-20 00:54:00 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5418"

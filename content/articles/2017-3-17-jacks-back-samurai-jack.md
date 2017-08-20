@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Time doesn’t heal all wounds
 date: "2017-03-17 17:04:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6909"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4013
 highlights:
  - comment
 

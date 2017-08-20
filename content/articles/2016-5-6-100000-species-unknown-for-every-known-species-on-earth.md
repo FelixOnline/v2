@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Estimating the number of species on Earth is among the great challenges in biology
 date: "2016-05-06 09:53:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6121"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

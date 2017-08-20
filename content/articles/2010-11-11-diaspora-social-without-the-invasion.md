@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The privacy aware, personally controlled, do-it-all, open source social network
 date: "2010-11-11 20:32:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "338"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - felix
 highlights:
  - comment

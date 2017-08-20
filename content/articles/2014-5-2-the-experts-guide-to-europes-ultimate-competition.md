@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jamie Thomas explains which countries you need to look out for at the 59th edition of Eurovision in Copenhagen
 date: "2014-05-02 01:34:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4552"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - fmusic
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Impeccable building work hailed as new entrance doors experience no problems whatsoever
 date: "2012-02-09 23:13:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2173"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ld710
 highlights:
  - comment
 

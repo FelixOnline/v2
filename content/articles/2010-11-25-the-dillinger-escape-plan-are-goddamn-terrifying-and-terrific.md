@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dillinger Escape Plan Electric Ballroom, 5th November 2010
 date: "2010-11-25 20:55:03 +0000"
-author_id: "gep07"
 
 # Attributes from Felix Online V1
 id: "435"

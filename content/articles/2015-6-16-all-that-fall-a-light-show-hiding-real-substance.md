@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emiel de Lange finds that the auditory component of Beckett's work far outweighs the visuals
 date: "2015-06-16 18:55:52 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5624"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ed812
  - ff712
 highlights:
 

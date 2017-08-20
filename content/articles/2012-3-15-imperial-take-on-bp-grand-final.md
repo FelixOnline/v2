@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Internship on offer for grand winner
 date: "2012-03-15 21:38:18 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2390"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - pk1811
 highlights:
 

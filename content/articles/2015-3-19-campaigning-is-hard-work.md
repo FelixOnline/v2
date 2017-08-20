@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But is it all worth it in the end? Three people who've campaigned in the Big Elections share their views
 date: "2015-03-19 23:52:51 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5412"
@@ -25,7 +24,10 @@ tags:
  - image
  - imported_comments
 authors:
+ - ad4812
+ - bwh12
  - ps3110
+ - tr511
 highlights:
  - comment
  - longread

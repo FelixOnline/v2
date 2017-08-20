@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New technologies promise improved efficiency
 date: "2012-10-05 12:00:45 +0100"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2608"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ams111
  - nn1209
 highlights:
 

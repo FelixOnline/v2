@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's firsts win over Portsmouth at Harlington
 date: "2011-10-13 22:41:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1515"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmw08
  - felix
 highlights:
 

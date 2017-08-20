@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Felix Revision playlist
 date: "2012-03-15 21:16:44 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2375"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ice Hockey : Imperial B’s 2 - 10 Warwick B’s
 date: "2011-03-03 21:31:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1028"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - wm207
 highlights:
 
 # Homepage control params

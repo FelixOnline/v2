@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dead Space 2 can’t scare me, claims Laurence Pope
 date: "2011-02-04 16:55:20 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "755"

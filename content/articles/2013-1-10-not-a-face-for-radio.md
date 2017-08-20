@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Wills' unique brand of comedy has to been seen to be believed
 date: "2013-01-10 22:34:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3088"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
  - tna08
 highlights:
 

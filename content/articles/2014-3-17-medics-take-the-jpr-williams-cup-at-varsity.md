@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But College wins the day overall with the most wins
 date: "2014-03-17 17:31:39 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4486"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kmw13
 highlights:
 
 # Homepage control params

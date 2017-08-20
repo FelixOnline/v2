@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le looks at some art from behind bars, by which we don't mean that she is at a pub...
 date: "2012-10-18 21:00:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2687"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lwl09
 highlights:
 
 # Homepage control params

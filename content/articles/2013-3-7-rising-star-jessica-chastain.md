@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mama Review
 date: "2013-03-07 23:59:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3451"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

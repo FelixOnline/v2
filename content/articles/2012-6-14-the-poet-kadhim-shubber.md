@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Poet - Kadhim Shubber
 date: "2012-06-14 20:48:07 +0100"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2570"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - er310
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Clarke reports as Imperial’s 5th XI football team win comfortably.
 date: "2013-11-05 09:57:31 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4013"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsport
  - jal08
 highlights:
 

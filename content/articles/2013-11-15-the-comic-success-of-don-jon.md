@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman reviews the newly released Don Jon, directed by Joseph Gordon-Levitt
 date: "2013-11-15 01:29:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4057"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - js5913
 highlights:
  - comment
  - photos

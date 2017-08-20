@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Youth Lagoon: Wondrous Bughouse
 date: "2013-03-07 22:07:58 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3440"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kw911
  - tna08
 highlights:
 

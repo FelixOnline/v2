@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new film about a cricket team set up by the Maasai spreads itself too thin, and fails to deliver
 date: "2015-11-15 10:51:10 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5738"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bsc14
  - ff712
 highlights:
  - comment

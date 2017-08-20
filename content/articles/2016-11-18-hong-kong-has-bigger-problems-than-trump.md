@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Don Y Ma discusses the recent attack on democracy in Hong Kong
 date: "2016-11-18 14:35:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6459"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - dym14
 highlights:
  - photos
 

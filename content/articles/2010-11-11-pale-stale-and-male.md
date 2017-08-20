@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University funding reforms fail in one crucial respect.The evidence for this is right here at Imperial College. By Imran Khan (Director of the Campaign for Science and Engineering and Imperial College alumnus)
 date: "2010-11-11 21:35:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "363"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - x_ik1
 highlights:
 
 # Homepage control params

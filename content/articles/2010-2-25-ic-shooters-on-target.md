@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial impress up North
 date: "2010-02-25 19:01:11 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "108"

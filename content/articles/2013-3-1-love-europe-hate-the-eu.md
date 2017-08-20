@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous response to the recent comment articles on the virtues of the EU
 date: "2013-03-01 00:55:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3412"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Abigail de Bruin discusses the Union’s spend on consent training in light of rising sexual crime statistics
 date: "2016-11-11 13:59:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6423"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4812
 highlights:
  - comment
 

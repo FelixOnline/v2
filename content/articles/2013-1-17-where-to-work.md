@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial written in the midst of a dilemma about what to do with the rest of my life.
 date: "2013-01-17 23:44:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3118"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
 

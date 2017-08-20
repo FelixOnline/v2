@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Butcher offers his opinion on the cuts in amenities funds.
 date: "2014-10-17 15:24:15 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4740"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - ps3110
 highlights:
  - comment

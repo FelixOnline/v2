@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It was totally what we thought it was
 date: "2017-05-12 15:40:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6933"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

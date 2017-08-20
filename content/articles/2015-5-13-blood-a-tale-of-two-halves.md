@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Nevola Clark finds Soho Theatre’s play divisive
 date: "2015-05-13 14:12:19 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5513"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - ps3110
 highlights:
 

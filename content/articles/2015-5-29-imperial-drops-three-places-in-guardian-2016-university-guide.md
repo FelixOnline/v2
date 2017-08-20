@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson rounds up the various league tables from the last year
 date: "2015-05-29 01:05:18 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5579"

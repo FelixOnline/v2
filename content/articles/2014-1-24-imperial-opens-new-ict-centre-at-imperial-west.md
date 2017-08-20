@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial has opened a new centre for ICT innovation at Imperial West.
 date: "2014-01-24 09:41:06 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4272"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - nm708
 highlights:
 
 # Homepage control params

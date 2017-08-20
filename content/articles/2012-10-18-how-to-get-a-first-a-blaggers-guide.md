@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Old Man offers some wise words to new students
 date: "2012-10-18 21:24:10 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2704"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nope. Take Me Out hasn't started shacking up elements. Yet...
 date: "2012-10-26 02:30:30 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2745"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - mjp109
  - tna08
 highlights:
 

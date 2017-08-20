@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Naulls takes you through recent political developments aiming at tackling the country’s housing crisis while discussing how students are affected and what they can expect.
 date: "2017-03-03 14:19:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6836"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - stephennaulls
 highlights:
  - comment
  - photos

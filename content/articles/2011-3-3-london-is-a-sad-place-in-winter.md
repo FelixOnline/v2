@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As we drag ourselves out of winter, there are clear skies ahead
 date: "2011-03-03 20:56:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1017"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nn1209
 highlights:
  - photos
 

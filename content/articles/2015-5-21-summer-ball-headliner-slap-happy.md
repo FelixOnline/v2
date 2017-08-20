@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous student asks why the Union hired an unapologetic thug
 date: "2015-05-21 23:03:46 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5555"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - icanon
 highlights:
  - comment
 

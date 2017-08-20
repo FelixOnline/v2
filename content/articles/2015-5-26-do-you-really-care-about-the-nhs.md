@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman definitely does, and so does Michael Wynne, writing for the Royal Court.
 date: "2015-05-26 13:41:45 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5565"

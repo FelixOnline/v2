@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope on how Oddworld’s rampant industrialisation makes for a pretty cracking game series
 date: "2012-05-03 18:45:52 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2417"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lap08
  - mc4509
 highlights:
  - comment

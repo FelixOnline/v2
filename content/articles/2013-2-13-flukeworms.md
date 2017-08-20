@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rocío Molina on the tough process that it takes to produce great art
 date: "2013-02-13 16:43:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3312"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rm2410
  - tna08
 highlights:
  - photos

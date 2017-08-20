@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Titmuss thinks that North Korea hold all the cards in the little game of nuclear war
 date: "2017-05-15 15:48:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6945"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - charlestitmuss
 highlights:
 
 # Homepage control params

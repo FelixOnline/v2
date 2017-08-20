@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over 15,000 students participated
 date: "2016-11-25 13:24:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6495"

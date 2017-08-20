@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl looks at an unusual depiction of the zombie story
 date: "2013-02-28 18:04:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3384"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1711
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fellwanderers Easter Tour to the Snowy Scottish Highlands
 date: "2013-05-29 15:42:41 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3632"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jwr10
  - tna08
 highlights:
  - photos

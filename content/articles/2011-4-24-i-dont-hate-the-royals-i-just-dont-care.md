@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In fact, it's the people who actively defend the royals who rile me up
 date: "2011-04-24 11:14:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1135"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

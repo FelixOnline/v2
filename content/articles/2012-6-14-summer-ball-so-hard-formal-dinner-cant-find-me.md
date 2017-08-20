@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of the Union
 date: "2012-06-14 19:43:49 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2550"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ak6309
+ - felix
 highlights:
 
 # Homepage control params

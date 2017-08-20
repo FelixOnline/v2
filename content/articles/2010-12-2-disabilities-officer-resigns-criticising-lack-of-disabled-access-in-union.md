@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union says issues are being resolved
 date: "2010-12-02 21:59:49 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "502"

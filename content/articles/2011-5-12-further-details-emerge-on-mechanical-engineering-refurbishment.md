@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College tight-lipped over delays
 date: "2011-05-12 15:42:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1183"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

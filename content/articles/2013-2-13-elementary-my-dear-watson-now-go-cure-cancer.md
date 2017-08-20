@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua is wondering if he could beat Watson at Jeopardy
 date: "2013-02-13 12:38:58 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3296"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ywc110
 highlights:
  - photos
 

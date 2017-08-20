@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One year on from the real start of the Arab Spring
 date: "2011-11-24 21:26:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1820"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bbl08
  - pk1811
 highlights:
 

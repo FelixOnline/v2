@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men’s 1st team win ULU Challenge Cup Final
 date: "2011-05-09 09:56:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1180"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tf08
 highlights:
  - comment
 

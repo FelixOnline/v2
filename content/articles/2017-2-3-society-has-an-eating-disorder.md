@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn discusses our insidious weight loss culture
 date: "2017-02-03 15:56:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6715"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ec2212
 highlights:
  - comment
 

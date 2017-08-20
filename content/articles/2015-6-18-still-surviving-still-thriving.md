@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman looks back at the latest season of Game of Thrones
 date: "2015-06-18 19:42:52 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5629"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - jyg11
 highlights:
  - longread

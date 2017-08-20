@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Entrepreneurs meet the founders of the Hailo app
 date: "2012-10-26 02:13:12 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2736"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fbusines
  - tna08
 highlights:
 

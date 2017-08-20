@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emilie Beauchamp on an extraordinary experience in a theatre
 date: "2012-12-07 02:20:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3046"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - eb1408
  - tna08
 highlights:
  - photos

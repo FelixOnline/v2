@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at the technologies that helped create and run Felix Online
 date: "2011-03-27 11:21:00 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "1130"

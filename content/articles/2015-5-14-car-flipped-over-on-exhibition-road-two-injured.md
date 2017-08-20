@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three vehicles were involved in the incident on Tuesday afternoon
 date: "2015-05-14 22:17:13 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5519"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - cj914
 highlights:
  - comment

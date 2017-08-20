@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pavitar Singh Devgon talks about the new clock that has got the masses into a frenzy
 date: "2013-01-18 00:21:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3130"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pd111
  - tna08
 highlights:
 

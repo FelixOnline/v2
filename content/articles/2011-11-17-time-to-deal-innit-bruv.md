@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Top Boy is top stuff, blud
 date: "2011-11-17 21:49:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1787"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mh3210
 highlights:
 
 # Homepage control params

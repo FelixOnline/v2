@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meeting must have 200 people attend for it to meet quorum
 date: "2014-11-14 19:56:14 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4860"

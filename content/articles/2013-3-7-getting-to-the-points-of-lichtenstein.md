@@ -4,7 +4,6 @@ title: >
 subtitle: >
   40 years of comic book trippyness
 date: "2013-03-07 23:50:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3447"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as1911
  - tna08
 highlights:
  - comment

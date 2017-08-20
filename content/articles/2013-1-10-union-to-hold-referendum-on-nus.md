@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In or out? You decide.
 date: "2013-01-10 22:23:10 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3086"

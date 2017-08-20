@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Windsurfing hits Aussie Kiss 15
 date: "2016-10-28 15:49:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6356"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - pc3914
 highlights:
  - photos
 

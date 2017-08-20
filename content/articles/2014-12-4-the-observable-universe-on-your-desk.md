@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Dutton doing a PSA for all you star gazers out there
 date: "2014-12-04 19:31:25 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4999"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jdd11
 highlights:
  - comment
 

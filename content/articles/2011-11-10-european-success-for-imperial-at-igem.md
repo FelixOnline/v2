@@ -4,7 +4,6 @@ title: >
 subtitle: >
   AuxIn and Gene Guard bring huge success to Imperial team
 date: "2011-11-10 22:08:13 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1742"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - rb808
 highlights:
 
 # Homepage control params

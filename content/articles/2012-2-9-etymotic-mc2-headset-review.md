@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A good quality headset with decent sound... perfect!
 date: "2012-02-09 22:14:20 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2143"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - pk1811
 highlights:
 

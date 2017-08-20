@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Smith shares the easiest way to gourmet cooking with the Souffle Omelette
 date: "2011-02-17 19:46:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "825"
@@ -28,6 +27,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

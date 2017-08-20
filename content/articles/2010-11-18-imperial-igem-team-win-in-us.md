@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial iGem team brings laurels back home, all the way from the US! By Benjamin Miller and Harriet Gliddon
 date: "2010-11-18 21:58:45 +0000"
-author_id: "hg308"
 
 # Attributes from Felix Online V1
 id: "417"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICL women table tennis team battles to the top
 date: "2011-01-27 20:52:20 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "702"

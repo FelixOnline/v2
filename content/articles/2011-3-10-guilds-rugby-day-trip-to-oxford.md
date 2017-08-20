@@ -4,7 +4,6 @@ title: >
 subtitle: >
   C&G Rugby: C&G 44 – 29 Balliol College
 date: "2011-03-10 21:02:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1080"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mj107
 highlights:
  - comment
 

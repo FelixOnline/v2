@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reflects on a week that included the emotional funeral of Phillip Hughes and the release of the report into the accident that put Jules Bianchi into a coma
 date: "2014-12-04 20:54:13 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5014"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - kmw13
 highlights:
 
 # Homepage control params

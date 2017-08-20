@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editor-Elect Philippa Skett ponders the relationship between student publications and free speech
 date: "2014-05-09 02:04:51 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4571"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ps3110
 highlights:
 
 # Homepage control params

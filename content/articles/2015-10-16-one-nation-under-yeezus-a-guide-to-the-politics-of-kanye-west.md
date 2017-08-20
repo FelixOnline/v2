@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix’s deputy expert on the world’s favourite rockstar predicts the possible policies of the 2020 West Administration
 date: "2015-10-16 14:44:52 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5659"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cet13
  - ygr12
 highlights:
  - comment

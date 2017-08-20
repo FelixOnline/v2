@@ -4,7 +4,6 @@ title: >
 subtitle: >
   According to an American study from academics at the Universities of Washington and Maine, “students in classes with traditional lecturing [were] 1.5 times more likely to fail than were students in classes with active learning.”
 date: "2014-05-16 01:38:38 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4596"

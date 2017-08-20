@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everyone's nightmare: a third
 date: "2013-06-20 23:34:32 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3722"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

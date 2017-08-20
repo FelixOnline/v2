@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How to be techy for cheap
 date: "2013-05-01 13:42:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3511"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - tecfelix
  - tna08
 highlights:
 

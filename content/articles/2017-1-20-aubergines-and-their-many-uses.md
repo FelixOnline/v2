@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Quite an innocuous, and yet surprising vegetable, the humble aubergine (or eggplant) is a versatile food for all manners of culinary pursuits, and others.
 date: "2017-01-20 15:44:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6675"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - felixteam
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saunders' absurdist play Next Time I'll Sing To You gets an airing at Richmond's Orange Tree Theatre; Alex Roocroft is in attendance
 date: "2011-11-17 21:41:46 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1784"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ajr210
  - sjw209
 highlights:
  - comment

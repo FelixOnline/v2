@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is the rise of Facebook and Twitter a positive or negative influence in the 21st century?
 date: "2011-01-27 19:58:46 +0000"
-author_id: "ann09"
 
 # Attributes from Felix Online V1
 id: "682"

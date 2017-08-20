@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Annabelle Mayers breaks down common startup excuses
 date: "2012-11-15 22:05:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2908"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - asm210
  - tna08
 highlights:
  - longread

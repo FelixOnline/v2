@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yasmin Malik and IC Belly Dancing gets close and personal with Sunny the Shake Boy
 date: "2014-11-06 21:04:07 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "4794"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - bwh12
+ - ym1210
 highlights:
  - comment
 

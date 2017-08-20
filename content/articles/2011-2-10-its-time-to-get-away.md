@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Toss away the Valentine’s Day courtesies, and consider travelling alone
 date: "2011-02-10 19:53:16 +0000"
-author_id: "cr709"
 
 # Attributes from Felix Online V1
 id: "759"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A&E Department to remain open after a U-Turn, but campaigners say it doesn't go far enough
 date: "2013-02-14 21:20:11 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3336"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

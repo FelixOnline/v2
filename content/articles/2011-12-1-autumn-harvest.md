@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rajvinder Virdee discusses what we might reap from Osborne’s offerings in the Autumn Statement
 date: "2011-12-01 19:49:30 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1863"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - rv108
 highlights:
 
 # Homepage control params

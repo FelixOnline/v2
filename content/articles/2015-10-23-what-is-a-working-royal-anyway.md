@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are the royal family still relevant in a democractic society?
 date: "2015-10-23 11:48:16 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5673"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ep1212
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get involved with Charity Week next week.
 date: "2013-10-25 01:08:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3948"
@@ -22,6 +21,8 @@ tags:
  - imported
 authors:
  - felix
+ - he110
+ - jf413
 highlights:
 
 # Homepage control params

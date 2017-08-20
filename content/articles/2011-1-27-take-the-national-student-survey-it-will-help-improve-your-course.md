@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you're a final year student, it's time to express your opinions about your course!
 date: "2011-01-27 19:55:48 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "681"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ad1007
  - ks607
 highlights:
 

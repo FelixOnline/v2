@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "I read your article last week and would like to reply to some of the accusations directed at us."
 date: "2016-02-22 15:09:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5951"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aeg112
 highlights:
  - comment
 

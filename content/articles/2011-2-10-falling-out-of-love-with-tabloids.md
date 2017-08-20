@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Flicking through the pages, I get the feeling that a great deal of meanness remains
 date: "2011-02-10 21:05:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "794"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
  - photos
 

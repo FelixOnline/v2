@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women’s first team make it past Oxford and into the BUCS Semi-Finals. Imperial 1st 4 – 4 Oxford 1st
 date: "2011-03-01 21:23:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "969"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lbb06
 highlights:
 
 # Homepage control params

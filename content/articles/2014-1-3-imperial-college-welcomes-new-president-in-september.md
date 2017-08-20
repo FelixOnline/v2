@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a search for a new President, College has appointed Chemical Engineer Professor Alice P. Gast, President of Lehigh University to the role.
 date: "2014-01-03 12:21:06 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4202"

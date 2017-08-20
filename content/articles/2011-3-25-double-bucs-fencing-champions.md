@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperials men's and women's fencers win BUCS Championships
 date: "2011-03-25 14:56:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1127"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cl3510
  - felix
 highlights:
  - comment

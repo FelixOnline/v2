@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles explores the relationship between power and image at the British Museum
 date: "2015-02-07 19:08:18 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5203"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
  - photos

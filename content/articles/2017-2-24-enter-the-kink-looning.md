@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have you ever looked at a balloon and thought “I would”? Well you know what they say. You haven’t really played until you’ve played with a 16-inch balloon. And by they I mean looners.
 date: "2017-02-24 15:30:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6830"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bcmaile
 highlights:
  - comment
 

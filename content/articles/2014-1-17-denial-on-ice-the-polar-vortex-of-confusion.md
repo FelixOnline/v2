@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The polar vortex that swept across North America this holiday was one that left both the ground and politicians rather frosty, albeit for different reasons.
 date: "2014-01-17 03:29:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4232"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ps3110
 highlights:
  - longread
 

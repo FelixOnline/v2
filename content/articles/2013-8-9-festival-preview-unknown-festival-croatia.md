@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Want to know more about the Croatia's upcoming Unknown Festival? Daniel Oppenheimer gives the deets.
 date: "2013-08-09 19:48:06 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3749"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dyo10
  - jal08
 highlights:
 

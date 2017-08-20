@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Bezer on Imperial’s research in epigenetics asthma treatments
 date: "2015-02-20 00:04:35 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5280"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jb3112
 highlights:
 
 # Homepage control params

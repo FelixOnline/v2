@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Navid Nabijou probes the latest results from the NSS. See the paper for the tables.
 date: "2012-10-18 21:50:17 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2726"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nn1209
  - tna08
 highlights:
  - comment

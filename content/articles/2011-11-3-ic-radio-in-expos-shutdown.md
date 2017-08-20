@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Complainant objects to alleged defamation of character
 date: "2011-11-03 19:26:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1651"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

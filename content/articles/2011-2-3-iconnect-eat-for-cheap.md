@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Roland Sookias chats to Innovation Society President Nigel Kheng about their latest project
 date: "2011-02-03 20:38:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "751"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rs4409
 highlights:
  - comment
 

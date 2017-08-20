@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's Rugby show everyone how it's done
 date: "2012-11-23 00:10:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2962"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - kf409
  - tna08
 highlights:
  - comment

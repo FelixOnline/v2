@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The newbies took to the field
 date: "2015-10-30 15:29:22 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5693"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pt1114
  - ygr12
 highlights:
  - comment

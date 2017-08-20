@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Should we stay or should we go?
 date: "2016-05-13 08:57:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6149"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
  - longread
 

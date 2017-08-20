@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little wishes a legendary game a very happy birthday
 date: "2011-11-17 20:50:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1765"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kw911
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng explores what Somerset House’s newest exhibition can offer
 date: "2015-01-31 18:56:46 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5168"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - jc7413
 highlights:
  - comment
 

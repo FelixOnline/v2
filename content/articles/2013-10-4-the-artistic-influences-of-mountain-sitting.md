@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the latest from Imperial’s art gallery
 date: "2013-10-04 01:57:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3807"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cfc111
  - jal08
 highlights:
 

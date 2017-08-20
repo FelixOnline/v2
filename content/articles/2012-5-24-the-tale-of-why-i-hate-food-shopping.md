@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The perils of the supermarket take their toll
 date: "2012-05-24 23:16:39 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2487"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - va208
 highlights:
  - comment
 

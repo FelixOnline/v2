@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi examines albums from modern ambient’s greats
 date: "2013-10-25 00:29:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3930"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

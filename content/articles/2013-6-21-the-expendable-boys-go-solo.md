@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reviews of the latest films that the action men of Hollywood have made
 date: "2013-06-21 00:27:57 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3733"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - longread

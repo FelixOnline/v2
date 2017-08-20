@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica and our prerogative of wrongness
 date: "2012-11-15 22:17:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2913"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pa07
  - tna08
 highlights:
 

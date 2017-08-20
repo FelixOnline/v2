@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Simpson takes a look at last week's TV
 date: "2011-03-12 12:41:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1085"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tvfelix
 highlights:
 
 # Homepage control params

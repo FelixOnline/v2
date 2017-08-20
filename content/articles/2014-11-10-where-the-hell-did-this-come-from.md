@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin looks at Rick and Morty in the Cartoon Corner
 date: "2014-11-10 22:10:11 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4839"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - tr511
 highlights:
 
 # Homepage control params

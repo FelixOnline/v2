@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael David reports on Football's tour
 date: "2013-02-28 23:45:40 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3394"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - md2012
  - tna08
 highlights:
  - photos

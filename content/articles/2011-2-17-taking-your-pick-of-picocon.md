@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This weekend is Imperial’s 28th annual Sci-fi convention Picocon. Sci-fi fan Maciej Matuszewski gives a flavour of the talents of three of the authors attending.
 date: "2011-02-17 19:05:35 +0000"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "811"

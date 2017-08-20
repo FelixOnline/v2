@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sport Editor Sam Smith does sports. Sports! Sports! Sports!
 date: "2017-01-20 15:49:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6678"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ss11814
 highlights:
 
 # Homepage control params

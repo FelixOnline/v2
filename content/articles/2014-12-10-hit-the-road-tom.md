@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eleanor Glennon & Joseph Hosier review Dramsoc’s ROAD
 date: "2014-12-10 14:55:23 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5022"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - bwh12
+ - eg1212
+ - jh6512
 highlights:
  - comment
 

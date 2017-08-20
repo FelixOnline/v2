@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Felix Music guide to London’s best music venues and shops
 date: "2013-09-29 14:51:43 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3776"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
  - longread

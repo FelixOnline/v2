@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women’s 3s – 39 / LSE 4s – 5 / Women’s 4s – 8 / St George’s 4s – 22
 date: "2012-02-02 23:13:56 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2107"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fk208
  - sjw209
 highlights:
 

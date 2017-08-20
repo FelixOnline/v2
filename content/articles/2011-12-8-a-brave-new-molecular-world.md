@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The president of the RSC takes to the floor for the Friends of Imperial College
 date: "2011-12-08 20:50:09 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1923"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - wsp10
 highlights:
  - photos
 

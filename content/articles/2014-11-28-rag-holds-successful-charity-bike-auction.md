@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports from the charity auction
 date: "2014-11-28 00:49:24 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4966"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - kmw13
+ - ps3110
 highlights:
  - comment
 

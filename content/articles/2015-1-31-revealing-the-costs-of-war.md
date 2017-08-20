@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland reports on the Royal Court’s new play
 date: "2015-01-31 19:02:54 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5169"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
 

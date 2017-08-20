@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Snowsports want you to go to their yearly Alps trip
 date: "2012-11-01 22:30:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2783"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
 

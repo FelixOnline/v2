@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC 2s 1-1 Medicals 2s
 date: "2011-03-01 21:30:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "972"
@@ -21,7 +20,9 @@ tags:
  - sport
  - imported
 authors:
+ - cschapma
  - felix
+ - jzy08
 highlights:
 
 # Homepage control params

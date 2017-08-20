@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But how many could we be? You know, if we really ‘went’ for it...
 date: "2010-12-12 13:48:09 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "549"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - vbb08
 highlights:
 
 # Homepage control params

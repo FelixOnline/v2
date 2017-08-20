@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Margaret Atwood creates a powerful novel with an equally well-developed protagonist
 date: "2012-03-08 20:43:54 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2319"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mtm10
 highlights:
 
 # Homepage control params

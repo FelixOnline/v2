@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As the luxury market continues to profit, Alice Yang questions what lies beneath the consumer’s desire for labels
 date: "2012-02-09 22:49:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2163"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ay310
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...but when I do, they're about food – specifically the destruction of the BBC's recipe archive
 date: "2016-05-20 08:57:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6178"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sb6213
 highlights:
 
 # Homepage control params

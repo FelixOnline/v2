@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski discovers the rich and detailed universe of Ian M. Banks
 date: "2011-03-17 20:41:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1094"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

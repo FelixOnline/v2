@@ -4,7 +4,6 @@ title: >
 subtitle: >
   3 out of 5, by Daniel Beatrup
 date: "2010-12-09 20:23:22 +0000"
-author_id: "ma1307"
 
 # Attributes from Felix Online V1
 id: "521"

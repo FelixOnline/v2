@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite its labyrinthine plot, Lucy Wiles finds much to enjoy in Tomas Alfredson's latest project
 date: "2011-10-21 09:44:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1582"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ffilm
 highlights:
  - comment
 

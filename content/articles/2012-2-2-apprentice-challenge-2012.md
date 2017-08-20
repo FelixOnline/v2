@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Team Tornado triumphs in Imperial's Apprentice Challenge 2012
 date: "2012-02-02 19:58:11 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2097"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - asm210
 highlights:
 
 # Homepage control params

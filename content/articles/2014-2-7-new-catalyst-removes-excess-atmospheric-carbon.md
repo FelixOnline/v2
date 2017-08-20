@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University of Delaware finds a new non-porous silver catalyst
 date: "2014-02-07 05:14:43 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4365"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - pd111
 highlights:
 
 # Homepage control params

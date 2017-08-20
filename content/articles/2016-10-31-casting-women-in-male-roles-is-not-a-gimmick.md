@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a time when all-female casts are still seen as a gimmick Jack Steadman discusses the importance of bending and breaking original texts and taking gender off the list of casting specifications
 date: "2016-10-31 16:20:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6367"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - js5913
 highlights:
  - longread
  - photos

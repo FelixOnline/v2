@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should be more content that we're at Imperial
 date: "2011-01-27 19:52:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "679"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ws1009
 highlights:
 
 # Homepage control params

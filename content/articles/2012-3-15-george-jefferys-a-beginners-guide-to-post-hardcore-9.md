@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Final Lesson: Summary
 date: "2012-03-15 21:27:25 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2383"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - gj309
 highlights:
 
 # Homepage control params

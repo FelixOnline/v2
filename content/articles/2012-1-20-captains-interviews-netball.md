@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shooting the breeze with the popular club
 date: "2012-01-20 17:19:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2043"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ial08
 highlights:
  - comment
 

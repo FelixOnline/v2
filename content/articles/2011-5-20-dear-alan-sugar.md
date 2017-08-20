@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An open letter from Charles Betts about The Apprentice
 date: "2011-05-20 04:29:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1217"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

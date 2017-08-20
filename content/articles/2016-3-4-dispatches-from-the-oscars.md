@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Rock’s introduction of Stacey Dash left us all totally stumped
 date: "2016-03-04 11:50:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6010"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
  - longread

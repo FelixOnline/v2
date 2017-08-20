@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Staff awarded for contribution to the student experience
 date: "2013-05-23 22:27:16 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3618"

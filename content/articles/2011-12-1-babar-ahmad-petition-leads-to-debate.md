@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Votable parliamentary discussion on extradition to take place on Monday
 date: "2011-12-01 21:27:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1893"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - felix
 highlights:
  - comment

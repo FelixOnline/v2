@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's possible!
 date: "2012-03-15 20:59:22 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2366"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - ffilm
 highlights:
  - comment
 

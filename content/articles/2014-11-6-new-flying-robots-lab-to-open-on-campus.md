@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Construction on the £1.25m lab will start in 2016.
 date: "2014-11-06 14:27:21 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4757"

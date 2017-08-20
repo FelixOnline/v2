@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lara Bailey explores how brain stimulation can affect our libidos
 date: "2016-12-09 12:05:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6564"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - le14
 highlights:
  - photos
 

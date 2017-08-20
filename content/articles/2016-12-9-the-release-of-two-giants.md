@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Qasim Mahmood gives the dirt on the development of two widely anticipated games and why they’re only being released now
 date: "2016-12-09 16:07:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6590"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - qm413
 highlights:
 
 # Homepage control params

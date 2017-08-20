@@ -4,7 +4,6 @@ title: >
 subtitle: >
   adsfasdfasdf
 date: "2011-06-09 19:53:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1339"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
 

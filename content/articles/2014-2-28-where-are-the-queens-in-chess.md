@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Recently the Imperial College chess team arrived back from BUCA. After multiple rounds, Imperial managed to dominate the entire tournament. It was a great weekend of fun and exciting chess games.
 date: "2014-02-28 07:15:12 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4444"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - me1711
 highlights:
 
 # Homepage control params

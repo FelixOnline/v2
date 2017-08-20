@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi reviews the mighty collaborative album Cuts
 date: "2013-02-22 01:20:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3358"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ra2410
  - tna08
 highlights:
  - photos

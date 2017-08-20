@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles questions what’s real at the Duke of York’s The Nether
 date: "2015-03-03 14:10:50 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5319"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

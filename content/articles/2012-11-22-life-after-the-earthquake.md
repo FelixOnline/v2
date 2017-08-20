@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ryan Browne and six others help out in the Tohoku region in Japan
 date: "2012-11-22 23:01:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2937"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rb610
  - tna08
 highlights:
  - photos

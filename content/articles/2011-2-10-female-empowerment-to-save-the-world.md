@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But is the U.N.’s newest agency’s plan to end gender inequality and poverty in one fell swoop just more of the same?
 date: "2011-02-10 20:56:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "788"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rtf08
 highlights:
  - longread
  - photos

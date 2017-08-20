@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gene-hacking in a dystopian future
 date: "2011-05-20 05:37:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1222"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

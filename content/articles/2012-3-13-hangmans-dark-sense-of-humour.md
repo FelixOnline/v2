@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steven Abnett courts controversy
 date: "2012-03-13 14:24:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2341"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sja208
 highlights:
 
 # Homepage control params

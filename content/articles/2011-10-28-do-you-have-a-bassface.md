@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chandra Chadalawada investigates the phenomenon
 date: "2011-10-28 11:09:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1639"

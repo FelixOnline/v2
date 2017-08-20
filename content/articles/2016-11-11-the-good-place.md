@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s always awkward when they get your name wrong
 date: "2016-11-11 17:54:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6436"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

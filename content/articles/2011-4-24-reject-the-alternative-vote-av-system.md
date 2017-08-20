@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhodri Oliver urges you to reject this "miserable little compromise"
 date: "2011-04-24 11:29:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1137"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dro08
  - felix
 highlights:
  - comment

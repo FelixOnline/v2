@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Soooo, Imperial’s reseach on cat immunotherapy lead to the creation of a startup and more recently an IPO worth £175m during an upcoming stock market float (see page 3)?
 date: "2014-02-07 05:12:05 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4363"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

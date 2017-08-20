@@ -4,7 +4,6 @@ title: >
 subtitle: >
   January saw Imperial Cricket take on a variety of university teams
 date: "2012-02-16 23:38:47 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2222"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nc1910
  - sjw209
 highlights:
 

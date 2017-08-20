@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about, what else, exams and halls.
 date: "2013-05-09 15:35:35 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3562"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - tna08
 highlights:
  - photos

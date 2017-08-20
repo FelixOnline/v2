@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or it gets the tube, maybe...
 date: "2013-02-14 21:08:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3329"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - yn711
 highlights:
 
 # Homepage control params

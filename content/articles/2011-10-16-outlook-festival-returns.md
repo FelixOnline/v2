@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daniel Oppenheimer reports from sunny Croatia
 date: "2011-10-16 15:04:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1549"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dyo10
  - felix
 highlights:
 

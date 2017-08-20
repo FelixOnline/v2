@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ooh, gravitational waves!
 date: "2016-02-19 11:20:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5929"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nk1515
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dominic MacIver reviews Howard Benton's Danton's Death at the National Theatre
 date: "2010-09-21 14:12:54 +0100"
-author_id: "ck806"
 
 # Attributes from Felix Online V1
 id: "157"

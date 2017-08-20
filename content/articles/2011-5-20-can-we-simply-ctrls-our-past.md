@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jake Lea-Wilson explores the challenges that lie behind ‘futureproofing’ our history
 date: "2011-05-20 05:58:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1234"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jl4310
 highlights:
  - comment
  - longread

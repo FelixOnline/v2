@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Loïc Baboulaz makes his mark on the Malawian healthcare system
 date: "2012-02-02 23:19:54 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2108"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ftravel
  - sjw209
 highlights:
  - photos

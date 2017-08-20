@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Department sends weird email mentioning sexual assault incident
 date: "2016-12-02 13:49:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6524"

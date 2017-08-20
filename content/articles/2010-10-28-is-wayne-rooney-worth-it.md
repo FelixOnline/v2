@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Head-to-Head about the merits of Wayne Rooney. Tom Welch and Charles Betts
 date: "2010-10-28 19:44:22 +0100"
-author_id: "cb403"
 
 # Attributes from Felix Online V1
 id: "274"

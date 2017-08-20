@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Council vote in favour of reducing the rent for new halls in Acton, but increasing the rent for halls closer to campus
 date: "2015-02-15 23:04:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5260"

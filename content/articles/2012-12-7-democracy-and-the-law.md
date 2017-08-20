@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The EU’s implementation of “equality” legislation is undermining national democracy, argues, Christopher Kaye
 date: "2012-12-07 02:36:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3051"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ck1510
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "The structure successfully dissolves at both body and room temperature"
 date: "2012-10-18 21:19:06 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2700"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - pk1811
 highlights:
  - photos
 

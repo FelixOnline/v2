@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Several Imperial staff members have received amazing awards and titles over the last few weeks.
 date: "2014-05-02 00:53:49 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4536"

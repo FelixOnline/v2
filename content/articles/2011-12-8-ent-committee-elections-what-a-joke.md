@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An election only works if people actually know about it, says Philip Kent
 date: "2011-12-08 22:17:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1953"

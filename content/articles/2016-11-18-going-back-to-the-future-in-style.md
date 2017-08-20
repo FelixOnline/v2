@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First smart watches, then Google Glass – Eva Coles steers upcoming types of wearable technology into the spotlight, some of which are heavily movie-inspired
 date: "2016-11-18 14:54:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6467"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - eva.coles13
 highlights:
 
 # Homepage control params

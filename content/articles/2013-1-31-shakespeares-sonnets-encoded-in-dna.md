@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Could DNA storage be the future?
 date: "2013-01-31 23:35:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3211"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - njk12
  - tna08
 highlights:
 

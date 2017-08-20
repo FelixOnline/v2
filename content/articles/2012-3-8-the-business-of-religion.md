@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson discusses the ongoing conversations resulting from the Occupy movement
 date: "2012-03-08 21:13:08 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2322"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - felix
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After months of delay Campus services have finally given halls residents a comprehensive guide to the cleaning provisions provided in halls.
 date: "2014-02-07 04:59:48 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4354"

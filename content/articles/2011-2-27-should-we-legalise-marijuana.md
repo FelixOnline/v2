@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As California attempts to decriminalise marijuana but Amsterdam tries to introduce new controls we debate the legalisation of weed
 date: "2011-02-27 12:31:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "900"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - cpd08
  - felix
+ - lh1009
 highlights:
  - comment
  - longread

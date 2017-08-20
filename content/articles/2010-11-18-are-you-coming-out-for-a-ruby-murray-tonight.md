@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vivien Wong and George McIntyre put their curry taste buds through a spin on opposite sides of London
 date: "2010-11-18 21:05:21 +0000"
-author_id: "gm1509"
 
 # Attributes from Felix Online V1
 id: "400"

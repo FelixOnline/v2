@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Readers write in to tell us what they think of the cuts
 date: "2010-12-09 21:42:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "540"

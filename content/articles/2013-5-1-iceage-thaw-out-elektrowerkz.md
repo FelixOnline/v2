@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England enters the world of Danish punk
 date: "2013-05-01 14:25:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3513"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
 

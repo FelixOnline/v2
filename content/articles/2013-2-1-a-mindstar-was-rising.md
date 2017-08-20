@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Savell looks at the early work of Peter F. Hamilton
 date: "2013-02-01 00:24:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3226"
@@ -21,6 +20,7 @@ tags:
  - books
  - imported
 authors:
+ - as906
  - tna08
 highlights:
 

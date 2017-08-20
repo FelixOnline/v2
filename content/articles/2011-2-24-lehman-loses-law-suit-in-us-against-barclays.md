@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Lehman Brothers lose a law suit against Barclays. Lehman considering to appeal the ruling.
 date: "2011-02-24 19:51:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "871"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - sa1908
 highlights:
 
 # Homepage control params

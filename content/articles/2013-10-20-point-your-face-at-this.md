@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emma Wills on Demetri Martin's new book of drawings
 date: "2013-10-20 01:33:34 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3902"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ecw12
  - jal08
 highlights:
 

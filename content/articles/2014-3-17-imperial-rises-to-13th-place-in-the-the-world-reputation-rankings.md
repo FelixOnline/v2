@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the recently released Times Higher Education (THE) World Rankings College was ranked one position higher than last year, coming at 13th.
 date: "2014-03-17 17:30:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4485"

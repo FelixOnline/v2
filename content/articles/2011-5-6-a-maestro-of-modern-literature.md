@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two-time Booker finalist David Mitchell talks about his latest book, The Thousand Autumns of Jacob de Zoet
 date: "2011-05-06 13:10:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1170"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
  - longread
 

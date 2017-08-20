@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ents Working Group to be held on Friday 1 February
 date: "2013-01-25 01:19:18 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3176"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ejt11
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steve Ballmers thoughts reviewing the year according to Max Eggl
 date: "2013-06-21 00:29:40 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3734"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - tna08
 highlights:
  - comment

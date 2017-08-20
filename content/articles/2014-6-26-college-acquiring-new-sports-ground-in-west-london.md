@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range.
 date: "2014-06-26 13:15:40 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4717"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do like Arrival and Gravity mark a breakthrough of the sci-fi glass ceiling, asks Fred Fyles? Or do they play into the tropes well established in the genre?
 date: "2016-11-11 13:44:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6420"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - longread
  - photos

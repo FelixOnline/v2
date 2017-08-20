@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dhanvi Bosamia introduces you to the inaugural event
 date: "2013-02-08 00:43:01 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3277"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - db1809
  - tna08
 highlights:
 

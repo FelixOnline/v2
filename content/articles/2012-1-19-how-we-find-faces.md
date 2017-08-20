@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our face is one of the main things that identifies us as an individual.
 date: "2012-01-19 20:13:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2009"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mg2109
  - pk1811
 highlights:
  - comment

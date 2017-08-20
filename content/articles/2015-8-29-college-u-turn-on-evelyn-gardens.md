@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two of the five Evelyn Gardens halls will house Imperial students this year
 date: "2015-08-29 16:33:47 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5649"

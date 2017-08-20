@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over £1,000,000 raised
 date: "2016-12-15 23:41:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6593"

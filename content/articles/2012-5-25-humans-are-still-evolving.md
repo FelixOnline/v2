@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven investigates how selection continues regardless of social status
 date: "2012-05-25 14:23:49 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2493"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsci
  - mc4509
 highlights:
 

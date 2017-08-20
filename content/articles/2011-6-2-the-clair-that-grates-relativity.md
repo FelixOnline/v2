@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sex and politics go together like croissants and coffee
 date: "2011-06-02 20:18:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1320"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - felix
 highlights:
  - photos

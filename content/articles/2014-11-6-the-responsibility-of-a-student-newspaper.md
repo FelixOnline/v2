@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editorial for 1587
 date: "2014-11-06 22:18:35 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4813"

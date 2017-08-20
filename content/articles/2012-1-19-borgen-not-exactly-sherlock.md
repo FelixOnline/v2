@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Believe it or not, there were other things on tv!
 date: "2012-01-19 19:55:57 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2001"
@@ -21,6 +20,7 @@ tags:
  - tv
  - imported
 authors:
+ - mtm10
  - pk1811
 highlights:
 

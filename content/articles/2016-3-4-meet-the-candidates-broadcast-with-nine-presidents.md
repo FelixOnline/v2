@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Meet the freaking 30 candidates.
 date: "2016-03-04 11:28:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5998"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

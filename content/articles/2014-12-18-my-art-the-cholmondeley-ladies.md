@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles chooses his favourite work of art from the Tate Britain's collection
 date: "2014-12-18 15:14:27 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5051"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

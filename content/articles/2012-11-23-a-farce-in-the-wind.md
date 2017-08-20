@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christopher Hong strongly recommends The Magistrate
 date: "2012-11-23 00:15:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2965"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch03
  - tna08
 highlights:
 

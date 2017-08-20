@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s a sad time to be a Nintendo gamer and a Wii U owner
 date: "2016-05-13 09:29:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6163"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

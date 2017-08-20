@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anum Farooq explores the wonders of tea
 date: "2013-05-23 22:15:59 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3612"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - anumf
  - tna08
 highlights:
  - comment

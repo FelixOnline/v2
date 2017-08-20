@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A dream of liquid light
 date: "2012-06-14 21:00:28 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2574"
@@ -21,6 +20,7 @@ tags:
  - phoenix
  - imported
 authors:
+ - extuser0
  - pk1811
 highlights:
  - longread

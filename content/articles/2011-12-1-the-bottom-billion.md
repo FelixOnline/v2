@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of the book and a glance at the main problem in international development
 date: "2011-12-01 19:39:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1858"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
  - longread

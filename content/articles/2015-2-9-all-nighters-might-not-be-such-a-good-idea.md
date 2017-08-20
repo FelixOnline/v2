@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another good reason not to sleep in the library
 date: "2015-02-09 19:34:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5223"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ur13
 highlights:
 
 # Homepage control params

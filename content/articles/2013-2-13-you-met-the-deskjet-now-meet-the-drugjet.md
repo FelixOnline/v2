@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Printing drugs, Felix could be about to make a lot of money
 date: "2013-02-13 20:09:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3316"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A story of tax increases, strong words, national identity and Russian passports. Not up for nominations at the Oscars
 date: "2013-01-18 00:26:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3132"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - phc11
  - tna08
 highlights:
 

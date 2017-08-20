@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Renos Karamanis analyses Imperial’s food habits.
 date: "2012-05-25 18:11:35 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2496"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - rk610
 highlights:
  - longread
 

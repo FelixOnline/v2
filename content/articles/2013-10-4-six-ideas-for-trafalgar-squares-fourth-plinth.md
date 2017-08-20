@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The fourth plinth in Trafalgar Square has been a source of controversy practically since the day it was built. After sitting empty for over 150 years due to “insufficient funds”...
 date: "2013-10-04 01:49:21 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3806"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as1911
  - jal08
 highlights:
  - photos

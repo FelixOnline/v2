@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the sun and the schedule finally coalescing in a fashion allowing for a match, the Imperial 2’s kickstarted our 2014 season in the best possible fashion, delivering a win for new skipper Sam Mead.
 date: "2014-05-09 15:55:19 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4591"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar4810
  - jal08
 highlights:
 

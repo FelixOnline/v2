@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fluent on Paper recognizes that poetry is meant to be enjoyed not alone and in silence but as a social act
 date: "2011-12-01 20:20:08 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1867"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - ks607
 highlights:
 

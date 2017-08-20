@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College take a decisive win!
 date: "2010-01-21 21:16:20 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "42"

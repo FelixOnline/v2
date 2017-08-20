@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Move could cost government £2.5 billion a year
 date: "2015-02-05 23:43:43 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5196"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pnk14
  - ps3110
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eleftherios Apostolakis reports from Sunday’s talk
 date: "2014-03-24 03:27:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4492"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ea3211
  - jal08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The World Is a Beautiful Place & I Am No Longer Afraid to Die Whenever, If Ever
 date: "2013-06-20 22:49:50 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3714"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sm5810
  - tna08
 highlights:
 

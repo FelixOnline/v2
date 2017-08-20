@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Olivia Tillbert, ICU Fairtrade Society Treasurer, announces the kick-off of the second Imperial Food Awards. This time we go Fairtrade!
 date: "2012-02-16 21:51:21 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2200"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ost09
 highlights:
  - photos
 

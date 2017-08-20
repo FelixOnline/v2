@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Editorial
 date: "2012-06-14 20:02:27 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2555"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - cmt09
 highlights:
 
 # Homepage control params

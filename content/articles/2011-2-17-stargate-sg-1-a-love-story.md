@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski tells of his first time with Sci-Fi
 date: "2011-02-17 20:29:24 +0000"
-author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "844"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deftones: Koi No Yokan
 date: "2012-11-30 13:32:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3019"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rnt11
  - tna08
 highlights:
 

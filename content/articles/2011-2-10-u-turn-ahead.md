@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is the UK’s economy going in the wrong direction?
 date: "2011-02-10 20:53:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "787"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tm1510
 highlights:
 
 # Homepage control params

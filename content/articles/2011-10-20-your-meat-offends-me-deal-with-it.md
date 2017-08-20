@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Animals have souls and eating them is wrong
 date: "2011-10-20 22:49:04 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1575"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - sjw209
 highlights:
  - comment

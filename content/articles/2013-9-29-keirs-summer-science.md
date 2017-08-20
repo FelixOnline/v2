@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Keir Little, Science Editor brings you up to date with discoveries happens over the summer
 date: "2013-09-29 14:48:34 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3775"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kw911
 highlights:
 
 # Homepage control params

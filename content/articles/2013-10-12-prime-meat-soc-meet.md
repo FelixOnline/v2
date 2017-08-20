@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Helen Pennington with a meaty (groan!) review
 date: "2013-10-12 19:57:07 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3861"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - hgp08
  - jal08
 highlights:
 

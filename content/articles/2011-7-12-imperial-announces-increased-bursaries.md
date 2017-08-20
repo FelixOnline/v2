@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College and Union unveil plans to 'reassure' prospective students following rise in tuition fees
 date: "2011-07-12 15:14:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1449"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

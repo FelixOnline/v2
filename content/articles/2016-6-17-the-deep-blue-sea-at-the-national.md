@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Helen McCrory thrives in this passionate revival of Rattigan’s masterpiece
 date: "2016-06-17 09:30:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6283"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - waleed el-geresy
+ - wbe15
 highlights:
 
 # Homepage control params

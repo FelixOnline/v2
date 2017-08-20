@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Holding it in Hyde Park would be the “ultimate aim”
 date: "2011-06-09 21:26:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1350"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ann09
  - felix
 highlights:
  - comment

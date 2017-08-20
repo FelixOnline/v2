@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The phone hacking scandal has left print media in an unenviable position, to say the least
 date: "2011-07-22 10:33:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1452"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sf305
 highlights:
  - comment
 

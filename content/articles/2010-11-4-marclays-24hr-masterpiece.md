@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Time will run away with you. It will skip, jump, come to a standstill with Marclay's new exhibition.
 date: "2010-11-04 18:14:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "292"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
 highlights:
 

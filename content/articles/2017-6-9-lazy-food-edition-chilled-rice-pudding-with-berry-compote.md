@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are you close to passing out from the lack of ventilation in the library? Are you tossing and turning in bed lamenting the passing of spring anf the lack of an AC? Do your friends describe you as a rice enthusiast? Well we might just have what you need.
 date: "2017-06-09 15:39:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7021"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

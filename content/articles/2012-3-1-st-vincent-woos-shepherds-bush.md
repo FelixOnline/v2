@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson left all starry-eyed by Annie Clark’s stunning performance
 date: "2012-03-01 23:10:31 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2297"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - sm5810
 highlights:
 
 # Homepage control params

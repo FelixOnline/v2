@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Every halls has a non-official group made
 date: "2012-10-05 16:04:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2635"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - phc11
 highlights:
 
 # Homepage control params

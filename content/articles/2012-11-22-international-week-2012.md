@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A round up of the action from all the international societies
 date: "2012-11-22 22:55:04 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2935"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - am10810
  - tna08
 highlights:
  - longread

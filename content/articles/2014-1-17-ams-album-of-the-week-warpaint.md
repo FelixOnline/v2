@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Warpoint by Warpoint
 date: "2014-01-17 03:55:25 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4246"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - mto11
 highlights:
 
 # Homepage control params

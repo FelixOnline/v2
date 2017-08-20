@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nida Mahmud on the items collect and #getinvolved
 date: "2013-02-14 21:06:52 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3328"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

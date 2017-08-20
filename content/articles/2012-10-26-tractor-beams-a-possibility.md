@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The real question here is: where are lightsabers?
 date: "2012-10-26 02:32:26 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2747"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jcw108
  - tna08
 highlights:
 

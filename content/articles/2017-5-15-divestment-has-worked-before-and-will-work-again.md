@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Conor O’Riordan wants to harness the power of student activism
 date: "2017-05-15 15:57:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6948"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - conororiordan
  - felix
 highlights:
  - longread

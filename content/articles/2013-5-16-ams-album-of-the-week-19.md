@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National - Trouble Will Find Me
 date: "2013-05-16 14:49:43 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3567"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sm5810
  - tna08
 highlights:
  - comment

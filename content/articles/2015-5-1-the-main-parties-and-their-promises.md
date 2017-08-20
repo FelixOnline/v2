@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent scrutinises the pledges each party has made ahead of the election
 date: "2015-05-01 00:05:11 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5476"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pk1811
  - ps3110
 highlights:
  - comment

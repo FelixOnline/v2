@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhys Davies just can't argue with trees
 date: "2010-02-27 17:02:27 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "110"

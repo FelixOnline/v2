@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jawaad Farooq looks to the future of combatting climate change.
 date: "2016-12-09 15:37:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6573"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jf413
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is let down by the humour at this Barbican production
 date: "2015-05-13 14:16:54 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5514"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - ps3110
 highlights:
 

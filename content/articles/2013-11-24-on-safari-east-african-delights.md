@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cruising through Tanzania’s national parks in search of big cats
 date: "2013-11-24 16:41:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4132"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - ps3410
 highlights:
 
 # Homepage control params

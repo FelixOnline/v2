@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rajat Jain writes about Johnny Foreigner as we approach the New Year
 date: "2011-12-08 21:09:06 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1930"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - rj408
 highlights:
  - photos
 

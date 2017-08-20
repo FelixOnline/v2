@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ali Jawad on the lack of human rights in Gaza
 date: "2010-01-22 13:26:03 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "49"

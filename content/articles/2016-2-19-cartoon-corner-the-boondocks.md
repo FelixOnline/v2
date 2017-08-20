@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular run down of animated flicks
 date: "2016-02-19 12:23:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5944"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
 

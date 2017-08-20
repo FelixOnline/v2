@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Magicians, assemble!
 date: "2015-11-13 14:53:05 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5735"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jxz12
  - ygr12
 highlights:
  - comment

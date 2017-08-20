@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The kettling was horrible, unjustified and counter-productive
 date: "2010-12-17 14:20:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "561"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rlg107
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is not the first time a psilocybin study is conducted at Imperial
 date: "2016-05-20 09:06:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6182"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

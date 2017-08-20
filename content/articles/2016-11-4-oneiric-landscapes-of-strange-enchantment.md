@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Paul Nash is on at the Tate Britain until 5 March 2017
 date: "2016-11-04 14:41:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6396"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
  - photos
 

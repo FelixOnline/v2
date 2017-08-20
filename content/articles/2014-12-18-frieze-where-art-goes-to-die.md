@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland is disgusted by this year's Frieze
 date: "2014-12-18 15:47:25 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5060"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - km2612
  - ps3110
 highlights:
 

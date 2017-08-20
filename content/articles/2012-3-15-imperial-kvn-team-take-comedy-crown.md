@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Russian standup and sketches impress to become United Kingdom’s top group
 date: "2012-03-15 21:14:06 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2374"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - nv205
 highlights:
 
 # Homepage control params

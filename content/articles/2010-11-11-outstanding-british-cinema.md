@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another Year is one of the finest works of Mike Leigh's career
 date: "2010-11-11 20:58:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "349"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

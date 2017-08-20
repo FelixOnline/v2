@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jason Parmar coos over his new Nokia Lumia 800
 date: "2011-12-08 19:55:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1904"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jp1409
 highlights:
  - comment
  - photos

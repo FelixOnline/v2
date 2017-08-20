@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The long-awaited Allen Jones Retrospective is analysed by Fred Fyles
 date: "2014-11-24 12:20:58 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4935"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - ps3110
 highlights:
  - longread

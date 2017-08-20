@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Has the news become more concerned about quantity of papers sold rather than quality of news reporting?
 date: "2012-10-11 21:08:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2663"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jwk11
 highlights:
  - comment
 

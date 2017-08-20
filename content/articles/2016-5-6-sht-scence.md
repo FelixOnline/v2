@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-06 09:55:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6123"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mguenot
 highlights:
  - comment
 

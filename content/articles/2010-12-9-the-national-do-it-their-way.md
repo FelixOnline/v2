@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The National preach to the converted as they captivate the Brixton Academy
 date: "2010-12-09 20:34:48 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "527"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - tm208
 highlights:
 
 # Homepage control params

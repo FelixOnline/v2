@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters investigates the latest entrepreneurial endeavour by the Imperial graduate who prefers to pour his own pint
 date: "2015-05-01 00:34:33 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5483"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jm5014
  - ps3110
 highlights:
  - comment

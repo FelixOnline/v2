@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pop Cosmos proves the collective are still kind of relevant
 date: "2016-05-27 08:58:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6214"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

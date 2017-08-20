@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken comments on the relationship between the West and Saudi Arabia
 date: "2015-03-13 01:30:42 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5395"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jr2514
 highlights:
  - longread
 

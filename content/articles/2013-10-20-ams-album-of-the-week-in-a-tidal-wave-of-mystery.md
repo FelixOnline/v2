@@ -4,7 +4,6 @@ title: >
 subtitle: >
   George Spence-Jones reviews an album by Capital Cities
 date: "2013-10-20 01:53:18 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3904"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - gs1409
  - jal08
 highlights:
  - comment

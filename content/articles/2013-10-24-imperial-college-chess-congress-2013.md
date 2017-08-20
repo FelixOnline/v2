@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICC Congress Organiser John Sargent reports on a successful day
 date: "2013-10-24 23:35:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3911"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - felix
 highlights:
 

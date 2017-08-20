@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope on recent research into the humble honeybee
 date: "2013-11-01 09:43:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3974"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lap08
 highlights:
  - comment
 

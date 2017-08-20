@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The most controversial of next year’s sabbatical officers is, no doubt, Chris Kaye. In an online media outlet that may never be named, we are told that the incoming Deputy President (Welfare) ran on a platform of a scaled back and cost-effective union, but is that really what we voted for?
 date: "2014-03-24 12:18:20 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4497"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - nf311
 highlights:
  - comment
 

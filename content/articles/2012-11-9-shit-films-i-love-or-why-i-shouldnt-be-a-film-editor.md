@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katy Bettany opens her cupboard of shame. Next to that cupboard there's a stack of these DVDs...
 date: "2012-11-09 13:50:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2862"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - klb09
  - tna08
 highlights:
  - comment

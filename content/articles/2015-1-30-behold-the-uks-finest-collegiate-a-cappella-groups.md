@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial hosted the UK semi finals of the International Championship of Collegiate A Cappella
 date: "2015-01-30 00:06:41 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5162"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - xc3313
 highlights:
  - longread
 

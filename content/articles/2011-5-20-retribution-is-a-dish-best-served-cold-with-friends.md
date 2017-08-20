@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tagore Nakornchai has his space cake and eats it in real-time strategy Dawn of War II: Retribution, where a enjoyable if repetitive single player campaign makes way for a fantastic multiplayer experience
 date: "2011-05-20 04:35:28 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1219"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - sjw209
+ - tn509
 highlights:
 
 # Homepage control params

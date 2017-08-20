@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Claire Boucher's latest album is full of bangers
 date: "2015-11-13 14:35:31 +0000"
-author_id: "cet13"
 
 # Attributes from Felix Online V1
 id: "5728"

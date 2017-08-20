@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action as Imperial stroll to victory
 date: "2013-10-25 01:14:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3952"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jhi13
 highlights:
  - comment
 

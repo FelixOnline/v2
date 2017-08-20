@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A demonic doll scores low with Felix Film
 date: "2014-11-10 21:43:41 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4825"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - ps3110
 highlights:
  - comment

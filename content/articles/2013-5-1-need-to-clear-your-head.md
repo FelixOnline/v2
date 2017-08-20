@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the new imaging technique that is sweaping labs nationwide
 date: "2013-05-01 19:28:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3522"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

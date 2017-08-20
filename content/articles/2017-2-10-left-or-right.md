@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saad Ahmed talks about how much choice there is in video games and how they add to the overall experience and immersion
 date: "2017-02-10 16:06:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6770"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

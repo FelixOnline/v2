@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Testing testing
 date: "2011-06-08 19:54:00 +0100"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "1325"

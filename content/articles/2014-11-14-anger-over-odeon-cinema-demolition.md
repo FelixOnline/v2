@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah reports on controversy on High Street Kensington
 date: "2014-11-14 20:06:55 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4867"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Currently, experiments at CERN have halted, giving time for maintenance work and a renovation of its equipment to take place. It is set to continue its experiments in 2015, where the energy intensity of its collisions will be increase from 4 trillion electron-volts to 6.5.
 date: "2013-11-15 02:20:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4064"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - pd111
 highlights:
 
 # Homepage control params

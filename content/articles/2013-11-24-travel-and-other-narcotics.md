@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pablo Cólon on Backpackers: stoned on a drug of complacency and compromise
 date: "2013-11-24 16:43:57 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4133"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ftravel
  - jal08
 highlights:
  - comment

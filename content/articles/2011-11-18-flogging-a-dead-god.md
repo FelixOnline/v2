@@ -4,7 +4,6 @@ title: >
 subtitle: >
   When will everyone realise that the debate on divine existence is over?
 date: "2011-11-18 00:09:23 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1797"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - km1308
  - sjw209
 highlights:
  - comment

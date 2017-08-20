@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at five brilliant science fiction and fantasy anthologies and short story collections - perfect for fitting around your revision timetable
 date: "2013-05-07 19:21:50 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3541"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
  - photos

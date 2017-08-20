@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chelsea and Westminster Hospital NHS Foundation Trust respond to a previous article in the paper
 date: "2012-10-18 21:46:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2722"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

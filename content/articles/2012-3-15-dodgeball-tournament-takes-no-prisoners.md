@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ‘Wilson Old Boys’ victorious after defeating ‘Handball’ in RAG Dodgeball Tournament
 date: "2012-03-15 21:18:16 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2376"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - twp10
 highlights:
 
 # Homepage control params

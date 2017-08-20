@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Gibbs goes hands, eyes and ears-on with Blue’s latest HD webcam, the Eyeball 2.0, and finds it wanting
 date: "2010-11-18 20:09:07 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "384"

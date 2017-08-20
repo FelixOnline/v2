@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Beacons of hope in this cursed year...
 date: "2016-11-11 15:59:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6429"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
  - photos
 

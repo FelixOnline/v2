@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yakuza 0 is out on the Playstation 4
 date: "2017-03-17 17:30:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6918"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - qm413
 highlights:
 
 # Homepage control params

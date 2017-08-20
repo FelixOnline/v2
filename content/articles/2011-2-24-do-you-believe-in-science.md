@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Heretic, a stone’s throw from Imperial, asks about evidence and whether climate change is our new religion
 date: "2011-02-24 19:08:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "859"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

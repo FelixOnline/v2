@@ -4,7 +4,6 @@ title: >
 subtitle: >
   True random numbers generated from laser light
 date: "2011-12-08 20:54:25 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1924"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Close shaves and the perils of the barber
 date: "2012-02-02 23:42:28 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2114"

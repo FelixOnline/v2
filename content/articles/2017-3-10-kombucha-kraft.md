@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix boldly uses the lab experience acquired at this noble institution to probe the depths of SCOBYs, tea and Kombucha. Is it the elixir we’ve all been looking for, or just a another fad? More importantly, will it be drinkable at the end of it all? Place your bets, and read on.
 date: "2017-03-10 14:07:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6881"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
 
 # Homepage control params

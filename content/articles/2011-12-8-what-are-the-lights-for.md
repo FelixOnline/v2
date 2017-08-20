@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christmas cheer all round with this festive tale
 date: "2011-12-08 22:19:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1954"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gts09
 highlights:
  - photos
 

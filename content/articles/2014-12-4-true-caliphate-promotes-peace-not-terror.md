@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Umar Nasser, Chair of IC Ahmadiyya Muslim Students Association, argues that extremists have masked the true meaning of Islam
 date: "2014-12-04 18:44:34 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4988"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - smn10
 highlights:
  - comment
 

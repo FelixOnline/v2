@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rhidian Thomas and Max Moynan discuss the things that the oil companies don't want us to know
 date: "2017-05-15 15:55:16 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6947"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - maxmoynan
+ - rhidianthomas
 highlights:
 
 # Homepage control params

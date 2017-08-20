@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman tells us all about her favourite comic – a cheeky superhero romp
 date: "2015-03-08 16:56:18 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5366"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - ygr12
 highlights:
  - comment
 

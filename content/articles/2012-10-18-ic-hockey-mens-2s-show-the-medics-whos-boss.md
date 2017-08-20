@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Bell reports
 date: "2012-10-18 21:10:50 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2692"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - bb308
  - csw09
 highlights:
 

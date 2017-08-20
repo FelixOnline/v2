@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Complete participation rates for SOLE released: a mixed bag
 date: "2013-01-10 22:20:40 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3084"

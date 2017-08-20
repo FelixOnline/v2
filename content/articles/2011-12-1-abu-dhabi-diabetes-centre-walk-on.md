@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Walkathon at Imperial's United Arab Emirates-based Diabetes Centre
 date: "2011-12-01 22:07:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1900"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - felix
 highlights:
  - comment

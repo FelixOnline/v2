@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The best venues in London for gigging off the beaten track
 date: "2010-12-02 20:56:36 +0000"
-author_id: "cer08"
 
 # Attributes from Felix Online V1
 id: "481"

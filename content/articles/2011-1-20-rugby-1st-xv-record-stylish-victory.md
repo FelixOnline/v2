@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First victory over RUMS this term
 date: "2011-01-20 19:53:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "617"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmw08
  - felix
 highlights:
 

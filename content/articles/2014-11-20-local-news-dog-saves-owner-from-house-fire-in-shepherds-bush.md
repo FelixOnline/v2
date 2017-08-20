@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Moo" saved the day after a disastrous smoke alarm failure
 date: "2014-11-20 20:22:42 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4906"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

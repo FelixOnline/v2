@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This summer’s headline event showcases the work of artistic duos
 date: "2016-06-17 09:26:12 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6281"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
  - photos

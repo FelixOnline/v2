@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Damage and theft on Medic RAG Pub Crawl
 date: "2013-02-08 01:24:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3289"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

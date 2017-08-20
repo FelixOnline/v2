@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £28 million development given go ahead by local council
 date: "2010-10-21 19:32:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "243"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

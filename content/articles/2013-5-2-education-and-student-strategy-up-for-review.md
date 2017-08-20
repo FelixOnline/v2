@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A call for input has been issued
 date: "2013-05-02 13:30:34 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3529"

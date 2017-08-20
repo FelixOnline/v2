@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on the silver lining that is coming to a crotch near you
 date: "2014-01-31 17:16:41 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4315"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ps3110
 highlights:
 
 # Homepage control params

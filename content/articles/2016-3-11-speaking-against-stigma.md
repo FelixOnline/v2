@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Youth stop AIDS
 date: "2016-03-11 11:46:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6031"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - est15
 highlights:
  - comment
 

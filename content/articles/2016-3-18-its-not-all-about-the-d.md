@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An ode to our nutrition’s unsung hero, vitamin B
 date: "2016-03-18 11:48:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6059"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

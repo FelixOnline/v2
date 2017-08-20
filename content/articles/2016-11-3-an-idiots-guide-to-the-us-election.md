@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not to say you’re an idiot, but at least one of the candidates is
 date: "2016-11-03 23:14:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6379"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
  - longread
  - photos

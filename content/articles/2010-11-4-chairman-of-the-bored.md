@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I thought I’d help the mice loosen up by dosing them with marijuana... (that I just happened to stumble upon)
 date: "2010-11-04 19:00:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "323"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

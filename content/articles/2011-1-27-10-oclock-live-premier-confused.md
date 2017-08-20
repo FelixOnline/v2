@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New political satire show gets off to a disappointing start
 date: "2011-01-27 20:11:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "687"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - vj05
 highlights:
  - comment
 

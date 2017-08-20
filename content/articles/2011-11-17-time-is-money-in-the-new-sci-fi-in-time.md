@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The messages that the film tries to get across are admirable, but it is brought down by a lack of depth in characterization
 date: "2011-11-17 21:55:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1789"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - td308
 highlights:
 
 # Homepage control params

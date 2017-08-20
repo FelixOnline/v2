@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s time to try defying gravity
 date: "2016-02-12 11:39:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5908"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

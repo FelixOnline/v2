@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A review of 'Real Tricks: The Quantum Mechanics Show'
 date: "2011-02-10 20:23:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "772"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

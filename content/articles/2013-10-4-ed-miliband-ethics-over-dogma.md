@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This article was catalysed by the recent conference of The Conservative Party held in Manchester, where voluminous Government policy was proposed and discussed.
 date: "2013-10-04 00:46:26 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3803"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - jal08
 highlights:
  - longread

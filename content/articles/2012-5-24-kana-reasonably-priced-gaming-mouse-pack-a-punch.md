@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The price is right for these mice
 date: "2012-05-24 23:31:38 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2489"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb908
  - mc4509
 highlights:
 

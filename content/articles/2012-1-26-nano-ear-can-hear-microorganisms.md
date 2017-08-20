@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientists create nano ear which can pick up sounds
 date: "2012-01-26 22:06:10 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2051"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ak6309
+ - mt3711
 highlights:
  - comment
 

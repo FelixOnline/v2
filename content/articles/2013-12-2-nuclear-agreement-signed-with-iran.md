@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But will it really manage to make the world a safer place?
 date: "2013-12-02 21:57:41 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4160"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kr1512
 highlights:
 
 # Homepage control params

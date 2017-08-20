@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Population: Ross Webster
 date: "2013-02-13 14:52:00 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3306"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Landslides aren't just dirt
 date: "2016-02-26 11:32:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5961"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - ea3211
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As a student newspaper, is it our role to offend our readership?
 date: "2015-01-16 13:29:33 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5100"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - ps3110
 highlights:
  - comment

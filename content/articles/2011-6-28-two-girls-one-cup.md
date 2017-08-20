@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s shit...
 date: "2011-06-28 11:34:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1443"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tvfelix
 highlights:
  - comment
 

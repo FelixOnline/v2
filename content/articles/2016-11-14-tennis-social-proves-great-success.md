@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They had a ball
 date: "2016-11-14 14:20:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6449"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - thomasmatcham
 highlights:
 
 # Homepage control params

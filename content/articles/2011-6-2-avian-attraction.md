@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Research shows sparrows to be quite discerning in choosing their mates
 date: "2011-06-02 18:34:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1298"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tbc09
 highlights:
  - comment
 

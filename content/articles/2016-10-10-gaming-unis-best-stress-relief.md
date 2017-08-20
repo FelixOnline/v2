@@ -4,7 +4,6 @@ title: >
 subtitle: >
   University has started and pretty soon things will really get into full swing. You’ll feel overwhelemed, anxious and like the whole world is against you. But have no fear! felix is here to tell you all about why gaming is your outlet in such a situation to relax and think about something other than
 date: "2016-10-10 12:16:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6320"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sa8713
 highlights:
 
 # Homepage control params

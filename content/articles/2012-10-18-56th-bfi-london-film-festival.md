@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three picks from the 56th BFI London Film Festival
 date: "2012-10-18 21:26:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2706"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ffilm
 highlights:
  - longread
 

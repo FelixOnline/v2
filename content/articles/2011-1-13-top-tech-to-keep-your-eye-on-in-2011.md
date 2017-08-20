@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four products that are destined to make a big splash in the coming year
 date: "2011-01-13 20:38:02 +0000"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "583"

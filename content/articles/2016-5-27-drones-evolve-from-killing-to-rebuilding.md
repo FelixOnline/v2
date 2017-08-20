@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Their versatility is a result of the onboard machinery
 date: "2016-05-27 08:56:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6212"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - gb915
 highlights:
 
 # Homepage control params

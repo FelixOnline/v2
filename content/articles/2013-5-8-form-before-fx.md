@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le reviews the Designs of the Year
 date: "2013-05-08 13:46:29 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3547"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

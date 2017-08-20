@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Astrid Armgarth gives American Horror Story: Asylum a raving review
 date: "2012-12-07 02:42:36 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3054"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aa18810
  - tna08
 highlights:
  - photos

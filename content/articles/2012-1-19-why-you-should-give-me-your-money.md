@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tackling Cystic Fibrosis through the ultimate endurance trust
 date: "2012-01-19 23:26:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2039"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - eoy05
  - felix
 highlights:
 

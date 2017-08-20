@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This Knightsbridge hotel doesn’t do snooty or pretentious
 date: "2010-10-28 19:35:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "266"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dhl106
  - felix
 highlights:
 

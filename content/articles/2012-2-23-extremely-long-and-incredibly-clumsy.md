@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2232"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jgp09
  - pk1811
 highlights:
  - comment

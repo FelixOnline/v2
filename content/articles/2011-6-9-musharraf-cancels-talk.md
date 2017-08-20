@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Former Pakistani President said to be insulted by College restrictions
 date: "2011-06-09 21:16:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1349"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

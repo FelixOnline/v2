@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jason Parmar steps into the shoes of a fanboi to review the year
 date: "2013-06-21 00:32:09 +0100"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "3736"

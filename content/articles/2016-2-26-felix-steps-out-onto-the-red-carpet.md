@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our picks for the Academy Awards
 date: "2016-02-26 11:48:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5970"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ff712
 highlights:
  - comment
  - longread

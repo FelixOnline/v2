@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We could be in the middle of Earth’s sixth mass extinction (and barely even notice it)
 date: "2011-03-10 19:20:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1050"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ko407
 highlights:
 
 # Homepage control params

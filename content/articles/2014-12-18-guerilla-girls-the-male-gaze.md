@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles explores the role the 'Male Gaze' plays in art
 date: "2014-12-18 15:57:53 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5065"

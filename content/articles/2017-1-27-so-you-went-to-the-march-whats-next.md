@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madeleine Webb discusses how to stay politically engaged now that the world has exploded
 date: "2017-01-27 16:25:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6690"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mw4414
 highlights:
  - comment
 

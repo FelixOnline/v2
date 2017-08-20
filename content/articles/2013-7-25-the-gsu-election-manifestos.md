@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Graduate Students Union (GSU) Elections close on the 26th July. For those of you who haven't heard about it here's a quick list of candidates and manifestos...
 date: "2013-07-25 04:28:18 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3746"

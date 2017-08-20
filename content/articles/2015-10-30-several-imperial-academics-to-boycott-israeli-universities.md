@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The letter was signed by 343 lecturers, including three from Imperial
 date: "2015-10-30 12:26:54 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5681"

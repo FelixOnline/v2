@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Experience of Holocaust survivor
 date: "2011-01-20 20:03:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "621"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - al3110
  - felix
 highlights:
 

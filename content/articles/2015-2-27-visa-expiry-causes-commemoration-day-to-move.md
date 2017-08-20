@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A fifth of graduating students would have been unable to attend the previously suggested date due to visa expiry
 date: "2015-02-27 00:42:00 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5314"

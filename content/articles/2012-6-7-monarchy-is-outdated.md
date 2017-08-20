@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maybe it's time for a Republic
 date: "2012-06-07 19:46:04 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2532"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pa07
  - pk1811
 highlights:
  - comment

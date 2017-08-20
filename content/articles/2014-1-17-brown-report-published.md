@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Examining the recommendations of the Brown Report...
 date: "2014-01-17 03:17:14 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4229"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - amm113
  - jal08
 highlights:
  - longread

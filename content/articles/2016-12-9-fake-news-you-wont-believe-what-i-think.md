@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steve Bohnel is opinionated about fake news
 date: "2016-12-09 15:38:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6574"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - stebo101
 highlights:
 
 # Homepage control params

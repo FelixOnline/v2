@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And the winner is... Cypriot Society!
 date: "2011-02-19 15:55:07 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "857"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ae1409
  - ks607
 highlights:
  - comment

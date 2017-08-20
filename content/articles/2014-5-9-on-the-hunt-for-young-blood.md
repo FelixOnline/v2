@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matilda Hays discusses the anti-aging properties of transfusions for mice
 date: "2014-05-09 02:09:17 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4574"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsci
  - jal08
 highlights:
 

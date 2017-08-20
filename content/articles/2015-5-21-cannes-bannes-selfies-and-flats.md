@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson reports on the red carpet sexism at the Cannes Film Festival
 date: "2015-05-21 23:19:04 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5557"

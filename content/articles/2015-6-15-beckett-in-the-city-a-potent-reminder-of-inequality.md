@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work
 date: "2015-06-15 11:37:07 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5623"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - jc7413
 highlights:
  - comment
 

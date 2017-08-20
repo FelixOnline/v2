@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lloyd James encourages you to participate in university democracy
 date: "2016-11-04 14:39:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6395"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - lj1913
 highlights:
  - photos
 

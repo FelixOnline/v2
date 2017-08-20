@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandre Adler advises you on how to win an election – warning: it involves a lot of human interaction
 date: "2017-03-17 15:09:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6903"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - alexandreadler
 highlights:
  - comment
  - photos

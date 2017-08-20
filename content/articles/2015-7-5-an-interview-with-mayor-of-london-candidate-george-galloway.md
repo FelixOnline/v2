@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken interviews the RESPECT Party candidate for Mayor of London, George Galloway, on his mayoral bid and current affairs
 date: "2015-07-05 10:02:34 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5648"

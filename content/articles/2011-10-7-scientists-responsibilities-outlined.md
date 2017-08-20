@@ -4,7 +4,6 @@ title: >
 subtitle: >
   International Council for Science recognise new guidelines for scientists
 date: "2011-10-07 09:47:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1480"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - ak6309
  - felix
 highlights:
 

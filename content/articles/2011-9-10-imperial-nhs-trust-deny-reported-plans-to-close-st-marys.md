@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trust 'furious' over reports suggesting site closures at Paddington and Charing Cross Hospital
 date: "2011-09-10 15:40:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1455"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - klb09
 highlights:
  - comment
 

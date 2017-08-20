@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out this Palestinian work
 date: "2015-05-29 12:39:55 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5589"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - js5913
 highlights:
 

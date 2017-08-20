@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How best can we care for an ageing population? Sophie Shina looks at telecare
 date: "2013-05-29 17:26:25 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3636"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ss6012
  - tna08
 highlights:
  - comment

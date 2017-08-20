@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Drought. Fire. Floods. Numerous factors are causing food prices to rise. Is this the start of another global food crisis?
 date: "2011-03-01 21:38:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "974"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - nar110
 highlights:
  - longread
 

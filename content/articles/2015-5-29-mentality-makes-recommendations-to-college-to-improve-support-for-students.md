@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Training and student support groups are suggested
 date: "2015-05-29 00:42:34 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5574"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
 

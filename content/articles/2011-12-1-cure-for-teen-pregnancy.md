@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Possibly the best thing about this film is the effect it’s having on men across the world."
 date: "2011-12-01 20:55:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1877"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lw408
 highlights:
 
 # Homepage control params

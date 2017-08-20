@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal goes all Art Attack
 date: "2013-02-13 17:00:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3313"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - tna08
 highlights:
 

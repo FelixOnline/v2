@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shad – 'Besides'
 date: "2012-03-15 21:20:16 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2377"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ar707
 highlights:
 
 # Homepage control params

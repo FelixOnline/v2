@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephen Ball investigates as work starts on the Chelsea waterfront
 date: "2015-06-04 23:19:14 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5598"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - snb11
 highlights:
  - comment
 

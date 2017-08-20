@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Battling against the buttress at Eton College
 date: "2011-12-08 20:43:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1918"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ab1706
  - felix
 highlights:
 

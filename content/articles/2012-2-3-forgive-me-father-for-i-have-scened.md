@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I need more money ‘cause I need more drugs
 date: "2012-02-03 11:16:20 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2130"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - sjw209
 highlights:
 

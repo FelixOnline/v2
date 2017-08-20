@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dont just skank says Alex Mason
 date: "2012-12-07 03:22:27 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3063"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
  - longread

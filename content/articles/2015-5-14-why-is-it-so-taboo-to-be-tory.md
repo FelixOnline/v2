@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Social media has driven Conservatives to keep their views quiet
 date: "2015-05-14 22:35:36 +0100"
-author_id: "tad08"
 
 # Attributes from Felix Online V1
 id: "5523"

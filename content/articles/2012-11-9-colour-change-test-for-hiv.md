@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A cheap and effective way of detecting HIV has been developed by Imperial academics
 date: "2012-11-09 12:45:28 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "2851"

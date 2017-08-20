@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rocio Molina Atienza watches a tale fit for a King. Well, Crown Prince
 date: "2013-06-13 22:30:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3676"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rm2410
  - tna08
 highlights:
 

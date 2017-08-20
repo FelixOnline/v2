@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman reviews what he calls Nolan’s near-perfect film
 date: "2014-11-17 18:12:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4900"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5913
  - ps3110
 highlights:
  - longread

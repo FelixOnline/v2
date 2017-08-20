@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Forget ISIS or Trump, apathy is the greatest threat to democracy
 date: "2016-05-20 08:55:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6176"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ja1612
 highlights:
  - comment
 

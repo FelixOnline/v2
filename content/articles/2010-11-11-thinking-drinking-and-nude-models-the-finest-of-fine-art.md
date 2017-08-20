@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Head to The Book Club in Shoreditch for an evening of extreme 'artiness'
 date: "2010-11-11 20:20:40 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "332"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - crc08
  - jk708
 highlights:
  - photos

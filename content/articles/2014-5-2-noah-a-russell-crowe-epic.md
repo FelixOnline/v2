@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The sweeping, captioned opening of Darren Aronofsky’s Noah is reminiscent of its cinematic heritage, the Biblical epics of years past, all elegantly flowing cursive script and delicately composed shots, until it promptly swoops down to the dark brutality of humanity.
 date: "2014-05-02 01:17:36 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4545"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - js5913
 highlights:
  - photos
 

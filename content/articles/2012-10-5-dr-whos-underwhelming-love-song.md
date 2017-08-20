@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski gives us his opinion on the newest Doctor
 date: "2012-10-05 11:30:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2597"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

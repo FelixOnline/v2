@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Umar Nasser, President of Ahmadiyya Muslim Students Association, on matters of interfaith
 date: "2013-11-15 02:26:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4068"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

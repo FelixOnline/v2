@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hollywood successfully takes on the challenge of re-working the first installment of the Millennium series, whilst still satisfying readers of the books
 date: "2012-01-12 22:45:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1991"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lp707
 highlights:
 
 # Homepage control params

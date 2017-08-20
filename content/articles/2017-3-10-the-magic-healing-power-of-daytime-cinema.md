@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Going to the cinema in the middle of the day is the perfect form of self-care – indulgent, self-focussed, relaxing – as Culture Editor Fred Fyles realised when he went along to a midday screening of Jacques Rivette’s Celine and Julie Go Boating. Here, he encourages you to take a break and treat yo'
 date: "2017-03-10 13:38:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6872"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

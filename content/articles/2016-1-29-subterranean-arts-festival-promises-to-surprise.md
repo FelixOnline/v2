@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spend some time down in the vaults
 date: "2016-01-29 09:45:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5854"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
 highlights:
  - comment
 

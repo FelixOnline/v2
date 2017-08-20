@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Though three is a crowd
 date: "2016-11-14 14:23:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6452"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - leonardogiustini
 highlights:
 
 # Homepage control params

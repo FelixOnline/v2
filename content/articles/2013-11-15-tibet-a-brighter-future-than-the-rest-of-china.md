@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A student responds to last week's article about Tibet
 date: "2013-11-15 02:21:45 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4065"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - me1711
 highlights:
  - comment

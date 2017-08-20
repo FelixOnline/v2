@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous writer’s personal experience with emotional abuse and the warning signs
 date: "2014-12-04 18:56:20 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4990"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - extuser0
 highlights:
  - comment
  - longread

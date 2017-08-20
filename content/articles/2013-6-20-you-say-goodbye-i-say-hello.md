@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joe Letts, next year's Felix Editor introduces himself
 date: "2013-06-20 16:12:20 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3702"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jal08
  - pk1811
 highlights:
 

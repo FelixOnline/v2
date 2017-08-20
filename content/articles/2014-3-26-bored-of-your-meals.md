@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Food is here with tips to avoid being in a food rut
 date: "2014-03-26 14:03:14 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4506"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - jal08
+ - ykc111
 highlights:
  - longread
 

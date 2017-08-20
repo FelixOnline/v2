@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matthew Allinson tackles the hell of the High Street and finds heaven at Offspring
 date: "2011-10-21 10:24:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1588"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ma1307
 highlights:
  - comment
 

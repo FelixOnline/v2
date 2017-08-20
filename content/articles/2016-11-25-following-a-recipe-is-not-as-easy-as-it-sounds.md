@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Follow Andrada as she tries to follow a recipe, takes a two hour detour and resigns to eating store bought cake while waiting for her pie to cook
 date: "2016-11-25 14:40:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6514"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
  - photos
 

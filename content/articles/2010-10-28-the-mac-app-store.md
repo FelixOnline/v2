@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What's next for Apple?
 date: "2010-10-28 19:35:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "265"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb808
  - felix
 highlights:
  - comment

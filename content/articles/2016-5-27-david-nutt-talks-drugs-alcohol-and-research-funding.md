@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He spoke as part of Imperial’s Mental Health Week
 date: "2016-05-27 08:39:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6198"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

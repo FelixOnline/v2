@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Upward trends as 2012 is a record year for complaints
 date: "2013-06-20 23:39:53 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3725"

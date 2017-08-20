@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A provocative debut novel from Roxanne Sancto & Martin Tarte
 date: "2011-05-06 13:25:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1172"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cu309
  - felix
 highlights:
  - comment

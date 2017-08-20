@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can't sit through three hours of Spaghetti Western? Try these on for size instead...
 date: "2015-12-06 14:35:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5806"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bsc1
+ - bsc14
 highlights:
  - comment
 

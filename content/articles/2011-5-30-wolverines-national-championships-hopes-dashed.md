@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s Wolverines unable to qualify for National Championships after suffering heartbreak in Southampton
 date: "2011-05-30 13:11:02 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1286"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - twp10
 highlights:
 
 # Homepage control params

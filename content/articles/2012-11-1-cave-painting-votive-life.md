@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jeni Pillai sees if this much anticipated release live up to the hype and early promise?
 date: "2012-11-01 23:16:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2821"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
  - photos

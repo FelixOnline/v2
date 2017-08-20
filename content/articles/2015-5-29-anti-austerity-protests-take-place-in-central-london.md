@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman reports on the march that spread through the city on Wednesday
 date: "2015-05-29 01:10:34 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5580"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - js5913
+ - nn1209
 highlights:
  - comment
 

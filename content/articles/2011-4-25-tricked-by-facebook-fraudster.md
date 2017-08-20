@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook profile used to make friends with dozens of Imperial freshers
 date: "2011-04-25 17:20:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1139"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - felix
 highlights:
  - comment

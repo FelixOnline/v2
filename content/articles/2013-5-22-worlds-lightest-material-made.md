@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lighter than the pile of revision notes an arts student makes. Take THAT arts students.
 date: "2013-05-22 14:30:34 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3598"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - jh3609
  - tna08
 highlights:
 

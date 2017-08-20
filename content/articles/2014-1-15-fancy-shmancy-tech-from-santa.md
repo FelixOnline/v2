@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money?
 date: "2014-01-15 16:27:22 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4213"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - me1711
+ - ywc110
 highlights:
 
 # Homepage control params

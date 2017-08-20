@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Work around the clock?
 date: "2012-06-01 12:04:02 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2507"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ar3310
  - mc4509
 highlights:
  - comment

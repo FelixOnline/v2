@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter reviews Nicholas Jaarʼs Barbican Spectacular
 date: "2013-10-12 00:31:45 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3838"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - sh1207
 highlights:
  - comment
 

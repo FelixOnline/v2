@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College urges vigilance after spate of thefts on campus
 date: "2011-03-03 05:45:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "980"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

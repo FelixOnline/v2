@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam finds the Kindle Store massively unintuitive
 date: "2012-01-26 21:46:57 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2044"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - fa608
 highlights:
 
 # Homepage control params

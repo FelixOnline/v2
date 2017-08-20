@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RAG count up the money raised
 date: "2013-02-21 23:57:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3351"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
  - photos

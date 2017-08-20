@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Constitution changes have been approved by Council
 date: "2012-11-01 22:09:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2777"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah offers a healthy solution to the instant stuff
 date: "2015-01-23 18:30:51 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5143"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - jyg11
 highlights:
  - comment

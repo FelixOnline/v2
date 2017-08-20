@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Ellis’ reflections on an ultramarathon
 date: "2013-11-01 10:42:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3977"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - fcomment
  - felix
 highlights:
 

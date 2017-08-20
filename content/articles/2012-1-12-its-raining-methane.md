@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Planetary scientists come up with weather system model for one of Saturn's moons
 date: "2012-01-12 21:56:22 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1976"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - ko407
 highlights:
 
 # Homepage control params

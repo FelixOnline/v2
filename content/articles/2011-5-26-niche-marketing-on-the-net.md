@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nitin Nihalani from Imperial Entrepreneurs’ Society on the power of specialising
 date: "2011-05-26 19:22:41 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1259"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - nbn10
 highlights:
 
 # Homepage control params

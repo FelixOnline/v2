@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four years of Felix
 date: "2011-06-23 20:41:03 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1426"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The nominations for the Union’s Big Elections 2014 opened this Monday. These elections determine who will fill key roles at the Union during the 2014-15 academic year. Read to see a list of confirmed candidates!
 date: "2014-02-14 04:34:18 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4378"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - jal08
  - snb11
 highlights:
 

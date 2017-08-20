@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yo La Tengo : Fade
 date: "2013-01-18 00:52:22 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3144"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sm5810
  - tna08
 highlights:
 

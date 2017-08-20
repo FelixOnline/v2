@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Fernando takes a trip to the new hall’s location to investigate
 date: "2013-05-16 18:55:19 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3587"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - tna08
 highlights:
  - comment

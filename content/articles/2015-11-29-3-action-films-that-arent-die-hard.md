@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It might be a great film, but here are some alternatives to Bruce Willis
 date: "2015-11-29 16:48:07 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5785"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bsc14
  - ff712
 highlights:
  - comment

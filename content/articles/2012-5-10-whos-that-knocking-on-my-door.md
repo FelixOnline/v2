@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yep, pretty silent, except for all the screaming
 date: "2012-05-10 20:37:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2451"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

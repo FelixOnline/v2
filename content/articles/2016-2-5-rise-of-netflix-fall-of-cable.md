@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All you need is an internet connection and a subsciption and you’re ready to go
 date: "2016-02-05 12:49:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5885"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
  - longread

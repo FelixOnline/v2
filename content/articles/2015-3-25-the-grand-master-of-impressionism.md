@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik takes a tour of artistic history at the National Gallery
 date: "2015-03-25 13:17:16 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5447"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - im1413
 highlights:
  - longread
  - photos

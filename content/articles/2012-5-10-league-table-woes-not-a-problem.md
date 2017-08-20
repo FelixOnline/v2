@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Look beyond simple numbers for a more surprising truth
 date: "2012-05-10 20:03:47 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2440"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - pk1811
 highlights:
 

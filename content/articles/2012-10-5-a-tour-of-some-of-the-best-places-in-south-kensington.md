@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood spend loads of money selflessly eating out every night to bring you the best from the local area
 date: "2012-10-05 11:47:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2603"
@@ -24,7 +23,9 @@ tags:
  - imported
  - imported_comments
 authors:
+ - csw09
  - felix
+ - tna08
 highlights:
  - comment
  - longread

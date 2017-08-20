@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marion Ferrat takes a look at Curiosity’s first year on the Red Planet
 date: "2013-08-19 08:06:30 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3752"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mf03
 highlights:
  - comment
  - longread

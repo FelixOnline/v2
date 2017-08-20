@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Artist - Nana Li
 date: "2012-06-14 20:26:05 +0100"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2564"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - ev411
 highlights:
  - longread
  - photos

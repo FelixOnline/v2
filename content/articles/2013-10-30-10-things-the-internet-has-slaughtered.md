@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Listing 10 things that have been brutally murdered by the interwebs
 date: "2013-10-30 16:08:13 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3962"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - oa1612
 highlights:
 
 # Homepage control params

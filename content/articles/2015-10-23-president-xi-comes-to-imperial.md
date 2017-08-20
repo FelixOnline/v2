@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The General Secretary of the Communist Party of China met with students and scientists while on a state visit
 date: "2015-10-23 10:49:37 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5662"

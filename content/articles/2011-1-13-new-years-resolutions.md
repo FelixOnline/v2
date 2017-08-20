@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rajat Jain & Joseph Letts consider what 2011 holds for world leaders. And Nick Clegg...
 date: "2011-01-13 20:02:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "573"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - jal08
+ - rj408
 highlights:
 
 # Homepage control params

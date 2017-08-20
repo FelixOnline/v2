@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Concerns raised over impact of financial reallocation
 date: "2012-02-03 00:18:48 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2119"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mtm10
  - sjw209
 highlights:
  - comment

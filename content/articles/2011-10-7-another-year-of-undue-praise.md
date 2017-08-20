@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The path of least resistance is the worst path you can take
 date: "2011-10-07 01:48:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1476"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

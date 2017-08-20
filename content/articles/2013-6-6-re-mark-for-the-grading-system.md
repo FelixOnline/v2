@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union Council discusses the GPA
 date: "2013-06-06 15:45:19 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3665"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
 

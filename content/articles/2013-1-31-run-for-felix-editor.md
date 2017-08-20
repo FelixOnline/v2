@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial on running for a sabbatical position
 date: "2013-01-31 22:32:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3197"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - tna08
 highlights:
 
 # Homepage control params

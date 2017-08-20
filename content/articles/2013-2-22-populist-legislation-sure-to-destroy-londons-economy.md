@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A defence of banking’s most controversial practice: bonuses, by Ross Gray
 date: "2013-02-22 01:46:58 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3366"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

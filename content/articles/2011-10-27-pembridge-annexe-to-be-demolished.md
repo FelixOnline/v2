@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Disused building to be the site of residential apartments
 date: "2011-10-27 20:19:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1609"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

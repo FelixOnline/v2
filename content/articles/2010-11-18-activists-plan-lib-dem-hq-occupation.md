@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ‘Day of Action’ planned for 24th November
 date: "2010-11-18 21:50:55 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "412"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - mc4509
 highlights:
 
 # Homepage control params

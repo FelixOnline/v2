@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Nutcracker is on at the Royal Opera House until 12th January 2017.
 date: "2016-12-02 15:00:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6536"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

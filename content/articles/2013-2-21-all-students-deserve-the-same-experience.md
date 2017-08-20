@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It should not be separated between cheap and far and expensive and close, says Scott Heath, Union President (2011-2012)
 date: "2013-02-21 23:45:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3348"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - sh907
  - tna08
 highlights:
  - comment

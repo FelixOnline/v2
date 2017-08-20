@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taking a closer look at metamaterials
 date: "2013-12-02 21:52:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4157"
@@ -21,6 +20,9 @@ tags:
  - science
  - imported
 authors:
+ - ag4611
+ - am7911
+ - ecw12
  - jal08
 highlights:
 

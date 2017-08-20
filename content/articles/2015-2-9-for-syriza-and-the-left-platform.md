@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly discusses divides within the party taking Greece by storm
 date: "2015-02-09 19:49:57 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5229"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck2513
  - ps3110
 highlights:
 

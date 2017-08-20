@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah goes on pun overload as he asks the stand-up comedian/actor about everything from his university days to his ongoing tour
 date: "2012-03-02 01:48:23 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2306"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - tna08
 highlights:
  - longread
 

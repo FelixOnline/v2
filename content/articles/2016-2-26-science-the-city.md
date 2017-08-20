@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-02-26 11:35:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5963"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nms15
 highlights:
 
 # Homepage control params

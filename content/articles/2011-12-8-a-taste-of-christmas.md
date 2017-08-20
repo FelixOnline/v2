@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Krestas makes his top festive food and drink decisions
 date: "2011-12-08 21:47:15 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1944"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mk4410
  - pk1811
 highlights:
 

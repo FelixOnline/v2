@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shows should try to be fresh and do something which makes them unique
 date: "2016-03-11 12:05:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6043"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

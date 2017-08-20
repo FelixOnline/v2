@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:48:30 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4730"

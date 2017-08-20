@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandru Podgurschi sees history repeating itself
 date: "2011-06-16 20:17:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1390"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ap7110
  - felix
 highlights:
 

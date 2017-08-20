@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Current Blackboard to be replaced with entirely new system
 date: "2012-06-08 08:32:08 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2541"

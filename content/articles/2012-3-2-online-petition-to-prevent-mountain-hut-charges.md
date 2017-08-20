@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook campaign established to combat £50
 date: "2012-03-02 00:58:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2300"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

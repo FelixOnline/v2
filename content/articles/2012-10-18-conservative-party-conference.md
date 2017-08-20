@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The political equivalent of the office Christmas party
 date: "2012-10-18 21:24:21 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2705"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - klh110
 highlights:
  - comment
  - photos

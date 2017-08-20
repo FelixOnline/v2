@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dogs during exam season proves huge hit with engineers
 date: "2016-06-10 08:12:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6246"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

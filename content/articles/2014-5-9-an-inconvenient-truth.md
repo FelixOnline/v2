@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s a great shame that Yari Film Group Releasing had to declare bankruptcy just before the release of Nothing but the Truth. This meant that the sharply-written, well-acted, legal/political thriller would never get a proper wide release date in the States or anywhere else in the world.
 date: "2014-05-09 15:20:53 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4586"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

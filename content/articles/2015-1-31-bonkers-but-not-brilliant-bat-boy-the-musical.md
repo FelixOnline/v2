@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenburg heads to Southwark to check out their cult musical revival
 date: "2015-01-31 19:16:47 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5171"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - mff113
 highlights:
  - longread
 

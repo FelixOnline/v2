@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A statement coat is essential this season. Embrace the cold and define your style with Alice Yang’s pick of the best
 date: "2011-10-13 22:15:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1513"
@@ -21,6 +20,7 @@ tags:
  - fashion
  - imported
 authors:
+ - ay310
  - felix
 highlights:
  - photos

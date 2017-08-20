@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Hopefully, with hard work and time for injuries to heal, a full Immortals team can take the rest of the season head-on, maybe even fighting their way to the playoffs."
 date: "2011-12-01 21:14:24 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1883"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mp4310
 highlights:
  - longread
 

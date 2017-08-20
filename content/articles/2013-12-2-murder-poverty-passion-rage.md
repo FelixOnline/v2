@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kamil McClelland witnesses Woyzeck’s descent into madness
 date: "2013-12-02 22:08:12 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4164"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - km2612
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There’s something strange about the way we treat emotions; they have become products to be bought and sold. It was crazy American Pentecostal Christianity that first got me thinking about this.
 date: "2014-04-07 13:00:22 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4528"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - rtf08
 highlights:
  - longread
  - photos

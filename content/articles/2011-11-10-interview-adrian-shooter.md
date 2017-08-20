@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang talks to the Chairman of Chiltern Railways about careers in industry
 date: "2011-11-10 21:16:52 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1727"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ay310
  - pk1811
 highlights:
  - comment

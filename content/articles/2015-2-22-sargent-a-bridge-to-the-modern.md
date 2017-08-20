@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik finds that Sargent was not all that he was painted to be
 date: "2015-02-22 17:39:10 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5303"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - im1413
  - ps3110
 highlights:
  - comment

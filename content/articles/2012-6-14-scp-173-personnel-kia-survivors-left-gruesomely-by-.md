@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A horror game that fits the genre's name
 date: "2012-06-14 20:23:38 +0100"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "2563"

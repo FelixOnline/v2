@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Royal Shakespeare Company’s Henry V at the Barbican sursprises and delights
 date: "2015-11-20 09:41:24 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5762"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ea3211
  - ygr12
 highlights:
  - comment

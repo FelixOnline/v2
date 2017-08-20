@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Simpson gets wicki low with da Tee to the Vee
 date: "2011-02-10 20:12:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "767"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tvfelix
 highlights:
  - comment
 

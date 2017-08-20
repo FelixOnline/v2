@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial is giving out more firsts and 2:1s than ever
 date: "2016-04-29 10:34:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6097"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
  - photos

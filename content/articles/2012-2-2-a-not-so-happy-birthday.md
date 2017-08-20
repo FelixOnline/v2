@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rajvinder Virdee on who he thinks is crashing the Euro's party
 date: "2012-02-02 19:52:57 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2096"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - rv108
 highlights:
 
 # Homepage control params

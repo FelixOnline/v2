@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julius Caesar is on at the King's Cross Theatre until Saturday, the 17th of December
 date: "2016-12-16 15:04:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6612"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

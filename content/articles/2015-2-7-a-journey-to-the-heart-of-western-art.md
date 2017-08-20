@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Blaise Verhasselt examines Rubens’ legacy at a new RA show
 date: "2015-02-07 19:02:09 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5200"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bjv12
  - ps3110
 highlights:
 

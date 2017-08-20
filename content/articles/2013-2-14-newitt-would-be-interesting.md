@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood finally enjoys a lecture at Imperial
 date: "2013-02-14 01:18:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3318"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - csw09
  - tna08
 highlights:
 

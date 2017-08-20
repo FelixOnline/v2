@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson on three films with just one plot between them
 date: "2015-01-23 16:50:36 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5131"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - em2512
  - jyg11
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5511"

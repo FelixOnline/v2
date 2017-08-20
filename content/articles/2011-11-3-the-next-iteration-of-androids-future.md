@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Adam Forsyth looks in-depth at Ice Cream Sandwich and its new flagship device
 date: "2011-11-03 18:21:08 +0000"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1649"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - fa608
 highlights:
  - longread

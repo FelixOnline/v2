@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sebastian Gonzato offers the green argument for nuclear power
 date: "2016-10-28 15:13:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6352"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sg3114
 highlights:
  - photos
 

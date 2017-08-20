@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles reviews Fraulein Julie, which seamlessly merges technology and stagecraft to form a new kind of theatrical experience
 date: "2013-05-08 13:48:09 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3548"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
 

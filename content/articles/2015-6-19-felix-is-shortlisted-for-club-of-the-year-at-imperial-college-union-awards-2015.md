@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports on the awards night that celebrates achievements of Union clubs, societies and projects
 date: "2015-06-19 13:33:42 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5644"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

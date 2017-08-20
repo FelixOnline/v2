@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A live blog of the Council session regarding the international students survey.
 date: "2013-12-10 18:51:11 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4197"

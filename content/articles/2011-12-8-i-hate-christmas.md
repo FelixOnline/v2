@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's beginning to look a lot like Christmas, but not everyone is pleased about it...
 date: "2011-12-08 22:05:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1951"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

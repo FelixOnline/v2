@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix investigates what goes on in the Library after midnight ( SPOIlER ALERT: NOT MUCH)
 date: "2017-06-02 13:29:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6996"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cet13
+ - ea3211
  - felix
 highlights:
  - longread

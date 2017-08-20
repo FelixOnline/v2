@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial's resident former advisor's new book is an intriguing read on the science and history of drugs
 date: "2012-11-09 12:48:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2853"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - agr06
  - tna08
 highlights:
 

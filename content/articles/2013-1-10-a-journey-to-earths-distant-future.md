@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A book is set in the distant future, when the sun has started to cool
 date: "2013-01-10 22:42:58 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3093"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - mtm10
 highlights:
  - comment
 

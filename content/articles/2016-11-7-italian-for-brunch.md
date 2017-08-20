@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix rolls out pasta with a Michelin star chef, and investigates the finest that Theo’s Simple Italian has to offer – none of it simple, but all widely Italian and full of fantastic flavours, with ravioli, tiramisu and more
 date: "2016-11-07 13:10:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6402"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A lacklustre second novel in the trilogy
 date: "2011-06-16 20:46:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1398"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

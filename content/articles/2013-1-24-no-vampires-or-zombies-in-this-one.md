@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spielberg takes on Lincoln in a battle for Oscar glory
 date: "2013-01-24 21:42:04 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3161"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - jgp09
  - mc4509
 highlights:
  - longread

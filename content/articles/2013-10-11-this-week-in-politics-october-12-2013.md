@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A summary of the key issues from around the world
 date: "2013-10-11 23:32:48 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3828"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - kr1512
 highlights:
  - comment
 

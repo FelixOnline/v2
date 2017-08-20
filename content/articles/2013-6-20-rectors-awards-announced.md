@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Excellence in teaching awarded
 date: "2013-06-20 23:35:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3723"

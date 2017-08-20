@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial students do what we do best: revise. Well, procrastinate on the internet...
 date: "2012-11-09 00:09:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2831"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ncj10
  - tna08
 highlights:
 

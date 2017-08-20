@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah catches up with comedian Chris Ramsey about his latest tour, while giving you a master class in how to ask long, rambling and non-concise questions...
 date: "2012-02-09 22:12:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2142"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tna08
 highlights:
  - longread
 

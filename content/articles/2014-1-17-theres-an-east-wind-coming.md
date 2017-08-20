@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix catches up with events...
 date: "2014-01-17 03:35:25 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4237"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

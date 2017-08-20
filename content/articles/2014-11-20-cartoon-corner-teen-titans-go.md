@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Rivlin on cancellations and claims of ruined childhoods
 date: "2014-11-20 21:48:10 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4920"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - tr511
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix speaks to graduates about the old system, the proposed changes and how greatly their student debt affects their lives
 date: "2010-12-02 21:57:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "501"
@@ -23,6 +22,9 @@ tags:
  - image
 authors:
  - felix
+ - lc107
+ - mc4509
+ - oar09
 highlights:
  - longread
 

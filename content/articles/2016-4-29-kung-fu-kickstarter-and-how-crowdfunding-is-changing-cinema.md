@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kickstarter is one of many crowdfunding options for budding creators, looking to shake up the world of cinema
 date: "2016-04-29 10:38:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6100"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - toc15
 highlights:
 
 # Homepage control params

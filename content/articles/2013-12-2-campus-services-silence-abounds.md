@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do Campus Services truly care about their stakeholders?
 date: "2013-12-02 12:33:51 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4145"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

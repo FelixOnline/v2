@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Walking Dead marched straight into Jonna Nybäck’s heart
 date: "2012-11-29 22:57:55 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2995"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - felfood
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the highs and lows of designer drugs
 date: "2014-11-06 19:41:09 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4781"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ltr11
  - snb11
 highlights:
 

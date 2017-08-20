@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongs atayanont discusses the effects of depression how it feels
 date: "2014-11-06 20:22:02 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4788"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cw3414
  - snb11
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why didn’t these people run before?
 date: "2016-06-15 13:23:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6268"

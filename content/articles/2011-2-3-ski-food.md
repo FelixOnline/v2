@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The long day on the slopes and tartiflette
 date: "2011-02-03 19:08:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "710"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gm1509
 highlights:
  - comment
 

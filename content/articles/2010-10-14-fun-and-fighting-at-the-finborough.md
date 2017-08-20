@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This small 'pub theatre' puts on a great show
 date: "2010-10-14 18:45:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "196"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - jb307
+ - nf609
 highlights:
 
 # Homepage control params

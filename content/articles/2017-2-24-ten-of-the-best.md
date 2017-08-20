@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Brunch means lazy morning, indulgent eating, and a general disregard for adult meal norms. If you’re anything like us brunch is more important to you than both brekafast and lunch. This is why we went out and found the hottest spots around London where you can eat what you want, when you want.
 date: "2017-02-24 15:23:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6829"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
+ - yyl114
 highlights:
  - photos
 

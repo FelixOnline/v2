@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexander Karapetian takes a look at the latest developments in quantum systems
 date: "2011-11-17 20:30:30 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1761"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - pk1811
 highlights:
 

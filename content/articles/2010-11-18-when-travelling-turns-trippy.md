@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson has his drink spiked at a sleazy beach bar on one of Thailand's most beautiful islands before hitting the streets. Hilarity ensues
 date: "2010-11-18 20:50:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "395"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Franca Hoffmann discusses politicians-to-be coming to campus
 date: "2012-10-26 02:02:00 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2733"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fh1009
  - tna08
 highlights:
  - longread

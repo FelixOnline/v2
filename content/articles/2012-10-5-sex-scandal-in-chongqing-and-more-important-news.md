@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks looks into political gossip from the Far East
 date: "2012-10-05 13:04:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2621"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mh3210
 highlights:
 
 # Homepage control params

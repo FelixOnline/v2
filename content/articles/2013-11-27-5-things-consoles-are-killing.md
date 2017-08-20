@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With the recent releases of the Xbox One and PlayStation 4, it’s high time we examine the victims consoles have claimed since their heralding in the 70’s. Will they be the ultimate culprit in our murder series?
 date: "2013-11-27 16:09:23 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4142"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - me1711
+ - oa1612
 highlights:
 
 # Homepage control params

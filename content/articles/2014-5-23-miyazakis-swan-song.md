@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over the last decade, ever since Spirited Away rocked the box office and became the highest grossing Japanese film in history, the release of a new Studio Ghibli film has become something of ‘An Event’, bringing with it a whirlwind of excitement and speculation.
 date: "2014-05-23 14:13:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4623"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - jal08
 highlights:
  - longread

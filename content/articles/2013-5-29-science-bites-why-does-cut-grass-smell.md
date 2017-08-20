@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It may smell great, but did you know it’s actually a plant’s distress call? You’re chopping it to smithereens, what did you expect it to do?
 date: "2013-05-29 17:30:17 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3638"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - lap08
  - tna08
 highlights:
  - comment

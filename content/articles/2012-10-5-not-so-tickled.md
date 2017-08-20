@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Peek takes in a night of comedy
 date: "2012-10-05 11:30:11 +0100"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2596"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - felart
  - nn1209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We Are What We Are doubles as shock horror and social satire
 date: "2010-11-18 20:53:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "396"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jl4310
 highlights:
 
 # Homepage control params

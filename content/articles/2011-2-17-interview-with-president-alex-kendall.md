@@ -4,7 +4,6 @@ title: >
 subtitle: >
   He fought the Life Sciences cuts but supports higher fees: Alex Kendall on why he picks his fights carefully
 date: "2011-02-17 19:07:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "812"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
  - longread

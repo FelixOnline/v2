@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Prashant Mahendran reports on the third London Climate Forum
 date: "2014-12-04 18:49:47 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4989"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - pnm13
 highlights:
  - comment
 

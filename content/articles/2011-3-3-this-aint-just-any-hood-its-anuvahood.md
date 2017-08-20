@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kidulthood’s Adam Deacon writes, directs and stars in this long-awaited British ghetto comedy. By Vishnu Aggarwal
 date: "2011-03-03 06:16:59 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "987"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - va07
 highlights:
  - comment
 

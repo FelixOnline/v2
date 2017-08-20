@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investments are indirect but clash with college’s cancer research efforts
 date: "2016-05-27 08:36:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6194"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

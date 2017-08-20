@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This one's for the club kids
 date: "2016-10-31 23:02:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6371"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - catfelix
 highlights:
  - photos
 

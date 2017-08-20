@@ -4,7 +4,6 @@ title: >
 subtitle: >
   José Videira dives straight into IC Skydiving’s week long Spring Tour to Portugal
 date: "2015-05-15 12:50:14 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5537"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jv307
 highlights:
  - comment
  - longread

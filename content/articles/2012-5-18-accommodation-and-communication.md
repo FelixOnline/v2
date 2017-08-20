@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Those in the wardening system needs to be made aware of potential barriers to their way of life
 date: "2012-05-18 06:19:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2459"

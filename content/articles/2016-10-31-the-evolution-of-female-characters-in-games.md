@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Female video game characters today are very different from the ones twenty or so years ago. The steps along the way have been small but have added towards the big picture
 date: "2016-10-31 23:14:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6372"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

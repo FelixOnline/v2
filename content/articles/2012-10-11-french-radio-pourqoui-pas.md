@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The French really do it well. Radio that is
 date: "2012-10-11 21:29:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2679"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lwl09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent reports on the last calamitous cabinet days of the Defence Secretary
 date: "2011-10-20 21:58:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1567"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - pk1811
 highlights:
  - comment
 

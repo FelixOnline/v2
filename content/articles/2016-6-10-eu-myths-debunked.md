@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What the Leave campaign says is going on versus what is actually going on
 date: "2016-06-10 08:19:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6250"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah ponders “ladies who (liquid) lunch” this winter
 date: "2012-11-15 22:00:36 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2907"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After a low turnout at Tuesday’s Council meeting, the session was abandoned since they lacked the quorum level of attendance required for binding votes.
 date: "2014-01-17 03:03:58 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4223"

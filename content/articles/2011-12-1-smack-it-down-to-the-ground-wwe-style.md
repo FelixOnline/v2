@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Edward Bals tackles THQ’s latest professional wrestling game, WWE ‘12
 date: "2011-12-01 20:08:15 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1865"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - eb1710
  - pk1811
 highlights:
  - photos

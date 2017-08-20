@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Halls survey asks whether Ethos should remain free or not
 date: "2011-03-10 19:45:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1056"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

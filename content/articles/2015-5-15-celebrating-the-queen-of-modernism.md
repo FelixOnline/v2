@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng on the ROH’s new ballet, based of Virginia Woolf’s work
 date: "2015-05-15 12:58:42 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5541"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jc7413
 highlights:
  - comment
 

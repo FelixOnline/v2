@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tennessee Williams (and Horton Foote) come to Hammersmith
 date: "2011-11-03 22:01:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1696"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Read the book first!
 date: "2012-03-15 20:16:00 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2358"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - ams111
+ - jgp09
+ - lw408
 highlights:
 
 # Homepage control params

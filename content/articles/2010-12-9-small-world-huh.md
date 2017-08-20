@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Travellers have a higher chance of getting laid, but more often rendered heartbroken
 date: "2010-12-09 20:08:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "516"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - yll08
 highlights:
 
 # Homepage control params

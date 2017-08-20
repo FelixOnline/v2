@@ -4,7 +4,6 @@ title: >
 subtitle: >
   HAHAHAHAHAHA WHO"S LAUGHING NOW?
 date: "2017-02-17 16:23:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6803"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

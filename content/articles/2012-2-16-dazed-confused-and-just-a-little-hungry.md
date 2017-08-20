@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang embraces her inner rebel as she investigates the quintessential rule-breaking magazine
 date: "2012-02-16 21:42:35 +0000"
-author_id: "ay310"
 
 # Attributes from Felix Online V1
 id: "2194"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - AY310
  - ay310
 highlights:
  - photos

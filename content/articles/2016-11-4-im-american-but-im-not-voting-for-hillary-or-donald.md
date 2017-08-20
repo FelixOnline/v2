@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Steve Bohnel explains why he couldn’t support either of the main candidates
 date: "2016-11-04 14:49:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6398"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - stebo101
 highlights:
  - photos
 

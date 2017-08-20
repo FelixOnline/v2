@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emilie Beauchamp introduces you to an evening of cutting edge video art
 date: "2012-10-18 20:57:50 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2685"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felart
  - felix
 highlights:
  - photos

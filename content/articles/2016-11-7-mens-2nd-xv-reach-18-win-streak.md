@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anthony Featherstone reports from the field
 date: "2016-11-07 13:16:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6405"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ajf14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Delicate, lyrical, and moving; Anatomy of a Suicide is a theatrical experience
 date: "2017-06-15 15:32:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7025"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - vaishnavignanana
 highlights:
 
 # Homepage control params

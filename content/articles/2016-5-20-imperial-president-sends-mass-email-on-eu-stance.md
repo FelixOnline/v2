@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Email said "it is not our role to tell people how to vote" but mentioned pro-EU position
 date: "2016-05-20 08:43:13 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6169"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

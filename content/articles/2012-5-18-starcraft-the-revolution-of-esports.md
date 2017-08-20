@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Yang discusses why Starcraft has become such a phenomenal success
 date: "2012-05-18 16:01:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2473"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cxy10
  - felix
 highlights:
  - longread

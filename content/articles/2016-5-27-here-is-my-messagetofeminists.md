@@ -4,7 +4,6 @@ title: >
 subtitle: >
   'Social justice warriors' would do well to listen to their own sermon of tolerance
 date: "2016-05-27 08:46:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6202"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - at3515
 highlights:
  - comment
 

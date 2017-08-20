@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Never Let Me Go reviewed
 date: "2011-02-11 06:22:51 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "799"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - ks607
 highlights:
 

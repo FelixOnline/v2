@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dismay over handling of tuition fees rise forces Aaron Porter out
 date: "2011-02-27 12:15:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "899"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - klb09
 highlights:
 
 # Homepage control params

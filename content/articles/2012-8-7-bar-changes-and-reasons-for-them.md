@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stefan Nubert, Deputy President (Finance & Services) explains the changes and reasons for them.
 date: "2012-08-07 20:04:24 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2590"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - san03
  - sjw209
 highlights:
  - comment

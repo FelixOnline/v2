@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "The press release promised a man bursting through walls at full throttle, and pairs of elegant swimmers hanging just on top of the audience’s head"
 date: "2013-01-10 22:38:26 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3091"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - eb1408
 highlights:
 
 # Homepage control params

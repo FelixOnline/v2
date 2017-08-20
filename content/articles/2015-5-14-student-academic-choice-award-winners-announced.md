@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah finds out which staff get the student’s vote
 date: "2015-05-14 22:32:33 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5522"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - cj914
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Blake just makes me want to RGB
 date: "2011-12-01 21:09:34 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1882"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kc1210
  - pk1811
 highlights:
 

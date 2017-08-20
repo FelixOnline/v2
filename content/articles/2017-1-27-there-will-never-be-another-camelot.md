@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chilean director Pablo Larraín makes his English-language debut with Jackie, a simmering biopic of first lady Jackie Kennedy, played masterfully by Natalie Portman, in the days following her husband’s assassination
 date: "2017-01-27 16:44:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6695"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jm5014
 highlights:
  - comment
 

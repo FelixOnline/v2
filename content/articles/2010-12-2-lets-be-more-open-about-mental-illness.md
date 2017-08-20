@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katherine Bettany and Lizzie Crouch on the stigmas often attached to mental illness
 date: "2010-12-02 21:36:15 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "492"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - ec610
  - jk708
+ - klb09
 highlights:
  - comment
  - longread

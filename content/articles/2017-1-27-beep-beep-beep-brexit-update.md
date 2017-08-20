@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More optimistic than you getting a 2:1 degree?
 date: "2017-01-27 14:19:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6684"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

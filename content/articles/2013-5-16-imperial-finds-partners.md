@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Top research powerhouses form new consortium
 date: "2013-05-16 20:41:29 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3590"

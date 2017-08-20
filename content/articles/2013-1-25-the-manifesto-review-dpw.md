@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) dusts the cobwebs off the campaign material and sees what she thinks she has and hasn’t done
 date: "2013-01-25 01:59:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3190"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dpwel
  - tna08
 highlights:
  - comment

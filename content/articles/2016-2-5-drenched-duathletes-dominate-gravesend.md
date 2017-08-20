@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The formation of a “small lake” on the track didn’t stop Imperial Triathalon Club
 date: "2016-02-05 12:57:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5890"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sj3212
 highlights:
  - comment
 

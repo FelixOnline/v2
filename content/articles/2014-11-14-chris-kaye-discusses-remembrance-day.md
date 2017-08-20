@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Kaye reflects on this year's centenary of the end of The Great War
 date: "2014-11-14 19:55:16 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4859"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ck1510
  - ps3110
 highlights:
  - comment

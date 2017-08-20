@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Leading rheumatology research centre moves to Oxford University
 date: "2011-01-20 21:30:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "647"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - dr710
  - felix
+ - yw3410
 highlights:
 
 # Homepage control params

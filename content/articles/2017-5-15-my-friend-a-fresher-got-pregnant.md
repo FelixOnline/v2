@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I’d never had to think about my views on reproductive rights before
 date: "2017-05-15 17:41:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6967"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aib116
 highlights:
  - comment
 

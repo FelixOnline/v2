@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joachim H. G. Steinke died suddenly last Tuesday
 date: "2013-01-17 23:42:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3117"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

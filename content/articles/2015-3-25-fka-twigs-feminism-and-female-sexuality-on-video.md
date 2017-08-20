@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles compares the different approaches FKA twigs and Sia take when it comes to their controlling their public image in music videos
 date: "2015-03-25 12:21:15 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5428"

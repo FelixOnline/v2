@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mikill Pane headlines as Imperial's music scene comes to the fore
 date: "2011-10-28 10:30:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1637"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - felix
+ - im808
+ - ks607
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In 2003, the Human Genome Project was declared complete. At a cost of around $3 billion and taking 13 years, for the first time we had a sequence of around 99% of the human genome.
 date: "2014-01-31 17:37:29 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4317"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - cy1211
  - jal08
 highlights:
 

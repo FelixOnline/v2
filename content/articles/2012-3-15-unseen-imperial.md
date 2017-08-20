@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2384"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - pk1811
 highlights:
  - comment

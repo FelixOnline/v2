@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken covers the Government’s Agenda
 date: "2015-05-29 00:26:02 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5571"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - jr2514
 highlights:
 
 # Homepage control params

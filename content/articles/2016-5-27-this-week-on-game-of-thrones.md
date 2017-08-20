@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-27 09:04:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6220"
@@ -21,7 +20,7 @@ tags:
  - tv
  - imported
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We weren’t allowed to print this picture we drew as part of last term’s election coverage as the union said it endorsed one of the candidates
 date: "2016-04-29 10:06:02 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6089"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Food in gaming as you've never seen it before
 date: "2017-02-03 17:34:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6733"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

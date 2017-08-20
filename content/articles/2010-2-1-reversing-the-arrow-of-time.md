@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Forgotten what happened last night? Now you know why
 date: "2010-02-01 16:49:40 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "61"

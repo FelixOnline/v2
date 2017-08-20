@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another week, another documentary. This time it's one looking at the burgeoning indie gaming market
 date: "2015-11-29 16:24:24 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5779"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bsc14
  - ff712
 highlights:
  - comment

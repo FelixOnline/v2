@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Latest episode demonstrates how not to tackle a rape storyline
 date: "2013-10-12 19:18:36 +0100"
-author_id: "ef510"
 
 # Attributes from Felix Online V1
 id: "3851"

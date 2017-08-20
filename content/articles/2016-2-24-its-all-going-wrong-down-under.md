@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Smuggler is more high-brow than its subject matter suggests
 date: "2016-02-24 18:38:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5953"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
 
 # Homepage control params

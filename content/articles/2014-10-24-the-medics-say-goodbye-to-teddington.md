@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The final day of sporting events at Teddington Sports ground took place last on Saturday, 18th October
 date: "2014-10-24 12:57:07 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4749"

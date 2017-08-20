@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Novel technique uses liquid carbon to create electricity
 date: "2011-06-16 19:57:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1387"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ch1810
  - felix
 highlights:
  - comment

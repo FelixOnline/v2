@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The government has announced that it will be cutting £946 million from its annual grant to English Higher Education Institutions.
 date: "2014-02-14 05:04:47 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4379"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - mtm10
  - snb11
 highlights:
 

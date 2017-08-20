@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Furse explores the delights of this special treat
 date: "2011-03-21 10:55:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1119"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

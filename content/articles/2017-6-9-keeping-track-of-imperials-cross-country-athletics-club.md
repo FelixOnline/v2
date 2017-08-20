@@ -4,7 +4,6 @@ title: >
 subtitle: >
   if you're gonna follow them tho get a golf cart or something 'cos they're fast
 date: "2017-06-09 15:42:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7022"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
+ - fergusjohnson
 highlights:
  - photos
 

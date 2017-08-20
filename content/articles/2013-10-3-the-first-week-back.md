@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A few words from the Editor-in-Chief
 date: "2013-10-03 23:02:54 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3795"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

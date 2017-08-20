@@ -4,7 +4,6 @@ title: >
 subtitle: >
   LEDs are not just for TVs it seems
 date: "2013-02-07 22:35:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3242"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - tna08
 highlights:
  - comment

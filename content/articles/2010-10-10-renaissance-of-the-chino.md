@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The erstwhile rather bland staple of everyday menswear is currently enjoying a welcome return to James Dean cool
 date: "2010-10-10 15:41:29 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "193"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - stv07
 highlights:
  - comment
 

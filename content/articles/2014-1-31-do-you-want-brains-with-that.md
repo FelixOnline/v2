@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anand Jagatia takes a look at prions, the bad behaving proteins
 date: "2014-01-31 17:38:56 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4318"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - arj212
  - jal08
 highlights:
 

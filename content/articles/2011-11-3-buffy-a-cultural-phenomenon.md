@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Move over Edward, there's a proper vampire in town
 date: "2011-11-03 20:34:48 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1669"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lp707
  - pk1811
 highlights:
 

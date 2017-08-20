@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Yat Kit Chung gives you breakfast and dinner ideas
 date: "2013-02-13 14:24:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3302"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felfood
  - tna08
 highlights:
 

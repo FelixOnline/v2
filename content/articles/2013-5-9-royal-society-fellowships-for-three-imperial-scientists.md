@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not quite the same as the Fellowship of the Ring... Probably.
 date: "2013-05-09 12:07:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3558"

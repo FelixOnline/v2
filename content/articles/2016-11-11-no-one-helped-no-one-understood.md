@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An anonymous student shares their story of the damage done by misconceptions about consent
 date: "2016-11-11 14:00:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6424"
@@ -21,7 +20,7 @@ tags:
  - comment
  - imported
 authors:
- - felix
+ - icanon
 highlights:
 
 # Homepage control params

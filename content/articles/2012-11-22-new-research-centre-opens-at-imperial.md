@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second of its kind.
 date: "2012-11-22 22:35:13 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2930"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

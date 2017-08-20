@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £235 per week for a room at Griffon Studios
 date: "2011-01-13 21:47:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "596"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

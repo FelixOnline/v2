@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An all too brief discussion of the NSS
 date: "2012-10-18 21:37:29 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2716"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

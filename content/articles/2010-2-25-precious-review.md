@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jade Hoffman takes a look at the the emotionally harrowing film Precious
 date: "2010-02-25 15:44:14 +0000"
-author_id: "ffilm"
 
 # Attributes from Felix Online V1
 id: "100"

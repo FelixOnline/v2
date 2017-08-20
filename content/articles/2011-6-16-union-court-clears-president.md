@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Complaint that Kendall intimidated student not upheld
 date: "2011-06-16 19:00:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1379"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

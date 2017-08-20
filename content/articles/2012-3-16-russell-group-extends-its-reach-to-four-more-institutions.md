@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Durham, Exeter, Queen Mary and York join Imperial
 date: "2012-03-16 01:54:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2403"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mc4509
 highlights:
  - comment
 

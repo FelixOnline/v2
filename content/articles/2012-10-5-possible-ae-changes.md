@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charing Cross likely to close. Waiting times questioned
 date: "2012-10-05 15:52:02 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2632"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Danza Contemporánea de Cuba was on at the Barbican on the 23rd February
 date: "2017-03-03 15:20:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6846"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - scc114
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam looks at the Whistle Blower's best friend and govrnmental enemy
 date: "2010-06-16 19:49:04 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "147"

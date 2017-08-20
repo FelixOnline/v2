@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One exam set late in the night followed by one in the morning
 date: "2013-01-17 23:40:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3116"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nj1211
  - tna08
 highlights:
  - comment

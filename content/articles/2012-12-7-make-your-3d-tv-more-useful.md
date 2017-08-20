@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua checks out LG’s amazing new dual vision 3D TV
 date: "2012-12-07 02:53:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3056"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ywc110
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ken Lo takes a look at SIM-only tarifs, saving you a decent chunk of change on your phone bill
 date: "2010-03-04 12:59:25 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "119"

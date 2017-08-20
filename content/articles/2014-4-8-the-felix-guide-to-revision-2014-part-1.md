@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix breaks the exam panic with some useful revision tips!
 date: "2014-04-08 13:52:16 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4531"

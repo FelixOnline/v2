@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s that time of year again – Valentine’s day. For me it's spent watching films, and drinking cheap cava, which on any other day would be perfectly acceptable behaviour (right?) but on this particular one comes across as a bit sad. Therefore, I volunteered to test-drive the app of the day, Tinder
 date: "2014-02-14 18:37:43 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4383"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - ah4010
  - jal08
 highlights:
  - longread

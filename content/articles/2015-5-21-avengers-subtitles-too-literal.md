@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman reports on the dodgy translations of the recent Avengers film
 date: "2015-05-21 23:22:05 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5558"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - js5913
 highlights:
  - comment
 

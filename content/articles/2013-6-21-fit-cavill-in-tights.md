@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Man of Steel Review
 date: "2013-06-21 00:21:55 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3731"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

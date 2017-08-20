@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Anonymous explores a secret operatic world previously out of reach
 date: "2015-03-25 12:43:04 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5435"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - icanon
 highlights:
  - comment
  - longread

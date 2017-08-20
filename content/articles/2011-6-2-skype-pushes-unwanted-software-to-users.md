@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Online phone service say that program 'neither installs nor un-installs correctly'
 date: "2011-06-02 18:44:36 +0100"
-author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1301"

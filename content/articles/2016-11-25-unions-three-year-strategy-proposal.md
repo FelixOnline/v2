@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hopefully they’ve got 2020 vision
 date: "2016-11-25 13:20:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6493"
@@ -21,7 +20,7 @@ tags:
  - news
  - imported
 authors:
- - felix
+ - mjj15
 highlights:
 
 # Homepage control params

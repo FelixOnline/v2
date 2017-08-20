@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I was diagnosed with clinical depression when I was 17. For me, the diagnosis helped. It helped to give a name to the bizarre way that I had been feeling for over a year.
 date: "2013-11-24 15:52:27 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4101"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - extuser0
  - jal08
 highlights:
  - longread

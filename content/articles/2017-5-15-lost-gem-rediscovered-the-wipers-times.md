@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Wipers Times is at the Arts Theatre until the 13th May and will tour the UK for the remainder of 2017
 date: "2017-05-15 16:19:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6951"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jmw216
 highlights:
 
 # Homepage control params

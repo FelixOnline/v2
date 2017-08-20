@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Julia Spindel chats to the band in the first of an interview double team
 date: "2013-05-08 20:22:57 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3553"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jms411
  - tna08
 highlights:
 

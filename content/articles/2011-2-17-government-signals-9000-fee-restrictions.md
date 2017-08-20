@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial will have to jump through a number of hoops in order to charge students £9,000
 date: "2011-02-17 19:15:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "814"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gp1510
 highlights:
 
 # Homepage control params

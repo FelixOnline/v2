@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle is on hand as College win close encounter in Women's match at The Stoop.
 date: "2015-03-19 23:41:39 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5405"

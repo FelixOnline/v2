@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Collaboration between the big dawgs in London
 date: "2013-06-13 23:10:21 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3690"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - tna08
 highlights:
 

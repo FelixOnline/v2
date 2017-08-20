@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-01-29 16:44:02 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4308"

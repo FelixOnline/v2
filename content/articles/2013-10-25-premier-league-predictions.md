@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James White's first column on football, bringing you predictions about this week's matches.
 date: "2013-10-25 01:22:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3955"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jpw12
 highlights:
 
 # Homepage control params

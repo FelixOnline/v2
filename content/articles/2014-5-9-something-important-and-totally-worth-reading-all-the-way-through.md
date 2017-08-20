@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sometimes, there are really busy weeks, and sometimes there are quiet weeks.
 date: "2014-05-09 02:11:59 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4576"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

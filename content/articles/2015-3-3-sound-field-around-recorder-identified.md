@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The complicated physics behind a rather simple instrument
 date: "2015-03-03 15:03:13 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5330"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb3112
  - ps3110
 highlights:
 

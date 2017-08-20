@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles finds that the bravado of The Motherfucker with the Hat hides subtler themes
 date: "2015-06-20 16:25:58 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5646"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Recent graduate Vivien Tang introduces you to Clotho and the ups and downs of being an entrepreneur
 date: "2015-01-16 15:45:38 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5103"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - vtang
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Numinous Games’ debut adventure is great, but you probably shouldn’t play it
 date: "2016-01-29 10:05:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5858"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

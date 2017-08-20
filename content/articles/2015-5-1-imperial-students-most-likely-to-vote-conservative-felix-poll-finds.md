@@ -4,7 +4,6 @@ title: >
 subtitle: >
   35% of students will be voting Conservative next week, whilst another 30% will be choosing Labour
 date: "2015-05-01 00:09:01 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5477"

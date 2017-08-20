@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Elizabeth Riach evaluates the future of Australia’s biggest attraction
 date: "2016-12-02 14:04:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6530"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

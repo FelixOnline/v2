@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken reviews Suits, currently on its fourth season
 date: "2015-03-03 14:54:45 +0000"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5327"

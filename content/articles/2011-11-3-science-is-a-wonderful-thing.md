@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...if one does not have to earn one’s living at it”. Carys Cook discusses some of the difficulties facing early career scientists
 date: "2011-11-03 19:44:31 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1654"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - pk1811
 highlights:
 

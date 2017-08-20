@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "633"
@@ -26,6 +25,9 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
+ - skd09
+ - za710
 highlights:
  - comment
  - longread

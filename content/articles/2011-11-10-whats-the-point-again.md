@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It seems to be possibly slightly pointless, but it is still somehow enjoyable
 date: "2011-11-10 20:39:37 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1717"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - felix
  - pk1811
 highlights:
 

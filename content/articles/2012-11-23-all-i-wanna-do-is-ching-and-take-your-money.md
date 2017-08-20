@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should pay for our own education – and our parents should have paid for theirs
 date: "2012-11-23 00:01:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2954"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - tna08
 highlights:
  - comment

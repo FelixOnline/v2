@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Russell S. Lande receives prestigious prize
 date: "2010-11-18 21:54:00 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "414"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - jk708
 highlights:
 

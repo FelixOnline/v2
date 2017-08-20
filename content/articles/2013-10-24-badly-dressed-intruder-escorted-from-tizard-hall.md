@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A red jacket-wearing visitor is escorted from Tizard Hall.
 date: "2013-10-24 23:31:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3909"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ar3310
  - felix
 highlights:
 

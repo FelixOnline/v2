@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pinheads like bowling... Jessica Chan reports on their latest exploits
 date: "2012-12-07 03:08:38 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3061"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jc3108
  - tna08
 highlights:
  - comment

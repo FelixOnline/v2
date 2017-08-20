@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students pay £1000 more than privately renting a room. College responds to questions over the price. Wardening and renting rooms from company highlighted.
 date: "2013-03-01 01:03:36 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3415"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

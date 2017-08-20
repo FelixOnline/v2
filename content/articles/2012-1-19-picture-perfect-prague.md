@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dushi Arumuganesan sees in the New Year in the buzzing Czech capital
 date: "2012-01-19 20:07:48 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2006"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - da2309
 highlights:
  - photos
 

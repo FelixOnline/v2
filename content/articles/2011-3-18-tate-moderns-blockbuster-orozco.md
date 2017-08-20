@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rocío Molina Atienza asks whether this high-class freak show is more than the art of drawing crowds
 date: "2011-03-18 08:39:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1114"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rm2410
 highlights:
  - comment
  - photos

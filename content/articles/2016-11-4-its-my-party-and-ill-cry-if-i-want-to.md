@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lef Apostolakis responds to Aayush’s response (left)
 date: "2016-11-04 14:23:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6391"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New students head towards Eastbourne
 date: "2011-10-13 23:29:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1524"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - se08
 highlights:
 
 # Homepage control params

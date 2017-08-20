@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite our unshakeable reputation for being nerds that goes hand in hand with the whole “science” thing, there are probably way more sports fans here than you think
 date: "2011-02-28 20:32:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "929"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ial08
 highlights:
 
 # Homepage control params

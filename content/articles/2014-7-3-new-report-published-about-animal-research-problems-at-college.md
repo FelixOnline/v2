@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "Pattern of infringements that reflected underlying systemic failings" at College according to a new report published by the Animals in Science Committee
 date: "2014-07-03 10:40:20 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4718"

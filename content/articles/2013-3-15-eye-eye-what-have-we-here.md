@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eyes in the back of your head? More likely than you think explains Alexandra Easter
 date: "2013-03-15 01:08:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3470"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - aae10
  - tna08
 highlights:
 

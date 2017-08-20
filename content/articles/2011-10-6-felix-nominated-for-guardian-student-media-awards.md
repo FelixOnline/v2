@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Newspaper on the shortlist for student publication of the year
 date: "2011-10-06 23:08:14 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1465"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
 highlights:
 

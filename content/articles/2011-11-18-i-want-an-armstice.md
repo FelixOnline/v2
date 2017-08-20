@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We have a new generation of mourners
 date: "2011-11-18 00:32:21 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1798"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - sf305
  - sjw209
 highlights:
  - comment

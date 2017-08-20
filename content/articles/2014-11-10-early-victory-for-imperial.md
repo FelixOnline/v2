@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Cross Country and Athletics Club take on other London Colleges and come out on top
 date: "2014-11-10 22:01:21 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4834"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - md2610
  - ps3110
 highlights:
  - comment

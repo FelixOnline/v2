@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Tsim tasted one and had a chat with the CEO of Wafflemeister! Read further for IC student deal!
 date: "2013-11-24 16:39:59 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4131"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jt2010
 highlights:
 
 # Homepage control params

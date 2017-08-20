@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New anti-psychotic drugs in pipeline
 date: "2010-11-25 20:08:42 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "426"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jeg07
  - nm1010
 highlights:
  - comment

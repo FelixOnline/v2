@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nathaniel Gallop on why losing control in US Politics can be good
 date: "2014-11-06 18:40:09 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4765"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ng611
  - ps3110
 highlights:
  - comment

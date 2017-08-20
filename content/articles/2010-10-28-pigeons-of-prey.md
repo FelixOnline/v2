@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The next threat to British security could be coming from closer to home than you think...
 date: "2010-10-28 19:46:44 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "277"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Kids are All Right, but what about everyone else?
 date: "2010-11-04 18:17:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "294"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

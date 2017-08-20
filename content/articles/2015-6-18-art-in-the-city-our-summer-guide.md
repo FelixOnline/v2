@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Arts presents our cultural guide of what’s on this summer
 date: "2015-06-18 22:02:17 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5639"
@@ -21,7 +20,9 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - jyg11
+ - km2612
 highlights:
  - longread
 

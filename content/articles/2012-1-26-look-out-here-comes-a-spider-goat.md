@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Breeding creatures that are part goat part spider.
 date: "2012-01-26 21:53:47 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2047"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - edh11
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam investigates whether you can really trust Facebook
 date: "2010-05-21 12:15:12 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "139"

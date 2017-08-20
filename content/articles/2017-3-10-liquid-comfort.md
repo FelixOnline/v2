@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The penicillin for all woes, we couldn’t leave booze out of the comfort equation, especially when it makes you feel so damn good. We’ve taken a range of scenarios that we found ourselves in over the last few weeks and developed extensively tested cures. Don’t worry, alcohol free options are availabl
 date: "2017-03-10 14:00:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6879"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

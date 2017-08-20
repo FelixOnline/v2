@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charity fundraiser helps out HIV victims in Southern Africa
 date: "2010-02-25 18:39:48 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "103"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rajvinder Virdee comments on some of the political and social ramifications of the sale of Northern Rock plc to Richard Branson’s Virgin Money
 date: "2011-11-24 20:19:05 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1803"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - rv108
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mo Mirza gets within touching distance of Kurt Vile in Camden
 date: "2013-05-23 22:19:48 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3615"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mum09
  - tna08
 highlights:
 

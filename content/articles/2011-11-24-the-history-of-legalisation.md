@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dutch citizens to have restrictions placed on smoking activities
 date: "2011-11-24 22:18:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1831"
@@ -21,7 +20,9 @@ tags:
  - news
  - imported
 authors:
+ - ar3310
  - felix
+ - ma1307
 highlights:
 
 # Homepage control params

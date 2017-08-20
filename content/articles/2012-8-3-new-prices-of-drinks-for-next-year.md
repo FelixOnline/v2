@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union to announce exact prices and drinks on offer later on in the summer
 date: "2012-08-03 11:47:26 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2588"

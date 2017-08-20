@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What grants and loans are medical students entitled to?
 date: "2015-01-29 23:55:41 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5157"

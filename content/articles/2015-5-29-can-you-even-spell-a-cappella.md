@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson enjoys the return of the Bellas in Pitch Perfect 2
 date: "2015-05-29 10:54:26 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5584"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - em2512
  - js5913
 highlights:
  - comment

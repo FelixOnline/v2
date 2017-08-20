@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ...the Holocaust can in no way be compared with the situation in Gaza
 date: "2010-02-12 02:07:10 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "87"

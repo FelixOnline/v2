@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An always tense topic. Like discussing what Bond is the best. But not like that at all...
 date: "2012-11-01 22:18:49 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2780"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - mc4509
 highlights:
 

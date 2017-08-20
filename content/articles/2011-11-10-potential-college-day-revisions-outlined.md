@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Working Party recommends extended teaching hours for humanities
 date: "2011-11-10 19:46:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1705"
@@ -22,6 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - dr710
+ - felix
+ - mtm10
  - pk1811
 highlights:
 

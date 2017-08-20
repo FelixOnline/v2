@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From heartthrob to heartwarmer
 date: "2012-01-26 22:15:41 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2055"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - jgp09
 highlights:
 
 # Homepage control params

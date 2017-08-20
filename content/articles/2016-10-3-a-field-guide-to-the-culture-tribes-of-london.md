@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get spotting
 date: "2016-10-03 19:56:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6308"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ff712
 highlights:
  - longread
  - photos

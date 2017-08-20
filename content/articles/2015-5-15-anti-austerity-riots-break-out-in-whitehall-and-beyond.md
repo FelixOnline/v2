@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken on the protests across the country, and how the biggest are yet to come
 date: "2015-05-15 12:38:26 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5534"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - jr2514
 highlights:
  - comment
 

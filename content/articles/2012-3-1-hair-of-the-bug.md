@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Robert Treasure discusses how fruit flies use alcohol as a defensive tactic
 date: "2012-03-01 21:31:37 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2276"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - rt1810
 highlights:
  - photos
 

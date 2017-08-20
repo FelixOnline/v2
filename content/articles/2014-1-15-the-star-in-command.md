@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Khurram Liaqat, Writer at the BallGum Blog reviews one of the most anticipated kickstarter games for mobiles
 date: "2014-01-15 16:32:31 +0000"
-author_id: "ir112"
 
 # Attributes from Felix Online V1
 id: "4214"

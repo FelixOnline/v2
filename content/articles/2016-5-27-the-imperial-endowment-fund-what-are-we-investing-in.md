@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We take a closer look at where Imperial is putting its cash
 date: "2016-05-27 08:43:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6201"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ygr12
 highlights:
 
 # Homepage control params

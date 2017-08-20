@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exhibition Road Project opposed by charities
 date: "2010-01-21 22:16:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "45"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rsp07
 highlights:
 
 # Homepage control params

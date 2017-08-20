@@ -4,7 +4,6 @@ title: >
 subtitle: >
   British firm may be able to turn spaceplane dream into reality
 date: "2011-06-23 19:23:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1415"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ap1509
  - felix
 highlights:
  - comment

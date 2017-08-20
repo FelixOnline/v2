@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New insights into mysterious black holes
 date: "2012-02-23 20:46:05 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2244"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - pd111
 highlights:
 
 # Homepage control params

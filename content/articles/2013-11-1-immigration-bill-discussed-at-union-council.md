@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Government Immigration Bill deemed to have possible impact on international students
 date: "2013-11-01 09:09:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3965"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

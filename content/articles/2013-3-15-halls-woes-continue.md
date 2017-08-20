@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Garden Hall petition has over 1,100 supporters Management Board to meet on 20th March Cost of Evelyn Gardens refurbishment reportedly £10m for 33 years College to answer students’ questions after Management Board meeting
 date: "2013-03-15 00:37:28 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3463"

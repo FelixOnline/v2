@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mercury fallout in the atmosphere could be linked to melting ice in the Arctic Ocean
 date: "2012-03-08 20:10:46 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2312"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - cc1109
 highlights:
 
 # Homepage control params

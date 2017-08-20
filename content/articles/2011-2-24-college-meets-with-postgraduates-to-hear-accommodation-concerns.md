@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Graduate Students' Association to launch wider survey
 date: "2011-02-24 20:03:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "876"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - hcd08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a post-Harambe world, should we still be paying to see animals in captivity?
 date: "2016-06-10 08:29:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6259"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks keeps you up to speed with the elections from anywhere but the US
 date: "2012-11-15 22:11:01 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2910"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mh3210
  - tna08
 highlights:
  - comment

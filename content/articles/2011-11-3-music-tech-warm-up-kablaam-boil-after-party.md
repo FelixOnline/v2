@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto on the glorification of the vibe selector and Imperial’s musical exploits
 date: "2011-11-03 20:50:10 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1675"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - im808
  - pk1811
 highlights:
 

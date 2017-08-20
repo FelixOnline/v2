@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students (both past and present) and staff are called upon to give their views on the educational and student experience
 date: "2013-01-31 22:50:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3200"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix gives you the low-down on where to eat on campus...
 date: "2013-09-27 23:30:30 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3764"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - extuser0
  - jal08
 highlights:
 

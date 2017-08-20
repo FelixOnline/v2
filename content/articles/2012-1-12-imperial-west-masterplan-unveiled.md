@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Proposals include 34-storey residential tower to be built at Wood Lane
 date: "2012-01-12 22:32:19 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "1985"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - mc4509
 highlights:
  - comment

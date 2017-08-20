@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix's Deputy Editor on the perils of the Comment section
 date: "2011-11-17 22:14:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1792"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “I’ve never even kissed a Tory, why should I be fucked by one?”
 date: "2012-10-26 02:14:51 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2737"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - klh110
  - tna08
 highlights:
 

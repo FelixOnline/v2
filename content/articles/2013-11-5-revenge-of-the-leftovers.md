@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cloudy with a Chance of Meatballs 2 Directors: Cody Cameron, Kris Pearn Writers: Judi Barrett, Ron Barrett, John Francis Daley, Jonathan M. Goldstein, Phil Lord, Chris Miller, Erica Rivinoja Starring: (voices) Bill Hader, Anna Faris, James Caan, Will Forte, Andy Samberg, Benjamin Bratt, Neil Patric
 date: "2013-11-05 09:41:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3998"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - js5913
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial discDoctors swan through nationals
 date: "2016-05-06 10:22:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6138"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ajf14
+ - ljr12
 highlights:
  - comment
 

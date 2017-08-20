@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President says teaching review should be dealing with effects of restructure
 date: "2011-02-24 19:46:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "869"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mc4509
 highlights:
 
 # Homepage control params

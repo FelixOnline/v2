@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An interesting night for all its ups and downs
 date: "2012-03-15 21:30:50 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2385"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - me1409
 highlights:
 
 # Homepage control params

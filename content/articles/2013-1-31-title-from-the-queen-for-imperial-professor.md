@@ -4,7 +4,6 @@ title: >
 subtitle: >
   One of only twelve in the UK
 date: "2013-01-31 22:34:04 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3198"

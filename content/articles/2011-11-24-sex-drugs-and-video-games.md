@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Voxel-based morphometry, left ventral striatum volume and adaptive neural plasticity; Sam Horti breaks down some of the science behind video game addiction
 date: "2011-11-24 20:55:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1809"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sph109
 highlights:
  - longread
 

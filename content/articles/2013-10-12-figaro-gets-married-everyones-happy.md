@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola on the Marriage of Figaro at the Royal Opera House
 date: "2013-10-12 00:06:18 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3835"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - jal08
 highlights:
 

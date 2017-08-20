@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson knocks back a couple of glasses in Chile’s stunning wine region
 date: "2015-06-01 17:38:18 +0100"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5593"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - ync111
 highlights:
  - comment

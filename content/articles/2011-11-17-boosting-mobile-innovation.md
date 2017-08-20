@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kin-Hing Lo explores the revolutionary impact of mobile proliferation on our lives
 date: "2011-11-17 21:41:25 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1783"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kl208
  - pk1811
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why bother writing an article about free speech today in Britain?
 date: "2014-11-06 18:58:24 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4771"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ecw12
  - snb11
 highlights:
 

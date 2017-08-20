@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Human management of European forests to mitigate climate change could be counterintuitive
 date: "2016-02-12 11:29:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5903"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
 
 # Homepage control params

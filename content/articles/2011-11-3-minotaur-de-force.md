@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Old Vic Tunnels makes for a modern day take of the mythical labyrinth – complete with bistro
 date: "2011-11-03 22:04:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1698"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cdd09
  - felix
 highlights:
 

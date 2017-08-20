@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Grace Rahman reflects on Madame JoJo’s rich past and uncertain future
 date: "2014-12-04 19:21:24 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4996"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ygr12
 highlights:
  - comment
 

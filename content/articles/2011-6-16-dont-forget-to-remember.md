@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We are a thousand conversations. If we couldn’t remember them, who would we be?
 date: "2011-06-16 20:32:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1394"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rjd08
 highlights:
 
 # Homepage control params

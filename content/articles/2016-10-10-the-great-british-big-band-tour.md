@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Great weather, great places, great gigs!
 date: "2016-10-10 12:06:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6318"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - catfelix
  - felix
+ - is000
 highlights:
  - photos
 

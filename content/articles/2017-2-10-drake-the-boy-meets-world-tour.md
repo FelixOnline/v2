@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Enjoy Andy Djaba's rant on his love-hate relationship with Drake
 date: "2017-02-10 15:25:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6763"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - andydjaba
 highlights:
  - comment
 

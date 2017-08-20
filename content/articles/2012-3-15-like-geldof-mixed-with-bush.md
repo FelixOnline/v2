@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton argues Kony 2012 is not just stupid – it sets a dangerous precedent
 date: "2012-03-15 19:44:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2347"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topics that are not openly discussed
 date: "2012-05-10 19:59:29 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2437"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - pk1811
 highlights:
  - comment

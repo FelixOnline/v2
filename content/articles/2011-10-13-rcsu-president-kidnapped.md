@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RAG strike at heart of faculty union in the name of charity
 date: "2011-10-13 20:51:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1504"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katherine Rutherford invites you to join Eva Moon
 date: "2013-05-16 18:46:27 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3585"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fcomment
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Wheatley aims high in his take on a towering icon of modern British fiction
 date: "2016-09-05 20:40:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6296"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
  - photos
 

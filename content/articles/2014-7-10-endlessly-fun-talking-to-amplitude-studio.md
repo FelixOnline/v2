@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Felix games team, given the opportunity, wracked the brains of Amplitude Studio's CEO Romain de Waubert de Genlis and Director of Marketing Max Von Knorring to see what their games as well as gaming are all about!
 date: "2014-07-10 16:44:42 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4723"

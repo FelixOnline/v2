@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eight shows to help you burn through time rather than yourself
 date: "2016-06-17 09:33:53 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6285"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

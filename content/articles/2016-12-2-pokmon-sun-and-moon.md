@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pokémon Sun and Moon is out on the Nintendo 3DS
 date: "2016-12-02 15:17:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6542"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

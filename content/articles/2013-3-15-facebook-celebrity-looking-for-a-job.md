@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pedro Pereira interviews Adzuna co-founder Andrew Hunter
 date: "2013-03-15 00:58:18 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3465"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fbusines
  - pk1811
 highlights:
  - comment

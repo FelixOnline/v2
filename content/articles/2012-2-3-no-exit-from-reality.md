@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on music as a futile interrogation of the state of the world
 date: "2012-02-03 11:20:29 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2131"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - im808
  - sjw209
 highlights:
  - comment

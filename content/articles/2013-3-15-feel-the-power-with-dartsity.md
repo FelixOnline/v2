@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Onnnnneeee hundred and eiiiighttttyyyy. Wasn't uttered.
 date: "2013-03-15 01:53:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3481"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - ljb110
  - tna08
 highlights:
 

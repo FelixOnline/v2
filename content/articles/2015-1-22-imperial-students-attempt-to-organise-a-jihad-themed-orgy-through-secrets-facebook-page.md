@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More highbrow reporting from Felix as we find out just what the hell went on
 date: "2015-01-22 16:35:15 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5111"

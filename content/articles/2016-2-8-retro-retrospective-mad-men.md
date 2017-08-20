@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Looking back at one of the finest shows set in the 1960's
 date: "2016-02-08 17:41:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5892"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ad4013
+ - sa8713
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christian Franke lists how to end a dinner on a non-WINE note
 date: "2011-02-17 19:42:56 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "823"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cif110
  - felix
 highlights:
  - comment

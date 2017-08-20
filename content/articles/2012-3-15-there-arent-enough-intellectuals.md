@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Furse on the NHS reform bill
 date: "2012-03-15 21:45:46 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2393"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - ig711
+ - sf305
 highlights:
  - comment
 

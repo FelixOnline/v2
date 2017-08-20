@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We’ve officially launched the sex survey 2015!
 date: "2015-02-02 13:24:30 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5176"

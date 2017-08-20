@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Howitt explains where, how and why clubs get the money they do.
 date: "2015-02-02 14:36:31 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5178"

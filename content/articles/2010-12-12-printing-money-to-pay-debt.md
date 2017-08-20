@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The U.K. need not worry about its deficit
 date: "2010-12-12 14:30:04 +0000"
-author_id: "tm1510"
 
 # Attributes from Felix Online V1
 id: "553"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - TM1510
  - tm1510
 highlights:
  - comment

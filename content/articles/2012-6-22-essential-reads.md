@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Yang’s list of books bound to give you more than just a pick-me-up
 date: "2012-06-22 10:46:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2579"
@@ -21,6 +20,7 @@ tags:
  - fashion
  - imported
 authors:
+ - ay310
  - felix
 highlights:
  - photos

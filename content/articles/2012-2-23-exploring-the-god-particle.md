@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michele Tonutti explores the Large Hadron Collider’s main experiment
 date: "2012-02-23 20:54:06 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2246"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mt3711
 highlights:
 
 # Homepage control params

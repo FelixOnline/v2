@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Staff and students continue to band behind staff bar
 date: "2012-02-03 00:37:52 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2123"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - mc4509
  - sjw209
 highlights:
 

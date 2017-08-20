@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Big Elections for 2014 have started this week at Imperial College. Campaigning started on Monday 3rd March and will continue through till the 14th March and voting opens next week on Friday 7th March and will last one week.
 date: "2014-03-07 04:35:46 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4453"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ar3310
  - jal08
 highlights:
 

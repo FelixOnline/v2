@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl really, really looking forward to these titles
 date: "2015-01-23 18:15:51 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5140"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - me1711
 highlights:
  - comment
 

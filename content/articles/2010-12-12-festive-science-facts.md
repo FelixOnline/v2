@@ -4,7 +4,6 @@ title: >
 subtitle: >
   All the Christmas science you'll need to bore your relatives to death
 date: "2010-12-12 13:55:46 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "551"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jeg07
  - ks607
 highlights:
  - comment

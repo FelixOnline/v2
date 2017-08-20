@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sci-Fi soc tell us about their exciting events
 date: "2014-01-17 04:34:07 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4258"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

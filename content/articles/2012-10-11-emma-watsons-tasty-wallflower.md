@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can Hermione cast off her robes?
 date: "2012-10-11 21:04:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2662"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lw408
 highlights:
 
 # Homepage control params

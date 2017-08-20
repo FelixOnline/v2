@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From bedroom to billions – the social revolution in the second installment of our Facebook saga
 date: "2010-10-14 19:44:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "212"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

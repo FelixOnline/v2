@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust.
 date: "2014-01-24 09:37:03 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4269"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

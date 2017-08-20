@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Bowe thinks everyone should go take a gap year, instead of doing any of this working malarkey
 date: "2011-12-08 22:21:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1955"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - db1308
  - pk1811
 highlights:
 

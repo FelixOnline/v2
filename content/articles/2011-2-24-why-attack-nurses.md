@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Do nurses deserve the brunt?
 date: "2011-02-24 20:31:46 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "891"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - nm1010
+ - sf305
 highlights:
  - photos
 

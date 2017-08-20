@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Letting your hair down for a trim post exam!
 date: "2014-06-12 17:56:55 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4688"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - hkh12
  - me1711
 highlights:
 

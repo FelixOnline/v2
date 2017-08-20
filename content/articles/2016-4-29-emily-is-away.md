@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Itch.io is full of weird and wonderful games
 date: "2016-04-29 10:57:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6107"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

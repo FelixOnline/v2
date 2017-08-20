@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Go! Team bounce around the stage and off each other
 date: "2011-02-24 19:45:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "868"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tj107
 highlights:
 
 # Homepage control params

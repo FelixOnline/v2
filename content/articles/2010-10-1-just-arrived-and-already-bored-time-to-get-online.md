@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our easy guide to getting your console on College internet
 date: "2010-10-01 23:06:45 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "168"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sjw209
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial College above Oxford in QS World Rankings 2013-14
 date: "2013-10-24 23:32:57 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3910"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - nm708
 highlights:
 
 # Homepage control params

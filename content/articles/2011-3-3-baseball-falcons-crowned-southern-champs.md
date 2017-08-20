@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 1st 9 – 8 Southampton 1st
 date: "2011-03-03 21:18:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1023"
@@ -22,7 +21,10 @@ tags:
  - imported
  - image
 authors:
+ - ak1107
  - felix
+ - gbl07
+ - khl107
 highlights:
 
 # Homepage control params

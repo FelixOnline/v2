@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alternative music is like so like mainstream man
 date: "2012-11-29 22:56:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2994"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ra2410
  - tna08
 highlights:
  - comment

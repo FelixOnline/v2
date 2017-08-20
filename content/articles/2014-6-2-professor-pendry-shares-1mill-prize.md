@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial physicist Sir John Pendry was this week announced as joint winner of the $1 Million Kavli prize for his groundbreaking work in optics. Pendry is most famous as the inventor of the world’s first working invisibility cloak, a product of his work on meta materials.
 date: "2014-06-02 12:42:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4638"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rtf08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shirley MacLaine received the American Film Institute's prestigious Life Achievement Award
 date: "2012-06-07 19:48:35 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2533"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ffilm
 highlights:
  - longread
 

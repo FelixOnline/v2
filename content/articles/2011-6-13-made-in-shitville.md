@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The week in television
 date: "2011-06-13 13:33:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1373"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - tvfelix
 highlights:
 
 # Homepage control params

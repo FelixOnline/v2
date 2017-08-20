@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ed Hallett gives his account as Imperial take both first and third place.
 date: "2013-11-15 11:50:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4090"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - eh508
  - jal08
 highlights:
 

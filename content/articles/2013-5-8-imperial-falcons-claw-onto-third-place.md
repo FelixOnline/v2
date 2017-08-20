@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Baseball team put on impressive display, thankfully beating UCL
 date: "2013-05-08 13:29:15 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3546"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - cjc211
  - tna08
 highlights:
 

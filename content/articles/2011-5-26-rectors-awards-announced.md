@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Academics affected by Life Sciences restructure among those recognised for teaching excellence
 date: "2011-05-26 18:32:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1249"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

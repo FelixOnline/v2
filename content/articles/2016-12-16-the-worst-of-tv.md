@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let’s face it, 2016 has been an awful year. To be honest, this section could easily just be ‘The News’. But, the shitiness of reality does not excuse the shitiness of art. So, let’s examine some of the attrocities commited in the name of ‘entertainment’ on the small screen this year.
 date: "2016-12-16 15:09:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6615"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

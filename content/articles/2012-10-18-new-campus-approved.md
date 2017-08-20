@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial West gets planning permission
 date: "2012-10-18 21:44:49 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2720"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtm10
  - tna08
 highlights:
  - comment

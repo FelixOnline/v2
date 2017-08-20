@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The author, historian, and schoolmaster, Sir Anthony Seldon, spoke to Imperial on the subject of mental health
 date: "2016-02-05 12:51:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5886"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ec2212
 highlights:
  - comment
 

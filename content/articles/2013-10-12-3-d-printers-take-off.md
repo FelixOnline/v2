@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Osama Awara, new tech editor, informs you about 3D space printing!
 date: "2013-10-12 19:38:01 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3858"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - oa1612
 highlights:
 
 # Homepage control params

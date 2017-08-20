@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Devang Metha talks about a fascinating multi-layered novel
 date: "2012-11-01 22:59:43 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2803"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - felart
 highlights:
 
 # Homepage control params

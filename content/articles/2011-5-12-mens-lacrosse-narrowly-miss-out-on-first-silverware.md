@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial bested by Leeds in final
 date: "2011-05-12 18:17:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1192"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmt07
  - felix
 highlights:
 

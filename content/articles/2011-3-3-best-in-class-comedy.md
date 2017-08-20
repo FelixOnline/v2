@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucia Podhorksa tells us about Friends, geeks and talk-show psychiatrists
 date: "2011-03-03 06:13:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "985"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lp707
 highlights:
  - longread
 

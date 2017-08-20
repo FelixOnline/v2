@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joanna Taylor underlines the benefits of crowd-sourced funding
 date: "2012-12-07 01:54:10 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3043"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jst310
  - tna08
 highlights:
 

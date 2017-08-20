@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A pivotal day in the history of IC tennis
 date: "2011-02-27 19:50:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "920"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rb207
 highlights:
 
 # Homepage control params

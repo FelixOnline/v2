@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But there’s still one thing I want to know: where’s my jet–pack?
 date: "2011-01-13 21:21:07 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "591"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ks607
+ - rjd08
 highlights:
  - comment
 

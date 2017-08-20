@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An extensive look into Drake's new hot drop
 date: "2017-05-15 16:24:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6953"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - andydjaba
 highlights:
  - longread
 

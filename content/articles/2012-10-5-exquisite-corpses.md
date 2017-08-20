@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal finds beauty beneath the skin
 date: "2012-10-05 11:28:52 +0100"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2595"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - nn1209
 highlights:
  - photos

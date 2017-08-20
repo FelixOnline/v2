@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Shakespeare’s language is universal
 date: "2015-05-27 18:03:09 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5570"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jc7413
  - ps3110
 highlights:
  - comment

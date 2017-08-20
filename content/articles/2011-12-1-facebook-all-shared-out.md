@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam is worn out from all the real news that's appeared on Facebook
 date: "2011-12-01 19:33:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1855"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fa608
  - pk1811
 highlights:
  - comment

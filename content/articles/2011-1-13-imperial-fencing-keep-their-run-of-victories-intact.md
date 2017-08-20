@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Foilists foiled by University of London team
 date: "2011-01-13 20:21:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "579"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - cl3510
  - felix
 highlights:
 

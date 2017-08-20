@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Snowsports punch at their weight, as they are heavyweights. See what I did there?
 date: "2013-03-15 02:08:03 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3485"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - mk3211
+ - rm1711
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's time to pick holes in the Doctor's nebulous, wibbly wobbly, timey-wimey thread
 date: "2011-10-07 12:44:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1493"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
  - photos

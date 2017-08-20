@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hide yo wives! Hide yo kids!
 date: "2016-10-07 17:01:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6312"

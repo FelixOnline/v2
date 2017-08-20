@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New Hilary Swank movie reviewed by John Park
 date: "2010-10-28 19:53:29 +0100"
-author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "281"

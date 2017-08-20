@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg follows 1927's Golem, as it makes its move from the Young Vic to the West End
 date: "2015-05-01 10:13:06 +0100"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5484"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ff712
+ - mff113
 highlights:
 
 # Homepage control params

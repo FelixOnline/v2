@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bees introduced to Imperial’s ‘Secret Garden’
 date: "2011-06-09 21:29:41 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1351"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ci107
  - felix
 highlights:
 

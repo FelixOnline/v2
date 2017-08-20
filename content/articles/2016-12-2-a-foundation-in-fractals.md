@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zofia Strzelecka highlights the wonders and applications of the patterns that make up the universe
 date: "2016-12-02 14:03:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6529"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - zs2512
 highlights:
 
 # Homepage control params

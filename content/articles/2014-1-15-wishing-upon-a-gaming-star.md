@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Endless dosh, what would your Games Editors want?
 date: "2014-01-15 16:18:19 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4210"
@@ -21,6 +20,7 @@ tags:
  - games
  - imported
 authors:
+ - css11
  - me1711
 highlights:
 

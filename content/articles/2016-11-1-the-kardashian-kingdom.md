@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Kardashians have a multi-million dollar empire, a successful TV show, and several influential brands. So why are they so resented?
 date: "2016-11-01 00:07:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6376"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
  - photos
 

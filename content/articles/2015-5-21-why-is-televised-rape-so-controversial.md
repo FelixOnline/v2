@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Game of Thrones doesn’t deserve all the hate, argues Cecily Johnson
 date: "2015-05-21 22:56:54 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5552"

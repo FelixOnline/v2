@@ -4,7 +4,6 @@ title: >
 subtitle: >
   "With performances like this, the 7s are sure to quickly rise up the table."
 date: "2011-12-01 21:24:43 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1891"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - ejl09
 highlights:
  - comment
 

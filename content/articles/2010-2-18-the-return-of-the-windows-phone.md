@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Microsoft is finally back in the modern Smartphone game
 date: "2010-02-18 13:38:31 +0000"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "90"

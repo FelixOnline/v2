@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Masson is impressed by EMA and Zola Jesus
 date: "2011-12-01 21:01:37 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1878"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - sm5810
 highlights:
  - comment
 

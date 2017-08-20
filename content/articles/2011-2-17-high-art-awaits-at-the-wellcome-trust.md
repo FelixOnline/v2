@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rocío Molia Atienza reviews the onging High Art exhibition at Wellcome Gallery
 date: "2011-02-17 18:53:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "807"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rm2410
 highlights:
  - photos
 

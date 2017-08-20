@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There other issues that we should be more concerned about than fee increases, writes Stephen Smith
 date: "2012-01-26 22:58:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2072"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ss10210
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Marie-Laure Hicks on how marketing companies are trying to tap into your brain
 date: "2012-01-19 20:10:18 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2007"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mh3210
  - pk1811
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Beioley reviews the London Climate Forum
 date: "2012-11-29 21:57:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2984"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb3711
  - tna08
 highlights:
  - longread

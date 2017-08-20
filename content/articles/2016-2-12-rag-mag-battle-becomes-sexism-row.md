@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President speaks out as RAG week continues mag-less
 date: "2016-02-12 11:11:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5896"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

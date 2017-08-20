@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ha, semi
 date: "2017-03-10 14:49:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6892"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett on how mice are linking experience to what makes us who we are
 date: "2013-05-16 18:06:33 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3577"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3110
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sit-down formal dinner back on the menu for this year’s event
 date: "2012-02-16 22:08:41 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2209"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mc4509
  - sjw209
 highlights:
  - comment

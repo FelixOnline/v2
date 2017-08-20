@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Music events hitting London the week following October 31st
 date: "2014-11-10 21:53:55 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4830"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ygr12
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lily Le goes on an emotional and interesting journey
 date: "2012-11-15 21:25:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2895"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As an intelligent species, we should recognise that eating meat is not natural
 date: "2016-02-05 11:54:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5865"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ec1715
 highlights:
  - comment
 

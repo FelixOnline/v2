@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix catches up with the City & Guilds Union. We hear what they’ve been getting up to over the last few week and what we can expect for the future.
 date: "2013-11-05 09:49:47 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "4007"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - lc3310
 highlights:
 
 # Homepage control params

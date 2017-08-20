@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katherine Fok gives her account
 date: "2014-03-26 15:11:50 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4507"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - kf409
 highlights:
 
 # Homepage control params

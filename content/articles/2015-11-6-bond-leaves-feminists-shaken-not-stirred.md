@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everything else has been brought into the present, but the portrayal of women is stuck in the past
 date: "2015-11-06 13:42:20 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5700"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - tad08
  - ygr12
 highlights:
  - comment

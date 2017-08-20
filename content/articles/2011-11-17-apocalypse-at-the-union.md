@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto prophesies the End Times with Music Tech
 date: "2011-11-17 21:31:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1779"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - im808
  - pk1811
 highlights:
  - comment

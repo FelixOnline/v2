@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Avengers: Age of Ultron is a worldwide hit, but in China the subtitles are causing issues
 date: "2015-05-14 21:47:27 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5517"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kanye West causes tidal waves with his eighth album
 date: "2016-02-19 12:19:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5942"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bsc14
 highlights:
  - comment
 

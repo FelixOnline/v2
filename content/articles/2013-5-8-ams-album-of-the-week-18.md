@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And So I Watch You From Afar : All Hail Bright Futures
 date: "2013-05-08 20:12:50 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3551"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rnt11
  - tna08
 highlights:
 

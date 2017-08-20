@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Skene learns the differences between GTA and real life
 date: "2013-10-12 23:47:02 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3871"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - css11
  - jal08
 highlights:
  - comment

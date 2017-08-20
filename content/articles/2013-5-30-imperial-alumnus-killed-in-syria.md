@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dr Isa Abdur Rahman killed while helping British charity at a hospital in Syria. His family and friends have paid tribute to him, and a hospital will be built in his honour.
 date: "2013-05-30 14:42:59 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3646"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

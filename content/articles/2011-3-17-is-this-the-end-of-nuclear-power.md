@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The lessons of the past have been learned
 date: "2011-03-17 21:26:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1101"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jal08
+ - rtf08
 highlights:
  - comment
 

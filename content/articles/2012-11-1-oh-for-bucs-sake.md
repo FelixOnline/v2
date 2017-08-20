@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rule changes could have consequences for Imperial sports teams
 date: "2012-11-01 22:11:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2778"

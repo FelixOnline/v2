@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sam Horti takes a look back at one of gaming’s unique classics, Grim Fandango
 date: "2011-12-08 21:25:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1937"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - sph109
 highlights:
  - longread
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Awesome night of Felix-approved music coming to you Union
 date: "2011-01-20 20:04:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "622"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gep07
 highlights:
  - comment
 

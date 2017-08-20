@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Starring: Clint Eastwood, Amy Adams, Justin Timberlake
 date: "2012-11-29 23:03:09 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2999"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - jgp09
 highlights:
 
 # Homepage control params

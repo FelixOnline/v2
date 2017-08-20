@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.
 date: "2014-05-09 01:55:00 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4564"

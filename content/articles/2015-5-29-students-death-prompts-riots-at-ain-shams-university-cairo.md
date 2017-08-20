@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exams cancelled and student union disbands
 date: "2015-05-29 01:13:26 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5581"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nf311
  - ps3110
 highlights:
  - comment

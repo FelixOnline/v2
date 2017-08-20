@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First impressions are probably correct. An introduction to the life of a Graduate Teaching Assistant
 date: "2013-10-11 23:47:39 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3832"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - jal08
 highlights:
  - comment

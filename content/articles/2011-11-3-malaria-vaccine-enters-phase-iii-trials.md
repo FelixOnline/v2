@@ -4,7 +4,6 @@ title: >
 subtitle: >
   GSK announces huge success in African tests
 date: "2011-11-03 19:54:19 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1658"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - skd09
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Ford returns after a seven-year absence with Nocturnal Animals, a luscious, scintillating thriller that shows off his eye for beauty
 date: "2016-11-04 14:15:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6387"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
 
 # Homepage control params

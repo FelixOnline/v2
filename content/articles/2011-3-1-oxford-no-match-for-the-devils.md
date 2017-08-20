@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Devils B’s 4, Oxford Women’s 1. B Team make it a clean sweep for Imperial Ice Hockey
 date: "2011-03-01 21:33:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "973"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - wm207
 highlights:
 
 # Homepage control params

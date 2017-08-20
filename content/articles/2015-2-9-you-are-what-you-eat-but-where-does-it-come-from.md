@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jane Courtnell on the woes of unsustainable agriculture
 date: "2015-02-09 19:30:25 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5222"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jc5412
  - ps3110
 highlights:
  - longread

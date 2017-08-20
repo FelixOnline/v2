@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Ellis documents TriClub’s trials on land, buses, and water in an epic battle against their competitors
 date: "2013-10-12 20:20:35 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3867"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fsport
  - jal08
 highlights:
  - comment

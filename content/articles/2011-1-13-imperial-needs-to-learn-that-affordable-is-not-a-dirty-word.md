@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new postgraduate halls in Clapham Junction are certainly not affordable
 date: "2011-01-13 21:03:47 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "587"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - ks607
 highlights:
 

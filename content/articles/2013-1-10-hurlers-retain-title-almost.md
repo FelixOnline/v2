@@ -4,7 +4,6 @@ title: >
 subtitle: >
   10 Imperial hurlers in Birmingham
 date: "2013-01-10 23:23:27 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3113"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - mc5112
 highlights:
 
 # Homepage control params

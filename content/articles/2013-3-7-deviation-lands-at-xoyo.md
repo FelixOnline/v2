@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter checks out a new residency for the party
 date: "2013-03-07 21:34:04 +0000"
-author_id: "txl11"
 
 # Attributes from Felix Online V1
 id: "3426"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - sh1207
  - txl11
 highlights:
 

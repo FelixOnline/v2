@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Blown away by a legend in the making
 date: "2010-12-09 20:32:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "526"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dmm04
  - felix
 highlights:
 

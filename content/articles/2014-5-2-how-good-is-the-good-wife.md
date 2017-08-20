@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Primetime television shows (i.e. the ones that are not on cable channels and therefore lack sex, nudity, violence and swearing) are often unfairly overlooked when it comes to providing an answer for that question “what’s your favourite tv show”?
 date: "2014-05-02 01:55:32 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4557"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jgp09
 highlights:
  - longread
 

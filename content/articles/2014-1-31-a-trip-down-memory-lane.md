@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Utsav Radia on why and when you stop remembering your early years
 date: "2014-01-31 17:35:29 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4316"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ur13
 highlights:
 
 # Homepage control params

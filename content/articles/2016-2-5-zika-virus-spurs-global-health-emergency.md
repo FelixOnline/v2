@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women should avoid getting pregnant until the end of 2017
 date: "2016-02-05 12:06:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5869"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nms15
 highlights:
 
 # Homepage control params

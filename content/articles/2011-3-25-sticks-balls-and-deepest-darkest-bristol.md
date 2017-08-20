@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riding and Polo heads to the Arena Polo Nationals
 date: "2011-03-25 15:14:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1129"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - as906
  - felix
 highlights:
  - comment

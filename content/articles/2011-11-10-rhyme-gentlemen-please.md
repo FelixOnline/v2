@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix interviews the founder of South Kensington's first poetry night
 date: "2011-11-10 21:34:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1732"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - er310
  - felix
 highlights:
 

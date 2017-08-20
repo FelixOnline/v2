@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s already revolutionised your social life, but where does Facebook go from here?
 date: "2010-10-21 18:56:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "227"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

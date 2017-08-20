@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The role of mathematical methods in the explosive cocktail that led to the greatest economic meltdown in generations and questions their future
 date: "2010-10-21 18:48:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "222"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ac1507
  - felix
 highlights:
 

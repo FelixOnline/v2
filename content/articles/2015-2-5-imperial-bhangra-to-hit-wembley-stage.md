@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Troupes from all over the country will be dancing for the title of best student bhangra team
 date: "2015-02-05 23:37:54 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5193"

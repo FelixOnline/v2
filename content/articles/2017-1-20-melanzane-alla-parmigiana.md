@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A classic Italian dish, our esteemed chef presents her simple, student friendly version. Cook it for that hot vegetarian girl on your corridor – who knows, she might come back for seconds?
 date: "2017-01-20 15:46:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6676"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - aib116
 highlights:
 
 # Homepage control params

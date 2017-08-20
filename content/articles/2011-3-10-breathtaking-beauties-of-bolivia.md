@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I know you’d rather hear about cocaine, but instead Christopher Walmsley discovers some of the other countless wonders this fascinating country has to offer
 date: "2011-03-10 20:50:45 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1077"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cjw107
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood reports on the newest sports craze to hit campus
 date: "2012-10-11 20:59:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2659"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - csw09
  - felix
 highlights:
  - comment

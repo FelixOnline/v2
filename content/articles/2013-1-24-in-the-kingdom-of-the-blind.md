@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Disaster on a smaller scale spells a recipe for success
 date: "2013-01-24 22:55:50 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3168"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - mtm10
 highlights:
 
 # Homepage control params

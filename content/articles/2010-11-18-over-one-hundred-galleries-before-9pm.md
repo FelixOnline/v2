@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shoreditch is the hotbed of all London’s most cutting-edge, original talent and a monthly evening of late night openings promises to let you into its heart. By Sam Whitcomb
 date: "2010-11-18 19:51:40 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "379"

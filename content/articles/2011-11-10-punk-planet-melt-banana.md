@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Douglas Heaven listens to the 'cartoon music' of the Japanese band
 date: "2011-11-10 21:35:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1733"

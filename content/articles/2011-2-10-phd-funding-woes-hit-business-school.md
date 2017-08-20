@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As more issues with PhD funding arise, Union asks students to check their accounts
 date: "2011-02-10 19:50:16 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "758"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak6309
  - felix
 highlights:
  - comment

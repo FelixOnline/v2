@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fabio Virgi looks at Apple's latest offering
 date: "2013-06-13 22:54:16 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3685"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - tecfelix
  - tna08
 highlights:
 

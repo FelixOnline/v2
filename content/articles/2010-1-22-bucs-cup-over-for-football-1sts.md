@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The 1sts Football team are knocked out by Reading
 date: "2010-01-22 13:18:32 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "47"

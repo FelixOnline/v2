@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring 'tibits', the Regent Street Veggie Paradise
 date: "2012-01-26 21:47:42 +0000"
-author_id: "ae1409"
 
 # Attributes from Felix Online V1
 id: "2045"

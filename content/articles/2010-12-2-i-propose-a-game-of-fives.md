@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial’s Fives team succeed at Eton tournament
 date: "2010-12-02 20:35:25 +0000"
-author_id: "am1108"
 
 # Attributes from Felix Online V1
 id: "474"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jungle beats fire up crowd of young music junkies at Heaven
 date: "2010-12-09 20:29:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "523"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kp2209
 highlights:
 
 # Homepage control params

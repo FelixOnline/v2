@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saad Ahmed talkes about how some games really aren’t fun to play and are immensly challenging, and how that makes them some of the funnest games around
 date: "2017-02-24 15:14:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6826"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jenny Wilson urges awareness about long-term aid
 date: "2011-05-26 23:36:54 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1265"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jw1606
 highlights:
 
 # Homepage control params

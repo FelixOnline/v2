@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett talks about why we need to act, fast
 date: "2012-11-01 22:41:54 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2789"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps3110
  - tna08
 highlights:
  - comment

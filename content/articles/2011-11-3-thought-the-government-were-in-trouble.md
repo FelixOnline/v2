@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Well, they’re in The Thick of It now...
 date: "2011-11-03 20:22:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1664"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mh3210
 highlights:
  - comment
 

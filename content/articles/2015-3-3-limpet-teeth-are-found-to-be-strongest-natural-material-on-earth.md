@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emma Lisle on the new substance’s potential in engineering
 date: "2015-03-03 15:00:58 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5329"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - esl13
  - ps3110
 highlights:
  - comment

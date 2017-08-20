@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The TEKUA project comes to London in co-operation with local businesses and Imperial College students in order to raise money towards better Tanzanian education
 date: "2011-12-01 20:22:56 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1868"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ce311
  - pk1811
 highlights:
  - comment

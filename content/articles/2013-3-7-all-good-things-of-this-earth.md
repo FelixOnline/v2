@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andrew Ryan fears the strength of the majority vote. Should you?
 date: "2013-03-07 21:57:18 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "3434"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fgames
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Drunk on the Aesthetic movement at The Cult Of Beauty. By Maisie Russ
 date: "2011-05-20 05:44:07 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1225"

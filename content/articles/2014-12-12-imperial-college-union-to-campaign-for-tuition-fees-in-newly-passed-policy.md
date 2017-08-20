@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Opposing paper, to campaign for Free Education, was rejected
 date: "2014-12-12 12:44:59 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5046"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jsm212
  - ps3110
 highlights:
  - comment

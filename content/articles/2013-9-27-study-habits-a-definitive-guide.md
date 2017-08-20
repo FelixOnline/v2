@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shiladitya Ghosh reveals the do's and don'ts of studying for exams...
 date: "2013-09-27 17:05:51 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3761"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - sg4812
 highlights:
  - longread
 

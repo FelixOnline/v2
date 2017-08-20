@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Range of medals for Imperial Judo in Sheffield
 date: "2011-05-12 18:19:39 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1193"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - ace09
  - cjb07
 highlights:
 

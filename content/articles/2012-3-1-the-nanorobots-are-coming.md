@@ -4,7 +4,6 @@ title: >
 subtitle: >
   DNA Origami techniques reveal advances in medical technology
 date: "2012-03-01 21:10:11 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2271"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ps3110
 highlights:
 
 # Homepage control params

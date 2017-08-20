@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Never before in the 56-year history of the Paralympic Games have we faced circumstances like thi
 date: "2016-12-02 16:48:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6552"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bengtan
  - felix
 highlights:
  - longread

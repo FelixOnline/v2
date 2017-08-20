@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Staff awarded for their efforts as students receive their degrees
 date: "2011-10-20 19:19:03 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1554"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - skd09
 highlights:
  - comment
 

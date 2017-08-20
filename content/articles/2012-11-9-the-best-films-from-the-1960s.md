@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A continuation of the best films series. The top spot? It had to be the epic epic.
 date: "2012-11-09 13:55:32 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2863"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - longread

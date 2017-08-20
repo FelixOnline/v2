@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports as council is flooded with Weeks residents
 date: "2015-03-13 01:17:22 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5390"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ps3110
 highlights:
  - comment
  - longread

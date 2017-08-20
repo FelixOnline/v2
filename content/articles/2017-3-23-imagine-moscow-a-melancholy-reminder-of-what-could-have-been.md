@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Design Museum's latest exhibition has its flaws, but reveals a new side to Soviet architecture
 date: "2017-03-23 16:41:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6922"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - scc114
 highlights:
  - comment
 

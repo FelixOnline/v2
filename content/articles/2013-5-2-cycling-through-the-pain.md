@@ -4,7 +4,6 @@ title: >
 subtitle: >
   James Dixon listens to Reggae and 5 other unknown mixtapes
 date: "2013-05-02 12:14:48 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3525"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - jd809
  - tna08
 highlights:
 

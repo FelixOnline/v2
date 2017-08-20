@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Good start for IC fencing
 date: "2016-11-07 13:20:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6408"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jamiesimpson
 highlights:
 
 # Homepage control params

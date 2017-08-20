@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz doesn't cover his ears
 date: "2013-02-13 13:15:46 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3299"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ra2410
  - tna08
 highlights:
  - photos

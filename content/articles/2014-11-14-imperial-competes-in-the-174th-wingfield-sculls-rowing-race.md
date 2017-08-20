@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Great results for both mens' and womans' teams that took part in annual race on the Thames
 date: "2014-11-14 21:25:02 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4895"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - sc3610
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The word ‘fracking’ has become aligned with unconditional taboo in the United Kingdom in a two year interval. Strong public scepticism has been fuelled by the parade of paraphernalia arriving from the USA...
 date: "2013-11-08 03:45:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4025"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - felix
 highlights:
 

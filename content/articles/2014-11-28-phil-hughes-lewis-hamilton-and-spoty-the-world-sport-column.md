@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle takes you through the sport you may have missed this week
 date: "2014-11-28 01:08:26 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4976"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lucy Wiles reviews Project X
 date: "2012-03-08 22:00:25 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2330"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - lw408
 highlights:
  - photos
 

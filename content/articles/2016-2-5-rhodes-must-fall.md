@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We should be remembering the victims of the British Empire, not the perpetrators
 date: "2016-02-05 11:52:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5864"
@@ -24,7 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

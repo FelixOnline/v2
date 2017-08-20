@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICUNC President Nancy Edge reflects on her season
 date: "2013-03-07 22:07:52 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3439"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - mc4509
+ - ohb09
 highlights:
 
 # Homepage control params

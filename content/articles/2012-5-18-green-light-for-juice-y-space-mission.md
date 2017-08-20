@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Billion euro mission to Jupiter to launch in 2022
 date: "2012-05-18 11:20:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2470"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - skd09
 highlights:
 
 # Homepage control params

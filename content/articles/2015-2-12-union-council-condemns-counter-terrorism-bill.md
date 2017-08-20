@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students vote against the bill passing through government
 date: "2015-02-12 20:59:38 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5237"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pk1811
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An affordable feast
 date: "2012-11-29 22:54:19 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2992"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1310
 highlights:
  - photos
 

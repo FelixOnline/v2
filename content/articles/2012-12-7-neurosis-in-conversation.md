@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi talks to Scott Kelly about Neurosis and his solo work
 date: "2012-12-07 03:40:06 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3068"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ra2410
  - tna08
 highlights:
  - comment

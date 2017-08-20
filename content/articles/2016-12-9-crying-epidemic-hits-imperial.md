@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Students break down as term nears to an end
 date: "2016-12-09 11:54:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6560"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ea3211
  - felix
 highlights:
 

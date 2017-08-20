@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles on the interplay of arts and science, and why arts is important in the modern world
 date: "2013-02-28 23:33:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3390"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ff712
  - tna08
 highlights:
  - photos

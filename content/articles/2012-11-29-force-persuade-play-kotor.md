@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Edward Bals has a good feeling about this....
 date: "2012-11-29 22:51:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2990"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - eb1710
  - tna08
 highlights:
 

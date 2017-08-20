@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Byzantium: a great vampire tale
 date: "2013-06-05 12:24:11 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3652"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

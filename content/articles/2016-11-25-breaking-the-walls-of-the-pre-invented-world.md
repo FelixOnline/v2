@@ -4,7 +4,6 @@ title: >
 subtitle: >
   art is a way of speaking up
 date: "2016-11-25 14:08:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6508"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

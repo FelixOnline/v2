@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Discussing the Imperial College's carbon footprint!
 date: "2014-06-12 17:54:36 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4687"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - me1711
+ - sg6913
 highlights:
 
 # Homepage control params

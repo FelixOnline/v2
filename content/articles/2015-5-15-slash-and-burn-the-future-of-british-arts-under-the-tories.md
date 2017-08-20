@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik guides us through the proposed changes to funding for culture under the Conservative majority
 date: "2015-05-15 12:59:53 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5542"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cj914
+ - im1413
 highlights:
  - longread
  - photos

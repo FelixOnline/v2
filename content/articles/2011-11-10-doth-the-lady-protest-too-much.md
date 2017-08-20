@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why protest is important and what it tries to achieve
 date: "2011-11-10 20:24:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1711"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ls411
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Nevola reviews Emlyn William's play recounting the life of a Nobel laureate author
 date: "2014-11-24 12:30:19 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4939"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cfc111
  - ps3110
 highlights:
 

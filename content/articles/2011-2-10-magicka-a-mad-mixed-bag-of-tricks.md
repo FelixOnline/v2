@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope is too much of a n00b to play Magicka
 date: "2011-02-10 20:36:59 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "778"

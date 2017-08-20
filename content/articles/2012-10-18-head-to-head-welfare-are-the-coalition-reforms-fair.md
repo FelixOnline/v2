@@ -4,7 +4,6 @@ title: >
 subtitle: >
   GH argues for, and Luke Sheldon argues against. Let battle commence...
 date: "2012-10-18 21:19:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "2699"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - ls411
 highlights:
  - comment
  - longread

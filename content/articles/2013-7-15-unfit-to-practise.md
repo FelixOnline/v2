@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Medical Researcher Thilanga Iddamalgoda has been suspended from practising after being caught filming up women's skirts in Trafalgar Square.
 date: "2013-07-15 15:09:44 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3744"

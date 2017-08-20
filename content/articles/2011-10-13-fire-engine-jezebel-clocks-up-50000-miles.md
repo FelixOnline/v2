@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Faculty mascot reaches significant milestone
 date: "2011-10-13 21:01:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1505"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ann09
  - felix
 highlights:
 

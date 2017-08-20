@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Boston-set thriller is a well-made film, but fails to truly impress
 date: "2015-12-06 14:17:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5801"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ts2915
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sanchit Sharma struggles with taming his titans, in a Reus review
 date: "2013-06-05 12:57:52 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3654"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ss9011
  - tna08
 highlights:
  - photos

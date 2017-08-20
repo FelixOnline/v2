@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s the standard’s standard, a pennant for progress. And it certainly doesn’t use tables for layout
 date: "2011-01-27 19:17:14 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "665"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lc107
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The opening of the Union’s new club Metric goes off with a bang
 date: "2010-11-26 07:24:37 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "451"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jk708
+ - ks607
 highlights:
  - comment
 

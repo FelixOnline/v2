@@ -4,7 +4,6 @@ title: >
 subtitle: >
    The real fun is in seeing the different characters interact
 date: "2016-12-09 15:45:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6580"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
 
 # Homepage control params

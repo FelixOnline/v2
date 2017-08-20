@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “The department risks deterring students from applying to Imperial”
 date: "2010-12-09 21:53:50 +0000"
-author_id: "skd09"
 
 # Attributes from Felix Online V1
 id: "543"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Police.uk throws up little in the way of surprises
 date: "2011-03-10 19:30:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1052"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fa608
  - felix
 highlights:
 

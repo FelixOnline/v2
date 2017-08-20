@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Turns out people really want to get away from Imperial
 date: "2016-12-02 13:43:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6522"

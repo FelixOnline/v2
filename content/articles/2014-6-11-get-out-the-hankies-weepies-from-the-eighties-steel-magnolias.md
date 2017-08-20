@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Knowing your history, a blast from the past, part 2.
 date: "2014-06-11 22:23:03 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4678"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - me1711
 highlights:
 

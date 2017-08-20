@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What: Tube150 – 150th Anniversary of the London Underground Where: The London Transport Museum, WC2 When: Until 5th Jan 2014 Price: £11.50 students, £15 adults, for unlimited admission in 12 months
 date: "2013-11-05 09:32:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3990"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Navid Nabijou profiles the controversial director and his latest work, Inglourious Basterds
 date: "2010-11-25 19:56:32 +0000"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "423"

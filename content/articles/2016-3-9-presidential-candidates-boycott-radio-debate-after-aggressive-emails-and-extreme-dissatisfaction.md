@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Four candidates decided not to show after concerns over bias, format and attitude of IC radio presenters
 date: "2016-03-09 19:02:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6015"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
+ - feli
  - felix
+ - ygr12
 highlights:
  - comment
 

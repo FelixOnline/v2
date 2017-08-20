@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caz Knight starts off the school year with banter, bullying and brutality at the Hammersmith Lyric
 date: "2010-09-15 17:12:07 +0100"
-author_id: "ck806"
 
 # Attributes from Felix Online V1
 id: "156"

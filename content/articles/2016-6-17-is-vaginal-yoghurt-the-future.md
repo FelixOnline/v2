@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yeah, really
 date: "2016-06-17 09:10:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6276"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

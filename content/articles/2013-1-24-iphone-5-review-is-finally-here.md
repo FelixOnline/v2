@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl tries his best to give you the low down on the newest Apple phone
 date: "2013-01-24 21:17:58 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3158"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - me1711
 highlights:
  - longread
 

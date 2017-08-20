@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Scientific community torn over a unique recording from elusive whale
 date: "2015-11-13 14:44:40 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5732"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jc5412
  - ygr12
 highlights:
  - comment

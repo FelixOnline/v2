@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This film has prompted huge discussion amongst Christians and non-Christians, so, first things first, this is where I stand on the whole religion debate, so you can spot potential bias.
 date: "2014-06-02 13:05:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4646"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - spb11
 highlights:
 
 # Homepage control params

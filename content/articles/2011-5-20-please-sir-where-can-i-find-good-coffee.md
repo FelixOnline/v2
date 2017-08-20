@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Thomas McFadden isn’t impressed with the caffeine on campus
 date: "2011-05-20 04:26:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1216"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tmm08
 highlights:
  - comment
  - longread

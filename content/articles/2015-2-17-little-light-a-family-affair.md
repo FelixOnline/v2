@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg visits the new Orange Tree Theatre show
 date: "2015-02-17 16:14:26 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5262"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mff113
  - ps3110
 highlights:
 

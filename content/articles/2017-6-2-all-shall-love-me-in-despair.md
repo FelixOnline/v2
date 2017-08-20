@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Shaul Rosten laments the future of the U.K. in which an unoposed Galadr... uhm Theresa May rules a broken democracy
 date: "2017-06-02 12:51:33 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6989"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - shaulrosten
 highlights:
  - longread
 

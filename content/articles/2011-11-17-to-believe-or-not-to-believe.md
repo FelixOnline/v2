@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Was Shakespeare a fraud?
 date: "2011-11-17 22:07:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1791"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jgp09
 highlights:
  - comment
 

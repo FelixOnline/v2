@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Their 40-minute match will follow the men's game.
 date: "2015-01-23 00:49:01 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "5114"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - kmw13
 highlights:
  - comment
 

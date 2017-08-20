@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bastions – Bedfellows Part 2: The Forgotten Daughter
 date: "2014-02-07 04:38:38 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4339"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - rg2112
 highlights:
 
 # Homepage control params

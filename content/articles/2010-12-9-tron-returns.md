@@ -4,7 +4,6 @@ title: >
 subtitle: >
   At the very least, it's better than Harry Potter
 date: "2010-12-09 19:41:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "509"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

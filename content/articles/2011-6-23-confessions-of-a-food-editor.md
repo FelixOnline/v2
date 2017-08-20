@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I hate reviewing if I haven't paid
 date: "2011-06-23 21:11:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1434"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - dhl106
  - felix
 highlights:
  - comment

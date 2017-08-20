@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men benefit from feminism, but need to know when to listen
 date: "2016-06-03 09:03:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6231"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cw3213
+ - icanon
 highlights:
  - comment
 

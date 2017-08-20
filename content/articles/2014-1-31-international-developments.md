@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hugo Paquet explores international development
 date: "2014-01-31 17:49:54 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4320"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - hp1910
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Fry - Copenhagen & Self interest equates to Failure
 date: "2010-01-14 16:00:56 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "29"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ba108
  - jk708
 highlights:
  - comment

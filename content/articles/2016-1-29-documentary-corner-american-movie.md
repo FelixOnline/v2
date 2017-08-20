@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This unpolished gem is well worth a watch
 date: "2016-01-29 09:31:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5848"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - bsc14
 highlights:
  - comment
 

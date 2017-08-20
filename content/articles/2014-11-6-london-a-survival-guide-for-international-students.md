@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploring a new city with the help of International Student Support
 date: "2014-11-06 21:21:15 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "4799"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - bwh12
+ - wic112
 highlights:
 
 # Homepage control params

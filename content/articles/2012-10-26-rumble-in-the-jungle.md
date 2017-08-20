@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emilie Beauchamps looks at political cock-ups, murder and deceit in time for the American presidential elections
 date: "2012-10-26 03:07:28 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2766"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felart
  - tna08
 highlights:
 

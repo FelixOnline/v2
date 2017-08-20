@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah tries to not look like a hipster as he reviews a slightly obscure show
 date: "2011-12-01 20:29:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1871"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - tna08
 highlights:
 
 # Homepage control params

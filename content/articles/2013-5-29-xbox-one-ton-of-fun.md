@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Apparently the one and only center of your new Multimedia world! It may even catch you masturbating...
 date: "2013-05-29 12:38:20 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3628"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - me1711
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Government’s ‘green paper’ proposals would allow fees to rise with inflation
 date: "2015-11-13 14:10:23 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5717"

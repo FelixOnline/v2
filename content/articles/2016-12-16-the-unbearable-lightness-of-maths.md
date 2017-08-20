@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From salesmen to sailors, from aircraft engineers to bankers, and from gamblers to garden designers, this gallery is a flight over 400 years of human ingenuity
 date: "2016-12-16 15:00:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6609"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - agnese.abrusci16
 highlights:
 
 # Homepage control params

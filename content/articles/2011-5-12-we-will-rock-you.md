@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Musical Theatre Society rehearse and perform Ben Elton’s smash hit in only 24 hours
 date: "2011-05-12 19:11:34 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1203"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rm1509
 highlights:
  - comment
 

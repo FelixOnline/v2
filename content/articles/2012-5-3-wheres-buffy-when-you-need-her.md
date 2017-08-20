@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not the usual horror movie
 date: "2012-05-03 18:21:43 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2411"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - lp707
 highlights:
 
 # Homepage control params

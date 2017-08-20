@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Does this sequel to one of the best strategies games live up to the hype?
 date: "2013-11-24 16:35:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4128"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - me1711
 highlights:
  - comment
  - longread

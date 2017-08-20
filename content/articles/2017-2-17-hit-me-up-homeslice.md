@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It really doesn’t get much better than pizza, IMHO. However, given there are so many variants, it’s sometimes hard to pick the best from the bad – so we’re here to help.
 date: "2017-02-17 15:51:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6797"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - alicedavage
  - felix
 highlights:
 

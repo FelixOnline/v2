@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Globe's Summer of Love continues with a dazzling take on Shakespeare's bittersweet tale of crossdressing and subversion
 date: "2017-05-31 23:02:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6979"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
  - longread
 

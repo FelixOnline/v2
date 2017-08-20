@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stuart Mason reviews The Flaming Lips' The Terror
 date: "2013-03-15 02:53:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3493"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The NHS has recently dispatched a leaflet titled “Better information means better care” to everyone in England.
 date: "2014-01-31 17:57:03 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4327"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - amm113
  - jal08
 highlights:
 

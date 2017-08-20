@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 3s 40-26 King’s 4s. Kings put up a fight, literally
 date: "2011-03-01 21:29:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "971"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lch08
 highlights:
 
 # Homepage control params

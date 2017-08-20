@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX explores the way in which meat-eaters eat, and some misteaks they make in their thinking
 date: "2016-04-29 10:59:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6109"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sb6213
 highlights:
  - comment
  - longread

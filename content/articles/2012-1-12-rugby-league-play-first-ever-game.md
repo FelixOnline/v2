@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Woking 54-22 Imperial
 date: "2012-01-12 20:10:26 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1964"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - ial08
 highlights:
 
 # Homepage control params

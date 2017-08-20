@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix visits Rococo Chocolates for a night of chocolate making paired with cheese and whiskey
 date: "2016-12-09 11:47:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6557"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - longread
  - photos

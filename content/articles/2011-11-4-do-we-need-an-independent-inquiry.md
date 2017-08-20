@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Summer Ball financial situation still requires closure
 date: "2011-11-04 12:06:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1703"

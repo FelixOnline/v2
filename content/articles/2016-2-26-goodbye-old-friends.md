@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Old faces make an appearance at American Football’s Bath match
 date: "2016-02-26 12:14:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5991"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - pt1114
 highlights:
 
 # Homepage control params

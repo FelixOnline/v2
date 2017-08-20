@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on outside the BUCS League
 date: "2014-11-06 19:28:28 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4779"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - kmw13
 highlights:
  - comment
 

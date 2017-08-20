@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Galleries from around the world bring their best to London
 date: "2011-10-21 10:47:35 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1594"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - wsp10
 highlights:
 
 # Homepage control params

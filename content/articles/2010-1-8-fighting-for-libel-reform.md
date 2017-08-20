@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In light of Simon Singh returning to Imperial to give a lecture on libel laws that he is personally embroiled in!
 date: "2010-01-08 16:10:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "17"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dww07
  - felix
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Email sent all second years offering to rectify marking mistake
 date: "2015-02-05 23:45:20 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5197"

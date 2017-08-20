@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Wang talks about Volition Inc.’s latest offering Saints Row: The Third attempts to not just eclipse the GTA franchise, but to beat it into the dust. With a dildo bat
 date: "2011-11-17 20:36:03 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "1762"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jw3109
  - lap08
 highlights:
  - comment

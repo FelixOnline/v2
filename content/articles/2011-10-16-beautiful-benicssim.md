@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spanish Rototom Sunsplash impresses over ten days
 date: "2011-10-16 15:08:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1550"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dyo10
  - felix
 highlights:
  - comment

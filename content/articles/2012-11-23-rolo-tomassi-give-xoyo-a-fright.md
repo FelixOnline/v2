@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England gets spooked
 date: "2012-11-23 00:20:34 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2970"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong.
 date: "2013-11-24 16:31:36 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4125"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jgp09
 highlights:
 
 # Homepage control params

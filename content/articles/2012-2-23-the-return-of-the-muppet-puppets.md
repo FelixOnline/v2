@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They are back and as good as ever!
 date: "2012-02-23 20:28:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2234"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lw408
  - pk1811
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dan Wan investigates how the Union will act in response to the now necessary College cuts
 date: "2010-02-05 15:33:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "75"

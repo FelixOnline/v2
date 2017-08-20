@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oh, and a Happy New Year
 date: "2012-12-07 01:05:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3030"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - tna08
 highlights:
  - photos

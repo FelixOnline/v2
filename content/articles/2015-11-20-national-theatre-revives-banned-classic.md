@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Waste exposes the hypocrisy of Victorian morality and remains relevant today
 date: "2015-11-20 09:37:35 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5759"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bdw14
  - ygr12
 highlights:
 

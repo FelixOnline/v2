@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dismantling the death-defying activities on offer in Bolivia’s capital
 date: "2013-10-12 23:53:10 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3873"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - jal08
 highlights:
  - longread

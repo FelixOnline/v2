@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An adaptation of the Erdman classic amuses and underwhelms in equal measure
 date: "2016-05-06 10:16:04 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6134"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mff113
 highlights:
 
 # Homepage control params

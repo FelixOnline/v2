@@ -4,7 +4,6 @@ title: >
 subtitle: >
   or the limits of bourgeois pacifism
 date: "2014-06-02 12:45:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4640"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - felix
 highlights:
  - longread

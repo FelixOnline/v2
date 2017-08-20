@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey explores the beauty in fashion for the plus-size woman, and the politics behind it
 date: "2015-03-25 12:06:45 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5425"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - tad08
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cymbeline is on at the Barbican Theatre until 17th December
 date: "2016-11-14 14:15:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6445"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

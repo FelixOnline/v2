@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton reminisces about his six years at IC
 date: "2014-06-23 13:09:58 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4706"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rtf08
 highlights:
 
 # Homepage control params

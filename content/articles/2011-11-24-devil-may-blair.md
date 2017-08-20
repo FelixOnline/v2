@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The memoirs of Chris Mullin MP are brought to the stage to give a revealing account of the goings-on behind the scenes during the Blair years
 date: "2011-11-24 22:30:20 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1835"

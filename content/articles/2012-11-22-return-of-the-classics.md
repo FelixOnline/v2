@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about his favourite classic literature
 date: "2012-11-22 23:07:43 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2939"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mtm10
  - tna08
 highlights:
  - photos

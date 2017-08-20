@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our Culture Editor, Fred Fyles, gives you the run-down on the Academy Award nominations for this year, from the meteoric rise of La La Land, to the possible success of Moonlight, and all those films that they missed along the way...
 date: "2017-01-27 16:46:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6696"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
 highlights:
  - longread
  - photos

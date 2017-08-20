@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tell Felix in our new survey to determine just how much time, effort and money you think your degree is worth
 date: "2014-12-09 14:51:41 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5021"

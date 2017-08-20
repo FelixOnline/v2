@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The state of current libel laws is ludicrous; they must adapt to the digital age, says George Butcher
 date: "2012-11-23 00:02:35 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2955"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb1311
  - tna08
 highlights:
  - comment

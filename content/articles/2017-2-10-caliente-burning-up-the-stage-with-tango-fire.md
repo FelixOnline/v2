@@ -4,7 +4,6 @@ title: >
 subtitle: >
   You don’t need to be a tango aficionado for the raw appeal of Tango Fire’s bold and flamboyant dancing
 date: "2017-02-10 15:54:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6767"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
  - photos
 

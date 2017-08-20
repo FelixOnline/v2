@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kieran Ryan is inspired by the words of Neil Gaiman
 date: "2014-12-18 16:10:40 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5070"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ff712
+ - kr812
 highlights:
  - photos
 

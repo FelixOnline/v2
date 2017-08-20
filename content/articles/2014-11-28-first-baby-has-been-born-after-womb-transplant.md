@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vincent is normal and healthy
 date: "2014-11-28 00:59:48 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4972"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kyc413
  - ps3110
 highlights:
  - comment

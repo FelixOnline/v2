@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe on the impact of logging in Borneo’s rainforests
 date: "2015-05-04 16:27:43 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5489"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ltr11
  - ps3110
 highlights:
  - comment

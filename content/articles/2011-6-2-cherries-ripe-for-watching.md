@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zoë Wanamaker makes Chekov’s classic play at the National Theatre the pick of the crop
 date: "2011-06-02 19:46:13 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "1312"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felart
  - jal08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on why he loves Music Tech Society
 date: "2011-02-17 19:58:37 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "830"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - im808
 highlights:
 
 # Homepage control params

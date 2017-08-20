@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tharsis is a brutally hard space survival strategy game, with dice
 date: "2016-01-29 10:07:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5859"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - cet13
 highlights:
 
 # Homepage control params

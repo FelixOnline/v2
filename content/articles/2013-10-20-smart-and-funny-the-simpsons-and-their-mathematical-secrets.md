@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Calum Grant explores a nefarious plot to educate cartoon viewers
 date: "2013-10-20 01:25:50 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3900"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cjg111
  - jal08
 highlights:
 

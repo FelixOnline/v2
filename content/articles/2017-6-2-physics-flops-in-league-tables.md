@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oh how the mighty have fallen. NOT
 date: "2017-06-02 12:28:42 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6983"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - jmw216
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   40 unarmed people killed as tribal violence escalates
 date: "2011-05-12 19:31:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1208"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rtf08
 highlights:
  - comment
 

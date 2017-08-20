@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christy Kelly on the Monarchy
 date: "2013-11-01 10:46:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3978"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck2513
  - felix
 highlights:
 

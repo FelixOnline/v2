@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Professor Sir Gordon Conway interviewed about food security
 date: "2013-05-22 14:35:58 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3599"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jh3609
  - tna08
 highlights:
  - longread

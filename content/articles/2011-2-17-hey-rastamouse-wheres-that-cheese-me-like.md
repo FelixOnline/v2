@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Welcome to the TV-obsessed world of James Simpson
 date: "2011-02-17 20:31:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "845"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tvfelix
 highlights:
  - comment
 

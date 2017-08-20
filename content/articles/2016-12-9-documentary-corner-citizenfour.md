@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Collier reviews a film that will send chills down your spine
 date: "2016-12-09 15:50:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6583"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bsc14
  - felix
 highlights:
 

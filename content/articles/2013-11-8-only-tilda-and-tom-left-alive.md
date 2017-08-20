@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Only Lovers Left Alive Director: Jim Jarmusch Writers: Jim Jarmusch Starring: Tom Hiddleston, Tilda Swinton, Mia Wasikowska, John Hurt, Anton Yelchin, Jeffrey Wright Runtime: 123 minutes
 date: "2013-11-08 09:59:51 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4040"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ff712
 highlights:
  - photos
 

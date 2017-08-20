@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hayley Lesserstein tells you how to do ghetto gourmet
 date: "2013-06-20 23:25:45 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3721"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felfood
  - tna08
 highlights:
  - photos

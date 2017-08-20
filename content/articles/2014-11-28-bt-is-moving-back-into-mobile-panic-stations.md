@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal discusses the implactions the move could have
 date: "2014-11-28 00:50:52 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4967"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal makes officially the worst pun yet.
 date: "2012-11-23 00:16:44 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2966"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - tna08
 highlights:
 

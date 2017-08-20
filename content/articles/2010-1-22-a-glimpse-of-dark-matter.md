@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kelly Oakes, a glimpse of dark matter?
 date: "2010-01-22 14:24:10 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "54"

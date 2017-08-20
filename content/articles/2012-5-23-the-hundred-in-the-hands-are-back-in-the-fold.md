@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Second album looks set to impress
 date: "2012-05-23 16:27:45 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2480"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - mc4509
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not the third one though
 date: "2016-02-19 12:07:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5937"
@@ -21,7 +20,7 @@ tags:
  - film
  - imported
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I can't say what I think as there is always a ‘friend’ I would rather not hear about it
 date: "2011-06-11 17:28:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1358"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phil Gerstenburg return from Victoria Park scarred after facing a waterlogged pitch
 date: "2015-02-12 22:59:05 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5246"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - pmg113
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   International effort to make air travel greener begins at Imperial
 date: "2011-01-27 19:05:44 +0000"
-author_id: "vbb08"
 
 # Attributes from Felix Online V1
 id: "662"

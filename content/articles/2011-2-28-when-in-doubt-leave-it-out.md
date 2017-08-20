@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Cook talks making shortcuts and artificial intelligence
 date: "2011-02-28 20:45:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "934"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtc06
 highlights:
 
 # Homepage control params

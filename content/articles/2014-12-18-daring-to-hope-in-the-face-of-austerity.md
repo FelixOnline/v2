@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews The Royal Court's new play
 date: "2014-12-18 16:17:57 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5072"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - ff712
 highlights:
 

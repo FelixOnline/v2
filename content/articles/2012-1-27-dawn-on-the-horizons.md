@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial launches lecture and tutorial scheme, beginning with climate change discussion
 date: "2012-01-27 00:14:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2079"

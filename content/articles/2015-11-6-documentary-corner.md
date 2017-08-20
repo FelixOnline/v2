@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week, it's Jiro Dreams of Sushi
 date: "2015-11-06 14:13:19 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5708"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bsc14
  - ygr12
 highlights:
 

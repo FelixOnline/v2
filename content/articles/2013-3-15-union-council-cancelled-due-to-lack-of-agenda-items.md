@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In very, very brief.
 date: "2013-03-15 00:10:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3458"

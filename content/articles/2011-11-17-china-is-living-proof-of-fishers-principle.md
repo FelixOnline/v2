@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How we can explain China’s gender ratios from an evolutionary standpoint and what they mean to imbalances in the rest of the world
 date: "2011-11-17 20:29:06 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1760"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - mas03
  - pk1811
 highlights:
  - comment

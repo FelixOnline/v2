@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yingwei Ouyang gives her perspective on her big night with ICSO
 date: "2015-02-20 00:16:07 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5282"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - yo113
 highlights:
 
 # Homepage control params

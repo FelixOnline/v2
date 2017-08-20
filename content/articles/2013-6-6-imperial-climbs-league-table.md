@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cambridge on top, but Imperial claws back a few places to finish ninth in the Guardian league table.
 date: "2013-06-06 18:47:08 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3668"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ever since I first got my Xbox 360 with The Elder Scrolls 4: Oblivion, I have been a massive fan of the series, with Oblivion actually topping my favourite games of all time list
 date: "2014-03-11 17:45:50 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4476"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

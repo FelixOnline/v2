@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson takes you through the last one hundred and fifty years of projection, film, and sound in the cinema industry
 date: "2015-03-25 11:55:51 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5423"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - em2512
  - ff712
 highlights:
  - comment

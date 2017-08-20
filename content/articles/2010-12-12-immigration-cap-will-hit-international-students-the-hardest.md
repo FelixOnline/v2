@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Restrictions on immigration will endanger universities
 date: "2010-12-12 14:27:10 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "552"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - lh1009
 highlights:
 
 # Homepage control params

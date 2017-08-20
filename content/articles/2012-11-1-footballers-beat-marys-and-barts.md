@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington
 date: "2012-11-01 23:18:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2824"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsci
  - tna08
 highlights:
 

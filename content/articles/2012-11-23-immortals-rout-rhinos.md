@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Romylos Jackson brings the pain train
 date: "2012-11-23 00:05:05 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2959"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rj508
  - tna08
 highlights:
 

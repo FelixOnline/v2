@@ -4,7 +4,6 @@ title: >
 subtitle: >
   2nd Year Biologists say their coursework grade retraction is unfair and too much of a rash decision
 date: "2010-01-13 21:22:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "23"

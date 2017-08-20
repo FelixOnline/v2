@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vogue 100: A Century of Style is a celebration of history and what made it beautiful
 date: "2016-02-19 12:11:53 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5939"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - et1214
 highlights:
  - comment
 

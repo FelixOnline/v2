@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Windwaker HD is a welcome addition to the Wii U
 date: "2013-10-16 14:11:47 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3881"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - me1711
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   William Oldroyd’s Lady Macbeth is an exploration of Victorian social codes, and their claustrophobic effects
 date: "2017-05-15 17:22:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6962"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - lawrencegood
 highlights:
 
 # Homepage control params

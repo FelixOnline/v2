@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Cook delivers his first keynote speech
 date: "2011-10-07 10:42:00 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1489"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fa608
  - felix
 highlights:
  - comment

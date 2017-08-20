@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pt. 6 punk
 date: "2012-11-15 21:37:34 +0000"
-author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2901"

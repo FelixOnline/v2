@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will recognition affect the TEF ratings this June?
 date: "2017-05-12 16:16:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6936"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
 
 # Homepage control params

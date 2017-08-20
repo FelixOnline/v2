@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Or, why it might not be such a great idea to make long-term wish lists
 date: "2011-10-14 00:22:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1535"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mrangry
 highlights:
  - comment
 

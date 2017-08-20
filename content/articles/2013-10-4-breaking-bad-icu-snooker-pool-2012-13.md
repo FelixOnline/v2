@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cue sports club cooks up a storm at national tournaments
 date: "2013-10-04 02:19:44 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3812"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - mc2111
 highlights:
  - comment
 

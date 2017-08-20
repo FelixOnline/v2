@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken interviews the Labour MP who is representing your views in Hammersmith
 date: "2015-05-15 12:15:16 +0100"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5529"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jr
  - jr2514
 highlights:
  - comment

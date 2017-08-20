@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Samuel Furse ponders fast food
 date: "2011-05-27 13:57:11 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1275"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

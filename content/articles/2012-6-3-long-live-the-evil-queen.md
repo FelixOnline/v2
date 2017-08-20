@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Theron rules over latest summer blockbuster
 date: "2012-06-03 16:27:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2522"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
  - longread
 

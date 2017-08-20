@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Candidates take to visual media in order to win over voters
 date: "2012-03-09 01:11:41 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "2335"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jk708
+ - mc4509
 highlights:
 
 # Homepage control params

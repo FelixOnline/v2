@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Music sees out the year in Metric
 date: "2012-06-22 16:21:37 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2580"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sh1207
 highlights:
 
 # Homepage control params

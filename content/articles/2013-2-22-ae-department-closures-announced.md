@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hammersmith, Charing Cross, Central Middlesex and Ealing hospital A&E Departments set to close. ‘U-Turn’ shown to be false. No A&E Departments for the boroughs of Hammersmith, Ealing and Brent. Petition with 100,000 signatures ignored. Changes will take 3-5 years to implement.
 date: "2013-02-22 00:09:59 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3353"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

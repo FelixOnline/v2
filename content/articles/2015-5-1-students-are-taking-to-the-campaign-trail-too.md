@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the run up to the general election, it's not just MP candidates that are pounding the pavements
 date: "2015-05-01 00:26:36 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5480"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ps3411
 highlights:
 
 # Homepage control params

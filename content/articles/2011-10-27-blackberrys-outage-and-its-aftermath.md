@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs report on the service failure that failed BlackBerry users, and its impact on both companies and the markets
 date: "2011-10-27 22:40:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1617"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ms7210
 highlights:
 
 # Homepage control params

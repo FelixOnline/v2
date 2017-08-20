@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The RCSU are raising funds for the victims of the accident in Bangladesh. This is the price of our budget clothes
 date: "2013-05-01 14:50:36 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3515"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - is1311
+ - ps3411
  - tna08
 highlights:
  - longread

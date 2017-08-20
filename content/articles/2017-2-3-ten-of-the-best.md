@@ -4,7 +4,6 @@ title: >
 subtitle: >
   felix takes a peek at ten of the hottest spots around London that really stand out from the rabble. Enjoy!
 date: "2017-02-03 17:50:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6736"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - yyl114
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The fourth of our 'games that never made it'
 date: "2011-03-03 21:18:54 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1024"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dt1209
  - sjw209
 highlights:
 

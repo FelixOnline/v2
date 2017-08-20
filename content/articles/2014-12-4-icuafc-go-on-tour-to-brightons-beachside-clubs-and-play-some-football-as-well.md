@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taha Butt describes the action from the coast as they return with mixed results
 date: "2014-12-04 20:28:58 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5011"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - mtb111
 highlights:
  - comment
 

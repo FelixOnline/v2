@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hopefully, debunking lies and unscientific non-sense is not going to end
 date: "2011-11-10 20:46:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1720"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICSE fills us in on their weekend away
 date: "2016-03-18 12:04:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6075"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jr2014
 highlights:
  - comment
 

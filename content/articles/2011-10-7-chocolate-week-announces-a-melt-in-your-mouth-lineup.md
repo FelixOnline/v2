@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's all things chocolate this October
 date: "2011-10-07 13:02:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1495"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ae1409
  - felix
 highlights:
 

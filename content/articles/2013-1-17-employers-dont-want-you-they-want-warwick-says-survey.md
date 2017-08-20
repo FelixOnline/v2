@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Good news: still everyone doesn't want UCL
 date: "2013-01-17 23:47:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3120"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

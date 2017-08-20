@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial students share their thoughts and concerns on Trumps's Muslim Ban
 date: "2017-02-03 15:54:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6712"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - felixteam
 highlights:
  - comment
  - longread

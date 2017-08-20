@@ -4,7 +4,6 @@ title: >
 subtitle: >
   After marking 56 papers we become a bit overdramatic
 date: "2013-11-24 16:08:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4111"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gta
  - jal08
 highlights:
 

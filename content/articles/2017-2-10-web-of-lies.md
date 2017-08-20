@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-02-10 14:03:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6752"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aran.shaunak16
 highlights:
  - comment
 

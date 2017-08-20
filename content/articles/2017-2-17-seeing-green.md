@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Your environmentally friendly TV guide
 date: "2017-02-17 15:32:07 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6795"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Could the Bank of England be pressing forward with more Quantitative Easing?
 date: "2011-10-20 22:42:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1573"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sjc108
 highlights:
 
 # Homepage control params

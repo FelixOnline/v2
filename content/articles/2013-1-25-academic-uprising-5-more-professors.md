@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Increase in the number of female professors for the second year in a row
 date: "2013-01-25 01:27:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3178"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

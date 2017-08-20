@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook’s ‘I’m safe’ button and French flag filters have divided critics
 date: "2015-11-19 22:43:00 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5747"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - pnk14
  - ygr12
 highlights:
  - comment

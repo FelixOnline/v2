@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A selection of our writers let us know which film they think should take home the top prize of Best Picture at this Sunday’s Academy Awards Ceremony
 date: "2017-02-24 14:19:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6818"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - felixteam
 highlights:
  - comment
  - longread

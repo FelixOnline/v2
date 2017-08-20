@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Cook questions Baroness Greenfield’s claims that videogames cause ADHD, schizophrenia and other mental disorders
 date: "2011-11-10 22:26:58 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1747"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mtc06
  - pk1811
 highlights:
  - comment

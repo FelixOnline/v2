@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tony Kushner's bold play is an "ode to an unbroken world which is coming", the cast and crew make it soar
 date: "2017-05-10 18:57:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6929"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

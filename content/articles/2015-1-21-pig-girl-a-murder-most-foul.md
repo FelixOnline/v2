@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg explores Finborough Theatre's gruesome new production
 date: "2015-01-21 20:31:37 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5109"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mff113
  - ps3110
 highlights:
  - comment

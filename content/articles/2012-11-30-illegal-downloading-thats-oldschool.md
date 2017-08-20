@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Has the market, giving consumers better deals, reduced illegal torrenting?
 date: "2012-11-30 11:40:24 +0000"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "3017"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Seymour Dicks catches up with Operation Midnight Climax’s personal butler ahead of their reapparition at KABLAAM
 date: "2011-11-03 20:53:55 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1676"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - ks607
 highlights:
  - comment

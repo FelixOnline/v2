@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Early antiretroviral therapy can help to prevent partner transmission
 date: "2011-06-02 18:29:15 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1295"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bpj10
  - cjb07
 highlights:
 

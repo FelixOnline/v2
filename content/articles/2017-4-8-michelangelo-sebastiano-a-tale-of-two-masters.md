@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A stunning new exhibition at the National Gallery brings the grandeur of Italy's Renaissance to London
 date: "2017-04-08 22:52:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6925"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

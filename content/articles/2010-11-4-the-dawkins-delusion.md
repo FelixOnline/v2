@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dawkins, rather than being a profiteer, is savvy in providing monetary support for his foundation
 date: "2010-11-04 19:11:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "329"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ejh110
  - felix
 highlights:
  - comment

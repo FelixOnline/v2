@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson and Maciej Matuszewski go head to head
 date: "2010-12-09 21:35:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "537"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

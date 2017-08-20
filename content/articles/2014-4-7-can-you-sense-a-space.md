@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have you ever been lost in a building? I don’t mean in the physical sense.
 date: "2014-04-07 12:53:40 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4524"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - jp2512
 highlights:
 
 # Homepage control params

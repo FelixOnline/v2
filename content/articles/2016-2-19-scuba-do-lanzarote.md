@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Night dives, skinny dipping and sangria
 date: "2016-02-19 12:27:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5946"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - asl212
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jemma Pilcher visits the shrine of a pop deity
 date: "2013-04-30 14:32:29 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3504"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jlp210
  - tna08
 highlights:
  - photos

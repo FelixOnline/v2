@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Michael Krestas shares his top ten resolutions for a healthier, tastier year!
 date: "2012-01-19 21:35:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2031"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mk4410
 highlights:
 
 # Homepage control params

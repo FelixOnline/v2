@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two of the Games section's finest writers duke it out
 date: "2011-05-12 19:05:57 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1202"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - lap08
+ - oh106
  - sjw209
 highlights:
  - comment

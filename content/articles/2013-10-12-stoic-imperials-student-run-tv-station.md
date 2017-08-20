@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An introduction to STOIC
 date: "2013-10-12 20:17:58 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3866"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - stoic
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exploration Society invite “the Mountaineer’s Mountaineer” to Imperial College
 date: "2012-02-16 21:28:07 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2189"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - nb704
+ - sa405
  - sjw209
 highlights:
 

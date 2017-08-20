@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why poverty is an issue that extends far beyond simple generalisations
 date: "2011-11-24 23:36:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1850"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - rtf08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Frank Herbert wrote six Dune novels; read the first and forget the rest
 date: "2011-03-03 20:36:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1012"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mtm10
 highlights:
  - comment
 

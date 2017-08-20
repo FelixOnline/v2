@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dealing with stress and getting help are easier than you might have thought
 date: "2016-05-20 09:25:05 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6193"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sk2214
 highlights:
 
 # Homepage control params

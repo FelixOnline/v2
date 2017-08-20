@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Padraic Calpin looks at the parallels in this Egyptian government and the last
 date: "2013-02-07 23:15:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3256"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - phc11
  - tna08
 highlights:
 

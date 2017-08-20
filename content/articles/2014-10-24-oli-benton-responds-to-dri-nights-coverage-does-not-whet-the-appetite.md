@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I feel that the article may have been slightly misinterpreted.
 date: "2014-10-24 13:57:59 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4753"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ohb09
  - ps3110
 highlights:
  - comment

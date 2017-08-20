@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Qasim Mahmood spills the beans on what to look forward to from E3 this weekend
 date: "2017-06-09 15:30:47 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7019"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - qm413
 highlights:
 
 # Homepage control params

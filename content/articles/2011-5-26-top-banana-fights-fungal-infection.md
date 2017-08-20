@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A new strain of banana shows immunity against black sigatoga disease
 date: "2011-05-26 19:13:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1256"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch1810
  - felix
 highlights:
 

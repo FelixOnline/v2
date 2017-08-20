@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-03-18 12:02:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6074"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - sa8713
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Also found with life-size mannequin of a young boy
 date: "2015-05-08 00:15:12 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5501"

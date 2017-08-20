@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yiango Mavrocostanti shows you how to make someone melt on Valentine's Day
 date: "2013-02-07 23:00:57 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3250"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ym1310
 highlights:
 
 # Homepage control params

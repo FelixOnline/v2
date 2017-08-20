@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pheerawat Ratnitisakul discusses about the lows of diversity in London’s Melting Pot
 date: "2015-06-18 19:31:26 +0100"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5628"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - pr1414
 highlights:
  - comment
 

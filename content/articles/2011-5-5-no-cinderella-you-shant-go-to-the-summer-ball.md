@@ -4,7 +4,6 @@ title: >
 subtitle: >
   But you can go to the summer festival. Jovan Nedic takes a look at the debate over the new format of the Summer Ball
 date: "2011-05-05 23:48:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1149"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jn104
 highlights:
  - comment
  - longread

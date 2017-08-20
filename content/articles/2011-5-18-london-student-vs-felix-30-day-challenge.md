@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The London Student has challenged Felix to a duel of epic proportions (ok, maybe not 'epic'). This is no less than a battle between Imperial and the University of London and have no doubt, we will prevail!
 date: "2011-05-18 07:07:06 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1210"

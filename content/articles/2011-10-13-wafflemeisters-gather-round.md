@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Wafflemeister announces a new waffle-eating competition
 date: "2011-10-13 23:59:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1530"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - mk4410
 highlights:
  - comment
 

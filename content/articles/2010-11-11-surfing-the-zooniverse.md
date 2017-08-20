@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Crouch chats to Rob Simpson and gets addicted to galaxy classification as she tries her hand at citizen science
 date: "2010-11-11 21:58:31 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "370"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ec610
  - jk708
 highlights:
  - longread

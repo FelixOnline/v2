@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kadhim Shubber interrogates KABLAAM headliner on physics, metaphysics and physicality
 date: "2011-11-03 20:48:27 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1674"

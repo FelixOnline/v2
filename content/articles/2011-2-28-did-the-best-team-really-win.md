@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi comments on why he thinks the Carling Cup result was a loss for football
 date: "2011-02-28 21:37:02 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "950"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ra2410
 highlights:
 
 # Homepage control params

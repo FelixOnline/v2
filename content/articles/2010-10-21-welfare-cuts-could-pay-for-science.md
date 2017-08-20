@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Science funding must be protected over welfare
 date: "2010-10-21 19:14:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "235"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - rtf08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews a few of the more violent summer television hits.
 date: "2013-09-29 15:29:59 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3780"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - jgp09
 highlights:
  - comment
  - longread

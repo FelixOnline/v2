@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tom Cruising into Oblivion
 date: "2013-04-30 10:35:08 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3500"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
 

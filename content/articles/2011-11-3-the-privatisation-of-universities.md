@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How the coalition plans to change higher education
 date: "2011-11-03 20:05:41 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1661"
@@ -21,6 +20,7 @@ tags:
  - politics
  - imported
 authors:
+ - ls411
  - pk1811
 highlights:
 

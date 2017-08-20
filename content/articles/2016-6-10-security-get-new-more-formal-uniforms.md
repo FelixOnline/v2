@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Security wear ties and full suits now
 date: "2016-06-10 08:16:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6249"

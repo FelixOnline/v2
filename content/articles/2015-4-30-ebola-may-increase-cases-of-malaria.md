@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports on the latest finding from the MRC
 date: "2015-04-30 23:03:11 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5473"

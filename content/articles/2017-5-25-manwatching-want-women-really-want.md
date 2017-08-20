@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ezra Kitson learns about female heterosexual desire from a monologue "written by an anonymous woman, performed by an unprepared man"
 date: "2017-05-25 12:03:55 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6977"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ezra.kitson14
 highlights:
 
 # Homepage control params

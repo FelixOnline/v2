@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kitty Pryde – haha im sorry – 2012
 date: "2012-06-22 17:01:07 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2582"

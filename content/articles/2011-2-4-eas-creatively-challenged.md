@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Worthington places, pastes and paints to his heart’s content in EA’s Create
 date: "2011-02-04 16:59:35 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "756"

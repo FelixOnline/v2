@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why bother with reforms if nobody cares?
 date: "2017-02-17 14:21:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6777"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - mjj15
 highlights:
  - comment
 

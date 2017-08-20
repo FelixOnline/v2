@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women's team cruise past opponents
 date: "2013-02-28 23:53:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3396"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ces109
  - tna08
 highlights:
 

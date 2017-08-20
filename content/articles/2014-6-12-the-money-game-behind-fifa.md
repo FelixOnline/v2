@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From passionate Torcedores to angry protesters, where is FIFA taking us?
 date: "2014-06-12 13:42:26 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4681"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jo313
  - me1711
 highlights:
 

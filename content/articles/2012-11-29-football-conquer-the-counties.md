@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Omar Amjad and Henry Garner tell you of the ancient victory
 date: "2012-11-29 23:17:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3013"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - hg1010
+ - oaa411
  - tna08
 highlights:
  - longread

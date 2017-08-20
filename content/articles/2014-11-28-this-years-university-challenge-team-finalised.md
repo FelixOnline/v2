@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reports as the final team is chosen following weeks of quizzes
 date: "2014-11-28 00:32:31 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4959"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is 40 review
 date: "2013-02-12 18:30:26 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3293"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ffilm
  - tna08
 highlights:
 

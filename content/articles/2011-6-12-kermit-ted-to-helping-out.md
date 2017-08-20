@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Frog proteins could help treat cancer, diabetes, stroke and transplant patients
 date: "2011-06-12 15:46:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1362"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ch1810
  - felix
 highlights:
 

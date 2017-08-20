@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Isaac Obisanya on the Future of Healthcare Development Conference
 date: "2013-03-01 00:19:16 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3403"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - io709
  - tna08
 highlights:
  - photos

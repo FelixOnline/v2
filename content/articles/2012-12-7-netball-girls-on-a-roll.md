@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on netball’s continued success
 date: "2012-12-07 03:15:02 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3062"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - tna08
+ - ts3610
 highlights:
  - longread
  - photos

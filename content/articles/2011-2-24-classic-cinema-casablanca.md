@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A timeless masterpiece
 date: "2011-02-24 20:00:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "874"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gln09
 highlights:
 
 # Homepage control params

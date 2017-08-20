@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An impressive collaboration for the London medical schools neuroscience societies
 date: "2016-02-12 11:59:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5917"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
 highlights:
  - comment
 

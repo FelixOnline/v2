@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Priya chills in and around Chile's capital
 date: "2011-05-12 18:25:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1195"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - pg405
 highlights:
  - photos
 

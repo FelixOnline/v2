@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kier Little on the new trend of supercapacitors made from graphite
 date: "2013-02-28 18:00:58 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3383"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kw911
  - tna08
 highlights:
 

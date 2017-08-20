@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A shoutout to all so-called ‘science lovers’: go hard or go home.
 date: "2013-01-25 01:38:07 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3182"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kw911
  - tna08
 highlights:
  - comment

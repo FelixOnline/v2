@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alexandra Lim discusses on how our choice of food gones beyond the need of eating for survival
 date: "2017-03-10 13:33:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6868"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

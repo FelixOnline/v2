@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam finally gets his hands on a Macbook Air
 date: "2012-03-01 21:18:03 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2272"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - fa608
 highlights:
  - longread
 

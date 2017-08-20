@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Business and singing collide...
 date: "2012-11-22 22:51:51 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2934"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - emm10
  - tna08
 highlights:
 

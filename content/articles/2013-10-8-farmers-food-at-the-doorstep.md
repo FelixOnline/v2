@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Daas Kaluvan proves that quality food exists outside supermarkets
 date: "2013-10-08 11:46:29 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3819"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ak9410
  - jal08
 highlights:
  - comment

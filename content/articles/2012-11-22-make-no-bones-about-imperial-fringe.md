@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The second of the new science festivals is coming back to Imperial
 date: "2012-11-22 22:03:49 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2924"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - kmn12
  - tna08
 highlights:
 

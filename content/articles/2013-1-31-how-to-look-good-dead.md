@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rory Fenton on posthumous presentation
 date: "2013-01-31 23:42:52 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3214"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - rtf08
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over 100 protesters occupied the University of London (UoL’s) headquarters on Wednesday 4 December. The protest took place to demonstrate against the UoL’s “undemocratic and unaccountable” running.
 date: "2013-12-06 03:44:28 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4177"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - jal08
+ - nm708
 highlights:
  - comment
 

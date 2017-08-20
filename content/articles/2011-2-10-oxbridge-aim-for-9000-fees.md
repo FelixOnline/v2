@@ -4,7 +4,6 @@ title: >
 subtitle: >
   £3,000 reduction for poor students
 date: "2011-02-10 19:58:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "760"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ua108
 highlights:
 
 # Homepage control params

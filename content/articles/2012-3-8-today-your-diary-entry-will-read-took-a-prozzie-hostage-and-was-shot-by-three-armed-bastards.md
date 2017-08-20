@@ -4,7 +4,6 @@ title: >
 subtitle: >
   My name is Alex Drake, I’ve just been shot and that bullet has sent me back to 1981. I may be one second away from life, or one second away from death. All I know is that I have to keep fighting: fight to live, fight to see my daughter, fight to get home.
 date: "2012-03-08 21:32:16 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2325"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - ams111
+ - gb610
+ - tvfelix
 highlights:
 
 # Homepage control params

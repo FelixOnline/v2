@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Fulham takes a swash-buckling journey into Renaissance France
 date: "2014-02-17 18:35:22 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4397"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ef510
  - felix
 highlights:
  - comment

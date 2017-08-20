@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Design-wise, the system is a refinement, rather than a complete transformation”
 date: "2011-02-03 20:20:11 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "742"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lc107
  - nm1010
 highlights:
  - comment

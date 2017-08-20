@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The BFI Southbank's Audrey Hepburn season
 date: "2010-12-17 11:35:31 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "560"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ck806
  - ks607
 highlights:
 

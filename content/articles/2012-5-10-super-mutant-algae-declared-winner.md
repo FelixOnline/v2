@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Teams from Imperial take runner-up places in BP Ultimate Field Trip
 date: "2012-05-10 19:49:04 +0100"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2436"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - pk1811
 highlights:
  - comment

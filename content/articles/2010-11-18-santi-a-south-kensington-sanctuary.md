@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Saskia Verhagen reveals the tucked-away West London spa which caters for worn-out professionals and students alike – luxury and affordable? Show me the way...
 date: "2010-11-18 20:03:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "381"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - stv07
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How do you fire someone like Ryan Bingham?
 date: "2012-11-29 23:06:24 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3002"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - dp1710
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Impressive win in Buckinghamshire
 date: "2012-02-09 23:16:25 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2174"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - pk1811
 highlights:
 

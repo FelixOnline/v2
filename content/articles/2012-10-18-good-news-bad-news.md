@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sarah Bryne discusses our hopeless optimism
 date: "2012-10-18 21:20:32 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2701"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - slb210
 highlights:
 
 # Homepage control params

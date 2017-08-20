@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The world of social media does not have all-encompassing power
 date: "2012-06-01 12:52:29 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2514"

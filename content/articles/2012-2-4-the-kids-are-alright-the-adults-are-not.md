@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Polanski brings absolute Carnage to the screen
 date: "2012-02-04 17:19:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2135"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

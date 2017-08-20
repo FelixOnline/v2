@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Charles Betts interviews Mark Field MP for the Cities of London and Westminster on science, higher education and representing Imperial
 date: "2010-11-04 19:08:28 +0000"
-author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "327"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cb403
  - jk708
 highlights:
  - longread

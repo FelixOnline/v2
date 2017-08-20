@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Vondelpark – NYC Stuff and NYC Bags EP – 2011
 date: "2011-12-08 21:09:42 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1931"

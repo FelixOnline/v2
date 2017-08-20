@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Christopher Nichols on why the first cuckoo of spring doesn’t necessarily tell us much
 date: "2012-01-26 22:20:51 +0000"
-author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2060"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ak6309
+ - cn211
 highlights:
 
 # Homepage control params

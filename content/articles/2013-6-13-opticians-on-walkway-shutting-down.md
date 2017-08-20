@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Six months to leave the space after lease is rescinded Opticians told a catering facility will replace them
 date: "2013-06-13 23:16:44 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3691"

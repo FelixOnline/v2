@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IC Fencing undefeated
 date: "2011-02-03 20:39:23 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "752"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cl3510
  - ks607
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tyler, the Creator's second album drops
 date: "2011-05-12 18:57:31 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1200"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - gep07
 highlights:
 
 # Homepage control params

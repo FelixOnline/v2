@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Each new song was met with a wave of euphoria among the crowd
 date: "2017-03-03 15:26:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6848"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - philippantonas
 highlights:
  - comment
 

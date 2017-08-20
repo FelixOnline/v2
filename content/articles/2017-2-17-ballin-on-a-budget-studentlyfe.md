@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To get yourself a three-course meal for £13, you might have to do away with tipping, and catch the best deals. But when the food is this good, it’s all worth the effort at Percy and Founders in Fitzrovia.
 date: "2017-02-17 18:25:24 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6806"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - shanzehkhurshid
 highlights:
  - photos
 

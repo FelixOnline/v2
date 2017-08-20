@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Women@Imperial events taking place this week
 date: "2015-03-13 01:20:41 +0000"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5391"

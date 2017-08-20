@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The breakdown in the relationship between the University of London and the University of London Union continues as the University bans student protests on its property.
 date: "2013-08-07 08:30:10 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3748"

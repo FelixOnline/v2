@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nigel Ward talks to Felix about keeping your possessions in check
 date: "2015-05-29 12:46:46 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5591"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ze111
 highlights:
  - comment
 

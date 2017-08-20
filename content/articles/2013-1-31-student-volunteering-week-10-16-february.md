@@ -4,7 +4,6 @@ title: >
 subtitle: >
   From 10th - 16th February, get ready to volunteer
 date: "2013-01-31 23:10:22 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3204"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mm4711
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Spencer-Jones runs in slow motion
 date: "2013-02-14 19:28:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3325"
@@ -21,6 +20,7 @@ tags:
  - sport
  - imported
 authors:
+ - fsport
  - tna08
 highlights:
 

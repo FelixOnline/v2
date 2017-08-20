@@ -4,7 +4,6 @@ title: >
 subtitle: >
   How Mirpuris shaped the British Isles and how they themselves were changed
 date: "2011-03-18 06:44:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1110"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - kh108
+ - oh106
 highlights:
  - comment
  - longread

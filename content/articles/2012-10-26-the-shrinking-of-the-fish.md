@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Are fish getting smaller?
 date: "2012-10-26 02:26:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2743"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ams111
  - tna08
 highlights:
 

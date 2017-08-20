@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Debate featured both pro and con animal testing speakers
 date: "2015-02-12 20:51:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5233"

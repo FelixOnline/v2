@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Gray offers dark obscurities and a dreamy indie release
 date: "2013-06-20 23:10:56 +0100"
-author_id: "rbg10"
 
 # Attributes from Felix Online V1
 id: "3717"

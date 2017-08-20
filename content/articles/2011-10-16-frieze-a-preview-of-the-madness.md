@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is a whole lot of STUFF worth seeing at the Art Fair. Not all of it is Art
 date: "2011-10-16 14:31:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1547"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ian McEwan’s foray into comic satire
 date: "2011-06-16 20:43:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1397"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ghc07
 highlights:
 
 # Homepage control params

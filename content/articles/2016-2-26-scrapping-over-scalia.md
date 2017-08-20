@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The death of the conservative judge during the run up to elections means the seat could reain empty for eleven months
 date: "2016-02-26 11:29:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5959"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ng611
 highlights:
  - comment
 

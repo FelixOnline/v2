@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sony were the next of the big three to take the stage. Last year, Sony’s conference was a roaring success; a two hour “fuck you” to Microsoft.
 date: "2014-06-11 21:41:59 +0100"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4672"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mb1111
  - me1711
 highlights:
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jenny Wilson's homage to the fleet of vintage vehicles that belong to all of us
 date: "2011-03-10 19:58:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1059"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - jw1606
 highlights:
  - comment
 

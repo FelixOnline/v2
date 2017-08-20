@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madeleine Webb and George Brooks pair up to discuss the science and technical skill behind the 52 yearold exhibition and of course, what it takes to bag that coveted first prize.
 date: "2016-11-04 12:45:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6380"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - george.brooks14
+ - mw4414
 highlights:
  - longread
  - photos

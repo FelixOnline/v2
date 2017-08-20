@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Falkenberg is less than impressed at Theatre 503's latest offering
 date: "2015-01-21 20:35:01 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5110"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mff113
  - ps3110
 highlights:
 

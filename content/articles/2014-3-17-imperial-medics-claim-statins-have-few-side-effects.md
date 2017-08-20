@@ -4,7 +4,6 @@ title: >
 subtitle: >
   According to College medical researchers, statins have virtually no side effects.
 date: "2014-03-17 17:32:18 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4487"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Investigation of suspect caught on CCTV
 date: "2011-03-17 20:46:34 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1095"
@@ -21,6 +20,7 @@ tags:
  - news
  - imported
 authors:
+ - ann09
  - felix
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial NHS Trust must resolve recent media allegations
 date: "2011-11-17 21:42:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1785"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Sometimes the solutions are not the problem”
 date: "2013-10-25 00:06:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3920"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

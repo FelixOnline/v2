@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Road safety continues to be a concern around South Kensington
 date: "2012-02-03 12:01:28 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2133"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - felix
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chris Richardson overviews this backpacker's Mecca
 date: "2011-03-03 06:27:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "990"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cr709
  - felix
 highlights:
  - comment

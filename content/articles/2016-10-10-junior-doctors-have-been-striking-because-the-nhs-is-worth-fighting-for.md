@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aaina Mittal explains why junior doctors are striking not for their wallets, but for the future of the NHS.
 date: "2016-10-10 10:37:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6316"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - am10812
  - felix
 highlights:
  - photos

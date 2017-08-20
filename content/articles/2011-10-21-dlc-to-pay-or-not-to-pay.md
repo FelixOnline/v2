@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Microtransactions and DLC: a bright idea or a big mistake? Laurence Pope decides
 date: "2011-10-21 10:28:37 +0100"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "1591"

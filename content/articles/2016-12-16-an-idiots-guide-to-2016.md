@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What a year, what a dire year
 date: "2016-12-16 14:28:55 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6599"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
 highlights:
  - longread
 

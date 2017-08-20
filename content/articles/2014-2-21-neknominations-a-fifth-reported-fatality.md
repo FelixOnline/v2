@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A fifth person has been reported as having died after taking part in NekNomination online drinking game.
 date: "2014-02-21 02:50:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4409"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mtm10
 highlights:
  - photos
 

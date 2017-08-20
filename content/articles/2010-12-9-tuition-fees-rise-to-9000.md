@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student protests fail to stop coalition plans
 date: "2010-12-09 22:11:43 +0000"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "546"

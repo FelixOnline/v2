@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alice Gast believed to have worried about proximity to buildings
 date: "2016-02-26 11:27:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5958"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

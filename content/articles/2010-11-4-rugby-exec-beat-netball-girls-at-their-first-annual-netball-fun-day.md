@@ -4,7 +4,6 @@ title: >
 subtitle: >
   First Annual Netball Day.
 date: "2010-11-04 18:51:10 +0000"
-author_id: "fmg08"
 
 # Attributes from Felix Online V1
 id: "315"

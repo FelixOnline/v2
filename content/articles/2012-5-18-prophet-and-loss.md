@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Taiba Suddek talks to Hassan Abdulrazzak, one of IC’s own, about his new play exploring the Arab Spring
 date: "2012-05-18 15:49:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2472"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ts3110
 highlights:
  - longread
  - photos

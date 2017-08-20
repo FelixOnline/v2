@@ -4,7 +4,6 @@ title: >
 subtitle: >
   With anger and uncertainty over the Government’s immigration policy, Philip Kent finds out what’s going on
 date: "2015-02-27 00:45:19 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5315"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - cac111
  - pk1811
 highlights:
  - comment

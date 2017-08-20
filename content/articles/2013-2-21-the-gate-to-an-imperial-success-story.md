@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pedro Pereira interviews the UK country manager from tech startup ‘GateMe'
 date: "2013-02-21 13:21:28 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3338"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fbusines
  - pk1811
 highlights:
 

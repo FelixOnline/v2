@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It was epic
 date: "2017-03-03 15:39:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6849"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - theo.farah13
 highlights:
 
 # Homepage control params

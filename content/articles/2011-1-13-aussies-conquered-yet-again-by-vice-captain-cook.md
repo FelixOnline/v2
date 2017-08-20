@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Peter Swallow and Navin Surtani take a look at the winners & losers of the 2010/11 Ashes
 date: "2011-01-13 20:28:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "581"
@@ -26,6 +25,8 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ns08
+ - ps108
 highlights:
  - comment
 

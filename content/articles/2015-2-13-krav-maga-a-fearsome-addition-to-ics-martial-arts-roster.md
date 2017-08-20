@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Xuan Chen gives his thoughts on Imperial’s newest self defence class
 date: "2015-02-13 15:21:16 +0000"
-author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5258"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - bwh12
+ - xc3313
 highlights:
 
 # Homepage control params

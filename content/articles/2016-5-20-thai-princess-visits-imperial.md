@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Princess Chulabhorn has a Chemistry PhD
 date: "2016-05-20 08:47:49 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6172"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What’s in a name? Probably some erotica, as the name is “The Vibrator Play”...
 date: "2013-12-06 04:12:44 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4192"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - jal08
 highlights:
 

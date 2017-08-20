@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A great example of modern independent film-making driven by rare originality
 date: "2010-12-02 20:21:08 +0000"
-author_id: "jl4310"
 
 # Attributes from Felix Online V1
 id: "467"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Simpson grabs his balls well
 date: "2013-02-08 00:25:42 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3271"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fsport
  - tna08
 highlights:
 

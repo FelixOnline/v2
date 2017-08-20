@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Duke is on at the Jerwood Theatre (Royal Court Theatre) until the 14th of February 2017
 date: "2016-12-09 16:00:09 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6589"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - im1413
 highlights:
 
 # Homepage control params

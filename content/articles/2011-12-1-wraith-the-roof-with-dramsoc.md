@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A play with more than the average number of sofa-wetting whale references
 date: "2011-12-01 20:34:03 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1872"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - sjw209
+ - wsp10
 highlights:
 
 # Homepage control params

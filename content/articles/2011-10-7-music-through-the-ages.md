@@ -4,7 +4,6 @@ title: >
 subtitle: >
   C. I. Franke would like a word with your parents about their shockingly bad taste in music
 date: "2011-10-07 12:32:37 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "1492"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cif110
  - mc4509
 highlights:
 

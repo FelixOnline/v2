@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The change in ‘Rock & Roll’
 date: "2011-01-20 20:38:21 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "630"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lht09
  - nm1010
 highlights:
 

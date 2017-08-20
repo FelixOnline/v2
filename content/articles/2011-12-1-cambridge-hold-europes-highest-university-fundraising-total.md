@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two billion dollars raised over a ten year period
 date: "2011-12-01 22:29:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1902"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - nk511
 highlights:
 
 # Homepage control params

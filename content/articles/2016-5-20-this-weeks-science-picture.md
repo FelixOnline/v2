@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column
 date: "2016-05-20 09:09:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6185"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nk1515
 highlights:
 
 # Homepage control params

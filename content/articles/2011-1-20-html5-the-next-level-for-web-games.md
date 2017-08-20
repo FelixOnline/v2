@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gaming is no longer all about consoles. Welcome to HTML5 gaming!
 date: "2011-01-20 20:01:38 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "620"

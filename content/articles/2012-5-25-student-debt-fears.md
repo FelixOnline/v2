@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Try being a candidate in a national election!
 date: "2012-05-25 18:49:08 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2502"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jal08
  - mc4509
 highlights:
 

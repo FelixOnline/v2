@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Fernando implores you to help the homeless in London
 date: "2013-06-21 00:59:57 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3738"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - tna08
 highlights:
  - comment

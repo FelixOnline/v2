@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Let’s not sugar-coat this, Super Meat Boy is balls to the wall hard
 date: "2011-01-27 20:23:59 +0000"
-author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "692"

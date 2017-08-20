@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reverse-searing is the the most impressive way to cook a steak on a student budget
 date: "2015-10-23 11:31:49 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5665"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sb6213
  - ygr12
 highlights:
  - comment

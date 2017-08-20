@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas pontificate on Frieze
 date: "2012-10-18 21:09:24 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2691"
@@ -22,6 +21,8 @@ tags:
  - imported
  - image
 authors:
+ - cmt09
+ - er310
  - felix
 highlights:
  - longread

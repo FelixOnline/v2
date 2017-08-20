@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New BP graduate scheme gives students an Olympic chance
 date: "2012-06-01 12:11:10 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2508"

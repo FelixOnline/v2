@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Music with a strictly organic feel
 date: "2016-02-26 11:52:46 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5973"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jl
+ - jl9314
 highlights:
  - comment
 

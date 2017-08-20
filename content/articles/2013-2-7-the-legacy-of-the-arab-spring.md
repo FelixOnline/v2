@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As France pursues its intervention in Mali, Alexander Soloviev looks into Middle Eastern affairs.
 date: "2013-02-07 23:17:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3257"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - as9810
  - tna08
 highlights:
 

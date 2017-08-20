@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Margot Pikovsky on the Wildlife Photographer of the Year entries currently exhibited in the Natural History Museum
 date: "2012-01-26 22:16:18 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2056"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - mp1710
 highlights:
  - photos
 

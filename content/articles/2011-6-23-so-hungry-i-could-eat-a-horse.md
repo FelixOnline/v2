@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And why shouldn't I?
 date: "2011-06-23 21:14:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1435"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sf305
 highlights:
 
 # Homepage control params

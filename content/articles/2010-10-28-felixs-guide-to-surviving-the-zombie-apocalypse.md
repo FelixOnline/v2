@@ -4,7 +4,6 @@ title: >
 subtitle: >
   brrraaaaaaaiiiiiiiinnnnnsssssss.....
 date: "2010-10-28 19:19:51 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "258"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lap08
 highlights:
 
 # Homepage control params

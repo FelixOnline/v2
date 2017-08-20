@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Football Columnist James White take a look at a Premier League season that really did have it all.
 date: "2014-05-19 13:43:45 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4609"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - jpw12
 highlights:
  - longread
 

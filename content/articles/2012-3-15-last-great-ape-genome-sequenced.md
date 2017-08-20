@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Genome sequences for each of the four great ape groups have been investigated
 date: "2012-03-15 19:58:32 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2354"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - skd09
 highlights:
  - comment
 

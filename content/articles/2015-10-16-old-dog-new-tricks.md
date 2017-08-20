@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Can Twitter’s recently re-instated CEO, Jack Dorsey, do better this time?
 date: "2015-10-16 14:56:48 +0100"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5660"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ah1514
  - ygr12
 highlights:
  - comment

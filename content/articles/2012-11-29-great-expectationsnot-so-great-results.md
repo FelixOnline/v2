@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Starring: Jeremy Irvine, Ralph Fiennes, Helena Bonham Carter, Holliday Grainger
 date: "2012-11-29 23:00:58 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2998"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - csw09
+ - jgp09
 highlights:
 
 # Homepage control params

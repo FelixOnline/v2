@@ -4,7 +4,6 @@ title: >
 subtitle: >
   More than 2200 undergraduates passed through the Royal Albert Hall to receive their degrees in three separate ceremonies that took part during Commemoration Day.
 date: "2014-10-24 12:18:53 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4743"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn urges you not to freak out about this week’s centrefold
 date: "2016-10-28 14:53:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6349"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ec2212
 highlights:
  - photos
 

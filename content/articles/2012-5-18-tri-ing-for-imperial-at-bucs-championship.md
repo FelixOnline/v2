@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Swim, bike, run, done
 date: "2012-05-18 17:03:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2479"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sc308
 highlights:
  - comment
 

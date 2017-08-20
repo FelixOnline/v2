@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Being friends doesn't make it okay
 date: "2016-10-31 22:44:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6370"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
  - longread
  - photos

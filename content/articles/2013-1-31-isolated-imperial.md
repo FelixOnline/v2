@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Catina Willows thinks Imperial needs to get out more
 date: "2013-01-31 23:41:15 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3213"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

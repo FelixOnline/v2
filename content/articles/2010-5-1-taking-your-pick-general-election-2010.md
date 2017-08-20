@@ -4,7 +4,6 @@ title: >
 subtitle: >
   56% of Imperial students are voting Lib Dem at the General Election, but who should you be voting for?
 date: "2010-05-01 19:12:48 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "135"

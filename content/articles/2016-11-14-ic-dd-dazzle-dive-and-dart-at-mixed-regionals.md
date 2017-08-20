@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Although nerve-racking at times, the team were able to pull out a win
 date: "2016-11-14 14:19:25 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6448"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ajf14
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Liam Neeson cements his status as action man of the moment – shame about the wolves
 date: "2012-02-04 17:28:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2136"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - felix
 highlights:
 

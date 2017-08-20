@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fiona Cameron reports on the Imperial vs RSM battles
 date: "2013-02-01 00:28:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3228"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fc1510
  - tna08
 highlights:
  - photos

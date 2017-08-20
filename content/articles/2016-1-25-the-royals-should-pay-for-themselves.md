@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If we cut spending on the royals, the money could be better spent elsewhere
 date: "2016-01-25 14:28:57 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5832"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - je615
 highlights:
  - comment
 

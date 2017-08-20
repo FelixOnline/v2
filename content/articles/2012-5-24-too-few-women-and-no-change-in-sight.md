@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam on how equality is a long way away in the world of ‘brogrammers’
 date: "2012-05-24 23:24:09 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2488"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fa608
  - mc4509
 highlights:
  - comment

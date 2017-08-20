@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caravan Palace hold their first UK concert
 date: "2012-12-07 03:37:59 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3066"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ss9011
  - tna08
 highlights:
 

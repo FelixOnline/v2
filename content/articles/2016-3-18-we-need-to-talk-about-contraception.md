@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Safe sex should be something to shout about
 date: "2016-03-18 11:46:12 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6057"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - icanon
 highlights:
  - comment
  - longread

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Justin Timberlake announced the "new Myspace" which is set to launch soon, but will it be second time lucky for the former social networking powerhouse.
 date: "2012-10-05 11:53:54 +0100"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2605"

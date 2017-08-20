@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles is amazed by this painter’s long-awaited retrospective
 date: "2015-02-07 19:10:45 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5204"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - ps3110
 highlights:
  - comment

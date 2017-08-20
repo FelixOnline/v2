@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chicken korma, cobra beer and Slumdog – made in the UK
 date: "2010-11-18 20:58:11 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "398"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - lj810
 highlights:
 
 # Homepage control params

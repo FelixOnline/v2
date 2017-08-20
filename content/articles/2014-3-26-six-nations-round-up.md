@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In the aftermath of one of the most poetic endings to the Six Nations yet, familiar foes Jonny Pratt and Tessa Davey give their verdict on the best, and worst, of the Six Nations
 date: "2014-03-26 15:33:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4510"
@@ -23,6 +22,8 @@ tags:
  - image
 authors:
  - jal08
+ - jp1910
+ - tad08
 highlights:
 
 # Homepage control params

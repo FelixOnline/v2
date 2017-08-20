@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An online exclusive on tackling inequality in the education system
 date: "2011-10-13 23:44:39 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1528"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - yw3410
 highlights:
  - comment
 

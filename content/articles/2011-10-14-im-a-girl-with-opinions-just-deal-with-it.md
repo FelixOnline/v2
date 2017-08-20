@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A word to the wise from 'the other side' of Imperial
 date: "2011-10-14 00:32:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1538"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

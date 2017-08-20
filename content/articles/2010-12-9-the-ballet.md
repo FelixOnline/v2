@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sylvia is a magical introduction to the best ticket in London this Christmas, a night at the Royal Opera House
 date: "2010-12-09 21:24:18 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "533"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jb307
  - ks607
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Overtime cup progression for the mighty Rugby 2s
 date: "2015-11-20 09:47:40 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5765"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - ear14
  - ygr12
 highlights:
  - comment

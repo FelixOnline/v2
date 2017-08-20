@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken chronicles the continuing reinvention of one of Britain’s best-loved bands
 date: "2015-02-20 17:42:27 +0000"
-author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5296"

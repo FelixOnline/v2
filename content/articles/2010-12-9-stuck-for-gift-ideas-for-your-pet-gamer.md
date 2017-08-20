@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Got gaming friends? Maybe game gifts are the answer!
 date: "2010-12-09 19:57:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "513"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lap08
 highlights:
  - comment
 

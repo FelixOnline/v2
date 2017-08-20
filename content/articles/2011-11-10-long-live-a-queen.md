@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maintaining a misogynist monarchy
 date: "2011-11-10 20:18:00 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1710"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - pk1811
+ - rj408
 highlights:
  - comment
 

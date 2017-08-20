@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A less 'mainstream' view of Formula 1
 date: "2010-12-09 20:19:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "520"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jat07
 highlights:
 
 # Homepage control params

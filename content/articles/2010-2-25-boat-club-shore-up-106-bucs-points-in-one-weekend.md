@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Incredible weekend for rowers
 date: "2010-02-25 19:04:58 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "109"

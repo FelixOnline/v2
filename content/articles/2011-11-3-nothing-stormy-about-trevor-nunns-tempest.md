@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Despite all of the magic on offer, this production of Shakespeare's play fails to really take off
 date: "2011-11-03 21:39:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1689"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - felix
 highlights:
 

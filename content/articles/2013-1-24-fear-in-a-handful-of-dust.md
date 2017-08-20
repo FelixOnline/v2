@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Riaz Agahi reviews Hacker Farm’s new album, UHF
 date: "2013-01-24 22:33:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3166"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ra2410
  - tna08
 highlights:
  - comment

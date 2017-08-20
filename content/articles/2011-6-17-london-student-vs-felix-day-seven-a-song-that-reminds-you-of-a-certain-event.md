@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on the seventh day of our 30-day Song Challenge duel
 date: "2011-06-17 12:11:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1404"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sorin Cioban finds the iPad 2 delivers consistently
 date: "2011-05-06 08:27:31 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1157"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - sc1210
 highlights:
 
 # Homepage control params

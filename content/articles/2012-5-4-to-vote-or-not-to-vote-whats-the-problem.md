@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Policy rather than posturing
 date: "2012-05-04 00:20:18 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2420"

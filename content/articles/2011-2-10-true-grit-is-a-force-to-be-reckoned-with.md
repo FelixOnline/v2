@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Coen brothers’ gun standoffs are superb and stylish.
 date: "2011-02-10 20:40:55 +0000"
-author_id: "ghc07"
 
 # Attributes from Felix Online V1
 id: "780"

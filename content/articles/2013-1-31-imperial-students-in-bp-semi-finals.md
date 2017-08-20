@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial once again get close to the Ultimate Field Trip
 date: "2013-01-31 22:29:39 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3196"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - nm708
  - tna08
 highlights:
 

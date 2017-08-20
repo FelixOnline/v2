@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jack Steadman sees Brandon Flowers command the Brixton Academy stage
 date: "2015-05-29 12:19:33 +0100"
-author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5587"

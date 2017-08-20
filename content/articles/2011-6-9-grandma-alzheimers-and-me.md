@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A very personal account of the impact of this terrible disease
 date: "2011-06-09 21:34:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1352"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - gw210
 highlights:
  - comment
 

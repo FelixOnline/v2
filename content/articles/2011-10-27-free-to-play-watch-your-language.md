@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Free-to-Play is often anything but. Laurence Pope debunks the idea that F2P games are a poor gamer’s wet dream
 date: "2011-10-27 23:25:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1621"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lap08
 highlights:
  - comment
 

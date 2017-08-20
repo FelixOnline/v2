@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Woman in Black
 date: "2012-02-16 21:04:01 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2182"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lw408
  - pk1811
 highlights:
 

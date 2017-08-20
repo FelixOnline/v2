@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eels: Wonderful, Glorious
 date: "2013-02-28 23:30:50 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3389"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - kw911
  - tna08
 highlights:
 

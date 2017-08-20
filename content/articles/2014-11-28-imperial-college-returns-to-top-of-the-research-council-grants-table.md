@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Making it rain with the monies
 date: "2014-11-28 00:38:06 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4961"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - kmw13
  - ps3110
 highlights:
  - comment

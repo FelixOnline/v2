@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily Jane Cramphorn pumps you up and reminds you it's ok to get the blues
 date: "2017-01-20 15:03:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6661"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ec2212
 highlights:
 
 # Homepage control params

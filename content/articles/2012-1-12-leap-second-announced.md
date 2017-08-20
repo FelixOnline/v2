@@ -4,7 +4,6 @@ title: >
 subtitle: >
   IERS to apply this to resolve inaccuracies in timekeeping
 date: "2012-01-12 22:27:06 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1984"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - pk1811
 highlights:
  - comment
 

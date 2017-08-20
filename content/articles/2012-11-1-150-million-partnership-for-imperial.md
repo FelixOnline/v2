@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial West development gets another boost
 date: "2012-11-01 22:13:55 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2779"

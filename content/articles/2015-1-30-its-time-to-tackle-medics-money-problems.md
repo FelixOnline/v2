@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jennifer Watson asks whether the College offer enough support
 date: "2015-01-30 00:03:33 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5161"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jw3510
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the new Earth-based Lunar Embassy
 date: "2014-01-17 03:41:20 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4238"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ff712
  - jal08
 highlights:
  - comment

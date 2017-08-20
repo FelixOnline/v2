@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The Switch made the news for its innovation but is it any good? Cale Tilford dishes on its performance
 date: "2017-03-17 17:31:54 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6919"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - cet13
 highlights:
  - comment
 

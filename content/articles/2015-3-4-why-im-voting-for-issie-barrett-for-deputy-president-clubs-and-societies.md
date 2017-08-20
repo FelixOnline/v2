@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emiel de Lange explains why he thinks Issie deserves your vote
 date: "2015-03-04 13:58:37 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5333"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ed812
  - ps3110
 highlights:
  - comment

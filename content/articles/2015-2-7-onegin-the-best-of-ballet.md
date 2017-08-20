@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the Royal Opera House’s take on a ballet classic
 date: "2015-02-07 19:03:49 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5201"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cfc111
  - ps3110
 highlights:
  - comment

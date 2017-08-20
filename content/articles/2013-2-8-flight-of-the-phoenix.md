@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ben Fernando reports on an easy theft of ICSM’s mascot
 date: "2013-02-08 00:34:45 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3275"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - baf12
  - tna08
 highlights:
  - comment

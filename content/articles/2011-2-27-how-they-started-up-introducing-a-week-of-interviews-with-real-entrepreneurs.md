@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week, Felix interviews three innovative businesses about their experiences
 date: "2011-02-27 19:01:48 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "906"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ks607
+ - sa1908
 highlights:
 
 # Homepage control params

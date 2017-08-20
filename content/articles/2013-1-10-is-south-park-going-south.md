@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maximilian Eggl gets animated about the latest season
 date: "2013-01-10 22:57:25 +0000"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3099"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - csw09
+ - me1711
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonathan Masters on the NUS initiative to encourage students to vote against “pledge breakers”
 date: "2015-05-01 00:11:44 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5478"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jm5014
  - ps3110
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   If you know what I mean
 date: "2016-11-25 14:52:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6517"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - imrajsingh
 highlights:
 
 # Homepage control params

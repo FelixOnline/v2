@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This 'War on Terror' nonsense just won't do
 date: "2011-05-20 05:54:21 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1230"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sf305
 highlights:
  - comment
 

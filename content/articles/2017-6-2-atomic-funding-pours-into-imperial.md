@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The nuclear sector has contributed £9.36 million
 date: "2017-06-02 13:49:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6997"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jmw216
 highlights:
  - comment
 

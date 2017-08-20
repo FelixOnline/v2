@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The team tries SPORTS
 date: "2016-11-25 14:59:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6519"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ss11814
 highlights:
 
 # Homepage control params

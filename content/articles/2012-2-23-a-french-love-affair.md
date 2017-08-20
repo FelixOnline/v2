@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caroline Wood fell in love - with a handbag
 date: "2012-02-23 20:36:11 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2237"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ams111
+ - csw09
 highlights:
  - comment
  - photos

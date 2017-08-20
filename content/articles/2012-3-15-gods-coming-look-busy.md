@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Niven’s religous satire fails to impress
 date: "2012-03-15 21:06:27 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2369"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - js5611
  - pk1811
 highlights:
 

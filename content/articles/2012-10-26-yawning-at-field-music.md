@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mark England notices an uncool band
 date: "2012-10-26 03:15:20 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2771"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - me1409
  - tna08
 highlights:
 

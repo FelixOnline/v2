@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chinhua Yap implores you to enjoy the finer details of food
 date: "2011-02-17 19:37:06 +0000"
-author_id: "chy09"
 
 # Attributes from Felix Online V1
 id: "821"

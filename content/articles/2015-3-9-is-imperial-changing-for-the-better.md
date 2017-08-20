@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tessa Davey looks back on seven years of Imperial and Felix
 date: "2015-03-09 18:18:04 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5371"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - tad08
 highlights:
  - comment
 

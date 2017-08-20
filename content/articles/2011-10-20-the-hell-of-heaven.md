@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Is paradise all it's cracked up to be?
 date: "2011-10-20 22:11:22 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1568"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sph109
 highlights:
  - comment
 

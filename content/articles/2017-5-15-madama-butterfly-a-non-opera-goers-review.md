@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Madama Butterfly was on stage from the 20th of March to the 25th of April 2017 as part of the Spring 2016/17 season
 date: "2017-05-15 16:21:23 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6952"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
 highlights:
  - photos
 

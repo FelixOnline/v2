@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn talks about the importance of eating disorder awarenees and how conversation is the only way to tackle the stigma
 date: "2017-03-03 14:50:18 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6840"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - ec2212
 highlights:
  - comment
 

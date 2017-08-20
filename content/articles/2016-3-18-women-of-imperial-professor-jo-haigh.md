@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FELIX talks to the first female Head of Physics at Imperial
 date: "2016-03-18 11:54:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6064"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - nk1515
 highlights:
 
 # Homepage control params

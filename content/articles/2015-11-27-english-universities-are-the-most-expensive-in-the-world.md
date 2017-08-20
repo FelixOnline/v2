@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Study finds that on average, degrees in the England cost more than in the US
 date: "2015-11-27 11:47:35 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5770"

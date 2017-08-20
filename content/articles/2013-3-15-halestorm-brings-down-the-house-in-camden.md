@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plabon Saha reports back from the Electric Ballroom
 date: "2013-03-15 02:50:23 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3492"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ps3411
  - tna08
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The book that will make you a conscientious omnivore
 date: "2011-02-03 19:30:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "716"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - saw110
 highlights:
 
 # Homepage control params

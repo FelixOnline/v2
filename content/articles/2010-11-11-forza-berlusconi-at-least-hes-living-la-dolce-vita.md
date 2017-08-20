@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Italy may be a ship full of holes but it refuses to sink and there’s no better captain than Silvio
 date: "2010-11-11 21:13:17 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "355"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb403
  - felix
 highlights:
  - comment

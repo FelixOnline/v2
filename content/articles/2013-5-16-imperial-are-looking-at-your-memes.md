@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College posts on Imperial Memes to warn people not to be damaging to their reputation
 date: "2013-05-16 20:53:03 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3594"

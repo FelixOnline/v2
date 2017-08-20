@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial 1st 2–6 Bath 1st.
 date: "2011-03-03 08:29:49 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "995"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lbb06
 highlights:
  - comment
 

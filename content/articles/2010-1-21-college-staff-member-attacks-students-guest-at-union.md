@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College staff member attack's student's guest at Union
 date: "2010-01-21 21:39:27 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "44"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - dww07
  - felix
 highlights:
  - comment

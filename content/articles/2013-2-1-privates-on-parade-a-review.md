@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eva Rosenthal enjoys a camp play with just enough serious tinges
 date: "2013-02-01 00:13:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3223"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - er310
  - tna08
 highlights:
 

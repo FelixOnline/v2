@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Willetts uses visit to Imperial to announce the creation of new Doctoral Training Centres
 date: "2014-01-17 03:02:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4221"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - mtm10
 highlights:
 
 # Homepage control params

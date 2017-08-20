@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An incredible night of thoughtful rap
 date: "2012-11-09 14:22:30 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2871"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ps807
  - tna08
 highlights:
  - comment

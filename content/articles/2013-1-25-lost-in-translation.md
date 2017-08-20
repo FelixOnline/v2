@@ -4,7 +4,6 @@ title: >
 subtitle: >
   An editorial about the proposal to close the Translation Unit
 date: "2013-01-25 00:52:37 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3172"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

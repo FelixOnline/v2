@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett reviews Imperial Festival and the wider public engagement movement
 date: "2014-05-16 01:46:17 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4599"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ps3110
 highlights:
  - longread
 

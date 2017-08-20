@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fencing grab the gold(s)
 date: "2010-01-14 19:24:16 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "37"

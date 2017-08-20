@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There is magic to be experienced in Britain's train network
 date: "2011-11-24 22:47:42 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1843"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - pk1811
+ - rjd08
 highlights:
 
 # Homepage control params

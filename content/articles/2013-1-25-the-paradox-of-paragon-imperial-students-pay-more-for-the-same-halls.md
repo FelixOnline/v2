@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College give multiple reasons for the disparity
 date: "2013-01-25 01:14:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3174"

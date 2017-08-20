@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Chanon Wongsatayanont talks about coping with long distance relationships
 date: "2015-02-03 13:30:46 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5180"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cw3414
  - ps3110
 highlights:
  - comment

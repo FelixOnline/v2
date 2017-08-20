@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Nickolai Vysokov talks to Kadhim Shubber about the problems he’s experiencing due to the Life Sciences cuts
 date: "2010-12-09 21:58:57 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "544"

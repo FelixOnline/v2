@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carys Cook on how human activity may cause a delay in the next ice age
 date: "2012-01-19 20:03:21 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2003"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cc1109
  - pk1811
 highlights:
  - comment

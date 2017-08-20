@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jessica Poore on the club’s Summer tour
 date: "2011-06-12 16:28:19 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1371"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cjb07
+ - jbp07
 highlights:
 
 # Homepage control params

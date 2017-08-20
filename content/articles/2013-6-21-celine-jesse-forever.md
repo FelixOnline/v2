@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Before Midnight Review
 date: "2013-06-21 00:18:53 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3730"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jgp09
  - tna08
 highlights:
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Medical Student Suha Bachir discovers how to balance a successful academic career with teaching, and even editing!
 date: "2011-04-07 21:06:20 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1131"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sb705
 highlights:
  - comment
  - longread

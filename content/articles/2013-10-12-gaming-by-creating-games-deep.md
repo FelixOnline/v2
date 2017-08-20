@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Max Eggl discovers that, woah, he can totally develop games
 date: "2013-10-12 23:45:05 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3869"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - me1711
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Gavin Metcalf details the concerning rise of European lung cancer cases
 date: "2013-05-08 16:31:22 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3549"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - gm12
  - tna08
 highlights:
 

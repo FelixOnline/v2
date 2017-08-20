@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Applications have fallen for the first time in 16 years
 date: "2013-01-25 01:30:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3179"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ar3310
  - tna08
 highlights:
 

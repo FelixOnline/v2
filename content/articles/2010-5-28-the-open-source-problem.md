@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Feroz Salam looks at why the open source mantra is so confused
 date: "2010-05-28 10:28:32 +0100"
-author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "140"

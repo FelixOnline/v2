@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Artificial brains move one step closer to reality
 date: "2011-11-10 21:00:39 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1723"
@@ -21,6 +20,7 @@ tags:
  - science
  - imported
 authors:
+ - mtm10
  - pk1811
 highlights:
 

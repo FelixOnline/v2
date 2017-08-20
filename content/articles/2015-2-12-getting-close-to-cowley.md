@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Xuan Chen interviews one of the country’s most influential man about science, energy and how he maintains his hair
 date: "2015-02-12 23:25:34 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5249"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jyg11
+ - xc3313
 highlights:
  - longread
 

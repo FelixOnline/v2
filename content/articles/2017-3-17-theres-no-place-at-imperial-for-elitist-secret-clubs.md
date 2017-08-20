@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Andrew Olson thinks it's time the exclusive drinking societies were held to the same standard as everyone else
 date: "2017-03-17 17:01:58 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6908"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ado13
  - felix
 highlights:
  - comment

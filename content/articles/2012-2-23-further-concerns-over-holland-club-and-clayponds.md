@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Postgraduate panel highlights issues
 date: "2012-02-23 23:11:43 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2263"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

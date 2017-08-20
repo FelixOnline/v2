@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Suspected to be the person behind multiple pages
 date: "2015-01-23 01:27:59 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5124"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - cac111
  - pk1811
+ - ps3110
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   College Chaplain Andrew Wilson urges a dialogue between faiths
 date: "2013-02-14 00:38:29 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3317"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - felix
  - tna08
 highlights:
  - comment

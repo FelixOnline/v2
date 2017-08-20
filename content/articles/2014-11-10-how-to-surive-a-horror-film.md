@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ellen Mathieson gives you some top tips to make it through any evil encounters you might have this Halloween
 date: "2014-11-10 21:44:47 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4826"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - em2512
  - ps3110
 highlights:
  - comment

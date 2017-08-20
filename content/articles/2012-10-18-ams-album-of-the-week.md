@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Godspeed You! Black Emperor: Allelujah! Don’t Bend! Ascend!
 date: "2012-10-18 21:36:20 +0100"
-author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2715"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - csw09
+ - fmusic
 highlights:
 
 # Homepage control params

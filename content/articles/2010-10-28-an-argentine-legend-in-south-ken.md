@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The world renowned Argentine steak at El Gauchoa
 date: "2010-10-28 19:41:36 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "271"
@@ -21,6 +20,7 @@ tags:
  - food
  - imported
 authors:
+ - emann
  - felix
 highlights:
 

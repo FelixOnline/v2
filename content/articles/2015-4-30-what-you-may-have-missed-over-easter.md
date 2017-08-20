@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carol Ann Cheah recaps some of the last month’s news stories
 date: "2015-04-30 22:58:02 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5472"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cac111
  - ps3110
 highlights:
  - comment

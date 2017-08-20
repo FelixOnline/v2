@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A look at the information our browsing gives away and how we're not as anonymous as you might think
 date: "2010-03-04 12:33:34 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "117"

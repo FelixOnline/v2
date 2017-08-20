@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Google pushing for legalisation in the US
 date: "2011-05-20 05:59:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1235"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fa608
  - felix
 highlights:
  - comment

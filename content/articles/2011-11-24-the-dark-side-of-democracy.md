@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica takes a look at the downfall of Berlusconi
 date: "2011-11-24 22:46:12 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1841"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pa07
  - pk1811
 highlights:
 

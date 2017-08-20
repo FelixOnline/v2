@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Aperture Science CEO Cave Johnson on why you should hand over your money
 date: "2011-05-06 14:59:38 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1173"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - lap08
  - sjw209
 highlights:
  - comment

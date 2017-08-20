@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As a fan of the series ever since Mario Kart SNES I can truly say that, in my opinion, this is the best Mario Kart to date. Mario Kart, like many Nintendo games, has mostly retained the same formula for each game.
 date: "2014-06-06 02:52:03 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4667"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - css11
  - jal08
 highlights:
 

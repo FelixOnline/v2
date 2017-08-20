@@ -4,7 +4,6 @@ title: >
 subtitle: >
   I urge you, be lazy. Be satisfied with your simplicity. Be average. Be mediocre
 date: "2011-06-11 17:29:56 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1359"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - pa07
 highlights:
 
 # Homepage control params

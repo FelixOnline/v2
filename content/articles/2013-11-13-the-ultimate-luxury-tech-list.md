@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Informing you on what you HAVE to have!
 date: "2013-11-13 22:57:18 +0000"
-author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4052"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - me1711
+ - oa1612
 highlights:
  - photos
 

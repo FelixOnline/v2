@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on lowering your risk of colon cancer
 date: "2015-05-15 12:01:20 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5526"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - ltr11
 highlights:
  - comment
 

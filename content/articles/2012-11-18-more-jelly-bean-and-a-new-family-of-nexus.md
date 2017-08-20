@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yong Wen Chua checks out Androids latest OS and has a look at the Nexus
 date: "2012-11-18 13:18:43 +0000"
-author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2923"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jp1409
+ - ywc110
 highlights:
  - longread
  - photos

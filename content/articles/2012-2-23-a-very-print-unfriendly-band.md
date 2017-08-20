@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mourning the loss of a beloved eccentric
 date: "2012-02-23 21:25:31 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2253"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - fmusic
 highlights:
 
 # Homepage control params

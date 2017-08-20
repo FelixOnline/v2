@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The title is a reference to Nouvelle Vague, I think. For more information on niche references, email arts.felix@imperial.ac.uk
 date: "2013-05-16 17:46:13 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3572"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - lwl09
  - tna08
 highlights:
  - photos

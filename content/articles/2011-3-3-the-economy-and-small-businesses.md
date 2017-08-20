@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Part one of Sina Ataherian’s two part interview with James King about Find Invest Grow, the student-focus venture capital firm he founded in late 2009
 date: "2011-03-03 05:51:15 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "981"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sa1908
 highlights:
  - longread
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Spencer Bennett goes on a lads holiday (they even got matching shirts)
 date: "2013-09-29 16:30:55 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3791"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - sb3610
  - tna08
 highlights:
  - comment

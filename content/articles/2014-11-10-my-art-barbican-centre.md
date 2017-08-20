@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dara Rasasingam tells us about her favourite spot in London
 date: "2014-11-10 21:18:05 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4817"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dsr112
  - ps3110
 highlights:
  - photos

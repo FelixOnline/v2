@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deepka Rana talks to Unishack.com’s founder, Ben Oakenfull
 date: "2012-10-26 02:09:55 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2735"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dr710
  - tna08
 highlights:
 

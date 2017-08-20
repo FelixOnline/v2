@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indira Mallik explains how prejudices have clouded our appreciation of art
 date: "2014-12-18 16:12:55 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5071"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ff712
+ - im1413
 highlights:
  - longread
 

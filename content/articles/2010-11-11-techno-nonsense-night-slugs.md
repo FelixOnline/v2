@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter continues his tour of the electronic realm with London’s Night Slugs
 date: "2010-11-11 21:24:41 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "362"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - sh1207
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   RCSU Science Challenge is back for another year, with a total prize pot of £4000 and an all expenses paid trip to CERN up for grabs
 date: "2013-01-17 23:53:22 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3123"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jt2010
  - tna08
 highlights:
  - comment

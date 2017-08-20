@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Politics is alive and kicking at Imperial, and so are world leaders from science and engineering backgrounds
 date: "2010-10-07 22:51:08 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "180"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - hj408
 highlights:
  - comment
 

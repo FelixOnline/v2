@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter gets to grips with London’s latest dance music pioneers
 date: "2012-03-15 21:34:22 +0000"
-author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2387"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ig711
+ - sh1207
 highlights:
 
 # Homepage control params

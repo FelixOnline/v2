@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Two very different artists on show at East London gallery
 date: "2012-11-23 00:17:47 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2967"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ff712
  - tna08
 highlights:
  - longread

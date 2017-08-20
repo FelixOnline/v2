@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Epigenetic differences are being found in an almost-unlimited number of diseases: cancer, epilepsy, arthritis, obesity. A recent paper published in PLoS Genetics has now found that epigenetic changes may influence how susceptible one is to type 2 diabetes.
 date: "2014-04-07 12:58:27 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4527"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - frh10
  - jal08
 highlights:
 

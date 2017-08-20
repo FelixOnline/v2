@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philippa Skett watches as the nine singing troupes take the to stage
 date: "2015-01-29 23:56:47 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5158"

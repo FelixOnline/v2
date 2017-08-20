@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Some postgraduate students are critical of the h-bar but looking forward to some of the services it provides.
 date: "2013-11-08 03:40:36 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4022"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ma1307
 highlights:
  - comment
 

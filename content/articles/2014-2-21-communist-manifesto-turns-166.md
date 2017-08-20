@@ -4,7 +4,6 @@ title: >
 subtitle: >
   To celebrate the 166th anniversary of the publication of the Communist Manifesto, I shall be writing a three part series on the Manifesto: on its theoretical contents, on its history and impact and on its flaws and its position in Marxist thought.
 date: "2014-02-21 03:30:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4431"
@@ -21,6 +20,7 @@ tags:
  - comment
  - imported
 authors:
+ - ck2513
  - felix
 highlights:
  - longread

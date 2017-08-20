@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It's happening. Slowly, but steadily and inevitably.
 date: "2017-01-27 17:04:05 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6700"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ad4013
 highlights:
  - photos
 

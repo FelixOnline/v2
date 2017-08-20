@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why snacking isn't so bad for you
 date: "2013-03-07 21:42:13 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "3429"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - sjw209
+ - srg109
 highlights:
 
 # Homepage control params

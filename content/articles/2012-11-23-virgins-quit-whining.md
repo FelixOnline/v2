@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Renos Karamanis enjoys a night alone with his laptop
 date: "2012-11-23 00:04:17 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2958"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - rk610
  - tna08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Should we save hedgehogs at the expense of becoming a global laughing stock?
 date: "2015-11-27 14:17:33 +0000"
-author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5774"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - je615
  - ygr12
 highlights:
  - comment

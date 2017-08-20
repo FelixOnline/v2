@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Caz Knight eagerly attends the intriguing summer installation at South Bank's Hayward Gallery, but is left disappointed
 date: "2010-09-01 15:59:31 +0100"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "154"

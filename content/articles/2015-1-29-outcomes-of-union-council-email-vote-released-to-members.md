@@ -4,7 +4,6 @@ title: >
 subtitle: >
   June Yin Gan covers the resolutions of the controversial council papers, despite three votes cast after deadline
 date: "2015-01-29 23:57:46 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5159"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jyg11
  - ps3110
 highlights:
 

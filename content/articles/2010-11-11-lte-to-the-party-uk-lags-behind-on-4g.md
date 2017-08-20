@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s almost 2011 already. Where’s my super fast 4G?!
 date: "2010-11-11 20:34:39 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "340"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jl4310
 highlights:
 
 # Homepage control params

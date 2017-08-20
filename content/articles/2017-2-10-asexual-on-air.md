@@ -4,7 +4,6 @@ title: >
 subtitle: >
    Even terms such as ‘LGBT’ can sometimes forget to include certain groups of people
 date: "2017-02-10 15:55:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6768"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - harrywilkinson
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Katherine Portilla takes a look at Scotland’s finest weekend
 date: "2011-06-16 20:49:40 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1399"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - kp2209
 highlights:
 
 # Homepage control params

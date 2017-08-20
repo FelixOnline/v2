@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Food Editor Michael Chung on food waste.
 date: "2013-10-25 01:04:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3947"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ykc111
 highlights:
 
 # Homepage control params

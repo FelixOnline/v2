@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Zhejiang University sign agreement with Imperial
 date: "2013-05-23 22:25:37 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3617"

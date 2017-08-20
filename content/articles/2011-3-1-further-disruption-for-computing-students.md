@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Server issues as rootkit investigation continues
 date: "2011-03-01 20:36:00 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "955"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ak6309
  - felix
 highlights:
 

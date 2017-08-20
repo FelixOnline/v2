@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Science recaps what went on in the world outside revision and the library. Just to annoy you, we've not gone for the non-alphabetical order of the names.
 date: "2013-05-01 19:11:16 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3519"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - fsci
+ - ps3110
  - tna08
 highlights:
  - comment

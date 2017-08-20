@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Website found that acts as conduit for people to get prostitutes to pay for tuition fees
 date: "2012-12-07 00:48:25 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3026"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
  - tna08
 highlights:
  - comment

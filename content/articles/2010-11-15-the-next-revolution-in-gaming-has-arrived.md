@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Laurence Pope looks into the brand new Xbox Kinect
 date: "2010-11-15 18:16:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "377"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - lap08
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Read on to find out more about the Tanzanian scheme
 date: "2012-01-19 21:03:42 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2024"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - pd111
 highlights:
 
 # Homepage control params

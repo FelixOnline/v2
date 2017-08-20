@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Experiments are due to start in April after a lengthy battle against red tape
 date: "2015-02-20 00:02:08 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5279"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cj914
  - pk1811
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Bethnal Green brings the beats
 date: "2013-01-24 22:05:27 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3163"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - mc4509
+ - rbg10
 highlights:
  - comment
 

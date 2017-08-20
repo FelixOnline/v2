@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Have you ever wondered why the very job you are madly interested in you never see advertised?
 date: "2013-11-24 23:58:33 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4135"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - careers
  - jal08
 highlights:
  - longread

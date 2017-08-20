@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We need more, not less European integration. Much, much more.
 date: "2013-01-25 01:46:31 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3184"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - pa07
  - tna08
 highlights:
  - comment

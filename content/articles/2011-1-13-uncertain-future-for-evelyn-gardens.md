@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Planning application proposes conversion of Fisher Hall to care homes for the elderly
 date: "2011-01-13 21:45:23 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "595"

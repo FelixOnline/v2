@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our regular column on this week's documentary fave
 date: "2016-02-12 11:44:06 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5910"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bsc14
 highlights:
  - photos
 

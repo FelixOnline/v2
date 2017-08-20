@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This show made me realise they’re not wrong (maybe grammatically, but, you know…). Surrounded by teenagers having the time of their young lives, I came to the startling realisation that I am no longer young.
 date: "2013-11-05 09:37:40 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3995"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - sm5810
 highlights:
 
 # Homepage control params

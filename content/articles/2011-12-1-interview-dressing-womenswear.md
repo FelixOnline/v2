@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dress code etiquette is key for formal events. Saskia Verhagen shows us how to make the best first impression
 date: "2011-12-01 20:12:24 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1866"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - stv07
 highlights:
 
 # Homepage control params

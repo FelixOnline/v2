@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Arts reviews Howie the Rookie
 date: "2014-11-23 21:34:14 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4933"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ps3110
+ - ps5714
 highlights:
 
 # Homepage control params

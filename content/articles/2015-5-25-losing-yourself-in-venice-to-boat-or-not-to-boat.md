@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her tip for navigating the city of water
 date: "2015-05-25 12:59:52 +0100"
-author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5561"

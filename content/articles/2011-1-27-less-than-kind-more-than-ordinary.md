@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A brand new old-fashioned play, full of 1940’s atmosphere
 date: "2011-01-27 19:42:03 +0000"
-author_id: "wsp10"
 
 # Attributes from Felix Online V1
 id: "673"

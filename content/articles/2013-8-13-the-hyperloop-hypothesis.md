@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fine, it's not a hypothesis, but the Hyperloop concept could revolutionise medium and long distance transport in the blink of an eye...
 date: "2013-08-13 09:32:12 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3750"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Ross Webster selflessly stays up all night playing Halo
 date: "2012-11-09 16:03:55 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2878"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - rw507
  - tna08
 highlights:
 

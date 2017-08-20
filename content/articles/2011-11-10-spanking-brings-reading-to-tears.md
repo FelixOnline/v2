@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Reading in Imperial hockey demolition
 date: "2011-11-10 22:40:01 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1751"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - trm08
 highlights:
  - comment
 

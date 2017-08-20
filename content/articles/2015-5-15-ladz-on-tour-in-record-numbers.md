@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deputy President (Clubs and Societies) Abi de Bruin says keep sending in those requests!
 date: "2015-05-15 12:48:26 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5536"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ad4812
  - cj914
 highlights:
 

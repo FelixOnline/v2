@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The legend himself allegedly shot hoops with Bugs Bunny
 date: "2015-01-23 01:11:07 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "5117"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - cac111
+ - kmw13
 highlights:
 
 # Homepage control params

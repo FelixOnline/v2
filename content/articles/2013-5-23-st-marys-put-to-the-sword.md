@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICUCC continue on their successful season
 date: "2013-05-23 21:33:47 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3601"
@@ -22,7 +21,9 @@ tags:
  - imported
  - image
 authors:
+ - ar4810
  - tna08
+ - yv109
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   In honour of Mary Somerville appearing on the new RBS £10 note, FELIX explores which other scientists have previously been represented, and asks who’s next?
 date: "2016-02-19 11:22:08 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5930"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mw4414
 highlights:
 
 # Homepage control params

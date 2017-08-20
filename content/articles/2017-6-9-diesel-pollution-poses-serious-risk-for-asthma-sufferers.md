@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Rachel Baxter explores new research conducted by Imperial researchers that identifies exactly how the diesel pollution that hangs in our air may be affecting our health
 date: "2017-06-09 15:00:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7013"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ea3211
+ - rachelbaxter
 highlights:
 
 # Homepage control params

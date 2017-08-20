@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Midnight in Paris is effective, moving and humble
 date: "2011-10-21 09:53:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1583"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jgp09
 highlights:
 
 # Homepage control params

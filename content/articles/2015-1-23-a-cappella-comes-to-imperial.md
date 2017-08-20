@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The semi-finals of the ICCA's will be held this Saturday at Imperial
 date: "2015-01-23 00:42:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5113"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - bwh12
  - ps3110
 highlights:
 

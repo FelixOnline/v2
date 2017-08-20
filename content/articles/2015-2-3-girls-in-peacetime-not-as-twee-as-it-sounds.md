@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Philip Kent reviews the latest offering from Belle & Sebastian
 date: "2015-02-03 14:55:58 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5186"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - ps3110
 highlights:
 

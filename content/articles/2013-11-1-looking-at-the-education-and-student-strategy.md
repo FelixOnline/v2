@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix takes a quick look at the newly released strategy document
 date: "2013-11-01 09:26:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3969"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jal08
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim muses on how today's print media seems to have blurred the line between news and commentary - leaving us in a bit of an opinion tug o' war
 date: "2012-01-19 20:41:09 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2019"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cac111
+ - tna08
 highlights:
  - longread
 

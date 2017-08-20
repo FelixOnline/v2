@@ -4,7 +4,6 @@ title: >
 subtitle: >
   FelixSport enters 2010, at a quick jog...
 date: "2010-01-14 22:33:45 +0000"
-author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "40"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dimitri Raphaelovich argues that the UK should become part of the Eurozone
 date: "2011-12-08 20:56:42 +0000"
-author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1925"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cac111
+ - fbusines
 highlights:
  - comment
 

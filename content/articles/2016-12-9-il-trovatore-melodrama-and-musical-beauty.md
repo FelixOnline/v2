@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Il trovatore is on at the Royal Opera House until the 4th of February 2017
 date: "2016-12-09 15:56:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6586"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - scc114
 highlights:
 
 # Homepage control params

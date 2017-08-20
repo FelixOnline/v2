@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Try to express your sensitive side – or, if missing, fake one
 date: "2011-02-10 21:16:19 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "798"
@@ -25,6 +24,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - rjd08
 highlights:
  - comment
 

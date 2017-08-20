@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Political corruption, giant cosmic evils and libraries
 date: "2011-02-17 20:39:21 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "847"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

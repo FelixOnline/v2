@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jonny Pratt previews tomorrow’s Six Nations opener between England and Wales
 date: "2015-02-05 13:22:53 +0000"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5192"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jp1910
  - kmw13
 highlights:
  - comment

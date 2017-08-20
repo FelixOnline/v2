@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Over 500 students have signed to show solidarity and oppose the motion to remove the Club Captain
 date: "2014-12-02 15:25:08 +0000"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4981"

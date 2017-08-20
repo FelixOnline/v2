@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eoghan J.Totten reveals his first impressions of London
 date: "2011-10-14 00:39:31 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1540"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ejt11
  - sjw209
 highlights:
 

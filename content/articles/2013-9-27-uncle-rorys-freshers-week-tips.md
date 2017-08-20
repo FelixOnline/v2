@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everybody's favourite uncle, Uncle Rory has a few tips for you young whippersnappers.
 date: "2013-09-27 23:17:01 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3762"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - rtf08
 highlights:
 
 # Homepage control params

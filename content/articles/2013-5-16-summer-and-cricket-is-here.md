@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on cricket’s continued success
 date: "2013-05-16 17:59:31 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3576"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - dp912
+ - ps3410
  - tna08
 highlights:
  - comment

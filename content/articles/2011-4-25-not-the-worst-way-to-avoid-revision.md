@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Doctor Who season opener wins over sceptic James Simpson, kind of...
 date: "2011-04-25 09:27:46 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1138"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - tvfelix
 highlights:
  - comment
 

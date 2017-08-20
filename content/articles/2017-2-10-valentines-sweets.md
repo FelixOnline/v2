@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Try to do something else for your special someone with this step-by-step guide for calorie-heavy sweets and you’ll never again buy chocolate truffles!
 date: "2017-02-10 16:21:03 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6772"
@@ -25,7 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - aib116
 highlights:
  - comment
 

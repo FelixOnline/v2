@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Plabon Saha interviews the Liberal Democrat parliamentary candidate for Oxford West and Abingdon
 date: "2015-04-01 17:01:05 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5460"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ps3110
+ - ps3411
 highlights:
  - comment
  - longread

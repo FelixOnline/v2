@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union expected to release Ball finances next week
 date: "2011-06-23 19:08:27 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1410"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

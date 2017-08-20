@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Felix Music has an exciting competition this month, write a short article for them and you could win 2 tickets to see the Wailers live in concert.
 date: "2013-09-05 09:50:11 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3756"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - fmusic
  - jal08
 highlights:
 

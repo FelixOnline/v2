@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Eyes of a killer
 date: "2016-11-25 14:01:20 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6506"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - ff712
+ - theo.farah13
 highlights:
 
 # Homepage control params

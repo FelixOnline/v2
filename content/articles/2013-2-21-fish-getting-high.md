@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Phillip Kent discusses high fishes getting the munchies
 date: "2013-02-21 20:47:12 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3342"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - pk1811
  - tna08
 highlights:
 

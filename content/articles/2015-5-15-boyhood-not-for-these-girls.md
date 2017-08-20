@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Abena Taylor-Smith reviews Celine Sciamma's "Trilogy of Youth"
 date: "2015-05-15 12:05:27 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5527"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - at2413
  - cj914
 highlights:
  - comment

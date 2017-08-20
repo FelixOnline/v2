@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Carys Cook on why the Berkley Earth Project is a step in the right direction
 date: "2011-11-17 20:16:32 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1754"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cc1109
  - sjw209
 highlights:
  - longread

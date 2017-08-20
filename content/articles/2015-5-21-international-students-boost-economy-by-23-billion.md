@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kunal Wagle reports as report recommends migration targets be reclassified
 date: "2015-05-21 20:08:32 +0100"
-author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5548"

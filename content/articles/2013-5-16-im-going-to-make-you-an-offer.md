@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Student wins £300 for postcard campaign
 date: "2013-05-16 20:39:54 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3589"

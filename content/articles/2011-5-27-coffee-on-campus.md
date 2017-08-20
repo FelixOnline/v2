@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Not everyone is that fussed it would seem
 date: "2011-05-27 14:05:28 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1276"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - vj05
 highlights:
 
 # Homepage control params

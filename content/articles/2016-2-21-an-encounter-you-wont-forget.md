@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon McBurney’s masterpiece is timeless in nature.
 date: "2016-02-21 13:01:47 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5950"
@@ -25,7 +24,9 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc7413
+ - waleed el-geresy
+ - wbe15
 highlights:
  - comment
 

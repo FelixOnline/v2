@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pietro Aronica thinks persecution of memes is TOO DAMN HIGH
 date: "2013-02-22 01:49:24 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3367"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - pa07
  - tna08
 highlights:
  - comment

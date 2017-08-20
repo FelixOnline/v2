@@ -4,7 +4,6 @@ title: >
 subtitle: >
   BoJo hits up QTR in search of an invisibility cloak
 date: "2013-03-15 00:22:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3460"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nj1211
  - tna08
 highlights:
  - comment

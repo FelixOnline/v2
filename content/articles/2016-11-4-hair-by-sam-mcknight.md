@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Hair by Sam McKnight is on at Somerset House until 12 March 2017
 date: "2016-11-04 14:44:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6397"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
  - photos
 

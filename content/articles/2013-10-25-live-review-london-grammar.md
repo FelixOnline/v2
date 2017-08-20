@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles has an ambivalent experience at Electric Brixton
 date: "2013-10-25 00:30:52 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3931"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ff712
 highlights:
  - comment
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Why veganism isn’t for everyone
 date: "2016-11-04 12:59:50 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6385"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Union to request reimbursement of unfairly underfunded students
 date: "2016-12-09 11:53:33 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6559"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ea3211
  - felix
 highlights:
 

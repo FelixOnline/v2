@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Kicking back on a luxury rice boat in the heart of Kerala
 date: "2012-05-25 18:15:21 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2497"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cr709
  - mc4509
 highlights:
 

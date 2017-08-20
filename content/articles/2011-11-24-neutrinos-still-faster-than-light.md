@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Improved experiment yields same results
 date: "2011-11-24 20:56:31 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1810"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - ko407
  - pk1811
 highlights:
  - comment

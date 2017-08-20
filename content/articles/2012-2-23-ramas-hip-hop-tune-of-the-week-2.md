@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Dunson - 'Count On It'
 date: "2012-02-23 21:31:36 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2256"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - ar707
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Photons can often be difficult to measure because as soon as they are, they are gone. Most measurement methods require direct absorption, or are in some other way destructive to the nature of the particle.
 date: "2013-11-24 16:01:55 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4106"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - pd111
 highlights:
 
 # Homepage control params

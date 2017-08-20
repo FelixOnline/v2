@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simulations suggest increased chances of heavy rainfall, which could lead to flooding
 date: "2011-11-24 21:11:11 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1814"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ls411
  - pk1811
 highlights:
 

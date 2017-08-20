@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Your hate should be aimed at ITV, not me
 date: "2011-11-03 21:39:46 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1690"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - gb610
  - sjw209
 highlights:
  - comment

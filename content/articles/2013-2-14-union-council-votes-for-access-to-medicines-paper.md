@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Motion passed despite sabbs not voting for it
 date: "2013-02-14 21:12:53 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3332"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - tna08
+ - zh709
 highlights:
  - comment
 

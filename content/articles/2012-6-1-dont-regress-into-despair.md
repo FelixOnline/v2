@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The joy of stats (and patience) in a scientific world
 date: "2012-06-01 13:30:27 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2516"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - mc4509
+ - mk6809
 highlights:
 
 # Homepage control params

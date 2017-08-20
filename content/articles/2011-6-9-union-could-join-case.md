@@ -4,7 +4,6 @@ title: >
 subtitle: >
   President ‘discussing possibility’ of affiliating after College decision to leave
 date: "2011-06-09 20:55:10 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1344"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - ks607
 highlights:
 
 # Homepage control params

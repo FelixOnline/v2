@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Exceptional life forms on earth may be a key to sustaining life on mars
 date: "2012-06-14 20:13:35 +0100"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2559"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - ams111
+ - kw911
 highlights:
 
 # Homepage control params

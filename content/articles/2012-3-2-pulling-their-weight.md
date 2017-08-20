@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lightweight men retain title at BUCS Head 2012 while carnage cancels novice racing
 date: "2012-03-02 17:24:04 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2307"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ial08
 highlights:
  - photos
 

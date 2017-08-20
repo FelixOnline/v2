@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Sara Hamilton lists the top nine ground breaking discoveries in the field of nuclear physics and material science in 2016
 date: "2016-12-16 14:38:23 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6603"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sara.hamilton14
 highlights:
 
 # Homepage control params

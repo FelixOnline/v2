@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Men of Imperial – some compulsory reading from Catina Willows
 date: "2012-11-29 23:05:48 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3001"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - fcomment
  - tna08
 highlights:
  - comment

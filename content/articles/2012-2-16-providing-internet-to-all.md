@@ -4,7 +4,6 @@ title: >
 subtitle: >
   A team of EEE students are working to help establishing internet access in rural areas of developing countries
 date: "2012-02-16 20:55:36 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2179"
@@ -23,6 +22,15 @@ tags:
  - image
 authors:
  - ams111
+ - gsk10
+ - js1210
+ - mcn110
+ - mt3810
+ - sk5910
+ - ske09
+ - slk10
+ - sr3209
+ - wy1010
 highlights:
 
 # Homepage control params

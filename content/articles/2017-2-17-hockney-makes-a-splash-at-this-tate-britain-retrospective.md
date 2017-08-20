@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Hockney is on at the Tate Modern until 29th May
 date: "2017-02-17 15:14:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6792"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - adam.gellatly14
 highlights:
  - photos
 

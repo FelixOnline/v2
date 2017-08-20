@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This week saw another session of Union Council, the body of elected representatives that create and approve policies that shape the views and the functionality of the Union. The week saw another inquorate session of Council, during which the body was unable to vote effectively on papers...
 date: "2014-05-02 01:03:47 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4539"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - felix
  - jal08
 highlights:
 

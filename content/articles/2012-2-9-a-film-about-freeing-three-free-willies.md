@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Park reviews Big Miracle
 date: "2012-02-09 23:38:59 +0000"
-author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2177"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - ams111
+ - jgp09
 highlights:
 
 # Homepage control params

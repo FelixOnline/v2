@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Everything happens for a reason
 date: "2016-11-18 14:49:42 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6463"
@@ -21,7 +20,7 @@ tags:
  - science
  - imported
 authors:
- - felix
+ - aran.shaunak16
 highlights:
 
 # Homepage control params

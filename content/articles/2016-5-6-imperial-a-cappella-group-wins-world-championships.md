@@ -4,7 +4,6 @@ title: >
 subtitle: >
   They were even featured on the worldwide Snapchat story
 date: "2016-05-06 09:44:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6116"

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The new Felix App Update is available to download this week. Felix Technology takes a closer look at the latest version.
 date: "2015-01-23 18:04:49 +0000"
-author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5138"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - jyg11
+ - kmw13
 highlights:
  - comment
  - photos

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Geekiness goes beyond gaming
 date: "2010-11-25 21:27:48 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "440"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - mrangry
  - nm1010
 highlights:
  - comment

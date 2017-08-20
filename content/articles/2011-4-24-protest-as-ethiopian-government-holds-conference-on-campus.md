@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Network Against Injustice and Repression in Ethiopia stage demonstration outside Sherfield
 date: "2011-04-24 10:55:01 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1133"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - bs2610
  - felix
 highlights:
  - comment

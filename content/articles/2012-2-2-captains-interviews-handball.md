@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Indy Leclercq breaks down the wall of silence to have a chat with Handball's Annabelle and Stefan
 date: "2012-02-02 22:59:09 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2104"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ial08
  - sjw209
 highlights:
 

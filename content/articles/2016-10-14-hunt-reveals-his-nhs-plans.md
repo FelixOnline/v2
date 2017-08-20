@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mo’ doctors, mo’ problems
 date: "2016-10-14 09:48:26 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6329"
@@ -22,7 +21,8 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mjj15
+ - so515
 highlights:
 
 # Homepage control params

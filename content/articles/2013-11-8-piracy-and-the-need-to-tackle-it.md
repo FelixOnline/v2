@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jash Rughani looks at piracy and the ways to deal with it.
 date: "2013-11-08 09:42:28 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4031"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - jr1911
 highlights:
 
 # Homepage control params

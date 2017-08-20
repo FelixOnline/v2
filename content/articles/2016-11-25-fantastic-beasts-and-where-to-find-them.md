@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We finally reviewed it and it was good
 date: "2016-11-25 13:54:35 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6505"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - veronicasigutova
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We talk exercise
 date: "2016-05-20 09:05:30 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6181"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - al4915
 highlights:
 
 # Homepage control params

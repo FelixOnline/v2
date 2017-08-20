@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Facebook: bringing you a sudden influx of misused memes
 date: "2012-02-09 22:18:37 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2147"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jzy08
  - pk1811
 highlights:
  - comment

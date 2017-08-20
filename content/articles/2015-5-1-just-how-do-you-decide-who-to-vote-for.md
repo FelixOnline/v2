@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Joshua Renken ponders the perils and pitfalls of picking a politician
 date: "2015-05-01 00:28:13 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5481"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jr2514
  - ps3110
 highlights:
 

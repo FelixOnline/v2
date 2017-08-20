@@ -4,7 +4,6 @@ title: >
 subtitle: >
   No, extraditing criminals ... is an example of snide and sneaky backdoor politics says Eleanor Angwin.
 date: "2012-10-11 21:16:32 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2668"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - fcomment
  - felix
 highlights:
  - comment

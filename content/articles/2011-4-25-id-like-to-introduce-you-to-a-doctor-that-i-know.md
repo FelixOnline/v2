@@ -4,7 +4,6 @@ title: >
 subtitle: >
   There hasn't been a better time to start watching Doctor Who. The new season is going to be a scorcher
 date: "2011-04-25 21:57:09 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1142"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - cb607
  - felix
 highlights:
  - comment

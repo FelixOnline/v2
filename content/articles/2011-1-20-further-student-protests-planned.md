@@ -4,7 +4,6 @@ title: >
 subtitle: >
   New wave of student protests cause counter-terrorism police to contact Imperial
 date: "2011-01-20 20:56:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "637"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - vd207
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ICFS tell us about their exciting upcoming conference
 date: "2013-11-15 11:44:16 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4087"
@@ -21,6 +20,7 @@ tags:
  - features
  - imported
 authors:
+ - felix
  - jal08
 highlights:
 

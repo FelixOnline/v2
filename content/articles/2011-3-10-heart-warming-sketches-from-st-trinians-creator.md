@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Find it at the Cartoon Museum until 20th March, students £3
 date: "2011-03-10 20:20:52 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1068"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - cg708
  - felix
 highlights:
  - photos

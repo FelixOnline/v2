@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Trauma and Science come together to make new art
 date: "2011-12-08 21:05:17 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1929"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - rm2410
 highlights:
  - photos
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Voting to open from 3-10 June. Deputy President (Education) to be elected in Summer Elections
 date: "2013-05-30 12:05:18 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3641"

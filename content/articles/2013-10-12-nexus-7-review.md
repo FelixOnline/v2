@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Apparently, the best 7-inch tablet you can get
 date: "2013-10-12 19:30:59 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3856"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - jal08
+ - ywc110
 highlights:
 
 # Homepage control params

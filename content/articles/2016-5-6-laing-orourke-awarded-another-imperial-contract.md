@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The building contractor has already sponsored a centre in the Civil Engineering Department
 date: "2016-05-06 09:45:15 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6117"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ygr12
 highlights:
  - comment
 

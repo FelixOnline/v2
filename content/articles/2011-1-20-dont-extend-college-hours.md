@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Jovan Nedic argues that the proposed timetable changes would adversely affect Imperial’s sports teams
 date: "2011-01-20 19:49:44 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "615"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - jn104
  - nm1010
 highlights:
  - comment

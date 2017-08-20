@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Council paper brings talk of adding responsibilities to the roles and changing the names
 date: "2013-05-30 13:22:07 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3645"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - nm708
  - tna08
 highlights:
  - comment

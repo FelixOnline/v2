@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Tim Arbabzadah is on his best behaviour around office Nigel Lewis
 date: "2012-10-05 11:57:45 +0100"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2607"

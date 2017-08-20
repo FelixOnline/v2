@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ‘The Jail’ halls get secret inspection
 date: "2013-10-03 23:08:04 +0100"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3796"
@@ -25,6 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
+ - ar3310
+ - baf12
  - jal08
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   London plays host to a French connection
 date: "2013-01-24 22:51:20 +0000"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3167"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - jlp210
  - mc4509
 highlights:
 

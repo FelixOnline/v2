@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Deepka Rana spends 3 hours pretending to write a byline
 date: "2012-10-05 12:39:25 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2616"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dr710
  - felix
 highlights:
 

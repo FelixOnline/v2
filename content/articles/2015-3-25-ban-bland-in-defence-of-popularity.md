@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles on populism, cultural criticism, and Kim Kardashian
 date: "2015-03-25 12:46:19 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5437"

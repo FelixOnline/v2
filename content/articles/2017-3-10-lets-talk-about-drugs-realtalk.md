@@ -4,7 +4,6 @@ title: >
 subtitle: >
   David Charchoglyan discusses the discrepancy behind drug science and drug policy, by using the science and culture of MDMA as a case study
 date: "2017-03-10 14:13:13 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6882"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - davidcharchoglya
  - felix
 highlights:
  - comment

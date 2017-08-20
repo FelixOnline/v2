@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Banksy is cool!!1
 date: "2016-02-19 12:09:38 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5938"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - bsc14
 highlights:
 
 # Homepage control params

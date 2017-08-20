@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Highest awards for three academics
 date: "2012-01-12 22:06:29 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1979"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - pk1811
 highlights:
 
 # Homepage control params

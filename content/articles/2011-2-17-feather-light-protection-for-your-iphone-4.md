@@ -4,7 +4,6 @@ title: >
 subtitle: >
   “Feather by name, feather by nature — at less than 1mm thick it’s certainly minimal.”
 date: "2011-02-17 20:21:38 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "841"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - nm1010
+ - srg03
 highlights:
 
 # Homepage control params

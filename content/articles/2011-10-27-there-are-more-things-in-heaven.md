@@ -4,7 +4,6 @@ title: >
 subtitle: >
   John Raftery argues against the common misconceptions about the afterlife
 date: "2011-10-27 23:55:33 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1625"
@@ -25,6 +24,7 @@ tags:
  - image
  - imported_comments
 authors:
+ - jhr08
  - sjw209
 highlights:
  - comment

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Imperial Gaelic footballers at the British Universities Championships
 date: "2011-02-24 20:28:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "890"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - eaf09
  - felix
 highlights:
 

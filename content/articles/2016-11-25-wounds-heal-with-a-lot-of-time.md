@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Lizzie Riach explores new research into how wounds heal, and why older people are at a significant disadvantage if they injure themselves
 date: "2016-11-25 13:36:26 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6500"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - mer113
 highlights:
 
 # Homepage control params

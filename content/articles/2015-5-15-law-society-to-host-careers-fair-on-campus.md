@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alex Beaghton on the Law Society’s intersectional discussion this May
 date: "2015-05-15 12:46:42 +0100"
-author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5535"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - adb111
  - ps3110
 highlights:
 

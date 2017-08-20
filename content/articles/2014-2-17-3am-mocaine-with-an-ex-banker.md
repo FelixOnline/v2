@@ -4,7 +4,6 @@ title: >
 subtitle: >
   This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.
 date: "2014-02-17 17:24:41 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4393"
@@ -24,6 +23,7 @@ tags:
  - imported
  - imported_comments
 authors:
+ - extuser0
  - jal08
 highlights:
  - comment

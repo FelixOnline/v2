@@ -4,7 +4,6 @@ title: >
 subtitle: >
   We surpassed Oxford and Cambridge
 date: "2015-05-08 00:13:11 +0100"
-author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5500"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - cj914
+ - pnk14
 highlights:
  - comment
 

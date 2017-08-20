@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Alic Rowlands on the propsed campus wide smoking ban.
 date: "2010-02-01 16:43:18 +0000"
-author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "60"

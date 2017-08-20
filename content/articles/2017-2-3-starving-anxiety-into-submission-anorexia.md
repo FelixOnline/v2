@@ -4,7 +4,6 @@ title: >
 subtitle: >
   As Eating Disorder Awareness Week edges closer, one reader shares with us their struggle with anorexia. Through the haziness they try to recall the ups, the downs and the lessons learned.
 date: "2017-02-03 18:07:32 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6737"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - icanon
 highlights:
  - photos
 

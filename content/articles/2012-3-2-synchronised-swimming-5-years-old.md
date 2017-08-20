@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The synchronised swimming club blow the candles
 date: "2012-03-02 17:31:10 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2308"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - ial08
 highlights:
  - photos
 

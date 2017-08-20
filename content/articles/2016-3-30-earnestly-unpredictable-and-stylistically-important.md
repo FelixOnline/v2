@@ -4,7 +4,6 @@ title: >
 subtitle: >
   ROH's Importance of Being Earnest is a boldly innovative take on a well-loved classic
 date: "2016-03-30 01:25:58 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6081"
@@ -25,7 +24,8 @@ tags:
  - image
  - imported_comments
 authors:
- - felix
+ - jc
+ - jc7413
 highlights:
  - comment
 

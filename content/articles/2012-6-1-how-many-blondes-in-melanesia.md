@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The evolution of blonde hair
 date: "2012-06-01 13:49:46 +0100"
-author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2517"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - mc4509
+ - rt1810
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Simon Hunter chats to Chilly Gonzales about his new orchestral rap album and forays into the world of film
 date: "2011-02-28 21:29:40 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "947"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - sh1207
 highlights:
  - longread
 

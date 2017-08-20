@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Maciej Matuszewski takes a look at some fantasy
 date: "2012-10-05 11:27:17 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2594"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - felix
+ - mtm10
 highlights:
 
 # Homepage control params

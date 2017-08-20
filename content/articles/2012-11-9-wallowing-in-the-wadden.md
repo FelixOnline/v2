@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Stephanie Walton takes an unusual walk by the sea
 date: "2012-11-09 12:39:56 +0000"
-author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2850"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - skw10
  - tna08
 highlights:
  - photos

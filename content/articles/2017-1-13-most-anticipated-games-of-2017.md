@@ -4,7 +4,6 @@ title: >
 subtitle: >
   It’s a new year and a new term, most definitely filled with new lectures, problem sheets and coursework to stress over. Luckily, there’s also a number of upcoming games to enjoy and procrastinate with. So without further ado, here are the games that should really be on your radar, as recommended by
 date: "2017-01-13 14:51:30 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6648"
@@ -22,7 +21,7 @@ tags:
  - imported
  - image
 authors:
- - felix
+ - sa8713
 highlights:
  - photos
 

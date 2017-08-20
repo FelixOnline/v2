@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Get ready Imperial – it’s going to be a cheesy weekend!
 date: "2011-10-13 23:41:06 +0100"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1527"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - mk4410
  - sjw209
 highlights:
 

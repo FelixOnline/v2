@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Proposed changes would give departments flexibility to set classes during lunchtime
 date: "2011-05-26 18:42:38 +0100"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1251"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - felix
+ - ks607
 highlights:
  - comment
 

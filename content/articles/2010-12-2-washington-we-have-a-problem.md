@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Washington, we have a problem
 date: "2010-12-02 20:42:00 +0000"
-author_id: "ghc07"
 
 # Attributes from Felix Online V1
 id: "477"

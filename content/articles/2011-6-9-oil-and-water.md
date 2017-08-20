@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oil and Water
 date: "2011-06-09 18:00:09 +0100"
-author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1328"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - cjb07
+ - oo2409
 highlights:
 
 # Homepage control params

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Matt Allinson relented, watched the damned show, and found out he liked it
 date: "2011-06-02 20:08:43 +0100"
-author_id: "ma1307"
 
 # Attributes from Felix Online V1
 id: "1317"

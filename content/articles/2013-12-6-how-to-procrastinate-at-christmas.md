@@ -4,7 +4,6 @@ title: >
 subtitle: >
   And not feel (too) guilty about it
 date: "2013-12-06 04:06:16 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4189"
@@ -22,6 +21,7 @@ tags:
  - imported
 authors:
  - jal08
+ - tad08
 highlights:
 
 # Homepage control params

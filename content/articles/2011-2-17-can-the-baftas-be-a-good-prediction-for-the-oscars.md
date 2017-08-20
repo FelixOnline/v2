@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Will the BAFTAs swing us in the right direction to guess the Oscar winners?
 date: "2011-02-17 19:27:58 +0000"
-author_id: "jh308"
 
 # Attributes from Felix Online V1
 id: "817"

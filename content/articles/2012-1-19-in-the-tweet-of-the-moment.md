@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Pirates of Carthage looks at social media’s pivotal role in bringing down Ben Ali
 date: "2012-01-19 21:28:34 +0000"
-author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2030"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - pk1811
+ - wsp10
 highlights:
 
 # Homepage control params

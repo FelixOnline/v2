@@ -4,7 +4,6 @@ title: >
 subtitle: >
   What: Madam Butterfly with English National Opera Where: London Coliseum, WC2 When: 14th Oct - 1st Dec 2013 Price: Various
 date: "2013-11-05 09:31:58 +0000"
-author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3989"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - cfc111
  - jal08
 highlights:
 

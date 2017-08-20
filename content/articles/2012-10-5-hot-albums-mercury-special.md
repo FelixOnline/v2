@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Three totally awesome albums
 date: "2012-10-05 11:37:53 +0100"
-author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2600"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - fmusic
  - nn1209
 highlights:
 

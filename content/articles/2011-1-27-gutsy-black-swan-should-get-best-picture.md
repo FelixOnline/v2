@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Oscar favorite for best motion picture.
 date: "2011-01-27 20:09:14 +0000"
-author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "686"
@@ -21,6 +20,7 @@ tags:
  - film
  - imported
 authors:
+ - egk08
  - nm1010
 highlights:
 

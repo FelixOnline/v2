@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Episode 3: The School at Notre Dame
 date: "2013-11-15 18:10:44 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4082"
@@ -21,6 +20,7 @@ tags:
  - music
  - imported
 authors:
+ - ed812
  - felix
 highlights:
  - longread

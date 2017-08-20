@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Our second game 'that never made it'
 date: "2011-03-01 21:09:29 +0000"
-author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "966"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - dt1209
  - sjw209
 highlights:
 

@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Women’s Fencing: Imperial 1st 135 - 58 Manchester 1st
 date: "2011-03-03 21:23:48 +0000"
-author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1026"
@@ -23,6 +22,7 @@ tags:
  - image
 authors:
  - felix
+ - jrp08
 highlights:
 
 # Homepage control params

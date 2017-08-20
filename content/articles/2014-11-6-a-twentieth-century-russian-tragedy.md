@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Mario Lepore on a new production of Chekhov's final play
 date: "2014-11-06 21:38:04 +0000"
-author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4806"
@@ -21,6 +20,7 @@ tags:
  - arts
  - imported
 authors:
+ - ml2510
  - snb11
 highlights:
 

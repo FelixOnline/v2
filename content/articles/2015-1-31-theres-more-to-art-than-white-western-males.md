@@ -4,7 +4,6 @@ title: >
 subtitle: >
   Fred Fyles and Kamil McClelland give five overlooked artists that you should know about
 date: "2015-01-31 19:04:23 +0000"
-author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5170"
@@ -26,6 +25,7 @@ tags:
  - imported_comments
 authors:
  - ff712
+ - km2612
 highlights:
  - comment
  - photos

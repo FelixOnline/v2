@@ -4,7 +4,6 @@ title: >
 subtitle: >
   The world is definitely getting smaller, and I can only see that as being a good thing
 date: "2011-02-03 20:13:44 +0000"
-author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "739"
@@ -22,6 +21,7 @@ tags:
  - imported
  - image
 authors:
+ - ial08
  - ks607
 highlights:
 
