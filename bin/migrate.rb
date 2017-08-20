@@ -10,11 +10,52 @@ username = ARGV[1] || "root"
 password = ARGV[2] || "password"
 database = ARGV[3] || "felix"
 
-Dir.glob("_posts/*").each do |post|
-  File.delete(post) unless post.include?("charlie-s-f") || post.include?("angelo--")
+def format_username(username)
+  username.downcase.gsub(/\s+/, "-").gsub(/\W+/, "")
 end
 
 client = Mysql2::Client.new(host: host, username: username, password: password, database: database)
+
+`rm -rf content/authors/*`
+`rm -rf content/articles/*`
+
+ALL_AUTHORS_QUERY = <<~SQL
+select
+  distinct(author) as id,
+
+  user.name as name,
+  user.twitter as twitter,
+  user.facebook as facebook,
+  user.websiteurl as website,
+  user.websitename as website_title,
+  user_images.uri as image
+
+from article_author
+  left join user on user.user=author
+  left join image as user_images on user.image=user_images.id
+
+SQL
+
+client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|
+  r["id"] = format_username(r["id"])
+
+  # next if r["id"] == "felix"
+
+  md = %w(---)
+  md << "id: \"#{r["id"]}\""
+  md << "title: #{r["name"]}"
+  md << "image_path: \"http://felixonline.co.uk/#{r["image"]}\""
+  md << "twitter: \"#{r["twitter"]}\""
+  md << "facebook: \"#{r["facebook"]}\""
+  md << "website_url: \"#{r["website"]}\""
+  md << "website_title: \"#{r["website_title"]}\""
+  md << "---"
+
+  dir = "content/authors/#{r["id"]}"
+  Dir.mkdir(dir) unless Dir.exists?(dir)
+  File.write("content/authors/#{r["id"]}/_index.md", md.join("\n") + "\n")
+end
+
 
 ALL_ARTICLES_QUERY = <<~SQL
 select
@@ -55,7 +96,6 @@ group by article.id
 
 SQL
 
-count = 0
 client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   r["comments"] ||= ""
 
@@ -80,14 +120,14 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
   authors = (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort
   md << "categories:\n - #{category}"
-  md << "tags: \n - #{category}"
+  md << "tags:"
   md << " - imported"
   md << " - image" if r["image_path"] && r["image_path"].length > 0
   md << " - imported_comments" if r["comments"].length > 0
   md << " - multi-author" if authors.length > 1
   md << "authors:"
   authors.each do |author|
-    md << " - #{author}"
+    md << " - #{format_username(author)}"
   end
   md << "highlights:"
   md << " - comment" if r["comments"].length > 0
@@ -150,21 +190,4 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
 
   # TODO: some articles are missing in the exported folder, investigate
   File.write("content/articles/#{filename}.md", contents)
-
-  next #if r["author_id"] == "felix"
-  if r["author_id"]
-    md = %w(---)
-    md << "id: \"#{r["author_id"]}\""
-    md << "title: #{r["author_name"]}"
-    md << "image_path: \"http://felixonline.co.uk/#{r["author_image_path"]}\""
-    md << "twitter: \"#{r["author_twitter"]}\""
-    md << "facebook: \"#{r["author_facebook"]}\""
-    md << "website_url: \"#{r["author_website_url"]}\""
-    md << "website_title: \"#{r["author_website_title"]}\""
-    md << "---"
-
-    dir = "content/authors/#{r["author_id"]}"
-    Dir.mkdir(dir) unless Dir.exists?(dir)
-    File.write("content/authors/#{r["author_id"]}/_index.md", md.join("\n") + "\n")
-  end
 end
