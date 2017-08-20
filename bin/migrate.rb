@@ -146,7 +146,10 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   end
 
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
-  authors = (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort
+  # include the text content 'author' - this was causing issues where the publisher would be in the author list
+  # now only the article authors are used
+  # authors = (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort
+  authors = r["authors"].downcase.split(",").uniq.compact
   md << "categories:\n - #{category}"
   md << "tags:"
   md << " - imported"
