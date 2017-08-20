@@ -47,7 +47,8 @@
       </h1>
 
       <div class="post-block-container">
-        {{ range first 4 (where $categoryPage.Pages ".Params.featured" true) }}
+        {{ $articlesWithPictures := where $categoryPage.Pages ".Params.image_path" "!=" "http://felixonline.co.uk/" }}
+        {{ range first 4 (where $articlesWithPictures ".Params.featured" true) }}
           <a href="{{ .RelPermalink }}">
             <div class="post-block">
               <div class="image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image_path "http://" "" }}&w=200)"></div>
