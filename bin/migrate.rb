@@ -182,7 +182,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
       md << "## #{section["data"]["text"].strip}"
     elsif section["type"] == "feliximage"
       id = section["data"]["image"]
-      caption = section["data"]["caption"]
+      caption = section["data"]["caption"].gsub('"', "")
       attribution = section["data"]["attribution"]
       url = images[id]
 
