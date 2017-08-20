@@ -162,11 +162,12 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
     if section["type"] == "text"
       md << section["data"]["text"].split("\n\n").map(&:strip).join("\n\n")
     elsif section["type"] == "quote"
-      md << section["data"]["text"]
+      md << "\n" + section["data"]["text"]
         .split("\n")
         .reject { |l| l.strip == "" }
         .map { |l| "> #{l.strip}" }
         .join("\n")
+        .gsub(/^> > /, "> ") + "\n"
     elsif section["type"] == "list"
       md << section["data"]["text"]
         .split("\n")
@@ -200,6 +201,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   contents = md.join("\n")
   contents.gsub!(/ +$/, "")
   contents.gsub!(/\\(\W)/, '\1')
+  contents.gsub!(/\n{3,}/, "\n\n")
   contents = contents.strip + "\n"
 
   File.write("content/articles/#{filename}.md", contents)
