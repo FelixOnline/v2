@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     This article is really interesting and well written
+     This article is really interesting and well written,This article is really interesting and well written
 
 # Article Taxonomies
 categories:

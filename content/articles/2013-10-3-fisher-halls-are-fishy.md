@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     I lived in Fisher Hall last year. Yes, it is not the best decorated hall in the world, but we are students after all! For some of us, we can't afford the £200 a week rooms in Prince's Gardens, this is the only cheap option. Fisher Hall is like an your old pet; sure, it's scruffy and is a bit ragged around the edges, but you wouldn't have it any other way. Keep Fisher alive, and for £103 a week for a single, its one of the only affordable accommodations for first year students at imperial !!!,Is this website updated anymore
+     I lived in Fisher Hall last year. Yes, it is not the best decorated hall in the world, but we are students after all! For some of us, we can't afford the £200 a week rooms in Prince's Gardens, this is the only cheap option. Fisher Hall is like an your old pet; sure, it's scruffy and is a bit ragged around the edges, but you wouldn't have it any other way. Keep Fisher alive, and for £103 a week for a single, its one of the only affordable accommodations for first year students at imperial !!!,I lived in Fisher Hall last year. Yes, it is not the best decorated hall in the world, but we are students after all! For some of us, we can't afford the £200 a week rooms in Prince's Gardens, this is the only cheap option. Fisher Hall is like an your old pet; sure, it's scruffy and is a bit ragged around the edges, but you wouldn't have it any other way. Keep Fisher alive, and for £103 a week for a single, its one of the only affordable accommodations for first year students at imperial !!!,Is this website updated an
 
 # Article Taxonomies
 categories:

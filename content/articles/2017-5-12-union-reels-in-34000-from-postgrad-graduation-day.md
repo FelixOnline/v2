@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricing etc, I think we'd all agree that we'd prefer to graduate in the RAH than a dusty lecture hall. Free graduations = dusty lecture hall. Slightly pricey graduation = Royal Albert Hall. I choose the latter, and fake news/clickbait headlines (sorry Felix :P) should never detract from that fact.
+     Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricing etc, I think we'd all agree that we'd prefer to graduate in the RAH than a dusty lecture hall. Free graduations = dusty lecture hall. Slightly pricey graduation = Royal Albert Hall. I choose the latter, and fake news/clickbait headlines (sorry Felix :P) should never detract from that fact.,Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricing etc, I think we'd all agree that we'd prefer to graduate in the RAH than a dusty lecture hall. Free graduations = dusty lecture hall. Slightly pricey graduation = Royal Albert Hall. I choose the latter, and fake news/clickbait headlines (sorry Felix :P) should never detract from that fact.,Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricin
 
 # Article Taxonomies
 categories:

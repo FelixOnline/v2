@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     5 male, 1 female - without even having entered office they are already representing the student demographic...,ABDUL, Y U NO WIN,Paul Beaumont and his team are lieing, sabotaging low people that turned to smear and hate tactics to beat a much popular and genuinely caring person. Imperial's loss.
+     5 male, 1 female - without even having entered office they are already representing the student demographic...,5 male, 1 female - without even having entered office they are already representing the student demographic...,ABDUL, Y U NO WIN,ABDUL, Y U NO WIN,Paul Beaumont and his team are lieing, sabotaging low people that turned to smear and hate tactics to beat a much popular and genuinely caring person. Imperial's loss.,Paul Beaumont and his team are lieing, sabotaging low people that turned to smear and hate tactics to beat a much popular and genuinely caring person. Imperial's loss.
 
 # Article Taxonomies
 categories:

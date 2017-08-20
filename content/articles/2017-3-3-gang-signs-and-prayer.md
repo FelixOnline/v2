@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     You make thngis so clear. Thanks for taking the time!
+     You make thngis so clear. Thanks for taking the time!,You make thngis so clear. Thanks for taking the time!
 
 # Article Taxonomies
 categories:

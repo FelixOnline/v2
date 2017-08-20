@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     The Google Nexus 7 is made by Asus and not Acer... Please don't associate with Acer and its sub standard products...,Updated. <br>Tomayto Tomarto
+     The Google Nexus 7 is made by Asus and not Acer... Please don't associate with Acer and its sub standard products...,The Google Nexus 7 is made by Asus and not Acer... Please don't associate with Acer and its sub standard products...,Updated. <br>Tomayto Tomarto,Updated. <br>Tomayto Tomarto
 
 # Article Taxonomies
 categories:

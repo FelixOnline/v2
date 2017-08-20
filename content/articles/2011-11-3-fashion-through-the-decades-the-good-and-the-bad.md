@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     There's a big gaping hole in the 90s, namely Carolyn Bessette Kennedy. She embodied the minimalist chic of the mid-90s.
+     There's a big gaping hole in the 90s, namely Carolyn Bessette Kennedy. She embodied the minimalist chic of the mid-90s. ,There's a big gaping hole in the 90s, namely Carolyn Bessette Kennedy. She embodied the minimalist chic of the mid-90s.
 
 # Article Taxonomies
 categories:

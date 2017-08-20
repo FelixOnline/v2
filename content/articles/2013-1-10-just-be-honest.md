@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Bog off.,Seriously? Can these editorials suck less please. Jesus. ,Congratulations, you're a cunt.
+     Bog off.,Bog off.,Seriously? Can these editorials suck less please. Jesus. ,Seriously? Can these editorials suck less please. Jesus. ,Congratulations, you're a cunt.,Congratulations, you're a cunt.
 
 # Article Taxonomies
 categories:

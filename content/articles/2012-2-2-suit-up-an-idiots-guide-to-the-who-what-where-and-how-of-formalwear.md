@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Just a couple of typos guys.. <br> <br>First section: <br>*Ferragamo <br> <br>Second section: <br>*Models (rather than "model's") <br> <br>Quite a nice read, even if it were making us all look like retards. Some of us are not! Didn't really realise Felix had a fashion section either... <br> <br>,I benefit from looking through your site. Kudos!,I <a href="http://xmscexc.com">rekcon</a> you are quite dead on with that.
+     Just a couple of typos guys.. <br> <br>First section: <br>*Ferragamo <br> <br>Second section: <br>*Models (rather than "model's") <br> <br>Quite a nice read, even if it were making us all look like retards. Some of us are not! Didn't really realise Felix had a fashion section either... <br> <br>,Just a couple of typos guys.. <br> <br>First section: <br>*Ferragamo <br> <br>Second section: <br>*Models (rather than "model's") <br> <br>Quite a nice read, even if it were making us all look like retards. Some of us are not! Didn't really realise Felix had a fashion section either... <br> <br>,I benefit from looking through your site. Kudos!,I benefit from looking through your site. Kudos!,I <a href="http://xmscexc.com">rekcon</a> you are quite dead on with that.,I <a href="http://xmscexc.com">rekcon</a> you are quite dead on with that.
 
 # Article Taxonomies
 categories:

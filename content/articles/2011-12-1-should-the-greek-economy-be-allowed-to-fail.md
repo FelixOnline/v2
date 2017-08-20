@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Helloooooo? Aneebodee home?Nope.Y'all gotta be thare if'n y'all is sayin' nope.Nope.Y'all ain't comin' out?Nope.Wahl, wassup? Gotza bad feilen' like thare's gonna be a chain-react-shun. Ain't fownd no-bodee can say whassup.Wahl, it ain't us'n folksies. We ain't home.Y'all is shittin'. Y'all is home if'n y'all is a'callin' backs-to-me.We be uh-echo.Lordy. Ain't so. Y'all ain't sayin' waht I do be sayin'.Lordy Ain't so. Y'all ain't sayin' waht I do be sayin'.Do-be-jesus. I gotta gut-feelin' this'n is it.Do-be-jesus. I gotta gut-feelin' this'n is it.Shut yur pie-trap.Shut yur pie-trap.Dangdabbit. I be off to the Otis's. Gonna crack uh Bud with my stew.
+     Helloooooo? Aneebodee home?Nope.Y'all gotta be thare if'n y'all is sayin' nope.Nope.Y'all ain't comin' out?Nope.Wahl, wassup? Gotza bad feilen' like thare's gonna be a chain-react-shun. Ain't fownd no-bodee can say whassup.Wahl, it ain't us'n folksies. We ain't home.Y'all is shittin'. Y'all is home if'n y'all is a'callin' backs-to-me.We be uh-echo.Lordy. Ain't so. Y'all ain't sayin' waht I do be sayin'.Lordy Ain't so. Y'all ain't sayin' waht I do be sayin'.Do-be-jesus. I gotta gut-feelin' this'n is it.Do-be-jesus. I gotta gut-feelin' this'n is it.Shut yur pie-trap.Shut yur pie-trap.Dangdabbit. I be off to the Otis's. Gonna crack uh Bud with my stew.,Helloooooo? Aneebodee home?Nope.Y'all gotta be thare if'n y'all is sayin' nope.Nope.Y'all ain't comin' out?Nope.Wahl, wassup? Gotza bad feilen' like thare's gonna be a chain-react-shun. Ain't fownd no-bodee can say whassup.Wahl, it ain't us'n folksies. We ain't home.Y'all is shittin'. Y'all is home if'n y'all is a'callin' backs-to-me.We be uh-echo.Lordy. Ain't so.
 
 # Article Taxonomies
 categories:

@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Incredible sacrifice. What a great man
+     Incredible sacrifice. What a great man,Incredible sacrifice. What a great man
 
 # Article Taxonomies
 categories:

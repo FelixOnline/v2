@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     9kKwew rmgqlgzzkvty, [url=http://jwiysqazwskb.com/]jwiysqazwskb[/url], [link=http://dobdgetshgek.com/]dobdgetshgek[/link], http://fdyvhcdgcecv.com/,As a minority, I have only seen films that represent individuals of my minority. If i have seen the films:<br>- The Smurfs<br>- Hotel for Dogs<br>-Shark Tale<br>- Shark Tale 2<br>What Minority am I?<br>$5000 to the first person to correctly guess my minority.
+     9kKwew rmgqlgzzkvty, [url=http://jwiysqazwskb.com/]jwiysqazwskb[/url], [link=http://dobdgetshgek.com/]dobdgetshgek[/link], http://fdyvhcdgcecv.com/,9kKwew rmgqlgzzkvty, [url=http://jwiysqazwskb.com/]jwiysqazwskb[/url], [link=http://dobdgetshgek.com/]dobdgetshgek[/link], http://fdyvhcdgcecv.com/,As a minority, I have only seen films that represent individuals of my minority. If i have seen the films:<br>- The Smurfs<br>- Hotel for Dogs<br>-Shark Tale<br>- Shark Tale 2<br>What Minority am I?<br>$5000 to the first person to correctly guess my minority.,As a minority, I have only seen films that represent individuals of my minority. If i have seen the films:<br>- The Smurfs<br>- Hotel for Dogs<br>-Shark Tale<br>- Shark Tale 2<br>What Minority am I?<br>$5000 to the first person to correctly guess my minority.
 
 # Article Taxonomies
 categories:

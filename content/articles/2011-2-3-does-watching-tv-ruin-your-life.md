@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     The sad fact remains that the most ubiquitous artistic medium of the world today is a passive one. The audience sits there, absent, distant and detached in their underpants.
+     The sad fact remains that the most ubiquitous artistic medium of the world today is a passive one. The audience sits there, absent, distant and detached in their underpants.,The sad fact remains that the most ubiquitous artistic medium of the world today is a passive one. The audience sits there, absent, distant and detached in their underpants.
 
 # Article Taxonomies
 categories:

@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.
+     Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.,Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.,Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.
 
 # Article Taxonomies
 categories:

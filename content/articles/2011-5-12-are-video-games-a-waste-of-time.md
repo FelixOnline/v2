@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling. She describes games as "the most productive thing we can do". Highly interesting talk by here: <br> <br>http://www.ted.com/talks/view/lang/eng//id/799 <br> <br>Good talk though, chaps.,like,nice article, well written! <br>some people go to imperial from my old school. <br>bai,Now I feel situpd. That's cleared it up for me,CTzbVq <a href="http://kszifakccvjd.com/">kszifakccvjd</a>
+     Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling. She describes games as "the most productive thing we can do". Highly interesting talk by here: <br> <br>http://www.ted.com/talks/view/lang/eng//id/799 <br> <br>Good talk though, chaps.,Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling. She describes games as "the most productive thing we can do". Highly interesting talk by here: <br> <br>http://www.ted.com/talks/view/lang/eng//id/799 <br> <br>Good talk though, chaps.,like,like,nice article, well written! <br>some people go to imperial from my old school. <br>bai,nice article, well written! <br>some people go to imperial from my old school. <br>bai,Now I feel situpd. That's cleared it up for me,Now I feel situpd. That's cleared it up for me,CTzbVq <a href="http://kszifakccvjd.com/">kszifakccvjd</a>,CTzbVq <a href="http://kszifakccvjd.com/">kszifakccvjd</a>
 
 # Article Taxonomies
 categories:

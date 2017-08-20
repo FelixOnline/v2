@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     This is just a test, ignore this Joe!,Just another test comment. Please ignore...
+     This is just a test, ignore this Joe!,This is just a test, ignore this Joe!,Just another test comment. Please ignore...,Just another test comment. Please ignore...
 
 # Article Taxonomies
 categories:

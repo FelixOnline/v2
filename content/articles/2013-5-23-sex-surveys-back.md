@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     　( 2012.02.22 23:02 ) : Please let me know if you're looking for a acitrle author for your weblog. You have some really good acitrles and I believe I would be a good asset. If you ever want to take some of the load off, I'd really like to write some content for your blog in exchange for a link back to mine. Please blast me an email if interested. Thank you!
+     　( 2012.02.22 23:02 ) : Please let me know if you're looking for a acitrle author for your weblog. You have some really good acitrles and I believe I would be a good asset. If you ever want to take some of the load off, I'd really like to write some content for your blog in exchange for a link back to mine. Please blast me an email if interested. Thank you!,　( 2012.02.22 23:02 ) : Please let me know if you're looking for a acitrle author for your weblog. You have some really good acitrles and I believe I would be a good asset. If you ever want to take some of the load off, I'd really like to write some content for your blog in exchange for a link back to mine. Please blast me an email if interested. Thank you!
 
 # Article Taxonomies
 categories:

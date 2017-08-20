@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     red bottom heels <br>christian louboutin sale canada http://canadachristianlouboutinoutlet.blogspot.com/
+     red bottom heels <br>christian louboutin sale canada http://canadachristianlouboutinoutlet.blogspot.com/,red bottom heels <br>christian louboutin sale canada http://canadachristianlouboutinoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

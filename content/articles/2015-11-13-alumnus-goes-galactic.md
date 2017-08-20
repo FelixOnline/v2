@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     ApSFNS http://brothosonkonlonwon.ru
+     ApSFNS http://brothosonkonlonwon.ru,ApSFNS http://brothosonkonlonwon.ru
 
 # Article Taxonomies
 categories:

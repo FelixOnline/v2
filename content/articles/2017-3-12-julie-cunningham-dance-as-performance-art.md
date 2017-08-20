@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     I was wondering if after work we could grab a cup of coffee <br>buy cheapest madden 17 mobile coins http://www.madden-store.com,Today looks great . <br>pokemon go rare pokemon safe pokemonbux http://www.pokemonbux.com,Be good! <br>dofustouch-kamas Best Site to Buy Cheapest dofus touch kamas https://www.dofustouch-kamas.com/,I have no idea what you have said <br>cheap dofus touch kamas buy https://forums.obdev.at/viewtopic.php?f=6&amp;t=10740,look great today. <br>albion online gold http://www.albion.portfoliobox.net/upalbion-will-finish-your-albion-online-gold-order-within-15-minutes
+     I was wondering if after work we could grab a cup of coffee <br>buy cheapest madden 17 mobile coins http://www.madden-store.com,I was wondering if after work we could grab a cup of coffee <br>buy cheapest madden 17 mobile coins http://www.madden-store.com,Today looks great . <br>pokemon go rare pokemon safe pokemonbux http://www.pokemonbux.com,Today looks great . <br>pokemon go rare pokemon safe pokemonbux http://www.pokemonbux.com,Be good! <br>dofustouch-kamas Best Site to Buy Cheapest dofus touch kamas https://www.dofustouch-kamas.com/,Be good! <br>dofustouch-kamas Best Site to Buy Cheapest dofus touch kamas https://www.dofustouch-kamas.com/,I have no idea what you have said <br>cheap dofus touch kamas buy https://forums.obdev.at/viewtopic.php?f=6&amp;t=10740,I have no idea what you have said <br>cheap dofus touch kamas buy https://forums.obdev.at/viewtopic.php?f=6&amp;t=10740,look great today. <br>albion online gold http://www.albion.portfoliobox.net/upalbion-will-finish-your-albion-online-gold-order-within-15-minutes,look great today. <br>alb
 
 # Article Taxonomies
 categories:

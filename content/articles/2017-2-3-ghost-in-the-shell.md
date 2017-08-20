@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Hey, that's a clever way of thnkinig about it.
+     Hey, that's a clever way of thnkinig about it.,Hey, that's a clever way of thnkinig about it.
 
 # Article Taxonomies
 categories:

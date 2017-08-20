@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Very powerful next to last sentence — “The only way to really get things done is to be in touch with how we are feeling and what we need.” So true — otherwise we will just procrastinate or find some other strategy to get that need for time off met. I find that when I don’t try to c0;for2eଅ things in my life and when I take little breaks in my day happen things flow so much better. Thanks for the reminder.
+     Very powerful next to last sentence — “The only way to really get things done is to be in touch with how we are feeling and what we need.” So true — otherwise we will just procrastinate or find some other strategy to get that need for time off met. I find that when I don’t try to c0;for2eଅ things in my life and when I take little breaks in my day happen things flow so much better. Thanks for the reminder.,Very powerful next to last sentence — “The only way to really get things done is to be in touch with how we are feeling and what we need.” So true — otherwise we will just procrastinate or find some other strategy to get that need for time off met. I find that when I don’t try to c0;for2eଅ things in my life and when I take little breaks in my day happen things flow so much better. Thanks for the reminder.
 
 # Article Taxonomies
 categories:

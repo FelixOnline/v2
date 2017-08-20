@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     This is more like a self absorbed diary entry than a discussion about reproductive rights. There is one small paragraph on this poor girls experience with abortion and the rest is the author saying she was naive. It may be a 'three week long drama' for you, but this girl will carry it with her a hell of a lot longer. You have no right to make someone else's misfortune into an article about yourself.
+     This is more like a self absorbed diary entry than a discussion about reproductive rights. There is one small paragraph on this poor girls experience with abortion and the rest is the author saying she was naive. It may be a 'three week long drama' for you, but this girl will carry it with her a hell of a lot longer. You have no right to make someone else's misfortune into an article about yourself.,This is more like a self absorbed diary entry than a discussion about reproductive rights. There is one small paragraph on this poor girls experience with abortion and the rest is the author saying she was naive. It may be a 'three week long drama' for you, but this girl will carry it with her a hell of a lot longer. You have no right to make someone else's misfortune into an article about yourself.
 
 # Article Taxonomies
 categories:

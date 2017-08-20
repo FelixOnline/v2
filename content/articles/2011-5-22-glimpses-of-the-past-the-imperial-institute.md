@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Some more photos: <br> <br>http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis/TheStoryOf/ImperialCollege/ImperialCollege.aspx,http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis <br>/TheStoryOf/ImperialCollege/ImperialCollege.aspx,Same old story ain't it when a load of non-descript municipal over-remunerated muckers of various aesthetic taste (or not at all) get stuck in to deciding upon whether 'an edifice of yore' that some thick is an eye-sore and others regard as a feast to the eye should be raised to the ground or raised in praise?
+     Some more photos: <br> <br>http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis/TheStoryOf/ImperialCollege/ImperialCollege.aspx,Some more photos: <br> <br>http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis/TheStoryOf/ImperialCollege/ImperialCollege.aspx,http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis <br>/TheStoryOf/ImperialCollege/ImperialCollege.aspx,http://www.architecture.com/LibraryDrawingsAndPhotographs/Albertopolis <br>/TheStoryOf/ImperialCollege/ImperialCollege.aspx,Same old story ain't it when a load of non-descript municipal over-remunerated muckers of various aesthetic taste (or not at all) get stuck in to deciding upon whether 'an edifice of yore' that some thick is an eye-sore and others regard as a feast to the eye should be raised to the ground or raised in praise? ,Same old story ain't it when a load of non-descript municipal over-remunerated muckers of various aesthetic taste (or not at all) get stuck in to deciding upon whether 'an edifice of yore
 
 # Article Taxonomies
 categories:

@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Many thanks for sharing this great internet site <br>fifa 17 points http://bc24team.com/forum/topic/5206
+     Many thanks for sharing this great internet site <br>fifa 17 points http://bc24team.com/forum/topic/5206,Many thanks for sharing this great internet site <br>fifa 17 points http://bc24team.com/forum/topic/5206
 
 # Article Taxonomies
 categories:

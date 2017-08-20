@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.
+     Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.,Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.,Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.
 
 # Article Taxonomies
 categories:

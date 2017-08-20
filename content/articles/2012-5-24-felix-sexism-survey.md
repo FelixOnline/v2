@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Please can this be fixed - link broken.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,Women are allowed in the Union Bar? Really?
+     Please can this be fixed - link broken.,Please can this be fixed - link broken.,Please can this be fixed - link broken.,Please can this be fixed - link broken.,Please can this be fixed - link broken.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,Women are allowed in the Union Bar? Re
 
 # Article Taxonomies
 categories:

@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Thank you for pouring your heart out honestly in regard to your fears about your son joining the army. I have a 3 yr old son right now, and 3 dartgheus older than him. Things I will have to think about one day.
+     Thank you for pouring your heart out honestly in regard to your fears about your son joining the army. I have a 3 yr old son right now, and 3 dartgheus older than him. Things I will have to think about one day.,Thank you for pouring your heart out honestly in regard to your fears about your son joining the army. I have a 3 yr old son right now, and 3 dartgheus older than him. Things I will have to think about one day.
 
 # Article Taxonomies
 categories:

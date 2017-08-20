@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     There is a difference between being represented for collective bargaining purposes and being a signed-up member of the Union.,This article totally blows, man. Where are all the naked chicks waving placards? Sort it out, lads!,Well done to those lecturers who do choose to go to work. <br> <br>Millions across the country and the world don't have that choice.,"The UCU represents thousands of Imperial staff... but according to the College, ...the 520 UCU members at Imperial" <br> <br>wut
+     There is a difference between being represented for collective bargaining purposes and being a signed-up member of the Union.,There is a difference between being represented for collective bargaining purposes and being a signed-up member of the Union.,This article totally blows, man. Where are all the naked chicks waving placards? Sort it out, lads!,This article totally blows, man. Where are all the naked chicks waving placards? Sort it out, lads!,Well done to those lecturers who do choose to go to work. <br> <br>Millions across the country and the world don't have that choice.,Well done to those lecturers who do choose to go to work. <br> <br>Millions across the country and the world don't have that choice.,"The UCU represents thousands of Imperial staff... but according to the College, ...the 520 UCU members at Imperial" <br> <br>wut,"The UCU represents thousands of Imperial staff... but according to the College, ...the 520 UCU members at Imperial" <br> <br>wut
 
 # Article Taxonomies
 categories:

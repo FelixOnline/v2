@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a loss' is total bs. Ask Abellio, who are owned by the Dutch national rail service. Yep, re-nationalisation sounds like a good idea to me. Though Sadiq Khan's handling of the tube strikes was less than impressive.
+     Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a loss' is total bs. Ask Abellio, who are owned by the Dutch national rail service. Yep, re-nationalisation sounds like a good idea to me. Though Sadiq Khan's handling of the tube strikes was less than impressive.,Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a loss' is total bs. Ask Abellio, who are owned by the Dutch national rail service. Yep, re-nationalisation sounds like a good idea to me. Though Sadiq Khan's handling of the tube strikes was less than impressive.,Good piece, I can definitely understand the frustration, and I'm glad that you have recognised that the strikes are mostly about safety. You are also correct in saying that 'train companies run at a los
 
 # Article Taxonomies
 categories:

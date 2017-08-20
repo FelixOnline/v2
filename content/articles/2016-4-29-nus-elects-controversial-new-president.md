@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     She's not black, ethnically she's an Algerian Arab. You can't just say you're black and then suddenly you become black.<br>Much more worrying than her attempt to be 'transracial' is this fondness she has for ISIS. I'm glad Imperial isn't affiliated with the NUS any more, it's basically become a front for the extremist fringe of the left-wing.,I'm not sure being an Algerian Arab precludes you from from being black,Yeah but just look at her, she's not even slightly black. This is just like Rachel Dolezal and the NAACP.
+     She's not black, ethnically she's an Algerian Arab. You can't just say you're black and then suddenly you become black.<br>Much more worrying than her attempt to be 'transracial' is this fondness she has for ISIS. I'm glad Imperial isn't affiliated with the NUS any more, it's basically become a front for the extremist fringe of the left-wing.,She's not black, ethnically she's an Algerian Arab. You can't just say you're black and then suddenly you become black.<br>Much more worrying than her attempt to be 'transracial' is this fondness she has for ISIS. I'm glad Imperial isn't affiliated with the NUS any more, it's basically become a front for the extremist fringe of the left-wing.,I'm not sure being an Algerian Arab precludes you from from being black,I'm not sure being an Algerian Arab precludes you from from being black,Yeah but just look at her, she's not even slightly black. This is just like Rachel Dolezal and the NAACP.,Yeah but just look at her, she's not even slightly black. This is just like Rachel Dolez
 
 # Article Taxonomies
 categories:

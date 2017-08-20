@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Well this is bullshit. what makes the union so special that they can promise a certain job with certain benefits and then totally change the T&amp;C with no consultation. <br>Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountable.<br>Who the fuck are the trustee board<br>
+     Well this is bullshit. what makes the union so special that they can promise a certain job with certain benefits and then totally change the T&amp;C with no consultation. <br>Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountable.<br>Who the fuck are the trustee board<br> ,Well this is bullshit. what makes the union so special that they can promise a certain job with certain benefits and then totally change the T&amp;C with no consultation. <br>Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountable.<br>Who the fuck are the trustee board<br> ,Well this is bullshit. what makes the union so special that they can promise a certain job with certain benefits and then totally change the T&amp;C with no consultation. <br>Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountable.<br>Who the fuck are the trustee board<br>
 
 # Article Taxonomies
 categories:

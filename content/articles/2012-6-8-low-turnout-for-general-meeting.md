@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     A Postgrad Sabbatical Officer. <br> <br>Jesus they'll be queuing round the block for that. ,Great - so sabbaticals want to be able to ignore council by dominating the trustee board. <br> <br>Council needs to reject these changes if it wants part time officers and elected representatives to have a serious voice.
+     A Postgrad Sabbatical Officer. <br> <br>Jesus they'll be queuing round the block for that. ,A Postgrad Sabbatical Officer. <br> <br>Jesus they'll be queuing round the block for that. ,Great - so sabbaticals want to be able to ignore council by dominating the trustee board. <br> <br>Council needs to reject these changes if it wants part time officers and elected representatives to have a serious voice.,Great - so sabbaticals want to be able to ignore council by dominating the trustee board. <br> <br>Council needs to reject these changes if it wants part time officers and elected representatives to have a serious voice.
 
 # Article Taxonomies
 categories:

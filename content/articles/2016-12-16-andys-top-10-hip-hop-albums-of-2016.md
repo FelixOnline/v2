@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Thank You 4 Your Service - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :)
+     Thank You 4 Your Service - Tribe Called Quest :) ,Thank You 4 Your Service - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :) ,We Got it From Here - Tribe Called Quest :)
 
 # Article Taxonomies
 categories:

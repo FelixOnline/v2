@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     The purheascs I make are entirely based on these articles.,Hi there, good web-site you've at this time there <br>nba 2k17 http://mrs-escort.com/blogs/718/6805/cheap-fifa-17-coins-costume-jewelry-for-design-statement
+     The purheascs I make are entirely based on these articles.,The purheascs I make are entirely based on these articles.,Hi there, good web-site you've at this time there <br>nba 2k17 http://mrs-escort.com/blogs/718/6805/cheap-fifa-17-coins-costume-jewelry-for-design-statement,Hi there, good web-site you've at this time there <br>nba 2k17 http://mrs-escort.com/blogs/718/6805/cheap-fifa-17-coins-costume-jewelry-for-design-statement
 
 # Article Taxonomies
 categories:

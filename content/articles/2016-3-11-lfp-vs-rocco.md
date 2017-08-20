@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Happy Thvgnskiaing Gina and Happy Inspiring Blogger Award day to you! I adore your blog and all the positivity you send out here to the universe! If you so choose to accept swing by my blog to pick it up! cheers!
+     Happy Thvgnskiaing Gina and Happy Inspiring Blogger Award day to you! I adore your blog and all the positivity you send out here to the universe! If you so choose to accept swing by my blog to pick it up! cheers!,Happy Thvgnskiaing Gina and Happy Inspiring Blogger Award day to you! I adore your blog and all the positivity you send out here to the universe! If you so choose to accept swing by my blog to pick it up! cheers!
 
 # Article Taxonomies
 categories:

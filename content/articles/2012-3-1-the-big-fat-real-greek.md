@@ -14,9 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Mammoth I should be able to post my prepepr and bug out bag guides this weekend. The list anon posted has some good sources.I like blacklistednews.com prepepr delighteconomicpolicyjournal.com gloomy stuffcheaperthandirt.com Nearly everything you needsportsmansguide.com lots of military stuff tooemergencyessentials.com food and moreefoods.com food and more foodcostco.com very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I compiled some basic stuff to share with SD readers,There were times when i voted for euro.. but today i would like to have our old money cos with euro everything is much more<a href="http://juodpt.com"> evcenpixe</a>
- - value: >
-     Greece is not the only one.. our country is long gone there also if you ask me but the goverment is denying it.
+     Mammoth I should be able to post my prepepr and bug out bag guides this weekend. The list anon posted has some good sources.I like blacklistednews.com prepepr delighteconomicpolicyjournal.com gloomy stuffcheaperthandirt.com Nearly everything you needsportsmansguide.com lots of military stuff tooemergencyessentials.com food and moreefoods.com food and more foodcostco.com very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I compiled some basic stuff to share with SD readers,Mammoth I should be able to post my prepepr and bug out bag guides this weekend. The list anon posted has some good sources.I like blacklistednews.com prepepr delighteconomicpolicyjournal.com gloomy stuffcheaperthandirt.com Nearly everything you needsportsmansguide.com lots of military stuff tooemergencyessentials.com food and moreefoods.com food and more foodcostco.com very low cost long term food stocksI use these all and then someMost of the prepepr guides cost a bit so I
 
 # Article Taxonomies
 categories:

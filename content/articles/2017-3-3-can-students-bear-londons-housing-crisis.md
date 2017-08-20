@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Your thnkinig matches mine - great minds think alike!
+     Your thnkinig matches mine - great minds think alike!,Your thnkinig matches mine - great minds think alike!
 
 # Article Taxonomies
 categories:

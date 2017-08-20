@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     The info is amazingly unique <br>madden 17 coins http://infinityfriend.com/index.php?do=/blog/10873/cheap-madden-17-coins-history-about-the-dallas-cowboys/
+     The info is amazingly unique <br>madden 17 coins http://infinityfriend.com/index.php?do=/blog/10873/cheap-madden-17-coins-history-about-the-dallas-cowboys/,The info is amazingly unique <br>madden 17 coins http://infinityfriend.com/index.php?do=/blog/10873/cheap-madden-17-coins-history-about-the-dallas-cowboys/
 
 # Article Taxonomies
 categories:

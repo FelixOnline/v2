@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     The college never consults with people. It consults to them.,If the Translation Unit is not in line with College strategy, why are they not closing the Business School as well then? Oh, right... because it receives sponsorship money from big multinational companies such as McKinsey &amp; Company, Shell and Morgan Stanley...,Deadly accurate answer. You've hit the <a href="http://iysusnciba.com">buleesyl!</a>
+     The college never consults with people. It consults to them.,The college never consults with people. It consults to them.,If the Translation Unit is not in line with College strategy, why are they not closing the Business School as well then? Oh, right... because it receives sponsorship money from big multinational companies such as McKinsey &amp; Company, Shell and Morgan Stanley...,If the Translation Unit is not in line with College strategy, why are they not closing the Business School as well then? Oh, right... because it receives sponsorship money from big multinational companies such as McKinsey &amp; Company, Shell and Morgan Stanley...,Deadly accurate answer. You've hit the <a href="http://iysusnciba.com">buleesyl!</a>,Deadly accurate answer. You've hit the <a href="http://iysusnciba.com">buleesyl!</a>
 
 # Article Taxonomies
 categories:

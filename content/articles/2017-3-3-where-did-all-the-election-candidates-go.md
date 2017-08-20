@@ -14,7 +14,7 @@ aliases:
 imported: true
 comments:
  - value: >
-     Thought it wo'ulndt to give it a shot. I was right.
+     Thought it wo'ulndt to give it a shot. I was right.,Thought it wo'ulndt to give it a shot. I was right.
 
 # Article Taxonomies
 categories:
