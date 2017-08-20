@@ -19,6 +19,7 @@ categories:
  - sport
 tags:
  - sport
+ - imported
 authors:
  - sjw209
 highlights:

@@ -20,7 +20,9 @@ categories:
  - comment
 tags:
  - comment
+ - imported
  - image
+ - imported_comments
 authors:
  - jr2514
 highlights:

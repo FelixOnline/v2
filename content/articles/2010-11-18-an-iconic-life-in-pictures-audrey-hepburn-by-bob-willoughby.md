@@ -20,7 +20,9 @@ categories:
  - fashion
 tags:
  - fashion
+ - imported
  - image
+ - imported_comments
 authors:
  - nm1010
 highlights:

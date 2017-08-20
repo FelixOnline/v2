@@ -20,7 +20,9 @@ categories:
  - features
 tags:
  - features
+ - imported
  - image
+ - imported_comments
 authors:
  - snb11
 highlights:

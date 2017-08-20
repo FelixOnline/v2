@@ -20,6 +20,8 @@ categories:
  - news
 tags:
  - news
+ - imported
+ - imported_comments
 authors:
  - jal08
 highlights:

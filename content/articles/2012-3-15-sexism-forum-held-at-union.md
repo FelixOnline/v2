@@ -20,6 +20,8 @@ categories:
  - news
 tags:
  - news
+ - imported
+ - imported_comments
 authors:
  - pk1811
 highlights:

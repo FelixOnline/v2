@@ -20,7 +20,9 @@ categories:
  - tech
 tags:
  - tech
+ - imported
  - image
+ - imported_comments
 authors:
  - fa608
 highlights:

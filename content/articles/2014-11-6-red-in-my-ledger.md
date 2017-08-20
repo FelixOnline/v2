@@ -20,7 +20,9 @@ categories:
  - food
 tags:
  - food
+ - imported
  - image
+ - imported_comments
 authors:
  - snb11
 highlights:

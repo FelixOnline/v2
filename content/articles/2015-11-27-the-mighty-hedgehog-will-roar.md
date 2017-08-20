@@ -20,7 +20,9 @@ categories:
  - comment
 tags:
  - comment
+ - imported
  - image
+ - imported_comments
 authors:
  - ygr12
 highlights:

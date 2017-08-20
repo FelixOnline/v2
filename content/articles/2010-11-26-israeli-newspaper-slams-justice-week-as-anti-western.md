@@ -20,7 +20,9 @@ categories:
  - news
 tags:
  - news
+ - imported
  - image
+ - imported_comments
 authors:
  - bs2610
 highlights:

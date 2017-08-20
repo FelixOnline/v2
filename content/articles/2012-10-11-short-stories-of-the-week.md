@@ -19,6 +19,7 @@ categories:
  - politics
 tags:
  - politics
+ - imported
 authors:
  - csw09
 highlights:

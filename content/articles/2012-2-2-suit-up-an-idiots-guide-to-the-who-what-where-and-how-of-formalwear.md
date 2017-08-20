@@ -20,7 +20,9 @@ categories:
  - fashion
 tags:
  - fashion
+ - imported
  - image
+ - imported_comments
 authors:
  - mc4509
 highlights:

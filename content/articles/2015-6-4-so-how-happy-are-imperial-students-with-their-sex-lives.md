@@ -20,7 +20,9 @@ categories:
  - features
 tags:
  - features
+ - imported
  - image
+ - imported_comments
 authors:
  - cj914
 highlights:

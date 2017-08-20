@@ -19,6 +19,7 @@ categories:
  - books
 tags:
  - books
+ - imported
  - image
 authors:
  - felix

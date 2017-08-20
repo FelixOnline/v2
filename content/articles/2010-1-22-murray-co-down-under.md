@@ -19,6 +19,7 @@ categories:
  - sport
 tags:
  - sport
+ - imported
 authors:
  - jk708
 highlights:

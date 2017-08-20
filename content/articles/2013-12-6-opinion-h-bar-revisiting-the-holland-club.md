@@ -20,6 +20,8 @@ categories:
  - features
 tags:
  - features
+ - imported
+ - imported_comments
 authors:
  - jal08
 highlights:

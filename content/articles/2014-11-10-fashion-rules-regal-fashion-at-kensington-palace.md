@@ -19,6 +19,7 @@ categories:
  - fashion
 tags:
  - fashion
+ - imported
  - image
 authors:
  - ps3110

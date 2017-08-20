@@ -19,6 +19,7 @@ categories:
  - games
 tags:
  - games
+ - imported
 authors:
  - pk1811
 highlights:

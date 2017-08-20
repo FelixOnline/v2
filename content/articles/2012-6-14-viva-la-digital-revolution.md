@@ -20,6 +20,8 @@ categories:
  - tech
 tags:
  - tech
+ - imported
+ - imported_comments
 authors:
  - ams111
 highlights:

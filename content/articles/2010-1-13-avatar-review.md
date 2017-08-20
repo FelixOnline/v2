@@ -20,7 +20,9 @@ categories:
  - film
 tags:
  - film
+ - imported
  - image
+ - imported_comments
 authors:
  - egk08
 highlights:

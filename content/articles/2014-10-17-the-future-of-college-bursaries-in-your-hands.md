@@ -19,6 +19,7 @@ categories:
  - news
 tags:
  - news
+ - imported
 authors:
  - kmw13
 highlights:

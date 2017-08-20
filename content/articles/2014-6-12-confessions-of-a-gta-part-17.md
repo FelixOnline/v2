@@ -19,6 +19,7 @@ categories:
  - comment
 tags:
  - comment
+ - imported
  - image
 authors:
  - me1711

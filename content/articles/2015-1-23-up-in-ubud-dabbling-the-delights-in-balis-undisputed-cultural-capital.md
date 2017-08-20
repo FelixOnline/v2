@@ -19,6 +19,7 @@ categories:
  - travel
 tags:
  - travel
+ - imported
  - image
 authors:
  - jyg11

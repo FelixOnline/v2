@@ -20,7 +20,9 @@ categories:
  - comment
 tags:
  - comment
+ - imported
  - image
+ - imported_comments
 authors:
  - me1711
 highlights:

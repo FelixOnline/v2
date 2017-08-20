@@ -20,6 +20,8 @@ categories:
  - politics
 tags:
  - politics
+ - imported
+ - imported_comments
 authors:
  - jr2514
 highlights:

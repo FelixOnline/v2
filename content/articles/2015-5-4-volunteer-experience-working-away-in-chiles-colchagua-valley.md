@@ -20,7 +20,9 @@ categories:
  - travel
 tags:
  - travel
+ - imported
  - image
+ - imported_comments
 authors:
  - ps3110
 highlights:

@@ -19,6 +19,7 @@ categories:
  - music
 tags:
  - music
+ - imported
  - image
 authors:
  - mc4509

@@ -20,6 +20,8 @@ categories:
  - games
 tags:
  - games
+ - imported
+ - imported_comments
 authors:
  - ac1507
 highlights:

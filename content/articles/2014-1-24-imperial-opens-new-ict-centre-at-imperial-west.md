@@ -19,6 +19,7 @@ categories:
  - news
 tags:
  - news
+ - imported
 authors:
  - jal08
 highlights:

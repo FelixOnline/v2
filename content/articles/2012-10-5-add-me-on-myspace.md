@@ -19,6 +19,7 @@ categories:
  - tech
 tags:
  - tech
+ - imported
  - image
 authors:
  - jp1409

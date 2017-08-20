@@ -20,6 +20,8 @@ categories:
  - film
 tags:
  - film
+ - imported
+ - imported_comments
 authors:
  - cac111
 highlights:

@@ -19,6 +19,7 @@ categories:
  - news
 tags:
  - news
+ - imported
 authors:
  - snb11
 highlights:

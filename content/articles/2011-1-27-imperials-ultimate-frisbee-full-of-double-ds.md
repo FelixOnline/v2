@@ -19,6 +19,7 @@ categories:
  - sport
 tags:
  - sport
+ - imported
 authors:
  - prs09
 highlights:

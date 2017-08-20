@@ -19,6 +19,7 @@ categories:
  - politics
 tags:
  - politics
+ - imported
 authors:
  - pk1811
 highlights:

@@ -19,6 +19,7 @@ categories:
  - tech
 tags:
  - tech
+ - imported
 authors:
  - nm1010
 highlights:

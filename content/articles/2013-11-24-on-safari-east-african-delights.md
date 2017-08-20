@@ -19,6 +19,7 @@ categories:
  - travel
 tags:
  - travel
+ - imported
 authors:
  - jal08
 highlights:

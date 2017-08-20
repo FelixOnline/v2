@@ -19,6 +19,7 @@ categories:
  - tech
 tags:
  - tech
+ - imported
 authors:
  - jp1409
 highlights:

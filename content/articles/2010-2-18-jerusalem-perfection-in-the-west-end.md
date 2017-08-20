@@ -19,6 +19,7 @@ categories:
  - arts
 tags:
  - arts
+ - imported
  - image
 authors:
  - lh106

@@ -20,7 +20,9 @@ categories:
  - games
 tags:
  - games
+ - imported
  - image
+ - imported_comments
 authors:
  - jk708
 highlights:

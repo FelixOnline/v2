@@ -21,7 +21,9 @@ categories:
  - tech
 tags:
  - tech
+ - imported
  - image
+ - imported_comments
 authors:
  - tna08
 highlights:

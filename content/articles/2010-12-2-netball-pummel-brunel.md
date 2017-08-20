@@ -20,6 +20,8 @@ categories:
  - sport
 tags:
  - sport
+ - imported
+ - imported_comments
 authors:
  - fmg08
 highlights:

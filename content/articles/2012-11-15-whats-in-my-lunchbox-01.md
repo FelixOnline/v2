@@ -20,7 +20,9 @@ categories:
  - food
 tags:
  - food
+ - imported
  - image
+ - imported_comments
 authors:
  - cac111
 highlights:

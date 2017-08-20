@@ -19,6 +19,7 @@ categories:
  - arts
 tags:
  - arts
+ - imported
 authors:
  - sjw209
 highlights:

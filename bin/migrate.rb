@@ -85,7 +85,9 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
   md << "categories:\n - #{category}"
   md << "tags: \n - #{category}"
+  md << " - imported"
   md << " - image" if r["image_path"] && r["image_path"].length > 0
+  md << " - imported_comments" if r["comments"].length > 0
   md << "authors:"
   md << " - #{r["author_id"]}"
   md << "highlights:"

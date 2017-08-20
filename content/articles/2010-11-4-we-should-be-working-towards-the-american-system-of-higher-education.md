@@ -19,6 +19,7 @@ categories:
  - news
 tags:
  - news
+ - imported
  - image
 authors:
  - jk708

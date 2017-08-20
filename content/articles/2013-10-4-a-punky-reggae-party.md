@@ -20,7 +20,9 @@ categories:
  - music
 tags:
  - music
+ - imported
  - image
+ - imported_comments
 authors:
  - sh1207
 highlights:

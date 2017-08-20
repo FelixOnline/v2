@@ -20,6 +20,8 @@ categories:
  - arts
 tags:
  - arts
+ - imported
+ - imported_comments
 authors:
  - mc4509
 highlights:

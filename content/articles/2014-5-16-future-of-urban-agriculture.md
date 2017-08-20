@@ -19,6 +19,7 @@ categories:
  - food
 tags:
  - food
+ - imported
  - image
 authors:
  - jal08

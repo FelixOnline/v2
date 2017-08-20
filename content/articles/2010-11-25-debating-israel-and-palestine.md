@@ -19,6 +19,7 @@ categories:
  - politics
 tags:
  - politics
+ - imported
  - image
 authors:
  - nm1010

@@ -19,6 +19,7 @@ categories:
  - games
 tags:
  - games
+ - imported
  - image
 authors:
  - ams111

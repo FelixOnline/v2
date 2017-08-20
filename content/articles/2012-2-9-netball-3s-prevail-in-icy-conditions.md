@@ -20,6 +20,8 @@ categories:
  - sport
 tags:
  - sport
+ - imported
+ - imported_comments
 authors:
  - pk1811
 highlights:

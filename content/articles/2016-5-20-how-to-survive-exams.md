@@ -19,6 +19,7 @@ categories:
  - welfare
 tags:
  - welfare
+ - imported
  - image
 authors:
  - felix

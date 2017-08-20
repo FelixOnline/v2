@@ -20,6 +20,8 @@ categories:
  - arts
 tags:
  - arts
+ - imported
+ - imported_comments
 authors:
  - ygr12
 highlights:

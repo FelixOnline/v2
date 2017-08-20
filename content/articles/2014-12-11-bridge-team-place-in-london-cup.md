@@ -20,7 +20,9 @@ categories:
  - clubs-and-socs
 tags:
  - clubs-and-socs
+ - imported
  - image
+ - imported_comments
 authors:
  - cj914
 highlights:

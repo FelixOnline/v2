@@ -20,7 +20,9 @@ categories:
  - sport
 tags:
  - sport
+ - imported
  - image
+ - imported_comments
 authors:
  - ams111
 highlights:

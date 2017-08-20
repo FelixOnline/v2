@@ -20,7 +20,9 @@ categories:
  - politics
 tags:
  - politics
+ - imported
  - image
+ - imported_comments
 authors:
  - cj914
 highlights:

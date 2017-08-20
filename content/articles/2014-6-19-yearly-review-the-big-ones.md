@@ -19,6 +19,7 @@ categories:
  - tech
 tags:
  - tech
+ - imported
 authors:
  - me1711
 highlights:

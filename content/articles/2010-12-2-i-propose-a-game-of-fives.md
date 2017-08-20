@@ -19,6 +19,7 @@ categories:
  - sport
 tags:
  - sport
+ - imported
  - image
 authors:
  - am1108

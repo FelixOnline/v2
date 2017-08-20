@@ -19,6 +19,7 @@ categories:
  - clubs-and-socs
 tags:
  - clubs-and-socs
+ - imported
  - image
 authors:
  - ps3110

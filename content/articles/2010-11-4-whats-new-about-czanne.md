@@ -20,7 +20,9 @@ categories:
  - arts
 tags:
  - arts
+ - imported
  - image
+ - imported_comments
 authors:
  - jk708
 highlights:

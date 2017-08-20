@@ -20,7 +20,9 @@ categories:
  - science
 tags:
  - science
+ - imported
  - image
+ - imported_comments
 authors:
  - pk1811
 highlights:

@@ -20,6 +20,8 @@ categories:
  - tech
 tags:
  - tech
+ - imported
+ - imported_comments
 authors:
  - jal08
 highlights:

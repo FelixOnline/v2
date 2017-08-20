@@ -20,7 +20,9 @@ categories:
  - welfare
 tags:
  - welfare
+ - imported
  - image
+ - imported_comments
 authors:
  - jyg11
 highlights:

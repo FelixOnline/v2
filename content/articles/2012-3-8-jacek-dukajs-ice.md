@@ -20,7 +20,9 @@ categories:
  - books
 tags:
  - books
+ - imported
  - image
+ - imported_comments
 authors:
  - ams111
 highlights:

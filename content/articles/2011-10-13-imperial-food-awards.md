@@ -20,6 +20,8 @@ categories:
  - food
 tags:
  - food
+ - imported
+ - imported_comments
 authors:
  - sjw209
 highlights:

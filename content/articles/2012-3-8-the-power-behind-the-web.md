@@ -20,7 +20,9 @@ categories:
  - tech
 tags:
  - tech
+ - imported
  - image
+ - imported_comments
 authors:
  - cb908
 highlights:

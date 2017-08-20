@@ -19,6 +19,7 @@ categories:
  - politics
 tags:
  - politics
+ - imported
 authors:
  - jal08
 highlights:

@@ -20,7 +20,9 @@ categories:
  - fashion
 tags:
  - fashion
+ - imported
  - image
+ - imported_comments
 authors:
  - snb11
 highlights:

@@ -19,6 +19,7 @@ categories:
  - business
 tags:
  - business
+ - imported
  - image
 authors:
  - nm1010

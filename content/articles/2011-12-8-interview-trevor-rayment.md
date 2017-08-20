@@ -20,7 +20,9 @@ categories:
  - news
 tags:
  - news
+ - imported
  - image
+ - imported_comments
 authors:
  - pk1811
 highlights:

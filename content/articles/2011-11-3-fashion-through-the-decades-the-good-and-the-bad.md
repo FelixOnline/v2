@@ -20,6 +20,8 @@ categories:
  - fashion
 tags:
  - fashion
+ - imported
+ - imported_comments
 authors:
  - pk1811
 highlights:

@@ -20,6 +20,8 @@ categories:
  - comment
 tags:
  - comment
+ - imported
+ - imported_comments
 authors:
  - cj914
 highlights:

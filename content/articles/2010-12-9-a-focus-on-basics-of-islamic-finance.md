@@ -19,6 +19,7 @@ categories:
  - business
 tags:
  - business
+ - imported
  - image
 authors:
  - ac1507

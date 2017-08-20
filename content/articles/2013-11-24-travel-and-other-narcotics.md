@@ -20,6 +20,8 @@ categories:
  - travel
 tags:
  - travel
+ - imported
+ - imported_comments
 authors:
  - jal08
 highlights:

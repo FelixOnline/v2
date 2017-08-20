@@ -19,6 +19,7 @@ categories:
  - culture
 tags:
  - culture
+ - imported
  - image
 authors:
  - felix
