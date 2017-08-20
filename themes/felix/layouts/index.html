@@ -4,12 +4,6 @@
 
 {{ partial "header.html" . }}
 
-<p>
-  <a href="{{ .Site.BaseURL}}authors">Authors</a>
-  <a href="{{ .Site.BaseURL}}categories">Categories</a>
-  <a href="{{ .Site.BaseURL}}tags">Tags</a>
-</p>
-
 <div class="headline-section">
   {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
