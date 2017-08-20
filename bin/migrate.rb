@@ -115,18 +115,21 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
 
+  image_url = "http://felixonline.co.uk/#{r["image_path"]}"
+  md << "image: \"#{image_url}\""
+  md << "image_caption: \"#{r["image_caption"].gsub('"', '')}\"" if r["image_caption"].to_s.length > 0
+
   if r["deleted"].nil? || r["deleted"].to_s.include?("1")
     # puts "Marking as Draft: #{r["article_id"]} #{r["article_title"]}"
     md << "draft: true"
   end
+  md << "headline: true"
+  md << "featured: true"
+  md << "imported: true"
 
-  md << "\n# Attributes from Felix Online V1"
-  md << "id: \"#{r["article_id"]}\""
   old_path = "/#{r["category_slug"]}/#{r["article_id"]}/#{r["article_title"].downcase.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}"
-  md << "old_path: #{old_path}"
   md << "aliases:"
   md << " - #{old_path}"
-  md << "imported: true"
   md << "comments:"
   comment_count = 0
   r["comments"].split(/\s+\+\s+/).each do |c|
@@ -136,7 +139,6 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
     comment_count += 1
   end
 
-  md << "\n# Article Taxonomies"
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
   authors = (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort
   md << "categories:\n - #{category}"
@@ -154,14 +156,6 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << " - longread" if r["content"].to_s.split(" ").length > 1000
   md << " - photos" if r["content"].to_s.include?("image")
 
-  md << "\n# Homepage control params"
-  md << "headline: true"
-  md << "featured: true"
-
-  image_url = "http://felixonline.co.uk/#{r["image_path"]}"
-  image_caption = (r["image_caption"] || "").gsub!('"', '')
-  md << "image: \"#{image_url}\""
-  md << "image_caption: \"#{image_caption}\""
   md << "---\n"
 
   JSON.parse(r["content"])["data"].each do |section|

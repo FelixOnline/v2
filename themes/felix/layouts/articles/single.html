@@ -42,7 +42,7 @@
   {{ if (eq .Params.imported true) }}
     <div>
       This article was imported from Felix Online V1.
-      <a href="http://felixonline.co.uk/{{ .Params.old_path }}">Original Article</a>
+      <a href="http://felixonline.co.uk{{ index .Params.aliases 0 }}">Original Article</a>
     </div>
   {{ end }}
 
