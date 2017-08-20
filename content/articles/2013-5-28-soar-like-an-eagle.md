@@ -48,6 +48,9 @@ Most of the other 15 are more akin to long, insightfulmusings. Personally, I am 
 With each LP, she has become more distant from her early teenage releases. Previously full of haste with an annoying “folk” image, dropping Noah and The Whale’s Charlie Fink in favour of Ethan Johns’ production was probably the best thing she did musically. Since then, her songs have matured at impressive speed. Marling has gone from moulding herself to fit a London scene to an independent songstress brimming with Americana; with four albums under her belt at the age of 23.
 
 Her latest one opens with a four-song medley, previewed via a beautiful film full of twirling dancers and romancers Brave Bird Saved. This, combined with three which have been streaming on her Sound Cloud for the past couple of months, make the 16-track album less of a daunting thing. Plus, don’t bother with Interlude.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305281503-tna08-laura_web4.jpg" title="" caption="" attr="" >}}
+
 The remaining eight require two things to be enjoyed. Firstly, being in the right mood. Many people mistakenly believe this would be a depressive one, but I would personally warn against that (it doesn’t help) – more of a state of contemplation and retreat. Secondly, it requires listening several times. This is no bad thing, the best songs are the ones you get to know over time rather than those which jump at you first time and hardly ever again.
 
 Compared to earlier records, the pieces are less layered, mainly focussing on her guitar and her voice joining in here and there, humming along only when she feels like it. Marling’s poetic prowess is not lost, but is half transferred to the musical bed rather than fully channelled through the lyrics as they used to be.
@@ -55,6 +58,9 @@ Compared to earlier records, the pieces are less layered, mainly focussing on he
 What hasn’t changed, however, is her aloof approach to song-writing. It is obvious that the songs do not come directly from personal experience, but more of an empathy for the characters she sings about. Plus, she is a great source of inspiration when trying to find a book to read – one which has moved someone to write a song about it is obviously one worth getting lost in. I tip my hat off to Salinas (off of third album A Creature I Don’t Know) and its nod to Steinbeck’s East of Eden.
 
 Rather than the majestic instrumental composition which bathed pervious releases, the parts that jump out are the tender guitar strings which echo the melody of her voice. Try Little Bird and your heart will swell as she sings the name “Rosie”.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling.jpg" title="" caption="" attr="" >}}
+
 Instead of her long poetic verses, which bulked up older albums, are short, sharp phrases which send chills down the spine.“I don’t care where you’ve gone beast – I care where you go.” – Take the Night Off
 
 “When we were in love - if we were - I was an eagle and you were a dove.” - I was an Eagle

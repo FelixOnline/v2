@@ -58,3 +58,6 @@ In 2010, the government demanded a flash cash settlement for the science budget.
 In the UK, about 32% of funding for R&D is provided by the government.
 
 When the UK is compared to other countries in the G7 (United States, United Kingdom, Italy, France, Germany, Japan, Canada), the UK spends the lowest percentage of the Gross Domestic Product (GDP) on R&D (see table below).
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211171707-tna08-table.jpg" title="" caption="" attr="" >}}
+

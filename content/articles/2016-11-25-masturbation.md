@@ -37,6 +37,9 @@ image_attribution_link: ""
 video_url: ""
 ---
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611251444-felix-Screen Shot 2016-11-25 at 14.44.33.png" title="" caption="" attr="" >}}
+
 Yes, masturbation. We all do it, and those who say they don’t are probably lying. Right? Well, actually, maybe not. The felix Sex Survey reveals that year on year, about 10% of us never indulge in a little self-pleasure, with that number skewed by around a quarter of the women who never polish the pearl. So maybe we’re not all choking the chicken, but the question really is, should we be?
 
 Despite the age-old rhetoric that wanking is bad for you, will make hairs grow on the palms of your hands, and will make you go blind, jacking and jilling off is actually good for you. It’s known to relieve stress, help you sleep, and is even known to help prevent prostate cancer. Are you really that healthy if you’re not giving the monkey a healthy spank every once in a while?
@@ -51,3 +54,6 @@ So now we’ve established that we should be doing the five knuckle shuffle, let
 
 The ladies are also much more likely to have gadgetry assistance. Once they get to third and fourth year, most girls will own at least one sex toy (does it make diddling the skittle more efficient, or are they just too lazy to air the orchid manually?), but men very rarely dance around the maypole using anything other than their hand and maybe some lube. It’s best to mix it up with new sensations sometimes: men-friends, I’m buying you all Tenga eggs for Christmas.
 Personally, I like to finish off my days with a bit of Etsy kimono shopping. Sometimes it’s a frantic expression of horniness, and sometimes it’s time that I set aside for a bit of self-care at the end of the day. Bashing the Bishop is something that you should do for you, as it has the great benefits of making you feel good about yourself, while improving the sex you have with other people (although no-one will ever make love to you like you do). So get out there and make momma proud. Play pocket pinball to your heart’s content – you don’t need to be ashamed.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611251446-felix-Screen Shot 2016-11-25 at 14.45.03.png" title="" caption="" attr="" >}}
+

@@ -44,6 +44,9 @@ It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for
 
 __Starter:__
 _Aubergine and honey heaven_
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211301314-tna08-starter.jpg" title="" caption="" attr="" >}}
+
 Words cannot explain my excitement when I first made this. I was inspired by a salad dish I saw on a cooking show and I thought I should modify it a bit and give it a try. With no exaggeration this is the best starter you can ever have since it is light and it has unique flavours that are married so well together.
 
 Ingredients:
@@ -83,6 +86,9 @@ To make the pesto, simply place the basil, oil, garlic, and salt and pepper in t
 
 __Dessert:__
 _Rich chocolate brownies_
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211301313-tna08-brownies.jpg" title="" caption="" attr="" >}}
+
 Chocolate for dessert. It might sound typical but these brownies give this meal a luxurious end. You have to try them to understand!
 
 Ingredients:

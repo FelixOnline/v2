@@ -63,6 +63,9 @@ The ‘Asthmapolis’ application helps asthma sufferers by tracking their sympt
 Looking to the developing world, the promise for mobile technology to have a positive social impact seems to be even greater. Many developing countries currently lack the efficient physical infrastructure we take for granted (the roads, phone lines, GP surgeries and banks). Mobile technology can be deployed incredibly quickly in these countries as one mast covers a huge area – instantly giving the population access to services such as mobile banking, healthcare and trade.
 
 Several short mobile phone calls will allow a farmer or a producer to determine the price he can sell his goods at different markets and to negotiate the best price without spending days making successive trips to different markets.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201111172141-pk1811-m-pesa-2-0910.jpg" title="" caption="" attr="" >}}
+
 Mobile banking companies such as M-Pesa allows people to invest money for their future and to pay suppliers without a long journey to the bank whilst also eliminating the risks and costs of transporting physical money. Other apps such as EpiSurveyor help with disease monitoring: they allow physicians to monitor the spread of diseases in real-time without the delay introduced by sending and collating paper forms.
 
 __Mobile innovation__

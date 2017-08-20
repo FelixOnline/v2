@@ -44,6 +44,9 @@ Cooking. Some of you might hate it. Maybe it is time you started seeing cooking 
 Remember the smell of your favourite food your mum used to make for you when you were a kid? Or how excited youwere about your huge birthday cake? Or the cookies you used to eat at your friend’s house? Ask your mum for the recipe of that special food that was your favourite, make it and you will feel like being at home. That’s why food is important. It is probably the only thing that can bring memories back!
 
 And of course, food is more enjoyable when it is shared with other people. So when you cook invite your friends too. Is there a better gift you can give to your friends than cooking for them (except maybe some nice French liqueur…)? I don’t think so. Cooking requires effort and that’s why I appreciate people who would cook for others.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201301250133-tna08-cheesecake-2.jpg" title="" caption="" attr="" >}}
+
 All of the above are the reasons I was very excited when I received this recipe from Amy Lam, a second year chemical engineering student. She made this amazing cheesecake as a surprise for the birthday of her friend. How great is that? She devoted the time to make it and the results show that all the care and effort she put into it paid off. Needless to say that her friends were more than thrilled.
 
 So, this is the recipe. Try it and make something your friends will always remember. And if it is not their birthday, just find another reason to celebrate!

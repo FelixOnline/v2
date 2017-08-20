@@ -75,6 +75,9 @@ K - There is a poetry night called Clinic in South London. Turns out my friend f
 E - The atmosphere there is really great; is it part of what you wanted to create?
 
 K - Yeah. I think it comes from the fact that I don’t see my poetry as amazing. So, when I am up there reading all my poems I’m not treating it as if it’s awesome. It’s meant to be a relaxed inclusive atmosphere; everyone who goes is friendly and open to other people
+
+{{< figure src="http://felixonline.co.uk/img/upload/201206142147-pk1811-327746_10150435052611044_2004236967_o.jpg" title="" caption="" attr="" >}}
+
 E - It is a little community of poetry and pub lovers.
 
 K - It is one of my favourite nights. To start with 95% of the people there were just my friends… the last night we had there were a lot of people that I didn’t recognise.

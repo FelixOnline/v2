@@ -48,6 +48,9 @@ Yes, he’s not the first American Right Wing loony, and he probably won’t be 
 Lots of people, over lots of conversations, have their own answer for this. Bruce Springsteen, for example, this week said that he thinks it’s to do with The Donald pretending to ‘left-behind people’ that he is listening to them when others aren’t. I think that is a short term and inaccurate view. In order to understand the phenomenon that is Donald Trump, in my opinion, we have to look more deeply at the root of the problem: The Republican Party itself.
 
 The Republican Party traditionally stands on the Conservative Right of American politics, espousing policies such as free markets, deregulation and traditional Christian values, against the Democrats, who believe in liberalist policies of mixed economies, civil liberties, and social justice. These divisions, and the arguments on both sides, are important ones, and it is the political wrestling of nations between a range of approaches that results in countries taking steps forward, using a diverse collection of ideas and methods.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610311320-felix-Screen Shot 2016-10-31 at 13.20.18.png" title="" caption="" attr="" >}}
+
 > >  This election is the inevitable outcome of years of what I would term ‘Republican Low-Road-ism’
 This election, however, is not about these issues. This election is the inevitable outcome of years of what I would term ‘Republican Low-Road-ism’. That is to say, the Republicans abandoning reason for madness, slinging mud desperately at the Democrats, and appealing to the insecurities and unfounded beliefs of the American people in a shameless attempt at scooping as many votes as possible. This policy, and the post-truth America it has created, has paved the way for a Donald-like character to march into the Oval Office.
 

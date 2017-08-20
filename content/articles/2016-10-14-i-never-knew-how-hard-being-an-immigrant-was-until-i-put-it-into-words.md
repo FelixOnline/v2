@@ -44,6 +44,9 @@ For my family, migration is like a weird tradition. My grandparents left their h
 On my mum’s side, my grandparents left Greece for Australia in the 50s, for a life that was more than what rural, agricultural Greece had to offer. They both worked as factory workers for most of their lives in Australia. They had three children, mum included.
 > > Every week I feel less welcome, less worthy, less secure
 Greece in the 80s. They were no longer immigrants. My mother on the other hand has been, or rather has felt like, an immigrant one way or another ever since.  My dad spent his late teens and early twenties here, in the UK. He migrated here to study, stayed for work, and eventually returned to do his mandatory military service. He considered returning to the UK for work but decided to stay (fortunately for me). All this happened before the EU, before freedom of movement. When you couldn’t send money abroad easily. When the world was not as multicultural, as tolerant, as global.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610141208-felix-Screen Shot 2016-10-14 at 12.06.26.png" title="" caption="" attr="" >}}
+
 I was born and raised in Athens, and migrated to the UK just as I was turning 19, as the crisis was climaxing. I was sent over because life in Greece had become uncertain (we couldn’t have imagined all that followed).
 
 Fast forward five years and I’ve completed two degrees, worked a number of odd jobs, been asked countless times if I know how to make moussaka, and currently – despite my broken English – run a newspaper (you made that decision, IC electorate, so the joke’s on you).

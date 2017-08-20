@@ -52,6 +52,9 @@ The first level takes place at the tail end of an attack on your clan, led by a 
 The controls are solid, though a little clunky if using keyboard and mouse. Personally, I prefer to use an Xbox 360 controller, occasionally using the mouse for precision, however a little bit of practice and most people should be fine with a keyboard and mouse.
 
 The art and music, on the other hand, are absolutely astonishing. Together with a few major features in the gameplay (being able to ‘see’ sound, pausing time for short periods, the sheer number of different ways to execute a stealth kill), these cause a very powerful atmosphere in the game. If, like me, you’re one of these people who becomes very invested in a game, you might even start feeling like a real ninja.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305291712-tna08-motnmain_1920x1200.jpg" title="" caption="" attr="" >}}
+
 Unfortunately, there are very few games out there to compare this to – 2D stealth games have only really started becoming popular with the release of Mark of the Ninja. However, in comparison to 3D stealth games two things should be noted.
 
 Firstly that the game is more ‘casual’, in that it’s much easier to get into. If you simply want to complete the levels and finish the story, you can fail all the time and be detected quite often but still complete it – only your points will suffer. But if you want to, there’s a wealth of secondary objectives to complete that turn it from a game that anyone can complete to onethat few can master.

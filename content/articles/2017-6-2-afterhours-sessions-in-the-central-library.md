@@ -49,6 +49,9 @@ We arrived at our destination just after twelve. As any seasoned Imperial studen
 
 We started with the ground floor and made our way up. We’d start with the group study areas and build our confidence up until we reached the silent study floors.
 The first guy we bumped into was Andy Whitfield, a Metals and Energy Finance Masters student who was surprisingly chatty.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021536-felix-18406371_1178685932241087_1871746428_o.jpg" title="Andy Whitfield who'd rather take a dump in a mine that at the Library loos" caption="Andy Whitfield who'd rather take a dump in a mine that at the Library loos" attr="felix" >}}
+
 **Why are you not home working?**
 I concentrate better here. It forces me to work – there are too many distractions at home.
 
@@ -77,6 +80,9 @@ We thanked Andy and  wished him good luck. We said we’d come back to check up 
 Next we cornered someone on his way back to his group. He didn’t see us coming. Actually he did and was really cool about sparing five minutes to talk to us. But we managed to mess up the recording so we’ll never know what this beautiful stranger had to say.
 
 We then decided we should probably move on and harass people on other floors. But not before intruding the privacy of one of those weird little study cubes and force Shafakat Bashir, a Chemical Engineering Masters student to talk to us.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021536-felix-18379320_1178685962241084_914563375_o.jpg" title="Shafakat Bashir and his big ol' bottle of water" caption="Shafakat Bashir and his big ol' bottle of water" attr="felix" >}}
+
 **Is this your first all-nighter?**
 It’s not my first no. I can’t revise during the day as there is no space in the library. So I sleep during the day and revise all night.
 
@@ -100,6 +106,9 @@ Because I’ve moved here from a different part of the country and don’t reall
 After wasting a good fifteen minutes of Shafakat’s time we  reluctantly decided to let him go back to his big old bottle of water and make our way to the second floor to tackle a silent study area.
 
 We tried talking to a good six or seven students on the second floor. Luckily Fabiola Mann, a first year medic, took pity on us before we lost all our remaining morale.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021537-felix-18378890_1178685915574422_1039417463_o.jpg" title="Medic fresher Fabiola Mann and her beyond cool trousers" caption="Medic fresher Fabiola Mann and her beyond cool trousers" attr="felix" >}}
+
 **How many all-nighters have you done?**
 Not that many, I try to avoid them when I can.
 
@@ -138,6 +147,9 @@ I just really like this space.
 As we bid Fabiola farewell, Cale pointed out people come here because they want no distractions and that we’re hella distracting.
 
 So we decided to cut our losses and move on. As we arrived to the third floor, another silent study floor, we were overtaken by dread as we thought about all the students we’d once again have to bother to be done with this article. Then a structural engineer popped out of the loo and we snatched him and asked him to step out for a sec to answer some questions. After spelling his name for us Angel Ruizdelarbol told us all about his relationship with the library.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021537-felix-18362695_1178685892241091_1896301254_o.jpg" title="Spanish heartthrob Angel Ruizdelarbol" caption="Spanish heartthrob Angel Ruizdelarbol" attr="felix" >}}
+
 **Are you gonna spend the whole night here?**
 No one more hour.
 
@@ -189,6 +201,9 @@ I generally don’t mix with people much, but recently I found a close friend. L
 **Anything else you’d like to add?**
 I haven’t seen a mouse in the library but I hope to see one soon.
 On that note we thought it might be time to head off. So we finally made our way to the fifth floor where we were met with super keen biology newbie and all-nighter expert Gunay Arcan.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021538-felix-16465954_1178685868907760_665442380_o.jpg" title="Biology fresher Gunay Arcan" caption="Biology fresher Gunay Arcan" attr="felix" >}}
+
 **Have you done this before?**
 Yes many times. I have a tutorial for tomorrow. Usually I’ll leave the tutorial sheet till the last minute and I’ll have to stay up all night. I do this about three times a week [laughs awkwardly]. I think I have insomnia.
 
@@ -222,6 +237,9 @@ It’s not working out. I managed to survive my first exams but it’s not going
 **So you’ve already predicted your failure?**
 [laughs]
 Feeling a lot more care-free after our conversation with Gunay we started our decent back down to the Ground Floor. We were about to leave when we decided to talk to one last person before calling it a night.  Mobolaji Adekanmbi who was on duty at the main desk. We talked for quite a while but we’ve boiled our conversation down to two key questions:
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021539-felix-18406413_1178685865574427_1065052865_o.jpg" title="legendary security guard Mobolaji Adekanmbi" caption="legendary security guard Mobolaji Adekanmbi" attr="felix" >}}
+
 **Tell us about your relationship with food and drink.**
 Oh… We encourage students to eat food at the cafe or leave it outside, but some will try and sneak it inside. Students complain about food smells and we have to tell students that cooked food isn’t allowed in the library. Students will eat and keep it under the table. When you go around you’ll see it but you don’t’ know who’s it is. Some students will sneak in pizza. Some people come with electric water boilers [kettles] to make coffee. But obviously that’s not allowed in the library.
 

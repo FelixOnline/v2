@@ -59,6 +59,9 @@ Nearly 70% of their respondents reported that they had received unwanted sexual 
 Overwhelmingly (though not exclusively) the victims of sexual violence are women, and the
 > Only 10% of the serious sexual assaults were reported to the police, which is the same reporting rate from any sector of society, and this doesn’t even begin to take into account how many of these reports become convictions
 perpetrators are men. It is often easy to say that women should take care to avoid being raped, because women get raped. It is perhaps more pertinent to tell men that some men rape, and that they should take action to stop this happening.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211222218-tna08-reclaim-the-night.jpg" title="" caption="" attr="" >}}
+
 One action that comes from this dire state of affairs is the Reclaim the Night movement. Women standing together to re-assert their right to walk safely at night and their right not to be subjected to violence or to be blamed for any that is perpetrated against them. Reclaim the Night is a night-time march that happens every year in London and in other cities across the UK and the world, where thousands of women come together and shout in opposition to violence against women.
 
 Joining a demonstration is a very powerful action – it might not change a law, or wave a magic wand, but standing up for what you believe in has a positive effect. Thousands of women marching past a group of people out in central London on a Saturday evening chanting, “yes means yes, and no means no”, has the potential to make them remember about consent or consider the consequences of their actions.

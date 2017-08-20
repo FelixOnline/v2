@@ -61,6 +61,9 @@ __We would love to have some cooking advice! What do you think are the secrets o
 Aside from that, try to start with the best ingredients you can afford. Trust me, I’m not talking about expensive filet steak or high-end lobster, what I mean is go for stuff that is seasonal. That way the quality will be better and it’ll be affordable too.
 
 On top of that, club together with mates and cook up a treat. For example, it’s nearly impossible to cook a meal for £2 when you’re cooking alone. But to cater for you and three friends on a budget of £8 is easy! Scale makes good food possible. And on those evenings when you’re cooking on your own, still make several portions and then save the rest as leftovers, either to be frozen or used up the next day.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201202022111-ams111-sorted-book-cover.jpg" title="Cooking... to the extreeeeeeeeeeeme" caption="Cooking... to the extreeeeeeeeeeeme" attr="" >}}
+
 __Which restaurant or café do you recommend in London?__
  There are so many to choose from! Some of the franchises do offer a great menu and at very reasonable prices. I’m a big fan of Jamie’s Italian, Giraffe and Wagamama for a quick bite to eat. But everybody knows about these.
 

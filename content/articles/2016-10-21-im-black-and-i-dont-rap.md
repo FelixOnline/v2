@@ -62,6 +62,9 @@ Consider the following scenario: you’re with friends, there’s music playing 
 When I finally began to warm to the themes and sounds of hip-hop, this proved to be a bit of a stumbling block – getting into it could easily become a commonality between myself and other non-black friends who may have taken this mutual ground as an excuse to go full steam ahead. What’s worse is when people try to justify it – the indignant, “it’s just a song!”, is often followed by accusatory, “not everything is offensive, you know.”
 
 Some might (and have argued to me) that the diversification of hip-hop and rap means that the word has taken on a new meaning, no longer black-centred – just the other day a non-black friend of mine was tagged in a Facebook post with this caption:
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610211154-so515-Screen Shot 2016-10-19 at 11.21.38.png" title="" caption="" attr="" >}}
+
 Here is what I’m saying – music is so infused into our day-to-day life, we have to consider the fact that it can very easily go from our playlist to our lexicon; and not everyone is fine with the way this word is used.
 
 I once tried to ignore the sting of the word, shrugging when asked “Do you mind if I say the n-word?” a few years ago: as far as I was concerned, it didn’t really feature much in my history, or my culture, so I was apathetic to it. That very quickly changed when some people, drunk with ‘new-found freedom’, altogether stopped using my name.

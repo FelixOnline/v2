@@ -56,6 +56,9 @@ I love the idea of diversifying – it’s lovely to be able to do other things 
 __You have written an enormous amount of unique and delicious recipes. From where do you usually get the inspiration?__
 
 Inspiration comes from my late mum, Graham Kerr (The Galloping Gourmet) and the relationships I have built up with people along the way. Hearing other people’s ideas and experiences is really stimulating and can only influence my cooking further.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201111040202-felix-ready-steady-cook-001.jpg" title="Ainsley Harriot presenting Ready Steady Cook" caption="Ainsley Harriot presenting Ready Steady Cook" attr="Credit: BBC" >}}
+
 __Ainsley Harriott products are famous for their taste and quality. What is your personal involvement in their production?__
 
 I work with the development team at Symington’s. We take inspiration from all over the world and then test and retest until we’re happy with the result. It’s a long process but we’d rather take our time and get it right. Every product is tested by me, often several times, but I also hand them out to a couple of close friends to see what they think of them before I finally sign them off.

@@ -39,6 +39,9 @@ video_url: ""
 ---
 
 ## Luls
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211292302-tna08-luls2.jpg" title="" caption="" attr="" >}}
+
 This young London-based trio were a breath of fresh air. I sat down with Adam and Shaun to talk to about shit.
 
 How did you meet?
@@ -86,6 +89,9 @@ You guys are going to be awesome.
 
 S: Aww, thanks man. A: YES YES! *High fives*
 ## Swim Deep
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211292302-tna08-swim-deep.jpg" title="" caption="" attr="" >}}
+
 A short and sweet interview with dream-pop band, Swim Deep during which Austin desperately shuffled around the room for a bag ofLemsip.
 
 Where does the name Swim Deep come from?
@@ -105,6 +111,9 @@ Nice. How has the Spector tour been so far?
 Spector have been great and we really enjoyed playing with them. We’ve had loads of great experiences.
 
 Splashh
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211292304-tna08-splashh-july-2012.jpg" title="" caption="" attr="" >}}
+
 London’s newest darlings were a chilled out band with a relentless rhythm propelling them along
  How did you guys meet?
 

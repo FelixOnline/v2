@@ -36,6 +36,9 @@ image_attribution_link: ""
 video_url: ""
 ---
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702101553-felix-Stradanus.jpg" title="" caption="" attr="Courtauld Gallery" >}}
+
 Marginalia are the annotations one finds scribbled in the margins of a text; they can be insightful, witty or rude depending on the commentator in question. Reading Drawings is a new collection at the Courtauld Gallery that aims to showcase the equivalent in drawings – inscriptions on sketches dating from the 16th to the 20th century.
 
 Unlike the marginalia in books, where readers jot down their thoughts on the text, writings on drawings are more often done by the artists themselves, and on rough sketches rather than the final masterpiece. As signatures are possibly the most natural mark to make on an artwork, a variety are on display in Reading Drawings. Particularly interesting are instances of drawings signed by someone else. One such example is a sketch of a female nude purportedly by Auguste Rodin: the "uncharacteristically even pressure" in the false signature suggests instead the work of the forger, Hand B. In contrast, the handwriting of a reliable collector helps to identify the creator of a sketch from the 18th century. Unrelated notes on sketches also provide amusing insights about the artists who wrote them. An ancient grocery list from the 15th century makes an appearance, as do a painter’s musings about the amount of money he is soon to be paid.

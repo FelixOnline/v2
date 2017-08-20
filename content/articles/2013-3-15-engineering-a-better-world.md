@@ -50,6 +50,9 @@ For the first time ever, Imperial will host his Holiness Radhanath Swami, who ha
 Drawing from a vast array of experiences and the extensive success of his social projects, Radhanath Swami will be exploring the challenges facing our generation in improving the world and considering how we can save this planet before the next Mayan Apocalypse.
 
 Wondering how your questions will be answered? Well: there will also be a question-and-answer session for the attendees, so bring your best ones. For the tech-savvy (most of you), you can even post questions online at [www.eabw.com](http://www.eabw.com). Don’t worry about food either, we know how hungry students can get: there will be refreshments available on the day.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201303150231-tna08-radhanath_swami_with_mother_teresa.jpg" title="" caption="" attr="" >}}
+
 So who is Radhanath Swami? Born Richard Slavin, in Chicago, Radhanath Swami faced a sense of alienation with suburban life and its social injustices as a teenand, as you do, travelled the world looking to find meaning and purpose. Now based in Mumbai, he runs extensive voluntary projects to help better the lives of people from all walks of life.
 
 Projects include: ‘Bhaktivedanta Hospital’, a free-to-use hospital that treats the most deprived of patients and the Govardhan Ecovillage, a self-sustained eco-friendly villagenear the outskirts of bustling Mumbai. In addition to various other humanitarian projects, Radhanath Swami also runs a program most students would appreciate: ‘Midday Meals’, which provides food to deprived school children. It can be tough surviving on microwave pizza and cup noodles as university students, but imagine having no food, everyday. This is what ‘Midday Meals’ tries to prevent.

@@ -44,6 +44,9 @@ Three teams of prospective year two students dominated a 2,500 strong national f
 The project took place over an eight week time frame. The students were essentially left to their own devices, being required to assimilate a system for solving a problem affecting An Minh, Vietnam. The students proved that they were commensurate to the task by hypothesising their own question and then creatively solving it. While the project required a significant component of Engineering the organisers stress those team players from non-Engineering disciplines were invaluable, contributing to the cohesion that delivered success in competition. Two PhD students mentored and channelled the efforts of the students, liaising with the teams to construct a portfolio recording the design process.
 
 Raunaq Bagchi, one of the students that competed, said: “The Engineers Without Borders Challenge has been a great exercise from the start. The process of coming up with ideas and running through all the possibilities to try and design the best solution for people in other parts of world, is a great way to open one’s eyes to the troubles many face. Now entering the final stages of the competition, I would say it’s a bonus and an opportunity to see how our designs appeal to experts in the field.”
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305301322-tna08-imag1583.jpg" title="" caption="" attr="" >}}
+
 The fruits of their labour were presented to judges at the national competition and as mentioned above three of the four teams will proceed to the Finals. The dominant team from each university is entitled to a place with seven additional places awarded based on merit. As cited by one Imperial Horizons member of staff,
 
 “It is…an outstanding achievement that in our first year of running the Challenge we have managed to take two of those additional seven places.”

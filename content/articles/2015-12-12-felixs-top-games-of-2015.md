@@ -42,6 +42,9 @@ video_url: ""
 ---
 
 ## 4. Rocket League
+
+{{< figure src="http://felixonline.co.uk/img/upload/201512121548-cet13-rocketleague.gif" title="" caption="" attr="Tumblr" >}}
+
 Rocket League is the sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars, a name which, while a bit of a mouthful, is a fairly accurate description of both games. It’s essentially a football game, but with cars. Obviously, cars don’t have feet so they couldn’t call it that (although that doesn’t stop Americans from misusing the term).
 
 It’s miles better than both Fifa and PES, two games which have had years to evolve. Somehow, as a car you feel more like you’re actually playing football. There’s a large focus on your positioning and strategy, and it’s certainly no good to just chase the ball around. To save goals you have to perform almost impossible acrobatic maneuvers. You can perform all sorts of tricks thanks to the rocket boosters attached to your car. You can even fly if you want, but you’ll only embarrass yourself.
@@ -52,6 +55,9 @@ The thrill of speeding from one end of the pitch to the other is unlike anything
 
 This holiday don’t ask for Fifa and put Rocket League on your wish list instead.
 ## 3. Splatoon
+
+{{< figure src="http://felixonline.co.uk/img/upload/201512121554-cet13-splatoongif.gif" title="" caption="" attr="Tumblr" >}}
+
 Nintendo created one of the greatest first-person shooters of all time when they released Metroid Prime for the GameCube in 2002. However, since the people have rarely associated Nintendo with the genre. In 2015, with Splatoon they innovate yet again, producing a third-person shooter that attempts to redefine what a competitive shooter can be.
 
 There is no death in Splatoon, only the sudden explosion into a pile of ink. The aim of the game is to cover as much of the map in your team’s colour. So, rather than being a game about taking down the opposing team, it’s more about taking control of the map. Paint a surface with your ink and you can turn into a squid and swim through the map, vastly increasing your speed.
@@ -62,6 +68,9 @@ At first, the game’s art style will probably remind you of an awful nineties c
 
 The only problem is that you’ll have to buy a Wii U to play it.
 ## 2. Metal Gear Solid V: The Phantom Pain
+
+{{< figure src="http://felixonline.co.uk/img/upload/201512121600-cet13-metalgeargif.gif" title="" caption="" attr="Tumblr" >}}
+
 A major complaint with the Metal Gear Solid franchise has always been that it relies too heavily on drawn-out cutscenes and a nonsensical plot. Luckily, The Phantom Pain is largely devoid of the problems that plagued the series’ past, and as a result Kojima has created arguably his greatest game yet.
 
 The Fulton surface-to-air recovery system introduced is probably the best innovation in a gaming this year. Take someone (or something) out non-lethally and you can attach a balloon to their back to send them to Mother Base, the central hub of your operations.
@@ -70,6 +79,9 @@ Whether in Afghanistan or Angola-Zaire, it’s incredibly satisfying to quietly 
 
 The Phantom Pain is what all future open-world games should aspire to be: responsive, lifelike, and beautifully rendered. Kojima, take a bow.
 ## 1. Undertale
+
+{{< figure src="http://felixonline.co.uk/img/upload/201512121615-cet13-undertalegif4.gif" title="" caption="" attr="Tumblr" >}}
+
 In videogames, the act of killing is almost universally rewarded; yet, in reality there is no worse crime one can commit. There are many games, particularly when stealth is involved, where entirely pacifist playthroughs are possible (although this rarely beneficial to the player). Undertale gives a certain humanity to its enemies through its humour and charm. It doesn’t actively encourage you to spare those you encounter, but I’ve never felt worse murdering something digitally before.
 
 Tobyfox’s debut is a shining gem in an endless stream of unimaginative indie games and an industry obsessed by open worlds. By twisting JRPG mechanics, it’s a game that feels instantly familiar while still pushing the tired genre forward. Other than the ability to be merciful, Undertale will be remembered for it’s hilariously sad script and fourth-wall breaking mechanics (this is a game which could only work on PC). Even the presentation of the game, from the beautiful Earthbound-inspired graphics to the genre-spanning soundtrack, is flawless.

@@ -50,6 +50,9 @@ On Thursday evening, junior doctors, supportive members of the public and medica
 It is unclear where junior doctors can go from here, but in a press release, the chair of the junior doctors committee for the BMA said: “Junior doctors cannot and will not accept a contract that is bad for the future of patient care, the profession and the NHS as a whole, and we will consider all options open to us.”
 
 Assuming the government’s latest offer was enforced on junior doctors, the new system would be phased in from August of this year. In his last letter to the BMA, the government’s contract negotiator, Sir David Dalton, said this would be likely to take 12 months to roll out across all NHS Employers in England. This means any medical students graduating at the end of this year would likely be immediately under the new contract.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201602121238-felix-IMG_7672.JPG" title="" caption="" attr="Matt Johnston" >}}
+
 On Wednesday Sir Dalton advised Jeremy Hunt to do “whatever necessary” to conclude the dispute after the BMA refused what he had called an “improved offer”. Yesterday the shadow health secretary, Heidi Alexander, said Hunt’s “desire to make these contract negotiations into a symbolic fight for delivery of seven-day services” had led to “a situation which has been unprecedented in my lifetime”.
 
 On Wednesday, junior doctors took part in a 24 hour strike, with junior doctors only providing emergency care. Up to 3000 operations were cancelled but public opinion of the junior doctors remains mostly favourable.
@@ -61,3 +64,6 @@ Fashion designer Vivien Westwood and actress Vanessa Redgrave spoke passionately
 The next day, Health Secretary, Jeremy Hunt, appeared on the BBC’s _The Andrew Marr Show_ and blamed the media and the BMA for the anger amongst junior doctors at the potential contract changes.
 
 He also specifically accused the BMA of distorting his words, which he called “one of the cleverest trade unions in the book”.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201602121238-felix-IMG_7964.JPG" title="" caption="" attr="Matt Johnston" >}}
+

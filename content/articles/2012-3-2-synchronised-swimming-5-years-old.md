@@ -38,6 +38,9 @@ image_attribution_link: ""
 video_url: ""
 ---
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201203021729-ial08-img_1897.jpg" title="Incredibly Cool. Obviously that’s what IC really stands for" caption="Incredibly Cool. Obviously that’s what IC really stands for" attr="" >}}
+
 [Credit: IC Synchronised Swimming](http://)
 
 Everything started five years ago with a Felix article to recruit members. The founding member Danai Balfoussia now admits “Come to think of it, I could have made it sound a bit more exciting!” Exciting or not the Imperial College first synchro team (and currently the only one in the UK) started training in Ethos with only five members. The club trained there for two years and were later later exiled to St. Marys for the rest of their life. Sigh…

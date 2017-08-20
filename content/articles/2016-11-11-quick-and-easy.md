@@ -40,6 +40,9 @@ video_url: ""
 Imust confess – the last time I made a stew, it took me 72 hours from start to finish. Short ribs, cooked at 54oC for two-and-a-half days in my waterbath were mouthwateringly tender and exceptionally beefy, with a wonderful red wine sauce and plenty of just tender veg. But fear not! You don’t need to raid the lab for a waterbath for this stew.
 
 I’ve tried to keep it quite simple here, but feel free to mix it up as much as you want. Beef can be swapped for lamb or pork, but try and pick stewing cuts – they’re cheaper, anyhow.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611111704-felix-Screen Shot 2016-11-11 at 17.04.37.png" title="" caption="" attr="" >}}
+
 Start by heating the oil – a  good splash – in a large pan.  When almost smoking, add in half the beef and get stirring – you don’t want to burn anything, but it needs to brown. Turn the heat down slightly and keep frying the beef until it is really brown on all sides.
 
 Remove the first batch of meat to a bowl and repeat with the second half. Once browned, remove the meat from the pan, leaving behind most of the fat. To this, add the carrots, sliced into very thick rounds. Get them browning too, whilst you halve and slice the onions thickly, with the grain (ie. from root to tip). Add them to the pan, and keep frying. If at any point things seem to be catching, add a splash of water to that part of the pan and stir to loosen it.

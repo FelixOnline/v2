@@ -36,6 +36,9 @@ image_attribution_link: ""
 video_url: ""
 ---
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611181628-felix-11300393144_3ddf8021cb_o.jpg" title="" caption="" attr="Marianne O'Leary" >}}
+
 Television has, historically speaking, been a fairly progressive medium. Whether it was Star Trek in the 60s pushing for minority rights, or shows like Will &amp; Grace and Ellen normalising and publicising LGBT rights in the 90s, TV has frequently been willing and capable to push the envelope.  One of the areas it has perhaps lagged behind, however, is in its handling of the male protagonist.
 
 There tend to be about three modes for any leading male characters:  the platonic, wholesome ‘hero’, the gruff ‘anti-hero’, or the squirrelly ‘nerd’. All three hinge on a limited, traditional idea of what defines ‘masculinity’ or, in the case of the third, the lack thereof. The ‘hero’ is the oldest of these, the classical John Wayne-type with chiselled jaw and chiselled ethics. The ‘nerd’ is smart but cowardly, well-meaning but lacking the courage to stand up for what he believes in. The ‘anti-hero’ is perhaps the most infuriating of the rejectionist stereotypes, often squandering the opportunity to examine traditionally neglected aspects of the male psyche. Addictions and mental illnesses are trivialised and turned into purely cosmetic affectations, while self-destructive behaviour is fetishized.

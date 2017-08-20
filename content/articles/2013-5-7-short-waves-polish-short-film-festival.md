@@ -49,6 +49,9 @@ As audience members started laughing at what seemed to be not very funny scenes,
  As the film unravelled, it was clear that they were not the ramblings of a child nor someone trying to be edgy. They were drawings and a story of a patient with a mental disorder. His weird perspectives on life struck up unpredicted connections with the audience. It was a clever way of giving us access to a world which is sometimes sadly shunned away.
 
 Only three films were live action. Philosophical narrated animations, light-hearted and brightly coloured stop-frames to pop music, an eerie Grizzly Tales for Gruesome Kids-esque black and blood red cartoon, and a rather dull compilation of scientific archive material formed the rest.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305072030-tna08-o-rzadach-milosci-(0-03-00-24).jpg" title="" caption="" attr="" >}}
+
 Of the live action pieces, a particular favourite was The Guardians. A young officer must allow only travellers with VISAs to pass a barrier and continue their journey into a misty forest. As he stamps the papers of the travellers, he peers intently at their faces with a sadness he knows he should not show. As a mother leaves her child and husband behind, it becomes clear as to where the travellers are going. The simplicity yet complexity of leaving loved ones behind appears.
 
 Despite dealing with a cliché subject, The Guardians retained the air of mystery, emotion it deserves, yet had a explicit and tangible directness about it. It had more of a depth than All Souls’ Day (girl hunts down long lost father and discovers dead mother was not so perfect after all) and A Memory of Last Summer (girl bumps into lost love and they have sex in parents’ car).

@@ -46,6 +46,9 @@ video_url: ""
 As summer has started and the festival season is well underway, the anticipation and excitement for my favorite small festival is reaching boiling point. With a host of new names recently added to the line up including Cherub, Natty Serafine Steer and Pete Molinari joining the likes of Regina Spektor, Soulwax, Django Django, Bastille and Youth Lagoon, make it a spectacular four-day event not to be missed. Exclusive SGP headliner Regina Spektor, who first played the garden back in 2005 says:
 
  "I'm so excited to return this summer and play The Secret Garden Party! Whenever I'm gone for a while I really start to miss the UK! It's amazing to get to play this festival again. It is full of people who are really passionate about music. Thanks for having me!"
+
+{{< figure src="http://felixonline.co.uk/img/upload/201307081114-tna08-sgp-lake-copy.jpg" title="" caption="" attr="" >}}
+
 As well as top music there is a host of comedy acts, DJs, a death-defying circus, fire shows, debates and discussions, theatres, aerial displays and much more. Each year the festival follows a theme and this years ‘SUPERSTITION’ theme is as imaginative as ever bringing all kinds of strange and bizarre action camps into the Garden, each one lovingly programmed by fellow gardeners and promising to captivate, charm, hypnotise, enchant and enthrall you.
 
  With only one month to go, I urge all of you to sort out a ticket if you have not done so already.

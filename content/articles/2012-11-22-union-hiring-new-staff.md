@@ -52,3 +52,6 @@ The Union’s budget is decided by the [Executive Committee](https://www.imperia
 The Union hopes that the new staff members will improve the student experience in a number of ways. The Outreach Coordinator role will supposedly widen the Union’s reach to other campuses, giving students at other campuses as best an experience as possible. The Student Development Manager will work on improving students’ employability by developing an accreditation scheme and community volunteering. The Representations coordinator will aim to increase the number of responses to Higher Education Policy, representing students on a national level, as well as increasing the capabilities to process and respond to college policies. The Marketing Manager will work on further improving the Union’s communications to students.
 
 The Union have also commented on further work that will be undertaken later in the year to “empower more students in making decision regarding the distribution of Union subvention to Clubs, Societies and Projects.” However, the plans for this process are not yet finalised.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211222239-tna08-tableting.jpg" title="" caption="" attr="" >}}
+

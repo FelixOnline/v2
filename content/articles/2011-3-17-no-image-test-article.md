@@ -45,3 +45,6 @@ video_url: ""
 No image test articleNo image test articleNo image test article
 
 This is a test.....
+
+{{< figure src="http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg" title="" caption="" attr="Credit: flickr/andai" >}}
+

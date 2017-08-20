@@ -46,12 +46,21 @@ Back in Hong Kong, brunch is an odd trend reserved for those hipster cafés and 
 Luckily in London, I’ve had more than my fair share of good brunches, from British egg benedicts to American pancakes, Indian naan rolls to Israeli shakshuka. Here, brunch isn’t a trend that will dissipate after a few months under the attack of some rainbow-coloured grilled cheese, but simply a meal for one to relax, catch up with friends and getting ready for another week (of 9 am lectures stuck in a warm, stuffy lecture hall like sardines) to come.
 
 Two Sundays ago I had the lucky opportunity to be invited to Camino, a mini-chain of Spanish tapas restaurants, to review their bottomless brunch menu. Knowing that tapas are never reserved for lonely diners, I requested a plus one and dragged my friend in the wind and rain to Bankside, where they have a branch located conveniently in the shadows of Tate Modern.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610312316-felix-IMG_4786 9.07.43 AM.jpg" title="" caption="" attr="Cristy Lam" >}}
+
 The exterior was exactly what you’d want for the perfect chilled hang out under the wet rays of October sunlight: a few shrubs here and there, comfortable sofas and red blankets laid out thoughtfully to fight against the chilly breeze. Upon entrance, we were greeted by an unexpected serenity for a Sunday afternoon, which was then broken by the cheery manager, waiters and relaxed music.
 
 After a quick introduction, we chose our table next to the window and studied the menu while savouring their juicy, home-marinated manzanilla olives. We chose 3 tapas each, and were presented with our own bottle of cava to share plus a carafe of orange juice for mimosas.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610312317-felix-IMG_4837.jpg" title="" caption="" attr="Cristy Lam" >}}
+
 he tapas arrived quickly and filled the surface of the table, transforming it into a proper feast. The view, or #tablesituation in Instagram language, was spectacular. 6 tapas dishes in total with a generous addition on the house of a beautiful charcuteria platter with slices of Iberico Cebo and Serrano ham. Our gossiping was replaced by a speechless awe; we couldn’t wait to dig into the arrangement of colours, textures and smells displayed before us.
 
 The Crispy Baby Squid was served as tender, lightly battered bites with the cutest pot of aioli on the side. My friend couldn’t get enough of this even when we were absolutely stuffed towards the end. The Arroz Negro, their signature dish, was a creamy, comforting risotto in an enticing jet black sauce – made with squid ink, which gives a delicate unctuousness. The Patatas Bravas was what I’ve always dreamt of to accompany my weekend fizz – the potatoes are cut into precise cuboids, with crispy edges soaking in a slightly spicy brava sauce and mellow aioli. The Baby Aubergines, halved and stuffed with a refreshing mixture of tomato, onion, coriander, mint and mojo verde, gave balance to our palettes for the other stronger flavoured dishes.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610312318-felix-IMG_4805.jpg" title="" caption="" attr="Cristy Lam" >}}
+
 We were torn between the remaining two dishes as our favourite. My friend crowned the juicy, flavourful Iberico Meatballs while I took the rest of the Tortilla de Patatas, with its slightly sweet, runny eggs sandwiched between layers of potatoes. Two hours in and we were still eating; the excited munching turned into nibbles between sips of cava and gossip, dictated by our satisfied stomachs.
 
 Wait. Did I say we were stuffed? I take that back. We had to have something sweet to finish off the hours of relaxation. We went for a portion of Chocolate con Churros to share. The churros were fried to order, dusted with icing sugar and came stylishly stacked next to a pot of rich, velvety, dark chocolate sauce. I could eat just this all day – fresh, hot, crunchy and… chocolate.

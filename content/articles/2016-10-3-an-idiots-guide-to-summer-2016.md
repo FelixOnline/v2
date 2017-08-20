@@ -52,6 +52,9 @@ When this will all happen is a mystery to all of us and maybe even to the Govern
 It’s all a bit cloak and daggers at the moment, apparently so that the other EU nations don’t get the upper hand in negotiations but probably because nobody has a clue. As for what is going to happen with the EU land border in Northern Ireland, the situation with Gibraltar and whether Scotland decide to hold another referendum, your guess is as good as mine.
 
 How does this all affect international students/Erasmus/your InterRailing holiday? Only time will tell, it’s an ever changing landscape.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610031846-felix-Screen Shot 2016-10-03 at 18.19.40.png" title="Like a 90’s boyband these two split, presumably citing artistic differences" caption="Like a 90’s boyband these two split, presumably citing artistic differences" attr="Andrew Parsons, Policy Exchange" >}}
+
 ## Government reshuffling
 Just hours after the result of the referendum David Cameron decided that enough was enough and he fancied changing his job and moving house, a rather large mid-life crisis when you’re the PM.
 

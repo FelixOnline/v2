@@ -65,6 +65,9 @@ Method:
 ###  No morning lectures?
 
 ####  Try some fusion
+
+{{< figure src="http://felixonline.co.uk/img/upload/201309291638-tna08-noodlesfinal.jpg" title="" caption="" attr="" >}}
+
 Got a bit of bacon in the fridge but nothing else for your full fry up? Why not start your morning with a bit of Asian flavour? Noodles are one of the most popular foods in the world and it is so easy to cook, even if it is not the ones in the plastic pot. You can use fresh or dried noodles for this, both are available in both conventional and Chinese supermarkets, although the dried noodles will be able to sit in your cupboard for longer and possibly cheaper. If you do go round China Town, I would definitely recommend you stock up on some Chinese branded dried noodles – not only is it quick to make, so is a great alternative to the baked beans on toast, but also flavouring sachets often comes in the packet, so you even save on the soup stock!
 
 Recipe
@@ -96,6 +99,9 @@ Method:
 • Leave it to simmer for a couple of minutes until thick and saucy, the scatter the green parts of spring onion on top to give it the looks!
 
 ###  Shall we spice it up a bit?
+
+{{< figure src="http://felixonline.co.uk/img/upload/201309291639-tna08-cheeseandchiveomelette.jpg" title="" caption="" attr="" >}}
+
 Not feeling good from Freshers’ Flu and you still want to be keen and attend your 9am lecture? The spices in this omelette will clear the airways and put you back into active mode! You might not know that apart from making non-alcoholic beer, ginger is also a well known nausea remedy that has been used for hundreds of years – and the protein in the eggs will help you get rid of alcohol in your bloodstream.
 
 Recipe

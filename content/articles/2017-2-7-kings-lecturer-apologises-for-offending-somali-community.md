@@ -54,5 +54,11 @@ The tweets eventually resulted in a condemning statement from King’s Intersect
 The apology was tweeted from Perkins’ personal twitter account following criticism from felix in which it was pointed out that “it is unclear where Perkins' apology can be found; certainly not on twitter.”
 
 Numerous twitter users have since come out in support of Perkins with responses such as
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702071517-felix-Screen Shot 2017-02-07 at 15.16.50.png" title="" caption="" attr="" >}}
+
 and
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702071515-felix-Screen Shot 2017-02-07 at 15.06.47.png" title="" caption="" attr="" >}}
+
 The original tweets have not been deleted.

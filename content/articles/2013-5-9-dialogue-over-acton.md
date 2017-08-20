@@ -70,6 +70,9 @@ College has stressed that they will continue to look for cheap, close accommodat
 Regarding Evelyn Gardens and Garden Hall, College stated that structural inspection is needed of the halls, which is intended to take place following the end of the academic year. A consultation has been promised on the findings by the end of 2013. Additionally, it is likely that some potential proposals cannot be circulated with the student body due to commercial sensitivity, however Beaumont noted that this likely means that Evelyn Gardens lease will be looked into.
 
 Finally, it was noted that College do not make a profit from accommodation charges, pointing out the cost of building maintenance and property values.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_night.jpg" title="Artist's impression of the development" caption="Artist's impression of the development" attr="Credit: Berkeley First" >}}
+
 __The way forward with North Acton__
 
 Being the item of complaint with the student body, a specific mention was made of the North Acton development. College have promised that wardening provision will be made at the new hall, in addition to the receptionist service. It was not mentioned, however, how many wardens there would be in the new hall.

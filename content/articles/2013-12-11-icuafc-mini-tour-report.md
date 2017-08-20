@@ -69,3 +69,6 @@ Again IC weren’t troubled by the poor quality of nightlife - we knew how to ma
 Sunday arrived and IC departed, making it back in time to catch the last ¾ of Super Sunday with heads full of memories of a successful domination of Bristol.
 
 ICUAFC is sponsored by:
+
+{{< figure src="http://felixonline.co.uk/img/upload/201312110038-jal08-icufc.png" title="" caption="" attr="" >}}
+

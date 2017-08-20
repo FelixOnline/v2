@@ -49,3 +49,6 @@ After a quick race and with pain faces a thing of the past, Weatherspoons provid
 
 Next term sees the start of the Triathlon session for 2014, and some big events, including BUCS sprint and Olympic triathlons, as well as an Easter tour to Paris and a Summer tour of England. Bring on 2014!
  Thanks again to our sponsors, Jaguar Land Rover
+
+{{< figure src="http://felixonline.co.uk/img/upload/201312110040-jal08-triathlon.png" title="" caption="" attr="" >}}
+

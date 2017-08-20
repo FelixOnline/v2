@@ -78,6 +78,9 @@ Picking up on the dream of spending time working on his own experiments, I ask w
 Professor Rayment admits that his knowledge and experience has come with “an unimaginable number of mistakes”, and it is the lessons he has learnt from these that allow him to recognise the mistakes of others and solve them, saving crucial time on experiments that on average last only 48 hours.
 
 Despite its undeniable presence, both on the physical landscape and on the horizons of ground-breaking science research, Diamond Light Source is not a name that many are familiar with. Professor Rayment feels that this may partly be due to many journalists avoiding scientific writing as a result of their lack of scientific background, as well as scientists themselves not being able to explain their own experiments.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201112082026-pk1811-untitled45.jpg" title="Harwell Science and Innovation Campus, home of the synchrotron facility" caption="Harwell Science and Innovation Campus, home of the synchrotron facility" attr="" >}}
+
 He goes on to explain that with only 400 members of staff and a comparatively modest budget, Diamond believes that is, in fact, “punching above its own weight” in terms of getting the word out and engaging with the scientific and non-scientific communities.
 
 “There is a great deal of science carried out in the UK and we underpin a fair proportion of it. In many cases, the work done at Diamond was absolutely vital, but it’s underpinning and so doesn’t make headlines.”

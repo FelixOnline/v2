@@ -52,6 +52,9 @@ Last year at Imperial, those coming from the most disadvantaged backgrounds were
 On the other side, at Imperial, applicants from the most advantaged group were 2.3 points more likely to be awarded an offer, and when you look at the random variability considering the number of applicants and the average offer, this is unlikely to have happened by chance. Again, Imperial is even more likely than Cambridge to give offers to the most privileged applicants.
 
 UCAS used something called the POLAR3 classification to define students’ socioeconomic background. This grouping puts students into five equal sized groups from the most to the least advantaged, by how many are involved in higher education, with quintile one being the most disadvantaged and quintile five, the least disadvantaged.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201606171049-felix-151019_ugcomm_050.jpg" title="We literally couldn't find any pictures of black people graduating in Imperial's promotional picture database." caption="We literally couldn't find any pictures of black people graduating in Imperial's promotional picture database." attr="Thomas Angus" >}}
+
 Things like references, work experience and quality of personal statements are not taken into account in this data. However, grades and courses are arguably the most reliable when predicting whether a student will get an offer.
 
 Only data concerning 18-year-old home applicants was collected and it was released as part of an effort by UCAS to me more transparent, and to help universities look out who they’re letting in and to improve their practises.

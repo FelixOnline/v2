@@ -95,3 +95,6 @@ Women don’t push as hard, we don’t have conversations with our bosses about 
 
 Read more at:
 [www.title-mag.com](http://title-mag.com/amanda-brumpton/)
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211131424-tna08-title.jpg" title="" caption="" attr="" >}}
+

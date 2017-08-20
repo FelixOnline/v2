@@ -46,6 +46,9 @@ The study, centred on groups of genetically identical mice, identified how neuro
 This alteration is referred to as “brain plasticity,” and is, broadly speaking, the mechanism behind how long term memoriesderived from what is experienced are stored via the hippocampus.
 > Individuality seems to be more of an adolescent dilemma for picking profile pictures than it may be for neuroscientists, but research this week shows that they too are worrying just how to stand out from the crowd
 Plasticity is the alteration of neuronal connections within the brain, with certain connections becoming more stable between the groups of neurons involved in “storing” the memory. It is this physiological change that allows for certain memories to be recalled much more easily in the future, and the researchers are now suggesting that neuronal differences in the genetically identical mice may be contributing to their “individuality.” The term individuality here was considered to cover any differences in behaviour, problem solving, patterns of exploration or even idiosyncrasies seen between the groups of genetically identical mice.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201305161905-tna08-173_neurons.jpg" title="" caption="" attr="" >}}
+
 The mice, whilst exploring their enclosure, were tagged with transponders and had antennae attached to track their movements. After the three months, the mice were then surgically assessed to determine plasticity difference by counting proliferating precursor cells within their hippocampus.
  With previous studies showing that these cells are crucial to neurogenesis- the production of new neurons – and increase through physical and cognitive activity, it was found that mice that had different exploratory behaviour had different numbers of neurons being generated, and thus, introduced elements of individuality into the groups of mice.
 

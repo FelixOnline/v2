@@ -50,6 +50,9 @@ Realistically only the Democrat and Republican nominees have any chance of winni
 
 The man needs almost no introduction and has been at the forefront of the news over the past few months, at times even superseding the fallout of Brexit. The businessman, former Apprentice host, and hair spray enthusiast has pitched himself as an outsider, someone to challenge the current way of doing politics. This is factually true as Trump has never held elected office, been a federal government official or held a high ranking military post (all other presidents have).
 > > It’s been a campaign that even Malcolm Tucker would find hard to spin (Nigel Farage did give it a shot though)
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611032313-felix-5440991648_fdc9db5b18_b.jpg" title="" caption="" attr="Gage Skidmore" >}}
+
 Delving deeper into Trump we see some more worrying statements on women, Mexicans and Muslims (and these are just the headlining ones). From a blanket ban on Muslims entering the US to ‘help’ combat terrorism, to bragging about sexual assault in the infamous ‘pussy grabbing’ audio from 2005, it’s been a campaign that even Malcolm Tucker would find hard to spin (Nigel Farage did give it a shot though). But he still, even as these deplorable character traits have come to light, is polling at around 45% of the popular vote. But why? Because in some cases voters are willing to overlook these things.
 
 For the sects of the American population that feel disenfranchised with current politics and for whom the current government is nowhere near helping them, Trump is seen in some respects as a chance-at-turning-this-around move. People are witnessing banks and corporations prospering far more than themselves and want to change the shift of power back to the citizens. Any precedent for this happening? *cough* Brexit *cough*.
@@ -60,6 +63,9 @@ Trump is also the Republican nomination and huge swathes of the US are very cons
 At a glance, Clinton seems a pretty good candidate. She has experience in politics, as First Lady with her husband Bill in the 1990’s, later as a New York senator, and then as Secretary of State under Obama. She has also been heavily involved in The Clinton Foundation, a charitable organisation funding projects worldwide on a whole host of issues. Sounds wonderful, right? Well kinda. There’s more to some of these points than meets the eye. Clinton as Secretary of State was ‘responsible’ for the Benghazi incident (in which four Americans were killed in a US diplomatic outpost in Libya, including the ambassador) and this has been set upon by critics who sense a cover-up/scandal (not implausible).
 
 Like with most 70-year-olds, emails aren’t Hillary’s strong point. In essence, emails shouldn’t have been on certain servers and then emails were deleted when they shouldn’t have been. An FBI investigation was launched, no sanctions were brought against her, but it’s an ongoing saga. If it escalates while she’s in office it could potentially lead to impeachment. Trump could also have the same happen should he be found guilty of fraud regarding Trump University (really) in a trial that starts later this year.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611032314-felix-459273407_14da4d71e6_b.jpg" title="" caption="" attr="Marc Nozell" >}}
+
 Her relationship with Wall Street has come under fire too. After giving a set of speeches to Goldman Sachs as part of her foundation’s work, how disconnected from them she really is remains to be seen. Clinton’s stance on Syria and no fly zones could (key word being could) send the US into a conflict with Russian forces in tandem with Syria and would involve large scale military deployments. War with Russia isn’t ideal (duh) but like Trump, she’s been known to flip flop over the years and whether this policy would stand, only time will tell.
 **Gary Johnson**
 

@@ -54,3 +54,6 @@ As soundtracks go, Antichamber‘s may not be as odd as you think - it’s not y
 There’s not much, in terms of replayability, as a lot of the ‘fun’ is from not knowing what to do. There’s a timer in the menu room, that counts down from 1hr30min, so at least you’ll be able to speedrun the game...
 
 It’s available on Steam for £14.99 - and I can’t see any reason, why after this great success, we wouldn’t see a 360 or PS3 version. With DLC though. :(
+
+{{< figure src="http://felixonline.co.uk/img/upload/201302131712-tna08-wtf.jpg" title="" caption="" attr="" >}}
+

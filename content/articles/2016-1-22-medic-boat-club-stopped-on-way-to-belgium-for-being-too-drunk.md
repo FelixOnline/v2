@@ -50,6 +50,9 @@ Current medics and alumni were prevented by P&amp;O ferry staff from boarding th
 The students tried to board the 4:50am ferry from Dover to Calais but were “drunk and disorderly” according to port staff. P&amp;O ferries took the decision not to allow the students to travel when they were scheduled to.
 
 In an email, sent as the students were heading back to London having been turned away, the club’s captain told members that “[P&amp;O] were willing for us to be allowed on after a 2-3 hour wait. Unfortunately, the coach drivers were unwilling to co-operate, hence are currently driving us back to London”.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201601221241-felix-Screen Shot 2016-01-21 at 20.46.05.jpg" title="" caption="" attr="" >}}
+
 The trip from Hammersmith to Dover had not been without issue. The coach company’s depot manager was first contacted by the driver at 3:30am over the students’ behaviour. The coach left Hammersmith as scheduled at a quarter past midnight on Saturday. The coach company alleges that some students caused damage at Maidstone service station, which P&amp;O ferries confirmed. The boat club denies that there were any complaints made during the planned stop in Maidstone.
 
 The boat club was told by P&amp;O that they could take a slightly later ferry, but as the coach driver was getting close to his legal driving limit time, this would be impossible. The Dover port police were called, to help the coach get out of the one way system before the group were driven back to Hammersmith. Upon returning, the group tried to book another coach in an attempt to save the short weekend trip, but could not.

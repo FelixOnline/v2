@@ -64,6 +64,9 @@ __Ingredients__
  A few turns of fresh pepper
 
 * You can buy ready stock however I usually add 1 chicken and 1 beef cube into 750 ml of boiling water and mix to dissolve the cubes.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201110281507-felix-braised-lamb-shanks-2.jpg" title="The winning braised lamb shanks" caption="The winning braised lamb shanks" attr="Credit: Olivia Tillbert" >}}
+
 __Recipe__
 
 Slice the onions into medium sized chunks. (Try your best not to cry – mission impossible!)
@@ -102,6 +105,9 @@ __Ingredients__
  3 tbsp white wine
  3 tbsp red chilli powder
  2 tbsp dried basil
+
+{{< figure src="http://felixonline.co.uk/img/upload/201110281502-felix-the-which-came-first-photo-2.jpg" title="The Which Came First" caption="The Which Came First" attr="Credit: Sam Gonshaw and Navid Nabijou" >}}
+
 __Recipe__
 
 First, hard boil the eggs. We shall return to these later.
@@ -122,6 +128,9 @@ A slab of pork belly
  Sesame oil
  Herbes de Provence
  Rosemary herbs
+
+{{< figure src="http://felixonline.co.uk/img/upload/201110281505-felix-dscn7256.jpg" title="Crispy Pork Belly" caption="Crispy Pork Belly" attr="Credit: Chew Jermaine" >}}
+
 __Recipe__
 
 Preheat the oven at 200°C for 15min. Rinse the pork belly, dab dry the pork belly, especially the skin.

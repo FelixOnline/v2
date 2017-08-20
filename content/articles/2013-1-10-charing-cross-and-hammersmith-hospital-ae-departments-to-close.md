@@ -65,6 +65,9 @@ The main worry is that the initial closure of the A&E department and stroke unit
 Councillor Marcus Ginn, community care leader, said: “We have been warning of the threat to Charing Cross hospital for many months and this confirms out worst fears.
 
 “Over many months of questioning on this, NHS bureaucrats have failed to address concerns that this will leave thousands of residents dangerously distant from emergency care or to show that lives will not be put at risk by these closures.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201301102245-tna08-st-marys-rgb.jpg" title="" caption="" attr="" >}}
+
 “We will be fighting tooth and nail to save Charing Cross – the public are not going to accept this plan quietly, especially when the case for stripping all the major service out of such a well loved and respected centre of excellence is not supported by evidence.
 
 “They have not taken account of the thousands on new homes being built in west London which will mean we need more local access to hospitals, not less.

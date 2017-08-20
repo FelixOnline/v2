@@ -58,6 +58,9 @@ I was incredibly lucky, I went to a talk one night and met the speaker – he pu
 __M: How would you describe yourself and your work?__
 
 G: I really try to avoid any labels. Sometimes my work is educational or documentary and sometimes it is expressive or poetic. Sometimes it is about the science, sometimes it is about the people. I don’t really worry about it. I call myself an artist, but that is because I am interested in expressing different ideas. But the artist in residence thing is a bit too formal for me.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211091313-tna08-].jpg" title="" caption="" attr="" >}}
+
 __M: So what did you feel that you could gain from this relationship you have with the physics department... whatever it is?__
 
 G: Well, I didn’t have a clear idea when I started. I felt that there were things there that were really worth exploring and expressing as an artist. Other than that I had really no idea what I expected.
@@ -90,6 +93,9 @@ Some people sense that: that artists have an agenda to put out there and they wi
 Maybe it’s down to education. Maybe it’s just that people don’t have a way in. A friend always says that science is a channel, or a way of looking at the world, as is poetry or painting. The most wonderful thing is to include various aspects of those in your life as ways of talking about your experience of being there and understanding it.
 
 In a way they are complementary, not competing. Part of what I am trying to do is open doors and help people to understand how science can help complement how they understand the world alongside other things.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211091313-tna08-gcrgb.jpg" title="" caption="" attr="" >}}
+
 __M: Where do you think these differences arise?__
 
 G: Maybe our education system silos people too much, separating them out into art and science and having very different ways of thinking. I’m not sure it has to be like that. I meet young people all the time who feel this way and are trying to bridge the gap and talk about the world in all its beautiful complexity by whatever means they can.

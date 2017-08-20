@@ -55,6 +55,9 @@ If you’re looking for the best of both worlds, brains and beauty, then Miss Al
 Those wanting a simple life may wish to steer clear however. Expect to be running to keep up with her, both physically and mentally, never settling down for too long. Alyx certainly isn’t one to take the easy route through life, and whilst she’ll come back for you no matter what, it can make for an exhausting relationship.
 
 __Samus Aran (Metroid Series)__
+
+{{< figure src="http://felixonline.co.uk/img/upload/201202162122-ams111-sexy-real-life-samus-aran-in-life-sized-power-suit-2.jpg" title="" caption="" attr="" >}}
+
 From: _Zebes_
  The Good: _Has a great body and gorgeous looks._
  The Bad: _That is, if you can get her out of her suit._

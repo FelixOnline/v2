@@ -65,6 +65,9 @@ MLW: Well I can say I’m very envious.
 __TA: Yeah, we have a luxury. We do it on a screen and the next day it’s delivered.__
 
 MLW: That’s fantastic. It was all glue and scissors for us.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201306210148-tna08-frontcover1michael.jpg" title="A front cover from Michael's year. Classic Felix, always swearing" caption="A front cover from Michael's year. Classic Felix, always swearing" attr="" >}}
+
 __TA: Any standout moments and achievements from your year that you’re really proud of?__
 
 MLW: I guess several things. When I first came into the office there was this cupboard with lots of old issues of Felix lying around. I thought who the heck is taking care of all these? And there was no rhyme or reason as to why they were there. So I decided to create a library of all the past issues and it was then I decided we needed to get these things preserved. I even had to go to the College Archivist. And finally put together a complete thing, and I had it bound in the black buckram with the gold lettering. So that actually started in my year. It also started a tradition where people working on the newspaper collected their own issues for that year and had them bound in black buckram as well. I’ve still got my own copy and three or four copies for the years after that as I was still there until 1978.

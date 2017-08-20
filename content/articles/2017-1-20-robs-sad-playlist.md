@@ -43,13 +43,22 @@ Moving onto the more melodramatic side of sad, The Cure take us into the wildern
 With this 1969 hit, Marmalade show that sad music isn’t just about introverted arrangements. The song’s sweet vocal harmonies and triumphant trumpet parts contrast with its bleak lyrics. The backing vocals in this song are a real highlight adding texture to an otherwise simple song.
 ## Sylvia
 The whole of The Antlers’ concept album Hospice is pretty sad, with its stark storyline playing out amongst an ambitious, multi-faceted indie rock soundtrack packed with stellar musicianship. This mid-tempo song drifts between acoustic guitar segments and electronic passages before a restrained climax. So much of this song hinges on the croon of Silberman, which carries the narrative, sweetly juxtaposing the haunting lyrical content of this song.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201701201523-felix-14245470704_f7b125f940_o.jpg" title="NIN" caption="NIN" attr="Tiegan Neary \ " >}}
+
 ## All That Could Have Been
 The continuing success of NIN is directly due to bringing industrial themed music to the mainstream through the use of clever hooks amongst militarist drum beats. One of their ballads, this track has a disconcerting structure that allows the song to build and build. The confessional self analysis  of this of this song makes it one to pay attention to.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201701201524-felix-8239219385_6ce88aa603_o.jpg" title="sad pug is sad" caption="sad pug is sad" attr="hannah k" >}}
+
 ## Interludio
 I often find the process driven side of minimalist music too mechanical to be fulfilling, yet Luciano Cilio’s work is beautifully restrained so that even a small raise in volume is meaningful and chilling. From the beautiful mandolin lead that opens the record to the wordless voices and desperate cello lines, this record excels in creating a depressive atmosphere.
 ## Murmuring
 When Bastions confirmed their hiatus towards the end of last year, one of the great lights of the UK hardcore scene was extinguished. The combination of using clever, efficient songwriting and the cathartic, tortured screams of their lead vocalist Jamie Burne helped them create vivid emotional soundscapes.
 ## The Show Must Go On
 Queen’s finest moment in my eyes is their final album. Written during Freddie Mercury’s deterioration due to AIDS, the whole album is informed by his gradual acceptance of his approaching end. Mercury’s vocals as usual are on point, ably assisted by dramatic harmonising backing vocals. Despite the triumphant feel to this song, it is still heartbreaking to hear.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201701201525-felix-4929665077_1ec5951763_o.jpg" title="Johnny Cash" caption="Johnny Cash" attr="" >}}
+
 ## The Man Comes Around
 Johnny Cash’s American series with Rick Rubin is a stripped back, heavily reflective album, showing a slower, darker, more religious side compared to Cash’s previously more comedic and upbeat works. Written in the last years of his and his wife’s lives, Cash’s deep, sombre voice is the main focal point throughout.

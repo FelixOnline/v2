@@ -74,3 +74,6 @@ So there you have it, IC 1s returned to the Union to celebrate their progression
 Smittthyyyyyyyy, what do you wanna be?
 
 ICUAFC is sponsored by:
+
+{{< figure src="http://felixonline.co.uk/img/upload/201312110032-jal08-icufc.png" title="" caption="" attr="" >}}
+

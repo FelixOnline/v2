@@ -116,6 +116,9 @@ __Would you like to work at the organisation full time? Why / Why not?__
 
 The people area great and the work is varied and can be interesting. Consulting work is highly dependent on your team, location and project and this gamble would be one of the things that would deter me from going back.
 ## Charity
+
+{{< figure src="http://felixonline.co.uk/img/upload/201301180010-tna08-charity-for-features.jpg" title="" caption="" attr="" >}}
+
 __3rd year Biologist__
 
 _Wellcome Trust_

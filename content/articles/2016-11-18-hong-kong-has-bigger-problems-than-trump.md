@@ -52,6 +52,9 @@ Rita Fan, a pro-Beijing politician, stated that the Basic Law only guarantees ju
 
 “If the oath taken is determined as invalid, no arrangement shall be made for retaking the oath.”
 Supporters of the government insist that the NPCSC’s power to interpretation is written in the law, the interpretation has simply cleared up the misunderstandings regarding Article 104, and people with nothing to hide shouldn’t have to fear an interpretation. Additionally, they argue that opponents of the interpretation are doing so in support of the two legislators’ actions.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611181434-felix-Screen Shot 2016-11-18 at 14.34.42.png" title="" caption="" attr="" >}}
+
 But there’s the thing: I couldn’t give less of a fuck about those two idiots. This story has escalated far past the fate of Leung and Yau, whose political careers are without a doubt over. They picked a bad fight and are paying the consequences. This is about the Hong Kong government’s inability to uphold justice, rule of law, and separation of powers, which are core principles of a functioning democracy.
 
 Firstly, while the NPCSC has always had the power to interpret the Basic Law, there are set provisions for this power as listed in Article 158, which state that the courts of the Region shall seek an interpretation through the Court of Final Appeal if it concerns “affairs which are the responsibility of the Central People’s Government, or concerning the relationship between the Central Authorities and the Region”. Nothing within Article 104 corresponds to those two criteria, making this an obvious step taken by the Central People’s Government to deny not only the two legislators in question, but also any other candidates of public office that they deem unfit, according to their own interpretation. What makes an oath sincere and solemn? This gives the person administering the oath the power to disqualify anyone they would like.

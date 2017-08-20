@@ -52,6 +52,9 @@ As usual you had your slew of somewhat similar army shooters: Call of Duty: Mode
 __The Kinect and its kids__
 
 OK, I admit, you were very unlikely to miss the stalls featuring a [Kinect](http://www.youtube.com/watch?v=KMQmnp6GTJ8) – you just had to look for those people jumping about as if their skin was crawling with flesh-eating fire ants. [Just Dance 3](http://www.youtube.com/watch?v=QRnMHfaIsHg) (Ubisoft), [Dance Central 2](http://www.youtube.com/watch?v=wQv-OEjh1So) (Harmonix Music Systems) and the infuriatingly addictive [Fruit Ninja](http://www.youtube.com/watch?v=UzsmDfKzk7M) (Halfbrick Studios) were just a few of the games offering people the chance to embarrass themselves in public. At £70+ though the Kinect is still a rather expensive party piece (that was the cheapest price I could find it for online, pre-owned). In my humble opinion it’s not worth the money unless you’ve got a group of friends who you can invite round regularly to mess about with. Bitter misanthropes such as myself would do well to invest their dosh elsewhere.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201110071319-felix-kinect-003.jpg" title="The Kinect – all it's cracked up to be? " caption="The Kinect – all it's cracked up to be? " attr="" >}}
+
 __Tekken Hybrid__
 
 My strategy of randomly mashing buttons, though commented upon as ‘unimaginative’ and ‘boring’, still earned me glorious victory after glorious victory. And a sore thumb. [Good game though](http://www.youtube.com/watch?v=8Meh871R1IU).

@@ -49,6 +49,9 @@ The vast majority of study drugs come in the form of a convenient pill. Unlike t
 As of the time of writing, in the UK, to possess modafinil is legal. However, it is only legal to buy if you have a prescription. Providing you have a prescription, it is obtainable from your local chemist or pharmacy. It is also available from many international websites that stick two fingers up to drug restriction laws in the UK, therefore this stuff is actually obtainable. It should be noted that any attempt to import large amounts of substances such as modafinil will only be considered by the authorities if it is for ‘personal use’. Typically personal use constitutes no more than a ninety day supply.
 
 It is important to be aware about the dangers of ordering drugs from an international company based in some shady corner of the world. Do not expect everything you order to be 100% every time.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702171606-felix-Screen Shot 2017-02-16 at 03.11.20.png" title="Yeah, we don’t know either." caption="Yeah, we don’t know either." attr="Urban Dictionary" >}}
+
 ## Glossary
 **Modding |** The act of being on modafinil
 **Daffodils |** Pills of Modafinil

@@ -67,6 +67,9 @@ I know a lot of guys complain they don’t “feel as much” when using them, w
 The pill. A tiny, revolutionary, sugar-coated (literally) ball of pure lady hormone. Or maybe they’re synthetic (actually don’t tell me, if it’s grown in pigs like insulin as that’s definitely not halal and the premarital sex is bad enough). The concept is simple – you pop a pill everyday, or maybe 21 days out of every 28, and suddenly have full autonomy over your fertility, periods and life. Go you!
 
 I’d recommend this to any womb-bearer who wants a fuss free way to stay baby-free, or anyone who’s about to go travelling and doesn’t want to get their period at a Full Moon Party. You might have heard horror stories – anything from changes of mood to getting a bit chubby, but your first dalliance into hormonal contraception is much like when Harry Potter first arrived at the wand shop on Diagon Alley. Some aren’t going to suit, and may well fuck shit up, but you can keep trying different brands (there are hundreds) until you find one that makes beautiful Patronuses.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201603181145-felix-pill.jpg" title="" caption="" attr="" >}}
+
 **The IUS**
 
 I took the mini-pill when I was younger, but the hormones didn’t gel well with the combination of my teenaged body and polycystic ovaries, and I ended up spending months soul searching over about why I was so depressed all of a sudden. Needless to say, that didn’t last long.

@@ -38,6 +38,9 @@ image_attribution_link: ""
 video_url: ""
 ---
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201203021722-ial08-bucshead2012.jpg" title="Working hard to bring home the medals" caption="Working hard to bring home the medals" attr="" >}}
+
 [Credit: Tim Richards](http://)
 
 The BUCS 4s and 8s Head on the River Nene in Peterborough never fails to be a challenging race for all involved and 2012 was no exception. In a weekend of two halves, the gales of Saturday played havoc with the beginner crews as many failed to complete the course whereas the relative calm of Sunday delivered more medals and BUCS points for ICBC’s seniors, both men and women, heavyweight and lightweight.

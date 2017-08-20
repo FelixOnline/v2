@@ -95,11 +95,17 @@ We are students at an incredibly academically intense university – but also on
 Student Volunteering Week is the perfect opportunity to get involved. To see the diversity of opportunities there are out there, and to understand why the volunteering should play a more central role in all of our lives. And if you’re too busy next week, drop us an email or come in for a chat at the Imperial Hub. You never know… you might end up feeling just as passionate about student volunteering, and about the capacity of student volunteers to make things happen, as we do.
 
 _Register for one of our events here: [www.imperialhub.org/svw2013](http://www.imperialhub.org/svw2013)_
+
+{{< figure src="http://felixonline.co.uk/img/upload/201302080046-tna08-imphub.jpg" title="" caption="" attr="" >}}
+
 ## Jez
 ![jez.jpg](/inc/timthumb.php?src=/img/upload/201302080049-tna08-jez.jpg&w=460px&zc=1&a=t)
 
 My name is Jez. I’m studying Electrical and Electronic Engineering. I am currently taking part in Pimlico Connection, an award-winning peer-tutoring scheme, as a classroom assistant. My job is to answer questions from year 7 students during maths lessons. I chose to do it because it seemed to be an interesting job and it is really rewarding when you can answer their questions and help them with their studies. You feel like you actually make a difference in the classroom as the students get more help and learn more. I would definitely recommend this.
 ## Dil
+
+{{< figure src="http://felixonline.co.uk/img/upload/201302080050-tna08-dil.jpg" title="" caption="" attr="" >}}
+
 I’m Dill, and I volunteer for the Schools Plus program. It’s been a great way to provide the extra help that so many school pupils need to succeed in their exams and beyond. I’ve been helping out in a GCSE Maths class at Bishop Challoner School in East London. They really value the tuition that they wouldn’t otherwise receive. They are set to get at least C grades in GCSE Maths, but with our help we hope to unleash their true potential and achieve A grades! It is extremely rewarding work that only takes an hour or two each week. When the students have a ‘penny drop moment’ it is really worth it!
 ## Michael
 ![micheal.jpg](/inc/timthumb.php?src=/img/upload/201302080050-tna08-micheal.jpg&w=460px&zc=1&a=t)

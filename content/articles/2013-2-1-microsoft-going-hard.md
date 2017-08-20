@@ -65,6 +65,9 @@ But it’s not like Microsoft never prepared for the death ofthe PC. In 2002 Bil
 Microsoft therefore needed someone else to create a new growth market, a market they could build upon for the future success of their company. So in steps the world’s best marketer and innovator, Apple CEO, Steve Jobs. In 2010 he released the iPad and claimed it would “change the world”.
 > the world went into a frenzy for the product, growing the tablet market by 250%
 Change the world it did, the world went into a frenzy for the product, growing the tablet market by 250% in 2011 and increasing current sales projections to 165.9m this year alone.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201302021118-jp1409-tablet-ipad-surface-star-trek.jpg" title="" caption="" attr="" >}}
+
 It’s this market demand that kicked Microsoft the most and it’s the one they have reacted to the strongest. But choosing to distinguish themselves from their wealthier rivals, they haven’t gone directly into the “tablet” market and have instead claimed they are creating their own innovative market, the “hybrid” market. Regardless if the two market are the same or different, Microsoft appear 100% sure that it will be the future for computing devices and have attacked all guns blazing.
 
 And by all guns blazing, I basically mean Microsoft went HARD. Not only did they not even contemplate going home, but they literally went hard by releasing their first piece of real hardware.

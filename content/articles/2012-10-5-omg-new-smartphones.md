@@ -51,6 +51,9 @@ It’s reported that 30-40% of all brand new iPhones are arriving to the high pa
 > iOS6 Apple Maps made news worldwide with levels of fail not seen since the Sega Dreamcast
 > Apple Maps Fail
 Add the standard trolling we’ve come to expect from the other smartphone makers, and it’s not great. Samsung poked fun with a new “the next big thing is already here” video below, which quotes Apple users saying “we’re finally getting everything we should’ve got last year,” and an ex-Apple user holding a space in line for the phone for his elderly parents. Similarly a Google ad for the Motorola RAZR Droid shows Apple maps vs Google maps with the caption #iLost.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201210090940-jp1409-ilost.jpg" title="Motorola ad pokes fun at Apple Maps " caption="Motorola ad pokes fun at Apple Maps " attr="" >}}
+
 The iPhone 5 wasn’t the best, smooth, or even a grand launch we all expect of Apple, but neither was the iPhone 4S; maybe the company is struggling more than we thought without all-round legend Steve Jobs at the helm.
 
 Or perhaps I’m being unfair and focusing on the negatives too much. Ignoring the bad press, the iPhone 5 is actally an amazing phone. Apple have successfully managed to exceed nearly all projected pre-order figures and the sales clearly show the company is doing something very well.

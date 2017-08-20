@@ -65,6 +65,9 @@ Russia has also shown a fierce opposition to American intervention. The Russian 
 US should not take part in air strikes in Syria. Assad already has enough time to prepare for such an air strike. The only way the air strike would be effective would be if there are ground troops to support the air strike. Furthermore, there are worries within the Syrian public that the air strikes would result in further civilian casualties. Russian authorities, I believe, have provided an alternative which the international community should respect.
 
 ###  The second important story – Egypt after the Arab Spring:
+
+{{< figure src="http://felixonline.co.uk/img/upload/201309291513-tna08-tahrirsquare.jpg" title="Tahrir Square" caption="Tahrir Square" attr="" >}}
+
 A very rosy picture was painted about the path towards which Egypt was headed after the Arab Spring. However, people are becoming more and more pessimistic about the future of the country.
  Months after Hosni Mubarak was ousted from Egypt, democratic elections were held. The Freedom and Justice party, the political wing of the Muslim Brotherhood, came to power with Mohammad Morsi as their leader. A new constitution was drafted which the West has not been in support of, as it gave The Freedom and Justice party immense power.
 

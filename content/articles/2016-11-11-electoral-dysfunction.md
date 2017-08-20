@@ -47,6 +47,9 @@ I could spend the rest of this piece criticising Trump for all the repulsive act
 But that ultimately doesn’t matter. Our system decided he will be the next leader of one of the most powerful countries in the world. Perhaps it’s fitting that Clinton actually won the popular vote in our country, but lost where it counts — in the Electoral College. This election has been anything but predictable, and Trump’s victory fits that narrative almost perfectly.
 
 Clinton’s loss must be one of the most mentally devastating moments in her life. Many polls showed she was the favourite to win, and some even suggested she would do so comfortably. But did the recent news about her email scandal cost her? The FBI letter that was released was short, and answered few to none of my questions about the new developments.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.35.png" title="" caption="" attr="" >}}
+
 Multiple reports indicate that the Clinton Foundation has been suspicious with how it hands out money to charities. Clinton also has given speeches for Goldman Sachs and other corporations for hundreds of thousands of dollars. Even if we didn’t see the transcripts, how much is she influenced by big business? It’s a fair question to debate.
 
 I write about Clinton’s faults understanding that if someone put a gun to my head, I would pick her. But these are the reasons that Trump supporters couldn’t cross party lines and vote for her — including one of my best friends from back home in the Philadelphia area.
@@ -69,3 +72,6 @@ I’ll return to the United States in December, and I won’t be certain what th
 At the end of the day, I do believe this country will continue to be united, even as divided as it currently appears. Because despite political differences with many friends and colleagues, I — and countless others — have been able to step back and re-evaluate what ideas and policies we should implement for those around us.
 
 I just wish that so many politicians and voters wouldn’t treat the future of our country like it’s a fucking game.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201611111511-felix-Screen Shot 2016-11-11 at 14.12.00.png" title="" caption="" attr="" >}}
+

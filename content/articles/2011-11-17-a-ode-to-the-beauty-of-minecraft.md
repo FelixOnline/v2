@@ -46,6 +46,9 @@ Spring, 2009, what a fine season that was. I remember playing with Notch, your f
 You’ve been told this time and time before, I bet, but you really are quite like Lego. At least, back then you were: you’ve definitely matured since then (and are doing so much better for it.) When we first heard about your ‘survival’ mode, we were so thrilled. I watched with glee as you developed monsters, crafting, day and night cycles, so much more!
 
 You were quickly becoming what we all wanted: creative, yet challenging; stimulating, satisfying, and sometimes scary. When you grew infinite worlds, I saw that your father had something to be truly proud of. That’s when I handed over my money, to make sure he’d raise you well. Of course, you were worth only €10 back then.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201111172050-pk1811-minecraft_creepers_by_kikariz-d37b0nd.jpg" title="A time to forgive and forget" caption="A time to forgive and forget" attr="" >}}
+
 You grew so quickly over the next year, and I was with you every step of the way. You flourished, taunting me over exam time, rewarding me during boring summer days. You stretched my creativity, my spirit for adventure, and together we explored deep, dark caves for their treasures, and made beautiful creations.
 
 I was so happy for you last year when you got to your beta stage. You earned so many new friends then! But you began to grow away from me. So many new features, and it became hard to keep up: I felt like an old man bewildered by a computer when you showed me your redstone, yet your new pals raced ahead with using it.

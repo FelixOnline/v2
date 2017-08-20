@@ -51,6 +51,9 @@ The government has been urged to show clemency and help Syrian students who are 
 Last October, the UK Borders Agency announced temporary concessions for Syrian nationals, enabling visa extensions or the switching of visa categories without leaving the UK; however, this is yet to be addressed as these concessions will expire on 15 March. Many students currently face an uncertain future; some have had their student status suspended, while others will not be able to graduate till their fees have been paid. Without funding, many students are struggling to make ends meet for their living costs.
 
 Liam Burns, President of the NUS, commented: “The situation in Syria is devastating enough without universities turning their backs on those currently studying in the UK. What we urgently need to see is every Syrian student is given support when finances aren’t forthcoming so they can continue their studies. This has to be the least the UK can do considering the tragic circumstances of the conflict in Syria.”
+
+{{< figure src="http://felixonline.co.uk/img/upload/201302080119-tna08-just-giving.png" title="" caption="" attr="" >}}
+
 Imperial College London currently has ten students who have Syria listed as their primary citizenship. The International Office said that no students have approached them about the situation at this time.
  When asked about what the College would do to hep students, a College spokesperson said: “Any student who experiences an unexpected change in their financial circumstances, including tuition fees, can contact the Student Hub, the College Tutors or the Union’s Student Advice Centre for information and advice. The College Hardship Fund is also available to help students experiencing unexpected financial hardship. The Fund cannot be used to assist with tuition fee payment but can help with living costs. Students can find further information by visiting <http://www3.imperial.ac.uk/studentfinance/currentstudents/hardshipfund>.”
 

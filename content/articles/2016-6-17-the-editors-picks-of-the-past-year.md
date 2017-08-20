@@ -48,6 +48,9 @@ The Serpentine Gallery’s Pavilion, a mere stone’s throw from the South Ken c
 **Mary Heilmann**
 
 Mary Heilmann is that rare breed; a female abstract artist. Now in her seventies, she’s recently begun to find the big-time art world fame that eluded her for most of her career. In this retrospective at the Whitechapel Gallery, her first full exhibition in the UK since 2001, Heilmann brings to London the colour, and effortless cool of the American West Coast.  Her work, ranging from paintings, furniture, and ceramics is based on grids, architectural shapes filled with riotous, sunny colour. Each piece is autobiographical in some way, referencing everything and anything from her grandmother’s house in 1940s San Francisco, to surfing, doing acid trips, **The Sex Pistols**, and the mid century New Yorks arts scene.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201606171127-felix-newtatemodernsouthview.jpg" title="Tate Modern Extension" caption="Tate Modern Extension" attr="Hayes Davidson and Herzog & de Meuron" >}}
+
 **Shakespeare 400 Events**
 
 This marks the 400th anniversary since Shakespeare’s death, in celebration of his work, events have been going on throughout 2016. You may already have seen _A Midsummer’s Night Dream_ as staged by Doctor Who’s Russell T Davies, or the _Hollow Crown_, as starring the culturally omnipresent Benedict Cumberbatch on TV. Unsurprisingly, the Globe Theatre is leading the vanguard for events in London. _A Midsummer’s Night Dream_, _Macbeth_, and the _Taming of the Shrew_ are all being staged in the summer. Additionally, Shakespeare’s Globe will be running a series of lectures, workshops , and other educational events exploring the work of Shakespeare in greater detail. There’s a great breadth of options, so if their website is well worth visiting.

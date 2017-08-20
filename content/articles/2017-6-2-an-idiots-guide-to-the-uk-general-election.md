@@ -76,6 +76,9 @@ The Green Party represent the opposite end of politics to UKIP, being the party 
 The ‘main’ party manifestos are covered in the following pages but make sure to do a little bit of research into your local party candidates too. This is because at the end of the day you are voting for a local representative, albeit one who’ll be somewhat tied to a national agenda, and they may have particular policies or beliefs that either align or clash with your own views.
 
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201706021557-felix-1081px-2015UKElectionMap.svg copy.png" title="The 2015 election results " caption="The 2015 election results " attr="Brythones" >}}
+
 **And what’s the likely outcome?**
 
 Honestly, it’s getting less and less clear by the minute. When the election was called by May in April, some polls had her as far ahead as 24% over Labour but as May (the month) went past, May (the Prime Minister) and the Conservatives had their lead cut (despite local election losses for Labour) and now June may be a disaster for May (the Prime Minister).

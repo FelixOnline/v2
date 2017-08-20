@@ -50,3 +50,15 @@ Guests were treated to a selection of snacks on arrival as well as a generous sp
 During a brief intermission, a martial arts display by ‘Shorinjo Kempo’ was performed with the demonstrators showing ‘hard’ and ‘soft’ self-defence moves. Eight awards were presented throughout the evening; Hellen Maufour, Imperial Medicals Netball coach won the Coach of the Year Award. Marie de Parseval from Imperial Judo club won Ambassador of the Year whilst Alice Mitchell won Athlete of the Year. Sports Writer of the Year was won by David Wilson, with Iain Reid collecting the Sports Photograph of the Year award. The Ethos award was presented to Fast Fins and Student Team of the Year was won by Table Tennis Men’s 1s while the Student Club of the Year gong was awarded to Fencing.
 
 An enjoyable night was had by all with the aforementioned alcohol continually served once the awards had been presented. Special thanks go to Sport Imperial for hosting the event, as well as the number of sponsors and special guests who contributed to make the night such a success.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201106162221-felix-dsc_0038.jpg" title="Coach of the Year: Hellen Maufour" caption="Coach of the Year: Hellen Maufour" attr="Credit: Laura Harreman" >}}
+
+
+{{< figure src="http://felixonline.co.uk/img/upload/201106162220-felix-dsc_0158.jpg" title="Student Team of the Year: Table Tennis Men’s 1st team" caption="Student Team of the Year: Table Tennis Men’s 1st team" attr="Credit: Laura Harreman" >}}
+
+
+{{< figure src="http://felixonline.co.uk/img/upload/201106162216-felix-dsc_0145.jpg" title="Sports Writer of the Year: David Wilson" caption="Sports Writer of the Year: David Wilson" attr="Credit: Laura Harreman" >}}
+
+
+{{< figure src="http://felixonline.co.uk/img/upload/201106162215-felix-dsc_0002.jpg" title="England Rugby Union 7’s Head Coach Ben Ryan" caption="England Rugby Union 7’s Head Coach Ben Ryan" attr="Credit: Laura Harreman" >}}
+

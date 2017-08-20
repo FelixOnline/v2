@@ -37,6 +37,9 @@ image_attribution_link: ""
 video_url: ""
 ---
 
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702241344-felix-vaping.jpg" title="Smoking may be banned but vaping isn’t (sort of)" caption="Smoking may be banned but vaping isn’t (sort of)" attr="Vaping360" >}}
+
 It’s official: Imperial will implement a smoking ban on all College campuses and properties starting the 1st of August.
 
 The move which has been in the making for quite some time now, is a result of various lengthy consultations including a ‘referendum’ that took place earlier last term.

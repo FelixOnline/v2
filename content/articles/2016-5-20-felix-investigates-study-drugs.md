@@ -83,3 +83,6 @@ Jennie Watson, the DPW, told FELIX: “No Imperial student should feel they have
 “I’d urge students using drugs to enhance academic performance to consider the fact there is very little evidence of benefit and that the long term effects are broadly unknown.”
 
 Make up your own mind, but if you’ve really not revised, it’s unlikely a Ritalin dose will save you.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201605201102-felix-Paxil,_24_June_2010.jpg" title="Look familiar?" caption="Look familiar?" attr="Wikipedia" >}}
+

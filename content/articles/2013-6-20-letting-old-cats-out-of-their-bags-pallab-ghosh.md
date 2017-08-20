@@ -45,6 +45,9 @@ Pallab Ghosh was Felix Editor from [1983/84](http://felixonline.co.uk/issuearchi
 __TA: Something I’ve noticed is that there is a general underlying tone, but there are changes from year to year. One year it’s a bit more light hearted, then the next year it’s a bit more serious. How did you choose that?__
 
 PG: Yes it tends to go like that. I took my inspiration from a guy called Steve Marshall, who was Editor when I was a first year. He had this certain approach (humour). The Editors who followed him were a bit more straightforward. They wanted to kind of distinguish themselves by not having the same approach. You only get one shot at it and it’s great fun. So you shouldn’t have any regrets at the end of it.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201306210142-tna08-pallab1.jpg" title="The front cover depicting the campaign to save the tea room" caption="The front cover depicting the campaign to save the tea room" attr="" >}}
+
 __TA: How did you get involved at Felix?__
 
 PG: I didn’t think of journalism or newspapers as my thing. I was quite keen on athletics. I went along to a meeting of University of London Athletics Club and there was no one there – I probably turned up at the wrong place. So I thought, I’ll have to find something else to do.
@@ -72,6 +75,9 @@ PG: Yeah, because you don’t get Editors changing at The Times every year.
 __TA: Any standout moments from your year? News stories or features that you think came off well?__
 
 PG: Well. I’m the only Felix Editor that riled the Rector so much that they brought out their own newspaper against me! It was just generally a body of work that rattled lots of cages and got a reaction. Everyone was involved in Felix in one way or another. They’d rush to open it to see who had been slagged off, who hadn’t been. You know, obviously the news is important, but with a student newspaper it should be part of the community. If I were to describe what I felt proud of it would be that everyone was engaged in it. We couldn’t print more than a certain number of copies as we’d exceed our budget, but they were gone by 9:30 – first lectures.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201306210143-tna08-pallab2-copy.jpg" title="Another front cover from Pallab Ghosh's year. Some things just don't change at Imperial..." caption="Another front cover from Pallab Ghosh's year. Some things just don't change at Imperial..." attr="" >}}
+
 __TA: Looking back on stories that seemed to be very important, how important do they seem in hindsight?__
 
 PG: Well, there was a story about a student who had committed suicide, which was a serious story. We produced a special issue on that – I don’t know if it made it to the bound editions [which are big editions that has every paper in one place]. Most of the time it was reporting the news. There were no big standout moments. My Felixes were more magaziny. There was a bit of news, which was reported.

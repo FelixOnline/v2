@@ -55,6 +55,9 @@ Most of the time I’d kindly decline the sugared ring while offering to donate 
 1. The Classic
 
 The joy of biting into a doughnut completely and symmetrically filled to the top with perfectly smooth vanilla custard cream. The days of disappointment from stingy fillings are forever gone with St John’s Bakery and Bread Ahead Bakery. Both are excellent local bakeries producing all sorts of top-notch baked goods everyday including a wide variety of pastries and sourdough. Doughnuts are their popular specialty with some basic flavours in common: vanilla custard, honeycomb, raspberry jam, chocolate.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201605201121-felix-web.jpg" title="CW from top left: PB&J, pistachio cronut, chocolate, raspberry cronut. " caption="CW from top left: PB&J, pistachio cronut, chocolate, raspberry cronut. " attr=" Christy Lam" >}}
+
 Bread Ahead explores slightly further with flavours depending on the season, such as blackberry custard ripple, salted caramel with honeycomb and my favourite – earl grey with soaked prune (all £2.50). The doughnut itself is like a brioche and is dusted with white sugar. St John’s Bakery is available from their bakeries in Druid Street Market, Maltby Street Market, Spitalfields and the Food Hall at Selfridges. Bread Ahead opens their store at Borough Market and Old Spitalfields Market on select days.
 
 2. The Sourdough

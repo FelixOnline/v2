@@ -46,3 +46,6 @@ Since then, this initial proposal has been pretty widely criticised, with commen
 After this backlash, various Conservative MP’s have appeared on TV and Radio programmes attempting to clarify/backpedal/U-turn (delete as you see applicable) on the policy. From the initial speech it could be inferred that ‘nudging’ companies to hire more workers would mean the register would be public information, able to be viewed and critiqued by all.
 
 This does not seem to be the case, though, with companies only having to report numbers of workers, in order to “respond to skills shortages”. It’s all a little sketchy though; if this starts a precedent of drawing a line between foreign workers and UK nationals this might just pave the way for a more isolated post-Brexit UK.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610141122-felix-theresa4.jpg" title="" caption="" attr="" >}}
+

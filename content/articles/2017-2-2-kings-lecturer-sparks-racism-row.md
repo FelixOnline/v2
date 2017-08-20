@@ -50,6 +50,9 @@ In another tweet he defends Trump’s Muslim Ban saying it “makes sense in hum
 Since the tweets were published KCL's intersectional feminist society have asked for an apology.
 
 “Academics must understand that they are utterly responsible to [sic] whatever they post on their social media channels just as they are for the words they say in a classroom, and such reckless tweeting, clearly made by this lecturer is a prime example that some may be unaware, or indeed neglect their duties of responsibility when expressing one’s views.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702022327-felix-Screen Shot 2017-02-01 at 14.11.38.png" title="" caption="" attr="" >}}
+
 “[We] would appreciate that ALL lecturers understood that whatever their comments, they will be held responsible for their remarks given their position of authority and trust.
 
 “We demand that Dr. Adam Perkins immediately apologises sincerely to the Somali community at King’s for which he has caused immense distress, and that he apologises for his offensive remarks about Somalis”
@@ -64,6 +67,9 @@ Kirkegaard also has an entry dedicated to his work on RationalWiki, a resource d
 Besides the questions these recent tweets raise about the scientific credibility of Dr. Perkins, his political agenda, and his suitability to teach young people at one of the country’s leading universities, they also raise concerns on the rest of his social media activity.
 
 His activity is sprinkled with many uncited graphs and figures. But due to their concealment in a flurry of unrelated material ranging from BBC News posts to Nirvana video clips, and posts from reputable scientific sources such as Nature and Springer, it is hard to pick out the pseudoscience that would otherwise damage his scientific authority.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201702022327-felix-Screen Shot 2017-02-01 at 14.49.44.png" title="" caption="" attr="" >}}
+
 Perkins has over a thousand followers on twitter, with many of his tweets being liked and shared hundreds if not thousands of times. His tweet defending Trump’s Muslim Ban has been shared 1300 times and liked almost 2000 times.
 
 After approaching KCL for comment, a spokesperson told _felix_ that “King’s is aware of recent posts on social media by Dr Adam Perkins which have offended some members of our community. We value and uphold the principle of academic freedom, however we are equally committed to welcoming a diverse and inclusive staff and student population. The Executive Dean of Institute of Psychiatry, Psychology &amp; Neuroscience has spoken to Dr Perkins who has apologised wholeheartedly for any offence caused.”

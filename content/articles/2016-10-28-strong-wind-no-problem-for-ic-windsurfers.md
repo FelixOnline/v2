@@ -42,6 +42,9 @@ On the weekend of the 14th of October, Imperial Windsurfers travelled down to Ro
 With strong winds on Sunday and mild ones on Saturday, both advanced and beginner windsurfers enjoyed a great time on the lake. Susie McAllister, Charlotte Flower, Jon Platts, Ryan Dooze and Athena Wang all took part and impressed the instructors, including our very own President, David Salmon. David was awarded ‘Best Instructor’ of the weekend and was gifted a free instructor course and some great products.
 
 The rest of the group comprised a mixture of intermediate and advanced windsurfers who took full advantage of the demo kit Boardwise brought to the event. The racing was held on Sunday. Imperial entered three members into the team race: Artur Banach, Dolores Garcia and Jerome de Chillaz. The team did immensely well coming second in their heat, gaining a place in the final, and finishing 6th overall.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201610281814-aib116-14707860_997745870329628_4367556467538698344_o.jpg" title="" caption="" attr="" >}}
+
 Each SWA event has a fancy dress night and this year was no exception. Aussie Kiss 15’s theme was ‘The Circus’, where an appropriately shaped tent was set up next to the campsite, ready for the night. Imperial decided on ‘Freak Show’ with the majority of the group dressing up as conjoined twins, attracting a lot of attention from the other Universities.
 
 The next core event will be ‘Up the Brum’ in Birmingham on the 28th - 30th of October. Stay in touch with Imperial windsurfing club on Facebook if you would like to join us. All abilities welcome.

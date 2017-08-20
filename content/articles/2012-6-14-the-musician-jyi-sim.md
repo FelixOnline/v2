@@ -76,6 +76,9 @@ J - [laughs] It helps me when I get bored of studying aero and flying kinds of t
 M - Your production logo is an aeroplane.
 
 J - Oh you noticed that? And it’s the initial of a J!
+
+{{< figure src="http://felixonline.co.uk/img/upload/201206142139-pk1811-postcards-from-unity-cover.png" title="" caption="" attr="" >}}
+
 M- You’re selling your music – how’s that going?
 
 J - It’s not really, in Asia people like to download stuff illegally, but the reviews and feedback I get from strangers, it’s kinda good!

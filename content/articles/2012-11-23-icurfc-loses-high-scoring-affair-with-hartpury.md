@@ -55,3 +55,6 @@ The whistle blew shortly after; bringing an end to this thrilling encounter. Imp
 Man of the Match went to OlisaUfodiama returning from injury, whilst notable mentions should also go to fresher Tom Hobson for stepping up as hooker, some quality runs by centre Mike Floyd and thundering tackles from winger Nathan ‘Brucey’ Fitzpatrick and lock Tom Chavas.
 
 ICURFC is proud to be sponsored by:
+
+{{< figure src="http://felixonline.co.uk/img/upload/201211230013-tna08-rugbyleaguetingy.jpg" title="" caption="" attr="" >}}
+

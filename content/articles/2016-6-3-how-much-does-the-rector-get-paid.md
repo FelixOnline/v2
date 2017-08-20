@@ -54,6 +54,9 @@ Even now, President and Rector Alice Gast is paid nowhere near as much as Oxford
 In February, the _Guardian_ reported that chancellor salaries had gone up 14% over five years – in the same time Imperial’s top job had increased its remuneration fee by 21%.
 
 While the average salary for a university head sits at a modest £272,000, Alice Gast currently enjoys a total fee of £432,000 which includes the college’s contribution to her pension and £25,000 worth of ‘Other’ – presumably the rent on the townhouse that comes with the job on Queen’s Gate. Imperial isn’t an average institution, but can it justify such a decadent pay packet for those at the top when fees are set to rise? It probably can, yes.
+
+{{< figure src="http://felixonline.co.uk/img/upload/201606031105-felix-scrn.jpg" title="Richard Sykes tried to introduce a dress code for students. This did not go down well. " caption="Richard Sykes tried to introduce a dress code for students. This did not go down well. " attr="FELIX" >}}
+
 **Richard Sykes**
 
 As well as trying to introduce a dress code for students, Sir Richard was a long-term advocate for increasing top-up fees. Back in the noughties, when home students were paying just £1100 per year, the government was considering raising fees. Whilst other Russell Group chairs suggested £3000 a year, Richard Sykes told the world that he thought a whopping annual fee of £10,500 was justified.
