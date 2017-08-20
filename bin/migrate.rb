@@ -42,7 +42,7 @@ client.query(ALL_AUTHORS_QUERY).each_with_index do |r, i|
   md = %w(---)
   md << "id: \"#{r["id"]}\""
   md << "title: #{r["name"]}"
-  md << "image_path: \"http://felixonline.co.uk/#{r["image"]}\""
+  md << "image: \"http://felixonline.co.uk/#{r["image"]}\""
   md << "twitter: \"#{r["twitter"]}\""
   md << "facebook: \"#{r["facebook"]}\""
   md << "website_url: \"#{r["website"]}\""
@@ -158,12 +158,10 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "headline: true"
   md << "featured: true"
 
-  md << "\n# Image metadata"
-  md << "image_path: \"http://felixonline.co.uk/#{r["image_path"]}\""
-  md << "image_caption: >\n  #{r["image_caption"]}"
-  md << "image_attribution: \"#{(r["image_attribution"] || "").gsub(/\W*\\\W*/, " - ").gsub(/^\W+/, "")}\""
-  md << "image_attribution_link: \"#{r["image_attribution_link"]}\""
-  md << "video_url: \"#{r["article_video_url"]}\""
+  image_url = "http://felixonline.co.uk/#{r["image_path"]}"
+  image_caption = (r["image_caption"] || "").gsub!('"', '')
+  md << "image: \"#{image_url}\""
+  md << "image_caption: \"#{image_caption}\""
   md << "---\n"
 
   JSON.parse(r["content"])["data"].each do |section|

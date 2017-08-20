@@ -47,7 +47,7 @@
   {{ end }}
 
   <figure>
-    <img alt="{{ .Params.image_caption }}" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image_path "http://" "" }}&w=500">
+    <img alt="{{ .Params.image_caption }}" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "http://" "" }}&w=500">
     <figcaption>{{ .Params.image_caption }}</figcaption>
   </figure>
 

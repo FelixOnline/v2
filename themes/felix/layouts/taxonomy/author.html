@@ -5,8 +5,8 @@
    <h1>{{ .Title }}</h1>
 
    <h2>Profile</h2>
-   {{ if (not (eq .Params.image_path "")) }}
-     <img width="100" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image_path "http://" "" }}&w=100"/>
+   {{ if (not (eq .Params.image "")) }}
+     <img width="100" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "http://" "" }}&w=100"/>
    {{ end }}
 
    <ul>

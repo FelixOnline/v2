@@ -8,7 +8,7 @@
   {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
   {{ $firstHeadline := index $headlinePosts 0 }}
-  <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image_path "http://" "" }}&w=400)"></div>
+  <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image "http://" "" }}&w=400)"></div>
 
   <div class="headline-summaries">
     {{ range first 3 $headlinePosts }}
@@ -41,11 +41,11 @@
       </h1>
 
       <div class="post-block-container">
-        {{ $articlesWithPictures := where $categoryPage.Pages ".Params.image_path" "!=" "http://felixonline.co.uk/" }}
+        {{ $articlesWithPictures := where $categoryPage.Pages ".Params.image " "!=" "http://felixonline.co.uk/" }}
         {{ range first 4 (where $articlesWithPictures ".Params.featured" true) }}
           <a href="{{ .RelPermalink }}">
             <div class="post-block">
-              <div class="image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image_path "http://" "" }}&w=200)"></div>
+              <div class="image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image "http://" "" }}&w=200)"></div>
               <div class="info">
                 <a href="{{ .RelPermalink }}">{{ truncate $titleLength "..." .LinkTitle }}</a>
 
@@ -73,7 +73,7 @@
       <h2>{{ $name }}</h2>
 
       {{ $post := index $pages 0 }}
-      <div class="image" style="background-image: url({{ $imageProxy }}{{ replace $post.Params.image_path "http://" "" }}&w=200)"></div>
+      <div class="image" style="background-image: url({{ $imageProxy }}{{ replace $post.Params.image "http://" "" }}&w=200)"></div>
       <div class="info">
         <a href="{{ $post.RelPermalink }}">{{ truncate $titleLength "..." $post.Title }}</a>
 
