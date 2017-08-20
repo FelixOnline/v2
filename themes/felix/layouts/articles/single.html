@@ -19,6 +19,15 @@
       </ul>
     {{ end }}
 
+    {{ if (ne .Params.comments nil) }}
+      Imported Comments:
+      <ul>
+        {{ range .Params.comments }}
+          <li>{{ safeHTML .value }}</li>
+        {{ end }}
+      </ul>
+    {{ end }}
+
     <div>
       {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
       <p><a href="{{ .Site.BaseURL }}authors/{{ .Params.author_id }}">{{ $authorPage.Title }}</a></p>
