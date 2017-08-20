@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - felix
  - ma1307
 highlights:
  - comment

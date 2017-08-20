@@ -14,9 +14,7 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jr1911
 highlights:
 ---

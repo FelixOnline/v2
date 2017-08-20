@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ff712
- - snb11
 highlights:
  - comment
  - longread

@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ff712
- - mc4509
 highlights:
  - photos
 ---

@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - phc11
- - pk1811
 highlights:
  - comment
 ---

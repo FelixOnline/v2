@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cer08
- - felix
 highlights:
 ---
 

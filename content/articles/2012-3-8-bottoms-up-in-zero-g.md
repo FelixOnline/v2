@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - ams111
  - edh11
 highlights:
 ---

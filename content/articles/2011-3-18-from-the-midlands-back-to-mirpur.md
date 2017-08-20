@@ -22,7 +22,6 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
  - kh108
  - oh106
 highlights:

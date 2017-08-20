@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - ff712
  - js5913
 highlights:
  - longread

@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - felix
  - gj309
 highlights:
 ---

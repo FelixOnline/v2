@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cc1109
- - pk1811
 highlights:
  - comment
 ---

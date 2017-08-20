@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - hp1910
- - jal08
 highlights:
 ---
 

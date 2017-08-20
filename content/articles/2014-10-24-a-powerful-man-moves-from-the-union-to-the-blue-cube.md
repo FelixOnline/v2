@@ -22,7 +22,6 @@ tags:
  - multi-author
 authors:
  - em2512
- - ps3110
  - snb11
 highlights:
  - comment

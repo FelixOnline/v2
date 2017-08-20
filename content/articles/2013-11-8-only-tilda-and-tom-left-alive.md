@@ -14,9 +14,7 @@ categories:
  - film
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - ff712
 highlights:
  - photos

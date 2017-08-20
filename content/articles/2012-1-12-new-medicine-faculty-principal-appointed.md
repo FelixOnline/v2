@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ann09
- - felix
 highlights:
 ---
 

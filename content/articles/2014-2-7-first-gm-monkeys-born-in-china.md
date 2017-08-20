@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - cy1211
- - jal08
 highlights:
  - comment
 ---

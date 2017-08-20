@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - felix
  - fsport
 highlights:
  - longread

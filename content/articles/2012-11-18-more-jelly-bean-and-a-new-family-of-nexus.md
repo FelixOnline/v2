@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - jp1409
  - ywc110
 highlights:
  - longread

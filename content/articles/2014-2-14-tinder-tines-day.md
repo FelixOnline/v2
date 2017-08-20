@@ -14,10 +14,8 @@ categories:
  - features
 tags:
  - imported
- - multi-author
 authors:
  - ah4010
- - jal08
 highlights:
  - longread
 ---

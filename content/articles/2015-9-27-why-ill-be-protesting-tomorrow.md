@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - jw
  - jw3510
- - ygr12
+ - jw
 highlights:
  - comment
 ---

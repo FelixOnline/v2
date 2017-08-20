@@ -14,10 +14,8 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
  - mtm10
- - snb11
 highlights:
 ---
 

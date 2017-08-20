@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cc7912
- - cj914
 highlights:
 ---
 

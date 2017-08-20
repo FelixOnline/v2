@@ -16,7 +16,6 @@ tags:
  - imported
  - multi-author
 authors:
- - jal08
  - mkd110
  - mml110
 highlights:

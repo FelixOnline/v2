@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - ks607
  - rtf08
 highlights:
 ---

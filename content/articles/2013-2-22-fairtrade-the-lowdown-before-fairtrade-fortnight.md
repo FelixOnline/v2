@@ -20,7 +20,6 @@ tags:
 authors:
  - an406
  - ntg08
- - tna08
 highlights:
  - longread
  - photos

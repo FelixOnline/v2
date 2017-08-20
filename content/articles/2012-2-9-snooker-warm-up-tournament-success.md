@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - ec209
- - pk1811
 highlights:
 ---
 

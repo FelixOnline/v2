@@ -19,7 +19,6 @@ tags:
  - image
  - multi-author
 authors:
- - bwh12
  - jdm11
  - scq11
 highlights:

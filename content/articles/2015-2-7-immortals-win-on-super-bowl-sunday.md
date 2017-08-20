@@ -14,9 +14,7 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
- - kmw13
  - sjh213
 highlights:
 ---

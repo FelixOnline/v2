@@ -19,7 +19,6 @@ tags:
  - multi-author
 authors:
  - drc01
- - felix
  - pdr08
 highlights:
 ---

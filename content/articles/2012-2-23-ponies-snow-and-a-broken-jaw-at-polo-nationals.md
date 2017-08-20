@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - as906
- - cac111
 highlights:
  - comment
  - longread

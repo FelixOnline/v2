@@ -19,8 +19,8 @@ tags:
  - multi-author
 authors:
  - felix
- - haljabir
  - husainaljabir
+ - haljabir
 highlights:
  - photos
 ---

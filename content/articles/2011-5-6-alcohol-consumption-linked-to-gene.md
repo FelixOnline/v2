@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - ch1810
- - felix
 highlights:
 ---
 

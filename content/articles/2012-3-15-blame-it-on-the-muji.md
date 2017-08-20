@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ebl110
- - ig711
 highlights:
 ---
 

@@ -20,7 +20,6 @@ tags:
 authors:
  - as906
  - mtm10
- - pk1811
 highlights:
  - longread
  - photos

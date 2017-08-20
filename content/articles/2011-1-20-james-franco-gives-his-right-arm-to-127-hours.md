@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ghc07
- - ks607
 highlights:
 ---
 

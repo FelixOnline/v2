@@ -14,10 +14,8 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
  - ec610
- - felix
 highlights:
 ---
 

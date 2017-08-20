@@ -14,9 +14,7 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - ko409
 highlights:
 ---

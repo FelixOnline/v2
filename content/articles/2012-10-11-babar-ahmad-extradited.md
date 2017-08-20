@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - ar3310
  - ar3310
 highlights:
  - comment

@@ -19,7 +19,6 @@ tags:
  - multi-author
 authors:
  - di312
- - jal08
  - md2610
 highlights:
  - longread

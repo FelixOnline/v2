@@ -18,7 +18,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - rj408
  - rtf08
 highlights:

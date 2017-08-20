@@ -19,7 +19,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - gda07
  - ma1307
 highlights:

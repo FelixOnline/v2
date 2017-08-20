@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - ig711
  - irb10
 highlights:
  - photos

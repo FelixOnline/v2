@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - jal08
  - pk1811
 highlights:
  - comment

@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - sjw209
  - tna08
 highlights:
  - comment

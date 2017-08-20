@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - er208
- - felix
 highlights:
  - longread
 ---

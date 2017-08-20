@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - glc09
- - tna08
 highlights:
 ---
 

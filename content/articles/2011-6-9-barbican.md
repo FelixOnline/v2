@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - cjb07
  - htb08
 highlights:
 ---

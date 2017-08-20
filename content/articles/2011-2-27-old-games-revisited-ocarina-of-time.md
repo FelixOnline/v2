@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - jk708
  - skh10
 highlights:
  - comment

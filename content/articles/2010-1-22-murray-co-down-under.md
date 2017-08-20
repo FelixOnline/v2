@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - ial08
- - jk708
 highlights:
 ---
 

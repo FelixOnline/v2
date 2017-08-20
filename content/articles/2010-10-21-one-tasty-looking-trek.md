@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - felix
  - yll08
 highlights:
  - comment

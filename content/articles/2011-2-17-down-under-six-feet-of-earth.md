@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - jgp09
- - nm1010
 highlights:
  - comment
 ---

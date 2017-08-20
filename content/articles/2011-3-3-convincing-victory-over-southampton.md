@@ -14,9 +14,7 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - trm08
 highlights:
 ---

@@ -14,10 +14,8 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
  - klh110
- - tna08
 highlights:
 ---
 

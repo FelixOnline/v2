@@ -18,9 +18,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - felix
  - ks607
 highlights:
 ---

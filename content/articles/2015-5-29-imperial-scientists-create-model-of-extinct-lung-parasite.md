@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - ps3110
  - snb11
 highlights:
  - comment

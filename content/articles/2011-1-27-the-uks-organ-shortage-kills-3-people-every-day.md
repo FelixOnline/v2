@@ -19,7 +19,6 @@ tags:
  - multi-author
 authors:
  - ap1310
- - felix
  - klb09
 highlights:
  - longread

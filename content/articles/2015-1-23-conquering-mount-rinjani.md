@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - cr70
  - cr709
- - jyg11
+ - cr70
 highlights:
  - comment
  - longread

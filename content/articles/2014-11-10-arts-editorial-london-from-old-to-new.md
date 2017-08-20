@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - ff712
  - km2612
- - ps3110
+ - ff712
 highlights:
 ---
 

@@ -22,9 +22,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - felix
  - gda07
 highlights:
  - comment

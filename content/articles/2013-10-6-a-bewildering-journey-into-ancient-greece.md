@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ef510
- - jal08
 highlights:
  - comment
 ---

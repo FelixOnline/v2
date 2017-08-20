@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - pa07
- - snb11
 highlights:
  - comment
 ---

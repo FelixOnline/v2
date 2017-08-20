@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - jal08
  - ts2213
 highlights:
 ---

@@ -18,7 +18,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - lp707
  - ma1307
 highlights:

@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - jp1409
  - me1711
- - pk1811
+ - jp1409
 highlights:
  - comment
  - longread

@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - ams111
  - mtm10
 highlights:
  - comment

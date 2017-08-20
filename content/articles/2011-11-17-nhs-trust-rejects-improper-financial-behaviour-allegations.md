@@ -23,7 +23,6 @@ tags:
  - multi-author
 authors:
  - cb403
- - felix
  - mtm10
 highlights:
  - comment

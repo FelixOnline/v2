@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - felfood
- - tna08
  - ykc111
+ - felfood
 highlights:
  - photos
 ---

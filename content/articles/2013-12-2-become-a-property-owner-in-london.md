@@ -14,9 +14,7 @@ categories:
  - business
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jt2010
 highlights:
 ---

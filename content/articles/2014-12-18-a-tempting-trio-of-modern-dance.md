@@ -14,9 +14,7 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
- - ff712
  - js5909
 highlights:
  - photos

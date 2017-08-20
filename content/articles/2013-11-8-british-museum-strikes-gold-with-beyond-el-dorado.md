@@ -14,9 +14,7 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - km2612
 highlights:
  - photos

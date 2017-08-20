@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - cac111
- - jal08
  - ykc111
+ - cac111
 highlights:
  - longread
 ---

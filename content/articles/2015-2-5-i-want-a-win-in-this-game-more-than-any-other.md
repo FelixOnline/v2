@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - jp1910
- - kmw13
 highlights:
  - comment
 ---

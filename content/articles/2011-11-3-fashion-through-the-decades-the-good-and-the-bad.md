@@ -20,7 +20,6 @@ tags:
  - multi-author
 authors:
  - ay310
- - pk1811
  - stv07
 highlights:
  - comment

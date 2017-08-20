@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - nm708
 highlights:
 ---

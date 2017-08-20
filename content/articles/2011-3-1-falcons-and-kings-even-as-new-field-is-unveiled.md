@@ -19,9 +19,8 @@ tags:
  - multi-author
 authors:
  - ak1107
- - felix
- - gbl07
  - khl107
+ - gbl07
 highlights:
  - photos
 ---

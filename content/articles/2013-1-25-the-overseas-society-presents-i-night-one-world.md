@@ -18,13 +18,12 @@ tags:
  - image
  - multi-author
 authors:
- - am10810
+ - mk2008
  - dc1611
  - ll708
- - mk2008
  - rk610
- - tna08
  - uk310
+ - am10810
 highlights:
  - longread
  - photos

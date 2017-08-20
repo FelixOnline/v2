@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - cmt09
  - er310
- - felix
+ - cmt09
 highlights:
  - longread
  - photos

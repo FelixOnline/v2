@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - rjd08
 highlights:
 ---

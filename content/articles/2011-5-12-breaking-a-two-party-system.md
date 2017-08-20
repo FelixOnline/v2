@@ -14,9 +14,7 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - tn509
 highlights:
 ---

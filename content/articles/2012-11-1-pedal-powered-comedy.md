@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - felart
- - mc4509
 highlights:
 ---
 

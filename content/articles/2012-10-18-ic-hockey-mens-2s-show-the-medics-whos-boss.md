@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - bb308
- - csw09
 highlights:
 ---
 

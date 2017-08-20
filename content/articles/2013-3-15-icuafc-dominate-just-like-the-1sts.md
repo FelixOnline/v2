@@ -19,7 +19,6 @@ tags:
  - multi-author
 authors:
  - sd3510
- - tna08
  - ww709
 highlights:
  - photos

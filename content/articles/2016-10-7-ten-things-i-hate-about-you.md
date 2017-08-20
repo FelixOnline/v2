@@ -19,8 +19,8 @@ tags:
  - multi-author
 authors:
  - felix
- - icanon
  - tad08
+ - icanon
 highlights:
  - longread
  - photos

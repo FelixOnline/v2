@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - ck806
- - ks607
 highlights:
 ---
 

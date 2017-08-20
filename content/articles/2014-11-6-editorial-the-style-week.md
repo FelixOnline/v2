@@ -16,9 +16,8 @@ tags:
  - imported
  - multi-author
 authors:
- - ff712
  - km2612
- - snb11
+ - ff712
 highlights:
 ---
 

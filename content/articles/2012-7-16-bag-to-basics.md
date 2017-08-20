@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ay310
- - mc4509
 highlights:
  - comment
  - photos

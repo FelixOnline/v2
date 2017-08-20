@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cf107
- - jk708
 highlights:
  - comment
 ---

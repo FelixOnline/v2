@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - extuser0
- - ff712
 highlights:
 ---
 

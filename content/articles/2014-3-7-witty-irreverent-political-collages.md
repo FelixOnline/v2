@@ -14,9 +14,7 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jc7413
 highlights:
  - photos

@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
- - felix
  - vj05
 highlights:
  - comment

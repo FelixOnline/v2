@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - cc3710
  - hc1409
- - ig711
+ - cc3710
 highlights:
 ---
 

@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - ams111
  - lap08
 highlights:
 ---

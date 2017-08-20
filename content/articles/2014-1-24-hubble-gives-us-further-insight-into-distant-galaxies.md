@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jb3112
 highlights:
  - photos

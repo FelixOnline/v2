@@ -19,9 +19,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
- - rsp07
  - tna08
+ - rsp07
 highlights:
  - comment
  - longread

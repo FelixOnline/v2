@@ -14,9 +14,7 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jhi13
 highlights:
 ---

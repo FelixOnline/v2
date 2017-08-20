@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - felart
- - felix
 highlights:
  - photos
 ---

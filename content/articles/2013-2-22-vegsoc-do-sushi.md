@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - felfood
- - tna08
 highlights:
 ---
 

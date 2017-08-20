@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ep1212
- - tna08
 highlights:
 ---
 

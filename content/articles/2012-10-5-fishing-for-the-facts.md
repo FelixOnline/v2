@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - lap08
- - nn1209
 highlights:
 ---
 

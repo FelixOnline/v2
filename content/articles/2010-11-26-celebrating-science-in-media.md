@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ec610
- - ks607
 highlights:
  - longread
 ---

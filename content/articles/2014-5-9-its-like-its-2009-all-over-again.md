@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - jal08
  - sm5810
 highlights:
  - longread

@@ -19,10 +19,9 @@ tags:
  - image
  - multi-author
 authors:
- - ch1810
- - felix
- - ko407
  - tbc09
+ - ch1810
+ - ko407
 highlights:
  - longread
 ---

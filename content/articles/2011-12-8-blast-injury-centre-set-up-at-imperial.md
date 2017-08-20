@@ -20,7 +20,6 @@ tags:
  - multi-author
 authors:
  - ann09
- - pk1811
  - skd09
 highlights:
 ---

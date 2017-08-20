@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fm1810
- - jk708
 highlights:
  - comment
 ---

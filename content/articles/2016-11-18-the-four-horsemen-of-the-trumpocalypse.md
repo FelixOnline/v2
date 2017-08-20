@@ -18,8 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - avirupbanarjee
  - felix
+ - avirupbanarjee
 highlights:
  - longread
  - photos

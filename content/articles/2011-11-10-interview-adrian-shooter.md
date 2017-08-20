@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ay310
- - pk1811
 highlights:
  - comment
  - longread

@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - cac111
  - tna08
 highlights:
  - longread

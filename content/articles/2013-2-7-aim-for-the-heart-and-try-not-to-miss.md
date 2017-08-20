@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - rw507
- - tna08
 highlights:
 ---
 

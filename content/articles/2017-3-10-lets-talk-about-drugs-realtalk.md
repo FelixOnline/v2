@@ -21,8 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - davidcharchoglya
  - felix
+ - davidcharchoglya
 highlights:
  - comment
  - longread

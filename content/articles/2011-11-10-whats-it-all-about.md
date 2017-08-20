@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - felix
- - pk1811
 highlights:
  - photos
 ---

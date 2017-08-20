@@ -19,12 +19,12 @@ tags:
  - image
  - multi-author
 authors:
- - ams111
  - jcw108
- - mml110
- - mtm10
- - pk1811
  - ps3110
+ - ams111
+ - mtm10
+ - mml110
+ - pk1811
 highlights:
  - longread
  - photos

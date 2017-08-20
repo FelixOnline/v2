@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - jsw115
- - ygr12
 highlights:
 ---
 

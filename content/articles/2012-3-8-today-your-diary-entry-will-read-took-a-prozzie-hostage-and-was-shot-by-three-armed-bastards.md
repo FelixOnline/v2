@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - ams111
- - gb610
  - tvfelix
+ - gb610
 highlights:
 ---
 

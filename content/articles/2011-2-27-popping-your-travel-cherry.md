@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - cr709
- - felix
  - yll08
+ - cr709
 highlights:
  - longread
 ---

@@ -24,7 +24,6 @@ tags:
 authors:
  - ad4812
  - bwh12
- - ps3110
  - tr511
 highlights:
  - comment

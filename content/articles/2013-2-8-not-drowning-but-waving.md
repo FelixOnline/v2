@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - hg1010
- - tna08
 highlights:
  - comment
  - longread

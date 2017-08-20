@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - ac1108
- - fa608
  - sjw209
+ - ac1108
 highlights:
 ---
 

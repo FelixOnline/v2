@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cb607
- - felix
 highlights:
 ---
 

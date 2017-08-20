@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - bjv12
- - felix
 highlights:
 ---
 

@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - hm101
- - tna08
 highlights:
  - photos
 ---

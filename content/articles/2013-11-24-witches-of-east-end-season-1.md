@@ -14,9 +14,7 @@ categories:
  - tv
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jgp09
 highlights:
 ---

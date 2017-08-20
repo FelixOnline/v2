@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - aej10
- - cjb07
 highlights:
 ---
 

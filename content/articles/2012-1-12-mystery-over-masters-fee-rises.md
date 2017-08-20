@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - apk06
- - cac111
 highlights:
 ---
 

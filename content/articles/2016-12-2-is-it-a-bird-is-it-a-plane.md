@@ -18,8 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - amywhistlecroft
  - felix
+ - amywhistlecroft
 highlights:
  - photos
 ---

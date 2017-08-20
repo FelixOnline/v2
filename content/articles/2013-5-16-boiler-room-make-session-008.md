@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - js2310
  - me1409
 highlights:
  - photos

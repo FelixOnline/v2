@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - cfc111
- - ps3110
 highlights:
 ---
 

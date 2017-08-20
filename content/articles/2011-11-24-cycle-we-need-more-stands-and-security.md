@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - pk1811
  - sp1007
 highlights:
  - photos

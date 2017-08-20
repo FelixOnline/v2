@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
- - ar707
- - im808
- - pk1811
  - sh1207
+ - im808
+ - ar707
 highlights:
  - photos
 ---

@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - sg808
- - tna08
 highlights:
  - comment
  - photos

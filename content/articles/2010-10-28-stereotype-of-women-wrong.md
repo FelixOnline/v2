@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
- - felix
  - sh1507
 highlights:
  - comment

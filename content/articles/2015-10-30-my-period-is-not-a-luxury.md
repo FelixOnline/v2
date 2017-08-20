@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - vmh14
- - ygr12
 highlights:
  - comment
 ---

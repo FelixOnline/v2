@@ -14,10 +14,8 @@ categories:
  - tech
 tags:
  - imported
- - multi-author
 authors:
  - fa608
- - felix
 highlights:
  - photos
 ---

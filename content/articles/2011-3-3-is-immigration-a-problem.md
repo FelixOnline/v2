@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
- - hcd08
  - tn509
+ - hcd08
 highlights:
  - comment
 ---

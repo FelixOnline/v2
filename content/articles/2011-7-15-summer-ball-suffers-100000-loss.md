@@ -22,7 +22,6 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
  - ks607
  - mc4509
 highlights:

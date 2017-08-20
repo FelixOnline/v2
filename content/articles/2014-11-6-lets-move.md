@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - jgp09
- - snb11
 highlights:
 ---
 

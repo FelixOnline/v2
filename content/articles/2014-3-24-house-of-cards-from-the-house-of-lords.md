@@ -20,7 +20,6 @@ tags:
 authors:
  - adm10
  - dl1910
- - jal08
 highlights:
  - longread
 ---

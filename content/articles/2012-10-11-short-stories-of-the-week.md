@@ -14,9 +14,7 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
- - csw09
  - mh3210
 highlights:
 ---

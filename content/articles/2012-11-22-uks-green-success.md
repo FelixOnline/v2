@@ -14,10 +14,8 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
  - phc11
- - tna08
 highlights:
 ---
 

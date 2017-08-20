@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - at3209
- - mtm10
 highlights:
 ---
 

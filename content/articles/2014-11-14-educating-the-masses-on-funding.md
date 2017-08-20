@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - as906
  - at1913
- - ps3110
+ - as906
 highlights:
  - longread
 ---

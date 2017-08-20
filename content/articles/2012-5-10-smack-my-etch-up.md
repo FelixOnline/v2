@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - pk1811
  - sd2911
 highlights:
  - photos

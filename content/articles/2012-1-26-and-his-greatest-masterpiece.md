@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cr308
- - pk1811
 highlights:
 ---
 

@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - im1413
- - jal08
 highlights:
 ---
 

@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - lp707
- - pk1811
 highlights:
 ---
 

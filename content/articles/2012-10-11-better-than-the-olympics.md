@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - csw09
- - felix
 highlights:
  - comment
 ---

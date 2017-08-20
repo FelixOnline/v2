@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cr709
- - jal08
 highlights:
  - longread
 ---

@@ -19,10 +19,9 @@ tags:
  - image
  - multi-author
 authors:
- - ay310
- - felix
  - lj1409
  - stv07
+ - ay310
 highlights:
  - longread
  - photos

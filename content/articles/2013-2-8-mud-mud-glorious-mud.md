@@ -20,7 +20,6 @@ tags:
 authors:
  - ejt11
  - srk210
- - tna08
 highlights:
  - photos
 ---

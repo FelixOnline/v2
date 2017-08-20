@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - tna08
  - ywc110
 highlights:
 ---

@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - pk1811
  - rb808
 highlights:
 ---

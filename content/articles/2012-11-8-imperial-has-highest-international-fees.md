@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - ar3310
  - mp1412
- - tna08
+ - ar3310
 highlights:
  - photos
 ---

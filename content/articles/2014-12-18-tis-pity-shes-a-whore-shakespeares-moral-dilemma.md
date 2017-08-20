@@ -14,9 +14,7 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
- - ff712
  - jc7413
 highlights:
  - comment

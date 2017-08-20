@@ -19,8 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - cet13
  - jp2512
+ - cet13
 highlights:
  - comment
  - photos

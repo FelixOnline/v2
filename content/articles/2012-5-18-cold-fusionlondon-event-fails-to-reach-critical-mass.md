@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - mc4509
- - rsp07
  - tna08
+ - rsp07
 highlights:
  - comment
  - longread

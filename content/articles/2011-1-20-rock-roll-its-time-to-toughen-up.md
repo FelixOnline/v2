@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - lht09
- - nm1010
 highlights:
 ---
 

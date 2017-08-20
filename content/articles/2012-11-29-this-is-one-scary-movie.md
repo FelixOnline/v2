@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - csw09
  - dp1710
 highlights:
  - photos

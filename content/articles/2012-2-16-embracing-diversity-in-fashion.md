@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ay310
- - jal08
  - mai210
+ - ay310
 highlights:
  - comment
 ---

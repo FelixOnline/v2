@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
- - ig711
  - sf305
 highlights:
  - comment

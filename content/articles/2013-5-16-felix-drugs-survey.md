@@ -21,9 +21,9 @@ tags:
  - imported_comments
  - multi-author
 authors:
+ - rbg10
  - pk1811
  - ps3110
- - rbg10
  - tna08
 highlights:
  - comment

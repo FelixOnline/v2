@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - felart
- - tna08
 highlights:
 ---
 

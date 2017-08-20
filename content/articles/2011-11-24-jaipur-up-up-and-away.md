@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cr709
- - pk1811
 highlights:
  - photos
 ---

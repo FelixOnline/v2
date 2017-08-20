@@ -17,7 +17,6 @@ tags:
  - multi-author
 authors:
  - ff712
- - jyg11
  - km2612
 highlights:
  - longread

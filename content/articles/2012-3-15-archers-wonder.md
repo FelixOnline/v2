@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - ams111
  - pjb108
 highlights:
 ---

@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - lni12
- - tna08
 highlights:
  - comment
  - longread

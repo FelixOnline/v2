@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ap1509
- - felix
 highlights:
  - longread
 ---

@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ck806
- - felix
 highlights:
  - photos
 ---

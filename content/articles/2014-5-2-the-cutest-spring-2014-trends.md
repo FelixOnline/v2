@@ -14,10 +14,8 @@ categories:
  - fashion
 tags:
  - imported
- - multi-author
 authors:
  - czb11
- - jal08
 highlights:
 ---
 

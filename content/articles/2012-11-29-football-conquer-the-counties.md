@@ -20,7 +20,6 @@ tags:
 authors:
  - hg1010
  - oaa411
- - tna08
 highlights:
  - longread
  - photos

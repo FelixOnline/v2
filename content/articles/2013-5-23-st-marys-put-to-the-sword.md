@@ -19,7 +19,6 @@ tags:
  - multi-author
 authors:
  - ar4810
- - tna08
  - yv109
 highlights:
  - photos

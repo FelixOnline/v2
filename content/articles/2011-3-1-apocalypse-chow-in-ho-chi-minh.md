@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - jal08
- - jr1709
  - peq10
+ - jr1709
 highlights:
 ---
 

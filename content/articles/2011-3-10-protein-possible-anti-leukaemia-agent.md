@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - asn210
- - felix
 highlights:
 ---
 

@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - jl807
- - ks607
 highlights:
  - longread
 ---

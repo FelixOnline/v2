@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - mtm10
 highlights:
 ---

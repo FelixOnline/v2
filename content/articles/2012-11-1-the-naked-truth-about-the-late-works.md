@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - as1911
- - mc4509
 highlights:
  - photos
 ---

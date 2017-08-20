@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ejt11
- - felix
 highlights:
  - comment
  - photos

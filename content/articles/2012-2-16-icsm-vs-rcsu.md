@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ak6309
- - pjb09
  - scr07
+ - pjb09
 highlights:
  - comment
  - longread

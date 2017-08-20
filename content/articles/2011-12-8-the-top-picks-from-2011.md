@@ -18,7 +18,6 @@ tags:
 authors:
  - lap08
  - mtc06
- - pk1811
 highlights:
 ---
 

@@ -18,7 +18,6 @@ tags:
  - image
  - multi-author
 authors:
- - jal08
  - jp1910
  - tad08
 highlights:

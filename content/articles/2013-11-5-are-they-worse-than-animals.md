@@ -14,10 +14,8 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
  - cjg111
- - mtm10
 highlights:
 ---
 

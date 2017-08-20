@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - fsci
- - tna08
 highlights:
  - photos
 ---

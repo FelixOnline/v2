@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - nb704
  - sa405
- - sjw209
+ - nb704
 highlights:
 ---
 

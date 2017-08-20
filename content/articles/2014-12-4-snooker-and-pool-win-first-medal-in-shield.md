@@ -22,7 +22,6 @@ tags:
  - multi-author
 authors:
  - agb14
- - cj914
  - rjh11
 highlights:
  - comment

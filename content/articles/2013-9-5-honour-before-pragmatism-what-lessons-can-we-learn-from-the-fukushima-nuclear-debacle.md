@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ejt11
- - jal08
 highlights:
  - comment
  - longread

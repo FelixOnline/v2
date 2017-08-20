@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - felix
- - fma09
  - stv07
+ - fma09
 highlights:
 ---
 

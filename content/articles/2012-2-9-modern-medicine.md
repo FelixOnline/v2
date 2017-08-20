@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - lap08
- - pk1811
 highlights:
 ---
 

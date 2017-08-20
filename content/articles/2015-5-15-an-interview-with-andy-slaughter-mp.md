@@ -21,8 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - jr
  - jr2514
+ - jr
 highlights:
  - comment
  - longread

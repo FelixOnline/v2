@@ -14,10 +14,8 @@ categories:
  - features
 tags:
  - imported
- - multi-author
 authors:
  - frh10
- - jal08
 highlights:
  - longread
 ---

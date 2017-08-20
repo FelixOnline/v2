@@ -14,9 +14,7 @@ categories:
  - music
 tags:
  - imported
- - multi-author
 authors:
- - ff712
  - ygr12
 highlights:
  - photos

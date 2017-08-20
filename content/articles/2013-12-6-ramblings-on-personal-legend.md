@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - ejt11
- - jal08
 highlights:
  - photos
 ---

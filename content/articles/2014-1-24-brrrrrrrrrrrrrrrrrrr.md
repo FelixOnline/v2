@@ -14,9 +14,7 @@ categories:
  - film
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - jgp09
 highlights:
  - photos

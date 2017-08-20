@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - jal08
  - sg4812
 highlights:
  - comment

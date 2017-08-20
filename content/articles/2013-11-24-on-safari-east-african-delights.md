@@ -14,9 +14,7 @@ categories:
  - travel
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - ps3410
 highlights:
 ---

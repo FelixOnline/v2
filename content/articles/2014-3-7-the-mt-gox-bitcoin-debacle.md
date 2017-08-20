@@ -14,9 +14,7 @@ categories:
  - tech
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - ywc110
 highlights:
 ---

@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - rtf08
 highlights:
 ---

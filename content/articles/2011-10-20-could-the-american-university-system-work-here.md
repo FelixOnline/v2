@@ -19,9 +19,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ak6309
  - ann09
- - sjw209
+ - ak6309
 highlights:
  - comment
  - longread

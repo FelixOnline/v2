@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
- - tna08
  - ykm09
 highlights:
  - comment

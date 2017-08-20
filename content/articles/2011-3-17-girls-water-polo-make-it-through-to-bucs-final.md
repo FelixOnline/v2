@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - ac4610
- - felix
 highlights:
 ---
 

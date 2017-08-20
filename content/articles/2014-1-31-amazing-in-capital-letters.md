@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - cfc111
- - jal08
 highlights:
  - photos
 ---

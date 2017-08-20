@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - kmw13
  - ps3110
 highlights:
  - comment

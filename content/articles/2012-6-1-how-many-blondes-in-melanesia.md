@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - mc4509
  - rt1810
 highlights:
 ---

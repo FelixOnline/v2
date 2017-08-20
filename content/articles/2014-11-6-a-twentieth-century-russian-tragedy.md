@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - ml2510
- - snb11
 highlights:
 ---
 

@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - pa07
- - ps3110
 highlights:
  - comment
 ---

@@ -20,7 +20,6 @@ tags:
 authors:
  - is1311
  - ps3411
- - tna08
 highlights:
  - longread
 ---

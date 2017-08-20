@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - mk3211
  - rm1711
- - tna08
+ - mk3211
 highlights:
  - comment
  - photos

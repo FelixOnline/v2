@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - ss6012
- - tna08
 highlights:
  - photos
 ---

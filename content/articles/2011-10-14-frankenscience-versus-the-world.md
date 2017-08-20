@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - fcomment
- - tna08
 highlights:
  - photos
 ---

@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - jyg11
  - pr1414
 highlights:
  - comment

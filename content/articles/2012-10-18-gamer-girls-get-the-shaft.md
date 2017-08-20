@@ -14,9 +14,7 @@ categories:
  - games
 tags:
  - imported
- - multi-author
 authors:
- - csw09
  - mb1111
 highlights:
  - longread

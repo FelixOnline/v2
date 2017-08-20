@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - csw09
  - phc11
 highlights:
  - photos

@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ch1810
- - felix
  - ko407
+ - ch1810
 highlights:
  - comment
  - longread

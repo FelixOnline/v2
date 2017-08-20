@@ -14,10 +14,8 @@ categories:
  - games
 tags:
  - imported
- - multi-author
 authors:
  - css11
- - me1711
 highlights:
 ---
 

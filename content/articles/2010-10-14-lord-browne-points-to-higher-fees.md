@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
+ - rtf08
  - ak6309
  - ap1310
- - felix
- - rtf08
 highlights:
  - longread
 ---

@@ -21,7 +21,6 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
  - mc4509
  - sjw209
 highlights:

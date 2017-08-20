@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
- - kmw13
- - pk1811
  - ps3110
  - txl11
+ - kmw13
 highlights:
  - longread
 ---

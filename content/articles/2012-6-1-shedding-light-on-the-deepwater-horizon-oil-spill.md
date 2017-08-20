@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fm810
- - mc4509
 highlights:
 ---
 

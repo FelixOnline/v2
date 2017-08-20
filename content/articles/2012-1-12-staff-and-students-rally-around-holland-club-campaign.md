@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - ks607
  - ma1307
 highlights:
  - comment

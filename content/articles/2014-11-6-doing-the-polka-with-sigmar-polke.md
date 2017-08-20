@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - kr812
- - snb11
 highlights:
 ---
 

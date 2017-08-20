@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - as3509
- - felix
 highlights:
 ---
 

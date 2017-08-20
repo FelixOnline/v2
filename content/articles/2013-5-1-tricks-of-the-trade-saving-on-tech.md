@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - tecfelix
- - tna08
 highlights:
 ---
 

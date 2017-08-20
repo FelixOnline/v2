@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
- - mc4509
  - tna08
+ - mc4509
 highlights:
  - comment
  - photos

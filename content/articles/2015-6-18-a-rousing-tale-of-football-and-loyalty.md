@@ -14,9 +14,7 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
- - jyg11
  - ps5714
 highlights:
 ---

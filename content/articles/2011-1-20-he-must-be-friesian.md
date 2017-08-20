@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - erb09
- - felix
 highlights:
  - comment
 ---

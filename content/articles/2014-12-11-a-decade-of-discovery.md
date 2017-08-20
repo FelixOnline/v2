@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - baf12
- - cj914
 highlights:
  - comment
  - longread

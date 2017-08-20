@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - pt1114
- - ygr12
 highlights:
 ---
 

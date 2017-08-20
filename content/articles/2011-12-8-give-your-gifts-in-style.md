@@ -16,9 +16,8 @@ tags:
  - imported
  - multi-author
 authors:
- - ay310
- - mc4509
  - stv07
+ - ay310
 highlights:
  - photos
 ---

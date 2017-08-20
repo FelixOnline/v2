@@ -14,10 +14,8 @@ categories:
  - food
 tags:
  - imported
- - multi-author
 authors:
  - emann
- - felix
 highlights:
 ---
 

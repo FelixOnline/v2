@@ -14,9 +14,7 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - rtf08
 highlights:
  - longread

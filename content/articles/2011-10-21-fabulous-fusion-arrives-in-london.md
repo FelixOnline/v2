@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - extuser0
- - felix
 highlights:
  - comment
 ---

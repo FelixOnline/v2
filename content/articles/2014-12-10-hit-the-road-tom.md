@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - bwh12
- - eg1212
  - jh6512
+ - eg1212
 highlights:
  - comment
 ---

@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - elizabethcrow
- - tna08
 highlights:
 ---
 

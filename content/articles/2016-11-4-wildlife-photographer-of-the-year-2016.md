@@ -18,8 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - georgebrooks14
  - mw4414
+ - georgebrooks14
 highlights:
  - longread
  - photos

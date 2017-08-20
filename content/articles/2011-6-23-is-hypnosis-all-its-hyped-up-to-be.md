@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - cjb07
  - cr610
 highlights:
 ---

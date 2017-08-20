@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - ms4110
 highlights:
  - photos

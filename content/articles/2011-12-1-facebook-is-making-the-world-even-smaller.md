@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - ak6309
- - ams111
 highlights:
 ---
 

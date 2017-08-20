@@ -14,9 +14,7 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - nv
 highlights:
  - longread

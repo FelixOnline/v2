@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - dt1209
- - sjw209
 highlights:
  - comment
 ---

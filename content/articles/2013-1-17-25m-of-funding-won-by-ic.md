@@ -14,10 +14,8 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
  - nm708
- - tna08
 highlights:
 ---
 

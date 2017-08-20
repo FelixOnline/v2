@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - tad08
- - tna08
 highlights:
 ---
 

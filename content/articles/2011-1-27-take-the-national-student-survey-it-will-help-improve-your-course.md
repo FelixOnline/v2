@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - ad1007
- - ks607
 highlights:
 ---
 

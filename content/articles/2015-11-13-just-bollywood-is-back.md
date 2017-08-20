@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - tg1812
- - ygr12
 highlights:
 ---
 

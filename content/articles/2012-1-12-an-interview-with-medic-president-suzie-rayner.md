@@ -19,7 +19,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - klb09
  - mg2109
 highlights:

@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - bc1209
- - felix
 highlights:
  - longread
 ---

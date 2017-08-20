@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - cac111
- - pk1811
  - ps3110
+ - cac111
 highlights:
  - longread
 ---

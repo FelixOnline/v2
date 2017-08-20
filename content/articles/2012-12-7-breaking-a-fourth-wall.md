@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - eb1408
- - tna08
 highlights:
  - photos
 ---

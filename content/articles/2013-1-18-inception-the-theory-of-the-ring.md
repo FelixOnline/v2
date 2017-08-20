@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ld709
- - tna08
 highlights:
  - comment
  - longread

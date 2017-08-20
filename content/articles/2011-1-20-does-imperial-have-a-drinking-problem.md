@@ -22,10 +22,9 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ar3310
- - felix
- - ks607
  - mc4509
+ - ar3310
+ - ks607
 highlights:
  - comment
  - longread

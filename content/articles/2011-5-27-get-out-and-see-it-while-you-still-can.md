@@ -14,10 +14,8 @@ categories:
  - travel
 tags:
  - imported
- - multi-author
 authors:
  - cr709
- - felix
 highlights:
 ---
 

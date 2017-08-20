@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - er310
- - ig711
 highlights:
  - photos
 ---

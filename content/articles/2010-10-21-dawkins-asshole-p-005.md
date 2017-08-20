@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ak2008
- - felix
 highlights:
  - comment
  - photos

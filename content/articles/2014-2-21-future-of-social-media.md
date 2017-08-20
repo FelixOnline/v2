@@ -14,9 +14,7 @@ categories:
  - tech
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - oa1612
 highlights:
 ---

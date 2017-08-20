@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - pk1811
  - ywc110
 highlights:
 ---

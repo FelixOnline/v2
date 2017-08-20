@@ -14,10 +14,8 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
  - er310
- - felix
 highlights:
 ---
 

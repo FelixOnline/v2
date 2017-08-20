@@ -23,7 +23,6 @@ tags:
 authors:
  - dp912
  - ps3410
- - tna08
 highlights:
  - comment
  - longread

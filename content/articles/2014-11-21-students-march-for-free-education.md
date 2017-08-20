@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - kmw13
- - ps3110
 highlights:
 ---
 

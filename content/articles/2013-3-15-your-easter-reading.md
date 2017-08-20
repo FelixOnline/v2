@@ -14,10 +14,8 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
  - mtm10
- - tna08
 highlights:
  - photos
 ---

@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - cj914
  - gg2110
 highlights:
  - comment

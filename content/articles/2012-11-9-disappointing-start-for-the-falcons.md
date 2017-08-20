@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - bs2010
- - tna08
 highlights:
 ---
 

@@ -14,10 +14,8 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
  - pres
- - tna08
 highlights:
 ---
 

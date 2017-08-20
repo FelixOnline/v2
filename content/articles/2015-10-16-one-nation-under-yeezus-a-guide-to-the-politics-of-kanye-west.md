@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cet13
- - ygr12
 highlights:
  - comment
  - longread

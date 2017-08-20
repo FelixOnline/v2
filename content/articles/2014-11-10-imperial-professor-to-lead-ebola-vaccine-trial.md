@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - czb11
- - ps3110
 highlights:
 ---
 

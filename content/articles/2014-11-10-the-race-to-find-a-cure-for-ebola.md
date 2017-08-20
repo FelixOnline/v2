@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - kyc413
- - ps3110
 highlights:
 ---
 

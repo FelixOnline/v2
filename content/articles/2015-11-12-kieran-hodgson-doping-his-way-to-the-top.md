@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - mff113
- - ygr12
 highlights:
 ---
 

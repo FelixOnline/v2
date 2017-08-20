@@ -14,9 +14,7 @@ categories:
  - travel
 tags:
  - imported
- - multi-author
 authors:
- - ks607
  - pg405
 highlights:
 ---

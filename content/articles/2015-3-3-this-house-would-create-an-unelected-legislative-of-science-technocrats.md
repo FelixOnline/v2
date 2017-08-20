@@ -19,9 +19,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - amc313
  - nj1211
- - pk1811
+ - amc313
 highlights:
  - comment
 ---

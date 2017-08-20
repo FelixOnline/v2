@@ -22,10 +22,9 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ak6309
- - felix
  - mtm10
  - nn1209
+ - ak6309
 highlights:
  - comment
  - longread

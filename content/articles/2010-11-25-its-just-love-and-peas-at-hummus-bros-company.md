@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - chy09
- - felix
 highlights:
 ---
 

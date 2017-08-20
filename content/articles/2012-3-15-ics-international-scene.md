@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - pk1811
  - we208
 highlights:
  - longread

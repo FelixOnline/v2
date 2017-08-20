@@ -14,10 +14,8 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
  - ejt11
- - jal08
 highlights:
  - longread
 ---

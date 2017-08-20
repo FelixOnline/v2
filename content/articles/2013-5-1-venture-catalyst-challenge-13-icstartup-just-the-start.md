@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - csw09
- - pk1811
 highlights:
  - comment
  - longread

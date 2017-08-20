@@ -14,9 +14,7 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
- - mc4509
  - ohb09
 highlights:
 ---

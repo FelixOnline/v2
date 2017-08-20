@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cfc111
- - cj914
 highlights:
 ---
 

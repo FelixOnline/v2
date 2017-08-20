@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - ed812
- - felix
 highlights:
  - photos
 ---

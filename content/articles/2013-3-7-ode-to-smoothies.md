@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - aeg09
  - jb408
- - sjw209
+ - aeg09
 highlights:
 ---
 

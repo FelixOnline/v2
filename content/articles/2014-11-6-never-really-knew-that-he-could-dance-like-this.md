@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - bwh12
  - ym1210
 highlights:
  - comment

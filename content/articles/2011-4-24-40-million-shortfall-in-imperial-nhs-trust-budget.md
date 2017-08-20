@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - bs2610
- - felix
 highlights:
  - comment
 ---

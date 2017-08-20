@@ -14,10 +14,8 @@ categories:
  - games
 tags:
  - imported
- - multi-author
 authors:
  - jdd11
- - snb11
 highlights:
  - comment
 ---

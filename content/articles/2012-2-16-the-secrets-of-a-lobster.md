@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ae1409
- - ams111
 highlights:
 ---
 

@@ -20,7 +20,6 @@ tags:
  - multi-author
 authors:
  - mz1309
- - pk1811
  - reh11
 highlights:
  - longread

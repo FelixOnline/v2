@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fsport
- - tna08
 highlights:
  - photos
 ---

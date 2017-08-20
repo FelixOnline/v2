@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - bs2610
- - felix
 highlights:
  - comment
 ---

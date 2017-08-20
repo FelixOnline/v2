@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - nj1211
- - tna08
 highlights:
 ---
 

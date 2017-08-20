@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - apk06
- - felix
 highlights:
  - comment
 ---

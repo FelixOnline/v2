@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - csw09
  - rs1209
 highlights:
 ---

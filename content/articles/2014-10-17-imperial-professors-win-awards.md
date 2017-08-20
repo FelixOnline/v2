@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - kmw13
  - pk1811
 highlights:
 ---

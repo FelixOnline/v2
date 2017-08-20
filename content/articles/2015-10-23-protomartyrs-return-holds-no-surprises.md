@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - he915
- - ygr12
 highlights:
 ---
 

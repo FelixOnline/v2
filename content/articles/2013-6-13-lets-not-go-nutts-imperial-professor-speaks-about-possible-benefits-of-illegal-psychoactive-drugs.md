@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ps3110
- - tna08
 highlights:
  - comment
  - photos

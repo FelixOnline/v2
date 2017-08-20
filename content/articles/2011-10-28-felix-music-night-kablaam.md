@@ -18,7 +18,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - im808
  - ks607
 highlights:

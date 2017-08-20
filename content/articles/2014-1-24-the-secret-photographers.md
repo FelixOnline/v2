@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - ff712
- - jal08
 highlights:
 ---
 

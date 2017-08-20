@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ial08
- - sjw209
 highlights:
  - comment
 ---

@@ -22,11 +22,10 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - dr710
- - felix
  - klb09
  - mc4509
  - nn1209
+ - dr710
 highlights:
  - comment
  - longread

@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - jmoscoso
- - mc4509
 highlights:
 ---
 

@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - mk4410
- - sjw209
 highlights:
 ---
 

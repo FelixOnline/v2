@@ -21,9 +21,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - tna08
  - ywc110
 highlights:
  - comment

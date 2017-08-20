@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cr709
- - jk708
 highlights:
  - longread
  - photos

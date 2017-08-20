@@ -14,9 +14,7 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - kr1512
 highlights:
  - longread

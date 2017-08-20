@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - rjd08
- - tna08
 highlights:
  - longread
 ---

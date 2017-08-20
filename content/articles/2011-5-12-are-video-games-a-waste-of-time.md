@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - lap08
  - oh106
- - sjw209
+ - lap08
 highlights:
  - comment
  - longread

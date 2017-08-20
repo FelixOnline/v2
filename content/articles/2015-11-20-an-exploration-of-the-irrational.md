@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ma7512
- - ygr12
 highlights:
  - comment
  - photos

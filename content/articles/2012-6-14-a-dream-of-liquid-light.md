@@ -14,10 +14,8 @@ categories:
  - phoenix
 tags:
  - imported
- - multi-author
 authors:
  - extuser0
- - pk1811
 highlights:
  - longread
  - photos

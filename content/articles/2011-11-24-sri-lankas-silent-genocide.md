@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - icanon
- - ygr12
 highlights:
  - comment
  - longread

@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - ac1507
  - rjd08
 highlights:
  - comment

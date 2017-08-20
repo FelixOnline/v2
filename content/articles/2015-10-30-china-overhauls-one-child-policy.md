@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - js5913
- - ygr12
 highlights:
 ---
 

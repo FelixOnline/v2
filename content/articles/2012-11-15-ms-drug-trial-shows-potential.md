@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - njk12
- - tna08
 highlights:
 ---
 

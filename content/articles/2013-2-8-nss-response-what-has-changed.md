@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - tna08
  - yn711
 highlights:
  - longread

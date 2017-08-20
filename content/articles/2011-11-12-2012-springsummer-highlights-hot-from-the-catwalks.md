@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - ay310
- - felix
  - stv07
+ - ay310
 highlights:
  - longread
 ---

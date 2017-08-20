@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - ck2513
- - jal08
 highlights:
  - longread
 ---

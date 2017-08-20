@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cj914
- - ps3110
 highlights:
  - comment
 ---

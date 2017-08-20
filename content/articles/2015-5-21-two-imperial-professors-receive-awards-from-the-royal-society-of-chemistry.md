@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - kmw13
  - pnk14
 highlights:
  - comment

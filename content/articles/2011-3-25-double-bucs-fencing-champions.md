@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cl3510
- - felix
 highlights:
  - comment
 ---

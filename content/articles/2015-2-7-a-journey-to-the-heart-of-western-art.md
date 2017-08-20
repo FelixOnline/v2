@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - bjv12
- - ps3110
 highlights:
 ---
 

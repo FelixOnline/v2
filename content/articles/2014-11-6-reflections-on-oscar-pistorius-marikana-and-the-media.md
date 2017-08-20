@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - ck2513
- - snb11
 highlights:
  - comment
 ---

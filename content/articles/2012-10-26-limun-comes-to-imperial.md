@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fh1009
- - tna08
 highlights:
  - longread
 ---

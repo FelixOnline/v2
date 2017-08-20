@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - arc111
- - mc4509
 highlights:
  - comment
 ---

@@ -18,7 +18,6 @@ tags:
  - image
  - multi-author
 authors:
- - jp1409
  - me1711
  - tecfelix
 highlights:

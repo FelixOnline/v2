@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cr709
- - ync111
 highlights:
  - comment
  - longread

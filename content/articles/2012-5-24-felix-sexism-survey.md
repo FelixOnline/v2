@@ -21,11 +21,11 @@ tags:
  - imported_comments
  - multi-author
 authors:
+ - mh3210
+ - sa4110
+ - pk1811
  - jk708
  - mc4509
- - mh3210
- - pk1811
- - sa4110
 highlights:
  - comment
 ---

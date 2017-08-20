@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
- - felix
+ - skd09
  - klb09
  - mc4509
- - skd09
 highlights:
  - longread
 ---

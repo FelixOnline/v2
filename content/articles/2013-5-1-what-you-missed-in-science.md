@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - fsci
  - ps3110
- - tna08
+ - fsci
 highlights:
  - comment
  - photos

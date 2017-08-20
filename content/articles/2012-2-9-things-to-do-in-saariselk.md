@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - sjw209
  - va208
 highlights:
  - longread

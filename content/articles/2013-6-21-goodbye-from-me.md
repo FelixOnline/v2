@@ -19,9 +19,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
- - jal08
  - tna08
+ - felix
 highlights:
  - comment
  - longread

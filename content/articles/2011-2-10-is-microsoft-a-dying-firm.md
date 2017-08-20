@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - csl209
- - felix
 highlights:
  - longread
 ---

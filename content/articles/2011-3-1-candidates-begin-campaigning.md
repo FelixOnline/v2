@@ -20,7 +20,6 @@ tags:
  - multi-author
 authors:
  - ar3310
- - felix
  - mtm10
 highlights:
 ---

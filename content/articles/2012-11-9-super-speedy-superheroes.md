@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - srk210
- - tna08
 highlights:
 ---
 

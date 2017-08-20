@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ejt11
  - mp1412
- - tna08
+ - ejt11
 highlights:
  - comment
  - longread

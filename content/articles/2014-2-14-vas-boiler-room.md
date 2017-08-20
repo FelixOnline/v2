@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - ep1212
- - felix
 highlights:
  - photos
 ---

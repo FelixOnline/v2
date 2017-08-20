@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - jk708
- - mjp109
  - tn509
+ - mjp109
 highlights:
  - comment
  - longread

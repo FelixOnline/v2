@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - lap08
- - pk1811
 highlights:
  - comment
  - photos

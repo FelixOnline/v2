@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - ec610
- - jk708
  - klb09
+ - ec610
 highlights:
  - comment
  - longread

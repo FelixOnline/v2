@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - dr710
- - felix
  - gch10
+ - dr710
 highlights:
  - comment
  - photos

@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - cmt09
- - jal08
 highlights:
 ---
 

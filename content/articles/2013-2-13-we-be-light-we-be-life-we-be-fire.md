@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - lem08
- - tna08
 highlights:
  - photos
 ---

@@ -14,10 +14,8 @@ categories:
  - comment
 tags:
  - imported
- - multi-author
 authors:
  - db1308
- - pk1811
 highlights:
 ---
 

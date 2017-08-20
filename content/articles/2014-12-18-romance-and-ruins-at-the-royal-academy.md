@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - mff113
- - ps3110
 highlights:
  - photos
 ---

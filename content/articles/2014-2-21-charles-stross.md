@@ -14,9 +14,7 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
- - felix
  - jh3211
 highlights:
  - longread

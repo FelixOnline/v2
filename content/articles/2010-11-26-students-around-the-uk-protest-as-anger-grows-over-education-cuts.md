@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - felix
- - kjs10
  - oar09
+ - kjs10
 highlights:
 ---
 

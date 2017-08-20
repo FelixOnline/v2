@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - arj212
- - jal08
 highlights:
  - photos
 ---

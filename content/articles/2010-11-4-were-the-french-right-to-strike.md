@@ -22,7 +22,6 @@ tags:
  - multi-author
 authors:
  - cb403
- - felix
  - sf305
 highlights:
  - comment

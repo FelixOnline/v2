@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - cc3710
  - hc1409
- - pk1811
+ - cc3710
 highlights:
  - comment
 ---

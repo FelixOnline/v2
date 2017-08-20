@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - mak210
- - ygr12
 highlights:
 ---
 

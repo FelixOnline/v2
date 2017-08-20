@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - jk708
- - mc4509
  - nn1209
+ - mc4509
 highlights:
 ---
 

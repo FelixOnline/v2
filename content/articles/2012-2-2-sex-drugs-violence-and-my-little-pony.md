@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - sff10
- - sjw209
 highlights:
  - comment
 ---

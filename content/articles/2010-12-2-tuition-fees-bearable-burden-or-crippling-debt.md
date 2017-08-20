@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - lc107
- - mc4509
  - oar09
+ - mc4509
 highlights:
  - longread
 ---

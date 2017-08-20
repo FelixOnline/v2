@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - icanon
- - pk1811
 highlights:
  - longread
 ---

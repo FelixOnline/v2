@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - feh09
- - sjw209
 highlights:
  - comment
  - photos

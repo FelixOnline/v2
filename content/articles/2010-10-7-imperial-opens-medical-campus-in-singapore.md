@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ah2208
- - felix
 highlights:
  - comment
 ---

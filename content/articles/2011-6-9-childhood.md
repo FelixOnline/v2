@@ -14,9 +14,7 @@ categories:
  - phoenix
 tags:
  - imported
- - multi-author
 authors:
- - cjb07
  - zvarga
 highlights:
  - photos

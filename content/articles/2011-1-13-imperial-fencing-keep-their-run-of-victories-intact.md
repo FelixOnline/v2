@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - cl3510
- - felix
 highlights:
 ---
 

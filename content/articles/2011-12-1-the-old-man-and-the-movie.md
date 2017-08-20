@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - cb403
- - pk1811
 highlights:
 ---
 

@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - felix
- - hgs07
  - ma1007
+ - hgs07
 highlights:
 ---
 

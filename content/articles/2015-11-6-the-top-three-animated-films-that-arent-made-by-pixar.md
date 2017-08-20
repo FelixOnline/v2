@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - bsc14
- - ygr12
 highlights:
  - comment
 ---

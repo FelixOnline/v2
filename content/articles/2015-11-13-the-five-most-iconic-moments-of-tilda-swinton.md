@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ff712
- - ygr12
 highlights:
  - comment
  - longread

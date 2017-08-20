@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - ooa110
- - sjw209
 highlights:
 ---
 

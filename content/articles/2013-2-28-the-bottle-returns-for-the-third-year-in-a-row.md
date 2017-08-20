@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - sc3610
- - tna08
 highlights:
  - comment
  - photos

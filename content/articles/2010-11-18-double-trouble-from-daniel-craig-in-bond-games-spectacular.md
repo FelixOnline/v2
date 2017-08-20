@@ -19,7 +19,6 @@ tags:
  - multi-author
 authors:
  - aeg09
- - felix
  - jtg09
  - mc4509
 highlights:

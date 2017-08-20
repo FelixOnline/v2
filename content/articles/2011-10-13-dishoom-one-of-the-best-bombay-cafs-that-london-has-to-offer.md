@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - ae1409
  - mk4410
- - sjw209
+ - ae1409
 highlights:
 ---
 

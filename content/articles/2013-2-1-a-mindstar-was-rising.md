@@ -14,10 +14,8 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
  - as906
- - tna08
 highlights:
 ---
 

@@ -14,10 +14,8 @@ categories:
  - arts
 tags:
  - imported
- - multi-author
 authors:
  - cet13
- - ff712
 highlights:
  - longread
  - photos

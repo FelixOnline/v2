@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - otu111
- - tna08
 highlights:
  - photos
 ---

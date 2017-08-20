@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - kmw13
  - ohb09
 highlights:
  - comment

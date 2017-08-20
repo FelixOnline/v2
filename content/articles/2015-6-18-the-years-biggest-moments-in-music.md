@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - jyg11
  - ygr12
 highlights:
  - longread

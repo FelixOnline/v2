@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - adb111
- - ps3110
 highlights:
 ---
 

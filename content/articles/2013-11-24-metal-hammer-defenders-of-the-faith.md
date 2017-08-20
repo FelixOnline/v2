@@ -14,9 +14,7 @@ categories:
  - music
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - th2212
 highlights:
  - photos

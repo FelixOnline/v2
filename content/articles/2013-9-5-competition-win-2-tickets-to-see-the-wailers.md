@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fmusic
- - jal08
 highlights:
 ---
 

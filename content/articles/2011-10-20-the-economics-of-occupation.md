@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
- - ks607
  - rtf08
+ - ks607
 highlights:
  - comment
  - longread

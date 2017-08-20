@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - ae1409
- - felix
 highlights:
 ---
 

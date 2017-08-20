@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - baf12
  - ps2612
- - ygr12
+ - baf12
 highlights:
  - comment
  - longread

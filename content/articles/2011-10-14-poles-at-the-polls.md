@@ -19,7 +19,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - pdf08
  - rj408
 highlights:

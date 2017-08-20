@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - felix
- - gp1510
  - io709
+ - gp1510
 highlights:
 ---
 

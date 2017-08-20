@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - arp111
- - mc4509
 highlights:
 ---
 

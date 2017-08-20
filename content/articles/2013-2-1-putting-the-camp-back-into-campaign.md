@@ -21,7 +21,6 @@ tags:
 authors:
  - cmt09
  - er310
- - tna08
 highlights:
  - longread
 ---

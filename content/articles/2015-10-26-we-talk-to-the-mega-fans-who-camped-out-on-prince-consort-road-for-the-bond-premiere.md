@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - pnk14
- - ygr12
 highlights:
  - comment
 ---

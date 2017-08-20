@@ -18,8 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - maxmoynan
  - rhidianthomas
+ - maxmoynan
 highlights:
 ---
 

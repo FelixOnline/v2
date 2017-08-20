@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - idb10
- - mc4509
 highlights:
  - comment
 ---

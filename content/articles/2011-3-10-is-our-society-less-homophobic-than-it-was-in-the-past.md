@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - cs2309
- - felix
  - sh1308
+ - cs2309
 highlights:
  - comment
  - longread

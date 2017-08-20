@@ -19,9 +19,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - mc4509
  - ym1210
 highlights:
  - comment

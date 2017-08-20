@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - sb6213
- - ygr12
 highlights:
  - comment
  - longread

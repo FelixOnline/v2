@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - al1913
- - ygr12
 highlights:
 ---
 

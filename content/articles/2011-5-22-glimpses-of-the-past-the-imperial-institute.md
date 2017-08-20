@@ -21,9 +21,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
- - gda07
  - ks607
+ - gda07
 highlights:
  - comment
  - photos

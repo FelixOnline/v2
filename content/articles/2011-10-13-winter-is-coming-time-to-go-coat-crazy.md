@@ -14,10 +14,8 @@ categories:
  - fashion
 tags:
  - imported
- - multi-author
 authors:
  - ay310
- - felix
 highlights:
  - photos
 ---

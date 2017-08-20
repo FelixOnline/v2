@@ -22,7 +22,6 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
  - jal08
  - rtf08
 highlights:

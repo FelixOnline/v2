@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
- - an406
- - felix
- - ghc07
  - jl4310
+ - an406
+ - ghc07
 highlights:
 ---
 

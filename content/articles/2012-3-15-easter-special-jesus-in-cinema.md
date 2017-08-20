@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - ams111
- - jgp09
  - lw408
+ - jgp09
 highlights:
 ---
 

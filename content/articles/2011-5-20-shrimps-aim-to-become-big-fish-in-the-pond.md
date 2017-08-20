@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - acj06
- - felix
 highlights:
 ---
 

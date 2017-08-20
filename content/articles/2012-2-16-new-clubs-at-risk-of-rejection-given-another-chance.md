@@ -14,9 +14,7 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
- - sjw209
  - skd09
 highlights:
 ---

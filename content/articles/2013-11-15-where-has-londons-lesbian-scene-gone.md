@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cnm08
- - felix
 highlights:
  - comment
 ---

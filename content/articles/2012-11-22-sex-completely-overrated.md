@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ch3211
- - lap08
 highlights:
 ---
 

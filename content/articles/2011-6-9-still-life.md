@@ -16,7 +16,6 @@ tags:
  - imported
  - multi-author
 authors:
- - cjb07
  - irb10
  - mrc09
  - rm2410

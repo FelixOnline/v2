@@ -14,9 +14,7 @@ categories:
  - music
 tags:
  - imported
- - multi-author
 authors:
- - tna08
  - ym1210
 highlights:
 ---

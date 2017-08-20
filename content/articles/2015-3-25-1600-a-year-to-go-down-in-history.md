@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cfc111
- - ff712
 highlights:
  - comment
  - photos

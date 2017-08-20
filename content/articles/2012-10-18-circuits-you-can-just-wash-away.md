@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - csw09
  - pk1811
 highlights:
  - photos

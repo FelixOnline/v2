@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - nf311
- - ps3110
 highlights:
 ---
 

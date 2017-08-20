@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - imported_comments
- - multi-author
 authors:
  - eeb109
- - felix
 highlights:
  - comment
  - photos

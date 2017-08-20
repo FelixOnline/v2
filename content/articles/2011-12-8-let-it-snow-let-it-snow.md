@@ -19,8 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - ak6309
  - ko407
+ - ak6309
 highlights:
  - longread
 ---

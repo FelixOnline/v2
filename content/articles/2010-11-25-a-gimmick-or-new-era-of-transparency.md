@@ -14,10 +14,8 @@ categories:
  - politics
 tags:
  - imported
- - multi-author
 authors:
  - hj408
- - nm1010
 highlights:
 ---
 

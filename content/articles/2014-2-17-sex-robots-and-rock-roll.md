@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - jal08
  - wh1013
 highlights:
 ---

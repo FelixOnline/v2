@@ -14,9 +14,7 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
- - pk1811
  - sk9011
 highlights:
 ---

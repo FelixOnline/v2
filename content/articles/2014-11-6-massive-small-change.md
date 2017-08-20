@@ -19,7 +19,6 @@ tags:
  - image
  - multi-author
 authors:
- - cj914
  - msb212
  - sg4812
 highlights:

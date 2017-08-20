@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - jgp09
  - lw408
- - mc4509
+ - jgp09
 highlights:
  - longread
 ---

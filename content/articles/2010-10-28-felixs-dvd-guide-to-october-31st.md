@@ -18,10 +18,9 @@ tags:
  - image
  - multi-author
 authors:
- - cr709
- - jk708
- - ma1307
  - oc07
+ - cr709
+ - ma1307
 highlights:
 ---
 

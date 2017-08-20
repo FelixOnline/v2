@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - kmw13
  - txl11
 highlights:
  - comment

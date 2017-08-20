@@ -21,7 +21,6 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - felix
  - mtm10
  - skd09
  - za710

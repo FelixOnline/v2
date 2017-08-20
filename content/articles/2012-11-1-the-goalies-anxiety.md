@@ -14,9 +14,7 @@ categories:
  - books
 tags:
  - imported
- - multi-author
 authors:
- - csw09
  - felart
 highlights:
 ---

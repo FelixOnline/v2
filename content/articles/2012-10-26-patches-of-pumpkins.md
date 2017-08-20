@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - srg109
- - tna08
 highlights:
  - photos
 ---

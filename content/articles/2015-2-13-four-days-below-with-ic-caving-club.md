@@ -17,9 +17,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - bwh12
  - tr1813
 highlights:
 ---

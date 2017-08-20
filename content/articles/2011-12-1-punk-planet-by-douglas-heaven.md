@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fmusic
- - pk1811
 highlights:
 ---
 

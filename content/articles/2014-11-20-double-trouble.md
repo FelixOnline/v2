@@ -15,9 +15,7 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
- - cj914
  - hdl14
 highlights:
  - longread

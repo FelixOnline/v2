@@ -23,9 +23,9 @@ tags:
 authors:
  - cet13
  - felix
- - tad0
  - tad08
  - ygr12
+ - tad0
 highlights:
  - comment
  - photos

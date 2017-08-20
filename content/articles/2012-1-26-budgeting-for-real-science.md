@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fgames
- - pk1811
 highlights:
 ---
 

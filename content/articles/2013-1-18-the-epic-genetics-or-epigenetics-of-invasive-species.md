@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - frh10
- - tna08
 highlights:
 ---
 

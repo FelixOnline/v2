@@ -14,10 +14,8 @@ categories:
  - sport
 tags:
  - imported
- - multi-author
 authors:
  - fsci
- - tna08
 highlights:
 ---
 

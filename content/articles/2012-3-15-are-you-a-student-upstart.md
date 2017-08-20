@@ -14,9 +14,7 @@ categories:
  - business
 tags:
  - imported
- - multi-author
 authors:
- - pk1811
  - ps6110
 highlights:
 ---

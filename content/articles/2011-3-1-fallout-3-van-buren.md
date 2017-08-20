@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - dt1209
- - sjw209
 highlights:
 ---
 

@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - jal08
- - sw2711
  - zs1210
+ - sw2711
 highlights:
 ---
 

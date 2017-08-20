@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - me1711
  - ss9011
 highlights:
 ---

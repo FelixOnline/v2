@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - cmt09
  - fm609
- - tna08
+ - cmt09
 highlights:
 ---
 

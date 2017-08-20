@@ -18,7 +18,6 @@ tags:
  - image
  - multi-author
 authors:
- - felix
  - jb307
  - nf609
 highlights:

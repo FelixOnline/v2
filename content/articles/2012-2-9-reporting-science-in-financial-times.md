@@ -18,9 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - bg310
- - felix
  - nk506
+ - bg310
 highlights:
  - longread
 ---

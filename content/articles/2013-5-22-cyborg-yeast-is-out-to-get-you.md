@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - jh3609
- - tna08
 highlights:
 ---
 

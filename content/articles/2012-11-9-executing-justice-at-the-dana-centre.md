@@ -14,10 +14,8 @@ categories:
  - science
 tags:
  - imported
- - multi-author
 authors:
  - lwl09
- - tna08
 highlights:
 ---
 

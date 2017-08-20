@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - lap08
- - mc4509
 highlights:
  - comment
 ---

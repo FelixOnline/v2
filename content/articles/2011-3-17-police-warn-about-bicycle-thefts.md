@@ -14,10 +14,8 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
  - ann09
- - felix
 highlights:
  - photos
 ---

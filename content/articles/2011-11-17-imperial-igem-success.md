@@ -19,9 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - cmc111
  - es3311
- - felix
+ - cmc111
 highlights:
 ---
 

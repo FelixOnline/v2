@@ -14,10 +14,8 @@ categories:
  - news
 tags:
  - imported
- - multi-author
 authors:
  - io709
- - tna08
 highlights:
  - photos
 ---

@@ -20,7 +20,6 @@ tags:
  - multi-author
 authors:
  - csw09
- - felix
  - tna08
 highlights:
  - comment

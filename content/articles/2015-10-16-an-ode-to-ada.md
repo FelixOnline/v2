@@ -19,10 +19,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - ea3211
- - ygr12
 highlights:
  - comment
 ---

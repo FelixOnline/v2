@@ -20,9 +20,7 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
- - jyg11
  - ps3110
 highlights:
  - comment

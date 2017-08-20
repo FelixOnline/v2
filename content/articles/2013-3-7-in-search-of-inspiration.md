@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - stv07
- - tna08
 highlights:
  - comment
 ---

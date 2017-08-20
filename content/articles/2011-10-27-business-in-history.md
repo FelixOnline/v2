@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - bg310
- - felix
 highlights:
  - longread
 ---

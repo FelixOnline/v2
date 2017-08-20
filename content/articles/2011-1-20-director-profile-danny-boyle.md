@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - egk08
- - ks607
 highlights:
 ---
 

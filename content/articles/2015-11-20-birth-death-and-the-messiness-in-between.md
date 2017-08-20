@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - ed812
- - ygr12
 highlights:
 ---
 

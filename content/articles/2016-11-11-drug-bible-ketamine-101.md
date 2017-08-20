@@ -18,8 +18,8 @@ tags:
  - image
  - multi-author
 authors:
- - catfelix
  - felix
+ - catfelix
 highlights:
  - photos
 ---

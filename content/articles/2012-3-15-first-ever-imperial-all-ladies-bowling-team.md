@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - fsport
- - pk1811
 highlights:
 ---
 

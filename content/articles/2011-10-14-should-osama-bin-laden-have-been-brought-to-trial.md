@@ -20,7 +20,6 @@ tags:
 authors:
  - em208
  - jrc309
- - sjw209
 highlights:
  - longread
  - photos

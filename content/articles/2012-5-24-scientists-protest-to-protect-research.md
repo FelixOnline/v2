@@ -16,9 +16,7 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
- - mc4509
  - skd09
 highlights:
 ---

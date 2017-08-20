@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - stv07
- - tna08
 highlights:
 ---
 

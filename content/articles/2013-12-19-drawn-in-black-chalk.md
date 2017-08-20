@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - he113
- - mtm10
 highlights:
  - longread
  - photos

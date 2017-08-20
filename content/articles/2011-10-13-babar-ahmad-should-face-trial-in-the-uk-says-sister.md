@@ -23,7 +23,6 @@ tags:
  - multi-author
 authors:
  - ar3310
- - felix
  - nn1209
 highlights:
  - comment

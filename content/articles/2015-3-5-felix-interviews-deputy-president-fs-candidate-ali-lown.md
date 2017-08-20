@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - felixteam
- - ps3110
 highlights:
  - comment
 ---

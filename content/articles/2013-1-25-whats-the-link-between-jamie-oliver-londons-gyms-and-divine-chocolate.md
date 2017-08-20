@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - csw09
- - tna08
 highlights:
  - longread
  - photos

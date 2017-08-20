@@ -14,10 +14,8 @@ categories:
  - film
 tags:
  - imported
- - multi-author
 authors:
  - klb09
- - tna08
 highlights:
  - longread
 ---

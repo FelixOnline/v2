@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - icanon
- - ps3110
 highlights:
  - comment
 ---

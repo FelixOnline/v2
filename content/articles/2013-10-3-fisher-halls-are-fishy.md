@@ -24,7 +24,6 @@ tags:
 authors:
  - ar3310
  - baf12
- - jal08
 highlights:
  - comment
  - photos

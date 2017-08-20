@@ -14,10 +14,8 @@ categories:
  - tv
 tags:
  - imported
- - multi-author
 authors:
  - ef510
- - jal08
 highlights:
 ---
 

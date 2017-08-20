@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - bdw14
- - ygr12
 highlights:
 ---
 

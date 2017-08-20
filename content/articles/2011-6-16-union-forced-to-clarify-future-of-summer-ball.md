@@ -22,9 +22,8 @@ tags:
  - imported_comments
  - multi-author
 authors:
- - bs2610
- - felix
  - ks607
+ - bs2610
 highlights:
  - comment
 ---

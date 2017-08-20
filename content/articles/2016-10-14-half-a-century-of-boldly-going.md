@@ -19,8 +19,8 @@ tags:
  - image
  - multi-author
 authors:
- - ad4013
  - so515
+ - ad4013
 highlights:
  - longread
 ---

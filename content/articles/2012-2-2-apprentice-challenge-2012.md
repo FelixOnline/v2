@@ -14,9 +14,7 @@ categories:
  - business
 tags:
  - imported
- - multi-author
 authors:
- - ams111
  - asm210
 highlights:
 ---

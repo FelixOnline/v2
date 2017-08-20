@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - cb403
- - felix
 highlights:
  - photos
 ---

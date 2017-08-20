@@ -17,10 +17,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - km2612
- - ps3110
 highlights:
  - longread
  - photos

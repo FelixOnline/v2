@@ -16,10 +16,8 @@ categories:
 tags:
  - imported
  - image
- - multi-author
 authors:
  - asm210
- - tna08
 highlights:
  - longread
 ---

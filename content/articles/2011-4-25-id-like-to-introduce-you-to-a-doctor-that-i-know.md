@@ -20,10 +20,8 @@ tags:
  - imported
  - image
  - imported_comments
- - multi-author
 authors:
  - cb607
- - felix
 highlights:
  - comment
  - longread
