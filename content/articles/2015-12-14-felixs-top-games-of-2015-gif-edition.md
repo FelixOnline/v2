@@ -48,4 +48,3 @@ video_url: ""
 
 
 {{< figure src="http://felixonline.co.uk/img/upload/201512121548-cet13-rocketleague.gif" title="" caption="" attr="Tumblr" >}}
-

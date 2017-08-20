@@ -146,4 +146,3 @@ This has been a good year for soulful films exploring the challenges faced in al
 Not all the year’s films were so melancholic, and Hail, Caesar! was the Coen brother’s wry and amusing take on Hollywood’s golden age through the eyes of “fixer” Eddie Mannix. A hodgepodge of pastiche, the film lovingly mocks the pictures of the era. A film that uses, rather than celebrate, the fantasy of cinema, Tale of Tales brings interwoven fairy tales to life with a wonderful cast including the redoubtable Toby Jones. Yet when all is said and done it’s almost Christmas, and Wes Anderson’s short Come Together is the most heart-warming thing you’ll see these holidays, besides the Muppet Christmas Carol.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201612161449-felix-tale-tales.jpg" title="" caption="" attr="Sundance Selects" >}}
-

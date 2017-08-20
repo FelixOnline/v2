@@ -66,4 +66,3 @@ The next day, Health Secretary, Jeremy Hunt, appeared on the BBC’s _The Andrew
 He also specifically accused the BMA of distorting his words, which he called “one of the cleverest trade unions in the book”.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201602121238-felix-IMG_7964.JPG" title="" caption="" attr="Matt Johnston" >}}
-

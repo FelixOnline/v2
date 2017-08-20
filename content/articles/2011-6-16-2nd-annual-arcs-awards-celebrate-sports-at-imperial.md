@@ -61,4 +61,3 @@ An enjoyable night was had by all with the aforementioned alcohol continually se
 
 
 {{< figure src="http://felixonline.co.uk/img/upload/201106162215-felix-dsc_0002.jpg" title="England Rugby Union 7’s Head Coach Ben Ryan" caption="England Rugby Union 7’s Head Coach Ben Ryan" attr="Credit: Laura Harreman" >}}
-

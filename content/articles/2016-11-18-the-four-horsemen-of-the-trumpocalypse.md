@@ -78,4 +78,3 @@ Now as Liberals, we must stand with our brothers and sisters of America, who are
 In the words of Martin Luther King Jr, “I’ve been to the mountaintop, and I want you to know tonight, that we as a people will get to the Promised Land”. Therefore in that spirit, nothing can stop an idea whose time has come, for America will have a female president sooner than we all might think.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611181440-felix-Screen Shot 2016-11-18 at 14.39.44.png" title="" caption="" attr="" >}}
-

@@ -54,4 +54,3 @@ In great Imperial tradition, most of the committee (current and elected for next
 Another incredible Imperial snowsports trip, and so a big thanks to all the people who came along to make this possible. Special mention goes to next year’s Snowsports chair, our very own sugar cougar and trip organiser Beth Burks for making all our dreams a beautiful and boozy reality! As the snow melts for the summer, and we count down the hours to the ICSC January trip (see you there!), we praise the almighty God of Snow for looking over us this season, and letting us come home in one piece. In the words of the often late and rarely great current Snowsports chairman, “it’s like the Black Eyed Peas say...it’s all about the boom boom pow”.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201105221308-felix-17.jpg" title="" caption="" attr="" >}}
-

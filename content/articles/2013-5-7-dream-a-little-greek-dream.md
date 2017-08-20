@@ -77,4 +77,3 @@ The city offers restaurants with great cuisine, which please even the most deman
  As you can see Greece is a huge country with different sceneries throughout its area, so you can choose what is most appropriate for you. Start packing, Greece awaits you!!!
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305072034-tna08-greece-4.png" title="" caption="" attr="" >}}
-

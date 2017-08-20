@@ -64,4 +64,3 @@ Carluccios’ £5 lunch deal. It’s rubbish to be surrounded by the grandeur of
 Imperial is unique. You won’t have the same experiences as your mates from home, but you have London on your doorstep to find your own fun. Most likely for the first time in your life you’ll be surrounded by people interested in the same things as you, and yeah there’ll be some intimidating geniuses, but you’ll find your niche and you’ll miss it when its over. Enjoy it!
 
 {{< figure src="http://felixonline.co.uk/img/upload/201610032031-felix-Felix 160928NM IC queue back half (1).gif" title="" caption="" attr="Nathan Macaubag" >}}
-

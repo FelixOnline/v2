@@ -66,4 +66,3 @@ Obviously Los Angeles has a vast offer of shops all around the city. My favourit
 My suggestion overall is to visit Los Angeles as it combines perfectly the life of a big city with many recreational possibilities to forget the humdrum of modern life... Also the temperature there is more or less the same throughout the year, so all can find some time and a cheap bargain to visit it. What are you waiting for? Start searching...
 
 {{< figure src="http://felixonline.co.uk/img/upload/201302010006-tna08-travel7.jpg" title="" caption="" attr="" >}}
-

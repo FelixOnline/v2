@@ -81,4 +81,3 @@ IQ is Imperial College’s LGBT society.If you wish to come to our events, you c
 If you identify as LGBTQ (lesbian, gay, bisexual, transgender, queer or questioning) and are aged 16-25, you are invited to take part in the Youth Chances survey. The project aims to assess the quality of life experienced by LGBTQ youths in the UK by gartering data from 15,000 people. If you wish to take part or get more information, please visit [www.youthchances.org](http://www.youthchances.org).
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301312316-tna08-iqlogo.jpg" title="" caption="" attr="" >}}
-

@@ -56,4 +56,3 @@ The ladies are also much more likely to have gadgetry assistance. Once they get 
 Personally, I like to finish off my days with a bit of Etsy kimono shopping. Sometimes it’s a frantic expression of horniness, and sometimes it’s time that I set aside for a bit of self-care at the end of the day. Bashing the Bishop is something that you should do for you, as it has the great benefits of making you feel good about yourself, while improving the sex you have with other people (although no-one will ever make love to you like you do). So get out there and make momma proud. Play pocket pinball to your heart’s content – you don’t need to be ashamed.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611251446-felix-Screen Shot 2016-11-25 at 14.45.03.png" title="" caption="" attr="" >}}
-

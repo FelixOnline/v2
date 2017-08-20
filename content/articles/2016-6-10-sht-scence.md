@@ -51,5 +51,3 @@ Now, of course, the results of this study go further than simply vindicating the
 Face recognition is paramount for humans to establish proper social skills. This skill was long thought to be reserved to humans, as the capacity to discriminate faces was found to be hosted in the  fusiform gyrus, located in the neocortex of the human brain. Facial recognition had previously been identified in non-human mammals, such as dogs, sheep and cows, but it could be argued that those animals had evolved to recognise faces as a consequence of domestication.
 
 The premise of this article was to investigate whether an animal which had no reason to have evolved to know human faces, such as a fish from a tropical area, could learn to do so, even when those animals lack a neocortex. These results show that facial recognition is not a human trait, and do not require a brain the size of a human’s.
-
-

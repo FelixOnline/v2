@@ -73,4 +73,3 @@ To me, this became particularly obvious right after the ‘Muslim ban’ took pl
 As Saunders says, “May might not respond to this event but if there are people out there who aren’t sure that speaking up does anything we’re here to gather in numbers and show them that it can.”
 
 {{< figure src="http://felixonline.co.uk/img/upload/201702031515-felix-Trump-4.jpg" title="" caption="" attr="Izzat Rais" >}}
-

@@ -49,5 +49,3 @@ Since the prize began in 2009, it has celebrated books about struggles with ment
 In these cases, books not only provide an avenue for exploring the complex human and scientific factors that affect psychosomatic illness, but also make it accessible to the public and encourage discussion of difficult issues. Literature provides an insight into situations where our deepest convictions are challenged, and reading then gives us the collective experience of what it means to be human.
 
 _For more information visit: wellcomebookprize.org_
-
-

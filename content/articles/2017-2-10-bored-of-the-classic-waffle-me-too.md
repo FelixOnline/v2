@@ -71,4 +71,3 @@ The caramelized banana waffle was a bit of an anti-climax as it didn’t have an
 Thirty minutes had barely passed and we were scraping the last crumbs off our plates. Duck and Waffle, despite the slightly unprofessional service, was an eye-opening dining experience and is definitely worth a visit. Food-wise, stick to the duck and waffle – quoting my lovely companion: “The restaurant is called that for a reason.”
 
 {{< figure src="http://felixonline.co.uk/img/upload/201702101627-felix-IMG_2821.jpg" title="OMG puhlease get inside me NOW" caption="OMG puhlease get inside me NOW" attr="Christy Lam" >}}
-

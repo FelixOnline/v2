@@ -74,4 +74,3 @@ At the end of the day, I do believe this country will continue to be united, eve
 I just wish that so many politicians and voters wouldn’t treat the future of our country like it’s a fucking game.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111511-felix-Screen Shot 2016-11-11 at 14.12.00.png" title="" caption="" attr="" >}}
-

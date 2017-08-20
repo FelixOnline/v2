@@ -57,4 +57,3 @@ So sit back and enjoy, and I hope you find this report as funny but informative 
 _Read the results of the survey in their entirety from pages 25 to 32 in [this week's issue of Felix](http://felixonline.co.uk/archive/IC_2012/2012_1513_A.pdf). Alternatively, just [stare at the pretty infographics](http://felixonline.co.uk/img/upload/201203021028-felix-sexsurvey2012.jpg)._
 
 {{< figure src="http://felixonline.co.uk/img/upload/201203021658-felix-sex2012.jpg" title="" caption="" attr="" >}}
-

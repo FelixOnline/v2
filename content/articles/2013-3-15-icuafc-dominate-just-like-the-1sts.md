@@ -58,4 +58,3 @@ With tension increasing, Myles Jarvis decided to step up to the plate, giving th
 With the rest of the match playing out at a tepid tempo, the final whistle was blown, the ref proving his maverick tendencies by turning the whistle upside down before blowing. In truth, 4-1 flattered Imperial 2s, but the win was definitely deserved. MOTM to Myles Jarvis, who started his university football career playing for the Medics, closely followed by an impressive Rob Maizonnier.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201303150203-tna08-football-sponsors-for-website.jpg" title="" caption="" attr="" >}}
-

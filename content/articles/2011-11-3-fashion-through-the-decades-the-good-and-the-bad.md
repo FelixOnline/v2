@@ -125,4 +125,3 @@ __Horrific: Clueless__
 Let’s just make one thing clear: Clueless is one of the all-time greatest movies made, ever. Ever. And even though the fashion moments exhibited through the movie are truthful, that does not make them any less heinous. First we have Cher and Dionne, in their head-to-toe matching mini-sweater mini-skirt ensembles. Then we have Dionne’s boyfriend Murray in classic 90s grunge, a full view of plaid boxers on show under low-slung denim cargo jeans. And lastly, a very youthful Paul Rudd as Josh (the love interest – um, DUH) as the slogan tee’d, politically righteous hipster of the 90s. Cliques, fashion, whatever. -SV
 
 {{< figure src="http://felixonline.co.uk/img/upload/201111032126-pk1811-matching-(clueless).jpg" title="" caption="" attr="" >}}
-

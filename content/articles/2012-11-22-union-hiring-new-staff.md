@@ -54,4 +54,3 @@ The Union hopes that the new staff members will improve the student experience i
 The Union have also commented on further work that will be undertaken later in the year to “empower more students in making decision regarding the distribution of Union subvention to Clubs, Societies and Projects.” However, the plans for this process are not yet finalised.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211222239-tna08-tableting.jpg" title="" caption="" attr="" >}}
-

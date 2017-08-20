@@ -69,4 +69,3 @@ Gary Johnson, former Governor of New Mexico, is running for the Libertarian Part
 The Green Party has nominated Jill Stein, a physician from Massachusetts. One of her main proposals is a “Green New Deal”, aiming to create public sector jobs in the clean energy sector to reduce unemployment and boost the economy. She has been endorsed, amongst others, by the infamous political critic and linguist Noam Chomsky.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211091214-tna08-what-you-can-buy.png" title="" caption="" attr="" >}}
-

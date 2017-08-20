@@ -58,4 +58,3 @@ The black truffle scrambled eggs on toast on a flowery plate was dumped in front
 As I headed towards the forever pissed-off-looking lady at the till by the door, my mind came clear of a truth. I needn’t the best sourdough, fancy French butter with a Clarence Court egg; it was the cheap bread, the most horrible service you could ever imagine in a rowdy environment for a taste of the authentic, delicious local breakfast, and reunited my taste buds with my roots.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201701131453-felix-IMG_6953.jpg" title="" caption="" attr="Christy Lam" >}}
-

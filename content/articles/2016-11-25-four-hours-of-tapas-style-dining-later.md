@@ -71,4 +71,3 @@ A dinner party cannot end without a sweet note. A selection of desserts was serv
 Satisfied after almost four hours of non-stop feasting, talk and laughter, we called an end to the meet-up, exchanged eager hugs that matured from the raki and headed home to rest our bellies for the next day.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611251436-felix-IMG_4177.jpg" title="" caption="" attr="Cristy Lam" >}}
-

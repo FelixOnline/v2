@@ -67,5 +67,3 @@ Perhaps most alarming about these findings is the speed at which, with externall
 However, on the upside of this, the malleability of our gut residents opens the door to new methods by which we can manipulate the microbiota to improve human health and even treat disease. So far, experimental microbiota-orientated therapies have centred on faecal microbiota transplant (FMT; yep, it’s what it says on the tin) – a technique which involves considerable procedural burden.
 
 Future experiments by Martens and Desai will explore the prospect of using dietary therapeutics as a simpler alternative to FMT. Until then, should we follow the example set by Blue Zones and move towards a more plant-based diet?
-
-

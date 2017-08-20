@@ -35,4 +35,3 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 ---
-

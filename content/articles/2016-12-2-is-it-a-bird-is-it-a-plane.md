@@ -54,4 +54,3 @@ At Parham, any strong northerly wind will be deflected up the hills, providing r
 Gliding is definitely not for impatient or comfort seeking types, rather we’re all motivated and recognise the pleasures helping out on the airfield as well as flying. Above all, the sport is a continuous learning process and a lot of fun. The trip was a huge success, with both returning members of the club making progress in their training and new members discovering the thrills of gliding. We’d like to give our huge thanks to Tom and Guy for towing and instructing, and to the Southdown gliding club for their hospitality.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201612021645-felix-6.jpg" title="" caption="" attr="" >}}
-

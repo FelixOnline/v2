@@ -60,4 +60,3 @@ Opened in 2010, this Dalston club is now a stalwart of the London nightlife scen
 Stunningly beautiful, a wall of windows gives venue-goers a view of the decomissioned gasworks of Bethnal Green. You’ll never forget your nights out here, with listings ranging from live music to giants of electronic dance music. Everyone should visit at least once.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111835-felix-South Terrace.jpg" title="" caption="" attr="Oval Space" >}}
-

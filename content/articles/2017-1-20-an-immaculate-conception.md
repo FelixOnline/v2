@@ -73,4 +73,3 @@ It would be a crime to leave Barrafina without tasting their signature dessert â
 Eight dishes, two girls with two food babies on a Sunday afternoon. What could be better?
 
 {{< figure src="http://felixonline.co.uk/img/upload/201701201539-felix-IMG_7071.jpg" title="" caption="" attr="Christy Lam" >}}
-

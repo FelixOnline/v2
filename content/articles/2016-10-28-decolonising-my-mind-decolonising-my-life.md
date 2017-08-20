@@ -66,4 +66,3 @@ That left the problem of how to go there. I couldn’t take automobiles, trains 
 I finally realised that gravity was a Western conspiracy to hide the ancient golden age of humanity where people flew everywhere! After I type this article I shall reject the concept of gravity and fly to my destination, where I shall be a farmer. Without any land and knowing squat about farming, I shall subsequently starve to death, but hey, at least I will have completely decolonised my mind and life. I shall be truly free. And dead.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201610311313-felix-Screen Shot 2016-10-31 at 13.13.07.png" title="" caption="" attr="" >}}
-

@@ -68,4 +68,3 @@ How long will it make sense for Imperial to keep pushing its students into a fie
 Probably indefinitely.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201705121901-felix-IMG_7712.JPG" title="It's unclear how long the chalk mural persisted in the humid London environment and whether a clean-up crew had to come assist the inconsiderate summer weather" caption="It's unclear how long the chalk mural persisted in the humid London environment and whether a clean-up crew had to come assist the inconsiderate summer weather" attr="Lef Apostolakis" >}}
-

@@ -57,5 +57,3 @@ Yacht club’s president was thrilled with the results and described it as “a 
 The yacht club has already started implementing the strategies. Their racing team, Team Imperial, is participating in the world’s biggest student regatta in France this April. Also, an initial collaboration with the Cambridge University Yacht Club is likely to launch next academic year, focusing on yachting trainings. Meanwhile, ICG has started its second-round spring projects. ICG is actively seeking consulting projects from societies within the Imperial Union, hoping to provide aid to any issues ranging from long term growth plans to feasibility studies, offering value through students with varied backgrounds and perspectives.
 
 To learn more about Imperial College Yacht Club and Imperial Consulting Group, please do visit the respective websites below:
-
-

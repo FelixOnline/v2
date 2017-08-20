@@ -105,4 +105,3 @@ Contrary to what you might think, most responders didn’t think Imperial had ne
 The majority of students in every department said they did have time to meet people whilst studying, excet in the Business School, where 67% they struggled to fit that into their busy schedules.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201606171106-felix-VirginByDepartment2.jpg" title="" caption="" attr="" >}}
-

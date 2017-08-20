@@ -53,4 +53,3 @@ Zebrafish are amazing when it comes to regeneration. Even when their spinal cord
 According to those working on the project, the next step is looking at regeneration proteins in mice.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111558-felix-cervical-spine-1129431_1280.jpg" title="" caption="" attr="" >}}
-

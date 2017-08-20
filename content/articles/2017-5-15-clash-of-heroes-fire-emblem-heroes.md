@@ -51,5 +51,3 @@ Having said that, the mobile version does pack a really cool exclusive feature w
 Outside of the story, there’s plenty you can do to level up your characters and have fun. You can fight it out in the Training Tower or battle with other people’s teams in the Battle Arena. There’s lots of rewards you can earn to incentivise you to keep playing and the game mechanics are such that you never truly feel stuck. There’s also always something you can do or a freebie you can get that can help you make your way forward.
 
 Fire Emblem Heroes may not be perfect but it’s definitely a fun experience and a good start of bringing the experience to smartphones and tablets. Despite its shortcomings, the spectacularly fun battles and ability to meet old Fire Emblem friends makes this game worth the free download.
-
-

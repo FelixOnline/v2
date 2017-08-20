@@ -92,4 +92,3 @@ I hope you are looking forwrd to the next two weeks as much as we are. Please do
 Finally, a special thanks to our sponsors who provide us with many of the essentials ingredients for our events: Divine chocolate, Peros, Epona clothing, qi teas, cafe direct and LUSH. –_Nicholas Greenwood_
 
 {{< figure src="http://felixonline.co.uk/img/upload/201302220238-tna08-fairtrade-fortnight-timetable-1.jpg" title="" caption="" attr="" >}}
-

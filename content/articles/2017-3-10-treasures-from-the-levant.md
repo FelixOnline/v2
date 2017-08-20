@@ -58,4 +58,3 @@ And exclusive to Imperial students, so that you and friends can also treat yours
 Ceru, 7-9 Bute St: 7 minutes from campus, 2 minutes from South Ken tube station. Lunch/Dinner: £10-15 for an ample meal, £9 express lunch with a taste of everything. Cocktails £7.5, Breakfast £5-10
 
 {{< figure src="http://felixonline.co.uk/img/upload/201703101401-felix-CERU interior 4.jpg" title="" caption="" attr="Paul Winch-Furness" >}}
-

@@ -60,5 +60,3 @@ A vote for me is a vote for someone with the experience to efficiently deal with
 **Yiya** **Mao**: Actually I was running DPE ( Deputy President Education )during the leadership election in March, and managed to get 1393 votes. My passion of representing the student has never stopped.Here I would love to thanks for all my supporters from the last elections, and to all the candidates who put themselves forward to make an impact, and for all volunteers who make Imperial community a great place for our broader student body! Please keep doing great things!
 
 _We asked everyone, but these are the candidates who got back to us. Take from that what you will. You can vote [here](http://vote.union.ic.ac.uk)._
-
-

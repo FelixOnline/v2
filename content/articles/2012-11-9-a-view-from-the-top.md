@@ -97,4 +97,3 @@ Read more at:
 [www.title-mag.com](http://title-mag.com/amanda-brumpton/)
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211131424-tna08-title.jpg" title="" caption="" attr="" >}}
-

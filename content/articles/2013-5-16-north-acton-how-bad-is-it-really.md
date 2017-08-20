@@ -82,4 +82,3 @@ I prefer trains to cars, so I travelled on the train line. Acton students will h
 So, it really does seem as if Acton is what it’s made out to be: a commuter suburb with few local amenities or attraction, and a serious issue with antisocial behaviour. It might be okay if you’re middle aged and own a car, but will seven hundred non street-smart freshers who are living away from home for the first time in North Acton have a good experience? I think not.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201305161956-tna08-acton5.jpg" title="" caption="" attr="" >}}
-

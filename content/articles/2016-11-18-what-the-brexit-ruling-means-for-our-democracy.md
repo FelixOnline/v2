@@ -64,4 +64,3 @@ This is an opportunity we cannot let go of, we must utilise it and push our agen
 To paraphrase the poet Dylan Thomas, “we will not go gentle into that goodnight.”
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611181442-felix-Screen Shot 2016-11-18 at 14.42.10.png" title="" caption="" attr="" >}}
-

@@ -58,4 +58,3 @@ We went to the US embassy protest that took place on Wednesday. A picture is a t
 
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111329-felix-15000611_155763318225341_3165470947750830112_o.jpg" title="" caption="" attr="Liheng Yao" >}}
-

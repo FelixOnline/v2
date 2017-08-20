@@ -48,4 +48,3 @@ When it was verified that there was no fire, only an alarm malfunction, Imperial
 This is already the second time in 2017 that Exhibition Road gets packed with swarms of evacuated museum-goers. About a week earlier, visitors had to be evacuated due to a bomb threat directed at the neighbouring Victoria and Albert museum. The threat turned out to be a hoax.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201701131352-felix-15967628_10210299607379656_1433891741_o.jpg" title="" caption="" attr="felix" >}}
-

@@ -54,4 +54,3 @@ In the “Chinese Room” experiment, Searle hypothesised that if a computer can
 Sentient AI still remains in the realm of Science Fiction, and we are unlikely to see situations like those in the Matrix films come true in the near future. Watson might be able to enable us to cure cancer in a more effective way, but it is not going to be able to think for itself any time soon.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201302131238-tna08-johnwatson.jpg" title="" caption="" attr="" >}}
-

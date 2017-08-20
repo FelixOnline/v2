@@ -65,4 +65,3 @@ Garner was voted man of the match but everyone grafted well and showed good char
 Conclusions: Henry has shown (experimentally) that he both saves and scores penalties, both in vivo and ex vivo. Despite a strong body of literature suggestingotherwise (Euro ’96), Marius Wedermeyer does not.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201211301155-tna08-footy-sponsors.jpg" title="" caption="" attr="" >}}
-

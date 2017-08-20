@@ -66,4 +66,3 @@ To allow our stomachs to be full at this stage was a very wrong move indeed. We 
 Popolo was what I was searching for in a restaurant – simple, delicious food, in a unique atmosphere, people who are passionate about what they do, and a wonderful story behind it.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111744-felix-IMG_0441.jpg" title="" caption="" attr="Christy Lam" >}}
-

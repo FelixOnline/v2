@@ -58,4 +58,3 @@ The final canyon that has literally blown my mind is the “Antelope Canyon”, 
 In these places don’t expect to find extreme luxuries, but expect to be amazed by nature’s luxuries. If you want to escape the humdrum of everyday hectic life, then these places are ideal for you and for your hidden adventurous site…
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306132328-tna08-america2.png" title="Kodachrome" caption="Kodachrome" attr="Credit: Natalia Petrou" >}}
-

@@ -45,5 +45,3 @@ The trick up its sleeve is a process called transdifferentiation. When a human c
 However, the immortal jellyfish has cells that are not bound by this restriction, so cells in the body of an old, injured or stressed adult can revert back to stem cells. These stem cells can then develop to produce entirely new adults, effectively allowing the jellyfish to cheat death.
 
 Call it regeneration rather than transdifferentiation and suddenly the idea of Dr Who doesn’t seem so far fetched.
-
-

@@ -77,4 +77,3 @@ _Open 12pm-12am everyday_
 _Reservations recommended for busier times (e.g. weekends.)_
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301312352-tna08-food8.jpg" title="" caption="" attr="" >}}
-

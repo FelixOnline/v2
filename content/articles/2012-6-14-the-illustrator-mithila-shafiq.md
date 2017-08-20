@@ -58,4 +58,3 @@ Her plans form the future also focus one bringing more of her technical expertis
 Despite her job satisfaction Mithi’s advice for anyone wanting to change career is laced with caution. “I think go for it, but know that it’s just as hard. I found studying illustration sometimes harder than studying biochemistry. The career path is very different. You have to constantly chase work.” However she’s still keen to encourage people to make the step. “If you want to change careers you should go because you love it.”
 
 {{< figure src="http://felixonline.co.uk/img/upload/201206142130-pk1811-boy-portfolio-new.jpg" title="" caption="" attr="" >}}
-

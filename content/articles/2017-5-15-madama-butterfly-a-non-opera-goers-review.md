@@ -48,4 +48,3 @@ The undercurrent of orientalism really is a shame because Jaho’s performance i
 The opera has not only been written but is often performed in a way that intentionally or not, at times feels like a parody of the Japanese culture. The Royal Opera needs to drag its interpetations out of irrelevance if it is to attract a younger audience, it is difficult to see how Madama Butterfly will stand the test of time unless it is radically re-approached, starting with with a cast that reflects its our current cultural standing and expectations.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201705151820-felix-2017-03-31---CARLO-BOSI-AS-GORO-MARCELO-PUENTE-AS-PINKERTON-ELIZABETH-DE-SHONG-AS-SUZUKI-ROH-PHOTO-BILL-COOPER.jpg" title="Carlo Bosi (Goro) and Marcelo Puente (Pinkerton) in Madama Butterfly" caption="Carlo Bosi (Goro) and Marcelo Puente (Pinkerton) in Madama Butterfly" attr="ROH, 2017 \ Bill Cooper" >}}
-

@@ -62,4 +62,3 @@ __THE MAN__
 Should you dare to take a few moments away from reality over the summer for this jewel, you will find nothing less than 270 pages of swoon. David Gandy, aka THAT gorgeously chiselled guy who advertises the label’s fragrances by casually being half-naked on a boat (see below), now has an entire book in which he poses (somewhat provocatively) in what can only be described as generally not much clothing. Tearing yourself away from those abs may be your biggest challenge yet.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201206221145-felix-davidgandy-1.jpg" title="With compliments from the editor" caption="With compliments from the editor" attr="" >}}
-

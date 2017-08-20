@@ -71,4 +71,3 @@ Work on the tower’s structural foundations began on the 14th of March 1966. Th
 
 
 {{< figure src="http://felixonline.co.uk/img/upload/201105221339-felix-library-building-photo-036797-by-sydney-newbery.jpg" title="The Queen’s Lawn area, much as it is today, on completion in 1969" caption="The Queen’s Lawn area, much as it is today, on completion in 1969" attr="Credit: Courtesy of the Imperial College London Archives" >}}
-

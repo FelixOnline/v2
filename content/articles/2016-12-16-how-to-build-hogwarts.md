@@ -126,4 +126,3 @@ If constructing a building out of flat, rectangular pieces is like first year, b
 Bake it low and slow, but watch out that the gingerbread doesn’t stretch too much during the baking. You may need to reshape and touch up the piece when it’s in the oven. Trim where needed, and if any cracks appear, you can patch them with dough within the first eight minutes or so.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201612161606-felix-15267924_10209879788844455_8818105870735203450_n.jpg" title="" caption="" attr="" >}}
-

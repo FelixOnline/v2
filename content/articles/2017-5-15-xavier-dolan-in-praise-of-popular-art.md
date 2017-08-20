@@ -67,4 +67,3 @@ Is that really what it is? While I felt this way the first time I watched one of
 Some people think Dolan is trying too hard at this, with everything so thoroughly constructed to move us that the result is we do not wish to be moved anymore. But what if we chose to let him move us? And to me, this is what popular art is about: to reference Dolan’s favourite movie, Titanic, what would it be without Céline Dion’s (in)famous song ‘My Heart Will Go On’? Would it have the same fame? Probably not, and I this is what makes it beautiful. This is what Dolan is trying to achieve with his extremely popular art, and I think he succeeds. The truth is, Xavier Dolan’s movies are to cinema what pop is to music. And that is amazing.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201705151920-felix-big_1448825820_image.jpg" title="" caption="" attr="Georges Biard" >}}
-

@@ -64,4 +64,3 @@ My second visit was definitely not the last. My third visit was on a bright Satu
 That, was where the pancakes were.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201612021520-felix-IMG_6093.jpg" title="" caption="" attr="Christy Lam" >}}
-

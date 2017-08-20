@@ -48,5 +48,3 @@ For example:
 Now imagine that for 52 factorial, and it’s not hard to see that very quickly it becomes a massively large number:
 
 80,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 to be precise (that’s 67 zeros). And in the grand scheme of things, that’s nothing; if you really want your mind blown, get someone to explain Graham’s Number (the largest number ever even thought of) to you.
-
-

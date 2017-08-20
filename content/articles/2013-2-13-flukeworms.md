@@ -65,4 +65,3 @@ If you as curious about the end of this story as me, the show opens next week Th
 _Opening party on Febuary 19th 8pm, Blythe Gallery, Sherfield Level 5._
 
 {{< figure src="http://felixonline.co.uk/img/upload/201302131639-tna08-artsfest-feb-ents-13-.jpg" title="" caption="" attr="" >}}
-

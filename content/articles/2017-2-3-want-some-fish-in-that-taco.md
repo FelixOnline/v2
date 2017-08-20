@@ -70,4 +70,3 @@ Same happened for the fried chicken taco. Except the unexpected fire from the ha
 I was tempted by dessert (come on, leche frita!) but it was time for the next slot of commitments. Breddos Tacos definitely fulfilled the requirements of my definition of spontaneity for a weekday afternoon – an explosion of colours, exotic flavours and delicious food.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201702031737-felix-IMG_7504.jpg" title="" caption="" attr="Christy Lam" >}}
-

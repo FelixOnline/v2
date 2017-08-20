@@ -61,5 +61,3 @@ Shots of the cocktails were served for all to try and the remaining time was fre
 The event quickly came to an end. We were sent home with generous goodie bags and a bottle of Matcha Cool Down (matcha green tea mixed with Malibu). After talking to a few honest people who actually blog as a career, I realized that my perceptions of this social media lifestyle was completely wrong. It isn’t as easy and glamourous as it appears to be on the pages of those glossy magazines. Not everyone can become famous overnight – many built up their reputation by years of dedication, commitment and hard work. It means constantly paying attention to the trends, comments, reviews, and discovering new places that no one has been to before, and brainstorming new ideas for captions or articles or videos. Not every photo or video is perfect – that 10-minute video could have taken hours of preparation, filming and editing. That effortless #ootd photo may not be so effortless after all.
 
 Taking account of all the risks involved in working in social media, would I still continue with blogging and developing my hobby into a potential career? I certainly would.
-
-

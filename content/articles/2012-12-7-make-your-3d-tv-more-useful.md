@@ -58,4 +58,3 @@ Still, there is potential in making fuller use of the 3D capabilities of the TVs
 It is exciting to see companies like LG “think out of the box” by making use of technology meant for one thing (in this case 3D) in a different fashion (to deliver two images simultaneously). With the ever competitive consumer electronics market, such innovative approaches can only be good for the consumers, until the patent lawyers start knocking on the doors of course.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201212070255-tna08-gadget-show-3d-tvs.jpg" title="" caption="" attr="" >}}
-

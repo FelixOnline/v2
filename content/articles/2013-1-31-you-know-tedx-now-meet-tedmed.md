@@ -58,4 +58,3 @@ Ticket prices are expected to be announced in the following days, but the organi
 More details are expected in the coming days and weeks. Discover them first on the TEDMEDLive at Imperial blog, found here: [www.TEDMEDLiveImperial.com](http://www.TEDMEDLiveImperial.com).
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301312306-tna08-tedmedlogo.png" title="" caption="" attr="" >}}
-

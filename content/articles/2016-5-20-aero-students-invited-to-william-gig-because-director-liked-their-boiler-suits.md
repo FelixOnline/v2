@@ -58,4 +58,3 @@ The free gig was to promote will’s new wearable tech venture, ‘dial’, a sm
 The night included cameos from old members of the Black Eyed Peas, Ricky Wilson of the Kaiser Chiefs and Tinie Tempah.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201605201044-felix-william_selfie.jpg" title="" caption="" attr="" >}}
-

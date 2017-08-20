@@ -73,4 +73,3 @@ As the Women’s March on London made its way down Park Land and Piccadilly that
 So to see environmental protesters at the Women’s March wasn’t only to be expected, but to be celebrated. Those opposing Trump are now faced with two choices, given the wide range of targets he has taken on: either we can spread ourselves too thin, trying to take on way too many topics at one time; or, environmentalists, civil rights activists, and feminists of every colour and creed can unite together to resist any moves that Trump tries to make. Based on last Saturday, when it is estimated up to 100,000 people marched, the latter route is being taken. I can only hope that the momentum is kept up long enough to enact real, tangible change.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201701271436-felix-IMG_20170121_162012.jpg" title="" caption="" attr="Piramol Krishnan" >}}
-

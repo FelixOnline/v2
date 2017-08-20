@@ -69,4 +69,3 @@ What’s a breakfast menu with a sweet option? How about a jaw-dropping presenta
 It’s customary in the Mediterranean and the Middle East to not let your guests leave without a 3-month food baby – and neither did Firedog. This breakfast was indeed a creative, contemporary and delicious twist on the traditional Aegean recipes for anyone who’s tired of their boring crushed avocado on sourdough!
 
 {{< figure src="http://felixonline.co.uk/img/upload/201701271738-felix-IMG_7335.jpg" title="" caption="" attr="Christy Lam" >}}
-

@@ -48,4 +48,3 @@ After this backlash, various Conservative MP’s have appeared on TV and Radio p
 This does not seem to be the case, though, with companies only having to report numbers of workers, in order to “respond to skills shortages”. It’s all a little sketchy though; if this starts a precedent of drawing a line between foreign workers and UK nationals this might just pave the way for a more isolated post-Brexit UK.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201610141122-felix-theresa4.jpg" title="" caption="" attr="" >}}
-

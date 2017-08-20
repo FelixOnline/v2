@@ -71,9 +71,3 @@ The report suggests a number of recommendation that could help improve the Cultu
 “I think it’s really brave that College would commission and publish something that qualitatively shows these issues and that they’re committing to fix it” says Davey.
 
 Whether College will act upon these recommendations remains to be seen.
-
-
-
-
-
-

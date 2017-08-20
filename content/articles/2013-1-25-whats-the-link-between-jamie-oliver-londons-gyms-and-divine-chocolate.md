@@ -91,4 +91,3 @@ Imperial Hub is responsible for the social enterprise aspect of the competition.
 All you need to do is submit an idea bythe 28th January to www.icstartup.com/vc and then ICStartup will help you develop it! What are you waiting for?
 
 {{< figure src="http://felixonline.co.uk/img/upload/201301250205-tna08-socnt-poster.jpg" title="" caption="" attr="" >}}
-

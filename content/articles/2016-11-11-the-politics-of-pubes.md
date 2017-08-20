@@ -79,4 +79,3 @@ Best worn during Movember or when on Erasmus in France. Perfect if you fondly ca
 Ideal for blondes. You can comb this so that it covers up your carefully constructed bald bits.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201611111542-felix-Screen Shot 2016-11-11 at 15.42.33.png" title="" caption="" attr="" >}}
-

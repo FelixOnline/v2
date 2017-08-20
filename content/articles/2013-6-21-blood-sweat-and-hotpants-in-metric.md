@@ -56,4 +56,3 @@ As a stunned silence resounded around the room, the Union Stewards and Committee
 The issue was Metric itself; the seemingly solid steel girder in the ceiling the pole was attached to had become slick with that particular Metric grime and condensed sweat causing the pole to slip off. Perhaps nightclubs are not the best place for pole dancing after all.
 
 {{< figure src="http://felixonline.co.uk/img/upload/201306210234-tna08-pole1" title="" caption="" attr="" >}}
-
