@@ -39,14 +39,15 @@
 </div>
 
 <div class="sections">
-  {{ range $name, $pages := .Site.Taxonomies.categories }}
+  {{ range $name := .Site.Params.displayCategories }}
+    {{ $categoryPage := ($.Site.GetPage "taxonomyTerm" "categories" $name) }}
     <div class="section">
       <h1>
         <a href="{{ $.Site.BaseURL }}categories/{{ $name }}">{{ $name }}</a>
       </h1>
 
       <div class="post-block-container">
-        {{ range first 4 (where $pages.Pages ".Params.featured" true) }}
+        {{ range first 4 (where $categoryPage.Pages ".Params.featured" true) }}
           <a href="{{ .RelPermalink }}">
             <div class="post-block">
               <div class="image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image_path "http://" "" }}&w=200)"></div>

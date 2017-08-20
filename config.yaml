@@ -16,3 +16,17 @@ ignoreFiles:
 
 params:
   imageProxy: "//images.weserv.nl/?url="
+  displayCategories:
+    - arts
+    - books
+    - comment
+    - film
+    - food
+    - games
+    - music
+    - news
+    - science
+    - sport
+    - tech
+    - travel
+    - tv
