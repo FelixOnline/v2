@@ -195,7 +195,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
 
       md << "\n{{< figure src=\"#{url}\" title=\"#{caption}\" caption=\"#{caption}\" attr=\"#{attribution}\" >}}\n"
     elsif section["type"] == "video"
-      # puts "Video " + section["data"]["remote_id"]
+      md << "\n{{< youtube #{section["data"]["remote_id"]} >}}\n"
     else
       pp section
       raise
