@@ -11,8 +11,8 @@ taxonomies:
   author: "authors"
   highlight: "highlights"
 
-ignoreFiles:
-  - data
+# ignoreFiles:
+#   - data
 
 params:
   imageProxy: "//images.weserv.nl/?url="
