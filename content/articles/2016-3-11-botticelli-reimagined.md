@@ -13,7 +13,8 @@ aliases:
  - /arts/6041/botticelli-reimagined-
 imported: true
 comments:
- - Now you tell me shes not a knockouturlhttpwwwmypoloniacomblogviewid_83274title_AlbionOnlineSandboxInteractiveAlbion Online Power Levelingurl
+ - value: >
+     Now you tell me she's not a knock-out! <br>[url=http://www.mypolonia.com/blog/view/id_83274/title_Albion-Online-Sandbox-Interactive/]Albion Online Power Leveling[/url]
 
 # Article Taxonomies
 categories:

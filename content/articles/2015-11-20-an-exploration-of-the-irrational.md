@@ -13,7 +13,8 @@ aliases:
  - /film/5754/an-exploration-of-the-irrational
 imported: true
 comments:
- - Actually this is one of those instances where if you say I dont get it it means you get itReminds me of that Woody Allen joke I took a test in Existentialism I left all the aneswrs blank and got 100Wow attractive portal Thnx madden 17 coins httpklalogycomindexphpdoblog24346cheapfifa17pointsjarvisjonesbecomespossiblecoverathletefor039nc
+ - value: >
+     Actually, this is one of those instances where if you say "I don't get it," it means you get it.Reminds me of that Woody Allen joke: "I took a test in Existentialism. I left all the aneswrs blank and got 100.",Wow, attractive portal. Thnx .. <br>madden 17 coins http://klalogy.com/index.php?do=/blog/24346/cheap-fifa-17-points-jarvis-jones-becomes-possible-cover-athlete-for-039-nc/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/1247/laptop-thief-caught-red-handed-by-college-security
 imported: true
 comments:
- - I want Jonathons babies he is bare sexy and tingyoull have to get past me first girlfriendThis reminds me of the Shaggy songAbout time Annoying sintin demWhat a joy to find such clear thinking Thnaks for postingvK687R  urlhttphowowxjkhdticomhowowxjkhdtiurl linkhttphwzmmackybwrcomhwzmmackybwrlink httpekcvwllvdpdvcom
+ - value: >
+     I want Jonathon's babies, he is bare sexy and ting,you'll have to get past me first girlfriend...,This reminds me of the Shaggy song....,About time! Annoying sin-tin dem!,What a joy to find such clear thinking. Thnaks for posting!,vK687R , [url=http://howowxjkhdti.com/]howowxjkhdti[/url], [link=http://hwzmmackybwr.com/]hwzmmackybwr[/link], http://ekcvwllvdpdv.com/
 
 # Article Taxonomies
 categories:

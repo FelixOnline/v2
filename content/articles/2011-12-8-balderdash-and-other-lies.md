@@ -13,7 +13,8 @@ aliases:
  - /comment/1935/balderdash-and-other-lies
 imported: true
 comments:
- - Sorry what My video was much better tbh also Id just like to point out that Im not EDL so go fuck yourselves with your false reporting U MAD  want your head chopped off you white cunt
+ - value: >
+     Sorry, what? ,My video was much better tbh also I'd just like to point out that I'm not EDL so go fuck yourselves with your false reporting. U MAD ???, want your head chopped off you white cunt
 
 # Article Taxonomies
 categories:

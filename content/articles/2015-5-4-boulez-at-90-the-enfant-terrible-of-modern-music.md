@@ -13,7 +13,8 @@ aliases:
  - /music/5488/boulez-at-90-the-enfant-terrible-of-modern-music
 imported: true
 comments:
- - Techcheat  1 year 2 months ago                                Do I download 433 IPSW As in my iphone is not showing as a disk drive so I cant browse to the phone and point it to the Ipohones IPSW as per your postAnother dumb question is if all I care about is activating and I have a gevey why would I want to jailbreak What would be the benefits and the nevtiaesgMany many thanks
+ - value: >
+     Techcheat â€¢ 1 year, 2 months ago Do I download 4.3.3 IPSW? As in my iphone is not showing as a disk drive so I cant browse to the phone and point it to the Ipohones IPSW as per your post.Another dumb question is if all I care about is activating and I have a gevey, why would I want to jailbreak? What would be the benefits and the ne.vtiaesgMany many thanks.
 
 # Article Taxonomies
 categories:

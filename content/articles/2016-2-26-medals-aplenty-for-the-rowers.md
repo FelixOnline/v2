@@ -13,7 +13,8 @@ aliases:
  - /sport/5990/medals-aplenty-for-the-rowers
 imported: true
 comments:
- - to be raps primary audience have done the same and how many suicides or even mass murders have been prevented by by not listening to things like qttalternaoiveuquot Rather than reinforcing bad impulses rap may be balancing for some
+ - value: >
+     to be rap's primary audience, have done the same and how many suicides (or even mass murders) have been prevented by by not listening to things like &amp;q&amp;tt;alternaoiveuquot;. Rather than reinforcing bad impulses, rap may be balancing for some.
 
 # Article Taxonomies
 categories:

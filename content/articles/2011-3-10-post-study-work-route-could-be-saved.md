@@ -13,7 +13,8 @@ aliases:
  - /news/1053/post-study-work-route-could-be-saved
 imported: true
 comments:
- -               httpmorecomjkl306UK is overpopulated and in financual crises It is very much needed to make positive changes to law to stop abusing the immigration system This can be easily stopped by closing the fake colleges and closing the permanant residency route But i condemn the government dicision of closing the Tier 1 Post study work route It is not fair on the part of the brightest and competent students who used to gain valuable experience working in UK and were a good source of Skilled labour for United Kingdom I think the intelligent and brightest students will prefer tp go to other countries like Austrailia and United states I suggest the Government to reconsider its decision of closing Tier 1 post study work route
+ - value: >
+     Если вы еще не слышали звуков этого летнего моря, прочистите уши и услышьте! <br>http://more.com,jkl306,UK is overpopulated and in financual crises. It is very much needed to make positive changes to law to stop abusing the immigration system. This can be easily stopped by closing the fake colleges and closing the permanant residency route. But i condemn the government dicision of closing the Tier 1 Post study work route. It is not fair on the part of the brightest and competent students who used to gain valuable experience working in UK and were a good source of Skilled labour for United Kingdom. I think the intelligent and brightest students will prefer tp go to other countries like Austrailia and United states. I suggest the Government to reconsider its decision of closing Tier 1 post study work route.
 
 # Article Taxonomies
 categories:

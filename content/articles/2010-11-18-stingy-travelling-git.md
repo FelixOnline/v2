@@ -13,7 +13,8 @@ aliases:
  - /travel/393/stingy-travelling-git-
 imported: true
 comments:
- - Democratic US Rep Jackie Speier a member of the House Armed Services Committee said she was encouraged by policy changes at Lackland Air Force Base following a tour and meetings with commanders but remained concerned with whether the changes will stick She said the goal is to reverse a culture of intimidation that left some trainees afraid to speak up Nike Free
+ - value: >
+     Democratic U.S. Rep. Jackie Speier, a member of the House Armed Services Committee, said she was encouraged by policy changes at Lackland Air Force Base following a tour and meetings with commanders but remained concerned with whether the changes will stick. She said the goal is to reverse a culture of intimidation that left some trainees afraid to speak up. <br> Nike Free
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/4691/union-denounces-student-rights
 imported: true
 comments:
- - Fascinating stuff Although I suppose the problem with an open letter like this is that often it misses its intended target since I never saw it Although judging by the fact that no one approached me for comment or debate I guess the whole idea was just to grandstand without any discussion Good for you and GREAT use of your expensive university time
+ - value: >
+     Fascinating stuff. Although I suppose the problem with an "open letter" like this is that often it misses it's intended target, since I never saw it. Although judging by the fact that no one approached me for comment or debate I guess the whole idea was just to grandstand without any discussion. Good for you, and GREAT use of your expensive university time.
 
 # Article Taxonomies
 categories:

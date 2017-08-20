@@ -13,7 +13,8 @@ aliases:
  - /tech/1783/boosting-mobile-innovation
 imported: true
 comments:
- - Thanks for the mention of EpiSurveyor we surpassed 6300 users in 170 countries worldwide last week  Your readers can use it to collect all sorts of field data for free at wwwepisurveyororg
+ - value: >
+     Thanks for the mention of EpiSurveyor: we surpassed 6300 users in 170 countries worldwide last week. Your readers can use it to collect all sorts of field data, for free, at www.episurveyor.org
 
 # Article Taxonomies
 categories:

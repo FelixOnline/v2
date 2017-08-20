@@ -13,7 +13,8 @@ aliases:
  - /comment/1064/is-our-society-less-homophobic-than-it-was-in-the-past
 imported: true
 comments:
- - HHIS I should have toghuht of thatIMiQ8l  xshpwbelktoo
+ - value: >
+     HHIS I should have toghuht of that!,IMiQ8l <a href="http://xshpwbelktoo.com/">xshpwbelktoo</a>
 
 # Article Taxonomies
 categories:

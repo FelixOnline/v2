@@ -13,7 +13,8 @@ aliases:
  - /news/4736/heston-opens-as-the-new-home-of-sport
 imported: true
 comments:
- - Roger Thanks for helping us tease out some of the implications of all this further As I understand you you are talking about the pragmatic validity of the HUP in the specific contexts you mention In my first post Part 1 I said As a sociological observation though there are certain exceptions to the rule the general accuracy of the HUP is practically incontrovertible The situation you are pointing to here may well be one of the exceptions I allude to In this paper and these posts I am not so interested though in analyzing the sociological and pragmatic validity of the HUP as I am the biblical basis and the implications of following what the Bible has to teach us regarding this faux montre Cartier or urlhttpwwwmontrecartiercomfaux montre Cartier orurl
+ - value: >
+     Roger, Thanks for helping us tease out some of the implications of all this further. As I understand you, you are talking about the pragmatic validity of the HUP in the specific contexts you mention. In my first post (Part 1), I said, “As a sociological observation, though there are certain exceptions to the rule, the general accuracy of the HUP is practically incontrovertible.” The situation you are pointing to here may well be one of the exceptions I allude to. In this paper (and these posts) I am not so interested, though, in analyzing the sociological and pragmatic validity of the HUP as I am the biblical basis and the implications of following what the Bible has to teach us regarding this. <br> faux montre Cartier or [url=http://www.montrecartier.com/]faux montre Cartier or[/url]
 
 # Article Taxonomies
 categories:

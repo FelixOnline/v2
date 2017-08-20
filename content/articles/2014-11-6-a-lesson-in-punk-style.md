@@ -13,7 +13,8 @@ aliases:
  - /arts/4800/a-lesson-in-punk--style
 imported: true
 comments:
- - httpxurlesPR0DAWEZ       httpxurlesPR0DAWEZ      httpxurlesPR0DAWEZ urlhttpxurlesPR0DAWEZ     httpxurlesPR0DAWEZurl
+ - value: >
+     http://xurl.es/PR0DAWEZ КЛИЕНТСКИЕ БАЗЫ для малого Бизнеса http://xurl.es/PR0DAWEZ <br> КЛИЕНТСКИЕ БАЗЫ для малого Бизнеса http://xurl.es/PR0DAWEZ [url=http://xurl.es/PR0DAWEZ]КЛИЕНТСКИЕ БАЗЫ для малого Бизнеса http://xurl.es/PR0DAWEZ[/url]
 
 # Article Taxonomies
 categories:

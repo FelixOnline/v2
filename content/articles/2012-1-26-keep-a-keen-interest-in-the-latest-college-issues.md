@@ -13,7 +13,8 @@ aliases:
  - /comment/2075/keep-a-keen-interest-in-the-latest-college-issues
 imported: true
 comments:
- - DENCHGANG AMADEUS MOZARTThere are letters printed in commentThis article is so dench its bench Thug lifeYou should publish a letters page in the actual paper for them of us whats cant be bothered to go on the web all the time Not just them big sprawling comments articles mind theyre a bit selfserving
+ - value: >
+     DENCHGANG AMADEUS MOZART,There are letters printed in comment?,This article is so dench, its bench! Thug life.,You should publish a letters page in the actual paper, for them of us whats can't be bothered to go on the web all the time. Not just them big sprawling comments articles, mind, they're a bit self-serving...
 
 # Article Taxonomies
 categories:

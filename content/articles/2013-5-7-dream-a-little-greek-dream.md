@@ -13,7 +13,8 @@ aliases:
  - /travel/3543/dream-a-little-greek-dream
 imported: true
 comments:
- - Great article for Greece Great job Nat nice summer destination  looking forward DBravo I really liked this article Great jobHave started packingGreat article Greece is a must visit for everyoneChreers from visitmeteoratravel
+ - value: >
+     Great article for Greece! Great job Nat!! ,nice summer destination ! ...looking forward :D,Bravo! I really liked this article. Great job!,Have started packing....,Great article! Greece is a must visit for everyone! <br>Chreers from visitmeteora.travel!
 
 # Article Taxonomies
 categories:

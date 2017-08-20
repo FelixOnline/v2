@@ -13,7 +13,8 @@ aliases:
  - /tv/1999/in-memory-of-the-nations-favourite-detective
 imported: true
 comments:
- - Im going to have to disagree with you about this The film smeeed like a typical Richie film Poorly shot fast fight scene followed by an over the top almost holding your hand thru it fight scene The story was forgettable and very boring It also did not need to be told in 2 hours an hour and a half would have been fineI also felt like it got away from the feel of the books a lot Holmes had way more depth than some arrogant snarky detective And he used his powers of deduction to help him solve case not pretend to be psychic before he fights someoneAll and all a easily overlooked snooze that is certainly not more of the year
+ - value: >
+     Im going to have to disagree with you about this. The film smeeed like a typical Richie film. Poorly shot fast fight scene followed by an over the top, almost holding your hand thru it, fight scene. The story was forgettable, and very boring. It also did not need to be told in 2 hours, an hour and a half would have been fine.I also felt like it got away from the feel of the books a lot. Holmes had way more depth than some arrogant snarky detective. And he used his powers of deduction to help him solve case, not pretend to be psychic before he fights someone.All and all a easily overlooked snooze, that is certainly not more of the year.
 
 # Article Taxonomies
 categories:

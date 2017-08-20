@@ -13,7 +13,8 @@ aliases:
  - /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
 imported: true
 comments:
- - I am laughing I LOVE hroses I do However full disclosure here I do not own a single horse Darn it I take pictures of them as often as I can though Which I know is misleading My neighbor Sarah in Idaho however she is the one who may actually pony up on this challengeMarina Miller the writer that I cowrite the Sun books with   amseowe little books about a native girl from the past and her horse   has just given an interview at Enchanted Pony Books  pfizer viagra   case people   accutane clears   average savings car insurance
+ - value: >
+     I am laughing!!!! I LOVE hroses! I do. However, full disclosure here, I do not own a single horse. Darn it. I take pictures of them as often as I can, though. Which I know is misleading. My neighbor Sarah in Idaho, however, she is the one who may actually "pony up" on this challenge.,Marina Miller, the writer that I co-write the Sun books with <a href="http://pdfbdcbtw.com"> amseowe</a> little books about a native girl from the past and her horse has just given an interview at Enchanted Pony Books!, pfizer viagra case people accutane clears average savings car insurance
 
 # Article Taxonomies
 categories:

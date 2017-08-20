@@ -13,7 +13,8 @@ aliases:
  - /games/3634/bringing-ink-to-a-gunfight
 imported: true
 comments:
- - Shame we have to put up with Microsofts desperate sclrmbae for timed exclusivity on yet another great looking game but guys as soon you have this available on PC Im gonna be right there on day one  Looks awesomeI know you cant talk about it but Im assuming like so many other MS Studios coproductions Limbo Braid Joe Danger 2 etc this will find its way to PSN sooner or later  wink wink nudge nudge eh    Just saying cos Id probably double dip if and when it doesNo interest in another Xbox at this stage  Those things couldnt be any less reliable if they were made out of tissue paperSon las sorpresas que da el coimprtamoento humanoO son las estadisticas Quie9n sabeNo todos piensan como tfa   esta lista no se corresponde ni de cof1a con la que tfa imaginas que deberia ser
+ - value: >
+     Shame we have to put up with Microsoft's desperate sclrmbae for timed exclusivity on yet another great looking game, but guys, as soon you have this available on PC, I'm gonna be right there on day one. Looks awesome.I know you can't talk about it, but I'm assuming like so many other MS Studios co-productions (Limbo, Braid, Joe Danger 2, etc) this will find it's way to PSN sooner or later wink wink nudge nudge, eh? Just saying cos I'd probably double dip if and when it does.No interest in another Xbox at this stage. Those things couldn't be any less reliable if they were made out of tissue paper.,Son las sorpresas que da el<a href="http://vyuexuyamv.com"> coimprtamoento</a> humanoO son las estadisticas? Quie9n sabe?No todos piensan como tfa , esta lista no se corresponde ni de cof1a con la que tfa imaginas que deberia ser.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/2446/i-am-an-anti-christ-i-am-an-anarchist
 imported: true
 comments:
- - Heres PILs new material from the EP they released recently Could the editor possibly put this up as wellhttpwwwyoutubecomwatchvgmu8iPLJ08No problem
+ - value: >
+     Here's PIL's new material from the EP they released recently. Could the editor possibly put this up as well? <br> <br>http://www.youtube.com/watch?v=gmu8iPLJ0-8,No problem!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/3070/ams-albums-of-the-year
 imported: true
 comments:
- - Weirdest moment of my summer was hearing Oblivion come on in a branch of Eroski  in Palma De Mallorca
+ - value: >
+     Weirdest moment of my summer was hearing Oblivion come on in a branch of Eroski in Palma De Mallorca.
 
 # Article Taxonomies
 categories:

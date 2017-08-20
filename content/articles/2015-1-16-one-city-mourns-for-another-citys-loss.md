@@ -13,7 +13,8 @@ aliases:
  - /news/5090/one-city-mourns-for-another-citys-loss
 imported: true
 comments:
- - cartierbraceletlove       faux occasion rolex daytona urlhttpwwwmovementwatchcnreplicarolexdaytonawatchblackdialstainlesssteelgoldplatedstrapformenp724faux occasion rolex daytonaurlThe dude on the pic 4 s last name is Horvath  originating from Croatia where we also follow therbigadecom   Good luck to all of you guys risking your lives on the field
+ - value: >
+     cartierbraceletlove Бушка пытается рейтинг своего гниложурнала поднять? <br> faux occasion rolex daytona [url=http://www.movement-watch.cn/replica-rolex-daytona-watch-black-dial-stainless-steel-goldplated-strap-for-men-p724/]faux occasion rolex daytona[/url],The dude on the pic #4 's last name is Horvath – originating from Croatia, where we also follow therbigade.com Good luck to all of you guys risking your lives on the field
 
 # Article Taxonomies
 categories:

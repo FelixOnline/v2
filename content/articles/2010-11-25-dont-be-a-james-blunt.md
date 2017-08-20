@@ -13,7 +13,8 @@ aliases:
  - /comment/442/dont-be-a-james-blunt-
 imported: true
 comments:
- - Somewhat reminiscent of the Hoffs claims that he was to thank for the end of the Cold War But who are we to doubt the HoffI find it a bit sad that there is no photo of me hanging on the walls in the Berlin Museum at Checkpoint Charliehttpnewsbbccouk1hi3465301stmThats more than snesible Thats a great postfcdxKz  fzmsrdadcmom
+ - value: >
+     Somewhat reminiscent of the Hoff's claims that he was to thank for the end of the Cold War. But who are we to doubt the Hoff? <br> <br>"I find it a bit sad that there is no photo of me hanging on the walls in the Berlin Museum at Checkpoint Charlie." <br> <br>http://news.bbc.co.uk/1/hi/3465301.stm,Thats more than snesible! Thats a great post!,fcdxKz <a href="http://fzmsrdadcmom.com/">fzmsrdadcmom</a>
 
 # Article Taxonomies
 categories:

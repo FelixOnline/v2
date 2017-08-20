@@ -13,7 +13,8 @@ aliases:
  - /news/1469/warning-over-campus-thefts
 imported: true
 comments:
- - The picture of the warrant card holder looks exactly the same as my one except the  braille on the photo is upside down That is strange as the braille bar is held by 2 pins on each end So how that is upside down is baffling
+ - value: >
+     The picture of the warrant card holder looks exactly the same as my one except the braille on the photo is upside down. That is strange as the braille bar is held by 2 pins on each end. So how that is upside down is baffling!
 
 # Article Taxonomies
 categories:

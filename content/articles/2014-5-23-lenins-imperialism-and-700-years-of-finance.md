@@ -13,7 +13,8 @@ aliases:
  - /comment/4620/lenins-imperialism-and-700-years-of-finance
 imported: true
 comments:
- - that I shall consider in a subsequent articlePlease God no No more
+ - value: >
+     "that I shall consider in a subsequent article" <br> <br>Please, God, no. No more.
 
 # Article Taxonomies
 categories:

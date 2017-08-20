@@ -13,7 +13,8 @@ aliases:
  - /news/1912/interview-trevor-rayment
 imported: true
 comments:
- - Why have the Candidates failed so mirbsaely to produce and distribute at least a modicum of publicity on their behalfs As far as I can make out you just put your name down expect everyone to visit your website if  you have one and  if they are computer literate that is then vote you in Rank arrogance if you cant be bothered to state your position and state what your aims are why anyone should vote for you
+ - value: >
+     Why have the Candidates failed so <a href="http://qxyyxyak.com">mirbsaely</a> to produce and distribute at least a modicum of publicity on their behalf's. As far as I can make out you just put your name down, expect everyone to visit your website if you have one and if they are computer literate that is then vote you in. Rank arrogance if you can't be bothered to state your position and state what your aims are why anyone should vote for you.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/3242/light-entertainment
 imported: true
 comments:
- - Until I found this I thhugot Id have to spend the day inside
+ - value: >
+     Until I found this I thhugot I'd have to spend the day inside.
 
 # Article Taxonomies
 categories:

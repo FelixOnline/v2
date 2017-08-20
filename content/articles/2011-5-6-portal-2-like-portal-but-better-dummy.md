@@ -13,7 +13,8 @@ aliases:
  - /games/1173/portal-2-like-portal-but-better-dummy
 imported: true
 comments:
- - Excellent idea for an article and a great way to differentiate from all the other Portal 2 writeups GrandSonuds great to me BWTHDIKDjHGSh  bwvftvnstetm
+ - value: >
+     Excellent idea for an article, and a great way to differentiate from all the other Portal 2 write-ups. Grand!,Sonuds great to me BWTHDIK,DjHGSh <a href="http://bwvftvnstetm.com/">bwvftvnstetm</a>
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/1747/that-dangerous-o-word
 imported: true
 comments:
- - Nice article
+ - value: >
+     Nice article!
 
 # Article Taxonomies
 categories:

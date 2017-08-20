@@ -13,7 +13,8 @@ aliases:
  - /food/6109/live-and-let-live-as-long-as-youre-not-tasty
 imported: true
 comments:
- - MRKRwP  sjjwuaybbvka urlhttploygoyqepecvcomloygoyqepecvurl linkhttpbqfkoufjnrcycombqfkoufjnrcylink httpycncfojytnrecom
+ - value: >
+     MRKRwP sjjwuaybbvka, [url=http://loygoyqepecv.com/]loygoyqepecv[/url], [link=http://bqfkoufjnrcy.com/]bqfkoufjnrcy[/link], http://ycncfojytnre.com/
 
 # Article Taxonomies
 categories:

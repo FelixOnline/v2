@@ -13,7 +13,8 @@ aliases:
  - /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
 imported: true
 comments:
- - Thats hell lot of Pa Man went haaaaaaard Kudos for the great job on Stern  Grew up listening to your Dad and after herinag you Thursday morning I love the fun innocence in your voice  This will give you some really good exposure  You handled it with great composure  Hard to believe how you have grown up so fast  or worse yet that I have grown old as quickly  Thank you for doing the showI was so excited to hear you on Howard this moinnrg I heard your music a couple years ago and loved it but could never find it anywhere After listening to your interview I went directly to iTunes and downloaded your single I look forward hearing a lot more You are a very smart girlI could tell by the way you handled yourself this moinnrg
+ - value: >
+     That's hell lot of P'a <br> <br>Man went haaaaaaard ,Kudos for the great job on Stern. Grew up listening to your Dad and after herinag you Thursday morning I love the fun innocence in your voice. This will give you some really good exposure. You handled it with great composure. Hard to believe how you have grown up so fast or worse yet.. that I have grown old as quickly. Thank you for doing the show!,I was so excited to hear you on Howard this <a href="http://vfkwls.com">moinnrg</a>. I heard your music a couple years ago and loved it, but could never find it anywhere. After listening to your interview, I went directly to iTunes and downloaded your single. I look forward hearing a lot more! You are a very smart girl;I could tell by the way you handled yourself this <a href="http://vfkwls.com">moinnrg</a>!
 
 # Article Taxonomies
 categories:

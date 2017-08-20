@@ -13,7 +13,8 @@ aliases:
  - /news/2982/revenge-of-the-hacks
 imported: true
 comments:
- - A low quality scattergun approach to hacking just to get big names to appear on a list These kinds of data dumps can be produced automatically by pointing a SQL Injection tool at a domain name where it will systematically attack every point of user input looking for vulnerabilitiesTheyve obviously not even checked for the value of some of the data extracted as the University of Bristols hacked data dump shows a very uninteresting and small set of species diversity dataHardly a groundbreaking attack
+ - value: >
+     A low quality, scattergun approach to hacking just to get big names to appear on a list. These kinds of data dumps can be produced automatically by pointing a SQL Injection tool at a domain name, where it will systematically attack every point of user input looking for vulnerabilities. <br> <br>They've obviously not even checked for the value of some of the data extracted, as the University of Bristol's "hacked" data dump shows a very uninteresting (and small) set of species diversity data. <br> <br>Hardly a groundbreaking attack.
 
 # Article Taxonomies
 categories:

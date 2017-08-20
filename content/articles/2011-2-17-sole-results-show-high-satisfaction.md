@@ -13,7 +13,8 @@ aliases:
  - /news/824/sole-results-show-high-satisfaction
 imported: true
 comments:
- - I took a language module this year and this is the best thing I have done for my brainhttpwwwindependentcouknewssciencespeakingasecondlanguagecandelaydementiaonsetforyears2219280html
+ - value: >
+     I took a language module this year and this is the best thing I have done for my brain. <br> <br>http://www.independent.co.uk/news/science/speaking-a-second-language-can-delay-dementia-onset-for-years-2219280.html
 
 # Article Taxonomies
 categories:

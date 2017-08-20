@@ -13,7 +13,8 @@ aliases:
  - /sport/3575/triic-sprint-to-the-finish
 imported: true
 comments:
- - The invention of the biclyce has had an enormous effect on society both in terms of culture and of advancing modern industrial methods Several components that eventually played a key role in the development of the automobile were invented for the biclyce including ball bearings pneumatic tires chaindriven sprockets and tensionspoked wheels
+ - value: >
+     The invention of the biclyce has had an enormous effect on society, both in terms of culture and of advancing modern industrial methods. Several components that eventually played a key role in the development of the automobile were invented for the biclyce, including ball bearings, pneumatic tires, chain-driven sprockets, and tension-spoked wheels.
 
 # Article Taxonomies
 categories:

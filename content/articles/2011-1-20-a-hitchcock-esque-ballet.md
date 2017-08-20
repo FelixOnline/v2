@@ -13,7 +13,8 @@ aliases:
  - /film/616/a-hitchcock-esque-ballet-
 imported: true
 comments:
- - how to get free facebook likes facebook fans buy buy facebook profiles how to get 1000 likes on facebook  buy 1000 facebook fans get facebook page fans buy facebook friends        facebook fans buy buy fb fans  how to get facebook likes fast
+ - value: >
+     how to get free facebook likes facebook fans buy buy facebook profiles how to get 1000 likes on facebook <a href="http://1000fbfans.info">buy 1000 facebook fans <br></a> get facebook page fans buy facebook friends <br>facebook fans buy buy fb fans <a href="http://1000fbfans.info">how to get facebook likes fast </a>
 
 # Article Taxonomies
 categories:

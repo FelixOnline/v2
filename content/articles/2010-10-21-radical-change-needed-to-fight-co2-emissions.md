@@ -13,7 +13,8 @@ aliases:
  - /science/231/radical-change-needed-to-fight-co2-emissions
 imported: true
 comments:
- - testing invalid comment
+ - value: >
+     testing invalid comment
 
 # Article Taxonomies
 categories:

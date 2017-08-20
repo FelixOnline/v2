@@ -13,7 +13,8 @@ aliases:
  - /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
 imported: true
 comments:
- - Wonderful priutces Meghan Diesel is such a snow dog   I love the priutces of him waiting for Casey and the  Diesel sandwich  Once again its hard for me to pick my favorites since all of your shots are lovely I enjoy seeing your priutces of the snow on the branches and plants   those scenes always take me back to being a kid in Pittsburgh and playing in the snow on an unscheduled day off from school I love seeing snow on evergreens Hope you keep warm while you play in the snow some more You just know that Diesel will want to go back out and catch some more snowballsJust incredible you guys we have been wnoierdng how you were in this snow storm  looks like you are going to be as cold as we are here in Vermont and with a lot more snow    Looks like you are enjoying this rare occasion  Love the photos  Have funLove from Vermont xoxo
+ - value: >
+     Wonderful priutces, Meghan! Diesel is such a snow dog! I love the priutces of him waiting for Casey, and the Diesel sandwich . Once again, it's hard for me to pick my favorites since all of your shots are lovely. I enjoy seeing your priutces of the snow on the branches and plants those scenes always take me back to being a kid in Pittsburgh and playing in the snow on an unscheduled day off from school. I love seeing snow on evergreens. Hope you keep warm while you play in the snow some more. You just know that Diesel will want to go back out and catch some more snowballs!,Just incredible you guys, we have been<a href="http://qklpblfezh.com"> wnoierdng</a> how you were in this snow storm looks like you are going to be as cold as we are here in Vermont and with a lot more snow . Looks like you are enjoying this rare occasion Love the photos Have fun!!!Love from Vermont xoxo
 
 # Article Taxonomies
 categories:

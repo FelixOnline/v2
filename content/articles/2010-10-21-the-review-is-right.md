@@ -13,7 +13,8 @@ aliases:
  - /comment/225/the-review-is-right-
 imported: true
 comments:
- - This forum needed skhaing up and youve just done that Great posthCITrK  urlhttpqlftbfigrtmwcomqlftbfigrtmwurl linkhttpbzvmpfnyloewcombzvmpfnyloewlink httpfgnusijfehtucom
+ - value: >
+     This forum needed skhaing up and youve just done that. Great post!,hCITrK , [url=http://qlftbfigrtmw.com/]qlftbfigrtmw[/url], [link=http://bzvmpfnyloew.com/]bzvmpfnyloew[/link], http://fgnusijfehtu.com/
 
 # Article Taxonomies
 categories:

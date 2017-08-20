@@ -13,7 +13,8 @@ aliases:
  - /biz/368/imperial-needs-to-start-raising-serious-money-
 imported: true
 comments:
- - Matt I think youve hit the nail on the headIf the College wants money from us when we graduate theyre going to have to do something about their student satisfaction
+ - value: >
+     Matt I think you've hit the nail on the head,If the College wants money from us when we graduate, they're going to have to do something about their student satisfaction.
 
 # Article Taxonomies
 categories:

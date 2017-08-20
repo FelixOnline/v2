@@ -13,7 +13,8 @@ aliases:
  - /news/728/student-protests-pass-peacefully-
 imported: true
 comments:
- - Good to see a tlanet at work I cant match thatjAMsrC  urlhttptetfkbbczozucomtetfkbbczozuurl linkhttpjizqytptiuwicomjizqytptiuwilink httpuojgwegposlqcom
+ - value: >
+     Good to see a tlanet at work. I cant match that.,jAMsrC , [url=http://tetfkbbczozu.com/]tetfkbbczozu[/url], [link=http://jizqytptiuwi.com/]jizqytptiuwi[/link], http://uojgwegposlq.com/
 
 # Article Taxonomies
 categories:

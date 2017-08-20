@@ -13,7 +13,8 @@ aliases:
  - /news/3565/the-next-lot-an-internship-at-imperial
 imported: true
 comments:
- - Its the institute of Biomedical Engineering not the one of Biomedical Science right in the body wrong in the subtitleImperial also charges 6th form students 30 to apply for work experience in its hospitals I kinda winced at the idea of losing 30 without getting any experience out of it so I imagine people a lot less well off than me may pass up that opportunity tooBut yeah this is not anywhere near the level of this articles subjectWhat might be useful to note is that Imperial College contact had no idea an auction would take place The original plan was to take two students the auction was entirely Westminsters doingI think someone from Imperial College would have known about it Westminster School were hardly going to auction off fictitious internships
+ - value: >
+     It's the institute of Biomedical Engineering, not the one of Biomedical Science (right in the body, wrong in the subtitle),Imperial also charges 6th form students £30 to apply for work experience in its hospitals. I kinda winced at the idea of losing £30 without getting any experience out of it, so I imagine people a lot less well off than me may pass up that opportunity too. <br> <br>But yeah, this is not anywhere near the level of this article's subject.,What might be useful to note is that Imperial College contact had no idea an auction would take place. The original plan was to take two students, the auction was entirely Westminster's doing.,I think someone from Imperial College would have known about it, Westminster School were hardly going to auction off fictitious internships?
 
 # Article Taxonomies
 categories:

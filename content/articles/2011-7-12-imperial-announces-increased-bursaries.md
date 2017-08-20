@@ -13,7 +13,8 @@ aliases:
  - /news/1449/imperial-announces-increased-bursaries
 imported: true
 comments:
- - Boom totally google plussed that Damn Im so 2011
+ - value: >
+     Boom, totally google plussed that. <br>Damn I'm so 2011.
 
 # Article Taxonomies
 categories:

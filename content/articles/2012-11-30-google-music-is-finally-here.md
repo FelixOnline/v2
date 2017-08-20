@@ -13,7 +13,8 @@ aliases:
  - /tech/3016/google-music-is-finally-here
 imported: true
 comments:
- - Good article man Im lovin Google music tooOne error I spotted its Samsung who manufacture the Nexus 10 not LG
+ - value: >
+     Good article man, I'm lovin Google music too. <br> <br>One error I spotted, it's Samsung who manufacture the Nexus 10, not LG :)
 
 # Article Taxonomies
 categories:

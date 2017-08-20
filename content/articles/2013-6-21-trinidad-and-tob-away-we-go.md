@@ -13,7 +13,8 @@ aliases:
  - /news/3737/trinidad-and-tob-away-we-go
 imported: true
 comments:
- - So many acronyms  OThis is a lovely thank you postGary Clyne
+ - value: >
+     So many acronyms! = O,This is a lovely thank you post! <br> <br>Gary Clyne
 
 # Article Taxonomies
 categories:

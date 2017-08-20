@@ -13,7 +13,8 @@ aliases:
  - /arts/1194/fusion-comes-to-london
 imported: true
 comments:
- - didnt you mean bunkercumbrothel
+ - value: >
+     didn't you mean bunker-cum-brothel?
 
 # Article Taxonomies
 categories:

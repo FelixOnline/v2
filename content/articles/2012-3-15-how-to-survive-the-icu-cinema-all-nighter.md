@@ -13,7 +13,8 @@ aliases:
  - /film/2366/how-to-survive-the-icu-cinema-all-nighter
 imported: true
 comments:
- - And what about Varsity the next day Planning on going to both should be immense
+ - value: >
+     And what about Varsity the next day???? Planning on going to both, should be immense...
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/4093/the-ashes-column
 imported: true
 comments:
- - hmmm The test will be Australias attack against the england batting line up If cook and co can contribute to Bells runs england will win easily But if not Then australia have a shout albeit only if Clarke is in his usual imperious form and barring any miracles from the England bowlers who have shown time and time again they have the ability to save games that the fragile batsmen have often looked like giving away Advantage EnglandCant wait for the Ashes to start The 30 scoreline from the summer does not tell the full story and I definitely agree that Australia look more threatening now Hoping for a close and exciting series with England winning of courseGreat preview especially the player by player breakdown of each team Im looking forward to seeing how this pans out
+ - value: >
+     hmmm.... The test will be Australia's attack against the england batting line up. If cook and co. can contribute to Bell's runs, england will win easily. But if not, Then australia have a shout, albeit only if Clarke is in his usual imperious form and barring any miracles from the England bowlers, who have shown time and time again they have the ability to save games that the fragile batsmen have often looked like giving away. Advantage England.,Can't wait for the Ashes to start!! The 3-0 scoreline from the summer does not tell the full story and I definitely agree that Australia look more threatening now. Hoping for a close and exciting series... with England winning of course.,Great preview, especially the player by player breakdown of each team. I'm looking forward to seeing how this pans out.
 
 # Article Taxonomies
 categories:

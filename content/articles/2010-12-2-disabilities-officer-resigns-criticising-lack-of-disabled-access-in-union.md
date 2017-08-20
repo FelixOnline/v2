@@ -13,7 +13,8 @@ aliases:
  - /news/502/disabilities-officer-resigns-criticising-lack-of-disabled-access-in-union-
 imported: true
 comments:
- - I wish Nicola Hopkins had not resigned so she could help meI have Aspergers Syndrome and distrust the Disabilities Services and my department head and few others who have mistreated me since I startedThey made me feel bad about myselfI worked very hard to get accepted by Imperial College having gone through major knee surgeries and now after 2 years I feel bad being thereEveryone finds me strange and I have no friendsPlease tell others about Aspergers so they understand people like me cannot help the way we areIm sorry to hear this I too felt very mistreated by the Colleges disability services when I approached them for help They treated me like it was my fault So Ive decided to get help privately
+ - value: >
+     I wish Nicola Hopkins had not resigned so she could help me.I have Aspergers Syndrome and distrust the Disabilities Services and my department head and few others who have mistreated me since I started.They made me feel bad about myself.I worked very hard to get accepted by Imperial College having gone through major knee surgeries and now after 2 years I feel bad being there.Everyone finds me strange and I have no friends.Please tell others about Aspergers so they understand people like me cannot help the way we are. <br> <br> <br> <br> <br> <br> <br>,I'm sorry to hear this. I too felt very mistreated by the College's disability services when I approached them for help. They treated me like it was my fault. So I've decided to get help privately.
 
 # Article Taxonomies
 categories:

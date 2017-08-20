@@ -13,7 +13,8 @@ aliases:
  - /music/2409/bloc-bigger-better-and-free-
 imported: true
 comments:
- - Its DOOM  remember all caps when you spell the mad nameYou can easlily acquire small quantities of your money because of Borrowing On Demand from customers close to hand the quite a number ofinstant payday loans httpecologyportalruforumthreads15392NextgeniPhone10Scomingsoonwaitusp33242
+ - value: >
+     It's "DOOM" - remember all caps when you spell the mad name!,You can easlily acquire small quantities of your money because of Borrowing On Demand from customers close to hand the quite a number of. <br>instant payday loans http://ecology-portal.ru/forum/threads/15392-Nextgen-iPhone-10S-coming-soon-wait-us?p=33242
 
 # Article Taxonomies
 categories:

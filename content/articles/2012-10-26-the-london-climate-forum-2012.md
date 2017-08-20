@@ -13,7 +13,8 @@ aliases:
  - /news/2734/the-london-climate-forum-2012-
 imported: true
 comments:
- - This is a really shit troll whoever it isWhos lame enough to pretend to be James get a life and get over yourself
+ - value: >
+     This is a really shit troll whoever it is. <br> <br>Who's lame enough to pretend to be James, get a life and get over yourself. <br> <br>
 
 # Article Taxonomies
 categories:

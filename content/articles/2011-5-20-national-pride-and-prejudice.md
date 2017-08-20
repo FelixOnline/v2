@@ -13,7 +13,8 @@ aliases:
  - /comment/1232/national-pride-and-prejudice
 imported: true
 comments:
- - Youre the gaetrest JMHOlkXE7A  wittzokvyvwc
+ - value: >
+     You're the gaetrest! JMHO,lkXE7A <a href="http://wittzokvyvwc.com/">wittzokvyvwc</a>
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/2437/unseen-imperial
 imported: true
 comments:
- - My respect to people fighting with depression  dont give up you will make it through
+ - value: >
+     My respect to people fighting with depression - dont give up, you will make it through.
 
 # Article Taxonomies
 categories:

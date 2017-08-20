@@ -13,7 +13,8 @@ aliases:
  - /comment/6176/scientists-need-to-start-caring-about-politics
 imported: true
 comments:
- - Good read and very well written
+ - value: >
+     Good read and very well written!
 
 # Article Taxonomies
 categories:

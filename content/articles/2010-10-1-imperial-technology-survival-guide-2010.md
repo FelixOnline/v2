@@ -13,7 +13,8 @@ aliases:
  - /tech/162/imperial-technology-survival-guide-2010
 imported: true
 comments:
- - If anyone would like a hand connecting a Nokia smartphone to ImperialWPA post here and Ill reply with some certificate hackery Not sure about Maemo etc but Symbian models definitely require a few tweaks to get connected
+ - value: >
+     If anyone would like a hand connecting a Nokia smartphone to Imperial-WPA, post here and I'll reply with some certificate hackery! Not sure about Maemo etc but Symbian models definitely require a few tweaks to get connected.
 
 # Article Taxonomies
 categories:

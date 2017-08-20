@@ -13,7 +13,8 @@ aliases:
  - /arts/5672/hamlet-panoptod-into-the-union
 imported: true
 comments:
- - RBJM5L  yixlssuplabr urlhttphsqkwitzjeykcomhsqkwitzjeykurl linkhttpuetwzicgjhsacomuetwzicgjhsalink httpxcmhbdttguwpcom
+ - value: >
+     RBJM5L yixlssuplabr, [url=http://hsqkwitzjeyk.com/]hsqkwitzjeyk[/url], [link=http://uetwzicgjhsa.com/]uetwzicgjhsa[/link], http://xcmhbdttguwp.com/
 
 # Article Taxonomies
 categories:

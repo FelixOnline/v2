@@ -13,7 +13,8 @@ aliases:
  - /news/2305/interviewing-the-faculty-union-presidents
 imported: true
 comments:
- - You dont seem to have a clue Producing 1000 handbooks about the CGCU is hardly improving it The CGCU has always produced handbooks Archangel isnt a traditional CGCU event It happened two years ago because ICU wouldnt let Guilds use the bar Oh and competitive rivalry doesnt originate from mascotry Its entirely the other way around Oh well at least you got to meet lots of important peopleAgree with the above commentFunny GSA is a faculty union and even felix doesnt give a tosslulz  the GSA calling themselves a faculty union
+ - value: >
+     You don't seem to have a clue. Producing 1,000 handbooks about the CGCU is hardly "improving" it. The CGCU has always produced handbooks! Archangel isn't a "traditional" CGCU event. It happened two years ago because ICU wouldn't let Guilds use the bar. Oh, and competitive rivalry doesn't "originate from mascotry". It's entirely the other way around. <br> <br>Oh well, at least you got to meet lots of important people.,Agree with the above comment.,Funny. GSA is a faculty union and even felix doesn't give a toss,lulz @ the GSA calling themselves a "faculty union"
 
 # Article Taxonomies
 categories:

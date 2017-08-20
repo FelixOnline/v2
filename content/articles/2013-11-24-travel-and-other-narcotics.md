@@ -13,7 +13,8 @@ aliases:
  - /travel/4133/travel-and-other-narcotics
 imported: true
 comments:
- - It seems that any of rss feed is not workingEg httpfelixonlinecoukrssphpcattravelWould you fix itHi Anon  thanks for pointing that out Well fix it soon Felix webdev
+ - value: >
+     It seems that any of rss feed is not working. <br>Eg. http://felixonline.co.uk/rss.php?cat=travel <br> <br>Would you fix it?,Hi Anon - thanks for pointing that out! We'll fix it soon. <br> <br>-- Felix webdev
 
 # Article Taxonomies
 categories:

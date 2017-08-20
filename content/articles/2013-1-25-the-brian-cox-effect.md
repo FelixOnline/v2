@@ -13,7 +13,8 @@ aliases:
  - /news/3177/the-brian-cox-effect
 imported: true
 comments:
- - I am big fan of Brian Cox as a science promoter but not so much of his technical knowledge Does anyone remember he said 2 electrons cant occupy the same energy level on BBC This btw is wrong for you biologists and etc out there I am of course not part of this Brian Cox Effect and I doubt there exist any student here at Imperial who is Basically he is good for science funding and entertainment of the general public My favorite video of him is by far httpwwwyoutubecomwatchvtDkVSAN4NU
+ - value: >
+     I am big fan of Brian Cox as a science promoter, but not so much of his technical knowledge. Does anyone remember he said 2 electrons can't occupy the same energy level on BBC?? (This btw is wrong, for you biologists and etc. out there) I am of course not part of this "Brian Cox Effect", and I doubt there exist any student here at Imperial who is. Basically, he is good for science funding and entertainment of the general public. My favorite video of him is by far http://www.youtube.com/watch?v=tDkVS-AN4NU <br> <br> <br>
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5717/college-fees-likely-to-rise-under-new-plans
 imported: true
 comments:
- - Sustain the exceptional work  Lovin itMichel Platini httpactuafreearticlescomindexphppagearticlearticle_id436945
+ - value: >
+     Sustain the exceptional work !! Lovin' it! <br>Michel Platini http://actuafreearticles.com/index.php?page=article&amp;article_id=436945
 
 # Article Taxonomies
 categories:

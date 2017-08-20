@@ -13,7 +13,8 @@ aliases:
  - /film/5779/documentary-corner-indie-game-the-movie
 imported: true
 comments:
- -
+ - value: >
+     Лучи солнца здесь
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/633/feasibility-of-longer-day-called-into-question-
 imported: true
 comments:
- - Its so typical that civ eng is supporting this In first year language students dont always get a lunch break not even 1 hour A 2 hour break is a luxury And it wouldnt surprise me if they wanted to start scheduling lectures until 7pmJust a piece of advice Stop ciselling away at the humanities every single year I know it may sound strange for some but a lot of my fellow students ended up choosing Imperial because of them at the end of the daylets be serious nobody chooses Imperial for the Humanities coursesit may sound strange told you
+ - value: >
+     It's so typical that civ eng is supporting this. In first year, language students don't always get a lunch break (not even 1 hour)! A 2 hour break is a luxury. And it wouldn't surprise me if they wanted to start scheduling lectures until 7pm...,Just a piece of advice... Stop ciselling away at the humanities every single year! I know it may sound strange for some but a lot of my fellow students ended up choosing Imperial because of them at the end of the day. <br>,let's be serious, nobody chooses Imperial for the Humanities courses...,it may sound strange... told you. <br>
 
 # Article Taxonomies
 categories:

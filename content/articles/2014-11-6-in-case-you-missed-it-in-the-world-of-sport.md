@@ -13,7 +13,8 @@ aliases:
  - /sport/4779/in-case-you-missed-it-in-the-world-of-sport
 imported: true
 comments:
- - Wow that was strange I just wrote an very long comment but after I clicked submit my comment didn7821t show up Grrrr well Im not writing all that over again Regardless just wanted to say fantastic blog
+ - value: >
+     Wow that was strange. I just wrote an very long comment but after I clicked submit my comment didn7#821&amp;;t show up. Grrrr… well I’m not writing all that over again. Regardless, just wanted to say fantastic blog!
 
 # Article Taxonomies
 categories:

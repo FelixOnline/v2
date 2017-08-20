@@ -13,7 +13,8 @@ aliases:
  - /sport/78/sports-of-yesteryear-morphy-day
 imported: true
 comments:
- - LETS BRING IT BACK RAGI took part in what was probably one of the last if not the last running of the battle if not the boat race We took vans down to Billingsgate and Smithfields to collect dustbins full of offals and rotten veg manufactured outfits of pink binliners and gaffer tape and set to My strongest memory is of being pursued by three Guilds berserkers each armed with a sheeps trachea and lungs as a very effective if gruesome flail Afterwards we all headed to Harrrods for cream teas  still covered in gruesomeness The expectation was that we would be denied service and it came as an expensive surprise when we were served I believe that local residents complained about the amount of decaying organic matter left behind afterwards Perhaps bring back the boat racing but not the offalbattle
+ - value: >
+     LET'S BRING IT BACK RAG,I took part in what was probably one of the last (if not the last) running of the battle (if not the boat race). <br>We took vans down to Billingsgate and Smithfields to collect dustbins full of offals and rotten veg, manufactured outfits of pink bin-liners and gaffer tape and set to. <br> <br>My strongest memory is of being pursued by three Guilds berserkers, each armed with a sheeps trachea and lungs as a very effective, if gruesome flail. <br> <br>Afterwards we all headed to Harrrods for cream teas. (still covered in gruesomeness). The expectation was that we would be denied service, and it came as an expensive surprise when we were served. <br> <br>I believe that local residents complained about the amount of decaying organic matter left behind afterwards. Perhaps bring back the boat racing, but not the offal-battle.
 
 # Article Taxonomies
 categories:

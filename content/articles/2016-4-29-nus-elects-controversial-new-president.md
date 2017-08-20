@@ -13,7 +13,8 @@ aliases:
  - /news/6091/nus-elects-controversial-new-president
 imported: true
 comments:
- - Shes not black ethnically shes an Algerian Arab You cant just say youre black and then suddenly you become blackMuch more worrying than her attempt to be transracial is this fondness she has for ISIS Im glad Imperial isnt affiliated with the NUS any more its basically become a front for the extremist fringe of the leftwingIm not sure being an Algerian Arab precludes you from from being blackYeah but just look at her shes not even slightly black This is just like Rachel Dolezal and the NAACP
+ - value: >
+     She's not black, ethnically she's an Algerian Arab. You can't just say you're black and then suddenly you become black.<br>Much more worrying than her attempt to be 'transracial' is this fondness she has for ISIS. I'm glad Imperial isn't affiliated with the NUS any more, it's basically become a front for the extremist fringe of the left-wing.,I'm not sure being an Algerian Arab precludes you from from being black,Yeah but just look at her, she's not even slightly black. This is just like Rachel Dolezal and the NAACP.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /books/2100/the-kingkiller-chronicle
 imported: true
 comments:
- - Great article I love the book And the mythic backstory is a great source of discussions among my friends on how the 3rd book should be likeThe trilogy is definately better than Song of Ice and Fire
+ - value: >
+     Great article, I love the book. And the mythic back-story is a great source of discussions among my friends on how the 3rd book should be like. <br> <br>The trilogy is definately better than Song of Ice and Fire.
 
 # Article Taxonomies
 categories:

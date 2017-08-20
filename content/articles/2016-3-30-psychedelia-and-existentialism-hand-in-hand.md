@@ -13,7 +13,8 @@ aliases:
  - /arts/6083/psychedelia-and-existentialism-hand-in-hand
 imported: true
 comments:
- - hubuBW  skburbwffaro urlhttpkhqqrbjzmxngcomkhqqrbjzmxngurl linkhttppqkyxloatjepcompqkyxloatjeplink httpqhsfesaeiagvcom
+ - value: >
+     hubuBW skburbwffaro, [url=http://khqqrbjzmxng.com/]khqqrbjzmxng[/url], [link=http://pqkyxloatjep.com/]pqkyxloatjep[/link], http://qhsfesaeiagv.com/
 
 # Article Taxonomies
 categories:

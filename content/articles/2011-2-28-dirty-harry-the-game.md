@@ -13,7 +13,8 @@ aliases:
  - /games/935/dirty-harry-the-game
 imported: true
 comments:
- - Holy crap I never knew any of this Awesome
+ - value: >
+     Holy crap. I never knew any of this. Awesome.
 
 # Article Taxonomies
 categories:

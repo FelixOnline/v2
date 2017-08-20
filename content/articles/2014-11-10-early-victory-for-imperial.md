@@ -13,7 +13,8 @@ aliases:
  - /sport/4834/early-victory-for-imperial
 imported: true
 comments:
- - Dvate ako kritrium vzdialenos do prce ktor si vek vina zvoli neme ale konkrtny druh dopravy no altuorotejbus bicykel peo a toto sa bodovo nezohaduje A i ke rozumiem filozofii preo nie pri finlnom hodnoten by pri rovnosti bodov mohol by zvhodnen saiaci ktor sa v najvej miere prepravoval sm Na tie km sa niekto me pozera aj cez optiku e ekologickej je predsa ten kto m prcu bliie a minie na presun menej energie
+ - value: >
+     DÃ¡vate ako kritÃ©rium vzdialenosÅ¥ do prÃ¡ce, ktorÃº si veÄ¾kÃ¡ vÃ¤ÄÅ¡ina zvoliÅ¥ nemÃ´Å¾e, ale konkrÃ©tny druh dopravy Ã¡no (a/lt-uorotejbus, bicykel, peÅ¡o) a toto sa bodovo nezohÄ¾adÅˆuje. A i keÄ rozumiem filozofii preÄo nie, pri finÃ¡lnom hodnotenÃ­ by pri rovnosti bodov mohol byÅ¥ zvÃ½hodnenÃ½ sÃºÅ¥aÅ¾iaci, ktorÃ½ sa v najvÃ¤ÄÅ¡ej miere prepravoval sÃ¡m. Na tie km sa niekto mÃ´Å¾e pozeraÅ¥ aj cez optiku, Å¾e ekologickejÅ¡Ã­ je predsa ten, kto mÃ¡ prÃ¡cu bliÅ¾Å¡ie a minie na presun menej energie.
 
 # Article Taxonomies
 categories:

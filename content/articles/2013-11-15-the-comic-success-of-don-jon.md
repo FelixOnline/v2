@@ -13,7 +13,8 @@ aliases:
  - /film/4057/the-comic-success-of-don-jon
 imported: true
 comments:
- - Really well written reviewI want to go see Don Jon
+ - value: >
+     Really well written review! <br> <br>I want to go see Don Jon!
 
 # Article Taxonomies
 categories:

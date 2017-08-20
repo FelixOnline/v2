@@ -13,7 +13,8 @@ aliases:
  - /science/6751/ending-the-cycle-of-junk
 imported: true
 comments:
- - I cant believe youre not playing with methat was so helpful
+ - value: >
+     I can't believe you're not playing with meth--at was so helpful.
 
 # Article Taxonomies
 categories:

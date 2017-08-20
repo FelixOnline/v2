@@ -13,7 +13,8 @@ aliases:
  - /news/326/students-hit-by-visa-changes
 imported: true
 comments:
- - Thanks for sharing Awlays good to find a real expert
+ - value: >
+     Thanks for sharing. Awlays good to find a real expert.
 
 # Article Taxonomies
 categories:

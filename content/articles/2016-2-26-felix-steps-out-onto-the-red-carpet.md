@@ -13,7 +13,8 @@ aliases:
  - /film/5970/felix-steps-out-onto-the-red-carpet
 imported: true
 comments:
- - thnx for sharing this great sitecs go skins changer httpfingerlakesunpluggedcomusersgame2k15mtblogslistcounterstrikeskinsgamblingwebsites
+ - value: >
+     thnx for sharing this great site.| <br>cs go skins changer http://fingerlakesunplugged.com/users/game2k15mt/blogs/list-counter-strike-skins-gambling-websites
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/4293/black-metal-and-a-crywank
 imported: true
 comments:
- - Really sorry for seeming grumpy guys and thanks so much for the lovely words I was really upset I couldnt make some more noise for you all hence any grumpiness Exciting show announcement coming soon hope to see you there
+ - value: >
+     Really sorry for seeming grumpy guys, and thanks so much for the lovely words. I was really upset I couldn't make some more noise for you all, hence any grumpiness. Exciting show announcement coming soon, hope to see you there.
 
 # Article Taxonomies
 categories:

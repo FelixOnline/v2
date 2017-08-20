@@ -13,7 +13,8 @@ aliases:
  - /politics/1208/massacre-in-kenya
 imported: true
 comments:
- - Tut tutthe picture shown is not a Turkana herder but a poor innocent Samburu  Please dont dishonour this man so and change the picture
+ - value: >
+     Tut tut...the picture shown is not a Turkana herder but a poor innocent Samburu ! Please don't dishonour this man so, and change the picture.
 
 # Article Taxonomies
 categories:

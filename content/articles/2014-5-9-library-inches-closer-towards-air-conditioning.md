@@ -13,7 +13,8 @@ aliases:
  - /news/4565/library-inches-closer-towards-air-conditioning
 imported: true
 comments:
- - Marissa put the pun down and back away slowlyIm not sure why College didnt mention the real reason this hasnt happened before and are still the biggest barrier to it happening again the residents of Alexandra Court the flats behind the library on Queens Gate They even shot down plans to merely put solar shading on the windows httplivecgcunetnews1473If you wish to submit a comment to the application onlinehttpidoxpawestminstergovukonlineapplicationsapplicationDetailsdoactiveTabmakeCommentkeyValN4HRFLRPM2U00
+ - value: >
+     Marissa, put the pun down, and back away slowly. <br> <br>I'm not sure why College didn't mention the real reason this hasn't happened before, and are still the biggest barrier to it happening again: the residents of Alexandra Court, the flats behind the library on Queen's Gate. They even shot down plans to merely put solar shading on the windows (http://live.cgcu.net/news/1473).,If you wish to submit a comment to the application online: <br>http://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&amp;keyVal=N4HRFLRPM2U00
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /food/710/ski-food
 imported: true
 comments:
- - Agreed Nothing better
+ - value: >
+     Agreed. Nothing better!
 
 # Article Taxonomies
 categories:

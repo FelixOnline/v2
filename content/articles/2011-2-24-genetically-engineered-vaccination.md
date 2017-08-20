@@ -13,7 +13,8 @@ aliases:
  - /science/885/genetically-engineered-vaccination
 imported: true
 comments:
- - Its like you read my mind You seem to know so much about this like you wrote the book in it or something I think that you could do with some pics to drive the mesgase home a bit but other than that this is great blogTry Looking up some natural eenistsal oils  Tea tree is a good antibiotic lemon grass all the citrus eenistsal oils like lemon orange bergamot Also lavendar and peppermint eucalyptus there all great
+ - value: >
+     Its like you read my mind! You seem to know so much about this, like you wrote the book in it or something. I think that you could do with some pics to drive the mesgase home a bit, but other than that, this is great blog.,Try Looking up some natural<a href="http://uhwgofviwy.com"> eenistsal</a> oils. Tea tree is a good antibiotic, lemon grass, all the citrus<a href="http://uhwgofviwy.com"> eenistsal</a> oils like lemon, orange, bergamot, Also lavendar and peppermint, eucalyptus, there all great.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/5168/mapping-the-city--cartography-reimagined
 imported: true
 comments:
- - ka6jjV  vapnyqdybqzz urlhttpagdedfcfatmfcomagdedfcfatmfurl linkhttpxfeclmflwtybcomxfeclmflwtyblink httpyjtprtjwroqkcom
+ - value: >
+     ka6jjV vapnyqdybqzz, [url=http://agdedfcfatmf.com/]agdedfcfatmf[/url], [link=http://xfeclmflwtyb.com/]xfeclmflwtyb[/link], http://yjtprtjwroqk.com/
 
 # Article Taxonomies
 categories:

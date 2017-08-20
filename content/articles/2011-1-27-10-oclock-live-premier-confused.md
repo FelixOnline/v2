@@ -13,7 +13,8 @@ aliases:
  - /tv/687/10-oclock-live-premier-confused-
 imported: true
 comments:
- - I have set up a Facebook Wall called 10 oclock live is too smugly liberalhttpwwwfacebookcompages10oclockliveistoosmuglyliberal170188323029411
+ - value: >
+     I have set up a Facebook Wall called 10 o'clock live is too smugly liberal <br> <br>http://www.facebook.com/#!/pages/10-oclock-live-is-too-smugly-liberal/170188323029411
 
 # Article Taxonomies
 categories:

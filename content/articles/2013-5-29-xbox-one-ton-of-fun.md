@@ -13,7 +13,8 @@ aliases:
  - /tech/3628/xbox-one-ton-of-fun
 imported: true
 comments:
- - than adding more badge slots to apaper next to avatars our plans are to give users the ability to feature more of their badges on their profile pages So rather than or in addition to a row of  recent achievement  badges you would have another row  of customizable badge slotsPlus we want to create a feature that will allow you to easily browse through all of the badges a user has achieved and purchasedtomb raider dead space 3 cslatevania metal gear rising gow ascensionwatch dogs gow judgement gta 5and injustice they are the most anticipated for me
+ - value: >
+     than adding more badge slots to apaper next to avatars, our plans are to give users the ability to feature more of their badges on their profile pages. So rather than (or in addition to) a row of recent achievement badges, you would have another row of customizable badge slots.Plus, we want to create a feature that will allow you to easily browse through all of the badges a user has achieved and purchased.,tomb raider, dead space 3,<a href="http://hllmqek.com"> cslatevania</a>, metal gear rising, gow ascension,watch dogs, gow judgement, gta 5and injustice they are the most﻿ anticipated for me!!!!!!!!!!!!!!!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
 imported: true
 comments:
- - Berlusconi has just won a vote of confidence in the lower househttpwwwbbccouknewsworldeurope11992034
+ - value: >
+     Berlusconi has just won a vote of confidence in the lower house: <br> <br>http://www.bbc.co.uk/news/world-europe-11992034
 
 # Article Taxonomies
 categories:

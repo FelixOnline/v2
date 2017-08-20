@@ -13,7 +13,8 @@ aliases:
  - /news/5595/imperial-signs-research-deal-in-qatar
 imported: true
 comments:
- - ljglhW httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
+ - value: >
+     ljglhW http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
 
 # Article Taxonomies
 categories:

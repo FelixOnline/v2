@@ -13,7 +13,8 @@ aliases:
  - /tv/6108/weekly-game-of-thrones--s6-episode-1
 imported: true
 comments:
- - Hello excellent website you have herefifa 17 points httpwwwpanoramicethiopiatourcomindexphpcomponentk2itemlistuser189102Fiquei sabendo do trabalho da fundao essa semana e j marquei a palestra para a proxima sexta feira  21092012 Meu caso  fazer a FIV pois sou lahauidaTenqo muita f que em breve postarei timas noticias nessa pginaBjs  todosE boa sorte  todos ns
+ - value: >
+     Hello, excellent web-site you have here <br>fifa 17 points http://www.panoramicethiopiatour.com/index.php/component/k2/itemlist/user/189102,Fiquei sabendo do trabalho da fundaÃ§Ã£o essa semana ,e jÃ¡ marquei a palestra para a proxima sexta feira. ( 21/09/2012 )Meu caso Ã© fazer a FIV pois sou lahauida.Tenqo muita fÃ© que em breve postarei Ã³timas noticias nessa pÃ¡gina.Bjs Ã¡ todosE boa sorte Ã¡ todos nÃ³s .
 
 # Article Taxonomies
 categories:

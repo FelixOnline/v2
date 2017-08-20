@@ -13,7 +13,8 @@ aliases:
  - /comment/1581/is-the-imperial-stereotype-true
 imported: true
 comments:
- - is guilty of being a flatmate who forgot to order Sky BroadbandGO WARRINGTONwhat a fugly cowwhat a fugly cow
+ - value: >
+     *is guilty of being a flatmate who forgot to order Sky Broadband*,GO WARRINGTON!,what a fugly cow,what a fugly cow
 
 # Article Taxonomies
 categories:

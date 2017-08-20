@@ -13,7 +13,8 @@ aliases:
  - /music/389/tokyo-police-club-live
 imported: true
 comments:
- - Good review
+ - value: >
+     Good review! :)
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/804/long-distance-relationships
 imported: true
 comments:
- - Being somebody who dragged one out for about 3 years I can quite definitively say that its a fucking stupid idea and anyone who finds out about it will rightly think youre an idiotBeing somebody who dragged one out for about 3 years I can quite definitively say that its a fucking stupid idea and anyone who finds out about it will rightly think youre an idiotBlack Magic Spells
+ - value: >
+     Being somebody who dragged one out for about 3 years, I can quite definitively say that it's a fucking stupid idea, and anyone who finds out about it will rightly think you're an idiot.,Being somebody who dragged one out for about 3 years, I can quite definitively say that it's a fucking stupid idea, and anyone who finds out about it will rightly think you're an idiot.,<a href="http://blackmagicspells.co.cc">Black Magic Spells</a>
 
 # Article Taxonomies
 categories:

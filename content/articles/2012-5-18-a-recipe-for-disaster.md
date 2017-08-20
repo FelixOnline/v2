@@ -13,7 +13,8 @@ aliases:
  - /science/2468/a-recipe-for-disaster
 imported: true
 comments:
- - cool story bro Changed my life
+ - value: >
+     cool story bro. Changed my life
 
 # Article Taxonomies
 categories:

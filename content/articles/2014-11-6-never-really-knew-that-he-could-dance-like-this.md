@@ -13,7 +13,8 @@ aliases:
  - /cands/4794/never-really-knew-that-he-could-dance-like-this
 imported: true
 comments:
- - fitflops australia outletfitflop outlet httpfitflopsaublogspotcomchristian loubutinchristian louboutin outlet httpcanadachristianlouboutinblogspotcomIncredibly enlightening looking frontward to returningcs go skins prices httpblogyamcomnhl15newsarticle138923924
+ - value: >
+     fitflops australia outlet <br>fitflop outlet http://fitflopsau.blogspot.com/,christian loubutin <br>christian louboutin outlet http://canadachristianlouboutin.blogspot.com/,Incredibly enlightening looking frontward to returning.| <br>cs go skins prices http://blog.yam.com/nhl15news/article/138923924
 
 # Article Taxonomies
 categories:

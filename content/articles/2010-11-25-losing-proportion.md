@@ -13,7 +13,8 @@ aliases:
  - /comment/441/losing-proportion
 imported: true
 comments:
- - What an excellent article Good stuff
+ - value: >
+     What an excellent article... Good stuff.
 
 # Article Taxonomies
 categories:

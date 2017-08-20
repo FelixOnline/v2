@@ -13,7 +13,8 @@ aliases:
  - /politics/1543/the-medias-inevitable-right-wing-slant
 imported: true
 comments:
- - It is really dsitppoinaing that after so long in development PTC still does not seem to recognise the need for a drawing tool in what is claimed to be an engineering calculation program Why this continuing omission We have been maintaining the Mathcad subscription in the hope that the drawings tool would appear with the next release of Prime as indeed we were promised by our reseller at last years renewal but from the above comment this now appears to be a forlorn hope Without this tool the program is missing a vital link to explain the work and we now regretfully must reconsider the value of our continuing investment in this package for future workThats really thnkniig at a high levelThats really thnkniig at a high level
+ - value: >
+     It is really dsitppoinaing that after so long in development PTC still does not seem to recognise the need for a drawing tool in what is claimed to be an engineering calculation program. Why this continuing omission? We have been maintaining the Mathcad subscription in the hope that the drawings tool would appear with the next release of Prime, as indeed we were promised by our reseller at last year's renewal, but from the above comment this now appears to be a forlorn hope. Without this tool the program is missing a vital link to explain the work, and we now regretfully must reconsider the value of our continuing investment in this package for future work.,That's really <a href="http://fakawljvfr.com">thnkniig</a> at a high level,That's really <a href="http://fakawljvfr.com">thnkniig</a> at a high level
 
 # Article Taxonomies
 categories:

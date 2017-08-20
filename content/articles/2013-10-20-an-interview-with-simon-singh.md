@@ -13,7 +13,8 @@ aliases:
  - /books/3901/an-interview-with-simon-singh
 imported: true
 comments:
- - If its an interview with Simon Singh why have you put a picture of Matt Allinson in the article
+ - value: >
+     If it's an interview with Simon Singh, why have you put a picture of Matt Allinson in the article?????
 
 # Article Taxonomies
 categories:

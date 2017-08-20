@@ -13,7 +13,8 @@ aliases:
  - /film/5807/documentary-corner-jesus-camp
 imported: true
 comments:
- - Im bored to tears at work so I decided to discontinuance missing your spot on my iphone during lunch break I relish the info you outfit here and cant delay to pocket a look when I get home Im shocked at how quick your blog loaded on my transportable  Im not identical httpbuygenericpillcomThis is a highgrade extravagant article thanks on the side of sharing this illuminating information httpwwwrealedpillscom
+ - value: >
+     I'm bored to tears at work so I decided to discontinuance missing your spot on my iphone during lunch break. I relish the info you outfit here and can't delay to pocket a look when I get home. I'm shocked at how quick your blog loaded on my transportable .. I'm not identical <br>http://buygenericpill.com,This is a high-grade extravagant article thanks on the side of sharing this illuminating information. <br>http://www.realedpills.com
 
 # Article Taxonomies
 categories:

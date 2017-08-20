@@ -13,7 +13,8 @@ aliases:
  - /film/1613/change-begins-with-a-whisper
 imported: true
 comments:
- - Jon was correct in that you are a naartul at critique and it seems to be an excellent niche for you I would add that it is a good place to tone your muscles but your ability to wake people up has huge potential in something much bigger Meanwhile keep flexingI just want to tell you that I am just newbie to wlboeg and really loved your page Almost certainly Im likely to bookmark your website  You definitely come with fabulous well written articles Thanks a bunch for revealing your blog site
+ - value: >
+     Jon was correct in that you are a naartul at critique and it seems to be an excellent niche for you. I would add that it is a good place to tone your muscles but your ability to wake people up has huge potential in something much bigger. Meanwhile, keep flexing.,I just want to tell you that I am just newbie to<a href="http://cokxiqc.com"> wlboeg</a> and really loved your page. Almost certainly I’m likely to bookmark your website . You definitely come with fabulous well written articles. Thanks a bunch for revealing your blog site.
 
 # Article Taxonomies
 categories:

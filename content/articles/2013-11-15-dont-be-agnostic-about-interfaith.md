@@ -13,7 +13,8 @@ aliases:
  - /comment/4068/dont-be-agnostic-about-interfaith
 imported: true
 comments:
- - A very well written and thought provoking pieceThoroughly well presented case for Interfaith I hope the events in Interfaith week are as engaging as this article May God alleviate the plight of all those suffering due to their faith creed etc
+ - value: >
+     A very well written and thought provoking piece.,Thoroughly well presented case for Interfaith. I hope the events in Interfaith week are as engaging as this article :) <br>May God alleviate the plight of all those suffering due to their faith, creed etc
 
 # Article Taxonomies
 categories:

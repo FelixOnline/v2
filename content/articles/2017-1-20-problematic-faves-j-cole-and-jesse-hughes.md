@@ -13,7 +13,8 @@ aliases:
  - /music/6669/problematic-faves--j-cole-and-jesse-hughes
 imported: true
 comments:
- - An artist that I used to really admire and had listened to for years was outed as a rapist and while I sometimes still listen to his music its hard not to think about what he did
+ - value: >
+     An artist that I used to really admire and had listened to for years was outed as a rapist and while I sometimes still listen to his music, it's hard not to think about what he did.
 
 # Article Taxonomies
 categories:

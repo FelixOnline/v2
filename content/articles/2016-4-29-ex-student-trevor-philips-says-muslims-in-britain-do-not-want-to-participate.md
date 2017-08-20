@@ -13,7 +13,8 @@ aliases:
  - /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
 imported: true
 comments:
- - nba shop cyber mnday coupon code mlb shkp cyber mmonday deals coupons nhll shopmlb shopcm coupon code nba shop promo mlb shop promotional codeshttpukpollingreportcoukblogarchives9666very religious groups including Orthodox Jews or Catholics would likely have similar opinions on homosexuality and separatismWell done on thatYeah Catholicism is just a more religious group of Christians definitely not just a group with different beliefs Protestantism is just one step away from atheism reallyNot even going to start on the opinions on homosexualityYour proIslamic bias is showing again
+ - value: >
+     nba shop cyber mߋnday coupon code mlb shkp cyber mmonday deals <br>coupons nhll shop,mlb shop.cοm coupon code nba shop promo mlb shop promotional codes,http://ukpollingreport.co.uk/blog/archives/9666,"very religious groups, including Orthodox Jews or Catholics, would likely have similar opinions on homosexuality and separatism"<br>Well done on that...<br>Yeah, Catholicism is just a more religious group of Christians, definitely not just a group with different beliefs; Protestantism is just one step away from atheism really...<br>Not even going to start on the "opinions on homosexuality",Your pro-Islamic bias is showing again.
 
 # Article Taxonomies
 categories:

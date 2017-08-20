@@ -13,7 +13,8 @@ aliases:
  - /comment/2487/the-tale-of-why-i-hate-food-shopping
 imported: true
 comments:
- - Goodness me shopping is awkward isnt it I feel Ive found a kindred spirit
+ - value: >
+     Goodness me shopping is awkward isn't it. I feel I've found a kindred spirit.
 
 # Article Taxonomies
 categories:

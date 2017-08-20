@@ -13,7 +13,8 @@ aliases:
  - /comment/364/the-act-of-protest-is-admirable-but-higher-fees-make-sense
 imported: true
 comments:
- -       Goldfishka                goldfishkatv     Goldfishka                goldfishkatv      Goldfishka                goldfishkatv
+ - value: >
+     казино игровые автоматы играть бесплатно - Goldfishka (Голдфишка), интернет казино рулетка, игровые интернет казино, интернет автоматы казино, интернет казино игровые автоматы. Сайт goldfishka.tv,зароботок в интернет казино - Goldfishka (Голдфишка), интернет казино рулетка, игровые интернет казино, интернет автоматы казино, интернет казино игровые автоматы. Сайт goldfishka.tv,как выйграть в интернет казино - Goldfishka (Голдфишка), интернет казино рулетка, игровые интернет казино, интернет автоматы казино, интернет казино игровые автоматы. Сайт goldfishka.tv
 
 # Article Taxonomies
 categories:

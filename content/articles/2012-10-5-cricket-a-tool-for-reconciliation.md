@@ -13,7 +13,8 @@ aliases:
  - /comment/2620/cricket-a-tool-for-reconciliation
 imported: true
 comments:
- - How true people who says otherwise are ignorant of the way despotic governments use sporting success to mask serious abuses Tomorrow if Sri Lanka wins the Government and the president will hijack the whole victory march and pretend all is well in the country
+ - value: >
+     How true, people who says otherwise are ignorant of the way despotic governments use sporting success to mask serious abuses. Tomorrow if Sri Lanka wins, the Government and the president will hijack the whole victory march and pretend all is well in the country.
 
 # Article Taxonomies
 categories:

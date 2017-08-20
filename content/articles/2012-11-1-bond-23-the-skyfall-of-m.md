@@ -13,7 +13,8 @@ aliases:
  - /film/2804/bond-23-the-skyfall-of-m
 imported: true
 comments:
- - Great review The films a fantastic and fitting tribute to 50 years of Bond on the silver screenwhy are you hating what the fuck has him aksnig people to add him on facebook got to do with you faggot shut up and go find someone else to bully you cunt
+ - value: >
+     Great review. The film's a fantastic and fitting tribute to 50 years of Bond on the silver screen.,why are you hating!!! what the fuck has him aksnig people to add him on facebook got﻿ to do with you faggot shut up and go find someone else to bully you cunt
 
 # Article Taxonomies
 categories:

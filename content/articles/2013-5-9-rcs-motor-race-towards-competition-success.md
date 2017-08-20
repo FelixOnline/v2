@@ -13,7 +13,8 @@ aliases:
  - /news/3559/rcs-motor-race-towards-competition-success
 imported: true
 comments:
- - She has her camera anlges and this isnt her best shot  She is something like an inch and a half taller than EJ amd EJ isnt short  JW is 6 ft tall  Maybe she is wearing high heels and he tilted a bit toward her idk  His smile is funny awkward hereDoes anyone know how this show is rating  In the last interview that catgoh n chinggunie kindly translated JW was concerned about ratings
+ - value: >
+     She has her camera <a href="http://uorwttpyp.com">anlges</a> and this isn't her best shot. She is something like an inch and a half taller than EJ, amd EJ isn't short. JW is 6 ft tall. Maybe she is wearing high heels, and he tilted a bit toward her, idk. His smile is funny awkward here.Does anyone know how this show is rating? In the last interview that catgoh n chinggunie kindly translated, JW was concerned about ratings.
 
 # Article Taxonomies
 categories:

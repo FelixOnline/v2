@@ -13,7 +13,8 @@ aliases:
  - /news/3416/translation-unit-decision-delayed
 imported: true
 comments:
- - toda mi vidathatayoung the devil is in the details  And that coudlnt be much more true here Having said that let me inform you exactly what did deliver the results The writing is actually rather engaging and that is probably the reason why I am taking the effort in order to comment I do not make it a regular habit of doing that Secondly despite the fact that I can certainly see a jumps in reason you come up with I am not necessarily confident of how you appear to connect your details which help to make the conclusion For right now I will subscribe to your issue but trust in the foreseeable future you actually connect your facts much better
+ - value: >
+     toda mi vida,thatayoung,, the devil is in the details And that coudln't be much more true here. Having said that, let me inform you exactly what did deliver the results. The writing is actually rather engaging and that is probably the reason why I am taking the effort in order to comment. I do not make it a regular habit of doing that. Secondly, despite the fact that I can certainly see a jumps in reason you come up with, I am not necessarily confident of how you appear to connect your details which help to make the conclusion. For right now I will subscribe to your issue but trust in the foreseeable future you actually connect your facts much better.
 
 # Article Taxonomies
 categories:

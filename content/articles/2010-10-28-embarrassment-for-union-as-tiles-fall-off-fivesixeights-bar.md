@@ -13,7 +13,8 @@ aliases:
  - /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
 imported: true
 comments:
- - Hahaha Alex Kendall let slip that I chair had been broken when I was talking to him the other night but when I said what was that about a broken chair he managed to cover it up by saying oh no we were worried that one MIGHT get broken because theyre quite niceIll have to watch him Sneaky oDoh I wish Id proofread that comment before postingIts a real shame that the venues not been finished to a high enough standard FiveSixEight has the potential to be an awesome bar Itll be like what Eastside couldve been if it looked better was cheaper and had the longest student bar in Londontesting please ignore sorry for spam8f9zAg  urlhttpuycwhxmpnlmvcomuycwhxmpnlmvurl linkhttpkazlxcffrkfjcomkazlxcffrkfjlink httpmvjkmqvapxfecom
+ - value: >
+     Hahaha. Alex Kendall let slip that I chair had been broken when I was talking to him the other night, but when I said "what was that about a broken chair?" he managed to cover it up by saying "oh no, we were worried that one MIGHT get broken because they're quite nice...". <br> <br>I'll have to watch him. Sneaky. ;o),D'oh. I wish I'd proof-read that comment before posting.,It's a real shame that the venue's not been finished to a high enough standard. FiveSixEight has the potential to be an awesome bar. It'll be like what Eastside could've been if it looked better, was cheaper, and had the longest student bar in London.,testing... please ignore, sorry for spam,8f9zAg , [url=http://uycwhxmpnlmv.com/]uycwhxmpnlmv[/url], [link=http://kazlxcffrkfj.com/]kazlxcffrkfj[/link], http://mvjkmqvapxfe.com/
 
 # Article Taxonomies
 categories:

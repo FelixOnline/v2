@@ -13,7 +13,8 @@ aliases:
  - /features/6819/academy-awards-2017--our-predictions-of-who-will-win-and-who-should-win
 imported: true
 comments:
- - Thats 2 clever by half and 2x2 clever 4 me Thaksn
+ - value: >
+     That's 2 clever by half and 2x2 clever 4 me. Thaksn!
 
 # Article Taxonomies
 categories:

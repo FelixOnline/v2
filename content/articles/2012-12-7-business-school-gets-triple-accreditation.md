@@ -13,7 +13,8 @@ aliases:
  - /news/3022/business-school-gets-triple-accreditation
 imported: true
 comments:
- - This is good news for the BS however what is concerning is the massive drop in the FT league tables for most of their MSc courses  They have not said what the cause of this is  Poor teaching  Poor administration  Hopefully the rumoured BS restructuring next year will take care of this
+ - value: >
+     This is good news for the BS, however what is concerning is the massive drop in the FT league tables for most of their MSc courses. They have not said what the cause of this is? Poor teaching? Poor administration? Hopefully the rumoured BS restructuring next year will take care of this.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /food/1176/brad-pitt-isnt-the-only-reason-i-love-meet-joe-black
 imported: true
 comments:
- - Alamak Sweetie you missed it Its Singapores 1st ice cream feitsval by ben n jerry held at fort canning on 6 dec I dun meant that its for bloggers but some bloggers are invited to go there eat ice cream and write for the event hehenext time got interesting event i let u know okThe quote is beauadtiful Lisa and defadiadnitely says it allLittle Peanut looks just like aa0little angelThank you so very much for sharing with us this week at The Creative ExchangeSending you wsiehs for aa0beauadtiful Holiday dear friendlisa
+ - value: >
+     Alamak Sweetie, you missed it! It's Singapore's 1st ice cream feitsval by ben n jerry held at fort canning on 6 dec. I dun meant that it's for bloggers, but some bloggers are invited to go there eat ice cream and write for the event. hehenext time got interesting event i let u know ok?,The quote is beauadtiful Lisa, and defadiadnitely says it all.Little Peanut looks just like aa0little angel.Thank you so very much for sharing with us this week at The Creative Exchange.Sending you<a href="http://lcksbxdyi.com"> wsiehs</a> for aa0beauadtiful Holiday dear friend.lisa.
 
 # Article Taxonomies
 categories:

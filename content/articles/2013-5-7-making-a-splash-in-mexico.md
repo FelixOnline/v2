@@ -13,7 +13,8 @@ aliases:
  - /travel/3544/making-a-splash-in-mexico
 imported: true
 comments:
- - Mile  Hi NathanFirst of all congratulations for your phtoos you are undoubtly a PRO The place looks gorgeous my fiancee and I are also looking for venues on riviera maya one after another and still we havent totally found one that fits our needs  I am trying to contact milamores but their website is not working If you have by chance their email or number to provide me I would appreciate it a lotWarm regards Mile
+ - value: >
+     Mile - Hi NathanFirst of all, congratulations for your phtoos!! you are undoubtly a PRO. The place looks gorgeous, my fiancee and I are also looking for venues on riviera maya, one after another and still we haven't totally found one that fits our needs I am trying to contact milamores but their website is not working. If you have by chance their e.mail or number to provide me I would appreciate it a lot.Warm regards, Mile
 
 # Article Taxonomies
 categories:

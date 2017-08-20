@@ -13,7 +13,8 @@ aliases:
  - /food/2566/summer-sweetness
 imported: true
 comments:
- - it was very hard and she was tired all the time and dizzy She also lost all her body fat and all her muscle and had to have a long rest afdatwerrsSqueeze half a lemon  or one whole lemon in a glass of water every morning and evening to clean out your system And drink lots of water to flush your system  That will help clear up buttons and acne and stuff Nothing else is necessaryHiIve seen that in some blogs the name of the user is a link for a site How do you do that Do you put the href code in the name field of the comment form or it has to be done anortehwayI also try the  on a blog and it showed the html code instead of the anchor text Can you explain why in some blogs it work and on other blogs it doesntThanks
+ - value: >
+     it was very hard and she was tired all the time and dizzy. She also lost all her body fat and all her muscle and had to have a long rest afdatwerrs.Squeeze half a lemon or one whole lemon in a glass of water every morning and evening to clean out your system. And drink lots of water to flush your system. That will help clear up buttons and acne and stuff. Nothing else is necessary.,Hi,I've seen that in some blogs the name of the user is a link for a site. How do you do that?? Do you put the href code in the name field of the comment form or it has to be done <a href="http://heabjkemmd.com">anortehway</a>.I also try the on a blog and it showed the html code instead of the anchor text. Can you explain why in some blogs it work and on other blogs it doesn't??Thanks,
 
 # Article Taxonomies
 categories:

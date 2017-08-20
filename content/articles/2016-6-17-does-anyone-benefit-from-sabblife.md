@@ -13,7 +13,8 @@ aliases:
  - /comment/6274/does-anyone-benefit-from-sabblife
 imported: true
 comments:
- - As an entity spanning beyond their year of service sabb culture is bleak So many of them stay stuck in the Imperial College Union circle forever because they cant exist in the real world because there no one cares what theyre doingLove it I feel like juvenile articles like this devalue the Felix Call me a kill joy but I think we can do better I feel like juvenile comments like this devalue the Felix comments section Call me a kill joy but I think we can do better
+ - value: >
+     "As an entity spanning beyond their year of service, sabb culture is bleak. So many of them stay stuck in the Imperial College Union circle forever, because they can’t exist in the real world because there, no one cares what they’re doing".<br>Love it. ,I feel like juvenile articles like this devalue the Felix. Call me a kill joy but I think we can do better. ,I feel like juvenile comments like this devalue the Felix comments section. Call me a kill joy but I think we can do better.
 
 # Article Taxonomies
 categories:

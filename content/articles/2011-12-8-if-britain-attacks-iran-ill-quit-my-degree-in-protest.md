@@ -13,7 +13,8 @@ aliases:
  - /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
 imported: true
 comments:
- - Well of course if Imperial College invades Iran you should quit your oh wait Imperial wont be doing the invadingNonetheless Im sure it will be of great use and comfort to the people of IranOK that was a pretty bitchy commentBut I stand by the sentiment dammitx
+ - value: >
+     Well of course if Imperial College invades Iran you should quit your... oh wait, Imperial won't be doing the invading. <br> <br>Nonetheless, I'm sure it will be of great use and comfort to the people of Iran.,OK, that was a pretty bitchy comment... <br> <br>But I stand by the sentiment, dammit! <br> <br>x
 
 # Article Taxonomies
 categories:

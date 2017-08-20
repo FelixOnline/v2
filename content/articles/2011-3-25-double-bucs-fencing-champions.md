@@ -13,7 +13,8 @@ aliases:
  - /sport/1127/double-bucs-fencing-champions
 imported: true
 comments:
- - Nobody caresNormally new students start in the spnirg or fall  If you want to start some other time then you should contact Coach Thad Schmenk at 8436971528 or  to see if there are open slots  Please note that Thad is a school Principal  Hes a busy and nice guy  It may take him a few days to get back to youThe East of the Cooper Fencing club does not over lessons during the summerNo  Coach Thad Schmenk takes the summer off to reijuce his batteries  Classes resume in the fall  Registration is through City of Charleston Recreation or Mount Pleasant Recreation  Be sure to make their deadlines  Call coach Thad with questions  His phone number can be found on the About tab of this web site  Thanks for your interest  Fencing is a great mental and physical sport
+ - value: >
+     Nobody cares,Normally, new students start in the spnirg or fall. If you want to start some other time, then you should contact Coach Thad Schmenk at 843-697-1528 or to see if there are open slots. Please note that Thad is a school Principal. He's a busy (and nice) guy. It may take him a few days to get back to you.The East of the Cooper Fencing club does not over lessons during the summer.,No. Coach Thad Schmenk takes the summer off to <a href="http://jipang.com">reijuce</a> his batteries. Classes resume in the fall. Registration is through City of Charleston Recreation or Mount Pleasant Recreation. Be sure to make their deadlines. Call coach Thad with questions. His phone number can be found on the About tab of this web site. Thanks for your interest. Fencing is a great mental and physical sport.
 
 # Article Taxonomies
 categories:

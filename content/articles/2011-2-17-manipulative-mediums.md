@@ -13,7 +13,8 @@ aliases:
  - /comment/835/manipulative-mediums-
 imported: true
 comments:
- - And I tuhgoht I was the sensible one Thanks for setting me straightbx9tSY  hojaluzefhlg
+ - value: >
+     And I tuhgoht I was the sensible one. Thanks for setting me straight.,bx9tSY <a href="http://hojaluzefhlg.com/">hojaluzefhlg</a>
 
 # Article Taxonomies
 categories:

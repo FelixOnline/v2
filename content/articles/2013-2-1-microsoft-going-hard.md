@@ -13,7 +13,8 @@ aliases:
  - /tech/3240/microsoft-going-hard-
 imported: true
 comments:
- - omg loooolI have seen this so many timesI thought everyone had gotten wise by nowpretty sure it was a joke hahaWhy do they call it the Xbox 360 Because when you see it you turn 360 degrees and walk awayBecause when you see it you turn 360 degrees and walk awayErr not sure you thought that one throughJonas Just because its an internet meme does not make it funny or worth listening to
+ - value: >
+     omg looool...I have seen this so many times...I thought everyone had gotten wise by now,pretty sure it was a joke haha,Why do they call it the Xbox 360? <br> <br>Because when you see it you turn 360 degrees and walk away.,'Because when you see it you turn 360 degrees and walk away' <br> <br>Err, not sure you thought that one through.,@Jonas Just because it's an internet meme, does not make it funny (or worth listening to)
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /food/6734/want-some-fish-in-that-taco
 imported: true
 comments:
- - IqHU1V httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
+ - value: >
+     IqHU1V http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
 
 # Article Taxonomies
 categories:

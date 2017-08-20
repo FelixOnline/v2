@@ -13,7 +13,8 @@ aliases:
  - /news/5739/imperial-mourns
 imported: true
 comments:
- - Thanks for your beneficial post As time passes I have come to be able to understand that the particular symptoms of mesothelioma cancer are caused by your build up associated fluid involving the lining in the lung and the torso cavity The infection may start inside the chest spot and pass on to other parts of the body Other symptoms of pleural mesothelioma include fat loss severe inhaling trouble nausea difficulty ingesting and bloating of the face and neck areas  It ought to be noted that some people having the disease tend not to experience just about any serious symptoms at allnew era fitted hats wholesale httpwwwtwofangtucnfittedhats
+ - value: >
+     Thanks for your beneficial post. As time passes, I have come to be able to understand that the particular symptoms of mesothelioma cancer are caused by your build up associated fluid involving the lining in the lung and the torso cavity. The infection may start inside the chest spot and pass on to other parts of the body. Other symptoms of pleural mesothelioma include fat loss, severe inhaling trouble, nausea, difficulty ingesting, and bloating of the face and neck areas. It ought to be noted that some people having the disease tend not to experience just about any serious symptoms at all. <br>new era fitted hats wholesale http://www.twofangtu.cn/fitted-hats
 
 # Article Taxonomies
 categories:

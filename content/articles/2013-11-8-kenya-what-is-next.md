@@ -13,7 +13,8 @@ aliases:
  - /comment/4026/kenya-what-is-next
 imported: true
 comments:
- - nice storyvery informative
+ - value: >
+     nice story,very informative.
 
 # Article Taxonomies
 categories:

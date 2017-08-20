@@ -13,7 +13,8 @@ aliases:
  - /news/1522/matrices-and-monkeys
 imported: true
 comments:
- - Great article David and very pleased to hear your thoughts KOP is working hard to advance child health and to work with students on creating advocates for change so I am pleased you are involved Dan Magnus KOP CoFounder
+ - value: >
+     Great article, David and very pleased to hear your thoughts. KOP is working hard to advance child health and to work with students on creating advocates for change so I am pleased you are involved. Dan Magnus, KOP Co-Founder.
 
 # Article Taxonomies
 categories:

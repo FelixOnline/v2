@@ -13,7 +13,8 @@ aliases:
  - /arts/6821/richard-iii--the-bard-given-teutonic-overtones
 imported: true
 comments:
- - Ce juge qui ne respecte pas la loi est il poursuivi et ou sanctionn devant une instance disciplinaire En outre des fonctionnaires rgaliens qui nen font que selon leur bon vooirnbspulraquo au mpris des lois devraient etre expulses de la fonction publique
+ - value: >
+     Ce juge qui ne respecte pas la loi, est il poursuivi et /ou sanctionnÃ© devant une instance disciplinaire? En outre, des fonctionnaires rÃ©galiens qui n’en font que selon « leur bon vo;&amp;oir&amp;nbspulraquo; au mÃ©pris des lois devraient etre expulses de la fonction publique.
 
 # Article Taxonomies
 categories:

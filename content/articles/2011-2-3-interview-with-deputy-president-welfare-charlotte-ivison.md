@@ -13,7 +13,8 @@ aliases:
  - /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
 imported: true
 comments:
- - The one time I came into contact with Ms Ivison she seemed far far more interested in not steping on toes than protecting students which is typical of our goodfornoting union
+ - value: >
+     The one time I came into contact with Ms. Ivison she seemed far far more interested in not steping on toes than protecting students, which is typical of our good-for-noting union
 
 # Article Taxonomies
 categories:

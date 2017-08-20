@@ -13,7 +13,8 @@ aliases:
  - /comment/5744/france-must-change
 imported: true
 comments:
- - If WE are their selfdeclared enemy then THEY cant oebjct if we treat them in kind now can theyThey can oebjct  They can oebjct just as loud and long as they want Problem is it JUST WONT DO THEM ANY GOOD Yeah they have a lot of ammo  FOR NOW  But something tells me that the militia types in the locales where those ammo storage dumps are located already have plans in place for relieving them of it  complete with thank you note for their generous storage of it
+ - value: >
+     "[I]f WE are their self-declared enemy, then THEY can't oebjct if we treat them in kind, now can they?"They can oebjct. They can oebjct just as loud and long as they want. Problem is it JUST WON'T DO THEM ANY GOOD! Yeah, they have a lot of ammo - FOR NOW! But something tells me that the militia types in the locales where those ammo storage dumps are located already have plans in place for "relieving" them of it - complete with "thank you" note for their generous storage of it.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /biz/2941/hackers-unite-
 imported: true
 comments:
- - If you really want to know what a Hackathon is about read someone who knows what shes talking about Rewired States Emma Mulqueeny httpsmulqueenywordpresscom20110619whatsthepointofahackdayWhats wrong with the above definition
+ - value: >
+     If you really want to know what a Hackathon is about, read someone who knows what she's talking about, Rewired State's Emma Mulqueeny: https://mulqueeny.wordpress.com/2011/06/19/whats-the-point-of-a-hack-day/,What's wrong with the above definition?
 
 # Article Taxonomies
 categories:

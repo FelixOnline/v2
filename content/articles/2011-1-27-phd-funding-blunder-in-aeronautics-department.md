@@ -13,7 +13,8 @@ aliases:
  - /news/652/phd-funding-blunder-in-aeronautics-department
 imported: true
 comments:
- - You got great points there thats why I always love checking out your blog     My blog  credit rachat credit ou courtier Rachat de credit
+ - value: >
+     You got great points there, that's why I always love checking out your blog. <br> <br> My blog: <br>credit rachat credit ou courtier <a href="http://www.rachatdecredit.net">Rachat de credit</a>
 
 # Article Taxonomies
 categories:

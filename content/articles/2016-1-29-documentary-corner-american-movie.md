@@ -13,7 +13,8 @@ aliases:
  - /film/5848/documentary-corner-american-movie
 imported: true
 comments:
- - Love the site very user friendly and whole lots to seenba 2k17 vc httpwwwishowcasenetCherryAnnablog11619
+ - value: >
+     Love the site-- very user friendly and whole lots to see! <br>nba 2k17 vc http://www.ishowcase.net/CherryAnna/blog/11619/
 
 # Article Taxonomies
 categories:

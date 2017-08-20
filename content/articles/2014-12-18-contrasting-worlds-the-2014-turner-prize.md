@@ -13,7 +13,8 @@ aliases:
  - /arts/5057/contrasting-worlds---the-2014-turner-prize
 imported: true
 comments:
- - Theers nothing like the relief of finding what youre looking for
+ - value: >
+     Theer's nothing like the relief of finding what you're looking for.
 
 # Article Taxonomies
 categories:

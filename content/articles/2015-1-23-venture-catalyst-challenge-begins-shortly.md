@@ -13,7 +13,8 @@ aliases:
  - /news/5129/venture-catalyst-challenge-begins-shortly
 imported: true
 comments:
- - 1BXewr httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     1BXewr http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

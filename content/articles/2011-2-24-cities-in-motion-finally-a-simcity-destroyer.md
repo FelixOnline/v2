@@ -13,7 +13,8 @@ aliases:
  - /games/882/cities-in-motion-finally-a-simcity-destroyer
 imported: true
 comments:
- - And I thought I was the ssenible one Thanks for setting me straightO51lzp  qrnkngodttby get online prescription for propecia innjc accutane OO
+ - value: >
+     And I thought I was the ssenible one. Thanks for setting me straight.,O51lzp <a href="http://qrnkngodttby.com/">qrnkngodttby</a>, <a href="http://www.protomeds.net/">get online prescription for propecia</a> innjc <a href="http://www.keypills.com/">accutane</a> %OO
 
 # Article Taxonomies
 categories:

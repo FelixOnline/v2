@@ -13,7 +13,8 @@ aliases:
  - /news/3349/asbestos-has-been-found-in-skempton
 imported: true
 comments:
- - Unless you breathe the fibres in in large quantities asbestos is no more dangerous than sand and should certainly not be described as highly toxic In particular asbestos in building materials is very likely to be locked into a cement matrix which makes it pretty much harmless The correct way to deal with asbestos is to leave it alone and mark it so that no unsuspecting builder drills through it This is almost certainly what the uni Asbestos Management Plan entails
+ - value: >
+     Unless you breathe the fibres in in large quantities asbestos is no more dangerous than sand, and should certainly not be described as "highly toxic". In particular, asbestos in building materials is very likely to be locked into a cement matrix which makes it pretty much harmless. The correct way to deal with asbestos is to leave it alone and mark it so that no unsuspecting builder drills through it. This is almost certainly what the uni Asbestos Management Plan entails.
 
 # Article Taxonomies
 categories:

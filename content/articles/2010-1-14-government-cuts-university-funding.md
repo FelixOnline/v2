@@ -13,7 +13,8 @@ aliases:
  - /news/35/government-cuts-university-funding
 imported: true
 comments:
- - BALLS
+ - value: >
+     BALLS.
 
 # Article Taxonomies
 categories:

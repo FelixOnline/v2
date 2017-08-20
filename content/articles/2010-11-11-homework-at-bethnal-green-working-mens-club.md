@@ -13,7 +13,8 @@ aliases:
  - /arts/331/homework-at-bethnal-green-working-mens-club
 imported: true
 comments:
- - Were actually still working mens club The members bar is on the lower ground floorWe exist specifically to preserve that history Stick your head around their door next time you pop in  the members are always up for some good banter
+ - value: >
+     We're actually still working mens club! The members bar is on the lower ground floor. <br>We exist specifically to preserve that history. Stick your head around their door next time you pop in - the members are always up for some good banter!
 
 # Article Taxonomies
 categories:

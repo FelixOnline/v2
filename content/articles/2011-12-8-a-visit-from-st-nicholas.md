@@ -13,7 +13,8 @@ aliases:
  - /games/1939/a-visit-from-st-nicholas
 imported: true
 comments:
- - Nice
+ - value: >
+     Nice!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/2011/new-year-resolution-get-coding
 imported: true
 comments:
- - Very well written Couldnt stress it enoughVery valid pithy succtnci and on point WD
+ - value: >
+     Very well written. Couldn't stress it enough!,Very valid, pithy, succtnci, and on point. WD.
 
 # Article Taxonomies
 categories:

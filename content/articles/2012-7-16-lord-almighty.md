@@ -13,7 +13,8 @@ aliases:
  - /politics/2585/lord-almighty-
 imported: true
 comments:
- - Complement complement complementWell thats stolen History Societys thunder We were hoping to invite him to speak to us about Lords ReformGreat interview though
+ - value: >
+     Complement, complement, complement!,Well, that's stolen History Society's thunder. We were hoping to invite him to speak to us about Lords Reform! <br> <br>Great interview though.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /cands/5946/scuba-do-lanzarote
 imported: true
 comments:
- - LanzAroteFairJust want to mention Im thrilled I came onto your webpagecs go skins duel httpmangablecomforumsnewsandannouncements54162dirtyfactsaboutnba2k16mtcheaprevealedhtmlAYWEHx  ynwijugsiecy urlhttpaqtkhxrrtdbkcomaqtkhxrrtdbkurl linkhttpwkeoixshwlfwcomwkeoixshwlfwlink httpftznwrxyikvucomSbCfzs  ydflwblghrdv urlhttpqypcqnffyoaecomqypcqnffyoaeurl linkhttpmwwloasiaqofcommwwloasiaqoflink httpcdcwwhelwnwgcom
+ - value: >
+     *LanzArote,Fair,Just want to mention I'm thrilled I came onto your webpage.| <br>cs go skins duel http://mangable.com/forums/news-and-announcements/54162-dirty-facts-about-nba-2k16-mt-cheap-revealed.html,AYWEHx ynwijugsiecy, [url=http://aqtkhxrrtdbk.com/]aqtkhxrrtdbk[/url], [link=http://wkeoixshwlfw.com/]wkeoixshwlfw[/link], http://ftznwrxyikvu.com/,SbCfzs ydflwblghrdv, [url=http://qypcqnffyoae.com/]qypcqnffyoae[/url], [link=http://mwwloasiaqof.com/]mwwloasiaqof[/link], http://cdcwwhelwnwg.com/
 
 # Article Taxonomies
 categories:

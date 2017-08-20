@@ -13,7 +13,8 @@ aliases:
  - /sport/3153/wolverine-1s-smashed-by-2s
 imported: true
 comments:
- - 1272012 645am while hunting on the bzraos river in know county tx i saw the streak and then a blinding flash and sparkles to dim streak then nothing coulnt find any info till this site thank you my first thought was an EMP flash or satillite or plane so thank you for setting it straightHelloYour message today stetas that Maps available here show where to look in the Chicago area to best observe the Quadrantid Meteor Shower where on the site are these to be foundThank you  buy propecia   hearing aids   genuinely come   propecia usa   auto insurance quote   require staying   assert   started listening   auto insurance quotes
+ - value: >
+     12/7/2012 6:45am while hunting on the bzraos river in know county tx i saw the streak and then a blinding flash and sparkles to dim streak then nothing coulnt find any info till this site thank you my first thought was an EMP flash or satillite or plane so thank you for setting it straight,Hello:Your message today <a href="http://jaoekhppa.com">stetas</a> that Maps available here show where to look in the Chicago area to best observe the Quadrantid Meteor Shower ..where on the site are these to be found?Thank you., buy propecia hearing aids genuinely come propecia usa auto insurance quote , require staying assert started listening auto insurance quotes
 
 # Article Taxonomies
 categories:

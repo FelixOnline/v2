@@ -13,7 +13,8 @@ aliases:
  - /welfare/5105/lets-score-a-goal-for-equality
 imported: true
 comments:
- - m49xXt httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     m49xXt http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

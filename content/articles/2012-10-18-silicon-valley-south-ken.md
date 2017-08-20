@@ -13,7 +13,8 @@ aliases:
  - /biz/2694/silicon-valley-south-ken-
 imported: true
 comments:
- - Just in case anyone is trying to find this wwwicstartupcom
+ - value: >
+     Just in case anyone is trying to find this: www.icstartup.com
 
 # Article Taxonomies
 categories:

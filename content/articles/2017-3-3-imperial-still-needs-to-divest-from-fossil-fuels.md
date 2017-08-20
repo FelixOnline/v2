@@ -13,7 +13,8 @@ aliases:
  - /comment/6839/imperial-still-needs-to-divest-from-fossil-fuels
 imported: true
 comments:
- - zNn9on  mqiihdcdcasq urlhttpflaefjywztnhcomflaefjywztnhurl linkhttpzuhdvtjfbvijcomzuhdvtjfbvijlink httpvyvdkipwqpdgcomI suppsoe that sounds and smells just about right
+ - value: >
+     zNn9on mqiihdcdcasq, [url=http://flaefjywztnh.com/]flaefjywztnh[/url], [link=http://zuhdvtjfbvij.com/]zuhdvtjfbvij[/link], http://vyvdkipwqpdg.com/,I suppsoe that sounds and smells just about right.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/6206/the-left-vs-the-eu
 imported: true
 comments:
- - I didnt realise Felix got hacks from The Daily Mash now too
+ - value: >
+     I didn't realise Felix got hacks from The Daily Mash now too.,:)
 
 # Article Taxonomies
 categories:

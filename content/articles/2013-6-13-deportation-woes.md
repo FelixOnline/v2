@@ -13,7 +13,8 @@ aliases:
  - /comment/3679/deportation-woes
 imported: true
 comments:
- - This is sounding a bit left wing labour for my liking
+ - value: >
+     This is sounding a bit left wing labour for my liking
 
 # Article Taxonomies
 categories:

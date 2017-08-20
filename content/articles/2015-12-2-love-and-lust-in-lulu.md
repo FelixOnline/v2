@@ -13,7 +13,8 @@ aliases:
  - /arts/5789/love-and-lust-in-lulu
 imported: true
 comments:
- - Youre a really useful web site could not make it without yacs go skins calculator httpkhleothomascomprofilesblogswhatyoudontlearnaboutcsgoknivesmightshockyouKeep up the remarkable work  Lovin itcs go skins erstellen httpfastlovecaforumtopicphptopic_id17036
+ - value: >
+     You're a really useful web site; could not make it without ya!| <br>cs go skins calculator http://khleothomas.com/profiles/blogs/what-you-don-t-learn-about-cs-go-knives-might-shock-you,Keep up the remarkable work !! Lovin' it!| <br>cs go skins erstellen http://fastlove.ca/forum/topic.php?topic_id=17036
 
 # Article Taxonomies
 categories:

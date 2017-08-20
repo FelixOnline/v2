@@ -13,7 +13,8 @@ aliases:
  - /comment/2842/parliamentary-privilege-my-arse
 imported: true
 comments:
- - what a digusting man europhile to the last and a sponge too Shame he resigned before he was suspended  he still gets his golden goodbye
+ - value: >
+     what a digusting man: europhile to the last and a sponge too. <br> <br>Shame he resigned before he was suspended - he still gets his golden goodbye.
 
 # Article Taxonomies
 categories:

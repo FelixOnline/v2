@@ -13,7 +13,8 @@ aliases:
  - /film/2714/top-10-scariest-films-of-all-time
 imported: true
 comments:
- - Wow Great to find a post knikocng my socks off
+ - value: >
+     Wow! Great to find a post knikocng my socks off!
 
 # Article Taxonomies
 categories:

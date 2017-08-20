@@ -13,7 +13,8 @@ aliases:
  - /comment/1571/would-i-be-this-hot-with-glasses-meh
 imported: true
 comments:
- - Hello Richard I just disadcovadered your site as I also just disadcovadered the Sandadhill Crane Fesadtiadval in Lodi I wont make it to your tour and preadsenadtaadtion today but I sure hope you have a workadshop in the near future Now to  exrlpoe your webadsiteThanks for includading me Annmariethat he saw the people of the furtue living in a world of  gadgets   People would have these  gadgets   in their homes and with them everywhere they went and used them every chance they got   They all seemed quite caught up with them enamored with them and even  defined  themselves by themWhen read this many years ago this   vision  didnt make any sense to me  But now it sure does  Especially the last part of his story where he said how distressing this was all to witness because it was obvious that the people in the furtue loved their  gadgets  more than they loved each other
+ - value: >
+     Hello Richard, I just disadcovadered your site as I also just disadcovadered the Sandadhill Crane Fesadtiadval in Lodi. I won’t make it to your tour and preadsenadtaadtion today but I sure hope you have a workadshop in the near future. Now to exrlpoe your webadsite…!Thanks for includading me, Annmarie,that he saw the people of the<a href="http://hkoonvc.com"> furtue</a> living in a world of gadgets . People would have these gadgets in their homes and with them everywhere they went, and used them every chance they got. They all seemed quite caught up with them, enamored with them, and even defined themselves by them.When read this many years ago, this vision didn't make any sense to me. But now it sure does. Especially the last part of his story, where he said how distressing this was all to witness, because it was obvious that the people in the<a href="http://hkoonvc.com"> furtue</a> loved their gadgets more than they loved each other.
 
 # Article Taxonomies
 categories:

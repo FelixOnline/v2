@@ -13,7 +13,8 @@ aliases:
  - /arts/909/the-art-of-addiction-and-of-seduction-
 imported: true
 comments:
- - Amazing
+ - value: >
+     Amazing!
 
 # Article Taxonomies
 categories:

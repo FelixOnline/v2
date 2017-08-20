@@ -13,7 +13,8 @@ aliases:
  - /comment/1719/the-journey-through-nature
 imported: true
 comments:
- - Excellent article thank youhehehe i love the first comment  Anum farooq is a bit lost in nature   yes Anumty lost in wilderness you are b when i came to london i felt i was trapped between manmade bricks and i missed my lebanese trees I missed how me and my brothers had to throw bricks to mark our way between trees from our house to my dads work b   But when i met you you taught me that nature is beautiful everywhere  I learnt to love the British birds and see the different side of beauty in nature  subhanallah your article made me feel like i want to climb a tree hehehe off to watch how the salmons jumps against the stream on youtube The power of Allah anything is possible 12082010 d0b2 2009UTC 2
+ - value: >
+     Excellent article, thank you.,hehehe i love the first comment : <br> <br>' Anum farooq is a bit lost in nature ' :). <br> <br>yes Anumty. lost in wilderness you are :b. <br> <br>when i came to london, i felt i was trapped between manmade bricks and i missed my lebanese trees. I missed how me and my brothers had to throw bricks to mark our way between trees from our house to my dad's work :b. <br> <br>But when i met you, you taught me that nature is beautiful everywhere :). I learnt to love the British birds, and see the different side of beauty in nature . subhanallah <br> <br>your article made me feel like i want to climb a tree hehehe :). <br> <br>off to watch how the salmons jumps against the stream on youtube. The power of Allah. anything is possible ;),12.08.2010 d0b2 20:09(UTC 2) <a class="comment-reply-link" href="/viasat-nature/?replytocom=2835#respond" onclick='return addComment.moveForm("comment-2835", "2835'></a>
 
 # Article Taxonomies
 categories:

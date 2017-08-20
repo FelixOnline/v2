@@ -13,7 +13,8 @@ aliases:
  - /news/283/is-this-the-future-of-learning-at-imperial
 imported: true
 comments:
- - Is his name Richard or Robert You use both namesSorry its Professor Richard Thomas
+ - value: >
+     Is his name Richard or Robert? You use both names!,Sorry, it's Professor Richard Thomas!
 
 # Article Taxonomies
 categories:

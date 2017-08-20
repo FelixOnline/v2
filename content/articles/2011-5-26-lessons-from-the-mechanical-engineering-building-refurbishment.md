@@ -13,7 +13,8 @@ aliases:
  - /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
 imported: true
 comments:
- - This has made my day I wish all pstinogs were this goodmiU2F2  urlhttpwcfrayqbogfccomwcfrayqbogfcurl linkhttpgfpbjlhvwbcicomgfpbjlhvwbcilink httpsqljkyowglygcom
+ - value: >
+     This has made my day. I wish all pstinogs were this good.,miU2F2 , [url=http://wcfrayqbogfc.com/]wcfrayqbogfc[/url], [link=http://gfpbjlhvwbci.com/]gfpbjlhvwbci[/link], http://sqljkyowglyg.com/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/1012/frank-herberts-dune
 imported: true
 comments:
- - You might have noticed that Ive been carefully referring to only the first book Herbert wrote six Dune novels each worse than the previous one The plots begin to get far too convoluted to the point where I barely understood what was going on and the story begins to feel boringThe plots are complex Thats the nature of the game You were probably bored because you didnt understand the plotMy advice is to read the first book and forget about the restMy advice is to read the Frank Herbert books and forget about the rest
+ - value: >
+     "You might have noticed that I’ve been carefully referring to only the first book. Herbert wrote six Dune novels, each worse than the previous one. The plots begin to get far too convoluted, to the point where I barely understood what was going on and the story begins to feel boring." <br> <br>The plots are complex. That's the nature of the game... You were probably bored because you didn't understand the plot... <br> <br> <br>"My advice is to read the first book and forget about the rest." <br> <br>My advice is to read the Frank Herbert books and forget about the rest.
 
 # Article Taxonomies
 categories:

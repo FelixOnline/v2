@@ -13,7 +13,8 @@ aliases:
  - /news/6834/where-did-all-the-election-candidates-go
 imported: true
 comments:
- - Thought it woulndt to give it a shot I was right
+ - value: >
+     Thought it wo'ulndt to give it a shot. I was right.
 
 # Article Taxonomies
 categories:

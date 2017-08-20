@@ -13,7 +13,8 @@ aliases:
  - /news/3120/employers-dont-want-you-they-want-warwick--says-survey
 imported: true
 comments:
- - please stop talking about UCL and other unis that arent top 10 in the world Its not even funny BTW who thinks we should have a speed integration or some intellectual competition at Imperial It could be anything really Im dying to show off
+ - value: >
+     please stop talking about UCL and other unis that aren't top 10 in the world.. <br>Its not even funny. BTW, who thinks we should have a speed integration or some intellectual competition at Imperial???? It could be anything really, I'm dying to show off...
 
 # Article Taxonomies
 categories:

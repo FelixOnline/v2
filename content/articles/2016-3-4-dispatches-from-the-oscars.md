@@ -13,7 +13,8 @@ aliases:
  - /film/6010/dispatches-from-the-oscars
 imported: true
 comments:
- - Astonishingly individual friendly website Astounding information readily available on few clicks onnba 2k16 mt packs httphannah1106tarlogcompost102Holasoy nuevo en estos de las pantalas le los comentarios y me han despejado dudaspero que hay del HD vs el FULL HD quisiera saber un poco mas por faricGvaroas
+ - value: >
+     Astonishingly individual friendly website. Astounding information readily available on few clicks on.| <br>nba 2k16 mt packs http://hannah1106.tarlog.com/post/102/,Hola,soy nuevo en estos de las pantalas, leí los comentarios y me han despejado dudas,pero que hay del HD vs. el FULL HD. quisiera saber un poco mas por faric.Gvaroas
 
 # Article Taxonomies
 categories:

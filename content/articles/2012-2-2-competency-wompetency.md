@@ -13,7 +13,8 @@ aliases:
  - /comment/2113/competency-wompetency
 imported: true
 comments:
- - Great article I recently applied for a job at EDF in environmental energy Made it through the initial application questions SHLs wonderful numerical and inductive reasoning tests a telephone CBI and finally got invited to the assessment centre Having gone through all of this I couldnt locate the original job description on their siteRateMyPlacementGoogle and had completely forgotten what it was that Id applied for I also know sweet fuck all about environmental energyAnyway I decided to bail on the assessment centre and took a placement year offer from Johnson  Johnson the application process was a joy and actually had some relevance to the jobIts all just a farce Remind me to have this comment deleted when I start applying for graduate jobs Hopefully they wont have Googled me by then
+ - value: >
+     Great article. I recently applied for a job at EDF in environmental energy. Made it through the initial application questions, SHL's wonderful numerical and inductive reasoning tests, a telephone CBI and finally got invited to the assessment centre. <br> <br>Having gone through all of this, I couldn't locate the original job description on their site/RateMyPlacement/Google, and had completely forgotten what it was that I'd applied for. I also know sweet fuck all about environmental energy. <br> <br>Anyway, I decided to bail on the assessment centre and took a placement year offer from Johnson &amp; Johnson: the application process was a joy and actually had some relevance to the job. <br> <br>It's all just a farce. Remind me to have this comment deleted when I start applying for graduate jobs. Hopefully they won't have Googled me by then...
 
 # Article Taxonomies
 categories:

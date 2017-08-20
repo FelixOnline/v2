@@ -13,7 +13,8 @@ aliases:
  - /tech/4556/google-now-the-ultimate-innovators
 imported: true
 comments:
- - innovatornouna person who introduces new methods ideas or productsReturning to the smartwatch Google arent the first to conceive of the idea of making the wearable deviceSo not really innovating thenAnd they bought Android hardly Google innovating They are great at spotting other people innovating and paying enough money to get the Google brand on itinnovator noun a person who introduces new methods ideas or products Returning to the smartwatch Google arent the first to conceive of the idea of making the wearable device So not really innovating then And they bought Android hardly Google innovating They are great at spotting other people innovating and paying enough money to get the Google brand on it
+ - value: >
+     innovator <br>noun <br>a person who introduces new methods, ideas, or products. <br> <br>"Returning to the smartwatch, Google aren’t the first to conceive of the idea of making the wearable device." <br> <br>So not really innovating then? <br> <br>And they bought Android, hardly Google innovating. They are great at spotting other people innovating and paying enough money to get the Google brand on it.,innovator noun: a person who introduces new methods, ideas, or products. "Returning to the smartwatch, Google aren’t the first to conceive of the idea of making the wearable device." So not really innovating then? And they bought Android, hardly Google innovating. They are great at spotting other people innovating and paying enough money to get the Google brand on it.
 
 # Article Taxonomies
 categories:

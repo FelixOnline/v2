@@ -13,7 +13,8 @@ aliases:
  - /games/4129/wii-u-no-consider-nintendo
 imported: true
 comments:
- - Someone Who buys aComputer wants the best graphics without having buying a console Nothing wrong with thatPS4 Someone who is a hardcore gamer Nothing wrong with that tooXBox1 A foolWii U Someone who can embrace games no matter the sales or what people say about Pure BrillanceIve played the PS4 Ive played the XB1 I enjoy the WiiU For me its a PCWiiU3DS combo this generation with the tail end of the 360 stuff as well Just cant justify spending 500 to play Forza And a not very great Forza at thatI have still yet to play any of the 3 new consoles but the Wii U sales do look quite worrying It has sold less in a year than the PS4 and Xbox One sold in just two days Blame it on bad nintendo marketing or peoples simple lust for graphics over gameplay but either way those are some scary numbers
+ - value: >
+     Someone Who buys a: <br>Computer; wants the best graphics without having buying a console. Nothing wrong with that. <br>PS4; Someone who is a hardcore gamer, Nothing wrong with that too. <br>XBox1: A fool. <br>Wii U: Someone who can embrace games no matter the sales or what people say about. Pure Brillance.,I've played the PS4.. I've played the XB1... I enjoy the WiiU. ,For me it's a PC/WiiU/3DS combo this generation, with the tail end of the 360 stuff as well. Just can't justify spending $500 to play Forza. And a not very great Forza at that.,I have still yet to play any of the 3 new consoles but the Wii U sales do look quite worrying. It has sold less in a year than the PS4 and Xbox One sold in just two days. Blame it on bad nintendo marketing or peoples simple lust for graphics over gameplay but either way those are some scary numbers. <br>
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/1065/afghanistans-magnificent-heirlooms
 imported: true
 comments:
- - It was a little of both The arsitt has heard some of the album but made the art particularly because of the title Her and I are close friends and we read each others mind  I am glad you liked it
+ - value: >
+     It was a little of both. The arsitt has heard some of the album, but made the art particularly because of the title. Her and I are close friends and we read each others mind =). I am glad you liked it.
 
 # Article Taxonomies
 categories:

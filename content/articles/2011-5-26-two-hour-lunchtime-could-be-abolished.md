@@ -13,7 +13,8 @@ aliases:
  - /news/1251/two-hour-lunchtime-could-be-abolished
 imported: true
 comments:
- - Too often ive been annoyed at how long the lunch break is There is nothing more annoying than having a day with only a few hours of lectures split by a two hour break This proposal sounds perfectly reasonable and i welcome it although i wont be around to see it implementedIf it aint broke dont fix it
+ - value: >
+     Too often i've been annoyed at how long the lunch break is. There is nothing more annoying than having a day with only a few hours of lectures split by a two hour break. This proposal sounds perfectly reasonable and i welcome it... although i won't be around to see it implemented.,If it ain't broke don't fix it?
 
 # Article Taxonomies
 categories:

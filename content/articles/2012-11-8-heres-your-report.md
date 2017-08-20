@@ -13,7 +13,8 @@ aliases:
  - /news/2828/heres-your-report
 imported: true
 comments:
- - surely youd write about your extra curricular activities on your cv or cover letter anyway isnt it a bit redundant i suppose youd get an official stamp from the uni to say youre not making it up but it doesnt seem like something to form a committee aboutAn interesting readHorizons HEAR and similar initiatives are vital at this institution one where students are traditionally viewed as very scientifically minded with little interest in extracurriculars If employers do place greater importance on nonacademic achievements this will encourage students to pursue interests beyond their textbooks and the library and in turn allow them to better themselvesPretty sure if they give every single damn exam grade it would completely kill off interests in extracirriculars I like it how it is now on an average of a 22 but with Predicted first on my CV ahhh yeaaaahhh
+ - value: >
+     surely you'd write about your extra curricular activities on your cv or cover letter anyway? isnt it a bit redundant? i suppose you'd get an official 'stamp' from the uni to say you're not making it up.. but it doesnt seem like something to form a committee about,An interesting read. <br> <br>Horizons, HEAR and similar initiatives are vital at this institution; one where students are traditionally viewed as very scientifically minded with little interest in extracurriculars. If employers do place greater importance on non-academic achievements this will encourage students to pursue interests beyond their textbooks and the library, and in turn allow them to better themselves.,Pretty sure if they give every single damn exam grade it would completely kill off interests in extra-cirriculars... I like it how it is now, on an average of a 2.2 but with "Predicted first" on my CV. ahhh yeaaaahhh
 
 # Article Taxonomies
 categories:

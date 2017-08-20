@@ -13,7 +13,8 @@ aliases:
  - /news/407/do-overseas-students-welcome-higher-tuition-fees-for-home-students-
 imported: true
 comments:
- - Back in 2008 it costs 15500 a year for my tuition fees and within 2 years it has risen from that amount to almost 200000 A whopping 30 increase Is this increase justified No one can really tell but we can be sure about one thing international fees will always go up never down  A lot of US universities may be more expensive than home tuition fees but at least they dont financially discriminate against international students by charging them 7x more than US students
+ - value: >
+     Back in 2008, it costs £15500 a year for my tuition fees and within 2 years, it has risen from that amount to almost £200000! A whopping 30% increase! Is this increase justified? No one can really tell but we can be sure about one thing, international fees will always go up, never down! ,A lot of U.S. universities may be more expensive than home tuition fees, but at least they don't financially discriminate against international students by charging them 7x more than U.S. students.
 
 # Article Taxonomies
 categories:

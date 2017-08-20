@@ -13,7 +13,8 @@ aliases:
  - /news/5690/i-went-to-the-bond-premiere
 imported: true
 comments:
- - All I took from this was smug Sabb takes advantage of elected role then writes about how smug she is
+ - value: >
+     All I took from this was "smug Sabb takes advantage of elected role, then writes about how smug she is."
 
 # Article Taxonomies
 categories:

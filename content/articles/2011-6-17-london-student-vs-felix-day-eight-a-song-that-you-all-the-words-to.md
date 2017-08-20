@@ -13,7 +13,8 @@ aliases:
  - /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
 imported: true
 comments:
- - Mortgage 20120223 1755     You lost me friend I mean I suppsoe I get what youre expressing I understand what youre saying but you just seem to have overlooked that you can find some other people inside the world who view this issue for what it really is and may perhaps not agree with you You may be turning away a lot of men and women who might have been fans of your blog
+ - value: >
+     Mortgage　( 2012.02.23 17:55 ) : You lost me, friend. I mean, I suppsoe I get what youre expressing. I understand what you're saying, but you just seem to have overlooked that you can find some other people inside the world who view this issue for what it really is and may perhaps not agree with you. You may be turning away a lot of men and women who might have been fans of your blog.
 
 # Article Taxonomies
 categories:

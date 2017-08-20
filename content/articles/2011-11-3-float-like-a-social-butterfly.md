@@ -13,7 +13,8 @@ aliases:
  - /comment/1692/float-like-a-social-butterfly
 imported: true
 comments:
- - Im not sure how Id react if anthropologists in 200 years time say with all seriousness that Facebook was an advance  certainly it cant be ruled outHow many people have you ever deletedblocked   It leaves me curious about the long term impact the Internet is having on our cognitive processes and brain structures if anyIm not sure how many Ive blocked or deleted but I wouldnt say its completely out of the picture I dont really tend to accept requests from people I havent met or dont believe I will in the foreseeable futureFurther readinghttpnewsyahoocomnofacebooknotruininggradesstudy17330311420111012htmli think u look very sexy in your pic yes i do ur face is very round and sexyI actually think his face isnt at all sexy But it is roundI actually think his face isnt at all sexy But it is round
+ - value: >
+     I'm not sure how I'd react if anthropologists in 200 years' time say with all seriousness that Facebook was an advance -- certainly it can't be ruled out. <br> <br>How many people have you ever deleted/blocked? ,It leaves me curious about the long term impact the Internet is having on our cognitive processes and brain structures, if any! <br> <br>I'm not sure how many I've blocked or deleted, but I wouldn't say it's completely out of the picture. I don't really tend to accept requests from people I haven't met (or don't believe I will in the foreseeable future).,Further reading: <br> <br>http://news.yahoo.com/no-facebook-not-ruining-grades-study-173303114-20111012.html,i think u look very sexy in your pic yes i do ur face is very round and sexy,I actually think his face isn't at all sexy. But it is round.,I actually think his face isn't at all sexy. But it is round.
 
 # Article Taxonomies
 categories:

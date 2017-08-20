@@ -13,7 +13,8 @@ aliases:
  - /news/3026/female-students-recruited-to-be-escorts
 imported: true
 comments:
- - Which dont even begin to be paid off until the university course is over and theyre earning more than 21k A rather poor argument if you ask meSo no talk of blaming those who set up the system of high tuition fees in the first placeCouch
+ - value: >
+     Which don't even begin to be paid off until the university course is over and they're earning more than 21k? A rather poor argument if you ask me.,So no talk of blaming those who set up the system of high tuition fees in the first place?,Couch?
 
 # Article Taxonomies
 categories:

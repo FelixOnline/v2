@@ -13,7 +13,8 @@ aliases:
  - /news/2261/seek-knowledge-and-be-the-judge-
 imported: true
 comments:
- - LOL thanks for putting this in the news section matt
+ - value: >
+     LOL thanks for putting this in the news section matt :) <br>
 
 # Article Taxonomies
 categories:

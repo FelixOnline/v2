@@ -13,7 +13,8 @@ aliases:
  - /science/5027/algae-growing-fuel-with-cells-in-the-sea
 imported: true
 comments:
- - 6Ior3A httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     6Ior3A http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

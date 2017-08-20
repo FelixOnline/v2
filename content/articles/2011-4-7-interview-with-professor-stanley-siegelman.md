@@ -13,7 +13,8 @@ aliases:
  - /science/1131/interview-with-professor-stanley-siegelman
 imported: true
 comments:
- - Facinating and thoughtful piece Particularly liked the quote GO FOR THE JOYGreat interviewGO FOR THE JOY
+ - value: >
+     Facinating and thoughtful piece. Particularly liked the quote ‘GO FOR THE JOY’.,Great interview. <br> <br>GO FOR THE JOY
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/4762/should-we-accept-reporting-of-factual-errors
 imported: true
 comments:
- - Thanks for sharing Your post is a useful coitributnon
+ - value: >
+     Thanks for sharing. Your post is a useful coitributnon.
 
 # Article Taxonomies
 categories:

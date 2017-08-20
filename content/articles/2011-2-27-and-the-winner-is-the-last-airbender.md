@@ -13,7 +13,8 @@ aliases:
  - /film/908/and-the-winner-is-the-last-airbender
 imported: true
 comments:
- - Yes absolutely Momentary brain death All about steve not All about eve All about eve is a fantastic classic starring Bette Davis and Anne Baxter Steve was the one Bullock starred in to win her RazzieI read that M Night was inspired to do this movie because he watched the series with his kids and all shared great enthusiasm for the series Im going to hold my judgment until I see the movie but Capones previous movie reviews have been pretty spot on It seems that sequel is on work and have a poster  httpwwwthelastairbender2com
+ - value: >
+     Yes, absolutely. Momentary brain death. ,"All about steve," not "All about eve." "All about eve" is a fantastic classic starring Bette Davis and Anne Baxter. "Steve" was the one Bullock starred in to win her Razzie.,I read that M. Night was inspired to do this movie because he watched the series with his kids and all shared great enthusiasm for the series. I'm going to hold my judgment until I see the movie but Capone's previous movie reviews have been pretty spot on. It seems that sequel is on work and have a poster ... http://www.the-last-airbender-2.com/
 
 # Article Taxonomies
 categories:

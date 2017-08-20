@@ -13,7 +13,8 @@ aliases:
  - /comment/524/pruning-science
 imported: true
 comments:
- - Thanks for srhiang What a pleasure to readjNGIrt  ytcpwshuihgmMOg02e  kxsqukafglva
+ - value: >
+     Thanks for srhiang. What a pleasure to read!,jNGIrt <a href="http://ytcpwshuihgm.com/">ytcpwshuihgm</a>,MOg02e <a href="http://kxsqukafglva.com/">kxsqukafglva</a>
 
 # Article Taxonomies
 categories:

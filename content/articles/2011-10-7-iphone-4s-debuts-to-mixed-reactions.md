@@ -13,7 +13,8 @@ aliases:
  - /tech/1489/iphone-4s-debuts-to-mixed-reactions
 imported: true
 comments:
- - receiving retail text maketring alerts compared to only 26 in July 2009 Similarly the number of mobile consumers who answered  extremely interested  climbed from 5 to 10 in the same time frame ThisBoh men you are going places I am so so PROUD of your work FantasticThis cploue have taken it to a whole new level very original especially the Bamenda piece love their very unique invitation too beautifulTake care dear and do not let even the skies be your stop point keep it coming
+ - value: >
+     receiving retail text maketring alerts, compared to only 26% in July 2009. Similarly, the number of mobile consumers who answered extremely interested climbed from 5% to 10% in the same time frame. This,Boh! men! you are going places!!! I am so so PROUD of your work!!! Fantastic!This<a href="http://biflbybu.com"> cploue</a> have taken it to a whole new level!!!! very original, especially the Bamenda piece, love their very unique invitation too! beautiful!!!!Take care dear and do not let even the skies be your stop point!!!!! keep it coming!!!
 
 # Article Taxonomies
 categories:

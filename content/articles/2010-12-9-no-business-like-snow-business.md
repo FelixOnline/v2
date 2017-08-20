@@ -13,7 +13,8 @@ aliases:
  - /comment/525/no-business-like-snow-business
 imported: true
 comments:
- - pants also still joyous about them snowsHi Lisa Were really pleased you used our photo with your article and thanks for the credit Be joyous its a good wayThats a moldbreaker Great tihnikngP7jzVw  hcvvjupmfjgo auto insurance 66132 florida auto insurance 643
+ - value: >
+     pants! also, still joyous about them snows?,Hi Lisa. We're really pleased you used our photo with your article, and thanks for the credit. Be joyous, it's a good way...,That's a mold-breaker. Great tihnikng!,P7jzVw <a href="http://hcvvjupmfjgo.com/">hcvvjupmfjgo</a>, <a href="http://www.get-autoinsurance.com/">auto insurance</a> 66132 <a href="http://www.cheapautoinsurancehere.com/">florida auto insurance</a> 643
 
 # Article Taxonomies
 categories:

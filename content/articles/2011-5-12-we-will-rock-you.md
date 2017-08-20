@@ -13,7 +13,8 @@ aliases:
  - /arts/1203/we-will-rock-you
 imported: true
 comments:
- - FantasticId like to point out though however that the medics Light Opera Society have been doing their 24 performance of exactly the same format coincidentally in the Union Concert Hall for the past 8 yearsIm out of league here Too much brain power on dislpayXFHfcX  izzlfhiuvvix
+ - value: >
+     Fantastic. <br> <br>I'd like to point out though however, that the medics' Light Opera Society have been doing their '24' performance (of exactly the same format, coincidentally) in the Union Concert Hall for the past 8 years!,I'm out of league here. Too much brain power on dislpay!,XFHfcX <a href="http://izzlfhiuvvix.com/">izzlfhiuvvix</a>
 
 # Article Taxonomies
 categories:

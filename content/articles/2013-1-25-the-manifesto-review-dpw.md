@@ -13,7 +13,8 @@ aliases:
  - /news/3190/the-manifesto-review-dpw
 imported: true
 comments:
- - I wish she didnt smoke doesnt suit the welfare role and supported RAG more She should so do the bungee jump for one
+ - value: >
+     I wish she didn't smoke (doesn't suit the welfare role) and supported RAG more. She should so do the bungee jump for one
 
 # Article Taxonomies
 categories:

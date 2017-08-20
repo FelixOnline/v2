@@ -13,7 +13,8 @@ aliases:
  - /comment/5342/felix-interviews-deputy-president-cs-candidate-tom-rivlin
 imported: true
 comments:
- - fitflop storefitflop sandals httpaustraliafitflopsblogspotcomfit flops clearancefitflop stores httpfitflopsaublogspotcomcheap christian louboutin canadacheap christian louboutin httpcanadachristianlouboutinoutletblogspotcomcheap christian louboutin peep toes shoeschristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom
+ - value: >
+     fitflop store <br>fitflop sandals http://australiafitflops.blogspot.com/,fit flops clearance <br>fitflop stores http://fitflopsau.blogspot.com/,cheap christian louboutin canada <br>cheap christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,cheap christian louboutin peep toes shoes <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

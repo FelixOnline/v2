@@ -13,7 +13,8 @@ aliases:
  - /arts/1171/the-thousand-autumns-of-jacob-de-zoet
 imported: true
 comments:
- - I completely agree with you about the 150 pages where the story sort of drfitsAnd youre right about the name changing  It took me about 100 pages for the penny to drop on that oneBut the book is worth persevering withI quite like de Zoet as a character because hes a good study of a person trying to do the right thing while everyone around him is as corrupt as hell  Doing business in parts of Asia can still be a bit like that   even todayIts also reading up about the Nagasaki incident   a true life historical event of some importance which is reflected in the book  And its also worth finding out about Hendrik Doeff   who is highly relevant to the book  Ill say no more though
+ - value: >
+     I completely agree with you about the 150 pages where the story sort of drfits.And you're right about the name changing. It took me about 100 pages for the penny to drop on that one.But the book is worth persevering with.I quite like de Zoet as a character because he's a good study of a person trying to do the right thing while everyone around him is as corrupt as hell. Doing business in parts of Asia can still be a bit like that even today.It's also reading up about the Nagasaki incident a true life historical event of some importance which is reflected in the book. And it's also worth finding out about Hendrik Doeff who is highly relevant to the book: I'll say no more though
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/1578/when-equality-is-unfair
 imported: true
 comments:
- - Great articleItd be an interesting challenge working out how to objectively measure an employees performance and when this has been tried in the past its often not subtle enough and only rewards one specific area of output For example many computer programmers in large corporations are rated on their performance by the number of lines of code they write but this only rewards employees who write large amounts of notverywell thought out code which is worse for the company then someone who writes less goodquality code But how do you measure what good code is Its hard to do such a thing empirically People wanting citation for the research that I mentioned can look at the paper by Dr Johannes Abeler University of Nottingham   httpwwwceprorgmeetswkcn44553papersAbelerpdf agreed
+ - value: >
+     Great article! <br> <br>It'd be an interesting challenge working out how to objectively measure an employee's performance, and when this has been tried in the past it's often not subtle enough and only rewards one specific area of output. For example, many computer programmers in large corporations are rated on their performance by the number of lines of code they write, but this only rewards employees who write large amounts of not-very-well thought out code, which is worse for the company then someone who writes less, good-quality code. But how do you measure what "good code" is? It's hard to do such a thing empirically. ,People wanting citation for the research that I mentioned can look at the paper by Dr Johannes Abeler, University of Nottingham - http://www.cepr.org/meets/wkcn/4/4553/papers/Abeler.pdf ,agreed
 
 # Article Taxonomies
 categories:

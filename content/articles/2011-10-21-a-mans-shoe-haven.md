@@ -13,7 +13,8 @@ aliases:
  - /fashion/1588/a-mans-shoe-haven
 imported: true
 comments:
- - Sadly anon this shop completely fails to sell anything resembling shoes that one could wear to perhaps either vespers or the Dorchester on a thursday afternoon What is more it doesnt even sell footwear that one can do sport it This is a shoe shop that sells comfortable shoes for chavs but with the utmost customer service So what about men who a bit of class Matt does this shop sell actual shoesso what about bellends who think theyve got class cause they wear a type of shoes where can they get great service aside from a back alley in sohoso what about bellends who think theyve got class cause they wear a type of shoes where can they get great service aside from a back alley in sohoso what about bellends who think theyve got class cause they wear a type of shoes where can they get great service aside from a back alley in sohoAll about Vans
+ - value: >
+     Sadly anon, this shop completely fails to sell anything resembling shoes that one could wear to, perhaps, either vespers or the Dorchester on a thursday afternoon. What is more it doesn't even sell footwear that one can do sport it. This is a shoe shop that sells comfortable shoes for chavs, but with the utmost customer service. ,So what about men who a bit of class Matt, does this shop sell actual shoes?,so what about bellends who think they've got class cause they wear a type of shoes? where can they get great service aside from a back alley in soho?,so what about bellends who think they've got class cause they wear a type of shoes? where can they get great service aside from a back alley in soho?,so what about bellends who think they've got class cause they wear a type of shoes? where can they get great service aside from a back alley in soho?,All about Vans
 
 # Article Taxonomies
 categories:

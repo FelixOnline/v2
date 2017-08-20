@@ -13,7 +13,8 @@ aliases:
  - /news/2423/croquet-club-dormancy-debated
 imported: true
 comments:
- - straight after being elected RCC Chair Good luck RCC next yearIt should be noted that the content of this article is factually incorrect and unrepresentative of the truth Thanks for pointing that out Obviously croquet scandals are still in vogue even four months on People obviously werent ready for the shocking and scintillating truth originally Keep fighting for justiceThe problem is that the scandal is on going  and runs SO MUCH DEEPERWhile raking muck over these petty noncompliances Felix is tacitly complicit in the total COVERUP of the widespread embezzlement that is STILL taking place among the Croquet Club elite  Were talking MILLIONUntil we can rely on something other than the LameStream Student Media to uncover such corruption the sheeple that make up most of the students will still be at the mercy of the greedy corporate interests that REALLY dominate the Croquet Club
+ - value: >
+     ...straight after being elected RCC Chair. Good luck RCC next year.,It should be noted that the content of this article is factually incorrect and unrepresentative of the truth. ,Thanks for pointing that out. Obviously croquet scandals are still in vogue, even four months on. People obviously weren't ready for the shocking and scintillating truth originally. Keep fighting for justice!,The problem is that the scandal is on going - and runs SO MUCH DEEPER. <br> <br>While raking muck over these petty non-compliances, Felix is tacitly complicit in the total COVER-UP of the widespread embezzlement that is STILL taking place among the Croquet Club elite - We're talking MILLION$. <br> <br>Until we can rely on something other than the Lame-Stream Student Media to uncover such corruption, the sheeple that make up most of the students will still be at the mercy of the greedy corporate interests that REALLY dominate the Croquet Club.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/3883/prince-harry-visits-imperial-
 imported: true
 comments:
- -  Why  did Simon get a  Knighthood for calling Camelford a Legend  and gulf war syndrome a RumorThe legend of Camelford Medical consequences of a water pollution accidentCitationJournal of Psychosomatic Research 01 1995 volis 39119 00223999 Jan 1995AuthorsDavid Anthony SWessely Simon CIt is argued that the most likely explanation of these complaints is that the perception of normal and benign somatic symptoms among residents and health professionals was heightened and attributed to an external physical causeThursday September 19 2013CG_NewsFollowTWO ministers have issued an unreserved apology on behalf of the Government to all those affected by the Lowermoor water poisoning incident in North Cornwall in 1988
+ - value: >
+      . Why did Simon get a Knighthood for calling Camelford a Legend and gulf war syndrome a Rumor? <br> <br> <br>The legend of Camelford: Medical consequences of a water pollution accident. <br> <br>Citation: <br>Journal of Psychosomatic Research, 01 1995, vol./is. 39/1(1-9), 0022-3999 (Jan 1995) <br> <br>Author(s): <br>David, Anthony S,Wessely, Simon C <br> <br>It is argued that the most likely explanation of these complaints is that the perception of normal and benign somatic symptoms among residents and health professionals was heightened and attributed to an external, physical cause. <br> <br>Thursday, September 19, 2013 <br>CG_News <br>Follow <br> <br>TWO ministers have issued an unreserved apology on behalf of the Government to all those affected by the Lowermoor water poisoning incident in North Cornwall in 1988. <br> <br> <br>
 
 # Article Taxonomies
 categories:

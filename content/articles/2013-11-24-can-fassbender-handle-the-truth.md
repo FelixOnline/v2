@@ -13,7 +13,8 @@ aliases:
  - /film/4121/can-fassbender-handle-the-truth
 imported: true
 comments:
- - Loved the movie The performances were great and I have a fondness for talkie movies It didnt feel unfinished to meI personally loved the movie and have been thinking about it for daysin fact I saw it twice  The actors were wonderful and so was the direction and the glorious dialogue  Many people hated it of course for reasons that arent quite clear to me but this is a good review and perhaps does indicate why some might not have liked it  Expectations are important if youre expecting an actionadventure movie with a neat resolution it will disappoint but if you are willing to take it on its own terms it is very rewarding
+ - value: >
+     Loved the movie. The performances were great, and I have a fondness for talkie movies. It didn't feel unfinished to me.,I personally loved the movie, and have been thinking about it for days--in fact I saw it twice. The actors were wonderful, and so was the direction and the glorious dialogue. Many people hated it, of course, for reasons that aren't quite clear to me, but this is a good review, and perhaps does indicate why some might not have liked it. Expectations are important; if you're expecting an action-adventure movie with a neat resolution, it will disappoint, but if you are willing to take it on its own terms, it is very rewarding.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/473/science-fiction-column
 imported: true
 comments:
- - A well argued article and i definetly agree on the points raisedThat said I think that there is a place for the technobabble and related solutions occasionally as long as it does not take prevalence
+ - value: >
+     A well argued article, and i definetly agree on the points raised! <br>That said, I think that there is a place for the technobabble and related solutions occasionally, as long as it does not take prevalence.
 
 # Article Taxonomies
 categories:

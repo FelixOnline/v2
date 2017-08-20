@@ -13,7 +13,8 @@ aliases:
  - /news/3524/venture-catalyst-challenge-13--icstartup-just-the-start-
 imported: true
 comments:
- - If you want to read more articles by me feel free to link in google or linkedin httpsplusgooglecomPedroPereiraMarketing
+ - value: >
+     If you want to read more articles by me feel free to link in google+ or linkedin https://plus.google.com/+PedroPereiraMarketing
 
 # Article Taxonomies
 categories:

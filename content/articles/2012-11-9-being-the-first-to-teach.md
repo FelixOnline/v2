@@ -13,7 +13,8 @@ aliases:
  - /news/2839/being-the-first-to-teach
 imported: true
 comments:
- - Honest mistake ChangedI thought the M in STEM stood for MathsI never knew Medicine was taught in secondary school In which case there might well be a shortage of highly qualified teachers for ityou probably wouldnt have got to Imperial
+ - value: >
+     Honest mistake. Changed!,I thought the M in STEM stood for Maths...? <br> <br>I never knew Medicine was taught in secondary school. In which case there might well be a shortage of highly qualified teachers for it.,...you probably wouldn't have got to Imperial
 
 # Article Taxonomies
 categories:

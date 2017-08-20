@@ -13,7 +13,8 @@ aliases:
  - /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
 imported: true
 comments:
- - Most of us BMS students groan inwardly when were emailed yet another dull missive from Cyin But well done anyway for getting the DPE positionMobiles that Micromax has launched have its own characteristic featuring And Micromax is the name that keeps the mobile freaks amazed with its outstanding featuring products and models Models with all the latest facilities and features are what Micromax always keeps marinating A look inside wwopiightshoppingingitbasCMicromaxMobilePhonesbMicrwmaxcrd1 will give full idea of the Micromax offers
+ - value: >
+     Most of us BMS students groan inwardly when we're emailed yet another dull missive from Cyin. But well done anyway for getting the DPE position.,Mobiles that Micromax has launched have its own characteristic featuring. And Micromax is the name that keeps the mobile freaks amazed with its outstanding featuring products and models. Models with all the latest facilities and features are what Micromax always keeps marinating. A look inside wwopiightshopping.in/g/itb.as.?C=Micromax-Mobile-Phones&amp;b=Micrwmax&amp;crd=1 will give full idea of the Micromax offers.
 
 # Article Taxonomies
 categories:

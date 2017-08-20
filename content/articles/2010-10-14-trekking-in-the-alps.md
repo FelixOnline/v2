@@ -13,7 +13,8 @@ aliases:
  - /travel/211/trekking-in-the-alps
 imported: true
 comments:
- - Stop hack the program
+ - value: >
+     Stop hack the program!!!
 
 # Article Taxonomies
 categories:

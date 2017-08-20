@@ -13,7 +13,8 @@ aliases:
  - /music/948/new-orleans-jazz
 imported: true
 comments:
- - Please look up the definition of Brown nose better still use this article as the definition of it
+ - value: >
+     Please look up the definition of Brown nose, better still, use this article as the definition of it.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/5345/felix-interviews-deputy-president-fs-candidate-christopher-kaye
 imported: true
 comments:
- - fit flop shoefitflop australia buy online httpaustraliafitflopsblogspotcom
+ - value: >
+     fit flop shoe <br>fitflop australia buy online http://australiafitflops.blogspot.com/
 
 # Article Taxonomies
 categories:

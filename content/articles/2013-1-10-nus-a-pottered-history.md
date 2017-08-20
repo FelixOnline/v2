@@ -13,7 +13,8 @@ aliases:
  - /comment/3089/nus-a-pottered-history
 imported: true
 comments:
- - Good God man nobody at Imperial caresDont force a referendum on us just because you couldnt think of anything better to do with your time This is precampaigningIn saying youre calling a referendum on this issue youve immediately said youre not going to express your opinions and then you doAnd on admitting that you came across as a bellend at the conference way to represent ImperialWhy shouldnt the President have a view on NUSShame that the vote will distract from the Sabb elections The NUS is a bloated organisation staffed by under occupied third sector types some of whom will be dispatched to campaign at Imperial so their employer can trouser 60k of our money I hope ICU makes sure they are prevented from doing so as there is no equivalent resource for the No campaign
+ - value: >
+     Good God man, nobody at Imperial cares! <br> <br>Don't force a referendum on us just because you couldn't think of anything better to do with your time. ,This is pre-campaigning. <br> <br>In saying you're calling a referendum on this issue, you've immediately said you're not going to express your opinions, and then you do. <br> <br>And on admitting that you came across as a bellend at the conference, way to represent Imperial!,Why shouldn't the President have a view on NUS? <br> <br>Shame that the vote will distract from the Sabb elections. The NUS is a bloated organisation staffed by under occupied third sector types, some of whom will be dispatched to campaign at Imperial so their employer can trouser £60k of our money. I hope ICU makes sure they are prevented from doing so as there is no equivalent resource for the No campaign.
 
 # Article Taxonomies
 categories:

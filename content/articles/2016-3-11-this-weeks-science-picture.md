@@ -13,7 +13,8 @@ aliases:
  - /science/6029/this-weeks-science-picture
 imported: true
 comments:
- - Thanks for writing such an eaoutsynderstand article on this topic
+ - value: >
+     Thanks for writing such an eaout-s-ynderstand article on this topic.
 
 # Article Taxonomies
 categories:

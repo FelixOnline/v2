@@ -13,7 +13,8 @@ aliases:
  - /sport/5715/medic-kings-toppled-by-imperial-might
 imported: true
 comments:
- - Always reinfsherg to hear a rational answer
+ - value: >
+     Always reinfsherg to hear a rational answer.
 
 # Article Taxonomies
 categories:

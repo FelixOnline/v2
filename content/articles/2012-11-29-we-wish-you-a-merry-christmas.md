@@ -13,7 +13,8 @@ aliases:
  - /comment/3005/we-wish-you-a-merry-christmas
 imported: true
 comments:
- - If you really love Jesus watch this with an open mindhttpwwwyoutubecomwatchvRycPS5dxzLo
+ - value: >
+     If you really love Jesus watch this with an open mind <br>http://www.youtube.com/watch?v=RycPS5dxzLo
 
 # Article Taxonomies
 categories:

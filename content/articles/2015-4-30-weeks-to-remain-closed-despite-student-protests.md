@@ -13,7 +13,8 @@ aliases:
  - /news/5474/weeks-to-remain-closed-despite-student-protests-
 imported: true
 comments:
- - So what are they using Garden Hall for again Why cant it be used for childcare How easily can Weeks be refurbished to be used for other space if its too difficult to refurbish it for accommodation when its still in good condition  It would be nice if the college were more open to the students about these decisions and their plans but no its all about money and they dont even acknowledge student views which they should given the poor track record of student satisfaction ratings
+ - value: >
+     So what are they using Garden Hall for again? Why can't it be used for childcare? How easily can Weeks be refurbished to be used for other space if it's too difficult to refurbish it for accommodation (when it's still in good condition? It would be nice if the college were more open to the students about these decisions and their plans, but no it's all about money and they don't even acknowledge student views (which they should given the poor track record of student satisfaction ratings...).
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/5693/immortals-put-through-their-paces
 imported: true
 comments:
- - Hot damn loonkig pretty useful buddy
+ - value: >
+     Hot damn, loonkig pretty useful buddy.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/6910/could-2017-be-the-year-of-indie
 imported: true
 comments:
- - Come on Stopbuy madden mobile 17 coins httpwwwmaddenstorecomUp yoursbuy pokemon go rare pokemon httpwwwpokemonbuxcomThe youre very professional dofustouchkamas cheap kamas dofus touch seller httpswwwdofustouchkamascomCall it evenbuy Albion Online gold httpalbiononlineemonsitecomblogalbiononlinethealbiononlinegalahadupdatehasimprovedthegame1html
+ - value: >
+     Come on, Stop! <br>buy madden mobile 17 coins http://www.madden-store.com,Up yours! <br>buy pokemon go rare pokemon http://www.pokemonbux.com,The youre very professional . <br>dofustouch-kamas cheap kamas dofus touch seller https://www.dofustouch-kamas.com/,Call it even. <br>buy Albion Online gold http://albiononline.e-monsite.com/blog/albion-online/the-albion-online-galahad-update-has-improved-the-game-1.html
 
 # Article Taxonomies
 categories:

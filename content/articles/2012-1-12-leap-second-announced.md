@@ -13,7 +13,8 @@ aliases:
  - /science/1984/leap-second-announced
 imported: true
 comments:
- - Beautiful photos and very crvitaee with your textures Ive never experimented with textures before but after seeing what you have done with your photos on this post perhaps I might startIm your newest follower Please stop by and follow back if you can Have a great day
+ - value: >
+     Beautiful photos and very crvitaee with your textures. I've never experimented with textures before but after seeing what you have done with your photos on this post perhaps I might start.I'm your newest follower:-) Please stop by and follow back if you can. Have a great day!.
 
 # Article Taxonomies
 categories:

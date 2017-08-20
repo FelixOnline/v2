@@ -13,7 +13,8 @@ aliases:
  - /features/6764/whats-a-queer-gal-to-doseewatchlisten-to-our-guide-to-your-gal-pal-culture-fix
 imported: true
 comments:
- - 9kKwew  rmgqlgzzkvty urlhttpjwiysqazwskbcomjwiysqazwskburl linkhttpdobdgetshgekcomdobdgetshgeklink httpfdyvhcdgcecvcomAs a minority I have only seen films that represent individuals of my minority If i have seen the films The Smurfs Hotel for DogsShark Tale Shark Tale 2What Minority am I5000 to the first person to correctly guess my minority
+ - value: >
+     9kKwew rmgqlgzzkvty, [url=http://jwiysqazwskb.com/]jwiysqazwskb[/url], [link=http://dobdgetshgek.com/]dobdgetshgek[/link], http://fdyvhcdgcecv.com/,As a minority, I have only seen films that represent individuals of my minority. If i have seen the films:<br>- The Smurfs<br>- Hotel for Dogs<br>-Shark Tale<br>- Shark Tale 2<br>What Minority am I?<br>$5000 to the first person to correctly guess my minority.
 
 # Article Taxonomies
 categories:

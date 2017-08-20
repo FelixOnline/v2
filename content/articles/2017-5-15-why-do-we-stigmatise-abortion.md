@@ -13,7 +13,8 @@ aliases:
  - /features/6968/why-do-we-stigmatise-abortion
 imported: true
 comments:
- - I would argue that it is not so much stigma so much as ensuring that we do not trivialise the ethically delicate area of how we treat life potential life and at what point life exists The fact that many women receive abortions does not change these underlying issues
+ - value: >
+     I would argue that it is not so much stigma so much as ensuring that we do not trivialise the ethically delicate area of how we treat life, potential life and at what point life exists. The fact that many women receive abortions does not change these underlying issues.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/2708/kaleidoscopes-of-canada
 imported: true
 comments:
- - awesome piece
+ - value: >
+     awesome piece!
 
 # Article Taxonomies
 categories:

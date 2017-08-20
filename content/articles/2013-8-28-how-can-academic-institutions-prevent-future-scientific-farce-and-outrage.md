@@ -13,7 +13,8 @@ aliases:
  - /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
 imported: true
 comments:
- - Interesting idea  Scientifiques sans frontieres Heckuva good job I sure apctipeare it
+ - value: >
+     Interesting idea - Scientifiques sans frontieres? ,Heckuva good job. I sure apctipeare it.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tv/1443/two-girls-one-cup
 imported: true
 comments:
- - I LOLd
+ - value: >
+     I LOLd.
 
 # Article Taxonomies
 categories:

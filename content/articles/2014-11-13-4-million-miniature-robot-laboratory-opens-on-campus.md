@@ -13,7 +13,8 @@ aliases:
  - /news/4857/4-million-miniature-robot-laboratory-opens-on-campus
 imported: true
 comments:
- - Youre an extremely beneficial internet site couldnt make it without yapokemongo httpwwwfekidoszhunode127464
+ - value: >
+     You're an extremely beneficial internet site; couldn't make it without ya! <br>pokemongo http://www.fekidosz.hu/node/127464
 
 # Article Taxonomies
 categories:

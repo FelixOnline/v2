@@ -13,7 +13,8 @@ aliases:
  - /tech/146/sort-your-journal-library-out-with-papers-for-mac
 imported: true
 comments:
- -   6028887355retainmentjohnsm  google                           90    sexy                30           180
+ - value: >
+     <a href="http://god-n-devil-inc.livejournal.com/13959.html">Дизайн внутренних состояний</a>,6028887355 <br>retainment <br>johnsm <br> <br><a href="http://google.com/">google</a>,Здравствуйте дорогие господа <br> <br>Может до перестройки не говорили,что есть <a href="http://www.superrike.ru">проститутки москвы</a> и информация была не сильно распространена, но все равно существовала, то в 90-е годы уровень услуги <a href="http://www.superrike.ru/devochki/statya-6">sexy</a> резко начал расти. По многим источникам только в одной Москве количество предложений <a href="http://www.superrike.ru/devochki/statya-6">знакомства</a> увелчилось до 30 тысяч, а во всей нашей стране число этих девушек достигло 180 тысяч.
 
 # Article Taxonomies
 categories:

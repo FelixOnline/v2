@@ -13,7 +13,8 @@ aliases:
  - /news/4595/imperial-falls-in-latest-ranking-table
 imported: true
 comments:
- - Imperial beats LSE which is third on all criteria except research assessment and only marginally It could have been interesting to note in the articleImperial real ranking is threrefore 3rd as usual
+ - value: >
+     Imperial beats LSE which is third on all criteria except research assessment (and only marginally). It could have been interesting to note in the article.,Imperial real ranking is threrefore 3rd as usual.
 
 # Article Taxonomies
 categories:

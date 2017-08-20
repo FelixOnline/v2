@@ -13,7 +13,8 @@ aliases:
  - /games/4055/create-and-run-your-own-prison
 imported: true
 comments:
- - Also you should buy this because the developers are ExImperial and lovely people
+ - value: >
+     Also you should buy this because the developers are Ex-Imperial and lovely people ...
 
 # Article Taxonomies
 categories:

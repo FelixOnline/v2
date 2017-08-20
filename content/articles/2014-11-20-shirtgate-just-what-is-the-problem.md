@@ -13,7 +13,8 @@ aliases:
  - /comment/4913/shirtgate-just-what-is-the-problem
 imported: true
 comments:
- - httpkamagrabuyjellyorg  Generic Viagra Pills To Buy In Usa Celebrex Online httpsynthroidonlinebuynethttpkamagrabuyjellyorg  Buy Kamagra Online Buy Celebrex Online httpsynthroidonlinebuynet
+ - value: >
+     http://kamagrabuy-jelly.org/ - Generic Viagra Pills To Buy In Usa Celebrex Online http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Buy Kamagra Online Buy Celebrex Online http://synthroidonlinebuy.net/
 
 # Article Taxonomies
 categories:

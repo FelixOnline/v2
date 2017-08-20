@@ -13,7 +13,8 @@ aliases:
  - /games/5734/love-sex-and-the-internet
 imported: true
 comments:
- - I could read a book about this without finding such realworld aphpoacres
+ - value: >
+     I could read a book about this without finding such real-world aphpoacres!
 
 # Article Taxonomies
 categories:

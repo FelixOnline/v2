@@ -13,7 +13,8 @@ aliases:
  - /film/2711/new-halloween-releases-of-2012
 imported: true
 comments:
- - 820 pm August 18 2012I work at a movie theatre  Yes peolpe do need to be told this every fucking time sometimes multiple times  Same with  shut up  and  keep you feet off the fucking seats   If you want to spend 1150 to go to a movie and use your phone do everyone a favor and just flush the cash down the toilet and stay home
+ - value: >
+     8:20 pm, August 18, 2012|I work at a movie theatre. Yes, peolpe do need to be told this every fucking time, sometimes multiple times. Same with shut up and keep you feet off the fucking seats . If you want to spend 11.50 to go to a movie and use your phone, do everyone a favor and just flush the cash down the toilet and stay home.
 
 # Article Taxonomies
 categories:

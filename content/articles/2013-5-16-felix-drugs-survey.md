@@ -13,7 +13,8 @@ aliases:
  - /news/3588/felix-drugs-survey
 imported: true
 comments:
- - Hey AnonCheers for pointing out the graphs mate Sorry for that Fixing it nowThis article was giving me grief uploading so thats why that crept in At one point I had to actually start uploading it from scratch which was a painRight everyone Im having an issue with one of the graphs it just doesnt want to be a large image which is weird and annoying Trying to fix itThe graphs in this article are pretty poor Occasionally should be green in the legend and the Druggy Departments graph is the wrong oneactually many drugs are less harmful than alcohol DMT LSD MDMA Psilocybin and cannabis are all in this list and they are all less harmful than alcohol
+ - value: >
+     Hey Anon. <br> <br>Cheers for pointing out the graphs mate. Sorry for that! Fixing it now. <br> <br>This article was giving me grief uploading so that's why that crept in. At one point I had to actually start uploading it from scratch, which was a pain.,Right everyone, I'm having an issue with one of the graphs, it just doesn't want to be a large image, which is weird and annoying. Trying to fix it.,The graphs in this article are pretty poor. 'Occasionally' should be green in the legend and the 'Druggy Departments' graph is the wrong one...,actually, many drugs are less harmful than alcohol. DMT, LSD, MDMA, Psilocybin, and cannabis are all in this list, and they are all less harmful than alcohol.
 
 # Article Taxonomies
 categories:

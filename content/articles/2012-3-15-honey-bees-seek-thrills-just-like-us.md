@@ -13,7 +13,8 @@ aliases:
  - /science/2352/honey-bees-seek-thrills-just-like-us
 imported: true
 comments:
- - I realise this is an incredibly late answer but youre right I didnt actually provide the picture or the caption for this article nor was I included in choosing those things I do remember being a bit upset about the incorrect caption at the time but not enough to get it corrected or to acknowledge itInteresting article thank you You sayOn his way back from an adventure  in the title to the picturenow I am not an expert but I thought it was only the girls that gathered pollen the yellow blob on its leg and nectar so she is on her way back The boys are drones
+ - value: >
+     I realise this is an incredibly late answer, but you're right. I didn't actually provide the picture or the caption for this article, nor was I included in choosing those things. I do remember being a bit upset about the incorrect caption at the time, but not enough to get it corrected or to acknowledge it.,Interesting article, thank you. You say <br>"On his way back from an adventure " in the title to the picture, <br>now I am not an expert but I thought it was only the girls that gathered pollen (the yellow blob on its leg) and nectar so "she is on her way back" ! <br>The boys are drones. <br>
 
 # Article Taxonomies
 categories:

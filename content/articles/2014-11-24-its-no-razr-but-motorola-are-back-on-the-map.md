@@ -13,7 +13,8 @@ aliases:
  - /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
 imported: true
 comments:
- - Your hoetsny is like a beacon
+ - value: >
+     Your hoetsny is like a beacon
 
 # Article Taxonomies
 categories:

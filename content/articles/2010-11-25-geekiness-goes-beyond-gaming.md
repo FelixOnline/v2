@@ -13,7 +13,8 @@ aliases:
  - /comment/440/geekiness-goes-beyond-gaming
 imported: true
 comments:
- - Oooh right so YOURE the cool one and hes the loser Meanwhile youre raging like a homeless personJoin an awesome Gaming Forum todayWhy yes I did read a book
+ - value: >
+     Oooh right so YOU'RE the cool one, and he's the loser. Meanwhile, you're raging like a homeless person. <br> <br>,Join an awesome <a href="http://cooll.net">Gaming Forum</a> today!,Why yes, I did read a book.
 
 # Article Taxonomies
 categories:

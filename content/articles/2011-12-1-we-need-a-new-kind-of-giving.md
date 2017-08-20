@@ -13,7 +13,8 @@ aliases:
  - /comment/1897/we-need-a-new-kind-of-giving
 imported: true
 comments:
- - Brilliant  Im sure an awful lot of aid money is wasted on projects that mostly benefit donor countries multinational corporations with very little ever reaching the poor  Weve known this for a long time
+ - value: >
+     Brilliant! I'm sure an awful lot of aid money is wasted on projects that mostly benefit donor countries, multinational corporations, with very little ever reaching the poor. We've known this for a long time.
 
 # Article Taxonomies
 categories:

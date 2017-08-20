@@ -13,7 +13,8 @@ aliases:
  - /comment/1718/on-the-flip-side-of-the-coin
 imported: true
 comments:
- - Very sensible words indeed Let this be an eyeopener for us to start thinking for the betterment of the greater part of usThought provokingYou could interpret that last quote in many ways Submitting to God appears to be servitude in my eyes only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean
+ - value: >
+     Very sensible words, indeed... Let this be an eye-opener for us to start thinking for the betterment of the greater part of us.,Thought provoking.,You could interpret that last quote in many ways. Submitting to God appears to be servitude in my eyes, only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean.
 
 # Article Taxonomies
 categories:

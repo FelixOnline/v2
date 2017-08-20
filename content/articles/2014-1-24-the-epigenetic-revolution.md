@@ -13,7 +13,8 @@ aliases:
  - /science/4287/the-epigenetic-revolution
 imported: true
 comments:
- - But the HGP did indeed keep its promise of providing a mostly complete reference genomeAny wild predictions above that from overeager futurologists can and should be dismissed as mere speculation
+ - value: >
+     But the HGP did indeed keep its promise of providing a mostly complete reference genome. <br> <br>Any wild predictions above that from over-eager futurologists can and should be dismissed as mere speculation.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/362/techno-nonsense-night-slugs
 imported: true
 comments:
- - NIGHT SLUGSSS Night slugsBetter get down to the night slugs party tonight thenLets get steaming
+ - value: >
+     NIGHT SLUGSSS!!!! Night slugs. <br> <br>Better get down to the night slugs party tonight then!!!,Let's get steaming!
 
 # Article Taxonomies
 categories:

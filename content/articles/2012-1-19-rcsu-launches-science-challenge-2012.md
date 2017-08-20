@@ -13,7 +13,8 @@ aliases:
  - /news/2034/rcsu-launches-science-challenge-2012
 imported: true
 comments:
- - The offending tweet which caused the Twitterwall to be shut downhttpbitlywUFOAzThe actual website they used to show the tweets livehttpvisibletweetscom
+ - value: >
+     The offending tweet which caused the Twitterwall to be shut down: <br> <br>http://bit.ly/wUFOAz,The actual website they used to show the tweets live: <br> <br>http://visibletweets.com/
 
 # Article Taxonomies
 categories:

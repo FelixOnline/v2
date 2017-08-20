@@ -13,7 +13,8 @@ aliases:
  - /politics/1618/7-billion-thats-numberwang
 imported: true
 comments:
- - The problem of overpopulation is extremely hard to assessMore consumption  more warming regardless of the number of people I fail to see how a moral person can worry about the existence of a child in a large family in rural Africa who burns a little wood for cooking while we enjoy CO2 intensive Western lifestyles over here The ideal situation is if we could lift this poor child out of poverty  which means giving it enough calories as well as veggies and meat and access to energy healthcare education etc Sadly there is not much land left to turn into farms without encroaching in essential biomes and existing arable land is being eroded Th huge increase in crop yields seen in the 20th century has started to stallI donnt see how having even more people on Earth will help development
+ - value: >
+     The problem of overpopulation is extremely hard to assess. <br> <br>"More consumption = more warming, regardless of the number of people. I fail to see how a moral person can worry about the existence of a child in a large family in rural Africa who burns a little wood for cooking while we enjoy CO2 intensive Western lifestyles over here. " <br> <br>The ideal situation is if we could lift this poor child out of poverty - which means giving it enough calories, as well as veggies and meat, (and access to energy, healthcare, education, etc.) Sadly, there is not much land left to turn into farms without encroaching in essential biomes and existing arable land is being eroded. Th huge increase in crop yields seen in the 20th century has started to stall. <br> <br>I donn't see how having even more people on Earth will help development. <br>
 
 # Article Taxonomies
 categories:

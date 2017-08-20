@@ -13,7 +13,8 @@ aliases:
  - /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
 imported: true
 comments:
- - So erm which departments are getting the DTCsPhysics and Chemistry in particular have been very successful with the bid  This isnt a good article though its basically a copy and paste job of the press release  Can do better Felix
+ - value: >
+     So, erm, which departments are getting the DTCs?,Physics and Chemistry in particular have been very successful with the bid. This isn't a good article though, it's basically a copy and paste job of the press release. Can do better Felix!
 
 # Article Taxonomies
 categories:

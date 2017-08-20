@@ -13,7 +13,8 @@ aliases:
  - /news/1606/union-first-to-provide-response-to-nss
 imported: true
 comments:
- - Good articleWell done chaps keep up with the good work
+ - value: >
+     Good article,Well done chaps, <br> <br>keep up with the good work
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5838/business-school-dean-sticks-up-for-bitcoin
 imported: true
 comments:
- - Students must and will learn about it anyway  Im sure some use httpbitdoCoinbase and httpbitdosellonline to pay for Bschool alreadywklP5u httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
+ - value: >
+     Students must and will learn about it anyway. I'm sure some use http://bit.do/Coinbase and http://bit.do/sellonline to pay for B-school already.,wklP5u http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
 
 # Article Taxonomies
 categories:

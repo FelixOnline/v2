@@ -13,7 +13,8 @@ aliases:
  - /news/96/imperial-falter-in-university-challenge
 imported: true
 comments:
- - Its soopky how clever some ppl are Thanksu7H0ef  urlhttpjizoojrxweufcomjizoojrxweufurl linkhttpyzppfkhaslfycomyzppfkhaslfylink httpysshguhrmaugcom
+ - value: >
+     It's soopky how clever some ppl are. Thanks!,u7H0ef , [url=http://jizoojrxweuf.com/]jizoojrxweuf[/url], [link=http://yzppfkhaslfy.com/]yzppfkhaslfy[/link], http://ysshguhrmaug.com/
 
 # Article Taxonomies
 categories:

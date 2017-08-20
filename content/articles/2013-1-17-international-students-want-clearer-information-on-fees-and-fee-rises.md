@@ -13,7 +13,8 @@ aliases:
  - /news/3115/international-students-want-clearer-information-on-fees-and-fee-rises
 imported: true
 comments:
- - This is a great article Im glad that a brilliant paper was bought to council so that we can now begin to work with international students and lobby college about how it calculates its increases and how they are communicated to students Transparency is keyIve had meetings with the Deputy Rector Pro Rector Education and College Secretary about the paper on this that was taken to Union Council over the last week All of them think its  in principle details to be ironed out  good that students are told in advance what their fees will be Ive got more meetings to come but hopefully we will be able to make this possibleYou hit the nail right on the head with that one Lethal articalJohnSmashed itExcellent article  good to highlight fee escalation problems for all students
+ - value: >
+     This is a great article. I'm glad that a brilliant paper was bought to council so that we can now begin to work with international students and lobby college about how it calculates its increases, and how they are communicated to students. Transparency is key.,I've had meetings with the Deputy Rector, Pro Rector (Education) and College Secretary about the paper on this that was taken to Union Council over the last week. All of them think it's - in principle, details to be ironed out - good that students are told in advance what their fees will be. I've got more meetings to come, but hopefully we will be able to make this possible!,You hit the nail right on the head with that one. Lethal artical. <br>John,Smashed it!,Excellent article - good to highlight fee escalation problems for all students.
 
 # Article Taxonomies
 categories:

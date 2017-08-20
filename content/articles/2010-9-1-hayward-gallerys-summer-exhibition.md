@@ -13,7 +13,8 @@ aliases:
  - /arts/154/hayward-gallerys-summer-exhibition
 imported: true
 comments:
- - what is the name of his piece in the picture above the heart
+ - value: >
+     what is the name of his piece in the picture above (the heart)?
 
 # Article Taxonomies
 categories:

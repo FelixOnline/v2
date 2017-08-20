@@ -13,7 +13,8 @@ aliases:
  - /tech/2326/the-power-behind-the-web
 imported: true
 comments:
- - Nice article and great job on this years election stats page for the record although Im the first to admit last year was a disaster we were at least generating the stats once every 10 seconds and serving a static copy to each request rather than generating per request as this article says from about 20 minutes into voting when Mckee called me to tell me he and Chris Darby had melted dougal anyway PCheers Chris I didnt realise that you had changed it to a static version so apologies for the mistake
+ - value: >
+     Nice article, and great job on this year's election stats page! (for the record, although I'm the first to admit last year was a disaster, we were at least generating the stats once every 10 seconds and serving a static copy to each request, rather than generating per request as this article says...... from about 20 minutes into voting when Mckee called me to tell me he and Chris Darby had melted dougal, anyway :P),Cheers Chris! I didn't realise that you had changed it to a static version so apologies for the mistake!
 
 # Article Taxonomies
 categories:

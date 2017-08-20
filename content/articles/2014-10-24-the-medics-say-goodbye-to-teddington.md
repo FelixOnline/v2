@@ -13,7 +13,8 @@ aliases:
  - /news/4749/the-medics-say-goodbye-to-teddington
 imported: true
 comments:
- - Incorrect The Legends were actually the doctors team and beat the students team by 3 points in an excellent game of running rugby true to the spirit and long standing traditions of St Marys Hospital RFC founded 1865 and the third oldest rugby club in the world Charing Cross Hospital RFC founded 1868 Westminster Hospital RFC and Imperial Medicals RFCThe Legends team ably captained by Graham Corin contained several Consultants including alumni of St Marys who had been playing rugby at the Teddington rugby ground the finest rugby pitch in London outside of Twickenham for over twenty yearsAlthough this wonderful occasion was a fitting send off the loss of this fine facility is a travestyWell this article is incredibly inaccurateGreat work here
+ - value: >
+     Incorrect. <br> <br>The Legends were actually the doctors team, and beat the students team by 3 points in an excellent game of running rugby, true to the spirit and long standing traditions of St Mary's Hospital RFC (founded 1865 and the third oldest rugby club in the world), Charing Cross Hospital RFC (founded 1868), Westminster Hospital RFC, and Imperial Medicals RFC. <br> <br>The Legends team, ably captained by Graham Corin, contained several Consultants, including alumni of St Mary's who had been playing rugby at the Teddington rugby ground (the finest rugby pitch in London, outside of Twickenham) for over twenty years. <br> <br>Although this wonderful occasion was a fitting send off, the loss of this fine facility is a travesty.,Well this article is incredibly inaccurate. <br> <br>Great work here. <br> <br>
 
 # Article Taxonomies
 categories:

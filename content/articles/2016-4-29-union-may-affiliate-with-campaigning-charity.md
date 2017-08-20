@@ -13,7 +13,8 @@ aliases:
  - /news/6092/union-may-affiliate-with-campaigning-charity
 imported: true
 comments:
- - I suppose these sabbatical wasters have to fill their year with something Might as well be some nice expensive courses to pad out their CVs
+ - value: >
+     I suppose these sabbatical wasters have to fill their year with something. Might as well be some nice expensive courses to pad out their CVs.
 
 # Article Taxonomies
 categories:

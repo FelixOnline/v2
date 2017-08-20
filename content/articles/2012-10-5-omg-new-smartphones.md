@@ -13,7 +13,8 @@ aliases:
  - /tech/2602/omg-new-smartphones
 imported: true
 comments:
- - Yeah  I kinda ran out of space and had to cut it shortiOS6 Apple Maps made news worldwide with levels of fail not seen since the Sega Dreamcast Couldnt be truerThis is just an iPhone 5 review articleLittle to nothing on Android phones
+ - value: >
+     Yeah - I kinda ran out of space and had to cut it short.,"iOS6 Apple Maps made news worldwide with levels of fail not seen since the Sega Dreamcast". Couldn't be truer.,This is just an iPhone 5 review article? <br>Little to nothing on Android phones...
 
 # Article Taxonomies
 categories:

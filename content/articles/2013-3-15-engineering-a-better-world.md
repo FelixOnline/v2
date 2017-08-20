@@ -13,7 +13,8 @@ aliases:
  - /news/3489/engineering-a-better-world
 imported: true
 comments:
- - This looks like an incredible event Ive heard hes given inspirational talks at other institutions and universities so I am definately coming to this one
+ - value: >
+     This looks like an incredible event, I've heard he's given inspirational talks at other institutions and universities so I am definately coming to this one!
 
 # Article Taxonomies
 categories:

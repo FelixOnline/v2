@@ -13,7 +13,8 @@ aliases:
  - /news/2209/black-tie-for-summer-ball
 imported: true
 comments:
- - An excellent plan but without the usual college 20000 subvention in the event the ticket price is set to rise significantly past the 30 initially suggested Perhaps people consider 35 or more entsonly tickets to be excessive for a cutback summer ball YayId gladly pay up to 100110 for dinner and ents if the acts were truly awesome
+ - value: >
+     An excellent plan, but without the usual college £20,000 subvention in the event, the ticket price is set to rise significantly past the £30 initially suggested. Perhaps people consider £35 (or more!) ents-only tickets to be excessive for a cut-back summer ball? ,Yay!,I'd gladly pay up to £100/110 for dinner and ents if the acts were truly awesome.
 
 # Article Taxonomies
 categories:

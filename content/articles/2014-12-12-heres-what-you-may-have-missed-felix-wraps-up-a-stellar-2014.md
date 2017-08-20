@@ -13,7 +13,8 @@ aliases:
  - /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
 imported: true
 comments:
- - Dashed I meant  but that was before I read the link about the authors What fascinating women and what a compelling story Maybe cornibolataols arent such a great idea ulp
+ - value: >
+     "Dashed," I meant -- but that was before I read the link about the authors! What fascinating women and what a compelling story. Maybe cornibolataols aren't such a great idea (ulp)...
 
 # Article Taxonomies
 categories:

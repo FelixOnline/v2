@@ -13,7 +13,8 @@ aliases:
  - /science/6025/who-really-killed-the-ichthyosaur
 imported: true
 comments:
- - Posts like this brgeithn up my day Thanks for taking the time
+ - value: >
+     Posts like this brgeithn up my day. Thanks for taking the time.
 
 # Article Taxonomies
 categories:

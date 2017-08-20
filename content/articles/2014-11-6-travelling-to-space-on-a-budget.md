@@ -13,7 +13,8 @@ aliases:
  - /science/4783/travelling-to-space-on-a-budget-
 imported: true
 comments:
- - SBB    Thank you for sharing the info Even tho it was one of the topten 2009 news in China I meissd it completely According to Wikipedia it appears some of the local officials andor supporters were trying to cover it up    I should go to the Chinese section of the local public library and see if I can borrow some of his books        I am not sure of that More often than not what we call facts are actually ppls opinions And opinions are hardly universal truths
+ - value: >
+     SBB:&gt;&gt; .... 鄧玉嬌 事件Thank you for sharing the info. Even tho it was one of the top-ten 2009 news in China, I meissd it completely. According to Wikipedia, it appears some of the local officials and/or supporters were trying to cover it up.&gt;&gt; ... 倪匡 .... 中國國內很多不可思議的怪現象I should go to the Chinese section of the local public library and see if I can borrow some of his books.&gt;&gt; ... 李怡 ... 不過與智慧人生有關的文字 應該是歷久常新 恆久而不會變舊 每個年代都是同樣的真理 I am not sure of that. More often than not, what we call "facts" are actually ppl's opinions!!! And opinions are hardly universal truths !!
 
 # Article Taxonomies
 categories:

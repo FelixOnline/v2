@@ -13,7 +13,8 @@ aliases:
  - /comment/1627/abandon-the-old-grade-system
 imported: true
 comments:
- - The fear is that decision about inviting peron to the interview will be based strongly upon the result on the degree I believe that with system we have today  70100 are the same grade people who do worse at exams work slower but are commited and talented have a chance of getting invited to an interview and showing their true abilityI know people with 21s who got hired by top tier companies and people from deans list who failed to secure a summer intership solely because they were awful at interviews I like the way employer does not know the exact grade because this way he is pushed to check your skill on the interview instead of rejecting you straight away
+ - value: >
+     The fear is that decision about inviting peron to the interview will be based strongly upon the result on the degree. I believe that with system we have today - 70%-100% are the same grade, people who do worse at exams, work slower, but are commited and talented have a chance of getting invited to an interview and showing their true ability. <br> <br>I know people with 2.1's who got hired by top tier companies, and people from dean's list who failed to secure a summer intership solely because they were awful at interviews. <br> <br>I like the way employer does not know the exact grade, because this way he is pushed to check your skill on the interview, instead of rejecting you straight away.
 
 # Article Taxonomies
 categories:

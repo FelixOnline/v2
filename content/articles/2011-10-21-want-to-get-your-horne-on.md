@@ -13,7 +13,8 @@ aliases:
  - /arts/1603/want-to-get-your-horne-on
 imported: true
 comments:
- - Well Mark you took all the surprise out of my announcement that City had an excellent win over Leicester  obviously nothing to do with the skill and expertise of the players on the field as its entirely down to the combined finger crossing of Watsonians United Wonder which division they play in  Please ignore that last remark which is just too sillyHey Jen  our hard work and influence is paying dividends  Yay  NB Nicky Maynard scored twice and very nearly had a hat trick Onwards with your fast approaching new show on the horizon Mark  sure it will be an absolute blast  x buy viagra cheap auto insurance
+ - value: >
+     Well, Mark you took all the surprise out of my announcement that City had an excellent win over Leicester … obviously nothing to do with the skill and expertise of the players on the field as it’s entirely down to the combined finger crossing of Watsonians United!!! Wonder which division they play in??? Please ignore that last remark which is just too silly!!!Hey, Jen … our hard work and influence is paying dividends. Yay!!! NB: Nicky Maynard scored twice and very nearly had a hat trick …Onwards with your fast approaching new show on the horizon, Mark … sure it will be an absolute blast … x <a href="http://effectiveedmedicine.com/">buy viagra</a> <a href="http://www.insurerscomparison.com/">cheap auto insurance</a>
 
 # Article Taxonomies
 categories:

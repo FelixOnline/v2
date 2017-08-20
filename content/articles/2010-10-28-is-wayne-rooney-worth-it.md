@@ -13,7 +13,8 @@ aliases:
  - /comment/274/is-wayne-rooney-worth-it
 imported: true
 comments:
- - Gosh Charles comes across as an excellent fine dandy chap
+ - value: >
+     Gosh, Charles comes across as an excellent fine dandy chap
 
 # Article Taxonomies
 categories:

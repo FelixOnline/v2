@@ -13,7 +13,8 @@ aliases:
  - /science/1760/china-is-living-proof-of-fishers-principle
 imported: true
 comments:
- - I agree with this article but because China has such a great ratio between males and females doesnt this seem to increase their military power If so could China soon become the dominant country of the world by surpassing the United States China may not only surpass the United States in warfare but they may also surpass the United States in economics politics and culture We must take this into consideration to which such thing may happen whether it be 01 of it happening The occurance of an Asian Century may lie close ahead of us This is just my opinion Thanks
+ - value: >
+     I agree with this article, but because China has such a great ratio between males and females, doesn't this seem to increase their military power? If so, could China soon become the dominant country of the world by surpassing the United States? China may not only surpass the United States in warfare but they may also surpass the United States in economics, politics, and culture. We must take this into consideration to which such thing may happen whether it be 0.1% of it happening. The occurance of an "Asian Century" may lie close ahead of us. <br>This is just my opinion. Thanks!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
 imported: true
 comments:
- - Quite a nonstory here The Unions stance on any political matter has no other impact than increasing the volume of hot air in the buildingNot that the Union Council can be considered representative of the student body in any meaningful way Most of us dont care what irrelevant extra stuff you lot get up to as long as you dont cock up the day to day running of the UnionVery nice post I certainly appreciate this website Continue the good workparajumpers michelle on sale httpwwwlondongdhandballcoukphocamapskmlspipphpukparajumpersmichelleonsale7177htmlGalaxy Schmid won the 2001 Cup and finished runnerup in 2002 If you played GW 1 anyone then definitely desire to give GW 2 possibility to Prices of hotels vary subject to season and venuefifa 16 hack httpcreditsfutcomlouboutin pumpschristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcom
+ - value: >
+     Quite a non-story here. The Union's stance on any political matter has no other impact than increasing the volume of hot air in the building.,Not that the Union Council can be considered representative of the student body in any meaningful way. Most of us don't care what irrelevant extra stuff you lot get up to, as long as you don't cock up the day to day running of the Union.,Very nice post. I certainly appreciate this website. Continue the good work! <br>parajumpers michelle on sale http://www.londongdhandball.co.uk/phocamapskml/spip.php?uk-parajumpers-michelle-on-sale-7177.html,Galaxy, Schmid won the 2001 Cup and finished runner-up in 2002. If you played GW 1, anyone then definitely desire to give GW 2 possibility to. Prices of hotels vary subject to season and venue. <br>fifa 16 hack http://creditsfut.com/,louboutin pumps <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

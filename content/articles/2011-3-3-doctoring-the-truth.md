@@ -13,7 +13,8 @@ aliases:
  - /comment/1016/doctoring-the-truth
 imported: true
 comments:
- - This has made my day I wish all pstoings were this goodmGPuK8  pirvlihsschl tramadol 334 seroquel fcaux
+ - value: >
+     This has made my day. I wish all pstoings were this good.,mGPuK8 <a href="http://pirvlihsschl.com/">pirvlihsschl</a>, <a href="http://www.ultraprix.net/">tramadol</a> 334 <a href="http://www.medicahelp.net/">seroquel</a> fcaux
 
 # Article Taxonomies
 categories:

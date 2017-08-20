@@ -13,7 +13,8 @@ aliases:
  - /sport/4916/has-the-big-four-become-a-big-two
 imported: true
 comments:
- - Stupid article Nadal has clearly had injury struggles this year as has Murray as well as fatigue at the WTF Obviously the two guys in the best form have been Djoker and Fed but the fact remains that Nadal is a 14time Grand Slam champion and that can never be taken away from him plus Murray has two Maiors and the Olympic gold medal When all four are in good form they are so far ahead of the rest and they deserve to belong to that elite group however perhaps its still the Big 35 because although Murray is a double Grand Slam champ this year has thrown a lot of doubt into the air regarding his place in that elite group
+ - value: >
+     Stupid article, Nadal has clearly had injury struggles this year, as has Murray (as well as fatigue at the WTF). Obviously the two guys in the best form have been Djoker and Fed, but the fact remains that Nadal is a 14-time Grand Slam champion, and that can never be taken away from him, plus Murray has two Maiors and the Olympic gold medal! When all four are in good form, they are so far ahead of the rest, and they deserve to belong to that elite group, however perhaps it's still the "Big 3.5" because although Murray is a double Grand Slam champ, this year has thrown a lot of doubt into the air regarding his place in that elite group.
 
 # Article Taxonomies
 categories:

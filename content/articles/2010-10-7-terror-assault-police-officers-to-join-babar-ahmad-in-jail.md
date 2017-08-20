@@ -13,7 +13,8 @@ aliases:
  - /news/173/terror-assault-police-officers-to-join-babar-ahmad-in-jail
 imported: true
 comments:
- - Seems like justice has been done and not before time Mr Ahmed goes back to prison and the officers are probably out this evening celebratingFantastic result and congratulations to the legal team and Officers involvedwhy are some people saying that muslims are terrorists when they dont even know any thing about themyou cant just go up 2 a muslim and say to them that you are a terrorist
+ - value: >
+     Seems like justice has been done and not before time. Mr Ahmed goes back to prison and the officers are probably out, this evening, celebrating. <br> <br>Fantastic result and congratulations to the legal team and Officers involved.,why are some people saying that muslims are terrorists when they don't even know any thing about them. <br>you cant just go up 2 a muslim and say to them that you are a terrorist.
 
 # Article Taxonomies
 categories:

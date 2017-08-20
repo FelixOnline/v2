@@ -13,7 +13,8 @@ aliases:
  - /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
 imported: true
 comments:
- - No Chopstix Easily the best place in SK
+ - value: >
+     No Chopstix? Easily the best place in SK
 
 # Article Taxonomies
 categories:

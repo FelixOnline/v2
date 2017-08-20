@@ -13,7 +13,8 @@ aliases:
  - /travel/990/thailands-essentials-uncovered
 imported: true
 comments:
- - Koh Phangan is worldfamous for its Full Moon parties with up to 30000 people partying on the beach in Koh Phangan Resort to share sweat with people from all over the world The party peaks at sunrise and eventually tapers off in the afternoon leaving a scene of carnage behind on the beach Full Moon Parties are chaotic but lots of fun and generally considered a rite of passage in Southeast Asia
+ - value: >
+     Koh Phangan is world-famous for its Full Moon parties, with up to 30,000 people partying on the beach in Koh Phangan Resort to share sweat with people from all over the world! The party peaks at sunrise and eventually tapers off in the afternoon, leaving a scene of carnage behind on the beach. Full Moon Parties are chaotic but lots of fun, and generally considered a rite of passage in Southeast Asia. <br>
 
 # Article Taxonomies
 categories:

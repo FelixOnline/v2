@@ -13,7 +13,8 @@ aliases:
  - /arts/1784/tales-of-the-absurd
 imported: true
 comments:
- - Strictly come dancing was around in the 60sMay I point out that line in the play is Any winner of a fifth round Inter Regional BBC Come Dancing competition The word strictly is not mentioned The script has not been updated at all although in an original draft of the play Saunders mentions that hed be happy for changes to be made particularly in the sections addressed to the audienceAs the first commentator observes there was a programme on BBC TV called Come Dancing no strictly which ran off and on for several decades presented by David Jacobs Angela Rippon and I believe Terry Wogan amongst others It featured amateur and professional dancing teams but not celebrities It was very popular which is precisely why  Saunders used it in 1963 The newer Strictly Come Dancing is a modern twist on that
+ - value: >
+     Strictly come dancing was around in the 60's. <br>,May I point out that line in the play is "Any winner of a fifth round Inter Regional BBC Come Dancing competition?". The word strictly is not mentioned. The script has not been updated at all, although in an original draft of the play Saunders mentions that he'd be happy for changes to be made, particularly in the sections addressed to the audience. <br> <br>As the first commentator observes there was a programme on BBC TV called Come Dancing (no strictly) which ran off and on for several decades, presented by David Jacobs, Angela Rippon and I believe Terry Wogan amongst others. It featured amateur and professional dancing teams but not "celebrities". It was very popular which is precisely why Saunders used it in 1963. The newer Strictly Come Dancing is a modern twist on that.
 
 # Article Taxonomies
 categories:

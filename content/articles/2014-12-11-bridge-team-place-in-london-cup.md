@@ -13,7 +13,8 @@ aliases:
  - /cands/5039/bridge-team-place-in-london-cup
 imported: true
 comments:
- - christian loubitanchristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcom
+ - value: >
+     christian loubitan <br>christian louboutin sale clearance http://canadachristianlouboutinoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

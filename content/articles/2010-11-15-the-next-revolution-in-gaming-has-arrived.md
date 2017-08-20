@@ -13,7 +13,8 @@ aliases:
  - /games/377/the-next-revolution-in-gaming-has-arrived
 imported: true
 comments:
- - true that at this point the kinect is overpriced with little or no games worth purchasing but it has potential There have been kinect hacks with some interesting results my favorite being holographic projection using a projector not holographic in the strictest sense but still cool
+ - value: >
+     true that at this point the kinect is overpriced with little or no games worth purchasing, but it has potential. There have been kinect hacks with some interesting results, my favorite being holographic projection using a projector (not holographic in the strictest sense but still cool).
 
 # Article Taxonomies
 categories:

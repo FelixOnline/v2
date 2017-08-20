@@ -13,7 +13,8 @@ aliases:
  - /news/1983/permission-granted-for-fisher-hall-development
 imported: true
 comments:
- - This is garbage for the sake of garbage No offence
+ - value: >
+     This is garbage for the sake of garbage. No offence.
 
 # Article Taxonomies
 categories:

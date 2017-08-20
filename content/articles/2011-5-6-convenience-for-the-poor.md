@@ -13,7 +13,8 @@ aliases:
  - /food/1175/convenience-for-the-poor
 imported: true
 comments:
- - Id think very carefully before you use the word pikeyTry substituting the word nigger and see how it reads
+ - value: >
+     I'd think very carefully before you use the word 'pikey' <br> <br>Try substituting the word 'nigger' and see how it reads.
 
 # Article Taxonomies
 categories:

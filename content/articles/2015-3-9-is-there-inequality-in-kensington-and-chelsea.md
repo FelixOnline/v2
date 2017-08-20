@@ -13,7 +13,8 @@ aliases:
  - /comment/5373/is-there-inequality-in-kensington-and-chelsea
 imported: true
 comments:
- - I love Kensington in that respect  anynoe who thinks taking road space away from cars in commercial areas should head to Kensington High Street to see how theyve built bicycle parking into the traffic islands and along the wide pavements and how busy all of that parking always isAs a result I stop there loads on my way to and from places and I always end up spending more than I intended because I can just hop off and lock up whenever something catches my eyeHang on maybe thats not such a good thing after all
+ - value: >
+     I love Kensington in that respect - anynoe who thinks taking road space away from cars in commercial areas should head to Kensington High Street to see how they've built bicycle parking into the traffic islands, and along the wide pavements, and how busy all of that parking always is.As a result I stop there loads on my way to and from places, and I always end up spending more than I intended because I can just hop off and lock up whenever something catches my eye.Hang on, maybe that's not such a good thing after all...
 
 # Article Taxonomies
 categories:

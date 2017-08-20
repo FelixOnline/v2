@@ -13,7 +13,8 @@ aliases:
  - /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
 imported: true
 comments:
- - I hope my fellow meat eating comrades will not be too annoyed with me but I have to give it to Stephen Hes right vegetable lasagne is fantastic Most places like he said doesnt do the dish justice But find a place that does or make it yourself and youll think more than twice about ordering something else Stephen oh Stephen whilst it is easy to sing your praises from the rooftops in a duet with Cher and Lady Gagas illegitimate lovechild I must admit that I am slightly disappointed with your recipe It simply begs the question Steve Y U NO PUT MEATAlso wheres the Red LeicesterI think you mean raises the questionhttpbegthequestioninfo
+ - value: >
+     I hope my fellow meat eating comrades will not be too annoyed with me, but I have to give it to Stephen. He’s right, vegetable lasagne is fantastic. Most places, like he said, doesn’t do the dish justice. But find a place that does (or make it yourself) and you’ll think more than twice about ordering something else. ,Stephen, oh Stephen, whilst it is easy to sing your praises from the rooftops in a duet with Cher and Lady Gaga's illegitimate lovechild, I must admit that I am slightly disappointed with your recipe. It simply begs the question: “Steve, Y U NO PUT MEAT?” <br> <br>Also, where’s the Red Leicester?,I think you mean, "raises the question." <br> <br>http://begthequestion.info/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/89/new-guilds-president-found
 imported: true
 comments:
- - Kudos to you I hadnt tuoghht of thatBwAYwC  kpvppsoyhyjc
+ - value: >
+     Kudos to you! I hadn't tuoghht of that!,BwAYwC <a href="http://kpvppsoyhyjc.com/">kpvppsoyhyjc</a>
 
 # Article Taxonomies
 categories:

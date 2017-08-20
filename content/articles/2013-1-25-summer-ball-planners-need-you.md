@@ -13,7 +13,8 @@ aliases:
  - /news/3176/summer-ball-planners-need-you
 imported: true
 comments:
- - Just a quick clarification The current budget is a draft I wrote not something that has been agreed by the Union I asked Felix not to mention any draft budgets yet as they still need to be agreed internally its just what I am proposing happenstalk dirty with me  looking for the lady to a weomns dating s well as talk dirty even though I jack awa  meet locals for sex y black teen    zip 13854 19484  horny divorced women want adult entertainment 20120223 1655     Do you mind if I quote a couple of your posts as long as I pidrvoe credit and sources back to your weblog My website is in the exact same niche as yours and my visitors would certainly benefit from a lot of the information you pidrvoe here Please let me know if this ok with you Regards
+ - value: >
+     Just a quick clarification: The 'current budget' is a draft I wrote, not something that has been agreed by the Union. I asked Felix not to mention any draft budgets yet as they still need to be agreed internally, it's just what *I* am proposing happens...,talk dirty with me looking for the lady to a weomns dating s well as talk dirty even though I jack awa meet locals for sex y. black teen , zip 13854, 19484 horny divorced women want adult entertainment,　( 2012.02.23 16:55 ) : Do you mind if I quote a couple of your posts as long as I<a href="http://jwcryhwtn.com"> pidrvoe</a> credit and sources back to your weblog? My website is in the exact same niche as yours and my visitors would certainly benefit from a lot of the information you<a href="http://jwcryhwtn.com"> pidrvoe</a> here. Please let me know if this ok with you. Regards!
 
 # Article Taxonomies
 categories:

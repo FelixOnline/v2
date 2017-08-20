@@ -13,7 +13,8 @@ aliases:
  - /comment/6203/a-thousand-people-cant-be-wrong
 imported: true
 comments:
- - As a member of Union Council you could have easily written and taken a paper on air conditioning to said council Instead youre jumping on the Union bashing bandwagon It seems to be an Imperial wide problem Everyone is quick to moan and complain about College and the Union but arent prepared to do anything about itWell if the Union will employ a staff of 50 its not unreasonable to expect them to do something off their own batSure people should be proactive and write papers but that doesnt mean the Sabbs have no responsibility to use initiative of their own
+ - value: >
+     As a member of Union Council, you could have easily written and taken a paper on air conditioning to said council. Instead, you're jumping on the Union bashing bandwagon. It seems to be an Imperial wide problem. Everyone is quick to moan and complain about College and the Union, but aren't prepared to do anything about it.,Well, if the Union will employ a staff of 50+ it's not unreasonable to expect them to do something off their own bat.<br>Sure, people should be pro-active and write papers, but that doesn't mean the Sabbs have no responsibility to use initiative of their own.
 
 # Article Taxonomies
 categories:

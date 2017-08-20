@@ -13,7 +13,8 @@ aliases:
  - /science/3522/need-to-clear-your-head
 imported: true
 comments:
- - Acrylamide is neither a plastic or used in false finger nails It is a marvelous little molecule which makes polymers that are vital to a number of highly important industries such as municipal watertreatment oil and gas recovery paper making quarrying and construction Not to forget drinking water treatment household care cosmetics textile printing sugar clarification and on and on
+ - value: >
+     Acrylamide is neither a plastic or used in false finger nails. It is a marvelous little molecule which makes polymers that are vital to a number of highly important industries such as municipal water-treatment, oil and gas recovery, paper making, quarrying and construction. Not to forget, drinking water treatment, household care, cosmetics, textile printing, sugar clarification and on and on.
 
 # Article Taxonomies
 categories:

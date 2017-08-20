@@ -13,7 +13,8 @@ aliases:
  - /arts/857/international-night
 imported: true
 comments:
- - Is this supposed to be a review of the Night or a feature on the Cypriot Society and their secrets to their success For an event review there are remarkably sparse details of what the other acts were and in what way they dazzled the audienceOf course is a review of the night man but it is focused on the winners Fair enoughlol what about some write up of the original winners thenhow can she write about the original winners since they didnt even bother to stay until the end of the show
+ - value: >
+     Is this supposed to be a review of the Night or a feature on the Cypriot Society and their secrets to their success? For an event review, there are remarkably sparse details of what the other acts were and in what way they dazzled the audience!,Of course is a review of the night man, but it is focused on the winners. Fair enough,lol what about some write up of the original 'winners' then?,how can she write about the "original winners" since they didn't even bother to stay until the end of the show??
 
 # Article Taxonomies
 categories:

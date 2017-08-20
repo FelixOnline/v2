@@ -13,7 +13,8 @@ aliases:
  - /comment/2462/give-boris-bikes-a-chance
 imported: true
 comments:
- - Taking the time to bother considering something and reaching a viable conclusion rather than just lazily decreeing Aw thats crap  Now THERES something we dont see often enoughMORE of this openmindedness please you lovely girl
+ - value: >
+     Taking the time to bother considering something and reaching a viable conclusion rather than just lazily decreeing 'Aw that's crap' ? Now THERE'S something we don't see often enough. <br> <br>MORE of this open-mindedness please, you lovely girl.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/6859/randori-nationals-success-for-jiu-jitsu
 imported: true
 comments:
- - You really saved my skin with this intoomafirn Thanks
+ - value: >
+     You really saved my skin with this intoomafirn. Thanks!
 
 # Article Taxonomies
 categories:

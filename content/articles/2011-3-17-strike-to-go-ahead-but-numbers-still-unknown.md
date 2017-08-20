@@ -13,7 +13,8 @@ aliases:
  - /news/1096/strike-to-go-ahead-but-numbers-still-unknown
 imported: true
 comments:
- - What a joy to find someone else who thniks this waypjMQBu  ckgvtkfairiz
+ - value: >
+     What a joy to find someone else who thniks this way.,pjMQBu <a href="http://ckgvtkfairiz.com/">ckgvtkfairiz</a>
 
 # Article Taxonomies
 categories:

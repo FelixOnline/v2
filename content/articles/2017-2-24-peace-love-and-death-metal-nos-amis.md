@@ -13,7 +13,8 @@ aliases:
  - /tv/6825/peace-love-and-death-metal--nos-amis
 imported: true
 comments:
- - Thank you for your review  I enjoyed how you characterized the pool party scene in terms of guilt and responsibilityHowever one correction if I may this is not Colin Hanks first feature doc  That would be All Things Must Pass about the rise and fall of Tower Records
+ - value: >
+     Thank you for your review - I enjoyed how you characterized the pool party scene in terms of guilt and responsibility.<br>However, one correction if I may: this is not Colin Hanks' first feature doc. That would be "All Things Must Pass" about the rise and fall of Tower Records.
 
 # Article Taxonomies
 categories:

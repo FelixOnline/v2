@@ -13,7 +13,8 @@ aliases:
  - /politics/666/tunisias-revolution-the-first-of-many
 imported: true
 comments:
- - Even Imperial refers to North Africa as Middle East Does anyone have a map of the continents
+ - value: >
+     Even Imperial refers to North Africa as Middle East? Does anyone have a map of the continents?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/904/old-games-revisited-ocarina-of-time
 imported: true
 comments:
- - That saves me Thanks for being so sseibnle
+ - value: >
+     That saves me. Thanks for being so sseibnle!
 
 # Article Taxonomies
 categories:

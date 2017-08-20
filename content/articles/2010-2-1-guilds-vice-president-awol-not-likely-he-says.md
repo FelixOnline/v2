@@ -13,7 +13,8 @@ aliases:
  - /news/59/guilds-vice-president-awol-not-likely-he-says
 imported: true
 comments:
- - Hi there Id just like to stress that I was not quotreluctant to update the articlequot I was reluctant to remove the article which is what Mr Norris requested Mr Norris made the requests to my personal account and in a personal manner and requested that I did not disclose the reason of his absence Following a short email correspondence the article was updated with corrections provided by Mr Norris within just a few hours of the article being published and no formal complaint to the Live email account has been receivedIt is unfortunate that felix made no attempt to contact myself personally or via Live before publishing this article
+ - value: >
+     Hi there. I'd just like to stress that I was not &amp;quot;reluctant to update the article&amp;quot;. I was reluctant to remove the article, which is what Mr Norris requested. Mr Norris made the requests to my personal account and in a personal manner, and requested that I did not disclose the reason of his absence. Following a short email correspondence, the article was updated with corrections provided by Mr Norris within just a few hours of the article being published and no formal complaint to the Live! email account has been received. <br> <br>It is unfortunate that felix made no attempt to contact myself personally or via Live! before publishing this article.
 
 # Article Taxonomies
 categories:

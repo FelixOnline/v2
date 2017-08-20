@@ -13,7 +13,8 @@ aliases:
  - /politics/1372/sadly-no-simple-single-solution
 imported: true
 comments:
- - Well written and very informative Good job
+ - value: >
+     Well written, and very informative. Good job.
 
 # Article Taxonomies
 categories:

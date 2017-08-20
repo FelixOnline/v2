@@ -13,7 +13,8 @@ aliases:
  - /music/2713/you-dont-have-to-call-it-music-2
 imported: true
 comments:
- - This is turning out to be a great little series Im eagerly awaiting 3
+ - value: >
+     This is turning out to be a great little series. I'm eagerly awaiting #3.
 
 # Article Taxonomies
 categories:

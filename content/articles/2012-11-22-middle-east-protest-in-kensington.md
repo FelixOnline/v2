@@ -13,7 +13,8 @@ aliases:
  - /news/2929/middle-east-protest-in-kensington
 imported: true
 comments:
- - Thank you to the author it is a rare opportunity to have the students political opinions expressed despite university being THE time for most people to be active in politicsPerhaps the author of the article could have mentioned more facts namely the statistics of human life list and of damage Facts are nonbiased so to say 35 Israelis and over 100 Palestinians including approximately 40 children were killed  is that biased To say the damage to Israeli infrastructure was virtually nil especially with the sophisticated USsponsored military technology while Gazas agriculture educational governmental and housing infrastructure was torn to shreds  does these realities demand us to bend over backwards to conform to Western medias perception of neutrality
+ - value: >
+     Thank you to the author, it is a rare opportunity to have the students' political opinions expressed despite university being THE time for most people to be active in politics. <br> <br>Perhaps the author of the article could have mentioned more facts, namely, the statistics of human life list and of damage? Facts are non-biased, so to say 3-5 Israelis and over 100 Palestinians including approximately 40 children were killed - is that biased? To say the damage to Israeli infrastructure was virtually nil, especially with the sophisticated US-sponsored military technology, while Gaza's agriculture, educational, governmental and housing infrastructure was torn to shreds - does these realities demand us to bend over backwards to conform to Western media's perception of 'neutrality'?
 
 # Article Taxonomies
 categories:

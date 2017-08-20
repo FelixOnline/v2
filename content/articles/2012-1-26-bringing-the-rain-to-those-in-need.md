@@ -13,7 +13,8 @@ aliases:
  - /news/2065/bringing-the-rain-to-those-in-need
 imported: true
 comments:
- - A really well written article touching on a vital issue Go Raincatcher
+ - value: >
+     A really well written article, touching on a vital issue. Go Raincatcher!
 
 # Article Taxonomies
 categories:

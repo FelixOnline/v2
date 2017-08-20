@@ -13,7 +13,8 @@ aliases:
  - /news/3116/business-school-set-exams-in-breach-of-college-rules
 imported: true
 comments:
- - The comment from Laura McConnell is clearly a copout if the exams managers in the BS did their job properly and followed up available space from other departments  they would easily find an appropriate room on Campus I also understand from my fellow students that at times the BS has conducted its exams off campus during the day which is allowed under College rules  This really shows the lack of professionalism the BS show for their own students and of those for other departments  Sad really considering the amount in fees us students pay  Its about time the School put more emphasis on the needs of its students  The sad thing is that I have just gotten used to Imperial treating us like this that I didnt even bother protesting about it Weve been taught to suck it up  take it lying down  this is Imperial  then were surprised our NSS results suck
+ - value: >
+     The comment from Laura McConnell is clearly a cop-out, if the exams managers in the BS did their job properly and followed up available space from other departments they would easily find an appropriate room on Campus. I also understand from my fellow students that at times the BS has conducted its exams off campus during the day which is allowed under College rules. This really shows the lack of professionalism the BS show for their own students and of those for other departments. Sad really considering the amount in fees us students pay. It's about time the School put more emphasis on the needs of it's students. ,The sad thing is that I have just gotten used to Imperial treating us like this that I didn't even bother protesting about it. We've been taught to suck it up &amp; take it lying down - this is Imperial. &amp; then we're surprised our NSS results suck...
 
 # Article Taxonomies
 categories:

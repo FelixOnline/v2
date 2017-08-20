@@ -13,7 +13,8 @@ aliases:
  - /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
 imported: true
 comments:
- - Yaaaaaaaaaaaaayyyyyyy
+ - value: >
+     Yaaaaaaaaaaaaayyyyyyy
 
 # Article Taxonomies
 categories:

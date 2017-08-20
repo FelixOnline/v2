@@ -13,7 +13,8 @@ aliases:
  - /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
 imported: true
 comments:
- - Couldnt agree more Whats not being discussed enough however is the role played by 6 years of  concerted Republican Gerrymandering of congressional districts  the early stage impact of Voter IDPoll tax implementation and the oversized impact of post CitizenUnited campaign financing Sad state of affairs or maybe the Perfect GOP Storm This hotel is a four  5 star choice located in the business location Baseball used regarding the reason I woke up on the inside morning Rondos contract also makes him a captivating piecefifa 16 hack httpcreditsfutcom
+ - value: >
+     Couldnt agree more. What's not being discussed enough however is the role played by 6 years of concerted Republican Gerrymandering of congressional districts , the 'early' stage impact of Voter ID/Poll tax implementation and the oversized impact of post Citizen-United campaign financing. Sad state of affairs or maybe the Perfect GOP Storm! ,This hotel is a four . 5 star choice located in the business location. Baseball used regarding the reason I woke up on the inside morning. Rondo's contract also makes him a captivating piece. <br>fifa 16 hack http://creditsfut.com/
 
 # Article Taxonomies
 categories:

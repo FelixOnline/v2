@@ -13,7 +13,8 @@ aliases:
  - /travel/842/tragic-tourism-perils
 imported: true
 comments:
- - True dat
+ - value: >
+     True dat
 
 # Article Taxonomies
 categories:

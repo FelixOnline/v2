@@ -13,7 +13,8 @@ aliases:
  - /comment/2338/keep-the-cat-free
 imported: true
 comments:
- - Stephen Smith Rapidly becoming my favourite Felix writer The editors note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory But never mind free speech and all thatThe original article is available at the blog linked to aboveCleverly it is fully referenced with links to College websites to back up each claim I make Decide for yourself whether or not it contains factual inaccuraciesSo whats going on Felix Why publish an article if you dont believe it to be true
+ - value: >
+     Stephen Smith: Rapidly becoming my favourite Felix writer. ,The editor's note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory. <br> <br>But never mind, free speech and all that.,The original article is available at the blog linked to above. <br> <br>Cleverly, it is fully referenced with links to College websites to back up each claim I make. Decide for yourself whether or not it contains "factual inaccuracies".,So what's going on Felix? Why publish an article if you don't believe it to be true?
 
 # Article Taxonomies
 categories:

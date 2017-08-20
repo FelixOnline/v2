@@ -13,7 +13,8 @@ aliases:
  - /tv/2584/review-the-newsroom-uk-premiere
 imported: true
 comments:
- - Thanks for a properly critical but optimistic review rather than the mauling that has characterised several Ive seenThe show has potential lets hope its fulfilledCheers I did my dissertation on his stuff so Im admittedly a big fan of Sorkins Think most feminist critiques of his work are usually quite overblown and are usually a result of some lazy overall characterisation more than his specific depictions of females His hearts clearly in the right place though and I like the way he tries to show how things should be as opposed to most shows that are content to just show how things are HBO rarely get their dramas wrong so Im hoping they push Sorkin to the limit and get his writing firing on all cylinders Theres no network thatd suit him better Id say that muchVINICKMCAVOY 2012
+ - value: >
+     Thanks for a properly critical but optimistic review, rather than the mauling that has characterised several I've seen. <br>The show has potential, let's hope it's fulfilled.,Cheers, I did my dissertation on his stuff so I'm admittedly a big fan of Sorkin's. Think most feminist critiques of his work are usually quite overblown, and are usually a result of some lazy overall characterisation more than his specific depictions of females. His heart's clearly in the right place though and I like the way he tries to show how things should be, as opposed to most shows that are content to just show how things are. HBO rarely get their dramas wrong so I'm hoping they push Sorkin to the limit and get his writing firing on all cylinders. There's no network that'd suit him better, I'd say that much,VINICK-MCAVOY 2012
 
 # Article Taxonomies
 categories:

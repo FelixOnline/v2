@@ -13,7 +13,8 @@ aliases:
  - /sport/2813/knights-in-shining-armour-win-again
 imported: true
 comments:
- - I went to this game with my Dad we both sprpout Posh but we went to sprpout the Welsh side and stood on the away end One of my favourite memories was when the City full back I think he was Portuguese went down injured in the last couple of minutes and people were going mental at him to get back up as it put the team down to 7
+ - value: >
+     I went to this game with my Dad, we both sprpout Posh but we went to sprpout the Welsh side and stood on the away end. One of my favourite memories was when the City full back (I think he was Portuguese?) went down injured in the last couple of minutes and people were going mental at him to get back up as it put the team down to 7!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/3616/melvins-live-review
 imported: true
 comments:
- - Awesome shit Joe  Listening to it now its hard to imagine any reeevwir not mentioning FLIPPER but I suppose DRUNKS WITH GUNS were the midwesterner equivalent right Were actually moving up north to Yorkshire really soon maybe Ill be able to actually see these animals play when they stray as far as Leeds   Not too familiar with Drunks with Guns but these trkacs actually reminded me of the last Pissed Jeans record Similar slow heavy approach with the abrasive vocals A little bit more catchy though Sounded pretty good
+ - value: >
+     Awesome shit, Joe. Listening to it now, it's hard to imagine any reeevwir not mentioning FLIPPER, but I suppose DRUNKS WITH GUNS were the midwesterner equivalent, right? We're actually moving up north to Yorkshire really soon, maybe I'll be able to actually see these animals play when they stray as far as Leeds . . .,Not too familiar with Drunks with Guns, but these <a href="http://ulcxylmibe.com">trkacs</a> actually reminded me of the last Pissed Jeans record. Similar slow, heavy approach with the abrasive vocals. A little bit more catchy though. Sounded pretty good.
 
 # Article Taxonomies
 categories:

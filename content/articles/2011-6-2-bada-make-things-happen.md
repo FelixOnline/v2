@@ -13,7 +13,8 @@ aliases:
  - /tech/1300/bada-make-things-happen
 imported: true
 comments:
- - I am at the university of life  can I enter my themes
+ - value: >
+     I am at the university of life - can I enter my themes?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/4820/shifting-attitudes-towards-mdma
 imported: true
 comments:
- - Wow Finally I got a weblog from where I can really take helpful facts concerning my study and knowledgeugg classic tall in rum raisin httpwwwbesimpleitituggclassictallinrumraisin4493htmlThis hotel is a four  5 star choice located right in the business section Baseball used pertaining to being the reason I woke up within morning Rondos contract also makes him a pretty piececrdits fifa gratuit httpcreditsfutcom
+ - value: >
+     Wow! Finally I got a weblog from where I can really take helpful facts concerning my study and knowledge. <br>ugg classic tall in rum raisin http://www.be-simple.it/?it-ugg-classic-tall-in-rum-raisin-4493.html,This hotel is a four . 5 star choice located right in the business section. Baseball used pertaining to being the reason I woke up within morning. Rondo's contract also makes him a pretty piece. <br>crÃ©dits fifa gratuit http://creditsfut.com/
 
 # Article Taxonomies
 categories:

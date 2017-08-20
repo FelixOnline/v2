@@ -13,7 +13,8 @@ aliases:
  - /news/2833/millions-of-pounds-of-extra-funding-for-imperial
 imported: true
 comments:
- - Great for Imperial not that they need the moneyIts a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities  they tend to already be in favourable financial situations and already have the infrastructure in place to produce top class research outputs or knowledge exchange as HEFCE so affectionately describes itShould HEFCE not do more for the neglected universities They are plagued with cuts restructuring and redundancies so may lack the facilities but otherwise have the ability to stimulate economic growth through research
+ - value: >
+     Great for Imperial, not that they need the money. <br> <br>It's a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities - they tend to already be in favourable financial situations, and already have the infrastructure in place to produce top class research outputs, or "knowledge exchange" as HEFCE so affectionately describes it. <br> <br>Should HEFCE not do more for the neglected universities? They are plagued with cuts, restructuring and redundancies, so may lack the facilities but otherwise have the ability to "stimulate economic growth through research".
 
 # Article Taxonomies
 categories:

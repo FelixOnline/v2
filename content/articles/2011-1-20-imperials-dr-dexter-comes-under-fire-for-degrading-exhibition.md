@@ -13,7 +13,8 @@ aliases:
  - /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
 imported: true
 comments:
- - groan
+ - value: >
+     *groan*
 
 # Article Taxonomies
 categories:

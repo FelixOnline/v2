@@ -13,7 +13,8 @@ aliases:
  - /arts/3834/charles-saatchis-divorce-paper
 imported: true
 comments:
- - Just went to the Slash exhibit today saw your two amzaing pieces of art I was so moved that I also purchased your book This is for You  I have never read something more true to my own heart almost like you were speaking from my inside my head Thank you  I am forever a fan and look forward to experiencing more of your honestyBest TiffanyI just convod you on Etsy but I had to add something here Slash clseos next week but I just want you to know that there were crowds of people standing in front of your two pieces staring silently Including me They are so touching so wonderfulPlease bring the prints back And is it true theres a book  guy head   insurance agencies for autos   sildenafil   small business insurance california
+ - value: >
+     Just went to the Slash exhibit today saw your two amzaing pieces of art. I was so moved that I also purchased your book, "This is for You." I have never read something more true to my own heart, almost like you were speaking from my inside my head. Thank you. I am forever a fan and look forward to experiencing more of your honesty.Best, Tiffany,I just convo'd you on Etsy, but I had to add something here. Slash <a href="http://zzyavklu.com">clseos</a> next week, but I just want you to know that there were crowds of people standing in front of your two pieces, staring, silently. Including me. They are so touching, so wonderful.Please, bring the prints back. And is it true there's a book?, guy head insurance agencies for autos sildenafil small business insurance california
 
 # Article Taxonomies
 categories:

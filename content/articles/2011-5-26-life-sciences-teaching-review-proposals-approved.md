@@ -13,7 +13,8 @@ aliases:
  - /news/1246/life-sciences-teaching-review-proposals-approved
 imported: true
 comments:
- - Thnaks for the insight It brings light into the darkUdm3hU  htlzywubfuwc zovirax  propecia  topamaxwellbutrin zmskp  Hello babfdgg interesting babfdgg site Im really like it Very very babfdgg good
+ - value: >
+     Thnaks for the insight. It brings light into the dark!,Udm3hU <a href="http://htlzywubfuwc.com/">htlzywubfuwc</a>, <a href="http://www.viamedics.net/">zovirax</a> :[ <a href="http://www.pillsprix.com/">propecia</a> &gt;:-))) <a href="http://www.medssupport.com/">topamax+wellbutrin</a> zmskp , Hello! babfdgg interesting babfdgg site! I'm really like it! Very, very babfdgg good!
 
 # Article Taxonomies
 categories:

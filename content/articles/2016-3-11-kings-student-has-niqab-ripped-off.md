@@ -13,7 +13,8 @@ aliases:
  - /news/6020/kings-student-has-niqab-ripped-off
 imported: true
 comments:
- - Sadly the rise of Islam is going to be an ironic and unfortunate end to the liberal and tolerant Western culture we enjoy todayThats very poor behaviour Even if you disagree with the niqab and everything it represents you cant force freedom from it on people Everyone should have the right to wear whatever absurd headgarments they desireHow do you work here urlhttpalbiononlinejoyblogcom20160107makingsomehugestepsonalbiononlineAlbion Online Power LevelingurlIf he shows up we stick with himurlhttpbladeandsoulpissedconsumercomiorderfrombladesoulcomwhichsellinbnsgold20160225797946htmlBlade  Soul Power levelingurlYou did a good job urlhttpwwwtwitchtvr4pgprofiler4pgurlYou did a good job urlhttpwwwfutmallcomnewsff14gilhubgetfinalfantasyxivgilfastff14gilhuburlYou are so awesome for helping me solve this myrtsey
+ - value: >
+     Sadly, the rise of Islam is going to be an ironic and unfortunate end to the liberal and tolerant Western culture we enjoy today.,That's very poor behaviour. Even if you disagree with the niqab and everything it represents, you can't force freedom from it on people. Everyone should have the right to wear whatever absurd headgarments they desire.,How do you work here ? <br>[url=http://albiononlinejoy.blog.com/2016/01/07/making-some-huge-steps-on-albion-online/]Albion Online Power Leveling[/url],If he shows up, we stick with him. <br>[url=http://blade-and-soul.pissedconsumer.com/i-order-from-blade-soul-com-which-sell-in-bns-gold-20160225797946.html]Blade &amp; Soul Power leveling[/url],You did a good job . <br>[url=http://www.twitch.tv/r4pg/profile]r4pg[/url],You did a good job . <br>[url=http://www.futmall.com/news/ff14gilhub--get-final-fantasy-xiv-gil-fast]ff14gilhub[/url],You are so awesome for helping me solve this myrtsey.
 
 # Article Taxonomies
 categories:

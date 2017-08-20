@@ -13,7 +13,8 @@ aliases:
  - /comment/366/is-stephen-fry-right-about-womens-sexuality
 imported: true
 comments:
- -  AnnaYou and your friends might not talk about guys as much as people believe But guys sure as hell spend 80 of their time talking about girlsStephen frys comments are clearly ludicrous Half the girls I know are more interested in sex and filthier than I amBut guys sure as hell spend 80 of their time talking about girlsWell as a guy who works in a factory that is news to me Ive just finished an 8 hour shift on a pretty slow day and in all that time women were only mentioned once and that was a joke about how Prince William is batting above his average with Kate Middleton  Hardly 80 of our time
+ - value: >
+     @ Anna <br> <br>You and your friends might not talk about guys as much as people believe. But guys sure as hell spend 80% of their time talking about girls! <br> <br>Stephen fry's comments are clearly ludicrous. Half the girls I know are more interested in sex and filthier than I am.,"But guys sure as hell spend 80% of their time talking about girls!" <br> <br>Well as a guy who works in a factory, that is news to me. I've just finished an 8 hour shift on a pretty slow day, and in all that time women were only mentioned once, and that was a joke about how Prince William is batting above his average with Kate Middleton. Hardly 80% of our time. <br> <br> <br> <br>
 
 # Article Taxonomies
 categories:

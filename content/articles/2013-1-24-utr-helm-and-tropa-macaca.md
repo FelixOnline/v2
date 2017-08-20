@@ -13,7 +13,8 @@ aliases:
  - /music/3163/utr-helm-and-tropa-macaca
 imported: true
 comments:
- - I believe it actually implies that split opinion on which artist was better  two strong live performersSplit opinion  strong live performance
+ - value: >
+     I believe it actually implies that split opinion on which artist was better = two strong live performers.,Split opinion = strong live performance?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/3357/keep-calm-and-discover-islam
 imported: true
 comments:
- - Dear Anonymous yes you can The Islamic Society have Islam Info stalls every Thursday in SAF or Sherfield everyone welcomeI admire Zaras involvement and clear thinking about Islam  I strongly encourage Zara to engage with Muslims and nonMuslims with a clear and nonjudgmental way but in a very sure way about your own faith and believes  Great jobAmin AnsariHey Im gay but Im interested in discovering Islam Is this possible
+ - value: >
+     Dear Anonymous, yes you can. The Islamic Society have Islam Info stalls every Thursday in SAF or Sherfield, everyone welcome.,I admire Zara's involvement and clear thinking about Islam. I strongly encourage Zara to engage with Muslim's and non-Muslim's with a clear and non-judgmental way but in a very sure way about your own faith and believes. Great job. <br> <br>Amin Ansari,Hey, I'm gay, but I'm interested in discovering Islam. Is this possible?
 
 # Article Taxonomies
 categories:

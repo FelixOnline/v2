@@ -13,7 +13,8 @@ aliases:
  - /news/3117/imperial-chemist-dies-at-home
 imported: true
 comments:
- - RIP Dr Steinke such a moving tribute to a huge character who will be missedRIP Joachim  You will be missed Dr Steinke was a brilliant teacher I am honoured to have been one of the last of his pupils I still have some pieces of selfhealing polymer that he gave me after one of his lecturesMein Beileid seiner Familie und denen die ihm nahe standenthank you rob  our door is always open for you as you know  i am so grateful that joachim could rely on you as his friend during and after his life time heart felt thank you and all the best norbert
+ - value: >
+     RIP Dr Steinke, such a moving tribute to a huge character who will be missed.,RIP Joachim. You will be missed. ,Dr Steinke was a brilliant teacher. I am honoured to have been one of the last of his pupils. I still have some pieces of self-healing polymer that he gave me after one of his lectures. <br>Mein Beileid seiner Familie und denen, die ihm nahe standen.,thank you rob ! our door is always open for you, as you know ! i am so grateful that joachim could rely on you as his friend, during and after his life time. heart felt thank you and all the best ! <br>norbert
 
 # Article Taxonomies
 categories:

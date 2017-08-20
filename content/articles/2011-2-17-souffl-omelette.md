@@ -13,8 +13,10 @@ aliases:
  - /food/825/souffl-omelette
 imported: true
 comments:
- - But it looks so tasty with cheese Why cant we have cheeseStephen oh Stephen Your name is pure poetry alliteration at its best Your writing flows like swiftly flowing river Your recipes make me drool All in all you seem like a knowledgeable wise and allround grand guySo why oh why would you not want to add cheeseCheese
- - Eggs  so so wrong Add cheese if you must but dont hold me to account when you take the first bite and wish youd used rosemary instead
+ - value: >
+     But it looks so tasty with cheese. Why can't we have cheese?,Stephen, oh Stephen. Your name is pure poetry, alliteration at its best. Your writing flows like swiftly flowing river. Your recipes make me drool. All in all, you seem like a knowledgeable, wise and all-round grand guy. <br>So why, oh why, would you not want to add cheese?!,Cheese
+ - value: >
+     Eggs = so, so, wrong... Add cheese if you must but don't hold me to account when you take the first bite and wish you'd used rosemary instead.
 
 # Article Taxonomies
 categories:

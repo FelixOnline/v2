@@ -13,7 +13,8 @@ aliases:
  - /food/705/down-in-one-i-think-not
 imported: true
 comments:
- - Ben youve got to remember that viticulture isnt a course offered at ImperialIn short a single malt is made from a single distillate where as a blended whisky is a combination of two or more single maltsThis point is incorrect Single malt means that the whikey is from the the same grain IE MALT when you start blending whiskey from wheat malt barley or rye that is what makes a blended whiskey You can still have single malt whiskey that is a blend of more than one single malt
+ - value: >
+      Ben, you've got to remember that viticulture isn't a course offered at Imperial,In short, a single malt is made from a single distillate, where as a blended whisky is a combination of two or more single malts... <br> <br>This point is incorrect. Single malt means that the whikey is from the the same grain. I.E MALT. when you start blending whiskey from wheat, malt, barley or rye that is what makes a blended whiskey. You can still have single malt whiskey that is a blend of more than one single malt.
 
 # Article Taxonomies
 categories:

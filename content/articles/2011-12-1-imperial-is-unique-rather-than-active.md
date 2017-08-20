@@ -13,7 +13,8 @@ aliases:
  - /comment/1887/imperial-is-unique-rather-than-active
 imported: true
 comments:
- - I admit that the piece could have been clearer though it is expressly mentioned that for the most part the Union takes a neutral view on issues such as the ongoing campus strike action in other parts of the country This piece was inspired by the recent strikes and protests and focuses on the contrast between sabbatical officers from other universities and those from Imperialgood editothumbs upWhat a pile of rubbish Our Union isnt neutral it voted to support uncapped feesYou cant hide behind for the most part when the political stance they took was on the topic that youre claiming theyre neutral aboutYou call it neutral and unique Others may call it idleOthers may call it idlecertainly not meTheres a difference between being neutral and actively hindering other students efforts to voice their concerns
+ - value: >
+     I admit that the piece could have been clearer, though it is expressly mentioned that "for the most part" the Union takes a neutral view on issues such as the ongoing campus strike action in other parts of the country. This piece was inspired by the recent strikes and protests, and focuses on the contrast between sabbatical officers from other universities and those from Imperial.,good edito <br> <br>thumbs up,What a pile of rubbish. Our Union isn't neutral, it voted to support uncapped fees!,You can't hide behind "for the most part" when the political stance they took was on the topic that you're claiming they're neutral about!,You call it neutral and unique. Others may call it idle.,"Others may call it idle." <br> <br>certainly not me,There's a difference between being neutral and actively hindering other students' efforts to voice their concerns.
 
 # Article Taxonomies
 categories:

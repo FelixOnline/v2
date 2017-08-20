@@ -13,7 +13,8 @@ aliases:
  - /science/738/the-fountains-of-paradise
 imported: true
 comments:
- -  Sensuous Glamorous tantalizing Mesmerizing HOT  Yes that is what every woman wants her imeags to portray and Tamara you captured all that in these imeags  WELL DONE  I think you would make my BBW physique be hot and you would bring out my sexy selfThat is how confident i am in your abilities Thank you so much Elena  Miss D made it easy   and Im sure you will too Im looking fwraord to the day I get to photograph you in all your voluptuous divine glory  Theres some dangerous curves ahead of me Whoohoo
+ - value: >
+     - Sensuous. Glamorous. tantalizing. Mesmerizing. HOT. Yes, that is what every woman wants her imeags to portray and Tamara you captured all that in these imeags. WELL DONE! I think you would make my BBW physique be hot and you would bring out my sexy self.That is how confident i am in your abilities!,- Thank you so much, Elena. Miss D made it easy and I'm sure you will, too. I'm looking<a href="http://hemefii.com"> fwraord</a> to the day I get to photograph you in all your voluptuous divine glory! There's some dangerous curves ahead of me! Whoohoo!!
 
 # Article Taxonomies
 categories:

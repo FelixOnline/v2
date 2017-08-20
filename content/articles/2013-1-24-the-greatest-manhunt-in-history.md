@@ -13,7 +13,8 @@ aliases:
  - /film/3160/the-greatest-manhunt-in-history
 imported: true
 comments:
- - xaxaxaxa tenegtvee chhcivheee zuugeel hevtre zasaal utsaa barial urtaas urt amisgaa avaal darsan umnuus usreestei kkkkkkkk shun dund gantsaar ineeev gjIve been extensively rnidaeg and researching about the lack of female screenwriters in the ever growing industry and it didnt really scare me If anything it excited me male screenwriters may dominate it currently but that makes it more memorable when women step up I hope and dream of becoming a screenwriter for a living and yes intially the somewhat unbalanced and bleak malefemale ratio terrified me I suppose we have to stay optimistic I just hope it doesnt impact my hopefully future career in anyway It seems to be less prominent in the UK
+ - value: >
+     xaxaxaxa tenegtvee chhcivheee zuugeel hevtre zasaal utsaa barial urtaas urt amisgaa avaal darsan umnuus usreestei kkkkkkkk shun dund gantsaar ineeev gj,I've been extensively<a href="http://rynuuu.com"> rnidaeg</a> and researching about the lack of female screenwriters in the ever growing industry and it didn't really scare me. If anything, it excited me, male screenwriters may dominate it currently, but that makes it more memorable when women step up. I hope and dream of becoming a screenwriter for a living and yes intially the somewhat unbalanced and bleak male:female ratio terrified me. I suppose we have to stay optimistic, I just hope it doesn't impact my (hopefully) future career in anyway. It seems to be less prominent in the UK.
 
 # Article Taxonomies
 categories:

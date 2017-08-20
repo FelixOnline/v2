@@ -13,7 +13,8 @@ aliases:
  - /politics/1101/is-this-the-end-of-nuclear-power
 imported: true
 comments:
- - Nuclear energy is not low cost at all Taking into account time to build new plants 1020 years costs for dealing with increasing radioactive waste increasing price of nuclear fuel and security problems it is far wiser not to invest in new plants but in research for alternative energy sources or alternative nuclear energy production cycles Thorium seems to provide a much better scenario in terms of safety and  nuclear waste amounts but in my opinion should be pursued only as alternative to research in  renewable energy sources The latter when optimized and  smartly networked  will be by far the best option for a viable futureYou can find more info on the debate from Felix at httpwwwfelixonlinecoukarticle875
+ - value: >
+     Nuclear energy is not low cost at all. Taking into account time to build new plants (10-20 years), costs for dealing with increasing radioactive waste, increasing price of nuclear fuel, and security problems it is <br>far wiser not to invest in new plants but in research <br>for alternative energy sources or alternative nuclear energy production cycles. Thorium seems to provide a much better scenario in terms of safety and nuclear waste amounts but, in my opinion, should be pursued only as alternative to research in renewable energy sources. The latter, when optimized and smartly "networked", will be by far the best option for a viable future.,You can find more info on the debate from Felix at http://www.felixonline.co.uk/?article=875
 
 # Article Taxonomies
 categories:

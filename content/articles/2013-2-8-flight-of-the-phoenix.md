@@ -13,7 +13,8 @@ aliases:
  - /news/3275/flight-of-the-phoenix
 imported: true
 comments:
- - Mascotry is ridiculous I feel sorry for physsix Their idea of fun appears to be to go all the way to Reynolds not to have a drink meet people and in doing so get a  rare chance to hone their communication skills but rather to steal a fancy dress costume
+ - value: >
+     Mascotry is ridiculous. I feel sorry for physsix. Their idea of fun appears to be to go all the way to Reynolds, not to have a drink, meet people and in doing so get a rare chance to hone their communication skills, but rather to steal a fancy dress costume.
 
 # Article Taxonomies
 categories:

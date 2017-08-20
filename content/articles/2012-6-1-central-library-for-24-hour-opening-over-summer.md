@@ -13,7 +13,8 @@ aliases:
  - /news/2507/central-library-for-24-hour-opening-over-summer
 imported: true
 comments:
- - I think thats great  its always been very annoying that campus operates as if only undergrads exist on it so I think its a brilliant decision and has my support
+ - value: >
+     I think that's great - it's always been very annoying that campus operates as if only undergrads exist on it, so I think it's a brilliant decision and has my support!
 
 # Article Taxonomies
 categories:

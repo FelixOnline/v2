@@ -13,7 +13,8 @@ aliases:
  - /politics/180/it-aint-all-numbers
 imported: true
 comments:
- - In the last couple of deaecds of the 19th century British brewers began sourcing considerable amounts of both hops and barley from overseas Though it should be remembered that foreign barley was usually malted in the UKTheres a simple explanation for why raw materials were imported British agriculture couldnt keep up with the demand for malt and hops
+ - value: >
+     In the last couple of <a href="http://amyljgy.com">deaecds</a> of the 19th century British brewers began sourcing considerable amounts of both hops and barley from overseas. Though it should be remembered that foreign barley was usually malted in the UK.There's a simple explanation for why raw materials were imported: British agriculture couldn't keep up with the demand for malt and hops.
 
 # Article Taxonomies
 categories:

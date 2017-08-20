@@ -13,7 +13,8 @@ aliases:
  - /film/1791/to-believe-or-not-to-believe
 imported: true
 comments:
- - Felix somehow manegad But he was not ready and he was not in charge He manegad to get out of the flatspin because he trusted his feelings and found the way outHe is talented but he was luckyThis is a good example of the dangers of getting interfering interests mixed with extreme sports
+ - value: >
+     Felix somehow <a href="http://rcnribi.com">manegad</a>. But he was not ready and he was not in charge. He <a href="http://rcnribi.com">manegad</a> to get out of the flatspin because he trusted his feelings and found the way out.He is talented, but he was lucky.This is a good example of the dangers of getting interfering interests mixed with extreme sports.
 
 # Article Taxonomies
 categories:

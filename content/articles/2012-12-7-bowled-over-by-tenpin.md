@@ -13,7 +13,8 @@ aliases:
  - /sport/3061/bowled-over-by-tenpin
 imported: true
 comments:
- - Imperial For the Win
+ - value: >
+     Imperial For the Win!
 
 # Article Taxonomies
 categories:

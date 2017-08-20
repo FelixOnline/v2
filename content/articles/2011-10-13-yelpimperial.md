@@ -13,7 +13,8 @@ aliases:
  - /news/1528/yelpimperial
 imported: true
 comments:
- - If you would like to apply to be part of YELPImperial please visit wwwyelpstudentsorgPSCant seem to edit article to put links yet Matt
+ - value: >
+     If you would like to apply to be part of YELP@Imperial, please visit <br>www.yelpstudents.org/ <br> <br>PS.Can't seem to edit article to put links yet Matt?
 
 # Article Taxonomies
 categories:

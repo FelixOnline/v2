@@ -13,7 +13,8 @@ aliases:
  - /travel/3220/viva-las--oooops-scratch-that--los-angeles
 imported: true
 comments:
- - Great Article Go Natalie We need morebravo natalieteleioImpressed now i know where Ill go next summer  Sublime article  How much did the mayor of LA pay u to advertise it
+ - value: >
+     Great Article! Go Natalie! We need more...,bravo natalie!!!!teleio!!!!!,Impressed! now i know where I'll go next summer! :) <br> ,Sublime article !!!!!! How much did the mayor of LA pay u to advertise it ?
 
 # Article Taxonomies
 categories:

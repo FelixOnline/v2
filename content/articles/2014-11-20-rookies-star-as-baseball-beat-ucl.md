@@ -13,7 +13,8 @@ aliases:
  - /sport/4917/rookies-star-as-baseball-beat-ucl
 imported: true
 comments:
- - PineerEtirnee 1 comments dit 19 fvrier 2012  8 h 53 minBonjour Aprs avoir bien suivi cet agrable tuto je narrive toujours pas  avoir une fonctionnalit google Le cadre fait bien le slide mais reste vide et gris Jai pourtant vrifi que mon numro daccount tait le bon Un peu daide  Au plaisir merci Rpondre
+ - value: >
+     Pineer-Etirnee (1 comments) dit : 19 fÃ©vrier 2012 Ã  8 h 53 minBonjour, AprÃ¨s avoir bien suivi cet agrÃ©able tuto je n’arrive toujours pas Ã  avoir une fonctionnalitÃ© google+. Le cadre fait bien le slide mais reste vide et grisÃ©. J’ai pourtant vÃ©rifiÃ© que mon numÃ©ro d’account Ã©tait le bon. Un peu d’aide ? Au plaisir, merci. RÃ©pondre
 
 # Article Taxonomies
 categories:

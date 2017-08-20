@@ -13,7 +13,8 @@ aliases:
  - /sport/5997/varsity-wins-for-ic
 imported: true
 comments:
- - I had no idea how to approach this bernfeoow Im locked and loaded
+ - value: >
+     I had no idea how to approach this bernfe-oow I'm locked and loaded.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/2438/bombay-fever-hits-london
 imported: true
 comments:
- - Is this girlfriend still a part of jacks life
+ - value: >
+     Is this "girlfriend" still a part of jack's life? :/
 
 # Article Taxonomies
 categories:

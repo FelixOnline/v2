@@ -13,7 +13,8 @@ aliases:
  - /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
 imported: true
 comments:
- - I do really hope can find an easy job and earn alotwhere can I find thosesome born lucky some are notsome born rich some are notbut dont worry you are the lucky grheucopersGreat shotsLOVE the one of her eyes Not just her eyes which ARE amazing but the lntigihg and exposure and focus are all Just Right You are getting really good with that camera
+ - value: >
+     I do really hope can find an easy job and earn alot..where can I find those..some born lucky some are not..some born rich some are not..but don't worry, you are the lucky grheucopers~~,Great shots!LOVE the one of her eyes. Not just her eyes (which ARE amazing!) but the<a href="http://pamamtl.com"> lntigihg</a> and exposure and focus are all Just Right. You are getting really good with that camera! :)
 
 # Article Taxonomies
 categories:

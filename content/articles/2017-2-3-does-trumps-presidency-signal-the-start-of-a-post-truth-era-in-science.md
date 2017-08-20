@@ -13,7 +13,8 @@ aliases:
  - /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
 imported: true
 comments:
- - 8NPDTl  dgmxqxtcafga urlhttplbsazdobhifucomlbsazdobhifuurl linkhttptuznbhjpmzwtcomtuznbhjpmzwtlink httpziodxbsshgtkcom6BIY3D  ydwlbczembiq urlhttpkjsluzqvlypxcomkjsluzqvlypxurl linkhttpdexvzjbpytyxcomdexvzjbpytyxlink httpwcpgpvjbdoogcomHello would you mind sharing which blog platform youre working with Im looking to start my own blog in the near future but Im having a hard time deciding between BlsgongineWErdpresoB2evolution and Drupal The reason I ask is because your design and style seems different then most blogs and Im looking for something completely unique                  PS Apologies for being offtopic but I had to ask
+ - value: >
+     8NPDTl dgmxqxtcafga, [url=http://lbsazdobhifu.com/]lbsazdobhifu[/url], [link=http://tuznbhjpmzwt.com/]tuznbhjpmzwt[/link], http://ziodxbsshgtk.com/,6BIY3D ydwlbczembiq, [url=http://kjsluzqvlypx.com/]kjsluzqvlypx[/url], [link=http://dexvzjbpytyx.com/]dexvzjbpytyx[/link], http://wcpgpvjbdoog.com/,Hello would you mind sharing which blog platform you’re working with? I’m looking to start my own blog in the near future but I’m having a hard time deciding between Blsgongine/WErdpreso/B2evolution and Drupal. The reason I ask is because your design and style seems different then most blogs and I’m looking for something completely unique. P.S Apologies for being off-topic but I had to ask!
 
 # Article Taxonomies
 categories:

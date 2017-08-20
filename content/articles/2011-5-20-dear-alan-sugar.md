@@ -13,7 +13,8 @@ aliases:
  - /tv/1217/dear-alan-sugar
 imported: true
 comments:
- - Despitebecause of the fools the show really is hilariously good entertainmentFor examples of people showing excellence look at the production of the show itself and compare it to the cheesy production and weird 70s decor of the Apprentice USA Makes me proud to be British under the good care of the BBC
+ - value: >
+     Despite/because of the fools, the show really is hilariously good entertainment. <br> <br>For examples of people showing excellence look at the production of the show itself, and compare it to the cheesy production (and weird 70s decor) of the Apprentice USA. Makes me proud to be British, under the good care of the BBC.
 
 # Article Taxonomies
 categories:

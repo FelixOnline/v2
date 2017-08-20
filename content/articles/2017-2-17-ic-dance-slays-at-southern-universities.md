@@ -13,7 +13,8 @@ aliases:
  - /sport/6805/ic-dance-slays-at-southern-universities
 imported: true
 comments:
- - Kokio velnio tau reikalingas tas meniu mygtukas jei iai OS jis neiniebkalregas K tu su juo darytumiPhone irgi neturi skambinimo mygtuko O tai jis jau gerasKam tas mygtukas i viso reikalingas N97 retai kada panaudoju skambinimo mygtuk Atsiliepiu paspausdamas ekran O skambinimui taip pat yra labai graus ir patogus mygtukas ekrane
+ - value: >
+     Kokio velnio tau reikalingas tas meniu mygtukas, jei Å¡iai OS jis neiniebkalregas?? KÄ… tu su juo darytum?iPhone irgi neturi skambinimo mygtuko. O tai jis jau geras?Kam tas mygtukas iÅ¡ viso reikalingas? N97 retai kada panaudoju skambinimo mygtukÄ…. Atsiliepiu paspausdamas ekranÄ…. O skambinimui taip pat yra labai graÅ¾us ir patogus mygtukas ekrane.
 
 # Article Taxonomies
 categories:

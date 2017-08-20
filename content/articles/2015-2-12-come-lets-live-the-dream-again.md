@@ -13,7 +13,8 @@ aliases:
  - /sport/5243/come-lets-live-the-dream-again
 imported: true
 comments:
- - England also reached the final in 1979 They were famously blown away by a combination of the batting of Viv Richards and Collis King plus the lethal bowling of Joel Garner for the West Indies West Indies won by 92 runs having taken Englands last 8 wickets for a paltry 11 runsGood spot Ahmer I missed that one
+ - value: >
+     England also reached the final in 1979. They were famously blown away by a combination of the batting of Viv Richards and Collis King plus the lethal bowling of Joel Garner for the West Indies. West Indies won by 92 runs, having taken England's last 8 wickets for a paltry 11 runs.,Good spot Ahmer. I missed that one
 
 # Article Taxonomies
 categories:

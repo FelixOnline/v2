@@ -13,7 +13,8 @@ aliases:
  - /news/178/scientists-rally-to-fight-funding-cuts
 imported: true
 comments:
- - Join the Union FB group and march with your fellow scientists engineers and medics httpwwwfacebookcomprofilephpid625110439eventphpeid107207499342836httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl04img_n1                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n2                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n3                                                                          httpbigserverppuaimg_searchphpqautoinsurancenew1img_tpl01img_n4
+ - value: >
+     Join the Union FB group and march with your fellow scientists, engineers and medics! http://www.facebook.com/profile.php?id=625110439#!/event.php?eid=107207499342836,<a href="http://bigserver.pp.ua/c.php?img=1&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=04&amp;img_n=1</a> <br> <br><a href="http://bigserver.pp.ua/c.php?img=2&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=01&amp;img_n=2</a> <br> <br><a href="http://bigserver.pp.ua/c.php?img=3&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=01&amp;img_n=3</a> <br> <br><a href="http://bigserver.pp.ua/c.php?img=4&amp;q=auto+insurance"><img>http://bigserver.pp.ua/img_search.php?q=auto+insurance&amp;new=1&amp;img_tpl=01&amp;img_n=4</a>
 
 # Article Taxonomies
 categories:

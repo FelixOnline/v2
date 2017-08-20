@@ -13,7 +13,8 @@ aliases:
  - /comment/4393/3am-mocaine-with-an-ex-banker-
 imported: true
 comments:
- - What on earth is this pile of turd Get a grip felix those arid musings from crippleminded wannabes of all sorts dont excite anyone anymore
+ - value: >
+     What on earth is this pile of turd? Get a grip felix, those arid musings from cripple-minded wannabes of all sorts don't excite anyone anymore.
 
 # Article Taxonomies
 categories:

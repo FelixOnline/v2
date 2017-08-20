@@ -13,7 +13,8 @@ aliases:
  - /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
 imported: true
 comments:
- - Im so proud of you Lots of love
+ - value: >
+     I'm so proud of you! <br>Lots of love
 
 # Article Taxonomies
 categories:

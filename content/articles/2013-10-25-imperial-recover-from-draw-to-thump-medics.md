@@ -13,7 +13,8 @@ aliases:
  - /sport/3951/imperial-recover-from-draw-to-thump-medics
 imported: true
 comments:
- - Splendidly written piece I wish the 1s all the best in the coming season
+ - value: >
+     Splendidly written piece. I wish the 1s all the best in the coming season.
 
 # Article Taxonomies
 categories:

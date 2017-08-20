@@ -13,7 +13,8 @@ aliases:
  - /sport/1471/imperial-captains-gear-up-for-new-season
 imported: true
 comments:
- - Hi IndyThanks for this article Kukri are delighted to be supporting Imperial and look forward to following your reports this season If anybody has any queries or wants to know about the new range please pop into Ethos and see Andy Crossley or email andrewcrossleykukrisportscombest regardsWill
+ - value: >
+     Hi Indy <br> <br>Thanks for this article. Kukri are delighted to be supporting Imperial and look forward to following your reports this season. If anybody has any queries or wants to know about the new range, please pop into Ethos and see Andy Crossley (or email andrew.crossley@kukrisports.com) <br> <br>best regards <br> <br>Will
 
 # Article Taxonomies
 categories:

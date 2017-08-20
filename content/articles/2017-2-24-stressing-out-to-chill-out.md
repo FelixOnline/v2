@@ -13,7 +13,8 @@ aliases:
  - /games/6826/stressing-out-to-chill-out
 imported: true
 comments:
- - HHIS I should have thoguht of that
+ - value: >
+     HHIS I should have thoguht of that!
 
 # Article Taxonomies
 categories:

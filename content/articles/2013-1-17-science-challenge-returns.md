@@ -13,7 +13,8 @@ aliases:
  - /news/3123/science-challenge-returns
 imported: true
 comments:
- - Robert Lord WinstonLord Christian Name Surname format is a courtesy title for younger sons of Dukes and Marquesses only Whereas Lord Winston is a life peer rank of Baron in his own righthttpenwikipediaorgwikiCourtesy_titles_in_the_United_KingdomCourtesy_prefix_of_22Lord22Where is Pallab Ghosh this year Hes only the greatest judge of all time
+ - value: >
+     *Robert, Lord Winston <br> <br>Lord [Christian Name] [Surname] format is a courtesy title for younger sons of Dukes and Marquesses only. <br> <br>Whereas Lord Winston is a life peer (rank of Baron) in his own right. <br> <br>http://en.wikipedia.org/wiki/Courtesy_titles_in_the_United_Kingdom#Courtesy_prefix_of_.22Lord.22,Where is Pallab Ghosh this year? He's only the greatest judge of all time.
 
 # Article Taxonomies
 categories:

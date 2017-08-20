@@ -13,7 +13,8 @@ aliases:
  - /arts/1113/amateur-serpents-and-super-amorists
 imported: true
 comments:
- - Dear KellyYour account made interesting reading Id love to have more on the actual performances of the cast Were there any other reviews in the London press I cant seem to find any onlineBest wishesLuis
+ - value: >
+     Dear Kelly, <br> <br>Your account made interesting reading. I'd love to have more on the actual performances of the cast. Were there any other reviews in the London press? I can't seem to find any online. <br> <br>Best wishes, <br> <br>Luis
 
 # Article Taxonomies
 categories:

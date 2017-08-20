@@ -13,7 +13,8 @@ aliases:
  - /news/3331/royal-institution-forced-to-sell-home
 imported: true
 comments:
- - This is a real shame Having gone to a few RI lectures the building has quite a presence and the Faraday Lecture Theatre is simply marvellous But the reality is it wasnt financially viable and the RI have not thought ahead let the arguments about mismanagement continue The millions spent refurbishing the building did nothing to actually improve their reach in an age where things are moving to podcasts and video lectures the RI didnt do enough to innovate reach out enthuse and educate Its a real shame but by the looks of it Sir Richard understands what needs to be done Lets hope the spirit of the RI continues even if they do have to move out
+ - value: >
+     This is a real shame. Having gone to a few RI lectures, the building has quite a presence and the Faraday Lecture Theatre is simply marvellous. But the reality is it wasn't financially viable, and the RI have not thought ahead (let the arguments about mismanagement continue). The millions spent refurbishing the building did nothing to actually improve their reach- in an age where things are moving to podcasts and video lectures, the RI didn't do enough to innovate, reach out, enthuse and educate. It's a real shame, but by the looks of it, Sir Richard understands what needs to be done. Let's hope the spirit of the RI continues even if they do have to move out.
 
 # Article Taxonomies
 categories:

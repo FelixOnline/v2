@@ -13,7 +13,8 @@ aliases:
  - /games/3871/european-bus-stimulator-2012
 imported: true
 comments:
- - how do you playNo and thank youYouve never mentioned the paivsse voice before and so Im looking more closely at that  The few who reviewed it also mentioned that the daughters need some building up as well as too many characters being used and tossed without meaning  Thanks you know your input is always valuable to meOh poo GimmelolAs far as your story goes besides my usual thing about your pavsise voice I didnt have many problems with it Some of the people get introed or named pretty abruptly which caused me some confusion And I need more depth to the daughters to really get a feel for itJasonawsome game and its fun
+ - value: >
+     how do you play <br>,No, and thank you.You've never mentioned the paivsse voice before, and so I'm looking more closely at that. The few who reviewed it also mentioned that the daughters need some building up, as well as too many characters being used and tossed without meaning. Thanks; you know your input is always valuable to me.,Oh, poo! Gimme!!!lolAs far as your story goes, besides my usual thing about your <a href="http://xrvawkvqhfk.com">pavsise</a> voice, I didn't have many problems with it. Some of the people get introed or named pretty abruptly, which caused me some confusion. And I need more depth to the daughters to really get a feel for it.Jason,awsome game and its fun
 
 # Article Taxonomies
 categories:

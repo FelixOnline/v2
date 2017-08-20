@@ -13,7 +13,8 @@ aliases:
  - /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
 imported: true
 comments:
- - Seventh highest complaints but then it is the largest trust in the UKWhat are these people who need management leadership training in these positions in the first placeAsk to see the project risk logs  and and as to see all the risks  including those that had been closed
+ - value: >
+     Seventh highest complaints, but then it is the largest trust in the UK!,What are these people who need management/ leadership training in these positions in the first place? <br> <br>Ask to see the project risk logs - and and as to see all the risks - including those that had been "closed".....
 
 # Article Taxonomies
 categories:

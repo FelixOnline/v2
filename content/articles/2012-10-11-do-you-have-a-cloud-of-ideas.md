@@ -13,7 +13,8 @@ aliases:
  - /news/2653/do-you-have-a-cloud-of-ideas
 imported: true
 comments:
- - Wheres the link for ICDCwwwfacebookcomICDCollectiveI am Not a Idathupaksham or Valathupaksham  But aarkuvenam Eee kanlaarahpetta edathu chinthagathi There is no more room anywhere  After the elction result Mr Sarvajith will come to understand  Can you show anybody  what message gave this edathupaskahm to the poor voters what they are going to bring in keral Wait 5 years and impliment projects like smart City and Kayyamam for pennupidiyanmmar Where they were the past five years they didnt get enough time to do all this or just was dreaming for another 5 years rulingHello Padma                  Please check Msquare network scoohl or Sansbound networking scoohl they are good in networking and also toppers in chennai area they can give yu real time lab both of the institutes are available in Nungambakkam Good Luck
+ - value: >
+     Where's the link for ICDC?,www.facebook.com/ICDCollective,I am Not a Idathupaksham or Valathupaksham. But aarkuvenam Eee kanlaarahpetta edathu chinthagathi. There is no more room anywhere. After the elction result, Mr. Sarvajith will come to understand. Can you show anybody what message gave this edathupaskahm to the poor voters what they are going to bring in keral. Wait 5 years and impliment projects like smart City and Kayyamam for pennupidiyanmmar. Where they were the past five years, they didn't get enough time to do all this or just was dreaming for another 5 years ruling.,Hello Padma, Please check M-square network <a href="http://fpfzacbr.com">scoohl</a> or Sansbound networking <a href="http://fpfzacbr.com">scoohl</a>. they are good in networking and also toppers in chennai area. they can give yu real time lab. both of the institutes are available in Nungambakkam. Good Luck
 
 # Article Taxonomies
 categories:

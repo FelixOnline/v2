@@ -13,7 +13,8 @@ aliases:
  - /arts/2125/looking-good-on-paper
 imported: true
 comments:
- - Looking forward to the next one Definitely have a set theme a la smoking for writers at the night some of them brilliantDylans haiku is class I only managed to scrawl a few lines before I had to dashYour ship of life will soon capsizeAs the cancer cells metastasize
+ - value: >
+     Looking forward to the next one. Definitely have a set theme a la smoking for writers at the night: some of them brilliant! <br> <br>Dylan's haiku is class. I only managed to scrawl a few lines before I had to dash: <br> <br>Your ship of life will soon capsize, <br>As the cancer cells metastasize.
 
 # Article Taxonomies
 categories:

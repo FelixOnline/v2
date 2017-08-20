@@ -13,7 +13,8 @@ aliases:
  - /news/2285/felix-sex-survey-2012
 imported: true
 comments:
- - Read the results of the survey in their entirety from pages X to XX in LINK TO ARCHIVEthis weeks issue of FelixLINK Alternatively just LINK TO IMAGEstare at the pretty infographicsLINKAlternatively insert smaller image of centrefold linking to highres versionI WANT TO READ ITRead the results of the survey in their entirety from pages X to XX in LINK TO ARCHIVEthis weeks issue of FelixLINK Alternatively just LINK TO IMAGEstare at the pretty infographicsLINKOh youYou need to upload the paper every Friday morning guysSo how many gayslesbians this year Did we get at least one as opposed to last yearApart from that amazed how active imperial actually is Still love the big V under loss of virginity
+ - value: >
+     Read the results of the survey in their entirety from pages X to XX in [LINK TO ARCHIVE]this week's issue of Felix[/LINK]. Alternatively, just [LINK TO IMAGE]stare at the pretty infographics[/LINK]. <br> <br>(Alternatively insert smaller image of centrefold linking to high-res version??) <br> <br> <br>I WANT TO READ IT!!,"Read the results of the survey in their entirety from pages X to XX in [LINK TO ARCHIVE]this week's issue of Felix[/LINK]. Alternatively, just [LINK TO IMAGE]stare at the pretty infographics[/LINK]" <br> <br>Oh, you.,You need to upload the paper every Friday morning guys!,So, how many gays/lesbians this year? Did we get at least one as opposed to last year? <br> <br>Apart from that, amazed how active imperial actually is.. Still love the big "V" under loss of virginity.
 
 # Article Taxonomies
 categories:

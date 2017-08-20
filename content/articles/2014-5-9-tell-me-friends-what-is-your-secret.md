@@ -13,7 +13,8 @@ aliases:
  - /features/4569/tell-me-friends-what-is-your-secret
 imported: true
 comments:
- - A very good item has also just been published in Wired warning people that Secret isnt all that secret when it comes to anything with legal repercussionshttpwwwwiredcom201405whistleblowersbeware
+ - value: >
+     A very good item has also just been published in Wired, warning people that Secret isn't all that secret, when it comes to anything with legal repercussions: <br>http://www.wired.com/2014/05/whistleblowers-beware/
 
 # Article Taxonomies
 categories:

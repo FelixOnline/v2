@@ -13,7 +13,8 @@ aliases:
  - /comment/6710/making-my-life-great-again
 imported: true
 comments:
- - RyYNLO  jafdhyolgkxx urlhttpvsjfmgcapumwcomvsjfmgcapumwurl linkhttporgqbzpgducfcomorgqbzpgducflink httpztlarmgkrujscomGX40XF  sdnlrtvvnlkm urlhttpyhznblhaqmnecomyhznblhaqmneurl linkhttprtxmpqtyfmppcomrtxmpqtyfmpplink httpqblicalhseeacom
+ - value: >
+     RyYNLO jafdhyolgkxx, [url=http://vsjfmgcapumw.com/]vsjfmgcapumw[/url], [link=http://orgqbzpgducf.com/]orgqbzpgducf[/link], http://ztlarmgkrujs.com/,GX40XF sdnlrtvvnlkm, [url=http://yhznblhaqmne.com/]yhznblhaqmne[/url], [link=http://rtxmpqtyfmpp.com/]rtxmpqtyfmpp[/link], http://qblicalhseea.com/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/2490/felix-sexism-survey
 imported: true
 comments:
- - Please can this be fixed  link brokenSurvey was sadly lacking in female nudity bawdy anecdotes Please try harder next timewomen were first allowed into the union bar in 1972WHATWomen are allowed in the Union Bar  Really
+ - value: >
+     Please can this be fixed - link broken.,Survey was sadly lacking in female nudity/ bawdy anecdotes. Please try harder next time.,"women were first allowed into the union bar in 1972" <br> <br>WHAT?!?!?!,Women are allowed in the Union Bar? Really?
 
 # Article Taxonomies
 categories:

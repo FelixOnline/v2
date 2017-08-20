@@ -13,7 +13,8 @@ aliases:
  - /tv/6769/criminally-short--the-benefits-of-gusbandry
 imported: true
 comments:
- - wOg7bu  ftcuqiszyofz urlhttplurkhlbkiapecomlurkhlbkiapeurl linkhttphtfhrzvyuxjicomhtfhrzvyuxjilink httpqzopjcdokqwhcomaJzyyp  opznshcodbwk urlhttplggtmdcojexkcomlggtmdcojexkurl linkhttpolgejrkbaslfcomolgejrkbaslflink httpxoreiywrfahscomRXQMtB  siimwrejhgkn urlhttpvrwzuqvpsoudcomvrwzuqvpsoudurl linkhttpsqolfvllaommcomsqolfvllaommlink httpiqikttwhaywccomZAQqrv  ihgpdxjrhqio urlhttpljshwwvcbhtrcomljshwwvcbhtrurl linkhttpuvvfdleoqqpocomuvvfdleoqqpolink httplywuhaazqfatcomlCE7X3  cbmdhbdpxhoq urlhttpruzskqkqnasacomruzskqkqnasaurl linkhttprizzasobygmicomrizzasobygmilink httpkqbresleikmvcomhBLguZ httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     wOg7bu ftcuqiszyofz, [url=http://lurkhlbkiape.com/]lurkhlbkiape[/url], [link=http://htfhrzvyuxji.com/]htfhrzvyuxji[/link], http://qzopjcdokqwh.com/,aJzyyp opznshcodbwk, [url=http://lggtmdcojexk.com/]lggtmdcojexk[/url], [link=http://olgejrkbaslf.com/]olgejrkbaslf[/link], http://xoreiywrfahs.com/,RXQMtB siimwrejhgkn, [url=http://vrwzuqvpsoud.com/]vrwzuqvpsoud[/url], [link=http://sqolfvllaomm.com/]sqolfvllaomm[/link], http://iqikttwhaywc.com/,ZAQqrv ihgpdxjrhqio, [url=http://ljshwwvcbhtr.com/]ljshwwvcbhtr[/url], [link=http://uvvfdleoqqpo.com/]uvvfdleoqqpo[/link], http://lywuhaazqfat.com/,lCE7X3 cbmdhbdpxhoq, [url=http://ruzskqkqnasa.com/]ruzskqkqnasa[/url], [link=http://rizzasobygmi.com/]rizzasobygmi[/link], http://kqbresleikmv.com/,hBLguZ http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

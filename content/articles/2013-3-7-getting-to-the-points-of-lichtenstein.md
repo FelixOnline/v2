@@ -13,7 +13,8 @@ aliases:
  - /arts/3447/getting-to-the-points-of-lichtenstein
 imported: true
 comments:
- - Well this is embarrassing Apparently nobody gets puns any more  Lichtenstein was famous for making use of Pointillism Points get it A joke so stealthy it flies under the radar of humorAt least get the spelling right in the title so i actually fell like reading the articlefeel hahaYoure the hero Felix needs not the one it deservesAbove comment is aimed at you Charles Thomas
+ - value: >
+     Well this is embarrassing... ,Apparently nobody gets puns any more. Lichtenstein was famous for making use of Pointillism. Points.... get it. A joke so stealthy it flies under the radar of humor.,At least get the spelling right in the title so i actually fell like reading the article...,*feel haha,You're the hero Felix needs, not the one it deserves.,Above comment is aimed at you, Charles Thomas
 
 # Article Taxonomies
 categories:

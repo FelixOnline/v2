@@ -13,7 +13,8 @@ aliases:
  - /news/2402/more-summer-ball-plans-outlined
 imported: true
 comments:
- - 13000 on acts Is this some sort of joke or what Any halfdecent act will cost more than that alone Rest assured I will not be going if there arent some really great name acts Laura Marling last year was a perfect example of a great act even though I have waited for this ball for 4 yearsWhat an absolute joke Also Matt please link to article of original loss Its good practise You want big name actsGo to ticketmaster ffsYou should also link to where to buy the tickets Remember when we lost 100000 on a Summer Ball And the ball itself sucked Spending vast sums of money on major acts doesnt guarentee a good time So long as the organisers dont screw up the basics Im sure most people will have a good time
+ - value: >
+     £13,000 on acts? Is this some sort of joke or what? Any half-decent act will cost more than that alone... Rest assured I will not be going if there aren't some really great name acts (Laura Marling last year was a perfect example of a great act), even though I have waited for this ball for 4 years. <br> <br>What an absolute joke. <br> <br>Also Matt, please link to article of original loss. It's good practise. ,You want big name acts? <br> <br>Go to ticketmaster. ffs.,You should also link to where to buy the tickets :),Remember when we lost £100,000 on a Summer Ball? And the ball itself sucked? Spending vast sums of money on major acts doesn't guarentee a good time. So long as the organisers don't screw up the basics, I'm sure most people will have a good time.
 
 # Article Taxonomies
 categories:

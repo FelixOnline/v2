@@ -13,7 +13,8 @@ aliases:
  - /film/4611/joanna-hoggs-masterpiece
 imported: true
 comments:
- - Her work reminds me a lot of Yasujiro Ozu Shes exactly what British cinema needs right now
+ - value: >
+     Her work reminds me a lot of Yasujiro Ozu. She's exactly what British cinema needs right now.
 
 # Article Taxonomies
 categories:

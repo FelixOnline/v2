@@ -13,7 +13,8 @@ aliases:
  - /food/690/the-hazards-of-eating-out
 imported: true
 comments:
- - The tip is discrtionry and against the law  you should refuse to pay it and then they might start giving service as at the moment they know that most people will not argue this point and will just pay so they do not bother with the service  If anything it should still be 10 due to the inflated prices they charge for the food and drinksyou decide but boycot is the way forwardWhy dont you just get tap water
+ - value: >
+     The tip is discrtionry and against the law - you should refuse to pay it and then they might start giving service, as at the moment they know that most people will not argue this point and will just pay, so they do not bother with the service. If anything it should still be 10% due to the inflated prices they charge for the food and drinks.......you decide but boycot is the way forward,Why don't you just get tap water?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/4564/college-gets-a-21-for-sexual-health
 imported: true
 comments:
- - Since when is it Imperials responsibility to educate its students on sexual health Surely everyone learns this sort of thing at secondary school or earlierWhat is this sexual heath information theyre expecting on the campus Condom usage posters in the disabled toilets Popup images of diseased genitals when you log in to the college PCs Agreed Patronising to the max not Colleges jobGood advert for Superdrug though If I was a cynical person I would suggest that was their motive for doing the surveyAnd far from highlighting an issue I suspect many of us would be delighted with a 21
+ - value: >
+     Since when is it Imperial's responsibility to educate its students on sexual health? Surely everyone learns this sort of thing at secondary school or earlier. <br> <br>What is this sexual heath information they're expecting on the campus? Condom usage posters in the disabled toilets? Pop-up images of diseased genitals when you log in to the college PCs? ,Agreed. Patronising to the max, not College's job. <br> <br>Good advert for Superdrug though. If I was a cynical person I would suggest that was their motive for doing the survey. <br> <br>And far from highlighting an issue... I suspect many of us would be delighted with a 2:1.
 
 # Article Taxonomies
 categories:

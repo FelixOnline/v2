@@ -13,7 +13,8 @@ aliases:
  - /fashion/194/mario-testino-vs-kate-moss
 imported: true
 comments:
- - We should REALLY talk about the Isabella Blow book surely Or the Isabella Blow BOOKS
+ - value: >
+     We should REALLY talk about the Isabella Blow book surely? Or the Isabella Blow BOOKS?
 
 # Article Taxonomies
 categories:

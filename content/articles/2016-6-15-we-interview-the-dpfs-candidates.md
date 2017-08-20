@@ -13,7 +13,8 @@ aliases:
  - /features/6268/we-interview-the-dpfs-candidates
 imported: true
 comments:
- - Lots of people saying exams were the reason they didnt run A question then are the big elections at the right time of year to ensure most students have a fair chance to runcampaignThey really need to change the way the DPFS works The role description doesnt really fit with the way the union works atm A student should have oversight of the finances but should they really be doing an accountants job when there are real accountants about
+ - value: >
+     Lots of people saying exams were the reason they didn't run. A question then, are the big elections at the right time of year to ensure most students have a fair chance to run/campaign?,They really need to change the way the DPFS works. The role description doesn't really fit with the way the union works atm. <br>A student should have oversight of the finances but should they really be doing an accountants job when there are real accountants about?
 
 # Article Taxonomies
 categories:

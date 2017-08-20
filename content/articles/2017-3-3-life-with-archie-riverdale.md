@@ -13,8 +13,10 @@ aliases:
  - /tv/6850/life-with-archie--riverdale
 imported: true
 comments:
- - Thanks for all the ideas guys  More positive Self TalkI will live a hopefilled life every day  I will handle my problems as opportunities in a different more effective manner based on the power of advanced mathematics You
- - God  EnhugoZig Ziglar
+ - value: >
+     Thanks for all the ideas, guys! More positive â€œSelf Talkâ€:â€œI will live a hope-filled life every day. I will handle my problems as opportunities in a different, more effective manner, based on the power of advanced mathematics; â€œYou
+ - value: >
+     God = En“ââhu€g€oZig Ziglar
 
 # Article Taxonomies
 categories:

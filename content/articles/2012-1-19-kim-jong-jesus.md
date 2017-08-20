@@ -13,7 +13,8 @@ aliases:
  - /comment/2022/kim-jong-jesus
 imported: true
 comments:
- - This is a deeply insightful and interesting philosophical comment piece It truly engages with the complex theological questions of our existence showing a power of thinking well beyond prep school level I am proud to have you in my GCSE religious studies class For future essays try to provide a more coherent argument I am certain that by the end of next year you will be on track for a B or aboveMr Davids 20120223 1550     I was wondering if you ever csiondered changing the layout of your blog  Its very well written I love what youve got to say  But maybe you could a little more in the way of content so people could connect with it better  Youve got an awful lot of text for only having one or two images  Maybe you could space it out better
+ - value: >
+     This is a deeply insightful and interesting philosophical comment piece. It truly engages with the complex theological questions of our existence, showing a power of thinking well beyond prep school level. I am proud to have you in my GCSE religious studies class. For future essays, try to provide a more coherent argument. I am certain that by the end of next year you will be on track for a B or above. <br> <br>Mr. Davids,　( 2012.02.23 15:50 ) : I was wondering if you ever csiondered changing the layout of your blog? Its very well written; I love what youve got to say. But maybe you could a little more in the way of content so people could connect with it better. Youve got an awful lot of text for only having one or two images. Maybe you could space it out better?
 
 # Article Taxonomies
 categories:

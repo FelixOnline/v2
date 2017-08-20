@@ -13,7 +13,8 @@ aliases:
  - /comment/6229/why-im-betting-on-500-on-donald-to-win
 imported: true
 comments:
- - This article is really similar to this video httpswwwyoutubecomwatchvLibRNYJmZIAnd by really similar I mean its a complete ripoff come on man
+ - value: >
+     This article is really similar to this video: https://www.youtube.com/watch?v=LibRNYJmZ-I,And by really similar I mean it's a complete rip-off, come on man
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/5031/simulating-your-xmas-shopping
 imported: true
 comments:
- - pigalle louboutinchristian louboutin shoes httpcanadachristianlouboutinblogspotcom
+ - value: >
+     pigalle louboutin <br>christian louboutin shoes http://canadachristianlouboutin.blogspot.com/
 
 # Article Taxonomies
 categories:

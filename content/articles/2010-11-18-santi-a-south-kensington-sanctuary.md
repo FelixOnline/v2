@@ -13,7 +13,8 @@ aliases:
  - /fashion/381/santi-a-south-kensington-sanctuary
 imported: true
 comments:
- - The Imperial Health Centre does offer some sort of massage and aromatherapy too This smells like an advertorial agreement which is rather unusual for a student publication WHAT IS THISThe Health Centre offers no such thing all they do is recommend external practitioners I dont think its unreasonable for Felix to write an article about a business offering students a 50 discountNHaksj  lffzedywmssb
+ - value: >
+     The Imperial Health Centre does offer some sort of massage and aromatherapy too? This smells like an advertorial agreement which is rather unusual for a student publication. WHAT IS THIS?,The Health Centre offers no such thing; all they do is recommend external practitioners. I don't think it's unreasonable for Felix to write an article about a business offering students a 50% discount.,NHaksj <a href="http://lffzedywmssb.com/">lffzedywmssb</a>
 
 # Article Taxonomies
 categories:

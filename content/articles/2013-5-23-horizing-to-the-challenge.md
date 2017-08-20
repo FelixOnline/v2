@@ -13,7 +13,8 @@ aliases:
  - /news/3606/horizing-to-the-challenge
 imported: true
 comments:
- -                                                                   HTML                                                                                         Notify me of followup comntmes via emailIf you live in a city theres a good chance theres some kind of local moms group lirtsesv or online forum those are always good places to solicit recommendationsI had a hard time getting a handle on what I was looking for until Id visited several very different centers and could see the differences Also I really love the other parents at my daycare and that makes me feel better about the quality I feel like theyre pretty similar to us in a lot of ways and that if theyre happy with the center its probably a good fit for us too The couple of times that I visited my current cen
+ - value: >
+     Оставьте свой комментарий Вы можете использовать следующие HTML тэги: <a> <abbr> <acronym> <b> <blockquote> <cite> <code> <del> <em> <i> <q> <strike> <strong> Notify me of followup comntmes via e-mail,If you live in a city, there's a good chance there's some kind of local mom's group <a href="http://mbajpgg.com">lirtsesv</a> or online forum... those are always good places to solicit recommendations.I had a hard time getting a handle on what I was looking for until I'd visited several very different centers and could see the differences. Also, I really love the other parents at my daycare, and that makes me feel better about the quality... I feel like they're pretty similar to us in a lot of ways and that if they're happy with the center, it's probably a good fit for us too. (The couple of times that I visited my current cen</strong></strike></q></i></em></del></code></cite><br></blockquote></b></acronym></abbr></a>
 
 # Article Taxonomies
 categories:

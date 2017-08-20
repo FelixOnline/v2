@@ -13,7 +13,8 @@ aliases:
  - /news/1051/lecturers-to-strike
 imported: true
 comments:
- - There is a difference between being represented for collective bargaining purposes and being a signedup member of the UnionThis article totally blows man Where are all the naked chicks waving placards Sort it out ladsWell done to those lecturers who do choose to go to work Millions across the country and the world dont have that choiceThe UCU represents thousands of Imperial staff but according to the College the 520 UCU members at Imperialwut
+ - value: >
+     There is a difference between being represented for collective bargaining purposes and being a signed-up member of the Union.,This article totally blows, man. Where are all the naked chicks waving placards? Sort it out, lads!,Well done to those lecturers who do choose to go to work. <br> <br>Millions across the country and the world don't have that choice.,"The UCU represents thousands of Imperial staff... but according to the College, ...the 520 UCU members at Imperial" <br> <br>wut
 
 # Article Taxonomies
 categories:

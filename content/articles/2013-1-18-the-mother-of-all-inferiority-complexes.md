@@ -13,7 +13,8 @@ aliases:
  - /comment/3134/the-mother-of-all-inferiority-complexes
 imported: true
 comments:
- - For the record not all Imperial students are Oxbridge rejects I had the grades do an equivalent course at Oxbridge and instead made Imperial my first choice Its easy for students from less privileged backgrounds to be put off Cambridge and particularly Oxford on the grounds that they would never feel welcome or comfortable in those kinds of settings Imperial offers courses of roughly equivalent quality to Oxford and Cambridge but for those from less privileged backgrounds is a far less intimidating place to attend and thats something Imperial CAN be proud of
+ - value: >
+     For the record, not all Imperial students are Oxbridge rejects. I had the grades do an equivalent course at Oxbridge and instead made Imperial my first choice. <br> <br>It's easy for students from less privileged backgrounds to be put off Cambridge, and particularly Oxford on the grounds that they would never feel welcome or comfortable in those kinds of settings. <br>Imperial offers courses of roughly equivalent quality to Oxford and Cambridge, but, for those from less privileged backgrounds, is a far less intimidating place to attend, and that's something Imperial CAN be proud of.
 
 # Article Taxonomies
 categories:

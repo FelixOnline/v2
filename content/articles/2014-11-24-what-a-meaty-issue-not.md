@@ -13,7 +13,8 @@ aliases:
  - /food/4956/what-a-meaty-issue-not-
 imported: true
 comments:
- - Constructive criticism httpthecopyfoxcom201211writingtipdoyouoveruseparenthesesThanks funny you should mention that  one of my writers New Years Resolutions is to actually cut down on dem parentheses I must have been writing this editorial after a slew of web writing on Facebook where I turn off my editorgrammar Nazi filter oopsthatll teach me to multitask P
+ - value: >
+     Constructive criticism: http://thecopyfox.com/2012/11/writing-tip-do-you-overuse-parentheses/,Thanks, funny you should mention that - one of my writer's New Year's Resolutions is to actually cut down on dem parentheses! <br>I must have been writing this editorial after a slew of web writing on Facebook where I turn off my "editor/grammar Nazi" filter, oops...that'll teach me to multitask :P
 
 # Article Taxonomies
 categories:

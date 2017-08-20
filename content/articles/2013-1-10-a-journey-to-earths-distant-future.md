@@ -13,7 +13,8 @@ aliases:
  - /books/3093/a-journey-to-earths-distant-future
 imported: true
 comments:
- - Urth of the New Sun was fantastic It is the seueql to the  though and it would be a mistake to read it first It puts the pieces of the previous book together in ways that are really wonderful and surprising Book and Urth are both great and unusual fantasy  scifi tales which make the narrative itself the subject of the genres characteristic worldbuilding wonder As your view of the world changes the significance of the earlier plot changes again and again Etc
+ - value: >
+     Urth of the New Sun was fantastic. It is the seueql to the , though, and it would be a mistake to read it first. It puts the pieces of the previous book together in ways that are really wonderful and surprising. Book and Urth are both great and unusual fantasy / sci-fi tales, which make the narrative itself the subject of the genre's characteristic world-building wonder. As your view of the world changes, the significance of the earlier plot changes again and again. Etc.
 
 # Article Taxonomies
 categories:

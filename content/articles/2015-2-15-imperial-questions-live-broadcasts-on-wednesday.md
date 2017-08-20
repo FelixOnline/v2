@@ -13,7 +13,8 @@ aliases:
  - /news/5261/imperial-questions-live-broadcasts-on-wednesday
 imported: true
 comments:
- - tulane internal medicine residency  kjope rivotril i norge  new galaxy tablet 2013 drugs used for anxiety  hvor kjope rivotril  calculation of drug dosages
+ - value: >
+     tulane internal medicine residency kjope rivotril i norge new galaxy tablet 2013 ,drugs used for anxiety hvor kjope rivotril calculation of drug dosages
 
 # Article Taxonomies
 categories:

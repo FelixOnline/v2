@@ -13,7 +13,8 @@ aliases:
  - /comment/1973/big-brother-is-watching-you
 imported: true
 comments:
- - I liked the way that the web editor has linked all my references to social media to my own accounts on each I now look even more like a self promoting attention whore than I even thought possible Attention whore
+ - value: >
+     I liked the way that the web editor has linked all my references to social media to my own accounts on each. I now look even more like a self promoting attention whore than I even thought possible. ,Attention whore!
 
 # Article Taxonomies
 categories:

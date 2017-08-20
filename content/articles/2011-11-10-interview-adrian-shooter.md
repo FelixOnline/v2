@@ -13,7 +13,8 @@ aliases:
  - /news/1727/interview-adrian-shooter
 imported: true
 comments:
- - Im sure him being responsible for the sale of the franchise had nothing to do with him winning it Nope Not at allThis is a joke right He straight up says that he was responsible for selling the franchise and that out of 13 competing companies his company won On behalf of my employer I had to sell the business  it was competitive and we had 13 companies bidding for it  Thirdly in my own time I had to work out with my team how to buy itHowever Ill admit that this isnt proof that he behaved inappropriately the appearance of wrongdoing is not the same as actual wrongdoing He has amazing eyebrows
+ - value: >
+     I'm sure him being responsible for the sale of the franchise had nothing to do with him winning it. Nope. Not at all.,This is a joke, right? He straight up says that he was responsible for selling the franchise and that out of 13 competing companies his company won. <br> <br>"On behalf of my employer, I had to sell the business – it was competitive and we had 13 companies bidding for it. [...] Thirdly, in my own time, I had to work out, with my team, how to buy it.” <br> <br>However, I'll admit that this isn't proof that he behaved inappropriately; the appearance of wrongdoing is not the same as actual wrongdoing. ,He has amazing eyebrows
 
 # Article Taxonomies
 categories:

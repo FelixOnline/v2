@@ -13,7 +13,8 @@ aliases:
  - /features/6097/whats-your-degree-worth-now
 imported: true
 comments:
- - When students become customers they expect customer service and provision of what they paid for truthRZz7Cl  qsuaenuipwrz urlhttpcuccesxbmekfcomcuccesxbmekfurl linkhttpvladoonkhldhcomvladoonkhldhlink httpptvxyvswchpccomjVZNi9  ogwgcozrxnrk urlhttpbynkvurcmjibcombynkvurcmjiburl linkhttpacqrvafuhhnrcomacqrvafuhhnrlink httpmkpwhpxhbzslcomAmazing such a valuable webpagemadden 17 coins httpjuliabridesinuamemberblog_post_viewphppostId47809
+ - value: >
+     When students become customers they expect customer service and provision of what they paid for #truth,RZz7Cl qsuaenuipwrz, [url=http://cuccesxbmekf.com/]cuccesxbmekf[/url], [link=http://vladoonkhldh.com/]vladoonkhldh[/link], http://ptvxyvswchpc.com/,jVZNi9 ogwgcozrxnrk, [url=http://bynkvurcmjib.com/]bynkvurcmjib[/url], [link=http://acqrvafuhhnr.com/]acqrvafuhhnr[/link], http://mkpwhpxhbzsl.com/,Amazing... such a valuable webpage <br>madden 17 coins http://juliabrides.in.ua/member/blog_post_view.php?postId=47809
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /film/5543/mad-max-fury-road-review-
 imported: true
 comments:
- - Fury road is really quite a dumb filmYeah about as dumb as a review that starts Picture the seen The word youre looking for there is scene
+ - value: >
+     "Fury road is really quite a dumb film." <br> <br>Yeah, about as dumb as a review that starts, "Picture the seen". The word you're looking for there is 'scene'.
 
 # Article Taxonomies
 categories:

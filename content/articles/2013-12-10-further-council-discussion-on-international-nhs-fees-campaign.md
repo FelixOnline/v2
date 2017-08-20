@@ -13,7 +13,8 @@ aliases:
  - /news/4197/further-council-discussion-on-international-nhs-fees-campaign
 imported: true
 comments:
- - Why was my response binned And why does Union Council seem not to care
+ - value: >
+     Why was my response binned? And why does Union Council seem not to care?
 
 # Article Taxonomies
 categories:

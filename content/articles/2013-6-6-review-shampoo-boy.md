@@ -13,7 +13,8 @@ aliases:
  - /music/3669/review-shampoo-boy
 imported: true
 comments:
- - new KTL album with Jim ORourke  sounds very itteresning indeed especially as ORourkes latest releases are top quality the Touch 7 is fantastic Thank god its lunchtime here as i just clicked the Tenya link and its made me super hungryZune and iPod Most people coparme the Zune to the Touch but after seeing how slim and surprisingly small and light it is I consider it to be a rather unique hybrid that combines qualities of both the Touch and the Nano Its very colorful and lovely OLED screen is slightly smaller than the touch screen but the player itself feels quite a bit smaller and lighter It weighs about 23 as much and is noticeably smaller in width and height while being just a hair thicker  cialis online   cialis online   necessary missouri   cialis online
+ - value: >
+     "...new KTL album with Jim O'Rourke.." - sounds very itteresning indeed, especially as O'Rourke's latest releases are top quality (the Touch 7" is fantastic!). Thank god it's lunchtime here, as i just clicked the Tenya link and it's made me super hungry!!!!,Zune and iPod: Most people <a href="http://teqnnyhtclx.com">coparme</a> the Zune to the Touch, but after seeing how slim and surprisingly small and light it is, I consider it to be a rather unique hybrid that combines qualities of both the Touch and the Nano. It's very colorful and lovely OLED screen is slightly smaller than the touch screen, but the player itself feels quite a bit smaller and lighter. It weighs about 2/3 as much, and is noticeably smaller in width and height, while being just a hair thicker., cialis online cialis online necessary missouri cialis online
 
 # Article Taxonomies
 categories:

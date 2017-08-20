@@ -13,7 +13,8 @@ aliases:
  - /science/5526/swap-out-those-burgers-for-beans
 imported: true
 comments:
- - JDFKoX httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
+ - value: >
+     JDFKoX http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tv/3780/the-body-count-keeps-going-up-and-up
 imported: true
 comments:
- - These are all great but you gotta love Tim CurryPennywise taking a load off after a hard day of dinrggag children into the sewers to murder them and of course Michael Myers drinking a Dr Pepper and Johnny DeppIchabod Crane with a super soaker
+ - value: >
+     These are all great, but you gotta love Tim Curry/Pennywise taking a load off after a hard day of dinrggag children into the sewers to murder them, and of course Michael Myers drinking a Dr. Pepper and Johnny Depp/Ichabod Crane with a super soaker.
 
 # Article Taxonomies
 categories:

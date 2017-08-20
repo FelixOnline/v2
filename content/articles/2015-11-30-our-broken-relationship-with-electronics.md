@@ -13,7 +13,8 @@ aliases:
  - /cands/5788/our-broken-relationship-with-electronics-
 imported: true
 comments:
- - Hello I log on to your blogs daily Your humoristic style is awesome keep up the good workcanada goose london england httpwwwsanctus1coukukcanadagooselondonengland27295htmlWith thanks It is definitely an awesome websitefifa 17 coins httpchristianbelieversfellowshiporgblogspost2664
+ - value: >
+     Hello, I log on to your blogs daily. Your humoristic style is awesome, keep up the good work! <br>canada goose london england http://www.sanctus1.co.uk/?uk-canada-goose-london-england-27295.html,With thanks! It is definitely an awesome web-site!. <br>fifa 17 coins http://christianbelieversfellowship.org/blogs/post/2664
 
 # Article Taxonomies
 categories:

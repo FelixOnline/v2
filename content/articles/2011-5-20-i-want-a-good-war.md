@@ -13,7 +13,8 @@ aliases:
  - /comment/1230/i-want-a-good-war
 imported: true
 comments:
- - Thats raelly shrewd Good to see the logic set out so wellK0fKHE  owmcbzrzklga
+ - value: >
+     Thats raelly shrewd! Good to see the logic set out so well.,K0fKHE <a href="http://owmcbzrzklga.com/">owmcbzrzklga</a>
 
 # Article Taxonomies
 categories:

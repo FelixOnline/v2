@@ -13,7 +13,8 @@ aliases:
  - /comment/3254/friends-with-benefits
 imported: true
 comments:
- - I have read cosmopolitan once some of the articles content was similar I do not mean to be accused for feminism here again but yet this way of thinking for women is described by certain adjectives in the society stereotypes dictionary Being a conservative I do share the stereotypes ideas The fact that you choose to stay anonymous suggests that you are a woman aware of the stereotype or you are a guy and a genius I do love the article though because it is a perfect presentation of the truth about how manynot all women think NiceExcellent
+ - value: >
+     I have read cosmopolitan once, some of the articles' content was similar. I do not mean to be accused for feminism here (again), but yet this way of thinking for women is described by certain adjectives in the society stereotypes' dictionary. Being a conservative I do share the stereotype's ideas. The fact that you choose to stay anonymous suggests that you are a woman aware of the stereotype, or you are a guy and a genius. I do love the article though because it is a perfect presentation of the truth, about how many(not all) women think. Nice.,Excellent ;)
 
 # Article Taxonomies
 categories:

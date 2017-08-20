@@ -13,7 +13,8 @@ aliases:
  - /arts/6105/your-guide-to-whats-hot-in-art-this-term
 imported: true
 comments:
- - BPvx6r  nahtopqnvynd urlhttpstcqlncgnooxcomstcqlncgnooxurl linkhttpqmnnxtouupxacomqmnnxtouupxalink httpnprzgwwbhnzzcom
+ - value: >
+     BPvx6r nahtopqnvynd, [url=http://stcqlncgnoox.com/]stcqlncgnoox[/url], [link=http://qmnnxtouupxa.com/]qmnnxtouupxa[/link], http://nprzgwwbhnzz.com/
 
 # Article Taxonomies
 categories:

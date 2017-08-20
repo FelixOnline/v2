@@ -13,7 +13,8 @@ aliases:
  - /politics/3133/france-steps-up-intervention-in-mali
 imported: true
 comments:
- - Nice article thank you for posting nice to learn this issue is also being discussed on college campuses I just take issue with one line namely President Hollande seems willing to risk the possibility of a terrorist attack What did you readhearsee that gave you this impression It is quite a heavy remark made almost in passing Thanks
+ - value: >
+     Nice article, thank you for posting, nice to learn this issue is also being discussed on college campuses. I just take issue with one line, namely: "President Hollande seems willing to risk the possibility of a terrorist attack..." What did you read/hear/see that gave you this impression? It is quite a heavy remark made almost in passing. Thanks.
 
 # Article Taxonomies
 categories:

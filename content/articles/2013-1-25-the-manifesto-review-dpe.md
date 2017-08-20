@@ -13,7 +13,8 @@ aliases:
  - /news/3191/the-manifesto-review-dpe
 imported: true
 comments:
- - Great work buddy
+ - value: >
+     Great work buddy!
 
 # Article Taxonomies
 categories:

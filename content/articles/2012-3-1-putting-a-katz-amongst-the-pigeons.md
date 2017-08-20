@@ -13,7 +13,8 @@ aliases:
  - /biz/2289/putting-a-katz-amongst-the-pigeons
 imported: true
 comments:
- - Hi Bob Unfortunately the wrong CMYK copy of the photo was uploaded last week  we have now rectified the issue and put up the originalBad contrast editing on my picture Why you guys bother doing this
+ - value: >
+     Hi Bob, <br> <br>Unfortunately the wrong (CMYK) copy of the photo was uploaded last week - we have now rectified the issue and put up the original. <br>,Bad contrast editing on my picture. Why you guys bother doing this?
 
 # Article Taxonomies
 categories:

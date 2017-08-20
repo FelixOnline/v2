@@ -13,7 +13,8 @@ aliases:
  - /arts/5170/theres-more-to-art-than-white-western-males
 imported: true
 comments:
- - The info is amazingly uniquemadden 17 coins httpinfinityfriendcomindexphpdoblog10873cheapmadden17coinshistoryaboutthedallascowboys
+ - value: >
+     The info is amazingly unique <br>madden 17 coins http://infinityfriend.com/index.php?do=/blog/10873/cheap-madden-17-coins-history-about-the-dallas-cowboys/
 
 # Article Taxonomies
 categories:

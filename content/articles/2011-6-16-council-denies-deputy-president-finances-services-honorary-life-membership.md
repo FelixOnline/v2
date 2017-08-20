@@ -13,7 +13,8 @@ aliases:
  - /news/1378/council-denies-deputy-president-finances--services-honorary-life-membership
 imported: true
 comments:
- - I hope Council decides to keep their decision I also hope that the Sabbs abstain from voting Itd be a bit odd to pat yourself on the back by voting to give yourself what is essentially an award
+ - value: >
+     I hope Council decides to keep their decision. I also hope that the Sabbs abstain from voting. It'd be a bit odd to pat yourself on the back by voting to give yourself what is essentially an award.
 
 # Article Taxonomies
 categories:

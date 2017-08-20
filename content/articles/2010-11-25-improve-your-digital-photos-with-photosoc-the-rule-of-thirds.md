@@ -13,7 +13,8 @@ aliases:
  - /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
 imported: true
 comments:
- - This is just a test ignore this JoeJust another test comment Please ignore
+ - value: >
+     This is just a test, ignore this Joe!,Just another test comment. Please ignore...
 
 # Article Taxonomies
 categories:

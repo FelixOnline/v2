@@ -13,7 +13,8 @@ aliases:
  - /sport/2644/testing-triathlon-waters
 imported: true
 comments:
- - If you are interested in joining email triathlonimperialacuk or visit our website at httpdougalunionicacukacctriathlonbfQue es lo que te mueve a participar en el HalfChallenge MaresmeDespues de preedr 50 kg iniciarme el las maratones aprender a nadar sin aletas y empezar con la bici de mi nif1o he empezado a prepararme para correr LA MAS GRANDE y cual sereda la mejor si no volver a mi tierra vivo en Granada pero soc Db4Arenys de Mar y quiero estrenar mi bici nueva por todo lo alto espero tener una plaza para mi para demostrarme a mi mismo que estoy preparado para este reto desde que hice el Triathlon de Motril que me mueve el orgullo la superacion la competicif3n el reto quizas todo un pocoSaludos Miguel Gonze1lez Pascual
+ - value: >
+     If you are interested in joining, email triathlon@imperial.ac.uk or visit our website at http://dougal.union.ic.ac.uk/acc/triathlon/,bfQue es lo que te mueve a participar en el Half-Challenge Maresme?Despues de preedr 50 kg, iniciarme el las maratones, aprender a nadar sin aletas y empezar con la bici de mi nif1o, he empezado a prepararme para correr LA MAS GRANDE y cual sereda la mejor si no volver a mi tierra, vivo en Granada pero soc Db4Arenys de Mar y quiero estrenar mi bici nueva por todo lo alto, espero tener una plaza para mi, para demostrarme a mi mismo que estoy preparado para este reto, desde que hice el Triathlon de Motril, que me mueve? el orgullo, la superacion, la competicif3n, el reto, quizas, todo un poco.Saludos. Miguel Gonze1lez Pascual.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/1136/vote-yes-to-av
 imported: true
 comments:
- - I will definitely be voting YES With the Lib Dems so unpopular and the minority parties still true to their description maintaining the FPTP system will doom this country to another 50 years of 2party elections At least with AV I will have a chance to express my support for smaller parties without feeling the need to vote tacticallyYES I believe that it transforms and revolutionise the democracy General public will be aware of their vital role and not to waste their votes It is a much awaited change for me not only in the UK but across the democratic countries which conduct elections fine Dsquared2 shirtshttpwwwfinepoloshirtscomdsquared2replicas1161htmlfine Dsquared2 shirts
+ - value: >
+     I will definitely be voting YES. With the Lib Dems so unpopular and the minority parties still true to their description, maintaining the FPTP system will doom this country to another 50 years of 2-party elections. At least with AV I will have a chance to express my support for smaller parties without feeling the need to vote tactically.,YES. I believe that it transforms and revolutionise the democracy. General public will be aware of their vital role and 'not to waste their votes'. It is a much awaited change for me not only in the UK but across the democratic countries which conduct elections. ,fine Dsquared2 shirts <br>http://www.finepoloshirts.com/dsquared2-replicas-1161.html <br>-<a href="http://www.finepoloshirts.com/dsquared2-replicas-1161.html">fine Dsquared2 shirts</a> <br>
 
 # Article Taxonomies
 categories:

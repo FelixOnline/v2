@@ -13,7 +13,8 @@ aliases:
  - /sport/634/he-must-be-friesian
 imported: true
 comments:
- - All that it needs is for you to take your folks to a ski location in the  Xmas  hiladoys and experience the diverse winter sports pursuits like skiing snowboarding sledding and tubes  So does planning the best family ski holiday tough  While family ski hiladoys might be great  Yuletide  holiday ideas the next thing to do after making a decision to take one is to make plans for it  Your concept behind a skiing holiday is to pack in skiing with having a great time with the remainder of the family too and the resort you select should satisfy that target
+ - value: >
+     All that it needs is for you to take your folks to a ski location in the Xmas hiladoys and experience the diverse winter sports pursuits like skiing, snow-boarding, sledding, and tubes. So does planning the best family ski holiday tough? While family ski hiladoys might be great Yuletide holiday ideas, the next thing to do after making a decision to take one is to make plans for it. Your concept behind a skiing holiday is to pack in skiing with having a great time with the remainder of the family too, and the resort you select should satisfy that target.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/466/daniel-handlers-the-basic-eight
 imported: true
 comments:
- - wow cause thats just soo cool wow there is like no description at ALL so glad i came to this ghetto place for information on this book never gonna come here again THANKS FOR NOTHINGLOL Best comment EVER
+ - value: >
+     wow. cause thats just soo cool. wow, there is like, no description at ALL. so glad i came to this ghetto place for information on this book. never gonna come here again. THANKS FOR NOTHING!,LOL. Best comment EVER
 
 # Article Taxonomies
 categories:

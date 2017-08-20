@@ -13,7 +13,8 @@ aliases:
  - /music/5421/my-favourite-musician-taylor-swift
 imported: true
 comments:
- - Magic had Kareem Worthy Cooper and Scott as he won his championships Rondo had Allen Garnett and Pierce couple of years ago What dominant point guard besides Magic has ever carried his team to a championship And would the Lakers have won those battles in the Celtics and 76ers without other star players wing players and big menfifa 16 hack httpcreditsfutcom
+ - value: >
+     |}Magic had Kareem, Worthy, Cooper, and Scott as he won his championships. Rondo had Allen, Garnett, and Pierce couple of years ago. What dominant point guard, besides Magic, has ever carried his team to a championship? And would the Lakers have won those battles in the Celtics and 76'ers without other star players, wing players and big men? <br>fifa 16 hack http://creditsfut.com/
 
 # Article Taxonomies
 categories:

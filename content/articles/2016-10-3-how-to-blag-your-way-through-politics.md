@@ -13,7 +13,8 @@ aliases:
  - /comment/6305/how-to-blag-your-way-through-politics
 imported: true
 comments:
- - If the Palestinians had stopped shooting rockets over the border then complaining when Israel defends itself we could have seen peace in the region decades agoHuman Rights Watch in their World Report 2016 disagrees with youIsrael continued in 2015 to enforce severe and discriminatory restrictions on Palestinians human rights and to build unlawful settlements in and facilitate the transfer of Israeli civilians to the occupied West Bank Israeli authorities also arbitrarily detained peaceful Palestinian demonstrators including childrenI think I should give it a shotUPAlbioncom httpbegamernetblogs16008010albiononlineregardingbetaphMy way or the highwaybuy Dofus Touch Kamas httpadpostindiagaeventsdofustouchbuyingreliablekamasherehtml
+ - value: >
+     If the Palestinians had stopped shooting rockets over the border then complaining when Israel defends itself, we could have seen peace in the region decades ago.,Human Rights Watch in their World Report 2016 disagrees with you.<br>"Israel continued in 2015 to enforce severe and discriminatory restrictions on Palestinians’ human rights, and to build unlawful settlements in and facilitate the transfer of Israeli civilians to the occupied West Bank. Israeli authorities also arbitrarily detained peaceful Palestinian demonstrators, including children.",I think I should give it a shot! <br>UPAlbion.com http://begamer.net/blogs/1600/8010/albion-online-regarding-beta-ph,My way or the highway. <br>buy Dofus Touch Kamas http://adpostindia.ga/events/dofus-touch-buying-reliable-kamas-here.html
 
 # Article Taxonomies
 categories:

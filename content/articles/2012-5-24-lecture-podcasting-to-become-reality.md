@@ -13,7 +13,8 @@ aliases:
  - /news/2483/lecture-podcasting-to-become-reality
 imported: true
 comments:
- - HahahaYou clearly dont know me if you think I commented about myself on thisthat or you know me really well and are trolling meDamn anonymous commentsColvin  sort it outExcellent Ive been wanting thisJason Parmar has been the best sabbatical this Union has ever had That and he is the few that actually care about the people he represents and is not another bureaucrat CV whoreIts surprised me that Imperial which I believed to be a world leader in technological pioneering has been so slow to catch onto this basic technologyThanks for the comment JasonWe all believed Imperial to be a world leader until we actually got hereFinally great job guysJasonso many people already dont go to lectures especially morning lectures poor lecturers will be lonelyExcellent news Now if I can do labs and sit exams at home too Im all set
+ - value: >
+     Hahaha. <br>You clearly don't know me if you think I commented about myself on this! <br>....that or you know me really well and are trolling me. <br> <br>Damn anonymous comments! <br> <br>Colvin - sort it out.,Excellent, I've been wanting this.,Jason Parmar has been the best sabbatical this Union has ever had. That and he is the few that actually care about the people he represents and is not another bureaucrat/ CV whore.,It's surprised me that Imperial, which I believed to be a world leader in technological pioneering, has been so slow to catch onto this basic technology.,Thanks for the comment, Jason.,We all believed Imperial to be a world leader until we actually got here.,Finally, great job guys/Jason...,so many people already dont go to lectures, especially morning lectures, poor lecturers will be lonely,Excellent news! Now if I can do labs and sit exams at home too, I'm all set.
 
 # Article Taxonomies
 categories:

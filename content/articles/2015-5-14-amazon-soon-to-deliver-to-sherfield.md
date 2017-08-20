@@ -13,7 +13,8 @@ aliases:
  - /news/5520/amazon-soon-to-deliver-to-sherfield
 imported: true
 comments:
- - Finally I can live fulltime in College and still get packages delivered What a time to be aliveQmCKKB httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomWow lovely portal Thnx cs go skins addiction httpjanice1101livejournalcom33977html
+ - value: >
+     Finally, I can live full-time in College and still get packages delivered. What a time to be alive!,QmCKKB http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com,Wow, lovely portal. Thnx ...| <br>cs go skins addiction http://janice1101.livejournal.com/33977.html
 
 # Article Taxonomies
 categories:

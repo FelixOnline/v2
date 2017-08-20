@@ -13,7 +13,8 @@ aliases:
  - /arts/5940/theatre-isnt-just-one-thing
 imported: true
 comments:
- - I in addition to my buddies ended up digesting the excellent key points from the blog and all of a sudden I got a horrible suspicion I had not thanked the web blog owner for them All the young men came as a consequence very interested to read through all of them and have in effect extremely been having fun with these things I appreciate you for indeed being well kind and also for choosing varieties of useful areas millions of individuals are really wanting to know about My personal honest apologies for not expressing apictrpaeion to  earlier
+ - value: >
+     I in addition to my buddies ended up digesting the excellent key points from the blog and all of a sudden I got a horrible suspicion I had not thanked the web blog owner for them. All the young men came as a consequence very interested to read through all of them and have in effect extremely been having fun with these things. I appreciate you for indeed being well kind and also for choosing varieties of useful areas millions of individuals are really wanting to know about. My personal honest apologies for not expressing apictrpaeion to earlier.
 
 # Article Taxonomies
 categories:

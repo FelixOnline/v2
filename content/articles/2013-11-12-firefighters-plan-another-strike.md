@@ -13,7 +13,8 @@ aliases:
  - /news/4049/firefighters-plan-another-strike
 imported: true
 comments:
- - Why is this the main story What has this got to do with Imperial Is the editor drunkCan someone explain why on earth Felix is reporting on the firefighters strikeOf course it affects Imperial students as it does everyone but this is clearly not Imperial news
+ - value: >
+     Why is this the main story? What has this got to do with Imperial? Is the editor drunk?,Can someone explain why on earth Felix is reporting on the firefighter's strike? <br> <br>Of course it affects Imperial students, as it does everyone, but this is clearly not Imperial news.
 
 # Article Taxonomies
 categories:

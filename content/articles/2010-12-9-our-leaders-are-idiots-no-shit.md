@@ -13,7 +13,8 @@ aliases:
  - /comment/528/our-leaders-are-idiots-no-shit
 imported: true
 comments:
- - THX thats a great awnser
+ - value: >
+     THX that's a great awnser!
 
 # Article Taxonomies
 categories:

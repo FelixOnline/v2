@@ -13,7 +13,8 @@ aliases:
  - /games/5713/the-triumphant-return-of-guitar-hero-
 imported: true
 comments:
- - aJx4GY httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     aJx4GY http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /food/2907/whats-in-my-lunchbox-01
 imported: true
 comments:
- - Ah were well aware of this when we sent this piece off  as foodies were not entirely lacking in basic chem lingo knowhow Wouldve loved to have thought of something else except our suspension to the problem wouldnt have had the same sense to itThat said ta muchly for pointing it out to the uninitiated anyway Ah were well aware of this when we sent this piece off  as foodies were not entirely lacking in basic chem lingo knowhow Wouldve loved to have thought of something else except our suspension to the problem wouldnt have had the same sense to itThat said ta muchly for pointing it out to the uninitiated anyway Yo Soz but your pun doesnt quite work Soup is more a suspension than a solution because most of the solids arent really dissolved in solvated by the solventSounds tasty though
+ - value: >
+     Ah, we're well aware of this when we sent this piece off - as foodies we're not entirely lacking in basic chem lingo know-how! Would've loved to have thought of something else, except "our suspension to the problem" wouldn't have had the same sense to it... <br> <br>That said, ta muchly for pointing it out to the uninitiated anyway :),Ah, we're well aware of this when we sent this piece off - as foodies we're not entirely lacking in basic chem lingo know-how! Would've loved to have thought of something else, except "our suspension to the problem" wouldn't have had the same sense to it... <br> <br>That said, ta muchly for pointing it out to the uninitiated anyway :),Yo. Soz but your pun doesn't quite work. Soup is more a suspension than a solution because most of the solids aren't really dissolved in (solvated by) the solvent. <br> <br>Sounds tasty though.
 
 # Article Taxonomies
 categories:

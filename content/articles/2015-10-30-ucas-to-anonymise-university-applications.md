@@ -13,7 +13,8 @@ aliases:
  - /news/5682/ucas-to-anonymise-university-applications
 imported: true
 comments:
- - The Left is the faction of the professors the scientists and the scholars the cognitive elite It is the faction of the true ultrarich the old money the Rockefellers and Vanderbilts and Fords and their trustafarian hipster junkie granichdldren It is the faction of the journalists and the bureaucrats the activists and astroturfers  the wielders of power And of course it is the faction of movie stars and other celebrities who for all their flaws have climbed a long greasy pole The closer you get to the top in a democratic society the more pervasive socialism becomesJesus wept
+ - value: >
+     The Left is the faction of the professors, the scientists and the scholars, the cognitive elite. It is the faction of the true ultra-rich, the old money, the Rockefellers and Vanderbilts and Fords, and their trustafarian hipster junkie granichdldren. It is the faction of the journalists and the bureaucrats, the activists and astroturfers - the wielders of power. And, of course, it is the faction of movie stars and other celebrities, who for all their flaws have climbed a long greasy pole. The closer you get to the top in a democratic society, the more pervasive socialism becomes.Jesus wept.
 
 # Article Taxonomies
 categories:

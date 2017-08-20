@@ -13,7 +13,8 @@ aliases:
  - /comment/5748/this-is-everyones-fight
 imported: true
 comments:
- - Do you have a spam issue on this website I also am a blogger and I was wanting to know your situation we have developed some nice procedures and we are looking to swap techniques with other folks why not shoot me an email if interestedmoncler baby jas roze maandag httpwwwthibornlnlmonclerbabyjasrozemaandag13501htmlHey there I know this is somewhat off topic but I was wondering which blog platform are you using for this website Im getting sick and tired of Wordpress because Ive had issues with hackers and Im looking at options for another platform I would be fantastic if you could point me in the direction of a good platformwoolrich eugene coat cos httpwwwbesimpleititwoolricheugenecoatcos28696html
+ - value: >
+     Do you have a spam issue on this website; I also am a blogger, and I was wanting to know your situation; we have developed some nice procedures and we are looking to swap techniques with other folks, why not shoot me an e-mail if interested. <br>moncler baby jas roze maandag http://www.thibor.nl/?nl-moncler-baby-jas-roze-maandag-13501.html,Hey there! I know this is somewhat off topic but I was wondering which blog platform are you using for this website? I'm getting sick and tired of Wordpress because I've had issues with hackers and I'm looking at options for another platform. I would be fantastic if you could point me in the direction of a good platform. <br>woolrich eugene coat cos'猫 http://www.be-simple.it/?it-woolrich-eugene-coat-cos'猫-28696.html
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /food/5144/old-friends-new-ventures
 imported: true
 comments:
- - You only need to add the token code that they will give you on your website pages or post You can write a post like how I did and thats all
+ - value: >
+     You only need to add the token code that they will give you on your website pages or post. You can write a post like how I did and that's all.
 
 # Article Taxonomies
 categories:

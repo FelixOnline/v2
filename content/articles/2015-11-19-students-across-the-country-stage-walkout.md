@@ -13,7 +13,8 @@ aliases:
  - /news/5741/students-across-the-country-stage-walkout
 imported: true
 comments:
- - Keep up the incredible job  Lovin itFIFA 17 POINTS httpwwwsgdirectorysgnfl17coinstouchupon
+ - value: >
+     Keep up the incredible job !! Lovin' it! <br>FIFA 17 POINTS http://www.sgdirectory.sg/nfl-17-coins-touch-upon/
 
 # Article Taxonomies
 categories:

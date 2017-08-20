@@ -13,7 +13,8 @@ aliases:
  - /science/5960/science-whats-good
 imported: true
 comments:
- - Keep up the helpful work and producing in the crowdPedro Pauleta httpsocialthemefirmasitecomforumstopiccheapfifa17coinsperformatthesummitoftheirgamethan good theres no right or wr8wo230gansner to this but if you are writing a 500 word article in less than an hour you are definitely heading down the right pathive got writers blockfear not we all have writers block days where every word feels like it
+ - value: >
+     Keep up the helpful work and producing in the crowd! <br>Pedro Pauleta http://social.theme.firmasite.com/forums/topic/cheap-fifa-17-coins-perform-at-the-summit-of-their-game/,than good. there’s no right or wr8w;o230gansner to this. but if you are writing a 500 word article in less than an hour you are definitely heading down the right path.i’ve got writers blockfear not. we all have writers block days where every word feels like it…
 
 # Article Taxonomies
 categories:

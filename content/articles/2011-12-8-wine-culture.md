@@ -13,7 +13,8 @@ aliases:
  - /food/1943/wine-culture
 imported: true
 comments:
- - If I cotmunicamed I could thank you enough for this Id be lyingGood to see real expertise on display Your coniotbutirn is most welcome
+ - value: >
+     If I cotmunicamed I could thank you enough for this, I'd be lying.,Good to see real expertise on display. Your <a href="http://nltjwhfjjpt.com">coniotbutirn</a> is most welcome.
 
 # Article Taxonomies
 categories:

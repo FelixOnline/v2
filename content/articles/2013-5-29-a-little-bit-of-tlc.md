@@ -13,7 +13,8 @@ aliases:
  - /science/3636/a-little-bit-of-tlc
 imported: true
 comments:
- - Very interesting
+ - value: >
+     Very interesting.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tv/1138/not-the-worst-way-to-avoid-revision
 imported: true
 comments:
- - Even though Im a massive fan of Doctor Who and Matt Smith I loved this bit For a blissful moment I thought Matt Smith was going to be replaced by someone rather less irritating but sadly he turns up again a couple of minutes later Damned wishful thinkingsceptic James Simpson hahahaEvan Davislike very fitting description of the space creaturesTo be fair I have got a pretty huge head
+ - value: >
+     Even though I'm a massive fan of Doctor Who (and Matt Smith), I loved this bit: "For a blissful moment I thought Matt Smith was going to be replaced by someone rather less irritating, but sadly he turns up again a couple of minutes later. Damned wishful thinking.","sceptic James Simpson" hahaha!,Evan Davis-like: very fitting description of the space creatures,To be fair, I have got a pretty huge head.
 
 # Article Taxonomies
 categories:

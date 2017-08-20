@@ -13,7 +13,8 @@ aliases:
  - /film/1005/obscure-japanese-kamikaze-girls-gets-belated-praise
 imported: true
 comments:
- - Im out of leauge here Too much brain power on display
+ - value: >
+     I'm out of leauge here. Too much brain power on display!
 
 # Article Taxonomies
 categories:

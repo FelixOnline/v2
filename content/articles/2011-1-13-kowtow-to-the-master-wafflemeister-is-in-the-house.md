@@ -13,7 +13,8 @@ aliases:
  - /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
 imported: true
 comments:
- -  Louisa every one of these photos is aznmiag Just lurve lurve every aspect of it  The style the impish funthe dress the cake the flowers the ambience   youre one incredible photographer Thanks for sharingJanuary 15 2013                                                We are all waiting for the next griaeetnon Nikon and Canon professional dSLR cameras  The Nikon D3s knocked the socks off photographers who shoot indoor sports  At ISOs of 128000 the amount of noise in the images is less than most entry level cameras when shot at ISO 400  That is a six stop difference  That means that the photographer can be shooting NBA basket ball with shutter speeds of over 11000th second at f4  That was the last big dealMy guess is that the dSLR that can shoot in video RAW will be the next hot ticket  I am sure that there are a number of camera systems working on that right now
+ - value: >
+     - Louisa, every one of these photos is aznmiag. Just lurve, lurve every aspect of it. The style, the impish fun,the dress, the cake, the flowers, the ambience you're one incredible photographer! Thanks for sharing.,January 15, 2013 We are all waiting for the next<a href="http://zrajnyzj.com"> griaeetnon</a> Nikon and Canon professional dSLR cameras. The Nikon D3s knocked the socks off photographers who shoot indoor sports. At ISO's of 128,000, the amount of noise in the images is less than most entry level cameras when shot at ISO 400. That is a six stop difference. That means that the photographer can be shooting NBA basket ball with shutter speeds of over 1/1000th second at f/4. That was the last big deal.My guess is that the dSLR that can shoot in video RAW, will be the next hot ticket. I am sure that there are a number of camera systems working on that right now.
 
 # Article Taxonomies
 categories:

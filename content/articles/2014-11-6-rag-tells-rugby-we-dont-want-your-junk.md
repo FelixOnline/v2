@@ -13,7 +13,8 @@ aliases:
  - /news/4811/rag-tells-rugby-we-dont-want-your-junk
 imported: true
 comments:
- - cheapest fitflopsfitflops sale online httpaustraliafitflopsiemillernetchristian louboutin onlinechristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomchristian louboutin canada salebuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin womens flats canadachristian louboutin canada outlet httpcanadachristianlouboutinblogspotcom
+ - value: >
+     cheapest fitflops <br>fitflops sale online http://australiafitflops.iemiller.net/,christian louboutin online <br>christian louboutin outlet http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin canada sale <br>buy christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin womens flats canada <br>christian louboutin canada outlet http://canadachristianlouboutin.blogspot.com/
 
 # Article Taxonomies
 categories:

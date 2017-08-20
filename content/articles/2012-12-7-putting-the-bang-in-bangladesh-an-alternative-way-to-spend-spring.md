@@ -13,7 +13,8 @@ aliases:
  - /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
 imported: true
 comments:
- - Good effort Never thought to do anything like this till now Will see you at the bake sale next week Thanks Whats a good life if it isnt a collection of the most eye opening and horizon broadening experiences Well done John
+ - value: >
+     Good effort. Never thought to do anything like this till now. Will see you at the bake sale next week. <br> Thanks, ,What's a good life if it isn't a collection of the most eye opening and horizon broadening experiences? Well done John!
 
 # Article Taxonomies
 categories:

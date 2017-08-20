@@ -13,7 +13,8 @@ aliases:
  - /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
 imported: true
 comments:
- - Wow thanks for your superior knowledge Mr Furse I really feel like I am on the right course now I really dont understand why they dont put you on a tour of UK schools as some sort of wizard career advisor 20120215 0211     Youre so awesome man  I cant bveiele I missed this blog for so long  Its just great stuff all round  Your design man too amazing  I cant wait to read what youve got next  I love everything that youre saying and want more more MORE  Keep this up man  Its just too good
+ - value: >
+     Wow, thanks for your superior knowledge Mr Furse. I really feel like I am on the right course now. I really don't understand why they don't put you on a tour of UK schools as some sort of 'wizard' career advisor.,　( 2012.02.15 02:11 ) : Youre so awesome, man! I cant bveiele I missed this blog for so long. Its just great stuff all round. Your design, man too amazing! I cant wait to read what youve got next. I love everything that youre saying and want more, more, MORE! Keep this up, man! Its just too good.
 
 # Article Taxonomies
 categories:

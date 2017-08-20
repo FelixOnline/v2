@@ -13,7 +13,8 @@ aliases:
  - /comment/1797/flogging-a-dead-god
 imported: true
 comments:
- - Its ok Repent and accept Jesus and all of your sins will be forgiven and you will get to spend eternity in heaven with the likes of William Lane Craig Actually now hell sounds more appealingIt is interesting to note that you arent offering any evidence for Gods nonexistance in which you belive Perhaps if you offered some proof of Gods nonexistance then you would have more to argue with than refutations of evidence for Gods existance Were scientists We do not offer proof for the nonexistence of things which others have failed to prove exists This is akin to offering proof that another universe outside our own doesnt exist on the premise that someone might one day find some proof for one which does Its actually less interesting that Kishan offers no proof for the nonexistence of a god than anyone offering solid proof for the existence of god
+ - value: >
+     It's ok. Repent and accept Jesus and all of your sins will be forgiven and you will get to spend eternity in heaven with the likes of William Lane Craig. <br>Actually, now hell sounds more appealing.,It is interesting to note that you aren't offering any evidence for God's non-existance, in which you belive. Perhaps if you offered some proof of God's non-existance then you would have more to argue with than refutations of evidence for God's existance. ,We're scientists. We do not offer proof for the non-existence of things which others have failed to prove exists. This is akin to offering proof that another universe outside our own doesn't exist on the premise that someone might one day find some proof for one which does. It's actually less interesting that Kishan offers no proof for the non-existence of a god than anyone offering solid proof for the existence of god.
 
 # Article Taxonomies
 categories:

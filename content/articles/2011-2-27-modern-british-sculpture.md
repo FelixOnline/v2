@@ -13,7 +13,8 @@ aliases:
  - /arts/913/modern-british-sculpture
 imported: true
 comments:
- - Reference to Adam Walker seems a bit bizarre and unnecessary
+ - value: >
+     Reference to Adam Walker seems a bit bizarre and unnecessary...
 
 # Article Taxonomies
 categories:

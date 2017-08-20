@@ -13,7 +13,8 @@ aliases:
  - /comment/2549/organ-donation-is-it-selfless-or-selfish
 imported: true
 comments:
- - I think it is sad that people need to think of a selfish reason to donate their organs  even then it is not so useful since after you die you and your family probably would have no way of knowing who has whathttpabcnewsgocomHealthtransplantsurgeonproposesharvestingkidneysdonordeathstoryid16499522T88_hI4o1ORBe careful what you wish for This makes the anesthesia staff the final cause of death If this is to become a trend as of now it is only a proposal it is certainly a slippery slope because as of now roughly 35  of those who are scheduled to donate their organs do not fail the apnea testthat is they do not die on their own within an hour to an hour and onehalf after having life support withdrawnso they are truly not almost dead enough to donate  And yet that had been their prior medical assessment which brought them to be originally scheduled as an organ donor
+ - value: >
+     I think it is sad that people need to think of a selfish reason to donate their organs - even then it is not so useful since after you die, you and your family probably would have no way of knowing who has what?,http://abcnews.go.com/Health/transplant-surgeon-proposes-harvesting-kidneys-donor-death/story?id=16499522#.T88_hI4o1OR <br>Be careful what you wish for. This makes the anesthesia staff the final cause of death. If this is to become a trend, as of now it is only a proposal, it is certainly a slippery slope, because as of now, roughly 35% of those who are scheduled to donate their organs do not fail the apnea test-that is they do not die on their own within an hour to an hour and one-half, after having life support withdrawn-so they are truly not "almost dead enough" to donate. And yet that had been their prior medical assessment, which brought them to be originally scheduled as an organ donor.
 
 # Article Taxonomies
 categories:

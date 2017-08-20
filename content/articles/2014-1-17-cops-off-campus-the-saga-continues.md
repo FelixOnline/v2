@@ -13,7 +13,8 @@ aliases:
  - /news/4225/cops-off-campus--the-saga-continues
 imported: true
 comments:
- - The ULU is an embarrassing joke that merits the shutdown And really holding a rally in support of a drugdealing gunrunner who was shot in the belief that he was carrying firearms which indeed he was shortly before the police opened fire Im glad were not affiliated with this nonsense or the NUS any more Imperial has a calibre of student that can do better than jump onto the nearest farleft bandwagon just to have something to protest out and we know it
+ - value: >
+     The ULU is an embarrassing joke that merits the shutdown. And really, holding a rally in support of a drug-dealing gunrunner who was shot in the belief that he was carrying firearms (which indeed he was shortly before the police opened fire)? I'm glad we're not affiliated with this nonsense or the NUS any more. Imperial has a calibre of student that can do better than jump onto the nearest far-left bandwagon just to have something to protest out, and we know it.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/3535/project-nepal-run-the-london-marathon
 imported: true
 comments:
- - I came across few of such fomurs where people meet with each other to give and get jobs like softwares and webpage design I knew a guy who actually showed me his digits in his paypal account earned from that forum Forgot the name of those I was not into that
+ - value: >
+     I came across few of such fomurs where people meet with each other to give and get jobs like softwares and webpage design I knew a guy who actually showed me his digits in his paypal account earned from that forum. Forgot the name of those, I was not into that.
 
 # Article Taxonomies
 categories:

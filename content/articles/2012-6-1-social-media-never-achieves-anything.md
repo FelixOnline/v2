@@ -13,7 +13,8 @@ aliases:
  - /comment/2514/social-media-never-achieves-anything
 imported: true
 comments:
- - LikeWaitWriting to your MP is even lower impact than social media MPs will only listen to you if they know you have a sizable base of people who agree with youAs much as I hate social media myself you fail to understand its power It played a significant role in mobilising Egypts Revolution recently and this is only one example of many The Arab Spring has a lot to owe to this form of communication I dunno that ICToilets appears to have built up a lot of momentum
+ - value: >
+     +Like. <br> <br>Wait...,Writing to your MP is even lower impact than social media. MPs will only listen to you if they know you have a sizable base of people who agree with you.,As much as I hate social media myself, you fail to understand its power. It played a significant role in mobilising Egypt's Revolution recently, and this is only one example of many. The Arab Spring has a lot to owe to this form of communication. ,I dunno, that @ICToilets appears to have built up a lot of momentum.
 
 # Article Taxonomies
 categories:

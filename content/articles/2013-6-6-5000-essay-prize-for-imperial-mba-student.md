@@ -13,7 +13,8 @@ aliases:
  - /news/3664/5000-essay-prize-for-imperial-mba-student
 imported: true
 comments:
- - congratulations Mike for your efforts Thanks and good luckHolly HI came across your wbisete not knowing if it was really you but I recognized you from the posted picture Anyway I have thought about you many times over the years and was hoping you would come to the 30th class reunion in 2008 but I did not see you I fondly remember walking to Victor school together and coming to pick you up at your house and hearing Led Zeppelin in the back ground My mom still lives in the same house around the corner from your old house I now live in east Tennessee but will be moving to northern Virginia next year I am currently an assistant professor of biology at a local community college here in Knoxville I would love to hear from you and catch up on what youve been doing All the best RoxanaWhoever wrote this you know how to make a good artecli
+ - value: >
+     congratulations Mike for your efforts. Thanks and good luck,Holly H!,I came across your wbisete not knowing if it was really you but I recognized you from the posted picture! Anyway, I have thought about you many times over the years and was hoping you would come to the 30th class reunion in 2008 but I did not see you. I fondly remember walking to Victor school together and coming to pick you up at your house and hearing Led Zeppelin in the back ground. My mom still lives in the same house around the corner from your old house. I now live in east Tennessee but will be moving to northern Virginia next year. I am currently an assistant professor of biology at a local community college here in Knoxville. I would love to hear from you and catch up on what you've been doing .All the best, Roxana,Whoever wrote this, you know how to make a good <a href="http://tuokpp.com">artecli.</a>
 
 # Article Taxonomies
 categories:

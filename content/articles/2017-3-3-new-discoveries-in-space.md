@@ -13,7 +13,8 @@ aliases:
  - /science/6842/new-discoveries-in-space
 imported: true
 comments:
- - Thats a posting full of inghist
+ - value: >
+     That's a posting full of inghist!
 
 # Article Taxonomies
 categories:

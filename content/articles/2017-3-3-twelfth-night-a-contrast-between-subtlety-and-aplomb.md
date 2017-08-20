@@ -13,7 +13,8 @@ aliases:
  - /arts/6845/twelfth-night--a-contrast-between-subtlety-and-aplomb-
 imported: true
 comments:
- - I finally got imagick workingWhat ended up working for me was following Nannotechs post aboveI dl and installed Imgd6Maaick63610Q1ewingowsdllexe and the dynamic Q16 dllIm not sure why the Q8 dll never worked for me but at least I got somethingThanks
+ - value: >
+     I finally got imagick working!What ended up working for me was following Nannotech’s post above.I d/l and installed Imgd6Maaick-6.3.6-10-Q1e-wingows-dll.exe and the dynamic Q16 dll.I’m not sure why the Q8 dll never worked for me, but at least I got something.Thanks.
 
 # Article Taxonomies
 categories:

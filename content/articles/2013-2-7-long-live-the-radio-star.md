@@ -13,7 +13,8 @@ aliases:
  - /music/3245/long-live-the-radio-star
 imported: true
 comments:
- - What about NTS That is one fantastic station Barely a year old community radio straight outta Dalston I havent heard such consistently flabbergasting programming since the Olympics haha I kid Some big names on there too Kutmah Bullion plus shows from Cafe Oto Bleep and Peckhams Rhythm Section Top of the pops my friendczech it out  httpntslivecoukNo doubt about it Theres so much out there and what actually constitutes a radio station these days is pretty loose Perhaps a more regular feature on the joys of radio is in order
+ - value: >
+     What about NTS??? That is one fantastic station. Barely a year old, community radio straight outta Dalston. I haven't heard such consistently flabbergasting programming since the Olympics haha I kid. Some big names on there too: Kutmah, Bullion... plus shows from Cafe Oto, Bleep and Peckham's Rhythm Section. Top of the pops, my friend! <br>czech it out! &gt;&gt; http://ntslive.co.uk/,No doubt about it. There's so much out there and what actually constitutes a 'radio station' these days is pretty loose. Perhaps a more regular feature on the joys of radio is in order.
 
 # Article Taxonomies
 categories:

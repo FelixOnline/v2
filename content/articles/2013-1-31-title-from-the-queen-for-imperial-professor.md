@@ -13,7 +13,8 @@ aliases:
  - /news/3198/title-from-the-queen-for-imperial-professor
 imported: true
 comments:
- - What is this Department of Engineering and why have I never heard of it Well done to Professor ToumazouIf anyone has ever wondered when Our Sovereign Lady last visited the Imperial College of Science Technology and Medicine there is a brief clip on the internet from the day when she Most Graciously granted us a Royal Charterhttpwwwyoutubecomwatchv0MkLcsg8SRAHopefully She will visit again soon
+ - value: >
+     What is this "Department of Engineering" and why have I never heard of it? ;),Well done to Professor Toumazou. <br> <br>If anyone has ever wondered when Our Sovereign Lady last visited the Imperial College of Science, Technology and Medicine, there is a brief clip on the internet from the day when she Most Graciously granted us a Royal Charter. <br> <br>http://www.youtube.com/watch?v=0MkLcsg8SRA <br> <br>Hopefully She will visit again soon.
 
 # Article Taxonomies
 categories:

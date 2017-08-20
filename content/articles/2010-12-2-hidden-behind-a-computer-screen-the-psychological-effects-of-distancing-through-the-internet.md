@@ -13,7 +13,8 @@ aliases:
  - /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
 imported: true
 comments:
- - Stands back from the keaybord in amazement Thanks
+ - value: >
+     Stands back from the keaybord in amazement! Thanks!
 
 # Article Taxonomies
 categories:

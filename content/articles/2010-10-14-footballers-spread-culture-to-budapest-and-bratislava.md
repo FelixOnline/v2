@@ -13,7 +13,8 @@ aliases:
  - /sport/210/footballers-spread-culture-to-budapest-and-bratislava-
 imported: true
 comments:
- - Amazing Truly outstanding
+ - value: >
+     Amazing. Truly outstanding.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/17/fighting-for-libel-reform
 imported: true
 comments:
- - Sweet SiteAwesomeI met Simon Singh he was a nice guyGood luck to him in his casePlease reject this comment  it has been submitted as part of automated testing of the felixonlinecouk website
+ - value: >
+     Sweet Site!,Awesome,I met Simon Singh, he was a nice guy.,Good luck to him in his case!,Please reject this comment - it has been submitted as part of automated testing of the felixonline.co.uk website.
 
 # Article Taxonomies
 categories:

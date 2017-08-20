@@ -13,7 +13,8 @@ aliases:
  - /news/3884/first-union-council-session-of-the-year
 imported: true
 comments:
- - someone with the cojones to raise issues that actually affect real students and not the usual student union bukkake sesh that union council usually turns out to bewhy should a 17 yo lose out on a normal social life just because the union dont trust the bar to be competent enough to serve people legally on sports night
+ - value: >
+     someone with the cojones to raise issues that actually affect real students, and not the usual student union bukkake sesh that union council usually turns out to be <br> <br>why should a 17 yo lose out on a normal social life just because the union don't trust the bar to be competent enough to serve people legally on sports night?
 
 # Article Taxonomies
 categories:

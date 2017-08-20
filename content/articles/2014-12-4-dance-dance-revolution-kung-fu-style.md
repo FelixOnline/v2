@@ -13,7 +13,8 @@ aliases:
  - /games/5000/dance-dance-revolution-kung-fu-style
 imported: true
 comments:
- - You simply purchase points through The amazon websitecom then purchase packs andor players Kansas Citys return to the Northwest conjures notsofond stories Did website visitor stays you can buy coins on eBayfifa 16 hack httpcreditsfutcom
+ - value: >
+     You simply purchase points through The amazon website.com then purchase packs and/or players. Kansas City's return to the Northwest conjures not-so-fond stories. Did website visitor stays you can buy coins on eBay?!? <br>fifa 16 hack http://creditsfut.com/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/2170/netball-3s-prevail-in-icy-conditions
 imported: true
 comments:
- - We waz robbed that goal should not have been allowed it was offside if the referee had not allowed that goal we could have won
+ - value: >
+     We waz robbed, that goal should not have been allowed, it was off-side, if the referee had not allowed that goal, we could have won.
 
 # Article Taxonomies
 categories:

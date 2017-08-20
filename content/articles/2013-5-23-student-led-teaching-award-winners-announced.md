@@ -13,7 +13,8 @@ aliases:
  - /news/3618/student-led-teaching-award-winners-announced
 imported: true
 comments:
- - Classic DougMore info can be found here httpwww3imperialacuknewsandeventspggrpimperialcollegenewssummarynews_235201310349
+ - value: >
+     Classic Doug,More info can be found here: http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_23-5-2013-10-3-49
 
 # Article Taxonomies
 categories:

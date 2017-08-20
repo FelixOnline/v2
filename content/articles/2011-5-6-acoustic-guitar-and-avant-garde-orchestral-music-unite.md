@@ -13,7 +13,8 @@ aliases:
  - /music/1166/acoustic-guitar-and-avant-garde-orchestral-music-unite
 imported: true
 comments:
- - I was also there at that concert and whole heartedly agree with your review  Thank you for bringing the evening back to me
+ - value: >
+     I was also there at that concert and whole heartedly agree with your review. Thank you for bringing the evening back to me.
 
 # Article Taxonomies
 categories:

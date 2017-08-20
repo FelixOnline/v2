@@ -13,7 +13,8 @@ aliases:
  - /comment/4112/since-when-was-wealth-common
 imported: true
 comments:
- - If it wouldnt trouble you too much could you please tell me how my sense of reality is warped This is a genuine request as I felt I knew as much or at least as little about Sri Lanka as the rest of my articles It is likely you will find them warped as well but conversation is always worth a shotA juvenile article based in some alternate warped reality Seriously stick to writing about topics on which you have at least a semblance of knowledge
+ - value: >
+     If it wouldn't trouble you too much, could you please tell me how my sense of reality is warped? This is a genuine request, as I felt I knew as much (or at least as little) about Sri Lanka as the rest of my articles. It is likely you will find them warped as well, but conversation is always worth a shot...,A juvenile article based in some alternate warped reality. Seriously stick to writing about topics on which you have at least a semblance of knowledge.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/2601/a-dishonorable-mention
 imported: true
 comments:
- - Some clever clogs correctly pointed out that Bethesda are the publisher not the developer which is in fact Arkane Studios wwwarkanestudioscom
+ - value: >
+     Some clever clogs correctly pointed out that Bethesda are the publisher, not the developer, which is in fact Arkane Studios (www.arkane-studios.com).
 
 # Article Taxonomies
 categories:

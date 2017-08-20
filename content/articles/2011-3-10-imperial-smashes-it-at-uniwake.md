@@ -13,7 +13,8 @@ aliases:
  - /sport/1083/imperial-smashes-it-at-uniwake
 imported: true
 comments:
- - Thats a cracking picture  looks painful  httpwwwdwwcorguk
+ - value: >
+     That's a cracking picture - looks painful! http://www.dwwc.org.uk/
 
 # Article Taxonomies
 categories:

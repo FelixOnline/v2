@@ -13,7 +13,8 @@ aliases:
  - /news/653/positive-signs-for-graduates-
 imported: true
 comments:
- - Thats 2 clever by half and 2x2 clever 4 me TnhakssPJPnl  tbhcjkccfvlz
+ - value: >
+     That's 2 clever by half and 2x2 clever 4 me. Tnhaks!,sPJPnl <a href="http://tbhcjkccfvlz.com/">tbhcjkccfvlz</a>
 
 # Article Taxonomies
 categories:

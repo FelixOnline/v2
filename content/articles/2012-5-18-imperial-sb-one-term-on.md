@@ -13,7 +13,8 @@ aliases:
  - /sport/2476/imperial-sb-one-term-on
 imported: true
 comments:
- - The caption should actually be Daniel Hyde  Cradle Carve taken by Ed Brial at Victoria Park
+ - value: >
+     The caption should actually be 'Daniel Hyde - Cradle Carve taken by Ed Brial at Victoria Park'.
 
 # Article Taxonomies
 categories:

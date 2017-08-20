@@ -13,7 +13,8 @@ aliases:
  - /news/3645/extra-sabbatical-remits-discussed
 imported: true
 comments:
- - Why not rename DPFS as Deputy President thats Fing Screwed From what Ive seen over the last 6 or 7 years here the DPFS is generally one of the most overworked Sabbs Not only would this increase their workload adding 3 new remits that could arguably be divded between DPE and DPW  which were one Sabb originally and should probably be involved in the development of students and the postgraduate experience generally including the social life it would also effectively give them a demotion in the eyes of potential future employers who would not see Community and Development as being as significant as Finance and Services in many of the roles that FSes often apply for unsurprisingly they often want to work in the financial sector Good idea to review the roles but I suggest reviewing them better
+ - value: >
+     Why not rename DPFS as "Deputy President that's F***ing Screwed"? From what I've seen over the last 6 or 7 years here the DPFS is generally one of the most over-worked Sabbs. Not only would this increase their workload adding 3 new remits (that could arguably be divded between DPE and DPW - which were one Sabb originally and should probably be involved in the development of students and the postgraduate experience generally, including the social life), it would also effectively give them a demotion in the eyes of potential future employers who would not see "Community and Development" as being as significant as "Finance and Services" in many of the roles that F&amp;Ses often apply for (unsurprisingly they often want to work in the financial sector). Good idea to review the roles, but I suggest reviewing them better!
 
 # Article Taxonomies
 categories:

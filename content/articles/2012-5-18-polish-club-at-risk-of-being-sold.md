@@ -13,7 +13,8 @@ aliases:
  - /news/2456/polish-club-at-risk-of-being-sold
 imported: true
 comments:
- - Another opportunity for Imperial Catering to continue their mission for world dominationWhen I came to Prince Eugeniusz Lubomirski  was a Chairman of the Club One could never imagine such  idea of a sale of a home for Polish people then even if they needed Help  and struggled as well These people  fought  for years to keep Polish Heart Club alive and our Chairman  finds it impossible to make this place profitable despite 2 biggest museums within 500 metres and proposes to sell   What a misery
+ - value: >
+     Another opportunity for Imperial Catering to continue their mission for world domination?,When I came to Prince Eugeniusz Lubomirski was a Chairman of the Club. One could never imagine such idea of a sale of a home for Polish people then even if they needed Help and struggled as well. These people fought for years to keep Polish Heart Club alive and our Chairman finds it impossible to make this place profitable despite 2 biggest museums within 500 metres and proposes to sell .!!! What a misery!!
 
 # Article Taxonomies
 categories:

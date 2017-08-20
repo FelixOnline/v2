@@ -13,7 +13,8 @@ aliases:
  - /news/1349/musharraf-cancels-talk
 imported: true
 comments:
- - haha the talk was cancelled also because mushi didnt agree to the hosting societys terms and conditionshe didnt want to be asked any questions about his atrocious crimes and just wanted to make a speech and then walk off
+ - value: >
+     haha the talk was cancelled also because mushi didnt agree to the hosting society's terms and conditions.. <br>he didnt want to be asked any questions about his atrocious crimes and just wanted to make a speech and then walk off!!
 
 # Article Taxonomies
 categories:

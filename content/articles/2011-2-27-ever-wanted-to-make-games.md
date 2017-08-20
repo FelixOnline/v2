@@ -13,7 +13,8 @@ aliases:
  - /games/903/ever-wanted-to-make-games
 imported: true
 comments:
- - I guess that to get the loan from banks you ought to have a firm motivation However once Ive got a credit loan because I wanted to buy a bike
+ - value: >
+     I guess that to get the <a href="http://bestfinance-blog.com">loan</a> from banks you ought to have a firm motivation. However, once I've got a credit loan, because I wanted to buy a bike.
 
 # Article Taxonomies
 categories:

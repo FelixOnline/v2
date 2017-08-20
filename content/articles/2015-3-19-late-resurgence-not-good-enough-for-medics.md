@@ -13,7 +13,8 @@ aliases:
  - /sport/5405/late-resurgence-not-good-enough-for-medics
 imported: true
 comments:
- - cheapest fit flopsfitflop in australia httpaustraliafitflopsblogspotcomlouboutin rolando shoes salediscount christian louboutin httpcanadachristianlouboutinblogspotcomshoes with red bottomscheap christian louboutin httpchristianlouboutincanadaoutletblogspotcomblack christian louboutinchristian louboutin shoes outlet httpcanadachristianlouboutinblogspotcom
+ - value: >
+     cheapest fit flops <br>fitflop in australia http://australiafitflops.blogspot.com/,louboutin rolando shoes sale <br>discount christian louboutin http://canadachristianlouboutin.blogspot.com/,shoes with red bottoms <br>cheap christian louboutin http://christianlouboutincanadaoutlet.blogspot.com/,black christian louboutin <br>christian louboutin shoes outlet http://canadachristianlouboutin.blogspot.com/
 
 # Article Taxonomies
 categories:

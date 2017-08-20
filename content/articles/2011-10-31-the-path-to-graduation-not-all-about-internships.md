@@ -13,7 +13,8 @@ aliases:
  - /comment/1645/the-path-to-graduation-not-all-about-internships
 imported: true
 comments:
- - I think internship are a valuable experience and it is up to you whether you are ripped off I graduated from in 2011 with a first and no clue which career path I wanted to take I have completed three different internship the first in PR then for a VC and the last for social media I was unpaid for all of them but made sure that there were strict terms ie I would only work for free for max of 3 months travel and food had to be covered I learned loads and would not have changed them for anything If only I had done them as part of my degree I could have saved a year of being unpaid Job aggregators like this one httpwwwadzunacoukjobsinternship are excellent for finding internships Highly recommended
+ - value: >
+     I think internship are a valuable experience and it is up to you whether you are ripped off. I graduated from in 2011 with a first and no clue which career path I wanted to take. I have completed three different internship; the first in PR, then for a VC and the last for social media. I was unpaid for all of them but made sure that there were strict terms ie: I would only work for free for max of 3 months, travel and food had to be covered. I learned loads and would not have changed them for anything. If only I had done them as part of my degree I could have saved a year of being unpaid! Job aggregators like this one http://www.adzuna.co.uk/jobs/internship are excellent for finding internships. Highly recommended <br>
 
 # Article Taxonomies
 categories:

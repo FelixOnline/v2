@@ -13,7 +13,8 @@ aliases:
  - /film/3782/57th-bfi-london-film-festival-film-forever
 imported: true
 comments:
- - I have all the Mario Parties except the DS one now when I look back at them Ive rehcaed the opinion that with everyone that comes its worse and worse thats not to say that the first 3 where bad on the contrary if I may rate them from someone who played them and spent a lot of time in them I tried the DS version on an emulator too Id rate them so 1st Mario Party 2nd Mario Party 2 3rd Mario Party 5 4th Mario Party 3 5 MP6 6MP7 7 MP4 8 MP DS 9 MP 8 10 MP Advance i luv da Mario paty series this game looks fun ive only plaeyd Mario party ds but ive seen most of the Mario party game therye mostly all funexcept for 6 7 8 and Mario party ds because the only reason that those versions arent that fun is because you cant be dk
+ - value: >
+     I have all the Mario Parties except the DS one, now when I look back at them I've rehcaed the opinion that with everyone that comes it's worse and worse, that's not to say that the first 3 where bad, on the contrary if I may rate them from someone who played them and spent a lot of time in them (I tried the DS version on an emulator too) I'd rate them? so: 1st: Mario Party; 2nd: Mario Party 2; 3rd: Mario Party 5; 4th: Mario Party 3; 5: MP6; 6:MP7; 7: MP4; 8: MP DS; 9: MP 8; 10: MP Advance ,i luv da Mario paty series, this? game looks fun, i've only <a href="http://zmywblreqk.com">plaeyd</a> Mario party ds, but i've seen most of the Mario party game, ther'ye mostly all fun!!!!except for 6, 7, 8, and Mario party ds, because the only reason that those versions aren't that fun, is because you cant be dk!!!!!!! =(
 
 # Article Taxonomies
 categories:

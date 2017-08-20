@@ -13,7 +13,8 @@ aliases:
  - /comment/1892/the-occupy-protests-are-succeeding-just-look-at-this-paper
 imported: true
 comments:
- - theres no question in my mind the united states has retreated from progressive ideals it is like a child gradually tainted with a hate philosophy we in the us are increasingly tainted by the corporate mentality short term goals over long term thinking money has become our supreme rulerI think the the us military has become a behamoth so many tax dollars go to its maintainance and I fear its tenticles are reaching out to us citizens a violation of what has always been a separation between the military and the civilian population I think the danger of this happening is quite real
+ - value: >
+     there's no question in my mind the united states has retreated from progressive ideals. it is like a child gradually tainted with a hate philosophy. we in the u.s are increasingly tainted by the corporate mentality: short term goals over long term thinking. money has become our supreme ruler. <br> <br>I think the the u.s. military has become a behamoth. so many tax dollars go to its maintainance. and I fear its tenticles are reaching out to u.s. citizens, a violation of what has always been a separation between the military and the civilian population. <br> <br>I think the danger of this happening is quite real. <br>
 
 # Article Taxonomies
 categories:

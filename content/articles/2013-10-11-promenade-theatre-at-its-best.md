@@ -13,7 +13,8 @@ aliases:
  - /arts/3833/promenade-theatre-at-its-best
 imported: true
 comments:
- - A plasginely rational answer Good to hear from you
+ - value: >
+     A plasginely rational answer. Good to hear from you.
 
 # Article Taxonomies
 categories:

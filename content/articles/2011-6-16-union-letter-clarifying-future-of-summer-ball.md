@@ -13,7 +13,8 @@ aliases:
  - /comment/1395/union-letter-clarifying-future-of-summer-ball
 imported: true
 comments:
- - The Ents committees involvement having been brought in after a bulk of the decisions were made seemed more like an afterthought with little weight behind it
+ - value: >
+     The Ents committee's involvement (having been brought in after a bulk of the decisions were made) seemed more like an afterthought with little weight behind it...
 
 # Article Taxonomies
 categories:

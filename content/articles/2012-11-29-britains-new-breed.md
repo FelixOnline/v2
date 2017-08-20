@@ -13,7 +13,8 @@ aliases:
  - /music/2997/britains-new-breed
 imported: true
 comments:
- - I was there such a good gig I really rate Luls but the other supports were a little dreary in my taste
+ - value: >
+     I was there, such a good gig. I really rate Luls but the other supports were a little dreary in my taste
 
 # Article Taxonomies
 categories:

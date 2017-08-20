@@ -13,7 +13,8 @@ aliases:
  - /comment/1898/should-the-greek-economy-be-allowed-to-fail
 imported: true
 comments:
- - Helloooooo Aneebodee homeNopeYall gotta be thare ifn yall is sayin nopeNopeYall aint comin outNopeWahl wassup Gotza bad feilen like thares gonna be a chainreactshun Aint fownd nobodee can say whassupWahl it aint usn folksies We aint homeYall is shittin Yall is home ifn yall is acallin backstomeWe be uhechoLordy Aint so Yall aint sayin waht I do be sayinLordy Aint so Yall aint sayin waht I do be sayinDobejesus I gotta gutfeelin thisn is itDobejesus I gotta gutfeelin thisn is itShut yur pietrapShut yur pietrapDangdabbit I be off to the Otiss Gonna crack uh Bud with my stew
+ - value: >
+     Helloooooo? Aneebodee home?Nope.Y'all gotta be thare if'n y'all is sayin' nope.Nope.Y'all ain't comin' out?Nope.Wahl, wassup? Gotza bad feilen' like thare's gonna be a chain-react-shun. Ain't fownd no-bodee can say whassup.Wahl, it ain't us'n folksies. We ain't home.Y'all is shittin'. Y'all is home if'n y'all is a'callin' backs-to-me.We be uh-echo.Lordy. Ain't so. Y'all ain't sayin' waht I do be sayin'.Lordy Ain't so. Y'all ain't sayin' waht I do be sayin'.Do-be-jesus. I gotta gut-feelin' this'n is it.Do-be-jesus. I gotta gut-feelin' this'n is it.Shut yur pie-trap.Shut yur pie-trap.Dangdabbit. I be off to the Otis's. Gonna crack uh Bud with my stew.
 
 # Article Taxonomies
 categories:

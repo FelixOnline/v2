@@ -13,7 +13,8 @@ aliases:
  - /welfare/5628/when-diversity-becomes-adversity
 imported: true
 comments:
- - I can really relate to the article good read Hey very nice blogcanada goose dame trillium parka rosa sheinside httpwwwmetskinderschoenennlnlcanadagoosedametrilliumparkarosasheinside9680htmlfitflops sandalfitflop online sales httpwwwaustraliafitflopscomfitflops online australiabuy fitflops httpaustraliafitflopsiemillernetbirkenstock australia outletwhere to buy birkenstocks httpbirkenstockaustraliablogspotcompigalle christian louboutinchristian louboutin shoes online httpchristianlouboutincanadaoutletblogspotcomlouboutin pumpschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin red bottomschristian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcom
+ - value: >
+     I can really relate to the article, good read! ,Hey very nice blog! <br>canada goose dame trillium parka rosa sheinside http://www.metskinderschoenen.nl/?nl-canada-goose-dame-trillium-parka-rosa-sheinside-9680.html,fitflops sandal <br>fitflop online sales http://www.australiafitflops.com/,fitflops online australia <br>buy fitflops http://australiafitflops.iemiller.net/,birkenstock australia outlet <br>where to buy birkenstocks http://birkenstockaustralia.blogspot.com/,pigalle christian louboutin <br>christian louboutin shoes online http://christianlouboutincanadaoutlet.blogspot.com/,louboutin pumps <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin red bottoms <br>christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

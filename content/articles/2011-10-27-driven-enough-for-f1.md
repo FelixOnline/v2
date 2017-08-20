@@ -13,7 +13,8 @@ aliases:
  - /news/1622/driven-enough-for-f1
 imported: true
 comments:
- - its Peter BearmanThanks for cogtributinn Its helped me understand the issues
+ - value: >
+     it's Peter Bearman!,Thanks for cogtributinn. It's helped me understand the issues.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/2698/facing-up-to-dementia
 imported: true
 comments:
- - We are ageist We fear our own end of life We fear dementiaSad but true stuff
+ - value: >
+     We are ageist. We fear our own end of life. We fear dementia. <br> <br>Sad but true stuff.
 
 # Article Taxonomies
 categories:

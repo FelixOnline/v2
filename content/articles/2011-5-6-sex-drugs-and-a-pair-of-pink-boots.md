@@ -13,7 +13,8 @@ aliases:
  - /arts/1172/sex-drugs-and-a-pair-of-pink-boots
 imported: true
 comments:
- - May I borrow it from you someday  D
+ - value: >
+     May I borrow it from you someday ? :D
 
 # Article Taxonomies
 categories:

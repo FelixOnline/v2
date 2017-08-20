@@ -13,7 +13,8 @@ aliases:
  - /science/975/science-is-fighting-to-survive-in-washington
 imported: true
 comments:
- - eager to hear more from this author
+ - value: >
+     eager to hear more from this author!
 
 # Article Taxonomies
 categories:

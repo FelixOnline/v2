@@ -13,7 +13,8 @@ aliases:
  - /news/5510/nigel-farage-remains-ukip-leader-after-the-party-rejects-his-resignation
 imported: true
 comments:
- - That saves me Thanks for being so seebisln
+ - value: >
+     That saves me. Thanks for being so seebisln!
 
 # Article Taxonomies
 categories:

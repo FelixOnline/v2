@@ -13,7 +13,8 @@ aliases:
  - /news/1706/finals-reveal-imperial-university-challenge-team
 imported: true
 comments:
- - Just seen IC triumph on University challenge  great But where was Mike the Micrometer
+ - value: >
+     Just seen IC triumph on University challenge - great. But where was Mike the Micrometer ?
 
 # Article Taxonomies
 categories:

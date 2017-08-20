@@ -13,7 +13,8 @@ aliases:
  - /science/2354/last-great-ape-genome-sequenced
 imported: true
 comments:
- - The bonobo genome has not been sequenced  the headline of the original article from the BBC was misleading but in the text it stated bonobos are yet to be sequenced  Gorillas were actually sequenced in 2009 httpwwwbbccouknewsscienceenvironment17239059
+ - value: >
+     The bonobo genome has not been sequenced - the headline of the original article from the BBC was misleading but in the text it stated bonobos are yet to be sequenced. Gorillas were actually sequenced in 2009: http://www.bbc.co.uk/news/science-environment-17239059
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tech/1156/asus-eee-slate
 imported: true
 comments:
- - Didnt know the forum rules alwleod such brilliant postsQZlXEI  uwbrpncrzrbe
+ - value: >
+     Didnt know the forum rules alwleod such brilliant posts.,QZlXEI <a href="http://uwbrpncrzrbe.com/">uwbrpncrzrbe</a>
 
 # Article Taxonomies
 categories:

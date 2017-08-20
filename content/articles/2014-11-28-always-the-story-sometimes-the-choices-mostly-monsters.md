@@ -13,7 +13,8 @@ aliases:
  - /games/4977/always-the-story-sometimes-the-choices-mostly-monsters
 imported: true
 comments:
- - Brazil the king of World Cup will stop in group G with Korea DPR Ivory Coast and Portugal Similarly the answering services company manager cannot spend to much time poring over data of yesteryearsfifa 16 hack httpcreditsfutcomThanks alot  your answer solved all my problems after several days stnuiglgrg
+ - value: >
+     Brazil, 'the king of World Cup' will stop in group G with Korea DPR, Ivory Coast, and Portugal. Similarly, the answering services company manager cannot spend to much time poring over data of yesteryears. <br>fifa 16 hack http://creditsfut.com/,Thanks alot - your answer solved all my problems after several days stnuiglgrg
 
 # Article Taxonomies
 categories:

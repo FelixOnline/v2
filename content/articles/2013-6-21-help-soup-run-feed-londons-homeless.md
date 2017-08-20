@@ -13,7 +13,8 @@ aliases:
  - /news/3738/help-soup-run-feed-londons-homeless
 imported: true
 comments:
- - I have lots of pasta salads etc ready to go to youwhere and how do I take it there cous cous and pasta salads all readythanks07713 627168
+ - value: >
+     I have lots of pasta salads etc ready to go to you <br>where and how do I take it there? cous cous and pasta salads all ready <br>thanks <br>07713 627168
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/3463/halls-woes-continue
 imported: true
 comments:
- - Doing some maths 10m over 30 years with 620 beds thats  540 per person per year That comes to an extra 13 per person per weekIm certain that pretty much everyone would rather pay an extra 13 a week and a lot of rooms will still come under the 150 pw that North Acton will cost and remain in Evelyn Gardens
+ - value: >
+     Doing some maths, £10m over 30 years with 620 beds, that's ~ £540 per person, per year. That comes to an extra £13 per person, per week. <br> <br>I'm certain that pretty much everyone would rather pay an extra £13 a week (and a lot of rooms will still come under the £150 pw that North Acton will cost) and remain in Evelyn Gardens.
 
 # Article Taxonomies
 categories:

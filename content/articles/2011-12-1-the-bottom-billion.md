@@ -13,7 +13,8 @@ aliases:
  - /politics/1858/the-bottom-billion
 imported: true
 comments:
- - My husband and i were quite eeixtcd when Edward could carry out his investigations using the ideas he discovered using your web page It is now and again perplexing to just be freely giving information which often the others could have been making money from And we also already know we have the website owner to thank for that The illustrations you made the easy blog menu the friendships you can help to create   its got many incredible and it is facilitating our son and the family know that this issue is satisfying which is certainly highly essential Many thanks for all the pieces
+ - value: >
+     My husband and i were quite<a href="http://hwzmpsiwosy.com"> eeixtcd</a> when Edward could carry out his investigations using the ideas he discovered using your web page. It is now and again perplexing to just be freely giving information which often the others could have been making money from. And we also already know we have the website owner to thank for that. The illustrations you made, the easy blog menu, the friendships you can help to create it's got many incredible, and it is facilitating our son and the family know that this issue is satisfying, which is certainly highly essential. Many thanks for all the pieces!
 
 # Article Taxonomies
 categories:

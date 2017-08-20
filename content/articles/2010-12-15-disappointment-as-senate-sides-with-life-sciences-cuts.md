@@ -13,7 +13,8 @@ aliases:
  - /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
 imported: true
 comments:
- - Ian Owens  a jokewhats to say this wont happen to every department in imperialpeople arent going to see Imperial as a respectable institution if it is unable to provide adequate teaching staff  when people come to LEARNIts about time Imperial appreciated that it is a UNIVERSITY and not a research institution Staff should be rewarded for being great teachers and not persecuted for focusing on teaching rather than research  It is the students these members are teaching now at the consequence of their jobs who will be the researchers tomorrow
+ - value: >
+     Ian Owens = a joke. <br> <br>what's to say this won't happen to every department in imperial? <br> <br>people aren't going to see Imperial as a respectable institution if it is unable to provide adequate teaching staff - when people come to LEARN. <br> <br>It's about time Imperial appreciated that it is a UNIVERSITY and not a research institution. <br> <br>Staff should be rewarded for being great teachers and not persecuted for focusing on teaching rather than research. It is the students these members are teaching now (at the consequence of their jobs) who will be the researchers tomorrow.
 
 # Article Taxonomies
 categories:

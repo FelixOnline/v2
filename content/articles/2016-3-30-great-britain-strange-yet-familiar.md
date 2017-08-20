@@ -13,7 +13,8 @@ aliases:
  - /arts/6082/great-britain-strange-yet-familiar
 imported: true
 comments:
- - Lg5kad  uvmxejlhjzep urlhttpkdajazazrgyocomkdajazazrgyourl linkhttpvzxqvtxsjetbcomvzxqvtxsjetblink httppdbzcwncidzpcom
+ - value: >
+     Lg5kad uvmxejlhjzep, [url=http://kdajazazrgyo.com/]kdajazazrgyo[/url], [link=http://vzxqvtxsjetb.com/]vzxqvtxsjetb[/link], http://pdbzcwncidzp.com/
 
 # Article Taxonomies
 categories:

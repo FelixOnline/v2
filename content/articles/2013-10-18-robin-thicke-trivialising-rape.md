@@ -13,7 +13,8 @@ aliases:
  - /comment/3895/robin-thicke-trivialising-rape
 imported: true
 comments:
- - https3amazonawscomrapgenius4db77_ORIGlook_at_all_the_fucks_i_givejpgShittiest song ever Pure crapeGood to see the comment moderator is rejecting views on this  I wonder if the friendly neighbourhood misogynis was pro or con If your wondering if Im joking your not my target audience
+ - value: >
+     http://s3.amazonaws.com/rapgenius/4db77_ORIG-look_at_all_the_fucks_i_give.jpg,Shittiest song ever. Pure crape.,Good to see the comment moderator is rejecting views on this - I wonder if the friendly neighbourhood misogynis was pro or con....?! (If your wondering if I'm joking, your not my target audience).
 
 # Article Taxonomies
 categories:

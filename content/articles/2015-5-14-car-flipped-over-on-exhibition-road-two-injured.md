@@ -13,7 +13,8 @@ aliases:
  - /news/5519/car-flipped-over-on-exhibition-road-two-injured
 imported: true
 comments:
- - Not related to this incident but more to the locationHave you  noticed that vehicles going through Exhibition road not only they do not respect the speed limit  supposed to be 20  maybe the signs are too small  but also seem to be totally unaware of the type of road theyre on which I believe was meant to be shared  that is giving pedestrians greater priority To my experience  its very rare to find any motorist slowing or giving way to anyone trying to crossLove the website really user friendly and great deals to seenba 2k16 mt for sale httpwwwnusajayanetitem169Howdy excellent online site youve herenba 2k16 my endorsements httpwwwibase45netblogs26311523studiosuesmakersofnba2k16forusingplayertattoosBGdczh  ehnfncqwbgkp urlhttpimuhmcyocclucomimuhmcyoccluurl linkhttpqogxveabhlkccomqogxveabhlkclink httpnloojeotuaxfcom
+ - value: >
+     Not related to this incident, but more to the location. <br>Have you noticed that vehicles going through Exhibition road, not only they do not respect the speed limit, supposed to be 20 ( maybe the signs are too small!), but also seem to be totally unaware of the type of road they're on which I believe was meant to be shared , that is giving pedestrians greater priority! <br>To my experience, it's very rare to find any motorist slowing, or giving way to anyone trying to cross. <br> <br>,Love the website-- really user friendly and great deals to see!| <br>nba 2k16 mt for sale http://www.nusajaya.net/item/169,Howdy, excellent online site you've here.| <br>nba 2k16 my endorsements http://www.ibase45.net/blogs/263/11523/studio-sues-makers-of-nba-2k16-for-using-player-tattoos,BGdczh ehnfncqwbgkp, [url=http://imuhmcyocclu.com/]imuhmcyocclu[/url], [link=http://qogxveabhlkc.com/]qogxveabhlkc[/link], http://nloojeotuaxf.com/
 
 # Article Taxonomies
 categories:

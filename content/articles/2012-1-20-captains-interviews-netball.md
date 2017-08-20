@@ -13,7 +13,8 @@ aliases:
  - /sport/2043/captains-interviews-netball
 imported: true
 comments:
- - Dear AuthorPersonally I like the outfit more than the game itselfParticularly when worn by the treasurerVery sweet
+ - value: >
+     Dear Author, <br> <br>Personally I like the outfit more than the game itself. <br>Particularly when worn by the treasurer. <br>Very sweet. <br>
 
 # Article Taxonomies
 categories:

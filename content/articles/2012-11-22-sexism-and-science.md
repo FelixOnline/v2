@@ -13,7 +13,8 @@ aliases:
  - /comment/2952/sexism-and-science
 imported: true
 comments:
- - Warning word sexism detected Brace for impact of 9000megaton rage bomb
+ - value: >
+     Warning: word "sexism" detected! Brace for impact of 9000-megaton rage bomb
 
 # Article Taxonomies
 categories:

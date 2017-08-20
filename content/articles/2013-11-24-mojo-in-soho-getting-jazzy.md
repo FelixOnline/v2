@@ -13,7 +13,8 @@ aliases:
  - /arts/4114/mojo-in-soho-getting-jazzy
 imported: true
 comments:
- - The Second Act is certainly more powerful than the first containing a death scene more realistic than any I have ever witnessed movie or otherwise You forgot to say that this is played by the amazing Colin Morgan who is so outstanding in this play tooCompletely agree  but didnt want to create a spoilerProbably because he didnt want to say who dies
+ - value: >
+     "The Second Act is certainly more powerful than the first; containing a death scene more realistic than any I have ever witnessed, movie or otherwise." You forgot to say that this is played by the amazing Colin Morgan who is so outstanding in this play too!,Completely agree but didn't want to create a spoiler!,Probably because he didn't want to say who dies!
 
 # Article Taxonomies
 categories:

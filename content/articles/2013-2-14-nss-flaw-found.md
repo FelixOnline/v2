@@ -13,7 +13,8 @@ aliases:
  - /news/3335/nss-flaw-found
 imported: true
 comments:
- - Why do they not send an invitation link with a unique code to each student by email That would make it easier for students to complete no filling in the CID DOB etc AND far more secureIts terrible that Imperial decided to play Guardian ranking game and care about bullshit like NSS I find it sad that emails like these If everyone was fully satisfied with their degree we would be ranked above Oxford and CambridgeThe league table rankings affect how your degree is seen by employersClarification I am definitely not suggesting that you should blindly select very satisfied for everything It would be very wrong of me to suggest that you do such a thingDepartment of Computingare being sent out to students
+ - value: >
+     Why do they not send an invitation link (with a unique code) to each student by email? That would make it easier for students to complete (no filling in the CID, DOB, etc.) AND far more secure.,It's terrible that Imperial decided to play Guardian ranking game and care about bullshit like NSS. <br> <br>I find it sad that emails like these: <br>"If everyone was fully satisfied with their degree, we would be ranked above Oxford and Cambridge <br>The league table rankings affect how your degree is seen by employers <br>Clarification: I am definitely not suggesting that you should blindly select "very satisfied" for everything. It would be very wrong of me to suggest that you do such a thing." <br> <br>(Department of Computing) <br> <br>are being sent out to students.
 
 # Article Taxonomies
 categories:

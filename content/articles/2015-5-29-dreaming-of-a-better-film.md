@@ -13,7 +13,8 @@ aliases:
  - /film/5583/dreaming-of-a-better-film
 imported: true
 comments:
- - You make thigns so clear Thanks for taking the time
+ - value: >
+     You make thigns so clear. Thanks for taking the time!
 
 # Article Taxonomies
 categories:

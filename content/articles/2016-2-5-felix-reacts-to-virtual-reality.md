@@ -13,7 +13,8 @@ aliases:
  - /games/5881/felix-reacts-to-virtual-reality
 imported: true
 comments:
- - Kick the tires and light the fires problem ofiflialcy solved
+ - value: >
+     Kick the tires and light the fires, problem ofiflialcy solved!
 
 # Article Taxonomies
 categories:

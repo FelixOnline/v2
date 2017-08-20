@@ -13,7 +13,8 @@ aliases:
  - /comment/445/the-f-word-not-that-one
 imported: true
 comments:
- - Walking in the preensce of giants here Cool thinking all around
+ - value: >
+     Walking in the preensce of giants here. Cool thinking all around!
 
 # Article Taxonomies
 categories:

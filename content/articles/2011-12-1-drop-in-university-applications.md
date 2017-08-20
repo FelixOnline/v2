@@ -13,7 +13,8 @@ aliases:
  - /news/1885/drop-in-university-applications
 imported: true
 comments:
- - The actual figures are not too worrying we are up on Oversea students and EU applications seem fairly steady although slightly downAlthough home student applications are down Imperial is doing well compared to the sector averageI also suspect that more applicants this year will take gap years compared to last year  because of the fee changeInterestingly on Admissions people might want to read Scotts blog on postqualification admissions massive plug httpswwwunionicacukblogs20111114postqualificationadmissionspqas
+ - value: >
+     The actual figures are not too worrying, we are up on Oversea students, and EU applications seem fairly steady, although slightly down. <br>Although home student applications are down, Imperial is doing well compared to the sector average. <br>I also suspect that more applicants this year will take gap years compared to last year because of the fee change. <br>Interestingly, on Admissions, people might want to read Scotts blog on post-qualification admissions (massive plug): https://www.union.ic.ac.uk/blogs/2011/11/14/post-qualification-admissions-pqas/
 
 # Article Taxonomies
 categories:

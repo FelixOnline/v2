@@ -13,7 +13,8 @@ aliases:
  - /film/6722/ghost-in-the-shell
 imported: true
 comments:
- - Hey thats a clever way of thnkinig about it
+ - value: >
+     Hey, that's a clever way of thnkinig about it.
 
 # Article Taxonomies
 categories:

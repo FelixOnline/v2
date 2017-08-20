@@ -13,7 +13,8 @@ aliases:
  - /comment/3411/losing-my-religion
 imported: true
 comments:
- - Thanks Veronique I cant really imagine what it must be like to be brought up feeling that your identity is Catholic or Muslim or Baptist etc This is why Dawkins is so adamant that children should not be labelled into their parents beliefI think there are probably more young adults leaving God in its more stringent form like Catholicism Islam and the evangelical sectscults It is heartening for those of us who have hope that the human race may survive to manage this planet well and on their own recognisance to read articles like this and understand that people can walk away from the religions of their fathersWell done and sincere congratulations for this article
+ - value: >
+     Thanks Veronique :),I can't really imagine what it must be like to be brought up feeling that your identity is Catholic or Muslim or Baptist etc. This is why Dawkins is so adamant that children should not be labelled into their parents' belief. <br> <br>I think there are probably more young adults leaving God in its more stringent form; like Catholicism, Islam and the evangelical sects/cults. It is heartening, for those of us who have hope that the human race may survive to manage this planet well and on their own recognisance, to read articles like this and understand that people can walk away from the religions of their fathers'. <br> <br>Well done and sincere congratulations for this article.
 
 # Article Taxonomies
 categories:

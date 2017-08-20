@@ -13,7 +13,8 @@ aliases:
  - /comment/1231/education-not-a-luxury-item
 imported: true
 comments:
- - Hey youre the goto expert Tahkns for hanging out hereYrF7Ot  hhksztlkvjwv
+ - value: >
+     Hey, youre the goto expert. Tahkns for hanging out here.,YrF7Ot <a href="http://hhksztlkvjwv.com/">hhksztlkvjwv</a>
 
 # Article Taxonomies
 categories:

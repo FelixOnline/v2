@@ -13,7 +13,8 @@ aliases:
  - /film/2976/twilight-sucksand-not-in-the-good-way
 imported: true
 comments:
- - Quite true Your words of pure truth transformed me from a Twitard to a Potterhead Thank you for rescuing me helpful person I am in your debtThank you thank you I was a former Twitard yet you rescued me out of it However may I repay you I am in forever debt to you kind person
+ - value: >
+     Quite true! Your words of pure truth transformed me from a Twi-tard to a Potterhead. Thank you for rescuing me, helpful person. I am in your debt.,Thank you, thank you. I was a former Twi-tard, yet you rescued me out of it. However may I repay you? I am in forever debt to you, kind person.
 
 # Article Taxonomies
 categories:

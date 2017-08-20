@@ -13,7 +13,8 @@ aliases:
  - /arts/1431/psycho-alice-in-post-exam-wonderland
 imported: true
 comments:
- - Come and see Alice tonight  last chance 630pm on the lawn unless it rains in which case well move to the union Then join us for drinks afterwardsMore info here httpwwwfacebookcomeventphpeid135225219887091
+ - value: >
+     Come and see Alice tonight - last chance! 6.30pm on the lawn, unless it rains in which case we'll move to the union. Then join us for drinks afterwards! <br> <br>More info here: http://www.facebook.com/event.php?eid=135225219887091 <br> <br>
 
 # Article Taxonomies
 categories:

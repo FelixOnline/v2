@@ -13,7 +13,8 @@ aliases:
  - /music/2864/london-jazz-festival-2012-preview
 imported: true
 comments:
- - That is wonderful news Having your fialmy around will not only help you with the things you cant do on your own but renew your emotional endurance to beat tb and be with them in health I wish you the best of luck you are in our thoughts Thank you for sharing your storyI told my gratdmonher how you helped She said bake them a cake
+ - value: >
+     That is wonderful news. Having your fialmy around will not only help you with the things you can't do on your own but renew your emotional endurance to beat tb and be with them in health. I wish you the best of luck, you are in our thoughts. Thank you for sharing your story.,I told my <a href="http://wtohtqtvtx.com">gratdmonher</a> how you helped. She said, "bake them a cake!"
 
 # Article Taxonomies
 categories:

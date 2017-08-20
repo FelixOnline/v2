@@ -13,7 +13,8 @@ aliases:
  - /film/344/casting-a-new-light-on-the-western-diet
 imported: true
 comments:
- - bcd914lmn700vwx862mno107
+ - value: >
+     bcd914,lmn700,vwx862,mno107
 
 # Article Taxonomies
 categories:

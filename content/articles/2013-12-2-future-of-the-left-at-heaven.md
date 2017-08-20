@@ -13,7 +13,8 @@ aliases:
  - /music/4167/future-of-the-left-at-heaven
 imported: true
 comments:
- - It was a gig no one really waetnd to end even also exMclusky Jack Egglestone on drums didnt want it to stop requiring the bassist to dismantle his kit while he was still playing the end of adeadenemyalwayssmellsgood long after the guitarists had left the stage This is actually a Shellac gimmick one that Mclusky used to do as well   I think its some sort of homage
+ - value: >
+      It was a gig no one really waetnd to end, even (also ex-Mclusky) Jack Egglestone on drums didn’t want it to stop, requiring the bassist to dismantle his kit while he was still playing the end of adeadenemyalwayssmellsgood long after the guitarists had left the stage! This is actually a Shellac gimmick, one that Mclusky used to do as well I think it's some sort of homage!
 
 # Article Taxonomies
 categories:

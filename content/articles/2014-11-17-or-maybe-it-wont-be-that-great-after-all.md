@@ -13,7 +13,8 @@ aliases:
  - /film/4901/or-maybe-it-wont-be-that-great-after-all
 imported: true
 comments:
- - Greetings This is my first visit to your blog We are a collection of volunteers and starting a new initiative in a community in the same niche Your blog provided us useful infmaortion to work on You have done a marvellous job
+ - value: >
+     Greetings! This is my first visit to your blog! We are a collection of volunteers and starting a new initiative in a community in the same niche. Your blog provided us useful infmaortion to work on. You have done a marvellous job!
 
 # Article Taxonomies
 categories:

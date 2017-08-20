@@ -13,7 +13,8 @@ aliases:
  - /music/1876/origin-of-symmetry
 imported: true
 comments:
- - FINALLY Felix Music reviews something Ive actually bloody heard ofAnd I agree  this album and Muse are absolutely brilliantNo pretentious sillyhatwearing monotonous splurge that someone has conjured up by twisting several dials on a mixer they bought on ebay whilst simultaneously swaying from side to side and moving their arms around like an octopus on LSD Just a great band that a lot of people likeGreat article Thank youIm SO confused Finally Felix Music reviews something Ive actually bloody heard of Im a big Muse fan but I WANT to be told about music I havent heard of
+ - value: >
+     FINALLY Felix Music reviews something I've actually bloody heard of! <br> <br>And I agree - this album, and Muse, are absolutely brilliant. <br> <br>No pretentious silly-hat-wearing monotonous splurge that someone has conjured up by twisting several dials on a mixer they bought on ebay whilst simultaneously swaying from side to side and moving their arms around like an octopus on LSD. Just a great band that a lot of people like. <br> <br>Great article. Thank you.,I'm SO confused. "Finally Felix Music reviews something I've actually bloody heard of!" I'm a big Muse fan, but I WANT to be told about music I haven't heard of.
 
 # Article Taxonomies
 categories:

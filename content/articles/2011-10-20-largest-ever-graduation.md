@@ -13,7 +13,8 @@ aliases:
  - /news/1554/largest-ever-graduation
 imported: true
 comments:
- - Sad to hear Jane Saffell was made redundant from Life Sciences despite winning a Rectors medal  A sad loss to the Department
+ - value: >
+     Sad to hear Jane Saffell was made redundant from Life Sciences despite winning a Rector's medal. A sad loss to the Department.
 
 # Article Taxonomies
 categories:

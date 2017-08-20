@@ -13,7 +13,8 @@ aliases:
  - /tech/1255/one-stop-shop-for-help-with-your-laptop
 imported: true
 comments:
- - Fell out of bed feeling down This has brihegtend my day
+ - value: >
+     Fell out of bed feeling down. This has brihegtend my day!
 
 # Article Taxonomies
 categories:

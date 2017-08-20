@@ -13,7 +13,8 @@ aliases:
  - /comment/4967/bt-is-moving-back-into-mobile-panic-stations
 imported: true
 comments:
- - christian loubitinchristian louboutin outlet httpchristianlouboutincanadaoutletblogspotcomthat first he would bring us down to nothing before he saved us Deuteronomy 3236 For the LORD shall judge his people and repent himself for his servants when he seeth that their power is gone and there is none shut up or left At one time during the Middle Ages the caucasian was in a lower estate than weve ever been He was known as a slav which is where we get both the word slavic and SLAVE from and a serf The lowest class of serf was known as a Ql0vil2ein which is where you get the word villain from
+ - value: >
+     christian loubitin <br>christian louboutin outlet http://christianlouboutincanadaoutlet.blogspot.com/,that first he would bring us down to nothing before he saved us (Deuteronomy 32:36 “For the LORD shall judge his people, and repent himself for his servants, when he seeth that their power is gone, and there is none shut up, or left.”). At one time during the Middle Ages, the caucasian was in a lower estate than we’ve ever been. He was known as a “slav” (which is where we get both the word “slavic” and “SLAVE” from) and a “serf”. The lowest class of serf was known as a Ql0;vil2ein„, which is where you get the word “villain” from.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /fashion/339/fashions-final-frontier-techno-couture
 imported: true
 comments:
- - Wow your post makes mine look felebe More power to yougu5nyW  hvrjnatmdabm
+ - value: >
+     Wow, your post makes mine look felebe. More power to you!,gu5nyW <a href="http://hvrjnatmdabm.com/">hvrjnatmdabm</a>
 
 # Article Taxonomies
 categories:

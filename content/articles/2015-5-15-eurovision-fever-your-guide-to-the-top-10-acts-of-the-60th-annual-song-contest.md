@@ -13,7 +13,8 @@ aliases:
  - /music/5530/eurovision-fever-your-guide-to-the-top-10-acts-of-the-60th-annual-song-contest
 imported: true
 comments:
- - xXH08j httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     xXH08j http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

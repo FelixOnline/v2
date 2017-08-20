@@ -13,7 +13,8 @@ aliases:
  - /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
 imported: true
 comments:
- - there were never going to be any 8am starts
+ - value: >
+     there were never going to be any 8am starts
 
 # Article Taxonomies
 categories:

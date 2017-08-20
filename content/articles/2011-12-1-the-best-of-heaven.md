@@ -13,7 +13,8 @@ aliases:
  - /music/1878/the-best-of-heaven
 imported: true
 comments:
- - chantelle  I love these photos the way they are alayws smiling the green and purple colors the tone on tone harlequin print that chaise and of course the way you turn everything into a magical moment and the way he looks at her Great job Lisa they are gorgeous to look atThat addserses several of my concerns actually  more common   auto insurance quotes   online pharmacy accutane   Tadalafil   etc therefore   other miscellaneous   discovered about   intercargo insurance company
+ - value: >
+     chantelle - I love these photos! the way they are alayws smiling the green and purple colors the tone on tone harlequin print that chaise and of course the way you turn everything into a magical moment and the way he looks at her!!! Great job Lisa they are gorgeous to look at,That <a href="http://kocfyarizq.com">addserses</a> several of my concerns actually., more common auto insurance quotes online pharmacy accutane Tadalafil , etc therefore other miscellaneous discovered about intercargo insurance company
 
 # Article Taxonomies
 categories:

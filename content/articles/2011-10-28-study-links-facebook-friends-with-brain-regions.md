@@ -13,7 +13,8 @@ aliases:
  - /science/1628/study-links-facebook-friends-with-brain-regions
 imported: true
 comments:
- - I have a few questions and to anoyne who answers thanks i really apreciate it cause i really need to know  1 Can you go to an online college with a ged2 What are some good online colleges that dont scam you3 How much does it cost4 At what age can you start online college Can you start before the age of 18 as long as your still paying
+ - value: >
+     I have a few questions and to<a href="http://hbptbzxffo.com"> anoyne</a> who answers thanks i really apreciate it cause i really need to know .1) Can you go to an online college with a ged?2) What are some good online colleges that don't scam you?3) How much does it cost?4) At what age can you start online college? Can you start before the age of 18 as long as your still paying?
 
 # Article Taxonomies
 categories:

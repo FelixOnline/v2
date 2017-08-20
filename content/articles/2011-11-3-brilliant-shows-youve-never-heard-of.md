@@ -13,7 +13,8 @@ aliases:
  - /tv/1666/brilliant-shows-youve-never-heard-of
 imported: true
 comments:
- - I cant tell if this is a joke Who the fuck hasnt heard of curb your enthusiasm or archer Try watching freaks and geeks or undeclared or something Who hasnt heard of Curb Your Enthusiasm Pretty much everyone I know Sucks to be them sure but geez the article even points out that its not particularly obscureAnd I sure as heck hadnt heard of Archer so personally Im glad I read this BAM
+ - value: >
+      I can't tell if this is a joke. Who the fuck hasn't heard of curb your enthusiasm or archer. Try watching freaks and geeks or undeclared or something. ,Who hasn't heard of Curb Your Enthusiasm? <br>Pretty much everyone I know. Sucks to be them, sure, but geez, the article even points out that it's not particularly obscure. <br>And I sure as heck hadn't heard of Archer, so personally, I'm glad I read this. BAM <br>
 
 # Article Taxonomies
 categories:

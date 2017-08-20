@@ -13,7 +13,8 @@ aliases:
  - /sport/878/boat-club-bring-in-111-bucs-points
 imported: true
 comments:
- - bare rinsing yeeeeeeeeeee gully ting doe successful day is successful bad hangover is bad arrarrr dont need it do mind it
+ - value: >
+     bare rinsing yeeeeeeeeeee gully ting doe successful day is successful bad hangover is bad arrarrr dont need it do mind it
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/367/how-the-geek-stole-christmas
 imported: true
 comments:
- - I forgot to mention at the time butHave you been good little boys and girls this year Of course you havent But if you think I give a toss you can send your gift wishlists to anangrygeekgmailcom anyway Cheers
+ - value: >
+     I forgot to mention at the time, but: <br> <br>Have you been good little boys and girls this year? Of course you haven't. But if you think I give a toss, you can send your gift wishlists to anangrygeek@gmail.com anyway. <br> <br>Cheers.
 
 # Article Taxonomies
 categories:

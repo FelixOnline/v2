@@ -13,7 +13,8 @@ aliases:
  - /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
 imported: true
 comments:
- - They was happy to take us What is this Lee Nelsons Well Good Show
+ - value: >
+     "They was happy to take us"? What is this? Lee Nelson's Well Good Show?
 
 # Article Taxonomies
 categories:

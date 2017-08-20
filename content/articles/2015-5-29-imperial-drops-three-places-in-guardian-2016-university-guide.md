@@ -13,7 +13,8 @@ aliases:
  - /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
 imported: true
 comments:
- - 81812vlad spune  mie imi scrie acolo asanamestandard VGA graphics adapter  si la mafracturernstandaud display types  45Va ajutat acest raspuns
+ - value: >
+     8-18-12vlad spune: mie imi scrie acolo asa:name-standard VGA graphics adapter si la mafr(acturer:nstandaud display types) +45V-a ajutat acest raspuns?
 
 # Article Taxonomies
 categories:

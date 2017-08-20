@@ -13,7 +13,8 @@ aliases:
  - /news/3641/summer-elections-underway
 imported: true
 comments:
- - Callum Kirk was RAG TreasurerFelix is such a waste of moneyWhats the problem Maybe youre so full of angst because you dont know who you are
+ - value: >
+     Callum Kirk was RAG Treasurer. <br> <br>Felix is such a waste of money.,What's the problem? Maybe you're so full of angst because you don't know who you are!
 
 # Article Taxonomies
 categories:

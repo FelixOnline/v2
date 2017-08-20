@@ -13,7 +13,8 @@ aliases:
  - /news/2604/time-to-rest-my-bones
 imported: true
 comments:
- - A phenomenal achievement for a great cause Well done
+ - value: >
+     A phenomenal achievement for a great cause. Well done.
 
 # Article Taxonomies
 categories:

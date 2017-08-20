@@ -13,7 +13,8 @@ aliases:
  - /cands/5917/london-students-neuroscience-network-
 imported: true
 comments:
- - pFITMl  cqrywgmggeol urlhttpyrdzihmedcticomyrdzihmedctiurl linkhttpdsvtiyybcvjpcomdsvtiyybcvjplink httpkpkjefrznflvcom
+ - value: >
+     pFITMl cqrywgmggeol, [url=http://yrdzihmedcti.com/]yrdzihmedcti[/url], [link=http://dsvtiyybcvjp.com/]dsvtiyybcvjp[/link], http://kpkjefrznflv.com/
 
 # Article Taxonomies
 categories:

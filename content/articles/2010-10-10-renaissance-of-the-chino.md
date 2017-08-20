@@ -13,7 +13,8 @@ aliases:
  - /fashion/193/renaissance-of-the-chino
 imported: true
 comments:
- - Chino is the male equivalent of the trusty black pencil skirt smart easy to wear and to coordinate Well said Were a group of volunteers and stiartng a new scheme in our community Your web site offered us with valuable information to work on Youve performed a formidable task and our whole neighborhood will be thankful to you
+ - value: >
+     "Chino is the male equivalent of the trusty black pencil skirt: smart, easy to wear and to co-ordinate." Well said. ,We're a group of volunteers and stiartng a new scheme in our community. Your web site offered us with valuable information to work on. You've performed a formidable task and our whole neighborhood will be thankful to you.
 
 # Article Taxonomies
 categories:

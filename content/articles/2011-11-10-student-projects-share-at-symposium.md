@@ -13,7 +13,8 @@ aliases:
  - /news/1741/student-projects-share-at-symposium
 imported: true
 comments:
- - student led  unprofessional
+ - value: >
+     student led = unprofessional
 
 # Article Taxonomies
 categories:

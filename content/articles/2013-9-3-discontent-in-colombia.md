@@ -13,7 +13,8 @@ aliases:
  - /politics/3755/discontent-in-colombia
 imported: true
 comments:
- - Hi Hanna yesterday I saw  your  preotst on German TV 8 pm news on ARDThey said a couple of thousand people preotsted   and it was a first preotstever They showed a short interview with a young woman who said she wantsto make her point in showing up there against Tepco and how they handledthe nuclear crisisI think I even spotted  your  banner for  a split of a secondI hope you are wellchristiane
+ - value: >
+     Hi Hanna, yesterday I saw your preotst on German TV (8 pm news on ARD)They said, a couple of thousand people preotsted and it was a first preotstever! They showed a short interview with a young woman, who said, she wantsto make her point in showing up there against Tepco and how they handledthe nuclear crisis.I think, I even spotted your banner for a split of a second!I hope you are well.christiane
 
 # Article Taxonomies
 categories:

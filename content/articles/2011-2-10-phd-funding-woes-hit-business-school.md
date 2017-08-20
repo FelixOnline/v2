@@ -13,7 +13,8 @@ aliases:
  - /news/758/phd-funding-woes-hit-business-school-
 imported: true
 comments:
- - Hola  Hay un sitio al tema que le interesa  httpwwwelcorucom Ivan
+ - value: >
+     Hola <br>Hay un sitio al tema, que le interesa. <br>http://www.elcoru.com/ <br>Ivan
 
 # Article Taxonomies
 categories:

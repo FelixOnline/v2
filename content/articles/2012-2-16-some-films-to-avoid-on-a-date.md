@@ -13,7 +13,8 @@ aliases:
  - /film/2185/some-films-to-avoid-on-a-date
 imported: true
 comments:
- - Irreversible still a better love story than Twilightyeah the human centipede 2 was one fucked up film can think of a few others to avoid on dates the devils rejects funny games the strangers ichi the killer teeth caligulaboys dont cryhostelsawcrashnatural born killersromper stomperI saw the 1st human centipede and that was pretty rough  Not looking forward to seeing the 2nd one but itll probably happen when Im hungover from a party the night before and Im on the couch with my roommate and nothing on TV P    I dont really agree with your honorable mentions Fatal Attraction Titanic Last House on the Left Misery Requiem for a Dream American Psycho  The other ones you listed I dont find terrible just not great  And yes the Fast and Furious is as boring as watching NASCARS make 500 continuous left turns for 3 hours
+ - value: >
+     Irreversible: still a better love story than Twilight.,yeah the human centipede 2 was one fucked up film! can think of a few others to avoid on dates, the devils rejects, funny games, the strangers, ichi the killer, teeth, caligula,boys dont cry,hostel,saw,crash,natural born killers,romper stomper,I saw the 1st human centipede and that was pretty rough. Not looking forward to seeing the 2nd one but it'll probably happen when I'm hungover from a party the night before and I'm on the couch with my roommate and nothing on TV :P. I don't really agree with your honorable mentions, (Fatal Attraction, Titanic, Last House on the Left, Misery, Requiem for a Dream, American Psycho.) The other ones you listed I don't find terrible, just not great. And yes the Fast and Furious is as boring as watching NASCARS make 500 continuous left turns for 3 hours :)
 
 # Article Taxonomies
 categories:

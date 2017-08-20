@@ -13,7 +13,8 @@ aliases:
  - /music/1245/london-student-vs-felix-day-six--a-song-that-reminds-you-of-somewhere
 imported: true
 comments:
- - Day 9 A song that you can dance to  Singin in the Rain  Mint Royale httpwwwyoutubecomwatchvgs_T_cEoX6Ifeaturerelated1985  Bowling for Soup Can you call headbanging dancingI love this Reminds me of the Felix office as well yay was hoping youd put this in at some pointShould make a spotifyyoutube playlist of all the songs
+ - value: >
+     Day 9: A song that you can dance to - <br>Singin' in the Rain - Mint Royale (http://www.youtube.com/watch?v=gs_T_cEoX6I&amp;feature=related) <br>1985 - Bowling for Soup (Can you call headbanging dancing?),I love this. Reminds me of the Felix office as well :),yay! was hoping you'd put this in at some point!,Should make a spotify/youtube playlist of all the songs: )
 
 # Article Taxonomies
 categories:

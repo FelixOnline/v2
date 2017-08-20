@@ -13,7 +13,8 @@ aliases:
  - /film/5707/the-top-three-animated-films-that-arent-made-by-pixar
 imported: true
 comments:
- - These are very cool I usually have a sense that Star Wars mbieraomlia is a bit  done The same evocation as 40yearolds wearing skater jeans or businessmen riding micro scooters but this is something different I think its fitting with the sarcastic nature of modern pop culture I can see this sitting more appropriately above a fireplace among tankards and rifles than in amongst action figures and DVDsThumbs up
+ - value: >
+     These are very cool. I usually have a sense that Star Wars mbieraomlia is a bit done'. The same evocation as 40-year-olds wearing skater jeans or business-men riding micro scooters, but this is something different. I think it's fitting with the sarcastic nature of modern pop culture. I can see this sitting more appropriately above a fireplace among tankards and rifles than in amongst action figures and DVDs.Thumbs up.
 
 # Article Taxonomies
 categories:

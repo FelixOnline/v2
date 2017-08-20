@@ -13,7 +13,8 @@ aliases:
  - /film/41/nine-review
 imported: true
 comments:
- - I was dragged along to this almost literally dragged but actually really enjoyed itquotCruz is overflowing with sex appeal more so when shes twisting and wrapping her body around ropes and curtainsquot1000 she is ridiculously hot
+ - value: >
+     I was dragged along to this (almost literally dragged...) but actually really enjoyed it. <br> <br>&amp;quot;Cruz is overflowing with sex appeal, more so when she's twisting and wrapping her body around ropes and curtains&amp;quot; <br> <br>+1000, she is ridiculously hot! <br>
 
 # Article Taxonomies
 categories:

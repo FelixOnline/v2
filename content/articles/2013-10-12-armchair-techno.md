@@ -13,7 +13,8 @@ aliases:
  - /music/3838/armchair-techno
 imported: true
 comments:
- - Hello I just realise that I found pcferet images for my dissertation Would you mind if I use this images for my Phd dissertation I will mentioned on the dissertation who took this images Also the date on the images 04102010 is that Rons writing or yours If you could help me on this it will be great Thank you very muchSuaHello I just realise that I found pecefrt images for my dissertation Would you mind if I use this images for my Phd dissertation I will mentioned on the dissertation who took this images Also the date on the images 04102010 is that Rons writing or yours If you could help me on this it will be great Thank you very muchSua
+ - value: >
+     Hello. I just realise that I found pcferet images for my dissertation. Would you mind if I use this images for my Phd dissertation? I will mentioned on the dissertation who took this images. Also, the date on the images 04/10/2010, is that Ron's writing or yours? If you could help me on this, it will be great! Thank you very much,Sua,Hello. I just realise that I found <a href="http://gdxneo.com">pecefrt</a> images for my dissertation. Would you mind if I use this images for my Phd dissertation? I will mentioned on the dissertation who took this images. Also, the date on the images 04/10/2010, is that Ron's writing or yours? If you could help me on this, it will be great! Thank you very much,Sua
 
 # Article Taxonomies
 categories:

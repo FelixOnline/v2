@@ -13,7 +13,8 @@ aliases:
  - /comment/2237/a-french-love-affair
 imported: true
 comments:
- - Loved this
+ - value: >
+     Loved this
 
 # Article Taxonomies
 categories:

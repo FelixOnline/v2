@@ -13,7 +13,8 @@ aliases:
  - /science/4028/diagnosing-downs-syndrome
 imported: true
 comments:
- - hello  I have a daughter with ds  she is 11 years oldI and my husband are master in architecture and geologywe like immigration to uk with student visa for my childplease help me  what I do
+ - value: >
+     hello . I have a daughter with d.s . she is 11 years old <br>I and my husband are master in architecture and geology <br>we like immigration to uk with student visa for my child <br>please help me . what I do?
 
 # Article Taxonomies
 categories:

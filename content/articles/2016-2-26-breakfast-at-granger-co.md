@@ -13,7 +13,8 @@ aliases:
  - /food/5983/breakfast-at-granger--co
 imported: true
 comments:
- - Cain has no one to blame but his fellow Republicans for the drip drip drip sexual allegations against himPlease provide links that show these  drrtodripdiipqup are coming from Republicans
+ - value: >
+     ...Cain has no one to blame but his fellow Republicans for the "drip, drip, drip" sexual allegations against him.Please provide links that show these " drrtodrip,diip&amp;qu,p; are coming from Republicans.
 
 # Article Taxonomies
 categories:

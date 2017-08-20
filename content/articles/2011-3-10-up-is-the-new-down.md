@@ -13,7 +13,8 @@ aliases:
  - /comment/1062/up-is-the-new-down
 imported: true
 comments:
- - Home run Great sulggnig with that answerKBEJaz  pixanotkjuelKBEJaz  pixanotkjuellart mikid priligy best buy PPP lexapro liver zoloft jgvvv propecia   buy ultram 847677 nexium rsev topamax 8PPP
+ - value: >
+     Home run! Great sulggnig with that answer!,KBEJaz <a href="http://pixanotkjuel.com/">pixanotkjuel</a>,KBEJaz <a href="http://pixanotkjuel.com/">pixanotkjuel</a>,lart mikid <br>, <a href="http://www.medbalance.net/">priligy best buy</a> &gt;:PPP <a href="http://www.pillssearch.net/">lexapro liver zoloft</a> jgvvv <a href="http://www.protomeds.net/">propecia</a> :-(( , <a href="http://www.viaprix.net/">buy ultram</a> 847677 <a href="http://www.yourstealightfully.com/nexium.html">nexium</a> rsev <a href="http://www.medssupport.com/">topamax</a> 8PPP
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/3638/science-bites-why-does-cut-grass-smell
 imported: true
 comments:
- - Was reading about this today Not sure about grass but the volatile compounds released by plants such as cotton are surprisingly sophisticated in that the parasitoid wasps they attract can differentiate between plants being attacked by their host insect and those that arent Its thought that herbivore secretions are detected by the plant initiating this defensive response Long story short the paper claimed that purely mechanical damage lawnmower wouldnt cause a defensive response in terms of attracting parasitoids or predators My contrariwise 2 cents
+ - value: >
+     Was reading about this today. Not sure about grass but the volatile compounds released by plants such as cotton are surprisingly sophisticated in that the parasitoid wasps they attract can differentiate between plants being attacked by their host insect and those that aren't. It's thought that herbivore secretions are detected by the plant initiating this defensive response. Long story short, the paper claimed that purely mechanical damage (lawnmower) wouldn't cause a defensive response in terms of attracting parasitoids or predators. My contrariwise 2 cents :)
 
 # Article Taxonomies
 categories:

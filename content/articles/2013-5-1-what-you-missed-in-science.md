@@ -13,7 +13,8 @@ aliases:
  - /science/3519/what-you-missed-in-science-
 imported: true
 comments:
- - can think of something else that gets stiff when you repeatedly squeeze it
+ - value: >
+     can think of something else that gets stiff when you repeatedly squeeze it
 
 # Article Taxonomies
 categories:

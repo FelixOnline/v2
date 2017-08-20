@@ -13,7 +13,8 @@ aliases:
  - /comment/1306/decision-to-cut-ties-with-case-is-an-embarrassment-to-imperial
 imported: true
 comments:
- - Perhaps Imperial is well known enough that it is more effective for it to campaign for its own issues As pointed out it clearly isnt a financial issue
+ - value: >
+     Perhaps Imperial is well known enough that it is more effective for it to campaign for its own issues. As pointed out, it clearly isn't a financial issue.
 
 # Article Taxonomies
 categories:

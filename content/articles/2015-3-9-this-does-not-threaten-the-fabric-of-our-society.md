@@ -13,7 +13,8 @@ aliases:
  - /science/5379/this-does-not-threaten-the-fabric-of-our-society
 imported: true
 comments:
- - No es que ese nuevo fascista de Berlusconi haya ocupado el podersino es que se rie se sus bracdbonauas y si le dejan se perpetuara en el poder y mientras los italianos sean de derechas o no miran para otro ladola verdad es que si que da miedo Italiaun saludo
+ - value: >
+     No es que ese nuevo fascista de Berlusconi haya ocupado el poder,sino es que se rie se sus bracdbonauas y si le dejan se perpetuara en el poder y mientras los italianos sean de derechas o no miran para otro lado,la verdad es que si que da miedo Italia,un saludo.
 
 # Article Taxonomies
 categories:

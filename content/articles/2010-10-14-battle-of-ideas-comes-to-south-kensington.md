@@ -13,8 +13,10 @@ aliases:
  - /news/199/battle-of-ideas-comes-to-south-kensington
 imported: true
 comments:
- - Read the inside story on the Battle of Ideas and the secretive LM network herehttpwwwpowerbaseinfoindexphpBattle_of_IdeasI bought this foawemrrk
- - RichGRID on a leap of faith I could not be more pleased Its one of the few times that Ive seen an honest product I have little coding experience but am able to easily tinker with the foawemrrk to achieve the look that I want As for support no question is too small for Felix to answer I was hesitant to request assistance on such a small issue but sure enough Felix responded in a matter of hours with the answer that I had been looking for In the end I highly recommended this toolset to the average person its really user friendly and well designed After about an hour of browsing through the options I had a basic understanding on how it all worked I couldnt see myself using anything else to build my studio siteI agree with Christopher above Felixs theme is worth every penny Not only is the product wfur
+ - value: >
+     Read the inside story on the Battle of Ideas and the secretive LM network here: <br> <br>http://www.powerbase.info/index.php/Battle_of_Ideas,I bought this foawemrrk
+ - value: >
+     RichGRID on a leap of faith. I could not be more pleased. It's one of the few times that I've seen an honest product. I have little coding experience, but am able to easily tinker with the foawemrrk to achieve the look that I want. As for support, no question is too small for Felix to answer. I was hesitant to request assistance on such a small issue, but sure enough Felix responded in a matter of hours with the answer that I had been looking for !In the end, I highly recommended this tool-set to the average person, it's really user friendly and well designed. After about an hour of browsing through the options I had a basic understanding on how it all worked. I couldn't see myself using anything else to build my studio site.,I agree with Christopher above. Felix's theme is worth every penny. Not only is the product<a href="http://noelfzcea.com"> wfur</a>
 
 # Article Taxonomies
 categories:

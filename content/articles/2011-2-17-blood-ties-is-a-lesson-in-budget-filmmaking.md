@@ -13,7 +13,8 @@ aliases:
  - /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
 imported: true
 comments:
- - We make movies and indeed any art to communicate thoughts and ideas that we might not otherwise be able to express To have a woman on the other side of the world to so completely get what I was striving and fumbling to say is at the same time very empowering and humbling Saphira I am overwhelmed
+ - value: >
+     We make movies, and indeed, any art, to communicate thoughts and ideas that we might not otherwise be able to express. To have a woman on the other side of the world to so completely get what I was striving and fumbling to say, is at the same time very empowering and humbling... Saphira, I am overwhelmed.
 
 # Article Taxonomies
 categories:

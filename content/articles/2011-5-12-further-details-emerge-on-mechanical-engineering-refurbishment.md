@@ -13,7 +13,8 @@ aliases:
  - /news/1183/further-details-emerge-on-mechanical-engineering-refurbishment
 imported: true
 comments:
- - Bunch of Idiots
+ - value: >
+     Bunch of Idiots
 
 # Article Taxonomies
 categories:

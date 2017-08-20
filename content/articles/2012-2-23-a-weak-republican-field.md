@@ -13,7 +13,8 @@ aliases:
  - /comment/2235/a-weak-republican-field
 imported: true
 comments:
- - How Newt is one of the front runners I have literally no idea
+ - value: >
+     How Newt is one of the front runners I have literally no idea
 
 # Article Taxonomies
 categories:

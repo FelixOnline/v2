@@ -13,7 +13,8 @@ aliases:
  - /news/5828/imperial-professor-to-edit-robotics-journal
 imported: true
 comments:
- - A pal of mine received out KIDNEY DIALYSIS see this httpkidneyoktumblrcom
+ - value: >
+     A pal of mine received out KIDNEY DIALYSIS see this http://kidneyok.tumblr.com/
 
 # Article Taxonomies
 categories:

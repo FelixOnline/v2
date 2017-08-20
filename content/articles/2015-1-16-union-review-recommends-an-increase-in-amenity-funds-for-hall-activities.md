@@ -13,7 +13,8 @@ aliases:
  - /news/5092/union-review-recommends-an-increase-in-amenity-funds-for-hall-activities
 imported: true
 comments:
- - I know this if off topic but Im looking into starting my own blog and was wondering what all is required to get set up Im assuming having a blog like yours would cost a pretty penny Im not very web savvy so Im not 100 certain Any tips or advice would be greatly appreciated Appreciate itvintage ray bans httpwwwthegrandpavilioncoukukvintageraybans25833html
+ - value: >
+     I know this if off topic but I'm looking into starting my own blog and was wondering what all is required to get set up? I'm assuming having a blog like yours would cost a pretty penny? I'm not very web savvy so I'm not 100% certain. Any tips or advice would be greatly appreciated. Appreciate it <br>vintage ray bans http://www.thegrandpavilion.co.uk/?uk-vintage-ray-bans-25833.html
 
 # Article Taxonomies
 categories:

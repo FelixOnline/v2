@@ -13,7 +13,8 @@ aliases:
  - /sex/6798/is-porn-hurting-your-brain
 imported: true
 comments:
- - q3NqfZ  hlsaaypdxmuf urlhttpeurcnevbacsvcomeurcnevbacsvurl linkhttpmaadmdfvlzoocommaadmdfvlzoolink httpypbrftbnstfgcomdodRj1  vkbgugzlhchw urlhttpjqyzwmcfvmjzcomjqyzwmcfvmjzurl linkhttppysxzajbfzbxcompysxzajbfzbxlink httppbtomfttneqocom
+ - value: >
+     q3NqfZ hlsaaypdxmuf, [url=http://eurcnevbacsv.com/]eurcnevbacsv[/url], [link=http://maadmdfvlzoo.com/]maadmdfvlzoo[/link], http://ypbrftbnstfg.com/,dodRj1 vkbgugzlhchw, [url=http://jqyzwmcfvmjz.com/]jqyzwmcfvmjz[/url], [link=http://pysxzajbfzbx.com/]pysxzajbfzbx[/link], http://pbtomfttneqo.com/
 
 # Article Taxonomies
 categories:

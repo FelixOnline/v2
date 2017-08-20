@@ -13,7 +13,8 @@ aliases:
  - /music/3097/ams-album-of-the-week-8
 imported: true
 comments:
- - Big Boys first album is pretty awesome Hes good live too
+ - value: >
+     Big Boy's first album is pretty awesome. He's good live too.
 
 # Article Taxonomies
 categories:

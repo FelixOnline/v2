@@ -13,7 +13,8 @@ aliases:
  - /books/2318/jacek-dukajs-ice
 imported: true
 comments:
- -  This doubt leads him a few chapters in to suddenly switch from first to third person I do often enjoy elements of weirdness but here they dont have any depth Theyre fun to read but they just dont add anythingI cannot agree This means everything in this bookProtagonist is constantly looking for his true self and third person is used in moments when he tries to prove he doesnt exist according to the laws of SummerWhen hes trying to justify his gambling his actions driven by shame and other people Its one of the most intriguing parts of the book When Benedykt is freezing during the way through Siberia It means everything its not just meaningless weirdness without depthI agree with Toad Someone has to be blind to not see the purpose of using the third person narration
+ - value: >
+     " This doubt leads him, a few chapters in, to suddenly switch from first to third person. I do often enjoy elements of weirdness but here they don’t have any depth. They’re fun to read but they just don’t add anything." <br> <br>I cannot agree. This means everything in this book.Protagonist is constantly looking for his true self, and third person is used in moments when he tries to prove he doesnt exist according to the laws of Summer.When he's trying to justify his gambling, his actions driven by shame and other people. It's one of the most intriguing parts of the book. When Benedykt is "freezing" during the way through Siberia. It means everything, it's not just meaningless weirdness without depth.,I agree with Toad. Someone has to be blind to not see the purpose of using the third person narration.
 
 # Article Taxonomies
 categories:

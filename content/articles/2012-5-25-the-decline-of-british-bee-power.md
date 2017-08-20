@@ -13,7 +13,8 @@ aliases:
  - /science/2500/the-decline-of-british-bee-power
 imported: true
 comments:
- - Cough cough httpwwwunionicacuksccesoc For bee based discussion and bee keeping on campus cough cough mailing list shameless plug
+ - value: >
+     Cough cough http://www.union.ic.ac.uk/scc/esoc/ For bee based discussion and bee keeping on campus, cough cough mailing list shameless plug
 
 # Article Taxonomies
 categories:

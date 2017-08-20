@@ -13,7 +13,8 @@ aliases:
  - /news/4143/imperial-lobbies-lords-for-our-international-students
 imported: true
 comments:
- - The immigration bill needs to be debated in two parts We should definitely oppose the 200 NHS levy but seriously the ID check on tenants is not a bad thing by any means We can definitely work our way around that by making sure that students are not penalized when this is implementedCan we not do the NUSish student bullst where we oppose any kind of change and anything that is of slifght inconvenience Have these people not heard of the word compromise Its all well and good to say you oppose something but whats valuable here is a solution rather than some constant bickeringAnd people wonder why no one listens to students
+ - value: >
+     The immigration bill needs to be debated in two parts. <br> <br>We should definitely oppose the £200 NHS levy but seriously the ID check on tenants is not a bad thing by any means. We can definitely work our way around that by making sure that students are not penalized when this is implemented. <br> <br>Can we not do the NUS-ish student bulls**t where we oppose any kind of change and anything that is of slifght inconvenience. Have these people not heard of the word "compromise"? It's all well and good to say you oppose something but what's valuable here is a solution rather than some constant bickering. <br> <br>And people wonder why no one listens to students..
 
 # Article Taxonomies
 categories:

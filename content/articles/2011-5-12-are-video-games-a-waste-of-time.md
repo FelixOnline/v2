@@ -13,7 +13,8 @@ aliases:
  - /games/1202/are-video-games-a-waste-of-time
 imported: true
 comments:
- - Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling She describes games as the most productive thing we can do Highly interesting talk by herehttpwwwtedcomtalksviewlangengid799Good talk though chapslikenice article well writtensome people go to imperial from my old schoolbaiNow I feel situpd Thats cleared it up for meCTzbVq  kszifakccvjd
+ - value: >
+     Jane McGonigal is pretty sure that the notion that videogames are a waste of time is a serious problem that needs tackling. She describes games as "the most productive thing we can do". Highly interesting talk by here: <br> <br>http://www.ted.com/talks/view/lang/eng//id/799 <br> <br>Good talk though, chaps.,like,nice article, well written! <br>some people go to imperial from my old school. <br>bai,Now I feel situpd. That's cleared it up for me,CTzbVq <a href="http://kszifakccvjd.com/">kszifakccvjd</a>
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/1673/punk-planet-by-douglas-heaven
 imported: true
 comments:
- - 2 200 RMB is more like 30 dollarsSHE in China   Sorry I have made okay found not made  and Sweden didnt make the list Nah just kididng Ive looked up where it is zone C and will pop by to say hi Hopefully get a picture together tooDingle   Thanks for the minute by minute text updates I am gonna let the early crowd die down and head over around 10am
+ - value: >
+      $2? 200 RMB is more like 30 dollars!@SHE in China Sorry, I have made (okay, found not made) and Sweden didn't make the list. Nah, just kididng, I've looked up where it is (zone C) and will pop by to say hi. Hopefully get a picture together too.@Dingle Thanks for the minute by minute text updates! I am gonna let the early crowd die down and head over around 10am.
 
 # Article Taxonomies
 categories:

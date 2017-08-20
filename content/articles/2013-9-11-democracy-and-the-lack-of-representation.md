@@ -13,7 +13,8 @@ aliases:
  - /comment/3758/democracy-and-the-lack-of-representation
 imported: true
 comments:
- - Dont vote organise
+ - value: >
+     Don't vote, organise.
 
 # Article Taxonomies
 categories:

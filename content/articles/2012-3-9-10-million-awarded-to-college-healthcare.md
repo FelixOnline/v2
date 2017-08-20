@@ -13,7 +13,8 @@ aliases:
  - /news/2334/10-million-awarded-to-college-healthcare
 imported: true
 comments:
- - I love that your staff takes the time to talk with me about progress frnrusatiots and options They are always so nice and dont make me feel rushed and on that the answer to my questions are not rehearsed on something they have to repeat 10 times a day You have the best staff
+ - value: >
+     I love that your staff takes the time to talk with me about progress, frnrusatiots and options. They are always so nice and don't make me feel rushed and on that the answer to my questions are not rehearsed on something they have to repeat 10 times a day. You have the best staff!
 
 # Article Taxonomies
 categories:

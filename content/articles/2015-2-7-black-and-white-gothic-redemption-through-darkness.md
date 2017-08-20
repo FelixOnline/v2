@@ -13,7 +13,8 @@ aliases:
  - /arts/5210/black-and-white-gothic--redemption-through-darkness
 imported: true
 comments:
- - stockists of fitflopscheapest fitflops australia httpaustraliafitflopsiemillernetGood Website Continue the excellent job Many thankscs go skins list httpwwwmrsdiycoukForumshowthreadphptid268553
+ - value: >
+     stockists of fitflops <br>cheapest fitflops australia http://australiafitflops.iemiller.net/,Good Website, Continue the excellent job. Many thanks!| <br>cs go skins list http://www.mrsdiy.co.uk/Forum/showthread.php?tid=268553
 
 # Article Taxonomies
 categories:

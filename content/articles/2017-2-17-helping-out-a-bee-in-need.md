@@ -13,7 +13,8 @@ aliases:
  - /science/6789/helping-out-a-bee-in-need
 imported: true
 comments:
- - Just a smiling visitant here to share the love  btw great pattern lisuonbqpCompetation is a painful thing but it produces great results by Jerry Flint
+ - value: >
+     Just a smiling visitant here to share the love (:, btw great pattern. &amp;lisuo;&amp;nbqp;Competation is a painful thing, but it produces great results. » by Jerry Flint.
 
 # Article Taxonomies
 categories:

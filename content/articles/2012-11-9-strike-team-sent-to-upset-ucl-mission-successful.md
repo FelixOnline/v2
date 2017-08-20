@@ -13,7 +13,8 @@ aliases:
  - /games/2880/strike-team-sent-to-upset-ucl-mission-successful
 imported: true
 comments:
- - To get involved in future events contact gamingimperialacuk or follow httpswwwfacebookcomgroupsICGaming for details on our next event 27th November
+ - value: >
+     To get involved in future events, contact gaming@imperial.ac.uk or follow https://www.facebook.com/groups/ICGaming/ for details on our next event (27th November).
 
 # Article Taxonomies
 categories:

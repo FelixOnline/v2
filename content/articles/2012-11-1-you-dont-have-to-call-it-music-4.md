@@ -13,7 +13,8 @@ aliases:
  - /music/2823/you-dont-have-to-call-it-music-4
 imported: true
 comments:
- - Muy interesantes Inigo Te propongo que publiquemos un libro con mis entrevistas de Triunfo y un prologo tuyo sobre lo que es la musica concreta dime y abrazos
+ - value: >
+     Muy interesantes, Inigo. Te propongo que publiquemos un libro con mis entrevistas de Triunfo y un prologo tuyo sobre lo que es la musica concreta. dime y abrazos
 
 # Article Taxonomies
 categories:

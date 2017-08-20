@@ -13,7 +13,8 @@ aliases:
  - /news/2428/union-election-results-finally-announced
 imported: true
 comments:
- - Marks N Spencer Black N Decker Mumford N Sons Matthew N ColvinNOT DENCH
+ - value: >
+      Marks 'N Spencer, Black 'N Decker, Mumford 'N Sons, Matthew 'N Colvin,NOT DENCH
 
 # Article Taxonomies
 categories:

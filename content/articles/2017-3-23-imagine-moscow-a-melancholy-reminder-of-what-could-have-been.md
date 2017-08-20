@@ -13,7 +13,8 @@ aliases:
  - /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
 imported: true
 comments:
- - z6Czfj  dtpnnpixlror urlhttpgrhkksujgmqdcomgrhkksujgmqdurl linkhttphycoxczgccrlcomhycoxczgccrllink httpmfbymopkprbgcom
+ - value: >
+     z6Czfj dtpnnpixlror, [url=http://grhkksujgmqd.com/]grhkksujgmqd[/url], [link=http://hycoxczgccrl.com/]hycoxczgccrl[/link], http://mfbymopkprbg.com/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/2071/sopa-who-got-the-last-lulz
 imported: true
 comments:
- - This is why it was MegaUpload and not a different file sharing site httpsplusgooglecomu0111314089359991626869postsHQJxDRiwAWqMegaupload data may get destroyed by ThursdayhttpwwwnprorgtemplatesstorystoryphpstoryId146068504higher level of abstraction would be states struggle to protect private propertyThe contradictions become ever more evidentYesterday while I was at work my cousin stole my iPad and tetsed to see if it can survive a 40foot drop just so she can be a youtube sensation My apple ipad is now broken and she has 83 viewsI know this is completely off topic but I had to share it with someone
+ - value: >
+     This is why it was MegaUpload and not a different file sharing site https://plus.google.com/u/0/111314089359991626869/posts/HQJxDRiwAWq,Megaupload data may get destroyed by Thursday: <br> <br>http://www.npr.org/templates/story/story.php?storyId=146068504,higher level of abstraction would be states' struggle to protect private property. <br> <br>The contradictions become ever more evident.,Yesterday, while I was at work, my cousin stole my iPad and tetsed to see if it can survive a 40foot drop, just so she can be a youtube sensation. My apple ipad is now broken and she has 83 views.I know this is completely off topic but I had to share it with someone!
 
 # Article Taxonomies
 categories:

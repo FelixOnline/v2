@@ -13,7 +13,8 @@ aliases:
  - /news/1772/protesting-at-imperial
 imported: true
 comments:
- - Interesting ideas about scientists being less able to empathy Do you think also the fact that a large percentage of imperials students are foreign may cause them to protest less Brilliant article Kelly  now off to the gum clinic
+ - value: >
+     Interesting ideas about scientists being less able to empathy. Do you think also the fact that a large percentage of imperial's students are foreign, may cause them to protest less? ,Brilliant article Kelly!!! ... now off to the gum clinic
 
 # Article Taxonomies
 categories:

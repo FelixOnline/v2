@@ -13,7 +13,8 @@ aliases:
  - /games/1762/side-by-side-with-the-saints
 imported: true
 comments:
- - This is such a good gameyou should all get it
+ - value: >
+     This is such a good game...you should all get it
 
 # Article Taxonomies
 categories:

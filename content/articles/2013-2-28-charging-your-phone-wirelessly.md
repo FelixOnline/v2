@@ -13,8 +13,10 @@ aliases:
  - /tech/3380/charging-your-phone-wirelessly
 imported: true
 comments:
- - Apparently Qi may be making way for PMA another standard
- - if youre in Europe PowerKiss are setting up in wireless charging tables McDonalds they already have some in the UK in Harrods and Paddington stationhttpwwwengadgetcom20130318powerkisspowermattersalliancelolSeptember 16 2012 at 731 ambest buy has a really nice hp detskop at a great price it says its refurbishedshould i take advantage of the great deal or stay away from refurbished computershere is the pc    HP   Refurbished Pavilion DesktopProduct FeaturesFrom our expanded online assortment not available in all Best Buy stores 2nd Gen Intelae Core i52400 processor Features a 6MB cache and 31GHz processor speed with Turbo Boost up to 34GHz Intelae Core i5 processor Features smart 4way processing performance with a speed boost Intelae Turbo Boost Technology Automatically speeds up your processor when your PC needs extra performance 8GB DDR3 SDRAM For multitasking power Multiformat DVDb1RWCDRW dri
+ - value: >
+     Apparently Qi may be making way for PMA (another standard).
+ - value: >
+     if you're in Europe, PowerKiss are setting up in wireless charging tables McDonalds (they already have some in the UK, in Harrods and Paddington station). <br> <br>http://www.engadget.com/2013/03/18/powerkiss-power-matters-alliance/,lol,September 16, 2012 at 7:31 ambest buy has a really nice hp detskop at a great price, it says its refurbishedshould i take advantage of the great deal or stay away from refurbished computers??here is the pc .. HP Refurbished Pavilion DesktopProduct FeaturesFrom our expanded online assortment; not available in all Best Buy stores 2nd Gen Intelae Core™ i5-2400 processor Features a 6MB cache and 3.1GHz processor speed with Turbo Boost up to 3.4GHz. Intelae Core™ i5 processor Features smart 4-way processing performance with a speed boost. Intelae Turbo Boost Technology Automatically speeds up your processor when your PC needs extra performance. 8GB DDR3 SDRAM For multitasking power. Multiformat DVDb1RW/CD-RW dri
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
 imported: true
 comments:
- - Trading fifa players is much like a stock exchange Dont go to add any other printing commercial enterprise When your player gets featured on Goals of this Week his stock risescrdits fut rapidement httpcreditsfutcomYouve gotten impressive thing on this sitecs go skins by price httpkellymarianntripodcomnba 2k16 mt vc httpwwwfyssocommemberblog_post_viewphppostId9372
+ - value: >
+     Trading fifa players is much like a stock exchange. Don't go to add any other printing commercial enterprise. When your player get's featured on "Goals of this Week", his stock rises. <br>crÃ©dits fut rapidement http://creditsfut.com/,You've gotten impressive thing on this site.| <br>cs go skins by price http://kellymariann.tripod.com/,{ <br>nba 2k16 mt vc http://www.fysso.com/member/blog_post_view.php?postId=9372
 
 # Article Taxonomies
 categories:

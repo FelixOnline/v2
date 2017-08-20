@@ -13,7 +13,8 @@ aliases:
  - /comment/6148/the-bury-your-gays-trope-needs-to-die
 imported: true
 comments:
- - Watch this very good channelhttpswwwyoutubecomwatchvnSaD8_AnLE
+ - value: >
+     Watch this, very good channel<br>https://www.youtube.com/watch?v=nSaD8-_AnLE
 
 # Article Taxonomies
 categories:

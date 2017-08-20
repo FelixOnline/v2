@@ -13,7 +13,8 @@ aliases:
  - /news/1375/union-forced-to-clarify-future-of-summer-ball
 imported: true
 comments:
- - Felix did report on Councils decision httpfelixonlinecouknews1378councildeniesdeputypresidentfinancesserviceshonorarylifemembershipIt was on Page 3 of this weeks edition httpfelixonlinecoukarchiveIC_20112011_1493_ApdfIs Felix going to report on why Ravi wasnt awarded an HLM this year
+ - value: >
+     Felix did report on Council's decision: http://felixonline.co.uk/news/1378/council-denies-deputy-president-finances--services-honorary-life-membership/ <br> <br>It was on Page 3 of this week's edition: http://felixonline.co.uk/archive/IC_2011/2011_1493_A.pdf,Is Felix going to report on why Ravi wasn't awarded an HLM this year?
 
 # Article Taxonomies
 categories:

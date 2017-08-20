@@ -13,7 +13,8 @@ aliases:
  - /news/945/college-steps-back-from-8am-lectures
 imported: true
 comments:
- - Fell out of bed feielng down This has brightened my day71GcF6  bufntkwrbvnx ultram sfzfjc priligy 9880
+ - value: >
+     Fell out of bed feielng down. This has brightened my day!,71GcF6 <a href="http://bufntkwrbvnx.com/">bufntkwrbvnx</a>, <a href="http://www.getyourmeds.net/">ultram</a> sfzfjc <a href="http://www.medbalance.net/">priligy</a> 9880
 
 # Article Taxonomies
 categories:

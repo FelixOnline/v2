@@ -13,7 +13,8 @@ aliases:
  - /music/1237/london-student-vs-felix-day-one-felixs-favourite-song
 imported: true
 comments:
- - US musician and poet Gil ScottHeron dies at 62httpwwwbbccouknewsworlduscanada13582880Least favourite Black Eyed Peas  The Time Dirty Bit destroyed an iconic songLeast favourite song  Brother Darling Buds of May A band that pretend to be from slough and pretend to be working class They played this on Letterman the other week and I nearly died This whole britpop revival is just lame and is probably what I am hating on the most at the momentLeast favouriteMark Ronson  Stop Me If You Think Youve Heard This One BeforeDestroyed an absolute classicFriday Rebecca Black TUNEAt last someone comes up with the right anwservrgowX  fdtcbyenledz
+ - value: >
+     US musician and poet Gil Scott-Heron dies at 62 <br> <br>http://www.bbc.co.uk/news/world-us-canada-13582880,Least favourite: Black Eyed Peas - The Time (Dirty Bit), destroyed an iconic song!,Least favourite song : Brother -'Darling Buds of May'. A band that pretend to be from slough and pretend to be working class. They played this on Letterman the other week and I nearly died. This whole brit-pop revival is just lame and is probably what I am hating on the most at the moment.,Least favourite: <br> <br>Mark Ronson - Stop Me If You Think You've Heard This One Before <br> <br>Destroyed an absolute classic,Friday, Rebecca Black. TUNE.,At last, someone comes up with the "right" anwser!,vrgowX <a href="http://fdtcbyenledz.com/">fdtcbyenledz</a>
 
 # Article Taxonomies
 categories:

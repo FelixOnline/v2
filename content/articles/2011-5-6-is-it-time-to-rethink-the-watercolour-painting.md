@@ -13,7 +13,8 @@ aliases:
  - /arts/1164/is-it-time-to-rethink-the-watercolour-painting
 imported: true
 comments:
- - Thank you for your comment we have corrected the spelling errorAround the dimensions of a piece of paper   How long IS a piece of string Watercolour is NOT associated with amateurship and spinsters trying to show off their artistic talent except by arrogant narrowminded and illeducated persons of a certain age that is under 25 or so Elizabeth Blackadder David Hockney Craigie Aichison and almost any graphic artist of any note use watercolour for its translucency and delicacy its glowing colour values and its immediacyIt would be good to see reviews written by practitioners rather than poorly educated amateurs in the art section of this magazine Proof read for spelling too Couloursarrogant narrowminded and illeducated persons of a certain age that is under 25 or soHmm Id call that a pretty narrowminded illeducated opinion there boy
+ - value: >
+     Thank you for your comment, we have corrected the spelling error.,"Around the dimensions of a piece of paper" ??? How long IS a piece of string? <br> <br>Watercolour is NOT associated with "amateurship and spinsters trying to show off their artistic talent" except by arrogant, narrow-minded and ill-educated persons of a certain age (that is, under 25 or so). Elizabeth Blackadder, David Hockney, Craigie Aichison, and almost any graphic artist of any note use watercolour for its translucency and delicacy, its glowing colour values and its immediacy. <br> <br>It would be good to see reviews written by practitioners rather than poorly educated amateurs, in the art section of this magazine! <br> <br>Proof read for spelling, too. "Coulours?","arrogant, narrow-minded and ill-educated persons of a certain age (that is, under 25 or so)" <br> <br>Hmm, I'd call that a pretty narrow-minded, ill-educated opinion there, boy.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/3920/confessions-of-a-gta-part-3
 imported: true
 comments:
- - All you faggots hiatng on this kid  I think its a pretty sweet idea  I mean we can fly planes into buildings in battlefield 3 It would be sweet to have an environment that can be destroyed It will never happen but it would be very interesting   Yes 911 was horrible But so was the recent shooting in Connecticut or any other mass murders that happen in the us  you hate on this guy for posting about flying planes into buildings when you thinks its okay to shoot up hundreds of people in this game All it is is a fucking game you pussy bitch Stop complaining you fucking faggots
+ - value: >
+     All you faggots hiatng on this kid I think it's a pretty sweet idea I mean we can fly planes into buildings in battlefield 3.. It would be sweet to have an environment that can be destroyed. It will never happen but it would be very interesting Yes 9/11 was horrible. But so was the recent shooting in Connecticut, or any other mass murders that happen in the us you hate on this guy for posting about flying planes into buildings when you thinks its okay to shoot up hundreds of people in this game? All it is, is a fucking game you pussy bitch.. Stop complaining you fucking faggots
 
 # Article Taxonomies
 categories:

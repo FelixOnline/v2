@@ -13,7 +13,8 @@ aliases:
  - /arts/5470/lost-in-the-wild
 imported: true
 comments:
- - httpcanadaonlinekamagranet  Kamagra Medication Celebrex httponlinesynthroidthyroxinecomhttpcanadaonlinekamagranet  Buy Kamagra Online Celebrex httponlinesynthroidthyroxinecomhttpcanadaonlinekamagranet  Buy Kamagra Online Celecoxib Capsules 200mg httponlinesynthroidthyroxinecomhttpcanadaonlinekamagranet  Kamagra Jelly Celebrex httponlinesynthroidthyroxinecom
+ - value: >
+     http://canada-onlinekamagra.net/ - Kamagra Medication Celebrex http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Buy Kamagra Online Celebrex http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Buy Kamagra Online Celecoxib Capsules 200mg http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Kamagra Jelly Celebrex http://online-synthroidthyroxine.com/
 
 # Article Taxonomies
 categories:

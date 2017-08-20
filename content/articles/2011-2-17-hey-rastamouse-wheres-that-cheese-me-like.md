@@ -13,7 +13,8 @@ aliases:
  - /tv/845/hey-rastamouse-wheres-that-cheese-me-like
 imported: true
 comments:
- - Best clip ive seen on youtube in a while Rastamouse taught my 17th month old son to say Wagwanhttpwwwyoutubecomwatchv348aU6tTldwfeaturerelated
+ - value: >
+     Best clip i've seen on youtube in a while, "Rastamouse taught my 17th month old son to say "Wagwan" <br>http://www.youtube.com/watch?v=348aU6tTldw&amp;feature=related
 
 # Article Taxonomies
 categories:

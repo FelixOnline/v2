@@ -13,7 +13,8 @@ aliases:
  - /news/1146/football-team-fined-after-ulu-cup-fight
 imported: true
 comments:
- - BANG BANG BANGThe final was won 32 by ImperialAll you need to knowThe final was won 32 by ImperialAll you need to knowI dont see what the problem is Someone was wearing a morph suit which I thought meant you could get away with anythingWhheeeeeeeeeeeeeyyyyIC football bunch of twats massive bunch of twatsbbbrrrrrrrraaaaaaappppppppppppppI am so so proud club loveIm a bellendFootballers arguing over who has the best shoes Faggots
+ - value: >
+     BANG! BANG! BANG!,The final was won 3-2 by Imperial. <br> <br>All you need to know.,The final was won 3-2 by Imperial. <br> <br>All you need to know.,I don't see what the problem is. Someone was wearing a morph suit, which I thought meant you could get away with anything?,Whheeeeeeeeeeeeeyyyy!,IC football- bunch of twats. massive bunch of twats,bbbrrrrrrrraaaaaaapppppppppppppp!!!!!,I am so so proud, club love,Im a bellend,Footballer's arguing over who has the best shoes. Faggots.
 
 # Article Taxonomies
 categories:

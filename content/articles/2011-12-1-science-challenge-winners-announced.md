@@ -13,7 +13,8 @@ aliases:
  - /news/1896/science-challenge-winners-announced
 imported: true
 comments:
- - Its worth noting that Mark Henderson is not going to be Science Editor at the Times for much longer httpwwwwellcomeacukNewsMediaofficePressreleases2011WTVM053483htmYes I know but I got the posters printed back in October and only found out about that in November
+ - value: >
+     It's worth noting that Mark Henderson is not going to be Science Editor at the Times for much longer... http://www.wellcome.ac.uk/News/Media-office/Press-releases/2011/WTVM053483.htm,Yes, I know, but I got the posters printed back in October, and only found out about that in November... :)
 
 # Article Taxonomies
 categories:

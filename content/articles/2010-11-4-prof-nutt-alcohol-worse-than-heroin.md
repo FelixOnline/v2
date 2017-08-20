@@ -13,7 +13,8 @@ aliases:
  - /news/324/prof-nutt-alcohol-worse-than-heroin
 imported: true
 comments:
- - The italicised i in the Limits logo seems to be implying these limits are just imaginaryyourlimitscouk Brilliant Its badly spelt makes no sense in some places and is selfcontradictory in others Totally worthless advice that only promotes existing social problems such as the belief that being a lightweight is bad Makes Imperial look shit againLimits site is comical most dealers cut stuff with homeopathic remedies because theyre cheap easily available and have no side effects except maybe an extra rush from all that tasty sugarNever heard of a case of someone being spiked with washing powder Maybe maggot eggs in which case hilarity ensues see httpwwwyoutubecomwatchvD6AjU20h5UEThats the only part of the site I bothered to look atKeep fighting the good fight DavidWow Great thniking JKXqwDww  anbbjniubhdv
+ - value: >
+     The italicised 'i' in the 'Limits' logo seems to be implying these limits are just imaginary.,yourlimits.co.uk. Brilliant. It's badly spelt, makes no sense in some places, and is self-contradictory in others. Totally worthless "advice" that only promotes existing social problems such as the belief that "being a lightweight is bad". Makes Imperial look shit, again.,Limits site is comical: most dealers cut stuff with homeopathic remedies because they're cheap, easily available and have no side effects (except maybe an extra rush from all that tasty sugar!). <br> <br>Never heard of a case of someone being spiked with washing powder. Maybe maggot eggs... in which case hilarity ensues (see: http://www.youtube.com/watch?v=D6AjU20h5UE) <br> <br>That's the only part of the site I bothered to look at. <br> <br>Keep fighting the good fight, David.,Wow! Great thniking! JK,XqwDww <a href="http://anbbjniubhdv.com/">anbbjniubhdv</a>
 
 # Article Taxonomies
 categories:

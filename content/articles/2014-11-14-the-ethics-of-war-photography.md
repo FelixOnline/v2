@@ -13,7 +13,8 @@ aliases:
  - /arts/4881/the-ethics-of-war-photography
 imported: true
 comments:
- - Wow beautiful website Thnx fifa 17 coins httpwwwfriendforrentcommemberblog_post_viewphppostId120844
+ - value: >
+     Wow, beautiful website. Thnx .. <br>fifa 17 coins http://www.friend-for-rent.com/member/blog_post_view.php?postId=120844
 
 # Article Taxonomies
 categories:

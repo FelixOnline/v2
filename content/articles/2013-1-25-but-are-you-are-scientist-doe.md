@@ -13,7 +13,8 @@ aliases:
  - /comment/3182/but-are-you-are-scientist-doe
 imported: true
 comments:
- - Interesting article though I disagree with evolution by natural selection being the most scientific well known example Its fairly difficult to falsify despite Richard Dawkins insistence which is a pity given how fundamental it is to the biological sciencesI think this may well be the most pretentious uppity patronising article I have yet seen within the pages of Felix Congratulations
+ - value: >
+     Interesting article, though I disagree with evolution by natural selection being the most scientific (well known) example. It's fairly difficult to falsify (despite Richard Dawkins' insistence), which is a pity given how fundamental it is to the biological sciences.,I think this may well be the most pretentious, uppity, patronising article I have yet seen within the pages of Felix. Congratulations!
 
 # Article Taxonomies
 categories:

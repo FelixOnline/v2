@@ -13,7 +13,8 @@ aliases:
  - /comment/1427/well-meet-again
 imported: true
 comments:
- - In these days of austerity along with rvtilaee anxiousness about incurring debt many people balk resistant to the idea of having a credit card in order to make acquisition of merchandise or perhaps pay for a vacation preferring instead just to rely on the actual tried and also trusted technique of making repayment   cash However if youve got the cash available to make the purchase in whole then paradoxically this is the best time to use the cards for several causes
+ - value: >
+     In these days of austerity along with rvtilaee anxiousness about incurring debt, many people balk resistant to the idea of having a credit card in order to make acquisition of merchandise or perhaps pay for a vacation, preferring, instead just to rely on the actual tried and also trusted technique of making repayment cash. However, if you've got the cash available to make the purchase in whole, then, paradoxically, this is the best time to use the cards for several causes.
 
 # Article Taxonomies
 categories:

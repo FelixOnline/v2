@@ -13,7 +13,8 @@ aliases:
  - /comment/1580/my-life-after-graduation
 imported: true
 comments:
- - hehehe Anum i love your article  good advice Im still laughing DHeyyyyyyyyyyy WE FOUND YOU D GREAT ARTICLE BTW Happy to see you some whereYESSSSS We found you Anum It feels good to read your articleMay God bless you all the way Ameen great articleAAAAAAAAnumSchool days are the best  Cross stitching running on the groundgood times Strong women Great
+ - value: >
+     hehehe Anum.. i love your article :). good advice. <br> <br>Im still laughing :D <br> <br>,Heyyyyyyyyyyy!!! WE FOUND YOU!! :D GREAT ARTICLE BTW ;) <br>Happy to see you some where!!!,YESSSSS!!! We found you Anum... ;) <br>It feels good to read your article... <br> <br>May God bless you all the way... Ameen :),great article....,AAAAAAAAnum, <br> <br>School days are the best :) Cross stitching, running on the ground...good times. <br>Strong women :),Great :)
 
 # Article Taxonomies
 categories:

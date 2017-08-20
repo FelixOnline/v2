@@ -13,7 +13,8 @@ aliases:
  - /tech/336/skyfire--iphone--flash
 imported: true
 comments:
- - At last Someone who undesrtands Thanks for postingknQNzX  byomwxzjsbiw
+ - value: >
+     At last! Someone who undesrtands! Thanks for posting!,knQNzX <a href="http://byomwxzjsbiw.com/">byomwxzjsbiw</a>
 
 # Article Taxonomies
 categories:

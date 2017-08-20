@@ -13,7 +13,8 @@ aliases:
  - /comment/1305/get-an-opinion
 imported: true
 comments:
- - Arteilcs like this are an example of quick helpful answers
+ - value: >
+     Arteilcs like this are an example of quick, helpful answers.
 
 # Article Taxonomies
 categories:

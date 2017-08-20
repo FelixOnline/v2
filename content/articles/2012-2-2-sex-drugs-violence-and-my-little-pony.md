@@ -13,7 +13,8 @@ aliases:
  - /tv/2102/sex-drugs-violence-and-my-little-pony
 imported: true
 comments:
- - Thank you Theres always one typo that gets away  SorryBeautiful review _ well donesubsidenceWell done otherwiseThis should cause more of a shitstorm I am disappoint
+ - value: >
+     Thank you! There's always one typo that gets away &gt;&lt; Sorry!,Beautiful review ^_^ well done!,"subsidence?" <br> <br>Well done, otherwise!,This should cause more of a shitstorm. I am disappoint.
 
 # Article Taxonomies
 categories:

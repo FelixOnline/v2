@@ -13,7 +13,8 @@ aliases:
  - /games/5588/squad-go-go-go
 imported: true
 comments:
- - How come my Kymco scooter sttars just for a few seconds then it stops even though my gas tank is fullIt automatically stops wheter i used the push button ignition or by kick startBut i was able to run  use the scooter 2 days ago  tried to start the engine last night  it workedBut this morning it the engine doesnt run anymore
+ - value: >
+     How come my Kymco scooter sttars just for a few seconds then it stops even though my gas tank is full?It automatically stops wheter i used the push button ignition or by kick start?But i was able to run &amp; use the scooter 2 days ago &amp; tried to start the engine last night &amp; it worked.But this morning it (the engine) doesn't run anymore.
 
 # Article Taxonomies
 categories:

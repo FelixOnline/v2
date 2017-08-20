@@ -13,7 +13,8 @@ aliases:
  - /news/5198/union-clock-in-beit-quad-is-once-again-keeping-time
 imported: true
 comments:
- - uIAKnD httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     uIAKnD http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

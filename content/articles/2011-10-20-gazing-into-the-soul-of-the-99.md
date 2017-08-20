@@ -13,7 +13,8 @@ aliases:
  - /politics/1566/gazing-into-the-soul-of-the-99
 imported: true
 comments:
- - Thanks for covering thisIts been said the eatsmite from the police helicopter was 70000 but they were told they could only say 35000Plebgate seems to be a complex scam aimed at dispiriting the police during the  festive season Christmas for coppers often means no time with the family a heavy workload dealing with stupid drunks and an increase in fatal road traffic collisionsLife is simple if you dont look too deep
+ - value: >
+     Thanks for covering this.It's been said the eatsmite from the police helicopter was 70,000 but they were told they could only say 35,000.Plebgate seems to be a complex scam aimed at dispiriting the police during the festive' season. Christmas for coppers often means no time with the family, a heavy workload dealing with stupid drunks and an increase in fatal road traffic collisions.Life is simple if you don't look too deep.
 
 # Article Taxonomies
 categories:

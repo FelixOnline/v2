@@ -13,7 +13,8 @@ aliases:
  - /sport/2962/undefeated-womens-rugby-top-lusl
 imported: true
 comments:
- - I think the team does so well because of the terrific pres of the club Xx
+ - value: >
+     I think the team does so well because of the terrific pres of the club! Xx
 
 # Article Taxonomies
 categories:

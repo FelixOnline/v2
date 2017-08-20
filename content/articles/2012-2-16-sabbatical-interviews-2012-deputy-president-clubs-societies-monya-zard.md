@@ -13,7 +13,8 @@ aliases:
  - /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
 imported: true
 comments:
- - As far as I can see this whole job is simply a glorified administrator Applicants need only be vacant minded absent of respect to clubs including gender equality and part of the usual inbred chosen few pushed forward for the job With recent hires of 2 additional members of staff to assist in this role the union effectively now has 4 members of staff not to be named publicly all doing the same job
+ - value: >
+     As far as I can see this whole job is simply a glorified administrator. Applicants need only be vacant minded, absent of respect to clubs (including gender equality) and part of the usual inbred "chosen" few pushed forward for the "job." With recent hires of 2 additional members of staff to assist in this role, the union effectively now has 4 members of staff (not to be named publicly) all doing the same job!
 
 # Article Taxonomies
 categories:

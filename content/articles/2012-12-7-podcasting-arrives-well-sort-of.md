@@ -13,7 +13,8 @@ aliases:
  - /news/3027/podcasting-arrives-well-sort-of
 imported: true
 comments:
- - The comment about being able to catch up on lectures missed due to illness or job interviews is a valid one With students vying for industrial work placements having to miss multiple lectures it will be invaluablecan they please hurry up with this for those of us living at home with parents travelling 4560 minutes each way for one or 2 lectures sometimes isnt worth it not everyone can afford to live out and this would save a lot of time
+ - value: >
+     The comment about being able to catch up on lectures missed due to illness or job interviews is a valid one. With students vying for industrial work placements having to miss multiple lectures it will be invaluable.,can they please hurry up with this? for those of us living at home with parents, travelling 45-60 minutes each way for one or 2 lectures sometimes isn't worth it. not everyone can afford to live out, and this would save a lot of time.
 
 # Article Taxonomies
 categories:

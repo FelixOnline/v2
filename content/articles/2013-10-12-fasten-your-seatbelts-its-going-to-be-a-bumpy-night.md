@@ -13,7 +13,8 @@ aliases:
  - /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
 imported: true
 comments:
- - Squirrels are safe to eat in the summer prdevoid they look healthy Rabbits youll get a lot of mixed feelings Some say they are ok others say dont dare But if youre shooting rabbits in the summer they are classified as pests so theres really no harm in just throwing them in the dtich jug of water   soapplastic walmart bag for after they are gutted and youre ready to put them in a cooler or go home I dont think its a good idea to put warm game in plasticCooler with ice if you have to drive home a wayssmall game vest or just cut a stick to poke through the anklespocket knife  pruning shears to cut the legs offsquirrel call if you have one recomend the knight and haleSmall foam cushion for sittingchaps for rabbit huntingorange hat wouldnt hurtRun like a Deer    Fly like an Eagle
+ - value: >
+     Squirrels are safe to eat in the summer prdevoid they look healthy. Rabbits, you'll get a lot of mixed feelings. Some say they are ok, others say don't dare. But if you're shooting rabbits in the summer they are classified as pests so there's really no harm in just throwing them in the dtich. jug of water soapplastic walmart bag (for after they are gutted and you're ready to put them in a cooler or go home. I don't think it's a good idea to put warm game in plastic)Cooler with ice if you have to drive home a wayssmall game vest or just cut a stick to poke through the anklespocket knife / pruning shears to cut the legs offsquirrel call if you have one (recomend the knight and hale)Small foam cushion for sittingchaps for rabbit huntingorange hat wouldn't hurtRun like a Deer.* ..Fly like an Eagle.*~~
 
 # Article Taxonomies
 categories:

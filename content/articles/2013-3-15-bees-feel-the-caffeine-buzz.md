@@ -13,7 +13,8 @@ aliases:
  - /science/3466/bees-feel-the-caffeine-buzz
 imported: true
 comments:
- - I actually was having a mocha from the library cafe Still a quality beverage though
+ - value: >
+     I actually was having a mocha from the library cafe. Still a quality beverage though
 
 # Article Taxonomies
 categories:

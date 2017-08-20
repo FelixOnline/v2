@@ -13,7 +13,8 @@ aliases:
  - /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
 imported: true
 comments:
- - In Irland sind ganze Wlder mit Efeu berankt und die Bume stehen trotzdem stark und fest mit eigener grner Krone da Soooo schlimm kann das also nicht seinBei mir riecht es auch schon seit ein paar Tagen grn Das find ich schn Und wenn man raus kommt scheint es warm zu sein obwohl ja doch nur 5  im Herbst eindeutig HarwchuhsettedGrne NIts going to be ending of mine day except before end I am reading this impressive post to improve my knowledgebest financial planners httphelpfultipeuAt this time it looks like Drupal is the preferred blogging platform available right now from what Ive read Is that what you are using on your blogstock prices httpfinancehinteuSpot on with this writeup I really think this web site needs a lot more attention Ill probably be back again to read more thanks for the information httpbusinessclueeu
+ - value: >
+     In Irland sind ganze WÃ¤lder mit Efeu berankt und die BÃ¤ume stehen trotzdem stark und fest mit eigener grÃ¼ner Krone da. Soooo schlimm kann das also nicht sein.Bei mir riecht es auch schon seit ein paar Tagen grÃ¼n. Das find ich schÃ¶n. Und wenn man raus kommt, scheint es warm zu sein (obwohl ja doch nur 5° - im Herbst eindeutig Ha¼rwchuhsetted).GrÃnÃŸe! N.,It's going to be ending of mine day, except before end I am reading this impressive post to improve my knowledge. <br>best financial planners http://helpfultip.eu,At this time it looks like Drupal is the preferred blogging platform available right now. (from what I've read) Is that what you are using on your blog? <br>stock prices http://financehint.eu,Spot on with this write-up, I really think this web site needs a lot more attention. I'll probably be back again to read more, thanks for the information! <br>http://businessclue.eu
 
 # Article Taxonomies
 categories:

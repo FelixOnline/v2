@@ -13,7 +13,8 @@ aliases:
  - /news/4202/imperial-college-welcomes-new-president-in-september
 imported: true
 comments:
- - httpwwwtimeshighereducationcouknewsusimportsvicechancellorsthatcosthalfamillion2010316article
+ - value: >
+     http://www.timeshighereducation.co.uk/news/us-imports-vice-chancellors-that-cost-half-a-million/2010316.article
 
 # Article Taxonomies
 categories:

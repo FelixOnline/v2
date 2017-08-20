@@ -13,7 +13,8 @@ aliases:
  - /science/3887/higgs-tory-through-the-ages-fifty-years-yields-nobel-prize
 imported: true
 comments:
- - Very nice
+ - value: >
+     Very nice
 
 # Article Taxonomies
 categories:

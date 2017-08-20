@@ -13,7 +13,8 @@ aliases:
  - /news/5522/student-academic-choice-award-winners-announced
 imported: true
 comments:
- - 3QMeIx  pnkmwrhaaydk urlhttpudgettfgiaencomudgettfgiaenurl linkhttpkcdltigixbsfcomkcdltigixbsflink httpdvdnuiqowyylcom
+ - value: >
+     3QMeIx pnkmwrhaaydk, [url=http://udgettfgiaen.com/]udgettfgiaen[/url], [link=http://kcdltigixbsf.com/]kcdltigixbsf[/link], http://dvdnuiqowyyl.com/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/6847/gang-signs-and-prayer-
 imported: true
 comments:
- - You make thngis so clear Thanks for taking the time
+ - value: >
+     You make thngis so clear. Thanks for taking the time!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/1440/album-of-the-week-bon-iver
 imported: true
 comments:
- - I must say that this is one of the most beautiful poems I have ever read Never before has the anguish of heartbreak been so artfully described I truly feel for the author this Harrion Rickerby this master of the English language this hidden genius The review of the music pales in comparison with the strength of the poem and one hopes that Mr Rickerby will continue to delight us all with his manipulation of the written word
+ - value: >
+     I must say that this is one of the most beautiful poems I have ever read. Never before has the anguish of heartbreak been so artfully described. I truly feel for the author, this Harrion Rickerby, this master of the English language, this hidden genius. <br>The review of the music pales in comparison with the strength of the poem, and one hopes that Mr Rickerby will continue to delight us all with his manipulation of the written word. <br>
 
 # Article Taxonomies
 categories:

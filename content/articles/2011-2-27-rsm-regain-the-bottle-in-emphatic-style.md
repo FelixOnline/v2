@@ -13,7 +13,8 @@ aliases:
  - /sport/921/rsm-regain-the-bottle-in-emphatic-style
 imported: true
 comments:
- - Many thanks for letting us know  weve updated the articleCSM is spelt Camborne and not Canbourn just for future referenceErin YES do ask her and if it is plseae plseae do a blog post i bet baby you was just adorable  also i sent you a little something last week so it should be arriving at your doorstep any day now  i hope you love it but i have a feeling you might  XO
+ - value: >
+     Many thanks for letting us know – we've updated the article.,CSM is spelt Camborne and not Canbourn... just for future reference,Erin, YES! do ask her-- and if it is, plseae plseae do a blog post? i bet baby you was just adorable :) also, i sent you a little something last week so it should be arriving at your doorstep any day now! :) i hope you love it... but i have a feeling you might! ;) XO
 
 # Article Taxonomies
 categories:

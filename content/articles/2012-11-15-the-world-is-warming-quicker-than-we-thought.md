@@ -13,7 +13,8 @@ aliases:
  - /science/2888/the-world-is-warming-quicker-than-we-thought
 imported: true
 comments:
- - Gen 82122 And the Lord smelled a soothing aroma Then the Lord said in His heart I will never again curse the ground for mans sake although the imagination of mans heart is evil from his youth nor will I again destroy every living thing as I have doneWhile the earth remainsSeedtime and harvestCold and heatWinter and summerAnd day and nightShall not cease
+ - value: >
+     [Gen 8:21-22] "And the Lord smelled a soothing aroma. Then the Lord said in His heart, “I will never again curse the ground for man’s sake, although the imagination of man’s heart is evil from his youth; nor will I again destroy every living thing as I have done. <br>'While the earth remains, <br>Seedtime and harvest, <br>Cold and heat, <br>Winter and summer, <br>And day and night <br>Shall not cease.' "
 
 # Article Taxonomies
 categories:

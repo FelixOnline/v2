@@ -13,7 +13,8 @@ aliases:
  - /tech/56/googles-done-with-chinas-censorship
 imported: true
 comments:
- - Good for Google Information is a right and should be censored in any way or formlol why has it got ravi as authorRavi uploaded this and Im a little behind schedule with the backend of this site so you cant select other authors at uploadtime just yet will fix this soonGood article As Ravi says good for Google
+ - value: >
+     Good for Google. Information is a right, and should be censored in any way or form.,lol why has it got ravi as author,Ravi uploaded this and I'm a little behind schedule with the back-end of this site so you can't select other authors at upload-time just yet... will fix this soon. <br> <br>Good article! As Ravi says, good for Google.
 
 # Article Taxonomies
 categories:

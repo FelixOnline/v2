@@ -13,7 +13,8 @@ aliases:
  - /music/2812/king-krule-live
 imported: true
 comments:
- - Da Polona este Mam uitat pe norcro si acolo chiar dupa actualizare Ernest Brosteanu Dorobanti Dacia si altlee se intersecteaza cu Floreasca O greseala mare care ma indus si pe mine in eroare Cum te duci spre Polona este ultimul sau penultimul pe dreapta Nu mai stiu cate etaje are Astea sunt lucruri care imi scapa cand incerc sa ochesc placute si inscrisuri Mai am una tot din zona Adrian am gasit o casa deosebita pe care nu stiu cum sa o identific Arata prea bine ca sa nu fie de renume Bine nu e singura Cerzi ca ma poti ajuta
+ - value: >
+     Da, Polona este. M-am uitat pe norc.ro si acolo, chiar dupa actualizare, Ernest Brosteanu, Dorobanti, Dacia si altlee se intersecteaza cu Floreasca. O greseala mare care m-a indus si pe mine in eroare. Cum te duci spre Polona este ultimul, sau penultimul, pe dreapta. Nu mai stiu cate etaje are. Astea sunt lucruri care imi scapa cand incerc sa ochesc placute si inscrisuri. Mai am una tot din zona. Adrian, am gasit o casa deosebita pe care nu stiu cum sa o identific. Arata prea bine ca sa nu fie de renume. Bine, nu e singura... Cerzi ca ma poti ajuta?
 
 # Article Taxonomies
 categories:

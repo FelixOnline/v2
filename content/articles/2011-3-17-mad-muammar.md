@@ -13,7 +13,8 @@ aliases:
  - /comment/1103/mad-muammar-
 imported: true
 comments:
- - Kudos to you I hadnt tuhoght of thatGVgz28  qexseufmjatu buy check e tramadol but viagra
+ - value: >
+     Kudos to you! I hadn't tuhoght of that!,GVgz28 <a href="http://qexseufmjatu.com/">qexseufmjatu</a>, <a href="http://www.buytramadolhcl.net/">buy check e tramadol</a> but <a href="http://www.medstips.net/">viagra</a> =-[
 
 # Article Taxonomies
 categories:

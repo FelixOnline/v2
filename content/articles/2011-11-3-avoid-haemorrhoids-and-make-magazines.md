@@ -13,7 +13,8 @@ aliases:
  - /comment/1685/avoid-haemorrhoids-and-make-magazines
 imported: true
 comments:
- - This is brilliant Hahahahahaha
+ - value: >
+     This is brilliant! Hahahahahaha :)
 
 # Article Taxonomies
 categories:

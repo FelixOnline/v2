@@ -13,7 +13,8 @@ aliases:
  - /tech/1422/augmented-reality-is-here
 imported: true
 comments:
- - I agree  It helps that games help drive technology like AR  The everincreasing specs of PC games have been driinvg the speed of computers higher while bringing down the costsChurch services have been ccnealled for this evening due to the road conditions and frigid temperatures So TPSJ YOUth will be meeting on the Post Party Page for a devotional time together at 7pm Please be prepared to share a favorite or meaningful scripture from the Bible and a little about what it means to you
+ - value: >
+     I agree. It helps that games help drive technology like AR. The ever-increasing specs of PC games have been driinvg the speed of computers higher while bringing down the costs.,Church services have been<a href="http://qufojbr.com"> ccnealled</a> for this evening, due to the road conditions and frigid temperatures. So, TPSJ YOUth will be meeting on the “Post Party Page” for a devotional time together at 7pm! Please be prepared to share a favorite or meaningful scripture from the Bible, and a little about what it means to you!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/1810/neutrinos-still-faster-than-light
 imported: true
 comments:
- - Neutrino Knock knock Whos ThereMake a machine to send messages comprised of neutrinos back into the past then you will see if it works I bet you once you make a machine and turn in on to receive neutrino binary code messages from the future will show up
+ - value: >
+     Neutrino. Knock knock. Who's There?,Make a machine to send messages comprised of neutrinos back into the past, then you will see if it works. I bet you once you make a machine and turn in on to receive neutrino binary code, messages from the future will show up.
 
 # Article Taxonomies
 categories:

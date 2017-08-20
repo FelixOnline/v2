@@ -13,7 +13,8 @@ aliases:
  - /biz/958/the-business-of-hair-styling
 imported: true
 comments:
- - Touchodwn Thats a really cool way of putting itCfWWbM  iewspffimoeg
+ - value: >
+     Touchodwn! That's a really cool way of putting it!,CfWWbM <a href="http://iewspffimoeg.com/">iewspffimoeg</a>
 
 # Article Taxonomies
 categories:

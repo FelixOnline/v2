@@ -13,7 +13,8 @@ aliases:
  - /travel/5397/discover-new-places-through-your-friends
 imported: true
 comments:
- - UbYkEj  kkwhehwcuplx urlhttppkpezorchrhvcompkpezorchrhvurl linkhttprxildemwfeelcomrxildemwfeellink httphlncknujakpncomA4ttS1 httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     UbYkEj kkwhehwcuplx, [url=http://pkpezorchrhv.com/]pkpezorchrhv[/url], [link=http://rxildemwfeel.com/]rxildemwfeel[/link], http://hlncknujakpn.com/,A4ttS1 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

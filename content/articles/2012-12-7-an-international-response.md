@@ -13,7 +13,8 @@ aliases:
  - /news/3021/an-international-response
 imported: true
 comments:
- - So one year at Imperial basically cost the same as one year of my undergrad sticker price not what I actually paid thanks Ivy financial aid But heres a list of what I got in undergrad that wasnt included at Imperialfoodstudent activity clubsschool sports ticketsstudent fitness centerhealthcareindividual adviserSo do I think I was overcharged Just a littleErr you get healthcare student activity clubs and more than one student fitness centre Yes the other stuff is lacking though
+ - value: >
+     So one year at Imperial basically cost the same as one year of my undergrad (sticker price, not what I actually paid (thanks Ivy financial aid!)). But here's a list of what I got in undergrad that wasn't included at Imperial: <br>food <br>student activity clubs <br>school sports tickets <br>student fitness center <br>healthcare <br>individual adviser <br> <br>So do I think I was overcharged? Just a little.,Err you get healthcare, student activity clubs and more than one student fitness centre! <br>Yes the other stuff is lacking though!
 
 # Article Taxonomies
 categories:

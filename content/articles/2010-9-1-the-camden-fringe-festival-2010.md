@@ -13,7 +13,8 @@ aliases:
  - /arts/155/the-camden-fringe-festival-2010
 imported: true
 comments:
- - vanessa lopez  These pictures are the most beatfiuul and so creative that Ive ever seen Your work is amazing  Im from WeslacoTx  Ive been looking for a photographer ever since I turned 5 mths and now that Im 2wks away from my due date its been so hard I hope one day u decide to open up a studio closer by bkuz there is nothing like that here Luv ur wrk  Celeste Clatterbuck  Hello I am 7 months prganent and really love your pictures I would love to get some pictures done with you I just need to know how much you charge Thank you
+ - value: >
+     vanessa lopez - These pictures are the most beatfiuul, and so creative that I've ever seen. Your work is amazing. I'm from Weslaco,Tx. I've been looking for a photographer ever since I turned 5 mths and now that I'm 2wks away from my due date its been so hard. I hope one day u decide to open up a studio closer by bkuz there is nothing like that here. Luv ur wrk ,Celeste Clatterbuck - Hello I am 7 months <a href="http://zczgwcxlpac.com">prganent</a> and really love your pictures! I would love to get some pictures done with you. I just need to know how much you charge. Thank you
 
 # Article Taxonomies
 categories:

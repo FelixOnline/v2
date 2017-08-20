@@ -13,7 +13,8 @@ aliases:
  - /comment/1104/higher-education-lunacy
 imported: true
 comments:
- - I think the Browne Review was pretty sound and gave a fair deal to students There should be real competition between universities with the elimination of a cap as per the original proposals and the governments changes to the original recommendations have been an outright failure
+ - value: >
+     I think the Browne Review was pretty sound and gave a fair deal to students. There should be real competition between universities with the elimination of a cap, as per the original proposals, and the government's changes to the original recommendations have been an outright failure.
 
 # Article Taxonomies
 categories:

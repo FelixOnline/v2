@@ -13,7 +13,8 @@ aliases:
  - /news/44/college-staff-member-attacks-students-guest-at-union
 imported: true
 comments:
- - so how exactly does this make senseLast day of work he was out celebrating about getting out of something that he didnt wanna be part of hence the celebrationSooo why did he go to the UNION bar to celebrate it contradiction 1He decided that hed punch someone and he found the one who DID NOT belong to the organisation he didnt wanna be part of anyway contradiction 2Is it me or is anyone else not seeing how stupid this isI think the moral of the story is that the guy is an absolute plonkerWhat an idiotAdmin hello here are having problems with your site malware warning Write me icq 989567856647buy jimmy choo bag for more I0Pjimmy
+ - value: >
+     so, how exactly does this make sense: <br> <br>Last day of work, he was out celebrating about getting out of something that he didn't wanna be part of (hence the celebration). <br> <br>Sooo... why did he go to the UNION bar to celebrate it (contradiction #1) <br> <br>He decided that he'd punch someone, and he found the one who DID NOT belong to the organisation he didn't wanna be part of anyway (contradiction #2).. <br> <br>Is it me, or is anyone else not seeing how stupid this is?,I think the moral of the story is that the guy is an absolute plonker.,What an idiot!,Admin, hello! here are having problems with your site. malware warning Write me. icq 989567856647,buy <a href="http://www.jimmychoobagsok.com">jimmy choo bag</a> for more I0Pjimmy
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/84/colleges-most-famous-geeks
 imported: true
 comments:
- - Well done guys youre all amazing Lowres versions of the teams efforts so far are available athttpwwwcjbirkettcoukUniversityChallenge
+ - value: >
+     Well done guys, you're all amazing :) <br> <br>Low-res versions of the team's efforts so far are available at: <br>http://www.cjbirkett.co.uk/UniversityChallenge/
 
 # Article Taxonomies
 categories:

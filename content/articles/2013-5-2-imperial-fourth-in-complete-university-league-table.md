@@ -13,7 +13,8 @@ aliases:
  - /news/3537/imperial-fourth-in-complete-university-league-table
 imported: true
 comments:
- -  What a good looking guy  Im uusllay in here complementing the brides which this bride is gorgeous but uusllay dont have a lot to say about the grooms  But this guy has very striking features  Great set  Love the couch and its a great locationEmily Pile  Beautiful pics   definately will need you for my wdenidg one day  I cant believe how great they turned out Chelsey and Jesse you both look so happy   They are such a great couple
+ - value: >
+     - What a good looking guy. I'm uusllay in here complementing the brides (which this bride is gorgeous), but uusllay don't have a lot to say about the grooms. But this guy has very striking features. Great set. Love the couch and it's a great location.,Emily Pile - Beautiful pics definately will need you for my<a href="http://jmbjcas.com"> wdenidg</a> one day!! I can't believe how great they turned out!! Chelsey and Jesse you both look so happy :) They are such a great couple!
 
 # Article Taxonomies
 categories:

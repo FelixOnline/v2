@@ -13,7 +13,8 @@ aliases:
  - /music/28/the-bbcs-sound-of-2010
 imported: true
 comments:
- - All Im saying is that Gold Panda is an awesome name
+ - value: >
+     All I'm saying is that "Gold Panda" is an awesome name.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/3867/triathlon-club-make-a-splash-at-aquathlon
 imported: true
 comments:
- - Alberta Summer Games triathletes raced an Aquathlon this year in Lethbridge at Summer game as a team event It was fast exinctig and fun to watch Apparently fun to participate in oh BTW YYC team won GOLDSuperb inoitmarofn here ole chap keep burning the midnight oil
+ - value: >
+     Alberta Summer Games triathletes, raced an Aquathlon this year in Lethbridge at Summer game as a team event. It was fast, exinctig and fun to watch. Apparently fun to participate in oh BTW YYC team won GOLD!,Superb <a href="http://unglfax.com">inoitmarofn</a> here, ol'e chap; keep burning the midnight oil.
 
 # Article Taxonomies
 categories:

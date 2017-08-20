@@ -13,7 +13,8 @@ aliases:
  - /news/3353/ae-department-closures-announced
 imported: true
 comments:
- - Why wouldnt Imperial NHS Trust approve this move It means we get worse emergency health care and Imperial gets to pay off all its debts with the land sale Everybody wins Oh wait
+ - value: >
+     Why wouldn't Imperial NHS Trust approve this move. It means we get worse emergency health care and Imperial gets to pay off all its debts with the land sale. Everybody wins! Oh wait...
 
 # Article Taxonomies
 categories:

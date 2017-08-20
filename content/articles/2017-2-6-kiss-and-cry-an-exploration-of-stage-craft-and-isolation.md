@@ -13,7 +13,8 @@ aliases:
  - /arts/6740/kiss-and-cry--an-exploration-of-stage-craft-and-isolation
 imported: true
 comments:
- - What Snowboard To BuyWhat snowboard would you recommend me to buyI have been snoiwoardbng for 4 years and Im pretty good not amazing but goodI dont go on any high jumps or do any tricks I only go on little jumps once in a while I usually just go downhill snowboarding in ski resortsWhat size also Im 57 130ish lbs size 8 feet
+ - value: >
+     What Snowboard To Buy?What snowboard would you recommend me to buy?I have been snoiwoardbng for 4 years and I’m pretty good, not amazing, but good.I don’t go on any high jumps, or do any tricks, I only go on little jumps once in a while. I usually just go downhill snowboarding in ski resorts.What size also? I’m 5″7, 130ish lbs, size 8 feet.
 
 # Article Taxonomies
 categories:

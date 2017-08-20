@@ -13,7 +13,8 @@ aliases:
  - /sport/2915/triathalon-dominate-podium
 imported: true
 comments:
- - thanks all i am still about 15 kilos from my  best weight  but im in with psnaorel trainer madrid for at least another year   so ill smash it and get shredded to boot watch this space
+ - value: >
+     thanks all. i am still about 15 kilos from my best weight but i'm in with psnaorel trainer madrid for at least another year so i'll smash it and get shredded to boot. watch this space
 
 # Article Taxonomies
 categories:

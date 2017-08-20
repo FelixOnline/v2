@@ -13,7 +13,8 @@ aliases:
  - /news/5996/ucl-rent-strike-steps-up-a-gear
 imported: true
 comments:
- - hi my daughter has an offer from ucl and is looking for on campus accomodation  but looking at the strike etc and student issues we are a little concerned  can anyone recomend good clean accomodation in ucl university campus which does not have rats cockroaches etc  self catered preferred  would be sooo grateful hank you
+ - value: >
+     hi my daughter has an offer from ucl and is looking for on campus accomodation . but looking at the strike etc and student issues we are a little concerned ... can anyone recomend good clean accomodation in ucl university campus which does not have rats cockroaches etc ? self catered preferred ... would be sooo grateful hank you
 
 # Article Taxonomies
 categories:

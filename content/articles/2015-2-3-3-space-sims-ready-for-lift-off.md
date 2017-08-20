@@ -13,7 +13,8 @@ aliases:
  - /games/5187/3-space-sims-ready-for-lift-off
 imported: true
 comments:
- - Yeah this looks nice and all but thre9es a lot of missing features I liked the new channel look until I realized all of my comments friends and subscribers arent seen on my channel Where did they go Also where is the profile information on my channel page I thought YouTube was trying to be a social community doesnt seem that way anymore I could keep going but the other comments pretty much nailed it Please fix this Google err Youtube
+ - value: >
+     Yeah, this looks nice and all but thre9e;s a lot of missing features. I liked the new channel look until I realized all of my comments, friends, and subscribers aren't seen on my channel. Where did they go? Also, where is the profile information on my channel page? I thought YouTube was trying to be a social community, doesn't seem that way anymore. I could keep going but the other comments pretty much nailed it. Please fix this Google..... err Youtube.
 
 # Article Taxonomies
 categories:

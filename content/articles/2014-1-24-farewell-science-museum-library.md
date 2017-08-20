@@ -13,7 +13,8 @@ aliases:
  - /news/4271/farewell-science-museum-library
 imported: true
 comments:
- - Why not use the extra space to house some air conditioning units to make Level 4 livableIm not desperate or anythingBut seriously can Felix run an article on WHY the library is so hot Its common knowledge to the point of being a running joke throughout college but I dont understand why one cant just fix the problemI graduated in 2006 and remember the library being incredibly hot on both the 4th and 5th floors I also remember the annoying recorded announcements about the library closing in the years that it wasnt open 24hrs  Nice to see nothing has changed in 8 yearsThats a shame the museum collection has always been pleasant for a Wednesday afternoon browse
+ - value: >
+     Why not use the extra space to house some air conditioning units to make Level 4 livable? <br> <br>(I'm not desperate or anything.) <br> <br>((But seriously, can Felix run an article on WHY the library is so hot? It's common knowledge to the point of being a running joke throughout college, but I don't understand why one can't just fix the problem.)),I graduated in 2006 and remember the library being incredibly hot on both the 4th and 5th floors (I also remember the annoying recorded announcements about the library closing in the years that it wasn't open 24hrs). Nice to see nothing has changed in 8 years!,That's a shame, the museum collection has always been pleasant for a Wednesday afternoon browse.
 
 # Article Taxonomies
 categories:

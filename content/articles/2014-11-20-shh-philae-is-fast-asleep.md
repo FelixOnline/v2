@@ -13,7 +13,8 @@ aliases:
  - /science/4909/shh-philae-is-fast-asleep
 imported: true
 comments:
- - Short answer is noThats a very long bow to draw Jupiters gitarvy would have to change by an enormous amount to come even remotely close to the scenario you suggestThe object that caused this dark spot on Jupiter was probably only about 1 km in diameter  Now if such an object were to strike the Earth that would cause some significant changes in climate
+ - value: >
+     Short answer is no.That's a very long bow to draw; Jupiter's gitarvy would have to change by an enormous amount to come even remotely close to the scenario you suggest.The object that caused this dark spot on Jupiter was probably only about 1 km in diameter. Now if such an object were to strike the Earth, that would cause some significant changes in climate.
 
 # Article Taxonomies
 categories:

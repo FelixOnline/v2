@@ -13,7 +13,8 @@ aliases:
  - /arts/6846/danza-contempornea-de-cuba--electrifying-dance-with-a-cuban-flavour
 imported: true
 comments:
- - Howdy are using WordPress for your blog platform Im new to the blog world but Im trying to get started and create my own Do you need any html coding knowledge to make your own blog Any help would be greatly apaedcipter
+ - value: >
+     Howdy are using WordPress for your blog platform? I’m new to the blog world but I’m trying to get started and create my own. Do you need any html coding knowledge to make your own blog? Any help would be greatly apaedcipter!
 
 # Article Taxonomies
 categories:

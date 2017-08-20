@@ -13,7 +13,8 @@ aliases:
  - /film/506/an-engaging-and-emotional-thriller
 imported: true
 comments:
- - Im laughing at the first colupe of answers  Clearly these are people unfamiliar with the true horror genre watch some Vincent PriceA lot of the classics really do a great job of giving you the rules of certain monsters and story lines  When you know the rules is when you can bend them  You should do your research and find horror stories like the one you want to write and commit to readingwatching and analyzing themReferences
+ - value: >
+     I'm laughing at the first<a href="http://hdroiz.com"> colupe</a> of answers. Clearly, these are people unfamiliar with the true horror genre (watch some Vincent Price).A lot of the classics really do a great job of giving you the rules of certain monsters and story lines. When you know the rules is when you can bend them. You should do your research and find horror stories like the one you want to write and commit to reading/watching and analyzing them.References :
 
 # Article Taxonomies
 categories:

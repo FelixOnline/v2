@@ -13,7 +13,8 @@ aliases:
  - /tv/5944/-cartoon-corner-the-boondocks
 imported: true
 comments:
- - L8HkgB httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomSpace Horses Katherine  Now theres a new idea  Lynn I think the reason my bits of writing have survived may be because I was unreasonably secretive about them and hid them away at the bottom of drawers etc  Anyway Im glad theryre still around and I dont feel the need to burn them  unlike my journals those are TRULY emLsrrasaingbiz I know some of your childhood writing has survived  Poetry too
+ - value: >
+     L8HkgB http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,Space Horses, Katherine! Now there's a new idea! Lynn, I think the reason my bits of writing have survived may be because I was unreasonably secretive about them and hid them away at the bottom of drawers, etc. Anyway, I'm glad thery're still around, and I don't feel the need to burn them - unlike my journals: those are TRULY emLsrrasaing.biz, I know some of your childhood writing has survived! Poetry, too! :-))
 
 # Article Taxonomies
 categories:

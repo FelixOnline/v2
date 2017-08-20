@@ -13,7 +13,8 @@ aliases:
  - /arts/5452/play-mas-fails-to-live-up-to-its-promise
 imported: true
 comments:
- - Boston is actually going to another market that the NBA thrives on having for national televised games Shaquille ONeal Shaq changed the way lowpost basketball was played in recent yrscrdits fifa gratuit httpcreditsfutcomhttpprednisoneorder20mgcom  By Prednisone W Not Prescription Prices Viagra httpcialis5mg20mgcomhttpprednisoneorder20mgcom  Prednisone Viagra Pills httpcialis5mg20mgcom
+ - value: >
+     Boston is actually going to another market that the NBA thrives on having for national televised games. Shaquille O'Neal- Shaq changed the way low-post basketball was played in recent yrs. <br>crÃ©dits fifa gratuit http://creditsfut.com/,http://prednisone-order-20mg.com/ - By Prednisone W Not Prescription Prices Viagra http://cialis5mg-20mg.com/,http://prednisone-order-20mg.com/ - Prednisone Viagra Pills http://cialis5mg-20mg.com/
 
 # Article Taxonomies
 categories:

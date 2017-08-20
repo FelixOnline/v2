@@ -13,7 +13,8 @@ aliases:
  - /food/707/spend-your-moolah-on-moolis
 imported: true
 comments:
- - Absolutely on the dot except that we would not call the roti used a rumali roti Having tasted all the moolis described I can vouch for the veracity of the descriptionUnfortunately not open on Sundays but the friendliness of the staff makes this place stand out
+ - value: >
+     Absolutely on the dot except that we would not call the roti used a rumali roti. Having tasted all the moolis described, I can vouch for the veracity of the description.,Unfortunately not open on Sundays, but the friendliness of the staff makes this place stand out.
 
 # Article Taxonomies
 categories:

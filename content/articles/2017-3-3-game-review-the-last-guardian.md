@@ -13,7 +13,8 @@ aliases:
  - /games/6851/game-review--the-last-guardian
 imported: true
 comments:
- - I recently stumbled on your lovely website frome Facebook I did the sight word twister with my little ones I homeschool them and we love fun new ideas to try Thank you for sharing your crtetiviay Happy birthday
+ - value: >
+     I recently stumbled on your lovely website frome Facebook. I did the sight word twister with my little ones. I homeschool them, and we love fun new ideas to try! Thank you for sharing your crtetiviay. Happy birthday!
 
 # Article Taxonomies
 categories:

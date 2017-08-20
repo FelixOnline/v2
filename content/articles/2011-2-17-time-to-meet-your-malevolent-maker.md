@@ -13,7 +13,8 @@ aliases:
  - /comment/839/time-to-meet-your-malevolent-maker
 imported: true
 comments:
- - Ive always thought its a rather egocentric argument to assume that Gods a jerk because bad things happen Being a jerk means hes out to get you when he might not just care about a fleck of dusts shadow like youAnd are things like natural disasters and cancer bad Yeah if you happen to be living with them but theyre all part of the natural way of things In my mind the cosmos is like one great big Heath Robinson contraptioneverything so amazing so prettyand so pointless
+ - value: >
+     I've always thought it's a rather egocentric argument to assume that God's a jerk because bad things happen. Being a jerk means he's out to get you when he might not just care about a fleck of dust's shadow like you. <br> <br>And are things like natural disasters and cancer bad? Yeah, if you happen to be living with them but they're all part of the natural way of things. In my mind, the cosmos is like one great big Heath Robinson contraption...everything so amazing, so pretty...and so pointless.
 
 # Article Taxonomies
 categories:

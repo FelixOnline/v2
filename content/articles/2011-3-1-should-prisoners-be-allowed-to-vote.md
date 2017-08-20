@@ -13,7 +13,8 @@ aliases:
  - /politics/959/should-prisoners-be-allowed-to-vote
 imported: true
 comments:
- - The moment an individual breaks the Law any Law to which heshe was found guildy of breaking HeShe has lost all Political and Civil rightsHow can a person that does not respect the Law has the power to decide who is to lead a country
+ - value: >
+     The moment an individual breaks the Law, any Law to which he/she was found guildy of breaking, He/She has lost all Political and Civil rights. <br> <br>How can a person that does not respect the Law has the power to decide who is to lead a country?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tech/1254/after-spotify-what-next
 imported: true
 comments:
- - Dont forget about We7com Its essentially the same as Spotfiy but browser based and without any time restrictions or play limits Also for every day you listen to a song you get 5 towards an advert free day Also i find the ads a lot less intrusive than Spotifys and it scrobbles which is always a plusMy problem with paying for Spotify is that you spend 60 a year and at the end of it you have nothing to show for it just avoiding a 15 second annoyance every 15 minutes Spend your money on something more deserving like some actual CDs
+ - value: >
+     Don't forget about We7.com. It's essentially the same as Spotfiy but browser based and without any time restrictions or play limits. Also for every day you listen to a song you get 5% towards an advert free day. Also i find the ads a lot less intrusive than Spotifys, and it scrobbles which is always a plus. <br> <br>My problem with paying for Spotify is that you spend £60 a year and at the end of it you have nothing to show for it, just avoiding a 15 second annoyance every 15 minutes? Spend your money on something more deserving (like some actual CDs)
 
 # Article Taxonomies
 categories:

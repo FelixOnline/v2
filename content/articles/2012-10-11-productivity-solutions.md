@@ -13,7 +13,8 @@ aliases:
  - /biz/2647/productivity-solutions
 imported: true
 comments:
- - Youre right but it depends on the type of business you have Were an outsourcing company and we always set deadlines for every project so that our clients will appreciate our work We even have a time tracking software installed on our PCs so anytime clients will have an idea on how the business is going and if were working on our tasks or not Our main drive is productivity so for us procrastination is totally a big loss if its not being avoided
+ - value: >
+     You’re right but it depends on the type of business you have. We’re an outsourcing company and we always set deadlines for every project so that our clients will appreciate our work. We even have a <a href="http://www.timedoctor.com">time tracking software</a> installed on our PCs so anytime clients will have an idea on how the business is going and if we’re working on our tasks or not. Our main drive is “productivity” so for us procrastination is totally a big loss if it’s not being avoided.
 
 # Article Taxonomies
 categories:

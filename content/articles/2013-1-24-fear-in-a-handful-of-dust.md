@@ -13,7 +13,8 @@ aliases:
  - /music/3166/fear-in-a-handful-of-dust
 imported: true
 comments:
- - Heather  Yay Becca Im so excited for you Im lkioong forward to reading your book when it comes out in the Spring of next year   Hopefully it will be after my finals so I wont have to worry about reading textbooks anymore and I can read your book insteadDecember 4 2009   639 am
+ - value: >
+     Heather - Yay Becca! I'm so excited for you! I'm lkioong forward to reading your book when it comes out in the Spring of next year. Hopefully it will be after my finals so I won't have to worry about reading textbooks anymore and I can read your book instead.December 4, 2009 6:39 am
 
 # Article Taxonomies
 categories:

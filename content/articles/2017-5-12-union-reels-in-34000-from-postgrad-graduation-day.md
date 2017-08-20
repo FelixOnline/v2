@@ -13,7 +13,8 @@ aliases:
  - /news/6941/union-reels-in-34000-from-postgrad-graduation-day
 imported: true
 comments:
- - Tbf to College and I am not one to normally praise them although this article insinuates theyre doing something wrong with their ticket pricing etc I think wed all agree that wed prefer to graduate in the RAH than a dusty lecture hall Free graduations  dusty lecture hall Slightly pricey graduation  Royal Albert Hall I choose the latter and fake newsclickbait headlines sorry Felix P should never detract from that fact
+ - value: >
+     Tbf to College (and I am not one to normally praise them), although this article insinuates they're doing something wrong with their ticket pricing etc, I think we'd all agree that we'd prefer to graduate in the RAH than a dusty lecture hall. Free graduations = dusty lecture hall. Slightly pricey graduation = Royal Albert Hall. I choose the latter, and fake news/clickbait headlines (sorry Felix :P) should never detract from that fact.
 
 # Article Taxonomies
 categories:

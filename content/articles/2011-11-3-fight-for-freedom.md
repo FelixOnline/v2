@@ -13,7 +13,8 @@ aliases:
  - /biz/1679/fight-for-freedom
 imported: true
 comments:
- - This post is truely excellent youve really hit the nail on the head with your argument there I just hope other readers have the wisdom to understand what your getting at
+ - value: >
+     This post is truely excellent, you've really hit the nail on the head with your argument there. I just hope other readers have the wisdom to understand what your getting at.
 
 # Article Taxonomies
 categories:

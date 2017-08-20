@@ -13,7 +13,8 @@ aliases:
  - /news/6836/can-students-bear-londons-housing-crisis
 imported: true
 comments:
- - Your thnkinig matches mine  great minds think alike
+ - value: >
+     Your thnkinig matches mine - great minds think alike!
 
 # Article Taxonomies
 categories:

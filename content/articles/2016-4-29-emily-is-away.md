@@ -13,7 +13,8 @@ aliases:
  - /games/6107/emily-is-away
 imported: true
 comments:
- - I want to play this gameI love Emily is awayhow come is does not work on meYou really saved my skin with this inarmoftion ThanksNdyLDo httpwwwLnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gOcom
+ - value: >
+     I want to play this game<br>,I love Emily is away<br>,how come is does not work on me?<br>,You really saved my skin with this inarmoftion. Thanks!,NdyLDo http://www.LnAJ7K8QSpkiStk3sLL0hQP6MO2wQ8gO.com
 
 # Article Taxonomies
 categories:

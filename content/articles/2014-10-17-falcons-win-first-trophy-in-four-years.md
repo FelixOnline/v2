@@ -13,7 +13,8 @@ aliases:
  - /sport/4732/falcons-win-first-trophy-in-four-years
 imported: true
 comments:
- - In my opinion marijuana should be legal They let people smoke chemicals in cigarettes why is a plant so bad then In fact you dont even have to smoke it for people thinking o820sm2king is so bad You cant take too much of it and die like alcohol or aspirin No one has ever died of smoking marijuana Do you realize that more people have died eating a peanut At least let the people who need it have it It needs to be legal in all 50 states
+ - value: >
+     In my opinion marijuana should be legal. They let people smoke chemicals in cigarettes, why is a plant so bad then? In fact you don’t even have to smoke it for people thinking o820;sm2king is so bad!!” You can’t take too much of it and die like alcohol or aspirin. No one has ever died of smoking marijuana. Do you realize that more people have died eating a peanut? At least let the people who need it have it. It needs to be legal in all 50 states!!
 
 # Article Taxonomies
 categories:

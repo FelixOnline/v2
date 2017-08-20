@@ -13,7 +13,8 @@ aliases:
  - /games/6732/a-beginners-guide-to-tabletop-rpgs
 imported: true
 comments:
- - Les naturopathes sont des spcialistes de la toxmieles consulter les plutot que de prendre des risques avec sa sant me parait juxediiucTout  fait daccord avec Jocelyne
+ - value: >
+     Les naturopathes sont des spÃ©cialistes de la toxÃ©mie,les consulter les plutot que de prendre des risques avec sa santÃ© me parait juxediiuc.Tout Ã  fait d’accord avec Jocelyne :)
 
 # Article Taxonomies
 categories:

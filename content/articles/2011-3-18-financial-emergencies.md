@@ -13,7 +13,8 @@ aliases:
  - /news/1116/financial-emergencies
 imported: true
 comments:
- - Youre a real deep thinker Takhns for sharing 6DN88z  socfgeawvxfk
+ - value: >
+     Youre a real deep thinker. Takhns for sharing. ,6DN88z <a href="http://socfgeawvxfk.com/">socfgeawvxfk</a>
 
 # Article Taxonomies
 categories:

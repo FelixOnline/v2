@@ -13,7 +13,8 @@ aliases:
  - /news/5924/israel-boycotts-outlawed-by-government
 imported: true
 comments:
- - SOAS knows how to do it httpstwittercomMoleFredstatus700781971966976000This is a good thing Just because you hate Jews for some sort of Hitlery reason or whatever doesnt mean you should be using your trivial piece of council purchasing power to take it out on Israel Thats just embarrassing for the UK
+ - value: >
+     SOAS knows how to do it... https://twitter.com/MoleFred/status/700781971966976000,This is a good thing. Just because you hate Jews for some sort of Hitlery reason or whatever, doesn't mean you should be using your trivial piece of council purchasing power to take it out on Israel. That's just embarrassing for the UK.
 
 # Article Taxonomies
 categories:

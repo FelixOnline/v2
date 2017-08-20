@@ -13,7 +13,8 @@ aliases:
  - /sport/1745/imperial-immortals-take-the-sting-out-of-surrey
 imported: true
 comments:
- - Go IMPERIAL IMMORTALS LOVE YOU GUYS WOHOO
+ - value: >
+     Go IMPERIAL IMMORTALS! LOVE YOU GUYS WOHOO!
 
 # Article Taxonomies
 categories:

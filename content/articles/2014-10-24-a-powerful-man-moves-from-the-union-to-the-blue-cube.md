@@ -13,7 +13,8 @@ aliases:
  - /news/4745/a-powerful-man-moves-from-the-union-to-the-blue-cube
 imported: true
 comments:
- - How cliquey can you guys get No one cares about your stupid injokesfit flops on salefitflops on sale australia httpaustraliafitflopsiemillernetchristian louboutin instagramchristian louboutin cheapest httpcanadachristianlouboutinblogspotcomHouston possesses the top point total and scoring defense in MLS The Dynamo means only 10 goals and have absolute posted eight shutouts It reeled off a clubrecord 11game unbeaten 803 streak from April 19 to June 20 The Dynamo started 022 but rebounded with winning strings of three and five matches to take control of first place from Chivas USA under western culture fifa ultimate team on June 20 Thanks to owning the leagues best point total as of June 22 Dominic Kinnear will coach the MLS AllStars versus Everton on July 30fifa 16 hack httpcreditsfutcom
+ - value: >
+     How cliquey can you guys get? No one cares about your stupid in-jokes.,fit flops on sale <br>fitflops on sale australia http://australiafitflops.iemiller.net/,christian louboutin instagram <br>christian louboutin cheapest http://canadachristianlouboutin.blogspot.com/,Houston possesses the top point total and scoring defense in MLS. The Dynamo means only 10 goals and have absolute posted eight shutouts. It reeled off a club-record 11-game unbeaten (8-0-3) streak from April 19 to June 20. The Dynamo started 0-2-2 but rebounded with winning strings of three and five matches to take control of first place from Chivas USA under western culture fifa ultimate team on June 20. Thanks to owning the league's best point total as of June 22, Dominic Kinnear will coach the MLS All-Stars versus Everton on July 30. <br>fifa 16 hack http://creditsfut.com/
 
 # Article Taxonomies
 categories:

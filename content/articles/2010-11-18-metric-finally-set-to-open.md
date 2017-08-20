@@ -13,7 +13,8 @@ aliases:
  - /news/409/metric-finally-set-to-open-
 imported: true
 comments:
- - There are some more pictures of Metric over on Live for anyone interested httplivecgcunetnews2174
+ - value: >
+     There are some more pictures of Metric over on Live!, for anyone interested: <br>http://live.cgcu.net/news/2174
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/4876/my-art-tomoko-uemure-in-her-bath
 imported: true
 comments:
- - Great looking site Presume you did a whole lot of your ownyour very own html codingmadden 17 coins httpwwwcamerestudentiitbologna1255_nba_2k17_vc_were_never_in_it_in_the_first_place
+ - value: >
+     Great looking site. Presume you did a whole lot of your ownyour very own html coding <br>madden 17 coins http://www.camerestudenti.it/bologna/1255_nba_2k17_vc_were_never_in_it_in_the_first_place
 
 # Article Taxonomies
 categories:

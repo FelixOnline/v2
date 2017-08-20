@@ -13,7 +13,8 @@ aliases:
  - /arts/290/whats-new-about-czanne
 imported: true
 comments:
- - Its a cool idea isnt it There are a lot of exhibitions and small muusems which I would love to go to but the price has previously put me off with trainfare and food for the day the price of a day out can really add up these discounts are going to make soaking up some culture so much more affordable
+ - value: >
+     It's a cool idea, isn't it? There are a lot of exhibitions and small muusems which I would love to go to but the price has previously put me off... (with trainfare and food for the day the price of a day out can really add up) these discounts are going to make soaking up some culture so much more affordable!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/3317/have-interfaith-in-dialogue
 imported: true
 comments:
- - This is excellent and I applaud you for highlighting it here Any opportunity to share ideas is always welcome Keep up the great work Felix and Imperial
+ - value: >
+     This is excellent and I applaud you for highlighting it here. Any opportunity to share ideas is always welcome. Keep up the great work Felix and Imperial!
 
 # Article Taxonomies
 categories:

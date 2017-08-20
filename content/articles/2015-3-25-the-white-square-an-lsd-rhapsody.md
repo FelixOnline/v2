@@ -13,7 +13,8 @@ aliases:
  - /arts/5435/the-white-square--an-lsd-rhapsody
 imported: true
 comments:
- - It was like a scene from high school they wouldnt eat at the same table with me and my colleagues in the cafeteria cartier faux bracelet urlhttpwwwbraceletluxefrcartier faux braceleturl
+ - value: >
+     It was like a scene from high school; they wouldn’t eat at the same table with me and my colleagues in the cafeteria. <br> cartier faux bracelet [url=http://www.braceletluxe.fr/]cartier faux bracelet[/url]
 
 # Article Taxonomies
 categories:

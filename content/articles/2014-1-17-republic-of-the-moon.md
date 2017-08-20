@@ -13,7 +13,8 @@ aliases:
  - /arts/4238/republic-of-the-moon
 imported: true
 comments:
- - An excellent description and insight into this challenging but somewhat haphazard exhibition I visited the exhibition yesterday with Paul Gladstone Reid first Composer in Residence at Imperial College who is meeting scientists at the College involved with space exploration to inform the composition of his latest work Moon Symphony parts of which will be performed at an event to be organised by Friends of Imperial College later this year
+ - value: >
+     An excellent description and insight into this challenging but somewhat haphazard exhibition. I visited the exhibition yesterday with Paul Gladstone Reid first Composer in Residence at Imperial College who is meeting scientists at the College involved with space exploration to inform the composition of his latest work Moon Symphony parts of which will be performed at an event to be organised by Friends of Imperial College later this year.
 
 # Article Taxonomies
 categories:

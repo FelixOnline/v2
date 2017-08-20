@@ -13,7 +13,8 @@ aliases:
  - /tv/1273/a-never-ending-story
 imported: true
 comments:
- - Thais a great review Thank you
+ - value: >
+     Thais a great review. Thank you :)
 
 # Article Taxonomies
 categories:

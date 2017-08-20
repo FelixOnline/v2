@@ -13,7 +13,8 @@ aliases:
  - /tv/6768/asexual-on-air
 imported: true
 comments:
- - Im just writing to make you be aware of what a fantastic discovery my cos28niu17s daughter enjoyed using your blog She learned a wide variety of things including what its like to have an ideal helping style to get certain people without problems completely grasp specific tricky subject matter You undoubtedly did more than peoples expected results Thank you for giving the precious trusted informative and even cool tips about the topic to Tanya
+ - value: >
+     I’m just writing to make you be aware of what a fantastic discovery my cos28niu17;s daughter enjoyed using your blog. She learned a wide variety of things, including what it’s like to have an ideal helping style to get certain people without problems completely grasp specific tricky subject matter. You undoubtedly did more than people’s expected results. Thank you for giving the precious, trusted, informative and even cool tips about the topic to Tanya.
 
 # Article Taxonomies
 categories:

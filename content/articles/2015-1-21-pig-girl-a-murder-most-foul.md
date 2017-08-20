@@ -13,7 +13,8 @@ aliases:
  - /arts/5109/pig-girl---a-murder-most-foul
 imported: true
 comments:
- - Walking in the prnecsee of giants here Cool thinking all around
+ - value: >
+     Walking in the prnecsee of giants here. Cool thinking all around!
 
 # Article Taxonomies
 categories:

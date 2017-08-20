@@ -13,7 +13,8 @@ aliases:
  - /science/1352/grandma-alzheimers-and-me
 imported: true
 comments:
- - Great article I had a similar situation last year with my Grandma
+ - value: >
+     Great article. I had a similar situation last year with my Grandma.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/4175/world-shocked-by-mandela-death
 imported: true
 comments:
- - Eschewing the path trod by other African liberators such as Zimbabues Robert MugabeThat sentence made me really uncomfortable Theyre not even comparableImperialSad indeed but I would hardly say World Shocked It was what the world was expecting for some time sadly
+ - value: >
+     'Eschewing the path trod by other African liberators such as Zimbabue’s Robert Mugabe.' <br> <br>That sentence made me really uncomfortable. They're not even comparable.,Imperial,Sad indeed but I would hardly say "World Shocked". It was what the world was expecting for some time sadly.....
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/3464/felix-and-democracy
 imported: true
 comments:
- - There is content there
+ - value: >
+     There is content there.
 
 # Article Taxonomies
 categories:

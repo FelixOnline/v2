@@ -13,7 +13,8 @@ aliases:
  - /news/1249/rectors-awards-announced
 imported: true
 comments:
- - Evidently outstanding innovation in teaching doesnt actually count for anything in this establishmentThe Rectors Medal for Outstanding Innovation in Teaching for Dr Jane Saffell followed by her being kicked outAm I the only one who thinks theres just a slight discrepancy here
+ - value: >
+     Evidently outstanding innovation in teaching doesn't actually count for anything in this establishment.,The Rector's Medal for Outstanding Innovation in Teaching for Dr Jane Saffell, followed by her being kicked out? <br> <br>Am I the only one who thinks there's just a *slight* discrepancy here? <br> <br>
 
 # Article Taxonomies
 categories:

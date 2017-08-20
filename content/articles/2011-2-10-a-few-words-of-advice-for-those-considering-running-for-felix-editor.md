@@ -13,7 +13,8 @@ aliases:
  - /comment/790/a-few-words-of-advice-for-those-considering-running-for-felix-editor
 imported: true
 comments:
- - Good point I hadnt thuoght about it quite that way hFJFJS  gjrisdkcvdip
+ - value: >
+     Good point. I hadn't thuoght about it quite that way. :),hFJFJS <a href="http://gjrisdkcvdip.com/">gjrisdkcvdip</a>
 
 # Article Taxonomies
 categories:

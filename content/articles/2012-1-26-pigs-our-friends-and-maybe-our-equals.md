@@ -13,7 +13,8 @@ aliases:
  - /comment/2074/pigs--our-friends-and-maybe-our-equals
 imported: true
 comments:
- - When someone witers an piece of writing heshe keeps the thought of a user in hishermind that how a user can know it Thereforethats why this piece of writing is perfect Thanks
+ - value: >
+     When someone<a href="http://slxvch.com"> witers</a> an piece of writing he/she keeps the thought of a user in his/hermind that how a user can know it. Thereforethat's why this piece of writing is perfect. Thanks!
 
 # Article Taxonomies
 categories:

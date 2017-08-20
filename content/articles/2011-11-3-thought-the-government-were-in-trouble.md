@@ -13,7 +13,8 @@ aliases:
  - /tv/1664/thought-the-government-were-in-trouble
 imported: true
 comments:
- - Great resum of an excellent series  We need more like this to educate the next generation of bummy leaders  Murdoch can role over  we dont need him to wantonly hack everyone when its all public domainI cant wait until their take on phonehacking and nick clegg
+ - value: >
+     Great resumé of an excellent series. We need more like this to educate the next generation of bummy leaders. Murdoch can role over - we dont need him to wantonly hack everyone when its all public domain.,I can't wait until their take on phone-hacking and nick clegg
 
 # Article Taxonomies
 categories:

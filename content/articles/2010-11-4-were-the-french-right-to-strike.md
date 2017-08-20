@@ -13,7 +13,8 @@ aliases:
  - /comment/328/were-the-french-right-to-strike
 imported: true
 comments:
- - An inneillgett point of view well expressed Thanks
+ - value: >
+     An inneillgett point of view, well expressed! Thanks!
 
 # Article Taxonomies
 categories:

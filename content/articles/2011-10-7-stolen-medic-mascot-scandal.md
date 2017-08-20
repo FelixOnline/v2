@@ -13,7 +13,8 @@ aliases:
  - /news/1468/stolen-medic-mascot-scandal
 imported: true
 comments:
- - Please stop using my fees for this bullshit and sort out some decent timetabling
+ - value: >
+     Please stop using my fees for this bullshit and sort out some decent timetabling.
 
 # Article Taxonomies
 categories:

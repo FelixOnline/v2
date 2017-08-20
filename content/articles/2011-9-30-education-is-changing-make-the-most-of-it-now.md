@@ -13,7 +13,8 @@ aliases:
  - /comment/1463/education-is-changing-make-the-most-of-it-now
 imported: true
 comments:
- - Its really true Time passes so fast Thats why we should enjoy learning everyday
+ - value: >
+     It's really true. Time passes so fast. That's why, we should enjoy learning everyday.
 
 # Article Taxonomies
 categories:

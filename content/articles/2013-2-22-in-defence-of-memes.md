@@ -13,7 +13,8 @@ aliases:
  - /comment/3367/in-defence-of-memes
 imported: true
 comments:
- - Memes are the death of creativity One person has a clever idea and soon after thousands of people are copying it making less and less original in the process until we reach the lowest possible common denominator There are many amazing things on the internet memes are not one of them Gross
+ - value: >
+     Memes are the death of creativity. One person has a clever idea, and soon after thousands of people are copying it, making less and less original in the process, until we reach the lowest possible common denominator. There are many amazing things on the internet, memes are not one of them. Gross
 
 # Article Taxonomies
 categories:

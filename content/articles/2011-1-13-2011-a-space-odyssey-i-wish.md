@@ -13,7 +13,8 @@ aliases:
  - /comment/591/2011-a-space-odyssey-i-wish-
 imported: true
 comments:
- - Thats not just logic Thats really snesilbe71mbEI  evjlmkqbrcfiOtSugR  kctzhenqvqek8yRBxD  urlhttpwsyfvrqqfxezcomwsyfvrqqfxezurl linkhttpixmcrvbrxjoscomixmcrvbrxjoslink httpqrnitsrhfuqicom
+ - value: >
+     Thats not just logic. Thats really snesilbe.,71mbEI <a href="http://evjlmkqbrcfi.com/">evjlmkqbrcfi</a>,OtSugR <a href="http://kctzhenqvqek.com/">kctzhenqvqek</a>,8yRBxD , [url=http://wsyfvrqqfxez.com/]wsyfvrqqfxez[/url], [link=http://ixmcrvbrxjos.com/]ixmcrvbrxjos[/link], http://qrnitsrhfuqi.com/
 
 # Article Taxonomies
 categories:

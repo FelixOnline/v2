@@ -13,7 +13,8 @@ aliases:
  - /sport/3011/taekwondo-inauguration-huge-success
 imported: true
 comments:
- - WOOO LIYAN
+ - value: >
+     WOOO LIYAN
 
 # Article Taxonomies
 categories:

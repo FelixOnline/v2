@@ -13,7 +13,8 @@ aliases:
  - /tech/1647/what-does-the-future-hold
 imported: true
 comments:
- - one out  of  ten  for  effort and thats  being  generous
+ - value: >
+     one out of ten for effort and thats being generous
 
 # Article Taxonomies
 categories:

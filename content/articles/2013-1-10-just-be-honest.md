@@ -13,7 +13,8 @@ aliases:
  - /comment/3076/just-be-honest
 imported: true
 comments:
- - Bog offSeriously Can these editorials suck less please Jesus Congratulations youre a cunt
+ - value: >
+     Bog off.,Seriously? Can these editorials suck less please. Jesus. ,Congratulations, you're a cunt.
 
 # Article Taxonomies
 categories:

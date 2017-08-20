@@ -13,7 +13,8 @@ aliases:
  - /news/3965/immigration-bill-discussed-at-union-council
 imported: true
 comments:
- - Its the National Health Service not the International Health Service When you are working in the UK and paying sufficient taxes then you can use the NHS for free Slamming down on health tourism and overuse from nontax paying residents cant be done fairly without charging international students alsoThe amount of times Ive seen international students misuse the college health centre says a lot to me if youve got a cold go to the pharmacyIm not sure how you can tell an international student by sight let alone the severity of their illness
+ - value: >
+     It's the National Health Service, not the International Health Service. When you are working in the UK and paying sufficient taxes, then you can use the NHS for free. Slamming down on health tourism, and overuse from non-tax paying residents can't be done fairly without charging international students also. <br> <br>The amount of times I've seen international students misuse the college health centre says a lot to me... if you've got a cold, go to the pharmacy.,I'm not sure how you can tell an international student by sight... let alone the severity of their illness?
 
 # Article Taxonomies
 categories:

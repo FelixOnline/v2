@@ -13,7 +13,8 @@ aliases:
  - /sport/6013/boat-club-head-off-on-a-tour-de-france
 imported: true
 comments:
- - Posted by  on October 17 2011 at 911 pm                                       Thanks Lynda it is the magic sauce  It is a practice of faith thereby attracting exactly what we need  Some times we sell ourselves short but we ask for something and get something bigger than we extepedcDonna Merrill recently posted
+ - value: >
+     Posted by on October 17, 2011 at 9:11 pm Thanks Lynda, it is the magic sauce. It is a practice of faith, thereby attracting exactly what we need. Some times we sell ourselves short, but we ask for something and get something bigger than we exte.pedcDonna Merrill recently posted..
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/3868/summer-camp-success-for-icu-shorinji-kempo
 imported: true
 comments:
- -  Good decription joyful vibe Shes curntrely playing Minko in Hanasaku Iroha She starred as Arashi last fall in Soredemo Machi ga Mawatteiru Her full list of roles is Mindblowing indeed especially to do it with such ease smiling away Ive always liked her seiyuu work but when she uses her deeper voice it has a blunt amateurish quality that many otaku just hate I think shes hilarious in SoreMachi and also in Seitokai Yakuindomo where she plays a side role as the judo club president I see from Japanese Wikipedia that she has several nicknames Chiaki Chiichan Chiakichan called that by Sanpei Yuuko Oomii Omigasu Omigawa by older seiyuu and Omigawakun by Sawashiro Miyuki I like that last one lol especially considering that shes pretty glamorous kun is the suffix used to refer to male students
+ - value: >
+     -- Good decription: "joyful vibe." She's curntrely playing Minko in Hanasaku Iroha. She starred as Arashi last fall in Soredemo Machi ga Mawatteiru. Her full list of roles is .Mind-blowing, indeed, especially to do it with such ease, smiling away. I've always liked her seiyuu work, but when she uses her deeper voice, it has a blunt, amateurish quality that many otaku just hate. I think she's hilarious in SoreMachi, and also in Seitokai Yakuindomo, where she plays a side role as the judo club president. I see from Japanese Wikipedia that she has several nicknames: Chiaki, Chii-chan, Chiaki-chan (called that by Sanpei Yuuko), Oomii, Omigasu, Omigawa (by older seiyuu), and Omigawa-kun (by Sawashiro Miyuki). I like that last one, lol, especially considering that she's pretty glamorous. (-kun is the suffix used to refer to male students.)
 
 # Article Taxonomies
 categories:

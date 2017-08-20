@@ -13,7 +13,8 @@ aliases:
  - /music/484/beach-house-are-the-cherry-on-the-cake
 imported: true
 comments:
- - more photoshttpwwwflickrcomphotoschristopherwalmsleysets72157625354978603
+ - value: >
+     more photos: <br> <br>http://www.flickr.com/photos/christopherwalmsley/sets/72157625354978603/
 
 # Article Taxonomies
 categories:

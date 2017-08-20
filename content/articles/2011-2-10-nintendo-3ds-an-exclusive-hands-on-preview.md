@@ -13,7 +13,8 @@ aliases:
  - /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
 imported: true
 comments:
- - I think youll find the NGP is more awesome in every way
+ - value: >
+     I think you'll find the NGP is more awesome in every way.
 
 # Article Taxonomies
 categories:

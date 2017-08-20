@@ -13,7 +13,8 @@ aliases:
  - /news/2378/bike-auction-brings-the-money-
 imported: true
 comments:
- - Imperial College Herion Users Society ICHUS was proud to donate the bikes to the college these are GORG  so amazing  i toatlly understand feeling uninspired when life gets crazy  it feels so good when things fall into place and it comes back to you on your own terms  these feel real and special and not forced  congrats Wow Kristy these are gorgeous  I relaly love the look of film  It just seems more natural and more real  Youve done an amazing job  Plus your kids are adorable  ownership regardless   effective medications   insurance card scanning   car insurance quote   such issues
+ - value: >
+     Imperial College Herion Users Society (ICHUS), was proud to donate the bikes to the college.,- these are GORG. so amazing. i toatlly understand feeling uninspired when life gets crazy. it feels so good when things fall into place and it comes back to you on your own terms. these feel real and special, and not forced. congrats!,- Wow Kristy, these are gorgeous! I <a href="http://aarnbw.com">relaly</a> love the look of film! It just seems more natural and more real. You've done an amazing job! Plus, your kids are adorable!, ownership regardless effective medications insurance card scanning car insurance quote such issues
 
 # Article Taxonomies
 categories:

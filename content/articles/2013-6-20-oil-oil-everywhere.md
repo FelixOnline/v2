@@ -13,7 +13,8 @@ aliases:
  - /games/3713/oil-oil-everywhere
 imported: true
 comments:
- - Hey this is a great post Could you keep me updated with any other info smiilar to this If travelling to the UK why not stay at Stratford hotel and watch a Shakespear playWhat a disappointment  Less than 30 mientus of video you can find on the internet and of little value  Most of what the videos show is the same process for WordPress which the narrator continuously points out   How to Setup WordPress MU in 30 Minutes  would be a more appropriate name  There is little if nothing for how to use WordPress MU  I purchased this to learn more but I am already past the level where this product takes the user and I still have a lot of questions  But wait you can sign up for their affiliate program from a link to sell this worthless stuff
+ - value: >
+     Hey this is a great post. Could you keep me updated with any other info smiilar to this? If travelling to the UK why not stay at Stratford hotel and watch a Shakespear play,What a disappointment! Less than 30 <a href="http://uifidalngll.com">mientus</a> of video you can find on the internet and of little value. Most of what the videos show is the same process for WordPress which the narrator continuously points out. How to Setup WordPress MU in 30 Minutes would be a more appropriate name. There is little if nothing for how to use WordPress MU. I purchased this to learn more but I am already past the level where this product takes the user and I still have a lot of questions. But wait, you can sign up for their affiliate program from a link to sell this worthless stuff.
 
 # Article Taxonomies
 categories:

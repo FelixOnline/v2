@@ -13,7 +13,8 @@ aliases:
  - /sport/39/sailing-club-venture-onto-welsh-waters
 imported: true
 comments:
- - Lovely senic course and well steuorppd race Food was lovely and greatly appreciated by the runners Credit is due to committees who put on road races and to the runners who travel all over cork county and further afield to support these races On this note the delay in calling out the results was not good enough bearing in mind that people had to travel up to 2hrs and more to get home on  sunday evening having made the journey to the race earlier in the dayLooking foward to next years race
+ - value: >
+     Lovely senic course and well steuorppd race. Food was lovely and greatly appreciated by the runners. Credit is due to committees who put on road races and to the runners who travel all over cork county and further afield to support these races. On this note the delay in calling out the results was not good enough bearing in mind that people had to travel up to 2hrs and more to get home on sunday evening having made the journey to the race earlier in the day.Looking foward to next years race.
 
 # Article Taxonomies
 categories:

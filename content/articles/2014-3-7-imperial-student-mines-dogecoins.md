@@ -13,7 +13,8 @@ aliases:
  - /news/4451/imperial-student-mines-dogecoins
 imported: true
 comments:
- - I think youve mixed up the Harvard super computer dogecoin story with this one The imperial student hasnt been permanently banned from using the colleges more powerful research supercomputers
+ - value: >
+     I think you've mixed up the Harvard super computer dogecoin story with this one. The imperial student hasn't been ''permanently banned from using the college's more powerful research supercomputers".
 
 # Article Taxonomies
 categories:

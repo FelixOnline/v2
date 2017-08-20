@@ -13,7 +13,8 @@ aliases:
  - /comment/230/dawkins--asshole-p--005-
 imported: true
 comments:
- - Hey Id really like to stress that Im actually a really nice guy when Im my true self That whole DorkinsHatingCynicDude thing is just image because I want to be different Seriously dislikeTHX thats a great asnewr
+ - value: >
+     Hey, I'd really like to stress that I'm actually a really nice guy when I'm my true self. That whole "Dorkins-Hating-Cynic-Dude" thing is just image, because I want to be different. Seriously ;),dislike,THX that's a great asnewr!
 
 # Article Taxonomies
 categories:

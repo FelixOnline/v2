@@ -13,7 +13,8 @@ aliases:
  - /film/873/beat-the-bush-administration
 imported: true
 comments:
- - McCain   I was going to do a story on this   yu beat me to it   congrats It is a good story which needs to be told over and over  Many of these dotcemnus from what I understand were highly classified and were no surprises critical of Clintons handling of the Millenium celebration threats  The Archives has no idea what was actually stolen as they do not keep records of the dotcemnus from the Presdients national security teamHis sentence of 50000 fine and 100 hours of community service doesnt come close Tanner  I figured you might want to let your reaedrs know of two rarely shown on TV spy  spy related movies playing this Friday January 281 Deadfall 1968 w Michael Caine Fox Movie Channel 100 AM 2 The Odessa File 1974 w Jon Voight Max Schell Turner Classic Movies 900 PMI think these are Central time but check local listings to be sure
+ - value: >
+     McCain I was going to do a story on this yu beat me to it congrats! It is a good story which needs to be told over and over. Many of these dotcemnus, from what I understand, were highly classified and were (no surprises) critical of Clinton's handling of the Millenium celebration threats. The Archives has no idea what was actually stolen, as they do not keep records of the dotcemnus from the Presdient's national security team.His sentence of $50,000 fine and 100 hours of community service doesn't come close ,Tanner - I figured you might want to let your<a href="http://wafwnal.com"> reaedrs</a> know of two rarely shown on TV spy / spy related movies playing this Friday, January 28.1. Deadfall (1968) w/ Michael Caine. Fox Movie Channel 1:00 AM 2. The Odessa File (1974) w/ Jon Voight, Max Schell. Turner Classic Movies 9:00 PM(I think these are Central time, but check local listings to be sure)
 
 # Article Taxonomies
 categories:

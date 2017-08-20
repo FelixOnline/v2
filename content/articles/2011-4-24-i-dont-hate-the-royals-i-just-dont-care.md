@@ -13,7 +13,8 @@ aliases:
  - /comment/1135/i-dont-hate-the-royals-i-just-dont-care
 imported: true
 comments:
- - for those that dont care httpwwwarewillandkatemarriedcom
+ - value: >
+     for those that dont care: http://www.arewillandkatemarried.com/
 
 # Article Taxonomies
 categories:

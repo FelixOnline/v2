@@ -13,7 +13,8 @@ aliases:
  - /science/6843/my-sun-and-stars
 imported: true
 comments:
- - Hey KateLooking forward to reading all about it Could you do me a favor If you go to the library at MBL theres a quote on the wall something about not always looking at books but going outside  Could you post a pic of it  I liked the quote a lot  especially given the con8xtte211 and cant remember exactly how it goesThanks
+ - value: >
+     Hey Kate,Looking forward to reading all about it. Could you do me a favor? If you go to the library at MBL, there’s a quote on the wall… something about not always looking at books but going outside. Could you post a pic of it? I liked the quote a lot — especially given the con#8xt&amp;te211; and can’t remember exactly how it goes.Thanks!
 
 # Article Taxonomies
 categories:

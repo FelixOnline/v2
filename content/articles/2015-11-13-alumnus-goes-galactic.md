@@ -13,7 +13,8 @@ aliases:
  - /features/5727/alumnus-goes-galactic
 imported: true
 comments:
- - ApSFNS httpbrothosonkonlonwonru
+ - value: >
+     ApSFNS http://brothosonkonlonwon.ru
 
 # Article Taxonomies
 categories:

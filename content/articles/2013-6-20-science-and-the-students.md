@@ -13,7 +13,8 @@ aliases:
  - /science/3719/science-and-the-students-
 imported: true
 comments:
- - Podobno jest ju zakaz handlu tymi prktdouami To dlaczego we wszystkich sklepach drogeryjnych i marketach wci  na legalu  tym handluj Nie do e cigle tym handluj tym cierpieniem zwierzt to jeszcze na dodatek co chwil w telewizji s te produkty reklamowane Cigle tylko Timotey Loreal Garnier  i inne Jako nikt si tym zakazem nie przej niestety   Przynajmniej w teorii w prkacyte pozostaj wci furtki przez ktf3re to prawo mona obej oraz kwestia jego egzekwowania Jakie s te wyjtki prosz napiszcie co o nich chce byc swiadom konsumentk
+ - value: >
+     Podobno jest już zakaz handlu tymi prktdouami. To dlaczego we wszystkich sklepach drogeryjnych i marketach wciąż na legalu tym handlują? Nie dość, że ciągle tym handlują (tym cierpieniem zwierząt), to jeszcze na dodatek co chwilę w telewizji są te produkty reklamowane. Ciągle tylko Timotey, L'oreal, Garnier i inne. Jakoś nikt się tym zakazem nie przejął, niestety ., Przynajmniej w teorii; w <a href="http://vnzuuip.com">prkacyte</a> pozostają wciąż furtki, przez ktf3re to prawo można obejść oraz kwestia jego egzekwowania Jakie są te wyjątki? proszę napiszcie coś o nich, chce byc swiadomą konsumentką.
 
 # Article Taxonomies
 categories:

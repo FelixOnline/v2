@@ -13,7 +13,8 @@ aliases:
  - /science/3468/choccy-and-the-dangers-towards-doggies
 imported: true
 comments:
- - We have Folders and Maxwell Housewe also have Lipton teahotcocoMy Kids and Husband Drink the coco and Tea and cofefeI will drink Hot coco once in a blue MoonI am mountaindew drinker
+ - value: >
+     We have Folders and Maxwell Housewe also have Lipton teahotcoco.My Kids and Husband Drink the coco and Tea and cofefe.I will drink Hot coco once in a blue Moon.I am mountaindew drinker .
 
 # Article Taxonomies
 categories:

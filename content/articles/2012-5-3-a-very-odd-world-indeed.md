@@ -13,7 +13,8 @@ aliases:
  - /games/2417/a-very-odd-world-indeed
 imported: true
 comments:
- - Its 2 and its truly worth every pennyhttpstoresteampoweredcomapp15700I downloaded it and played it over Christmas and even though I admittedly didnt complete it I thoroughly enjoyed the game Its properly difficult and makes you think more than pretty much all games Ive played in the last 23 years bar Portal and Limbo3One of my favourite games of all time I must play either Oddysee or Exoddus at least once a year Aside from the gameplay which is just stunning the thing I loved about these games the most was the atmosphere they created and the sheer loneliness I suppose that you felt whilst playing A great escapist pleasure
+ - value: >
+     It's £2 and it's truly worth every penny. <br>http://store.steampowered.com/app/15700/ <br> <br>I downloaded it and played it over Christmas and even though I admittedly didn't complete it, I thoroughly enjoyed the game. <br>It's properly difficult and makes you think more than pretty much all games I've played in the last 2-3 years (bar Portal and Limbo). <br> <br>&lt;3,One of my favourite games of all time. I must play either Oddysee or Exoddus at least once a year. Aside from the gameplay, which is just stunning, the thing I loved about these games the most was the atmosphere they created, and the sheer... loneliness, I suppose, that you felt whilst playing. A great escapist pleasure.
 
 # Article Taxonomies
 categories:

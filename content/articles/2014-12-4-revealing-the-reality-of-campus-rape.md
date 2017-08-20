@@ -13,7 +13,8 @@ aliases:
  - /arts/5005/revealing-the-reality-of-campus-rape
 imported: true
 comments:
- - Wow stunning portal Thnx nba 2k16 my player prices httpsmessagediigocommessagenba2k16mtcoinsmykeeperinaimandtakemychances4268728page_num00
+ - value: >
+     Wow, stunning portal. Thnx ...| <br>nba 2k16 my player prices https://message.diigo.com/message/nba-2k16-mt-coins-my-keeper-in-aim-and-take-my-chances-4268728?page_num=0#0
 
 # Article Taxonomies
 categories:

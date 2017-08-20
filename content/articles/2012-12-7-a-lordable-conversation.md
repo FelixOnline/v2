@@ -13,7 +13,8 @@ aliases:
  - /news/3031/a-lordable-conversation
 imported: true
 comments:
- - Smashing event in RSM last week More guests like LNoL pleaseWell done Morty
+ - value: >
+     Smashing event in RSM last week. More guests like LNoL please! <br> <br>Well done Morty.
 
 # Article Taxonomies
 categories:

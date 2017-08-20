@@ -13,7 +13,8 @@ aliases:
  - /comment/6785/query-your-consumerism
 imported: true
 comments:
- - It iss thhe bet time too make somme plans ffor tthe fufure andd itt iss tiume tto be happyIve read thiis post annd if I could I wieh too sufgest yoou feww interesting tings oor suggestions Maybe yyou can write nedt artticles rerferring tto his article I desir too read more thijngs avout itWayy cool Somee very vali points I apppreciate yoou penning thos article annd tthe rest of thhe siute iis alpso very good   I am suure this paragrasph has touched alll tthe internet people itss reallly really good post onn building up neww website  httpfoxnewsnet
+ - value: >
+     It iss thhe bet time too make somme plans ffor tthe fufure andd itt iss tiume tto be happy. <br>I’ve read thiis post annd if I could I wieh too sufgest yoou feww interesting <br>tings oor suggestions. Maybe yyou can write nedt artticles rerferring <br>tto his article. I desir too read more thijngs avout it! <br>Wayy cool! Somee very vali points! I apppreciate yoou penning thos article annd tthe rest of <br>thhe siute iis alpso very good. I am suure this paragrasph has touched alll tthe <br>internet people, itss reallly really good post <br>onn building up neww website. http://foxnews.net
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tech/3734/microsoft-kicked-everyones-asshard
 imported: true
 comments:
- - Are you stupid
+ - value: >
+     Are you stupid?
 
 # Article Taxonomies
 categories:

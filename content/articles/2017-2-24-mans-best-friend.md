@@ -13,7 +13,8 @@ aliases:
  - /science/6816/mans-best-friend
 imported: true
 comments:
- - Re your final comment  thats true it was a poor piece of comprehension on my partMy argument is that this is a debate about redefinition to be more inclusive not about discrimination per se  out of interest would you approve of the government stepping out of marriage all together civil unions for all and freedom to call your relationship whatever you waItn8217ve written some stuff on why I think opposition to homosexual practice is the only legitimate interpretation of the Biblical data which makes changing the churchs position difficult Particularly  I
+ - value: >
+     Re your final comment – that’s true, it was a poor piece of comprehension on my part.My argument is that this is a debate about redefinition to be more inclusive, not about discrimination per se – out of interest, would you approve of the government stepping out of marriage all together, civil unions for all, and freedom to call your relationship whatever you wa&amp;?Itn#8217;ve written some stuff on why I think opposition to homosexual practice is the only legitimate interpretation of the Biblical data, which makes changing the church’s position difficult. Particularly … I .
 
 # Article Taxonomies
 categories:

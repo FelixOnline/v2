@@ -13,7 +13,8 @@ aliases:
  - /sport/5410/ice-hockey-gear-up-for-varsity
 imported: true
 comments:
- - Exceptionally individual pleasant website Astounding info available on few clicksmadden 17 httpwwwerodateworldeuindexphpmmember_blogpviewid524sid428
+ - value: >
+     Exceptionally individual pleasant website. Astounding info available on few clicks <br>madden 17 http://www.erodateworld.eu/index.php?m=member_blog&amp;p=view&amp;id=524&amp;sid=428
 
 # Article Taxonomies
 categories:

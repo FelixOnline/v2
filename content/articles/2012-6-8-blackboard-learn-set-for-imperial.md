@@ -13,7 +13,8 @@ aliases:
  - /news/2541/blackboard-learn-set-for-imperial-
 imported: true
 comments:
- - Blackboard sucks hairy ass I hate it and its so so terribleI agree with above poster They say its all new and it looks all new until you click a link to one of your courses and then youre back to good old stabbing yourself in the eyes and crying yourself to sleepWhy didnt they just roll out Earth Science and Engineerings VLE ESESIS It is amazing No wonder why their student satisfaction is so high
+ - value: >
+     Blackboard sucks hairy ass I hate it and it's so so terrible,I agree with above poster! They say it's all new, and it looks all new, until you click a link to one of your courses, and then you're back to good old stabbing yourself in the eyes and crying yourself to sleep!,Why didn't they just roll out Earth Science and Engineering's VLE, ESESIS? It is amazing! No wonder why their student satisfaction is so high
 
 # Article Taxonomies
 categories:

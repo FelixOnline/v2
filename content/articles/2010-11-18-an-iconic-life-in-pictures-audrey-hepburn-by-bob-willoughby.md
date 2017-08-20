@@ -13,7 +13,8 @@ aliases:
  - /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
 imported: true
 comments:
- - Proud Galleries Chelsea presents The Audrey Collection by Bob Willoughby a touching photographic portrait of one of the most striking and stylish Hollywood stars of the 20th century captured through the lens of one her most trusted friends Bob Willoughbys unique collection will be exhibited at Proud Chelsea from 12th May  10th July 2011 and includes estate and very rare original prints printed and signed by Bob Willoughby himself and all for sale In his distinguished career as a Hollywood photographer Bob Willoughby took iconic photographs of many stars but remained unequivocal about his favourite subject Audrey HepburnFor more information email infoproudgalleriescouk or visit httpwwwproudcoukProud Chelsea 161 Kings Road SW3 5XP
+ - value: >
+     Proud Galleries Chelsea presents The Audrey Collection by Bob Willoughby, a touching photographic portrait of one of the most striking and stylish Hollywood stars of the 20th century captured through the lens of one her most trusted friends. Bob Willoughby’s unique collection will be exhibited at Proud Chelsea from 12th May – 10th July 2011 and includes estate and very rare original prints, printed and signed by Bob Willoughby himself and all for sale. In his distinguished career as a Hollywood photographer, Bob Willoughby took iconic photographs of many stars but remained unequivocal about his favourite subject: Audrey Hepburn. <br> <br>For more information email info@proudgalleries.co.uk or visit http://www.proud.co.uk/ <br> <br>Proud Chelsea, 161 Kings Road, SW3 5XP
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/2116/awkward-conversations
 imported: true
 comments:
- -                                                        SURE               Prakash          Ananthi                       Speed Master                                              dineshkumar Nirmal         dr sueenl krishnan          Jana            Kanchana Radhakrishnan                 Vinu
+ - value: >
+     க , ம ணவன , வ க க உலகம , ச லம த வ , வ க , எப ப ட .., ப ண ட ச ச ர வல ப ப , க ழந த நல மர த த வன !, ச .ப .ச ந த ல க ம ர , SUREஷ (பழன ய ல ர ந த ), தம ழ வ ச - Prakash, ய வ ய ஸ (ய க ), Ananthi (அன ப டன ஆனந த ), ப ரஷ , ந .மண வண ணன , அர ண ப ரச த , Speed Master, பன ன க க ட ட ர ம ச ம , ம.த .ச த , ஜ .ஜ , ச ட ட க க ரன , ட ல ப , ஜ ல தண ண - ய க ஷ , இரவ வ னம , dineshkumar, Nirmal, ஹ ஜ ம ஹ த ன , dr sueenl krishnan, எம அப த ல க தர , Jana, ரஹ ம கஸ ல , ச வக ம ர , Kanchana Radhakrishnan, ச ங க வ , அஞ ச ச ங கம , கல ந சன , Vinu, இளம த யவன , ஜ ...வர க க க ம கர த த கள க க ம நன ற நண பர கள .
 
 # Article Taxonomies
 categories:

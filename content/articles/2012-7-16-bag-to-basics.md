@@ -13,7 +13,8 @@ aliases:
  - /fashion/2586/bag-to-basics
 imported: true
 comments:
- - at last ive been on the look out for a new eyewear gadget bag thank you felix fashion
+ - value: >
+     at last! i've been on the look out for a new eyewear gadget bag! thank you, felix fashion.
 
 # Article Taxonomies
 categories:

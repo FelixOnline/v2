@@ -13,7 +13,8 @@ aliases:
  - /sport/3952/imperial-4th-s-put-six-past-greenwich
 imported: true
 comments:
- - Hi NicoleI wrote you a few weeks ago about the Robin Long workshop  I am one of Kellis 2011 spinrg alums  Wish I could attend Robins workshop but it now looks like I will be in LA that week  I am taking Kelley Rydens workshop in a few weeks thoughThese are fantastic shots  Mind sharing the lens you used and what actions you are working with  If its easier you can email me instead of posting  Also as I think you know I am based out of Hartford  I am looking for a location down south to meet a friend from NY for a shoot  Mind sharing your some locations in the fairfield area that I may be able to meet them at  I understand if you would rather keep them under wraps
+ - value: >
+     Hi Nicole.I wrote you a few weeks ago about the Robin Long workshop. I am one of Kelli's 2011 spinrg alums. Wish I could attend Robin's workshop but it now looks like I will be in LA that week. I am taking Kelley Ryden's workshop in a few weeks though.These are fantastic shots. Mind sharing the lens you used and what actions you are working with? If it's easier you can email me instead of posting. Also, as I think you know I am based out of Hartford. I am looking for a location down south to meet a friend from NY for a shoot. Mind sharing your some locations in the fairfield area that I may be able to meet them at? I understand if you would rather keep them under wraps.
 
 # Article Taxonomies
 categories:

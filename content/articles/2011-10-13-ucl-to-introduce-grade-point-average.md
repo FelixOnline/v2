@@ -13,7 +13,8 @@ aliases:
  - /news/1503/ucl-to-introduce-grade-point-average
 imported: true
 comments:
- - I think the GPA grading is a much fairer concept Some UK universities and some courses do not adopt grade inflation This is because universities and departments act independently they have different scoring rules and very little regulationsupervision exists on UK universities For example universities which are not part of the G5 or Russell Group will try to boost their reputation using the employment market as a mean to it Therefore the current grading system is just biased and a bad indication of the student capacity
+ - value: >
+     I think the GPA grading is a much fairer concept. Some UK universities and some courses do not adopt grade inflation. This is because universities, and departments, act independently; they have different scoring rules and very little regulation/supervision exists on UK universities. For example, universities which are not part of the G5 or Russell Group will try to boost their reputation using the employment market as a mean to it. Therefore, the current grading system is just biased and a bad indication of the student capacity.
 
 # Article Taxonomies
 categories:

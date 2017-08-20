@@ -13,7 +13,8 @@ aliases:
  - /food/1532/margaritas--home-its-cocktail-time
 imported: true
 comments:
- - I have learned some new isuses from your web siteabout pcs Another thing Ive always believed is that laptop computers have become an item that each residence must have for most reasons They offer convenient ways to organize households pay bills search for information study pay attention to music and also watch television shows An innovative technique to complete these tasks is to use a mobile computer These pcs are mobilesmall robust and portable
+ - value: >
+     说道：I have learned some new isuses from your web siteabout pcs. Another thing I've always believed is that laptop computers have become an item that each residence must have for most reasons. They offer convenient ways to organize households, pay bills, search for information, study, pay attention to music and also watch television shows. An innovative technique to complete these tasks is to use a mobile computer. These pc's are mobile,small, robust and portable.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
 imported: true
 comments:
- - Nice article but as someone who lives in Paragon just wanted to get the facts straight South Ealing is in fact in Zone 3 not Zone 2 which makes a fair bit of difference in terms of travel costs
+ - value: >
+     Nice article, but as someone who lives in Paragon, just wanted to get the facts straight... South Ealing is in fact in Zone 3, not Zone 2, which makes a fair bit of difference in terms of travel costs! ;)
 
 # Article Taxonomies
 categories:

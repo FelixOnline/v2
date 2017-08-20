@@ -13,7 +13,8 @@ aliases:
  - /politics/1567/the-cunning-of-dr-fox
 imported: true
 comments:
- - Dude split infinitives make life worth living And anyway the dont use them or well kill the kitten rule is taken from Latin where it makes sense and unceremoniously dropped into English where it doesntPeace and LoveRxI notice a split infinitive and one or two superfluous commas but overall pretty impressive Philip
+ - value: >
+     Dude split infinitives make life worth living. And anyway, the 'don't use them or we'll kill the kitten' rule is taken from Latin, where it makes sense, and unceremoniously dropped into English, where it doesn't. <br> <br>Peace and Love, <br> <br>R <br> <br>x,I notice a split infinitive and one or two superfluous commas, but overall pretty impressive Philip!
 
 # Article Taxonomies
 categories:

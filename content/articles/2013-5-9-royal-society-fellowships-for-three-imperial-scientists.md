@@ -13,7 +13,8 @@ aliases:
  - /news/3558/royal-society-fellowships-for-three-imperial-scientists
 imported: true
 comments:
- - cialis pills sold in canada without perscription buy accutane cheap online auto insurance buy cheap car insurance online today billigst cialis cialis
+ - value: >
+      <a href="http://www.tracygracedesigns.com/cheap-cialis.html">cialis pills sold in canada without perscription</a> <a href="http://www.memorialbaptistbeckley.com/buy-accutane">buy accutane cheap</a> <a href="http://www.mycarinsurquote.com/">online auto insurance</a> <a href="http://www.insurancequotesforyou.net">buy cheap car insurance online today</a> <a href="http://www.maqdown.com/cialis.html">billigst cialis</a> <a href="http://priceforerection.com">cialis</a>
 
 # Article Taxonomies
 categories:

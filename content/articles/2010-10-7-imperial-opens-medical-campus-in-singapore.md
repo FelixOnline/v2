@@ -13,7 +13,8 @@ aliases:
  - /news/177/imperial-opens-medical-campus-in-singapore
 imported: true
 comments:
- - Youre on top of the game Thanks for shairng A6ag2P  xkbryqaqweqr
+ - value: >
+     Youre on top of the game. Thanks for shairng. ,A6ag2P <a href="http://xkbryqaqweqr.com/">xkbryqaqweqr</a>
 
 # Article Taxonomies
 categories:

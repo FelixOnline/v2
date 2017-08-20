@@ -13,7 +13,8 @@ aliases:
  - /tv/767/what-we-watched-
 imported: true
 comments:
- - AFAICT youve covered all the bases with this anwesrrq39gn  puiqazdokmec
+ - value: >
+     AFAICT you've covered all the bases with this anwesr!,rq39gn <a href="http://puiqazdokmec.com/">puiqazdokmec</a>
 
 # Article Taxonomies
 categories:

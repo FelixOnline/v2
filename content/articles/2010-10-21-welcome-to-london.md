@@ -13,7 +13,8 @@ aliases:
  - /fashion/233/welcome-to-london-
 imported: true
 comments:
- - She seemingly hasnt quite gotten over the loss of her pony and so tries to emulate that muddy blustered look of a long day of dressage with matted hair Rahaha good writing darling
+ - value: >
+     "She seemingly hasn’t quite gotten over the loss of her pony and so tries to emulate that muddy, blustered look of a long day of dressage with matted hair " <br>Rahaha good writing darling!
 
 # Article Taxonomies
 categories:

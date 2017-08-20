@@ -13,7 +13,8 @@ aliases:
  - /music/1314/boned-at-metric
 imported: true
 comments:
- - Niceberg here  Ill actually be playing chipstep and neorave if you saw RaathMonTet at the last one youll have a good idea of what that meansLook out for my Felix article appearing soon
+ - value: >
+     Niceberg here - I'll actually be playing chipstep and neo-rave (if you saw Raath-Mon-Tet at the last one, you'll have a good idea of what that means). <br> <br>Look out for my Felix article appearing soon.
 
 # Article Taxonomies
 categories:

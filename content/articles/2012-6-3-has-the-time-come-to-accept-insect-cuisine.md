@@ -13,7 +13,8 @@ aliases:
  - /food/2521/has-the-time-come-to-accept-insect-cuisine
 imported: true
 comments:
- - Or yknow vegetarianism Genetically engineer me a lettuce that tastes of beef and Ill switch in an instant
+ - value: >
+     Or, y'know, vegetarianism. ,Genetically engineer me a lettuce that tastes of beef and I'll switch in an instant.
 
 # Article Taxonomies
 categories:

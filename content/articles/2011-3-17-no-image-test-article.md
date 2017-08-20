@@ -13,7 +13,8 @@ aliases:
  - /arts/1091/no-image-test-article
 imported: true
 comments:
- - Test commentTest replySecond test replyFinal test replyJust making sure logged in comments still workTest external commentTest external replyTest comment  ignore meAnd another sorry Kadhim
+ - value: >
+     Test comment!,Test reply,Second test reply,Final test reply!,Just making sure logged in comments still work,Test external comment,Test external reply,Test comment - ignore me!,And another, sorry Kadhim!
 
 # Article Taxonomies
 categories:

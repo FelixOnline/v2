@@ -13,7 +13,8 @@ aliases:
  - /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
 imported: true
 comments:
- - Just had to tell you Now im lucky that i happened onto your sitenba 2k16 my auctions httpcsgoskinsultimatesnappagescomblog20160412csgoskinscounterstrikermethodsforbeginnersMany thanks this website is extremely valuablepokemongo httpfriendsmakerdkmemberblog_post_viewphppostId115449Many thanks extremely beneficial Will certainly share website with my good friendsfifa 17 httpnba2k16mtgotweeblycomblogcopyingxboxgamestodrivenba2k17coinsI love browsing your website Thanks a lotnba 2k17 httpvisuallybuynba2k17coinsadvantageousourchildren
+ - value: >
+     Just had to tell you Now i'm lucky that i happened onto your site!| <br>nba 2k16 my auctions http://csgoskinsultimate.snappages.com/blog/2016/04/12/cs-go-skins-counter-striker-methods-for-beginners,Many thanks, this website is extremely valuable <br>pokemongo http://friendsmaker.dk/member/blog_post_view.php?postId=115449,Many thanks extremely beneficial. Will certainly share website with my good friends <br>fifa 17 http://nba2k16mtgot.weebly.com/blog/copying-xbox-games-to-drive-nba-2k17-coins,I love browsing your website. Thanks a lot! <br>nba 2k17 http://visual.ly/buy-nba-2k17-coins-advantageous-our-children
 
 # Article Taxonomies
 categories:

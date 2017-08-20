@@ -13,7 +13,8 @@ aliases:
  - /tech/456/google-to-make-learning-languages-redundant
 imported: true
 comments:
- - The idea of being able to converse with someone who doesnt speak your language and translated almost instantly is one of those inventions if anyone can pull it off Google can but even Google can not make learning languages redundant Napoleon said every tongue by man
+ - value: >
+     The idea of being able to converse with someone who doesn’t speak your language, and translated almost instantly is one of those inventions if anyone can pull it off, Google can, but even Google can not make learning languages redundant. Napoleon said: every tongue by man
 
 # Article Taxonomies
 categories:

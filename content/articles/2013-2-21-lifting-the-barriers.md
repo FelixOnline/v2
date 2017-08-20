@@ -13,7 +13,8 @@ aliases:
  - /politics/3339/lifting-the-barriers
 imported: true
 comments:
- - Such free trade agreements do nothing to benefit the general population Instead they are taylored towards investors and special interest groupsI direct you to an article by Noam Chomsky httpwwwchomskyinfoarticles199303htm who argues this point much more lucidly than I could
+ - value: >
+     Such "free trade agreements" do nothing to benefit the general population. Instead they are taylored towards investors and special interest groups. <br>I direct you to an article by Noam Chomsky (http://www.chomsky.info/articles/199303--.htm) who argues this point much more lucidly than I could.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /politics/2705/conservative-party-conference
 imported: true
 comments:
- - That was a party political broadcast by the Labour Party
+ - value: >
+     That was a party political broadcast by the Labour Party.
 
 # Article Taxonomies
 categories:

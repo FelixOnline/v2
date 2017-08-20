@@ -13,7 +13,8 @@ aliases:
  - /arts/5205/viviane-sassen-like-never-before
 imported: true
 comments:
- - Youre a really helpful website could not make it without yacs go skins blurry httpodeliaelsiemoonfruitcomblog4592032329AnUnbiasedReviewInvolvingLeagueOfLegendsAFastPacedCompetitiveOnlineGame10617915
+ - value: >
+     You're a really helpful website; could not make it without ya!| <br>cs go skins blurry http://odeliaelsie.moonfruit.com/blog/4592032329/An-Unbiased-Review-Involving-League-Of-Legends---A-Fast-Paced-Competitive-Online-Game/10617915
 
 # Article Taxonomies
 categories:

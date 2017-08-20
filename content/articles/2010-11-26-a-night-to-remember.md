@@ -13,7 +13,8 @@ aliases:
  - /news/451/a-night-to-remember
 imported: true
 comments:
- - twas a messy night indeed
+ - value: >
+     'twas a messy night indeed.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tech/268/american-embarrassment-as-more-documents-leaked-about-iraq-war-
 imported: true
 comments:
- - Email notification of comment ready to be approved going to mekadhim
+ - value: >
+     Email notification of comment ready to be approved going to me/kadhim?
 
 # Article Taxonomies
 categories:

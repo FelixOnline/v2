@@ -13,7 +13,8 @@ aliases:
  - /tv/3099/is-south-park-going-south
 imported: true
 comments:
- - Cash for gold is a good episode and I would never disregard it but In my own humble opinion I think there are better episodes Yes the song is epic but there isnt really much else in terms of story I found that most of the jokes were a bit repetitive I mean cmon compare it to raising the bar or the giggling of mickey mouseeach to his own as long that we can agree that South Park is a good showI cant believe you are disregarding Cash for Gold as one of the best episodes of the season The cash for gold song is an instant classic and what I play on my ipod everytime I take the bus as in httpwwwyoutubecomwatchvhCAaHoDY7kdesktop_uri2Fwatch3Fv3DhCAaHoDY7kWell its just a matter of taste I just dont find Mickey Mouse funny at all The joke of walt disney  fascist has been used way just too much
+ - value: >
+     Cash for gold is a good episode, and I would never disregard it but In my own humble opinion, I think there are better episodes. Yes the song is epic, but there isn't really much else in terms of story. I found that most of the jokes were a bit repetitive. I mean c'mon compare it to raising the bar or the giggling of mickey mouse?,each to his own! as long that we can agree that South Park is a good show!,I can't believe you are disregarding Cash for Gold as one of the best episodes of the season. <br> <br>The cash for gold song is an instant classic and what I play on my ipod everytime I take the bus, as in <br>http://www.youtube.com/#/watch?v=hCA-aHoDY7k&amp;desktop_uri=%2Fwatch%3Fv%3DhCA-aHoDY7k,Well, it's just a matter of taste, I just don't find Mickey Mouse funny at all. The joke of walt disney = fascist has been used way just too much
 
 # Article Taxonomies
 categories:

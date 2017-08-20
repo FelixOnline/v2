@@ -13,7 +13,8 @@ aliases:
  - /biz/3465/facebook-celebrity-looking-for-a-job
 imported: true
 comments:
- - Theres definately a great deal to find out about this subject I love all the points you have madeIf you want to read more articles by me feel free to link in google or linkedin httpsplusgooglecomPedroPereiraMarketing
+ - value: >
+     There's definately a great deal to find out about this subject. I love all the points you have made.,If you want to read more articles by me feel free to link in google+ or linkedin https://plus.google.com/+PedroPereiraMarketing
 
 # Article Taxonomies
 categories:

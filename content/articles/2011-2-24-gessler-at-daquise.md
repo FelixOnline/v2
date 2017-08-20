@@ -13,7 +13,8 @@ aliases:
  - /food/864/-gessler-at-daquise
 imported: true
 comments:
- - I went to dine in Gesslerat Daquise just tonight actuallyOrdered the marinated herring as a starter It sure was awesome Smoked tender raw herring with chopped garlic A definite musttry Rated as 810Had the roasted duck recommended by the waiter with apple as my mains Mash potatoes and red cabbage came along as sides The duck came with generous amounts of cranberry sauce which reminded me of a nice homecookedChristmas meal Rated as 810My other friend had the roasted chicken with egg pasta in broth Chicken breast was a little on the dry side I rate this as average 610In portionwise this is definitely a place to go to The portion sizes are hugeAll in all only spent about 30 for the meal thanks to the 20 discount
+ - value: >
+     I went to dine in Gesslerat Daquise just tonight actually. <br>Ordered the marinated herring as a starter. It sure was awesome! Smoked tender raw herring with chopped garlic. A definite must-try! (Rated as 8/10) <br>Had the roasted duck (recommended by the waiter) with apple as my mains. Mash potatoes and red cabbage came along as sides. The duck came with generous amounts of cranberry sauce which reminded me of a nice home-cooked/Christmas meal. (Rated as 8/10) <br>My other friend had the roasted chicken with egg pasta in broth. Chicken breast was a little on the dry side.. I rate this as average (6/10) <br> <br>In portion-wise, this is definitely a place to go to. The portion sizes are huge! <br>All in all, only spent about £30 for the meal (thanks to the 20% discount).
 
 # Article Taxonomies
 categories:

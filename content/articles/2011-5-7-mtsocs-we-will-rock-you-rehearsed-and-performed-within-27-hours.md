@@ -13,7 +13,8 @@ aliases:
  - /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
 imported: true
 comments:
- - Thanks for that Katie  Will pass on the wishesLoving the last post unforgiving readers should try getting a partnerLike Paul this post has made my day Gutted I cant be there  not that anyone will see this before the show starts but best of luckThank you very much for doing this Gilead It makes for good reading and im sure we will read it in months to come and remember how insane but amazingly good fun the whole experience was Bring on 24 hour musical 2012 well maybe after lots of sleep and rest my legs arent working yetWe Will Rock YouAny chance of a cast list asap Looking forward to following the progress hereHi GilWell done on the excellent liveblogging and keeping me up to date on how things are goingGood luck to everybody for tonights performance especially becky tooxxx
+ - value: >
+     Thanks for that, Katie :-) Will pass on the wishes.,Loving the last post: 'unforgiving readers should try getting a partner',Like Paul, this post has made my day! Gutted I can't be there - not that anyone will see this before the show starts, but best of luck!,Thank you very much for doing this Gilead! It makes for good reading and i'm sure we will read it in months to come and remember how insane but amazingly good fun the whole experience was! Bring on 24 hour musical 2012... well, maybe after lots of sleep and rest, my legs aren't working yet.,We Will Rock You!?,Any chance of a cast list asap? <br>Looking forward to following the progress here!,Hi Gil, <br> <br>Well done on the excellent liveblogging and keeping me up to date on how things are going. <br> <br>Good luck to everybody for tonight's performance (especially becky too!) <br> <br>xxx
 
 # Article Taxonomies
 categories:

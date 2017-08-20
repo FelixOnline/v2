@@ -13,7 +13,8 @@ aliases:
  - /comment/2228/imperial-memes-a-post-mortem
 imported: true
 comments:
- - Inventor of FOIL commentingjust sayingsyaingHaters be hatinWell imperial memes only lasted a day but youll be a miserable prick for lifeI would like to remind everyone that most of the messages to be taken from the memes had already pretty much all been posted on FOIL back in early 2010just syaingLOL par
+ - value: >
+     Inventor of FOIL commenting....just saying.,#syaing,Haters be hatin...,Well imperial memes only lasted a day but you'll be a miserable prick for life!,I would like to remind everyone that most of the messages to be taken from the memes had already pretty much all been posted on FOIL back in early 2010....just syaing.,LOL par
 
 # Article Taxonomies
 categories:

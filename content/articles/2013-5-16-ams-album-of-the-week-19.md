@@ -13,7 +13,8 @@ aliases:
  - /music/3567/ams-album-of-the-week-19
 imported: true
 comments:
- - very good notice form Kind of girlTHE CHARADE reelase new album A real life drama june 20th 2006THE CHARADE are a indie pop band from Stockholm SwedenThe first album The best is yet to come is very good with songs as Monday morning The new album is very good too The song Dressed in yellow and blue is a Swedish s official song in world cup Do you Know this bandyes Roosi 20 allways ONLINE and staegnrly never off line or even off side and defenitely never off the blog but never bloggin the ball  and thank you for thatJ
+ - value: >
+     very good notice form Kind of girl!!THE CHARADE reelase new album "A real life drama": june 20th 2006.THE CHARADE are a indie pop band from Stockholm, Sweden.The first album "The best is yet to come" is very good with songs as "Monday morning". The new album is very good too. The song "Dressed in yellow and blue" is a Swedish s official song in world cup. Do you Know this band?,yes Roosi #20 allways "ON-LINE" and <a href="http://lykmlchhua.com">staegnrly</a> never off line or even off side and defenitely never off the blog but never bloggin the ball - and thank you for thatJ.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/4313/tube-strikes-to-cause-chaos-in-february
 imported: true
 comments:
- - this is a test
+ - value: >
+     this is a test
 
 # Article Taxonomies
 categories:

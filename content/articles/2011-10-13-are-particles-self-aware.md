@@ -13,7 +13,8 @@ aliases:
  - /science/1511/are-particles-self-aware
 imported: true
 comments:
- - Ill accept responsibility for that apologiesYes you have to grab peoples attention but is it necessary to title your piece in a misleading and ridiculous way that only makes people read it to check that you arent completely insaneSelfaware indeed
+ - value: >
+     I'll accept responsibility for that, apologies!,Yes you have to grab peoples attention, but is it necessary to title your piece in a misleading and ridiculous way that only makes people read it to check that you aren't completely insane? <br>Self-aware indeed!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/469/see-life-in-a-fresh-gamma-value
 imported: true
 comments:
- - AKAIK youve got the asenwr in one
+ - value: >
+     AKAIK you've got the asenwr in one!
 
 # Article Taxonomies
 categories:

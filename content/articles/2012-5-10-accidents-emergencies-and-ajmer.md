@@ -13,7 +13,8 @@ aliases:
  - /travel/2430/accidents-emergencies-and-ajmer
 imported: true
 comments:
- - One has to admire the glasshalffull outlook needed to claim being blessed with good luck while driving on dangerous roads one of you having just had a close encounter with a ceiling fan
+ - value: >
+     One has to admire the "glass-half-full" outlook needed to claim being "blessed" with good luck while driving on dangerous roads, one of you having just had a close encounter with a ceiling fan.
 
 # Article Taxonomies
 categories:

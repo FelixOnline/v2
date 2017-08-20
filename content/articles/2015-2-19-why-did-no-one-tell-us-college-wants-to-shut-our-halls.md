@@ -13,7 +13,8 @@ aliases:
  - /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
 imported: true
 comments:
- - Am I the only one that thinks present Weeks residents arent quite as relevant and necessary as outraged people seem to thinkYes they offer a good perspective on what its like to live in Weeks but thats about it I think we can reasonably accurately predict space is nice great to be close but better price than eastside I dont want to live way out in ActonLets not forget that noone is suggesting closing halls midcontract from under present residentschristian louboutin mens shoes canadachristian louboutin httpcanadachristianlouboutinblogspotcomYoure an extremely beneficial website couldnt make it without yanba 2k16 mt sell httpwwwrailaycomrailaynewsviewtopicphpp2761927619The posts is extremely helpfulcs go skins after match httpgroomingtaxicomadsitem13201
+ - value: >
+     Am I the only one that thinks present Weeks residents aren't quite as relevant and necessary as outraged people seem to think? <br> <br>Yes, they offer a good perspective on what it's like to live in Weeks, but that's about it. I think we can reasonably accurately predict "space is nice, great to be close but better price than eastside, I don't want to live way out in Acton". <br> <br>Let's not forget that noone is suggesting closing halls mid-contract from under present residents.,christian louboutin mens shoes canada <br>christian louboutin http://canadachristianlouboutin.blogspot.com/,You're an extremely beneficial website; couldn't make it without ya!| <br>nba 2k16 mt sell http://www.railay.com/railay/news/viewtopic.php?p=27619#27619,The posts is extremely helpful.| <br>cs go skins after match http://groomingtaxi.com/ads/item/13201
 
 # Article Taxonomies
 categories:

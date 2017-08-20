@@ -13,7 +13,8 @@ aliases:
  - /games/2153/total-annihilation-totally-annihilates-boredom
 imported: true
 comments:
- - TA is basically the best game ever Have you ever seen httpspringrtscom Its at its heart a TA clone but with a ridiculous amount of enhancementsproperly 3dHell yeah I remember that level Core Primes moon Dump That was an annoying map Ill tell youNOSTALGIAI loved TA back in 2003Anyone remember a level where youre on some moon Theres absolutely no metal around to mine instead of have to recycle burnt out machines left behind by the enemyThen theres that brilliant weapon Big Bertha I think it was called that could shoot halfway across the map but cost 1000 energy each shot I remember building and defending many fusion power plants and Big Berthas epic win ensued
+ - value: >
+     TA is basically the best game ever. Have you ever seen http://springrts.com/? It's at its heart a TA clone but with a ridiculous amount of enhancements+properly 3d.,Hell yeah I remember that level, Core Prime's moon Dump. That was an annoying map I'll tell you...,*NOSTALGIA* <br>I loved TA back in 2003. <br> <br>Anyone remember a level where you're on some moon? There's absolutely no metal around to mine, instead of have to recycle burnt out machines left behind by the enemy. <br>Then there's that brilliant weapon Big Bertha, I think it was called, that could shoot halfway across the map, but cost 1000 energy each shot. I remember building and defending many fusion power plants and Big Berthas. epic win ensued.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/564/blown-away-by-the-soleil
 imported: true
 comments:
- - Im going in a couple of weeks cant wait If its only half as good as Saltimbanco was itll be incredible
+ - value: >
+     I'm going in a couple of weeks... can't wait! If it's only half as good as Saltimbanco was, it'll be incredible.
 
 # Article Taxonomies
 categories:

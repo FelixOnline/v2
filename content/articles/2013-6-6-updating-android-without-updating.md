@@ -13,7 +13,8 @@ aliases:
  - /tech/3666/updating-android-without-updating
 imported: true
 comments:
- - May 9 2012      You sir are completely cerrcot You arent a monkey being told when to dance and in what style You do whatever make you feel good and feel accomplished when you finish editing a video Many people dont realize just how hard  just giving news it as many commenters have never tried a youtube video for themselves Thats totally fine but the key for any vid is for the host to be comfortable and do his or her own thing Dave keep it up i think your getting better every week Peace budsalam mamnonam mano raimhnaei konid dar morede saptename googel onja az man keshvare mahale zendegi mikhad man nemidonam chi bezanam akhe irano ghabol nemikone  badesh ye shomare mikhad hala bahar badbakhtiii man keshvare eragh baye shomareye jalii zadam safhaye badesh taze kod mikhad nemidonam chikar konam pak gijam kardelotfan rahnemaim konidmamnon
+ - value: >
+     May 9, 2012 You sir are completely cerrcot. You aren't a monkey being told when to dance and in what style. You do whatever make you feel good and feel accomplished when you finish editing a video. Many people don't realize just how hard just giving news it' as many commenters have never tried a youtube video for themselves. Thats totally fine but the key for any vid is for the host to be comfortable and do his or her own thing. Dave keep it up, i think your getting better every week. Peace bud.,salam mamnonam mano <a href="http://gvomllznvmw.com">raimhnaei</a> konid dar morede saptename googel+ onja az man keshvare mahale zendegi mikhad man nemidonam chi bezanam akhe irano ghabol nemikone badesh ye shomare mikhad hala bahar badbakhtiii man keshvare eragh baye shomareye jalii zadam safhaye badesh taze kod mikhad nemidonam chikar konam pak gijam kardelotfan rahnemaim konidmamnon
 
 # Article Taxonomies
 categories:

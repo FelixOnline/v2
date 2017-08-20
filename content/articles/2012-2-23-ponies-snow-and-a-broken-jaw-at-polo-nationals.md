@@ -13,7 +13,8 @@ aliases:
  - /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
 imported: true
 comments:
- - Well put Dan That makes me feel even better about my first three years of hunntig and last year too I had four successful years in between andIm still not buying into the idea of there being a broenpaikt in my life where I go from working to not working and relying on investments for my income  I have an associate I work with whos well into his 70 s still works as many hours as I do  Right now I work lots and take time off when neededdesired  Maybe in the future I will change that balance a bit but I dont intend to simply give up work  No way am I going to go fishing everyday or fill my entire day every day with household chores  Investments and savings can get me to the point where Im OK financially if Im unable to work  But for me its a disability policy for my later years not a work replacement program
+ - value: >
+     Well put, Dan. That makes me feel even better about my first three years of hunntig, and last year, too. I had four successful years in between and...,I'm still not buying into the idea of there being a <a href="http://fzavww.com">broenpaikt</a> in my life where I go from working to not working and relying on investments for my income. I have an associate I work with who's well into his 70 s, still works as many hours as I do. Right now I work lots, and take time off when needed/desired. Maybe in the future I will change that balance a bit, but I don't intend to simply give up work. No way am I going to go fishing everyday, or fill my entire day every day with household chores. Investments and savings can get me to the point where I'm OK financially if I'm unable to work. But for me it's a disability policy for my later years, not a work replacement program.
 
 # Article Taxonomies
 categories:

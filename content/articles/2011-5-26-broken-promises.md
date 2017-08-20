@@ -13,7 +13,8 @@ aliases:
  - /comment/1261/broken-promises
 imported: true
 comments:
- - Wow thats a really cveler way of thinking about itpBFqw8  urlhttpjlkhomzbqqqdcomjlkhomzbqqqdurl linkhttpfdipflhbewnfcomfdipflhbewnflink httpwlmqmuuyybjdcom7jNdQR  mphrabigtddf
+ - value: >
+     Wow, thats a really cveler way of thinking about it!,pBFqw8 , [url=http://jlkhomzbqqqd.com/]jlkhomzbqqqd[/url], [link=http://fdipflhbewnf.com/]fdipflhbewnf[/link], http://wlmqmuuyybjd.com/,7jNdQR <a href="http://mphrabigtddf.com/">mphrabigtddf</a>
 
 # Article Taxonomies
 categories:

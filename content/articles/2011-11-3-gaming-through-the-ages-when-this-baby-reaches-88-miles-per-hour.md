@@ -13,7 +13,8 @@ aliases:
  - /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
 imported: true
 comments:
- - I work in a school ceupmtor lab and this is what I know in general   Macs seem to be the better bet if youre into things like graphics movies music Im not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for I am fine today thanks for askingIf you use the aopaicltipns that a Mac comes with then get a Mac The cost of aopaicltipns alone can pay for the MacPCs especially homebuilt ones give you much for powerful hardware for the money and games are more widely compatible with Windows not necessarily the actual computer itself
+ - value: >
+     I work in a school ceupmtor lab and this is what I know in general Macs seem to be the better bet if you're into things like graphics, movies, music. I'm not a gamer but I think just a regular ceupmtor if that is what you will mainly use it for. I am fine today, thanks for asking.,If you use the<a href="http://edrihhpzxv.com"> aopaicltipns</a> that a Mac comes with, then get a Mac. The cost of<a href="http://edrihhpzxv.com"> aopaicltipns</a> alone can pay for the Mac.PCs (especially homebuilt ones) give you much for powerful hardware for the money, and games are more widely compatible (with Windows, not necessarily the actual computer itself.)
 
 # Article Taxonomies
 categories:

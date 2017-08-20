@@ -13,7 +13,8 @@ aliases:
  - /arts/914/that-first-trip-to-the-opera
 imported: true
 comments:
- - also you can get day tickets for 15  25 if you go to the box office around 9am
+ - value: >
+     also, you can get day tickets for £15 - 25 if you go to the box office around 9am
 
 # Article Taxonomies
 categories:

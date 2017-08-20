@@ -13,7 +13,8 @@ aliases:
  - /news/1893/babar-ahmad-petition-leads-to-debate
 imported: true
 comments:
- - Babar Ahmad needs a fair trail
+ - value: >
+     Babar Ahmad needs a fair trail.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /food/1120/lunching-in-knightsbridge-daphnes
 imported: true
 comments:
- - kylie   Yahoo     160000   Yahoo   Blog    Blog   Blog      blog   search    Yahoo blog       Yahoo   Yahoo blog     Yahoo  blog    Yahoo
+ - value: >
+     kylie 老師 喂大佬 妳做老師架乜咁粗俗架講野~Yahoo 我由一手艱苦經營有 &gt; 160000 萬到訪 一個唔該 Yahoo 改版 就即時被剔除我在精選 Blog ( 我由一開始已經係精選 Blog ) 仲因為我 Blog 有 [ 港女 ]字眼 直頭禁止我個 blog 被搜尋 連我自己都 search 唔到自己 勁 而家 Yahoo blog 一律不鼓勵談政治 港女等 咁唔得架喇 要寫野 Yahoo 已經唔係一個渠道 有位仁兄曾在我 Yahoo blog 罵我 仲開篇網誌罵我 點知無幾耐 Yahoo 即刻入佢去精選 blog 佢係男人攪愛情信箱 死未 Yahoo 而家真係好科幻
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
 imported: true
 comments:
- - Imiresspve brain power at work Great answer
+ - value: >
+     Imiresspve brain power at work! Great answer!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/3591/behaving-like-animals
 imported: true
 comments:
- - Scientists may not be perfect but they should definitely know the difference between what is animal cruelty and what is not If the concept of being humane to lab animals is beyond them then they shouldnt be in the profession theyre in Its inexcusable End of
+ - value: >
+     Scientists may not be perfect, but they should definitely know the difference between what is animal cruelty and what is not. If the concept of being humane to lab animals is beyond them then they shouldn't be in the profession they're in. It's inexcusable. End of.
 
 # Article Taxonomies
 categories:

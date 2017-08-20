@@ -13,7 +13,8 @@ aliases:
  - /food/1079/mad-about-scandinavia-
 imported: true
 comments:
- - I made this last night   and the flavor was fatisantc but I am wondering what the final texture of the dessert is supposed to be My grandmothers baked rice pudding was solid almost like a dense cake or pie   and tasted amazing I was aiming for that but despite 25 hours of baking it never really gelled together at the bottom Could this have been due to the baking dish I used Should I add another ingredient to help it set  Any help appreciated
+ - value: >
+     I made this last night and the flavor was fatisantc, but I am wondering what the final texture of the dessert is supposed to be. My grandmother's baked rice pudding was solid, almost like a dense cake or pie and tasted amazing. I was aiming for that, but despite 2.5+ hours of baking, it never really gelled together at the bottom. Could this have been due to the baking dish I used? Should I add another ingredient to help it set? Any help appreciated.
 
 # Article Taxonomies
 categories:

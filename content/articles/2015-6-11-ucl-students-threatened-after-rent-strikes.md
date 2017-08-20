@@ -13,7 +13,8 @@ aliases:
  - /news/5610/ucl-students-threatened-after-rent-strikes
 imported: true
 comments:
- - My sympathy dried up completely with I cant evenwatch television I hope Oxfam is doing something for these poor deprived studentsSpoilt lefty tossers get their jimmies rustled LOLDo you mind if I quote a couple of your articles as long as I provide credit and sources back to your weblog My blog site is in the very same niche as yours and my users would genuinely benefit from some of the information you provide here Please let me know if this ok with you Thanksugg uk store covent garden grill httpwwwcardmachinesolutionscoukukuggukstorecoventgardengrill6810html
+ - value: >
+     My sympathy dried up completely with "I can't even...watch television". I hope Oxfam is doing something for these poor deprived students. <br> <br>Spoilt lefty tossers get their jimmies rustled. LOL.,Do you mind if I quote a couple of your articles as long as I provide credit and sources back to your weblog? My blog site is in the very same niche as yours and my users would genuinely benefit from some of the information you provide here. Please let me know if this ok with you. Thanks! <br>ugg uk store covent garden grill http://www.cardmachinesolutions.co.uk/?uk-ugg-uk-store-covent-garden-grill-6810.html
 
 # Article Taxonomies
 categories:

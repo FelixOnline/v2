@@ -13,7 +13,8 @@ aliases:
  - /comment/4362/an-open-letter-to-the-president-of-imperial-college-london
 imported: true
 comments:
- - An open letter Yep thats not going to do anything
+ - value: >
+     An open letter? Yep, that's not going to do anything
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/5890/drenched-duathletes-dominate-gravesend
 imported: true
 comments:
- - Clinical studies prove NoDIALYSIS treatment method efficient reducing GFR in KIDNEY DISEASE sufferers httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygiveI really wish there were more arciltes like this on the web
+ - value: >
+     Clinical studies prove No-DIALYSIS treatment method efficient <br>reducing GFR in KIDNEY DISEASE sufferers http://kidneyok.tumblr.com/post/69309674755/the-story-of-this-man-is-one-that-can-really-give,I really wish there were more arciltes like this on the web.
 
 # Article Taxonomies
 categories:

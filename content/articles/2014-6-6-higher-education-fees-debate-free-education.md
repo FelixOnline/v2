@@ -13,7 +13,8 @@ aliases:
  - /comment/4661/higher-education-fees-debate---free-education
 imported: true
 comments:
- - We also facing the same issue here in South Africa
+ - value: >
+     We also facing the same issue here in South Africa.
 
 # Article Taxonomies
 categories:

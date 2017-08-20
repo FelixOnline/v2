@@ -13,7 +13,8 @@ aliases:
  - /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
 imported: true
 comments:
- - Errrr nope  looks like Oxfords still inhttpoxfordtabcouk201405241000tamperedvotesreportedlycastinnusreferendumI thought the vote was invalidated under allegations that people had been able to vote more than onceThis is true the article was not published timely on the websiteAs in the article stating that the vote was invalidated
+ - value: >
+     Errrr, nope - looks like Oxford's still in: <br>http://oxford.tab.co.uk/2014/05/24/1000-tampered-votes-reportedly-cast-in-nus-referendum/,I thought the vote was invalidated under allegations that people had been able to vote more than once,This is true, the article was not published timely on the website.,As in the article stating that the vote was invalidated.
 
 # Article Taxonomies
 categories:

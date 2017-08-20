@@ -13,7 +13,8 @@ aliases:
  - /politics/5359/why-dont-more-young-people-vote
 imported: true
 comments:
- - g3A71Z httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     g3A71Z http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

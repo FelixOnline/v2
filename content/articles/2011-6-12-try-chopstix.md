@@ -13,7 +13,8 @@ aliases:
  - /food/1368/try-chopstix
 imported: true
 comments:
- - Haha brilliant stuff Btw I found a chopstix near St Marys Hospital So cool lol I think it is a chopstic anyway if not its identical to the cuisine and setting Its on Spring Street  check it out when youre thereThis is a super well thought articleYou are bloody funny dude  Although you are studying to be a doc you should have been a surgeon you have me in stitches Love itIn fact the one at Marys is 50p cheaper Not that i am an addict or anything I am so ashamedoriental canteen is way better
+ - value: >
+     Haha brilliant stuff!! Btw I found a chopstix near St Marys Hospital!!!!!! So cool lol. I think it is a chopstic anyway, if not its identical to the cuisine and setting. Its on Spring Street - check it out when youre there!,This is a super well thought article:) <br> <br>You are bloody funny dude!!!! Although you are studying to be a doc, you should have been a surgeon, you have me in stitches!!!! Love it:) <br> <br> <br>,In fact, the one at Mary's is 50p cheaper! Not that i am an addict or anything. <br> <br>(I am so ashamed),oriental canteen is way better!!
 
 # Article Taxonomies
 categories:

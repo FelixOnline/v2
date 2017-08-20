@@ -13,7 +13,8 @@ aliases:
  - /games/1490/an-ex-po-citing-expo
 imported: true
 comments:
- - I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster I need to know which roller coaster to go on first so that I wont be too frightened to go on some others Please can you tell me the amount of G Force that each roller coaster there has Thanks in advanceapakah opersional kan wndwois 7 di ipad sudah bisa operasionalkan layaknya sebuah PC yadan jika iyaapakah bisa mendukung applikasiprogram komputerdan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan
+ - value: >
+     I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster, I need to know which roller coaster to go on first so that I won't be too frightened to go on some others. Please can you tell me the amount of G Force that each roller coaster there has. Thanks in advance!,apakah opersional kan<a href="http://ryknvibq.com"> wndwois</a> 7 di ipad sudah bisa operasionalkan layaknya sebuah PC ya?dan jika iya,apakah bisa mendukung applikasi/program komputer?dan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan ?
 
 # Article Taxonomies
 categories:

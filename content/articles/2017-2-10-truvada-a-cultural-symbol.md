@@ -13,7 +13,8 @@ aliases:
  - /millennials/6756/truvada--a-cultural-symbol
 imported: true
 comments:
- - Scusa il disturbo eh Non ho mai chiesto aiuto ma riarltoolncndo di errori mi pare non dovrebbero essercene e non capisco proprio cosa non funzioni ma soprattutto cambiando lURL con sendphp non capisco perch il redirect me lo faccia sulla index che non  dichiarata da nessuna parte tu cosa ne pensiHy where can one get it here in Kenya
+ - value: >
+     Scusa il disturbo eh! Non ho mai chiesto aiuto, ma riarltoolncndo di errori mi pare non dovrebbero essercene e non capisco proprio cosa non funzioni, ma soprattutto cambiando l’URL con send.php non capisco perchÃ¨ il redirect me lo faccia sulla index, che non Ã¨ dichiarata da nessuna parte, tu cosa ne pensi?,Hy, where can one get it here in Kenya?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/1165/fuck-buttons-is-the-music-scenes-saviour
 imported: true
 comments:
- - Thank you very nice postDear White Trash I just stopped by  and have read some posts You are in a dark place and need to climb out of your abyss I wish I could help you Sometime rgioeiln can be comforting but is not for everyone I will check back later Stay warm
+ - value: >
+     Thank you, very nice post.,Dear White Trash, I just stopped by and have read some posts. You are in a dark place and need to climb out of your abyss. I wish I could help you. Sometime rgioeiln can be comforting but is not for everyone. I will check back later. Stay warm.
 
 # Article Taxonomies
 categories:

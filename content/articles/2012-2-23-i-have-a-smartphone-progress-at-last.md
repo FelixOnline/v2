@@ -13,7 +13,8 @@ aliases:
  - /comment/2227/i-have-a-smartphone-progress-at-last
 imported: true
 comments:
- -  20120217 0726     Greetings Quick question thats cmelpotely off topic Do you know how to make your website mobile friendly My site looks weird when browsing from my apple iphone  Im trying to uncover a template or plugin that might be able to correct this concern If you have any suggestions please share With thanks
+ - value: >
+     　( 2012.02.17 07:26 ) : Greetings! Quick question that’s cmelpotely off topic. Do you know how to make your website mobile friendly? My site looks weird when browsing from my apple iphone. I’m trying to uncover a template or plugin that might be able to correct this concern. If you have any suggestions, please share. With thanks!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/989/starcraft-ghost
 imported: true
 comments:
- - I can testify that HL2 and crystal meth are two things that were never intended to go together
+ - value: >
+     I can testify that HL2 and crystal meth are two things that were never intended to go together.
 
 # Article Taxonomies
 categories:

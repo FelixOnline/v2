@@ -13,7 +13,8 @@ aliases:
  - /politics/843/elections-never-won
 imported: true
 comments:
- - The grammar in the first and second meant I gave up on the rest of the article a pity as the content was otherwise pretty good Im not sure if its the fault of the online format or the editor but it should probably be sorted outThe grammar in the first and second paragraph meant I gave up on the rest of the article a pity as the content was otherwise pretty good Im not sure if its the fault of the online format or the editor but it should probably be sorted out
+ - value: >
+     The grammar in the first and second meant I gave up on the rest of the article; a pity as the content was otherwise pretty good. I'm not sure if it's the fault of the online format or the editor, but it should probably be sorted out.,The grammar in the first and second paragraph meant I gave up on the rest of the article; a pity as the content was otherwise pretty good. I'm not sure if it's the fault of the online format or the editor, but it should probably be sorted out.
 
 # Article Taxonomies
 categories:

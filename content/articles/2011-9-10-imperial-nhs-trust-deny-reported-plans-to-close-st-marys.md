@@ -13,7 +13,8 @@ aliases:
  - /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
 imported: true
 comments:
- - Nah we arent undoubtedly worried about these developments There isnt really anything to be worried about After all ICH is far from the only NHS trust thats in debt Jam your sensationalist hype
+ - value: >
+     Nah, we aren't "undoubtedly worried" about these developments. There isn't really anything to be worried about. After all, ICH is far from the only NHS trust that's in debt. Jam your sensationalist hype.
 
 # Article Taxonomies
 categories:

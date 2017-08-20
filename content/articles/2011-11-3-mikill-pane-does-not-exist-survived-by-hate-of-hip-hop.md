@@ -13,7 +13,8 @@ aliases:
  - /music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop
 imported: true
 comments:
- - The reason this interview didnt come off is that it was rushed and sent via email as Ive already admitted a while ago on Twitter httpstwittercomkadhimshubberstatus133248933429395456 It was meant as a bit of irreverent fun to promote a music nightI think you should have researched more about Mikill Pane before interviewing him the lack of knowledge shows here
+ - value: >
+     The reason this interview didn't come off is that it was rushed and sent via email, as I've already admitted a while ago on Twitter: https://twitter.com/#!/kadhimshubber/status/133248933429395456 <br> <br>It was meant as a bit of irreverent fun to promote a music night.,I think you should have researched more about Mikill Pane before interviewing him, the lack of knowledge shows here.
 
 # Article Taxonomies
 categories:

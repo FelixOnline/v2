@@ -13,7 +13,8 @@ aliases:
  - /sport/6441/imperial-girls-can-always-have-been-and-will-continue-to-
 imported: true
 comments:
- - As a member of the opposite sex I did get the impression the week was for women only At no point was it made clear that men were welcome to attend but as mentioned at the start of this piece shouldnt it be obvious Equality means opportunities for all at supposedly singlesex events To quote UN Women Goodwill Ambassador Emma Watson Men  Gender equality is your issue too  Yeah this is misinformed sorryMen have kind off run the world since time began so not being enthusiastically welcomed to an event to help raise the profile of womens sport may feel like a real injustice but compared to institutionalised sexism it really isnt so bad
+ - value: >
+     "As a member of the opposite sex, I did get the impression the week was for women only. At no point was it made clear that men were welcome to attend, but as mentioned at the start of this piece, shouldn’t it be obvious? Equality means opportunities for all at supposedly single-sex events. To quote UN Women Goodwill Ambassador Emma Watson: “Men … Gender equality is your issue too”." - Yeah, this is misinformed sorry.<br>Men have kind off run the world since time began so not being enthusiastically welcomed to an event to help raise the profile of women's sport, may feel like a real injustice but compared to institutionalised sexism, it really isn't so bad.
 
 # Article Taxonomies
 categories:

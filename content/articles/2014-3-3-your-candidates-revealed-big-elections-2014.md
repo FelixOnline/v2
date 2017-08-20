@@ -13,7 +13,8 @@ aliases:
  - /news/4449/your-candidates-revealed---big-elections-2014
 imported: true
 comments:
- - Someone called Irina Moraru is certainly playing the game
+ - value: >
+     Someone called Irina Moraru is certainly playing the game…
 
 # Article Taxonomies
 categories:

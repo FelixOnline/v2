@@ -13,7 +13,8 @@ aliases:
  - /comment/3981/saudi-arabia-is-driving-a-human-right
 imported: true
 comments:
- - Who put men in charge anyway  They cant give women the right to drive  Its not theirs to give or refuse  Men and women are equal in terms of rights  If Arabs believe women need to be protected it begs the question from what or from whom  If the answer is from men then clearly the problem is not with the women it with the people who are unable to control themselves thereby placing women in jeopardy  Women are free just as men are from restrictions imposed by men only so long as men are adult enough to own their behaviour and acknowledge women as equals  May I suggest men in areas of the world where freedom for women is arbitrary that they consider what precisely it is they are afraid of
+ - value: >
+     Who put men in charge anyway? They can't 'give' women the right to drive. It's not theirs to give or refuse. Men and women are equal in terms of rights. If Arabs believe women need to be protected, it begs the question 'from what or from whom?' If the answer is 'from men' then clearly the problem is not with the women, it with the people who are unable to control themselves, thereby placing women in jeopardy. Women are free, just as men are, from restrictions imposed by men, only so long as men are adult enough to own their behaviour and acknowledge women as equals. May I suggest men in areas of the world where freedom for women is arbitrary that they consider what precisely it is they are afraid of.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tech/604/an-anti-social-path
 imported: true
 comments:
- - Heres a link to the website with accompanying saccharine video httpwwwpathcomhomehtmlusers are restricted to sharing pictures and videos with 50 friends they will be encouraged to share more personal momentsSurely this would be better achieved with a limit on the number of posts per day That way people would tell you about the cool things they do and wouldnt wast their posts telling you about the shit they just took and the flan theyre about to eatHaving loads of friends on Facebook isnt a problem If they sit there idly theyre hardly causing harm and you still get to bombard them with links to your latest Felix article
+ - value: >
+     Here's a link to the website with accompanying saccharine video: http://www.path.com/home.html,"users are restricted to sharing pictures and videos with 50 friends, they will be encouraged to share more personal moments" <br> <br>Surely this would be better achieved with a limit on the number of posts per day. That way people would tell you about the cool things they do and wouldn't wast their posts telling you about the shit they just took and the flan they're about to eat. <br> <br>Having loads of friends on Facebook isn't a problem. If they sit there idly they're hardly causing harm, and you still get to bombard them with links to your latest Felix article :)
 
 # Article Taxonomies
 categories:

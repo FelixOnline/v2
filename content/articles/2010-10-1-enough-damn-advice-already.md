@@ -13,7 +13,8 @@ aliases:
  - /comment/165/enough-damn-advice-already
 imported: true
 comments:
- -                                                                                                                                                                                                                                            back to normal REC Warangal
+ - value: >
+     అ త తక క వ సమయ ల ఇ త చక కగ ఎల ర యగలర డ మ ర !!:-). మ ర ర స న య స అద ర ద . "న చ న నప ప డ స క ళ లల (కన స న న చద వ న స క ళ ళల ) ఒక ర ల డ ద . "బ గ చద వ ప ల లల అల లర చ యర ద ! చద వ ర న మ ద ద ల అల లర ల ఫస ట ట ర " అన !ఇద న క చ ల అన భవ . అ ద ల మ న న నక ఊర న డ వ గ ల . స క ల జ వ తమ త ఫస ట బ చ ల క ర చ న వ స గ ప య , ఇ టర మ డ యట ల ఆ గ డవ వద ల చ క న న (అసల ఓ న ల గ న లల క ల జ క వ ళ ళల ద ల డ (క ర క ట ప చ చ ). ద త ఇ ట ల గ డవ మ దలయ య ద . మళ ళ back to normal. REC Warangal క వచ చ క మ త ర , ప ర త గ వ నక బ చ . క న
 
 # Article Taxonomies
 categories:

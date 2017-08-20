@@ -13,7 +13,8 @@ aliases:
  - /comment/6786/being-black-and-muslim-in-the-uk
 imported: true
 comments:
- - Very well written thought provoking piece Bravoji1RTz httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomhello lol whats up add romeosamanta18gmailcom
+ - value: >
+     Very well written thought provoking piece. Bravo,ji1RTz http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,hello lol whats up add romeosamanta18@gmail.com
 
 # Article Taxonomies
 categories:

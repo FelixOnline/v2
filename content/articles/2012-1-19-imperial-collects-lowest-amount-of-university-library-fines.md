@@ -13,7 +13,8 @@ aliases:
  - /news/2035/imperial-collects-lowest-amount-of-university-library-fines
 imported: true
 comments:
- - Thanks for the quote Tim I didnt think youd actually put in lol PAR thoughKings president says shell ask the kings principal to par off these library finesWheres the par to Leeds you wrote in the paper versionAs this is Leeds the term academic is used lightly The previous statement could be seen to be unfair the amount raised could suggest that Leeds students love their subjects so much that they cant bear to give the books back or that theyre just lazy and forgotgreat read nice one Tim lol at kings
+ - value: >
+     Thanks for the quote Tim, I didn't think you'd actually put in "lol PAR" though. <br> <br>Kings president says she'll ask the kings principal to par off these library fines. <br> <br>Where's the par to Leeds you wrote in the paper version? <br>"As this is Leeds, the term academic is used lightly. The previous statement could be seen to be unfair; the amount raised could suggest that Leeds' students love their subjects so much that they can't bear to give the books back, or that they're just lazy and forgot",great read, nice one Tim :),lol at kings
 
 # Article Taxonomies
 categories:

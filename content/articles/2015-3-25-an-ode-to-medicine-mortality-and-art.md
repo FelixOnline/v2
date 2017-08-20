@@ -13,7 +13,8 @@ aliases:
  - /arts/5434/an-ode-to-medicine-mortality-and-art
 imported: true
 comments:
- - Hi there after reading this awesome post i am also cheerful to share my familiarity here with friendsparajumpers gloria woman httpwwwessenceofedencoukukparajumpersgloriawoman8001htmlfitflops in storesfitflops sale online httpaustraliafitflopsblogspotcombirkenstock arizona sandalsgizeh birkenstock httpbirkenstockaustraliamallscombirkenstock outlet online shopbirkenstock sydney httpbirkenstocksaleaustraliablogspotcomchristian louboutin bianca salechristian louboutin httpcanadachristianlouboutinoutletblogspotcomchristian louboutin cheapbuy christian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomBasically needed to mention Im just thankful I stumbled in your websiteNHL 17 httpcomparesecurityproductscoukcspforumindexphppdiscussion86570buynba2k17coinsiowateenagerchargedofkillinghismotheronthegaminghalo3
+ - value: >
+     Hi there, after reading this awesome post i am also cheerful to share my familiarity here with friends. <br>parajumpers gloria woman http://www.essenceofeden.co.uk/?uk-parajumpers-gloria-woman-8001.html,fitflops in stores <br>fitflops sale online http://australiafitflops.blogspot.com/,birkenstock arizona sandals <br>gizeh birkenstock http://birkenstockaustraliamalls.com/,birkenstock outlet online shop <br>birkenstock sydney http://birkenstocksaleaustralia.blogspot.com/,christian louboutin bianca sale <br>christian louboutin http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin cheap <br>buy christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/,Basically needed to mention I'm just thankful I stumbled in your website!. <br>NHL 17 http://comparesecurityproducts.co.uk/csp-forum/index.php?p=/discussion/86570/buy-nba-2k17-coins-iowa-teenager-charged-of-killing-his-mother-on-the-gaming-halo-3
 
 # Article Taxonomies
 categories:

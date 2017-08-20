@@ -13,7 +13,8 @@ aliases:
  - /games/168/just-arrived-and-already-bored-time-to-get-online
 imported: true
 comments:
- - Good PS3
+ - value: >
+     Good PS3!
 
 # Article Taxonomies
 categories:

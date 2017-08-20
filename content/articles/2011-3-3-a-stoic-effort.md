@@ -13,7 +13,8 @@ aliases:
  - /news/1004/a-stoic-effort
 imported: true
 comments:
- - Has anything been seen or heard of STOIC since March THey are not answering email or phone callsCan you send out a search party
+ - value: >
+     Has anything been seen or heard of STOIC since March? THey are not answering email or phone calls. <br>Can you send out a search party?
 
 # Article Taxonomies
 categories:

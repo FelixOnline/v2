@@ -13,7 +13,8 @@ aliases:
  - /comment/5839/masters-of-self-sabotage
 imported: true
 comments:
- - Thanks extremely valuable Will certainly share site with my buddiespokemongo httpoxfriendlysmilezcomblogspost59371
+ - value: >
+     Thanks extremely valuable. Will certainly share site with my buddies <br>pokemongo http://ox.friendlysmilez.com/blogs/post/59371
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /features/4537/helping-friends-with-depression
 imported: true
 comments:
- - This was great to read One of my closest friends has been through a lot and suffered badly from depression and I did struggle with not knowing how I could help her It was tough that it took her a long time to get better as I felt like I wasnt really helping at the time and shouldve been doing more I definitely spent too long asking how she was and focusing on her pushing my life to the side Whilst I didnt have any major problems she still appreciated hearing all the little good and bad stories from my life as I guess it helped her feel more normal and sometimes just wanted to try to get away from her depression
+ - value: >
+     This was great to read! One of my closest friends has been through a lot and suffered badly from depression, and I did struggle with not knowing how I could help her. It was tough that it took her a long time to get better, as I felt like I wasn't really helping at the time and should've been doing more. I definitely spent too long asking how she was and focusing on her, pushing my life to the side. Whilst I didn't have any major problems she still appreciated hearing all the little good and bad stories from my life as I guess it helped her feel more normal, and sometimes just wanted to try to get away from her depression.
 
 # Article Taxonomies
 categories:

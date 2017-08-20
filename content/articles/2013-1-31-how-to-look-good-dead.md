@@ -13,7 +13,8 @@ aliases:
  - /comment/3214/how-to-look-good-dead
 imported: true
 comments:
- - ThanksWell written
+ - value: >
+     Thanks!,Well written.
 
 # Article Taxonomies
 categories:

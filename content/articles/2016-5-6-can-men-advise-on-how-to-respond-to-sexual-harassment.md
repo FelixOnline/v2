@@ -13,7 +13,8 @@ aliases:
  - /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
 imported: true
 comments:
- - This article is really interesting and well written
+ - value: >
+     This article is really interesting and well written
 
 # Article Taxonomies
 categories:

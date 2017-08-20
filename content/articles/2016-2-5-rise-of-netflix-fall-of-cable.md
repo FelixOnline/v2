@@ -13,7 +13,8 @@ aliases:
  - /tv/5885/rise-of-netflix-fall-of-cable
 imported: true
 comments:
- - Forrestal also predicted the beginning of the Korean war almost 18 months before it hap27nedp16Oute the truth about the False FlagInside Job  job of 911Some have been trying but when Zionist owned Jewish media outlets dominate 96 of what Americans see and hear its going to be a long struggleWe dont even know all about JFKs murder since the government hasnt released all of its docsAnd that happened 49 years ago
+ - value: >
+     Forrestal also predicted the beginning of the Korean war almost 18 months before it hap27ned.p16;Out̵e; the truth about the False Flag/Inside Job job of 9/11?Some have been trying, but when Zionist owned, Jewish media outlets dominate 96% of what Americans see and hear, it’s going to be a long struggle.We don’t even know all about JFK’s murder, since the government hasn’t released all of its docs.And that happened 49 years ago.
 
 # Article Taxonomies
 categories:

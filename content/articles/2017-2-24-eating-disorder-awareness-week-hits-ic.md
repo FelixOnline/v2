@@ -13,7 +13,8 @@ aliases:
  - /news/6811/eating-disorder-awareness-week-hits-ic
 imported: true
 comments:
- - Keep on writing and chgguing away
+ - value: >
+     Keep on writing and chgguing away!
 
 # Article Taxonomies
 categories:

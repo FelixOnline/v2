@@ -13,7 +13,8 @@ aliases:
  - /news/3646/imperial-alumnus-killed-in-syria
 imported: true
 comments:
- - Incredible sacrifice What a great man
+ - value: >
+     Incredible sacrifice. What a great man
 
 # Article Taxonomies
 categories:

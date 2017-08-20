@@ -13,7 +13,8 @@ aliases:
  - /film/6760/toni-erdmann
 imported: true
 comments:
- - Hei Sa7rIth821as so wonderful to read your blog  youre doing greatAnd those tangets of palm top computers are far too small really  have to be careful that the right person gets the emailThis nurse salutes you from Helsinki FinlandAnnaWith realization of ones own potential and selfconfidence in ones ability one can build a better worldHis Holiness The Dalai Lama
+ - value: >
+     Hei Sa7r#!It&amp;h821a;s so wonderful to read your blog – you’re doing great!And those tangets of palm top computers are far too small really – have to be careful that the right person gets the email…This nurse salutes you from Helsinki, Finland.AnnaWith realization of one’s own potential and self-confidence in one’s ability, one can build a better world.His Holiness, The Dalai Lama
 
 # Article Taxonomies
 categories:

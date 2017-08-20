@@ -13,7 +13,8 @@ aliases:
  - /comment/1205/money-matters
 imported: true
 comments:
- - There are an awful lot of overseas students at Imperial who already pay exorbitant prices to be able to study hereAre they buying their way in  taking places that could be occupied by poor but talented British students or even poor but talented foreign studentsIm not necessarily either in favour of or against this proposed policy but it seems odd to have a kneejerk negative reaction to it when we all already tolerate the presence of an equally discriminatory systemNo more s All posts of this quliaty from now onaUgA5O  ibfqsksviuhg propecia results  buy tramadol online ahudi
+ - value: >
+     There are an awful lot of overseas students at Imperial who already pay exorbitant prices to be able to study here. <br> <br>Are they buying their way in / taking places that could be occupied by poor but talented British students (or even poor but talented foreign students)? <br> <br>I'm not necessarily either in favour of or against this proposed policy, but it seems odd to have a knee-jerk negative reaction to it when we all already tolerate the presence of an equally discriminatory system.,No more s***. All posts of this quliaty from now on,aUgA5O <a href="http://ibfqsksviuhg.com/">ibfqsksviuhg</a>, <a href="http://www.pillsprix.com/">propecia results</a> %]]] <a href="http://www.medicashop.net/">buy tramadol online</a> ahudi
 
 # Article Taxonomies
 categories:

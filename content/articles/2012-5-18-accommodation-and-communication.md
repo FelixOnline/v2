@@ -13,7 +13,8 @@ aliases:
  - /comment/2459/accommodation-and-communication
 imported: true
 comments:
- - With my daughter currently going though the process of trying to find suitable accommodation for her second year I am amazed that there is no referral system available between IC students Why arent good flats and houses pased from 1 year to the next There doesnt even seem to be any forum available to advertise for spare roomsextra sharers  someone there is missing an opportunity
+ - value: >
+     With my daughter currently going though the process of trying to find suitable accommodation for her second year I am amazed that there is no referral system available between IC students. Why aren't good flats and houses pased from 1 year to the next? There doesn't even seem to be any forum available to advertise for spare rooms/extra sharers - someone there is missing an opportunity.
 
 # Article Taxonomies
 categories:

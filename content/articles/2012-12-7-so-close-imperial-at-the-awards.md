@@ -13,7 +13,8 @@ aliases:
  - /news/3025/so-close-imperial-at-the-awards
 imported: true
 comments:
- - I was really scared by what I read online about Imperial social life After the first term I managed to get out clubbing at least twice a week and still getting really good grades I am absolutely not the only one I can definitely say that more than 60 of people are really social and go out a lot Some big events like FCK ME ITS CHRISTMAS had more students from Imperial than from any other university from my hall more than 80 people went to that event I feel also that the people in the Union work hard to improve the experience the societies are really good but Metric is one of the worst thing I have ever seen at least London has really good gradesIt was a beautiful and intense term and I am happier than I have ever been to have chosen Imperial
+ - value: >
+     I was really scared by what I read online about Imperial social life. After the first term, I managed to get out (clubbing) at least twice a week (and still getting really good grades). I am absolutely not the only one. I can definitely say that more than 60% of people are really social and go out a lot. Some big events (like F*CK ME IT'S CHRISTMAS) had more students from Imperial than from any other university (from my hall, more than 80 people went to that event). I feel also that the people in the Union work hard to improve the experience (the societies are really good), but Metric is one of the worst thing I have ever seen (at least London has really good grades). <br>It was a beautiful (and intense) term, and I am happier than I have ever been to have chosen Imperial. <br>
 
 # Article Taxonomies
 categories:

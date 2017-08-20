@@ -13,7 +13,8 @@ aliases:
  - /comment/3766/a-letter-from-the-editor
 imported: true
 comments:
- - A nice intro I hate to be the arsehole to point it out but I believe its an Attila the Hun not a Trevor Nunn
+ - value: >
+     A nice intro. I hate to be the arsehole to point it out, but I believe it's an Attila the Hun, not a Trevor Nunn.
 
 # Article Taxonomies
 categories:

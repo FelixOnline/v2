@@ -13,7 +13,8 @@ aliases:
  - /science/5658/an-ode-to-ada
 imported: true
 comments:
- - 8AM29B httpwwwy7YwKx7Pm6OnyJvolbcwrWdoEnRF29pbcom
+ - value: >
+     8AM29B http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com
 
 # Article Taxonomies
 categories:

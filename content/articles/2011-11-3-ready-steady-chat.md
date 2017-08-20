@@ -13,7 +13,8 @@ aliases:
  - /food/1688/ready-steady-chat
 imported: true
 comments:
- - What a legend
+ - value: >
+     What a legend.
 
 # Article Taxonomies
 categories:

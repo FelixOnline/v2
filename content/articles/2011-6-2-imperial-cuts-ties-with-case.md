@@ -13,7 +13,8 @@ aliases:
  - /news/1291/imperial-cuts-ties-with-case
 imported: true
 comments:
- - I saw  Imran Khan in The Times Eureka magazine and was like cool I have not actually read this article but am sure it is excellent in a variety of ways
+ - value: >
+     I saw Imran Khan in The Times' Eureka magazine and was like: cool! I have not actually read this article but am sure it is excellent in a variety of ways.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/5026/the-ultimate-hangover-cure
 imported: true
 comments:
- - So yes the media is large advertisement talking about Tim Tebow But shouldnt we be at liberty that very best dog enrolled in college Football is Tim Tebow the ultimate leader the fifa 16 hack ultimate team player and best nice guy and not the poisonous TO Shouldnt we be very honored that Tim Tebow doesnt drink and drive abuse anybody get in fights or shoot himself in the lower limb I mean come on during spring break when most college babies are getting drunk and doing God knows what Tim Tebow was a student in the Philippines performing surgeries and preaching to orphansfifa 16 hack httpcreditsfutcomPassion the website extremely individual pleasant and great deals to seenba 2k16 mt coins httpwwwvivienceciliaeblogipl
+ - value: >
+     So yes, the media is large advertisement talking about Tim Tebow. But shouldn't we be at liberty that very best dog enrolled in college Football is Tim Tebow, the ultimate leader, the fifa 16 hack ultimate team player and best nice guy and not the poisonous T.O? Shouldn't we be very honored that Tim Tebow doesn't drink and drive, abuse anybody, get in fights or shoot himself in the lower limb? I mean come on, during spring break when most college babies are getting drunk and doing God knows what Tim Tebow was a student in the Philippines performing surgeries and preaching to orphans. <br>fifa 16 hack http://creditsfut.com/,Passion the website-- extremely individual pleasant and great deals to see! <br>nba 2k16 mt coins http://www.viviencecilia.e-blogi.pl/
 
 # Article Taxonomies
 categories:

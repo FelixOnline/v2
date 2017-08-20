@@ -13,7 +13,8 @@ aliases:
  - /travel/1620/volunteering-on-top-of-the-world
 imported: true
 comments:
- - great article on volunteering in Nepal coincidentally we have just set up a new international volunteering project at Imperial Project NepalCheck out more details here if youre interestedhttpwwwfacebookcomgroupsprojectnepal
+ - value: >
+     great article on volunteering in Nepal, coincidentally we have just set up a new international volunteering project at Imperial, Project Nepal. <br> <br>Check out more details here if you're interested: <br> <br>http://www.facebook.com/groups/projectnepal/
 
 # Article Taxonomies
 categories:

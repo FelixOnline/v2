@@ -13,7 +13,8 @@ aliases:
  - /news/1972/staff-and-students-rally-around-holland-club-campaign
 imported: true
 comments:
- - Since I wrote the article College has created a feedback page which can be found herehttpwww2imperialacukblogannouncements20120111feedbackinvitedoncateringandamenityofferonsouthkensingtoncampusFritzl Bar
+ - value: >
+     Since I wrote the article, College has created a feedback page, which can be found here. <br> <br>http://www2.imperial.ac.uk/blog/announcements/2012/01/11/feedback-invited-on-catering-and-amenity-offer-on-south-kensington-campus/ <br>,Fritzl Bar
 
 # Article Taxonomies
 categories:

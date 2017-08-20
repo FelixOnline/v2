@@ -13,7 +13,8 @@ aliases:
  - /food/2626/la-famiglia
 imported: true
 comments:
- - 1 food the rest is a rather pitiful and vapid student criticism of Rupert Murdochs empire I know this is a student paper but seriously isnt the editor there to make sure people stay on topicThe experience is relevant too of course but the writer just seems like a guilty middle class socialist from SurreyI liked it
+ - value: >
+     1% food, the rest is a rather pitiful and vapid student criticism of Rupert Murdoch's empire. I know this is a student paper, but seriously, isn't the editor there to make sure people stay on topic? <br> <br>The experience is relevant too of course but the writer just seems like a guilty middle class socialist from Surrey.,I liked it.
 
 # Article Taxonomies
 categories:

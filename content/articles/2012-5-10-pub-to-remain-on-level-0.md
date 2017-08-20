@@ -13,7 +13,8 @@ aliases:
  - /news/2431/pub-to-remain-on-level-0
 imported: true
 comments:
- - This is not news  a pub space was always in the plan I think the felix has missed the argument of the postgraduate and staff that the plans significantly reduce the space available to the holland club  Most of the space is assigned to a new commoncatering facility for the postgraduates  which is not asked for by the postgraduates nor is it wanted Keep the Holland club to its original layout and invest in the decor and the overall cost will be probably be 110th of the millions planned Is this another example of capital projects making up work for themselves library entrance
+ - value: >
+     This is not news - a pub space was always in the plan. I think the felix has missed the argument of the postgraduate and staff that the plans significantly reduce the space available to the holland club!! | Most of the space is assigned to a new common/catering facility for the postgraduates - which is not asked for by the postgraduates nor is it wanted! Keep the Holland club to its original layout and invest in the decor and the overall cost will be probably be 1/10th of the millions planned. Is this another example of capital projects making up work for themselves (library entrance) ???. <br>
 
 # Article Taxonomies
 categories:

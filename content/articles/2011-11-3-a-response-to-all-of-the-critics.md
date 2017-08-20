@@ -13,7 +13,8 @@ aliases:
  - /comment/1690/a-response-to-all-of-the-critics
 imported: true
 comments:
- - Ive still not seen this television programme  Not only is there the review in Felix but Alan Davies was bidden to watch it on Ive Never Seen Star Wars Radio 4 currently available on iPlayer httpwwwbbccoukiplayerepisodeb014r5qhIve_Never_Seen_Star_Wars_Series_4_Alan_Davies  but as no one has anything kind to say about it I am not sure what is to be gained by watching it  Can anyone help with this
+ - value: >
+     I've still not seen this television programme. Not only is there the review in Felix, but Alan Davies was bidden to watch it on "I've Never Seen Star Wars" (Radio 4, currently available on iPlayer http://www.bbc.co.uk/iplayer/episode/b014r5qh/Ive_Never_Seen_Star_Wars_Series_4_Alan_Davies/ ) but as no one has anything kind to say about it I am not sure what is to be gained by watching it. Can anyone help with this?
 
 # Article Taxonomies
 categories:

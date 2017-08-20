@@ -13,7 +13,8 @@ aliases:
  - /sport/1751/spanking-brings-reading-to-tears
 imported: true
 comments:
- - Hi there i read your blog occasionally and i own a sliamir one and iwas just wondering if you get a lot of spam remarks If so how do youreduce it any plugin or anything you can suggestI get so much lately its driving me insane so any support is very much appreciatedAfter study a number of that the blog arlietcs on your web site nowwe truly as if your means of blogging I bookmarked it to my bookmark website list and you will be checking back soon Pls take a look at myweb site also and tell me how you feel
+ - value: >
+     Hi there, i read your blog occasionally and i own a sliamir one and iwas just wondering if you get a lot of spam remarks? If so how do youreduce it, any plugin or anything you can suggest?I get so much lately it's driving me insane so any support is very much appreciated.,After study a number of that the blog <a href="http://hbezzetkgn.com">arlietcs</a> on your web site now,we truly as if your means of blogging. I bookmarked it to my bookmark website list and you will be checking back soon. Pls take a look at myweb site also and tell me how you feel.
 
 # Article Taxonomies
 categories:

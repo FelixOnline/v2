@@ -13,7 +13,8 @@ aliases:
  - /news/4219/college-announces-residential-experience-review
 imported: true
 comments:
- - How typical of imperial College including in the panel members with no direct link to halls but leaving out wardens alumni and 1st year repsIs this am attempt to ignore student feedback yet again wardens services get some of the highest scored in all College surveys and their role in enhancing student experience is we widely recognised by everyone except from  whoever is in charge of this process as they have left wardens out
+ - value: >
+     How typical of imperial College, including in the panel members with no direct link to halls but leaving out wardens, alumni, and 1st year reps. <br>Is this am attempt to ignore student feedback yet again (wardens services get some of the highest scored in all College surveys and their role in enhancing student experience is we widely recognised, by everyone except from whoever is in charge of this process as they have left wardens out.
 
 # Article Taxonomies
 categories:

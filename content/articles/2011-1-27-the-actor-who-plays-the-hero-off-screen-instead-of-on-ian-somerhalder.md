@@ -13,7 +13,8 @@ aliases:
  - /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
 imported: true
 comments:
- - Incredibly well written  Thanks for putting the man and the myth together in one place  He really is a hero
+ - value: >
+     Incredibly well written. Thanks for putting the man and the myth together in one place. He really is a hero!
 
 # Article Taxonomies
 categories:

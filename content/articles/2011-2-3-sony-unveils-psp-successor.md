@@ -13,7 +13,8 @@ aliases:
  - /tech/742/sony-unveils-psp-successor
 imported: true
 comments:
- - This article is incredibly well written Good job
+ - value: >
+     This article is incredibly well written. Good job.
 
 # Article Taxonomies
 categories:

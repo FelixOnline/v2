@@ -13,7 +13,8 @@ aliases:
  - /food/3251/hot-chockablocked-with-warm-drinks
 imported: true
 comments:
- - I had a very good chocolate once in Whole Foods Market which is not on this list
+ - value: >
+     I had a very good chocolate once in Whole Foods Market, which is not on this list
 
 # Article Taxonomies
 categories:

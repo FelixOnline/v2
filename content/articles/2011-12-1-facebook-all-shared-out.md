@@ -13,7 +13,8 @@ aliases:
  - /tech/1855/facebook-all-shared-out
 imported: true
 comments:
- - In a system geared towards drastically increasing the amount of information you push out to the world its not surprising were hit with much more than we can possibly care aboutTherefore ignore it If there is an irritating person in real life you ignore that person and so the same can be done for irritating things on the internet The nature of the human brain is to filter out what information is relevant and what is not and this is a perfect example of why this is a good thing  you can simply filter out what you are not interested in so there is no need for Facebooks own complex filtering toolsHah just remembered this comment I might have mentioned in the article that my Facebook has been and will probably stay deactivated for a while             The idea of the Nibiru encounter orinagited with Nancy Lieder a Wisconsin wom
+ - value: >
+     "In a system geared towards drastically increasing the amount of information you push out to the world, it’s not surprising we’re hit with much more than we can possibly care about." <br> <br>Therefore ignore it? If there is an irritating person in real life, you ignore that person, and so the same can be done for irritating things on the internet. The nature of the human brain is to filter out what information is relevant and what is not, and this is a perfect example of why this is a good thing - you can simply filter out what you are not interested in; so there is no need for Facebook's own 'complex' filtering tools.,Hah, just remembered this comment; I might have mentioned in the article that my Facebook has been (and will probably stay) deactivated for a while.,Посмотрела ссылку. Статья показалась желтоватой (и малодостоверной), особенно после абзаца The idea of the Nibiru encounter orinagited with Nancy Lieder, a Wisconsin wom
 
 # Article Taxonomies
 categories:

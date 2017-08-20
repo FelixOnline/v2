@@ -13,7 +13,8 @@ aliases:
  - /news/450/major-changes-to-security-staff-after-metric-launch-violence-
 imported: true
 comments:
- - What on earth does an overzealous removal mean Youre a student paper you dont have to be totally euphemistic Surely your photographer was there  what happenedPoor form
+ - value: >
+     What on earth does an "overzealous" removal mean. You're a student paper, you don't have to be totally euphemistic. Surely your photographer was there - what happened? <br> <br>Poor form.
 
 # Article Taxonomies
 categories:

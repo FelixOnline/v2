@@ -13,7 +13,8 @@ aliases:
  - /sport/883/netball-fantastic-fours-surreptitiously-steal-the-show
 imported: true
 comments:
- - Im sixty years old  One of my flaws as a young woman was that I couldnt dance could not do it  I didnt know which foot to start on or where to put it  I was alyaws leaning the wrong way and on top of that I was clumsy  All of that made me freeze in a guys arms  I never understood why   Then after all these years I put together the fact that Im dyslexic with the fact I cant dance as a couple and it finally made sense  Dyslexia causes problems in such little as well as big ways
+ - value: >
+     I'm sixty years old. One of my flaws as a young woman was that I couldn't dance, could not do it! I didn't know which foot to start on or where to put it. I was alyaws leaning the wrong way and, on top of that, I was clumsy. All of that made me freeze in a guys arms I never understood why. Then, after all these years, I put together the fact that I'm dyslexic with the fact I can't dance as a couple and it finally made sense. Dyslexia causes problems in such little as well as big ways.
 
 # Article Taxonomies
 categories:

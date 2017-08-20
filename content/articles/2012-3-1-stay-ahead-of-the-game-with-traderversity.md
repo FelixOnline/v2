@@ -13,7 +13,8 @@ aliases:
  - /biz/2291/stay-ahead-of-the-game-with-traderversity
 imported: true
 comments:
- - Did your editor know you were providing free advertising adding no new content to a press releaseIs it plagiarism when an article such as this one is copied wordforword from an earlier article 270112httpwwweasiercom98760studentsstayaheadgametraderversityhtml Its a press release and I had full acknowledgment from Chris hobcroft one of the guys behind making traderversity and its owner company copper dimeYes I informed them it was a press release So it was completely up to the editor to post this article and clearly they thought it was fit for the section in felixI hope Felix got paid for this article
+ - value: >
+     Did your editor know you were providing free advertising, adding no new content to a press release?,Is it plagiarism when an article such as this one is copied word-for-word from an earlier article (27/01/12)?? <br> <br>http://www.easier.com/98760-students-stay-ahead-game-traderversity.html, It's a press release and I had full acknowledgment from Chris hobcroft one of the guys behind making traderversity and it's owner company copper dime.... <br>,Yes, I informed them it was a press release. So it was completely up to the editor to post this article and clearly they thought it was fit for the section in felix.,I hope Felix got paid for this "article".
 
 # Article Taxonomies
 categories:

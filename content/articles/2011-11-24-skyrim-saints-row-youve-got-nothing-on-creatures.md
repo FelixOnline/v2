@@ -13,7 +13,8 @@ aliases:
  - /games/1815/skyrim-saints-row-youve-got-nothing-on-creatures
 imported: true
 comments:
- - i agree this sucks guys but im sure they will make it in ds soon becuase other wise their sales will go down by a lot plus no bodys gona buy the 3ds just for this game so they are going to have to make a ds veosrin or their sails wil defo go down
+ - value: >
+     i agree this sucks guys but im sure they will make it in ds soon becuase other wise their sales will go down by a lot plus no bodys gona buy the 3ds just for this game so they are going to have to make a ds veosrin or their sails wil defo go down
 
 # Article Taxonomies
 categories:

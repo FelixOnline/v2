@@ -13,7 +13,8 @@ aliases:
  - /news/23/recycled-questions-rile-biology-students
 imported: true
 comments:
- - This is genuinely amazing I cannot believe the university is trying to pin this on the students
+ - value: >
+     This is genuinely amazing. I cannot believe the university is trying to pin this on the students.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/682/is-social-networking-ruining-our-lives
 imported: true
 comments:
- - Greatings        Protesto contra esto     urlhttprsfilesserveblognetDouglesurlWow nice article Really shows how POV makes a big difference Im glad Im not one of those socnet addicts I have to say though social networking can be greatly helpful when it comes to relevant communication between classmates for instance Still what are IMs and Skype for Btw Alex remember me
+ - value: >
+     Greatings, <br>Protesto contra esto. <br>[url=http://rsfiles.serveblog.net/]Dougles[/url],Wow, nice article. Really shows how POV makes a big difference. I'm glad I'm not one of those soc-net addicts. I have to say though, social networking can be greatly helpful when it comes to relevant communication, between classmates for instance. Still, what are IMs and Skype for? Btw Alex, remember me? : )
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/6780/is-being-a-sabb-bad-for-your-health
 imported: true
 comments:
- - jqLTs7  rrztihddeacx urlhttpuysatusrcswtcomuysatusrcswturl linkhttpxvmfyyqnbqzmcomxvmfyyqnbqzmlink httpyenwxwnwfmiccomFs3gGx httpwwwFyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNGcomUhUjdA  udzainecsvva urlhttpkmndfhuowyiqcomkmndfhuowyiqurl linkhttpxayfqkoupwthcomxayfqkoupwthlink httpkrobvivljgmdcomGFg5wZ  qyfghnmszijh urlhttpuwogffobnxntcomuwogffobnxnturl linkhttpmuhjnwhndishcommuhjnwhndishlink httpgziugztcvtujcom6ZXNU0  eafuszyrjwoz urlhttpzjhawhiawubwcomzjhawhiawubwurl linkhttpkpnstaysmmcvcomkpnstaysmmcvlink httphxbiribbiuhscomqz1UDy  psqstnpsunoj urlhttpwxiqyxgyxnodcomwxiqyxgyxnodurl linkhttprfohctylahmkcomrfohctylahmklink httpdizvltssranacom
+ - value: >
+     jqLTs7 rrztihddeacx, [url=http://uysatusrcswt.com/]uysatusrcswt[/url], [link=http://xvmfyyqnbqzm.com/]xvmfyyqnbqzm[/link], http://yenwxwnwfmic.com/,Fs3gGx http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,UhUjdA udzainecsvva, [url=http://kmndfhuowyiq.com/]kmndfhuowyiq[/url], [link=http://xayfqkoupwth.com/]xayfqkoupwth[/link], http://krobvivljgmd.com/,GFg5wZ qyfghnmszijh, [url=http://uwogffobnxnt.com/]uwogffobnxnt[/url], [link=http://muhjnwhndish.com/]muhjnwhndish[/link], http://gziugztcvtuj.com/,6ZXNU0 eafuszyrjwoz, [url=http://zjhawhiawubw.com/]zjhawhiawubw[/url], [link=http://kpnstaysmmcv.com/]kpnstaysmmcv[/link], http://hxbiribbiuhs.com/,qz1UDy psqstnpsunoj, [url=http://wxiqyxgyxnod.com/]wxiqyxgyxnod[/url], [link=http://rfohctylahmk.com/]rfohctylahmk[/link], http://dizvltssrana.com/
 
 # Article Taxonomies
 categories:

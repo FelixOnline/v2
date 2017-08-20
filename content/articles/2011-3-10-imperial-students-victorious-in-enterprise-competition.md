@@ -13,7 +13,8 @@ aliases:
  - /biz/1057/imperial-students-victorious-in-enterprise-competition
 imported: true
 comments:
- - GO MO wohoo1
+ - value: >
+     GO MO wohoo1
 
 # Article Taxonomies
 categories:

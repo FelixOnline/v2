@@ -13,7 +13,8 @@ aliases:
  - /food/706/so-you-think-you-can-eat-meet-the-meat-challenge-
 imported: true
 comments:
- - Im someone who can eat a lot and still work hard so if there is a challenge Im up for it
+ - value: >
+     Im someone who can eat a lot and still work hard so if there is a challenge I'm up for it
 
 # Article Taxonomies
 categories:

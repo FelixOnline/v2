@@ -13,7 +13,8 @@ aliases:
  - /comment/1067/whats-wrong-with-the-new-generation
 imported: true
 comments:
- - Thats really sherwd Good to see the logic set out so wellQqfS2P  iggcrcomvfog tramadol hcl 267 zithromax pfnft
+ - value: >
+     Thats really sherwd! Good to see the logic set out so well.,QqfS2P <a href="http://iggcrcomvfog.com/">iggcrcomvfog</a>, <a href="http://www.buytramadolhcl.net/">tramadol hcl</a> 267 <a href="http://www.zithromaxpills.com/">zithromax</a> pfnft
 
 # Article Taxonomies
 categories:

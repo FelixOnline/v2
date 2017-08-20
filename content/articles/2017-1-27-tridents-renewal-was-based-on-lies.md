@@ -13,7 +13,8 @@ aliases:
  - /comment/6689/tridents-renewal-was-based-on-lies
 imported: true
 comments:
- - Naive to unilaterally disarm  The real naivety is to believe that there is room is this world for more than one nuclear armed state  As we speak both the major and minor players in this madness are ramping up their nuclear capabilities  The certain outcome is clear but so few are willing to acknowledge it  Unilateral nuclear disarmament is not naive  It is in fact the only action that can save the world from the disaster of global nuclear warSee  The disaster spreadsfrom nation to nationa might tempest risesfrom the far ends of the worldThose slaughtered by YHWH that day will be scattered across the earth from end to end  No dirge will be raised for them no one will gather them or bury them they will stay lying on the ground like dung
+ - value: >
+     "Naive to unilaterally disarm?" The real naivety is to believe that there is room is this world for more than one nuclear armed state. As we speak both the major and minor players in this madness are ramping up their nuclear capabilities. The certain outcome is clear, but so few are willing to acknowledge it. Unilateral nuclear disarmament is not naive. It is, in fact, the only action that can save the world from the disaster of global nuclear war.<br>See! The disaster spreads<br>from nation to nation;<br>a might tempest rises<br>from the far ends of the world.<br>Those slaughtered by YHWH that day will be scattered across the earth from end to end. No dirge will be raised for them; no one will gather them or bury them; they will stay lying on the ground like dung.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/2729/a-skyfall-from-beit
 imported: true
 comments:
- - God lucky escape I dont know anyone whos survived being on a roof beforesenseofperspectivepl0xNo mention of the fact that one of the reasons everything had to be moved quite so quickly was because Imperial were holding graduation there at 11am the next dayNaughty Felix on the roof Watch out theyve got a high powered rifle Jumps to groundChristopher Kaye please shut up you dithering little wankstain Getting bored of your shitty comments on this website now  nothing better to do at 930 on a friday night you are boredhttp24mediatumblrcomtumblr_mbnr4x71hd1r5hocco1_500jpgYeah nice one so bored got nothing better to do on a Friday night or are you just too busy wanking to yourself in the mirrorChris Kaye speaks for most of us Well at least those with something to do on a Friday night
+ - value: >
+     God, lucky escape. I don't know anyone who's survived being on a roof before. <br> <br>#senseofperspectivepl0x,No mention of the fact that one of the reasons everything had to be moved quite so quickly was because Imperial were holding graduation there at 11am the next day!!,Naughty Felix on the roof. Watch out they've got a high powered rifle *Jumps to ground*,Christopher Kaye, please shut up you dithering little wankstain. Getting bored of your shitty comments on this website now. ,nothing better to do at 9.30 on a friday night? you are bored.,http://24.media.tumblr.com/tumblr_mbnr4x71hd1r5hocco1_500.jpg,Yeah nice one ‘so bored‘, got nothing better to do on a Friday night or are you just too busy wanking to yourself in the mirror?...,Chris Kaye speaks for most of us. Well, at least those with something to do on a Friday night...
 
 # Article Taxonomies
 categories:

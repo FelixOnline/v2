@@ -13,7 +13,8 @@ aliases:
  - /science/1806/wavefunction-may-be-real-after-all
 imported: true
 comments:
- - This has resurfaced againhttpwwwnaturecomnewsaboostforquantumreality110602StarOfSagittarius1 on September 3 2012                                                                    Some very old questions are still aunrod These questions concern human behavior thoughts and will Can quantum mechanics shed some light on such questions as Am I just a machine How does my will act What is Gods will Is there a GodIm also in this class and I like it as well Its had a good focus on intuitive unntdseandirg My primary motivation was to have a bit of unntdseandirg on the topic given its relation to cryptography but now Im just plain interested int it  car insurance   infections stress   prescribed counterparts   memic auto insurance
+ - value: >
+     This has resurfaced again: <br> <br>http://www.nature.com/news/a-boost-for-quantum-reality-1.10602,StarOfSagittarius1 on September 3, 2012 Some very old questions are still aunrod. These questions concern human behavior, thoughts, and will. Can quantum mechanics shed some light on such questions as: Am﻿ I just a machine? How does my will act? What is God's will? Is there a God?,I'm also in this class and I like it as well. It's had a good focus on intuitive <a href="http://llttrujwb.com">unntdseandirg</a>. My primary motivation was to have a bit of <a href="http://llttrujwb.com">unntdseandirg</a> on the topic given it's relation to cryptography, but now I'm just plain interested int it., car insurance infections stress prescribed counterparts memic auto insurance
 
 # Article Taxonomies
 categories:

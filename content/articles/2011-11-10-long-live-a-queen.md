@@ -13,7 +13,8 @@ aliases:
  - /politics/1710/long-live-a-queen
 imported: true
 comments:
- - Your overriding argument in this article seems to be that we shouldnt change the rules of succession let alone contemplate switching to a republican system or in fact make any changes to the British political system because this will apparently destabilise the country  This thinking doesnt stand up to scrutiny there are many representative democracies in the world that dont have a monarch as head of state and survive without their societies descending into chaos  Why would changes to the executive branch of government even the trivial one you are against bring this about
+ - value: >
+     Your overriding argument in this article seems to be that we shouldn't change the rules of succession, let alone contemplate switching to a republican system, or in fact make any changes to the British political system because this will apparently destabilise the country. This thinking doesn't stand up to scrutiny: there are many representative democracies in the world that don't have a monarch as head of state and survive without their societies descending into chaos. Why would changes to the executive branch of government, even the trivial one you are against, bring this about?
 
 # Article Taxonomies
 categories:

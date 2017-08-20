@@ -13,7 +13,8 @@ aliases:
  - /tech/2637/freshers-introduction-to-tech
 imported: true
 comments:
- - Hey just for fun here are some things vsilbie in the room 1 My book sculptures top shelf2 A plastic owl3 Longboard skateboard4 Framed pages from  Fantastic Four the trial of Galactus  by John Byrne which is the first comic I ever bought5 Quebec flag on wall reminds me to think or read in French now and then6 Double keyboard stand for videogamey music7 Rubberelectronic drum kit which is often played at Inuvik Legion
+ - value: >
+     Hey just for fun, here are some things vsilbie in the room: 1. My book sculptures (top shelf)2. A plastic owl3. Longboard skateboard4. Framed pages from Fantastic Four: the trial of Galactus by John Byrne, which is the first comic I ever bought.5. Quebec flag on wall (reminds me to think or read in French now and then.)6. Double keyboard stand for video-gamey music.7. Rubber/electronic drum kit, which is often played at Inuvik Legion.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/7002/why-im-voting-conservative-
 imported: true
 comments:
- - Why do you presume May will be better at negotiating than Corbyn Shes already taken a needlessly aggressive stance and put the hackers of the rest of the EU up Not guaranteeing the rights of EU nationals from the outset was stupid an attempt to use peoples rights as a bargaining chip May and Trump have to realise that international agreements are not games or chess where one side loses and the gains these international agreements are formed of compromise Dont lap up Theresa Mays rhetoric her strong and  stable mantra is an attempt to undermine the opposition nothing more
+ - value: >
+     Why do you presume May will be better at negotiating than Corbyn? She's already taken a needlessly aggressive stance and put the hackers of the rest of the EU up. <br>Not guaranteeing the rights of EU nationals from the outset was stupid, an attempt to use people's rights as a bargaining chip. May and Trump have to realise that international agreements are not games or chess, where one side loses and the gains, these international agreements are formed of compromise. <br>Don't lap up Theresa May's rhetoric, her strong and stable mantra is an attempt to undermine the opposition, nothing more.
 
 # Article Taxonomies
 categories:

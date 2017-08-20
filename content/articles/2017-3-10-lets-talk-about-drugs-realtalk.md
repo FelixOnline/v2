@@ -13,7 +13,8 @@ aliases:
  - /features/6882/lets-talk-about-drugs-realtalk
 imported: true
 comments:
- - What is with that guybuy cheap albion gold httpwwwasmapinformorgforumviewtopicphpf2t183245sid354498344ccfd99d3f9bd23258059d2dI do not knowcheap madden mobile coins for sale httpwwwmaddenstorecomTake my word for itcheapest and fastest pokemon go rare pokemon store httpwwwpokemonbuxcomI dont knowdofus touch kamas httpswwwdofustouchkamascomnewsmakekamasbysellingrunesindofustouch21031What is that guybuy Albion Online Gold httpalbionsnackwsenjoywonderfulgamingexperiencewithalbiononlinegoldhtml
+ - value: >
+     What is with that guy? <br>buy cheap albion gold http://www.asmap-inform.org/forum/viewtopic.php?f=2&amp;t=183245&amp;sid=354498344ccfd99d3f9bd23258059d2d,I do not know <br>cheap madden mobile coins for sale http://www.madden-store.com,Take my word for it. <br>cheapest and fastest pokemon go rare pokemon store http://www.pokemonbux.com,I don't know <br>dofus touch kamas https://www.dofustouch-kamas.com/news/make-kamas-by-selling-runes-in-dofus-touch-21031,What is that guy? <br>buy Albion Online Gold http://albion.snack.ws/enjoy-wonderful-gaming-experience-with-albion-online-gold.html
 
 # Article Taxonomies
 categories:

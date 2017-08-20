@@ -13,7 +13,8 @@ aliases:
  - /comment/2072/tuition-fees-protests-wastes-good-placards
 imported: true
 comments:
- - You profoundly underestimate how much the reduced financial support packages will affect poorer studentsAlso fees should be seen as one aspect of a unified whole of Bad Things and not as something that should be ignored because there are some worse things out thereFinancial support for the poorest students is increasing Check your factsFinancial support for the poorest students usually consists of fee rebates  in other words HMG pays off part of the student debt Why When these students graduate they are in exactly the same financial situation as other graduates except that they have less debt How is this fair Poorer students should get a bigger loan not have money given to them by the Government
+ - value: >
+     You profoundly underestimate how much the reduced financial support packages will affect poorer students.,Also fees should be seen as one aspect of a unified whole of Bad Things and not as something that should be ignored because there are some worse things out there.,Financial support for the poorest students is increasing. Check your facts.,Financial support for the poorest students usually consists of fee rebates - in other words HMG pays off part of the student debt. Why? When these students graduate they are in exactly the same financial situation as other graduates, except that they have less debt. How is this fair? Poorer students should get a bigger loan, not have money given to them by the Government.
 
 # Article Taxonomies
 categories:

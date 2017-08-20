@@ -13,7 +13,8 @@ aliases:
  - /arts/5053/my-art-the-va-ceramics-collection
 imported: true
 comments:
- - Thanks for your ththugos Its helped me a lot
+ - value: >
+     Thanks for your ththugos. It's helped me a lot.
 
 # Article Taxonomies
 categories:

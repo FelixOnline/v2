@@ -13,7 +13,8 @@ aliases:
  - /arts/4240/all-male-swan-lake-makes-ballet-history
 imported: true
 comments:
- - this is not new  was created in the 90s
+ - value: >
+     this is not new - was created in the 90s
 
 # Article Taxonomies
 categories:

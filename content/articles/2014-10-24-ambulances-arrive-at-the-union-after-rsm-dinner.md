@@ -13,7 +13,8 @@ aliases:
  - /news/4748/ambulances-arrive-at-the-union-after-rsm-dinner
 imported: true
 comments:
- - Good to see Philippa leading  Felix from the front with such a barnstorming nonarticle
+ - value: >
+     Good to see Philippa leading Felix from the front with such a barnstorming non-article.
 
 # Article Taxonomies
 categories:

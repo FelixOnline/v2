@@ -13,7 +13,8 @@ aliases:
  - /sport/5013/taekwondo-emerge-victorious-for-second-year-running
 imported: true
 comments:
- - christian louboutin daffodile shoeschristian louboutin online store httpcanadachristianlouboutinoutletblogspotcom
+ - value: >
+     christian louboutin daffodile shoes <br>christian louboutin online store http://canadachristianlouboutinoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

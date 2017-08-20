@@ -13,7 +13,8 @@ aliases:
  - /news/2829/imperial-physicist-dies-in-perth
 imported: true
 comments:
- - I think the way the College handles death of staff is pretty distasteful There is a tribute page for him somewhere hidden away on the Imperial website As far as Im aware it never made front page news on the Imperial website That over a fortnight on Felix is only just reporting on it proves the point rather wellQuite rightly the College doesnt go in for permanent eshrines but there is a tasteful compromise particularly for such a valued academic who died in such tragic circumstancesMeanwhile his personal page as at 11th November still exists httpwww3imperialacukpeopleseanbarrett The only change that has been made is the removal of his email address from the page Again could be done betterOur thoughts are with everyone who misses him
+ - value: >
+     I think the way the College handles death of staff is pretty distasteful. There is a tribute page for him, somewhere, hidden away on the Imperial website. As far as I'm aware it never made front page news on the Imperial website. <br>That, over a fortnight on, Felix is only just reporting on it proves the point rather well. <br> <br>Quite rightly the College doesn't go in for permanent e-shrines, but there is a tasteful compromise, particularly for such a valued academic who died in such tragic circumstances. <br> <br>Meanwhile his personal page (as at 11th November) still exists. http://www3.imperial.ac.uk/people/sean.barrett <br> <br>The only change that has been made is the removal of his email address from the page. Again, could be done better. <br> <br>Our thoughts are with everyone who misses him.
 
 # Article Taxonomies
 categories:

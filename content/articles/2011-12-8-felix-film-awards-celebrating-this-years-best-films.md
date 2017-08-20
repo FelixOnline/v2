@@ -13,7 +13,8 @@ aliases:
  - /film/1938/felix-film-awards--celebrating-this-years-best-films
 imported: true
 comments:
- - Going to put this aritlce to good use now
+ - value: >
+     Going to put this aritlce to good use now.
 
 # Article Taxonomies
 categories:

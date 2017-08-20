@@ -13,7 +13,8 @@ aliases:
  - /music/1263/rinse-rave-and-repeat
 imported: true
 comments:
- - Surprisingly weak line up too much of this electro house crap The Cocoon and Pyrda stages have enough talent though and i suppose the Annie Mac one I think its better to go a mixed genre music festival
+ - value: >
+     Surprisingly weak line up, too much of this 'electro house' crap. The Cocoon and Pyrda stages have enough talent though and i suppose the Annie Mac one. I think its better to go a mixed genre music festival.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /books/2064/a-tribute-to-a-reclusive-author
 imported: true
 comments:
- - Great article about a great man never knew that he had lived through so muchA cracking article I particularly like the ending which far from emphasising the authors reclusiveness questions the society that would lead someone as gifted as Salinger to renounce fame in the literary world  never knew salinger fought in normandy gives a new perspective on the man and his work
+ - value: >
+     Great article about a great man, never knew that he had lived through so much!,A cracking article! I particularly like the ending which, far from emphasising the author's reclusiveness, questions the society that would lead someone as gifted as Salinger to renounce fame in the 'literary' world. ,never knew salinger fought in normandy, gives a new perspective on the man and his work.
 
 # Article Taxonomies
 categories:

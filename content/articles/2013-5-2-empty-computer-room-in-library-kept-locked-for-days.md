@@ -13,7 +13,8 @@ aliases:
  - /news/3528/empty-computer-room-in-library-kept-locked-for-days
 imported: true
 comments:
- - The good news is that the room is available whenever their isnt teaching happening There was a period when the room was inaccessible whilst the PCs were being remotely rebuilt by ICT but happy to report if the room is empty all students should be able to swipe in
+ - value: >
+     The good news is that the room is available whenever their isn't teaching happening. There was a period when the room was inaccessible whilst the PCs were being remotely rebuilt by ICT, but happy to report if the room is empty all students should be able to swipe in.
 
 # Article Taxonomies
 categories:

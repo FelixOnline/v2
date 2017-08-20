@@ -13,7 +13,8 @@ aliases:
  - /tv/1873/modern-family--a-family-portrait
 imported: true
 comments:
- - I was recommended to watch this show by a friend of mine I never got around to it until I was reminded about it by this article All that to say that my housemates and myself are now huge fans  of Gloria of course
+ - value: >
+     I was recommended to watch this show by a friend of mine. I never got around to it until I was reminded about it by this article. <br>All that to say that my housemates and myself are now huge fans - of Gloria of course ;)
 
 # Article Taxonomies
 categories:

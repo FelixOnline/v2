@@ -13,7 +13,8 @@ aliases:
  - /news/3563/organ-donor-drive-at-imperial
 imported: true
 comments:
- - Dont be fooled into this people this is all a scam This video isnt for the faint of hearthttpwwwyoutubecomwatchvaclS1pGHp8o
+ - value: >
+     Don't be fooled into this people, this is all a scam! This video isn't for the faint of heart: <br>http://www.youtube.com/watch?v=aclS1pGHp8o
 
 # Article Taxonomies
 categories:

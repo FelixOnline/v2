@@ -13,7 +13,8 @@ aliases:
  - /travel/1321/100-minutes-from-lcy-to-zrh
 imported: true
 comments:
- - Well for what its worth Italy simply isnt Switzerland for everything other than the ice cream Oh and I dont speak the languageYou mention that tuscan icecream is better Why didnt you just fly to Pisa instead of Zurich
+ - value: >
+     Well, for what it's worth... Italy simply isn't Switzerland for everything other than the ice cream! Oh, and I don't speak the language...,You mention that tuscan ice-cream is better. Why didn't you just fly to Pisa instead of Zurich?
 
 # Article Taxonomies
 categories:

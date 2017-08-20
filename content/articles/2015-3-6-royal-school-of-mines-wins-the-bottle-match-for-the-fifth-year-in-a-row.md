@@ -13,7 +13,8 @@ aliases:
  - /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
 imported: true
 comments:
- - History dictates Brazil get one among the main contenders Since the 1930s many American leaders have visited Haiti Soccer highlights are believed as the most awaited part for the soccer eventcredits fut rapidement httpcreditsfutcom
+ - value: >
+     History dictates Brazil get one among the main contenders. Since the 1930s, many American leaders have visited Haiti. Soccer highlights are believed as the most awaited part for the soccer event. <br>credits fut rapidement http://creditsfut.com/
 
 # Article Taxonomies
 categories:

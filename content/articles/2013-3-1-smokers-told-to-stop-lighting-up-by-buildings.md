@@ -13,7 +13,8 @@ aliases:
  - /news/3409/smokers-told-to-stop-lighting-up-by-buildings
 imported: true
 comments:
- - The last time I looked the pavement outside Huxley was a public place over which the college has no authorityWhich is why the ban does not apply to the entrance to Huxley on Queens GatehttpsworkspaceimperialacukhrpublicProceduressmokefreeSmoke20Free20Locations202010RedpdfKi emeis eimaste ameansa se aftous pou xomeinan edo ton avgousto An kaneis kefi na vrethoume analoga me to poso tha meineis stin iperohi tsimentoupoli mas THELO KI ALLI DOSI APO GAV LEMEEEEEE
+ - value: >
+     The last time I looked the pavement outside Huxley was a public place over which the college has no authority.,Which is why the ban does not apply to the entrance to Huxley on Queen's Gate: <br> <br>https://workspace.imperial.ac.uk/hr/public/Procedures/smoke-free/Smoke%20Free%20Locations%202010-Red.pdf,Ki emeis eimaste ameansa se aftous pou xomeinan edo ton avgousto! An kaneis kefi, na vrethoume (analoga me to poso tha meineis stin iperohi tsimentoupoli mas!)... THELO KI ALLI DOSI APO GAV LEMEEEEEE!
 
 # Article Taxonomies
 categories:

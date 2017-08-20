@@ -13,7 +13,8 @@ aliases:
  - /news/3333/students-in-final-of-bp-ultimate-field-trip
 imported: true
 comments:
- - httpsafetywhyscommedianorthfacenorthfacemetropolissaleaspnorth face metropolis salenorth face sweatshirt httpteldeschicomComponentsnorthfacenorthfacesweatshirtasp
+ - value: >
+     http://safetywhys.com//media/northface/north-face-metropolis-sale.aspnorth face metropolis sale <br>north face sweatshirt http://teldeschi.com/Components/northface/north-face-sweatshirt.asp
 
 # Article Taxonomies
 categories:

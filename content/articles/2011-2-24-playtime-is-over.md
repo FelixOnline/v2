@@ -13,7 +13,8 @@ aliases:
  - /comment/888/playtime-is-over
 imported: true
 comments:
- - David unlike karaoke there are people who cannot drink for religious reasons This is the reason why Alex branded alcohol subsidisation immoral and unfortunately you seem to have missed it completely
+ - value: >
+     David, unlike karaoke, there are people who cannot drink for religious reasons. This is the reason why Alex branded alcohol subsidisation immoral and unfortunately you seem to have missed it completely.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /biz/1013/fig-grows-by-finding-eleven-more-businesses-to-invest-in-
 imported: true
 comments:
- - Ppl like you get all the birans I just get to say thanks for he answer
+ - value: >
+     Ppl like you get all the birans. I just get to say thanks for he answer.
 
 # Article Taxonomies
 categories:

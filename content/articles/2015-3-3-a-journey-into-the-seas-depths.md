@@ -13,7 +13,8 @@ aliases:
  - /arts/5318/a-journey-into-the-seas-depths
 imported: true
 comments:
- - Ewreug  rkqmtdxoayhv urlhttppfaidrcrpcqhcompfaidrcrpcqhurl linkhttppnzbuicewzeccompnzbuicewzeclink httpnmuexuviichvcom
+ - value: >
+     Ewreug rkqmtdxoayhv, [url=http://pfaidrcrpcqh.com/]pfaidrcrpcqh[/url], [link=http://pnzbuicewzec.com/]pnzbuicewzec[/link], http://nmuexuviichv.com/
 
 # Article Taxonomies
 categories:

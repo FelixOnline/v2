@@ -13,7 +13,8 @@ aliases:
  - /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
 imported: true
 comments:
- - Youre an extremely helpful web site couldnt make it without yaClemens Fritz httphyperlapseshowcasecomgroups2704
+ - value: >
+     You're an extremely helpful web site; couldn't make it without ya! <br>Clemens Fritz http://hyperlapse-showcase.com/groups/2704
 
 # Article Taxonomies
 categories:

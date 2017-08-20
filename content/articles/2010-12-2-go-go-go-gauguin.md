@@ -13,7 +13,8 @@ aliases:
  - /arts/461/go-go-go-gauguin
 imported: true
 comments:
- - Gaugin paintings could have been found disappointing but calling hin obnoxious Writer needs some education in how to use words about such figures like Gaugin
+ - value: >
+     Gaugin paintings could have been found disappointing, but calling hin obnoxious. Writer needs some education in how to use words about such figures like Gaugin.
 
 # Article Taxonomies
 categories:

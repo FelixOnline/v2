@@ -13,7 +13,8 @@ aliases:
  - /comment/2844/united-states-of-eurasia
 imported: true
 comments:
- - I really want to go to MIT so I can live out my fantasy of being selected by Kevin Spacey for cardcounting trips to Vegas and then being reprimanded by casino security chief Laurence Fishburne
+ - value: >
+     I really want to go to MIT so I can live out my fantasy of being selected by Kevin Spacey for card-counting trips to Vegas, and then being reprimanded by casino security chief Laurence Fishburne.
 
 # Article Taxonomies
 categories:

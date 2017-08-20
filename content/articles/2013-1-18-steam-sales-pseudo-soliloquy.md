@@ -13,7 +13,8 @@ aliases:
  - /games/3142/steam-sales-pseudo-soliloquy
 imported: true
 comments:
- - INSPECTOR CLOUSEAU
+ - value: >
+     INSPECTOR CLOUSEAU
 
 # Article Taxonomies
 categories:

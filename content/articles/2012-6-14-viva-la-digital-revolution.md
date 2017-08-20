@@ -13,7 +13,8 @@ aliases:
  - /tech/2556/viva-la-digital-revolution
 imported: true
 comments:
- - I think your spot on in youre artical with the push for digital distribution streaming  cloud Based services becoming ever more the norm it leaves the dependency for Hard copys Optical drives album art  special editions related to those formats to be fazed out entirely for profiting and piracy issues The idea is genius from a business point of view the Label cuts out all the middle men from production importexport and everyone inbetween to Instead have the customer go direct to them at the point of sale without ever really needing to over spend on anything other then marketing well I assumeOn the other hand the purist will be dragged kicking and screaming into this way of digital conformation rendering their love of the physical copy useless and worthless as soon as the hardware designed to play them are also assigned to the history books of time
+ - value: >
+     I think your spot on in you're artical, <br> <br>with the push for digital distribution, streaming, &amp; cloud Based services becoming ever more the norm it leaves the dependency for Hard copy's, Optical drives, album art &amp; special editions related to those formats to be fazed out entirely for profiting and piracy issues. The idea is genius from a business point of view, the Label cuts out all the middle men from production, import/export and everyone inbetween to Instead have the customer go direct to them at the point of sale without ever really needing to over spend on anything other then marketing (well I assume) <br> <br>On the other hand the purist will be dragged kicking and screaming into this way of digital conformation rendering their love of the physical copy useless and worthless as soon as the hardware designed to play them are also assigned to the history books of time
 
 # Article Taxonomies
 categories:

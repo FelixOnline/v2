@@ -13,7 +13,8 @@ aliases:
  - /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
 imported: true
 comments:
- - My class choice is almost always Traditional with a twist or variations on trdotianaliAlso would love to learn to get out of my own way Some projects I dont tackle thinking yeah I cant so that When Im sure I could if I would just get out of my own way
+ - value: >
+     My class choice is almost always Traditional with a twist, or variations on trdo.tianaliAlso, would love to learn to get out of my own way!! Some projects I don’t tackle, thinking, yeah I can’t so that!! When I’m sure I could if I would just get out of my own way!!
 
 # Article Taxonomies
 categories:

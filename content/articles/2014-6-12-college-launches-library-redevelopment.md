@@ -13,7 +13,8 @@ aliases:
  - /news/4689/college-launches-library-redevelopment
 imported: true
 comments:
- - Regarding the air conditioning planning application it is open for public comments here httpidoxpawestminstergovukonlineapplicationsapplicationDetailsdoactiveTabmakeCommentkeyValN4HRFLRPM2U00
+ - value: >
+     Regarding the air conditioning planning application, it is open for public comments here: http://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=makeComment&amp;keyVal=N4HRFLRPM2U00 <br>
 
 # Article Taxonomies
 categories:

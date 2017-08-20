@@ -13,7 +13,8 @@ aliases:
  - /games/6827/pokmon-go-on-a-bike
 imported: true
 comments:
- - On balance I dont think it reduces your awareness much more than listening to music when youre cycling no matter how leaky those earphones are its just not safe which I do not condone at allSo the writer doesnt condone something which is by her own admission safer than the subject of this articleI feel sorry for the driver who gets done when they hit someone undertaking the insanely dangerous and illegal schemeI feel sorry for the driver who gets done when they hit someone undertaking the insanely dangerous and illegal scheme
+ - value: >
+     "On balance, I don’t think it reduces your awareness much more than listening to music when you’re cycling (no matter how leaky those earphones are, it’s just not safe), which I do not condone at all,"<br>So the writer doesn't condone something which is, by her own admission, safer than the subject of this article?,I feel sorry for the driver who gets done when they hit someone undertaking the insanely dangerous and illegal scheme...,I feel sorry for the driver who gets done when they hit someone undertaking the insanely dangerous and illegal scheme.
 
 # Article Taxonomies
 categories:

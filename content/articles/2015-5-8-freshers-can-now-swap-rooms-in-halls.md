@@ -13,7 +13,8 @@ aliases:
  - /news/5499/freshers-can-now-swap-rooms-in-halls
 imported: true
 comments:
- - Youre a very practical internet site could not make it without yaFIFA 17 httpwwwsomdmdaorgbuy_madden_17_coins_inside_nfl
+ - value: >
+     You're a very practical internet site; could not make it without ya! <br>FIFA 17 http://www.somdmda.org/buy_madden_17_coins_inside_nfl
 
 # Article Taxonomies
 categories:

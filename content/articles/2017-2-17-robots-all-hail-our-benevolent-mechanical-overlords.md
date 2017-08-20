@@ -13,7 +13,8 @@ aliases:
  - /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
 imported: true
 comments:
- - An inlenligett point of view well expressed Thanks
+ - value: >
+     An inlenligett point of view, well expressed! Thanks!
 
 # Article Taxonomies
 categories:

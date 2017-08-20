@@ -13,7 +13,8 @@ aliases:
  - /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
 imported: true
 comments:
- - Its a shame ImperialWPA coverage in DoC is so poor I hate using ICDoC but dont really have a choice It is scary how easy this addon makes session hijacking Facebook is now blocked on ICDoC phttpswwwfacebookcom simplesItd be nice if that link kept its SSL not great needing to copy link location and add an s for each clickI hope SSL equivalents become more widespread yeahzomg  unsecure network isnt secure11eoenIf you want your data to be private its your responsibility to ensure this is so The argument that its more convenient to use the DoC wifi than ImperialWPA is silly Thats equivalent to saying that sex without a condom is more convenient Possibly true but you should know the consequencesIn both cases  Have Fun Play SafeI bow down humbly in the persecne of such greatness
+ - value: >
+     It's a shame Imperial-WPA coverage in DoC is so poor. I hate using IC-DoC but don't really have a choice! It is scary how easy this add-on makes session hijacking :/,Facebook is now blocked on IC-DoC :p,https://www.facebook.com/ simples.,It'd be nice if that link kept its SSL... not great needing to copy link location and add an 's' for each click!,I hope SSL equivalents become more widespread yeah..,zomg - unsecure network isn't secure?!?!11eoen,If you want your data to be private, it’s your responsibility to ensure this is so. The argument that its more convenient to use the DoC wifi than Imperial-WPA is silly. That’s equivalent to saying that sex without a condom is more convenient. Possibly true, but you should know the consequences... <br>In both cases - Have Fun, Play Safe <br>,I bow down humbly in the persecne of such greatness.
 
 # Article Taxonomies
 categories:

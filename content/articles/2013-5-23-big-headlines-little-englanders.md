@@ -13,7 +13,8 @@ aliases:
  - /politics/3610/big-headlines--little-englanders
 imported: true
 comments:
- - The UKIP triumph is nearer than you think and all dissenters will be thoroughly expunged
+ - value: >
+     The UKIP triumph is nearer than you think, and all dissenters will be thoroughly expunged.
 
 # Article Taxonomies
 categories:

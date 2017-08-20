@@ -13,7 +13,8 @@ aliases:
  - /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
 imported: true
 comments:
- - This is true Convinience and comfort are worth so much more than the moral degradation of getting a long distance bus
+ - value: >
+     This is true. Convinience and comfort are worth so much more than the moral degradation of getting a long distance bus.
 
 # Article Taxonomies
 categories:

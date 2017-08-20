@@ -13,7 +13,8 @@ aliases:
  - /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
 imported: true
 comments:
- - I am really fascinated by this story and by the fact that such billon euro secret has remained unnoticed for so long I am curious but helpless to know what other such secrets remain hidden from the world and what consequences they could have  and whether there are any ethicalmoral issues if such secrets should remain hidden Also I am really hoping that this ends up with some winwin situation with the art works being restored to original beneficiaries but also giving Cornelius some credit He deserves some acknowledgment for preserving such precious work and not being capricious in selling them unwisely for money
+ - value: >
+     I am really fascinated by this story and by the fact that such billon euro secret has remained unnoticed for so long. I am curious but helpless to know what other such secrets remain hidden from the world! and what consequences they could have, and whether there are any ethical/moral issues if such secrets should remain hidden. <br>Also I am really hoping that this ends up with some win-win situation with the art works being restored to original beneficiaries but also giving Cornelius some credit. He deserves some acknowledgment for preserving such precious work and not being capricious in selling them unwisely for money <br>
 
 # Article Taxonomies
 categories:

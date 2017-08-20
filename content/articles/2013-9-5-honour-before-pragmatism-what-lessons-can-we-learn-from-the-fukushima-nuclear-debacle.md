@@ -13,7 +13,8 @@ aliases:
  - /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
 imported: true
 comments:
- - So where will they be getting their eccttriliey from Or will they be freezing in the dark as the nuclear industry spokespeople used to say whenever people protested the construction of new nuclear reactors
+ - value: >
+     So where will they be getting their eccttriliey from? Or will they be 'freezing in the dark' as the nuclear industry spokespeople used to say whenever people protested the construction of new nuclear reactors?
 
 # Article Taxonomies
 categories:

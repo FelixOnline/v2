@@ -13,7 +13,8 @@ aliases:
  - /news/2726/feedback-woes-highlighted
 imported: true
 comments:
- - came for the pun was not disappointed
+ - value: >
+     came for the pun, was not disappointed
 
 # Article Taxonomies
 categories:

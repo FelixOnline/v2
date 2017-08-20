@@ -13,7 +13,8 @@ aliases:
  - /features/3876/iaeste---a-journey-without-an-end
 imported: true
 comments:
- -                GD Library Error imagecreatetruecolor does not exist   plseae contact your webhost and ask them to install the GD libraryQuery String  srcwpcontentuploadslalishjpgw276h202zc1q100TimThumb version  125      GD library
+ - value: >
+     قال:اسف للتدخل يا اخوانىمشكلةرودى يا اخ انسلما تعمل اظهار لصورة الموضوع فى الموقع تظهر هذه المشكلةGD Library Error: imagecreatetruecolor does not exist plseae contact your webhost and ask them to install the GD libraryQuery String : src=/wp-content/uploads/lalish.jpg&amp;w=276&amp;h=202&amp;zc=1&amp;q=100TimThumb version : 1.25لازم تكلم المستضيفو يعمل تسطيب لمكتبة GD libraryحبيت اساعد و بالتوفيق
 
 # Article Taxonomies
 categories:

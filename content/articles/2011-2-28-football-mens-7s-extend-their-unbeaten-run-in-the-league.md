@@ -13,7 +13,8 @@ aliases:
  - /sport/952/football-mens-7s-extend-their-unbeaten-run-in-the-league
 imported: true
 comments:
- - Hi CharlesI can see your thinking  We aim to have BuildorPro run in FF IE 7 Safari and Chrome and the brewsor that your using the app in will render whatever CSSHTML it understands first for the new CSS3 rules too but you will be able to edit all code directly through the HTMLCSS viewFor IE 6 you can preview your changes and load them in that brewsor for checking as frequently as you like but we havent done any serious testing in terms of runing the app in IE6Thanks for your interest in BuildorJames
+ - value: >
+     Hi Charles,I can see your thinking. We aim to have BuildorPro run in FF, IE 7+, Safari and Chrome and the brewsor that your using the app in will render whatever CSS/HTML it understands first (for the new CSS3 rules too) but you will be able to edit all code directly through the HTML/CSS view.For IE 6, you can preview your changes and load them in that brewsor for checking as frequently as you like but we haven't done any serious testing in terms of runing the app in IE6.Thanks for your interest in Buildor,James
 
 # Article Taxonomies
 categories:

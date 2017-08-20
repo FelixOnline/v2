@@ -13,7 +13,8 @@ aliases:
  - /comment/3704/2012-university-complaints-england--wales-in-2012
 imported: true
 comments:
- - This is precisely why you need to check your course thoroughly before you apply Particularly at Postgraduate level A postgraduate degree at Imperial is very pricy but worth it But obviously there are a few people who are not contentAnyone reading this that is looking to study at postgraduate level I cannot reccommend this website enough httpwwwpostgraduatesearchcom It contains so much useful information that could make your choice easier Its just a shame it doesnt have many course reviews
+ - value: >
+     This is precisely why you need to check your course thoroughly before you apply. Particularly at Postgraduate level. A postgraduate degree at Imperial is very pricy but worth it. But obviously there are a few people who are not content. <br> <br>Anyone reading this that is looking to study at postgraduate level, I cannot reccommend this website enough. http://www.postgraduatesearch.com It contains so much useful information that could make your choice easier. It's just a shame it doesn't have many course reviews.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tech/1301/skype-pushes-unwanted-software-to-users
 imported: true
 comments:
- - This was to do with the Skype Extras and the games which were optionally installed with Skype I remember
+ - value: >
+     This was to do with the Skype Extras and the games which were optionally installed with Skype I remember.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /science/2003/the-next-ice-age-may-be-late
 imported: true
 comments:
- - Maybe Mother Earth is pregnant and its Ice Age wont come at all
+ - value: >
+     Maybe Mother Earth is pregnant and its Ice Age won't come at all.
 
 # Article Taxonomies
 categories:

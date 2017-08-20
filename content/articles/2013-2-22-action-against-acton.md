@@ -13,7 +13,8 @@ aliases:
  - /comment/3363/action-against-acton
 imported: true
 comments:
- - Will the university ever listen to the students Will Beaumont succeed where those before him have failed
+ - value: >
+     Will the university ever listen to the students? Will Beaumont succeed where those before him have failed?
 
 # Article Taxonomies
 categories:

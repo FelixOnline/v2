@@ -13,7 +13,8 @@ aliases:
  - /tv/6730/bake-sale
 imported: true
 comments:
- - Thank you for pouring your heart out honestly in regard to your fears about your son joining the army  I have a 3 yr old son right now and 3 dartgheus older than him  Things I will have to think about one day
+ - value: >
+     Thank you for pouring your heart out honestly in regard to your fears about your son joining the army. I have a 3 yr old son right now, and 3 dartgheus older than him. Things I will have to think about one day.
 
 # Article Taxonomies
 categories:

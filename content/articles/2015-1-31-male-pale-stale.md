@@ -13,7 +13,8 @@ aliases:
  - /arts/5165/male-pale--stale
 imported: true
 comments:
- - fitflops australia salefitflops australia online httpwwwaustraliafitflopscomsale fitflopsfitflop sales httpfitflopsaublogspotcombirkenstock salebirkenstock online store httpbirkenstocksaleaustraliablogspotcombuy christian louboutin shoes canadachristian louboutin sale clearance httpcanadachristianlouboutinoutletblogspotcomchristian louboutin slingblacks shoeschristian louboutin shoes canada httpchristianlouboutincanadaoutletblogspotcomchristian louboutin daffodile canadachristian louboutin outlet httpcanadachristianlouboutinoutletblogspotcomchristian louboutin menschristian louboutin shoes sale httpchristianlouboutincanadaoutletblogspotcom
+ - value: >
+     fitflops australia sale <br>fitflops australia online http://www.australiafitflops.com/,sale fitflops <br>fitflop sales http://fitflopsau.blogspot.com/,birkenstock sale <br>birkenstock online store http://birkenstocksaleaustralia.blogspot.com/,buy christian louboutin shoes canada <br>christian louboutin sale clearance http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin slingblacks shoes <br>christian louboutin shoes canada http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin daffodile canada <br>christian louboutin outlet http://canadachristianlouboutinoutlet.blogspot.com/,christian louboutin mens <br>christian louboutin shoes sale http://christianlouboutincanadaoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
 imported: true
 comments:
- - well the trustee board sound like the thing the green paper was referring to when it was chatting about opaque and unnacountable student unionsmusicfan The trustee board meets the legal requirement for ICU  as a charity  to have a board of trustees or directors ensuring it complies with the law remains financially sound and fulfils its obligations to whatever charitable endeavour for which it was foundedThe agenda for the January meeting referenced in the article are available 1 on the Union website as are the minutes from that meeting 21  httpswwwimperialcollegeunionorgyourunionhowwereruncommittees1516Board_of_Trustees5022  httpswwwimperialcollegeunionorgyourunionhowwereruncommittees1516Board_of_Trusteesfile3423
+ - value: >
+     well the trustee board sound like the thing the green paper was referring to when it was chatting about opaque and unnacountable student unions,@musicfan: The trustee board meets the legal requirement for ICU - as a charity - to have a board of trustees or directors ensuring it complies with the law, remains financially sound, and fulfils it's obligations to whatever charitable endeavour for which it was founded.<br>The agenda for the January meeting referenced in the article are available [1] on the Union website; as are the minutes from that meeting [2].<br>[1] - https://www.imperialcollegeunion.org/your-union/how-were-run/committees/15-16/Board_of_Trustees/502<br>[2] - https://www.imperialcollegeunion.org/your-union/how-were-run/committees/15-16/Board_of_Trustees/file/3423
 
 # Article Taxonomies
 categories:

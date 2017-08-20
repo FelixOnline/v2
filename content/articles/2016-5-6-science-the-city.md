@@ -13,7 +13,8 @@ aliases:
  - /science/6122/science--the-city
 imported: true
 comments:
- - Hmm it looks like your blog ate my first comment it was super long so I guess Ill just sum it up what I wrote and say Im thoroughly enjoying your blog I as well am an aspiring blog writer but Im still new to the whole thing Do you have any tips for iniexereencpd blog writers Id genuinely appreciate it
+ - value: >
+     Hmm it looks like your blog ate my first comment (it was super long) so I guess I’ll just sum it up what I wrote and say, I’m thoroughly enjoying your blog. I as well am an aspiring blog writer but I’m still new to the whole thing. Do you have any tips for iniexereencpd blog writers? I’d genuinely appreciate it.
 
 # Article Taxonomies
 categories:

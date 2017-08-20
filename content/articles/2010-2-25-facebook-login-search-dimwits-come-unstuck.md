@@ -13,7 +13,8 @@ aliases:
  - /tech/98/facebook-login-search-dimwits-come-unstuck
 imported: true
 comments:
- - This is literally hilariousSource   I saw this on another post and it made me smileWorry does not empty tomorrow of its sorrow It empties today of its strength  Source   I love this site and just wish I was as smart as you guys but maybe I can at least give you a smilejust to make you you smile  Which is the nonsmoking lifeboat Hi  I am definitely glad to find this Good job
+ - value: >
+     This is literally hilarious!,<a href="http://www.caputofordelegate.com">Source: </a> I saw this on another post and it made me smile<br><br>Worry does not empty tomorrow of its sorrow. It empties today of its strength. :) ,<a href="http://aaaautoinsurance.buzz-echo.com/2011/05/11/what-all-bloggers-should-know-about-wordpress-seo/">Source: </a> I love this site and just wish I was as smart as you guys but maybe I can at least give you a smile?<br>just to make you you smile :) Which is the non-smoking lifeboat? ,Hi - I am definitely glad to find this. Good job!
 
 # Article Taxonomies
 categories:

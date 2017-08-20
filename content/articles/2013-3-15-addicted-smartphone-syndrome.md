@@ -13,7 +13,8 @@ aliases:
  - /tech/3471/addicted-smartphone-syndrome
 imported: true
 comments:
- - Thank you for good imformationI liked the article even though it also made me sad People preferring the smartphone to actual human interaction  Facebook to meeting their friends  texting to actually talking to someone facetoface  Thanks for this food for thought
+ - value: >
+     Thank you for good imformation.,I liked the article even though it also made me sad. People preferring the smartphone to actual human interaction - Facebook to meeting their friends - texting to actually talking to someone face-to-face ! Thanks for this food for thought !
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
 imported: true
 comments:
- - A divisive choice Lord Browne president of the Royal Academy of Engineering recently broke with convention by criticising maths and physics as having too much government funding compared with engineering Your awsner was just what I needed Its made my dayutIgZy  fnazitfcxnaa pravachol buy tramadol 499488 cymbalta 87458 synthroid 681  cheap car insurance 732656 cheap life insurance
+ - value: >
+      A divisive choice: Lord Browne, president of the Royal Academy of Engineering, recently broke with convention by criticising maths and physics as having too much government funding compared with engineering. ,Your awsner was just what I needed. Its made my day!,utIgZy <a href="http://fnazitfcxnaa.com/">fnazitfcxnaa</a>, <a href="http://www.ultraprix.net/">pravachol buy tramadol</a> 499488 <a href="http://www.onlinemedico.com/">cymbalta</a> 87458 <a href="http://www.equimedics.net/">synthroid</a> 681 , <a href="http://www.insuroffers.net/">cheap car insurance</a> 732656 <a href="http://www.cheaplifeinsurance-site.com/">cheap life insurance</a> %-[[
 
 # Article Taxonomies
 categories:

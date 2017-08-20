@@ -13,7 +13,8 @@ aliases:
  - /news/2542/low-turnout-for-general-meeting
 imported: true
 comments:
- - A Postgrad Sabbatical Officer Jesus theyll be queuing round the block for that Great  so sabbaticals want to be able to ignore council by dominating the trustee boardCouncil needs to reject these changes if it wants part time officers and elected representatives to have a serious voice
+ - value: >
+     A Postgrad Sabbatical Officer. <br> <br>Jesus they'll be queuing round the block for that. ,Great - so sabbaticals want to be able to ignore council by dominating the trustee board. <br> <br>Council needs to reject these changes if it wants part time officers and elected representatives to have a serious voice.
 
 # Article Taxonomies
 categories:

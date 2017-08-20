@@ -13,7 +13,8 @@ aliases:
  - /comment/3647/what-religion-truly-means
 imported: true
 comments:
- -  20120223 1827     The following time I learn a blog I hope that it dosent disappoint me as a whole lot as this 1 I imply I know it was my choice to learn but I really thought youd have one thing fascinating to say All I hear can be a bunch of whining about something which you may fix ought to you werent too busy looking for attentionThe forum is a brtegihr place thanks to your posts Thanks
+ - value: >
+     　( 2012.02.23 18:27 ) : The following time I learn a blog, I hope that it dosent disappoint me as a whole lot as this 1. I imply, I know it was my choice to learn, but I really thought youd have one thing fascinating to say. All I hear can be a bunch of whining about something which you may fix ought to you werent too busy looking for attention.,The forum is a <a href="http://sjlgjr.com">brtegihr</a> place thanks to your posts. Thanks!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5019/rcsu-science-challenge-2015-launches
 imported: true
 comments:
- - GGiio7 httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     GGiio7 http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

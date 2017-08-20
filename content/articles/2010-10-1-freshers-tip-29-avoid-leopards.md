@@ -13,7 +13,8 @@ aliases:
  - /comment/166/freshers-tip-29-avoid-leopards
 imported: true
 comments:
- -       sexwa  httpsaudepvkontakrovatkasu
+ - value: >
+     смс для знакомства с девушкой sexwa http://saudepvkonta.krovatka.su/ <br>секс знакомства на ночь Орша
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/4054/xbox-one-for-you
 imported: true
 comments:
- - I like my new Xbox one it looks more promising to me
+ - value: >
+     I like my <a href="http://www.newxboxone.net/">new Xbox one</a> it looks more promising to me.........
 
 # Article Taxonomies
 categories:

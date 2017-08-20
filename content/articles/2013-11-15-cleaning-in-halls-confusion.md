@@ -13,7 +13,8 @@ aliases:
  - /news/4058/cleaning-in-halls-confusion
 imported: true
 comments:
- - Looking at the terms set out in the accommodation contract there is no clause stating College can change the terms of the agreement without prior notice I hope this gets sorted out soon as students are being shortchangedWhat did they expect to happen if they sack 46 cleaners to save money  This despite the college running one of the biggest surpluses in the HE sector   BrilliantHi JoePlease reject this comment I am just testing the system
+ - value: >
+     Looking at the terms set out in the accommodation contract there is no clause stating College can change the terms of the agreement without prior notice. I hope this gets sorted out soon as students are being shortchanged.,What did they expect to happen if they sack 46 cleaners "to save money."? This despite the college running one of the biggest surpluses in the HE sector. Brilliant.,Hi Joe, <br> <br>Please reject this comment, I am just testing the system.
 
 # Article Taxonomies
 categories:

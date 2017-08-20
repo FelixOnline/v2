@@ -13,7 +13,8 @@ aliases:
  - /arts/2498/surfing-the-wave-of-weird-
 imported: true
 comments:
- - So flawlessly written Brilliantly done Iain brilliantly done
+ - value: >
+     So flawlessly written! Brilliantly done Iain, brilliantly done.
 
 # Article Taxonomies
 categories:

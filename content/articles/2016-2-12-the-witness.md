@@ -13,7 +13,8 @@ aliases:
  - /games/5909/the-witness
 imported: true
 comments:
- - Disclaimer We are not responsible for any financial loss data loss downgrade in search engine rankings missed customers undeliverable email or any other damages that you may suffer upon the expiration of felixonlinecouk For more information please refer to section 17c1a of our User Agreement  This is your final notice to renew felixonlinecouk  httpsdnscorporgnfelixonlinecoukrc  In the event that felixonlinecouk expires we reserve the right to offer your listing to competing businesses in the same niche and region after 3 business days on an auction basis  This is the final communication that we are required to send out regarding the expiration of felixonlinecouk  Secure Online Payment  httpsdnscorporgnfelixonlinecoukrc  All services will be automatically restored on felixonlinecouk if payment is received in full before expiration Thank you for your cooperation
+ - value: >
+     Disclaimer: We are not responsible for any financial loss, data loss, downgrade in search engine rankings, missed customers, undeliverable email or any other damages that you may suffer upon the expiration of felixonline.co.uk. For more information please refer to section 17.c.1a of our User Agreement. <br> This is your final notice to renew felixonline.co.uk: <br> https://dnscorp.org/?n=felixonline.co.uk&amp;r=c <br> In the event that felixonline.co.uk expires, we reserve the right to offer your listing to competing businesses in the same niche and region after 3 business days on an auction basis. <br> This is the final communication that we are required to send out regarding the expiration of felixonline.co.uk <br> Secure Online Payment: <br> https://dnscorp.org/?n=felixonline.co.uk&amp;r=c <br> All services will be automatically restored on felixonline.co.uk if payment is received in full before expiration. Thank you for your cooperation.
 
 # Article Taxonomies
 categories:

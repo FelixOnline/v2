@@ -13,7 +13,8 @@ aliases:
  - /news/6742/israeli-ambassadors-visit--wraith-speaks-up
 imported: true
 comments:
- - Since when was it unacceptable to invite a speaker to explain his position and to then grill him about his position To say this was a one sided event and that it was biased is an out and out lie Mr Regev was questioned exstensively about the topics he had spoken about The complete apathy obviously displayed by the PalSoc at not even bothering to reply to an email means that it is a disgrace they feel that they can criticise at all Not only that Proffesor Wraith clearly said at the end of the event that he would be delighted to do more and represent more sides of a wide and vast debate This attempt at condemnation of an event that the PalSoc rejected being involved in displays the descent into the closed mindedness of many if questioning their own beliefs and perceptions
+ - value: >
+     Since when was it unacceptable to invite a speaker to explain his position and to then grill him about his position? To say this was a one sided event and that it was biased is an out and out lie, Mr Regev was questioned exstensively about the topics he had spoken about. The complete apathy obviously displayed by the PalSoc at not even bothering to reply to an email means that it is a disgrace they feel that they can criticise at all. Not only that, Proffesor Wraith clearly said at the end of the event that he would be delighted to do more and represent more sides of a wide and vast debate. This attempt at condemnation of an event that the PalSoc rejected being involved in displays the descent into the closed mindedness of many, if questioning their own beliefs and perceptions.
 
 # Article Taxonomies
 categories:

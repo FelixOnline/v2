@@ -13,7 +13,8 @@ aliases:
  - /sport/5192/i-want-a-win-in-this-game-more-than-any-other
 imported: true
 comments:
- - I was wondering if you ever conesderid changing the layout of your website Its very well written I love what youve got to say But maybe you could a little more in the way of content so people could connect with it better Youve got an awful lot of text for only having 1 or 2 pictures Maybe you could space it out better
+ - value: >
+     I was wondering if you ever conesderid changing the layout of your website? Its very well written; I love what youve got to say. But maybe you could a little more in the way of content so people could connect with it better. Youve got an awful lot of text for only having 1 or 2 pictures. Maybe you could space it out better?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /tv/765/sex-drugs--growing-old
 imported: true
 comments:
- - Thanks for shirnag What a pleasure to read
+ - value: >
+     Thanks for shirnag. What a pleasure to read!
 
 # Article Taxonomies
 categories:

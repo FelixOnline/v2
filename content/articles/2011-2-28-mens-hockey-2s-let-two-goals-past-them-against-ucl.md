@@ -13,7 +13,8 @@ aliases:
  - /sport/940/mens-hockey-2s-let-two-goals-past-them-against-ucl
 imported: true
 comments:
- - Thibaut  Great job you two It keeps the fundamentals that I liked from the preuvois version but brings a new touch that is really pleasant And nice tweaks in the logo also  Congrats June 19 2012   859 amChomsky has pretty much lost pepcvestire in the last couple of yearsIm from the Middle East and I can assure you Iran doesnt give a flying  about Palestine Theyre trying to exert their influence on the Arab Shiite populations expansionism in the Gulf turning Lebanon into a theocracy through their proxy party Hezbollah and above all a threat to its own peopleIsrael isnt exempt either Just please do not always change the subject to Israel whenever Iran comes up
+ - value: >
+     Thibaut - Great job you two! It keeps the fundamentals that I liked from the preuvois version but brings a new touch that is really pleasant. And nice tweaks in the logo also Congrats :)June 19, 2012 8:59 am,Chomsky has pretty much lost <a href="http://tcnhkxj.com">pepcvestire</a> in the last couple of years.I'm from the Middle East, and I can assure you; Iran doesn't give a flying **** about Palestine. They're trying to exert their influence﻿ on the Arab Shiite populations (expansionism in the Gulf), turning Lebanon into a theocracy through their proxy party Hezbollah, and above all a threat to its own people.Israel isn't exempt either. Just please do not always change the subject to Israel whenever Iran comes up.
 
 # Article Taxonomies
 categories:

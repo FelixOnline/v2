@@ -13,7 +13,8 @@ aliases:
  - /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
 imported: true
 comments:
- - Theres a big gaping hole in the 90s namely Carolyn Bessette Kennedy She embodied the minimalist chic of the mid90s
+ - value: >
+     There's a big gaping hole in the 90s, namely Carolyn Bessette Kennedy. She embodied the minimalist chic of the mid-90s.
 
 # Article Taxonomies
 categories:

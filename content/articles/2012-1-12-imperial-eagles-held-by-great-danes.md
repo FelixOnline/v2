@@ -13,7 +13,8 @@ aliases:
  - /sport/1967/imperial-eagles-held-by-great-danes
 imported: true
 comments:
- - Care packages are so fun I rltencey sent one out to BFFMary and made her cry _I also sent out my ornament swap package I hope my partner enjoys it Cant wait til I receive hers DXo BelenI just love it all So cute How lucky little Felix isThat baby book looks very slimiar to my baby book Dating back to the 70sPokey the Puppy was always one of my favorites Especially the Christmas one Ironically my dog is very slimiar in looks  behaviour to Pokey
+ - value: >
+     Care packages are so fun! I rltencey sent one out to BFFMary and made her cry. ^_^I also sent out my ornament swap package. I hope my partner enjoys it! Can't wait til I receive hers! :DXo, Belen,I just love it all!!! So cute! How lucky little Felix is!That baby book looks very<a href="http://dicjzvevmx.com"> slimiar</a> to my baby book. Dating back to the 70's.Pokey the Puppy was always one of my favorites. Especially the Christmas one. Ironically my dog is very<a href="http://dicjzvevmx.com"> slimiar</a> (in looks &amp; behaviour) to Pokey.
 
 # Article Taxonomies
 categories:

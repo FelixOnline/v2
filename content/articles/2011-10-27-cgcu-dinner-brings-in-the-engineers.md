@@ -13,7 +13,8 @@ aliases:
  - /news/1608/cgcu-dinner-brings-in-the-engineers
 imported: true
 comments:
- - this makes me proud to be an engineer I hope the committee keep it going WE ARE CGcgcu dinner bring in the engineers AND shit load of scientist medics and thugs On behalf of all cgcu members I would like to thank hitesh hassani the event manager for such a good nightyou were disgracefulamazing night that is all
+ - value: >
+     this makes me proud to be an engineer. I hope the committee keep it going. WE ARE C&amp;G!,cgcu dinner bring in the engineers AND shit load of scientist, medics and thugs ,On behalf of all cgcu members, I would like to thank hitesh hassani, the event manager for such a good night!,you were disgraceful.,amazing night. that is all.
 
 # Article Taxonomies
 categories:

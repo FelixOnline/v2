@@ -13,7 +13,8 @@ aliases:
  - /politics/1541/one-little-piggy-went-to-market
 imported: true
 comments:
- - The problem with lemons is real good but didnt John Hassard say that the optimum solution to the Prisoners Dilemma was cooperation With selective restrained amounts of dicking on peopleDamn straight But the market wont provide proper incentives for this other than forming competition killing cartels Cooperation is the optimum solution but regulation may be required to make sure its the one people go for A rational individual will snitch on his friend a rational system will force them to cooperate I think
+ - value: >
+     'The problem with lemons' is real good, but didn't John Hassard say that the optimum solution to the Prisoners' Dilemma was co-operation? (With selective, restrained amounts of dicking on people...),Damn straight! But the market won't provide proper incentives for this, other than forming competition- killing cartels. Cooperation is the optimum solution, but regulation may be required to make sure it's the one people go for. A rational individual will snitch on his friend, a rational system will force them to cooperate. (I think)
 
 # Article Taxonomies
 categories:

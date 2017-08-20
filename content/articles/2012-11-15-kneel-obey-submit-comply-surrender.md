@@ -13,7 +13,8 @@ aliases:
  - /film/2904/kneel-obey-submit-comply-surrender
 imported: true
 comments:
- - I run a political and scoail issues commentary blog called The Left Call and was searching for a new theme to take my website to the next level I wanted to give readers an elegant gridbased home page where they would be able to easily and quickly scan the latest headlines When I discovered the TotalGRID Theme I wasted no time and purchased it Im very satisfied with the theme and the FrameWork Very easy to install and set up and its effortless to make quick style changes With my old theme I felt compelled to edit the source code to get the look I was going for With TotalGRID Ive found the look I was after and any small style changes are done within the builtin menus Excellent work
+ - value: >
+     I run a political and scoail issues commentary blog called The Left Call and was searching for a new theme to take my website to the next level. I wanted to give readers an elegant grid-based home page where they would be able to easily and quickly scan the latest headlines. When I discovered the TotalGRID Theme I wasted no time and purchased it. I'm very satisfied with the theme and the FrameWork. Very easy to install and set up, and it's effortless to make quick style changes. With my old theme I felt compelled to edit the source code to get the look I was going for. With TotalGRID, I've found the look I was after and any small style changes are done within the built-in menus. Excellent work!
 
 # Article Taxonomies
 categories:

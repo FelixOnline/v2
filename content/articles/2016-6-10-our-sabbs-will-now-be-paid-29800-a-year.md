@@ -13,7 +13,8 @@ aliases:
  - /news/6244/our-sabbs-will-now-be-paid-29800-a-year
 imported: true
 comments:
- - Well this is bullshit what makes the union so special that they can promise a certain job with certain benefits and then totally change the TC with no consultation Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountableWho the fuck are the trustee board
+ - value: >
+     Well this is bullshit. what makes the union so special that they can promise a certain job with certain benefits and then totally change the T&amp;C with no consultation. <br>Is it any surprise that our union is so against the green paper when it threatens student unions that are opaque and unaccountable.<br>Who the fuck are the trustee board<br>
 
 # Article Taxonomies
 categories:

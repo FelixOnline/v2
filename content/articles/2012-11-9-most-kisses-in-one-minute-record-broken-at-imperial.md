@@ -13,7 +13,8 @@ aliases:
  - /news/2882/most-kisses-in-one-minute-record-broken-at-imperial
 imported: true
 comments:
- - Just had a gander all could have got more in metric jokes aside how many did she get Tim Would be nice to get a number for it down in the article
+ - value: >
+     Just had a gander, all 'could have got more in metric' jokes aside, how many did she get Tim? Would be nice to get a number for it down in the article.
 
 # Article Taxonomies
 categories:

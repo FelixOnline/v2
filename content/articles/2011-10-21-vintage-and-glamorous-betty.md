@@ -13,7 +13,8 @@ aliases:
  - /food/1605/vintage-and-glamorous-betty
 imported: true
 comments:
- - I had not read that he was not under the influence of drugs or ETOH but I was not trynig to state that it was a fact he was drunk Toxicology screenings also cannot pick up designer drugs such as synthetic marijuana or  bath salts  both of which are possible to have caused increased bleeding and swelling to the brain due to hyperthermia I am by no means an expert on the case or the man that died I was just trynig to give a little medical incite
+ - value: >
+     I had not read that he was not under the influence of drugs or ETOH, but I was not trynig to state that it was a fact he was drunk. Toxicology screenings also cannot pick up designer drugs, such as synthetic marijuana or bath salts , both of which are possible to have caused increased bleeding and swelling to the brain due to hyperthermia. I am by no means an expert on the case or the man that died, I was just trynig to give a little medical incite.
 
 # Article Taxonomies
 categories:

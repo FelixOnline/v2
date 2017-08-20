@@ -13,7 +13,8 @@ aliases:
  - /comment/5412/campaigning-is-hard-work
 imported: true
 comments:
- - It has been said that democracy is the worst form of government except all others that have been tried Leonard Nemoy Civilization IV sound byte for the research Democracy
+ - value: >
+     "It has been said that democracy is the worst form of government, except all others that have been tried." <br> <br>- Leonard Nemoy, Civilization IV sound byte for the research "Democracy".
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /biz/927/draw-yourself-a-new-path
 imported: true
 comments:
- - Nice presentation here I visited the website once and the idea behind seems promisingYou look great Good luck guyspretty coolnice idea Sounds really great Thanks to have thought of itGood luckWhat a joy to find someone else who tnihks this wayGcFB2O  qiqsatuyerwq
+ - value: >
+     Nice presentation here. I visited the website once, and the idea behind seems promising.,You look great! Good luck guys!!,pretty cool...nice idea ,Sounds really great!!! Thanks to have thought of it! <br>Good luck!,What a joy to find someone else who tnihks this way.,GcFB2O <a href="http://qiqsatuyerwq.com/">qiqsatuyerwq</a>
 
 # Article Taxonomies
 categories:

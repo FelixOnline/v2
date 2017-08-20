@@ -13,7 +13,8 @@ aliases:
  - /tech/3872/the-crippling-effect-of-technology
 imported: true
 comments:
- - A wonderful job Super helpful intaomrfion            IT Mobile Technology Day                IOSAndroid          EPAM Systems    11 12  2012                          Saturday 11th  February1300 Checkin13301400   Meeting with the participants Hackathon rules dercsiption hacking beg
+ - value: >
+     A wonderful job. Super helpful intaomrfion. ,Доброго дня! Як представник компанії і організатор, можу відповісти на всі питання!IT Mobile Technology Day буде проходити в форматі хакатона.На протязі доби в групі або наодинці потрібно створити програму під IOS/Android згідно завдань, які будуть оголошенні на початку.Організатор EPAM Systems.Час проведення 11 лютого-12 лютого 2012 р.Реєстрація та участь безкоштовні!До участі у хакатоні запрошуються як спеціалісти хай левел так і початківці.Програма заходу: Saturday, 11th February13.00– Check-in13.30-14.00 Meeting with the participants, Hackathon rules<a href="http://gnmtvxliiy.com"> dercsiption</a>, hacking beg
 
 # Article Taxonomies
 categories:

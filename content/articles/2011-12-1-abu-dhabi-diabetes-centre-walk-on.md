@@ -13,7 +13,8 @@ aliases:
  - /news/1900/abu-dhabi-diabetes-centre-walk-on
 imported: true
 comments:
- - I like this P
+ - value: >
+     I like this :P
 
 # Article Taxonomies
 categories:

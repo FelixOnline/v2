@@ -13,7 +13,8 @@ aliases:
  - /news/4961/imperial-college-returns-to-top-of-the-research-council-grants-table
 imported: true
 comments:
- - To be read in conjunction with httpwwwdcsciencenetp6834 Yes pity that that status comes at this cost
+ - value: >
+     To be read in conjunction with http://www.dcscience.net/?p=6834 ,Yes, pity that that status comes at this cost.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
 imported: true
 comments:
- - Deeply moving The world is indeed filled with good hearted people  Thank you for publishng this I a very gratefu to get this short list of agencies direclty involved in the disaster relief and will donate right away Thank you againThank you so much nothing is more powerful than a heart of a volunteer God bless youMany thanks this site is very valuablenba 2k16 mt database httpspacescoverscomblognhlcoinsNCAAB04072016csgoskinshasassuredfreedomofnavigathtml
+ - value: >
+     Deeply moving. The world is indeed filled with good hearted people. Thank you for publishng this. I a very gratefu to get this short list of agencies direclty involved in the disaster relief and will donate right away. Thank you again.,Thank you so much "nothing is more powerful than a heart of a volunteer". God bless you,Many thanks, this site is very valuable.| <br>nba 2k16 mt database http://spaces.covers.com/blog/nhlcoins/NCAAB/04072016-cs-go-skins-has-assured-freedom-of-navigat.html
 
 # Article Taxonomies
 categories:

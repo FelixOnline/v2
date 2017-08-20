@@ -13,7 +13,8 @@ aliases:
  - /books/2008/an-epic-quest-for-truth
 imported: true
 comments:
- - Truly amazing book Enjoyed it very much when I read it a few years agoI would also definitely recommend the Uncle Petros and Goldbachs Conjecture by one of the authors namely Apostolos Doxiadis
+ - value: >
+     Truly amazing book! Enjoyed it very much when I read it a few years ago! <br>I would also definitely recommend the "Uncle Petros and Goldbach's Conjecture" by one of the authors, namely Apostolos Doxiadis.
 
 # Article Taxonomies
 categories:

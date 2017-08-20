@@ -13,7 +13,8 @@ aliases:
  - /music/1262/star-slinger
 imported: true
 comments:
- - I thought I recognized the name from somewhere Saw him supporting The Go Team in February at Heaven His was as close to a memorable DJ set as Ive ever found He did sound a bit like a mopey teenager on stage thoughCool Thats a cleevr way of looking at it
+ - value: >
+     I thought I recognized the name from somewhere. Saw him supporting The Go! Team in February at Heaven. His was as close to a memorable DJ set as I've ever found. He did sound a bit like a mopey teenager on stage though!,Cool! That's a cleevr way of looking at it!
 
 # Article Taxonomies
 categories:

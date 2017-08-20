@@ -13,7 +13,8 @@ aliases:
  - /millennials/6800/drug-bible--modafinil-101
 imported: true
 comments:
- - How are the yields and binsplits Considering the small diesize Intel should be able to produce more than enough Ivy Bridge CPUS Instead I read about rumours from taiwanese sources that there is not enough supply In fact not all CPUs for Ultrabooks are 17 Watt TDP but there are also some with 25 Watt similar to AMDs Trinity which is still 32 nm And there are even parts with  35 Watt and talks that there are some alnoiatiolshcfts between Desktop and Notebook parts Does anybody has similar information to share
+ - value: >
+     How are the yields and bin-splits? Considering the small die-size, Intel should be able to produce more than enough Ivy Bridge CPUS. Instead, I read about rumours from taiwanese sources that there is not enough supply. In fact not all CPUs for Ultrabooks are 17 Watt TDP, but there are also some with 25 Watt, similar to AMDs Trinity which is still 32 nm. And there are even parts with &gt; 35 Watt and talks that there are some alnoiatiol-shcfts between Desktop and Notebook parts. Does anybody has similar information to share?
 
 # Article Taxonomies
 categories:

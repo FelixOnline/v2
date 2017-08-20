@@ -13,7 +13,8 @@ aliases:
  - /comment/1356/accountability-is-needed-on-case-decision
 imported: true
 comments:
- - Usually if no one takes responsibility it implies that a decision was taken by nonacademic staff I think this is becoming a big problem and something that must be addressed sooner than later Where the duties of nonacademic staff ends and how involved they can be in the running of the college This is in particular important if most admins are moved to Shepherds bush in which there can be no oversightI think the relationship between academic and nonacademic staff and the line separating them may require an editorial
+ - value: >
+     Usually if no one takes responsibility it implies that a decision was taken by non-academic staff. <br> <br>I think this is becoming a big problem and something that must be addressed sooner than later. Where the duties of non-academic staff ends and how involved they can be in the running of the college. This is in particular important if most admins are moved to Shepherds bush in which there can be no oversight! <br> <br>I think the relationship between academic and non-academic staff and the line separating them may require an editorial! <br>
 
 # Article Taxonomies
 categories:

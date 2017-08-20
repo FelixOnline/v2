@@ -13,7 +13,8 @@ aliases:
  - /news/5021/do-you-value-your-imperial-degree
 imported: true
 comments:
- - Brazil is going to dominate with regards to of ball possession and create the most opportunities Throw within the next two best point guards  Eva longoria and Chauncey Billupscrdits fifa gratuit httpcreditsfutcom
+ - value: >
+     Brazil is going to dominate with regards to of ball possession, and create the most opportunities. Throw within the next two best point guards - Eva longoria and Chauncey Billups. <br>crÃ©dits fifa gratuit http://creditsfut.com/
 
 # Article Taxonomies
 categories:

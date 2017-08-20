@@ -13,7 +13,8 @@ aliases:
  - /biz/870/will-the-boe-raise-its-rates
 imported: true
 comments:
- - Good point I hadnt thgouht about it quite that way  propecia generic prescription 4277 acomplia for less 680 propecia
+ - value: >
+     Good point. I hadn't thgouht about it quite that way. :), <a href="http://www.pillsprix.com/">propecia generic prescription</a> 4277 <a href="http://www.acomedhelp.com/">acomplia for less</a> 680 <a href="http://www.20sipatru.net/propecia.html">propecia</a> :)
 
 # Article Taxonomies
 categories:

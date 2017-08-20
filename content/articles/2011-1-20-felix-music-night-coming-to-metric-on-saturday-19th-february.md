@@ -13,7 +13,8 @@ aliases:
  - /music/622/felix-music-night-coming-to-metric-on-saturday-19th-february
 imported: true
 comments:
- - you are mentioning a good point web enabling is definitely required for this work
+ - value: >
+     you are mentioning a good point <a href="http://www.dalwax.com/web-enabling.html" title="Web Enabling"><strong>web enabling</strong></a> is definitely required for this work.
 
 # Article Taxonomies
 categories:

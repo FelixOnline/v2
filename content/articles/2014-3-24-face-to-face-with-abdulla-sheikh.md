@@ -13,7 +13,8 @@ aliases:
  - /features/4496/face-to-face-with-abdulla-sheikh
 imported: true
 comments:
- - Well Abdulla has good ambitionvision and acheivment keep it up  We wish all the best for your future
+ - value: >
+     Well, Abdulla has good ambition,vision and acheivment, keep it up . We wish all the best for your future.
 
 # Article Taxonomies
 categories:

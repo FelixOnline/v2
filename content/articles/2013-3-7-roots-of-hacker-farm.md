@@ -13,7 +13,8 @@ aliases:
  - /music/3427/roots-of-hacker-farm
 imported: true
 comments:
- - httpwwwfacebookcomSongsAboutNothing
+ - value: >
+     http://www.facebook.com/SongsAboutNothing
 
 # Article Taxonomies
 categories:

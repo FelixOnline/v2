@@ -13,7 +13,8 @@ aliases:
  - /news/543/the-human-cost-of-the-restructure
 imported: true
 comments:
- - Kudos to you I hadnt tohhugt of thatrZl3zl  afwtmfirsgko acomplia  prednisone pills PP
+ - value: >
+     Kudos to you! I hadn't tohhugt of that!,rZl3zl <a href="http://afwtmfirsgko.com/">afwtmfirsgko</a>, <a href="http://www.acomedhelp.com/">acomplia</a> =-[ <a href="http://www.yourstealightfully.com/prednisone.html">prednisone pills</a> :-PP
 
 # Article Taxonomies
 categories:

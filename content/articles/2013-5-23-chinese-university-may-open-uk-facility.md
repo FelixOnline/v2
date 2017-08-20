@@ -13,7 +13,8 @@ aliases:
  - /news/3617/chinese-university-may-open-uk-facility
 imported: true
 comments:
- - Surely providing affordable housing for first years is more important than providing facilities for students from other universitiesAre you nuts The latter will make FAR more money
+ - value: >
+     Surely providing affordable housing for first years is more important than providing facilities for students from other universities?,Are you nuts? The latter will make FAR more money!!!
 
 # Article Taxonomies
 categories:

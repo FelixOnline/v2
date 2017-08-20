@@ -13,7 +13,8 @@ aliases:
  - /cands/5888/new-financial-worlds-conference-
 imported: true
 comments:
- - Kidney Disease holistic therapy seen to assist dialysis patients  why arent our medical professionals telling us this httpkidneyoktumblrcompost69309674755thestoryofthismanisonethatcanreallygive
+ - value: >
+     Kidney Disease holistic therapy seen to assist dialysis patients - why aren't our <br>medical professionals telling us this? http://kidneyok.tumblr.com/post/69309674755/the-story-of-this-man-is-one-that-can-really-give
 
 # Article Taxonomies
 categories:

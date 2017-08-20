@@ -13,7 +13,8 @@ aliases:
  - /news/4928/how-much-does-it-cost-to-live-in-london-as-a-student
 imported: true
 comments:
- - Too muchWow gorgeous website Thnx cs go skins are pointless httptest2a6plblogspost12247
+ - value: >
+     Too much,Wow, gorgeous website. Thnx ...| <br>cs go skins are pointless http://test2.a6.pl/blogs/post/12247
 
 # Article Taxonomies
 categories:

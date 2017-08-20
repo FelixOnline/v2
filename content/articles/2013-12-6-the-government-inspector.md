@@ -13,7 +13,8 @@ aliases:
  - /arts/4193/the-government-inspector
 imported: true
 comments:
- - This play is sick went to see it the other night  you will laugh your little cotton socks off
+ - value: >
+     This play is sick, went to see it the other night - you will laugh your little cotton socks off!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
 imported: true
 comments:
- - If you want more information about the event join our Facebook event httpwwwfacebookcomevents327164153971607refts
+ - value: >
+     If you want more information about the event, join our Facebook event: http://www.facebook.com/events/327164153971607/?ref=ts
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/1556/why-should-you-go-into-teaching
 imported: true
 comments:
- - I am rather afraid the authors may have over looked the teaching course a PGCE run by Imperial  Have a look at httpwww3imperialacukinspire for more detailsHi everyone  The article briefly mentioned that Teach First will be holding a Milkround presentation on the 24th October Monday  It will take place at 630pm in the Reed Lecture Theatre Level 5 Sherfield building and there will be lots of free foodHeres a link to the Facebook eventhttpswwwfacebookcomeventphpeid286713848013248Forget TeachingThug Life
+ - value: >
+     I am rather afraid the authors may have over looked the teaching course (a PGCE) run by Imperial. Have a look at http://www3.imperial.ac.uk/inspire for more details.,Hi everyone! The article briefly mentioned that Teach First will be holding a Milkround presentation on the 24th October (Monday). It will take place at 6:30pm in the Reed Lecture Theatre (Level 5, Sherfield building) and there will be lots of free food! <br> <br>Here's a link to the Facebook event: <br> <br>https://www.facebook.com/event.php?eid=286713848013248,Forget Teaching, <br> <br>Thug Life
 
 # Article Taxonomies
 categories:

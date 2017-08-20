@@ -13,7 +13,8 @@ aliases:
  - /film/4826/how-to-surive-a-horror-film
 imported: true
 comments:
- - Haha Ill keep that in mind the next time I go werewolf hunting But you forgot to mention one important thingAlways look where you are running and if you trip and fall just stand up and keep running If I can continue to hike  for three hours with a bleeding leg you can run with a sprained ankle for three minutes Never understoood why the characters always just turn around and try to crawl away instead of just standing up and taking to their heels
+ - value: >
+     Haha, I'll keep that in mind the next time I go werewolf hunting. But you forgot to mention one important thing: <br>Always look where you are running, and if you trip and fall, just stand up and keep running! If I can continue to hike for three hours with a bleeding leg, you can run with a sprained ankle for three minutes! Never understoood why the characters always just turn around and try to crawl away instead of just standing up and taking to their heels.
 
 # Article Taxonomies
 categories:

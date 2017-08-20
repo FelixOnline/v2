@@ -13,7 +13,8 @@ aliases:
  - /news/812/interview-with-president-alex-kendall
 imported: true
 comments:
- - Perhaps students would have come along to the Council debate if they knew about it and were actually told that the meeting would decide whether ICU support the Browne review
+ - value: >
+     Perhaps students would have come along to the Council debate if they knew about it, and were actually told that the meeting would decide whether ICU support the Browne review!
 
 # Article Taxonomies
 categories:

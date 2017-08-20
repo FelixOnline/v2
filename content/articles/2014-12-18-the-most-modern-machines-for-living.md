@@ -13,7 +13,8 @@ aliases:
  - /arts/5054/the-most-modern-machines-for-living
 imported: true
 comments:
- - Keep up the helpful work and generating the crowdcs go skins giveaway httpwwwairitmodulesphpnameJournalfiledisplayjid111
+ - value: >
+     Keep up the helpful work and generating the crowd!| <br>cs go skins giveaway http://www.air.it/modules.php?name=Journal&amp;file=display&amp;jid=111
 
 # Article Taxonomies
 categories:

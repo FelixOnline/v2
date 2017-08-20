@@ -13,7 +13,8 @@ aliases:
  - /comment/1160/take-up-arms-to-defend-freedom
 imported: true
 comments:
- - Now I feel stpiud Thats cleared it up for meDVx6Fz  urlhttprozumetmzeuycomrozumetmzeuyurl linkhttpcdinsaukjpeicomcdinsaukjpeilink httpgudnaczsbxgzcom
+ - value: >
+     Now I feel stpiud. That's cleared it up for me,DVx6Fz , [url=http://rozumetmzeuy.com/]rozumetmzeuy[/url], [link=http://cdinsaukjpei.com/]cdinsaukjpei[/link], http://gudnaczsbxgz.com/
 
 # Article Taxonomies
 categories:

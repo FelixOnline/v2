@@ -13,7 +13,8 @@ aliases:
  - /news/2384/unseen-imperial-
 imported: true
 comments:
- - This is a really great idea almost an antidote to all of Felixs recent failures Hopefully it will go some way to reducing stigma about mental health issues and others particularly if some people share their stories with their names attachedThank you to all the anonymous contributors for their bravery hope you got something out of putting into words your experiencesOne of the best Felix articles Ive read We should definitely be doing more to destigmatise mental illness and this is a big push in that direction  keep it up
+ - value: >
+     This is a really great idea, almost an antidote to all of Felix's recent failures. Hopefully it will go some way to reducing stigma about mental health issues and others, particularly if some people share their stories with their names attached. <br> <br>Thank you to all the anonymous contributors for their bravery; hope you got something out of putting into words your experiences.,One of the best Felix articles I've read. We should definitely be doing more to destigmatise mental illness and this is a big push in that direction - keep it up!
 
 # Article Taxonomies
 categories:

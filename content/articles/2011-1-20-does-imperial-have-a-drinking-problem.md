@@ -13,7 +13,8 @@ aliases:
  - /news/643/does-imperial-have-a-drinking-problem-
 imported: true
 comments:
- - Can anyone explain why 22s are affiliated with the RCSU if they dont allow females to join Sounds like theyre stuck in the dark ages
+ - value: >
+     Can anyone explain why 22s are affiliated with the RCSU if they don't allow females to join? Sounds like they're stuck in the dark ages.
 
 # Article Taxonomies
 categories:

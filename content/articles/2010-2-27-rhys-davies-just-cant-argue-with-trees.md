@@ -13,7 +13,8 @@ aliases:
  - /comment/110/rhys-davies-just-cant-argue-with-trees
 imported: true
 comments:
- - david jones torebki torebki online tanie torebki torebki    torebki damskie sklep internetowy torebki 2011 torebki wizytowe   tanie torebki torebki kazar torebka kuferek torebki skrzane torebki damskie woskie david jones torebki       torebki damskie sklep internetowy kazar  torebki damskie
+ - value: >
+     david jones torebki torebki online tanie torebki torebki <br><a href="http://torebki4you.com">torebki damskie sklep internetowy</a> torebki 2011 torebki wizytowe <br>tanie torebki torebki kazar torebka kuferek torebki skórzane torebki damskie w³oskie david jones torebki <br>torebki damskie sklep internetowy kazar <a href="http://torebki4you.com">torebki damskie </a>
 
 # Article Taxonomies
 categories:

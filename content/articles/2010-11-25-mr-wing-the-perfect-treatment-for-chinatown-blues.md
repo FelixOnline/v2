@@ -13,7 +13,8 @@ aliases:
  - /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
 imported: true
 comments:
- - I have to say I am in total agreement with the abouve postfab place and woth every pound spent
+ - value: >
+     I have to say I am in total agreement with the abouve post...fab place and woth every pound spent.
 
 # Article Taxonomies
 categories:

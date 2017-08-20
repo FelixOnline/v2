@@ -13,7 +13,8 @@ aliases:
  - /science/1805/have-sex-then-select
 imported: true
 comments:
- - I love cockOh hi Im so pretty and guys buy me drinks arent I fabulousInteresting article More on this less on sexism thanksI told you guys that a womans organs shut down when shes raped God Bless America
+ - value: >
+     I love cock.,Oh hi I'm so pretty and guys buy me drinks arent I fabulous?!,Interesting article. More on this, less on sexism thanks.,I told you guys that a woman's organs shut down when she's raped. God Bless America.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/1951/i-hate-christmas
 imported: true
 comments:
- - Gym closes on Christmas day boo Otherwise Christmas and I are cool Ya learn soiethmng new everyday Its true I guessWere getting norewhe with respect to deep reform of the tax code but its back on the table as it is during every presidential election campaign If were serious about it then we should start taking an ax not only to the mortgageinterest deduction but also to the charitabledonation deduction Because every time I see reports of a family charitable trust which carefully makes only the minimum outlays each year I wonder just how charitable a lot of these donations areSource victorfleischercom
+ - value: >
+     Gym closes on Christmas day, boo. Otherwise, Christmas and I are cool. ,Ya learn soiethmng new everyday. It's true I guess!,We're getting <a href="http://xxcuslyy.com">norewhe</a> with respect to deep reform of the tax code, but it's back on the table, as it is during every presidential election campaign. If we're serious about it, then we should start taking an ax not only to the mortgage-interest deduction but also to the charitable-donation deduction. Because every time I see reports of a family charitable trust which carefully makes only the minimum outlays each year, I wonder just how charitable a lot of these donations are.Source: victorfleischer.com
 
 # Article Taxonomies
 categories:

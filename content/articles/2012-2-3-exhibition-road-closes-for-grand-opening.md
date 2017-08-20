@@ -13,7 +13,8 @@ aliases:
  - /news/2121/exhibition-road-closes-for-grand-opening-
 imported: true
 comments:
- - The grand idea behind the road is that without markings or signs to follow drivers will be more careful and more aware of driversSomehow I doubt that whoever came up with this idea has ever driven a car or for that matter crossed a roadTuesday nights vote on ID cards Labour rebels solid opiosption from the Tories and Libdems Labour majority reduced to 25Oh whats this 41 41 jezuz ferkin xmas Tories didnt vote including all 4 leadership candidatesWhat is the point Yet another opportunity to inflict a severe drubbing to Labour and the Tories are so self absorbed they didnt even noticeYAY So happy you guy made it I cannot imiagne the how you feel landing in China After all those months it will be great just to pig out Miss you
+ - value: >
+     The grand idea behind the road is that without markings or signs to follow, drivers will be more careful and more aware of drivers. <br>Somehow, I doubt that whoever came up with this idea has ever driven a car, or, for that matter, crossed a road.,Tuesday night's vote on ID cards. Labour rebels, solid opiosption from the Tories and Lib-dems. Labour majority reduced to 25.Oh what's this? 41 (41!, jezuz ferkin xmas!) Tories didn't vote including all 4 leadership candidates.What is the point Yet another opportunity to inflict a severe drubbing to Labour and the Tories are so self absorbed they didn't even notice.,YAY! So happy you guy made it! I cannot <a href="http://qjosqoa.com">imiagne</a> the how you feel landing in China. After all those months it will be great just to pig out! Miss you!
 
 # Article Taxonomies
 categories:

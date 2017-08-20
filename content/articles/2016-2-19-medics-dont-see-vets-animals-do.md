@@ -13,7 +13,8 @@ aliases:
  - /sport/5947/medics-dont-see-vets-animals-do
 imported: true
 comments:
- - Thats really thnkniig out of the box Thanks
+ - value: >
+     That's really thnkniig out of the box. Thanks!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/1768/online-calculator-launched
 imported: true
 comments:
- - I disagree that this calculator is particularly excitinguseful its exactly the same as the calculator that is available direct from Student Finance apart from the fact that it also adds in the college bursary The calculator would be significantly more useful to prospective students if it also displayed realistic estimates of expenditure on food travel accommodation leisure activities and course materials London is expensive and students need to know whether or not their upfront costs are met by their loans and grants and  if not  how much extra they will have to contribute to their time in London
+ - value: >
+     I disagree that this calculator is particularly exciting/useful... it's exactly the same as the calculator that is available direct from Student Finance, apart from the fact that it also adds in the college bursary. <br> <br>The calculator would be significantly more useful to prospective students if it also displayed (realistic) estimates of expenditure on food, travel, accommodation, leisure activities and course materials. London is expensive, and students need to know whether or not their upfront costs are met by their loans and grants and - if not - how much extra they will have to contribute to their time in London...
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /sport/4291/premier-league-predictions---24-jan-2014
 imported: true
 comments:
- - Does anybody actually read these weekly predictions Worthy of the back page Id love to see some kind of metric or feedback which justified their inclusion
+ - value: >
+     Does anybody actually read these weekly predictions? Worthy of the back page? I'd love to see some kind of metric or feedback which justified their inclusion.
 
 # Article Taxonomies
 categories:

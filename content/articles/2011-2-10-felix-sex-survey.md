@@ -13,7 +13,8 @@ aliases:
  - /news/791/felix-sex-survey
 imported: true
 comments:
- - There was a mix up with the data which meant that Civ Eng and Computing were combined Sorry Civ Eng and ComputingPity you didnt find space for an amusingly shaped sex toy infographic Were the data not conducive to that sort of thingSorry guys but Civ Eng and Comp Sci got combined together in the database so theres literally no way of telling them apart If only wed had a few more Comp Scis on board PI think we should have one a term to see which term imperial student get laid in the most And also because I loved doing data analysis waay too much No computing department resultsCould you print computing results separately in the next issue We really wanna know oAny more info the answers to the where on campus have you had sex questionThanks for sharing What a pleaurse to read
+ - value: >
+     There was a mix up with the data which meant that Civ Eng and Computing were combined. Sorry, Civ Eng and Computing.,Pity you didn't find space for an amusingly shaped sex toy infographic. Were the data not conducive to that sort of thing?,Sorry guys, but Civ. Eng. and Comp. Sci. got combined together in the database so there's literally no way of telling them apart. If only we'd had a few more Comp. Sci's on board... :P,I think we should have one a term to see which term imperial student get laid in the most. And also because I loved doing data analysis waay too much. ,No computing department results?,Could you print computing results separately in the next issue? We really wanna know! ;o),Any more info the answers to the "where on campus have you had sex" question?,Thanks for sharing. What a pleaurse to read!
 
 # Article Taxonomies
 categories:

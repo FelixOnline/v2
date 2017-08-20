@@ -13,7 +13,8 @@ aliases:
  - /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
 imported: true
 comments:
- - The Summer Ball was extensively covered by Felix both immediately after the event in the final issue of the last year see archives and in an article posted once the figures were available in July httpfelixonlinecouknews1450summerballsuffers100000lossAlso Im pleased to report that our knackers are doing pretty damn wellSo a faculty union loses 1000 on a ball and FELIX runs with the story in almost every issue for six months The union loses 120x that money on the summer ball and FELIX publishes less than half a page on page six without even mentioning the actual figure lost Is the paper really that terrible or have the union got FELIX that well gripped around the knackers
+ - value: >
+     The Summer Ball was extensively covered by Felix, both immediately after the event in the final issue of the last year (see archives) and in an article posted once the figures were available in July (http://felixonline.co.uk/news/1450/summer-ball-suffers-100000-loss/). <br> <br>Also I'm pleased to report that our knackers are doing pretty damn well!,So a faculty union loses £1,000 on a ball and FELIX runs with the story in almost every issue for six months. The union loses 120x that money on the summer ball and FELIX publishes less than half a page on page six, without even mentioning the actual figure lost? Is the paper really that terrible, or have the union got FELIX that well gripped around the knackers?
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
 imported: true
 comments:
- - christian louboutin new yorkchristian louboutin shoes outlet httpchristianlouboutincanadaoutletblogspotcom
+ - value: >
+     christian louboutin new york <br>christian louboutin shoes outlet http://christianlouboutincanadaoutlet.blogspot.com/
 
 # Article Taxonomies
 categories:

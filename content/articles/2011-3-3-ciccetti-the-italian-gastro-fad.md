@@ -13,7 +13,8 @@ aliases:
  - /food/999/ciccetti-the-italian-gastro-fad
 imported: true
 comments:
- - im already hungry
+ - value: >
+     i'm already hungry!
 
 # Article Taxonomies
 categories:

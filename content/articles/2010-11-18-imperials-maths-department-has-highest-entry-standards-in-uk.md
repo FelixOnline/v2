@@ -13,7 +13,8 @@ aliases:
  - /news/416/imperials-maths-department-has-highest-entry-standards-in-uk-
 imported: true
 comments:
- - The main mistake is the assumption that exam results directly reflect abilityHey good to find someone who areges with me GMTAo8T3QS  kcyvribyddsu seroquel efyw buy prednisone online 3283 cialis moaopm  cialis 7788 viagra p nett irqf  online pharmacy accutane 807 topamax zfwig it doesnt matter how high your grades areimperial will just take foreign students as they have to pay alot more
+ - value: >
+     The main mistake is the assumption that exam results directly reflect ability.,Hey, good to find someone who areges with me. GMTA.,o8T3QS <a href="http://kcyvribyddsu.com/">kcyvribyddsu</a>, <a href="http://www.medicahelp.net/">seroquel</a> efyw <a href="http://www.yourstealightfully.com/prednisone.html">buy prednisone online</a> 3283 <a href="http://www.allpillsonline.net/">cialis</a> moaopm , <a href="http://www.ballhogphotos.com/">cialis</a> 7788 <a href="http://www.thedeltachiblog.com/">viagra på nett</a> irqf , <a href="http://www.keypills.com/">online pharmacy accutane</a> 807 <a href="http://www.medssupport.com/">topamax</a> zfwig ,it doesn't matter how high your grades are, <br>imperial will just take foreign students- <br>as they have to pay alot more
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/6778/kings-fossil-free-leads-to-student-arrest
 imported: true
 comments:
- - pG3NQ7  ctyaxonlwxrf urlhttppwzjwraypdvkcompwzjwraypdvkurl linkhttpnkszkmqmrzeicomnkszkmqmrzeilink httpywyexqforrqtcomWere having a divestment meeting Thursday 23rd at 530pm in RSM G39 as part of Green Week and will have a stall in the main entrance on Friday 1230430 Pop by to botheither if youre interested in the fossil freeethical investment movementAll of these articles have saved me a lot of heaeachds
+ - value: >
+     pG3NQ7 ctyaxonlwxrf, [url=http://pwzjwraypdvk.com/]pwzjwraypdvk[/url], [link=http://nkszkmqmrzei.com/]nkszkmqmrzei[/link], http://ywyexqforrqt.com/,We're having a divestment meeting Thursday 23rd at 5:30pm in RSM G39 as part of Green Week, and will have a stall in the main entrance on Friday 12:30-4:30. Pop by to both/either if you're interested in the fossil free/ethical investment movement!,All of these articles have saved me a lot of heaeachds.
 
 # Article Taxonomies
 categories:

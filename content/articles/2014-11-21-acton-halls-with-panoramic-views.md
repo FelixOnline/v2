@@ -13,7 +13,8 @@ aliases:
  - /news/4924/acton-halls-with-panoramic-views
 imported: true
 comments:
- - httpcanadaonlinekamagranet  Kamagra Online Celebrex 200 Mg httponlinesynthroidthyroxinecomhttpcanadaonlinekamagranet  Kamagra Jelly Should I Take Celebrex httponlinesynthroidthyroxinecomhttpkamagrabuyjellyorg  Kamagra Discount Celebrex httpsynthroidonlinebuynethttpkamagrabuyjellyorg  Viagra Viagra Kaufen Buy Celebrex httpsynthroidonlinebuynet
+ - value: >
+     http://canada-onlinekamagra.net/ - Kamagra Online Celebrex 200 Mg http://online-synthroidthyroxine.com/,http://canada-onlinekamagra.net/ - Kamagra Jelly Should I Take Celebrex http://online-synthroidthyroxine.com/,http://kamagrabuy-jelly.org/ - Kamagra Discount Celebrex http://synthroidonlinebuy.net/,http://kamagrabuy-jelly.org/ - Viagra Viagra Kaufen Buy Celebrex http://synthroidonlinebuy.net/
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/1228/memory-overload
 imported: true
 comments:
- - Stands back from the kyeobard in amazement ThanksIeTvbV  xuvqtxvyurbt
+ - value: >
+     Stands back from the kyeobard in amazement! Thanks!,IeTvbV <a href="http://xuvqtxvyurbt.com/">xuvqtxvyurbt</a>
 
 # Article Taxonomies
 categories:

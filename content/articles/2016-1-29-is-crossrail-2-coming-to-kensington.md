@@ -13,7 +13,8 @@ aliases:
  - /news/5834/is-crossrail-2-coming-to-kensington
 imported: true
 comments:
- - Interesting that neither Imperial College Harrods nor Natural History Museum are close to the proposed new Crossrail station in Chelsea  Imperial College is a mile away and Harrods is closer to Victoria Crossrail station than to the proposed one in Kings Road  I guess they had to go to Knightsbridge to find supporters of a station that has minimal local support
+ - value: >
+     Interesting that neither Imperial College, Harrods, nor Natural History Museum are close to the proposed new Crossrail station in Chelsea. Imperial College is a mile away and Harrods is closer to Victoria Crossrail station than to the proposed one in King's Road. I guess they had to go to Knightsbridge to find supporters of a station that has minimal local support.
 
 # Article Taxonomies
 categories:

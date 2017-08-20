@@ -13,7 +13,8 @@ aliases:
  - /politics/886/bullets-were-coming-across-us-from-both-sides
 imported: true
 comments:
- - Thats the best anwser of all time JMHOocvoDc  urlhttpxdoipiwueiamcomxdoipiwueiamurl linkhttpbmtckuvothhycombmtckuvothhylink httprkvyugkpckvfcom
+ - value: >
+     That's the best anwser of all time! JMHO,ocvoDc , [url=http://xdoipiwueiam.com/]xdoipiwueiam[/url], [link=http://bmtckuvothhy.com/]bmtckuvothhy[/link], http://rkvyugkpckvf.com/
 
 # Article Taxonomies
 categories:

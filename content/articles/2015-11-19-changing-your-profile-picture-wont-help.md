@@ -13,7 +13,8 @@ aliases:
  - /comment/5745/changing-your-profile-picture-wont-help
 imported: true
 comments:
- - designer prescription glasses for women  technological advancements in healthcare  dr oz fat burner pills  polaroid 7 tablet review  cheap viagra fast shipping how to reset nook tablet  buy vyvanse india  what is a juris doctor degree
+ - value: >
+     designer prescription glasses for women technological advancements in healthcare dr oz fat burner pills polaroid 7 tablet review cheap viagra fast shipping ,how to reset nook tablet buy vyvanse india what is a juris doctor degree
 
 # Article Taxonomies
 categories:

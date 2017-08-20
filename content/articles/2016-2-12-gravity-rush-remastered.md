@@ -13,7 +13,8 @@ aliases:
  - /games/5908/gravity-rush-remastered
 imported: true
 comments:
- - Wow cuz this is really goodexcellent work Congrats and keep it upcheap fifa 17 coins httpwwwyhgdcomhomephpmodspaceuid795127doprofilefromspaceSeattle proper is more like the east coast model  The suburbs range from east coast model to west coast model and in between  I grew up on an island near Seattle and found it a perfect mix of the good parts of each model  I now live in one of the suburbs  The exreniepce for the youth in our stake covering two suburban cities is closer to eastcoast in my city and closer to west coast in the other
+ - value: >
+     Wow cuz this is really goodexcellent work! Congrats and keep it up <br>cheap fifa 17 coins http://www.yhgd.com/home.php?mod=space&amp;uid=795127&amp;do=profile&amp;from=space,Seattle proper is more like the east coast model. The suburbs range from east coast model to west coast model and in between. I grew up on an island near Seattle and found it a perfect mix of the good parts of each model. I now live in one of the suburbs. The exreniepce for the youth in our stake, covering two suburban cities, is closer to eastcoast in my city and closer to west coast in the other.
 
 # Article Taxonomies
 categories:

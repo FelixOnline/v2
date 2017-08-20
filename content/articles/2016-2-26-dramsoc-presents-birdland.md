@@ -13,7 +13,8 @@ aliases:
  - /cands/5986/dramsoc-presents-birdland
 imported: true
 comments:
- - Nestes dois ultimos jogos s tenho pena que os rbitros tenham beneficiado os advesrrios dando to pouco tempo de desconto Ficaria 12 horas seguidas a ver o Sporting jogar Que continuem assim SL
+ - value: >
+     Nestes dois ultimos jogos, sÃ³ tenho pena que os Ã¡rbitros tenham beneficiado os adve¡sÃrrios dando tÃ£o pouco tempo de desconto. Ficaria 12 horas seguidas a ver o Sporting jogar. Que continuem assim. SL.
 
 # Article Taxonomies
 categories:

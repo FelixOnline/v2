@@ -13,7 +13,8 @@ aliases:
  - /comment/2463/think-about-it-are-you-nomophobic
 imported: true
 comments:
- - I love how your article precedes todays Metros article httpwwwmetrocouknews899776childrenspendoneyearinfrontofscreensbytheageofseven on how screens are becoming the death of our children Clearly a hot topic but I couldnt help being reminded that the Metro is owned by the Daily Mail
+ - value: >
+     I love how your article precedes today's Metro's article (http://www.metro.co.uk/news/899776-children-spend-one-year-in-front-of-screens-by-the-age-of-seven) on how screens are becoming the death of our children! <br> <br>Clearly a hot topic, but I couldn't help being reminded that the Metro is owned by the Daily Mail.
 
 # Article Taxonomies
 categories:

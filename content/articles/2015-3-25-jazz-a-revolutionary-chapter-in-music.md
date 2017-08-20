@@ -13,7 +13,8 @@ aliases:
  - /music/5429/jazz-a-revolutionary-chapter-in-music
 imported: true
 comments:
- - great piece totally agree would rather feel the emotion of Chopins pieces over a technically perfect piece any day
+ - value: >
+     great piece. totally agree. would rather feel the emotion of Chopin's pieces over a technically perfect piece any day.
 
 # Article Taxonomies
 categories:

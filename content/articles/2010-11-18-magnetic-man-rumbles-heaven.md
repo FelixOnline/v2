@@ -13,7 +13,8 @@ aliases:
  - /music/390/magnetic-man-rumbles-heaven
 imported: true
 comments:
- - I love reading these articles because theyre short but infrmoatvie 20120222 1647     I hope you never stop  This is one of the best blogs Ive ever read  Youve got some mad skill here man  I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there  Please keep it up because the internet needs someone like you spreading the wordI teach ESL and this would be a fun way to get students to write comltepe sentences  To make it really work in the classroom I would need as others have pointed out some punctuation marks and capital letters  Any chance of that happening soon  Otherwise its a good start  And dont worry about having the letters added via keyboard  In my opinion the whole idea is to move the letters one by one just like one does with magnets  asthma symptoms   long now   many mistakes   actual
+ - value: >
+     I love reading these articles because theyre short but infrmoatvie.,　( 2012.02.22 16:47 ) : I hope you never stop! This is one of the best blogs Ive ever read. Youve got some mad skill here, man. I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there. Please keep it up because the internet needs someone like you spreading the word.,I teach ESL and this would be a fun way to get students to write <a href="http://dmklnwiup.com">comltepe</a> sentences. To make it really work in the classroom, I would need, as others have pointed out, some punctuation marks and capital letters. Any chance of that happening soon? Otherwise, it's a good start. And don't worry about having the letters added via keyboard. In my opinion, the whole idea is to move the letters one by one, just like one does with magnets., asthma symptoms long now many mistakes actual
 
 # Article Taxonomies
 categories:

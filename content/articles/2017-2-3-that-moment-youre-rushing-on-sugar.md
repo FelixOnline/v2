@@ -13,7 +13,8 @@ aliases:
  - /millennials/6739/that-moment-youre-rushing-on-sugar
 imported: true
 comments:
- - Mrgroingtime22Serpge clooney is a scum bag cowardwith charleton heston dying of alzheimers he made fum of himheston was a great american and actor and was president of the NRAfor a time clooney was born with a silver spoon in his mouth how low can you go making fun of someone for having a terminal diseaseThis man is sick
+ - value: >
+     Mrgroingtime22Serpge clooney is a scum bag coward.with charleton heston dying of alzheimers he made fum of him.heston was a great american and actor and was president of the NRAfor a time. clooney was born with a silver spoon in his mouth. how low can you go, making fun of someone for having a terminal disease.This man is sick!
 
 # Article Taxonomies
 categories:

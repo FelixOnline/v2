@@ -13,7 +13,8 @@ aliases:
  - /tech/117/your-digital-footprint
 imported: true
 comments:
- - So how anonymous is this comment
+ - value: >
+     So how anonymous is this comment?
 
 # Article Taxonomies
 categories:

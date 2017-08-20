@@ -13,8 +13,10 @@ aliases:
  - /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
 imported: true
 comments:
- - Since no one is 100 sure what is causing this bee decline it only makes sense to start eliminating some of the causes and the best place to start is on the man made ones like neonicotinoids Tonio Borg is exactly rightIt seems like common sense to preserve the source of crop pollination Thanks Laura for highlighting the impact
- - value of bees
+ - value: >
+     Since no one is 100% sure what is causing this bee decline it only makes sense to start eliminating some of the causes and the best place to start is on the man made ones like neonicotinoids. Tonio Borg is exactly right.,It seems like common sense to preserve the source of crop pollination. Thanks Laura for highlighting the impact
+ - value: >
+     value of bees.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /music/3246/jar-moff-review
 imported: true
 comments:
- - Yes This LP is on heavy rotation at our flat some really incredible passages in there The guitar solo in VidR is killer too
+ - value: >
+     Yes! This LP is on heavy rotation at our flat... some really incredible passages in there. The guitar solo in Vid-R is killer too.
 
 # Article Taxonomies
 categories:

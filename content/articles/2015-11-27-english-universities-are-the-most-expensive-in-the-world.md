@@ -13,7 +13,8 @@ aliases:
  - /news/5770/english-universities-are-the-most-expensive-in-the-world
 imported: true
 comments:
- - So weve excluded private universities massive in the US and the stark differences the tuition fee loan system which also casts doubt on the 14 vs the 20 student funded  So what were really saying here is that the study is well worthlessCollege Studentsand everyone else too should get a Hand Held Bidet Sprayer and then they wont need to buy Toilet Paper anymore With modern plumbing washing with water is the way to go and the best way to do that is with the Bidet Sprayer 10X cleaner healthier and saves money See bathroomsprayerscom
+ - value: >
+     So we've excluded private universities (massive in the US) and the stark differences the tuition fee loan system (which also casts doubt on the 14% vs the 20% student funded) ... So what we're really saying here is that the study is well... worthless!,College Students(and everyone else too) should get a Hand Held Bidet Sprayer and then they won't need to buy Toilet Paper anymore. With modern plumbing washing with water is the way to go and the best way to do that is with the Bidet Sprayer. 10X cleaner, healthier and saves money. See bathroomsprayers.com.
 
 # Article Taxonomies
 categories:

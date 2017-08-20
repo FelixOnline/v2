@@ -13,7 +13,8 @@ aliases:
  - /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
 imported: true
 comments:
- - Obligatory httpwwwyoutubecomwatchvhBe0VCso0qsI feel mildly sick after finding this httpwwwyoutubecomwatchvp2eYrJA8agYou need a dose of this then httpwwwyoutubecomwatchvF8b5G7EV6f8Apparently DJ Jazzy Jeff attempted to accompany him but was ejected unceremoniouslyBARACK OBAMA WAS AT ETHOSI think you mean Samuel L Jackson
+ - value: >
+     Obligatory: http://www.youtube.com/watch?v=hBe0VCso0qs,I feel mildly sick after finding this: http://www.youtube.com/watch?v=-p2eYrJA8ag,You need a dose of this then: http://www.youtube.com/watch?v=F8b5G7EV6f8,Apparently DJ Jazzy Jeff attempted to accompany him, but was ejected unceremoniously.,BARACK OBAMA WAS AT ETHOS??,I think you mean Samuel L. Jackson.
 
 # Article Taxonomies
 categories:

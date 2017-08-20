@@ -13,7 +13,8 @@ aliases:
  - /news/956/enthusiasts-create-steve-jobs-birthday-website-
 imported: true
 comments:
- - Why exactly are you grateful to him Hes a CEO  he takes your money and gives you a laptop If he failed to do that Id be pretty pissed off at him Nothing for or against Macs here  just a comment on sad fanboyism
+ - value: >
+     Why, exactly, are you grateful to him? He's a CEO - he takes your money and gives you a laptop. If he failed to do that, I'd be pretty pissed off at him. <br> <br>Nothing for or against Macs here - just a comment on sad fanboyism.
 
 # Article Taxonomies
 categories:

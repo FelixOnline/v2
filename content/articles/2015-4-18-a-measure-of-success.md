@@ -13,7 +13,8 @@ aliases:
  - /arts/5466/a-measure-of-success
 imported: true
 comments:
- - buy viagra safley httpviagrawithoutdoctorprescriptionnet  viagra without a doctor prescription  viagra 10 mg 4 tablet you cannot reply to topics in this forum viagra without a doctor prescription  viagra 20mg tablets location buy viagra online say wordpresscialis 20 mg 4 tablet posts per day httpcialisoverthecounteratwalmartcom  cialis over the counter at walmart  viagera cialis over the counter at walmart  cialis reviews side effects community order cheap cialisdoes cialis work the first time submitphp httppharmshoponlinecom  generic cialis  cheapest cialis generic generic cialis  cialis morefor_health_professionals cialis 20mg dosage announcements
+ - value: >
+     buy viagra safley <br> http://viagra-withoutdoctorprescription.net - viagra without a doctor prescription viagra 10 mg 4 tablet you cannot reply to topics in this forum <br> viagra without a doctor prescription - viagra 20mg tablets location <br> buy viagra online say wordpress <br>,cialis 20 mg 4 tablet posts per day <br> http://cialisoverthecounterat-walmart.com - cialis over the counter at walmart viagera <br> cialis over the counter at walmart - cialis reviews side effects community <br> order cheap cialis <br>,does cialis work the first time submit.php <br> http://pharmshop-online.com - generic cialis cheapest cialis generic <br> generic cialis - cialis more:for_health_professionals <br> cialis 20mg dosage announcements <br>
 
 # Article Taxonomies
 categories:

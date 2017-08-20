@@ -13,7 +13,8 @@ aliases:
  - /features/6799/love-is-the-drug-you-cant-get-enough-of
 imported: true
 comments:
- - Ol a todos  quero comunicar que j est nos planos da So Paulo Dog  Burger futuramente ter uma filial da haigurbuerma em munique Aguardem
+ - value: >
+     OlÃ¡ a todos ! quero comunicar que jÃ¡ estÃ¡ nos planos da SÃ£o Paulo Dog &amp; Burger futuramente ter uma filial da haigurbuerma em munique. Aguardem !!!!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
 imported: true
 comments:
- - Okqpty httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcom
+ - value: >
+     Okqpty http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

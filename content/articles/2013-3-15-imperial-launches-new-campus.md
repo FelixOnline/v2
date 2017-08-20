@@ -13,7 +13,8 @@ aliases:
  - /news/3460/imperial-launches-new-campus
 imported: true
 comments:
- - I would think that the area of White City is quite fitting as its near to Hammersmith hospital where the imperial college healthcare nhs trust is locatedBut as a resident of West Acton 10 mins away from White City I welcome the development of Imperial West
+ - value: >
+     I would think that the area of White City is quite fitting, as it's near to Hammersmith hospital (where the imperial college healthcare nhs trust is located). <br> <br>But as a resident of West Acton (10 mins away from White City), I welcome the development of Imperial West.
 
 # Article Taxonomies
 categories:

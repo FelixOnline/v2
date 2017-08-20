@@ -13,7 +13,8 @@ aliases:
  - /comment/2267/still-summer-ballin
 imported: true
 comments:
- - Since colleges withdrawal of their traditional 20000 contribution it looks like ticket prices are going to be a lot higher Paying 50 for what is essentially a cut price event doesnt seem promising to me Matt
+ - value: >
+     Since college's withdrawal of their traditional £20,000 contribution, it looks like ticket prices are going to be a lot higher. Paying £50 for what is essentially a cut price event doesn't seem promising to me Matt!
 
 # Article Taxonomies
 categories:

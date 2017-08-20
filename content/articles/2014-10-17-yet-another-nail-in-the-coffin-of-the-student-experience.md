@@ -13,7 +13,8 @@ aliases:
  - /comment/4740/yet-another-nail-in-the-coffin-of-the-student-experience
 imported: true
 comments:
- - fitflop australia buy onlinebuy fitflops httpfitflopsaublogspotcomchristian louboutin shoeschristian louboutin shoes sale httpcanadachristianlouboutinblogspotcomlouboutin pointed toechristian louboutin online store httpchristianlouboutincanadaoutletblogspotcomchristian louboutin rolando shoeschristian louboutin outlet canada httpchristianlouboutincanadaoutletblogspotcomThanks with regard to furnishing this sort of good writeupnba 2k16 mtdb packs httpwwwespacopranicocombrportalindexphpoptioncom_ccboardviewpostlistforum1topic10553
+ - value: >
+     fitflop australia buy online <br>buy fitflops http://fitflopsau.blogspot.com/,christian louboutin shoes <br>christian louboutin shoes sale http://canadachristianlouboutin.blogspot.com/,louboutin pointed toe <br>christian louboutin online store http://christianlouboutincanadaoutlet.blogspot.com/,christian louboutin rolando shoes <br>christian louboutin outlet canada http://christianlouboutincanadaoutlet.blogspot.com/,Thanks with regard to furnishing this sort of good write-up. <br>nba 2k16 mtdb packs http://www.espacopranico.com.br/portal/index.php?option=com_ccboard&amp;view=postlist&amp;forum=1&amp;topic=10553
 
 # Article Taxonomies
 categories:

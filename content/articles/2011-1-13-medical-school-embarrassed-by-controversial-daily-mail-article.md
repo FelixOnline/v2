@@ -13,7 +13,8 @@ aliases:
  - /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
 imported: true
 comments:
- - Blow me FelixTo think such a grand institute could be pressurised to change by such an obnoxious and idiotic newspaper Quite sad
+ - value: >
+     Blow me Felix,To think such a grand institute could be pressurised to change by such an obnoxious and idiotic newspaper. Quite sad.
 
 # Article Taxonomies
 categories:

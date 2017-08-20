@@ -13,7 +13,8 @@ aliases:
  - /news/2391/all-about-body-image
 imported: true
 comments:
- -                                                                food for thought
+ - value: >
+     "आपक अपन अप क ष ओ क अ तर व र ध क भ सर वम न य हल क द श म सक र य ह न च ह ए "म ल म त र त यह ह ... आपक प स ट स food for thought ट इप ह त ह ...
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/1771/why-arent-we-protesting
 imported: true
 comments:
- - Fuck UCL
+ - value: >
+     Fuck UCL
 
 # Article Taxonomies
 categories:

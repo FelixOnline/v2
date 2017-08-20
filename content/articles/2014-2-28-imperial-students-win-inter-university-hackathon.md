@@ -13,7 +13,8 @@ aliases:
  - /news/4440/imperial-students-win-inter-university-hackathon
 imported: true
 comments:
- - Correct link is httplivmaphackappspotcom btw
+ - value: >
+     Correct link is http://livmaphack.appspot.com/ btw :) <br>
 
 # Article Taxonomies
 categories:

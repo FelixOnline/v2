@@ -13,7 +13,8 @@ aliases:
  - /science/3974/the-chaos-of-colony-collapse-disorder
 imported: true
 comments:
- - The term CCD was fabricated by the US EPA and big Agro business to take attention away from neonicotinoids which has decimated bees around the world they cant hide this much longer
+ - value: >
+     The term CCD was fabricated by the US EPA and big Agro business to take attention away from neonicotinoids which has decimated bees around the world, they cant hide this much longer.
 
 # Article Taxonomies
 categories:

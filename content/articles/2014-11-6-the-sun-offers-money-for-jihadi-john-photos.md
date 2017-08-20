@@ -13,7 +13,8 @@ aliases:
  - /news/4767/the-sun-offers-money-for-jihadi-john-photos
 imported: true
 comments:
- - z4McJl  httvimkkgdej urlhttpxdbpzkmctbnzcomxdbpzkmctbnzurl linkhttphbcfhihgsayqcomhbcfhihgsayqlink httparvrlcoawovqcom
+ - value: >
+     z4McJl httvimkkgdej, [url=http://xdbpzkmctbnz.com/]xdbpzkmctbnz[/url], [link=http://hbcfhihgsayq.com/]hbcfhihgsayq[/link], http://arvrlcoawovq.com/
 
 # Article Taxonomies
 categories:

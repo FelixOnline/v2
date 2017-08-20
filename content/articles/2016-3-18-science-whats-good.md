@@ -13,7 +13,8 @@ aliases:
  - /science/6063/science-whats-good
 imported: true
 comments:
- - hei hppJammen hadde du ogs ftt shoppets mye genialt du har ftt med degKjenner suget etter Ikea her nm nok snart ta meg en turSte prinsessa i voeighgrlnaHa en fin helgKlem linda
+ - value: >
+     hei hÃ¸pp!!Jammen hadde du ogsÃ¥ fÃ¥tt shoppet,sÃ¥ mye genialt du har fÃ¥tt med deg.Kjenner suget etter Ikea her nÃ¥,mÃ¥ nok snart ta meg en tur..SÃ¸te prinsessa i voeig,hgrlna!!Ha en fin helg:=)Klem linda
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/2303/union-no-longer-cash-trated
 imported: true
 comments:
- - Theres one in Mech Eng foyer too They do look like those really dodgey ones that charge you through the nose Where did ICU get this from Yknow just so were sure its not cloning cards
+ - value: >
+     There's one in Mech Eng foyer, too. They do look like those really dodgey ones that charge you through the nose... Where did ICU get this from? Y'know, just so we're sure it's not cloning cards... :-)
 
 # Article Taxonomies
 categories:

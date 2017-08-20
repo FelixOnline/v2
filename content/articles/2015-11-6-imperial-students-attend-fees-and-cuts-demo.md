@@ -13,7 +13,8 @@ aliases:
  - /news/5696/imperial-students-attend-fees-and-cuts-demo
 imported: true
 comments:
- - Student pinkos demand handouts not exactly headline news is itThanks for being on point and on taergt
+ - value: >
+     "Student pinkos demand handouts"... not exactly headline news, is it?,Thanks for being on point and on taergt!
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/5581/students-death-prompts-riots-at-ain-shams-university-cairo
 imported: true
 comments:
- - EditHey guys I am enjoying the site and thnaks for caring enough to post to allow us to study and exam cram with1 question though why give the answers away shaded in green when we havent had a chance to look at possible answers before we hit  read more Just curious if I am doing something incorrect here in using the site or whatJust seems it would be more helpful if the answers were not divulged when you are looking to see what the choices areThanks for a replyReply
+ - value: >
+      (Edit)Hey guys I am enjoying the site and thnaks for caring enough to post to allow us to study and exam cram with.1 question though, why give the answers away shaded in green when we haven't had a chance to look at possible answers before we hit read more Just curious if I am doing something incorrect here in using the site or what.Just seems it would be more helpful if the answers were not divulged when you are looking to see what the choices are.Thanks for a reply.Reply
 
 # Article Taxonomies
 categories:

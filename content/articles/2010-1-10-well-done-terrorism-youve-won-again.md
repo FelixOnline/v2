@@ -13,7 +13,8 @@ aliases:
  - /comment/21/well-done-terrorism---youve-won-again
 imported: true
 comments:
- - The millions to be spent on full body scanners actually seems like a very sound investment in the safety of civiliansThe 100000 loss on last years summer ball however
+ - value: >
+     The millions to be spent on full body scanners actually seems like a very sound investment in the safety of civilians. <br> <br>The £100,000 loss on last year's summer ball, however...
 
 # Article Taxonomies
 categories:

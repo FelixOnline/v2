@@ -13,7 +13,8 @@ aliases:
  - /comment/1948/ashura-a-lesson-from-islams-history
 imported: true
 comments:
- - Please note that Imperials AhlulBayt Islamic Society will now be holding its annual Ashura Awareness Week from 16th  20th January 2012
+ - value: >
+     Please note that Imperial's Ahlul-Bayt Islamic Society will now be holding its annual Ashura Awareness Week from 16th - 20th January 2012.
 
 # Article Taxonomies
 categories:

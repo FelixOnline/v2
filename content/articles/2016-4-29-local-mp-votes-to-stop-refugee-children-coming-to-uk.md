@@ -13,7 +13,8 @@ aliases:
  - /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
 imported: true
 comments:
- - He voted sensibly If theyve already reached Europe theyre fine Im sure that France Germany Italy and so on are quite capable of looking after them Its the ones stuck in Syria that are a cause for concern
+ - value: >
+     He voted sensibly. If they've already reached Europe, they're fine. I'm sure that France, Germany, Italy, and so on are quite capable of looking after them. It's the ones stuck in Syria that are a cause for concern.
 
 # Article Taxonomies
 categories:

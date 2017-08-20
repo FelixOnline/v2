@@ -13,7 +13,8 @@ aliases:
  - /science/2051/nano-ear-can-hear-microorganisms
 imported: true
 comments:
- - Woah Mic Can just tell how sexy you are from the way you write
+ - value: >
+     Woah Mic! Can just tell how sexy you are from the way you write ;)
 
 # Article Taxonomies
 categories:

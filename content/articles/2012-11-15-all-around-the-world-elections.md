@@ -13,7 +13,8 @@ aliases:
  - /politics/2910/all-around-the-world-elections
 imported: true
 comments:
- - We should all be so gauetfrl that we can get advice from a drunken teenage professor that just found the key to his mothers liquor cabinetI truly believe that you ARE a comedianId recommend that you continue playing Risk or Stratego with your  lil buddiesGetting the fuck out of Barrie would also do you good
+ - value: >
+     We should all be so gauetfrl that we can get advice from a drunken teenage professor that just found the key to his mother's liquor cabinet.I truly believe that you ARE a comedian.I'd recommend that you continue playing Risk or Stratego with your lil buddies.Getting the fuck out of Barrie would also do you good.
 
 # Article Taxonomies
 categories:

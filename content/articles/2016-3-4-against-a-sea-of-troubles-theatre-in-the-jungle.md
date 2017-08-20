@@ -13,7 +13,8 @@ aliases:
  - /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
 imported: true
 comments:
- - ixxjYv  qjvmdpuczjzu urlhttpifgpytmuvpfgcomifgpytmuvpfgurl linkhttppcckgsuiksgzcompcckgsuiksgzlink httpqivhjrexdguxcom
+ - value: >
+     ixxjYv qjvmdpuczjzu, [url=http://ifgpytmuvpfg.com/]ifgpytmuvpfg[/url], [link=http://pcckgsuiksgz.com/]pcckgsuiksgz[/link], http://qivhjrexdgux.com/
 
 # Article Taxonomies
 categories:

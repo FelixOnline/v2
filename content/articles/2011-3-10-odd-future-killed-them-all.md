@@ -13,7 +13,8 @@ aliases:
  - /music/1069/odd-future-killed-them-all
 imported: true
 comments:
- - Pitchforklite
+ - value: >
+     Pitchfork-lite
 
 # Article Taxonomies
 categories:

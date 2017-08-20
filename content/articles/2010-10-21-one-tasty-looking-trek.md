@@ -13,7 +13,8 @@ aliases:
  - /travel/223/one-tasty-looking-trek
 imported: true
 comments:
- - First of all I would like to wish BEST OF LUCK both of you Alexander  Landey n the epic journey I am sure youll experience interesting  challenging moments NZ is the best country to be explored due to its terrains  geological features I always use NZ for my study cases in my previous assignments Geotourism When it comes to first impression to the customer you have to have a great logo built by a custom logo design company
+ - value: >
+     First of all, I would like to wish BEST OF LUCK both of you, Alexander &amp; Landey n the epic journey. I am sure you'll experience interesting &amp; challenging moments. NZ is the best country to be explored due to its terrains &amp; geological features. I always use NZ for my study cases in my previous assignments, Geotourism. ,When it comes to first impression to the customer, you have to have a great logo built by a <a href="http://www.logoturtle.com/logo-design.html" title="custom logo design"><strong>custom logo design</strong></a> company.
 
 # Article Taxonomies
 categories:

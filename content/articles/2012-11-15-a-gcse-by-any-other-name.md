@@ -13,7 +13,8 @@ aliases:
  - /politics/2909/a-gcse-by-any-other-name
 imported: true
 comments:
- - The government aims to get rid of the factors that encourage teaching to the test by making the test the sole form of assessment RightLadies and gentlemen Michael Gove
+ - value: >
+     The government aims to "get rid of the factors that encourage teaching to the test", by making the test the sole form of assessment... Right. <br> <br>Ladies and gentlemen, Michael Gove.
 
 # Article Taxonomies
 categories:

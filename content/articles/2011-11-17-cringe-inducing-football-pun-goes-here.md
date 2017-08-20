@@ -13,7 +13,8 @@ aliases:
  - /games/1763/cringe-inducing-football-pun-goes-here
 imported: true
 comments:
- - Haha this is all very true I think this is a marmite game and boy I love itBest article in Felix so far this year
+ - value: >
+     Haha, this is all very true. I think this is a 'marmite' game, and boy I love it!,Best article in Felix so far this year.
 
 # Article Taxonomies
 categories:

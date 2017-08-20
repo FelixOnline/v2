@@ -13,7 +13,8 @@ aliases:
  - /travel/600/big-croc-on-campus-
 imported: true
 comments:
- - What a magnificent effort I hope it was a great success
+ - value: >
+     What a magnificent effort! I hope it was a great success!
 
 # Article Taxonomies
 categories:

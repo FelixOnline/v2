@@ -13,7 +13,8 @@ aliases:
  - /comment/4459/berlin-a-night-life-review
 imported: true
 comments:
- - Thank you for censoring the juicy bits making the article borderline incomprehensible It turns out that hating on fascism and genocide is in stark opposition to the party line and definitely ever so politically incorrect Oh and the proverbial pissy biscuit is taken by the title alteration its supposed to be  Berlin fucks you sideways The level of censorship is astounding  words like gringo in no negative context are changed to office men fucks you sideways to loves you sideways YES fucking is loving according to the Felix bonzos Even names of clubs are cut out Freedom of speech and expression should be universally honoured  especially in student publications who pride themselves on lack of censorship Unreal malarkey its pretty bad also you didnt make it into berghain no siree
+ - value: >
+     Thank you for censoring the juicy bits, making the article borderline incomprehensible. It turns out that hating on fascism and genocide is in stark opposition to the party line and definitely ever so politically incorrect. Oh, and the proverbial pissy biscuit is taken by the title alteration: it's supposed to be - 'Berlin fucks you sideways'. The level of censorship is astounding - words like 'gringo' in no negative context are changed to 'office men', 'fucks you sideways' to 'loves you sideways' (YES, fucking is loving according to the Felix bonzos). Even names of clubs are cut out. Freedom of speech and expression should be universally honoured - especially in student publications who pride themselves on lack of 'censorship'. Unreal malarkey. ,it's pretty bad. also, you didn't make it into berghain, no siree.
 
 # Article Taxonomies
 categories:

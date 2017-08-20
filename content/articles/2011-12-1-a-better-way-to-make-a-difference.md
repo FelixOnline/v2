@@ -13,7 +13,8 @@ aliases:
  - /arts/1868/a-better-way-to-make-a-difference
 imported: true
 comments:
- - Donations are welcome onhttpwwwjustgivingcomprojectTEKUAEven 1 pound makes a difference It will provide 40 days of education to a student
+ - value: >
+     Donations are welcome on: <br>http://www.justgiving.com/projectTEKUA <br>Even 1 pound makes a difference! It will provide 40 days of education to a student!
 
 # Article Taxonomies
 categories:

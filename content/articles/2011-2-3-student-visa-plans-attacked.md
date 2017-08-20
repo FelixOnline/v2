@@ -13,7 +13,8 @@ aliases:
  - /news/715/student-visa-plans-attacked-
 imported: true
 comments:
- - First of all thanks a lot for the great and informative post  I will definitely bookmark your websiteSincerelyJeff Marson from ipad developmentThats really thniknig out of the box ThanksraRSfu  urlhttpzmxkjjttrljucomzmxkjjttrljuurl linkhttpbrdtlimdnkmrcombrdtlimdnkmrlink httpxfgagvbrlbwncom
+ - value: >
+     First of all thanks a lot for the great and informative post. - I will definitely bookmark your website.<br><br>Sincerely,<br>Jeff Marson from <a href="http://www.socialjalopy.com/ipad.html" title="iPad Development"><strong>ipad development</strong></a>,That's really thniknig out of the box. Thanks!,raRSfu , [url=http://zmxkjjttrlju.com/]zmxkjjttrlju[/url], [link=http://brdtlimdnkmr.com/]brdtlimdnkmr[/link], http://xfgagvbrlbwn.com/
 
 # Article Taxonomies
 categories:

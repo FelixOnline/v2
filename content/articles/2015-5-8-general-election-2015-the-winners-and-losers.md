@@ -13,7 +13,8 @@ aliases:
  - /news/5509/general-election-2015-the-winners-and-losers
 imported: true
 comments:
- - At the risk of going Mr Elrtieccian on you you could also solve the problem with a that way you can buy any lamp you like Go to your local Ace Hardware and they can probably hook you up with a solution that would avoid any more running around
+ - value: >
+     At the risk of going Mr. Elrtieccian on you, you could also solve the problem with a –that way, you can buy any lamp you like. Go to your local Ace Hardware and they can probably hook you up with a solution that would avoid any more running around!
 
 # Article Taxonomies
 categories:

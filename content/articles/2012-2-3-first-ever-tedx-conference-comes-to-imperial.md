@@ -13,7 +13,8 @@ aliases:
  - /news/2120/first-ever-tedx-conference-comes-to-imperial
 imported: true
 comments:
- - Upload the fucking digital issue to the archive  its nearly 6pm on the Friday its meant to be released
+ - value: >
+     Upload the fucking digital issue to the archive - it's nearly 6pm on the Friday it's meant to be released!
 
 # Article Taxonomies
 categories:

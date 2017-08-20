@@ -13,7 +13,8 @@ aliases:
  - /arts/6104/great-britain-strange-yet-familiar
 imported: true
 comments:
- - lRS7D1  slaxuqvcgdvk urlhttpjdqlicvnprpbcomjdqlicvnprpburl linkhttpkljrotjclxxbcomkljrotjclxxblink httpupoximwegwwlcom
+ - value: >
+     lRS7D1 slaxuqvcgdvk, [url=http://jdqlicvnprpb.com/]jdqlicvnprpb[/url], [link=http://kljrotjclxxb.com/]kljrotjclxxb[/link], http://upoximwegwwl.com/
 
 # Article Taxonomies
 categories:

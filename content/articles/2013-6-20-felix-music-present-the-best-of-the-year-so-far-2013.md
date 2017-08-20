@@ -13,7 +13,8 @@ aliases:
  - /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
 imported: true
 comments:
- - How could you guys forget this masterpiece httpwwwdailymotioncomvideoxyy9zg_eyetoeyesong_music                      Manhour basis                                                  Manhours                                                                   Invoice     owner
+ - value: >
+     How could you guys forget this masterpiece: http://www.dailymotion.com/video/xyy9zg_eye-to-eye-song_music,ஆம ம , இஞ ச ன யர ங ப ர ஜக ட கள ல , எப ப ழ த ம Manhour basisல த ன வர வ ய கண ப பத , அத ப ல த டர ந த ம ன ட ர ங ச ய த அதன வ ச ச ந ச ச கல அற ந த , கண த த Manhours க ள ள ய வ ல ச ய த ம ட க கவ ண ட ம . இத ம த ம தம கண க ன க கப பட ட , ந ல ம ற ன ல கட ட ப பட த தப பட ம . வர வ ய ம ,அதற க தக ந த ல ப ல Invoice எழ ப ப , ownerகள டம ர ந த ப ற ற க க ள ளப பட ம . எல ல இஞ ச ன யர ங வ ல கள க க ம வ ல ச ய ய ம ந ர ணயந ரம ண ட . ஒர ப ர ஜக க ட ட ல உள ள அத தன வ ல கள ய ம க ற ப
 
 # Article Taxonomies
 categories:

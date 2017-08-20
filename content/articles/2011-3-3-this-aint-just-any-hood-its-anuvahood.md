@@ -13,7 +13,8 @@ aliases:
  - /film/987/this-aint-just-any-hood-its-anuvahood
 imported: true
 comments:
- - happy birthday harrydis film made me get bare semi  it didnt go down for a week and a alf dis film looks ard fam bare geeza ting i like salad lol joke im a fat kid byeIT A BADMAN MOVIE AND FRUTELLERS IS A A BADMAN SWEET YOU GET ME
+ - value: >
+     happy birthday harry,dis film made me get bare semi. :) it didnt go down for a week and a alf. ,dis film looks ard fam, bare geeza ting. i like salad, lol joke im a fat kid. bye,IT A BADMAN MOVIE AND FRUTELLERS IS A A BADMAN SWEET YOU GET ME <br>
 
 # Article Taxonomies
 categories:

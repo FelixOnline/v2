@@ -13,7 +13,8 @@ aliases:
  - /news/6348/does-anyone-still-care-about-union-council
 imported: true
 comments:
- - Union council is so 2014
+ - value: >
+     Union council is so 2014
 
 # Article Taxonomies
 categories:

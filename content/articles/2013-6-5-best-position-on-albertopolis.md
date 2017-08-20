@@ -13,7 +13,8 @@ aliases:
  - /news/3659/best-position-on-albertopolis-
 imported: true
 comments:
- - With the TEDx events at Imperial and Albertopolis exploring the relationship between art creativity and science how are they critically looking at these issues and using the history of the college in terms of its great teacher and Dean Prof Huxley and his famous student HGWells whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as Raze Imperial to the ground That was the verdict of the debate held last Tuesday on the motion This house believes that Imperial College is a threat to liberal education as fought for by Professor THHuxley and should be razed to the ground The debate was chaired by Mr Eric Stables head of the Humanities department
+ - value: >
+     With the TEDx events at Imperial and Albertopolis exploring the relationship between art, creativity and science, how are they critically looking at these issues and using the history of the college, in terms of its great teacher and Dean Prof Huxley and his famous student H.G.Wells, whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as "Raze Imperial to the ground! That was the verdict of the debate held last Tuesday on the motion: <br> <br>'This house believes that Imperial College is a threat to liberal education as fought for by Professor T.H.Huxley and should be razed to the ground'... The debate was chaired by Mr Eric Stables, head of the Humanities department..."
 
 # Article Taxonomies
 categories:

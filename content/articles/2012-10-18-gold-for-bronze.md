@@ -13,7 +13,8 @@ aliases:
  - /arts/2684/gold-for-bronze
 imported: true
 comments:
- - Nicely written Might go visit
+ - value: >
+     Nicely written! Might go visit! :-)
 
 # Article Taxonomies
 categories:

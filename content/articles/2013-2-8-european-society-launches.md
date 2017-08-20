@@ -13,7 +13,8 @@ aliases:
  - /news/3276/european-society-launches
 imported: true
 comments:
- - Theres nothing cool about supporting an organisation who subvert democracy at every turnFor crying out loud couldnt you guys let you enthusiasm for the EU die after your Geo 2 oralIts become like a religionthis soceity should have just been called European School alumni  I would have been more inclined to join pChris Kaye  subvert democracy might be a bit harsh but I agree that I dont really see the point in this society I suspect  it is somewhat of an old boys club of exEuropean school students  Why dont you guys channel your school hang up into more proactive ventures like Facebook stalking and flirting with you old History teacher Piccinin has become so hot since hes opted for an Indiana Jones lifestyle
+ - value: >
+     There's nothing cool about supporting an organisation who subvert democracy at every turn.,For crying out loud couldn't you guys let you enthusiasm for the EU die after your Geo 2 oral?,It's become like a religion,this soceity should have just been called European School alumni - I would have been more inclined to join :p....,@Chris Kaye : "subvert democracy" might be a bit harsh but I agree that I don't really see the point in this society, I suspect it is somewhat of an old boys club of ex-European school students. Why don't you guys channel your school hang up into more proactive ventures like Facebook stalking and flirting with you old History teacher? Piccinin has become so hot since he's opted for an Indiana Jones lifestyle.
 
 # Article Taxonomies
 categories:

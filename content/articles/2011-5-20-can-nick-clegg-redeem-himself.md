@@ -13,7 +13,8 @@ aliases:
  - /comment/1229/can-nick-clegg-redeem-himself
 imported: true
 comments:
- - After the coalition it is going to put the Lib Dems back on the margines of British Politics  For Cleggy he will have to work extremely hard to salvage his political career
+ - value: >
+     After the coalition it is going to put the Lib Dems back on the margines of British Politics. For Cleggy he will have to work extremely hard to salvage his political career
 
 # Article Taxonomies
 categories:

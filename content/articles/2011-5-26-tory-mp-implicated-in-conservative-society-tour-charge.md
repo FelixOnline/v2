@@ -13,7 +13,8 @@ aliases:
  - /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
 imported: true
 comments:
- - Imperial College Conservative Association and Greg Hands himself seem to accept that he sponsored the tour These tickets were then sold for the profit of the Association This is against the rules Whether Hands gave the tour personally or not is irrelevantThats way more clever than I was exetpcnig Thanks
+ - value: >
+     Imperial College Conservative Association and Greg Hands himself seem to accept that he sponsored the tour. These tickets were then sold for the profit of the Association. This is against the rules. Whether Hands gave the tour personally or not is irrelevant.,That's way more clever than I was exetpcnig. Thanks!
 
 # Article Taxonomies
 categories:

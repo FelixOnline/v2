@@ -13,7 +13,8 @@ aliases:
  - /news/4060/seedcamp-announce-winners-of-seedhack-40
 imported: true
 comments:
- - That title wants fixingSpeedcamp SpeedHack Seriously The editor must have been on speed
+ - value: >
+     That title wants fixing...,Speedcamp? SpeedHack? Seriously? The editor must have been on speed...
 
 # Article Taxonomies
 categories:

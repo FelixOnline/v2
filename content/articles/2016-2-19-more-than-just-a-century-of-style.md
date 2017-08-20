@@ -13,7 +13,8 @@ aliases:
  - /arts/5939/more-than-just-a-century-of-style
 imported: true
 comments:
- - Ho notato solo ora una cosa MERAVIGLIOSASergio con la maglietta di FIREFOXnooooooo la voglio anche iooooooooooooooooooooooo dove lhai presa sullo store di mozillaGRANDE SERGIOciaoPaolo
+ - value: >
+     Ho notato solo ora una cosa MERAVIGLIOSA!!!Sergio con la maglietta di FIREFOX…nooooooo la voglio anche io!oooooooooooooooooooooo!!!! dove l’hai presa??? sullo store di mozilla?GRANDE SERGIO!!!ciaoPaolo
 
 # Article Taxonomies
 categories:

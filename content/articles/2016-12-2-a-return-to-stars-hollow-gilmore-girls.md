@@ -13,7 +13,8 @@ aliases:
  - /tv/6539/a-return-to-stars-hollow--gilmore-girls-
 imported: true
 comments:
- - GG are coming back Theres no way the ending is gonna be left unresolved AND I BET ITS GONNA BE A BOY breakthecircle AND RORY WILL NAME HIM RICHARD
+ - value: >
+     GG are coming back. There's no way the ending is gonna be left unresolved. AND I BET ITS GONNA BE A BOY. #breakthecircle AND RORY WILL NAME HIM RICHARD!
 
 # Article Taxonomies
 categories:

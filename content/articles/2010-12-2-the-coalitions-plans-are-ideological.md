@@ -13,7 +13,8 @@ aliases:
  - /comment/488/the-coalitions-plans-are-ideological
 imported: true
 comments:
- - Posts like this brihtgen up my day Thanks for taking the timeYRFQGM  tujnbibqrujm valtrex  topamax and excessive weight loss   cialis 8  DD  propecia PP cheap synthroid noxgi topamax azor
+ - value: >
+     Posts like this brihtgen up my day. Thanks for taking the time.,YRFQGM <a href="http://tujnbibqrujm.com/">tujnbibqrujm</a>, <a href="http://www.symprix.net/">valtrex</a> %[[ <a href="http://www.medssupport.com/">topamax and excessive weight loss</a> =-[[[ , <a href="http://www.ramonenses.com/Generic-Cialis/">cialis</a> 8))) <a href="http://www.thesugarmamasblog.com/">バイアグラを購入する</a> &gt;:-DD , <a href="http://www.pillsprix.com/">propecia</a> %-PP <a href="http://www.equimedics.net/">cheap synthroid</a> noxgi <a href="http://www.medssupport.com/">topamax</a> azor
 
 # Article Taxonomies
 categories:

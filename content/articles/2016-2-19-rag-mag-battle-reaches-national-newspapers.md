@@ -13,7 +13,8 @@ aliases:
  - /news/5923/rag-mag-battle-reaches-national-newspapers
 imported: true
 comments:
- - When is Lucinda going to stop sulking about the nonexistent sexismbanning that article went really well for the union didnt it
+ - value: >
+     When is Lucinda going to stop sulking about the non-existent sexism?,banning that article went really well for the union didn't it
 
 # Article Taxonomies
 categories:

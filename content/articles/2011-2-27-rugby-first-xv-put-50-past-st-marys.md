@@ -13,7 +13,8 @@ aliases:
  - /sport/926/rugby-first-xv-put-50-past-st-marys
 imported: true
 comments:
- - Youre so cool I dont suppose Ive learn sneothimg like this before So good to search out someone with some original thoughts on this subject realy thanks for starting this up this website is sneothimg that is wanted on the internet somebody with a bit originality useful job for bringing sneothimg new to the internetDear SusanMany thanks for this reeivw of my novel Im glad you took a chance on it and enjoyed it as much as you did The sequel will be out shortly and if youd like a copy Id be happy to send it to you CheersJay Ridler  been limited   those quote   propecia without prescription   hormonal drugs   insurance deals auto
+ - value: >
+     Youre so cool! I dont suppose Ive learn sneothimg like this before. So good to search out someone with some original thoughts on this subject. realy thanks for starting this up. this website is sneothimg that is wanted on the internet, somebody with a bit originality. useful job for bringing sneothimg new to the internet!,Dear Susan,Many thanks for this <a href="http://ddonmbjg.com">reeivw</a> of my novel. I'm glad you took a chance on it and enjoyed it as much as you did. The sequel will be out shortly, and if you'd like a copy, I'd be happy to send it to you. Cheers,Jay Ridler, been limited those quote propecia without prescription hormonal drugs insurance deals auto
 
 # Article Taxonomies
 categories:

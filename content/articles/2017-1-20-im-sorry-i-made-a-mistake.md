@@ -13,7 +13,8 @@ aliases:
  - /comment/6659/im-sorry-i-made-a-mistake
 imported: true
 comments:
- - So you didnt even bother to look for primary sources beyond a cursory glance Rather you saw a single article that supported your preconceived notions about a group of people and decided to make false accusations about them That just reeks of lazy and dishonest journalism At least you recognise this I suppose
+ - value: >
+     So you didn't even bother to look for primary sources beyond a "cursory glance"? Rather you saw a single article that supported your preconceived notions about a group of people and decided to make false accusations about them? That just reeks of lazy and dishonest journalism. At least you recognise this I suppose.
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /comment/3135/faitheism-the-importance-of-dialogue
 imported: true
 comments:
- - I like to call myself a Christian Atheist in the sense of admiring Christs teachings rather than the practices and wealth of The Church etc
+ - value: >
+     I like to call myself a 'Christian Atheist' in the sense of admiring Christ's teachings rather than the practices (and wealth) of 'The Church' etc...
 
 # Article Taxonomies
 categories:

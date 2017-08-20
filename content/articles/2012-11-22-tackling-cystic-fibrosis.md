@@ -13,7 +13,8 @@ aliases:
  - /science/2949/tackling-cystic-fibrosis
 imported: true
 comments:
- - Hi LaurenAlthough I wrote the article I didnt choose the image so Im not entirely sure where its fromHowever Id say that the left hand picture is of a healthy lung and the right hand image is of a CF patients lung The extra white fluff that you can see on the right is because of the sticky dense mucus that has built up  and thats the stuff which traps bacteria and other nasties leading to lung infectionsHope that helpsNedI found the information interesting and usefull as I am currently doing an EEI in school about Gene Therapy for Cystic Fibrosis My only question is this what are the two xrays of and what are they ment to be comparing I cant find anything in or around the site picture that suggests what they are for If anyone knows please help it would help me and my asssignment so much
+ - value: >
+     Hi Lauren, <br> <br>Although I wrote the article, I didn't choose the image so I'm not entirely sure where it's from... <br> <br>However, I'd say that the left hand picture is of a healthy lung and the right hand image is of a CF patient's lung. The extra white "fluff" that you can see on the right is because of the sticky, dense mucus that has built up - and that's the stuff which traps bacteria and other nasties leading to lung infections. <br> <br>Hope that helps, <br> <br>Ned,I found the information interesting and usefull, as I am currently doing an EEI in school about Gene Therapy for Cystic Fibrosis. My only question is this: <br> what are the two xrays of, and what are they ment to be comparing? I can't find anything in or around the site/ picture that suggests what they are for. If anyone knows, please help it would help me and my asssignment so much.:)
 
 # Article Taxonomies
 categories:

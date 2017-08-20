@@ -13,7 +13,8 @@ aliases:
  - /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
 imported: true
 comments:
- - Wow the union getting in on an issue and expressing their opinion before college have made their decision and decided they dont care what we think Good work
+ - value: >
+     Wow... the union getting in on an issue and expressing their opinion before college have made their decision and decided they don't care what we think. Good work!
 
 # Article Taxonomies
 categories:

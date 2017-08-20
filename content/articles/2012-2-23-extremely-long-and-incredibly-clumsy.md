@@ -13,7 +13,8 @@ aliases:
  - /film/2232/extremely-long-and-incredibly-clumsy
 imported: true
 comments:
- - Great review Sam I rlealy enjoyed the readWhilst we share opposite views about whether the film is worth watching I do appreciate the balanced argument that you do presentIt is too bad that a universal story had to be wrapped in something that emotionally blackmailed the audiences to feel something Also I liked your assertion that the backdrop of September 11th needs no additional attempts to elicit emotion since its a subject which is already emotionally chargedGreat reviewGlad to hear you liked the movie I saw a commercial for it and all I could think about was how I could not even imanige going to a movie with 911 as the backdrop Its just still so sad and unnerving
+ - value: >
+     Great review Sam, I rlealy enjoyed the read.Whilst we share opposite views about whether the film is worth watching, I do appreciate the balanced argument that you do present.It is too bad that a universal story had to be wrapped in something that emotionally blackmailed the audiences to feel something. Also, I liked your assertion that the backdrop of September 11th needs no additional attempts to elicit emotion since it's a subject which is already emotionally charged.Great review.,Glad to hear you liked the movie. I saw a commercial for it, and all I could think about was how I could not even <a href="http://ysdwkir.com">imanige</a> going to a movie with 9/11 as the backdrop. It's just still so sad and unnerving.
 
 # Article Taxonomies
 categories:

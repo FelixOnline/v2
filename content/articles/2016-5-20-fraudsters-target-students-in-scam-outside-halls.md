@@ -13,7 +13,8 @@ aliases:
  - /news/6174/fraudsters-target-students-in-scam-outside-halls
 imported: true
 comments:
- - httpswwwyoutubecomwatchvsdi6EqzS1c
+ - value: >
+     https://www.youtube.com/watch?v=sdi6E-qzS1c
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/4022/some-postgraduates-critical-of-h-bar
 imported: true
 comments:
- - I think it will likely have some teething issues and certainly its never going to be a direct replacement for the Holland Club but I think theres a chance it will be quite fun in there Im planning on working behind the bar and the bar staff team seem to have their heads on straight It will have to carve itself out a new and different character than it used to have and with the new decor that will be more difficult until its worn in and Im not sure it will wear well but I hope it can accomplish it I think its going to end up more of a sort of All Bar One or other over 21s wine bar sort of feel to it not my favorite thing but theres a place in the market for that I think
+ - value: >
+     I think it will likely have some teething issues and certainly it's never going to be a direct replacement for the Holland Club, but I think there's a chance it will be quite fun in there. I'm planning on working behind the bar and the bar staff team seem to have their heads on straight. It will have to carve itself out a new and different character than it used to have, and with the new decor that will be more difficult until it's worn in (and I'm not sure it will wear well), but I hope it can accomplish it. I think it's going to end up more of a sort of 'All Bar One' or other over 21s wine bar sort of feel to it... not my favorite thing but there's a place in the market for that I think.
 
 # Article Taxonomies
 categories:

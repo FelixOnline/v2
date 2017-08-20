@@ -13,7 +13,8 @@ aliases:
  - /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
 imported: true
 comments:
- - To think I was coesfund a minute ago
+ - value: >
+     To think, I was coesfund a minute ago.
 
 # Article Taxonomies
 categories:

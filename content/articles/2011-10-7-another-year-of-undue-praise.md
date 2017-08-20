@@ -13,7 +13,8 @@ aliases:
  - /comment/1476/another-year-of-undue-praise
 imported: true
 comments:
- - Nice article was worth my reading so is worth my commenting Thank You Angry Greek
+ - value: >
+     Nice article, was worth my reading so is worth my commenting. Thank You Angry Greek!
 
 # Article Taxonomies
 categories:

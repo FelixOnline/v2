@@ -13,7 +13,8 @@ aliases:
  - /science/4821/paralysed-man-walks-after-stem-cell-therapy
 imported: true
 comments:
- - Hello there neat web page youve gotten presentlycsgo skins ebay httpforumposzkodowanychplindexphppdiscussion8226nba2k16mtofgeorgiabasketballplayers
+ - value: >
+     Hello there, neat web page you've gotten presently <br>csgo skins ebay http://forumposzkodowanych.pl/index.php?p=/discussion/8226/nba-2k16-mt-of-georgia-basketball-players
 
 # Article Taxonomies
 categories:

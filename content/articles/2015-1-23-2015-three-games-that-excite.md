@@ -13,7 +13,8 @@ aliases:
  - /games/5140/2015-three-games-that-excite
 imported: true
 comments:
- - Hmm okay Har lige set traileren og synes heller ikke den er srlig uhelgygig og jeg plejer ellers at vre RD for gyserfilm Kan vre traileren bare er drlig
+ - value: >
+     Hmm, okay. Har lige set traileren og synes heller ikke den er sÃ¦rlig uhelgygig, og jeg plejer ellers at vÃ¦re RÃ†D for gyserfilm. Kan vÃ¦re traileren bare er dÃ¥rlig..
 
 # Article Taxonomies
 categories:

@@ -13,7 +13,8 @@ aliases:
  - /news/2659/better-than-the-olympics
 imported: true
 comments:
- - This was actually the most interesting thing thats happened to me in refreshers fortnightThis is hilarious
+ - value: >
+     This was actually the most interesting thing that's happened to me in (re)freshers fortnight.,This is hilarious!
 
 # Article Taxonomies
 categories:

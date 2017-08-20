@@ -13,7 +13,8 @@ aliases:
  - /comment/3455/hall-so-hard-college-cant-affordably-locate-me
 imported: true
 comments:
- -  20120223 2008     Amazing weblog Do you have any sgeugstions and hints for aspiring writers Im preparing to start my own web site soon but Im a bit lost on everything Would you suggest starting with a no cost platform like WordPress or go for a paid option You will find so many options out there that Im completely overwhelmed  Any ideas Kudos
+ - value: >
+     　( 2012.02.23 20:08 ) : Amazing weblog! Do you have any sgeugstions and hints for aspiring writers? I’m preparing to start my own web site soon but I’m a bit lost on everything. Would you suggest starting with a no cost platform like WordPress or go for a paid option? You will find so many options out there that I’m completely overwhelmed .. Any ideas? Kudos!
 
 # Article Taxonomies
 categories:

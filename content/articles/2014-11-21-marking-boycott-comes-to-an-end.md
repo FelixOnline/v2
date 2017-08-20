@@ -13,7 +13,8 @@ aliases:
  - /news/4930/marking-boycott-comes-to-an-end
 imported: true
 comments:
- - Many thanks this site is really handyJuan Riquelme httpgreensbonltforumasindexphppdiscussion1538fifa17pointsforsaleactuallyuploadsyourstats
+ - value: >
+     Many thanks, this site is really handy <br>Juan Riquelme http://greensbon.lt/forumas/index.php?p=/discussion/1538/fifa-17-points-for-sale-actually-uploads-your-stats
 
 # Article Taxonomies
 categories:
