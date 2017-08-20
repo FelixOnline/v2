@@ -12,8 +12,6 @@ aliases:
  - /news/6777/no-mascotry-resolution-in-sight
 imported: true
 comments:
- - value: >
-     2GAaqd qgswkifwvood, [url=http://ygdhlhifvgoj.com/]ygdhlhifvgoj[/url], [link=http://licttsoemiao.com/]licttsoemiao[/link], http://dztnghjmgaty.com/
 
 # Article Taxonomies
 categories:

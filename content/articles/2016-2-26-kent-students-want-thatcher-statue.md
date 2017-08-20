@@ -12,8 +12,6 @@ aliases:
  - /news/5956/kent-students-want-thatcher-statue
 imported: true
 comments:
- - value: >
-     Kidney Dialysis: ways you can get from it with out dropping your life http://kidneyok.tumblr.com/,The gita has been the solace of my life and will be my solace in death. I however prefer the jnana route to the bhakti route. <br> yeezy 350 boost [url=http://www.zwsoft.com/shoes/adidas-yeezy-750-boost/]yeezy 350 boost[/url],cartierbraceletlove I am so sick of people who select their candidate based on “who can beat Obama” or “the lesser of two evils”. When are CONSERVATIVES going to grow a pair of balls and vote for the person who best represents their principles? Newt is just more status quo establishment. If you think anything will change in a Gingrich administration you are delusional – it will be Obama II (which is just Bush II). I’ll write in Dr. Paul if I have to because he’s the only one that even comes close to following the constitution. I have a pair and refuse to be labeled a spoiler. <br> replica bracciale uomo cartier [url=http://www.mercibassocosto.net/category/bracciale-love-cartier-falso
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /comment/6095/the-nus-doesnt-represent-jewish-students
 imported: true
 comments:
- - value: >
-     I'm sure she'd be furious if a recent President-elect suggested that Mecca should be taken away from the Muslims.<br>So why this double standard for those of the Jewish faith?<br>Wouldn't be at all surprised if we see her on an ISIS recruitment video in a few years' time.,And maybe you'll appear in West Bank settlements advocacy campaigns too.,Not even remotely the same type of thing!,Felix censoring their comments again? Only willing to publish comments that fit in with your agenda? Good practice for real world journalism, I suppose. But not exactly encouraging healthy debate.,Za2yjv kavwvzwmmfyr, [url=http://ggptpfrjoojd.com/]ggptpfrjoojd[/url], [link=http://xkveqpxxbojl.com/]xkveqpxxbojl[/link], http://qdnbsouhlxxa.com/,vaamBp http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,WQfDW1 fktuppnnuwqk, [url=http://myzgbvwbgkqg.com/]myzgbvwbgkqg[/url], [link=http://tjtuxogpbudk.com/]tjtuxogpbudk[/link], http://gwcbqwqfxaqj.com/,http://flagylantibioticmetronidazole.net/ - Flagyl Cialis http://levitra-20mg-prices.com/,
 
 # Article Taxonomies
 categories:

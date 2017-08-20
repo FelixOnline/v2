@@ -12,8 +12,6 @@ aliases:
  - /news/5681/several-imperial-academics-to-boycott-israeli-universities
 imported: true
 comments:
- - value: >
-     Punishing Israeli academics for the actions of their government? What sort of nonsense is this?<br>Are the same academics also going to boycott Palestinian universities for the terrorist actions of Hamas?,You bet ! <br>Albion Online Items http://www.rawfoodsupport.com/read.php?11,266973,I mean it! <br>[url=http://tamamshamoon.livejournal.com/4569.html]Blade And Soul Items[/url],mlb shop coupons nfl shop cyber monday promo code authentic <br>sports jerseys cheap,promo code mlb shop nhl shopp promotional code cheap jerseys from china,Proud of you . <br>[url=http://aeytimes.com/ideas/79950/Blackram_Supply_Chain_6-Player_Normal_Difficulty/]Buy Blade And Soul Gold[/url],cheap sporfs jerseys free shipping - test.1ebd.net, wholesale nfl jersey <br>cheap custom sports jerseys,cheap mllb jerseys [Torsten] USC Trojans Jersey wholesale nba <br>jerseys,cheap jerseys in china Georgia Bulldogs Jerfsey cheap sports jerseys from china,mlb shop coupon free sshipping black friday nfl shop promotional codes wholesale nhl jerseys <br>free shipping
 
 # Article Taxonomies
 categories:

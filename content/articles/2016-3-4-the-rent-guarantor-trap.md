@@ -12,8 +12,6 @@ aliases:
  - /comment/6001/the-rent-guarantor-trap
 imported: true
 comments:
- - value: >
-     Because Imperial doesn't give a shit about low income students, preferring to cater primarily to the rich.,"Because Imperial doesn't give a shit about low income students "<br>Have you ever heard of the imperial bursary?,Be good! <br>[url=http://whoznet.com/blog/52142/blade-soul-horrible-performance/]Buy Blade And Soul Gold[/url],If I have the guts to quit my job . <br>[url=http://salaryitis.com/blogs/60980/175493/i-need-advice-from-bns-veterans]BNS Gold[/url],you have a good sense of humor. <br>[url=http://imgfave.com/r4pg/collections]r4pg[/url],Where were we? <br>[url=http://www.folkd.com/user/r4pgvip]r4pg[/url],I'm all yours！ <br>[url=https://delicious.com/r4pg]r4pg[/url],I'm all yours！ <br>[url=https://www.trustpilot.com/review/www.r4pg.com]r4pg[/url],Too bad we have to return them . <br>[url=http://www.aboutus.com/R4pg]r4pg[/url],Your company is very impressive . <br>[url=http://www.mmorpg.com/blogs/r4pg]r4pg[/url],How do you work here ? <br>[url=http://tosgold.kinja.com/welcome-to-tosgold-com-1759827547?rev=1455785277109]tosgol
 
 # Article Taxonomies
 categories:

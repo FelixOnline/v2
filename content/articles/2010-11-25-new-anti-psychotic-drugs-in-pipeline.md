@@ -12,8 +12,6 @@ aliases:
  - /science/426/new-anti-psychotic-drugs-in-pipeline
 imported: true
 comments:
- - value: >
-     You have shed a ray of snuhsine into the forum. Thanks!,adbQdi , [url=http://yvqahfqowbry.com/]yvqahfqowbry[/url], [link=http://cqbyqjoodlmx.com/]cqbyqjoodlmx[/link], http://nxnlbimqmamc.com/
 
 # Article Taxonomies
 categories:

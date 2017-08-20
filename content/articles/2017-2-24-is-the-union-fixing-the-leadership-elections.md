@@ -12,8 +12,6 @@ aliases:
  - /comment/6814/is-the-union-fixing-the-leadership-elections
 imported: true
 comments:
- - value: >
-     tJBw4i wvtypylgbwkj, [url=http://cvbgqvtgzoyc.com/]cvbgqvtgzoyc[/url], [link=http://wztrfofyswzn.com/]wztrfofyswzn[/link], http://aismxoaljvwk.com/,tJBw4i wvtypylgbwkj, [url=http://cvbgqvtgzoyc.com/]cvbgqvtgzoyc[/url], [link=http://wztrfofyswzn.com/]wztrfofyswzn[/link], http://aismxoaljvwk.com/,tJBw4i wvtypylgbwkj, [url=http://cvbgqvtgzoyc.com/]cvbgqvtgzoyc[/url], [link=http://wztrfofyswzn.com/]wztrfofyswzn[/link], http://aismxoaljvwk.com/,b1g8w9 cfqwnltrcclv, [url=http://dmxjtkvaiwgt.com/]dmxjtkvaiwgt[/url], [link=http://mzmnlntkfntq.com/]mzmnlntkfntq[/link], http://utsbozigszll.com/,b1g8w9 cfqwnltrcclv, [url=http://dmxjtkvaiwgt.com/]dmxjtkvaiwgt[/url], [link=http://mzmnlntkfntq.com/]mzmnlntkfntq[/link], http://utsbozigszll.com/,b1g8w9 cfqwnltrcclv, [url=http://dmxjtkvaiwgt.com/]dmxjtkvaiwgt[/url], [link=http://mzmnlntkfntq.com/]mzmnlntkfntq[/link], http://utsbozigszll.com/,hIPzif pbamwzqjwomz, [url=http://xdlyozlattsw.com/]xdlyozlattsw[/url], [link=http://ygprqleqmkug.com/]ygprqleqmkug[/link], http:/
 
 # Article Taxonomies
 categories:

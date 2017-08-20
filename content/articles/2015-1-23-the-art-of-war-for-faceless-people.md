@@ -12,8 +12,6 @@ aliases:
  - /tech/5139/the-art-of-war-for-faceless-people
 imported: true
 comments:
- - value: >
-     rwT3UQ llqokcnvrgmk, [url=http://mmeiaobkvekk.com/]mmeiaobkvekk[/url], [link=http://xuwascbaonrh.com/]xuwascbaonrh[/link], http://kkhfvcrlooxa.com/,Just simply had to express I am delighted I came on the website!. <br>csgo skins drop in price http://csgoskinsfamas.tarlog.com/post/18/
 
 # Article Taxonomies
 categories:

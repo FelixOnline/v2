@@ -12,8 +12,6 @@ aliases:
  - /cands/5918/picocon-33-origins---20th-february
 imported: true
 comments:
- - value: >
-     xztyE8 nmxbvxbsselh, [url=http://caklpiqoggaf.com/]caklpiqoggaf[/url], [link=http://vnltwuykzabt.com/]vnltwuykzabt[/link], http://slblpeigwmfx.com/
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /comment/5866/the-left-has-no-problem-with-free-speech
 imported: true
 comments:
- - value: >
-     "The modern left doesn’t reject discussion, it rejects the idea that we should have to put up with hate in our political system."<br>This is essentially meaningless when the left simply brands any viewpoint it disagrees with as "hateful". This is merely cultural censorship by another name. Free speech does not, must not, mean "free speech of opinions we consider palatable". <br>You mention Trump: did you forget how Labour MPs wasted hours of Commons time trying to have him banned from the country because they didn't like his views? It seems pretty clear to me that the left has no problem with attempting to silence opinions that they don't like.,I agree with Jasper. Too many people want to put limits on freedom of speech due to offense and once you limit free speech you make ignorant ideas taboo and exciting. The left have been doing lots of this recently,sFOea4 iddyhcitdbfr, [url=http://ikcafufyjylm.com/]ikcafufyjylm[/url], [link=http://yndampbghphb.com/]yndampbghphb[/link], http://zykhvmwnvzyj.com/,3WynOZ htt
 
 # Article Taxonomies
 categories:

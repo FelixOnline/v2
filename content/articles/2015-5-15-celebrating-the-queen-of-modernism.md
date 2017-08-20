@@ -12,8 +12,6 @@ aliases:
  - /arts/5541/celebrating-the-queen-of-modernism
 imported: true
 comments:
- - value: >
-     xBrk2b eyyravupbaok, [url=http://ifymtcdlxzrs.com/]ifymtcdlxzrs[/url], [link=http://autvwraykjbf.com/]autvwraykjbf[/link], http://estqzgkhhvkm.com/
 
 # Article Taxonomies
 categories:

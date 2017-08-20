@@ -12,8 +12,6 @@ aliases:
  - /arts/5854/subterranean-arts-festival-promises-to-surprise
 imported: true
 comments:
- - value: >
-     qNfnBw ekiebpndhpjb, [url=http://dccconfakdns.com/]dccconfakdns[/url], [link=http://sjnjpmdemyyg.com/]sjnjpmdemyyg[/link], http://ifieunomitrn.com/
 
 # Article Taxonomies
 categories:

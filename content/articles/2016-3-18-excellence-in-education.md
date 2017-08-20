@@ -12,8 +12,6 @@ aliases:
  - /comment/6054/excellence-in-education
 imported: true
 comments:
- - value: >
-     For those not keen on bullshit:<br>1. An away day was held with Sabs and council <br>2. Some new grants were announced "for building excellence in teaching and research" whatever that is.<br>3. There will be more policing of student behavior via some guide that is to be produced. Which includes "a Respect for Others Pledge". Examples cited of behaviors contrary to this are "drinking themselves sick", "damaging property or others" and " being disrespectful to their peers and their community".<br>Most of you are not worthy of respect so fuck off.,oIPDQn mjvtttuikdlt, [url=http://oqrbetrurbxu.com/]oqrbetrurbxu[/url], [link=http://gkvbgzbopqpb.com/]gkvbgzbopqpb[/link], http://hdvwgmaogzxq.com/,dlMX1A kyyzboucynfc, [url=http://tqjioeucrlts.com/]tqjioeucrlts[/url], [link=http://kispsguovcnh.com/]kispsguovcnh[/link], http://vcwiaaarhtoy.com/,This might be weird for an American, but "pledging" is something associated with signing your brain and will away, not a University. At Uni students mature and learn, also from mistak
 
 # Article Taxonomies
 categories:

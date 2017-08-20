@@ -12,8 +12,6 @@ aliases:
  - /comment/6782/you-have-no-excuse-for-not-recycling
 imported: true
 comments:
- - value: >
-     [url=http://without-prescription-buyretin-a.net/]without-prescription-buyretin-a.net.ankor[/url] doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,[url=http://without-prescription-buyretin-a.net/]without-prescription-buyretin-a.net.ankor[/url] doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,[url=http://without-prescription-buyretin-a.net/]without-prescription-buyretin-a.net.ankor[/url] doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,[url=http://without-prescription-buyretin-a.net/]without-prescription-buyretin-a.net.ankor[/url] doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,[url=http://without-prescription-buyretin-a.net/]without-prescription-buyretin-a.net.ankor[/url] doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,[url=http://without-prescription-buyretin-a.net/]without-prescription-buyretin-a.net.ankor[/url] doxycycline100mgbuy.com.ankor http://cialistadalafillowest-price.net/,[url=http://without-pr
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /cands/5919/the-imperial-volunteers-dinner
 imported: true
 comments:
- - value: >
-     w0MJ1k ldssvdqbmdrm, [url=http://xpqcyptgriuy.com/]xpqcyptgriuy[/url], [link=http://bgpaasxpndox.com/]bgpaasxpndox[/link], http://kotplgiigewz.com/
 
 # Article Taxonomies
 categories:

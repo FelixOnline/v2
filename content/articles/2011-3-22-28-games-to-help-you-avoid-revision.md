@@ -12,8 +12,6 @@ aliases:
  - /games/1126/28-games-to-help-you-avoid-revision
 imported: true
 comments:
- - value: >
-     Tcouhdwon! That's a really cool way of putting it!,8wvhoA , [url=http://ouqmegaxltgq.com/]ouqmegaxltgq[/url], [link=http://oevvqnszasyr.com/]oevvqnszasyr[/link], http://ksvrzeliznxu.com/
 
 # Article Taxonomies
 categories:

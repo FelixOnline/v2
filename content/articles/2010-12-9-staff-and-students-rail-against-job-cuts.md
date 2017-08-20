@@ -12,8 +12,6 @@ aliases:
  - /news/530/staff-and-students-rail-against-job-cuts-
 imported: true
 comments:
- - value: >
-     hD5UMd , [url=http://tcsoethbxhsu.com/]tcsoethbxhsu[/url], [link=http://dscrfdgmaykz.com/]dscrfdgmaykz[/link], http://sykcpxmvages.com/
 
 # Article Taxonomies
 categories:

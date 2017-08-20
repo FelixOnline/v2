@@ -12,8 +12,6 @@ aliases:
  - /games/1197/who-knew-climate-change-could-be-so-much-fun
 imported: true
 comments:
- - value: >
-     Wlanikg in the presence of giants here. Cool thinking all around!,5uQS2L , [url=http://jfuwxjlratqw.com/]jfuwxjlratqw[/url], [link=http://dnbvlefpxymx.com/]dnbvlefpxymx[/link], http://kfonffriqzbg.com/
 
 # Article Taxonomies
 categories:

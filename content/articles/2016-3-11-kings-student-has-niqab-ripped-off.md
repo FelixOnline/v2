@@ -12,8 +12,6 @@ aliases:
  - /news/6020/kings-student-has-niqab-ripped-off
 imported: true
 comments:
- - value: >
-     Sadly, the rise of Islam is going to be an ironic and unfortunate end to the liberal and tolerant Western culture we enjoy today.,Sadly, the rise of Islam is going to be an ironic and unfortunate end to the liberal and tolerant Western culture we enjoy today.,That's very poor behaviour. Even if you disagree with the niqab and everything it represents, you can't force freedom from it on people. Everyone should have the right to wear whatever absurd headgarments they desire.,That's very poor behaviour. Even if you disagree with the niqab and everything it represents, you can't force freedom from it on people. Everyone should have the right to wear whatever absurd headgarments they desire.,How do you work here ? <br>[url=http://albiononlinejoy.blog.com/2016/01/07/making-some-huge-steps-on-albion-online/]Albion Online Power Leveling[/url],How do you work here ? <br>[url=http://albiononlinejoy.blog.com/2016/01/07/making-some-huge-steps-on-albion-online/]Albion Online Power Leveling[/url],If he shows up, we stick with hi
 
 # Article Taxonomies
 categories:

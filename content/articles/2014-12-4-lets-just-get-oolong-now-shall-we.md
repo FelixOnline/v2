@@ -12,8 +12,6 @@ aliases:
  - /food/4993/lets-just-get-oolong-now-shall-we
 imported: true
 comments:
- - value: >
-     cartierbraceletlove It is an inside job. Well said. Am I crazy for trying to reform it from the inside? Most days I think so, but God made me a fighter and reformer so that is what I do. Most days I trust Him for the outcome. Other days I wish He had made me an inventor… <br> replique cartier ballon bleu large [url=http://www.orologipopolari.net/fr/]replique cartier ballon bleu large[/url],That’s a good question actually. If everything reverted, then why did the yen disappear? Oh well, probably better not to think about it too much <br> fake chanel j12 watches [url=http://www.montrefr.ru/]fake chanel j12 watches[/url]
 
 # Article Taxonomies
 categories:

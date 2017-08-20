@@ -12,8 +12,6 @@ aliases:
  - /tech/4840/microsoft-hope-3-is-the-magic-number
 imported: true
 comments:
- - value: >
-     EejUDs uygweadvyyhc, [url=http://boqdpqtxddlh.com/]boqdpqtxddlh[/url], [link=http://dyqpsfeiawui.com/]dyqpsfeiawui[/link], http://ihfspooyyfox.com/
 
 # Article Taxonomies
 categories:

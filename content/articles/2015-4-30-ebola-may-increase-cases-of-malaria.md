@@ -12,8 +12,6 @@ aliases:
  - /news/5473/ebola-may-increase-cases-of-malaria-
 imported: true
 comments:
- - value: >
-     fitflop women's walkstar 3 <br>buy fitflop online singapore http://fitflopssalesingapore.blogspot.com/,fit flops trainers <br>fitflop outlet http://www.australiafitflops.com/,birkenstock sandals sale <br>buy birkenstocks http://birkenstocksaleaustralia.blogspot.com/,christian louboutin booties shoes <br>discount christian louboutin http://canadachristianlouboutin.blogspot.com/,I constantly spent my half an hour to read this blog’s articles or reviews all the time along with a mug of coffee.| <br> faux bague cartier or diamant [url=http://www.bestcalove.ru/fr/best-replica-cartier-love-ring-yellow-gold-set-six-diamonds-b4032400-p776/]faux bague cartier or diamant[/url]
 
 # Article Taxonomies
 categories:

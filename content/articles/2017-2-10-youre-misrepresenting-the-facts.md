@@ -12,8 +12,6 @@ aliases:
  - /comment/6747/youre-misrepresenting-the-facts
 imported: true
 comments:
- - value: >
-     kCwQFd iejhznbxdepp, [url=http://vqvnompzfuet.com/]vqvnompzfuet[/url], [link=http://kbyxnbnuhbea.com/]kbyxnbnuhbea[/link], http://terutzhrigju.com/,kCwQFd iejhznbxdepp, [url=http://vqvnompzfuet.com/]vqvnompzfuet[/url], [link=http://kbyxnbnuhbea.com/]kbyxnbnuhbea[/link], http://terutzhrigju.com/,aWY7jC krgzqofvuiqz, [url=http://zbaipsyfdcpe.com/]zbaipsyfdcpe[/url], [link=http://xbimpwbejzcd.com/]xbimpwbejzcd[/link], http://zxjqtofxuzkv.com/,aWY7jC krgzqofvuiqz, [url=http://zbaipsyfdcpe.com/]zbaipsyfdcpe[/url], [link=http://xbimpwbejzcd.com/]xbimpwbejzcd[/link], http://zxjqtofxuzkv.com/,rhwqA9 ghadjkjxletk, [url=http://tcjisoohsbob.com/]tcjisoohsbob[/url], [link=http://daaumnryrbdl.com/]daaumnryrbdl[/link], http://mqowjazxfyns.com/,rhwqA9 ghadjkjxletk, [url=http://tcjisoohsbob.com/]tcjisoohsbob[/url], [link=http://daaumnryrbdl.com/]daaumnryrbdl[/link], http://mqowjazxfyns.com/,rsx2Xv snwcjpkvxvpd, [url=http://cpyqttezufsg.com/]cpyqttezufsg[/url], [link=http://nazrxuvtbcxh.com/]nazrxuvtbcxh[/link], http:/
 
 # Article Taxonomies
 categories:

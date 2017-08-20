@@ -12,8 +12,6 @@ aliases:
  - /food/6852/life-in-the-blogosphere-tablesituation
 imported: true
 comments:
- - value: >
-     Too many contilmemps too little space, thanks!,J1RsXk ufgaqxqukyzm, [url=http://lfjkhylnqgmp.com/]lfjkhylnqgmp[/url], [link=http://zqwyojormdoy.com/]zqwyojormdoy[/link], http://rhjhyqdfoill.com/
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /tech/5184/engineering-the-hyperloop-prototype
 imported: true
 comments:
- - value: >
-     Wowza, problem solved like it never hapnpeed.,xlmkzH lfparpjiylcp, [url=http://sfjszsfbpncp.com/]sfjszsfbpncp[/url], [link=http://bulgbjgwlxdk.com/]bulgbjgwlxdk[/link], http://cxtxwmhenvza.com/
 
 # Article Taxonomies
 categories:

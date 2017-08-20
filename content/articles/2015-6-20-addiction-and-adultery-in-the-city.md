@@ -12,8 +12,6 @@ aliases:
  - /arts/5646/addiction-and-adultery-in-the-city
 imported: true
 comments:
- - value: >
-     Ysw5lf ljqyhsovwhwc, [url=http://wwbnxvowtler.com/]wwbnxvowtler[/url], [link=http://mtwyykdryvzr.com/]mtwyykdryvzr[/link], http://ssjaarlyqaxg.com/,I adore this site - its so usefull and helpfull <br>nhl 17 coins http://rxaffiliatesforum.com/forum/main-forum/pharm-industry-news-and-events/513-nba-2k17-coins-refurbished-xbox-360-console-what-in-case-you-purchase,I value the info on your web site. Thank you so much!. <br>nba 2k17 coins http://www.cooperativascarabocchio.it/index.php?option=com_ccboard&amp;view=postlist&amp;forum=1&amp;topic=37880
 
 # Article Taxonomies
 categories:

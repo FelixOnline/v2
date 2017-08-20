@@ -12,8 +12,6 @@ aliases:
  - /arts/5457/grand-revelations
 imported: true
 comments:
- - value: >
-     Generic Viagra Generic Viagra cheap Levitra generic cialis 20mg review viagra 100mg review 9-16-2015 cialis dosage time cheap Cialis cialis Belgique Viagra Cialis <br>alfin sildenafil 50 mg 3 day cialis dosage viagra 100mg review honda cialis reviews recreational outreach sildenafil citrate 50mg tab Cialis online Viagra cheap Levitra http://www.viagramedication.com http://www.vgbestp.com http://www.dilesco.com kamagra uk next day cialis buy generic hydrochlorothiazide generic viagra pack viagra 100mg review dodge kamagra effervescent pictures Cialis Buy Tadalafil Cialis Generic ,} <br>nba 2k16 mtcentral http://ijma.org.uk/index.php?do=/blog/54063/the-cheap-nba-2k16-coins-a-baseball-game/,[url=http://flagylantibioticmetronidazole.net/]Buy Flagyl[/url] Tadalafil 20mg Lowest Price http://levitra-20mg-prices.com/,[url=http://flagylantibioticmetronidazole.net/]Flagyl[/url] Cialis http://levitra-20mg-prices.com/,[url=http://flagylantibioticmetronidazole.net/]Flagyl[/url] Cialis For Sale http://levitra-20mg-price
 
 # Article Taxonomies
 categories:

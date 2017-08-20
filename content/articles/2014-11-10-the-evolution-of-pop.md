@@ -12,8 +12,6 @@ aliases:
  - /music/4829/the-evolution-of-pop
 imported: true
 comments:
- - value: >
-     JcBspO jblhxmznzedd, [url=http://riijmxoecjzo.com/]riijmxoecjzo[/url], [link=http://zwlsyogqunpx.com/]zwlsyogqunpx[/link], http://qafxlcbegvrd.com/
 
 # Article Taxonomies
 categories:

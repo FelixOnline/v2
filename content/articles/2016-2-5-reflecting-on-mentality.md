@@ -12,8 +12,6 @@ aliases:
  - /welfare/5886/reflecting-on-mentality
 imported: true
 comments:
- - value: >
-     Dude, right on there brtoher.,m4AYtS twcwwoygoyfn, [url=http://bxqzjplpzdpw.com/]bxqzjplpzdpw[/url], [link=http://euwxvcvjepqq.com/]euwxvcvjepqq[/link], http://vbzjbarbisuv.com/,Minwage IT grunt here, habitually started compiling points of failure. <br> replica cartier ballon bleu diamante [url=http://www.ventemarquemontre.com/it/cartier-ballon-bleu-watch-c88/]replica cartier ballon bleu diamante[/url],How are you, tidy internet site you have got going here <br>fifa 17 http://rumodels.com/models/forum/topic/14809
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /arts/5167/dara-somewhat-lost-in-translation
 imported: true
 comments:
- - value: >
-     fitflops in stores <br>fitflops sale online australia http://www.australiafitflops.com/,louboutin wedges canada <br>cheap christian louboutin http://canadachristianlouboutin.blogspot.com/,louboutin for men <br>cheap christian louboutin canada http://canadachristianlouboutinoutlet.blogspot.com/,[url=http://prednisone-order-20mg.com/]Prednisone[/url] Viagra http://cialis5mg-20mg.com/,[url=http://prednisone-order-20mg.com/]Prednisone 20 Mg[/url] Viagra E Cialis http://cialis5mg-20mg.com/,[url=http://prednisone-order-20mg.com/]Prednisone[/url] Generic Viagra http://cialis5mg-20mg.com/,[url=http://prednisone-order-20mg.com/]Buy Prednisone Without Prescription[/url] Viagra By Post http://cialis5mg-20mg.com/
 
 # Article Taxonomies
 categories:

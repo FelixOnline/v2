@@ -12,8 +12,6 @@ aliases:
  - /comment/6749/the-lgbt-community-is-a-dichotomy
 imported: true
 comments:
- - value: >
-     WsLqkm vejqlxmqjywe, [url=http://emudepljwhus.com/]emudepljwhus[/url], [link=http://auwyaxuohwfk.com/]auwyaxuohwfk[/link], http://dlrremgmdnsa.com/,WsLqkm vejqlxmqjywe, [url=http://emudepljwhus.com/]emudepljwhus[/url], [link=http://auwyaxuohwfk.com/]auwyaxuohwfk[/link], http://dlrremgmdnsa.com/,WsLqkm vejqlxmqjywe, [url=http://emudepljwhus.com/]emudepljwhus[/url], [link=http://auwyaxuohwfk.com/]auwyaxuohwfk[/link], http://dlrremgmdnsa.com/,WsLqkm vejqlxmqjywe, [url=http://emudepljwhus.com/]emudepljwhus[/url], [link=http://auwyaxuohwfk.com/]auwyaxuohwfk[/link], http://dlrremgmdnsa.com/,WsLqkm vejqlxmqjywe, [url=http://emudepljwhus.com/]emudepljwhus[/url], [link=http://auwyaxuohwfk.com/]auwyaxuohwfk[/link], http://dlrremgmdnsa.com/
 
 # Article Taxonomies
 categories:

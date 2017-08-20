@@ -12,8 +12,6 @@ aliases:
  - /travel/5182/is-buying-travel-deals-on-groupon-safe
 imported: true
 comments:
- - value: >
-     Groupon has given me 2 bad experiences. Since the last one I simply refuse any "hotel" deals since I can find cheaper ones or similar ones from searching in discounttravelbooking.com anyway without registering. (give that site a review if you feel up to it). <br> <br>Last time I used grupon for a reservation the hotel never had it and gave us a super bad room.,I will certainly check out the website! And I am so sorry to hear about your experience . Since writing this article I have come into contact with airbnb, which I like significantly better!,ykVLSf oiplzczsuygy, [url=http://rczeizsvmlpf.com/]rczeizsvmlpf[/url], [link=http://fwqmagidjjzs.com/]fwqmagidjjzs[/link], http://zhwyaoavvkdx.com/,C6elzd http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com
 
 # Article Taxonomies
 categories:

@@ -109,7 +109,9 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "imported: true"
   md << "comments:"
   r["comments"].split(/\s+\+\s+/).each do |c|
-    md << " - value: >\n     #{Nokogiri::HTML::DocumentFragment.parse(c).to_s.gsub(/\n+/, "<br>").gsub(/\s+/, " ").gsub(/[^[:print:]]/ , '')}"
+    text = Nokogiri::HTML::DocumentFragment.parse(c).to_s.gsub(/\n+/, "<br>").gsub(/\s+/, " ").gsub(/[^[:print:]]/ , '')
+    next if text.include? "[/url]" # bb code
+    md << " - value: >\n     #{text}"
   end
 
   md << "\n# Article Taxonomies"

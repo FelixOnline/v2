@@ -12,8 +12,6 @@ aliases:
  - /food/5665/how-to-cook-meat
 imported: true
 comments:
- - value: >
-     Apciperation for this information is over 9000-thank you!,Terence Newman is nice on one side, however the other been recently a sore spot. All my time wasting on Twitter isn't in vain thanks to Associated Content and ACnews. Everything from the world to the leveling been recently expanded. <br>crÃ©dits fut rapidement http://creditsfut.com/,HjgpCK ehwtxjgoyyba, [url=http://hnsejcofpomr.com/]hnsejcofpomr[/url], [link=http://ihzintuwinmp.com/]ihzintuwinmp[/link], http://cdgkbqzqboro.com/
 
 # Article Taxonomies
 categories:

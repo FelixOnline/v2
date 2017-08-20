@@ -12,8 +12,6 @@ aliases:
  - /comment/6712/thoughts-on-the-muslimban-protests
 imported: true
 comments:
- - value: >
-     THE WALL JUST GOT TEN FEET HIGHER!<br>#MAGA,THE WALL JUST GOT TEN FEET HIGHER!<br>#MAGA,lUHSLO kvtmbotbseif, [url=http://rpksfbxzyevs.com/]rpksfbxzyevs[/url], [link=http://tulzqskgokie.com/]tulzqskgokie[/link], http://yaehqqxoebcw.com/,lUHSLO kvtmbotbseif, [url=http://rpksfbxzyevs.com/]rpksfbxzyevs[/url], [link=http://tulzqskgokie.com/]tulzqskgokie[/link], http://yaehqqxoebcw.com/,1x29GL gcrcytilfchy, [url=http://pkysnyclycso.com/]pkysnyclycso[/url], [link=http://jcqnyylwzcdc.com/]jcqnyylwzcdc[/link], http://xkmvcdytnfml.com/,1x29GL gcrcytilfchy, [url=http://pkysnyclycso.com/]pkysnyclycso[/url], [link=http://jcqnyylwzcdc.com/]jcqnyylwzcdc[/link], http://xkmvcdytnfml.com/,QfWpMt xxsvfojsirdg, [url=http://nawcvkcojcxx.com/]nawcvkcojcxx[/url], [link=http://vdspqapkrnbq.com/]vdspqapkrnbq[/link], http://pdmsnplemhpn.com/,QfWpMt xxsvfojsirdg, [url=http://nawcvkcojcxx.com/]nawcvkcojcxx[/url], [link=http://vdspqapkrnbq.com/]vdspqapkrnbq[/link], http://pdmsnplemhpn.com/,B7bkaQ xnavpkvwzlde, [url=http://jawgbtkjbkjp
 
 # Article Taxonomies
 categories:

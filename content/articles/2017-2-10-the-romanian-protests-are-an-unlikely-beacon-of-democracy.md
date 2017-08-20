@@ -12,8 +12,6 @@ aliases:
  - /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
 imported: true
 comments:
- - value: >
-     vRe5gP trsdvbdeqdax, [url=http://qpakpmwvjlek.com/]qpakpmwvjlek[/url], [link=http://bzitfdpbwmwa.com/]bzitfdpbwmwa[/link], http://hdbzsyodfsmh.com/,vRe5gP trsdvbdeqdax, [url=http://qpakpmwvjlek.com/]qpakpmwvjlek[/url], [link=http://bzitfdpbwmwa.com/]bzitfdpbwmwa[/link], http://hdbzsyodfsmh.com/
 
 # Article Taxonomies
 categories:

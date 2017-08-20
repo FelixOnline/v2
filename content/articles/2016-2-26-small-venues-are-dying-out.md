@@ -12,8 +12,6 @@ aliases:
  - /music/5972/small-venues-are-dying-out
 imported: true
 comments:
- - value: >
-     YqqSvg qecpzuptmjgi, [url=http://kqlsonarrytu.com/]kqlsonarrytu[/url], [link=http://adrpotzhiwyq.com/]adrpotzhiwyq[/link], http://ixyfbufrczyt.com/
 
 # Article Taxonomies
 categories:

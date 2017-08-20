@@ -12,8 +12,6 @@ aliases:
  - /news/6808/are-sweet-potato-fries-really-worth-it
 imported: true
 comments:
- - value: >
-     cufIv9 fwrbjspkitsq, [url=http://qryurtpfqqhu.com/]qryurtpfqqhu[/url], [link=http://zebnuftscbya.com/]zebnuftscbya[/link], http://eemukhdcydvo.com/,r4B3Uv nxhgsrjxsfcf, [url=http://hvdjjwxexrsp.com/]hvdjjwxexrsp[/url], [link=http://sstrcfevyhdx.com/]sstrcfevyhdx[/link], http://mqzmjtusltdg.com/
 
 # Article Taxonomies
 categories:

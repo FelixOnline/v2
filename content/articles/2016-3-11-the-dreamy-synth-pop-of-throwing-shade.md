@@ -12,8 +12,6 @@ aliases:
  - /music/6033/the-dreamy-synth-pop-of-throwing-shade
 imported: true
 comments:
- - value: >
-     You are so cute. <br>[url=http://www.indyarocks.com/blog/2675554/Blade--Soul-Class-Discussoins]Cheap Blade And Soul Gold[/url],You always know the right thing to say. <br>[url=https://bladeandsoulvip.wordpress.com/2016/03/12/a-sun-for-fms-plz-fm-in-blade-soul/]Blade And Soul Power leveling[/url],nice going! <br>[url=http://imgfave.com/view/6791459?uploaded_by=551572]tos cosplay[/url],That's an inoeingus way of thinking about it.
 
 # Article Taxonomies
 categories:

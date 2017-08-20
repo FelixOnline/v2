@@ -12,8 +12,6 @@ aliases:
  - /comment/6787/putin-has-a-huge-power-hard-on
 imported: true
 comments:
- - value: >
-     SqAvxF hqkaaunrjlze, [url=http://nkvuuwdyaalm.com/]nkvuuwdyaalm[/url], [link=http://cmommhesukie.com/]cmommhesukie[/link], http://fxgedlcjxiqi.com/,hmm...<br>you, westerners, either due to a malicious intents, or as practical joke, or due to naivete <br>are blowing things out of proportions in your thinking about russian international posture:<br>unlike america which is trying to play a role of the world's policeman (why else would it stations its troops in 147 countries?)<br>nor russia does want to conquer the world, nor do we have such a capacity in the first place - so, all your talk about how aggressive russia and whatnot is off the mark<br>what we, as a great power (and we are great by definition: sheer size, largest nuclear arsenal, a seat on the UNSC), want is be secure and ensure security of our legitimate periphery<br>thus, what is happening near russian borders should NOT be any of americans (who live on another continent) business
 
 # Article Taxonomies
 categories:

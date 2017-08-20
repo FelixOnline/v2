@@ -12,8 +12,6 @@ aliases:
  - /comment/589/new-year-same-old-you-
 imported: true
 comments:
- - value: >
-     Thank you, very nice post.,That's way the bestest asnewr so far!,E4bbaz , [url=http://dcbzzxxtiwjq.com/]dcbzzxxtiwjq[/url], [link=http://ziinscbjmtln.com/]ziinscbjmtln[/link], http://ebwcrpdrjlss.com/,qQKupw <a href="http://yzhtbqmbxtpy.com/">yzhtbqmbxtpy</a>
 
 # Article Taxonomies
 categories:

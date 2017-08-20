@@ -12,8 +12,6 @@ aliases:
  - /sport/5764/a-phaal-from-grace
 imported: true
 comments:
- - value: >
-     You 're so smart. <br>r4pg https://dzone.com/users/2643079/r4pg.html,I let myself become a fool . <br>[url=http://www.pal.am/events.php?action=show_info&amp;event_id=28568]Cheap BNS Gold[/url],To hell with that bitch! <br>[url=http://www.divorce360.com/blogs/2016/1/12/dongdongxu/the-form-of-albion-online-blog-57905]buy Albion Online Gold[/url],I will be there for you. <br>[url=http://ameblo.jp/fifa15coinsfans/entry-12115478299.html]Cheap Albion Online Gold[/url],That's not the point. <br>[url=http://www.sitedossier.com/site/www.r4pg.com]R4PG[/url]
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /travel/5606/packing-tips-for-budget-airline
 imported: true
 comments:
- - value: >
-     I create a leave a response each time I appreciate a article on a site or I have something to add to the conversation. Usually it is a result of the passion displayed in the article I looked at. And after this post %BLOG_TITLE%. I was excited enough to leave a thought ;) I do have a couple of questions for you if it's okay. Is it just me or does it appear like some of the comments come across as if they are left by brain dead folks? :-P And, if you are writing on other places, I would like to follow you. Would you list all of your social sites like your Facebook page, twitter feed, or linkedin profile? <br>canada goose d'alpago bomber http://www.merchantservicesleicester.co.uk/?uk-canada-goose-d'alpago-bomber-29081.html,lIcNjK njyupuppkfgb, [url=http://emubukobhlto.com/]emubukobhlto[/url], [link=http://nnhqpuytwwgu.com/]nnhqpuytwwgu[/link], http://nizlaqgnssao.com/
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /games/4786/gone-home-a-homecoming-simulator
 imported: true
 comments:
- - value: >
-     eHi2x7 gdqjggtidvzx, [url=http://yytzdwjpeagl.com/]yytzdwjpeagl[/url], [link=http://jvmpjekwnbsz.com/]jvmpjekwnbsz[/link], http://bizugktpwhco.com/
 
 # Article Taxonomies
 categories:

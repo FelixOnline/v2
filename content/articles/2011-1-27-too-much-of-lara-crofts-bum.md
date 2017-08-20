@@ -12,8 +12,6 @@ aliases:
  - /games/694/too-much-of-lara-crofts-bum
 imported: true
 comments:
- - value: >
-     LOL, funny article,I play 640 by 480 too.,giggidy...,Maybe the new view just takes some getting used to, like most things in life? Good article anyway.,Thanks for the insight. It bignrs light into the dark!,,bCZnnJ , [url=http://zltrgmhnefun.com/]zltrgmhnefun[/url], [link=http://joisrsilzylj.com/]joisrsilzylj[/link], http://qwtcnjvxivtl.com/,SBXz5v <a href="http://mbjyplzrhprb.com/">mbjyplzrhprb</a>
 
 # Article Taxonomies
 categories:

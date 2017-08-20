@@ -12,8 +12,6 @@ aliases:
  - /news/5812/ibm-in-sexism-row-over-hackahairdryer
 imported: true
 comments:
- - value: >
-     You are so cute. <br>Cheap Blade And Soul Gold http://msnho.com/blog/tamamshamoon/four-great-guardians-blade-soul,I'll be there for you . <br>[url=http://www.dailystrength.org/people/3456231/journal]Blade &amp; Soul Power leveling[/url]
 
 # Article Taxonomies
 categories:

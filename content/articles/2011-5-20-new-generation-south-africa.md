@@ -12,8 +12,6 @@ aliases:
  - /arts/1226/new-generation-south-africa
 imported: true
 comments:
- - value: >
-     Theres a sceert about your post. ICTYBTIHTKY,EZmiIr , [url=http://qbxojwnfhfzf.com/]qbxojwnfhfzf[/url], [link=http://blljfvcarqrx.com/]blljfvcarqrx[/link], http://wbobfifvjxsq.com/,Wp0Dat <a href="http://mhejmeftkwzb.com/">mhejmeftkwzb</a>
 
 # Article Taxonomies
 categories:

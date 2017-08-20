@@ -12,8 +12,6 @@ aliases:
  - /travel/5399/working-holiday---the-substainable-and-immersive-way-to-travel
 imported: true
 comments:
- - value: >
-     Aqi2tv ziuswnnskueq, [url=http://asnkjguxnypx.com/]asnkjguxnypx[/url], [link=http://bxiorsinpujz.com/]bxiorsinpujz[/link], http://hdmwkaeermnz.com/
 
 # Article Taxonomies
 categories:

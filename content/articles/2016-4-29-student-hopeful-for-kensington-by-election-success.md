@@ -12,8 +12,6 @@ aliases:
  - /news/6086/student-hopeful-for-kensington-by-election-success
 imported: true
 comments:
- - value: >
-     It's all ahout cheap NBA Jerseys click to view <br>From : Wholesale Jerseys,This guy would not be a good councillor. He is attention-seeking, and is really only doing this for more of that - similar to his lying articles in felix over the years that were used to draw attention to him.,v5vwpH nzbgocukbymu, [url=http://bwvadznnjyfe.com/]bwvadznnjyfe[/url], [link=http://ojkuxcjljuwg.com/]ojkuxcjljuwg[/link], http://wqwuljgqwxja.com/
 
 # Article Taxonomies
 categories:

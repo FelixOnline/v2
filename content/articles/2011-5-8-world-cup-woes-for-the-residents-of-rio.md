@@ -12,8 +12,6 @@ aliases:
  - /travel/1179/world-cup-woes-for-the-residents-of-rio
 imported: true
 comments:
- - value: >
-     Good point. I hadn't toghhut about it quite that way. :),3Pgyna , [url=http://ozrfecoywdsz.com/]ozrfecoywdsz[/url], [link=http://simxsmzrcmyv.com/]simxsmzrcmyv[/link], http://dbqocfiqpyqz.com/
 
 # Article Taxonomies
 categories:

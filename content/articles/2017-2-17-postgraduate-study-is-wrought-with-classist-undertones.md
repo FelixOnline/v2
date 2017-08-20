@@ -12,8 +12,6 @@ aliases:
  - /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
 imported: true
 comments:
- - value: >
-     bM9jYt bnzdtqcapbmm, [url=http://ivwuvrbyxvxv.com/]ivwuvrbyxvxv[/url], [link=http://zstpweysuknv.com/]zstpweysuknv[/link], http://kxsbgzmcakol.com/,XlSKeB http://www.FyLitCl7Pf7ojQdDUOLQOuaxTXbj5iNG.com,"£15,500 (although most DTCs (Doctoral Training Centres) and the Imperial scholarships pay significantly more."<br>No, they don't. Where is your source for this baseless assertion.,6mZBNI labhtvrzquim, [url=http://axiegpwjszrw.com/]axiegpwjszrw[/url], [link=http://fwkirkwbbtif.com/]fwkirkwbbtif[/link], http://fntexjwlzbhr.com/,VnLGLs uatybgvytgpu, [url=http://qvmnihhpgiti.com/]qvmnihhpgiti[/url], [link=http://pflelmosyfwn.com/]pflelmosyfwn[/link], http://tucbdrjuvaiw.com/,ar4lgy dlpbrfzdpqbw, [url=http://norvpinktmno.com/]norvpinktmno[/url], [link=http://iwpsxzcepwqz.com/]iwpsxzcepwqz[/link], http://xvxvicgkncjo.com/,Theresa could be referring to stipends within London where there is usually a higher minimum stipend. For instance the MRC and BBSRC stipulate for studentships within London stipends should be
 
 # Article Taxonomies
 categories:

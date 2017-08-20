@@ -12,8 +12,6 @@ aliases:
  - /news/115/worth-the-effort
 imported: true
 comments:
- - value: >
-     I wish Elspeth Farrar's thought and Opinion about graduates with 2.1 or 2.2 degree's chances of getting emeployed is passed across to some companies in Nigeria requesting for only 2.1 and above. ,What a joy to find such clear thinking. Tahkns for posting!,TAkyrk , [url=http://esycvfztubch.com/]esycvfztubch[/url], [link=http://rkovlqmhxmpt.com/]rkovlqmhxmpt[/link], http://lrxilnvsmhwh.com/
 
 # Article Taxonomies
 categories:

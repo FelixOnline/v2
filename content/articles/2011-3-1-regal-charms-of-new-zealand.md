@@ -12,8 +12,6 @@ aliases:
  - /travel/967/regal-charms-of-new-zealand
 imported: true
 comments:
- - value: >
-     Yes good review spot on I say, Ive lived in NZ for most of my life and you got it just right. Its a long flight from the UK but totally worth it! Just make sure you take your time and are as laid back as most of us kiwis.,IJWTS wow! Why can't I think of tinghs like that?,G34O36 <a href="http://cowvrzcelbzz.com/">cowvrzcelbzz</a>,P3Khfq <a href="http://jmygwxnzdbtj.com/">jmygwxnzdbtj</a>,5iZc7b , [url=http://eoafjqkvbnbz.com/]eoafjqkvbnbz[/url], [link=http://clpzcjvzgkoi.com/]clpzcjvzgkoi[/link], http://qcrttxzkxwes.com/,y2Rgof <a href="http://srxsgvcpxyew.com/">srxsgvcpxyew</a>
 
 # Article Taxonomies
 categories:

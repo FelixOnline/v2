@@ -12,8 +12,6 @@ aliases:
  - /arts/6133/people-places-and-things-
 imported: true
 comments:
- - value: >
-     qGdqBj neanmwuhofna, [url=http://ydnohrurihso.com/]ydnohrurihso[/url], [link=http://ynsouxuqaofp.com/]ynsouxuqaofp[/link], http://lulyazpqsbls.com/
 
 # Article Taxonomies
 categories:

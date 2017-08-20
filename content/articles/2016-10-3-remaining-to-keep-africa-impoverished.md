@@ -12,8 +12,6 @@ aliases:
  - /comment/6306/remaining-to-keep-africa-impoverished
 imported: true
 comments:
- - value: >
-     Dans ce site, vous serez en mesure d'acheter de la collection de repliques de[url=http://www.crests.com]http://www.crests.org[/url][url=http://www.crests.com/anniversary_wedding_double_crests.htm]http://www.crests.org/anniversary_wedding_double_crests.htm[/url][url=http://www.crests.com/blazon_of_arms.htm]http://www.crests.org/blazon_of_arms.htm[/url][url=http://www.crests.com/coat_of_arms.htm]http://www.crests.org/coat_of_arms.htm[/url][url=http://www.crests.com/crest_gifts.htm]http://www.crests.org/crest_gifts.htm[/url][url=http://www.crests.com/crest_or_coat_of_arms.htm]http://www.crests.org/crest_or_coat_of_arms.htm[/url][url=http://www.crests.com/crest_over_helmet.htm]http://www.crests.org/crest_over_helmet.htm[/url][url=http://www.crests.com/crest_specials.htm]http://www.crests.org/crest_specials.htm[/url][url=http://www.crests.com/family_crests.htm]http://www.crests.org/family_crests.htm[/url][url=http://www.crests.com/family_reunions.htm]http://www.crests.org/family_reunions.htm[/url][url=http://www.c
 
 # Article Taxonomies
 categories:

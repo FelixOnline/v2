@@ -12,8 +12,6 @@ aliases:
  - /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
 imported: true
 comments:
- - value: >
-     Your answer lifts the inclleigente of the debate.,Leave me alone ! <br>Blade And Soul Items http://forums.theeca.com/node/1042074,You are the savior of my life. <br>[url=http://uffxiv.bloguez.com/uffxiv/6072736/The_Tier_PvP_classes_of_Blade_Soul]BNS Gold[/url],Hello Web Admin, I noticed that your On-Page SEO is is missing a few factors, for one you do not use all three H tags in your post, also I notice that you are not using bold or italics properly in your SEO optimization. On-Page SEO means more now than ever since the new Google update: Panda. No longer are backlinks and simply pinging or sending out a RSS feed the key to getting Google PageRank or Alexa Rankings, You now NEED On-Page SEO. So what is good On-Page SEO?First your keyword must appear in the title.Then it must appear in the URL.You have to optimize your keyword and make sure that it has a nice keyword density of 3-5% in your article with relevant LSI (Latent Semantic Indexing). Then you should spread all H1,H2,H3 tags in your article.Your Keyword s
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /comment/496/flee-flee-the-st-john-ambulance-service
 imported: true
 comments:
- - value: >
-     Youve got it in one. Coudlnt have put it better.,AhlXrI , [url=http://ypcuiifeorzk.com/]ypcuiifeorzk[/url], [link=http://dezsluytbehh.com/]dezsluytbehh[/link], http://khvmlmkzlttx.com/
 
 # Article Taxonomies
 categories:

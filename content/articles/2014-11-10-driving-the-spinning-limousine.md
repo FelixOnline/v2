@@ -12,8 +12,6 @@ aliases:
  - /games/4828/driving-the-spinning-limousine
 imported: true
 comments:
- - value: >
-     eFXGPY lgfrkcnvyijd, [url=http://gmtlhgtlodcl.com/]gmtlhgtlodcl[/url], [link=http://supqoordqmye.com/]supqoordqmye[/link], http://wmybbvexxotu.com/
 
 # Article Taxonomies
 categories:

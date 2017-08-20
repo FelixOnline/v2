@@ -12,8 +12,6 @@ aliases:
  - /comment/1160/take-up-arms-to-defend-freedom
 imported: true
 comments:
- - value: >
-     Now I feel stpiud. That's cleared it up for me,DVx6Fz , [url=http://rozumetmzeuy.com/]rozumetmzeuy[/url], [link=http://cdinsaukjpei.com/]cdinsaukjpei[/link], http://gudnaczsbxgz.com/
 
 # Article Taxonomies
 categories:

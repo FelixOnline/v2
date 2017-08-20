@@ -12,8 +12,6 @@ aliases:
  - /comment/5832/the-royals-should-pay-for-themselves
 imported: true
 comments:
- - value: >
-     l0WsvD mkimlljmijsg, [url=http://wviiidswnlsh.com/]wviiidswnlsh[/url], [link=http://jkwnblcbdapp.com/]jkwnblcbdapp[/link], http://curwykmkgxlb.com/,Very interesting article on Royals. However, you could do worse than investigate the massive waste of departments such as MOD, DWP, Defra, HMRC. £35bn wasted on scrapping projects such as Nimrod. Royals will always be an easy target. Government has wasted trillions over last 30-40 years. And the you have the EU which has been responsible for our emptied fisheries, mass immigration and food mountains. For every £10 we pay in we get £5 back from EU. We are now 1.5 trillion in debt. Not decorating the palace makes no difference.,Very interesting article.Wondering how Princesses Beatrice &amp; Eugene manages their 16th holiday in 13 months.I think their all out skiing in Verbier at their 15 million pound chalet that Prince Andrew their Dad bought.Prince Andrew our Grand Old Duke of York.Did he visit his Dukedom to see how his Royals subjects coped with recent floods &amp;
 
 # Article Taxonomies
 categories:

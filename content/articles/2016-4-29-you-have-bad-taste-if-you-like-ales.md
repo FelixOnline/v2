@@ -12,8 +12,6 @@ aliases:
  - /comment/6096/you-have-bad-taste-if-you-like-ales
 imported: true
 comments:
- - value: >
-     Calm down Mario.,rttPAa http://www.y7YwKx7Pm6OnyJvolbcwrWdoEnRF29pb.com,dujGN6 psjoraghhivh, [url=http://bdtjyplvinha.com/]bdtjyplvinha[/url], [link=http://ypeimnxypyzw.com/]ypeimnxypyzw[/link], http://ubqijjigakpu.com/,Wow! This blog looks absolutely like my dated one! It's on a totally remarkable field but it has quite much the in any event layout and design. Super creme de la creme of colors! <br>http://www.skilledpills.com/topical-treatments-for-ED.php ,http://flagylantibioticmetronidazole.net/ - Flagyl Online Tadalafil 20mg Lowest Price http://levitra-20mg-prices.com/,http://flagylantibioticmetronidazole.net/ - Flagyl Cialis For Sale http://levitra-20mg-prices.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-generic-cialis.net.ankor http://prednisone-20mg-buy.com/,http://cialis-20mg-lowestprice.org/ - cialis-20mg-lowestprice.org.ankor 5mg-gene
 
 # Article Taxonomies
 categories:

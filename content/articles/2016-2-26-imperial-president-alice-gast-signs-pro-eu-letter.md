@@ -12,8 +12,6 @@ aliases:
  - /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
 imported: true
 comments:
- - value: >
-     The Union mustn't pander to foreign members in potential campaigns or stances. They don't have the vote; the Union does not exist to lobby its own members, even if that were the behest of other members.,The Union mustn't pander to foreign members in potential campaigns or stances. They don't have the vote; the Union does not exist to lobby its own members, even if that were the behest of other members.,Related, she also wrote a letter to The Economist, which was published this week (before Felix went to press, I guess?), which is also anti-Brexit.<br>http://www.economist.com/news/letters/21693550-letters-editor,Related, she also wrote a letter to The Economist, which was published this week (before Felix went to press, I guess?), which is also anti-Brexit.<br>http://www.economist.com/news/letters/21693550-letters-editor,it's very helpful for me personally searching on this site! <br>[url=http://www.indyarocks.com/blog/2685601/How-do-you-feel-about-Warlock-in-Blade--Soul]Buy BNS Gold[/url],it's very helpful for me pe
 
 # Article Taxonomies
 categories:

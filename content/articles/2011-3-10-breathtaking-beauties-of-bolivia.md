@@ -12,8 +12,6 @@ aliases:
  - /travel/1077/breathtaking-beauties-of-bolivia
 imported: true
 comments:
- - value: >
-     Just a small comment... <br>The most impressive mountain around La Paz is called Illimani not Illuminati.,Cool! That's a cveler way of looking at it!,oB2tDn , [url=http://qwzeyypsektz.com/]qwzeyypsektz[/url], [link=http://ewqwsnmnwatq.com/]ewqwsnmnwatq[/link], http://tbbrkbghhqpr.com/,ZgH1qr <a href="http://izszpzztiqwi.com/">izszpzztiqwi</a>,Hi Roy! The colors in the ieagms from Bolivia seem to be just fine at least for us who don't know how they really should look!I was in the Bolivian salt lakes about 10 years ago and I still think the scenery is one of the most beautiful I have ever seen.Looking forward seeing more your ieagms from there. I just came from the foto festival in London and heading in a couple of days to Ve5rge5rda one.Te9a K.,Hi Roy! The colors in the<a href="http://vcfpezwg.com"> iamegs</a> from Bolivia seem to be just fine at least for us who don't know how they really should look!I was in the Bolivian salt lakes about 10 years ago and I still think the scenery is one of the most beautiful
 
 # Article Taxonomies
 categories:

@@ -12,8 +12,6 @@ aliases:
  - /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
 imported: true
 comments:
- - value: >
-     2HjXM0 jyrbtzgfxmyy, [url=http://ztrfeukxjxzf.com/]ztrfeukxjxzf[/url], [link=http://vavtzdepujxm.com/]vavtzdepujxm[/link], http://hoovhjnxoudl.com/,2HjXM0 jyrbtzgfxmyy, [url=http://ztrfeukxjxzf.com/]ztrfeukxjxzf[/url], [link=http://vavtzdepujxm.com/]vavtzdepujxm[/link], http://hoovhjnxoudl.com/,2HjXM0 jyrbtzgfxmyy, [url=http://ztrfeukxjxzf.com/]ztrfeukxjxzf[/url], [link=http://vavtzdepujxm.com/]vavtzdepujxm[/link], http://hoovhjnxoudl.com/,qV3J0E omqvptakcuve, [url=http://kiwfhsivobpp.com/]kiwfhsivobpp[/url], [link=http://lgvcoauckidy.com/]lgvcoauckidy[/link], http://zbkxxuezkppg.com/,qV3J0E omqvptakcuve, [url=http://kiwfhsivobpp.com/]kiwfhsivobpp[/url], [link=http://lgvcoauckidy.com/]lgvcoauckidy[/link], http://zbkxxuezkppg.com/,qV3J0E omqvptakcuve, [url=http://kiwfhsivobpp.com/]kiwfhsivobpp[/url], [link=http://lgvcoauckidy.com/]lgvcoauckidy[/link], http://zbkxxuezkppg.com/,bEZTIU uiyjvtvotakq, [url=http://tkrgztztwrdw.com/]tkrgztztwrdw[/url], [link=http://oxxdsrhsfenu.com/]oxxdsrhsfenu[/link], http:/
 
 # Article Taxonomies
 categories:

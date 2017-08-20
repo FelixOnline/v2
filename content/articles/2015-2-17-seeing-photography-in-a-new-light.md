@@ -12,8 +12,6 @@ aliases:
  - /arts/5265/seeing-photography-in-a-new-light
 imported: true
 comments:
- - value: >
-     TYktNY yiybzulegala, [url=http://mnrpnmxnxfaf.com/]mnrpnmxnxfaf[/url], [link=http://ncghthbwdlzl.com/]ncghthbwdlzl[/link], http://vgqnshtjlxfz.com/
 
 # Article Taxonomies
 categories:
