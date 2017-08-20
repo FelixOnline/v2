@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Testing multiple authors
 date: "2011-03-07 22:46:26 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "1047"

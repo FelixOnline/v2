@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If there is one thing the our Union has got right is its ability to generate endless of amounts bureaucracy and suffer a constant stream of changing individuals filling roles without much of an idea of what they’re supposed to be doing or even being qualified to complete their role.
 date: "2013-11-04 13:44:44 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "3982"

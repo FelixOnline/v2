@@ -4,6 +4,7 @@ title: >
 subtitle: >
   4 games you have to play before 2016, with GIFs
 date: "2015-12-14 16:16:46 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "5817"

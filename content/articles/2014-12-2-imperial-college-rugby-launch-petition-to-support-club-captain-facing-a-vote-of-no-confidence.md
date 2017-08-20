@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Vote of no confidence to take place at Imperial College Union Council next Tuesday
 date: "2014-12-02 15:22:44 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "4980"

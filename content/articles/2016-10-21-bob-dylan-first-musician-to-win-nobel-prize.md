@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dylan won the Nobel Prize for Literature last week, the first musician to win. Adam Gellatly writes why Dylan deserves to win, and the impact that the songwriter has had on him.
 date: "2016-10-21 12:24:54 +0100"
+draft: true
 
 # Attributes from Felix Online V1
 id: "6343"

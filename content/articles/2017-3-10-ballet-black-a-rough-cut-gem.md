@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ballet Black will return to London on 1st April as part of the Barbican on Broadway programme, which runs from 31st March – 1st April
 date: "2017-03-10 13:44:42 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "6876"

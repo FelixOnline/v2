@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Despite a strong performance from the central cast, Black Mass is little more than a competent crime drama
 date: "2015-12-06 14:14:38 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "5800"

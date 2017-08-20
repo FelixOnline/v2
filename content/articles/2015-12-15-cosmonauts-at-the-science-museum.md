@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Celebrating the birth of the space age
 date: "2015-12-15 13:11:24 +0000"
+draft: true
 
 # Attributes from Felix Online V1
 id: "5823"

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Boat Club show their worth at BUCS Regatta
 date: "2011-05-20 02:54:36 +0100"
+draft: true
 
 # Attributes from Felix Online V1
 id: "1213"

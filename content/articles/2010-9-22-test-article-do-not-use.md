@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Test article - do not use!
 date: "2010-09-22 13:18:32 +0100"
+draft: true
 
 # Attributes from Felix Online V1
 id: "158"
