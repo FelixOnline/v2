@@ -20,6 +20,7 @@ tags:
  - news
  - imported
  - image
+ - multi-author
 authors:
  - mjj15
  - so515

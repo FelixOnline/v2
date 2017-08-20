@@ -20,6 +20,7 @@ tags:
  - arts
  - imported
  - image
+ - multi-author
 authors:
  - adam.gellatly14
  - aib116

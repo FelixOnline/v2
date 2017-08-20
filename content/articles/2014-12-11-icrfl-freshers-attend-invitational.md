@@ -20,6 +20,7 @@ tags:
  - sport
  - imported
  - image
+ - multi-author
 authors:
  - aer11
  - cj914

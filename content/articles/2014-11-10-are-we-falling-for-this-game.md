@@ -20,6 +20,7 @@ tags:
  - games
  - imported
  - image
+ - multi-author
 authors:
  - hl5714
  - ps3110

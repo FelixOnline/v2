@@ -20,6 +20,7 @@ tags:
  - sport
  - imported
  - image
+ - multi-author
 authors:
  - as3509
  - felix

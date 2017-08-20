@@ -19,6 +19,7 @@ categories:
 tags:
  - politics
  - imported
+ - multi-author
 authors:
  - jal08
  - jr1911

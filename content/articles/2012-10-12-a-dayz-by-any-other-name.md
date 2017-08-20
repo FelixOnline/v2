@@ -19,6 +19,7 @@ categories:
 tags:
  - games
  - imported
+ - multi-author
 authors:
  - felix
  - rw507

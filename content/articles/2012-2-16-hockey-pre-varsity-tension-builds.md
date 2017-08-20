@@ -20,6 +20,7 @@ tags:
  - sport
  - imported
  - image
+ - multi-author
 authors:
  - jzy08
  - sjw209

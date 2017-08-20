@@ -20,6 +20,7 @@ tags:
  - sport
  - imported
  - image
+ - multi-author
 authors:
  - jb2013
  - ps3110

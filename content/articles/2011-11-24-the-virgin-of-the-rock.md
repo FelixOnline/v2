@@ -20,6 +20,7 @@ tags:
  - business
  - imported
  - image
+ - multi-author
 authors:
  - pk1811
  - rv108

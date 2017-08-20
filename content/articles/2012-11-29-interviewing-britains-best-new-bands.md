@@ -19,6 +19,7 @@ categories:
 tags:
  - music
  - imported
+ - multi-author
 authors:
  - mum09
  - tna08

@@ -19,6 +19,7 @@ categories:
 tags:
  - music
  - imported
+ - multi-author
 authors:
  - fmusic
  - nn1209

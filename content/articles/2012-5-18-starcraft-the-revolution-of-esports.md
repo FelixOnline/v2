@@ -20,6 +20,7 @@ tags:
  - games
  - imported
  - image
+ - multi-author
 authors:
  - cxy10
  - felix

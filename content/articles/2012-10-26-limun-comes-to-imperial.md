@@ -20,6 +20,7 @@ tags:
  - news
  - imported
  - image
+ - multi-author
 authors:
  - fh1009
  - tna08

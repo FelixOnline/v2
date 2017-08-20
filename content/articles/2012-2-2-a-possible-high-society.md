@@ -20,6 +20,7 @@ tags:
  - comment
  - imported
  - image
+ - multi-author
 authors:
  - rjd08
  - sjw209

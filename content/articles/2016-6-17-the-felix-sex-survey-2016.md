@@ -20,6 +20,7 @@ tags:
  - features
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - ygr12

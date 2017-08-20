@@ -20,6 +20,7 @@ tags:
  - news
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - lc107

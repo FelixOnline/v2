@@ -20,6 +20,7 @@ tags:
  - comment
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - mc4509

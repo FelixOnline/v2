@@ -20,6 +20,7 @@ tags:
  - arts
  - imported
  - image
+ - multi-author
 authors:
  - bwh12
  - ff712

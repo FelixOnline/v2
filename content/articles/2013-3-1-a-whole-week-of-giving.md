@@ -20,6 +20,7 @@ tags:
  - news
  - imported
  - image
+ - multi-author
 authors:
  - dmg11
  - tna08

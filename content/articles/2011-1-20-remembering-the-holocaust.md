@@ -19,6 +19,7 @@ categories:
 tags:
  - politics
  - imported
+ - multi-author
 authors:
  - al3110
  - felix

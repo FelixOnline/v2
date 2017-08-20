@@ -23,6 +23,7 @@ tags:
  - imported
  - image
  - imported_comments
+ - multi-author
 authors:
  - nm406
  - pk1811

@@ -20,6 +20,7 @@ tags:
  - travel
  - imported
  - image
+ - multi-author
 authors:
  - ps3110
  - ync111

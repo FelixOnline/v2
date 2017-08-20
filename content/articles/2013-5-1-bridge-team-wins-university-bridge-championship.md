@@ -20,6 +20,7 @@ tags:
  - sport
  - imported
  - image
+ - multi-author
 authors:
  - js2207
  - tna08

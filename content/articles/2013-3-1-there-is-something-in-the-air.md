@@ -23,6 +23,7 @@ tags:
  - imported
  - image
  - imported_comments
+ - multi-author
 authors:
  - cmt09
  - tna08

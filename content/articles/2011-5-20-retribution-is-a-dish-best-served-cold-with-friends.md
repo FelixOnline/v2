@@ -20,6 +20,7 @@ tags:
  - games
  - imported
  - image
+ - multi-author
 authors:
  - sjw209
  - tn509

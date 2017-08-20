@@ -19,6 +19,7 @@ categories:
 tags:
  - science
  - imported
+ - multi-author
 authors:
  - mc4509
  - ps3110

@@ -23,6 +23,7 @@ tags:
  - imported
  - image
  - imported_comments
+ - multi-author
 authors:
  - ck2513
  - ps3110

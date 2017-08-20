@@ -19,6 +19,7 @@ categories:
 tags:
  - sport
  - imported
+ - multi-author
 authors:
  - felix
  - jn104

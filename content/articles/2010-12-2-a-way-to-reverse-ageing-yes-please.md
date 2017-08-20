@@ -22,6 +22,7 @@ tags:
  - comment
  - imported
  - imported_comments
+ - multi-author
 authors:
  - felix
  - ma1307

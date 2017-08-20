@@ -20,6 +20,7 @@ tags:
  - games
  - imported
  - image
+ - multi-author
 authors:
  - eb1710
  - pk1811

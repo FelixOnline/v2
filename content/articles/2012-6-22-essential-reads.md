@@ -19,6 +19,7 @@ categories:
 tags:
  - fashion
  - imported
+ - multi-author
 authors:
  - ay310
  - felix

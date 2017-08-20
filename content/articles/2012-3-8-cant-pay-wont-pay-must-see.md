@@ -19,6 +19,7 @@ categories:
 tags:
  - arts
  - imported
+ - multi-author
 authors:
  - ams111
  - lap08

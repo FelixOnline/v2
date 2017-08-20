@@ -20,6 +20,7 @@ tags:
  - arts
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - ts3110

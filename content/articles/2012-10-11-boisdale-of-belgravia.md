@@ -20,6 +20,7 @@ tags:
  - food
  - imported
  - image
+ - multi-author
 authors:
  - cb403
  - felix

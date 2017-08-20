@@ -19,6 +19,7 @@ categories:
 tags:
  - games
  - imported
+ - multi-author
 authors:
  - rw507
  - tna08

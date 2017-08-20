@@ -20,6 +20,7 @@ tags:
  - books
  - imported
  - image
+ - multi-author
 authors:
  - ad4010
  - tna08

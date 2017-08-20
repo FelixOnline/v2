@@ -19,6 +19,7 @@ categories:
 tags:
  - music
  - imported
+ - multi-author
 authors:
  - jal08
  - th2212

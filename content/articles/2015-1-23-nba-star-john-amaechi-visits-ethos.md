@@ -19,6 +19,7 @@ categories:
 tags:
  - news
  - imported
+ - multi-author
 authors:
  - cac111
  - kmw13

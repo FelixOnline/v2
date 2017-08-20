@@ -20,6 +20,7 @@ tags:
  - comment
  - imported
  - image
+ - multi-author
 authors:
  - mc4509
  - wsp10

@@ -20,6 +20,7 @@ tags:
  - food
  - imported
  - image
+ - multi-author
 authors:
  - dhl106
  - felix

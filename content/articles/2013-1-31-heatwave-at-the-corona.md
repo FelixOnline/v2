@@ -20,6 +20,7 @@ tags:
  - science
  - imported
  - image
+ - multi-author
 authors:
  - lap08
  - pd111

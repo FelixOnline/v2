@@ -20,6 +20,7 @@ tags:
  - travel
  - imported
  - image
+ - multi-author
 authors:
  - skw10
  - tna08

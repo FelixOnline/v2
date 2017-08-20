@@ -19,6 +19,7 @@ categories:
 tags:
  - food
  - imported
+ - multi-author
 authors:
  - ost09
  - pk1811

@@ -20,6 +20,7 @@ tags:
  - comment
  - imported
  - image
+ - multi-author
 authors:
  - jal08
  - pa07

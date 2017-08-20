@@ -20,6 +20,7 @@ tags:
  - comment
  - imported
  - image
+ - multi-author
 authors:
  - ks607
  - mc4509

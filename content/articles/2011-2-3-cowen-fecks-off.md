@@ -20,6 +20,7 @@ tags:
  - politics
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - hm1010

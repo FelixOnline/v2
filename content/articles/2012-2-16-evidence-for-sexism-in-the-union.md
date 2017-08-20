@@ -22,6 +22,7 @@ tags:
  - comment
  - imported
  - imported_comments
+ - multi-author
 authors:
  - ko409
  - ml2909

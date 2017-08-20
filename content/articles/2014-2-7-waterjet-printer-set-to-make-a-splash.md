@@ -19,6 +19,7 @@ categories:
 tags:
  - science
  - imported
+ - multi-author
 authors:
  - arj212
  - jal08

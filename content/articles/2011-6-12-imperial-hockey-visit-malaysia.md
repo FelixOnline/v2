@@ -19,6 +19,7 @@ categories:
 tags:
  - sport
  - imported
+ - multi-author
 authors:
  - cjb07
  - jbp07

@@ -19,6 +19,7 @@ categories:
 tags:
  - arts
  - imported
+ - multi-author
 authors:
  - jal08
  - ml2510

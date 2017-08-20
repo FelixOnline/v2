@@ -20,6 +20,7 @@ tags:
  - science
  - imported
  - image
+ - multi-author
 authors:
  - fm810
  - mc4509

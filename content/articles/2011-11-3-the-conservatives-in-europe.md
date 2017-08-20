@@ -19,6 +19,7 @@ categories:
 tags:
  - politics
  - imported
+ - multi-author
 authors:
  - pk1811
  - rj408

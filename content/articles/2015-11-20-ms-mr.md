@@ -20,6 +20,7 @@ tags:
  - music
  - imported
  - image
+ - multi-author
 authors:
  - cet13
  - ygr12

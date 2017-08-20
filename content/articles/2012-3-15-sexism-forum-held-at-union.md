@@ -22,6 +22,7 @@ tags:
  - news
  - imported
  - imported_comments
+ - multi-author
 authors:
  - kw911
  - pk1811

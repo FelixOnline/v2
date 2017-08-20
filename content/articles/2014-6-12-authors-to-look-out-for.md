@@ -19,6 +19,7 @@ categories:
 tags:
  - books
  - imported
+ - multi-author
 authors:
  - me1711
  - mtm10

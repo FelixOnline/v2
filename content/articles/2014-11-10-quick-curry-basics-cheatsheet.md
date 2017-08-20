@@ -19,6 +19,7 @@ categories:
 tags:
  - food
  - imported
+ - multi-author
 authors:
  - mwt12
  - ps3110

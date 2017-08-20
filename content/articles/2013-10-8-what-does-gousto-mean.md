@@ -20,6 +20,7 @@ tags:
  - food
  - imported
  - image
+ - multi-author
 authors:
  - cac111
  - jal08

@@ -20,6 +20,7 @@ tags:
  - science
  - imported
  - image
+ - multi-author
 authors:
  - jcw108
  - tna08

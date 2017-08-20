@@ -20,6 +20,7 @@ tags:
  - music
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - sh1207

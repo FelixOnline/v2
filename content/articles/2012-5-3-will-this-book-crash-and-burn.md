@@ -20,6 +20,7 @@ tags:
  - books
  - imported
  - image
+ - multi-author
 authors:
  - ams111
  - rjd08

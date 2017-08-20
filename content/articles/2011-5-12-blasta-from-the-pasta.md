@@ -19,6 +19,7 @@ categories:
 tags:
  - politics
  - imported
+ - multi-author
 authors:
  - cjb07
  - mc2108

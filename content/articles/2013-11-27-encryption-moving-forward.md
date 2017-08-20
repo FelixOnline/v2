@@ -20,6 +20,7 @@ tags:
  - tech
  - imported
  - image
+ - multi-author
 authors:
  - pk1811
  - ywc110

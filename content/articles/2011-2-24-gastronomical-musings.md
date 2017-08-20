@@ -19,6 +19,7 @@ categories:
 tags:
  - food
  - imported
+ - multi-author
 authors:
  - dhl106
  - nm1010

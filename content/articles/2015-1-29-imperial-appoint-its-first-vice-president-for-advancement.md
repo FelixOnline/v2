@@ -22,6 +22,7 @@ tags:
  - news
  - imported
  - imported_comments
+ - multi-author
 authors:
  - cac111
  - ps3110

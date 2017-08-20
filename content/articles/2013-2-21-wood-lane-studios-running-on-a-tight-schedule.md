@@ -19,6 +19,7 @@ categories:
 tags:
  - news
  - imported
+ - multi-author
 authors:
  - nj1211
  - tna08

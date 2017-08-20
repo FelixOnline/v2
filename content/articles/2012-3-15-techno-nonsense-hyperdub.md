@@ -20,6 +20,7 @@ tags:
  - music
  - imported
  - image
+ - multi-author
 authors:
  - ig711
  - sh1207

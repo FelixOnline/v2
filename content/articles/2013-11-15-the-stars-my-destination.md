@@ -19,6 +19,7 @@ categories:
 tags:
  - books
  - imported
+ - multi-author
 authors:
  - jal08
  - mtm10

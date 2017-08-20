@@ -22,6 +22,7 @@ tags:
  - arts
  - imported
  - imported_comments
+ - multi-author
 authors:
  - idb10
  - mc4509

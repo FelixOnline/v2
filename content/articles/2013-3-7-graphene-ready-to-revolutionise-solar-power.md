@@ -20,6 +20,7 @@ tags:
  - science
  - imported
  - image
+ - multi-author
 authors:
  - ad4010
  - jal08

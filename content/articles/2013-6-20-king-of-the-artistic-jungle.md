@@ -20,6 +20,7 @@ tags:
  - books
  - imported
  - image
+ - multi-author
 authors:
  - at3209
  - tna08

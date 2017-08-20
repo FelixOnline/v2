@@ -20,6 +20,7 @@ tags:
  - food
  - imported
  - image
+ - multi-author
 authors:
  - ap1702
  - felix

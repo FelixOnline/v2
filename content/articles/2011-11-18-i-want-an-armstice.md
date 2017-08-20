@@ -22,6 +22,7 @@ tags:
  - comment
  - imported
  - imported_comments
+ - multi-author
 authors:
  - sf305
  - sjw209

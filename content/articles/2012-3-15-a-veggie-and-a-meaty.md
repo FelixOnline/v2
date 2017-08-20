@@ -20,6 +20,7 @@ tags:
  - food
  - imported
  - image
+ - multi-author
 authors:
  - cc3710
  - hc1409

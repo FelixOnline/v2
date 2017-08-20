@@ -19,6 +19,7 @@ categories:
 tags:
  - business
  - imported
+ - multi-author
 authors:
  - felix
  - sa1908

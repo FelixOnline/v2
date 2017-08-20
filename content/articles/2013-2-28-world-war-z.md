@@ -20,6 +20,7 @@ tags:
  - books
  - imported
  - image
+ - multi-author
 authors:
  - me1711
  - tna08

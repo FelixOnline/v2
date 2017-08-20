@@ -20,6 +20,7 @@ tags:
  - tech
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - srg03

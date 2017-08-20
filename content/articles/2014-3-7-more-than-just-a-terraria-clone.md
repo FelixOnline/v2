@@ -19,6 +19,7 @@ categories:
 tags:
  - games
  - imported
+ - multi-author
 authors:
  - css11
  - jal08

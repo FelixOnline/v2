@@ -19,6 +19,7 @@ categories:
 tags:
  - news
  - imported
+ - multi-author
 authors:
  - dr710
  - felix

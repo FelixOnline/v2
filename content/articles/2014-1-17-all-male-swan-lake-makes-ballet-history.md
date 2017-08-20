@@ -22,6 +22,7 @@ tags:
  - arts
  - imported
  - imported_comments
+ - multi-author
 authors:
  - cfc111
  - jal08

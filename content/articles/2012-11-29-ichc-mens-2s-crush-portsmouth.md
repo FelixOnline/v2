@@ -22,6 +22,7 @@ tags:
  - sport
  - imported
  - imported_comments
+ - multi-author
 authors:
  - jlc08
  - tna08

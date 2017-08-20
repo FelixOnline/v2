@@ -20,6 +20,7 @@ tags:
  - fashion
  - imported
  - image
+ - multi-author
 authors:
  - ay310
  - felix

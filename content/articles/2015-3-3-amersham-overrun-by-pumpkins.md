@@ -20,6 +20,7 @@ tags:
  - clubs-and-socs
  - imported
  - image
+ - multi-author
 authors:
  - ecj13
  - ps3110

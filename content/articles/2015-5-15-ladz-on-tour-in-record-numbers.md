@@ -20,6 +20,7 @@ tags:
  - clubs-and-socs
  - imported
  - image
+ - multi-author
 authors:
  - ad4812
  - cj914

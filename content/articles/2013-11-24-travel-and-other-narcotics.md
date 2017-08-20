@@ -22,6 +22,7 @@ tags:
  - travel
  - imported
  - imported_comments
+ - multi-author
 authors:
  - ftravel
  - jal08

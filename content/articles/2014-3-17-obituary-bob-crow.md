@@ -19,6 +19,7 @@ categories:
 tags:
  - features
  - imported
+ - multi-author
 authors:
  - baf12
  - jal08

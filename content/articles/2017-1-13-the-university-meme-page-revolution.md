@@ -20,6 +20,7 @@ tags:
  - features
  - imported
  - image
+ - multi-author
 authors:
  - cet13
  - pmb14

@@ -20,6 +20,7 @@ tags:
  - tech
  - imported
  - image
+ - multi-author
 authors:
  - tecfelix
  - tna08

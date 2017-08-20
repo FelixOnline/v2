@@ -20,6 +20,7 @@ tags:
  - business
  - imported
  - image
+ - multi-author
 authors:
  - fbusines
  - pk1811

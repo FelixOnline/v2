@@ -19,6 +19,7 @@ categories:
 tags:
  - tech
  - imported
+ - multi-author
 authors:
  - fa608
  - nm1010

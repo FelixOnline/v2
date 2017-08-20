@@ -20,6 +20,7 @@ tags:
  - music
  - imported
  - image
+ - multi-author
 authors:
  - ar707
  - im808

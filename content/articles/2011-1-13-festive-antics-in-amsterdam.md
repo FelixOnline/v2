@@ -19,6 +19,7 @@ categories:
 tags:
  - travel
  - imported
+ - multi-author
 authors:
  - extuser0
  - felix

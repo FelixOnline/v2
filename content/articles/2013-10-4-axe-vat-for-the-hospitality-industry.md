@@ -20,6 +20,7 @@ tags:
  - business
  - imported
  - image
+ - multi-author
 authors:
  - jal08
  - jt2010

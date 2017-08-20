@@ -19,6 +19,7 @@ categories:
 tags:
  - tech
  - imported
+ - multi-author
 authors:
  - cb908
  - extuser0

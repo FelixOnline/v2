@@ -22,6 +22,7 @@ tags:
  - fashion
  - imported
  - imported_comments
+ - multi-author
 authors:
  - ay310
  - pk1811

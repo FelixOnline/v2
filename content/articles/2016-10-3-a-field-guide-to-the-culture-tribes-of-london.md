@@ -20,6 +20,7 @@ tags:
  - culture
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - ff712

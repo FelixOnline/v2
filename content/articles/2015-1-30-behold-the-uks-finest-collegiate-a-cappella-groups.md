@@ -20,6 +20,7 @@ tags:
  - features
  - imported
  - image
+ - multi-author
 authors:
  - ps3110
  - xc3313

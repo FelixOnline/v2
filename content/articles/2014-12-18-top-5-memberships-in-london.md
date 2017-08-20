@@ -22,6 +22,7 @@ tags:
  - arts
  - imported
  - imported_comments
+ - multi-author
 authors:
  - extuser0
  - ff712

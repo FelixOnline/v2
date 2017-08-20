@@ -20,6 +20,7 @@ tags:
  - fashion
  - imported
  - image
+ - multi-author
 authors:
  - felix
  - fma09

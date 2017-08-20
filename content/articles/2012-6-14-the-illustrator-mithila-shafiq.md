@@ -20,6 +20,7 @@ tags:
  - phoenix
  - imported
  - image
+ - multi-author
 authors:
  - cmt09
  - jal08

@@ -20,6 +20,7 @@ tags:
  - tech
  - imported
  - image
+ - multi-author
 authors:
  - nm1010
  - srg03

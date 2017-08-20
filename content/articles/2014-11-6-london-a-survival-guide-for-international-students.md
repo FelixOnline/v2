@@ -19,6 +19,7 @@ categories:
 tags:
  - welfare
  - imported
+ - multi-author
 authors:
  - bwh12
  - wic112

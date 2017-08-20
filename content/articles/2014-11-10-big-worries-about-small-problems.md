@@ -20,6 +20,7 @@ tags:
  - welfare
  - imported
  - image
+ - multi-author
 authors:
  - ps3110
  - ze111

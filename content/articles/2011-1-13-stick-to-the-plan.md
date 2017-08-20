@@ -19,6 +19,7 @@ categories:
 tags:
  - travel
  - imported
+ - multi-author
 authors:
  - ks607
  - yll08

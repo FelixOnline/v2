@@ -22,6 +22,7 @@ tags:
  - politics
  - imported
  - imported_comments
+ - multi-author
 authors:
  - klh110
  - tna08

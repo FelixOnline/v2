@@ -19,6 +19,7 @@ categories:
 tags:
  - comment
  - imported
+ - multi-author
 authors:
  - nm1010
  - sf305

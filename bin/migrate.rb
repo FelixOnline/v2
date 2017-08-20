@@ -78,13 +78,15 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
 
   md << "\n# Article Taxonomies"
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
+  authors = (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort
   md << "categories:\n - #{category}"
   md << "tags: \n - #{category}"
   md << " - imported"
   md << " - image" if r["image_path"] && r["image_path"].length > 0
   md << " - imported_comments" if r["comments"].length > 0
+  md << " - multi-author" if authors.length > 1
   md << "authors:"
-  (r["authors"].downcase.split(",") + [r["text_author"]]).uniq.compact.sort.each do |author|
+  authors.each do |author|
     md << " - #{author}"
   end
   md << "highlights:"

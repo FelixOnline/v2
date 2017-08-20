@@ -22,6 +22,7 @@ tags:
  - sport
  - imported
  - imported_comments
+ - multi-author
 authors:
  - an1910
  - pk1811

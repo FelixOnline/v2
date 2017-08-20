@@ -19,6 +19,7 @@ categories:
 tags:
  - comment
  - imported
+ - multi-author
 authors:
  - ad1007
  - ks607

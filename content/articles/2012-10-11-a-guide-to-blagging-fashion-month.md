@@ -20,6 +20,7 @@ tags:
  - fashion
  - imported
  - image
+ - multi-author
 authors:
  - stv07
  - tna08

@@ -19,6 +19,7 @@ categories:
 tags:
  - comment
  - imported
+ - multi-author
 authors:
  - jal08
  - tad08

@@ -19,6 +19,7 @@ categories:
 tags:
  - food
  - imported
+ - multi-author
 authors:
  - cac111
  - jal08

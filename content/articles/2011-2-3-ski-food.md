@@ -22,6 +22,7 @@ tags:
  - food
  - imported
  - imported_comments
+ - multi-author
 authors:
  - felix
  - gm1509
