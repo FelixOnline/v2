@@ -1,0 +1,95 @@
+.post-title {
+    @include relative-font-size(3);
+}
+
+.post-subtitle {
+    font-style: italic;
+}
+
+.post-authors {
+    margin-bottom: $spacing-unit / 2;
+    padding: ($spacing-unit / 4) 0;
+    border-top: solid black;
+    border-bottom: solid black;
+    white-space: nowrap;
+    width: 120px;
+}
+
+.post-authors a {
+    color: $text-color;
+}
+
+.post-meta {
+    margin-bottom: $spacing-unit / 2;
+}
+
+.post-meta time {
+    color: $text-color;
+}
+
+.post-image {
+    margin-bottom: $spacing-unit;
+}
+
+.post-image img {
+    display: none;
+}
+
+.post-image figcaption {
+    font-style: italic;
+    margin-top: $spacing-unit / 4;
+}
+
+.post-image-container {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.post-content p:first-child::first-letter {
+    @include relative-font-size(5);
+
+    float: left;
+    margin-top: 3px;
+    padding-bottom: 6px;
+    padding-right: 10px;
+    line-height: $base-line-height / 2;
+    font-style: normal;
+    font-family: $heading-font-family;
+}
+
+.post-content p:not(:first-child) {
+    text-indent: 15px;
+}
+
+.post-content {
+    padding-bottom: $spacing-unit / 2;
+    border-bottom: 1px solid black;
+}
+
+.post-tags {
+    margin-bottom: $spacing-unit;
+}
+
+.post-tags a {
+    color: white;
+    @include relative-font-size(0.75);
+}
+
+.post-tags span {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.post-tags div.tag {
+    display: inline;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 2px 10px;
+    background: black;
+}
+
+.post-comments {
+    margin-bottom: $spacing-unit;
+}

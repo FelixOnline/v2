@@ -24,7 +24,7 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $headline-section-height: 300px;
 
 // Width of the content area
-$content-width:    1000px !default;
+$content-width:    800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
@@ -50,5 +50,6 @@ $on-laptop:        800px !default;
 @import
   "theme/base",
   "theme/layout",
-  "theme/syntax-highlighting"
+  "theme/syntax-highlighting",
+  "theme/article"
 ;
