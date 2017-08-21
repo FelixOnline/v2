@@ -14,7 +14,7 @@ rm -rf public/*
 
 echo "Generating site"
 echo "!*" > public/.gitignore
-hugo
+bin/hugo
 touch public/.nojekyll
 
 echo "Updating gh-pages branch"
