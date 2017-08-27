@@ -8,7 +8,9 @@
   {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
   {{ $firstHeadline := index $headlinePosts 0 }}
-  <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image "https://" "" }}&w=400)"></div>
+  <a href="{{ $firstHeadline.Permalink }}">
+    <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image "https://" "" }}&w=400)"></div>
+  </a>
 
   <div class="headline-summaries">
     {{ range first 3 $headlinePosts }}

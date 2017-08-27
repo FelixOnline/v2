@@ -20,8 +20,10 @@
     <div class="site-nav">
       {{ range $name := .Site.Params.displayCategories }}
         <span class="page-link">
-          <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
-          <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">{{ $name }}</a>
+          <a href="{{ $.Site.BaseURL }}/categories/{{ $name }}">
+            <object class="icon" type="image/png" data="{{ $.Site.BaseURL }}icons/png/{{ $name }}1.png"></object>
+            {{ $name }}
+          </a>
         </span>
       {{ end }}
     </div>
