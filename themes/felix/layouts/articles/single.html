@@ -20,13 +20,13 @@
   </header>
 
   <div class="post-image">
-    <div class="post-image-container" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "http://" "" }}&w=500)"></div>
+    <div class="post-image-container" style="background-image: url({{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=1000)"></div>
     <img alt="{{ .Params.image_caption }}">
     <figcaption>{{ .Params.image_caption }}</figcaption>
   </div>
 
   <!-- <figure>
-    <img alt="{{ .Params.image_caption }}" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "http://" "" }}&w=500">
+    <img alt="{{ .Params.image_caption }}" src="{{ .Site.Params.imageProxy }}{{ replace .Params.image "https://" "" }}&w=500">
     <figcaption>{{ .Params.image_caption }}</figcaption>
   </figure> -->
 
