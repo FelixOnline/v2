@@ -1,0 +1,16 @@
+/* Footer styles */
+
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+}
+
+// NEW
+.footer-slogan {
+  padding: $spacing-unit * 0.4 0;
+  font-family: $heading-font-family;
+  font-style: italic;
+  text-align: center;
+  border-bottom: 1px solid $grey-color-light;
+
+  color: $grey-color-dark;
+}

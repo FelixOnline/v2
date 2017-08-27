@@ -1,0 +1,64 @@
+/**
+ * Site header
+ */
+ .site-header {
+    border-bottom: 1px solid $grey-color-light;
+    min-height: $spacing-unit * 2;
+
+    // NEW
+    text-align: center;
+  }
+
+  .site-title {
+    @include relative-font-size(2.4);
+    font-weight: 300;
+    line-height: $base-line-height * $base-font-size * 2.6;
+    letter-spacing: 3px;
+
+    &,
+    &:visited {
+      color: $text-color;
+    }
+
+    // NEW
+    font-family: $heading-font-family;
+  }
+
+  .site-nav {
+    line-height: $base-line-height * $base-font-size * 2;
+
+    // NEW
+    border-top: 1px solid $grey-color-light;
+
+    .page-link {
+      line-height: $base-line-height * 0.8;
+      font-weight: bold;
+
+      // NEW
+      @include relative-font-size(0.8);
+
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) {
+        margin-right: 33px;
+      }
+
+      // NEW
+      a {
+        color: $text-color;
+      }
+    }
+  }
+
+  @include media-query($on-palm) {
+    // TEMP
+    .site-nav {
+      display: none;
+    }
+  }
+
+  .icon {
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 11px;
+  }
